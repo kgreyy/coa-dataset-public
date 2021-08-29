@@ -1,0 +1,824 @@
+	AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+	
+
+COMPLIANCE ISSUES
+
+
+
+Delayed renewal of Internet Services Contract 
+
+1)		The efficient and timely renewal of the Court’s Internet Service Provider (ISP) contract amounting to P1.200 million was not met in view of delays in the gathering of documents to support its renewal.
+
+		
+
+	1)		The Guidelines on the Procurement of Water, Electricity, Telecommunications and Internet Service Providers, as amended under GPPB Resolution No. 41-2017 provides that:
+
+3.3.1.2 At the end of each year, however, the procuring entity must assess the quality of service provided by its ISP.   For instance, it must compare the cost charged by said ISP and the range of services it offers as against other service providers in the area.  It may also consider new technologies that may prove less costly or those that are more advantageous to the government in terms of use, capacity and services offered, e.g. bandwidth, speed, platform, additional services, such as, but not limited to cloud computing, cloud storage, etc..
+
+
+
+3.2.1.3 If results of assessment or cost benefit analysis continue to favor the existing provider, then the procuring entity may simply renew its services.  If it does not, then the procuring entity should bid said services in accordance with Subsection 3.2.2 of the Guidelines.
+
+	2)		Rule II - Procurement Planning under the 2016 Revised IRR of RA 9184 provides that:
+
+7.1.  All procurement shall be within the approved budget of the Procuring Entity and should be meticulously and judiciously planned by the Procuring Entity. xxx.
+
+	3)		Audit verification showed that when the Court’s ISP contract with the Eastern Telecommunication Philippines, Incorporated (ETPI) covering a one-year period in the amount of P1,200,000.00 was set to expire on November 27, 2019, and in compliance with the above provisions of the Guidelines, a comparative analysis was conducted by the Management Information System Division (MISD) gathering price quotations from available current ISP providers in the market such as GLOBE, PLDT and Converge. 
+
+	
+
+	4)		The assessment has resulted in favor of the current ISP with the proposed upgrade providing an increase in the bandwidth (the maximum amount of data transmitted over an internet connection in a given amount of time) from the existing 100 Mbps to 200 Mbps, in the same amount of P100,000.00 per month or an aggregate amount of P1,200,000.00 for one year, to be the most advantageous to the Court. 
+
+	
+
+	5)		Thus, in its En Banc Resolution under  CTA A.M. No. 25-10-2019 dated October 21, 2019, the Court approved the recommendation of its Bids and Awards Committee (BAC) under BAC Resolution No. 44-2019 dated September 13, 2019, for the renewal of the Contract with ETPI.
+
+	
+
+	6)		The Chief Judicial Staff Officer of the MISD likewise certified that the ETPI has completed the upgrade of the CTA Internet bandwidth from 100 to 200 Mbps.
+
+	
+
+	7)		Audit revealed however, that the Court’s contract with the ETPI was not promptly renewed when it expired in November 2019, due to delays in the gathering of the necessary documents, but was only belatedly raised one day prior to the end of the one-year period of extension, or on November 26, 2020.   This was made to provide the basis for the payment of services rendered, as the internal arrangement made was for the contractor to provide uninterrupted service while the renewal process is ongoing.  
+
+	
+
+	8)		While it was to the advantage of the Court, this set up should not be seen as an alternative to an approved existing contract prior to execution, as the cost incurred may be deemed ineligible.  Rather, Management could have provided ample lead time to provide the necessary requirements when contracts are approaching their expiration.
+
+	
+
+	9)		The meticulous and judicious planning by the Procuring Entity permits the creation of a procurement schedule, which establishes the timelines for carrying out each step in the procurement process up to contract award and the fulfillment of the obligation.
+
+	
+
+	10)		The Management, per inquiry by the team, reasoned out that the compliance with the Secretary’s Certificate from the contractor took some time to be approved at their end owing to the strict adherence to the agency’s requirements.
+
+
+
+	11)		We recommended and Management agreed to require the Chief Judicial Staff Officer, MISD to:
+
+
+
+a)	Monitor all contracts that need periodic renewal based on the result of assessment or cost benefit analysis that continued to favor the existing provider;
+
+
+
+b)	Immediately initiate the procurement process to replace the expired contracts so that existing contract is  not  automatically extended beyond the contract period; and
+
+
+
+c)	Strictly adhere to the Guidelines on the Procurement of Water, Electricity and Internet Service Provider as amended under GPPB Resolution No. 41-2017.
+
+
+
+Issuance of Inventory Custodian Slip
+
+2)		Semi Expendable Properties of the Court in the total amount of P0.562 million were issued without the required Inventory Custodian Slip (ICS) duly received by end users, thus accountability was not established.
+
+	
+
+	1)		Section 11, Chapter 8 of the Government Accounting Manual (GAM) Volume 1 prescribes the use of Inventory Custodian Slip (ICS) Appendix 59 which shall be issued to end users of Semi-Expendable Property to establish accountability over them. Liability shall be extinguished upon return of the item to the Property and Supply Division/Unit or in case of loss, upon approval of the relief from accountability.
+
+	
+
+	2)		Examination of the Semi-expendable inventory accounts revealed that 544 items with acquisition less that P15,000.00 in the total amount of P562,012.78 as presented in Table No. 1 were issued to the end users without the proper supporting ICS form as required under the aforementioned guidelines. 
+
+Table No. 1: Semi-Expendable properties without ICS
+
+Semi-Expendable Inventory Item No.
+
+Item
+
+Qty
+
+ Unit Cost 
+
+ Total Amount 
+
+20CTASE-15-1
+
+ELECTRIC FAN
+
+1
+
+P           856.86
+
+P           856.86
+
+20CTASE-15-2
+
+ELECTRIC FAN
+
+1
+
+856.86
+
+856.86
+
+20CTASE-15-3
+
+ELECTRIC FAN
+
+1
+
+856.86
+
+856.86
+
+20CTASE-15-4
+
+ELECTRIC FAN
+
+1
+
+856.86
+
+856.86
+
+20CTASE-21-1 to 21-81
+
+AUTOMATIC LIQUID DISPENSER
+
+81
+
+3,500.00
+
+283,500.00
+
+20CTASE-14-1
+
+COMPUTER KEYBOARD
+
+1
+
+365.00
+
+365.00
+
+20CTASE-14-2
+
+COMPUTER KEYBOARD
+
+1
+
+365.00
+
+365.00
+
+20CTASE-14-3
+
+COMPUTER KEYBOARD
+
+1
+
+365.00
+
+365.00
+
+20CTASE-26-4
+
+SOFTWARE (MS OFFICE 2019)
+
+1
+
+12,175.00
+
+12,175.00
+
+20CTASE-26-5
+
+SOFTWARE (MS OFFICE 2019)
+
+1
+
+12,175.00
+
+12,175.00
+
+20CTASE-26-6
+
+SOFTWARE (MS OFFICE 2019)
+
+1
+
+12,175.00
+
+12,175.00
+
+20CTASE-39-1 to 39-6
+
+CLIPTYPE WEBCAM
+
+6
+
+990.00
+
+5,940.00
+
+20CTASE-40-1 to 40-216
+
+DESKTOP TYPE WEBCAM
+
+216
+
+490.00
+
+105,840.00
+
+20CTASE-41-1 to 41-8
+
+HEADPHONE
+
+8
+
+1,266.00
+
+10,128.00
+
+20CTASE-42-1 to 42-215
+
+HEADSET
+
+215
+
+341.00
+
+73,315.00
+
+20CTASE-33
+
+CORDLESS TELEPHONE
+
+1
+
+1,499.75
+
+1,499.75
+
+20CTASE-83
+
+WOODEN OPEN SHELVES
+
+1
+
+6,746.42
+
+6,746.42
+
+20CTASE-84
+
+WOODEN OPEN SHELVES
+
+1
+
+12,079.65
+
+12,079.65
+
+20CTASE-85
+
+WOODEN OPEN SHELVES
+
+1
+
+3,326.11
+
+3,326.11
+
+20CTASE-86
+
+WOODEN OPEN SHELVES
+
+1
+
+6,962.87
+
+6,962.87
+
+20CTASE-87
+
+WOODEN OPEN SHELVES
+
+1
+
+4,214.71
+
+4,214.71
+
+20CTASE-88
+
+WOODEN OPEN SHELVES
+
+1
+
+4,334.86
+
+4,334.86
+
+20CTASE-89
+
+WOODEN OPEN SHELVES
+
+1
+
+3,077.97
+
+3,077.97
+
+ 
+
+ TOTAL
+
+544
+
+ 
+
+P     562,012.78 
+
+	3)		The inability of the Property Custodian to issue the required ICS to the end user of semi expendable property hindered the establishment of accountability for the said properties as there was no evidence of actual receipt by the end-user.
+
+	
+
+	4)		In our interview, the Property Custodian confirmed the inadvertence brought about by pandemic restrictions and other intervening matters which were prioritized over the others.  There were also instances that semi-expendable equipment was immediately installed upon delivery due to urgent necessities thus, unable to readily issue ICS.
+
+	
+
+	5)		We recommended and Management agreed to direct the Property Custodian to:
+
+	
+
+a)	Immediately prepare the ICS to all individual end-users of all the semi expendable properties  presented in Table No.1 in order to establish proper responsibility and accountability thereof; and
+
+
+
+b)	Regularly prepare ICS upon issuance of any item of Semi-expendable property as reflected in the submitted monthly Report of Supplies and Materials Issued (RSMI).
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	OTHER COMPLIANCE ISSUES
+
+		Gender and Development (GAD)
+
+	
+
+3)		Despite an allocation of P253.455 million for GAD activities for CY 2020 or 52.67 percent of the agency’s total appropriations of P481.259 million, the agency was only able to implement two out of the 11 planned activities for the year.  Expenditures incurred for the activities totaled P145.578 million with related attributions made, or 57.44 percent of the total allocated budget, while nine activities remained either partially implemented or not implemented at all,  thus not attaining the objectives and purposes of the planned activities.
+
+	
+
+	1)		Section 31 of the General Provisions of the General Appropriations Act (GAA) or Republic Act (RA) No.11465 for FY 2020 requires that “All agencies of the government shall formulate a GAD Plan and Budget designed to address gender issues within their concerned sectors or mandate and implement the applicable provisions under RA No. 9710 or the Magna Carta of Women, Convention on the Elimination of All Forms of Discrimination Against Women, the Beijing Platform for Action, the Philippine Plan for Gender-Responsive Development (1995-2025) and the Philippine Development Plan (2017-2022)”.
+
+	
+
+	2)		Under the same provision of the GAA, the GAD Plan shall be integrated in the regular activities of the agencies which shall be at least five percent (5%) of their budgets. For this purpose, activities currently being undertaken by agencies which relate to GAD or those that contribute to poverty alleviations, economic empowerment especially of marginalized women, protection, promotion and fulfillment of women’s human rights, and practice of gender-responsive governance are considered sufficient compliance with said requirement. Utilization of GAD budget shall be evaluated based on the GAD performance indicators identified by said agencies.
+
+
+
+	3)		The Court’s GAD Plan and Budget duly endorsed by the Philippine Commission on Women (PCW) and its Accomplishment Report were submitted by the agency to the COA team last February 15, 2021. It approved and allocated budget in the total amount of P253,455,192.55 or 52.67 percent of its total budget in the GAA of P481,259,000.00 for FY 2020.
+
+	
+
+	4)		Of the 11 GAD Planned Activities as summarized in Table No. 2,  only two activities or 18.18 percent thereof were accomplished, with corresponding expenditures incurred totaling P696,187.67 including partially implemented activities or 0.14 percent of the total budget of the GAA, significant details of which are in Table No. 2.
+
+	
+
+	
+
+Table No. 2: GAD Planned Activities with corresponding budget allocation
+
+ and actual expenditures
+
+GAD Planned Activity
+
+Approved Budget Allocation
+
+Actual Expenditures
+
+%
+
+Variance
+
+Implemented
+
+ 
+
+ 
+
+
+
+ 
+
+Finalization of GAD Agenda
+
+P       59,606.67
+
+P      20,689.66 
+
+34.71%
+
+P      38,917.01
+
+Preparation of Annual GAD Plan and Budget (GPB) and GAD Accomplishment Report (GAR)
+
+976,060.00
+
+56,282.00
+
+5.77%
+
+919,778.00
+
+Sub totals
+
+P  1,035,666.67
+
+P      76,971.66
+
+7.43%
+
+P    958,695.01
+
+Partially Implemented
+
+ 
+
+ 
+
+
+
+
+
+Development and Distribution of IEC Materials based on Client Needs Assessment (CNA)
+
+P       10,000.00
+
+P               0.00
+
+0.00%
+
+P      10,000.00
+
+GFPS regular monthly meetings/workshops
+
+176,740.00
+
+396,263.60
+
+224.21%
+
+-219,523.60
+
+Seminar/Workshop on GAD, GAD laws and/or emerging gender issues for all CTA employees
+
+3,764,050.00
+
+61,150.00
+
+1.62%
+
+3,702,900.00
+
+Attendance to specialized GAD courses for CTA's internal Resource Persons
+
+25,000.00
+
+0.00
+
+0.00%
+
+25,000.00
+
+Conduct various workshops, meetings, symposia on GAD related  concerns/mandate
+
+407,273.33
+
+161,802.41
+
+39.73%
+
+245,470.92
+
+Sub totals
+
+P  4,383,063.33
+
+P   619,216.01
+
+14.13%
+
+P  3,763,847.32
+
+Total Implemented and Partially Implemented
+
+P  5,418,730.00
+
+P   696,187.67
+
+12.85%
+
+P  4,722,542.33
+
+Not Implemented
+
+ 
+
+ 
+
+
+
+
+
+Symposia on Magna Carta of Women (RA 9710)
+
+P       82,598.89
+
+P              0.00
+
+0.00%
+
+P       82,598.89
+
+Conduct of write shop/brainstorming to come up with written policies on the collection and maintenance of sex-disaggregated database, conduct of organization-wide gender audit and capacity-building plan for GFPS and HR of organization
+
+804,006.67
+
+0.00
+
+0.00%
+
+804,006.67
+
+Participation in PCW-led activities in observance of the 2020 National Women's Month celebration
+
+17,578.89
+
+0.00
+
+0.00%
+
+17,578.89
+
+Procurement of GAD advocacy equipment
+
+200,000.00
+
+0.00
+
+0.00%
+
+200,000.00
+
+Human Resource Division Programs and Systems
+
+16,767,613.00
+
+9,775,518.38
+
+58.30%
+
+6,992,094.62
+
+Adjudication of Tax Cases
+
+230,164,665.10
+
+135,106,658.41
+
+58.70%
+
+95,058,006.69
+
+Sub totals
+
+P 248,036,462.55
+
+P 144,882,176.79
+
+58.41%
+
+P 103,154,285.76
+
+Grand Total
+
+P 253,455,192.55
+
+P 145,578,364.46
+
+57.44%
+
+P 107,876,828.09
+
+	5)		Audit revealed that the actual expenditures made on both the implemented and partially implemented activities totaling P696,187.67 or 0.27 percent did not even achieve one percent of the allocated budget of P253,455,192.55. Out of 11 planned GAD activities, two are implemented, five are partially implemented and four are not implemented at all. The partially and not implemented activities have definitely contributed or affected the intent of legislation in addressing the gender issues within their concerned sectors or mandate.
+
+	
+
+	6)		In our interview, Management commented that, due to the restriction to congregate not more than 10 persons and the enforcing of skeletal workforce in the office due to the current pandemic, their activities had focused mostly on webinars and other social platforms such that related expenditures availed are in their bare minimum. 
+
+
+
+	7)		While we considered the efforts exerted by Management in implementing its GAD program for CY 2020 despite the restrictions and difficulties brought about by the pandemic, the commitment to pertinent provisions of prevailing laws and regulations are nonetheless suggested, requiring utilization of available funds for the implementation of GAD Programs.
+
+	
+
+	8)		In view of the very low expenditure and accomplishment rate, the gender issues and concerns that were supposed to be addressed by the GAD Plan were not surely achieved.
+
+	
+
+	9)		We recommended that Management direct the GAD Focal Point System (GFPS) to:
+
+	
+
+a)	Conceptualize a more achievable GAD program taking into account the current existing social and physical restrictions brought about by the pandemic and ensure compliance with pertinent provisions of the GAA and the Magna Carta of Women by providing more feasible GAD Plan to address the issues and concerns of intended clientele; and
+
+
+
+b)	Efficiently and effectively utilize the amount allocated to GAD programs and activities of the agency.
+
+
+
+	10)		Management assured that the CTA GFPS is committed to the strict and faithful compliance of its GAD audit observations to better implement its yearly CTA GAD Plan and Budget.
+
+	
+
+	Senior Citizens (SC) and Persons with Disability (PWD)
+
+4)		The CTA has complied with Section 32 of the General Provisions of RA No. 11465 (FY 2020 GAA) on the formulation and implementation of programs, projects and activities (PPA) for the senior citizens and PWDs. 
+
+	
+
+	
+
+	1)		Section 32 of the GAA for FY 2020 requires all agencies of the government to formulate plans, programs and projects intended to address the concerns of senior citizens and persons with disability (PWDs) insofar as it relates to their mandated functions and integrate the same in their regular activities. Moreover, all government infrastructures and facilities shall provide architectural or structural features, designs or facilities that will reasonably enhance the mobility, safety and welfare of persons with disability pursuant to Batas Pambansa Blg. 344 and RA No. 7277, as amended.
+
+	
+
+	2)		The Court, thru its Special Committee on SC and PWD, implemented the following programs and activities:
+
+	
+
+a)	Continued the Book Club Corner located at the CTA Library. Books, magazines and other reading materials related to mental, health, relaxation and the like, are made available to all CTA employees;
+
+	
+
+b)	Assisted in the formulation of the Health Protocols and awareness campaign to fight COVID-19, in coordination with the Health and Welfare Committee and other CTA Officials;
+
+
+
+c)	Assisted in the information dissemination on the flu vaccination of CTA Employees for the year 2020, also in coordination with the Health and Welfare Committee; and
+
+
+
+d)	Continued to give assistance in all the Thanksgiving Masses held on:
+
+
+
+--		Associate Justice Grulla’s Retirement Ceremony on June 10, 2020
+
+--		CTA Anniversary Thanksgiving on June 16, 2020
+
+--		Associate Justice Victorino’s Retirement Ceremony on August 1, 2020
+
+--		CTA Christmas Thanksgiving on December 17, 2020.
+
+	
+
+	3)		To date, the CTA has 16 Senior Citizens and 93 PWD employees.
+
+	
+
+Withholding and timely remittance of taxes; GSIS contributions and loans; PhilHealth contributions; and Pag-IBIG contributions
+
+5)		In accordance with the Bureau of Internal Revenue (BIR) Regulation No. 10-2008 dated July 8, 2008, RA No. 8291, the Government Service Insurance System (GSIS) Act of 1997, RA No. 7875 as amended by RA No. 9241, the National Health Insurance Act of 1995) and RA No. 9679,  the Home Development Mutual Fund (HDMF) Law of 2009 or Pag-IBIG, the CTA deducted the amount from the employees’ payroll and accordingly remitted the following contributions/loans:
+
+	
+
+	
+
+Table No. 3: Amount Withheld and Remittances of Taxes and Contributions to NGAs
+
+NGAs
+
+Beg. Balance1/1/2020
+
+Withheld/ Contributed in 2020
+
+Total
+
+Remittances in 2020
+
+Balance Unremitted
+
+Remarks
+
+In Philippine Peso
+
+BIR 
+
+3,921,129.78 
+
+39,807,781.33 
+
+43,728,911.11 
+
+39,679,643.82 
+
+4,049,267.29 
+
+The balance as at year-end pertains to taxes withheld in December 2020, due for payment on every 10th day of succeeding month thus remitted in full in January 2021.
+
+GSIS 
+
+            44.27 
+
+21,629,298.62
+
+21,629,342.89 
+
+21,609,047.39 
+
+     20,295.50 
+
+The balances as at year-end pertains to unremitted premiums withheld as at December 31, 2020 remitted in full in January and February 2021.
+
+
+
+PhilHealth 
+
+              0.00   
+
+  1,982,320.58 
+
+  1,982,320.58 
+
+ 1,979,292.98 
+
+       3,027.60 
+
+
+
+Pag-IBIG 
+
+  125,100.95 
+
+  3,194,667.13 
+
+  3,319,768.08 
+
+3,319,068.08 
+
+          700.00 
+
+
+
+
+
+
+
+Property Insurance Law
+
+6)		The agency insured with the GSIS its properties amounting to P188,303,982.03 with the corresponding insurance premiums paid in the amount of P1,017,031.05, in accordance with RA No. 656, otherwise known as the “Property Insurance Law” as amended by PD No. 245 dated July 13, 1973.
+
+
+
+Receipt and Disbursement of Priority Development Assistance Fund (PDAF) and Disbursement Acceleration (DAP) fund
+
+7)		The Court did not receive PDAF and DAP funds for this year and prior years, in compliance with Supreme Court Decision G.R. Nos. 208566 and 209287, respectively.
+
+
+
+Amended Guidelines on Authorized Government Depository Banks (AGDB)
+
+8)		The Court complied with the Department of Finance Circular No. 01-2017 dated May 11, 2017 on the amended guidelines on AGDB. All of its bank accounts are with the Land Bank of the Philippines.
+
+	
+
+	
+
+	
+
+	
+
+Enforcement of Audit Suspensions, Disallowances and Charges
+
+9)		There were no audit suspensions, disallowances and charges issued during the year. Deficiencies noted during the year were either complied with or settled immediately upon communicating to the concerned officials and employees of such findings.  There were also no unsettled audit suspensions, disallowances and charges in prior years.
+
+36
+
+
+
+
+
+
+
+
+

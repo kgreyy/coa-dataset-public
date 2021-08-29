@@ -1,0 +1,4320 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+52 
+ 
+
+PART II - OBSERVATIONS AND RECOMMENDATIONS 
+ 
+ 
+
+FINANCIAL AUDIT 
+  
+Accounting Errors and Omissions 
+ 
+1. The Advances for Payroll and Trust Liabilities accounts have misstatements 
+
+totaling P1,282,035.21, which represents 0.27 percent of its total Assets of 
+P474,574,976.10 as at December 31, 2020 and is lower than the established 
+materiality threshold of P1,529,897.25 or one percent of the total Expenses 
+balance for an expense-driven entity, thus with insignificant impact on the 
+fair presentation of the financial statements (FS) of MPC.  
+
+ 
+1.1. Section 27 of the International Public Sector Accounting Standards (IPSAS) 
+
+1 and Section 15, Chapter 1 of the Government Accounting Manual (GAM) 
+for National Government Agencies (NGAs), Volume I state that “The FS 
+shall present fairly the financial position, financial performance and cash 
+flows of an entity. Fair presentation requires the faithful representation of 
+the effects of transactions, other events, and conditions in accordance with 
+the definitions and recognition criteria for assets, liabilities, revenue, and 
+expenses set out in PPSAS1.” 
+
+ 
+1.2. Moreover, Sections 111 and 112 of Presidential Decree (PD) No. 1445 
+
+require agencies to keep the accounts in such detail as necessary to meet the 
+needs of the agency and at the same time be adequate to furnish the 
+information needed by fiscal or control agencies of the government; and that 
+the highest standard of honesty, objectivity and consistency shall be 
+observed in the keeping of accounts to safeguard against inaccurate or 
+misleading information. Each government agency shall record its financial 
+transactions and operations conformably with IPSAS and in accordance with 
+pertinent laws and regulations. 
+
+ 
+1.3. Our audit of the various accounts of the MPC disclosed errors and omissions 
+
+in several of its accounts in the financial statements totaling P1,282,035.21 
+as shown below: 
+
+ 
+Table 1. Summary of Errors/Misstatements affecting Financial Statements 
+
+Category/ 
+Classification 
+
+Misstatements  
+
+Errors/Audit 
+Observations 
+
+Amount 
+Accounts Affected 
+
+Under / (Over) 
+Statement 
+(In Pesos) (In Pesos) 
+
+Other Current 
+Assets 
+
+Double recording 
+of liquidation 
+
+727,411.02 Advances for Payroll 727,411.02 
+Due to BIR  (19,899.08) 
+
+ 
+1 Renamed to International Public Sector Accounting Standards (IPSAS) with corresponding Philippine Application 
+Guidance, pursuant to COA Resolution No. 2020-001 dated January 9, 2020 
+
+ 
+
+
+
+53 
+ 
+
+Category/ 
+Classification 
+
+Misstatements  
+
+Errors/Audit 
+Observations 
+
+Amount 
+Accounts Affected 
+
+Under / (Over) 
+Statement 
+(In Pesos) (In Pesos) 
+
+Expenses  (747,310.10) 
+Liabilities  Error in recording 
+
+of proceeds from 
+sale of Bid 
+Documents 
+
+554,624.19 Guarantee Income (179,663.96) 
+Trust Liabilities 554,624.19 
+Accumulated 
+Surplus/(Deficit) 
+
+(374,960.23) 
+
+Total Misstatements   1,282,035.21 
+Percentage of Misstatements to Total Assets 
+(P1,282,035.21/P474,574,976.10) 
+
+0.27% 
+
+Total Expenses for the Year Ended December 31, 2020 152,989,724.65 
+Materiality Threshold for Expense-Driven Entity (1% of Expenses)  1,529,897.25 
+Misstatements below Materiality Threshold by 247,862.04 
+
+ 
+1.4. In summary, total misstatements affecting the aforesaid six accounts which 
+
+were not adjusted in the books of MPC during the audit period amounted to 
+P1,282,035.21. This amount does not exceed the established materiality 
+threshold of P1,529,897.25 or one percent of the total expenses for an 
+expense-driven entity; hence,  in view of their  insignificant impact to the 
+accuracy, existence, classification and completeness assertions on the 
+reported balances of affected accounts, the Audit Team rendered an 
+unqualified opinion on the FSs of  MPC. 
+
+ 
+1.5. The details of accounting errors and omissions are as follows: 
+
+ 
+a.) Double recording of liquidations understated the Advances for 
+
+Payroll Account by P727,411.02 and overstated Liabilities and 
+Various Expenses Accounts by P19,899.08 and P747,310.10, 
+respectively 
+
+ 
+1.6. Records showed that liquidations amounting to P727,411.02 for cash 
+
+advances for payroll granted and liquidated in CY 2019, which  were already 
+recorded in the same year, were again recorded in CY 2020, thus double 
+recording of liquidations, details are as follows: 
+ 
+
+Table 2. Summary of Liquidations 
+Date JEV No. Payroll No. Particulars Amount (In Pesos) 
+
+31-Mar-20 2019-03-2-017 2019-03-031 Salaries of Job Order - February  15-28,  2019 
+  
+
+148,338.43  
+
+31-Mar-20 2019-03-2-018 2019-02-026 Graduate Part-time - January  2019 216,843.83  
+
+31-Mar-20 2019-03-2-019 2019-02-029 Student Assistant - January 2019 66,613.20  
+
+31-Mar-20 2019-03-2-020 2019-03-039 Salaries of Job Order - March  1-15,  2019 183,210.44  
+
+
+
+54 
+ 
+
+Date JEV No. Payroll No. Particulars Amount (In Pesos) 
+
+31-Mar-20 2019-03-2-021 2019-03-036 Student Assistant - February 2019 58,561.60  
+
+31-Mar-20 2019-03-2-022 2019-03-037 Overtime Pay Non-teaching (Guard on Duty) 53,843.52  
+
+Total       727,411.02  
+ 
+
+1.7. The effects of the subsequent recording of the aforementioned liquidations 
+on the related account of the financial statements are as follows: 
+ 
+
+Table 3. Summary of Effects on FSs 
+
+Nature of 
+Transactions JEV No. 
+
+Advances 
+from 
+
+Payroll 
+Expenses Liabilities 
+
+(In Pesos) 
+Salaries of Job Order - 
+February  15-28,  2019 
+
+2019-03-2-
+017 148,338.43 (151,365.74) (3,027.31) 
+
+Graduate Part-time - 
+January  2019 
+
+2019-03-2-
+018 216,843.83 (222,354.16) (5,510.33) 
+
+Student Assistant - 
+January 2019 
+
+2019-03-2-
+019 66,613.20 (66,613.20) 0.00 
+
+Salaries of Job Order - 
+March  1-15,  2019 
+
+2019-03-2-
+020 183,210.44 (194,571.88) (11,361.44) 
+
+Student Assistant - 
+February 2019 
+
+2019-03-2-
+021 58,561.60 (58,561.60) 0.00 
+
+Overtime Pay Non-
+teaching (Guard on 
+Duty) 
+
+2019-03-2-
+022 53,843.52 (53,843.52) 0.00 
+
+Total (Over) / Under   727,411.02 (747,310.10) (19,899.08) 
+ 
+
+b.) Proceeds from sale of bid documents amounting to P554,624.19 were 
+improperly recorded as Guarantee Income, hence overstating the 
+Income and the Accumulated Surplus/ (Deficit) accounts by 
+P179,663.96 and P374,960.23, respectively, while understating the 
+Trust Liabilities account by  P554,624.19. 
+
+ 
+1.8. Analysis of the College’s financial statements for CYs 2017 to 2019 revealed 
+
+that the proceeds from the sale of bid documents amounting to P374,960.23 
+were reported as Guarantee Income and formed as part of the College’s 
+business income. Further, in its Statement of Financial Performance for the 
+quarter ending September 30, 2020, the College has reported a total amount 
+of P179,663.96, representing collections from the sale of bid documents.  
+
+ 
+1.9. Management informed the Audit Team that proceeds from sale of bid 
+
+documents were used to pay the Honoraria of Bids and Awards Committee 
+(BAC). However, records showed that such proceeds were improperly 
+recorded as Guarantee Income instead of Trust Liabilities.  
+
+ 
+
+
+
+55 
+ 
+
+1.10. Due to Management’s practice of recording collections of sale of bid 
+documents as Guarantee Income, the Income and Accumulated Surplus / 
+(Deficit) accounts were overstated by the amounts of P179,663.96 and 
+P374,960.23, respectively, while the corresponding Trust Liabilities account 
+was understated by  P554,624.19. 
+
+ 
+1.11. The effects of the misclassification of the aforementioned collections in the 
+
+financial statements are summarized below: 
+ 
+
+Table 4. Effects of Error 
+
+Year 
+ Amount  
+
+Effects in Financial Statement 
+
+Trust 
+Liabilities 
+
+Equity ( E) 
+
+Income 
+Accumulated 
+
+Surplus / 
+(Deficit) 
+
+(In Pesos) 
+2020 179,663.96  179,663.96 (179,663.96) - 
+2019 108,400.00  108,400.00 - (108,400.00) 
+2018 114,000.00  114,000.00  - (114,000.00) 
+2017 152,560.23  152,560.23  - (152,560.23) 
+Total 554,624.19  554,624.19  (179,663.96) (374,960.23) 
+
+ 
+1.12. We recommended that Management, thru the Accountant, prepare the 
+
+necessary adjusting journal entries, to correct and adjust the above 
+misstatements to reflect the accurate balances of the affected accounts. 
+ 
+
+1.13. Management commented that entries were drawn to correct the errors 
+reported. 
+ 
+
+OTHER ACCOUNTING DEFICIENCIES 
+ 
+Accounting and Property Control Deficiencies 
+ 
+2. The aggregate balance of the Due from NGAs, Advances and Property, Plant 
+
+and Equipment (PPE) accounts totaling P276,919,691.70 as of December 31, 
+2020 is of doubtful validity due to accounting and property control 
+deficiencies. 
+ 
+
+ 
+2.1 Section 4, Chapter 19 of the GAM for NGAs, Volume I, on Financial 
+
+Reporting, provides that the "Responsibility for the fair presentation and 
+reliability of financial statements rests with the management of the reporting 
+agency, particularly the head of finance/accounting office and the head of 
+entity or his authorized representative.” 
+
+ 
+
+
+
+56 
+ 
+
+2.2 Reliability means that reliable information is free from material error and 
+bias, and can be depended on by users to represent faithfully that which it 
+purports to represent or could reasonably be expected to represent; while, 
+Faithful representation means that for information to represent faithfully 
+transactions and other events, it should be presented in accordance with the 
+substance of the transactions and other events, and not merely their legal 
+form. (Section 6, Chapter 19, GAM for NGAs, Volume I) 
+
+ 
+2.3 Audit of the various Assets accounts of the College disclosed various 
+
+accounting and property control deficiencies in several of the accounts, as 
+follows: 
+ 
+
+Table 5. Summary of Accounting and Property Control Deficiencies 
+
+Accounts 
+
+Balance as at 
+December 31, 
+
+2020 
+(In Pesos) 
+
+Deficiencies Criteria 
+
+Due from 
+NGAs 
+
+543,873.85 a. absence of periodic 
+reconciliation of records 
+between the agency and 
+DBM-PS 
+
+b. deficiencies noted in the 
+previous years’ audit 
+were not yet 
+corrected/communicated 
+with the DBM-PS 
+
+c. non-submission of 
+Subsidiary Ledgers 
+(SLs) and supporting 
+documents 
+
+COA Circular No. 2016-
+005 dated December 19, 
+2016; and Section 122, 
+PD 1445  
+
+Advances 4,500,410.02 d. accumulation of 
+unsettled/unliquidated 
+cash advance balance at 
+year-end amounting to 
+P4,500,410.02  
+
+e. existence of 
+unaccounted book 
+balances of P318,198.21 
+
+COA Circular No. 96-004 
+dated April 19, 1996; 
+COA Circular No. 97-002 
+dated February 10, 1997; 
+COA Circular No. 97-001 
+dated February 05, 1997 
+
+PPE  271,875,407.83 f. non-reconciliation of 
+records between the 
+Accounting and Property 
+Offices 
+
+g. inclusion of 
+unserviceable and 
+damaged PPEs in the 
+RPCPPE  
+
+h. PPE costs not properly 
+accounted for in the 
+RPCPPE 
+
+Chapter 10 of the GAM 
+for NGAs, Volume I and 
+COA Circular No. 2020-
+006 dated January 31, 
+2020 
+
+Total 276,919,691.70     
+
+
+
+57 
+ 
+
+Details of Accounting and Property Control Deficiencies: 
+ 
+
+DUE FROM NATIONAL GOVERNMENT AGENCIES 
+ 
+
+a. absence of periodic reconciliation of records between the agency and 
+DBM-PS 
+
+ 
+2.4 The MPC has been procuring its commonly-used supplies, materials and 
+
+equipment from the DBM-PS in line with the national policy that 
+procurement of government supplies, materials and equipment shall be done 
+in the most economical and efficient manner. The procurement of said 
+operational requirements from the DBM-PS was effected thru advance 
+payment based on the Agency Procurement Request (APR) and recorded as 
+Due from NGAs in the MPC’s books of accounts.  
+ 
+
+2.5 Statement of Account from the DBM-PS shows that the MPC has a balance 
+of ₱61,408.28 as of December 31, 2020 as against the MPC’s book balance 
+of P543,873.85, presenting a difference of ₱482,465.57. 
+
+ 
+2.6 It was noted that the existence of discrepancy and accumulation of errors 
+
+was due to the absence of any action from the Management to reconcile their 
+records with the DBM-PS Ledger Card.  
+
+ 
+2.7 Analysis of fund transfers to DBM-PS and the results of the confirmation for 
+
+CYs 2015-2020 showed the following discrepancies: 
+ 
+
+Table 6. Fund Transfers to DBM-PS and Confirmation Results 
+
+Year 
+MPC DBM-PS Difference Percentage of 
+
+Difference 
+(In Pesos) 
+
+2015 543,822.83 860,724.57 -316,901.74 -58% 
+2016 63,937.08 644,702.38 -580,765.30 -908% 
+2017 1,090,903.55 714,048.15 376,855.40 35% 
+2018 241,053.49 78,420.22 162,633.27 67% 
+2019 395,329.01 61,408.02 333,920.99 84% 
+2020 543,873.85 61,408.28 482,465.57 89% 
+
+ 
+2.8 The above information showed that, throughout the years, MPC and DBM-
+
+PS had not reconciled the significant difference in their records, resulting in 
+unreconciled balance yearly. 
+
+ 
+ 
+ 
+ 
+
+
+
+58 
+ 
+
+b. Deficiencies noted in the previous years’ audit were not yet 
+corrected/communicated to the DBM-PS 
+
+ 
+2.9 The unaccounted and unreconciled balance of the account Due from NGAs 
+
+(DBM-PS) had been brought to Management’s attention in the previous 
+Annual Audit Reports, with proposed reconciliation based on the errors 
+found in audit of transactions covering the period CYs 2015-2018. 
+
+ 
+2.10 The errors found in the reconciliation made by the Audit Team included both 
+
+errors on the part of the MPC and DBM-PS. It was recommended that 
+Management require the Accountant to prepare the necessary adjusting 
+journal entries to correct the account balance and communicate with the 
+DBM-PS the identified errors attributable to them so they can also make the 
+necessary adjustments in their record.  
+
+ 
+2.11 It was noted that the said errors still exist both in MPC and DBM-PS records 
+
+and no proof of communication made with the DBM-PS were submitted to 
+the Audit Team, thus balances between two records remain unreconciled. 
+
+ 
+c. Non-submission of SLs and other supporting documents 
+
+ 
+2.12 Meanwhile, the Management failed to present the SLs and submit other 
+
+supporting documents to the Audit Team, thus the Audit Team has no basis 
+to check the validity and accuracy of the transactions and entries made to the 
+Due from NGAs account. 
+
+ 
+2.13 We recommended that Management: 
+
+ 
+a. prioritize the reconciliation of the advances  made to DBM-PS  and 
+
+strengthen the coordination with that agency  to ensure equality of 
+balances between the records of MPC and the DBM-PS Party 
+Ledger Card; 
+
+ 
+b. consider as initial basis in the preparation of necessary adjusting 
+
+entries to the account  the proposed reconciliation statement made 
+by the Audit Team and communicate to the DBM-PS the errors 
+attributable to them within one month from receipt hereof; and 
+
+ 
+c. require the Accountant to present/submit to the Audit Team the SLs 
+
+and supporting documents to the entries and adjustments made.  
+ 
+2.14 Management commented that they will create a Reconciliation Committee 
+
+that will verify, investigate and reconcile the deficiencies noted. 
+ 
+ 
+ 
+
+
+
+59 
+ 
+
+ADVANCES 
+ 
+
+d. Accumulation of unsettled/unliquidated cash advance balance at 
+yearend – P4,500,410.02 
+
+ 
+2.15 COA Circular No. 97-002 dated February 10, 1997 provides the rules and 
+
+regulations regarding the granting, utilization and liquidation of cash 
+advances, as follows:   
+
+ 
+4.1.3 A cash advance shall be reported on as soon as the purpose for which 
+it was  given has been served. xxx 
+
+ 
+5.7 When a CA is no longer needed or has not been used for a period of 
+two months, it must be returned or refunded immediately to the Collecting 
+Officer. 
+
+ 
+5.8 All CA shall be fully liquidated at the end of each year.  Except for 
+petty cash  fund (PCF), the AO shall refund any unexpended balance to the 
+Cashier/Collecting Officer who will issue the necessary official receipt. 
+
+ 
+2.16 The same circular requires the AO to liquidate his cash advances as follows: 
+ 
+
+5.1.1 Salaries, Wages, etc. - within five (5) days after each fifteen (15) 
+day/end of the  month pay period. 
+
+ 
+5.1.2 Petty Operating Expenses and Field Operating Expenses - within 
+twenty (20)  days after the end of the year; subject to replenishment as 
+frequently as necessary  during the year. 
+
+ 
+5.1.3 Official Travel - within sixty (60) days after return to the Philippines 
+in the case  of foreign travel or within thirty (30) days after return to his 
+permanent official station  in the case of local travel, as provided for in EO 
+248 and COA Circular No. 96-004. 
+
+ 
+2.17 Meanwhile, Section 15 Chapter 6 of the Government Accounting Manual 
+
+(GAM) for National Government Agencies (NGAs), Volume I, states that: 
+ 
+
+Advances for Payroll shall be granted to Regular Officers for payment of 
+salaries, wages, honoraria, allowances and other personnel benefits of 
+officials and employees. Liquidation of the advances shall be within five 
+(5) days after the end of the pay period.  Any unclaimed salaries/ 
+allowances shall be refunded and issued official receipt to close the 
+account.  
+
+ 
+2.18 The legal presumption against non-liquidation of cash advances is provided 
+
+by Articles 217 and 218 of the Revised Penal Code as quoted hereunder: 
+
+
+
+60 
+ 
+
+The failure of a public officer to have duly forthcoming any public funds or 
+property with which he is chargeable, upon demand by any duly authorized 
+officer, shall be prima facie evidence that he has put such missing funds or 
+property to personal use.  
+
+ 
+Any public officer, whether in the service or separated therefrom by 
+resignation or  any other cause, who is required by law or regulation to 
+render account to the Insular  Auditor, or to a provincial auditor and who 
+fails to do so for a period of two months after such accounts should be 
+rendered, shall be punished by prison correctional in its minimum period, 
+or by a fine ranging from 200 to 6,000 pesos, or both.  
+
+ 
+2.19 The above-cited rules and regulations were formulated to provide clear and 
+
+extensive guidelines for an effective and efficient control in the granting, 
+utilization and liquidation of cash advances. However, these were not strictly 
+observed and implemented as can be gleaned from the reports and records 
+submitted by the Management.  This is a reiteration of the previous 
+observation on the cash advances. 
+
+ 
+2.20 The unliquidated Advances for Payroll, Advances to Special Disbursing 
+
+Officer and Advances to Officers and Employees accounts as reflected in the 
+financial statement of MPC as of December 31, 2020 amounted to                          
+P 4,500,410.02, broken down as follows: 
+
+ 
+Table 7. Advances as of December 31, 2020 
+Accounts Balance (In Pesos) 
+
+Advances for Payroll 1,689,927.96 
+Advances to Special Disbursing Officer 2,364,911.58 
+Advances to Officers and Employees 445,570.48 
+ Total Advances 4,500,410.02 
+ 
+
+2.21 It is the responsibility of the Head of the Agency to ensure the proper 
+granting, and utilization of all cash advances in accordance with the set rules 
+and regulations. To strengthen internal control, rules and regulation in the 
+grant, utilization, and liquidation of cash advances, Management shall take 
+appropriate action and exhaust all remedies and /or demand for settlement 
+thereof.  
+
+ 
+2.22 The failure of Management to strictly monitor and properly account the 
+
+granting and liquidation of cash advances of the accountable officers (AOs) 
+caused the accumulation of the balances that affects the fair presentation of 
+accounts in the submitted FSs, casting doubt on the validity and accuracy of 
+the reported balances in the submitted FSs of the agency, thus affecting the 
+fair presentation of the accounts in the College’s FS. 
+
+ 
+
+
+
+61 
+ 
+
+2.23 The failure of the concerned AOs to liquidate/refund the unsettled accounts 
+overstated the Asset accounts and understated the Expense accounts as well. 
+
+ 
+e. Existence of Unaccounted Book Balances- P318,198.21 
+
+ 
+2.24 COA Circular No. 97-001 dated February 05, 1997 prescribes the guidelines 
+
+on the proper disposition/closure of dormant accounts. Item 10 thereof 
+provides that:   
+
+ 
+10.  If the analysis/review of the accounts/funds is not possible due to 
+
+absence of records and documents, the agency head concerned 
+should request for write-off and/or adjustment of account balances 
+from the COA, supported by:  
+
+ 
+10.1 List of available records and extent of validation made on the 
+
+accounts; and 
+ 
+
+10.2 Certification and reasons why the books of accounts/records, 
+financial statements/schedules and supporting vouchers/ 
+documents cannot be located.  
+
+ 
+2.25 Section 7.1 of COA Circular No. 2016-005 dated December 19, 2016 also 
+
+provides that: 
+ 
+The Accountant shall: 
+ 
+7.1 Conduct regular and periodic verification, analysis, and validation of the 
+existence of the receivables, unliquidated cash advances, and fund transfers, 
+and determine the concerned debtors, accountable officers (Regular and 
+Special Disbursing Officers, Collecting Officers and Cashiers) and the 
+source and implementing government entities. 
+
+ 
+2.26 Audit of the Advances accounts revealed that prior’s years balances for both 
+
+STF and MDS funds totaling P318,198.21 remained unaccounted and 
+dormant as names/payees and nature of these advances are unknown and 
+amounts were lumped in the report and carried forward yearly  in the 
+College’s books as shown below: 
+
+ 
+Table 8. Unaccounted Balance 
+
+Account Name 
+Unaccounted Balances (In Pesos) 
+MDS STF Total 
+
+Advances for Payroll        40,360.17  89,491.15  129,851.32  
+Advances to Special Disbursing 
+Officer 
+
+     162,508.88  25,838.01  188,346.89  
+
+Total    202,869.05  115,329.16  318,198.21  
+ 
+
+
+
+62 
+ 
+
+2.27 This audit observation was noted since CY 2014 but to date, no 
+reconciliation and necessary adjustments were made and recording of the 
+same were not yet effected in the books as of December 31, 2020.  
+
+ 
+2.28 We recommended that Management: 
+ 
+
+a. strictly comply with COA Circular No. 97-002 dated February 10, 
+1997 in granting and utilization of cash advances,   send demand 
+letters to the AOs and/or  exhaust all remedies for the settlement of 
+unliquidated cash advances   by withholding their salaries or any 
+amount due them,   to avoid accumulation of unsettled/unliquidated 
+cash advance balance at yearend; and 
+
+ 
+b. exert efforts to analyze  and document the details of the dormant  
+
+accounts and following the procedures stated in  COA Circular No. 
+2016-005 dated December 19, 2016,  request from COA for the write-
+off of dormant accounts.  
+
+ 
+2.29 Management commented that some of the liquidation reports were already 
+
+submitted while some are still being checked for completeness by the 
+Accounting personnel concerned. 
+
+ 
+PROPERTY, PLANT and EQUIPMENT 
+
+ 
+f. Non-reconciliation of Records between the Accounting and Property 
+
+Offices 
+ 
+
+2.30 Chapter 10, Section 4 of the GAM for NGAs, Volume I, states the criteria 
+for recognition of PPE, as follows: 
+
+ 
+• It is probable that the future economic benefits or service potential 
+
+associated with the item will flow to the entity 
+• The cost or fair value of the item can be measured reliably; 
+• Beneficial ownership and control clearly rest with the government; 
+• The asset is used to achieve government objectives; and 
+• It meets the capitalization threshold of P15,000.00 
+
+ 
+2.31 Likewise Section 42 of the same Chapter enumerated the Accounting and 
+
+Property records to be maintained for PPE, which includes the RPCPPE. 
+ 
+
+Report on the Physical Count of Property, Plant and Equipment (RPCPPE) 
+– shall be used to report the physical count and condition of PPE by the type 
+as at a given date, including those which are unrecorded and those which 
+could not be accounted for. It shows the balance of PPE per Property Cards 
+and per count and the shortage/overage, if any. It shall be rendered by the 
+
+
+
+63 
+ 
+
+Inventory Committee, on its yearly physical count of properties owned by 
+the entity. 
+
+ 
+2.32 The Financial Position of the College for the year ended December 31, 2020 
+
+shows that the PPE account has a total carrying amount  of P271,875,407.83, 
+as follows: 
+ 
+
+Table 9. PPE Balances Per FSs 
+
+PPE Accounts 
+Cost Accumulated Depreciation 
+
+Carrying 
+Amount 
+
+12.31.2020 
+(In Pesos) 
+
+Land 35,044,800.00   - 35,044,800.00  
+Other Land Improvements 1,592,344.94   605,091.08  987,253.86  
+Buildings 135,148,828.05  27,265,862.58  107,882,965.47  
+Machinery 3,054,018.60  2,314,945.38  739,073.22  
+Office Equipment 70,899,054.16  3,988,432.04  66,910,622.12  
+Information and Communication 
+Technology  Equipment  
+
+14,312,836.24  10,191,587.78  4,121,248.46  
+
+Communication Equipment 840,099.07  217,668.98  622,430.09  
+Medical Equipment 528,855.21  523,155.21  5,700.00  
+Sports Equipment 124,000.00  38,973.75  85,026.25  
+Technical and Scientific  
+Equipment  
+
+8,808,987.65  5,083,719.39  3,725,268.26  
+
+Other Machinery and Equipment  9,890,676.78  3,988,432.66  5,902,244.12  
+Motor Vehicles 3,479,882.10   (34,170.78)  3,514,052.88  
+Furniture and Fixtures  3,198,165.89  1,120,199.25  2,077,966.64  
+Books 4,659,121.76  1,649,273.81  3,009,847.95  
+Construction in Progress - 
+Buildings and Other Structures 
+
+37,026,908.51   - 37,026,908.51  
+
+Other Property, Plant and 
+Equipment 
+
+220,000.00   - 220,000.00  
+
+Total 328,828,578.96  56,953,171.13  271,875,407.83  
+ 
+
+2.33 Review of the reported balance of PPE accounts, excluding the Construction 
+in Progress – Building and Other Structures account, totaling  
+₱291,801,670.45 differed with the balance per actual count of 
+₱260,501,973.35 by ₱31,299,697.10, broken down as follows: 
+ 
+
+Table 10. PPE Balances Per FSs 
+
+PPE Accounts 
+
+Balances per 
+Financial 
+Statement 
+
+  Balance per 
+RPCPPE   Difference 
+
+(In Pesos) 
+Land   35,044,800.00  35,044,800.00  - 
+Other Land Improvements 1,592,344.94  -  1,592,344.94  
+Buildings 135,148,828.05  164,876,257.72  (29,727,429.67)  
+Machinery 3,054,018.60  9,541,319.52  (6,487,300.92)  
+Office Equipment 70,899,054.16  3,476,745.57  67,422,308.59  
+
+
+
+64 
+ 
+
+PPE Accounts 
+Balances per 
+
+Financial 
+Statement 
+
+  Balance per 
+RPCPPE   Difference 
+
+Information and Communication 
+Technology  Equipment  14,312,836.24  17,829,577.15  (3,516,740.91)  
+
+Communication Equipment 840,099.07  1,882,978.74  (1,042,879.67) 
+Medical Equipment 528,855.21  432,561.00  96,294.21  
+Sports Equipment 124,000.00  212,500.00  (88,500.00)  
+Technical and Scientific  
+Equipment  8,808,987.65  10,625,859.73  (1,816,872.08)  
+
+Other Machinery and Equipment  9,890,676.78  7,253,936.26  2,636,740.52  
+Motor Vehicles 3,479,882.10  4,970,643.76  (1,490,761.66)  
+Furniture and Fixtures  3,198,165.89  862,710.90  2,335,454.99  
+Books 4,659,121.76  3,492,083.00  1,167,038.76  
+Other Property, Plant and 
+Equipment 220,000.00  -  220,000.00  
+
+Total 291,801,670.45  260,501,973.35  31,299,697.10   
+ 
+
+2.34 The unreconciled difference of ₱31,299,697.10 above is substantial that 
+needs to be addressed both by the Accounting and Property Sections. It was 
+noted that this non-reconciliation of Accounting and Property records on 
+PPE accounts had been the subject of our prior year’s observations. As 
+discussed in Paragraph 2.42, the discrepancies between the two records were 
+due to the costs of 273 PPE items which were not properly valued  in the 
+RPCPPE and were just remarked as “No Available Value” in the report 
+which understated the RPCPPE balance of the affected PPE class.  
+ 
+
+2.35 The continuous failure of the Property and Accounting Sections to reconcile 
+their respective reports had caused the unreliability of the reported PPE 
+balances in the FS that affects the fair presentation of the Financial Position 
+of the College. 
+
+ 
+2.36 To aid the government agencies in coming up with  accurate and reliable 
+
+PPE account balances, the Commission on Audit (COA) Circular No. 2020-
+006 dated January 31, 2020 provides the guidelines and procedures for the 
+conduct of physical count of PPE, recognition of PPE items found at station, 
+and disposition for non-existing/missing PPE items, for the One-Time 
+Cleansing of PPE Account balances of Government Agencies. 
+
+ 
+2.37 The said Circular has set the following general guidelines on the One-Time 
+
+Cleansing of PPE Account balances of Government Agencies, as follows: 
+ 
+
+5.1 Each government agency shall conduct physical count of all its PPE, 
+whether  acquired through purchase or donation, including those 
+constructed by administration and found at station. 
+
+ 
+
+
+
+65 
+ 
+
+5.2 The Head of the Agency shall create an Inventory Committee 
+composed of adequate number of members to be able to complete the 
+physical inventory in three months or less. The Inventory Committee 
+shall have at least one member each from the Accounting and 
+Property Divisions/Units of the agency.  
+
+ 
+5.3 The members of the Inventory Committee shall be temporarily 
+
+relieved of all their regular duties to devote their full time in the 
+conduct of the physical inventory- taking until the same is 
+completed. 
+
+ 
+5.4 The entire inventory-taking shall be witnessed by the Commission on 
+
+Audit (COA) Auditor. The Audit Team Leader and/or any of his/her 
+Audit Team Members may be assigned for the purpose. 
+
+ 
+5.5 Head of the Agency may also require a representative from the 
+
+agency's Audit Service/Unit to witness the inventory-taking. 
+ 
+
+2.38 Further, the said Circular also states that: 
+ 
+
+5.6 The Inventory Committee shall be responsible for the actual count to 
+ascertain the existence, completeness and condition of all PPEs 
+owned by the government agency. 
+
+ 
+5.7 Property records shall be updated based on the results of the physical 
+
+inventory and reconciled with Accounting records to come up with 
+the reconciled  balances of PPE accounts to be considered as the 
+correct balance of the agency’s PPEs.  
+
+ 
+g. Inclusion of Unserviceable and Damaged PPEs in the RPCPPE 
+
+ 
+2.39 Section 40, Chapter 10, of the GAM for NGAs, Volume I sets the policies on 
+
+idle, unserviceable and fully depreciated PPE, as follows: 
+ 
+
+a. Temporary idle activity or abandonment of PPE does not preclude 
+depreciating the asset, as future benefits are consumed not only through 
+usage but also through obsolescence, and wear and tear. 
+  
+
+b. A PPE is said to be fully depreciated when the carrying amount is equal 
+to zero or residual value. The cost of fully depreciated assets remaining 
+in service and the related accumulated depreciation and accumulated 
+impairment losses shall not be removed from the accounts. 
+
+ 
+c. A PPE is said to be unserviceable if it is no longer capable of providing 
+
+the entity with future economic benefits or service potential. 
+ 
+
+
+
+66 
+ 
+
+d. All unserviceable property shall be reported in the Inventory and 
+Inspection Report of Unserviceable Property (IIRUP) (Appendix 74). 
+PPE reported in the IIRUP shall be dropped from the books by debiting 
+Impairment Loss-Property, Plant and Equipment (cost of the PPE less 
+Accumulated Depreciation). 
+
+ 
+2.40 Examination of the submitted RPCPPE showed that some PPEs were 
+
+remarked as unserviceable and/or damaged. 
+ 
+
+a.) Seven items under the transportation equipment were unserviceable and 
+have no available value, to wit: 
+ 
+
+Table 11. Unserviceable PPE 
+No. Description Property Number  
+1 Suzuki Jitney, Plate No. SJC 442 2008 
+2 Mazda Sedan, Plate No. SET 636 2013 
+3 Mitsubishi Galant, Plate No. PNY 900 2015 
+4 Nissan Sentra, Plate No. TCL 642 2016 
+5 Mitsubishi L300 Van, Plate No. SGJ 404  2016 
+6 Mitsubishi L300 Van, Plate No. SFD 488 2016 
+7 Mitsubishi L300 Van, Plate No. SFV 388  2016 
+
+ 
+b.) Two Information Technology Equipment with reported cost amounting 
+
+to P49,735.00, damaged by typhoon, were still included in the RPCPPE 
+as follows: 
+ 
+
+Table 12. Damaged PPE 
+
+Article Description Property Number 
+Unit Value 
+(In Pesos) 
+
+Camera Canon, S/N 4058459, 2000 2013-01-978 4,950.00 
+
+Laptop Windows XP Media Center, 2007 2013-01-986 44,785.00 
+
+ Total     49,735.00 
+ 
+
+h. PPE costs not properly established/assigned in the RPCPPE 
+ 
+
+2.41 The procedural guidelines on inventory-taking of COA Circular No. 2020-
+006 dated January 31, 2020 provide that: 
+
+  
+6.2.11 the unit value of articles/items counted shall be taken from the 
+
+PPELCs/Subsidiary Ledgers (SLs) or, if not available, from 
+Property Cards or other property records. 
+
+
+
+67 
+ 
+
+6.2.12 In case no such information could be found in both Accounting 
+Property records such as for PPEs items found at station, the unit 
+cost/value shall be established, as follows: 
+
+ 
+a. Cost/value may be assigned by the Inventory Committee based 
+
+on the market/fair value of the item. The cost/value of a similar 
+item in the RPCPPE may also be used by the Inventory 
+Committee. 
+
+ 
+The market value is the estimated amount for which an asset 
+could be  exchanged on the date of valuation, between 
+knowledgeable, willing parties in an arm’s length transactions, 
+and 
+
+ 
+b. If there are items for which market/fair value could not be easily 
+
+determined by the Inventory Committee, their fair value shall be 
+determined by appraisal. 
+
+ 
+An appraisal of the value of asset is normally undertaken by a 
+member of the valuation profession who holds a recognized and 
+relevant qualification. 
+
+ 
+2.42 Moreover, Chapter 10 of the GAM for NGAs, Volume I, provides that:  
+
+ 
+Section 12. Donation without Condition. Cost of PPE acquired 
+through donation without condition shall be taken up at its fair value at 
+the date it is acquired.  All expenses incurred in connection with the 
+donated asset, such as delivery and  installation costs, shall be 
+included in the amount recognized as asset. The fair value of the PPE 
+shall be recognized as “Income from Grants and Donations in Kind.” 
+
+ 
+Section 13. Donation with Condition. Where a PPE is acquired 
+through donation  with conditions or restrictions, a liability account 
+shall be recognized until conditions or restrictions have been fulfilled. 
+
+ 
+2.43 Examination revealed that cost of 273 PPE items were not properly valued in 
+
+the RPCPPE and were just remarked as “No Available Value” in the report 
+which understated the RPCPPE balance of the affected PPE class, to wit: 
+
+ 
+Table 13. Unaccounted PPE 
+
+Property Classification No. of PPEs 
+Books 106 
+Buildings 2 
+Communication Equipment 19 
+Furniture and Fixtures 60 
+IT Equipment 28 
+
+
+
+68 
+ 
+
+Property Classification No. of PPEs 
+Machineries 9 
+Office Equipment 12 
+Other Equipment 12 
+Technical and Scientific Equipment 4 
+Transportation Equipment 21 
+Total 273 
+
+ 
+2.44 The following donated PPEs have no reported value in the RPCPPE and 
+
+were tagged as ‘Donation” in the report, as follows: 
+ 
+
+Table 14. Donated PPE 
+Description Property Number Quantity PPE Classification 
+
+Acer Aspire 3 Black No P/N Available 1  I.T. Equipment 
+Panasonic, 1Hp 2018-11-1163 1  Office Equipment 
+
+  Carrier, 2Hp 2018-11-1068 2 
+Isuzu Hi-Lander SFW873 2019 1 
+
+Transportation 
+Equipment 
+
+Toyota Corolla SEU120 2019 1 
+Mitsubishi Adventure 
+SKN179 2019 1 
+
+Total  7  
+ 
+
+2.45 All the circumstances discussed above affect the accuracy, reliability and fair 
+presentation of the reported PPE account balances amounting to 
+P271,875,407.83 as of December 31, 2020.   
+
+ 
+2.46 We recommended that Management: 
+
+ 
+a. refer to the COA Circular No. 2020-006 dated January 31, 2020 for 
+
+the guidelines and procedures on the conduct of the physical count of 
+PPE, recognition of PPE items found at station, and disposition for 
+non-existing/missing PPE items to aid the one-time cleansing of PPE 
+account balances; 
+ 
+
+b. exert efforts and ask the assistance of Accounting Unit to determine 
+the value of items in the RPCPPE that were reported as “No 
+Available Value”; 
+
+ 
+c. prepare the IIRUP, thru the Property Officer, using the prescribed 
+
+format for all properties that are unserviceable, obsolete or no 
+longer needed due to its defectiveness and conduct disposal to avoid 
+deterioration and possible loss of value. Moreover, furnish a copy 
+thereof to the Accounting Division as their basis in the dropping 
+from the books of all unserviceable PPEs; and  
+
+ 
+d. regularly reconcile Accounting and Property records, thru the 
+
+Accountant and Property Officer, to arrive at the reliable and 
+
+
+
+69 
+ 
+
+accurate balances of PPE accounts for the fair presentation in the 
+financial statements.  
+
+ 
+2.47 Management commented that they will apply the guidelines provided under 
+
+Commission on Audit (COA) Circular No. 2020-006 dated January 31, 2020 
+for the guidelines and procedures for a one-time cleansing and reconciliation 
+of PPE account balances, and thereafter, regular reconciliation shall be 
+performed. 
+
+ 
+ 
+COMPLIANCE AUDIT 
+ 
+Special Trust Fund (STF) Allocation, Utilization and Disbursements 
+ 
+3. Out of the MPC’s Budget allocation for Fund 164 of P138,288,616.50, only 
+
+P29,514,598.96 or 21.34 percent were utilized, leaving P108,774,017.54 or 
+78.66 percent as unutilized amount, thereby adversely affecting the effective 
+and efficient delivery of Programs/Projects and Activities (PPAs) consistent 
+with the trifocal functions of the College. Meanwhile, Utilization Report for 
+Fiduciary Fund does not correspond with specific budget allocations per 
+thrust/program/activities, thus utilization cannot be ascertained if made solely 
+for the purpose it was collected. 
+ 
+3.1 Section 4 (d) of RA No. 8292 or the Higher Education Modernization Act of 
+
+1997 provides that: 
+ 
+Any income generated by the university or college from tuition fees and 
+other charges, as well as from the operation of auxiliary services and 
+land grants, shall be retained by the university or college, and may be 
+disbursed by the Board of Regents/Trustees (BOR/T) for instruction, 
+research, extension, or other programs/projects of the university or 
+college. Provided, that all fiduciary fees shall be disbursed for the 
+specific purposes for which they are collected.  
+
+ 
+3.2 CHED Memorandum Order (CMO) No. 20, Series of 2011 has been issued 
+
+to establish and institutionalize uniform fiscal policies that will serve as 
+guidelines on the use and disposition of all internally generated funds 
+accruing to the State University/College (SUC), as well as to integrate a 
+system of accountability for all fund administrators. It defines STF as 
+referring to the income of the SUC arising from collection of tuition fees, 
+miscellaneous fees, service and other income, which is broken down into: 
+
+ 
+a) Tuition fees for the use by the SUC in carrying out its trifocal function: 
+
+instruction, research and extension, and production, as well as defray 
+its administrative costs (general administrative support); 
+
+b) Fiduciary Fund; 
+
+
+
+70 
+ 
+
+c) Revenues collected by self-liquidating units; 
+d) Revenues generated by IGUs; 
+e) Regular Trust Fund without separate depository account (NSTP, 
+
+ROTC, NEDA, DOST Funding, or other NGA Funding for the 
+implementation of projects through the State College). 
+
+ 
+3.3 Section 24 thereof states that the budget authorized by the BOR shall be 
+
+implemented within the CY for which it was formulated. The inclusive 
+collection period and the Quarter for which the collection will be used shall 
+be clearly and specifically stated. The BOR regularly meets only once every 
+quarter, and is allowed to conduct special meetings whenever necessary. 
+Therefore, a reasonable scheme must be resorted to in order to abide with 
+COA Circular No. 2000-002 dated April 4, 2000, which requires board 
+approval for the use of income, while aligning the financial operations and 
+transactions with the financial cycle which abides by a January to December 
+or the CY period. 
+
+ 
+3.4 Submitted report of the MPC showed that as of November 2019, STF 
+
+accumulated income collections available in the bank (net of reserve fund) 
+amounted to P140,850,691.45. The said amount is the basis of the MPC in 
+creating their operating budget for CY 2020. However, due to some 
+discontinued projects caused by the Pandemic, a reduction of P2,562,075.00 
+was made to the initial Program of Receipts and Expenditures (PRE). 
+
+ 
+3.5 On May 13, 2020, thru Skype Meeting, the BOT approved the MPC’s PRE 
+
+for 2020 with an adjusted budget of P138,288,616.50 (net of reserve fund) 
+for personnel services, maintenance and other operating expenses, capital 
+outlay, fiduciary fees, research and extension projects/activities. Details are 
+as follows: 
+
+ 
+Table 15. CY 2020 Program of Receipts and Expenditures 
+
+Particulars Approved 
+(In Pesos) 
+
+Percentage 
+
+A. Instruction  13,802,522.20 
+
+50% 
+   1. Faculty and Staff Development       1,917,016.97  
+   2. Curriculum Development       1,917,016.97  
+   3. Student Development       1,917,016.97  
+   4. Facilities Development       1,917,016.97  
+B. Research Services       1,533,613.58  10% 
+C. Extension Services       1,533,613.58  10% 
+D. Production        1,533,613.58  10% 
+E. Administrative Services       1,533,613.58  10% 
+F. Mandatory Reserve   10% 
+
+SUC-Wide Common Fund 
+    15,336,135.78  50% of Tuition 
+
+Fund 
+Subtotal    29,138,657.98    
+Fiduciary Fund     28,519,041.27   
+
+
+
+71 
+ 
+
+Particulars Approved 
+(In Pesos) 
+
+Percentage 
+
+Other Non-Fiduciary Fund     49,449,026.08    
+IGP     20,195,242.53    
+Senior High     10,986,648.64    
+Unprogrammed Funds  -   
+
+Total Amount   138,288,616.50   
+ 
+
+3.6 We commend the MPC for allocating their STF based on the prescribed 
+percentage rates of allocation and the limitation on adjustment/modification 
+as provided under CMO No. 20, Series of 2011. 
+
+ 
+3.7 However, review of the Utilization Report submitted to the Audit Team 
+
+showed that funds budgeted were barely utilized at 21.34 percent or 
+P29,514,598.96 of the total budget of P138,288,616.50, leaving an unutilized 
+amount of P108,774,017.54. See table for details: 
+
+ 
+Table 16. CY 2020 Utilization Report 
+
+Thrust/ Program / 
+Activity 
+
+ Total 
+Adjusted 
+(In Pesos)  
+
+Utilization Unutilized 
+Amount 
+
+(In Pesos)  
+Percent
+
+-age 
+Amount 
+
+(In Pesos)  
+Percent
+
+-age 
+I. Special Trust 
+Fund 29,138,657.98 4,229,508.80 14.52 24,909,149.18 85.48 
+
+A.  Instruction 7,668,067.88 1,988,391.80 25.93 5,679,676.08 74.07 
+     a. Faculty 
+Development 
+
+1,917,016.97  714,089.88  37.25 1,202,927.09  62.75 
+
+     b. Student 
+Development 
+
+1,917,016.97  111,015.60  5.79 1,806,001.37  94.21 
+
+     c. Curriculum 
+Development  
+
+1,917,016.97  154,543.85  8.06 1,762,473.12  91.94 
+
+     d. Facilities 
+Development 
+
+1,917,016.97  1,008,742.47  52.62 908,274.50  47.38 
+
+B. Research Services 1,533,613.58  395,185.37  25.77 1,138,428.21  74.23 
+C. Extension 
+Services 
+
+1,533,613.58  41,307.05  2.69 1,492,306.53  97.31 
+
+D. Production 1,533,613.58  271,011.00  17.67 1,262,602.58  82.33 
+E. Administrative 
+Services 
+
+1,533,613.58  1,533,613.58  -                       -    0.00 
+
+F. Mandatory 
+Services 
+
+-  -  - -    - 
+
+G. SUC-Wide 
+Common Fund 
+
+15,336,135.78  -  0.00 15,336,135.78  100.00 
+
+II. Fiduciary Fund 28,519,041.27  4,607,839.68  16.16 23,911,201.59  83.84 
+III. Other Non-
+Fiduciary Funds 
+
+49,449,026.08  16,700,353.16  33.77 32,748,672.92  66.23 
+
+IV. Income 
+Generating Funds 
+
+20,195,242.53  2,328,732.05  11.53 17,866,510.48  88.47 
+
+V. Senior High 
+School Funds 
+
+10,986,648.64  1,648,165.27  15.00 9,338,483.37  85.00 
+
+Grand Total 138,288,616.50  29,514,598.96  21.34 108,774,017.54  78.66 
+ 
+
+
+
+72 
+ 
+
+3.8 Based on the foregoing table, out of P29,138,657.98 budgeted for STF for 
+CY 2020, P4,229,508.80 or 14.52 percent was utilized, leaving 
+P24,909,149.18 or 85.48 percent unutilized. For SUC-Wide Common Fund, 
+none was utilized. The minimal utilization affected the effective and efficient 
+delivery of programs, projects and activities consistent with the trifocal 
+functions of the MPC on instruction, research and extension, and production. 
+
+ 
+3.9 Utilization Report submitted also showed low utilization of Fiduciary Fund, 
+
+which amounted to P4,607,839.68 or 16.16 percent of the approved budget 
+of P28,519,041.27, leaving an unutilized amount of P23,911,201.59 or 83.84 
+percent. Details are as follows: 
+
+ 
+Table 17. Approved Budget and Utilization of Fiduciary Fees 
+
+Particulars 
+Approved 
+
+Budget Utilization Unutilized % of 
+Utilization (In Pesos) 
+
+Honoraria 521,200.00  2,097.00  519,103.00  0.40 
+Travelling and 
+Transportation Expenses 1,402,500.00  11,000.00  1,391,500.00  0.78 
+
+Training Expense 1,856,166.45  38,969.83  1,817,196.62  2.10 
+Supplies and Materials 4,711,712.52  12,800.75  4,698,911.77  0.27 
+Medical, Dental and 
+Laboratory Supplies 
+Expenses 
+
+623,600.00  230,000.00  393,600.00  36.88 
+
+Drugs and Medicines 
+Expenses 500,000.00  48,662.40  451,337.60  9.73 
+
+Textbook and 
+Instructional Materials 
+Expenses 
+
+3,854,186.15  65,100.00  3,789,086.15  1.69 
+
+Subscription Expenses 108,000.00  203,192.00   (95,192.00) 188.14 
+Printing Publication and 
+Advertising Expenses 1,679,000.00  144,200.00  1,534,800.00  8.59 
+
+Representation 
+Expenses 15,000.00  865.00  14,135.00  5.77 
+
+Prize, Awards and 
+Rewards 110,000.00  68,081.00  41,919.00  61.89 
+
+Repair and 
+Maintenance-Buildings 
+and other Structures 
+
+35,000.00  2,349.00  32,651.00  6.71 
+
+Insurance, Premiums 
+and Other Fees 700,000.00  
+
+ 
+(130,236.00) 830,236.00  -18.61 
+
+Website Maintenance 95,000.00  2,083,048.00  (1,988,048.00) 2,192.68 
+Membership Dues and 
+Contributions to 
+Organizations 
+
+30,000.00  235,590.30   (205,590.30) 785.30 
+
+Semi-Expendable 
+Machinery and 
+Equipment Expenses 
+
+10,000.00  874,070.40   (864,070.40) 8,740.70 
+
+Other Maintenance and 1,803,374.91  387,651.00  1,415,723.91  21.50 
+
+
+
+73 
+ 
+
+Particulars Approved Budget Utilization Unutilized 
+% of 
+
+Utilization 
+Operating expenses 
+Equipment Outlay 4,110,000.00  -  4,110,000.00  0.00 
+Information and 
+Communication 
+Technology Equipment 
+Outlay 
+
+5,000,000.00  -  5,000,000.00  0.00 
+
+Books Outlay 1,354,301.24  330,399.00  1,023,902.24  24.40 
+Total 28,519,041.27  4,607,839.68  23,911,201.59  16.16 
+
+ 
+3.10 The Fiduciary Fund includes fees assessed and collected from students 
+
+intended for specific purpose such as cultural, medical/dental, sports 
+development, laboratory, library, guidance, and IT fees. As defined in the 
+CMO, this fund shall be used solely for the purpose for which it was 
+authorized to be collected. The listing of what is classified as Fiduciary 
+Fund, as well as the college, office, or unit accountable for its utilization 
+shall be stated in the Report of Collections which is submitted to the BOR 
+for approval.  
+
+ 
+3.11 The above Utilization Report did not conform to the line item requirements 
+
+specified in the CMO No. 20 and does not correspond with the specific 
+budget allocations per thrust/program/activities, thus utilization cannot be 
+ascertained if made solely for its specific purpose.  On January 25, 2021, the 
+Audit Team requested for a separate Utilization Report based on the line 
+item as enumerated in Chapter III of the CMO, and followed it up with 
+Management for several times but no report was submitted to date. While it 
+is true that SUCs are authorized to collect Fiduciary Fees from students 
+every semester, we believe that these should be utilized as intended in order 
+to address the needs of the students. 
+
+ 
+3.12 The low utilization rate and unutilized balances of MPC imply that the 
+
+Management did not ensure effective delivery of services to its students from 
+its collection, hence further resulting in the accumulation of the amounts 
+maintained in the AGDB. This is in contravention of Section 24 of CMO No. 
+20, series of 2011, which states that the budget authorized by the BOR shall 
+be implemented within the CY for which it was formulated. 
+
+ 
+3.13 We recommended that Management: 
+
+ 
+a. develop a catch up plan to maximize the utilization of the approved 
+
+budget for STF or Fund 164 for effective and efficient delivery of 
+MPC’s PPAs and to ensure accomplishment of the College major 
+functions which are instruction, research and extension services; 
+
+ 
+
+
+
+74 
+ 
+
+b. submit justification on the low utilization rate of Fiduciary Fund, 
+and consider assessing possible reductions on Fiduciary Fees 
+collected, where appropriate; 
+
+ 
+c. observe set timelines in the implementation and completion of 
+
+plans/programs and activities, to ensure effective delivery of services 
+and to address the needs of the students and other stakeholders, as 
+required under Section 24 of the CMO; and 
+
+ 
+d. prepare and submit Utilization Report with specific budget 
+
+allocations per thrust/program/activities in conformity with line item 
+requirements specified in the CMO No. 20 series of 2011.  
+
+ 
+3.14 Management commented that they will revisit its STF Planning practices and 
+
+shall determine its true absorptive capacity in the finalization of the Program 
+of Receipts and Expenditures (PRE) for CY 2021. 
+ 
+
+Implementation of Tertiary Education Subsidy (TES) Program  
+ 
+
+4. From the funds released for TES program for Academic Year (AY) 2019-2020 
+amounting to P885,800.00, only P140,000.00 or 15.80 percent was utilized due 
+to delay in the release of funds by CHED which prevented the student-
+grantees from the timely utilization thereof, thus defeating the purpose of the 
+TES program. Moreover, a separate Bank Account/SL was not maintained 
+for the amount received for the TES program, contrary to Section XII, Item 7 
+of the JMC No. 004 s. 2020. 
+
+ 
+4.1 The TES was established under RA No. 10931, also known as the Universal 
+
+Access to Quality Tertiary Education Act of 2017 (UniFAST), to support the 
+cost of tertiary education or any part or portion thereof of poor but deserving 
+Filipino students who are enrolled in the 112 state universities and colleges 
+(SUCs) and 78 local universities and colleges (LUCs) in the Philippines and 
+whose names appear in the Listahanan 2.0 or the Pantawid Pamilyang 
+Pilipino Program (4Ps) list of the Department of Social Welfare and 
+Development (DSWD).  
+
+ 
+4.2 The TES targets not necessarily those who are poor, but those who have no 
+
+access to public university system. This grants-in-aid program is intended to 
+support the costs of college education, particularly use for books and other 
+education-related expenses such as transportation, supplies, room, lodging 
+and board fees. 
+
+ 
+4.3 Based on the SL from CHED-UNIFAST, a total of ₱885,800.00 intended for 
+
+the implementation of the TES program was released to MPC for AY 2019-
+2020. The said budget included the payment of TES allowances to qualified 
+student beneficiaries providing them with a monthly stipend of ₱3,500.00 
+
+
+
+75 
+ 
+
+and a book allowance of ₱2,500.00 every semester, or a total of ₱20,000.00 
+per semester or ₱40,000.00 annually and three percent (3%) administrative 
+costs. Details are as follows: 
+
+ 
+Table 18. TES Grants from CHED-UniFAST 
+
+Program 
+
+Semester 
+AY 
+
+2019-
+2020 
+
+Student 
+Grantees Date 
+
+ TES 
+Benefits  
+
+ Administrative 
+Cost (3%)  Grants  
+
+(In Pesos) 
+
+TES – 
+List 1
+
+st 7 03/03/2020 140,000.00  4,200.00 144,200.00 
+
+TES - 
+List New 1
+
+st 13 11/20/2020 260,000.00 7,800.00 267,800.00  
+
+TES –
+NonList 2
+
+nd 22 12/01/2020 440,000.00 13,200.00 453,200.00  
+
+TES – 
+List 2
+
+nd 1 12/16/2020 20,000.00 600.00 20,600.00  
+
+Total    43   860,000.00 25,800.00 885,800.00 
+ 
+
+4.4 Audit of payrolls, schedules and Disbursement Vouchers (DVs) revealed that 
+the TES Grants from CHED-UniFAST for AY 2019-2020 were utilized as 
+follows: 
+
+ 
+Table 19. Utilization of TES Grants from CHED-UniFAST 
+
+  TES Benefits Administrative Cost (3%) Total 
+
+Allocated Budget            860,000.00           25,800.00        885,800.00  
+Actual Utilization 140,000.00 0.00       140,000.00  
+Unutilized/(Over)            720,000.00           25,800.00        745,800.00  
+Percent 83.72% 100.00% 84.20% 
+ 
+
+4.5 As can be gleaned from the table above, the College had paid the student 
+beneficiaries their TES allowances amounting to ₱140,000.00, leaving an 
+unexpended balance of 84.20% or ₱745,800.00. Records show that: 
+
+ 
+a. On March 03, 2020, MPC received ₱144,000.00 from CHED, which was 
+
+intended for the payment of TES grants to the beneficiaries for the 1st 
+Semester of the AY 2019-2020. Per General Payroll No. 2020-04-057, 
+₱140,000.00 was distributed to the seven student beneficiaries.  
+
+ 
+b. The Audit Team had sent a letter to verify the status of the remaining 
+
+subsidy and administrative costs reflected in the SL from CHED totaling 
+₱782,800.00, which were intended for the TES beneficiaries for the 1st 
+and 2nd semesters of AY 2019-2020 and found out that the said funds are 
+yet to be received and distributed as follows: 
+
+ 
+ 
+ 
+ 
+
+
+
+76 
+ 
+
+Table 20. Undistributed Receipts from CHED 
+
+Program 
+
+Semester 
+AY 
+
+2019-
+2020 
+
+Qualified 
+Student 
+
+Grantees 
+Date 
+
+ TES 
+Benefits  
+
+ Administra-
+tive Cost 
+
+(3%) 
+ Grants  
+
+(In Pesos) 
+TES - 
+List New 1
+
+st  13 11/20/2020 260,000.00 7,800.00 267,800.00  
+
+TES –
+NonList 2
+
+nd  22 12/01/2020 440,000.00 13,200.00 453,200.00  
+
+TES – 
+List 2
+
+nd  1 12/16/2020 20,000.00 600.00 20,600.00  
+
+Total       720,000.00 21,600.00 741,600.00 
+
+ 
+c. Moreover, the stipend as well as the corresponding administrative cost 
+
+intended to benefit student under the 4th Prioritization Category-
+NonListahanan 2.0 (4Ps Beneficiaries) for AY 2018-2019 amounting to  
+P41,200.00 was not yet received by the College nor distributed to the 
+students.  
+
+ 
+d. According to the College’s Director of the Office of the Student Affairs, 
+
+they were not informed that there were already available funds for MPC 
+representing the subsidy of the student-beneficiaries, hence no payment 
+for the first and second semesters had been granted to the beneficiaries, 
+and thus the objective of the program was defeated. 
+
+ 
+4.6 Further, per confirmation made by the Audit Team, it was noted that 
+
+liquidations  submitted by MPC to CHED on December 23, 2019 amounting 
+to P803,400.00 and P267,800.00 for TES and ESGP-PA, respectively, 
+covering AY 2018-2019 were not reflected in the CHED’s SL as of February 
+11, 2021, as follows: 
+ 
+
+Table 21. Liquidation of TES Grants for AY 2018-2019 
+
+Particulars 
+TES ESGP-PA Total 
+
+(In Pesos) 
+1st Semester AY 2018-2019 400,000.00       140,000.00  540,000.00  
+2nd Semester AY 2018-2019 380,000.00       120,000.00  500,000.00  
+3% Administrative Cost 23,400.00           7,800.00  31,200.00  
+Total 803,400.00       267,800.00  1,071,200.00  
+
+                               
+4.7 Section 114 of PD No. 1445 states that:  
+
+ 
+i. The government accounting system shall be on a double entry basis 
+
+with a general ledger in which all financial transactions are recorded; 
+and 
+
+ii. Subsidiary records shall be kept where necessary. 
+ 
+
+
+
+77 
+ 
+
+4.8 Rule 6.2 of the Implementing Rules and Regulations of the UniFAST states 
+that:  
+
+ 
+A separate book of accounts shall be kept by each implementing agency 
+for the  UniFAST StuFAP funds. The book of accounts shall follow 
+standard government rules and regulation for accounting. xxxx 
+
+ 
+4.9 Moreover, for proper implementation of the billing and disbursement 
+
+procedures and monitoring of the TES payments to public and private HEIs,  
+Joint Memorandum Circular (JMC) No. 04 s.2020 was issued to further set 
+out enhanced guidelines on the TES program. Section XII of the said JMC 
+specifically mentioned that Higher Education Institutions should: 
+
+ 
+(7.6.1) xxxx; 
+(7.6.2) Maintain a separate bank account with the Land Bank of the 
+
+Philippines, for proper management of TES; 
+(7.6.3) Provide bank account details for cheque received from the 
+
+CHED Regional Office, to the proper account maintained; 
+(7.6.4) xxxx; 
+(7.6.5) xxxx; 
+
+ 
+4.10 During the course of audit, we have noted that the MPC did not maintain a 
+
+separate bank account for the amount received for the TES program. Instead, 
+the funds received from the CHED-UNIFAST are being deposited in the 
+College’s STF bank account, contrary to Section XII, Item 7 of the JMC 
+No.004 s.2020. 
+
+ 
+4.11 We recommended that  Management: 
+
+ 
+a. maintain a separate bank account and SL for the TES fund for 
+
+proper account management; 
+ 
+
+b. submit Liquidation Report and return any unused fund to CHED-
+UniFAST; and 
+
+ 
+c. closely monitor and strengthen coordination with CHED, thru its 
+
+representative, and the College UniFAST Focal person, on the 
+release of grants and its related documents, to facilitate the timely 
+release of funds to student beneficiaries. 
+
+ 
+4.12 Management commented that they will open a separate bank account in 
+
+accordance with the guidelines. The Scholarship Coordinator will also 
+strengthen coordination with CHED to facilitate the timely release of the 
+TES funds to beneficiaries. 
+
+ 
+ 
+
+
+
+78 
+ 
+
+Rights to its Land and Building being occupied 
+ 
+5. The MPC had not asserted their rights as owner of Land and Buildings which 
+
+are being occupied by both public offices and private businesses, contrary to 
+Chapter 1, Title II of the Civil Code of the Philippines, thus depriving the 
+College of the benefits that it could have enjoyed from the use and lease of the 
+properties. 
+
+ 
+5.1 Chapter 1, Title II of the Civil Code of the Philippines provides the 
+
+following articles in the Ownership in General, among others, to wit: 
+ 
+
+Art. 428 The owner has the right to enjoy and dispose of a thing, 
+without other limitations than those established by law. 
+
+ 
+The owner has also a right of action against the holder and 
+possessor of the thing in order to recover it. (348a) 
+
+ 
+Art. 429  The owner or lawful possessor of a thing has the right to 
+
+exclude any person from the enjoyment and disposal thereof. 
+For this purpose, he may use such force as may be reasonably 
+necessary to repel or prevent an actual or threatened unlawful 
+physical invasion or usurpation of his property. (n) 
+
+ 
+Art. 433 Actual possession under claim of ownership raises disputable 
+
+presumption of ownership. The true owner must resort to 
+judicial process for the recovery of the property. (n) 
+
+ 
+Art. 434. In an action to recover, the property must be identified, and the 
+
+plaintiff must rely on the strength of his title and not on the 
+weakness of the defendant's claim. (n) 
+
+ 
+5.2 Section 122, PD No. 1445 also provides that unjustified failure on the part of 
+
+the official or employee concerned to submit the documents and reports 
+mentioned herein shall be considered a ground for the automatic suspension 
+of payment of salary until he shall have complied with the aforesaid 
+requirements, without prejudice to any disciplinary action that may be 
+instituted against him. 
+
+ 
+5.3 Records of the MPC showed that as of December 31, 2020, the Land account 
+
+has an outstanding balance of P35,044,800.00. This included a parcel of land 
+with a total perimeter of more or less 58,408 square meters per Transfer 
+Certificate of Title (TCT) Number (27764) 009-2017009920 and on an 
+account of a Deed of Sale between the Marikina Institute of Science and 
+Technology (MIST), which is the MPC now, and the National Housing 
+Authority. 
+
+ 
+
+
+
+79 
+ 
+
+5.4 On February 6, 2017, Mr. Alex O. Cervera Ed. D, Head, Building and Estate 
+of MPC conducted a measurement of the college perimeter and it was found 
+out that the estimated area of the College is about 46,500 square meters only, 
+thus a missing area of more or less 11,908 square meters from the total land 
+area of 58,408 square meters. 
+
+ 
+5.5 A relocation survey, conducted in 2018 by the MPC revealed that the 
+
+missing land area was being occupied by both public and private entities, the 
+identified occupants  therein are as follows:  
+
+ 
+a. Portions of Marikina City Hall; 
+b. The Office of Atty. Cesar Ching; and 
+c. Various commercial establishments along Shoe Avenue 
+
+ 
+The said portion of land was found to be located just outside the College 
+perimeter. 
+
+ 
+5.6 During the ocular inspection conducted by the Audit Team, it was validated 
+
+that the land was occupied by different entities, mostly stores and upon 
+random interview with the salespersons present in the area, it was revealed 
+that they are renting the place on a monthly basis from a private entity, and 
+that they are not aware that the MPC owns the property. 
+
+ 
+5.7 Also, review of records of MPC Buildings showed that six of the MPC 
+
+buildings located inside the College perimeter are being utilized by 
+Technical Education and Skills Development Authority (TESDA) and 
+Marikina Science High School. Details are as follows: 
+
+ 
+Table 22. Buildings Utilized by Other Entity 
+
+Article Description Property Number 
+Total Value 
+(In Pesos) 
+
+Marikina 
+Science High 
+
+School 
+
+Rodriguez 
+Building 
+(Bldg. 7- 
+Marikina 
+Science HS) 
+
+2-storey concrete 
+building, occupied as 
+Principal's office, faculty 
+room and classroom.  
+Floor area - 920.16 
+square meter.  
+Constructed in 1970, 
+Renovated in 1995. 
+
+26 565,000.00 
+
+Rodriguez 
+Building 
+(Marikina 
+Science High 
+School) 
+
+Permanent, concrete steel 
+trusses, long span 
+roofing.  Floor area - 536 
+square meter. 
+Constructed in December 
+1999 
+
+33                3,081,321.00 
+
+
+
+80 
+ 
+
+Article Description Property Number 
+Total Value 
+(In Pesos) 
+
+Rodriguez 
+Building 
+Annex (Bldg. 
+7) 
+
+Made of concrete 2-
+storey permanent 
+building, constructed by 
+DPWH.                  Floor 
+area - 105.60 sq. m., 
+completed Dec. 1998 
+
+26-A                1,785,432.04  
+
+TESDA 
+
+TESDA NTTA 
+Bldg. 
+
+4-storey building, 
+completed on May 7, 
+2005 
+
+no 
+available 
+P/N 
+
+               
+6,977,750.30  
+
+Ylagan Hall used as function hall 
+no 
+available 
+P/N 
+
+- 
+
+Dormitory 2-storey building 
+no 
+available 
+P/N 
+
+ -  
+
+Total Value   12,409,503.34  
+ 
+
+5.8 There were no available data for Ylagan Hall and Dormitory to date.  The 
+Property Officer said that when he assumed office in 2013, no data were 
+turned over to him. The use by these two entities of the Land and Buildings 
+of MPC was not covered by any usufruct nor lease agreement and no rental 
+income was derived from these properties. 
+
+ 
+5.9 Despite the continuous claims of the MPC that they are the rightful owner of 
+
+the abovementioned Land and Buildings, the MPC had neither asserted their 
+rights as provided in the articles above nor enforced legal action against the 
+individuals who are benefiting from the rent of the property.  These 
+properties could have been used by the MPC for their programs or as part of 
+their Income Generating Project (IGP), thus deprived the College of the 
+benefits and income which they could have gained from the use and lease of 
+property.  
+
+ 
+5.10 The MPC alleged that they are currently in the process of pursuing legal 
+
+claims against the above government and private entities to assert their 
+ownership over the properties by hiring a lawyer, but proof of the actions 
+taken and communications made to recover the property being used by 
+private individual/entities and other legal documentations/papers were not 
+furnished to COA for verification.  
+
+ 
+5.11 We recommended that Management: 
+ 
+
+a. pursue legal claims to assert their rights against the occupants and 
+lessors of the mentioned property in order to recover it or enjoy its 
+benefits in accordance with Chapter 1, Title II of the Civil Code of 
+the Philippines;  
+
+ 
+
+
+
+81 
+ 
+
+b. enter into usufruct/lease or agreement with the TESDA and 
+Marikina Science High School to set out guidelines on the use of 
+MPC premises and properties; and 
+
+ 
+c. inform/furnish the Audit Team with any actions taken and 
+
+communications made by the College to recover the property used 
+by private individual/entities and other legal documentations/papers 
+for verification within ten days from receipt hereof pursuant to 
+Section 122 of PD No. 1445. 
+
+ 
+5.12 Management commented that they will continue talks with TESDA and will 
+
+move to enter into a Memorandum of Agreement with them. They will also 
+investigate further the private entities occupying MPC property. 
+
+ 
+Delayed Submission of Financial Statements, Reports and Supporting Documents 
+ 
+6. Substantial delay ranging from ten to 238 days had been incurred in the 
+
+submission of the  required monthly and quarterly financial/accounting 
+reports and accounts together with the Official Receipts (ORs)/DVs/Payrolls 
+and their supporting documents, contrary to COA Circulars and pertinent 
+provisions of the GAM  for NGAs, Volume I, which precluded the Audit 
+Team from conducting timely audit of the transactions and analysis/review of 
+the Agency’s financial records, thus MPC  could not also institute 
+immediately the necessary adjustments/corrections and other remedial 
+measures to avoid possible audit suspensions/disallowances in post-audit. 
+
+ 
+6.1 The Head of the Agency, who is primarily responsible for all government 
+
+funds and property pertaining to his Office, shall ensure that the required 
+financial reports and statements are submitted by the concerned Agency 
+officials in such form and within the period prescribed by the Commission 
+on Audit. 
+ 
+
+6.2 Issuances, pertinent laws and related COA rules and regulations set timelines 
+on the preparation and submission of accounts, financial reports, statements, 
+trial balances and supporting schedules, records and other required reports to 
+the Office of the Auditor, as summarized below: 
+
+ 
+Table 23. Criteria for Submission of Reports 
+
+Report Title Deadline Basis 
+Report of Collections and Deposits 
+(RCD), Report of Cash 
+Disbursements (ROCD), Report of 
+Checks Issued (RCI), Liquidation 
+Reports (LR),  Report of 
+Accountability for Accountable 
+Forms (RAAF) 
+
+Every 10th day after 
+the end of each month 
+
+Section 7.2.1.a of 
+the Rules and 
+Regulations on the 
+Settlement of 
+Accounts (RRSA) as 
+prescribed under 
+COA Circular No. 
+2009-006 dated 
+
+
+
+82 
+ 
+
+Report Title Deadline Basis 
+September 15, 2009 
+
+Monthly Trial Balances (TBs) and 
+Supporting Schedules (SSs) including 
+the Journal Entry Vouchers (JEVs) 
+
+10 days after the end 
+of the month 
+
+Section 60-c, 
+Chapter 19 of the 
+GAM for NGAs, 
+Volume I Quarterly TBs, Financial Statements 
+
+(FSs) and SSs 
+10 days after the end 
+of the quarter 
+
+Year-end TBs, FSs and SSs 
+(consolidated) 
+
+February 14 of the 
+following year 
+
+Bank Reconciliation Statements 
+(BRS) 
+
+20 days after  receipt 
+of monthly Bank 
+Statements (BS)  
+
+Section 7, Chapter 
+21 of the GAM for 
+NGAs, Volume I 
+
+Statement of Appropriations, 
+Allotments, Obligations, 
+Disbursements and Balances – FAR 
+No. 1 (SAAODB) 
+
+30 days after the end 
+of each quarter 
+
+Section 32-a, 
+Chapter 3 of the 
+GAM for NGAs, 
+Volume I 
+ 
+
+Summary of Appropriations, 
+Allotments, Obligations, 
+Disbursements and Balances by 
+Object of Expenditures – FAR No. 
+1.A (SAAODBOE) 
+
+30 days after the end 
+of each quarter 
+
+List of Allotments and Sub-
+Allotments – FAR No. 1.B (LASA) 
+
+30 days after the end 
+of each quarter 
+
+Statement of Approved Budget, 
+Utilizations, Disbursements and 
+Balances – FAR No. 2 (SABUDB) 
+
+30 days after the end 
+of each quarter 
+
+Summary of Approved Budget, 
+Utilizations, Disbursements and 
+Balances by Object of Expenditures – 
+FAR No. 2.A (SABUDBOE) 
+
+30 days after the end 
+of each quarter 
+
+Quarterly Report of Revenue and 
+Other Receipts –FAR No. 5 
+(QRROR) 
+
+30 days after the end 
+of each quarter 
+
+Aging of Due and Demandable 
+Obligations – FAR No. 3 (ADDO) 
+
+On or before 30th day 
+following the end of 
+the year 
+
+Section 32-b, 
+Chapter 3 of the 
+GAM for NGAs, 
+Volume I 
+
+Monthly Report of Disbursements – 
+FAR No. 4 
+(MRD) 
+
+On or before 30th day 
+of the following 
+month covered 
+
+Section 32-c, 
+Chapter 3 of the 
+GAM for NGAs, 
+Volume I 
+
+Consolidated Statement of 
+Allotments, Obligations, and 
+Balances per Summary of 
+Appropriations under FCR under 
+GAA and SARO 
+
+On or before February 
+14 of the following 
+calendar year 
+
+Section 32-d, 
+Chapter 3 of the 
+GAM for NGAs, 
+Volume I 
+
+ 
+6.3 Also, Section 122 of PD No. 1445, on the Submission of Reports,  provides 
+
+that: 
+ 
+
+
+
+83 
+ 
+
+(1) Whenever deemed necessary in the exigencies of the service, the 
+Commission may under regulations issued by it require the 
+agency heads, chief accountants, budget officers, cashiers, 
+disbursing officers, administrative or personnel officers, and 
+other responsible officials of the various agencies to submit trial 
+balances, physical inventory reports, current plantilla of 
+personnel, and such other reports as may be necessary for the 
+exercise of its functions. 
+
+ 
+(2) Failure on the part of the officials concerned to submit the 
+
+documents and reports mentioned herein shall automatically 
+cause the suspension of payment of their salaries until they shall 
+have complied with the requirements of the Commission.  
+
+ 
+(3) No appropriation authorized in the General Appropriations Act 
+
+shall be available to pay the salary of any official or employee 
+who violates the provisions of this section, without prejudice to 
+any disciplinary action that may be instituted against such 
+official or employee. 
+
+       
+6.4 During the Entrance Conference  (EC) conducted on October 28, 2020, the 
+
+Audit Team had discussed with the Management the deadline for submission 
+of reports for CY 2020, which was reiterated in the Audit Team’s letter dated 
+November 04, 2020. 
+ 
+
+6.5 The attached Annex A shows the frequency of submission by the Accountant 
+of the DVs, Payrolls, ORs, JEVs, financial reports, Monthly TBs, Quarterly 
+FSs and Budget and Financial Accountability Reports (BFARs) for CY 
+2020. 
+
+ 
+6.6 It can be gleaned from the said Annex that except for the RAAF, the Agency 
+
+incurred substantial delay in the submission of accounts/DVs, Monthly TBs 
+and Quarterly FSs, ranging from ten to 238 days, contrary to various COA 
+Circulars and provisions of the GAM for NGAs, Volume I. We understand 
+that the College’s workforce is limited as employees are still in alternative 
+work arrangements, however, we would like to reiterate the importance of 
+submitting timely and complete required monthly and quarterly 
+financial/accounting reports for audit purposes.  
+
+ 
+6.7 The delayed submission of the said accounts, financial/accounting reports 
+
+and statements and other records/documents prevented the Audit Team from 
+conducting a timely audit and verification of financial transactions and 
+analysis/review of the Agency’s financial records, thereby Management was 
+not afforded relevant and timely financial information which could have 
+served as an aid in their decisions and inputs in enhancing financial 
+accountability. 
+
+
+
+84 
+ 
+
+6.8 We recommended that Management: 
+ 
+
+a. submit the reports within set deadlines and adhere strictly to the 
+provisions of the abovementioned provisions; 
+
+ 
+b. fast-track the preparation and submission of reports, which are long 
+
+overdue; and 
+ 
+
+c. subject the officials and employees concerned to automatic 
+suspension of their salaries and/or administrative disciplinary action 
+for any unjustified failure to comply with the requirements on the 
+submission of financial transactions, statements and reports as 
+provided in Section 122 of PD No. 1445. 
+
+ 
+6.9 Management commented that additional Job Order (JO) personnel were 
+
+already hired in the Accounting Office to minimize, if not to eliminate, the 
+delays in the submission of reports. 
+
+ 
+Absence of Internal Audit Service 
+ 
+7. MPC has no Internal Audit Service (IAS) as mandated under RA No. 3456, 
+
+Administrative Order (AO) No. 278 s.1992, AO No. 70 s. 2003 and related 
+issuances, which shall assist Management to achieve an efficient and effective 
+fiscal administration and performance of agency affairs and functions. 
+ 
+7.1 Section 2 of the RA No. 3456, known as the Internal Auditing Act of 1962, 
+
+states that:  
+ 
+
+There shall be created, organized and operated in all departments, 
+bureaus and offices of the National Government, internal audit 
+services which shall assist management to achieve an efficient and 
+effective fiscal administration and performance of agency affairs and 
+functions.  
+
+ 
+7.2 Section 1 of AO No. 278, s.1992, and AO No. 70 s. 2003 dated April 28, 
+
+1992 and April 14, 2003, respectively, require all heads of Government-
+Owned and/or Controlled Corporations (GOCCs), including Government 
+Financial Institutions (GFIs), State Universities and Colleges (SUCs) and 
+Local Government Units (LGUs), to organize an IAS in their respective 
+offices. 
+ 
+
+7.3 Section 1.1 of AO No. 278, s.1992 states that: “The Internal Audit Service 
+(IAS) shall be an integral part of the office/organization and shall assist the 
+institution management in the effective discharge of its responsibilities 
+insofar as the same would not encroach on or be adversarial with those of the 
+auditors of the Commission on Audit. It shall function in accordance with the 
+
+
+
+85 
+ 
+
+policies established by the provisions of RA No. 3456, as amended by RA 
+No. 4177, and shall perform staff functions with primary responsibilities 
+encompassing the examination and evaluation of the adequacy and 
+effectiveness of internal control and the quality of performance.”  
+
+ 
+7.4 In addition to the above duties, the same AO stated that IAS shall not be 
+
+responsible for or required to participate in procedures which are essentially 
+a part of regular operating activities or in operations, which are the primary 
+responsibility of another unit in the organization. The IAS shall be detached 
+from all functions of routine operating character, such as the following: 
+
+ 
+• Pre-audit of vouchers and counter-signature of checks; 
+• Inspection of deliveries, although the internal auditor may, as part of 
+
+his examination, observe inspection; 
+• Preparation of treasury and bank reconciliation statements; 
+• Development and installation of systems and procedures; however, in 
+
+exceptional cases, the internal auditor may assist by way of giving 
+suggestions; 
+
+• Taking physical inventories; however, the internal auditor may 
+review the plans in advance and observe and test-check the accuracy 
+of counting, costing and summarizing; 
+
+• Maintaining property records; and 
+• All other activities related to operations. 
+
+ 
+7.5 It further requires that Agencies without an internal audit service/unit shall 
+
+constitute one to be staffed by assigning or deploying personnel from other 
+units of the Agency. 
+
+ 
+7.6 Moreover, AO No. 70 s. 2003 mandates that the IAS shall assist the 
+
+Management in the effective discharge of its responsibilities, without 
+intruding into the authority and mandate of the Commission on Audit (COA) 
+granted under the Constitution. 
+
+ 
+7.7 Contrary to abovementioned laws and Presidential issuances, the MPC has 
+
+no IAS which shall assist Management to achieve an efficient and effective 
+fiscal administration and performance of agency affairs and functions. 
+
+ 
+7.8 Internal Audit is a cornerstone of good governance in organization and can 
+
+play an important role to improve management and accountability, both 
+financial and non–financial. This enables the College to anticipate potential 
+future concerns as well as identify current weaknesses. It also enables the 
+Institute to identify processes and controls that are not working effectively 
+and allows an opportunity to improve on these. 
+
+ 
+7.9 We recommended that Management comply with the rules and 
+
+regulations on the creation/organization and implementation of an 
+
+
+
+86 
+ 
+
+IAS/Internal Audit Unit (IAU) pursuant to RA No. 3456, AO No. 278, s. 
+1992; AO No. 70 s. 2003 and related issuances. 
+
+ 
+7.10 Management commented that they already issued a Memorandum for the 
+
+creation of the IAS, however, due to the absence of plantilla items, they still 
+have to identify qualified personnel to serve in the IAS. Nevertheless, 
+Management aims to establish the IAS before the end of the year. 
+
+ 
+Transparency Seal 
+ 
+8. The non-compliance by the Management with the requirements of various 
+
+sections of the General Provisions in the General Appropriations Act (GAA) 
+and the National Budget Circular (NBC) No. 542 dated August 29, 2012, on 
+transparency and public disclosure of government transactions, is depriving 
+the public of pertinent information necessary to enforce accountability among 
+the Officials of the Agency. 
+
+ 
+8.1 Section 94 of the General  Provisions of the GAA  for FY 2020  states that: 
+
+ 
+To enhance transparency and enforce accountability, all agencies of the 
+government shall maintain a Transparency Seal to be posted on their 
+websites. Xxxx 
+
+ 
+ The head of the agencies and their web administrator or their equivalent 
+shall be responsible for ensuring compliance with this section.  
+
+ 
+8.2 This compliance with the provisions on Transparency Seal as provided in the 
+
+General Provisions of the GAA FY 2020 was reiterated under the NBC No. 
+542 dated August 29, 2012. Moreover, it states that a Transparency Seal, 
+which is prominently displayed on the main page of the website of a 
+particular government agency, is a certificate that it has complied with the 
+Transparency Seal Requirement of the GAA.  
+ 
+
+8.3 Prior year’s exploration done by the Audit Team of the College’s website 
+(https://mpc.edu.ph) showed that the following requirements of the various 
+sections of the General Provisions of the GAA are either not complied with 
+or not updated by the College. 
+
+ 
+Table 24. Compliance to Transparency Seal 
+
+Information 
+Not Posted (x) 
+
+Remarks 
+2017 2018 2019 
+
+1 
+Agency’s Mandates, Vision, Mission and 
+List Officials - - - 
+
+Key Officials and  
+Directory do not have 
+contact information 
+
+2  DBM Approved Budget and Targets 
+• Approved Budget 
+• Targets/MFO Targets 
+
+ 
+- 
+X 
+
+ 
+- 
+X 
+
+ 
+- 
+X 
+
+Only Targets/MFO 
+Targets for CY 2019 is 
+uploaded. 
+
+
+
+87 
+ 
+
+Information 
+Not Posted (x) 
+
+Remarks 
+2017 2018 2019 
+
+3 Contracts awarded with the winning 
+supplier, contractor or consultant X X X Not Compliant 
+
+4 Status of Program/Project 
+Implementation and Beneficiaries X X X Not Compliant 
+
+5 Annual Budget Execution 
+Documents(BEDs)     
+
+a. BED 1– Financial  Plan X X - Only Financial Plan for 2019 is uploaded 
+
+b. BED 2 – Physical Plan X X X 
+
+Uploaded Physical 
+Plan is as of March 
+2018 & June 2018 
+only. 
+
+c. BED 3 – Monthly Disbursement 
+Program X X X Not Compliant 
+
+6 Financial Accountability Reports     
+a. FAR No. 1. Statement of 
+Appropriations, Allotments, Obligations, 
+Disbursements and Balances 
+(SAAOBDB) 
+
+X X X  FAR No.1 is as of June 2019 only 
+
+b. FAR No. 2 Statement of Approved 
+Budget, Utilizations, Disbursements and 
+Balances 
+
+X X X Not Compliant 
+
+c. FAR No. 3. Aging of Due and 
+Demandable Obligations (ADDO) X X X Not Compliant 
+
+d. FAR No. 4. Monthly Report of 
+Disbursements X X X Not Compliant 
+
+e. FAR No. 5. Consolidated Quarterly 
+Report of Revenue and other Receipts X X X Not Compliant  
+
+7 Status report on the actions taken on the 
+audit findings and recommendations of 
+the Commission on Audit within 60 days 
+upon receipt of the Annual Audit Report 
+
+X  X X Not Compliant 
+
+ 
+8.4 The above deficiencies were also noted in our prior year’s audit 
+
+observations. Verification of any updates in the above non-compliance 
+cannot be done by the Team as the College’s official website is currently 
+inaccessible as renewal of the website subscription is still in process. 
+
+ 
+8.5 The College’s non-compliance with and/or its non-update of the 
+
+Transparency Seal denied the public of vital information that will enable 
+them to productively participate in transactions which may involve or benefit 
+them.  
+
+ 
+8.6 Section 5.4 of the NBC No. 542 points out that the deficiency or delinquency 
+
+in the maintenance of the Transparency Seal may be considered as 
+tantamount to violation of Section 57 of the Chapter 6 (Budget 
+Accountability) of Book VI of the Administrative Code of 1987. 
+
+ 
+8.7 We reiterate that the Head of the College strictly ensure full compliance 
+
+with the requirements on transparency and public disclosure of 
+
+
+
+88 
+ 
+
+government transactions as provided in the General Provisions of the 
+GAA, FY 2020 and NBC  No. 542 dated August 29, 2012. 
+
+ 
+8.8 Management commented that they will comply with transparency seal 
+
+disclosures requirement in one week. 
+ 
+Non-Submission of Agency Action Plan and Status of Implementation (AAPSI) 
+ 
+9. Management did not provide the Audit Team with the required Agency 
+
+Action Plan and Status of Implementation (AAPSI) on the audit observations 
+and recommendations of 2019 and prior years despite repeated requests, 
+contrary to Section 89 of the General Provisions of the General 
+Appropriations Act (GAA) of 2020 or RA No. 11465. 
+ 
+9.1 The head of agency, who is primarily responsible for all government funds 
+
+and property pertaining to his office, shall ensure that the required reports are 
+submitted by the concerned agency official in such form and within the 
+period prescribed by the Commission on Audit. 
+
+ 
+9.2 Section 89 of the General Provisions of the General Appropriations Act of 
+
+2020 (RA No. 11465) provides that:      
+ 
+
+Within sixty (60) days from receipt of the COA Annual Audit Report, 
+agencies concerned shall submit to the COA, either in printed form or by 
+way of electronic document, a status report on the actions taken on said 
+audit findings and recommendations using the prescribed form under 
+COA Memorandum No. 2014-002 dated March 18, 2014. They shall 
+likewise furnish the DBM, the House Committee on Appropriations and 
+the Senate Committee on Finance, either in printed form or by way of 
+electronic document, a copy of said reports. 
+
+ 
+The head of agency concerned and the agency’s web administrator or 
+his/her equivalent shall be responsible for ensuring that said status reports 
+are posted on the agency’s website. 
+
+ 
+9.3 The Agency Action Plan (AAP) is prescribed in the Integrated Results and 
+
+Risk-Based Audit Manual (IRRBAM). It is a tool for government agencies 
+to indicate action plans on the audit observations and recommendations 
+contained in the Annual Audit Report (AAR), and for the auditor to monitor 
+the said action plans. Likewise, under the General Provisions of the annual 
+GAA, the audited agencies are required to submit within 60 days upon 
+receipt of the COA AAR a status report on the actions taken on the audit 
+observations and recommendations. 
+
+ 
+9.4 Management emailed an advance copy of AAPSI of CY 2019 Audit before 
+
+the issuance of AAR for CY 2019, however, such report contains only 
+
+
+
+89 
+ 
+
+actions to be taken by the Management. The AAP which includes Action 
+Plan, Person/Department Responsible and Target Implementation Date and 
+Status of Implementation were not filled out, thus makes it difficult for the 
+Audit Team to monitor and validate the status of the implementation of audit 
+recommendations. 
+
+ 
+9.5 The signed copy of the above AAPSI was not submitted to the Audit Team 
+
+despite commitment to submit the hard copy once signed and the said status 
+reports were not posted on the Agency’s website as required under Section 
+89 of GAA for CY 2020. 
+
+ 
+9.6 In previous year’s observation, the Audit Team recommended to the 
+
+Management to submit an updated and completely filled-out AAPSI to be 
+submitted within 60 days upon receipt of the COA AAR, containing a status 
+report on the actions taken on the audit observations and recommendations, 
+however no reports were submitted as to date.  Constant follow-ups through 
+phone calls, verbal communication and follow-up letters were also made 
+regarding the said report, but no compliance therewith was received from the 
+Management.  AAPSI of prior years’ audit were not submitted as well 
+despite repeated demands. 
+
+ 
+9.7 We acknowledged Management efforts to prepare the said report, however, 
+
+we would like to inform Management about the prescribed period set for its 
+submission since the Audit Team still has to verify, monitor and validate the 
+information contained in the AAPSI, in compliance with COA Memorandum 
+No. 2014-002 dated March 18, 2014. This non-submission of updated 
+AAPSI hinders the Audit Team in the timely validation of the actions taken 
+by Management on the audit recommendations. 
+
+ 
+9.8 We recommended that Management: 
+ 
+
+a. ensure that the required AAPSI on the audit observations and 
+recommendations of 2019 and prior years be submitted to COA on 
+time, copy furnished the DBM, the House Committee on 
+Appropriations and the Senate Committee on Finance, either in 
+printed form or by way of electronic document and post it on the 
+Agency’s website as required under Section 89 of the General 
+Provisions of the GAA of 2020 or  RA No. 11465.  
+ 
+
+b. use the prescribed form provided under COA Memorandum No. 
+2014-002 dated March 18, 2014 in the preparation of the AAPSI and 
+make sure that all fields are properly filled-out. 
+
+ 
+9.9 Management commented that the AAPSI was already submitted as of May 
+
+13, 2021. 
+ 
+
+
+
+90 
+ 
+
+Compliance with the Property Insurance Law 
+ 
+10. Non-compliance with the pertinent provisions of RA No. 656, or the Property 
+
+Insurance Law, resulted in over and under insurance of insurable properties, 
+thus there was a waste of government funds and exposure of properties to the 
+risk of not being amply indemnified for any damage suffered or loss due to 
+fire, earthquake, storm or other unforeseen events. Moreover, the MPC did 
+not submit Property Inventory Form (PIF) as required under COA Circular 
+No. 2018-002 dated May 31, 2018. 
+
+ 
+10.1 RA No. 656, or the Property Insurance Law was enacted to establish a 
+
+“Property Insurance Fund,” the administration of which was placed under 
+the GSIS. It was amended by PD No. 245 dated July 13, 1973, which 
+requires all government agencies to have their insurable properties, assets, 
+and interests insured with the GIF administered by the GSIS to ensure 
+compensation of the equivalent value thereof in case of loss thru fire, theft 
+or any unforeseen events. 
+
+ 
+10.2 The Office of the President and COA have been persistent in reminding all 
+
+National Government Agencies to enforce compliance with RA No. 656, 
+thus the following issuances have been issued: 
+
+ 
+a) Memorandum Circular No. 634 dated May 10, 1973 – requiring all 
+
+departments, bureaus, offices, agencies and instrumentalities of 
+government, all provincial, city and municipal governments and 
+government-owned and controlled corporations to insure their 
+properties and assets in accordance with Property Insurance Law; 
+
+ 
+b) COA Circular Nos. 79-112 dated August 30, 1979 and 92-390 dated 
+
+November 17, 1992 – to assist the GSIS in implementing the Property 
+Insurance Law; 
+
+ 
+c) Administrative Order No. 33 series of 1987 – prescribing guidelines 
+
+for insurance of all properties, contracts, rights of action and other 
+insurance risks of the government, including those in which the 
+government has an insurable interest, with the General Insurance Fund 
+(GIF) of the Government Service Insurance System (GSIS); and 
+
+ 
+d) COA Circular No. 2018-002 dated May 31, 2018 – prescribing the 
+
+submission of the Property Inventory Form as basis for the assessment 
+of general insurance coverage over all insurable assets, properties and 
+interests of the government with the  GIF of the GSIS. The Circular was 
+issued to assist in the implementation of the provisions of RA No. 656 
+on the insurance and bonding of risk on insurable government assets 
+and properties with the GIF. 
+
+ 
+
+
+
+91 
+ 
+
+10.3 The PPE account, which forms part of the insurable assets of the MPC, has 
+a balance of P152,927,048.38 as of January 1, 2020. Details are as follows: 
+
+ 
+Table 25. Insurable Assets of MPC as of January 1, 2020 
+
+PPE Account 
+Cost Accumulated Depreciation 
+
+Carrying 
+Amount  
+
+(In Pesos) 
+ Buildings  80,157,743.92  (23,000,646.00) 57,157,097.92  
+ Machineries  2,930,450.60   (1,648,107.13) 1,282,343.47  
+ Office Equipment  70,515,907.76   (3,595,070.10) 66,920,837.66  
+ Information and 
+Communication 
+Technology Equipment  
+
+13,460,736.24   (8,444,668.01) 5,016,068.23  
+
+ Communication 
+Equipment  
+
+840,099.07  38,605.72  878,704.79  
+
+ Medical Equipment  528,855.21   (765,598.84)  (236,743.63) 
+ Sports Equipment  124,000.00  -     124,000.00  
+ Technical and Scientific 
+Equipment  
+
+9,381,992.65   (4,206,521.03) 5,175,471.62  
+
+ Other Machinery and 
+Equipment  
+
+9,781,226.78   (3,502,954.21) 6,278,272.57  
+
+ Furniture and Fixtures   2,975,365.89  1,501,989.95  4,477,355.84  
+ Books  4,659,121.76   (1,649,273.81) 3,009,847.95  
+ Motor Vehicles  1,990,994.10  852,797.86  2,843,791.96  
+ Total  197,346,493.98  (44,419,445.60) 152,927,048.38  
+
+ 
+10.4 Evaluation of MPC’s compliance with the Property Insurance Law revealed 
+
+that on February 15, 2020, the MPC paid P643,855.44 insurance premiums 
+to the GSIS under Check No. 495810 dated February 28, 2020 for the 
+insurance of its PPE amounting to P134,051,363.01, for which GSIS issued 
+OR No. 7550043161 dated February 28, 2020. Summary of Inventory of 
+PPE Insured is shown below: 
+
+ 
+Table 26. Schedule of Insured PPE 
+
+Accounts Amount Insured (In Pesos) 
+Buildings and Other Structures 78,075,370.50 
+Office Equipment 2,690,860.28 
+Other Equipment 7,257,423.36 
+Technical and Scientific Equipment 9,465,218.81 
+Furniture and Fixtures  4,156,211.49 
+Books 3,492,083.00 
+Communication Equipment 1,509,175.35 
+Medical and Dental Equipment 594,017.17 
+Disaster Response and Rescue Equipment 1,635,783.84 
+Sports Equipment 222,452.80 
+Machineries and Equipment 6,891,029.96 
+IT Equipment and Software 18,061,736.45 
+Total 134,051,363.01 
+
+
+
+92 
+ 
+
+10.5 Comparison between the recorded Insurable Assets and Schedule of Insured 
+PPE showed an over and under insurance of properties, resulting in wastage 
+of government funds for over insurance and exposure of properties to the 
+risk of not being indemnified for any damage suffered or loss due to fire, 
+earthquake, storm or other unforeseen events in case of under insurance. A 
+Schedule of Discrepancies is shown below: 
+
+ 
+Table 27. Discrepancies in Insurable Amounts 
+
+PPE Account Insurable Assets  
+Amount 
+Insured 
+
+Discrepancy 
+(Over)Under 
+
+ (In Pesos) 
+Buildings and Other 
+Structures 
+
+57,157,097.92  78,075,370.50  (20,918,272.58) 
+
+Machineries and 
+Equipment 
+
+85,438,954.71  48,327,698.02  37,111,256.69  
+
+Transportation Equipment 2,843,791.96                         -    2,843,791.96  
+Furniture, Fixtures and 
+Books 
+
+7,487,203.79  7,648,294.49   (161,090.70) 
+
+Total 152,927,048.38  134,051,363.01  18,875,685.37  
+ 
+
+10.6 In the absence of an insurance coverage, the properties of the government 
+are not amply protected from the risk of non-indemnification in case these 
+will suffer any damage or loss due to fire, earthquake, storm or other 
+fortuitous events. By securing property insurance, the Agency mitigates the 
+risks of non-indemnification in case of loss and ensures the protection of 
+government resources. 
+
+ 
+10.7 Moreover, the MPC did not prepare and submit the Property Inventory 
+
+Form (PIF) to the Office of the Auditor, contrary to COA Circular No. 
+2018-002 dated May 31, 2018, which requires pertinent officials to prepare 
+the PIF listing all the insurable properties and other assets, showing their 
+latest appraised values/valuation, appraisal date, location and other 
+information as annexed thereto, and submit the same to the Supervising 
+Auditor or Audit Team Leader, and the GIF, GSIS, not later than April 30 
+of each year. 
+
+ 
+10.8 Section 5.5 of the same Circular also provides that: 
+ 
+
+Failure on the part of the agency officials concerned and the GSIS to 
+submit and receive, respectively, the documents and reports mentioned 
+therein, as well as the failure of the GSIS underwriting officials to 
+assess the premium due within the timeframe herein prescribed, shall 
+subsequently cause the suspension of the payment of their salaries until 
+they shall have complied with the requirements of RA No. 656 and its 
+Implementing Rules and Regulations, as well as the provisions of this 
+Circular. 
+
+ 
+
+
+
+93 
+ 
+
+10.9 Non-preparation of the required PIF deprives MPC to have an adequate 
+basis in determining the correct amount of insurance coverage and the 
+amount to be paid to GIF, and non-submission thereof hinders the Audit 
+Team in determining the accuracy of the amount paid as Insurance 
+Expenses. 
+
+ 
+10.10 We recommended that Management: 
+
+ 
+a. immediately secure property insurance of its uninsured assets in 
+
+compliance with the rules and regulations of RA No. 656, as 
+amended by PD No. 245, and record payment of insurance 
+premiums as prescribed; 
+
+ 
+b. prepare and submit the required PIF containing accurate valuation 
+
+of the properties reported therein, and make it the basis for 
+insurance coverage to prevent over and under insurance of the 
+insurable assets; and  
+
+ 
+c. impose appropriate sanction against the concerned responsible 
+
+officer in case of unjustifiable non-compliance with the submission 
+of PIF. 
+
+ 
+10.11 Management commented that they will coordinate with the GSIS for the 
+
+offsetting of over insured properties with under insured properties 
+ 
+Gender and Development (GAD), 
+ 
+11. MPC allotted 5.93 percent or P8,218,000.00 of the College’s total budget 
+
+appropriations authorized under the GAA of P138,608,000.00 to support 
+GAD plans and programs in compliance with Item 6.1 of PCW-NEDA-DBM 
+Joint Circular No. 2012-01. However, most of the College GAD projected 
+activities were not fully completed as 80.95 percent remained in progress and 
+not accomplished. Also, only 2.11 percent or P173,800.00 of its total approved 
+agency budget was utilized, leaving P8,044,200.00 unutilized allotment, thus 
+not fully compliant with the provisions of the foregoing Joint Circular 
+resulting in the inability to completely address  GAD related concerns. 
+
+ 
+11.1 EO No. 273 (Approving and Adopting the Philippine Plan for Gender-
+
+Responsive Development (PPGD 1995-2025) mandates that the agencies 
+incorporate and reflect GAD concerns in their agency performance 
+commitment contracts, annual budget proposals, and work and financial 
+plan 
+
+ 
+11.2 Item 6.1 of Joint Circular No. 2012-01 provides that at least five percent of 
+
+the total agency budget appropriations authorized under the annual GAA 
+shall correspond to activities supporting GAD plans and programs. The 
+
+
+
+94 
+ 
+
+GAD budget shall be drawn from the agency’s MOOE, CO and PS. It is 
+understood that the GAD budget does not constitute an additional budget 
+over an agency’s total budget appropriations. 
+
+ 
+11.3 In addition, Items 11.1 and 11.2 of Joint Circular No. 2012-01 state that:  
+
+ 
+“Pursuant to Section 36 of the MCW, The Commission on Audit (COA) 
+shall conduct an annual audit on the use of the GAD budget for the purpose 
+of determining its judicious use and the efficiency and effectiveness of 
+interventions in addressing gender issues towards the realization of the 
+objectives of the country’s commitments, plans, and policies on women’s 
+empowerment, gender equality and GAD. Provided further in Section 37 of 
+the MCW-IRR, the COA shall conduct an annual audit of GAD funds of all 
+government agencies, offices, bureaus, SUCs, GOCCs, all government 
+instrumentalities and all others concerned.” 
+
+ 
+11.4 Pursuant to the provisions of FY 2020 GAA, the GAD Plan shall be 
+
+integrated in the regular activities of the agencies which shall be at least 
+five percent of the total appropriations allotted to them. For CY 2020, MPC 
+has a total appropriation of P138,608,000.00, of which P8,218,000.00 or 
+5.93 percent of it was allotted for GAD Plans and Targets.  
+
+  
+11.5 For CY 2020, the College submitted the annual GAD Accomplishment 
+
+Report in accordance with the format prescribed under Annex B of Joint 
+Circular No. 2012-01, which includes columns for: a) GAD Activities 
+Submitted to the PCW and CHED;  b) MPC Activity; c) Approved GAD 
+Budget; and d) Actual Cost/Expenditure per project/program/activity. 
+
+ 
+11.6 We reviewed the MPC’s GAD Plan and Accomplishment for CY 2020 and 
+
+observed that the activities set to be accomplished in 2020 were not fully 
+completed, as follows:  
+
+ 
+Table 28. GAD Plan and Accomplishment for CY 2020 
+
+GAD  Activities 
+Submitted to PCW and 
+
+CHED 
+
+MPC Activity 
+(Actual 
+
+Result/Output) 
+
+GAD 
+Budget 
+
+(In Pesos) 
+
+Actual Cost/ 
+Expenditure 
+
+(In Pesos) 
+
+Percent-
+age 
+
+Variance 
+Under/ 
+(Over) 
+
+Expenditure 
+(In Pesos) 
+
+Client-Focused 
+1. Conduct Orientation 
+Program, Career 
+Symposia, Career 
+Counseling and Career 
+Campaign, Parents 
+Conference and 
+Intervention Program 
+
+Not 
+implemented  
+
+200,000.00 0.00 - 200,000.00 
+
+2. Construction of Day 
+Care Center 
+
+Ongoing 
+construction of 
+the building 
+
+500,000.00 Undetermined - 500,000.00 
+
+
+
+95 
+ 
+
+GAD  Activities 
+Submitted to PCW and 
+
+CHED 
+
+MPC Activity 
+(Actual 
+
+Result/Output) 
+
+GAD 
+Budget 
+
+(In Pesos) 
+
+Actual Cost/ 
+Expenditure 
+
+(In Pesos) 
+
+Percent-
+age 
+
+Variance 
+Under/ 
+(Over) 
+
+Expenditure 
+(In Pesos) 
+
+3. Gender Awareness 
+Seminar to NSTP students 
+
+Not 
+implemented  
+
+100,000.00 0.00 - 100,000.00 
+
+4. Conduct of one week 
+Shoe and Leathercraft 
+Training Program, 
+Recycled Garment 
+Production, Food 
+Processing and 
+Preservation 
+
+Not 
+implemented  
+
+150,000.00 
+ 
+ 
+ 
+
+0.00 
+ 
+ 
+ 
+ 
+
+- 
+ 
+
+ 
+
+150,000.00 
+
+5. Renovate unused 
+rooms to be used as a 
+separate comfort room for 
+students  
+
+Ongoing 
+construction of 
+the building 
+
+1,000,000.00 Undetermined - 1,000,000.00 
+
+6. Adopt a CR Program Ongoing 
+construction of 
+the building 
+
+288,000.00 Undetermined - 288,000.00 
+
+7. Conduct orientation 
+seminar about RA 
+Violence Against Women 
+and their children, Sexual 
+Harassment, Anti-Rape 
+Law 
+
+Not 
+implemented  
+
+100,000.00 0.00 - 100,000.00 
+
+8. Information campaign 
+about the MPC GAD 
+Manual’s Procedure for 
+Reporting Sexual 
+Harassment Cases 
+
+Not 
+implemented  
+
+100,000.00 0.00 - 100,000.00 
+
+9. Assign and renovate at 
+least one dressing room in 
+every laboratory 
+
+Ongoing 
+construction of 
+the building 
+
+700,000.00 Undetermined - 700,000.00 
+
+Organization-Focused 
+10. Conduct researches 
+about the sensitivity of 
+MPC Community with 
+various gender-fair issues 
+and about various gender 
+research agenda 
+
+Not 
+implemented  
+
+180,000.00 0.00 - 180,000.00 
+
+11. Collect and safekeep in 
+the Library GAD-related 
+books, magazines and 
+other reading materials 
+
+Implemented  200,000.00 
+ 
+ 
+
+10,000.00 
+ 
+ 
+
+5 
+ 
+
+190,000.00 
+ 
+
+12. Recognize empowered 
+women; motivate them to 
+achieve more, help and 
+serve others: Form a 
+commitment selection and 
+guidelines; Disseminate 
+guidelines and encourages 
+all women in MPC to join; 
+Submission of credentials 
+
+Not 
+implemented  
+
+100,000.00 0.00 - 100,000.00 
+
+
+
+96 
+ 
+
+GAD  Activities 
+Submitted to PCW and 
+
+CHED 
+
+MPC Activity 
+(Actual 
+
+Result/Output) 
+
+GAD 
+Budget 
+
+(In Pesos) 
+
+Actual Cost/ 
+Expenditure 
+
+(In Pesos) 
+
+Percent-
+age 
+
+Variance 
+Under/ 
+(Over) 
+
+Expenditure 
+(In Pesos) 
+
+by the candidates; Panel 
+interview and selection of 
+“GADtimpala” for women 
+awardee; Awarding 
+ceremonies for 
+GADtimplala 2020 
+13. Provide lactation room 
+with refrigerator for 
+breastfeeding 
+teachers/employees 
+
+Ongoing 
+construction of 
+the building 
+
+500,000.00 Undetermined - 500,000.00 
+
+14. Conduct sports 
+competition for different 
+sports events 
+
+Not 
+implemented  
+
+500,000.00 0.00 - 500,000.00 
+
+15. VIP Orientation 
+Seminar 
+
+Implemented – 
+Webinar was 
+conducted last 
+November 16, 
+2020 
+
+500,000.00 12,500.00 2.5 487,500.00 
+
+16. Sustain capacity 
+building program of the 
+MPC GAD Office 
+
+Not 
+implemented  
+
+200,000.00 0.00 - 200,000.00 
+
+17. Crisis Management 
+Intervention Program 
+
+Not 
+implemented  
+
+100,000.00 0.00 - 100,000.00 
+
+18. Work and Life 
+Balance: Burn Out 
+Prevention and Stress 
+Management Seminar; 
+Team Building Program 
+and Activities 
+
+Implemented 
+with minimal 
+cost because of 
+the Pandemic 
+
+1,500,000.00 14,400.00 .96 1,485,600.00 
+
+19. One-day seminar about 
+workplace and Cyber 
+Bullying 
+
+Webinar was 
+conducted last 
+December 16, 
+2020 
+
+500,000.00 14,400.00 2.88 485,600.00 
+
+20. Establishment and 
+operation of Day Care 
+Center inside the campus 
+
+Ongoing 
+construction of 
+the building 
+
+500,000.00 Undetermined - 500,000.00 
+
+21. Observance and 
+celebration of Senior 
+Citizens’ Month through a 
+conduct of a 
+Tribute/Program 
+
+Not 
+implemented  
+
+300,000.00 0.00 - 300,000.00 
+
+22. Safe environment at 
+this time of pandemic for 
+men and women of MPC 
+
+Purchased 2 
+thermal guns, 
+face masks, 
+hand sanitizers 
+and alcohol 
+
+Not in the 
+Approved 
+GAD Plan 
+
+for CY 2020 
+
+42,500.00 - (42,500.00) 
+
+23. Prioritize and protect 
+the well-being of all 
+employees through printed 
+constant reminders 
+
+10 pieces 
+tarpaulins about 
+Covid 19 were 
+produced 
+
+10,000.00 - (10,000.00) 
+
+
+
+97 
+ 
+
+GAD  Activities 
+Submitted to PCW and 
+
+CHED 
+
+MPC Activity 
+(Actual 
+
+Result/Output) 
+
+GAD 
+Budget 
+
+(In Pesos) 
+
+Actual Cost/ 
+Expenditure 
+
+(In Pesos) 
+
+Percent-
+age 
+
+Variance 
+Under/ 
+(Over) 
+
+Expenditure 
+(In Pesos) 
+
+24. Intervention 
+approach in Sexual 
+Harassment and Bullying 
+situation 
+
+Implemented on 
+December 23, 
+2020 
+
+70.000.00 - (70,000.00) 
+
+Total Amount 8,218,000.00 173,800.00  8,044,200.00 
+ 
+
+11.7 Results of review of MPC GAD plan/activities and accomplishment report 
+for CY 2020 showed that out of 21 total approved planned activities, four 
+were accomplished, six were in-progress and 11 were not accomplished, as 
+shown below: 
+
+ 
+Table 29. Results of Review of MPC GAD Plan & Accomplishment 
+
+Focused Task Status Activity Number Total No. 
+
+Accomplish-
+ment Rate 
+
+(AR) 
+
+Client - 
+Focused 
+
+Accomplished - - - 
+Not Accomplished 1, 3, 4, 7, 8 5 55.56% 
+In-progress (amount 
+undetermined) 
+
+2, 5, 6, 9 4 44.44% 
+
+Organization - 
+Focused 
+
+Accomplished 11, 15, 18, 19 4 33.33% 
+Not Accomplished 10, 12, 14, 16, 17, 21 6 50.00% 
+In-progress (amount 
+undetermined) 
+
+13, 20  2 16.67% 
+
+ 
+Table 30. Summary of Activity status 
+
+Task Status Activity Numbers Total Numbers of Activities AR 
+
+Accomplished 11, 15, 18, 19 4 19.05% 
+Not Accomplished  1, 3, 4, 7, 8, 10, 12, 
+
+14, 16, 17, 21 
+11 52.38% 
+
+In progress 2, 5, 6, 9, 13, 20 6 28.57% 
+Total  21 100.00% 
+
+ 
+11.8 With reference to the foregoing table, CY 2020 targeted activities in MPC’s 
+
+GAD plan were not fully completed as 80.95% remain in-progress and not 
+accomplished. Management disclosed that the reasons for the above rate 
+were due to legal restrictions imposed by the government brought about by 
+the Pandemic.   
+
+ 
+11.9 From the above tables, we further observed the following: 
+ 
+
+• only 2.11 percent or P173,800.00 of its total approved agency budget of 
+P8,218,000.00 was utilized, leaving a balance of P8,044,200.00 
+unutilized allotment; 
+
+ 
+
+
+
+98 
+ 
+
+• the last three activities were not included in the PCW-approved GAD 
+Plan and Budgets (GPBs). The College shall inform PCW if there are 
+changes in the PCW-endorsed GPBs as a result of revising the GPB 
+based on approved GAA and/or the need to implement additional PAPs 
+relevant to current gender issues or GAD-related undertakings as needed; 
+
+ 
+• six activities scheduled in CY 2020 GAD Plan are still in-progress status 
+
+and expenses incurred on these six ongoing construction projects were 
+not yet accounted. These activities should have been finished by the end 
+of CY 2020 as planned. Percentage of expenses and accomplishment for 
+the ongoing six construction projects should have been reported or 
+quantified at the end of the calendar year to see the actual utilization of 
+the approved agency budget for GAD; and 
+
+ 
+• activity number 21 is intended for the Elderly Citizens and Persons with 
+
+Disability, yet this was included in the GAD Accomplishment Report. 
+The Agency should have a separate set of projected activities for PWD 
+and the elderly. 
+
+ 
+11.10 We understand the reason for non-implementation of the targeted activities 
+
+which are beyond the control of the Management. While we recognize that 
+GAD plans are flexible due to the Pandemic, the average achievement rate 
+of 19.05 percent and 2.11 percent utilization rate are not satisfactory. 
+College-targeted GAD Plan activities in CY 2020 were not substantially 
+accomplished and completed, which adversely affected the attainment of 
+College goals and objectives on GAD related concerns. 
+
+ 
+11.11 Management may consider improving goal settings that starts with 
+
+prioritization of activities and careful consideration of what the College 
+wants to achieve. Prioritization provides a way to sort a diverse set of items 
+into an order of importance. It also identifies their relative importance by 
+deriving a numerical value for the priority of each item. It will provide a 
+means for ranking projects based on criteria that are determined to be 
+important. This enables the College to see clearly which projects are the 
+most important to focus on first, and which, if any, could be put on hold or 
+discontinued. 
+
+ 
+11.12 With the information above, GAD planned activities for CY 2020 were not 
+
+fully completed, thus the objectives were not fully attained. 
+ 
+
+11.13 We recommended that Management, thru the GAD Focal Committee: 
+ 
+
+a. enhance its GAD planning, budgeting, target setting and 
+implementation by setting a reasonable and realistic GPBs and time 
+frame to complete the activities and prevent postponement of 
+planned activities;  
+
+
+
+99 
+ 
+
+b. implement a robust monitoring on the completion and 
+implementation of the GAD Plan activities and Budgets to ensure 
+higher utilization rate and full accomplishment of the projects to 
+attain College GAD related objectives; and  
+
+ 
+c. strictly comply with the requirements of PCW-NEDA-DBM Joint 
+
+Circular No. 2012-01 by considering only GAD related 
+undertakings and approved GPBs, otherwise, the College shall 
+inform PCW if there are changes in the PCW-endorsed GPBs. 
+
+ 
+11.14 Management commented that they moved to improve their GAD Planning 
+
+and exert all efforts to implement them. 
+ 
+Senior Citizens and Differently-Abled Persons 
+ 
+12. MPC did not prepare/submit a comprehensive plan intended to address the 
+
+concerns of Senior Citizens (SCs) and Persons with Disability (PWDs), as 
+required under Section 32 of the General Provisions of Republic Act (RA) No. 
+11465 for CY 2020. 
+
+ 
+12.1 Section 32 of the General Provisions of RA No.11465 requires all agencies 
+
+of the government to formulate plans, programs and projects intended to 
+address the concerns of SCs and PWDs, insofar as it relates to their 
+mandated functions, and integrate the same in their regular activities. 
+
+ 
+12.2 Moreover, all government facilities, including infrastructure, non-
+
+infrastructure and civil works project of the government, as well as office 
+buildings, streets and highways shall provide architectural features, designs 
+or facilities that will reasonably enhance the mobility, safety and welfare of 
+persons with disability pursuant to Batas Pambansa Blg. 344 and RA No. 
+7277.   
+
+ 
+12.3 We noted that the CY 2020 Physical and Financial Plans did not contain a 
+
+comprehensive plan that would lead to the achievement of Programs and 
+Projects related to SC and PWDs. 
+
+ 
+12.4 Per review of the GAD Accomplishment Report submitted, MPC included 
+
+one activity for the SCs and differently-abled persons. Its objective is to 
+make them feel that they are special and important members of the school 
+community. However, the activity was not done due to the COVID-19 
+Pandemic where SC and PWDs were required to stay at home. 
+
+ 
+12.5 We also observed that based on the submitted FY 2020 Physical and 
+
+Financial Plans, no data refer to 2020 Financial Performance/Target. 
+ 
+
+12.6 The Physical and Financial Plan needs to be enhanced. A plan should 
+contain a list of steps that must be taken in order to achieve a specific goal. 
+
+
+
+100 
+ 
+
+It is supposed to clarify what resources are required to reach the goal, 
+formulate a timeline for when specific tasks need to be completed, 
+determine what resources are required, a list of activities with concrete 
+targets, and a set of indicators to be monitored. As a consequence, tracking 
+of the progress of its implementation can be challenging. 
+
+ 
+12.7 Inasmuch as MPC livelihood program benefited Senior Citizens and PWDs, 
+
+MPC must have separate programs or projects intended to address the 
+concerns of SCs and PWDs, as this is required under Section 32 of the 
+General Provisions of RA No. 11465. 
+
+ 
+12.8 We recommended that Management prepare a comprehensive plan for 
+
+Senior Citizens and PWDs with concrete targets, timelines and 
+benchmarks and facilitate monitoring of the progress of its 
+implementation. 
+
+ 
+12.9 Management commented that through the HRDO, they will include a 
+
+comprehensive plan for Senior Citizens and PWDs in its planning and exert 
+all efforts to implement them. 
+
+ 
+Remittances to GSIS, BIR, PhilHealth, and Pag-IBIG Fund 
+ 
+13. For CY 2020, the Agency has faithfully deducted from the salaries of its 
+
+personnel the required taxes and premiums and remitted the same as well as 
+the government share within the prescribed period to the concerned 
+institutions or agencies as provided under pertinent rules and regulations. 
+
+ 
+13.1 Section 7 of the BIR Revenue Regulations No. 1-2013 dated January 23, 
+
+2013 states that the due date for filing of tax returns withheld from suppliers 
+should be on or before the 10th day following the month in which 
+withholding was made, except for taxes withheld for the month of 
+December of each year, which shall be filed on or before January 15 of the 
+succeeding year. 
+
+ 
+13.2 Section 14.1, Rule III of RA No. 8291, the GSIS Act of 1997, requires that 
+
+each government agency shall remit directly to the GSIS the employees’ 
+and government agency’s contributions within the first ten days of the 
+calendar month following the month to which the contributions apply. The 
+remittance by the government agency of the contributions to the GSIS shall 
+take priority over and above the payment of any and all obligations, except 
+salaries and wages of its employees. 
+
+ 
+13.3 Section 3 (b and c), Rule VII of the Implementing Rules and Regulations of 
+
+RA No. 9679, the Home Development Mutual Fund Law of 2009 states 
+that: 
+
+ 
+
+
+
+101 
+ 
+
+b. Every employer required to set aside and remit such contributions 
+as prescribed under RA No. 9679 and these Rules shall be liable 
+for their payment, and non-payment thereof shall further subject 
+the employer to a penalty of three percent (3%) per month of the 
+amounts payable from the date the contributions fall due until 
+paid. Every employer who actually deducts from the salary of his 
+employee the latter’s loan amortization or payments to the Fund, 
+as provided for under these Rules, shall be liable for their 
+payment, and non-payment thereof shall likewise further subject 
+the employer to a penalty of three percent (3%) per month of the 
+amounts payable from the date the loan amortizations or payments 
+fall due until paid. 
+
+ 
+c. It shall be mandatory and compulsory for all government 
+
+instrumentalities, agencies, including government-owned and 
+controlled corporations, to provide the payment of contributions 
+in their annual appropriations. Penal sanctions shall be imposed 
+upon these employers who fail to include the payment of 
+contributions on time, or delay the remittance of the required 
+contributions to the Fund. The heads of offices and agencies shall 
+be administratively liable for non-remittance of the required 
+contributions to the Fund.  
+
+ 
+13.4 As of December 31, 2020, the amounts withheld and remitted by MPC were 
+
+shown below: 
+ 
+
+Table 31. Schedule of Amount Withheld and Remitted 
+Area Accounts 
+
+Affected 
+Status 
+
+Compliance with 
+Tax Laws 
+
+Due to BIR Of the P7,768,654.29 taxes withheld by MPC for CY 
+2020, P7,067,162.43 was paid as of yearend while 
+P701,491.86 was remitted in January 8 and 11, 2021. 
+
+Deduction and 
+Remittance of 
+GSIS Premiums 
+
+Due to GSIS For CY 2020, the MPC has withheld appropriate 
+employees’ personal premium, loans amortizations 
+and government share in the total amount of 
+P14,897,102.98. The amount of P14,290,531.54 was 
+remitted during the year and the balance of 
+P606,571.44 was remitted on January 8, 2021. 
+
+Deduction and 
+Remittance of 
+PhilHealth 
+Premiums 
+
+Due to 
+PhilHealth 
+
+For CY 2020, the amount of P2,262,383.99 was 
+withheld for the premiums of MPC employees. The 
+amount of P2,073,185.11 was remitted during the year 
+and the amount of P189,198.88 was remitted on 
+January 7 and 8, 2021. 
+
+Deduction and 
+Remittance of 
+Pag-IBIG 
+Premiums 
+
+Due to Pag-
+IBIG 
+
+For CY 2020, the MPC has withheld appropriate 
+employees fund contributions, short term loan 
+amortization and government share in the total amount 
+of P3,096,204.84. The amount of P2,840,406.58 was 
+remitted in the same year, while the balance of   
+P255,798.26 was remitted on January 6, 2021. 
+
+
+
+102 
+ 
+
+13.5 We commended Management for adhering to laws, rules and 
+regulations concerning BIR, GSIS, Pag-IBIG and PhilHealth. 
+
+ 
+Status of Settlements of Audit Suspensions and Disallowances/Charges 
+
+ 
+14. Total disallowances of P282,250.04 as reflected in the Statement of Audit 
+
+Suspensions, Disallowances and Charges (SASDC) remained unsettled as of 
+December 31, 2020. 
+
+ 
+14.1 COA Circular No. 2009-006 dated September 15, 2009 prescribes the 2009 
+
+Rules and Regulations on the Settlement of Accounts (RRSA), which 
+provides, among others, that the Auditor shall issue a Notice of 
+Disallowance (ND)/Notice of Charge (NC) for differences/balances 
+resulting from the audit of the accounts. A Notice of Suspension (NS) may 
+be issued pending compliance with various requirements for transactions, 
+which may result in pecuniary loss to the government. The suspensions, 
+disallowances and charges shall continue to be monitored and enforced by 
+COA. 
+
+ 
+
+14.2 The beginning balance of unsettled disallowances was P311,638.47, of 
+which P29,388.43 was settled during the year, leaving an unsettled balance 
+of P282,250.04.  The total amount of unsettled disallowances pertains to the 
+payment of legal services made in previous years, double payment of 
+Honoraria to the BOT Members and excessive payment of Extraordinary 
+and Miscellaneous Expenses (EME). Details are as follows: 
+
+ 
+Table 32. Audit Suspensions, Disallowances and Charges 
+
+Particulars Nature 
+
+Beginning 
+Balance 
+
+01/01/2020 
+(In Pesos) 
+
+CY 2020 
+Balance 
+
+(In Pesos) Remarks/ Status 
+Issued 
+
+(In 
+Pesos) 
+
+Settled 
+(In Pesos) 
+
+ND No. 
+2012-001-
+164(10) 
+
+Irregular 
+payment of 
+legal services 
+
+265,500.00   7,500.00 258,000.00 
+
+Management sent 
+the COA Order of 
+Execution (COE) 
+thru registered mail 
+on August 1, 2017 
+to Atty. Francis U. 
+Villanueva and 
+Engr. Henry L. 
+Lañada, former 
+MPC President, 
+who has already 
+resigned on 
+November 16, 2016. 
+Ms. Maribeth M. 
+Monsad has not yet 
+requested for 
+authority to pay in 
+installment and the 
+Management did 
+
+
+
+103 
+ 
+
+Particulars Nature 
+
+Beginning 
+Balance 
+
+01/01/2020 
+(In Pesos) 
+
+CY 2020 
+Balance 
+
+(In Pesos) Remarks/ Status 
+Issued 
+
+(In 
+Pesos) 
+
+Settled 
+(In Pesos) 
+
+not yet withhold her 
+salary as of report 
+date. 
+
+ND No. 
+2010-001-
+101(08) 
+
+Double 
+payment of 
+honorarium 
+
+14,100.00                     -    - 14,100.00 
+
+Follow-up letters 
+dated December 28, 
+2017 were sent 
+through registered 
+mail to four BOT 
+Members whose 
+Honoraria were 
+disallowed for 
+double payment. 
+Photocopies of 
+proof of delivery 
+were submitted to 
+COA. 
+
+ND No. 
+2018-001-
+101(15) 
+
+Excessive 
+payment of 
+EME 
+  
+
+10,150.04   - 10,150.04 
+
+To be settled thru 
+salary deductions 
+
+ND No. 
+2018-002-
+101(15-16) 
+
+4,350.02   
+             
+
+4,350.02  - 
+
+ND No. 
+2018-006-
+101(16) 
+
+5,528.27   5,528.27 - 
+
+ND No. 
+2018-007-
+101(17) 
+
+4,058.15           4,058.15  - 
+
+ND No. 
+2018-010-
+101(17) 
+
+7,951.99           7,951.99  - 
+
+Subtotal   311,638.47 - 29,388.43 282,250.04   
+ 
+
+14.3 We recommended that Management demand from the persons liable 
+the immediate refund/settlement of the disallowances in accordance 
+with the RRSA. 
+
+ 
+14.4 Management commented that the disallowance is being paid gradually 
+
+through salary deduction. 
+ 
+
+
+
+

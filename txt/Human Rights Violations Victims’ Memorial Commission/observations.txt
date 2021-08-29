@@ -1,0 +1,1226 @@
+AUDIT OBSERVATIONS AND RECOMMENDATIONS 
+
+
+
+FINANCIAL ISSUES
+
+
+
+	Accounting deficiencies 
+
+	
+
+1)	Various accounting deficiencies in keeping the accounts of the Human Rights Violations Victims’ Memorial Commission (HRVVMC) have affected the Assets accounts by P2.699 million and such deficiencies have ultimately affected the fair presentation of the reported account balances in the financial statements. 
+
+
+
+	1)	Paragraph 27 of International Public Sector Accounting Standards (IPSAS) 1 requires that financial statements shall present fairly the financial position, financial performance and cash flows of an entity. Fair presentation requires the faithful representation of the effects of transactions, other events and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses. The application of IPSASs, with additional disclosures when necessary, is presumed to result in financial statements that achieve a fair presentation.
+
+
+
+	2)	Section 111, Chapter 2 of the Presidential Decree (PD) No. 1445 requires the agency to keep the accounts in such detail as necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	3)	Commission on Audit (COA) Resolution No. 2019-016 adopted the Guidelines on determining and using materiality threshold in financial audit.  Based on this Guidelines, we determined and set the overall materiality as two percent of the total expenses of the HRVVMC for CY 2020 or P494,779.73. 
+
+
+
+	4)	The audit of accounts and transactions of the HRVVMC on a test basis disclosed some deficiencies that have relevant impact on the fair presentation of the year-end balance of assets, liabilities and net assets/equity, as presented in Annex B – Analysis of the Effect of Misstatements on the Financial Statements.
+
+
+
+	5)	The accounting deficiencies noted are discussed in detail below. 
+
+
+
+a)	Unreliable balance of Inventory accounts
+
+
+
+		1)	The accuracy, existence and reliability of Inventories totaling P1.018 million could not be ascertained due to unresolved variance of P1.067 million between accounting and inventory records resulting from non-preparation of the Request and Issue Slip (RIS) and Report of Supplies and Materials Issued (RSMI) in issuing inventories and incomplete Report of Physical Count of Inventories (RPCI).  Moreover, the HRVVMC is confronted by risk of inventory losses/ misappropriation amidst the absence of an effective inventory tracking and monitoring. 
+
+
+
+			1)	The Inventory Accounting System consists of the system of monitoring, controlling and recording of acquisition and disposal of inventory.  Physical count/inventory, which is required semi-annually, is an indispensable procedure for checking the integrity of property custodianship. (Sec. 13, Chapter 8, GAM Volume I)
+
+
+
+			2)	Requisition and Issue Slip (RIS) (Appendix 63) – shall be used by the end-user to request issue of supplies and materials that are carried on stock. It is also used by the Property and/or Supply Division/Unit to indicate availability or non-availability of items requisitioned and/or to record issues of item/s requisitioned. (Sec. 17(d), Chapter 8, GAM Volume I).
+
+
+
+			3)	Report of Supplies and Materials Issued (RSMI) (Appendix 64) – shall be prepared by the Property and/or Supply Custodian based on the RIS and shall be used by the Accounting Division/Unit as basis in preparing the JEV to record the supplies and materials issued. (Sec. 17(g), Chapter 8 of GAM Volume I).  The Accounting Division/Unit and Supply and/or Property Division/Unit shall conduct periodic reconciliation of the SLC and SC to identify and adjust any discrepancy.
+
+
+
+			4)	Sec. 17(i) further provides: Report on the Physical Count of Inventories (RPCI) (Appendix 66) – shall be used to report the physical count of supplies by type of inventory as at a given date. It shows the balance of inventory items per card and per count and shortage/overage, if any. These include the semi-expendable property wherein the issue is covered by ICS.
+
+
+
+			5)	Verification of the accounting and property records disclosed a variance of P1,067,861.22 in the Inventory account balances as shown in Table 1.
+
+
+
+Table No. 1. – Comparison of Inventory balances per Accounting and Report on the Physical Count of Inventory (RPCI)
+
+Inventories
+
+Per GL
+
+Per RPCI
+
+Variance
+
+Inventory Held for Consumption
+
+
+
+
+
+
+
+   Office Supplies Inventory
+
+P804,547.41
+
+0.00
+
+P804,547.41
+
+   Other Supplies and Materials Inventory
+
+111,289.75
+
+0.00
+
+111,289.75
+
+Semi Expendable Machinery and Equipment
+
+
+
+
+
+
+
+Semi Expendable Office Equipment
+
+81,588.08
+
+123,995.00
+
+42,406.92*
+
+   Semi Expendable Information and   Communications Technology Equipment
+
+20,932.86
+
+46,550.00
+
+25,617.14*
+
+Semi Expendable Furniture and Fixtures
+
+0.00
+
+84,000.00
+
+84,000.00*
+
+Total
+
+P1,018,358.10
+
+P254,545.00
+
+P1,067,861.22
+
+Percentage of book balance
+
+
+
+25%
+
+105%
+
+*negative variance
+
+
+
+			6)	Our verification revealed that the end-users are not using Requisition and Issue Slip (RIS) in requesting inventories and the Supply Officer used logbook instead, in issuing stocks.  At the end of each month, inventory issuances are summarized and deducted from the balances appearing in the Stock Cards but are not reported through the RSMI.  Thus, accounting records are not updated to reflect inventory issuances.
+
+
+
+			7)	It was also revealed that the agency did not create Inventory Committee to perform physical verification exercise and render report thereon due to restrictions brought about by COVID-19.
+
+
+
+			8)	Nonetheless, the Supply Officer and the Supply Assistant initiated the conduct of  physical count of inventory, but there was no RPCI prepared and submitted for the inventory held for consumption.  Only the RPCI for semi expendable machinery and equipment was prepared and submitted.  Incompleteness of RPCI hindered the conduct or reconciliation procedures.
+
+
+
+			9)	The RSMI, along with the other supporting documents serve as basis of the accounting in recording issuances or inventory drawdowns from the books.  On the other hand, RPCI serves as reckoning evidence in determining physical existence of inventories and for the conduct of reconciliation procedures, if properly done by duly created Inventory Committee. 
+
+
+
+			10)	In furtherance, we noted that the accounting and property personnel did not take a look at the control mechanisms provided for under the GAM such as reconciliation and actual verification exercise to provide assurance that the amounts recorded are accurate.  
+
+
+
+			11)	As the HRVVMC did not observe the aforesaid procedures and documentation, the total inventory totaling P1,018,358.10 presented in the agency’s financial statements are way above the inventory balance per inventory/property records of P254,545.00 which only represents 25 percent of the balance while total unresolved variance has amounted to P1,067,861.22.
+
+
+
+			12)	In view of this unresolved variances, the HRVVMC Inventories as of December 31, 2020 is not reliable.  Moreover, the absence of appropriate documentation in issuing inventories such as RIS and RSMI that should reflect requesting party, the issuer and the approver, the risk of inventory losses and misappropriation increases.
+
+
+
+			13)	We recommended and Management agreed to:
+
+
+
+a)	Issue Office Memorandum directing all end-users/requesting party and Supply Officer to use Request and Issue Slip (RIS) in requesting/issuing inventories as required under Sec. 17(d), Chapter 8, GAM Volume I;
+
+
+
+b)	Direct the Supply Officer to prepare and submit the Report of Supplies and Materials Issued (RSMI) regularly and the Accountant to consolidate all RSMIs for the preparation of Journal Entry Voucher (JEV) to record inventory drawdowns in the books as required under Sec. 17(g), Chapter 8, GAM Volume I;
+
+
+
+c)	Create an Inventory Committee thru Office Order indicating the responsibilities of such committee including among others, the regular conduct of inventory taking, investigation and adjustment of noted deficiency/ies and the preparation of the Report of Physical Count of Inventories as required under Sec. 17(i), Chapter 8, GAM Volume I; and
+
+
+
+d)	Direct the Supply Officer to submit immediately all pending and completed RSMIs and instruct both the Accounting Division/Unit and Supply and/or Property Division/Unit to conduct periodic reconciliation of the Supplies Ledger Card and Stock Cards to identify and adjust any discrepancy.
+
+
+
+b)	Unreliable balance of PPE accounts
+
+
+
+		2)	The existence and accuracy of the cost and net carrying amount of Property Plant and Equipment (PPE) totaling P6.169 million and P5.990 million, respectively, could not be ascertained due to unresolved variance of P1.631 million between accounting and property records resulting from the inadequate inventory taking procedure and non-reconciliation of Property Unit and Accounting Unit PPE records required under the GAM.  Moreover, the risk of property losses and misappropriation is imminent in view of ineffective PPE tracking and monitoring.  
+
+
+
+			1)	Section 38, Chapter 10 of the GAM, Volume I, likewise states that the entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 73) as at December 31, of each year.  This shall be submitted to the Auditor concerned not later than January 31 of the following year.  Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division for proper accounting/reporting.
+
+
+
+			2)	The RPCPPE shall also be used to report the physical count and condition of PPE by type as at a given date, including those which are unrecorded and those which could not be accounted for. It shows the balance of PPE per property cards and per count and the shortage/overage, if any. It shall be rendered by the Inventory Committee, on its yearly physical count of properties owned by the entity. (Sec. 42g)
+
+
+
+			3)	Section 42 of the same manual provides that the Chief Accountant shall maintain the Property, Plant and Equipment Ledger Card (PPELC) for each category of PPE including work and other animals, livestock etc.  The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss disposal and other information about the asset.  For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same.  The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit.  They shall also be reconciled with other property records like Property Acknowledgement Receipt (PAR).
+
+
+
+			4)	We have evaluated the HRVVMC internal control over property management anchored on the above policy and procedures to determine whether these controls are complied with and are working effectively primarily to ensure that: (a) government properties are safeguarded from losses or embezzlement; and (b) items of PPE are properly presented in the accounting books and are existing, which we have discussed below:
+
+
+
+Inadequate procedure in the conduct of physical count of PPE
+
+
+
+			5)	Verification revealed that the Property Officer and Supply Assistant performed the conduct of physical count of inventory for PPE by themselves and the corresponding RPCPPE was prepared which they submitted to the designated Accountant.
+
+
+
+			6)	The agency did not appoint inventory committee in the conduct of physical count and in the preparation and submission of RPCPPE as required in Section 42(g), Chapter 10, GAM Volume I.  Hence, it lacks attribute of check and balance which lessened the integrity of physical verification exercise.
+
+
+
+			7)	We further noted that neither the management nor the Property Office invite COA representative to witness and observe the conduct of the inventory count of PPE.
+
+
+
+Non-reconciliation of property and accounting records
+
+
+
+			8)	As at December 31, 2020, the HRVVMC’s PPE has a carrying amount of P5,990,313.45, presented in Table 2.
+
+
+
+Table No. 2. – PPE Acquisition Cost and Carrying Amount 
+
+PPE account
+
+Acquisition Cost
+
+Accumulated Depreciation
+
+Carrying Amount
+
+Office Equipment
+
+P748,842.00
+
+P45,155.11
+
+P703,686.89
+
+Information and Communication Technology Equipment
+
+1,622,360.00
+
+16,225.68
+
+1,606,134.32
+
+Motor Vehicles
+
+3,336,400.00
+
+37,733.10
+
+3,298,666.90
+
+Furniture and Fixtures
+
+340,766.60
+
+47,549.98
+
+293,216.62
+
+Other Leased Assets Improvements
+
+121,400.00
+
+32,791.28
+
+88,608.72
+
+Total
+
+P6,169,768.60
+
+P179,455.15
+
+P5,990,313.45
+
+
+
+			9)	Audit revealed accumulated variance of P1,631,378.60 comprising 26 percent of the total reported PPE, between the Accounting Unit and Property Unit’s records of PPE, shown in Table 3.
+
+
+
+Table No. 3. – Comparison of PPE balances per Accounting and RPCPPE
+
+PPE account
+
+Per GL
+
+Per RPCPPE
+
+Variance
+
+Office Equipment
+
+P748,842.00
+
+0.00
+
+P748,842.00
+
+Information and Communication Technology Equipment
+
+1,622,360.00
+
+1,304,190.00
+
+318,170.00
+
+Motor Vehicles
+
+3,336,400.00
+
+3,234,200.00
+
+102,200.00
+
+Furniture and Fixtures
+
+340,766.60
+
+0.00
+
+340,766.60
+
+Other Leased Assets Improvements
+
+121,400.00
+
+0.00
+
+121,400.00
+
+Total
+
+P6,169,768.60
+
+P4,538,390.00
+
+P1,631,378.60
+
+Percentage
+
+100%
+
+74%
+
+26%
+
+
+
+			10)	As deduced in the Table, the PPE that physically exists during the verification is 26 percent or P1,631,378.60 below the amount recorded in the accounting books as the result of the absence of PPE reconciliation. This means, the agency is confronted by high risk of property losses or embezzlement as can be observed in the PPE accounts which are nil in the RPCPPE.
+
+
+
+			11)	These gaps in internal control procedures were ultimately traced to the following:
+
+
+
+i)	inadequate orientation and training of newly appointed (October 1, 2020) Property Officer;
+
+
+
+ii)	unfamiliarity of Property Officer and the Management to policies and procedures concerning property management, documentation and reporting; and
+
+
+
+iii)	resignation of the Accountant (December 2020) who did not render proper turn over of accounting reports including the PPELC and status of work to the OIC Accounting in concurrent capacity as CHR Accountant.
+
+
+
+			12)	Consequently, the balances of the cost and carrying amount of PPE totaling P6,169,768.60 and P5,990,313.45, respectively, presented in the agency’s financial statements could not be ascertained in view of unreconciled variance of P1,631,378.60 and non-verification of its physical existence as at December 31, 2020.
+
+
+
+			13)	Effectiveness of internal control such as the adequate inventory taking procedure and regular PPE reconciliation should be shared by Management and employees in charge to implement it.  A sound and effective internal control established and maintained by the Management plays a role to safeguard government properties ensure correctness of financial information.
+
+
+
+			14)	We recommended and Management agreed to:
+
+
+
+a)	Create an Inventory Committee thru Office Order indicating the responsibilities of such committee including among others, the regular conduct of inventory taking, investigation and adjustments of noted deficiency/ies and the preparation of the Report of Physical Count of PPE as required under Sec. 38, Chapter 10, GAM Volume I;
+
+
+
+b)	Direct the Property Officer and the Accountant to conduct periodic reconciliation of their records to identify and adjust any discrepancy and to conduct further investigation in case of missing property;
+
+
+
+c)	Direct the Property Officer to be familiar and adept with the COA policies, rules and procedures concerning property management, appropriate use of property documentation and reporting; and
+
+
+
+d)	Consider hiring regular employee to handle accounting function to provide a clearer line of responsibility and accountability in handling financial transactions and reporting.
+
+
+
+
+
+	OTHER FINANCIAL ISSUES
+
+
+
+Delayed/Non-submission of financial and accounting reports 
+
+
+
+2)	Delayed and non-submission of financial and accounting reports in HRVVMC for calendar year (CY) 2020 precluded the Auditor of the timely audit and deprived the agency of the benefit of timely detection and correction of errors.   
+
+	
+
+	1)	Section 60, Chapter 19, Volume 1 of GAM provides that all NGAs shall prepare and submit the following financial statements and schedules as follows, within the prescribed deadline:
+
+
+
+For Central Office
+
+
+
+Statement/Report
+
+
+
+Deadline
+
+
+
+Submit to:
+
+
+
+Monthly
+
+
+
+
+
+Trial Balances (TBs) and Supporting Schedules (SSs)
+
+
+
+
+
+
+
+Ten days after the end of the month
+
+
+
+
+
+Auditor, DBM, Management
+
+Quarterly
+
+
+
+TBs, Financial Statements (FSs), SSs
+
+
+
+Ten days after the end of the quarter
+
+
+
+
+
+Auditor, DBM, Management
+
+Yearend
+
+
+
+TBs, FSs, SSs
+
+
+
+February 14 of the following year
+
+
+
+COA Auditor, DBM, COA-GAS
+
+
+
+	2)	Section 5, Chapter 21 of GAM, Volume 1 requires that Chief Accountant/Designated Staff shall within 10 days from receipt of the monthly Bank Statement (BS) together with the paid checks, original copies of Debit Memoranda (DM)/Credit Memoranda (CM) from the Government Servicing Bank (GSB), reconcile the BS with the GL and prepare the Bank Reconciliation Statement (BRS) in four copies.
+
+
+
+	3)	Section 7 of the same Chapter and Manual provides that Chief Accountant shall submit the BRS within 20 days after receipt of the BS to the following:
+
+
+
+Original – COA Auditor (with all the supporting documents and JEVs)
+
+Copy 2   - Head of Agency/Entity
+
+Copy 3   - Accounting Division/Unit file
+
+Copy 4   - Bank, if necessary
+
+
+
+	4)	Section 7.2.1a of COA Circular No. 2009-006 requires that the Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that the reports and supporting documents submitted by the Accountable Officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month.
+
+
+
+	5)	Section 17.i, Chapter 8, Volume 1 of GAM provides that the Report on the Physical Count of Inventories (RPCI) (Appendix 66) shall be used to report the physical count of supplies by type of inventory as at a given date.  Appendix 66 states that the report shall be submitted to the COA Auditor concerned not later than July 31 and January 31 of each year for the first and second semesters, respectively.
+
+
+
+	6)	Likewise, Section 38, Chapter 10, Volume 1 of GAM also provides that the entity shall have a periodic physical count of PPE, which shall be done annually and presented in the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 71) as at December 31 of each year.  This shall be submitted to the Auditor concerned not later than January 31 of the following year. 
+
+
+
+	7)	Verification of the documents received from the HRVVMC showed that the Accountant and the Property Officer failed to submit the financial and supporting documents within the prescribed period, as shown in Table 4.
+
+
+
+Table No. 4. – Status of Financial report/documents submitted to COA
+
+Financial report/ documents
+
+Period Covered
+
+Due date of submission
+
+Status of Submission
+
+No. of months delayed
+
+Trial Balance and supporting Schedules
+
+January to December 2020
+
+Ten days after the end of the month
+
+Not Submitted
+
+-
+
+Quarterly Financial Statements with supporting schedules 
+
+March, June and September 2020
+
+Ten days after the end of the quarter
+
+Not Submitted
+
+-
+
+Bank Reconciliation Statements
+
+January to December 2020
+
+Every 10th day of the following month
+
+Not Submitted
+
+-
+
+RCI and DVs
+
+January to December 2020
+
+Every 10th day of the following month
+
+Submitted with Delays
+
+Two to 13 months
+
+Liquidation Reports
+
+January to December 2020
+
+Every 10th day of the following month
+
+Not Submitted
+
+-
+
+RCD and ORs
+
+January to December 2020
+
+Every 10th day of the following month 
+
+Not Submitted
+
+-
+
+Contracts/POs
+
+January to December 2020
+
+Within five (5) working days from the execution of a contract
+
+Not Submitted
+
+-
+
+RPCI
+
+June and December 2020
+
+July 31 and January 31 of each year for the first and second semesters, respectively
+
+1st Semester – Not Submitted
+
+
+
+ 2nd Semester – Submitted with Delays
+
+-
+
+
+
+
+
+
+
+2 months
+
+RPCPPE
+
+December 2020
+
+January 31 of the following year
+
+Submitted with Delays
+
+2 months
+
+  
+
+	8)	Several follow-ups and reminders were made by the Audit Team for the submission of financial reports on deadlines set.  A letter dated January 12, 2021 was issued to the HRVVMC for the submission of the reports, however, the Accountant and Property Officer still failed to comply, which bears on that Office the attitude toward complying with reportorial requirements set by the Oversight body such as COA.
+
+
+
+	9)	On January 14, 2021, the Executive Director of the HRVVMC commented on the letter issued by the Audit Team that the Management was unable to meet the submission date as required, due to the resignation of several key personnel in Finance and Administrative Divisions which include the Chief Administration Officer, Accountant and Cashier in December 2020.  The HRVVMC Management coordinated with the Commission on Human Rights (CHR) for the assistance needed in the preparation of reports thus, the CHR Accountant was designated temporarily as Officer-in-Charge (OIC) of the Accounting Division of the HRVVMC, effective January 2021.
+
+
+
+	10)	We acknowledged the consequences on the resignation of several key personnel in Finance and Administrative Divisions, however, prolonged delays or even non-submission of financial reports and supporting documents to the COA Auditors within the prescribed period hindered the timely review and evaluation of the transactions.  Thus, early detection of errors or discrepancies by Management is not optimized, while the Audit Team was also precluded from conducting timely audit and possible detection and correction of errors.  Worst, these audit scope limitations if not immediately addressed will result to Adverse Opinion.
+
+
+
+	11)	We recommended and Management agreed to:
+
+
+
+a)	Require designated OIC Accountant to comply with the rules and regulations on the submission of financial reports and corresponding supporting documents and ensure that these are submitted to the Auditor within the prescribed period;
+
+
+
+b)	Instruct the Property/Supply Officer to submit the required inventory/property reports, as well as the Contracts/POs within the deadline set; and 
+
+
+
+c)	Consider hiring an Accountant to handle accounting function in a regular/permanent capacity to provide a clearer line of responsibility and accountability in handling financial transactions and reporting.
+
+
+
+
+
+Unutilized NCAs
+
+
+
+3)	The absence of Registry of Allotments and Notice of Cash Allocation (RANCA) to adequately monitor the NCAs; and the delays in the processing and payment of the agency’s obligations for the year, resulted in the non-utilization and reversion of P5.383 million comprising 15.43 percent of the total NCAs of P34.888 million received in CY 2020.  
+
+
+
+	1)	Section 3, Chapter 6, Volume 1 of the GAM also provides: Notice of Cash Allocation.  The NCA shall be the authority of an agency to pay operating expenses, purchases of supplies and materials, acquisition of PPE, accounts payable, and other authorized disbursements through the issue of Modified Disbursement Scheme (MDS) checks, Advice to Debit Account (ADA) or other modes of disbursements.  
+
+ 
+
+	2)	No MDS check/ADA shall be issued without the covering NCA.  Hence, the total MDS checks/ADA issued shall not exceed the total NCA received.  To maximize the available NCAs of the agency, the Common Fund System policy shall be adopted whereby cash allocation balances of agencies under the Regular MDS Account may be used to cover payment of current year’s accounts payable i.e., goods and services which have been delivered and accepted during the year charged against appropriations of prior year/s, after satisfying their regular operating requirements as reflected in their Monthly Cash Program.  
+
+ 
+
+	3)	NCA issued and credited to the Special MDS Accounts of agencies for payment of retirement gratuity/terminal leave benefits as well as prior years’ accounts payable shall be valid within the period prescribed under existing rules and regulations. The NCA shall be monitored through the maintenance of the RANCA (Appendix 30) by the Accounting Division/Unit.   
+
+
+
+	4)	Paragraph 4.2.2 of Department of Budget and Management (DBM) National Budget Circular No. 578 dated January 6, 2020 provides policies and guidelines to be observed by all concerned agencies as follows:
+
+
+
+“4.2.2.1   NCAs shall be issued to the three (3) Modified Disbursement System – Government Servicing Banks (MDS-GSBs), namely, Land Bank of the Philippines (LBP), Development Bank of the Philippines (DBP) and Philippine Veterans Bank (PVB).
+
+
+
+4.2.2.2  MDS sub-accounts (i.e., regular MDS sub-account for regular operating requirements and Retirement Gratuity and Terminal Leave [RG/TL] benefits; and another MDS sub-account for Trust Receipts) shall be maintained at the three MDS-GSBs, with the following periods of validity for NCAs issued and credited to: 
+
+
+
+. The Regular MDS Sub-Accounts of agencies/OUs for their regular operations, retirement gratuity/terminal leave benefits, foreign loans/grants and accounts payable (A/Ps) shall be valid until the last working day of the 3rd month of the quarter covered, pursuant to DBM CL No. 2019-3. 
+
+
+
+.	For the comprehensively released NCAs, covering the quarterly cash requirements, the specific monthly allocation shall be credited on the first working day of each month. 
+
+
+
+.	For other/additional NCAs, the amount indicated shall be credited on the date of issuance of such NCA, and on the first working day of the succeeding months (if any). 
+
+
+
+Under the Common Fund System, to optimize the use of the available NCAs under the Regular MDS Sub Account, NCAs released to agencies under this account can be used to cover payment of both current year and prior years' A/Ps of all creditors (external and internal). It is understood that payment of mandatories, i.e., Personnel Services (PS), Maintenance and Other Operating Expenses (MOOE), and Capital Outlay (CO) requirements, shall take precedence over A/Ps in the utilization of the NCAs received. Only when the mandatory requirements are satisfied, can the payment of A/Ps be charged against the available NCAs. 
+
+
+
+.	NCAs for crediting to the Trust MDS Sub-Accounts on the issue date of the NCA, shall be valid until the last working day of the year, or December 31, 2020. 
+
+
+
+	5)	Paragraph 4.2.3 of the same DBM NBC further provides that Other Disbursement Authorities issued during the year shall be valid from date of issuance until the last working day of the year, or December 31, 2020. 
+
+
+
+	6)	The subsequent DBM Circular Letter No. 2020-16 dated November 27, 2020 provides procedure in the disbursement of government funds where under Item 4.0 states: Agencies/OUs are encouraged to settle their due and demandable obligations as soon as possible, by issuing MDS checks/paying through ADA, not later than December 23, 2020, if practicable. However, they may still issue MDS checks/pay through ADA up to the last working day of the year (e.g., Tuesday, December29, 2020). (Emphasis supplied)
+
+
+
+	7)	Item 5.1 of COA-DBM Joint Circular (JC) No. 2013-1 dated March 15, 2013 specifies that the head of each operating unit (OU), office or agency shall be responsible for the timely submission, either physically or electronically, of the FARs prescribed in this Circular, including the Detailed Statement of Current Year’s Obligations, Disbursements and Unpaid Obligations (SODUO-CY) to the DBM offices concerned and to the COA (Audit Team Leaders and Government Accountancy Sector (GAS), not later than the 30th day after the end of each quarter. 
+
+
+
+Inadequate monitoring of Notice of Cash Allocations (NCAs) 
+
+
+
+	8)	Review of the agency’s cash allocation data as of December 31, 2020, revealed that only 84.57 percent or P29,505,084.34 out of the total P34,888,175.00 Cash Allocations (NCAs) received was utilized leaving unutilized balance of 15.43 percent or P5,383,090.66 reverted to the Bureau of Treasury, as shown Table 5.
+
+
+
+Table No. 5. – Utilization of NCAs for CY2020
+
+Particulars
+
+Amount
+
+Percentage
+
+Utilized NCAs
+
+P29,505,084.34
+
+84.57%
+
+Unutilized NCAs
+
+5,383,090.66
+
+15.43%
+
+Total NCAs received
+
+P34,888,175.00
+
+100.00%
+
+
+
+	9)	We further observed that the trend of unutilized cash allocations is a continuing yearly scenario since the agency’s operation in year 2018, wherein the NCAs were not utilized in every year of operation, and therefor reverted to the Bureau of Treasury, as illustrated in Table 6.
+
+
+
+Table No. 6. – Unutilized NCAs for the last three years
+
+Year Covered
+
+Unutilized Amount
+
+2020
+
+P5,383,090.66
+
+2019
+
+5,566,680.31
+
+2018
+
+13,808,748.97
+
+Total
+
+P24,758,519.94
+
+ 
+
+	10)	The continuing trend of significant amount of unutilized cash allocations is not encouraging in as much as more equipment, supplies and services are needed to ramp up agency’s operation and performance of its mandate which is to build and maintain a Memorial Museum.
+
+
+
+	11)	The aforementioned scenario is a manifestation of the agency’s inability to adequately monitor and manage NCAs and to initiate immediate corrective measure to reverse the trend.
+
+	
+
+	12)	 To illustrate this concern, the RANCA that would give information on the balance of NCAs were not maintained to give emphasis on the continuing trend of unutilized NCAs.  Had this registry been prepared and submitted as a monitoring tool for the information of Management, catch up plan or remedial measure can be initiated in a timely manner.
+
+
+
+	13)	During our audit it was noted that the HRVVMC started its operation in July 2018.  The Accountant and Budget Officer who are both primarily in charge of NCAs management admitted that in CY 2019, they were unaware of the provisions, rules and regulations on financial accountabilities set forth in the DBM and COA Circulars and Manuals, since HRVVMC is a newly created agency and further admitted that more guidance is needed in the performance of their functions and responsibilities.
+
+
+
+	14)	Inquiry from the Accountant and Budget Officer revealed further that in CY 2020, they were in the process of adopting the provisions, rules and regulations on financial accountabilities set forth in the DBM and COA Circulars and Manuals, but due to work suspensions due to pandemic caused by COVID-19 virus which afflicted their health, the officers admitted that the performance of their functions and responsibilities was affected.  It was noted that the Accountant of the agency had separated from the service effective December 12, 2020.
+
+
+
+
+
+Delayed payment of due and demandable obligations
+
+
+
+	15)	As at December 31, 2020, the agency has total liabilities of P9,401,330.00 which included the amount of P3,307,381.67 due and demandable obligations as at December 31, 2020, shown in Annex C.
+
+
+
+	16)	The presence of numerous accounts payable at year-end, is attributed to the delays in the processing and payment of disbursements and claims.
+
+ 
+
+	17)	Taking into consideration of item 4.0 of the DBM Circular Letter No. 2020-16, the agency has been given ample time to process and issue payments until December 29, 2020, and expected to use up available NCAs and avoid incurrence of significant balance of accounts payables.  Moreover, the Detailed Statement of Current Year’s Obligations, Disbursements and Unpaid Obligations (SODUO-CY) were not submitted to the COA Audit Team, as prescribed under COA-DBM JC No. 2013-1, for timely review and possible recommendation of corrective actions, if needed.
+
+
+
+	18)	Failure to adequately monitor NCAs thru the preparation and maintenance of RANCA and delays in the processing and payment of accounts payable, has resulted in the reversion of P5,383,090.66 unutilized portion of NCAs to the BTr for the year 2020.
+
+		
+
+	19)	We recommended and Management agreed to:
+
+
+
+	a)	Instruct the Accountant to prepare and maintain the RANCA to provide an updated and accurate information of NCA utilization and balances for Management corrective action; 
+
+
+
+	b)	Instruct the processing clerks and the Accountant to speed up the processing and ensure timely payment of Accounts Payable to preclude incurrence of unutilized balance of NCAs causing its reversion; and
+
+	
+
+	c)	Strictly adhere to the regulations and guidelines set forth in COA and DBM Circulars on the preparation and submission of agency’s financial reports and accountabilities, moving forward.
+
+
+
+
+
+	COMPLIANCE ISSUES
+
+	
+
+	Gender and Development
+
+	
+
+4)	Although the HRVVMC had implemented activities related to women empowerment and gender equality as well as addressing the gender issues totaling P0.972 million, it had no PCW approved GAD Plan and Budget which is P1,744,150.00 or five percent of the FY 2020 budget due to the absence of a responsive GAD Focal Point System that shall take the lead in mainstreaming gender in agency Program, Activity, Project (PAPs) thus, attainment and delivery of all GAD objectives and programs were not ensured.
+
+
+
+	1)	Section 31 of the GAA for FY 2020 requires that all agencies of the government shall formulate a Gender and Development (GAD) Plan designed to address gender issues within their concerned sectors or mandate and implement the applicable provisions under Republic Act (R.A.) No. 9710 or Magna Carta of Women, Convention on the Elimination of All Forms of Discrimination Against Women, the Beijing Platform for Action, the Philippine Plan for Gender-Responsive Development (1995-2025) and the Philippine Development Plan (2017-2022).
+
+
+
+	2)	It further requires that GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five percent (5%) of their budgets.  The preparation and submission of the annual GAD Plan and annual GAD Accomplishment Report shall be subject to the guidelines issued by the agencies concerned.
+
+
+
+	3)	Item 4.1 of the PCW-NEDA-DBM Joint Circular (JC) No. 2012-01 provides the Creation and/or Strengthening of the GAD Focal Point System: As required by the MCW and following the PCW Memorandum Circular 2011-01 (Guidelines for the Creation, Strengthening and Institutionalization of the Gender and Development [GAD] Focal Point System), all agencies should have an institutionalized and functional GAD Focal Point System (GFPS).
+
+
+
+	4)	Item 7.0 of that aforesaid JC prescribed the Schedule to be observed in GAD Planning and Budgeting such as follows:
+
+
+
+i)	September (2 years before budget year)-PCW issues notification letters to all line departments or central offices for the submission of their annual GPB and GAD ARs to PCW. (Note: GPB for the following year must be accompanied by the GAD AR of the preceding year)
+
+
+
+ii)	September-October – Line departments or central offices issue notification letters to all their attached agencies, bureaus and regional offices for the deadline of submission of their annual GPBs and Ars to the central office. Agencies formulate their annual GAD plans and budgets.
+
+
+
+iii)	November – Attached agencies, bureaus and regional offices submit their annual GPBs and Ars to their respective line departments or central offices’ GFPS.
+
+
+
+iv)	November-December – Line departments or central offices with attached agencies, bureaus and regional and field offices review all GPBs and GAD Ars and transmit comments as needed.
+
+
+
+v)	January (1 year before budget year)-Submission of reviewed GPBs and Ars to PCW.
+
+
+
+vi)	January-February – PCW reviews all submitted GPBs vis-àvis GAD Ars and transmits its comments and recommendations to line departments or central offices. Comments or recommendations from the PCW shall be communicated to the agencies for the needed adjustments within the six-week period. PCW starts consolidating the GAD Accomplishment Reports.
+
+
+
+vii)	March – Line departments or central offices submit revised GPBs to PCW. PCW approves and endorses all revised GPBs and returns them to the concerned offices for submission to DBM in time for the budget submission.
+
+
+
+PCW submits the consolidated report on the implementation of the GAD Budget Policy to the President, Congress, DBM, and NEDA, copy furnished all other agencies covered in the report.
+
+
+
+viii)	April-June – DBM reviews the budget of the line departments or central offices and prepares the President’s budget. Line departments or central offices shall submit the adjusted GPBs to PCW based on their DBM-confirmed budget ceilings.
+
+
+
+ix)	July-DBM submits for Congressional deliberation the national expenditure program (NEP) which contains the proposed budget of line departments and other government agencies.
+
+
+
+x)	December- Congress passes the GAA which embodies the approved budget of the national government.
+
+
+
+	5)	The development of GAD Plan shall proceed from the conduct of gender analysis, the generation and review of sex-disaggregated data and consultations with gender advocates and women clientele.  Its implementation shall contribute to property alleviation, the economic empowerment especially of marginalized women, the protection, promotion and fulfillment of women’s human rights, and the practice of gender-responsive governance.  Utilization of the GAD budget shall be evaluated based on the GAD performance indicators identified.
+
+
+
+	6)	The preparation of GAD Plan and Budget (GPB) and Accomplishment Reports shall be guided by Joint Circular No. 2012-01 issued by the Philippine Commission on Women (PCW), National Economic and Development Authority (NEDA), and the Department of Budget and Management (DBM), as well as the guidelines on GAD Planning and Budgeting that may be issued by the appropriate oversight agencies.
+
+
+
+	7)	The HRVVMC had total appropriations of P34,883,000.00 per GAA for FY 2020, of which, GAD budget of five percent amounting to P1,744,150.00 should have been allotted for GAD-related activities.
+
+
+
+	8)	We noted however that the HRVVMC was not able to prepare GPB relative to GAD programs, activities and projects for CY 2020 and the five percent of their budget intended for GAD-related activities had not been provided.
+
+
+
+
+
+	9)	Based on our inquiry, there was an attempt to submit the GPB sometime in August of CY2020 but was denied by the PCW in view of too much delays or non-compliance with the required timeline of submission.  
+
+
+
+	10)	It was further disclosed that the absence of the approved GPB is mainly attributed to the absence of a responsive GAD Focal Point System (GFPS) that shall take the lead in mainstreaming gender in agency PAPs, depicted by the following deficiencies:
+
+
+
+a)	institutionalization of GAD in the organization through policies has not been made;
+
+
+
+b)	the HRVVMC did not give premium in capacitating the employees on GAD concepts and principles as none was noted in the GAD activities undertaken during the year;
+
+
+
+c)	no personnel delegated to take orientation seminars on GAD-related laws;
+
+
+
+d)	lack of GAD Focal Person that would serve as a champion and anchor of the GFPS.
+
+
+
+	11)	Nevertheless, we take cognizant of the following activities related on women empowerment and gender equality as well as addressing the gender issues which were integrated in the regular activities and mandate of the agency:   
+
+
+
+Table No. 7. – GAD Activities with corresponding actual expenditures
+
+Activities
+
+Actual Expenditure
+
+1
+
+Conduct of various Educational Activities in the 1st Quarter of 2020, namely: Liway Film Showing and Panel discussion, Provincial Survivors Discussion Essential Truths of the 1972-1986 Martial Law Era Teaching Seminar
+
+P411,704.83
+
+2
+
+Conduct of Research Activity on the Female and Child Enforced Disappearance Victims of the Martial Law Era of 1972-1986.
+
+169,580.00
+
+3
+
+Conduct of The First Martial Law Wikipedia Edit-a-thon in memory of the Declaration of Martial Law.
+
+91,253.50
+
+4
+
+Conduct of Mythbusting the Martial Law Era: Unravelling Historical Disinformation Seminar and Workshop.
+
+40,000.00
+
+5
+
+Liway Film Showing for HRVVMC personnel and Martial Law Survivors
+
+14,830.00
+
+6
+
+Conduct training and seminar for HRVVMC Staff on Violence Against Women and Children (VAWC), as part of the agency’s workshops on digital literacy and awareness, gender and development, worldwide people power human rights festival, and year-end solidarity celebration documentation and evaluation.
+
+245,430.00
+
+
+
+TOTAL
+
+P972,798.33
+
+
+
+Percentage of expenditure versus the Required 5% allocation from P34,883,000.00 CY 2020 GAA
+
+2.79%
+
+
+
+	12)	We noted that the total expenditures of P972,798.33 is only 2.79 percent of the agency budget which fell short of the required allocation of P1,744,150.00 commensurate to five percent of the agency budget under the GAA for FY2020 amounting to P34,883,000.00.  Thus, there is no safeguard that gender issues were fully addressed and equality and women’s empowerment within the agency was achieved. 
+
+
+
+	13)	We recommended and Management agreed to:
+
+
+
+a)	Immediately appoint a GAD Focal Person and members of GFPS provided in PCW Memorandum Circular No. 2011-01;
+
+
+
+b)	Institutionalize GAD through policies and procedure, capacitate employees on GAD concepts and principles and delegate personnel to take orientation seminars on GAD related laws; and
+
+
+
+c)	Direct the appointed members of GFPS to timely prepare GPB for GAD related activities in compliance with PCW-NEDA-DBM JC No. 2012-01 and relevant provision under the GAA.
+
+
+
+
+
+Senior Citizens and Persons with Disability 
+
+
+
+5)	The HRVVMC was not able to implement programs/projects for senior citizens (SCs) and persons with disability (PWDs) for CY 2020, thus the objectives to exercise and promote the protection of, respect for and enhancement of the  civil, political, economic, social and cultural rights of SCs and PWDs have not been attained.
+
+
+
+	1)	Section 32 of the General Appropriations Act (GAA) for FY 2020 provides that all agencies of the government shall formulate plans, programs and projects intended to address the concerns of senior citizens and PWDs, insofar as it relates to their mandated functions, and integrate the same in their regular activities. 
+
+
+
+	2)	We noted that in CY 2020, the HRVVMC did not sustain its participation and integration of PWDs into mainstream society and likewise did not recognize the valuable contribution of the elderly in the society through its programs and activities.  It also did not ensure the senior citizens and PWDs to exercise and promote the protection of, respect for and enhancement of the people’s civil, political, economic, social and cultural rights, in compliance with Section 32 of the General Provisions of the GAA.
+
+
+
+	3)	Our query with the Administrative Officer revealed that the Management was unable to implement programs and activities for SCs and PWDs due to the pandemic that caused work suspensions and affected the whole country.  Since health protocols were implemented, the agency also recognized the health condition of the SCs and PWDs who are most vulnerable from the Covid-19 virus affecting the whole nation. 
+
+
+
+	4)	We recommended and Management agreed to include the participation and integration of SCs and PWDs into mainstream society and likewise recognize the valuable contribution of the elderly in the society through its various programs and activities. 
+
+
+
+	
+
+BIR, GSIS, Pag-IBIG and PhilHealth related laws, rules and regulations
+
+	
+
+6)	In accordance with Revenue Regulation No. 10-2008 dated July 8, 2008, RA No. 8291, the GSIS Act of 1997, RA No. 7875, as amended by RA Nos. 9241 (National Health Insurance Act of 1995) and 9679 (Pag-IBIG Fund Law 2009), the HRVVMC deducted the amount from the employees’ payroll and accordingly remitted the following contributions/loans:
+
+
+
+Table No. 8. - Amount Withheld and Remittances of Taxes and Contributions to NGAs
+
+Description
+
+Beg. Balance 1/1/2019
+
+Withheld/
+
+Contributed in 2020
+
+Total
+
+Remittance in 2020
+
+Balance Unremitted 
+
+Remarks
+
+BIR
+
+(5,211.83)
+
+P1,403,851.70
+
+P1,398,639.87
+
+P933,959.56
+
+P464,680.31
+
+The unremitted balance of P464,680.31 was remitted in January 2021. 
+
+GSIS
+
+3,745.26
+
+188,601.79
+
+192,347.05
+
+138,608.37
+
+53,738.68
+
+The unremitted balance of P53,738.68 was remitted in January 2021.
+
+Pag-IBIG
+
+2,884.42
+
+31,050.00
+
+33,934.42
+
+24,084.42
+
+9,850.00
+
+The unremitted balance of P9,850.00 was remitted in January 2021.
+
+Philhealth
+
+(2,612.55)
+
+29,949.74
+
+27,337.19
+
+19,955.99
+
+7,381.20
+
+The unremitted balance of P7,381.20 was remitted in January 2021. 
+
+
+
+
+
+COA Memorandum No. 2017-019 dated October 19, 2017 re: Amended Guidelines on Authorized Government Depository Banks (AGDBs)
+
+
+
+7)	The HRVVMC is compliant with the provisions of COA Memorandum No. 2017-019 dated October 19, 2017, maintaining its government funds with the Land Bank of the Philippines.
+
+
+
+
+
+Receipt and Disbursement of Priority Development Assistance Fund (PDAF) and Disbursement Acceleration Program (DAP)
+
+
+
+8)	The HRVVMC did not receive and disburse Priority Development Assistance Fund (PDAF) and Disbursement Acceleration Program (DAP) fund for this year and prior year, in compliance with Supreme Court Decision G.R. Nos. 208566 and 209287, respectively.
+
+
+
+	
+
+Enforcement of COA Suspensions, Disallowances and Charges
+
+
+
+9)	No Notice of Suspension, Disallowance and Charge was issued to HRVVMC in CY 2020 and in prior years.
+
+				54
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3077 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audit Observations and Recommendations
+
+
+26 
+ 
+
+AUDIT OBSERVATIONS AND RECOMMENDATIONS 
+ 
+ 
+FINANCIAL AUDIT 
+ 
+Accounting Errors / Omissions and deficiencies   
+ 
+1. The reported balance as of December 31, 2020 of Assets and Liabilities is 
+
+understated by ₱0.488 million and ₱2.971 million, respectively, while Net 
+Assets/Equity is overstated by ₱2.483 million; included various deficiencies in 
+the keeping of accounts that have significant impact on Management’s assertion 
+on accuracy, completeness and existence of the reported account balances 
+thus, affecting the fair presentation of the accounts in the financial statements.   
+
+ 
+1.1 Section 15 of the Government Accounting Manual (GAM) states that “The 
+
+Financial Statements (FS) shall present fairly the financial position, financial 
+performance and cash flows of an entity. Fair presentation requires the faithful 
+representation of the effects of transactions, other events, and conditions in 
+accordance with the definitions and recognition criteria for assets, liabilities, 
+revenue, and expenses set out in IPSAS.” 
+ 
+
+1.2 Our audit of the College’s FS disclosed misstatements and deficiencies in the 
+keeping of accounts in several of its accounts and discussed in detail in the 
+succeeding paragraphs and summarized as follows:  
+
+ 
+Summary of Errors and Omissions 
+ 
+
+Account Title/Name Par. 
+Number 
+in AAR 
+
+Assets Liabilities Equity 
+
+(Over)/Understatement  (in 
+thousand pesos) 
+
+Cash in Bank-Local 
+Currency, CA 
+Due to NGA’s 
+
+ 
+2 
+
+1,051.10  
+ 
+
+1,051.10 
+
+ 
+
+Inventories  
+ 
+ 
+ 
+ 
+
+3.2 
+
+(563.38)   
+Office Supplies Inventory (546.91)   
+Fuel, Oil and Lubricants (9.02)   
+Other Supplies& Materials 
+Inventory 
+
+ 
+(6.16) 
+
+  
+
+Other Supplies & Materials 
+Inventory-Special Trust 
+Fund 
+
+ 
+ 
+
+(1.29) 
+
+  
+
+Accumulated Surplus   (563.38) 
+   Prior Years   (562.09) 
+   Current Year   (1.29) 
+Liabilities  
+
+ 
+ 
+
+6.4 
+
+ 1,919.66  
+   Accounts Payable  1,726.04  
+
+Due to Officers & 
+Employees 
+
+ 193.62  
+
+Accumulated Surplus   (1,919.66) 
+
+   Current Year   (1,919.66) 
+
+Total Misstatements* 487.72 2,970.76 (2,483.04) 
+
+*exceeded overall materiality level 
+ 
+
+ 
+
+
+
+27 
+ 
+
+Understatement of Cash in Bank – Local Currency and Inter-Agency Payables (Due to 
+National Government Agencies) - ₱1.051 million 
+ 
+2. Reconciling items identified in the Bank Reconciliation Statement (BRS) for 
+
+Special Trust Fund (STF) amounting to ₱1.051 million were not adjusted in the 
+Agency’s book of accounts, contrary to Chapter 21 of the GAM, thus 
+understating the accounts Cash in Bank – Local Currency and Inter-Agency 
+Payables (Due to NGAs) by the same amount as of December 31, 2020.   
+
+ 
+2.1 Item C, Section 3, Chapter 21 of GAM Volume I, states that the BRS shall be 
+
+prepared in order to enable the agency/ entity or bank to take up charges or 
+credits recognized by the bank or agency/entity but not yet known to the 
+agency/entity or bank. 
+ 
+
+2.2 Section 6 of the same provision provides that the Chief Accountant/Designated 
+Staff shall prepare a journal entry voucher to recognize all reconciling items that 
+require adjustment and correction in the books of accounts. 
+
+ 
+2.3 Section 68 of Presidential Decree (PD) No. 1445 provides that no payment of 
+
+any nature shall be received by a Collecting Officer without immediately issuing 
+an official receipt in acknowledgement thereof.  The receipt may be in the form 
+of postage, internal revenue or documentary stamps and the like, officially 
+numbered receipts, subject to proper custody, accountability, and audit. 
+
+ 
+2.4 We have reviewed the College’s BRS and performed an inspection of bank 
+
+statements for all depository accounts of the College, as follows: 
+ 
+
+Fund 
+Account 
+
+No. 
+
+Adjusted 
+Balance per 
+
+Bank 
+Reconciliation 
+
+Balance per FS 
+Reconciling 
+
+Items 
+
+General 
+Fund 
+
+ ₱ 213,668.43 ₱ 0.00 ₱213,668.43 
+
+Special 
+Trust 
+ Fund 
+
+0192-0022-
+49 
+
+133,892,339.18 132,841,239.18 1,051,100.00 
+
+StuFAP* 
+Fund 
+
+3232-1012-
+52 
+
+205,856.00 205,856.00 0.00 
+
+SHS** Fund 3232-0019-
+59 
+
+86,536.18 86,536.18 0.00 
+
+Grand Total  ₱134,398,399.79 ₱133,133,631.36 ₱1,264,768.43 
+
+*StuFAP – Student Financial Assistance Program 
+**SHS – Senior High School 
+
+ 
+2.5 The reconciling item for General Fund (GF) amounting to ₱213,668.43 
+
+represents unutilized Notice of Cash Allocation balance which was reverted as 
+of year-end. 
+ 
+
+2.6 Our audit showed that as of December 31, 2020, the College received funds from 
+Commission on Higher Education (CHED) for the payment of tuition fee and 
+stipend allowance of CHED’s Tulong Dunong (TD) Program and Tertiary 
+Education Subsidy (TES) scholars amounting to ₱1.051 million per credit memos 
+received from the bank, itemized as follows:  
+ 
+
+
+
+28 
+ 
+
+Particulars Date 
+Deposited to 
+
+College’s 
+Account 
+
+Amount 
+
+Payment of stipend allowance to TES 
+beneficiaries 
+
+10/27/2020 329,600.00 
+
+Payment of tuition fee and stipend 
+allowance of CHED-TDP-TES scholars for 
+1st and 2nd semesters of SY 2019-2020 
+
+11/27/2020  24,000.00  
+
+Payment of tuition fee and stipend 
+allowance of Regular Scholars for the 1st 
+semester of SY 2020-2021 
+
+11/27/2020  12,000.00  
+
+Payment of tuition fee and stipend 
+allowance of CHED-TDP scholars for 1st 
+and 2nd semesters of SY 2019-2020 
+
+12/11/2020  112,500.00  
+
+Payment of tuition fee and stipend 
+allowance of CHED-TDP scholars for 1st 
+and 2nd semesters of SY 2019-2020 
+
+12/16/2020  435,000.00  
+
+Payment of tuition fee and stipend 
+allowance of TD00 scholar for 1st semester 
+of SY 2020-2021 
+
+12/16/2020  6,000.00  
+
+Payment of tuition fee and stipend 
+allowance of Partial Scholar 101 scholar for 
+1st semester of SY 2020-2021 
+
+12/21/2020  7,500.00  
+
+Payment of tuition fee and stipend 
+allowance of CHED-TDP-TES scholars for 
+1st and 2nd semesters of SY 2019-2020 
+
+12/21/2020  36,000.00  
+
+Payment of tuition fee and stipend 
+allowance of Regular Scholars for 1st 
+semester of SY 2020-2021 
+
+12/23/2020  55,500.00  
+
+Payment of tuition fee and stipend 
+allowance of CHED-TDP scholars for 1st 
+and 2nd semesters of SY 2019-2020 
+
+12/23/2020  30,000.00  
+
+Payment of tuition fee and stipend 
+allowance of TD01 scholar for 1st semester 
+of SY 2020-2021 
+
+12/23/2020  3,000.00  
+
+Total  ₱1,051,100.00 
+
+ 
+2.7 We noted that these credit memos were only included in the Report of Collections 
+
+and Deposits for the month of January 2021 and were taken up in the books as 
+Due to NGAs – CHED – TES and Due to NGAs – CHED – TD amounting to 
+₱329,600.00 and ₱0.721 million, respectively. 
+ 
+
+2.8 Inquiry with the preparer of the BRS revealed that these reconciling items were 
+not taken up in the books as of CY 2020 since these were only receipted in 
+January 2021. 
+
+ 
+2.9 The non-adjustment of the reconciling items determined during the preparation 
+
+of the BRS in the books of the College understates by ₱1.051 million the Cash 
+in Bank – Local Currency and the Inter-Agency Payables (Due to NGAs) 
+accounts presented in the Statement of Financial Position (SFP) and in the 
+Statement of Cash Flows (SCF) as of December 31, 2020.  Moreover, the non-
+adjustment of reconciling items in the books of the College defeats the purpose 
+of preparing the bank reconciliation statements. 
+
+
+
+29 
+ 
+
+Recommendations 
+ 
+
+2.10 We recommended and Management agreed to: 
+ 
+
+a. Record all reconciling items that require adjustment and correction in the 
+books of accounts in the period to which they relate; and, 
+ 
+
+b. Coordinate with the Cashier Unit for the proper disposition of reconciling 
+items. 
+ 
+
+Unreconciled balances of Inventories - ₱1.410 million 
+ 
+
+3. Balance of the inventory account as of December 31, 2020 amounting to ₱2.539 
+million could not be relied upon due to unreconciled/unadjusted variance of 
+₱1.410 million between the balances reported in the FS and in the Report of 
+Physical Count of Inventories (RPCI). 
+ 
+3.1 As of December 31, 2020, the FS of the College disclosed a balance of ₱2.539 
+
+million.   A comparison between the balance per FS and the balance per  RPCI 
+disclosed a variance of ₱1.410 million, as follows: 
+ 
+
+Fund Per FS Per RPCI Variance 
+
+Fund 101 ₱ 2,373,467.10 ₱ 1,055,646.19 ₱ 1,317,820.91 
+
+Fund 164 165,914.60 73,677.75 92,236.85 
+
+Total ₱ 2,539,381.70 ₱ 1,129,323.94 ₱ 1,410,057.76 
+
+ 
+3.2 We conducted a test check of the Inventory accounts which disclosed the 
+
+following circumstances/ reconciling items between the FS and RPCI balances: 
+ 
+Reconciliation of Inventory Accounts per Audit 
+As of December 31, 2020 
+ 
+
+  Per FS Per RPCI Variance 
+
+Balance -December 31, 2020 ₱2,539,381.70 ₱1,129,323.94 ₱1,410,057.76 
+
+1) Office Supplies Inventory, 
+Fuel, Oil & Lubricants 
+Inventory and Other 
+Supplies and Materials 
+Inventory, already issued in 
+prior years, were still not 
+derecognized in the books.  
+These inventory balances 
+came from the period prior 
+to the implementation of the 
+New Government 
+Accounting System 
+(NGAS), which up to the 
+present issuances 
+remained unrecorded due 
+to non-preparation of the 
+monthly Report of Supplies 
+
+(562,089.05)  (562,089.05) 
+
+
+
+30 
+ 
+
+  Per FS Per RPCI Variance 
+
+and Materials Issued 
+(RSMI). 
+
+2) Various inventories 
+delivered at various dates in 
+CY 2020 were already 
+recognized in the books but 
+were not yet included in the 
+RPCI since the 
+corresponding Inspection 
+and Acceptance Report 
+were only approved on the 
+ensuing year. This amount 
+is part of the Accounts 
+Payable/ Due and 
+Demandable Obligations of 
+the College reported in the 
+Financial Accountability 
+Report No. 3 as of 
+December 31, 2020. 
+
+ 870,664.02 870,664.02 
+
+3) Other Supplies and 
+Materials Inventory – STF, 
+amounting to ₱1,294.20, 
+which were already issued 
+per Supply Records (RIS 
+no. 2020-10-0294 and 
+2020-11-0354) were not 
+taken up in the books of 
+account. 
+
+(1,294.20)  (1,294.20) 
+
+Total Reconciling Items (563,383.25) 870,664.02 307,280.77 
+
+Balance after reconciling 
+Items 
+
+₱1,975,998.45 ₱1,999.987.96 ₱23,989.51 
+
+ 
+3.3 We also noted the following: 
+
+ 
+3.3.1 Inventories amounting to ₱133,770.47 purchased through the 
+
+Procurement Service were recorded in the books of account under Other 
+Supplies and Materials Inventory and Semi-Expendable Other Machinery 
+and Equipment – GF but were reported under Office Supplies Inventory 
+per RPCI.  Some of these inventories were already issued as reported in 
+the Stock Cards (SCs). 
+ 
+
+3.3.2 Various inventories, amounting to ₱364,585.71, issued from January to 
+December 2020 were charged to Accumulated Surplus/ Deficit 
+understating expense by the same amount.  Issuance of these inventories 
+were from prior year purchases.  When inventories are distributed, their 
+carrying amount shall be recognized as an expense in the period in which 
+the goods are distributed or the related service is rendered. 
+ 
+
+3.4 As shown in the above table, there is still an unreconciled variance of ₱23,989.51 
+between the FS and RPCI balance while the amount presented in the FS of 
+₱2.539 million is over by ₱0.563 million, after considering the reconciling items. 
+
+ 
+Recommendation 
+
+
+
+31 
+ 
+
+3.5 We recommended and Management agreed to direct the Accounting and Supply 
+Unit to reconcile their records to properly adjust the Inventory Account. For those 
+items already issued in prior years, to direct the Supply Unit to prepare and 
+submit to the Accounting Unit the RSMI/RIS or other supporting documents and 
+require the Accounting Unit to prepare the necessary adjusting entry. 
+ 
+
+No physical count of inventory and non-maintenance of Supply Ledger Card 
+ 
+4. The non-conduct of physical count of inventory and non-maintenance of  
+
+Supplies Ledger Cards (SLCs) by the Accounting Unit  cast doubt on the 
+existence and accuracy of reported inventory. 
+
+ 
+4.1 Pertinent rules and regulations mentioned in the GAM which governs property 
+
+and supplies management and accounting are as follows: 
+ 
+
+4.1.1 Section 13, Chapter 8 of GAM Volume I states that physical 
+count/inventory, which is required semi-annually, is an 
+indispensable procedure for checking the integrity of property 
+custodianship. 
+ 
+
+4.1.2 Supplies Ledger Card (SLC) (Appendix 57) – shall be used to 
+record materials received, issued and the balance both in quantity 
+and amount at any time.  It shall be maintained by the Accounting 
+Division/Unit for each kind of supplies and materials.  The 
+Inspection and Acceptance Report (IAR), Requisition and Issue 
+Slip (RIS), RSMI, Purchase Order (PO) and Delivery Receipt (DR) 
+serve as the original sources of information for making entries on 
+the card. 
+ 
+
+4.1.3 Appendix 66 of GAM Volume II states that the RPCI is a form used to 
+report the physical count of inventory items by type such as Office 
+Supplies Inventory; Accountable Forms Inventory; Medical, Dental and 
+Laboratory Supplies Inventory; Food Supplies Inventory, etc. which are 
+owned by the agency/entity. It shall be prepared semi-annually by the 
+Inventory Committee and by fund cluster.  The report shall be reconciled 
+with the SLCs and SCs maintained by the Accounting Division/Unit, and 
+Property and/or Supply Division/Unit, respectively.  Any discrepancy 
+shall be verified and/or adjusted accordingly. 
+
+ 
+4.2 The conduct of physical count of inventory which is required semi-annually 
+
+should be regarded with importance since this serves as the basis for the 
+preparation of the FS. In all cases, this is vital in the planning of additional 
+acquisitions and, if applicable, to ascertain the reliability of the College’s 
+perpetual inventory system. 
+
+ 
+4.3 Management disclosed that they were not able to conduct a physical count of 
+
+inventory for the year due to the pandemic.  The data reflected in the RPCI were 
+only based on the records of the Supply Unit, specifically the SCs and SLCs. 
+ 
+
+4.4 To verify the existence of the reported inventories, we conducted a test check 
+of the reported inventory.  Out of the ₱ 1.129 million reported inventory in the 
+RPCI, we test checked the existence of inventories amounting to ₱0.984 million.  
+
+
+
+32 
+ 
+
+Results of test counts made on various items of supplies and materials 
+conducted on January 11 & 26, 2021 are as follows: 
+
+ 
+
+Category 
+(Consolidated) 
+
+Per 
+RPCI/SC 
+
+Per Test 
+Count 
+
+Variance 
+
+Office Supplies ₱741,997.79 ₱678,006.62 ₱63,991.18 
+Fuel, Oil & Lubricant 111,313.50 104,059.59 7,253.92 
+Other Supplies and Materials 109,404.75 101,456.15 7,948.60 
+Various semi-expendable 
+inventories 
+
+22,000.00 11,000.00 11,000.00 
+
+Total ₱984,716.04 ₱894,522.35 ₱90,193.69 
+
+ 
+4.5 We also noted that various items of supplies and materials inventory were also 
+
+found in the stock room of the College that were not reported in the RPCI.  
+Supplies and materials stored in the stock room are segregated by Supplier and 
+not strategically segregated by nature, amount, size, weight, shape, turnover 
+and perishability. 
+ 
+
+4.6 As shown in the above table, there is a variance of P90,193.69 between the 
+amount reported as against those actually found during the conduct of the test 
+count. Resulting variances noted during the physical count by the Audit Team 
+cast doubt on the inventories reported in the RPCI. 
+ 
+
+4.7 The coronavirus (CoVid-19) pandemic has caused significant disruptions in the 
+operations of Government Agencies.  These disruptions also pose significant 
+accounting and auditing challenges.  One of those challenges is the conduct of 
+physical inventory count, including attendance by auditors, due to significant 
+health and safety concerns, varying quarantines, ever-changing restrictions, 
+alternative work arrangements, and the fear caused by CoVid-19. 
+ 
+
+4.8 Management can consider the physical count of Inventories at a date when it is 
+practical and possible to do the same. They should revisit their inventory count 
+strategy, plan and discuss the best possible course of action, with due regard to 
+the observance of safety and health protocols. 
+ 
+
+4.9 Under the provisions of GAM, SLC is maintained by the Accounting while the 
+SC is maintained by the Supply Section. We noted that the SLCs for each type 
+of supplies and materials are maintained by the Supply Unit instead of the 
+Accounting Unit, which is contrary to the provisions of the GAM and sound 
+internal control practices dictate that there should be proper monitoring and 
+reconciliation of receipts and issuances of inventories for check and balance.  
+This practice defeats the purpose of check and balance because the Accounting 
+Unit should have its own records which are to be reconciled with records of the 
+Supply Unit as a means of proving the existence and accuracy of the recorded 
+inventories in the books of accounts maintained by the Accounting Unit. 
+
+ 
+Recommendations 
+
+ 
+4.10 We recommended and Management agreed to: 
+
+ 
+a. Formulate a policy for the proper storing and handling, control, monitoring 
+
+and recording of inventories; and, 
+ 
+
+
+
+33 
+ 
+
+b. Direct the Accounting Unit to maintain the SLCs and the Supply Unit to 
+maintain SCs for each kind of supplies and materials; reconcile both records 
+regularly and with the result of the physical count at the end of each year. 
+
+ 
+Unreconciled Property, Plant and Equipment (PPE) records 
+
+ 
+5. The year-end balance of PPE amounting to P255.929 million 
+
+ could not be relied upon due to unreconciled variance amounting to ₱27.425 
+million between the balances reported in the FS and in the Report of Physical 
+Count of Property Plant & Equipment (RPCPPE).   
+
+ 
+5.1 Pertinent rules and regulations in the GAM which governs the property and 
+
+supplies management and accounting are as follows: 
+ 
+5.1.1 Section 20 of Chapter 10, Volume I state that deliveries of PPE shall be 
+
+recorded immediately in the Property Card (PC) maintained by the 
+Supply and/or Property Division/Unit which in turn shall be forwarded to 
+the Accounting Division/Unit for the recording of deliveries in the books 
+of accounts and in the PPELC. 
+ 
+
+5.1.2 Section 42 thereof provides that for check and balance, the balance per 
+PC shall be reconciled with PPELC maintained by the Accounting 
+Division/Unit. The PPELC shall also be reconciled with the RPCPPE, 
+the PC and the control accounts. Any discrepancies shall be 
+immediately verified and adjusted. 
+
+ 
+5.2 Review of the PPE balances of the College as of December 31, 2020 and 
+
+comparison between the balances per FS and per RPCPPE showed an 
+unreconciled variance amounting to ₱27.425 million, as follows: 
+ 
+
+     Comparison of FS and RPCPPE 
+
+Category FS RPCPPE Difference 
+
+Land ₱      47,553.63 ₱      47,553.63                  0.0 
+
+Building 36,917,705.10 4,928,012.12 31,989,692.98 
+
+School 
+Buildings 
+
+69,602,802.61 95,612,024.78 (26,009,222.17) 
+
+Hostels and 
+Dormitories 
+
+4,830,387.80 4,830,387.80 0.00 
+
+Medical – 
+Dental Building 
+
+0.00 6,296,937.10 (6,296,937.10) 
+
+Other 
+Structures 
+
+0.00 8,576,931.50 (8,576,931.50) 
+
+Power Systems 0.00 989,554.00 (989,554.00) 
+
+Machinery 750,243.99 11,771,512.43 (11,021,268.44) 
+
+Office 
+Equipment 
+
+3,588,209.22 4,037,280.50 (449,071.28) 
+
+Information and 
+Communication 
+Technology 
+(ICT) 
+Equipment 
+
+16,911,449.32 30,274,186.00 (13,362,736.68) 
+
+Communication 
+Equipment 
+
+110,000.00 110,000.00 0.00 
+
+
+
+34 
+ 
+
+Category FS RPCPPE Difference 
+
+Medical 
+Equipment 
+
+640,565.93 342,250.00 298,315.93 
+
+Printing 
+Equipment 
+
+4,085,070.00 3,780,000.00 305,070.00 
+
+Sports 
+Equipment 
+
+155,200.00 155,200.00 0.00 
+
+Technical and 
+Scientific 
+Equipment 
+
+66,850,913.21 83,455,975.74 (16,605,062.53) 
+
+Other 
+Machinery and 
+Equipment 
+
+7,992,462.90 0.00 7,992,462.90 
+
+Motor Vehicle 5,685,423.00 6,546,127.53 (860,704.53) 
+
+Furniture and 
+Fixtures 
+
+1,172,185.71 1,232,639.00 (60,453.29) 
+
+Books 453,984.19 416,855.00 37,129.19 
+
+Construction in 
+Progress (CIP) 
+– Buildings and 
+Other 
+Structures 
+
+96,771,048.73 85,988,056.09 10,782,992.64 
+
+Other PPE 15,250,234.48 9,849,928.00 5,400,306.48 
+
+Total ₱331,815,439.82 ₱359,241,411.22 ₱(27,425,971.40) 
+
+ 
+5.3 Discrepancies noted in our audit and reconciliation of the PPE Accounts are as 
+
+follows: 
+ 
+    Reconciliation of Accounting’s Inventory List and RPCPPE 
+
+ 
+Per 
+
+Accounting’s 
+Inventory List 
+
+Per RPCPPE Variance 
+
+Unadjusted 
+balance 
+
+₱331,815,439.82 ₱359,241,411.22 ₱(27,425,971.40) 
+
+ 
+1. Total of 
+
+RPCPPE – STF 
+as of year-end 
+is overstated by 
+₱10.439 million 
+as compared to 
+the totals per 
+audit as follows: 
+ 
+
+ Total ICT 
+Equipment per 
+RPCPPE  
+
+ Total footed 
+during audit  
+
+ Overstatement 
+in RPCPPE  
+
+  
+(10,439,421.00) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+₱19,816,355.00 
+ 
+
+(9,287,855.00) 
+ 
+
+₱10,528,500.00 
+ 
+
+ 
+ 
+ 
+
+
+
+35 
+ 
+
+ 
+Per 
+
+Accounting’s 
+Inventory List 
+
+Per RPCPPE Variance 
+
+ 
+
+ Total Other 
+PPE reported 
+in the RPCPPE 
+
+ Total footed 
+per audit 
+
+ Understateme
+nt in RPCPPE  
+
+ 
+ 
+
+₱2,213,761.00 
+ 
+
+(2,302,840.00) 
+ 
+
+₱(89,079.00) 
+
+ 
+2. Construction of 
+
+Academic 
+Building with  
+contract cost of 
+₱7.759 million 
+was reported in 
+the RPCPPE 
+under Buildings 
+and Other 
+Structures – 
+Other Structures 
+while it was 
+recorded in the 
+books as 
+Investment 
+Property. 
+
+  
+(7,759,939.31) 
+
+ 
+7,759,939.31 
+
+ 
+3. Various PPE 
+
+items amounting 
+to ₱2.510 million 
+that were 
+recorded twice in 
+the RPCPPE. 
+
+  
+(2,510,382.00) 
+
+ 
+2,510,382.00 
+
+ 
+4. Discrepancy in 
+
+the acquisition 
+cost of Mitsubishi 
+Adventure, Plate 
+No. SGD 327  
+acquired on July 
+19, 2005. 
+Acquisition cost 
+Amount 
+recorded in the 
+books  
+Discrepancy 
+
+ 
+(195,000.00) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+₱853,000.00 
+ 
+ 
+
+(1,048,000.00) 
+₱(195,000.00) 
+
+ 
+
+  
+(195,000.00) 
+
+Balance after 
+reconciling items 
+
+₱331,620,439.82 ₱338,531,668.91 ₱ (6,911,229.09) 
+
+ 
+
+
+
+36 
+ 
+
+5.4 The following discrepancies were also noted: 
+ 
+5.4.1 Various PPE items reported in the RPCPPE cannot be traced to 
+
+Accounting’s Inventory List of PPE and vice-versa, as follows: 
+ 
+   Summary of PPE Items Not traced in Both Records 
+
+Category RPCPPE Inventory List 
+
+School Buildings ₱      538,504.69  
+
+Medical – Dental Building 12,000.00  
+
+Other Structures 457,516.52  
+
+Machinery 1,416,842.00 ₱   750,243.99                                 
+
+Office Equipment 424,877.00 1,371,823.00 
+
+ICT Equipment 1,406,886.00 6,493,915.79 
+
+Medical Equipment  568,315.93 
+
+Printing Equipment  38,390.00 
+Technical & Scientific Equipment 26,171,889.12 2,798,091.06 
+Other Machinery and Equipment  218,004.00 
+
+Motor Vehicle 1,055,704.53  
+
+Furniture and Fixtures 205,581.00 307,090.00 
+
+Books 66,203.00 103,332.19 
+CIP – Buildings & Other 
+Structures 
+
+1,060,783.80  
+
+Other PPE 1,083,667.00 3,860,966.29 
+
+Total ₱ 33,900,454.66 ₱ 16,510,172.25 
+
+ 
+5.4.2 Discrepancy noted in the amounts of CIP as follows: 
+
+ 
+   Discrepancy in CIP Account 
+
+Category RPCPPE Inventory List 
+
+CIP – Buildings & Other Structures ₱ 1,060,783.80 ₱ 11,843,776.44 
+
+ 
+Construction of World Food Trade Center amounting to ₱3.022 million, 
+which is for demolition is recorded in the RPCPPE as Other Assets. 
+ 
+
+5.4.3 Various PPE items amounting to ₱19.914 million were noted to have 
+unmatched classifications between the RPCPPE and Accounting’s 
+Inventory List of PPE, as follows: 
+ 
+
+ Summary of Unmatched Classifications of PPE Items (GF) 
+
+Per RPCPPE 
+Office 
+
+Equipment 
+IT 
+
+Equipment 
+
+Technical & 
+Scientific 
+
+Equipment 
+Machineries Other PPE Total 
+
+Total 300,380.00 5,525,390.00 1,458,000.00 9,749,185.53 740,000.00 17,772,955.53 
+
+Per 
+Accounting 
+
+      
+
+Technical & 
+Scientific 
+Equipment 
+
+0.00 5,139,740.00 0.00 3,823,665.53 0.00 8,963,405.53 
+
+Other 
+Machinery & 
+Equipment 
+
+0.00 0.00 0.00 5,907,520.00 490,000.00 6,397,520.00 
+
+Furniture & 
+Fixtures 
+
+0.00 0.00 0.00 0.00 250,000.00 250,000.00 
+
+Other PPE 300,380.00 385,650.00 1,458,000.00 18,000.00 0.00 2,162,030.00 
+
+
+
+37 
+ 
+
+Summary of Unmatched Classifications of PPE Items (STF) 
+
+Per 
+RPCPPE 
+
+Office 
+Equipment 
+
+Furniture & 
+Fixtures 
+
+Medical 
+Equipment 
+
+ICT 
+Equipment 
+
+Machinerie
+s 
+
+Other 
+PPE 
+
+Total 
+
+Total 827,665.00 449,638.00 270,000.00 380,630.00 126,192.00 87,370.00 2,141,495.00 
+
+Per 
+Accounting        
+
+Office 
+Equipment 
+
+0.00 61,378.00 0.00 0.00 0.00 0.00 61,378.00 
+
+Printing 
+Equipment 
+
+0.00 0.00 0.00 266,680.00 0.00 0.00 266,680.00 
+
+Technical & 
+Scientific 
+Equipment 
+
+0.00 357,960.00 0.00 0.00 0.00 47,370.00 405,330.00 
+
+Other 
+Machinery 
+& 
+Equipment 
+
+49,950.00 0.00 0.00 24,750.00 20,900.00 25,000.00 120,600.00 
+
+Furniture & 
+Fixtures 
+
+0.00 0.00 0.00 0.00 0.00 15,000.00 15,000.00 
+
+Other PPE 777,715.00 30,300.00 270,000.00 89,200.00 105,292.00 0.00 1,272,507.00 
+
+ 
+5.5 Based on the foregoing, there still exist an unreconciled variance amounting to 
+
+₱6.911 million between the FS and RPCPPE balance after considering the 
+reconciling items.  The records of the Supply Office pertinent to properties of the 
+College are supposed to prove the correctness and accuracy of the recorded 
+assets in the books of accounts maintained by the Accounting Office. Existing 
+variances of these two reports renders the balances of these accounts doubtful. 
+ 
+
+5.6 The PPE account comprises 60.32 per cent of the total assets of the College.  
+The existence of a significant amount of discrepancies in the PPE account 
+balances is a perennial issue and casts doubt on the accuracy of the PPE 
+balances presented in the FS.  Such condition, if not properly addressed will also 
+be a qualification on the fairness of presentation of the financial position of the 
+College.  It will deprive the public of reliable and useful information in decision-
+making and accountability for these assets.  Thus, it is important for Management 
+to come up with reliable PPE balances that are verifiable as to existence, 
+condition and accountability. 
+
+ 
+Recommendations 
+ 
+
+5.7 We recommended to Management the following: 
+ 
+a. Conduct physical count for the one-time cleansing of all its PPE in 
+
+accordance with COA Circular 2020-006 dated January 31, 2020, whether 
+acquired through purchase or donation, including those constructed by 
+administration and found at station, which shall be witnessed by the COA 
+Auditor; 
+ 
+
+b. Adopt a uniform property identification system for PPE wherein a unique 
+Property Number shall be assigned for each PPE item, using the numbering 
+system prescribed in COA Circular 2020-006; 
+
+ 
+c. Instruct the Inventory Committee to prepare a Physical Inventory Plan (PIP) 
+
+to plan/strategize on how to conduct and complete the physical inventory 
+within the prescribed period which shall be approved by the Head of Agency; 
+
+ 
+
+
+
+38 
+ 
+
+d. Instruct the Inventory Committee to submit to the COA Audit Team the 
+approved PIP at least 10 calendar days before the scheduled start of 
+inventory taking activities; 
+
+ 
+e. Update property records based on the results of the physical inventory and 
+
+reconcile the same with the accounting records to come up with the 
+reconciled balances of PPE accounts to be considered as the correct balance 
+of the College’s PPE; 
+
+ 
+f. Instruct the Accounting Unit to maintain PPELC for each class of PPE, by 
+
+fund cluster instead of the Inventory List of PPE; and, 
+ 
+
+g. Restore fully depreciated PPE amounting to ₱3.98 million recorded under 
+Other Assets to its proper PPE account. 
+
+ 
+Management Comment 
+ 
+
+5.8  Management acknowledges the observations and recommendations, and 
+provides the following responses as its action plan: 
+ 
+(i) The Office of Procurement, Inventory, and Assets (OPIA)/Supply Office is 
+
+gradually conducting the physical count of different buildings.  It was just 
+relaxed since the pandemic started but the office will warrant to increase 
+the velocity in the inventory to take the one-time cleansing of all PPEs; 
+
+ 
+(ii) Management issued a special order for the creation of its Inventory 
+
+Committee and the Committee head prepared the PIP for the approval of 
+the President and that the same will be submitted to the Office of the 
+Auditor; and 
+
+ 
+(iii) The management will monitor the action plan herein and warrant to take 
+
+extra effort to comply with all the observations and recommendations. 
+ 
+
+Understatement of Payables 
+ 
+6. Expenses incurred in CY 2020 and prior year/s were not recognized in the books 
+
+thus, understating Payables accounts by ₱1.92 million or 12.94 per cent of the 
+total reported balance as of December 31, 2020, contrary to Section 119 of PD 
+No. 1445. 
+
+ 
+6.1 Section 119 of PD No. 1445, states that, all lawful expenditures and obligations 
+
+incurred during the year, shall be taken up in the accounts of that year. 
+ 
+
+6.2 Section 2, Chapter 6 of GAM Volume I defines accounts payable as valid and 
+legal obligations of NGAs/ Operating Units, for which, goods/services/projects 
+have been delivered/rendered/completed and accepted, regardless of the year 
+when these obligations were incurred. (Emphasis added) 
+
+ 
+6.3 Appendix III of GAM describes Due to Officers and Employees as the account to 
+
+recognize incurrence of liability to officers and employees for salaries, benefits 
+and other emoluments including authorized expenses advanced by the officers 
+and employees.  On the other hand, Other Payables is the account used to 
+recognize other liabilities not falling under any of the specific payable accounts. 
+ 
+
+
+
+39 
+ 
+
+6.4 Verification of CY 2020 financial transactions of the College – both GF and STF, 
+showed that as of year-end the College has unrecorded payables amounting to 
+₱1.92 million or 12.94 per cent of the total reported payables in the SFP, as 
+presented in the following table: 
+ 
+
+Summary of Understatement of Payables Account 
+
+Account Fund 101 Fund 164 Total 
+% to 
+FS 
+
+Accounts Payable 
+(AP) 
+
+₱484,950.25 ₱1,241,093.12 ₱1,726,043.37 16.71% 
+
+Due to Officers & 
+Employees (DOE) 
+
+136,689.62 56,930.44 193,620.06 4.30% 
+
+Total ₱621,639.87 ₱1,298,023.56 ₱1,919,663.43 12.94% 
+
+ 
+Details of Understatement of Payables Account 
+
+Correct Account 
+Understated 
+
+Amount 
+Nature of 
+
+Transactions 
+
+Affected 
+Expense 
+Accounts 
+
+Fund 101    
+
+Accounts Payable ₱   249,353.45 Services rendered by 
+Job Order (JO) for the 
+month February & 
+December 2020 
+
+Other 
+Professional 
+Services 
+
+194,596.80 Security services 
+rendered for the month 
+of December 2020  
+
+Security 
+Services 
+
+41,000.00 Monthly allowance to 
+Office of the Solicitor 
+General 
+officers/lawyers for the 
+period July to August 
+2020 
+
+Other 
+Professional 
+Services 
+
+484,950.25   
+
+Due to Officers and 
+Employees 
+
+108,872.25 Honoraria for services 
+rendered by 
+professors/instructors 
+for the period January 
+to March 2020, 2nd 
+Semester of School 
+Year (SY) 2019-2020 
+
+Honoraria 
+
+2,817.37 Payment of salary 
+differential from 
+January to March 2020 
+
+Salaries and 
+Wages – 
+Regular 
+
+25,000.00 Payment of Collective 
+Negotiation Agreement 
+(CNA) for CY2020 
+
+Other 
+Bonuses 
+and 
+Allowances 
+(OBA) - CNA 
+
+136,689.62   
+
+Total, Fund 101 621,639.87   
+
+Fund 164 
+
+
+
+40 
+ 
+
+Correct Account 
+Understated 
+
+Amount 
+Nature of 
+
+Transactions 
+
+Affected 
+Expense 
+Accounts 
+
+Accounts Payable 102,600.00 Honoraria for services 
+rendered by Master of 
+Arts in Teaching 
+Vocational Education 
+(MATVE) professors/ 
+instructors to Vitali 
+Campus for the period 
+August 31 to November 
+9, 2019 and February 2 
+to May 17, 2020 
+
+Honoraria 
+
+1,138,493.12 Services rendered by 
+Visiting Lecturers (VL) 
+to various Departments 
+at various dates 
+
+Other 
+Professional 
+Services 
+
+1,241,093.12   
+
+Due to Officers and 
+Employees 
+
+    56,930.44 Honoraria for services 
+rendered by MATVE 
+professors/ instructors 
+for the period August 
+2019 and February, 
+March & June 2020; 
+and 
+Overtime services 
+rendered by finance 
+personnel for the 
+period August 2019 
+and February 2 & May 
+17, 2020 
+
+Accumulated 
+Surplus/ 
+Deficit 
+Honoraria 
+Overtime 
+Pay 
+
+56,930.44   
+
+Total, Fund 164 1,298,023.56   
+
+Total, Consolidated ₱1,919,663.43   
+
+ 
+6.5 During our audit, we noted the following deficiencies: 
+
+ 
+i. The transactions above were obligated and disbursed by the College in the 
+
+following year, January 2021, as well as the corresponding liabilities for 
+these transactions which were charged to Accumulated Surplus/ Deficit. 
+
+ 
+ii. Payment of salary differential for the period January to March 2020 and CNA 
+
+for CY 2020 amounting to ₱2,817.37 and ₱25,000.00, respectively, were 
+debited to DOE without prior recorded credits thus understating the DOE 
+account as well as the Salaries & Wages – Regular and OBA – CNA 
+accounts amounting to ₱2,817.37 and ₱25,000.00, respectively. 
+
+ 
+iii. Payables incurred for the services rendered by personnel under contract of 
+
+services (JO and VL), student laborers and payment of stipend allowance to 
+CHED scholars were taken-up in the books under the DOE account. The 
+following transactions remains outstanding in the account as of year-end: 
+
+ 
+Summary of Outstanding Transactions Recorded to DOE 
+
+
+
+41 
+ 
+
+Payee 
+Fund 
+
+Source 
+Amount 
+
+Nature of 
+Transactions 
+
+Reclassification 
+to Proper 
+Account 
+
+Fund 101 
+
+Payroll – 
+JO 
+& LCW* 
+
+101 ₱248,000.00 Payment of 
+gratuity pay to 
+JO assigned in 
+various offices 
+for CY 2020 
+
+Accounts Payable 
+
+Payroll – 
+Student 
+Laborers 
+
+101 111,900.00 Allowance to 
+student 
+laborers under 
+SPES** 
+program for the 
+period October 
+13 to 
+November 11, 
+2020 
+
+Other Payables 
+
+Fund 164 
+
+Payroll – 
+CHED TDP 
+Scholars 
+
+164 660,000.00 Payment of 
+stipend 
+allowance to 
+CHED TDP 
+scholars for 1st 
+& 2nd Sem of 
+SY 2019-2020 
+
+Other Payables 
+
+Total  ₱1,019,900.00   
+
+ *LCW – Local Contract Worker 
+ **SPES – Special Program for Employment of Students 
+
+ 
+6.6 Charges to DOE account should only cover liabilities to officers and employees 
+
+for salaries, benefits and other emoluments including authorized expenses 
+advanced by the officers and employees.  However, it was noted, that the 
+reported balance of the DOE account does not only reflect the actual financial 
+obligation/liability to officers/employees of the College.  Moreover, services from 
+various payees which had already been rendered as of year-end were not 
+recognized.  These unrecorded payables as of year-end understates the 
+liabilities and the corresponding expense accounts affecting the fairness of the 
+presentation of the FS. 
+ 
+
+Recommendations 
+ 
+
+6.7 We recommended that Management:  
+ 
+a. Comply with the correct accounting treatment for payables and recognize 
+
+valid and legal claims in the books, for which goods/services have been 
+delivered/rendered, duly approved by head of office and supported with 
+complete documentation; and, 
+ 
+
+b. Instruct the Accounting Unit to reclassify payments of salaries and wages for 
+services rendered by personnel under contract of services to AP and 
+reclassify payments of allowance to student laborers and stipend allowance 
+
+
+
+42 
+ 
+
+to scholars to other payables, which remained outstanding under DOE as of 
+year-end. 
+
+ 
+Management Comments 
+ 
+
+6.8 Management commented that the recommendation on the proper used of DOE, 
+AP and Other Payable will be taken into strict consideration effective March 2021. 
+Necessary adjusting entries will be prepared should there be recorded 
+transactions that needs to be rectified. 
+
+ 
+Erroneous recording of Other Receipts  
+ 
+7. Remittances to the Bureau of Treasury (BTr) for CY 2020 amounting to 
+
+₱273,384.35 were debited erroneously to Subsidy from National Government 
+and/or directly to Accumulated Surplus/ (Deficit) without coursing through the 
+Cash–Treasury/Agency Deposit accounts. Furthermore, constructive receipts 
+and remittances of Notice of Cash Allocation (NCA) for Tax Remittance Advice 
+(TRA) of  ₱15.981 million for CY 2020 were debited to account Due to Bureau of 
+Internal Revenue (BIR) and credited to Subsidy from National Government, 
+which are  inconsistent with the provisions of GAM 
+
+ 
+7.1 Pertinent rules and regulations in the GAM, which governs the accounting for 
+
+revenue and other receipts, remittance of collections to the National Treasury 
+(NT) and deposits with the Authorized Government Depository Bank (AGDB) 
+are as follows: 
+ 
+7.1.1 Section 3 of Chapter 5, Volume I states that unless otherwise specifically 
+
+provided by law, all revenue (income) accruing to the departments, 
+offices and agencies by virtue of the provisions of existing laws, orders 
+and regulations shall be deposited in the NT or in the duly authorized 
+depository of the Government and shall accrue to the xxx General Fund 
+of the Government: Provided, that amounts received in trust and from 
+business-type activities of government may be separately recorded and 
+disbursed in accordance with such rules and regulations as may be 
+determined by the Permanent Committee. (Sec. 44, Chapter V, Book VI, 
+E.O. No. 292 
+ 
+
+7.1.2 Item d, f to h of Section 38, of the same Chapter of the Manual provides 
+list of Other Receipts of NGAs which is composed of the following: 
+
+ 
+d. TRA 
+f. Refund of excess cash advances granted to officers and employees; 
+g. Performance bond/security deposits; 
+h. Refund of overpayment of expenses; 
+
+ 
+7.2 Collections of the above-mentioned other receipts are debited to Cash-
+
+Treasury/Agency Deposit accounts upon remittance to the BTr. Volume III of 
+GAM describes these accounts as follows: 
+ 
+i. Cash-Treasury/Agency Deposit, Regular, with account code 10104010, is 
+
+used to recognize in the agency books the amount of collections remitted 
+to the BTr under the General Fund, either directly or thru the AABs and 
+AGDBs. At year end, credit this account to close to the Accumulated 
+Surplus/(Deficit). 
+ 
+
+
+
+43 
+ 
+
+ii. Cash-Treasury/Agency Deposit, Special Account, with account code 
+10104020, is used to recognize the amount of collections remitted to the 
+BTr under the Special Account in the General Fund (SAGF). Credit this 
+account to recognize receipt of NCA and upon closing of the SAGF. 
+
+ 
+iii. Cash-Treasury/Agency Deposit, Trust, with account code 10104030, is 
+
+used to recognize the amount of trust receipts/collections and trust funds 
+remitted to the BTr and adjustments for lapsed NCA. Credit this account to 
+recognize receipt of NCA and upon closing of the trust account. 
+
+ 
+iv. Cash-Tax Remittance Advice, with account code 10104070, is debited for 
+
+constructive receipts of NCA for TRA and credited for constructive 
+remittances of taxes to BIR through TRA.  In the BIR books, this account is 
+debited for the constructive receipt of tax revenue through TRA and 
+credited for the yearend closing to Accumulated Surplus/(Deficit).  In the 
+BTr books, this account is credited for the constructive utilization of NCA 
+for TRA by the remitting agencies and debited upon closing to Accumulated 
+Surplus/ (Deficit). 
+
+  
+7.3 Records show that from January to December 2020 remittances made to BTr 
+
+were directly debited to Subsidy from National Government and Accumulated 
+Surplus/ (Deficit) accounts, as follows: 
+
+ 
+
+Month 
+Subsidy from 
+
+National 
+Government 
+
+Accumulated 
+Surplus/ 
+(Deficit) 
+
+Total 
+
+January ₱       0.00    ₱ 66,206.43  ₱ 66,206.43  
+
+February 4,012.50  7,704.80  11,717.30  
+
+March 928.00  64,439.00  65,367.00  
+
+April 0.00    0.00    0.00    
+
+May 40.00  526.00  566.00  
+
+June 14,278.55  0.00    14,278.55  
+
+July 32,464.86  2,700.00  35,164.86  
+
+August 395.34  850.02  1,245.36  
+
+September 8,573.50  7,393.46  15,966.96  
+
+October 0.00    0.00    0.00    
+
+November 10,596.89  16,775.00  27,371.89  
+
+December 0.00    35,500.00  35,500.00 
+
+Total ₱ 71,289.64  ₱ 202,094.71  ₱ 273,384.35 
+
+ 
+7.4 Review on the transactions above showed that these remittances are for the 
+
+collections of refund of excess cash advances of officers and employees, for 
+payroll, excess salary payments, etc. under the general fund.  The account 
+Subsidy from National Government is debited when the collections pertain to 
+refund of cash advances or excess payment of salary in current year.  Otherwise, 
+Accumulated Surplus/ (Deficit) is debited when the collections pertain to prior 
+years’ transactions.  As a result, Subsidy from National Government account and 
+Surplus for the period presented in the Statement of Financial Performance  as 
+well as in the Statement of Changes in Net Assets/Equity is understated by 
+₱71,289.64, as shown in the table next page: 
+
+   
+
+
+
+44 
+ 
+
+FS Amount per FS 
+
+Understatement 
+of Subsidy from 
+
+National 
+Government 
+
+Should be 
+Amount per FS 
+
+Detailed Statement of Financial Performance (All Funds) 
+
+Subsidy from 
+National 
+Government 
+
+₱232,831,373.99 ₱ 71,289.64 ₱232,902,663.63 
+
+ 
+Detailed Statement of Changes in Net Assets/Equity (All Funds) 
+
+Surplus for the 
+period 81,483,602.98 71,289.64 81,554,892.62 
+
+ 
+7.5 On the other hand, we also noted that remittance to NT as presented in the SCF 
+
+is overstated by ₱1,041.00 as follows: 
+ 
+
+Remittance to NT per Detailed SCF (All Funds) ₱ 527,447.10 
+Less: Total amount remitted to NT 526,406.10 
+
+Overstatement – adjustment made for excess recording of 
+deposit to BTR for the month of June 2020 ₱     1,041.00 
+
+ 
+7.6 All collections under the general fund shall be deposited to the BTr by debiting 
+
+Cash-Treasury/Agency Deposit, Regular or Special Account or Trust.  Cash-
+Treasury/Agency Deposit, Regular shall be close to Accumulated Surplus/ 
+(Deficit) at year-end.  Debiting the Subsidy from National Government and 
+Accumulated Surplus/ (Deficit) accounts for such transaction is not in 
+consonance with proper accounting/recording. 
+ 
+
+7.7 Likewise, it has been noted that the College did not recognize in the books the 
+constructive receipt of tax revenue.  Instead of debiting the Cash-Tax Remittance 
+Advice account for constructive receipts of NCA for TRA and crediting for 
+constructive remittances of taxes to BIR through TRA, the College directly debits 
+the Account Due to BIR and credits Subsidy from National Government.  Total 
+TRAs received and remitted to BIR from January to December 2020 amounted 
+to ₱15.981 million. These constructive receipts of NCAs for TRA and remittances 
+of taxes thru TRA were not included in the SCF. 
+
+ 
+7.8 The Revised Chart of Accounts, GAM Volume III and the provisions of GAM 
+
+Volume I are prescribed to facilitate proper recognition of financial transactions 
+in the books of accounts and preclude misuse of accounts to ensure that 
+balances presented in the FS are true and correct. 
+
+ 
+Recommendations 
+ 
+
+7.9 We recommended and Management agreed to: 
+ 
+a. Instruct the Accounting Unit to: 
+
+ 
+i. Properly use the accounts Cash-Treasury/Agency Deposits accounts in 
+
+the books to recognize remittance of collections to BTr; 
+ 
+
+
+
+45 
+ 
+
+ii. Recognize the constructive receipt and remittance of NCA for TRA in the 
+book of accounts; and, 
+
+ 
+b. Strictly conform to the above-stated provisions of GAM for revenue and 
+
+other receipts for proper recognition/accounting of transactions of the 
+College. 
+
+ 
+COMPLIANCE AUDIT   
+ 
+Reversion of Notice of Cash Allocation - ₱2.85 million 
+ 
+8. The College failed to maximize the utilization of its cash allocation as 
+
+programmed in their Monthly Disbursement Program (MDP) resulting in the 
+reversion of ₱2.853 million to the BTr for CY 2020. 
+ 
+8.1 Department of Budget and Management (DBM) National Budget Circular No. 
+
+578 dated January 6, 2020 provides guidelines on the release of funds for FY 
+2020 which requires, among others, the following: 
+ 
+
+3.6.2 Release of funds, i.e., Obligational Authority and 
+Disbursement Authority shall be in accordance with the targets set 
+forth under the DBM-evaluated Budget Execution Documents 
+(BEDs) for FY 2020 prepared and submitted by agencies/OU 
+through the Unified Reporting System (URS) pursuant to DBM 
+Circular Letter (CL) Nos. 2016-9, 2017-12, and 2019- 13. 
+
+ 
+3.6.3 The Monthly Disbursement Program (MDP) or BED No. 3 
+shall serve as basis for the DBM's release of disbursement 
+authorities including the comprehensive Notice of Cash Allocation 
+(NCA)…xxx. 
+
+ 
+8.2 Moreover, DBM Circular Letter No. 2019-3 dated January 4, 2019 which 
+
+provides procedures covering the crediting and validity of NCA effective first 
+quarter of FY 2019 and onwards specifies in Section 2.1 that, “All NCA releases 
+for Regular MDS Sub-Accounts, to be credited for any month, whether part of 
+the comprehensive releases or constituting additional NCA releases, shall 
+continue to be valid until the last working day of the 3rd month of the quarter 
+covered.” 
+ 
+
+8.3 On the other hand, GAM, Volume I state, among others, that: 
+ 
+
+Section 3. Notice of Cash Allocation. The NCA shall be the authority of an 
+agency to pay operating expenses, purchases of supplies and materials, 
+acquisition of PPE, AP, and other authorized disbursements through the issue 
+of MDS checks, ADA or other modes of disbursements. 
+ 
+
+a. “Xxx… 
+ 
+
+b. Xxx…The NCA shall be monitored through the maintenance of the 
+Registry of Allotments and Notice of Cash Allocation (RANCA) 
+(Appendix 30) by the Accounting Division/Unit”. 
+
+ 
+8.4 The College received a total cash allocation of ₱219.774 million for CY 2020, 
+
+expended ₱ 216.921 million and reverted a total amount of ₱2.853 million to the 
+BTr as shown in the following table: 
+
+
+
+46 
+ 
+
+Quarter NCAs Received Disbursements Reversion 
+
+1st Quarter ₱37,420,000.00 ₱37,402,069.28 ₱ 17,930.72 
+
+2nd Quarter 56,077,000.00 56,069,110.03 7,889.97 
+
+3rd Quarter 57,013,000.00 54,399,812.86 2,613,187.14 
+
+4th Quarter 69,264,000.00 69,050,331.57 213,668.43 
+
+TOTAL ₱219,774,000.00 ₱216,921,323.74 ₱2,852,676.26 
+
+ 
+8.5 According to Management, the lapsed 3rd quarter NCA was supposed to be for 
+
+payment of an on-going project but the College did not receive any billing from 
+the contractor while the reverted NCA for the 4th quarter was due to the double 
+preparation of check that was not immediately cancelled which the Cashier 
+discovered at a later date. Management further disclosed that they do monitor 
+the quarterly status of the NCA consequently, we requested for the RANCA, the 
+said registry has not been prepared as required in Section 3.b of GAM Volume I. 
+This Registry would have afforded timely and easy monitoring of allotments, 
+NCAs and balances. 
+
+ 
+8.6 While a total of ₱2.853 million was reverted to the BTr during the year, the Aging 
+
+of Due and Demandable Obligations as of December 31, 2020 (FAR No. 3), 
+showed that Management still has unpaid obligations of ₱7.107 million, 
+summarized per expense class as follows: 
+
+ 
+
+Expense 
+Class 
+
+Amount 
+
+Aging 
+
+90 days and 
+below 
+
+More than 2 
+years 
+
+Total 
+
+Personal 
+Services 
+
+₱     83,841.77 ₱     60,292.27 ₱      23,549.50 ₱     83,841.77 
+
+Maintenanc
+e and 
+Other 
+Operating 
+Expenses 
+
+957,339.70 957,339.70  957,339.70 
+
+Capital 
+Outlay 
+
+6,065,424.25  6,065,424.25 6,065,424.25 
+
+Total ₱7,106,605.72 ₱1,017,631.97 ₱ 6,088,973.75 ₱7,106,605.72 
+
+ 
+8.7 Records show that as of December 31, 2020, the outstanding obligations of the 
+
+College represent replenishment of petty cash fund, claims of employees and 
+suppliers/contractors for various expenses such as salaries and wages, loyalty 
+pay, training expenses, office supplies, billing of contractors, among others, 
+which remained unpaid at the end of the year due to insufficient documentation 
+and error in the Cashier’s available NCA balance. 
+
+ 
+8.8 The same obligations could have been reduced or fully paid had the 
+
+Management effectively managed the balances of cash allocations received and 
+corresponding disbursements made. 
+
+ 
+8.9 The reverted amount of ₱2.853 million implies that the College had not 
+
+maximized the utilization of its cash allocation as programmed in their MDP or 
+BED No. 3 during the year. 
+
+
+
+47 
+ 
+
+Recommendations 
+ 
+
+8.10 We recommended and Management agreed to: 
+ 
+a. Have an effective and efficient cash management so as to optimize the 
+
+utilization of cash allocation taking into consideration valid and due 
+obligations; 
+ 
+
+b. Direct the Budget, Accounting and Cashier Offices to take concerted effort in 
+informing other offices/departments of the available cash allocations to fast-
+track the processing of the claims supported with complete documents as 
+programmed in the MDPso that the funds received are fully utilized as 
+intended and reversion are minimized; and, 
+ 
+
+c. Require the Accounting Unit to prepare and maintain the RANCA for proper 
+monitoring of the available NCA and amount of allotments not covered by 
+NCA. 
+
+ 
+Payment of Overtime Services Contrary to CSC and DBM JC No. 1, series of 2015 
+ 
+9. Payment of Overtime Services of the Administrative Aide III/Driver I during the 
+
+period of Community Quarantine from March 23 to May 31, 2020 is contrary to 
+the provisions of Civil Service Commission (CSC) and the DBM Joint Circular 
+(JC) No. 1, series of 2015. 
+ 
+9.1 CSC-DBM JC No. 1, s. 2015 dated November 25, 2015 which governs the 
+
+policies and guidelines on overtime services and overtime pay for government 
+employees states, among others, the following: 
+
+ 
+“Section 3.2 As a general rule, the remuneration for overtime 
+services shall be through Compensatory Time-Off (CTO), in 
+accordance with the guidelines under the CSC-DBM JCs no. 2, s. 
+2004 and 2-A, s. 2005; 
+
+ 
+Section 3.3 The payment in cash of overtime services through 
+Overtime Pay may be authorized only in exceptional cases when 
+the application of CTO for all overtime hours would adversely affect 
+the operations of the agency. 
+
+ 
+Section 13 Agency Heads shall: 
+
+ 
+13.1 Formulate and adopt internal rules and procedures on the 
+rendition of overtime services of their respective personnel 
+which shall be circumscribed within the policies and guidelines 
+under this JC.  Copies of these internal rules and regulations 
+shall be submitted to the DBM and CSC. 
+ 
+13.2 Approve requests for authority to render overtime services 
+indicating the names of personnel, the purpose or expected 
+outputs, and the specific period of such services.” 
+
+ 
+9.2 Audit of the disbursement voucher for the payment of overtime services of the 
+
+Admin. Aide III/Driver I, showed that the College issued an inter-office 
+memorandum to him dated March 23, 2020 for the adoption of flexible working 
+hours during the community quarantine as his alternative work arrangement, 
+
+
+
+48 
+ 
+
+pursuant to CSC memorandum no. 25, s. 2019.  In the exigency of his service as 
+a driver of the College, he was advised to pick-up and drop-off the skeletal 
+workforce employees along with the employees for mass production of face 
+masks and face shields since March 23, 2020. In line with this, he is entitled to 
+overtime pay as well as hazard pay during the Enhanced Community Quarantine. 
+ 
+
+9.3 In the course of our audit, we noted that the payment of overtime services was 
+not supported with approved request for authority to render overtime services 
+indicating the name of personnel, the purpose or expected outputs and the 
+specific period of such services. 
+
+ 
+9.4 Additionally, review of the daily time record (DTR) revealed that there are time 
+
+differences/gaps between the time-in and time-out in the DTR and the Departure 
+Time and Arrival Time of Vehicle as long as 4 hours and 39 minutes. 
+ 
+
+9.5 Moreover, inquiry with the Supervising Administrative Officer disclosed that the 
+College has no internal rules and procedures, of its own, on the rendition of 
+overtime services instead they abide with the rules and regulations related 
+thereto. 
+ 
+
+9.6 The absence of authority to render overtime services and the lack of internal 
+rules and procedures on overtime services adopted by ZCSPC is not in keeping 
+with CSC-DBM JC No. 1, s. 2015 dated November 25, 2015. 
+
+ 
+Recommendations 
+ 
+
+9.7 We recommended and Management agreed to: 
+ 
+
+a. Formulate and adopt internal rules and procedures on the rendition of 
+overtime services of their respective personnel in accordance with CSC-
+DBM JC No. 1, s. 2015 dated November 25, 2015; 
+ 
+
+b. Ensure that approved requests for authority to render overtime services by 
+employees are obtained first from the Agency Head (indicating the names 
+of personnel, the purpose or expected outputs, and the specific periods of 
+such services) prior to rendering overtime services; and, 
+ 
+
+c. Apply the remuneration for overtime services through CTO, except in cases 
+when it would adversely affect the operations of the agency. 
+
+ 
+Insurable properties not adequately covered with property insurance 
+ 
+10. Insurable properties with net book value of ₱159.111 million are not adequately 
+
+covered with property insurance with the General Insurance Fund (GIF) of the 
+Government Service Insurance System (GSIS) contrary to Republic Act (RA) No. 
+656, as amended by PD 245 and COA Circular 2018-002 dated May 31, 2018. 
+ 
+10.1 Section 5 of RA No. 656, otherwise known as the Property Insurance Law, as 
+
+amended by PD No. 245, states, among others, that: 
+ 
+
+“Every government, except a municipal government below first class, is 
+hereby required to insure its properties, with the Fund against any insurable 
+risk herein provided and pay the premiums thereon, which, however, shall 
+not exceed the premiums charged by private insurance companies: …xxx.” 
+
+ 
+
+
+
+49 
+ 
+
+10.2 Additionally, COA Circular 2018-002 dated May 31, 2018 was issued to assist 
+in the implementation of the provisions of RA 656, as amended, on the 
+insurance and bonding of risks on insurable government assets and properties 
+with the GIF. Section 5.1 (b to c) of this circular provides the following: 
+ 
+b. Prepare the Property Inventory Form (PIF) listing of all the insurable 
+
+properties and other assets, …xxx; 
+ 
+
+c. Extract from the Report on the Physical Count of Property, Plant and 
+Equipment, as well as from the Report on the Physical Count of Inventories, 
+prepared in accordance with the provisions of the Government Accounting 
+Manual, the data for the PIF pertaining to the insurable assets and interest 
+of the government (excluding impaired properties for disposal); 
+
+ 
+10.3 Property as defined in Section 4.1 of the same COA Circular includes vessels 
+
+and craft, motor vehicles, machineries, permanent buildings, properties stored 
+therein (i.e. furniture, fixtures, equipment, supplies and materials, etc.) or in 
+buildings rented by the government, or in transit, the ownership of which had 
+already passed to the government.” 
+ 
+
+10.4 Accounting records showed that as of December 31, 2020, properties and 
+equipment acquired by the College have a net book value of ₱159.111 million, 
+broken down as follows 
+
+ 
+
+Buildings & Other Structures ₱   80,393,675.63  
+
+Machinery and Other Equipment 65,989,473.76  
+
+Transportation Equipment 4,545,871.50  
+
+Furniture, Fixtures & Books 809,400.48  
+
+Other Property Plant & Equipment 7,372,202.55  
+
+Total ₱ 159,110,623.92  
+
+ 
+10.5 Review of the insurance policies and RPCPPE showed that only 24 out of the 34 
+
+buildings reported in the RPCPPE and 4 motor vehicles were insured with the 
+GIF of GSIS. Moreover, the computer hardware (simulator) installed at the 
+Student Technology Lockers Building is the only building content covered with 
+insurance. 
+ 
+
+10.6 The net book value of the insured property excluding the CIP and 2 buildings 
+which the Accounting Unit had difficulty in identifying and was not able to update 
+in their records is ₱91.431 million, as shown below: 
+
+ 
+ Net Book Value 
+
+21 Buildings ₱ 72,638,318.38 
+1 Computer Hardware – Simulator 14,246,607.14 
+4 Motor Vehicles 4,545,871.5 
+
+Total ₱ 91,430,797.02 
+
+ 
+10.7 The contents of the building, such as but not limited to, equipment, furniture and 
+
+fixtures, books, machineries, were not insured by the College. Management 
+disclosed that they still have to conduct inventory of the building contents. In 
+addition, description of some buildings in the insurance policy differs from the 
+RPCPPE. Likewise, computer hardware installed at the Student Technology 
+Lockers Building were categorized as building instead of building contents or 
+equipment. 
+
+
+
+50 
+ 
+
+10.8 Government agencies are required by law, under RA No. 656, to insure all 
+properties, assets and interests of their respective offices with GSIS.  The non-
+compliance with this requirement, denies the government adequate and reliable 
+protection against any damage to or loss of its properties or assets and interests 
+due to fortuitous events/casualty. 
+ 
+
+Recommendations 
+ 
+
+10.9 We recommended that Management: 
+ 
+a. Conduct inventory of all its insurable properties and submit the list to the 
+
+GSIS using the Property Inventory Form, for evaluation/appraisal of the 
+property insurance coverage; 
+ 
+
+b. Insure all insurable properties with the GIF of the GSIS in compliance with 
+the provisions stated above; and, 
+ 
+
+c. Ensure that insured properties are properly categorized and have the same 
+description in the insurance policy and PIF/RPCPPE/RPCI for easy 
+identification/verification. 
+
+ 
+Management Comment 
+
+ 
+10.10 Management commented that the OPIA/Supply Office is gradually conducting 
+
+the physical count of different buildings, it was just relaxed since the pandemic 
+started but the office will warrant to increase the velocity in the inventory to 
+ascertain the insurable properties. The office warrants to fast track all insurable 
+properties in compliance to the required law under RA 656. Management will 
+guarantee that the list of buildings in the RCPPE therein is in consonance with 
+the buildings listed in the insured buildings in the GSIS policy including the 
+buildings not in the RPCPPE or submit an updated name of buildings to GSIS. 
+However, the adjustments will take effect on the FY 2021 reports. 
+
+ 
+Utilization of Tuition Fees Not in Accordance with CHED Memorandum Order No. 20, 
+series of 2011 
+ 
+
+11. The prescribed allocation percentages on the utilization of tuition fees per CHED 
+Memorandum Order No. 20, series of 2011 were not adhered to. Consequently, 
+allocation and payment of services rendered by visiting lecturers exceeded the 
+limit set under the memorandum by ₱16.035 million or 374.93 per cent. 
+
+ 
+11.1 CHED Memorandum Order (CMO) No. 20, series of 2011 seeks to establish 
+
+and institutionalize uniform fiscal policies that will serve as guidelines in the use 
+and disposition of internally generated funds accruing to the State 
+University/College (SUC), as well as to integrate a system of accountability for 
+all fund administrators.  The policy and guidelines shall be observed by the SUC 
+for all receipts and collections accruing to the general income for use in 
+operations, fiduciary funds, income generating or self-liquidating operations or 
+activities, and regular trust funds. 
+ 
+
+11.2 Article III of the CMO for the Specific Budgetary Allocation is summarized next 
+page: 
+
+ 
+
+
+
+51 
+ 
+
+Program/Activity 
+Budgetary 
+Allocation 
+
+Instruction   50% 
+
+  Faculty and Staff Development 12.50%   
+
+  Curriculum Development 12.50%   
+
+  Student Development 12.50%   
+
+  Facilities Development 12.50%   
+
+Research Services (fixed @)   10% 
+
+Extension Services (fixed @)   10% 
+
+Production (Internally Generated 
+Project)   10% 
+
+Administrative Services (fixed @)   10% 
+
+Mandatory Reserve   10% 
+
+Total   100% 
+
+ 
+
+11.3 Relevant specific provisions are as follows: 
+ 
+
+11.3.1 “Curriculum Development (12.5% of Tuition Fees) – Budget Allocation 
+shall be used for honoraria of part time faculty members (with duly 
+approved contract of employment), subscription to journals (trade 
+journals), books, reviewers, reproduction of instruction materials, shop 
+tools and other instructional equipment educational field trip assistance, 
+industry immersion, seminar workshops and curriculum review and 
+development, and such other maintenance and operating expenses as 
+may be deemed directly and indirectly related and necessary to 
+accomplish delivery of curricular requirements.”  (Sec 6, item b, CMO 
+No. 20) 
+ 
+
+11.3.2 “Limitation on adjustment or modification of percentage allocation for 
+instruction.  The above percentages assigned to the components of 
+instruction may be adjusted in accordance with the expenditure trends 
+established in the preceding year.  However, the adjustment resulting to 
+reduction in the allocation of one or more component shall not fall below 
+7.5%, in order not to unduly curtail developmental goals and regular 
+operations therein.”  (Sec 7, CMO No. 20) 
+ 
+
+11.3.3 “Mandatory Reserve (10% of tuition fees) – A budget allocation of 10% 
+for Mandatory Reserve shall be made by the SUC main campus, satellite 
+branches or external campuses as contingency fund for any unexpected 
+event which may adversely affect the institution and its operations.”  (Sec 
+16, CMO No. 20) 
+ 
+
+11.3.4 “Projects or object of expenditures that may be financed by resorting to 
+the scheme using the mandatory reserve shall include emergency 
+construction of structures destroyed by natural or man-made calamities.  
+This is a provision made in response to emergency circumstance beyond 
+the control of the SUC or campus administrators.”  (Sec 17, CMO No. 
+20) 
+
+ 
+11.4 Review of the budget for STF – Tuition Fees in the College’s Program of 
+
+Receipts and Expenditures (PRE) for the Financial Year (FY) 2020 (in thousand 
+pesos), is as follows: 
+
+ 
+
+
+
+52 
+ 
+
+Particulars 
+
+Tuition & 
+Other 
+Fees 
+(TOF) 
+
+% to 
+Total 
+TOF 
+
+RECEIPTS   
+
+ Beg. Balance, 01/01/2020 12,891.00   
+
+ 
+
+Add: Projected Receipts/ Collections for the 
+Year 21,325.00  
+
+ 
+
+Total Receipts 34,216.00  100% 
+
+ 
+EXPENDITURES  
+
+ 
+
+ 
+Personnel Services 3,998.00 
+
+ 
+11.68% 
+
+ Honoraria - Civilian  3,998.00  11.68% 
+
+ 
+Maintenance and Other Operating Expenses 
+(MOOE) 25,128.00 
+
+ 
+ 
+
+73.44% 
+
+ Travelling Expenses  1,850.00  5.41% 
+
+ Training Expenses  2,042.00  5.97% 
+
+ Water Expense  25.00  0.07% 
+
+ Electricity Expense  250.00  0.73% 
+
+ Postage & Courier Expense  10.00  0.03% 
+
+ Professional Services 16,500.00   48.22% 
+
+ Repairs & Maintenance - Buildings  1,240.00  3.62% 
+
+ Repairs & Maintenance - Other PPE  2,000.00  5.85% 
+
+ Taxes, Duties & Licenses  1.00  0.00% 
+
+ Representation Expense  750.00  2.19% 
+
+ Transportation & Delivery Expense  10.00  0.03% 
+
+ Membership Dues, Contributions  100.00  0.29% 
+
+ Other MOOE  350.00  1.02% 
+
+ 
+Capital Outlay 3,500.00 
+
+ 
+10.23% 
+
+ 
+Information & Computer Technology (ICT) 
+Equipment & Software 
+
+ 300.00  0.88% 
+
+ Motor Vehicle  3,200.00  9.35% 
+
+ 
+Total Expenditure 32,626.00  
+
+ 
+95.35% 
+
+ 
+Unexpended Balance 1,590.00  
+
+ 
+4.65% 
+
+ 
+
+11.5 Analysis of the foregoing is presented below: 
+ 
+
+Particulars 
+Amount 
+
+(in thousand 
+pesos) 
+
+Budgetary Allocation for Curriculum Development under the 
+Instruction function per CMO No. 20 
+     (₱34,216.00 x 12.5%) 
+
+₱     4,277.00 
+
+Less: Total amount appropriated for Other Professional 
+Services per STF budget 
+
+20,312.60 
+
+Total appropriations in excess of prescribed limit ₱ (16,035.60) 
+
+
+
+53 
+ 
+
+Particulars 
+Amount 
+
+(in thousand 
+pesos) 
+
+  
+Prescribed allocation for Curriculum Development based on 
+actual tuition collected during the FY 2020 
+     (₱31,856.00 x 12.5%) 
+
+₱     3,982.00 
+
+Actual obligations for Other Professional Services for the 
+year 
+
+19,221.00 
+
+Total obligations in excess of the cap per CMO No.20 ₱ (15,239.00) 
+
+  
+Total appropriations for Other Professional Services ₱   16,500.00 
+Total Obligations 19,221.00 
+
+Total Obligations in excess of appropriations ₱   (2,721.00) 
+
+ 
+11.6 A significant amount equal to ₱16.500 million or 48.22 per cent of the total 
+
+projected receipts/collections of Tuition Fees for the year is allocated for 
+Professional Services, payment of services rendered by Visiting Lecturers.  
+However, total appropriation and obligation for Professional Services amounted 
+to ₱20.312 million and ₱19.221 million, respectively, which exceeds the total 
+appropriation and the prescribed allocation per CMO No. 2020 amounting to 
+₱16.035 million and ₱15.239 million, respectively. 
+
+ 
+11.7 Moreover, we noted that the unexpended balance reflected in the PRE only 
+
+amounted to ₱1.590 million or 4.65 per cent of the projected total receipts for 
+FY 2020, which is less than the prescribed 10 per cent mandatory reserve. 
+
+ 
+11.8 With the budget limitation the expenditure trend on Professional Services, it 
+
+appears that there is a need to review the fund establishment in accordance 
+with the Specific Budgetary Allocation per CMO No. 20, s. 2011 in order not to 
+unduly curtail developmental goals and regular operations therein, and to 
+ensure the accomplishment of the College’s mandate. 
+
+ 
+Recommendation 
+ 
+
+11.9 We recommended that Management: 
+ 
+
+a. Formulate an internal procedure/s and process flows to implement the 
+provisions in the CMO N0. 20, series of 2011, which shall be modified 
+periodically in compliance with rules and regulations that may be passed 
+by other concerned national government agencies from time to time; 
+ 
+
+b. Require the Budget Unit of the College to submit budget proposals for the 
+use of income to the Board of Trustees following the prescribed Specific 
+Budgetary Allocation on the utilization of Tuition Fees per CMO No. 20, 
+series of 2011; 
+ 
+
+c. Strictly allocate 10 per cent of the total Tuition Fees for Mandatory Reserve 
+for any unexpected event which may adversely affect the College and its 
+operations; and 
+ 
+
+
+
+54 
+ 
+
+d. Require the Office of the Board Secretary to furnish a copy of the BOT 
+approved budget to the COA Audit Team and to the DBM and attach thereto 
+the excerpt of minutes of the board meeting and the Board Resolution with 
+control number thereon for reference of the users of the budget document. 
+
+ 
+11.10  We also recommended that the Board approve budgetary appropriations under 
+
+the STF with due consideration on the Tuition Fees allocation as mandated in 
+CMO No. 20, series of 2011, to ensure that Management spending shall be 
+delimited by authorized appropriations falling within thresholds set by 
+regulations. 
+
+ 
+Management Comment 
+ 
+
+11.11 Management commented as follows: 
+ 
+11.11.1 This has actually been a continuing challenge since the time the 
+
+President assumed office in this Institution. Management did try their 
+very best to strictly conform with CHED Order No. 20, s 2011. 
+However, as much as they want to, there are circumstances beyond 
+their control that hinder them from strictly complying with the order. 
+The student population has been continually increasing every 
+semester but the plantilla items for Instructor I position remain the 
+same. The increase in enrolment with no corresponding increase for 
+plantilla item positions forced them to hire Visiting Lecturers. Ideally, 
+they should only allocate 12.5 per cent for Curriculum Development 
+which includes the payment of honoraria for part time faculty 
+members. But due to the number of teachers needed to meet the 
+desirable student to teacher ratio, the College is constrained to hire 
+additional Visiting Lecturers the salary payment of which consumes 
+more than the 12,5 per cent percentage allocation. As a result, the 
+mandatory reserve of 10 per cent is likewise affected with this budget 
+constraint. 
+
+11.11.2 Management have taken several actions to resolve this matter but the 
+success of these actions also depend upon the approval of the DBM. 
+Every year, the budget proposal constantly includes an allocation for 
+222 Instructor I items with the hope that, if approved, finally this 
+problem will be solve. However, every year, this proposal is also 
+always disapproved. This number (222 Instructors I) is based on the 
+data given by DBM stating that this is the number of additional 
+teachers the school needs in order to meet their growing population. 
+
+11.11.3 Management have also sought other channel to remedy this problem. 
+About more than a year ago, they were able to secure from PASUC 
+10 Instructor I items. However, this number is not significant enough 
+to effect and solve the problem. Management is continually seeking 
+for means to solve this matter. Now that the school has recently been 
+approved and converted into a University, they are of high hopes that 
+the Instructor I Plantilla items will be increased. 
+
+11.11.4 In the meantime, Management will comply with the recommendations 
+as best as they can and within the limits of the circumstance. 
+Management hope for understanding regarding this matter. 
+
+ 
+Absence of Gender Analysis and Sex-Disaggregated Data (SDD) 
+ 
+
+
+
+55 
+ 
+
+12. The College did not conduct Gender Analysis, nor did it maintain its own SDD in 
+identifying Gender Issues and formulating its Gender and Development (GAD) 
+Plans, Programs and Budget which is not in conformity with Section 36(c) of RA 
+No. 9710 and Section 37.A.1.a of the Implementing Rules and Regulations (IRR) 
+of the same Act. 
+
+ 
+12.1 Section 36 (c) of RA No. 9710 or the Magna Carta for Women (MCW) provides 
+
+that: 
+ 
+
+“All departments, including their attached agencies, offices, 
+bureaus-state universities and colleges, government-owned and –
+controlled corporations, local government units, and other 
+government instrumentalities shall develop and maintain a GAD 
+database containing gender statistics and sex-disaggregated date 
+that have been systematically gathered, regularly updated, and 
+subjected to gender analysis for planning, programming, and policy 
+formulation.” 
+ 
+
+12.2 Moreover, Section 37 A.1.a of the IRR of the same RA provides that: 
+ 
+
+“Following the conduct of a gender audit, gender analysis, and/or 
+review of sex-disaggregated data, each agency or LGU shall 
+develop its GAD Plans, Programs, and Budget in response to the 
+gender gaps or issues faced by their women and men employees, 
+as well as their clients and constituencies. Along with the Act and 
+these Rules and Regulations, the Philippine Plan for Gender-
+Responsive Development (PPGD), the Beijing Platform for Action 
+(BPfA), and the CEDAW, among others, shall serve as key 
+documents to guide the identification of gender issues and the 
+formulation of GAD Plans, Programs and Budget.” 
+ 
+
+12.3 Additionally, Section 5 or the Declaration of Policy of the same IRR states that: 
+ 
+
+“Recognizing that economic, political, and sociocultural realities 
+affect women's current condition, the State affirms the role of 
+women in nation building and ensures the substantive equality of 
+women and men. It shall promote empowerment of women, pursue 
+equal opportunities for women and men, and ensure equal access 
+to resources and to development results and outcome. Further, the 
+State realizes that equality of men and women entails the abolition 
+of the unequal structures and practices that perpetuate 
+discrimination and inequality. To realize this, the State shall 
+endeavor to develop plans, policies, programs, measures, and 
+mechanisms to address discrimination and inequality in the 
+economic, political, civil, social, and cultural life of women and men.” 
+
+ 
+12.4 Lastly, Section 3.2 of PCW Memorandum Circular No. 2011-01 defines Gender 
+
+Analysis as follows: 
+ 
+
+“refers to a framework to compare the relative advantages and 
+disadvantages faced by women and men in various spheres of life, 
+including the family, workplace, school, community and political 
+system. It also takes into account how class, age, race, ethnicity, 
+culture, social and other factors interact with gender to produce 
+discriminatory results;” 
+
+
+
+56 
+ 
+
+ 
+12.5 For CY 2020, GAD related programs/activities implemented by the College 
+
+amounted to ₱2.735 million or only 1.45 per cent of its total budget 
+appropriations. The Focal Point Person disclosed that they were not able to fully 
+accomplish the activities per their GAD Plan and Budget due to the pandemic. 
+The GAD Programs, Activities and Projects (PAPs) as reported in the CY 2020 
+GAD Accomplishment Report are as follows: 
+
+ 
+
+Gender Issue PAPs/Output 
+
+Sexual harassment and 
+Violence against Women 
+and Children 
+
+18-Day Campaign to End Violence Against 
+Women and Children: 
+1. GAD Focal Point Committee members, 
+
+Faculty and ZCSPC employees attended 
+series of webinars on Anti-VAWC conducted 
+and organized by the different government 
+agencies 
+
+2. Conducted the 2020 18-Day Campaign to 
+End-Violence Against Women last December 
+7, 2020 
+
+Lack of involvement of 
+some members of the 
+GAD Focal Point 
+System/ Capacity 
+building for GAD 
+advocacy and 
+mainstreaming 
+
+Conducted Orientation-Forum on Anti- 
+Discrimination for Gender-Sensitive ZCSPC 
+Employees last December 14, 2020 at the 
+ZCSPC Gymnasium following the strict health 
+protocols of the IATF. This was attended by the 
+352 ZCSPC Employees: Administration, GFPS 
+members, Regular Faculty of which 65 were 
+males and 66 were females. Visiting Lecturers: 
+Male 51 Female 51 JOs: Male 71 Female 40 
+Security Personnel: Male 5 Female 1 On the job 
+trainees: Male 1 Female 1 
+
+Lack of policies that 
+respond to gender-
+related concerns, 
+services and complaints 
+
+Drafted policies on gender-related concerns, 
+services and complaints 
+
+No separate 
+College/University GAD 
+Office and Resource 
+Center 
+
+Converted a room into GAD Office and Resource 
+Center 
+
+Economically 
+Marginalized Women in 
+the Barangays 
+
+The College through the research and extension 
+office conducted series of short trainings 
+
+Capacity building on 
+gender sensitivity, 
+gender-based violence 
+and GAD 
+
+Continuing gender-sensitivity seminars, trainings 
+and other activities: 
+
+ National Women’s Month 
+
+ Webinars on Psychological Safety in the 
+workplace 
+
+ 
+12.6 In addition, the GAD Focal Person provided SDD but it pertains to the number 
+
+of male and female participants to the GAD Activities. She also disclosed that 
+
+
+
+57 
+ 
+
+the number of male and female students/enrollees can be obtained at the Office 
+of the Registrar. 
+
+12.7 Although the activities were related to GAD, these activities were not 
+implemented as a result of Gender Analysis and the maintenance of SDD. 
+
+ 
+12.8 It must also be noted that SDD should pertain to data regarding the agency’s 
+
+employees (Organization-Focused) and clients (Client-Focused). Although the 
+data given is technically “Sex-Disaggregated”, it lacks data necessary for the 
+identification of gender issues and ultimately the formulation of GAD Plans, 
+Programs and Budget. 
+
+ 
+12.9 The above-mentioned provisions in the MCW and its IRR emphasize the 
+
+importance of SDD in the identification of gender issues and the formulation of 
+GAD Plans, Programs and Budget. As such, the College’s SDD should not just 
+be a simple statistic of males and females but must include data regarding the 
+following, among others: 
+
+ 
+1. Families and Households 
+2. Employment and Livelihood 
+3. Education 
+4. Health 
+
+ 
+12.10 Absence of these data in the agency’s SDD will result in unrealistic and 
+
+unresponsive   gender issues necessary in the formulation of GAD Plans, 
+Programs and Budget and ultimately, in addressing discrimination and 
+inequality in the economic, political, civil, social and cultural life of women and 
+men. 
+
+ 
+Recommendation 
+ 
+
+12.11 We recommended and Management agreed to: 
+ 
+
+a. Collect SDD regarding Families and Households, Employment and 
+Livelihood, Education and Health thru sending out questionnaires to its 
+employees and students via pen and paper questionnaires or through 
+online surveys/questionnaires like Google Forms and Survey Monkey; and, 
+
+ 
+b. Collate the above-mentioned SDD, regularly update and maintain it at the 
+
+College’s GAD database and use them in analyzing and identifying gender 
+issues in the formulation of GAD Plans, Programs and Budget. 
+
+ 
+ 
+OTHER MANDATORY AUDIT AREAS 
+ 
+Compliance with Government Service Insurance System (GSIS, Philippine Health 
+Insurance Corporation (PHIC), Home Development Mutual Fund (HDMF) Laws 
+ 
+
+13. As of December 31, 2020, the College withheld and remitted GSIS, PHIC and HDMF 
+contributions as presented in the table next page: 
+
+ 
+
+Particulars GSIS PHIC HDMF 
+
+Balance as of December 31, 2019 ₱ 2,081,675.37      ₱            0.00      ₱     7,226.40 
+Amount Withheld 25,079.557.64 1,259,272.29 2,459,241.36 
+Adjustment - Increase (Decrease) 7,500,385.65 0.00 (449,324.51) 
+
+
+
+58 
+ 
+
+Particulars GSIS PHIC HDMF 
+
+Amount Remitted:    
+Employees' Share 19,516,080.84 1,259,272.29 2,914,992.27 
+Employer's Share 11,967,782.28 1,259,285.43 241,300.00 
+
+Balance as of December 31, 2020 ₱   144,766.52      ₱            0.00           ₱        800.00 
+
+ 
+COMPLIANCE WITH TAX LAWS  
+ 
+14. For the year 2020, the College withheld taxes amounting to ₱18.374 million and 
+
+remitted to the BIR the amount of ₱18.300 million leaving an unremitted balance of 
+₱56,436.40 as of December 31, 2020 as indicated below: 
+
+ 
+
+Particulars Withheld Adjustment Remittance Balance 
+
+Beginning Balance 
+  
+
+₱79,465.72 
+EWT ₱1,365,343.85 ₱         (24.55) ₱1,365,319.32 (0.02) 
+EVAT 4,808,987.25 (122.65) 4,800,966.88 7,897.72 
+ITR 12,200,040.25 (96,733.11) 12,134,234.16 (30,927.02) 
+
+TOTAL ₱18,374,371.35 ₱  (96,880.31) ₱18,300,520.36 ₱56,436.40 
+
+ 
+Payments to Casuals, Job Orders, Contractuals and Consultants 
+ 
+15. The College continued to engage the services of casual and JO workers to augment 
+
+its current workforce composed of 211 permanent employees. As at year-end, it has 
+employed 180 instructors under contract of service, 4 casuals and 122 JOs assigned 
+in various offices. During the year 2020, the College paid the following to Casuals, 
+JOs and Contract of Services personnel for services rendered including premium as 
+prescribed under CSC-DBM-COA JC No. 1, s. 2017 dated June 15, 2017:   
+ 
+
+Account General Fund 
+Special Trust 
+
+Fund 
+Total 
+
+Other Professional 
+Services ₱  289,872.72 ₱20,335,514.18 ₱20,625,386.90 
+Other General Services 7,096,540.47 4,047,632.82 11,144,173.29 
+Labor and Wages 2,542,137.72 254,092.56 2,796,230.28 
+
+Total ₱9,928,550.91 ₱24,637,239.56 ₱34,565,790.47 
+
+ 
+Compliance with Disaster and Risk Reduction and Management and Fire Safety 
+ 
+16. ZCSPC has come up with a manual entitled Covid-19 Health Protocol (Strategies 
+
+and Preventive Measures) Handbook. It is a narrative of the protocols, strategies 
+and preventive measures to keep everyone safe while inside the premises of the 
+college. On the other hand, the College has not undergone fire safety inspection in 
+CY 2020 due to the pandemic although there are fire extinguishers placed in various 
+areas in the school. 
+
+ 
+Differently-Abled Persons and Senior Citizens 
+ 
+17. The College formulated policies with the objective to provide plans, programs and 
+
+projects intended to address the concerns of PWD and senior citizens (SC) and 
+integrate the same in their regular activities. The Board of Trustees (BOT) approved 
+
+
+
+59 
+ 
+
+the Programs of SC and PWD through BOT Resolution No. 060-2020 dated October 
+31, 2020. Due to the pandemic, the execution of the programs, activities and projects 
+was limited to what is doable. It initially accomplished the following: (a) Profiling of 
+the SC and PWD; (b) Prepared the Project Procurement Management Plan (PPMP); 
+(c) conducted flu vaccine shots; (d) provided priority lane in the Cashier’s Office for 
+SC, pregnant women and PWD; and (e) allowing the SC for work from home 
+arrangement. The plan for the provision of the elevator for the SC and PWD in the 
+ongoing constructed Engineering Building was approved by the Board of Trustees 
+on December 17, 2020. 
+ 
+
+18. Status of Notices of Suspensions, Disallowances and Charges 
+ 
+The beginning balance of suspensions and disallowances is ₱2.42 million while total 
+suspensions and disallowances issued during the year were ₱0.96 million and 
+settlements were ₱1.87 million leaving a balance of ₱1.51 million as of December 
+31, 2020, as shown below : 
+ 
+
+Particulars 
+
+Beginning 
+Balance 
+
+(in million 
+
+This Period 
+(in million) 
+
+ 
+
+Ending 
+Balance 
+
+(in million) 
+(December 
+31, 2020) 
+
+(January 1, 
+2020) NS/ND/NC NSSDC 
+
+Notice of Suspension ₱  1.867 ₱  0.959 ₱  1.865 ₱  0.961 
+
+Notice of 
+Disallowance 
+
+0.550 0.001 0.001 0.550 
+
+Notice of Charge 0.00 0.00 0.00 0.00 
+
+Total ₱  2.417 ₱  0.960 ₱  1.866 ₱  1.511 
+
+ 
+
+

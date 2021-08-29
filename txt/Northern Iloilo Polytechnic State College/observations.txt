@@ -1,0 +1,2940 @@
+AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+Non-preparation of RPCPPE and deficiencies in control mechanisms
+
+
+
+1)			Deficiencies in the control mechanisms, such as the non-preparation of the        CY 2020 Report on the Physical Count of Property, Plant and Equipment (RPCPPE) for properties amounting to P657.295 million, and the inclusion in the Property, Plant and Equipment account of properties below the capitalization threshold with a total amount of P374,358.00, rendered unreliable year-end PPE account balances, contrary to the provisions of the Government Accounting Manual (GAM), Volume I, Chapter 8, Section 10 and Chapter 10, Sections 38 and 42. 
+
+Section 38, Chapter 10 of GAM, Volume 1, requires that “the entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 73) as at December 31 of each year. This shall be submitted to the Auditor concerned not later than January 31 of the following year. Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division/Unit for proper accounting/recording”.
+
+
+
+Section 42 of the same Chapter in GAM Volume I states that the “Chief Accountant shall maintain the Property Plant and Equipment Ledger Card (PPELC) for each category of PPE including work and other animals, livestock etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain Property Card (PC) for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like Property Acknowledgement Receipt (PAR).”
+
+
+
+Section 10, Chapter 8 of GAM states that “tangible items below capitalization threshold of P15,000.00 shall be accounted as semi-expendable property. The following policies apply as follows:
+
+
+
+a)	Semi-expendable property which was recognized as PPE shall be reclassified to the affected accounts.
+
+
+
+b)	These tangible items shall be recognized as expense upon issue to the end-user.“
+
+
+
+To provide the guidelines and procedures in the conduct of physical count of PPE, recognition of PPE items found at station, and disposition for non-existing/ missing PPE items, for the one-time cleansing of PPE account balances of government agencies, COA Circular No. 2020-006 dated January 31, 2020 was issued and published on January 12, 2021. This requires preparation of Physical Inventory Plan (PIP) containing, at least, the assignments/duties of the Committee members, cut-off date, and a schedule specifying the dates and locations of inventory-taking activities. 
+
+
+
+
+
+
+
+
+
+
+
+Ocular inspection and verification of records of PPE accounts disclosed the following:
+
+
+
+Attributes
+
+Main
+
+Ajuy
+
+Barotac Viejo
+
+Batad
+
+Concepcion
+
+Lemery
+
+Sara
+
+1)	 Preparation/ Submission of 2020 RPCPPE
+
+X
+
+X
+
+/
+
+X
+
+X
+
+/
+
+X
+
+2)	Preparation/ Submission of 2019 RPCPPE
+
+X
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+3)	Property Cards (PCs) updated 2016-2020
+
+X
+
+/
+
+/
+
+X
+
+X
+
+/
+
+X
+
+4)	PPELC updated for 2016-2020
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+ 
+
+1)	Ajuy, Batad, Concepcion and Sara Campuses have not submitted the RPCPPE for CY 2020 as of January 31, 2021 while the Main Campus has not submitted the RPCPPE for CYs 2019 and 2020. The total amount of properties without RPCPPE for CY 2020 is P657.295 million. (Annex A)
+
+
+
+As per interview with the Supply Officers (SOs), they were primarily assigned to prepare and submit the RPCPPE because some members of the Inventory Committee were also members of the faculty and were on a work from home arrangement. This made it difficult for the faculty members to carry out their task as part of the Inventory Committee, especially during this pandemic. One of the main reasons cited for non-submission of the report was the SO’s volume of work especially those which involve procurement.
+
+
+
+2)	The RPCPPE of the Barotac Viejo and Lemery Campuses included properties below the capitalization threshold of P15,000.00. The total amount of the properties is P4.7 million, with P1.989 million for the Barotac Viejo Campus and P2.711 million for the Lemery Campus.
+
+
+
+According to the SOs, these items have been in the report turned over to them by the previous SOs and as of report date, these were not yet deleted from their records.
+
+
+
+3)	Property Cards (PCs) of the Main, Batad, Concepcion and Sara Campuses were not updated by the Property/Supply Unit for PPEs acquired from CY 2016 to CY 2020. A total of P41.493 million of properties inspected did not have PCs.
+
+
+
+CAMPUS
+
+Amount of PPE Inspected without PC
+
+Amount of PPE Inspected with PC but with Deficiencies
+
+TOTAL
+
+Period of Latest Entries in PCs
+
+Main
+
+    P  37,453,945.00
+
+P  8,604,533.00
+
+P 46,058,478.00
+
+Aug. 2019
+
+Barotac Viejo
+
+0
+
+4,439,511.00
+
+4,439,511.00
+
+Dec. 2020
+
+Batad
+
+1,551,310.00
+
+0
+
+1,551,310.00
+
+Dec. 2019
+
+Concepcion
+
+2,097,174.00
+
+0
+
+2,097,174.00
+
+Dec. 2018
+
+Sara
+
+450,295.00
+
+0
+
+450,295.00
+
+Dec. 2019
+
+TOTAL
+
+P 41,492,724.00
+
+P 13,044,044.00
+
+P54,536,768.00
+
+
+
+According to some of the SOs, the volume of their work is the main reason why they could not always update the PCs.
+
+
+
+4)	The NIPSC Main and Barotac Viejo Campuses prepared PCs for a total of P13.044 million but were found to have deficiencies due to the lapses of the SOs.
+
+
+
+Requirement
+
+NIPSC Main
+
+NIPSC Barotac Viejo
+
+Complete details such as Fund Entity, Fund Cluster, Property No., Date and Reference No.
+
+X
+
+/
+
+PC prepared for each class of PPE
+
+X
+
+--		PCs split according to end users
+
+--		Two or more class of PPE consolidated in one PC resulted to difficulty of determining the amount of each class of PPE
+
+	
+
+X- PCs split according to end users
+
+Description of the PPE in the PC form properly accomplished
+
+X
+
+/
+
+
+
+5)	Properties of Ajuy Campus below the capitalization threshold with a total acquisition cost of P374,358.00 were not reclassified to the affected accounts because the Accountant was not able to double check the PPELC during the process of the reclassification, thus overstating the PPE balance at year end. 
+
+
+
+6)	The PPELCs prepared by Barotac Viejo Campus were presented per item and not by class of PPE contrary to Appendix 70 of GAM Volume II. According to the Accountant, she just followed the format utilized in the preparation of the PPELC by her predecessor.
+
+ 
+
+7)	There was a total discrepancy of P130.738 million between the balances in the RPCPPE and the accounting records, to wit:
+
+
+
+Year
+
+Campus
+
+Total PPE as
+
+per Financial Statement
+
+Total PPE as per latest RPCPPE
+
+Variances
+
+Remarks
+
+2020
+
+Barotac Viejo
+
+   P 69,076,603.00 
+
+  P 63,433,510.90 
+
+   P 5,643,092.10 
+
+
+
+2020
+
+Lemery
+
+59,487,384.42 
+
+  59,487,384.42 
+
+0   
+
+ 
+
+2019
+
+Ajuy
+
+55,502,850.61
+
+40,585,424.12
+
+14,917,426.49 
+
+Construction in Progress (CIP) on CY 2019 Financial Statement (FS) totaling P1,497,261.92 was not included in the RPCPPE 
+
+2019
+
+Batad
+
+36,212,088.61 
+
+  27,649,365.86 
+
+8,562,722.75 
+
+
+
+2019
+
+Concepcion
+
+25,409,554.73 
+
+      8,744,127.18 
+
+   16,665,427.55 
+
+RPCPPE constituted only of 2016 to 2019 properties 
+
+2019
+
+Sara
+
+57,563,715.33 
+
+  57,849,497.83 
+
+285,782.50
+
+
+
+2018
+
+Main
+
+435,798,436.54 
+
+351,135,171.97 
+
+84,663,264.57 
+
+Total CIP reported in the 2018 FS was P76,060,117.26 while in the RPCPPE, it was only P3,077,731.91 
+
+TOTAL
+
+P 739,050,633.24 
+
+P 608,884,482.28
+
+P 130,737,715.96
+
+ 
+
+
+
+According to the Supply Officers of Ajuy, Barotac Viejo and Sara, the variance between the PPE balances in the RPCPPE and the FS is due to the non-reconciliation of the records as the SO and the Accountant could not yet find time to reconcile their records. For the Concepcion Campus, the non-inclusion of the PPE acquired before CY 2016 is the cause of the variance according to the Accountant. Also, the preparation of the Property Cards and PPE Ledger Cards (PPELC) started only in CY 2016, hence, there is difficulty in the reconciliation of records for Property, Plant and Equipment (PPE) acquired before CY 2016. 
+
+
+
+As a result of the above deficiencies, the PPE balances of P657.295 million as of December 31, 2020 are unreliable. 
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)		Reconstitute the Inventory Committee of each campus with adequate number of members who can fulfill the assigned duties and responsibilities; 
+
+	 
+
+b)		Direct the Inventory Committee to plan/strategize on how to conduct and complete the physical inventory and prepare a Physical Inventory Plan (PIP) in accordance to COA Circular No. 2020-006;
+
+	
+
+c)		Direct the Inventory Committee to submit the approved PIP to the COA Audit Team at least ten calendar days before the scheduled start of inventory taking activities;
+
+	
+
+d)		Direct the Accountants and Supply Officers to update and reconcile their respective records based on the results of the physical inventory to come up with the reconciled balances of PPE accounts;
+
+	
+
+e)		Direct the Accountants and Supply Officers to prepare PPE Ledger Cards and Property Cards, respectively, upon delivery or payment of PPE and ensure that PPELCs and PCs be accomplished with complete and necessary data in accordance with the prescribed format of Government Accounting Manual (GAM) Volume II;
+
+	
+
+f)		Direct the Accountants and Supply Officers to reclassify to the affected accounts the Semi-Expendable Properties which were recognized as PPE; and
+
+	
+
+g)		Upon completion of physical count, direct the Inventory Committee to prepare Report on the Physical Count of Property, Plant and Equipment in accordance with the prescribed format.
+
+
+
+		Long outstanding Accounts Receivables
+
+2)			Allowance for impairment provided for long outstanding receivables amounting to P74.928 million whose collectibility is uncertain, remained at P20.833 million since 2016, contrary to Section 10, Chapter 7 of GAM, Volume I, thus, the receivables account in the year-end financial statements were not fairly presented.
+
+Section 10, Chapter 7 of GAM, Volume I states that for Accounts Receivable, the Allowance for Impairment shall be provided in an amount based on collectibility of the receivables and valuation of aging of accounts, collection experiences of the agency, expected loss experiences and identified doubtful accounts.
+
+
+
+Analysis of the aging schedule of Receivables as of December 31, 2020 revealed that the agency has a total receivables aging more than 60 days amounting to P77.221 million. Out of these receivables, P74.928 million or 97 percent are past due from one to over three years as follows: 
+
+
+
+Account
+
+Past Due-Over One Year
+
+Past Due Over Two Years
+
+Past Due Over Three Years
+
+TOTAL
+
+Accounts receivables
+
+P 24,850.30
+
+P 1,673,394.00
+
+P 73,179,374.50
+
+P 74,877,618.80
+
+Other receivables
+
+
+
+1,000.00
+
+49,458.05
+
+50,458.05
+
+TOTAL
+
+P 24,850.30
+
+P 1,674,394.00
+
+P 73,228,832.55
+
+P 74,928,076.85
+
+
+
+Verification disclosed that, out of the P74.928 million, P73.722 million represents the amount collectible from the scholarship grant of a former Congressman to NIPSC students for the "Iskolar sang Quinto" (ISQ) from School Years 2012 to 2016. The amount of P73.725 million for the ISQ Receivables account as disclosed in Note 6.1, has a variance of P2,800.00 from the amount reported in the supporting schedules of P73.722 million. The P2,800.00 pertained to the collection in CY 2020 that was not deducted by the Accountant of the Barotac Viejo Campus from the ISQ Accounts Receivables. 
+
+
+
+According to the Management, there was a verbal agreement that happened during the former Congressman’s term, which was from June 30, 2007 to June 30, 2016, where the College will be given a list of scholars to be admitted and will be paid by the benefactor Congressman thereafter. However, as mentioned, the former Congressman ended his term in the year 2016. 
+
+
+
+It has been reported in the CY 2016 Annual Audit Report that the said receivables were not covered by a Memorandum of Agreement (MOA). Thus, the College was aware it could not enforce payment from the benefactor in the absence of a MOA.
+
+Since collection from the benefactor is uncertain, the College decided to resort to withholding of transcript of records of student scholars hoping it could collect the amount due from them. However, Management alleged that there was a court order, in relation to the administrative case filed by the former Congressman against the Management of NIPSC, prohibiting NIPSC from withholding the transcript of records of ISQ students with outstanding accounts receivables. A copy of the court order was already requested from the Management but as of report date, the said document was not yet submitted to the Office of the Auditor.
+
+
+
+For the time being, the students only need to execute a promissory note, in lieu of full settlement of the accounts receivables, for the release of their transcript of records. Pending final decision of the court on the case, the Management is left with limited means to collect the receivables from the students. The allowance for impairment has not been provided since Management is also waiting for the decision of the court.
+
+
+
+From 2016 to the present, the College was able to collect P3.714 million or only 4.80 percent out of the P77.437 million 2016 ISQ Receivables. However, only P20.833 million has been provided as allowance for impairment despite the age of accounts and the status of its collectability where most of the receivables were nonmoving. This is contrary to Section 10, Chapter 7 of GAM, Volume I. For Accounts Receivables, the Allowance for Impairment shall be provided in an amount based on collectibility of receivable balances and evaluation of such factors as aging of accounts, collection experiences of the agency, expected loss experiences and identified doubtful account.
+
+
+
+Non provision of adequate amount of allowance for impairment rendered the receivables accounts in the financial statements unreliable.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)				Direct the Accountant of the Barotac Viejo Campus to make the necessary corrections on the ISQ Accounts Receivables balance;
+
+			
+
+b)				Device measures to exhaust all possible legal means to collect the outstanding receivables; and
+
+			
+
+c)				Reassess the probability of collection of the receivables and provide an allowance for impairment.
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+Improper recording of unreleased checks/non-adjustment of cancelled checks
+
+
+
+3)			Unreleased checks amounting to P61.957 million were not reverted back to the cash account while cancelled checks amounting to P0.997 million were not adjusted in the books as of year-end, contrary to Chapter 19, Section 56 and Chapter 6, Section 44 of the GAM Volume I, resulting to the understatement of the Cash in Bank and corresponding payable accounts.
+
+GAM Volume I, Chapter 19, Section 56 states that all unreleased checks at the end of the year, a schedule of which shall be prepared by the Cashier for submission to the Accounting Division/Unit, shall be reverted back to the cash accounts. To recognize the restoration of the checks, a Journal Entry Voucher (JEV) shall be prepared but there shall be no physical cancellation of the checks. Thenceforth, another JEV shall be drawn at the start of the ensuing year to reverse the previous entry and recognize the availability of the checks.
+
+
+
+GAM Volume I, Chapter 6, Section 44 states that cancelled checks are those that become stale, voided or spoiled. These checks shall be marked cancelled on its face and shall be reported as cancelled in the List of Unreleased Checks that will be attached to the Report of Checks Issued (RCI). To take up the cancellation, a JEV shall be prepared. Since Appendix 35 of GAM Volume II requires the preparation of RCI daily or as often as necessary to report disbursements, the adjustment for cancelled checks shall be made as often as the RCI is also prepared. Section 45 of the same Chapter in GAM Volume I illustrates the accounting entries for cancelled checks.
+
+
+
+The Statement of Financial Position as at December 31, 2020 reported Cash in Bank balance at P175.716 million. The account represents 54.94 percent of the total Current Assets.
+
+
+
+Review of the Bank Reconciliation Statements and verification of the outstanding checks showed the following deficiencies:
+
+
+
+1)	Unreleased checks as of December 31, 2020 totaling P61.957 million were not reverted back to the cash accounts because these were already reported by the Cashier as issued and the corresponding JEVs were already recorded by the Accounting Office. These were likewise reported as outstanding checks as of December 31, 2020 even if the payees have not claimed the checks. This is contrary to GAM Volume I, Chapter 19, Section 56. The breakdown of the amount is as follows:
+
+
+
+Campus
+
+Amount of Unadjusted Unreleased Checks as of Dec. 31, 2020
+
+Main
+
+P 53,825,407.36
+
+Ajuy
+
+978,718.44
+
+Barotac Viejo
+
+440,126.89
+
+Batad
+
+1,614,651.45
+
+Concepcion
+
+2,218,469.92
+
+Lemery
+
+900,211.66
+
+Sara
+
+1,979,028.37
+
+TOTAL
+
+P 61,956,614.09
+
+
+
+2)	Cancelled checks in the total amount of P0.997 million were not adjusted in the books by the Accountants even if these checks have gone stale or were voided because the Cashier did not prepare and attach to the RCI, the List of Unreleased Checks where cancelled checks are reported. Hence, the JEV to take up the cancellation was also not prepared. This is contrary to GAM Volume I, Chapter 6, Section 44. The table shows the details per campus.
+
+
+
+
+
+Campus
+
+Amount of Unadjusted Cancelled Checks as of Dec. 31, 2020
+
+Main
+
+P 268,379.42
+
+Ajuy
+
+301,071.73
+
+Barotac Viejo
+
+0
+
+Batad
+
+122,366.65
+
+Concepcion
+
+60,345.04
+
+Lemery
+
+4,527.68
+
+Sara
+
+240,031.03
+
+TOTAL
+
+P 996,721.55
+
+
+
+As a result of the above deficiencies, the cash in bank and the corresponding payable accounts were understated as at year-end.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)				Direct the Cashiers to prepare the List of Unreleased Checks, which includes cancelled checks, that will be attached to the Report of Checks Issued in accordance with GAM Volume I, Chapter 6, Section 44; 
+
+
+
+b)				Direct the Accountants to prepare the accounting entries to recognize the cancelled checks in accordance with GAM Volume I, Chapter 6, Section 44; and
+
+
+
+c)				Direct the Accountants to prepare the necessary entries to recognize unreleased checks as at year end and restore the same at the start of the ensuing year in accordance with GAM Volume I, Chapter 19, Section 56.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Non-preparation of SLs/Deficiencies in the Subsidiary Ledgers (SLs)
+
+
+
+4)			Non-preparation of subsidiary ledgers (SLs) for asset and liability accounts amounting to P13.5 million and P27.711 million, respectively; variances between the financial statements and the Subsidiary Ledgers (SLs) of the asset accounts of P4.002 million and the liability accounts of P 22.643 million; abnormal balances in the SLs; and deficiencies in the preparation of the SLs, contrary to Section 111 (1) of Presidential Decree (P.D.) No. 1445, rendered the year-end balances of these accounts unreliable.
+
+Section 111 (1) of Presidential Decree No. 1445 requires the keeping of accounts of the agency in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+Appendix 6 of GAM, Volume II also requires the preparation of the SL per account and fund, and the monthly reconciliation of the SL with the General Ledger controlling account.
+
+
+
+Verification of the records and schedule of accounts as of December 31, 2020, revealed the following:
+
+
+
+1)	Asset accounts amounting to P13.5 million and Liability Accounts amounting to P27.711 million did not have subsidiary ledgers contrary to Section 111 (1) of P.D. No. 1445. The SLs were not prepared because according to some Accountants, there were no SLs turned-over to them by the previous Accountants. The breakdown of the amount is shown on the table:
+
+
+
+Account Name
+
+Year-end Balances without SL
+
+Accounts Receivable
+
+ P    9,793,517.93
+
+Due from Officers and Employees
+
+80,228.75
+
+Other Receivables
+
+910,717.46
+
+Advances to Contractors
+
+2,716,453.22
+
+TOTAL for Asset Accounts
+
+P 13,500,917.36
+
+Due to BIR
+
+P 1,058,553.68
+
+Due to GSIS
+
+1,622.80
+
+Life and Retirement Premium
+
+147.70
+
+PAG-IBIG Premium
+
+6,868.12
+
+Due to PhilHealth
+
+9,415.88
+
+Due to NGAS
+
+1,024.00
+
+Trust Liabilities
+
+22,611,589.15
+
+Guaranty/Security Deposits Payable
+
+3,965,013.68
+
+Other Payables
+
+57,000.00
+
+TOTAL for Liability Accounts
+
+P 27,711,235.01
+
+
+
+The lack of supporting documents for the Other Receivables of the Main and Barotac Viejo Campuses was reported in the CY 2017 AAR. This has also been disclosed in the Notes to the Financial Statements. 
+
+
+
+2)	There was a variance between the financial statements and the available SLs of the Asset Accounts and the Liability Accounts of P4.002 million and P22.643 million, respectively. This is due to the non-reconciliation of the SL and the GL by the Accountants. The breakdown is detailed in the table.
+
+Account Name
+
+Balance per Financial Statement
+
+Balance per SL
+
+Variance 
+
+Accounts Receivable
+
+P  160,567,238.80
+
+P 156,565,100.30
+
+P 4,002,138.50
+
+TOTAL for Asset Accounts
+
+
+
+
+
+P 4,002,138.50
+
+Salary Loan
+
+P             7,724.16
+
+P            2,719.37
+
+P 5,004.79
+
+Trust Liabilities
+
+42,990, 820.16
+
+20,352,876.41
+
+22,637,943.75
+
+TOTAL for Liability Accounts
+
+
+
+
+
+P 22,642,948.54
+
+
+
+3)	The schedule of the accounts contain credit balances for the assets with a total of P156,000.20 and debit balances for the liabilities with a  total of P377,828.79 due to the lapses of the Accountants.
+
+
+
+Account Name
+
+Balances
+
+Accounts Receivable
+
+(P 156,000.00)
+
+Other Receivables
+
+(0.20) 
+
+TOTAL for Asset Accounts
+
+(P 156,000.20)
+
+Due to BIR
+
+P  20,939.66
+
+Life and retirement Premium
+
+1,242.63
+
+Salary Loan
+
+216.00
+
+PAG-IBIG Premium
+
+2,200.00
+
+Due to Philhealth
+
+6,701.92
+
+Trust Liabilities
+
+337,112.70
+
+Other Pavables
+
+9,415.88
+
+TOTAL for Liability Accounts
+
+P 377,828.79
+
+
+
+4)	The subsidiary ledgers lacked necessary information like date, particulars, and reference and were not prepared in accordance with Appendix 6 of GAM, Volume II. 
+
+
+
+5)	There were erroneous charging of accounts with a total amount of P30,047.43. Details are as follows:
+
+
+
+Account Name
+
+Amount
+
+Reclassify to
+
+Remarks
+
+Due to Officers and Employees
+
+P 22,177.36
+
+Accounts Payable
+
+Stale Checks
+
+Life and Retirement Premium
+
+1,242.63
+
+Due from Officers and Employees
+
+Over refund
+
+Life and Retirement Premium
+
+6,122.44
+
+Due to Officers and Employees
+
+Intended for refund
+
+Other Payables
+
+505.00
+
+Accounts Payable
+
+Stale Check
+
+TOTAL
+
+P 30,047.43
+
+
+
+
+
+
+
+GAM Volume I, Chapter 6, Section 45 illustrates the accounting entries for the cancellation of stale checks and these must be credited to Accounts Payable and debited to Cash in Bank.
+
+
+
+As stated in GAM Volume III, the account Due from Officers and Employees will be used for the overpayment to agency’s officers and employees, while for the incurrence of liability to officers and employees, the Due to Officers and Employees account will be used.
+
+The absence of the subsidiary ledgers, the non-reconciliation of the records, the abnormal balances in the SLs, and the deficiencies in the preparation of the SLs, which were due to the lapses of the Accountants, rendered the completeness and accuracy of the affected accounts’ year-end balances unreliable.
+
+
+
+We recommended and the Management agreed to direct the Accountants to:
+
+
+
+a)		Prepare Subsidiary Ledgers for each control account in the General Ledger (GL), with all the necessary information, in accordance with Appendix 6 of GAM Volume II;
+
+	
+
+b)		Reconcile the noted variance between the financial statements and the SLs of P4.002 million and P22.643 million for the assets and liabilities, respectively;
+
+	
+
+c)		Reconcile the abnormal balances in the schedule of accounts and prepare the necessary corrections, when warranted;
+
+	
+
+d)		Strictly observe the appropriate use of account names and make the necessary entries to reclassify the affected accounts; and
+
+	
+
+e)		Conduct monthly reconciliation of the Subsidiary Ledger (SL) and the GL in accordance with Section 111 (1) of P.D. No. 1445 and Appendix 6 of GAM, Volume II.
+
+
+
+Unliquidated cash advances/Deficiencies in the supporting documents of the cash advances
+
+
+
+5)			Cash advances amounting to P0.656 million were not liquidated as of December 31, 2020, notwithstanding that the purposes for which they were granted had already been served, contrary to Section 89 of Presidential Decree (P.D.) No. 1445. Cash advances were also granted despite the deficiencies in the supporting documents, contrary to COA Circular No. 2012-001. These resulted to a substantial amount of cash advances overdue for liquidation, understatement of affected accounts, and the validity and propriety of the transactions could not be established.
+
+Section 89 of Presidential Decree No. 1445 declares that a cash advance shall be reported on and liquidated as soon as the purpose for which it was given has been served.
+
+
+
+Section 5 of COA Circular No. 97-002 dated February 10, 1997 also provides the general guidelines on liquidation of cash advances. It stated that:
+
+
+
+“The accountable officer shall liquidate cash advances within the following period:
+
+
+
+--	Salaries, Wages, Allowances, Honoraria and other similar payments – within five calendar days after the end of the pay period.
+
+
+
+--	Field Operating Expenses – within 20 calendar days after the end of the year subject to replenishment as frequently as necessary during the year.
+
+
+
+--	Travelling Expenses – within 30 days after the return of the official/employee concerned to his official station for local travel and within 60 days after the return of official/employee concerned to the Philippines in the case of foreign travel.
+
+
+
+--	Special Purpose – as soon as the purpose of the cash advances has been served.” 
+
+
+
+One of the documentary requirements for the grant of cash advance as stated in COA Circular No. 2012-001, Item 1.1, is the certification from the Accountant that the previous cash advances have been liquidated and accounted for in the books.
+
+
+
+Examination of the documents of the outstanding cash advances as of December 31, 2020 revealed the following:
+
+
+
+Campus
+
+Amount Overdue for Liquidation as of 12/31/2020
+
+Amount of Outstanding Cash Advances 
+
+Days Lapsed from Date of Grant/ Completion of Activity or Travel
+
+
+
+
+
+Without Disbursement Voucher
+
+Without Accountant’s Certification that the Previous Cash Advances have been Liquidated
+
+
+
+Ajuy 
+
+P   100,420.00
+
+P 19,700.00
+
+P 124,120.00
+
+13-22 Days
+
+Batad
+
+425,366.00
+
+6,300.00
+
+34,841.00
+
+2-323 Days
+
+Lemery
+
+130,384.25
+
+0
+
+130,384.25
+
+13-230 Days
+
+TOTAL
+
+P 656,170.25
+
+P 26,000.00
+
+P 289,345.25
+
+
+
+
+
+1)	A total of P 0.656 million cash advances were not liquidated as of December 31, 2020 notwithstanding that the activities for which the cash advances were drawn have long been completed or were cancelled due to the COVID-19 pandemic contrary to the above cited regulations. The number of days lapsed from the date of the grant or the completion of the activity to the year-end date ranges from 2 to 323 days.
+
+
+
+The reason cited by the Disbursing Officers for the delayed liquidation is the difficulty of gathering supporting documents from the responsible persons of the programs/projects/activities (PPAs).
+
+
+
+2)	A cancelled check of cash advance of the Batad Campus in the amount of P7,000.00 was reported as outstanding by the Accountant. This overstated the cash advance balance and understated the cash in bank.
+
+
+
+3)	The disbursement vouchers of 2 of the 21 outstanding cash advances as of year-end amounting to a total of P26,000.00 were not submitted for audit. Hence, validity and propriety of the transactions could not be determined.
+
+
+
+4)	Two outstanding cash advances as of year-end of the Ajuy Campus with a total amount of P50,720.00 were granted only in December of 2020 but the attached documents have a proposal implementation of November 2020 because the funds were released only in December 2020 and amendment of the schedule of implementation was not made.
+
+5)	A total of P289,345.25 outstanding cash advances were granted without the Accountant’s certification that the previous cash advances have been liquidated and accounted for in the books contrary to COA Circular No. 2012-001, Item 1.1.
+
+
+
+6)	The Box A-Certification of the Budget Utilization Request and Status (BURS) of one outstanding cash advance of the Batad Campus amounting to P29,100.00 was not signed. The certification states that “Charges to appropriation/budget necessary, lawful and under my direct supervision; and supporting documents valid, proper and legal”.
+
+
+
+7)	The Box B-Certification of the BURS of three outstanding cash advances of the Ajuy Campus amounting to P39,120.00 was not signed. The certification is supposed to be for the availability of the budget and the utilization for the purpose/adjustment necessary as stated in the document.
+
+
+
+8)	The Box E of the disbursement voucher of three outstanding cash advances of the Ajuy Campus amounting to P43,400.00 was not signed as received by the payee which is the Cashier. The Box E is for the receipt of the payment.
+
+
+
+The last four observations were due to the lapses of the Accountants of the pertinent Campus. All of the deficiencies noted resulted to a substantial amount of cash advances overdue for liquidation, understatement of the affected accounts like the expenses and cash in bank, and the validity and propriety of the transactions could not be established.
+
+
+
+Section 5.1 of COA Circular No. 97-002 also provides that, “Failure of the AO to liquidate his cash advance within the prescribed period shall constitute a valid cause for the withholding of his salary Xxx.” 
+
+
+
+In the same Circular on Section 5.7, it is stated that “When a cash advance is no longer needed or has not been used for a period of two (2) months, it must be returned or refunded immediately to the collecting officer.”
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)		Require the Accountable Officers to immediately liquidate the outstanding cash advances;
+
+	
+
+b)		Direct the Accountant of the Batad Campus to make the necessary corrections on the cancelled check of the cash advance;
+
+	
+
+c)		Inform the accountable officers of their accountability for cash advances granted under their name and of their obligation to strictly settle/liquidate the cash advances within the prescribed period pursuant to Section 89 of P.D. No. 1445 and COA Circular No. 97-002;
+
+
+
+d)		When warranted, assign bonded Disbursing Officers for departments with PPAs requiring substantial cash advances for a more efficient release and liquidation of the cash advances;
+
+	
+
+e)		Direct the Accountants to ensure completeness, validity and legality of the supporting documents on the grant of cash advances;
+
+f)		Direct the Accountants to send demand letters, notices or reminders to the officers/employees with overdue cash advances for the immediate submission of liquidation reports supported by necessary documentary requirements; and
+
+	
+
+g)		Direct the Accountants to withhold the salaries for non-compliance with the demand letters, notices or reminders issued to officers/employees concerned.
+
+
+
+Incomplete supporting documents for COVID-19 Hazard Pay
+
+
+
+6)			Disbursements for COVID-19 Hazard Pay in the total amount of P1.427 million lacked complete supporting documents contrary to Budget Circular (BC) No. 2020-001 dated March 24, 2020, thus, the legality and propriety of the transactions could not be established.
+
+Department of Budget and Management (DBM) Circular No. 2020-1 dated March 24, 2020 sets the guidelines and conditions on the grant of COVID-19 hazard pay. Section 4.3 of which states, “The personnel/workers have been authorized to physically report for work at their respective offices or work stations on the prescribed official hours by the head of the agency/office during the period of implementation of Enhanced Community Quarantine measures in the area of such office or work station.” 
+
+
+
+One of the COVID Advisories issued by the Commission on Higher Education (CHED), the COVID Advisory No. 5 dated March 17, 2020, provides that “Higher Education Institutions (HEIs) shall direct all its employees to work from home except for offices which will require a skeletal workforce that will ensure the provision of essential basic services such as processing of salary, janitorial services to clean and disinfect facilities and offices and security services. HEIs with skeletal workforce must ensure its strict compliance with the precautionary measures directed by the DOH and quarantine measures enforced by the DILG and its respective local government. This arrangement should remain in effect until the enhanced community quarantine has been lifted.” (Emphasis supplied)
+
+It can be gleaned from the foregoing that the skeletal workforce is only required for the provision of essential basic services such as processing of salary, janitorial services to clean and disinfect facilities and offices and security services. In addition, the requirements for the grant of COVID-19 hazard pay for the skeletal workforce are as follows:
+
+1)	Authority to physically report to Office from the head of the agency/office; and
+
+
+
+2)	Use of prescribed office hours.
+
+
+
+Examination of the disbursement voucher and supporting documents relative to grant of COVID-19 Hazard Pay for the period March 23, 2020 to May 15, 2020 amounting to P 2.834 million revealed the following deficiencies:
+
+
+
+Campus
+
+Total Disbursement
+
+Total No. Of Days Granted with Hazard Pay Without Attached Authority to Physically Report to Office
+
+Total Disbursement Without Attached  Authority to Physically Report to Office
+
+Total Disbursement Without DTRs 
+
+Total Disbursement where purpose of reporting is not for essential basic services
+
+Main 
+
+P 873,750.00
+
+1,417.5
+
+P 708,750.00
+
+P                0
+
+P 118,000.00
+
+Ajuy
+
+264,500.00
+
+529
+
+264,500.00
+
+264,500.00
+
+0
+
+Barotac Viejo
+
+503,000.00
+
+302
+
+151,000.00
+
+0
+
+0
+
+Batad
+
+253,000.00
+
+163
+
+81,500.00
+
+0
+
+68,600.00
+
+Concepcion
+
+185,367.25
+
+0
+
+0
+
+185,367.25
+
+0
+
+Lemery
+
+302,500.00
+
+74
+
+37,000.00
+
+0
+
+0
+
+Sara
+
+452,000.00
+
+367
+
+183,500.00
+
+0
+
+71,500.00
+
+Grand Total
+
+P 2,834,117.25
+
+2,852.5
+
+P 1,426,500.00
+
+P 449,867.25
+
+P 258,100.00
+
+
+
+1)	Disbursements for COVID-19 Hazard Pay in the total amount of P1.427 million lacked authority to physically report to office. 
+
+
+
+The attachments for the Main Campus were mostly skeleton workforce schedule prepared by the head of office. Some prepared schedules have no period covered. An authority to report for work issued by the Head of Office to perform essential services is not attached as required by the guidelines.
+
+
+
+2)	Disbursements of the Ajuy and Concepcion Campuses in the total amount of P449,867.25 lacked Daily Time Records. 
+
+
+
+3)	Accomplishment reports were not attached in the disbursements of Ajuy, Barotac Viejo, Lemery, Concepcion and Sara Campuses.
+
+
+
+
+
+4)	Accomplishment reports were not attached in the grant of hazard pay to 77 personnel in the Main Campus and 11 personnel in the Batad Campus. As for the Job Order Personnel of the Main Campus, there are a total of 71 lacking accomplishment reports as follows:
+
+
+
+Month
+
+Number of Lacking Accomplishment Report
+
+March 2020
+
+26
+
+April 2020
+
+23
+
+May 2020
+
+22
+
+TOTAL
+
+71
+
+
+
+5)	From the accomplishment reports submitted, it was determined that the purpose of physically reporting to work of 54 personnel is not specifically for the provision of essential basic services but to do their regular duties as part of the Skeletal Workforce of the office. Total hazard pay granted to them is P258,100.00.
+
+
+
+According to the Management, there were lacking attachments such as authority to physically report to office because some of the personnel reported on an on-call basis during the Enhance Community Quarantine (ECQ).
+
+
+
+As a result of the deficiencies noted, the legality and propriety of the disbursements for COVID-19 Hazard Pay could not be established.
+
+
+
+We recommended and the Management agreed to:	
+
+
+
+a)	Direct the Accountants to submit the lacking supporting documents on the grant of the COVID-19 hazard pay to substantiate the conditions of the grant set forth in BC No. 2020-001; and
+
+
+
+b)	Evaluate properly the necessity of physically reporting to work during the pandemic, for the safety of all personnel in compliance with CHED COVID Advisories.
+
+
+
+		Undisposed and unserviceable properties
+
+
+
+7)			Unserviceable properties of P3.748 million were not disposed of, contrary to GAM Volume I, Chapter 10, Section 40, thus, exposing the said properties to further deterioration and decrease in value.
+
+Chapter 10 Section 40 of Government Accounting Manual (GAM) provides policies on unserviceable properties. It states that, if a Property Plant and Equipment (PPE) is no longer capable of providing the entity with future economic benefits or service potential, it is said to be unserviceable. All unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) (Appendix 74). Section 39.e of the same manual provides that the disposal procedures of unserviceable property shall be in accordance with applicable rules and regulations on Supply and Property Management Manual, and Section 79 of P.D. No. 1445.
+
+
+
+This is a reiteration of prior years’ audit findings and recommendations. These were not implemented in the prior years because according to the Supply Officers, most of them were given the responsibility for this task but because of their volume of work, they were not able to facilitate the disposal. In an interview with the Supply Officer (SO) of the Barotac Viejo Campus, the other the reason for the undisposed unserviceable properties was lack of provided space to store the unserviceable assets. The SO of the Lemery Campus also stated that there was no Disposal Committee designated and they lack manpower to gather the unserviceable properties. For the Sara Campus, the members of the Disposal Committee were faculty members who were on a work from home arrangement, thus, they could not facilitate the disposal of the unserviceable properties.
+
+
+
+In the 2015 Annual Audit Report, the sampled unserviceable properties which were not disposed of for Ajuy, Batad, Concepcion, Lemery and Sara Campuses amounted to P2.120 million. For the Barotac Viejo Campus (BVC), a report on unserviceable properties amounting to P1.627 million was submitted in the year 2019. These unserviceable properties remained undisposed as of December 31, 2020 and summarized in the table.
+
+
+
+
+
+Campus
+
+Amount of Undisposed Unserviceable Property 
+
+Ajuy
+
+BVC
+
+P 298,815.00
+
+1,627,446.96
+
+Batad
+
+1,197,015.00
+
+Concepcion
+
+95,199.20
+
+Lemery
+
+431,838.44
+
+Sara
+
+97,721.23
+
+TOTAL
+
+P3,748,035.83 
+
+
+
+It was observed during the current year’s ocular inspection that these unserviceable properties were left idle in the stockroom and in other parts of the Campuses, thus, exposing them to further deterioration and decrease in value. 
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)		Prepare a work plan with timelines and persons responsible to facilitate the disposal of the unserviceable properties;
+
+	
+
+b)		Create or reform the Disposal Committee for each campus that would inspect and appraise the properties and recommend the manner of disposal of the same, if found unserviceable;
+
+
+
+c)		Direct the Disposal Committee to prepare and update the Inventory and Inspection Report of Unserviceable Property in accordance with the form prescribed on Appendix 74 of GAM, Volume II; 
+
+
+
+d)		Provide ample space for the storage of the unserviceable properties while awaiting disposal; and
+
+
+
+e)		Require the Inspection and Disposal Committee to immediately dispose the unserviceable properties in the presence of the COA Auditors and under the supervision of the proper committee.
+
+
+
+Unutilized/Idle Assets
+
+
+
+8)			Properties amounting to P5.110 million remained idle/unutilized because of lack of proper procurement planning contrary to Section 7.1 of the IRR of RA No. 9184, thus, the properties were exposed to the elements, that will eventually have a toll on the operational efficiency of the same, which would be equivalent to wastage of government funds.
+
+Section 7.1 of Revised Implementing Rules and Regulations (IRR) of Republic Act (RA) 9184 provides that:
+
+
+
+“All procurement shall be within the approved budget of the procuring entity and should be meticulously and judiciously planned by the procuring entity. Consistent with government fiscal discipline measures, only those considered crucial to the efficient discharge of governmental functions shall be included in the Annual Procurement Plan (APP).xxx ” (emphasis supplied)
+
+
+
+Ocular inspection revealed that as of report date, assets totaling P5.110 million remained idle and unutilized. Out of the total amount of unutilized assets, P4.664 million pertains to 2020 acquisitions of NIPSC Main, Ajuy, Barotac Viejo and Concepcion Campuses and the remaining amount pertains to those properties acquired from CYs 2016 to 2019 with a total amount of P445,735.00. The properties consist mainly of airconditoners, laptops, water dispensers, desktop computers, laboratory equipment, printers, steel cabinet, photocopying machine and sofa. The breakdown of the amount per campus is as follows:
+
+
+
+Campus
+
+Amount of Unutilized Assets
+
+Remarks
+
+
+
+      2016-2019
+
+           2020
+
+
+
+Main-Estancia
+
+P 122,600.00
+
+P 2,871,795.00
+
+2017-2020 acquisitions
+
+Ajuy
+
+210,950.00
+
+791,771.00
+
+2016, 2019 and 2020 acquisitions
+
+Barotac Viejo
+
+0.00
+
+412,210.00
+
+2020 acquisitions
+
+Concepcion
+
+112,185.00
+
+588,185.00
+
+2016 to 2020 acquisitions
+
+TOTAL
+
+P 445,735.00
+
+P 4,663,961.00
+
+
+
+
+
+Proper procurement planning is necessary to ensure that only those items which are absolutely necessary and meet the requirements of the end user are procured, thus, avoiding losses on procurement that are not essential and will eventually will be left idle.
+
+
+
+As per interview with some of the supply officers during the ocular inspection, the reason for the non-utilization of the CY 2020 procured assets was the suspension of the face to face classroom interaction and that most of the members of the faculty were on an alternative work arrangement of work from home. Hence, the assets were not yet issued to end-users. Also, some equipment were required for the Commission on Higher Education (CHED) Regional Quality Assessment Team (RQAT) Evaluation and were, thus, purchased even with the suspension of the face to face classes.
+
+
+
+The procurement of the said properties was in accordance with the approved APP. However, had the Management re-assessed the necessity and urgency of the CY 2020 acquisitions, considering the uncertainty of when the face to face type of learning would resume, the procurement of those properties which were unutilized could have been suspended for the time being.
+
+
+
+As for the prior years’ acquisitions, the Supply Officer (SO) of the Main Campus justified that the air-conditioning unit worth P122,600.00 acquired in CY 2018 is intended for the Teacher Education Building (TED) which is still under construction as of report date.
+
+
+
+For the Ajuy Campus, the Management justified that the chainsaw costing P49,950.00 was not yet utilized because it was only found this year after not being located for more than two years as reported in the previous AARs from the year 2017. It is on standby since they have not yet started the clearing of surroundings like cutting of branches and twigs of trees inside the Campus. On the other hand, the transformer costing P161,000.00 is still unutilized because there is no available platform for testing and preparation of wielding machine operation.
+
+
+
+The SO of the Concepcion Campus justified that the two LED TVs and the underwater camera with a total amount of P112,185.00 were not utilized as of report date because the Management has yet to decide to whom the properties will be issued as these properties were procured through the Main Campus and were just turned-over to Concepcion Campus.
+
+
+
+Non-utilization of the acquired equipment may entail risks of diminishing value and effectiveness due to deterioration caused by prolonged idle time of in-operation.
+
+ 
+
+We recommended and the Management agreed to:
+
+
+
+a)		Ensure that only those assets which are considered crucial to the efficient discharge of government functions are purchased as planned in accordance with Section 7.1 of the IRR of RA No. 9184; and
+
+	
+
+b)		Utilize the idle properties amounting to P5.253 million, otherwise, conduct regular maintenance on the equipment which cannot be utilized as of the moment.
+
+
+
+PPE without PAR
+
+	
+
+9)			Property, Plant and Equipment of Main, Batad, Concepcion, and Sara Campuses amounting to P32.875 million were either not supported with Property Acknowledgement Receipt (PAR) or the PARs were not duly issued and received contrary to Government Accounting Manual (GAM) Volume I, Chapter 10, Section 21 and GAM Volume II, Appendix 71, hence, the actual users and persons accountable could not be determined and accountability is not fully established.
+
+GAM Volume I, Chapter 10, Section 21 requires the issuance of the PAR to support the release of property to end-user. The PAR shall be renewed at least every three years or every time there is a change in accountability or custodianship of the property.
+
+
+
+Furthermore, Section D, Instructions to Appendix 71 (PAR), of GAM, Volume I states that the recipient or end user of the property shall acknowledge receipt of the property by signing the “Received by” portion and also indicate the date of receipt of the property. The designated Supply and/or Property Custodian shall sign the “Issued by” portion and indicate the date of issue of the property. 
+
+
+
+Verification of records revealed that Property, Plant and Equipment (PPE) with a total amount of P32.875 million were either not supported with Property Acknowledgement Receipt (PAR) or the PARs were not duly received and issued. From the total amount of P32.875 million, P1.696 million pertained to 2020 acquisitions of NIPSC Main and Sara and the remaining amount of P31.179 million pertained to acquisitions of all campuses from CYs 2016 to 2019. Summary of data is as follows:
+
+
+
+
+
+PPE without PAR
+
+PPE with PAR not duly received/issued
+
+TOTAL
+
+Main
+
+P 20,926,340.00
+
+P 9,495,835.00
+
+P 30,422,175.00
+
+Ajuy
+
+0
+
+0
+
+0
+
+Barotac Viejo
+
+0
+
+0
+
+0
+
+Batad
+
+503,770.00
+
+0
+
+503,770.00
+
+Concepcion
+
+237,699.00
+
+0
+
+237,699.00
+
+Lemery
+
+0
+
+0
+
+0
+
+Sara
+
+279,635.00
+
+1,432,161.00
+
+1,711,796.00
+
+TOTAL
+
+P 21,947,444.00
+
+P 10,927,996.00
+
+P 32,875,440.00
+
+
+
+The volume of work of the Supply Officers was cited by them as the reason for this deficiency. According to them, they have many responsibilities especially on procurement that they could not find time to readily update the records. As a result, accountability was not fully established and the actual users and persons accountable could not be determined because of the non-preparation and non-updating of PARs.
+
+
+
+We recommended and the Management agreed to direct the Supply Officer to accomplish the PAR form for all of the PPE issued in accordance with GAM Volume II, Section D of Appendix 71.
+
+
+
+Non-issuance of ICS
+
+
+
+10)			Semi-Expendable Properties (SEP) of Main, Barotac Viejo, Concepcion, and Sara Campuses amounting to P404,496.00 were not supported with Inventory Custodian Slip (ICS) contrary to GAM Volume I, Chapter 8, Section 11, hence, the actual user and person accountable could not be determined and accountability is not established. Also, 21 items of SEP amounting to P189,180.00 were issued with both ICS and PAR, thus, resulting to erroneous records.
+
+GAM Volume I, Chapter 8, Section 11 requires the issuance of Inventory Custodian Slip (ICS) (Appendix 59) to end-users of Semi-expendable Property to establish accountability over them. Liability shall be extinguished upon return of the item to the Property and Supply Division/Unit or in case of loss, upon approval of the relief from property accountability.
+
+
+
+Verification of records revealed that 47 of the 324 sampled semi-expendable properties amounting to P404,496.00 were not supported with Inventory Custodian Slip. The amount of P148,936.00 pertained to 2020 acquisitions of NIPSC Main and Barotac Viejo and the remaining amount of P255,560.00 pertained to acquisitions of Main, Concepcion and Sara Campuses from CYs 2016 to 2019. Summary of data is presented on the table.
+
+	  
+
+Campus
+
+Number of Properties
+
+Amount of Semi-expendable Properties Without ICS
+
+Main
+
+16
+
+P 182,034.00    
+
+Barotac Viejo
+
+12
+
+91,902.00
+
+Concepcion
+
+1
+
+10,500.00
+
+Sara
+
+18
+
+120,060.00
+
+TOTAL
+
+47
+
+P 404,496.00
+
+ 	
+
+According to the Supply Officers, the volume of their work is the reason for the non-issuance of ICS. As for the Sara Campus, the properties were issued with PAR instead of ICS but they are already in the process of correcting their records. 
+
+
+
+Due to the absence of the ICS, the actual users and persons accountable could not be determined and accountability is not established.
+
+
+
+Also, 21 items of the SEP of the Ajuy Campus amounting to P189,180.00 were issued with both ICS and PAR, thus, resulting to erroneous records.
+
+We recommended and the Management agreed to direct the Supply Unit to:
+
+	
+
+a)		Determine the actual users of the semi-expendable properties and issue ICS to identify the accountable persons; and
+
+	
+
+b)		Strictly adhere to GAM Volume I, Chapter 8, Section 11 on the issuance of  ICS to end-users of Semi-expendable Property.
+
+
+
+Incomplete supporting documents for fuel, oil and lubricants and non-submission of reports
+
+
+
+11)			Disbursements for fuel, oil and lubricants totaling P0.508 million were not supported with Driver’s Trip Tickets, and Monthly Reports of Fuel Consumption and Official Travels were not submitted to the Auditor contrary to the rules and regulations on fuel consumption of government vehicles under COA Circular No. 77-61 dated September 26, 1977, thus, propriety and reasonableness on the use of government vehicles and fuel consumption could not be established.
+
+Commission on Audit Circular No. 77-61, dated September 26, 1977, prescribes the use of “Manual on Audit for Fuel Consumption of Government Vehicles” which aims to minimize  wasteful,  excessive  and  unnecessary  expenditures for fuel consumption of government vehicles, in line with the government’s concern and efforts to ensure the effective conservation of energy and proper utilization of government motor transportation. Along with its provisions are the specific guidelines, to wit:
+
+
+
+1)	Use of government vehicles shall be properly controlled and regulated.
+
+
+
+	--	The use of government motor vehicles should be controlled through properly accomplished and duly approved Driver’s Trip Tickets which should be serially numbered, a summary of which shall be made at the end of the month in a Monthly Report of Official Travels for audit purposes.
+
+
+
+2)	Monthly Report of Fuel Consumption of government motor transportation shall be submitted to the Auditor for verification purposes to determine the reasonableness of fuel consumed during the period.
+
+
+
+Furthermore, the forms, records and reports mentioned above are elaborated in Item D of the Manual, to wit:
+
+
+
+1)	Driver’s Trip Tickets
+
+
+
+For the purpose of controlling the use of government vehicles, before any trip is undertaken, authority shall first be secured from the Head of Agency or duly authorized to approve the Driver’s Trip Tickets.
+
+2)	Monthly Report of Official Travels
+
+
+
+At the end of the month, a Monthly Report of Official Travels shall be prepared by the driver concerned summarizing in chronological order his trips for the month. For each vehicle, one report shall be prepared monthly.
+
+
+
+
+
+3)	Monthly Report of Fuel Consumption
+
+
+
+Monthly, a report of fuel consumption shall be prepared and submitted by the Agency personnel concerned to the Auditor for verification purposes. The report shall show among others, the different types of motor vehicles utilized by the Agency during the month, total distance travelled, total fuel used and the normal fuel consumption for each vehicle.
+
+At the time of the examination, the disbursement vouchers (DVs) for October to December 2020 were not yet submitted by some Campuses, hence, the audit of DVs was until the period September 30, 2020 only. Examination of the DVs for fuel, oil and lubricants as of the said period revealed the following (Annex B):
+
+1)	Driver’s Trip Tickets were not attached to the disbursement of fuel, oil and lubricants amounting to P0.508 million;
+
+
+
+2)	Two Driver’s trip tickets of Barotac Viejo Campus (BVC) were not signed as approved;
+
+
+
+3)	The attached Driver’s Trip Tickets of the disbursements of BVC were not completely filled up and the format is different from what was prescribed in the Manual;
+
+
+
+4)	Disbursement for Fuel, Oil and Lubricants of BVC amounting to P4,506.20 has no attached Request for Quotation (RFQ) from at least three suppliers;
+
+ 
+
+5)	Monthly Reports of Fuel Consumption were not submitted to the Auditor except for Lemery Campus whose report was not in the prescribed format. 
+
+
+
+The submitted report lacks details on Odometer Reading, Total Distance Travelled, Total Fuel Used, Distance Travelled per Liter, Normal Travel Km per Liter, Total Liters Consumed plus 10 percent Allowance, Excess Fuel and Remarks. 
+
+
+
+6)	Monthly Reports of Official Travels for the period January 1 to December 31, 2020 were not submitted.
+
+
+
+According to some SOs, the reason for the deficiencies was because they did not know that these were required reports and attachments, with prescribed templates. As a result, the propriety and reasonableness of travel and expenditures for fuel, oil and lubricants amounting to a total of P0.680 million could not be established.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Direct the responsible person/s to submit to the Accounting Office properly accomplished and duly approved Driver’s Trip Tickets according to the format prescribed in the Manual and attach the same document for the disbursements of fuel, oil and lubricants;
+
+
+
+b)	Direct the Accountants to ensure that supporting documents attached to the disbursement vouchers are complete and proper; and
+
+
+
+c)	Strictly adhere to COA Circular No. 77-61 dated September 26, 1977 on the submission of Monthly Report of Official Travels and Monthly Report of Fuel Consumption to the Auditor.
+
+
+
+		Uncollected STUFAP Loans Receivables
+
+
+
+12)			Loans receivable from 80 Student Financial Assistance Program (STUFAP) grantees amounting to P320,664.70 in the Main, Barotac Viejo and Lemery Campuses have not been fully collected and were long outstanding, contrary to Commission on Higher Education (CHED) Memorandum Order No. 4 series of 2004, thus, program viability is not ensured and the objective of providing loans continuously to the students is not fully achieved.
+
+	CHED Memorandum Order No. 4 series of 2004 provided the guidelines for the implementation of the Student Financial Assistance Program (STUFAP). It states that qualified borrowers may be allowed to borrow a maximum of P8,000.00 per semester. Loans below P4,000.00 are payable within five years while loans above P4,000.00 are payable within ten years.
+
+One of the objectives of the program includes providing assistance to financially needy third and fourth year, and graduating students. A memorandum of agreement (MOA) was signed between the College and the grantees stipulating that the payment period is to start two years after the student has graduated.
+
+
+
+The Responsibilities of the Loan Borrower are to pay the amount borrowed under the program within the amortization period and notify the school within 30 days for any changes of the following: permanent address Commencement of employment Transfer of change of employment and change in civil status.
+
+
+
+The co-borrower upon signing the loan agreement is also jointly and severally liable of the loaned amount. Hence, the liability may be enforced against the co-maker in case of refusal or non-payment of the student borrower. 
+
+		
+
+Verification of loans receivables (STUFAP) revealed that P320,664.70 has been long outstanding as of December 31, 2020. The details are shown below: 
+
+			
+
+		Schedule of STUFAP Loans Receivable Per Campus as of December 31, 2020
+
+		
+
+	Campus
+
+	No. of Grantees with Outstanding Loans
+
+	Loans Receivable Balance as of Dec. 31, 2019
+
+	2020
+
+	Collections 
+
+	Loans Receivable Balance as of Dec. 31, 2020
+
+	Estancia
+
+	20
+
+	159,000.00
+
+	10,000.00
+
+	        149,000.00
+
+	Estancia
+
+	14
+
+	         101,000.00 
+
+	15,000.00
+
+	86,000.00 
+
+	Barotac Viejo
+
+	14
+
+	43,000.00 
+
+	11,000.00
+
+	          32,000.00 
+
+	Lemery
+
+	32
+
+	56,964.70
+
+	3,300.00
+
+	          53,664.70 
+
+	Total
+
+	80
+
+	362,934.70 
+
+	 39,300.00
+
+	320,664.70
+
+	
+
+	The total payment collected for CY 2020 was only P39,300.00, a low collection rate of 10.82 percent of the total outstanding loan balance. This was because most student borrowers and co-makers are no longer connected with the College and the Management had difficulty in tracing their current addresses and contact numbers. 
+
+	
+
+	The Main and Barotac Viejo Campuses sent demand letters to the student borrowers and co-makers. Some co-makers who are still connected with the College paid the outstanding loan balances of delinquent student borrowers.
+
+
+
+Due to the long outstanding STUFAP receivables, program viability is not ensured and the objective of continuously providing loans to the students is not fully achieved.
+
+
+
+We recommended and the Management agreed to:
+
+		
+
+a)	Intensify the collection of due and demandable accounts by re-issuance of demand letters to student borrowers and to the co-makers in case of refusal or non-payment of student borrowers to settle their liabilities, in order to have adequate funds for relending to financially handicapped graduating students;
+
+
+
+b)	Review and enforce the provisions stipulated in the loan agreement to ensure collection of the loans;
+
+
+
+c)	Set up an effective monitoring system to keep track of the whereabouts of the student grantees who have already graduated or are gainfully employed; and
+
+
+
+d)	Should the above efforts remain futile, enforce payment from co-borrowers so that the fund will be replenished and more students could avail of the benefits of the program. 
+
+
+
+		Prior year’s legal services paid from current year appropriations
+
+		
+
+13)			Legal services for CY 2019 amounting to P252,000.00 were recorded as current year expenses and were paid from current year appropriations even without being previously recorded as Accounts Payable, contrary to Government Accounting Manual (GAM), Volume I, Section 6, thus, overstating the expense account.
+
+GAM, Volume I, Section 6.b, states that each entity shall recognize and present its financial transactions and operations conformably in accrual basis of accounting in accordance with the International Public Sector Accounting Standards (IPSAS).
+
+Accrual basis has been defined in GAM, Chapter, 2, Section 2.a as a basis of accounting under which transactions and other events are recognized when they occur (and not only when cash or its equivalent is received or paid). The transactions and events are recognized in the financial statements of the periods to which they relate. The elements recognized under accrual accounting are assets, liabilities, net assets/equity, revenue and expenses. (Emphasis supplied)
+
+
+
+Also, Section 25 of Memorandum No. 20 dated August 4, 2011 of the Commission on Higher Education on the Policies and Guidelines for the Use of Income, Special Trust Fund and Programs of Receipts and Expenditures of the State Universities and Colleges (SUCs), states that expenditures which have been obligated in the current year but to be paid or settled in the next calendar year shall be funded out of remaining fund balance as of December 31. It shall be included as among those to be deducted from Fund Balance at the End of the Year in determining the Accumulated Savings subject to appropriation.
+
+Examination of the disbursement vouchers for legal services revealed that Check No. 15136 dated March 16, 2020 amounting to P252,000.00 was issued to pay legal services covering the period April to December 2019 of the Office of the Solicitor General. This was recorded as current year’s expenses and paid from the current year appropriations even without being recorded as Accounts Payable in the prior year. This is contrary to GAM, Volume I, Section 6.b and thus, overstated the legal services account for Calendar year 2020.
+
+
+
+According to the Management, the CY 2019 legal fees were not obligated and paid in the period to which they relate to because the supporting documents were only submitted in March 2020.
+
+
+
+This practice, if not curtailed, may likewise affect the cash programming and resource predictability requirements of the College since current year budgetary allocation has been used to pay off prior year unobligated expenditures.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Ensure that all current expenditures that could not be paid within the year be obligated chargeable against the current year appropriations, and be recorded as Accounts Payable; 
+
+
+
+b)	Inform all offices, at most by November of the current year, to submit to the Budget Office all money claims in order to be obligated and be recorded as Accounts Payable; and
+
+
+
+c)	Strictly adhere to GAM, Volume I, Chapter 2, Section 6, on the use of accrual basis of accounting in the recognition and presentation of the financial transactions and operations of the College.
+
+
+
+Grant of honoraria without legal basis
+
+
+
+14)			The grant of honoraria to the Regional Director of the Commission on Higher Education (CHED) Region VI as resource person during board meetings amounting to P19,125.00 and P7,650.00 for CY 2019 and 2020, respectively, was  bereft of legal basis, thus, improper and disallowable in audit.
+
+Sections 58 and 53 of the General Provisions of the General Appropriations Act for FY 2019 and 2020, respectively, provide that honoraria may be paid only to the following:
+
+
+
+1)	Teaching personnel of the Department of Education, Technical Education and Skills Development Authority (TESDA), State Universities and Colleges (SUCs) and other educational institutions, engaged in actual classroom teaching, whose teaching load is outside of the regular office hours or in excess of the regular load;
+
+
+
+2)	Those who act as lecturers, resource persons, coordinators and facilitators in seminars, training programs, and other similar activities in training institutions;
+
+
+
+3)	Chairpersons and members of commissions, boards, councils, and other similar entities, including personnel thereof who are not paid salaries, nor per diems but compensated in the form of honoraria as provided by laws, rules and regulations;
+
+
+
+4)	Those who are involved in science and technological activities and render services beyond their regular workload;
+
+
+
+5)	Officials and employees assigned to special projects, xxx; and
+
+
+
+6)	Officials and employees authorized to receive honoraria under R.A. No. 9184 and its IRR.
+
+
+
+It was observed that for CYs 2019 and 2020, honoraria in the amounts of P108,892.50 and P46,077.50, respectively was paid by the different SUCs to the CHED Regional Director for her attendance to SUC governing board meetings. Total honoraria paid by NIPSC alone amounted to P26,775.00. Perusal of documents revealed that the CHED Regional Director attended the meetings as resource person. Apparently, this type of honorarium granted is not among those enumerated in the aforecited regulations for entitlement to honorarium, thus, bereft of legal basis.
+
+
+
+Likewise, among the documents provided by the agency to support the payment is CHED Resolution No. 100-2018 signed by J. Prospero E. de Vera, III, CHED Chairman, mandating all CHED Regional Directors to attend meetings of SUCs governing boards for the specific purpose of ensuring that the SUC get the certificate of program compliance first before offering any program (Annex C).
+
+
+
+Honoraria for those who act as lecturers and resource persons is governed by Department of Budget and Management (DBM) Budget Circular 2007-1 dated April 23, 2007 which provides in part, the following:
+
+
+
+Section 2.3 A resource person is any person who by virtue of his /her expertise on a specific subject area, serves as speaker in seminars, conferences, symposia, training programs and similar activities
+
+
+
+Section 4.5 Honoraria shall not be granted to the designated lecturer, resource persons and facilitators within their respective sponsoring agencies as such services are deemed part of the duties and responsibilities of their appointive positions to disseminate information, to clarify issues and concerns and to interact with clients and/or implementers of agency mandates.
+
+
+
+One of the functions of the CHED Regional Office is to monitor and evaluate the performance of Higher Education Institutions in the region in terms of compliance to minimum standards for various higher education programs. Thus, it can be gleaned from the foregoing that the directive of the CHED Chairman for the CHED Regional Director to attend BOR meetings is in line with the pursuance of its mandate, deemed part of the duties and responsibilities of the CHED Regional Director’s appointive position and therefore covered by limitations provided in Section 4.5 of the DBM Budget Circular 2007-1.
+
+
+
+
+
+
+
+
+
+According to Management, they granted the honoraria because all other State Universities and Colleges in the region also granted it. The payment of the honoraria has been stopped starting October 2020.
+
+
+
+Due to the absence of legal basis that could support the propriety of the subject payment of honoraria, such disbursement is disallowable in audit. 
+
+
+
+We recommended and the Management agreed to settle the amount once the corresponding Notices of Disallowance are issued.  Henceforth, stop the practice of granting honoraria and other forms of allowances in the absence of legal basis.
+
+	
+
+		Unsettled disallowances with COE
+
+		
+
+15)			Disallowances remained unsettled notwithstanding the issuance of Notices of Finality of Decision (NFD) and COA Orders of Execution (COE), contrary to the provisions of the 2009 Rules and Regulations on the Settlement of Accounts (RRSA) resulting to an unsettled balance of P 0.856 million as of December 31, 2020.
+
+Pertinent provisions in the RRSA state that:
+
+
+
+7.1.1	“The head of the agency, who is primarily responsible for all government funds and property pertaining to his agency shall ensure that: xxx (b) the settlement of disallowances and charges are made within the prescribed period; xxx.”
+
+	
+
+7.1.3 	“He shall enforce the COA Order of Execution (COE) by requiring the withholding of salaries or other compensation due the person liable in satisfaction of the disallowance or charge.” 
+
+
+
+7.1.4	“He shall ensure that all employees who are retiring or transferring to other agencies shall first settle the disallowances and charges for which they are liable.”
+
+
+
+10.4  “The disallowance shall be settled within six (6) months from the date of receipt of the Notice of Disallowance (ND) by the persons liable.”
+
+
+
+It is stated as instructions to the Agency Head, the Cashier and the persons liable in the NFD, that the persons liable shall pay the disallowed amount immediately to the Agency Cashier. Failure to pay the same shall authorize the Agency Cashier to withhold payment of salary and other money due to persons liable in accordance with the COE to be issued to the Agency Cashier.
+
+
+
+In the COE, the Agency Head is instructed to withhold the payment of the salaries or any amount due to persons liable, for the settlement of their liabilities pursuant to the ND/Decision related thereto. Payment of salaries or any money due them in violation of this instruction will be disallowed in audit and the agency head will be held liable therefor.
+
+
+
+Monitoring on the settlement of the Notices of Disallowance (ND) which became final and executory and issued with COA Order of Execution (COE) revealed that as of December 31, 2020, there is an unsettled disallowance of P 0.856 million (Annex D). 
+
+
+
+It is noted that the Prosecution and Litigation Office (PLO) of this Commission granted the requests to pay in installment basis of liabilities under various NDs of several employees. However, most employees failed to comply with their monthly payment as approved by the PLO. Hence, their liability, and the disallowances with no request for installment payment, shall be demandable in full and shall be settled immediately and may be enforced against those solidarily liable in case of refusal or failure to settle.
+
+
+
+Further, the COA-approved installment term for the 2014 Program on Awards and Incentives for Service Excellence (PRAISE) disallowances has ended before December 31, 2017 and the disallowances ought to be fully settled by then. The unsettled balance totaling P201,803.58 of the PRAISE disallowance pertains mostly to the disallowances of those who were already separated from government service. However, as stated in the 2009 RRSA, Section16.3, “The liability of persons determined to be liable under an ND/Notice of Charge (NC) shall be solidary and the Commission may go against any person liable without prejudice to the latter’s claim against the rest of the persons liable”. (emphasis ours) Due to the fact that it is a solidary liability, COA can demand full compliance to any of the persons determined liable in the ND and not necessarily to the payee.
+
+
+
+According to the Cashier, she was not able to withhold payment for the disallowances since the minimum take home pay of the concerned employees is not sufficient to settle the whole amount of disallowances. Also, according to the Management, other persons liable were already retired and they will have to resort to sending notices/demand letter to persons liable to settle disallowances.
+
+
+
+While we find merit in the justification that deducting the settlement of the disallowances from the salaries of the concerned employees must not reduce their monthly net take home pay to an amount lower than that provided in the General Appropriations Act (GAA), the Agency could have exhausted other remedies by withholding other compensation or money due to the persons liable in order to settle the disallowances.
+
+
+
+Section 23.4 of the 2009 RRSA further states that, “ xxx Unsettled COEs shall be referred to the General Counsel for appropriate action including referral to the Office of the Solicitor General and the Ombudsman”.
+
+
+
+Non-settlement of disallowances within the prescribed period after it has become final and executory shall also be a ground for administrative disciplinary action against the officer or employee concerned and retention of money of persons liable for satisfaction of indebtedness to government. Section 37 of Presidential Decree (P.D.) No. 1445 states that:
+
+
+
+“Retention of money for satisfaction of indebtedness to government. – When any person is indebted to any government agency, the commission may direct the officer to withhold the payment of any money due such person or his estate to be applied in satisfaction of the indebtedness.”
+
+
+
+The non-settlement of the disallowances which have become final and executory and issued with COE resulted to an unsettled balance of P 0.856 million as of December 31, 2020.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Enforce the immediate settlement of the due disallowances from liable persons without an approved request for installment payment and those who failed to comply with the approved monthly installment granted by the Prosecution and Litigation Office pursuant to the pertinent provisions of the 2009 RRSA;
+
+
+
+b)	Withhold payment of salary and other amount due to persons liable and in case of refusal or failure to settle, demand payment from any of the persons considered solidarily liable; and
+
+
+
+c)	Initiate sending of notice/letter of demand to settle disallowances to persons liable, especially to those who are no longer in the employ of the agency.
+
+		Incomplete supporting documents for Liquidation Report
+
+		
+
+16)			Liquidation Report for the Fund transfer from the Commission on Higher Education (CHED) to NIPSC Lemery Campus in the amount of P300,000.00 lacked complete supporting documents contrary to Section 4.6 of Presidential Decree (P.D.) No. 1445, thus, the legality and propriety of the transactions could not be established.
+
+CHED and NIPSC Lemery, Iloilo entered into a Memorandum of Agreement on November 12, 2013. CHED provided funding assistance of P100,000.00 for expenses incurred in applying for accreditation for the BS Hotel and Restaurant Management and BS Elementary Education Program. Also, P200,000.00 was provided by CHED for the procurement of laboratory equipment and additional resources for the improvement of the library facilities of the Bachelor of Science in  Information Technology Program. The total funding assistance provided by CHED was P300,000.00.
+
+
+
+The liquidation report for the fund transfer was submitted on September 16, 2020. Audit of the said liquidation report revealed that the disbursements of P295,061.71 lacked complete supporting documents (Annex E) contrary to Section 4.6 of P.D. No. 1445 which states that, “claims against government funds shall be supported with complete documentation.” 
+
+
+
+Moreover, the summary of expenses lacked details as to what department requested for the purchase. Hence, it is difficult to determine if the expenses were in accordance with the terms of the MOA. Item 4.b of the MOA states that CHED reserves its right to terminate the agreement anytime for use of funds other than the intended/approved purpose unless prior approval was sought from CHED.
+
+
+
+Section 1.2 of the MOA also states that NIPSC Lemery shall submit to CHED the Fund Utilization Report (FUR) within 60 days after the completion of the project. The FUR was only submitted to CHED on July 19, 2019 while the funds were granted in 2013.
+
+
+
+According to the former Campus Administrator who is now a member of the faculty, the change of administration was the cause of the delay of the submission of the liquidation report. The project was implemented under her administration. As to the lacking documents, they are still gathering the documents, according to the Accountant.
+
+
+
+The legality and propriety of the transactions could not be established because of the noted deficiencies.
+
+
+
+
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Comply with the terms of the MOA on the timeframe of submission of the fund utilization report; and
+
+
+
+b)	Ensure complete supporting documents for disbursements in compliance with Section 4.6 of P.D. No. 1445.
+
+
+
+		Erroneous deposit
+
+
+
+17)			The cashier made an erroneous deposit after she recorded the collections and deposits of the previous cashier as her accountability, contrary to Appendix 29, Volume II of Government Accounting Manual (GAM), resulting to an overage of P106,769.73.
+
+It was reported in AOM No. 2019-002 dated December 6, 2019 that there were 87 Official Receipts (ORs) amounting to P208,225.23 that were found to be issued by the previous Cashier, and were dated after she was relieved from cashiering duties effective October 31, 2017. Some of these ORs were found randomly in the OR stub, mostly in middle, even when the previous OR series were not yet issued by her. These were supposed to be unissued during the turn over to the current cashier.
+
+
+
+Out of the P208,225.23 collections of the previous cashier, P186,915.23 were dated November 2017 and P21,310.00 were either undated or dated February 2018. She only deposited P80,145.50 on November 2, 2017, leaving a total of unremitted balance of P128,079.73. 
+
+
+
+The results of our cash examination revealed that the current Cashier recorded the P186,915.23 collections for November 2017 in her accountability even if the cash was not turned over to her and the collections were signed as received in the OR by the previous Cashier. She also erroneously recorded the deposits of the previous Cashier of P80,145.50 as deductions from her accountability. For fear of shortage, the current Cashier deposited P106,769.73 from her own personal money to zero out the November 2017 collections of the previous cashier since the corresponding ORs are in her custody.
+
+
+
+Date on ORs
+
+Collections of Previous Cashier
+
+(A)
+
+Deposits- Previous Cashier
+
+(B)
+
+Deposits- Current Cashier
+
+(C)
+
+Balance 
+
+
+
+(D=A-B-C)
+
+November 2017
+
+P 186,915.23
+
+P 80, 145.50
+
+P 106,769.73
+
+P               0
+
+Undated/Feb. 2018
+
+21,310.00
+
+0
+
+0
+
+21,310.00
+
+TOTAL
+
+P 208,225.23
+
+P 80,145.50
+
+P 106,769.73
+
+P 21,310.00
+
+
+
+Per audit, the total collections for November 2017 of the current Cashier must only be P75,639.50 and her correct total deposit is P182,409.23. The erroneous deposit resulted to an overage of P106,769.73. 
+
+
+
+Particulars
+
+Per Audit
+
+Per  CRR/Cashbook
+
+Difference
+
+Nov. 2017 Collections of Current Cashier
+
+ P       75, 639.50
+
+ P       262,554.73
+
+(P 186,915.23)
+
+Nov. 2017 Deposits of Current Cashier
+
+182, 409.23
+
+262,554.73
+
+(80,145.50)
+
+Shortage (Overage)
+
+(P 106,769.73)
+
+0
+
+(P106,769.73)
+
+ 
+
+Appendix 29 of GAM Volume II states that the collecting officer shall maintain the Cash Receipts Record (CRRec) to monitor his/her accountability. All transactions for the day shall be immediately recorded and the undeposited collection shall be extracted. Although the CRRec was maintained, there were erroneous recording of collections and deposits which resulted to over deposit and overage of P106,769.73.
+
+
+
+The overage of P106,769.73 was well justified. This and the undeposited collection of P21,310 for the undated/February 2018 dated ORs formed part of the shortage of the previous Cashier as reflected in her Cash Examination Report.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Direct the Cashier to make the necessary adjustments in her Cash Receipts Record to reflect only her accountability;
+
+
+
+b)	Direct the Accountant to prepare the necessary adjusting entries to correct the recorded overage on the account of the current Cashier;
+
+
+
+c)	Refund the overage of P106,769.73 to the current Cashier; and
+
+
+
+d)	Direct the Cashier to properly record only her accountability in the Cash receipts Record in accordance with Appendix 29 of GAM Volume II to avoid possible shortage and overage in the future. 
+
+		
+
+		Unrecorded petty cash fund expenses
+
+
+
+18)			Unreplenished Petty Cash Fund Expenses in the amount of P31,096.50 were not recorded as of December 31, 2020 contrary to Government Accounting Manual (GAM) Volume I, Chapter 19, Section 54, thereby, overstating the petty cash fund balance and understating the corresponding expenses.
+
+GAM Volume I, Chapter 19, Section 54 states that in order to recognize expenses incurred to the period to which they relate, all unreplenished Petty Cash Fund expenses shall be reported and the supporting documents be submitted to the Accounting Division/Unit. 
+
+
+
+As of December 31, 2020, the Petty Cash Fund balance is P119,730.45 with the following breakdown:
+
+
+
+Campus
+
+PCF Balance as of Dec. 31, 2020
+
+Main
+
+P 65,000.00
+
+Ajuy
+
+15,000.00
+
+Barotac Viejo
+
+270.45
+
+Batad
+
+15,000.00
+
+Concepcion
+
+4,460.00
+
+Lemery
+
+10,000.00
+
+Sara
+
+10,000.00
+
+TOTAL
+
+P 119,730.45
+
+Audit of the petty cash fund expenses revealed that unreplenished petty cash fund expenses amounting to P31,096.50 were not recorded because these were not reported by the Petty Cash Fund Custodians to the Accounting Unit or were reported only after the accounting books for CY 2020 were closed. The breakdown is as follows:
+
+
+
+Campus
+
+Unrecorded Unreplenished PCF Expenses as of Dec. 31, 2020
+
+Main
+
+P      850.00
+
+Batad
+
+15,102.50
+
+Lemery
+
+7,765.00
+
+Sara
+
+7,379.00
+
+TOTAL
+
+P 31,096.50
+
+
+
+As a result of the deficiency, expenses were not recognized to the period in which they relate, thereby, overstating the Petty Cash Fund balance and understating the related expenses.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Direct the Petty Cash Fund Custodian to report the unreplenished expenses as of year-end to the Accounting Division/ Unit in accordance with GAM Volume I, Chapter 19, Section 54; and
+
+
+
+b)	Direct the Accounting Unit to recognize the unreplenished Petty Cash Fund expenses to the period to which they relate.
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance with Tax Laws
+
+
+
+For CY 2020, withheld taxes including the beginning balance of P1.097 million totaled                 P30.149 million of which P27.485 million was remitted in CY 2020 leaving a balance of P2.664 million. Details are presented in the table.
+
+
+
+Particulars
+
+Amount
+
+Balance
+
+Beginning balance, Jan. 1, 2020
+
+
+
+P      1,096,594.67
+
+Add: taxes withheld
+
+
+
+
+
+Regular Agency
+
+P 23,633,002.92
+
+
+
+Income Generating Funds
+
+ 5,185,335.10 
+
+
+
+Trust Receipts
+
+ 152,258.84 
+
+
+
+Business Related Funds
+
+ 81,636.72 
+
+
+
+Subtotal
+
+
+
+29,052,233.38
+
+Deduct: taxes remitted
+
+
+
+
+
+Regular Agency
+
+ 23,300,574.43 
+
+
+
+Income Generating Funds
+
+ 3,985,173.99 
+
+
+
+Trust Receipts
+
+ 115,720.61 
+
+
+
+Business Related Funds
+
+ 83,700.88 
+
+
+
+Subtotal
+
+
+
+27,485,169.91
+
+Ending Balance, December 31, 2020
+
+
+
+P    2,663,658.04
+
+
+
+
+
+Compliance with RA No. 8291 on Proper Deductions and Remittances of Government Service Insurance System (GSIS) Premiums
+
+
+
+In compliance with Section 6 (b) of RA No. 8291, or the GSIS Act of 1997 on the remittance of compulsory contributions, NIPSC remitted a total of P45.157 million to the GSIS in CY 2020 out of the total contributions including the beginning balance of P45.176 million. Details are presented in the table.
+
+
+
+Particulars
+
+Life & Retirement Premium
+
+Salary Loan
+
+Policy Loan
+
+Total
+
+Beginning balance, Jan. 1, 2020
+
+P        6,075.61                    
+
+P        8,275.71
+
+P           2,451.36
+
+P      16,802.68
+
+Add: contributions
+
+
+
+
+
+
+
+
+
+Regular Agency
+
+ 21,483,175.18 
+
+ 22,438,689.53 
+
+1,237,574.46 
+
+ 45,159,439.17 
+
+Subtotal
+
+ 21,483,175.18 
+
+ 22,438,689.53 
+
+1,237,574.46 
+
+ 45,159,439.17 
+
+Deduct: remittances
+
+
+
+
+
+
+
+
+
+Regular Agency
+
+ 21,476,276.76 
+
+ 22,440,312.93 
+
+1,240,025.82 
+
+45,156,615.51 
+
+Subtotal
+
+ 21,476,276.76 
+
+ 22,440,312.93 
+
+1,240,025.82 
+
+45,156,615.51 
+
+Ending Balance, Dec. 31, 2020
+
+P        12,974.03                    
+
+P        6,652.31
+
+P               0
+
+P    19,626.34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance with RA No. 9679 on Proper Deductions and Remittances of Pag-IBIG Fund Contributions and Short term Loan Amortizations
+
+
+
+In compliance with RA No. 9679, NIPSC remitted a total of P9.370 million to Pag-IBIG in CY 2020 out of the total contributions including the beginning balance of P9.379 million. Details are presented in the table.
+
+
+
+Particulars
+
+Premium
+
+Loan
+
+Total
+
+Beginning balance, Jan. 1, 2020
+
+P       8,539.80
+
+P                   0
+
+P       8,539.80
+
+Add: contributions
+
+
+
+
+
+
+
+Regular Agency
+
+ 3,992,841.37 
+
+ 5,061,671.04 
+
+ 9,054,512.41
+
+Income Generating Funds
+
+0
+
+0
+
+0
+
+Subtotal
+
+ 3,992,841.37 
+
+ 5,061,671.04 
+
+ 9,054,512.41
+
+Deduct: remittances
+
+
+
+
+
+
+
+Regular Agency
+
+ 3,993,513.05 
+
+ 5,061,671.04 
+
+ 9,055,184.09 
+
+Income Generating Funds
+
+ 0 
+
+ 0   
+
+ 0 
+
+Subtotal
+
+ 3,993,513.05 
+
+ 5,061,671.04 
+
+ 9,055,184.09 
+
+Ending Balance, December 31, 2020
+
+P       7,868.12
+
+P                   0
+
+P       7,868.12
+
+
+
+Audit Suspensions and Disallowances
+
+
+
+The Status of unsettled Suspensions, Disallowances and Charges issued as of December 31, 2020 are as follows:
+
+
+
+
+
+Beginning Balance
+
+As of Dec. 31, 2019
+
+This period 
+
+January 1 to 
+
+Dec. 31, 2020
+
+Ending Balance
+
+As of Dec. 31, 2020
+
+
+
+
+
+       NS/ND/NC
+
+    NSSDC
+
+
+
+
+
+Notice of Suspension
+
+
+
+P   556,336.24
+
+
+
+P  378,866.91
+
+
+
+
+
+P                 0
+
+
+
+P   935,203.15
+
+
+
+Notice of Disallowance
+
+
+
+998,896.15
+
+
+
+39,600.00
+
+
+
+
+
+117,397.55
+
+
+
+921,098.60
+
+Notice of Charge
+
+
+
+0
+
+
+
+0
+
+
+
+0
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+TOTAL
+
+P 1,555,232.39
+
+P 418,466.91
+
+P 117,397.55
+
+P 1,856,301.75
+
+
+
+The financial statements showed a balance of P0.856 million for Receivables- Disallowances/Charges. This consists of prior years’ booked disallowances with Notices of Finality of Decision (NFDs) and COA Orders of Execution (COEs) of P0.849 million and disallowances issued prior to RRSA of P6,316.83. The above figure of Notices of Disallowance (NDs) of P0.921 million includes all NDs with and without NFDs.
+
+45
+
+
+
+
+
+
+
+
+

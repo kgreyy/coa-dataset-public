@@ -1,0 +1,7656 @@
+
+
+
+
+
+
+PART II
+
+
+
+OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+Financial and Compliance
+
+
+
+Unreliable Cash in Bank-Local Currency, Current Account balance due to net understatement amounting ₱156,383,569.66
+
+
+
+1)		The year-end balance of the Cash in Bank-Local Currency, Current Account totaling ₱832,944,306.72 is understated by ₱156,383,569.66 because of the following deficiencies: (a) existence of abnormal balances in the aggregate amount of ₱48,904,280.49; (b) net understatement due to various errors totaling ₱28,276,274.24; and (c) net understatement due to unreconciled variance between the balances in the General Ledger (GL) and the book balance used in the Bank Reconciliation Statements (BRS) totaling  ₱79,203,014.93, all contrary to the pertinent provisions of Presidential Decree (PD) No. 1445 and Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, thus affecting the fair presentation of the financial statements.
+
+
+
+	1)		Pertinent sections of PD No. 1445, provide:
+
+
+
+SECTION 58. Audit of assets. - The examination and audit of assets shall be performed with a view to ascertaining their existence, ownership, valuation and encumbrances as well as the propriety of items composing the respective asset accounts; determining their agreement with records; proving the accuracy of such records; ascertaining if the assets were utilized economically, efficiently and effectively; and evaluating the adequacy of controls over the accounts.
+
+
+
+X x x
+
+
+
+SECTION 74. Monthly reports of depositories to agency head. - At the close of each month, depositories shall report to the agency head, in such form as he may direct, the condition of the agency account standing on their books.  The head of the agency shall see to it that a reconciliation is made between the balance shown in the reports and the balance found in the books of the agency.
+
+
+
+X x x
+
+
+
+	SECTION 111.	Keeping of accounts.
+
+	
+
+	(1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	2)		Pertinent sections of the GAM for NGAs, Volume I, provide:
+
+
+
+Chapter 19
+
+
+
+FINANCIAL REPORTING
+
+
+
+Sec. 6. Qualitative Characteristics of Financial Reporting.  An entity shall present information including accounting policies in a manner that meets the following qualitative characteristics enumerated in PPSAS 1:
+
+
+
+a)	xxx
+
+
+
+e. 	Reliability – reliable information is free from material error and bias, and can be depended on by users to represent faithfully that which it purports to represent or could reasonably be expected to represent.
+
+
+
+f.	Faithful representation – information to represent faithfully transactions and other events, it should be presented in accordance with the substance of the transactions and other events, and not merely their legal form.
+
+
+
+
+
+x x x
+
+
+
+
+
+Chapter 21
+
+
+
+BANK RECONCILIATION
+
+
+
+Sec. 5. Preparation of the Bank Reconciliation Statement. The Chief Accountant/Designated Staff shall within ten days from receipt of the monthly Bank Statement (BS) together with the paid checks, original copies of Debit Memoranda (DM)/Credit Memoranda (CM) from the GSB, reconcile the BS with the GL and prepare the BRS in four copies.
+
+
+
+	3)		As of December 31, 2020, the consolidated Cash in Bank-Local Currency, Current Account of the University reported a balance of P832,944,306.72 broken down as follows:
+
+
+
+Table 1.  Breakdown of Cash in Bank-Local Currency, Current Account (CIB - LCCA) balance as of Year-end
+
+Campus
+
+Regular Agency Fund (FC 01)
+
+Internally Generated Fund (FC 05)
+
+Business Related Fund (FC 06)
+
+Inter-Agency Transferred Funds (FC 07)
+
+Total
+
+Main
+
+₱ 57,349,932.63
+
+427,601,546.68
+
+45,545,785.58
+
+77,745,212.53
+
+₱608,242,477.42
+
+Tanauan
+
+(28,043,369.86)
+
+37,334,694.29
+
+759,451.40
+
+2,021,924.63
+
+12,072,700.46
+
+Burauen
+
+6,496,998.01
+
+301,442.31
+
+(43,581.63)
+
+(1,214,380.76)
+
+5,540,477.93
+
+Ormoc
+
+76,279,679.22
+
+97,067,129.27
+
+(463,598.06)
+
+11,005,246.71
+
+183,888,457.14
+
+Carigara 
+
+10,955,742.22
+
+14,188,677.69
+
+630,144.01
+
+(2,574,370.15)
+
+23,200,193.77
+
+Total CIB-LCCA
+
+₱123,038,982.22
+
+576,493,490.24
+
+46,428,201.30
+
+86,983,632.96
+
+₱832,944,306.72
+
+
+
+	4)		Audit of the Cash in Bank-Local Currency, Current Account balance as of year end disclosed the following deficiencies:
+
+
+
+	a.	Existence of abnormal balances totaling ₱48,904,280.49;
+
+
+
+	5)		The validation of the details of the GL on the Cash in Bank-Local Currency, Current Account balances of the Main and the External Campuses (Tanauan, Burauen, Ormoc and Carigara), revealed that there were negative balances totaling ₱48,904,280.49, itemized as follows:
+
+
+
+Table 2: CIB-LCCA Abnormal Balances as of December 31, 2020
+
+Campuses
+
+Fund Clusters (FC)
+
+Total
+
+
+
+FC 01-RAF
+
+FC 05-IGF
+
+FC 06-BRF
+
+FC 07-TRF
+
+
+
+Main
+
+-
+
+₱113,360.07
+
+-
+
+₱39,570.79
+
+₱     152,930.86
+
+Tanauan
+
+28,043,369.86
+
+-
+
+-
+
+-
+
+28,043,369.86
+
+Burauen
+
+-
+
+-
+
+89,851.72
+
+1,214,380.76
+
+1,304,232.48
+
+Ormoc
+
+-
+
+1,735,991.07
+
+463,598.06
+
+-
+
+2,199,589.13
+
+Carigara
+
+14,629,788.01
+
+-
+
+-
+
+2,574,370.15
+
+17,204,158.16
+
+Total
+
+₱42,673,157.87
+
+₱1,849,351.14
+
+₱553,449.78
+
+₱3,828,321.70
+
+₱48,904,280.49
+
+
+
+	6)		During the audit, it was noted that the causes of the existence of abnormal balances were due to the erroneous posting of the transactions in their respective GL as maintained in the Main Campus.  Likewise, disbursements during the year exceeded the receipts, and there were negative beginning balances as shown in Table 3.
+
+
+
+
+
+Table 3: Analysis of the causes of the existence of abnormal balances
+
+Fund Clusters/ Campuses
+
+Analysis
+
+REGULAR AGENCY FUND (RAF)
+
+Tanauan (CIB-LCCA DPB)
+
+		₱28,043,369.86
+
+Error in posting GJ#01-2020-12-0543 for the correction of the errors made in March 2020. The attempt to correct the error made another error was committed resulting in the existence of the negative balance.
+
+The above error understates the CIB LCCA DBP Acct by ₱28,483,964.21, and requires adjustment.
+
+Carigara (CIB-LCCA LBP)
+
+		₱14,629,788.01
+
+The negative beginning balance of (₱13,916,152.13) was increased by (₱713,635.88), which was due to the total disbursements of ₱24,871,885.34 that exceeded the total receipts of ₱24,158,249.46 both for CY 2020, hence, the ending balance increased to a negative ₱14,629,788.01
+
+INTERNALLY GENERATED FUNDS (IGF)
+
+Main (CIB-LCCA LBP)
+
+		₱113,360.07
+
+The negative beginning balance of ₱114,670.83 was reduced by ₱1,310.76 by the recording of interest income per GJ#05-2020-01-0047, but no other transactions were recognized affecting the account.
+
+Ormoc (CIB-LCCA LBP)    
+
+		₱1,735,991.07
+
+Pertains to the beginning balance, no transactions were made during the year to adjust this balance.
+
+BUSINESS RELATED FUNDS (BRF)
+
+Burauen (CIB-LCCA DBP)
+
+		₱89,851.72
+
+Pertains to the beginning balance, and no transactions were made during to the year to adjust the balance.
+
+Ormoc (CIB-LCCA DBP)
+
+		₱463,598.06
+
+Initially reporting a negative beginning balance of ₱621,987.45 which was reduced by ₱158,389.39, the difference between the total receipts of ₱475,095.41 and the total disbursements of ₱316,706.02 both during CY 2020.
+
+TRUST RECEIPT FUNDS (TRF)
+
+Main (CIB-LCCA LBP)
+
+		₱39,570.79
+
+The negative beginning balance of ₱30,721.19 was increased by ₱8,849.60, due to the credit during the year (adjustments to correct on the erroneous posting of interest income to CIB-LCCA DBP through GJ#07-2020-01-0021 and 07-2020-01-0022 in the amount of ₱9,408.34 and ₱7,657.26 respectively with an aggregate amount ₱17,065.60) exceeded the total debits of ₱8,216.00 which pertains to interest income reported during CY 2020.
+
+Burauen (CIB-LCCA LBP)
+
+		₱1,214,380.76
+
+The negative beginning balance of ₱803,860.76 was increased by ₱410,520.00, resulted from the total disbursements of ₱11,797,440.00 which exceeded the total receipts of ₱11,386,920.00 during the year.
+
+Carigara 
+
+		  ₱2,574,370.15
+
+
+
+CIB-LCCA DBP     ₱    748,751.77
+
+
+
+
+
+CIB-LCCA LBP     ₱1,825,618.38
+
+
+
+
+
+Total                             ₱2,574,370.15
+
+
+
+
+
+
+
+Pertains to the beginning balance of the account, and no transactions were recorded for CY 2020.
+
+
+
+The negative beginning balance of ₱2,224,070.12 was reduced by ₱398,451.74, which is the difference between the total receipts of ₱15,882,272.75 and the total disbursements of ₱15,483,821.01 both for CY 2020.
+
+TOTAL: ₱48,904,280.49
+
+
+
+	7)		Further, there are no disclosures in the Notes to Financial Statements explaining these negative balances.
+
+	8)		The existence of these negative balances has reduced the normal balance of the Cash in Bank-Local Currency, Current Account, thereby rendering the account balance presented in the financial statements unreliable.
+
+
+
+	b.	Various misstatements totaling ₱29,349,095.30
+
+
+
+	9)		Analysis of the transactions posted in the GL as traced to their original Journal Entry Vouchers (JEVs) and their supporting documents revealed the following misstatements:
+
+
+
+Table 4: Summary of Various Misstatements in the Books of the Accounting Section
+
+Error/Misstatements
+
+(Verification/ Validation Results)
+
+Remarks
+
+(Effect)
+
+Particular
+
+Amount
+
+
+
+REGULAR AGENCY FUNDS
+
+Tanauan Campus
+
+Error in posting GJ# 01-2020-12-0543: To correct erroneous posting of adjusting journal entry made on March 31, 2020 ;with a debit to Accumulated Surplus (Deficit)
+
+₱28,483,964.21
+
+This error understates the CIB LCCA DBP Acct by ₱28,483,964.21 and was not corrected as of December 31, 2020, requires adjustment (see comment in table 3 above, under RAF Tanauan Campus)
+
+Burauen Campus
+
+Overstated in Recording Check Disbursements for the Month of December 31, 2020 per ChkDJ#01-2020-12-0478. RCI Report#2020-12-0012 total check disbursed Php1,198,514.65, 
+
+
+
+Check#58912146 12.29.2020
+
+recorded as  ₱ 87,886.35
+
+should be        87,748.15
+
+difference             138.20
+
+138.20
+
+This error understates the CIB LCCA balance by ₱138.20
+
+Ormoc Campus
+
+Understated in recording for the ADA Disbursement in September 2020 per ADADJ#01-2020-09-0367, should be ₱1,296,940.26 per RADAI Report#009-09-2020 RAF but was credited as 1,296,600.26.
+
+
+
+should be      ₱1,296,940.26
+
+recorded as     1,296,600.26
+
+difference                      340.00
+
+(340.00)
+
+Overstates the CIB LCCA balance by ₱340.00
+
+INTERNALLY GENERATED FUNDS 
+
+Burauen Campus
+
+
+
+
+
+1.  Understated in recording deposits for July 2020 per CRJ#05-2020-07-0277, recorded us ₱32,369.00 instead of ₱32,369.60 as verified vis a vis Bank Statement July 2020 DBP Acct#0775017381030
+
+.60
+
+Understates the CIB LCCA balance by ₱.60
+
+2.  Unrecorded tax remittance for the month of July 2020 per validated eFPS Payment charged to Burauen DBP account.
+
+(2,250.80)
+
+Overstates the CIB LCCA balance by ₱2,250.80
+
+Carigara Campus
+
+1.  Unrecorded Check Disbursements of March 2020 per RCI Report No. 2 0 2 0 -03-003, in the amount of ₱531,108.93 per SL and March 2020 RCI and ChkDJ prepared by the Carigara Campus for the month of March 2020 (Check#s230547 to 230618)
+
+(531,108.93)
+
+Overstates the CIB-LCCA LBP Account balance and understates expenses which resulted to an overstatement of Accumulated Surplus at the end of the CY 2020, in the amount of ₱531,108.93
+
+2.  ChkDJ#05-2020-03-0121: To record check disbursement for the month of March 2020 with check nos. 230547 to 230618, however the data and amount contained are the expenses of April 2020, resulted in the double entry of April 2020 disbursements
+
+328,581.76
+
+Understates the CIB LCCA balance and overstates the expenses account both by ₱328,581.76 eventually understating the Accumulated Surplus at the end of CY 2020.
+
+BUSINESS RELATED FUNDS
+
+Burauen Campus
+
+Error in recording Check disbursements for Check# 977891 for the month of January 2020 with RCI No. 2020-01-0001 per ChkDJ#06-2020-01-0001
+
+
+
+Should be      ₱6,615.63
+
+Recorded as     6,615.03
+
+Difference                .60
+
+
+
+verified against the bank statements for LBP December 2020 1732101442
+
+(.60)
+
+Overstate CIB LCCA balance by ₱.60
+
+Carigara Campus
+
+Unrecorded June 2020 Check Disbursements per RCI June 2020 in the amount of ₱2,710.20
+
+(2,710.20)
+
+Overstates CIB-LCCA LBP and understates expenses which eventually overstates the Accumulated Surplus at the end of CY 2020, all by ₱2,710.20
+
+Net Understatement
+
+₱28,276,274.24
+
+
+
+
+
+	c.	Net Understatement/Variances between the balance in the GL and the book balance used in BRS, ₱79,203,014.93;
+
+
+
+	10)		A comparison of the submitted BRS of the Tanauan and Ormoc Campuses with the balances of the book and the bank, resulted in a reconciliation of their balances after considering the reconciling items, which are common between the two records, i.e., deposit in transits, outstanding checks, unrecorded interest income and errors in the book, etc.
+
+
+
+	11)		Also, the book balance used in preparing the bank reconciliation statements was different from the balances in the books as represented by the GL, hence, there is a material net variance of ₱79,203,014.93 between the GL and the book balances used in the BRS, with details below:
+
+
+
+Table 5: Variance between the GL and the adjusted book balance in the BRS:
+
+CAMPUSES
+
+Book Balances as of December 31, 2020 as appearing in:
+
+Variance
+
+
+
+General Ledger----footnote1----
+
+BRS (adjusted)
+
+
+
+Tanauan
+
+		FC 01-RAF
+
+(₱28,043,369.86)
+
+₱       164,415.65
+
+(₱28,207,785.51)
+
+		FC 05-IGF
+
+37,334,694.29
+
+38,126,114.99
+
+(791,420.70)
+
+		FC 06-BRF
+
+759,451.40
+
+759,451.40
+
+0.00
+
+		FC 07-TRF
+
+2,021,924.63
+
+2,022,023.75
+
+(99.12)
+
+Sub-total
+
+(₱28,999,305.33)
+
+Ormoc
+
+		FC 01-RAF
+
+30,443,020.93
+
+732,180.87
+
+(29,710,840.06)
+
+		FC 05-IGF
+
+		29,479,783.86
+
+159,552,736.42
+
+130,072,952.56
+
+		FC 06-BRF
+
+(463,598.06)
+
+		1,147,305.89
+
+(1,610,903.95)
+
+		FC 07-TRF
+
+11,005,246.71
+
+1,554,135.00
+
+9,451,111.71
+
+Sub-total
+
+₱108,202,320.26
+
+Net Variance/Understatement
+
+₱79,203,014.93
+
+
+
+	12)		When the Audit Team inquired with the accountant of the Tanauan Campus as to the variances, the Accountant explained that the variances were due to the prior years’ balances, which were carried forward every year, the details of which were yet to be identified.
+
+
+
+	13)		Likewise, the bookkeeper of the Ormoc Campus explained that said variance was due to the transferring of all the cash in bank balances to one fund, the RAF.  They are still on the process in reconciling the account balances.
+
+
+
+	14)		For the balances of the Burauen and Carigara Campuses, the audit team could not ascertain the accuracy of their accounts because they did not submit the BRS for CY 2020 and from the previous years.
+
+
+
+	15)		To sum up, Cash in Bank-Local Currency, Current Account was understated by ₱156,383,569.66 due to the following:
+
+
+
+	a.	Abnormal balance
+
+₱  48,904,280.49
+
+	b.	Errors/Net understatement
+
+28,276,274.24
+
+	c.	Unreconciled book vs BRS balance
+
+79,203,014.93
+
+Total understatement 
+
+₱156,383,569.66
+
+
+
+	16)		The above conditions rendered the year-end book balance of the Cash in Bank-Local Currency, Current Account inaccurate and unreliable, thus, affecting the fair presentation of the accounts in the CY 2020 financial statements.
+
+	17)		We recommended that the University President require the Accountant and the Bookkeepers of the respective campuses to:
+
+
+
+a)		conduct the immediate tracing from the prior years’ records to identify the causes of the abnormal beginning balances as well as the discrepancies between the book balance as appearing in the GL, and the book balance used in the BRS; thereafter, prepare the correct journal entries to record the identified items that require adjustments;
+
+
+
+b)		undertake the recording of the identified errors and misstatements totaling ₱29,349,095.30 enumerated in Table 4 (par. 1.9 of this Report), and submit to the Audit Team the JEVs together with the supporting documents for validation and verification;
+
+
+
+c)		undertake the reconciliation of the various variances identified in Table 5; and
+
+
+
+d)		prepare and submit immediately the bank reconciliation statements (BRS) of the Burauen and the Carigara Campuses for CY 2020 and CYs 2018-2020, respectively, so that errors are reconciled the soonest.
+
+
+
+	18)		The Campus Director of EVSU Ormoc Campus commented that, “We are still in the process of conducting the tracing of our records from the prior years.  One of the main reasons for the occurrence of the abnormal beginning balance was due to the transferring of all cash in bank balances to the RAF and this made the other funds (IGF, BRF, TRF) understated while the RAF is being overstated.  Rest assured that we will fast track the tracing in order for us to identify the errors, misstatements and variances made in this account. We are going to make the necessary adjustments and submit it to the Audit Team for validation and verification of the supporting documents and entries made.”
+
+
+
+	19)		The Main Campus and the other external campuses have not yet given their comments on the observation.
+
+
+
+
+
+Net understatement in Receivables-Disallowances/Charges account balance, ₱1,152,415.16
+
+
+
+2)		The year-end Receivables-Disallowances/Charges account balance of the EVSU – Main and the External Campuses totaling ₱6,628,246.43 is understated by ₱1,152,415.16 due to:  a) errors in recording refunds made by the persons liable for disallowances amounting ₱970,147.08;  b) abnormal balances under the IGF books of the Ormoc Campus and the TRF books of the Main Campus amounting to ₱182,268.08, contrary to Section 111 of PD No. 1445, Sections 7.2.1(d) and 22.6 of COA Circular No. 2009-006, and pertinent provisions of the GAM for NGAs, Volume III.
+
+	1)		Section 111 of the PD No. 1445, states that:
+
+
+
+SECTION 111.  Keeping of accounts.
+
+
+
+	(1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+	
+
+	2)	Likewise, pertinent provisions of COA Circular No. 2009-006 are as follows:
+
+
+
+	Section 7.	Responsibilities for Audit and Settlement of Accounts
+
+
+
+X x x 
+
+
+
+	7.2	Responsibility of the Agency Accountant
+
+
+
+	7.2.1	The Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that:
+
+
+
+X x x
+
+
+
+d)	the disallowances and charges that have become final and executory as contained in the Notice of Finality of Decision (NFD) are recorded in the books of accounts, and settlements thereof under the NSSDC are dropped therefrom; and
+
+
+
+x x x
+
+
+
+	Section 22.	Notice of Finality of Decision (NFD)
+
+
+
+	X x x
+
+
+
+	22.6	The Chief Accountant shall, on the basis of the NFD, record in the books of accounts, the disallowance and/or charge as a receivable.
+
+
+
+	3)		Likewise, COA Circular No. 2020-01 dated January 8, 2020, prescribing Volume III- Revised Chart of Accounts (Updated 2019) for NGAs, describes the Receivables-Disallowances/Charges account, as follows:
+
+
+
+Account Title
+
+Account Number
+
+Normal Balance
+
+Description 
+
+Receivables-Disallowances/Charges 
+
+10399010
+
+Debit
+
+This account is debited to recognize the amount of disallowances/charges in audit due from public/private individuals/entities which have become final and executory. This account is credited for the settlement of disallowances/ charges. 
+
+
+
+	4)		Review of the Pre-Closing Trial Balance of the EVSU Campuses for CY 2020 shows that the Receivables-Disallowances/Charges account has a total balance of P6,628,246.43 as of December 31, 2020 with details in the table below:
+
+
+
+Table 6: Schedule of Receivables-Disallowances/Charges Account Balances of the EVSU Campuses
+
+Campus
+
+RAF
+
+IGF
+
+TRF
+
+Total
+
+EVSU-Main
+
+₱2,000,835.52
+
+₱    316,773.86
+
+₱(27,626.08)
+
+₱ 2,289,983.30
+
+EVSU-Tanauan
+
+-
+
+3,706,734.29
+
+-
+
+3,706,734.29
+
+EVSU-Burauen
+
+.01
+
+735,000.00
+
+-
+
+735,000.01
+
+EVSU-Carigara
+
+-
+
+51,170.83
+
+-
+
+51,170.83
+
+EVSU-Ormoc
+
+(154,492.00)
+
+-
+
+(150.00)
+
+(154,642.00
+
+Total
+
+₱1,846,343.53
+
+₱ 4,809,678.98
+
+₱(27,776.08)
+
+₱6,628,246.43
+
+
+
+	5)		However, reconciliation of the records of the disallowances issued by the Audit Team revealed that the outstanding unsettled balance as of December 31, 2020 for all the EVSU campuses amounted to ₱6,825,283.44.
+
+
+
+	6)		Review of the CY 2020 GLs for the different EVSU campuses disclosed that the Receivables-Disallowances/Charges account was credited for payments made by the persons liable for their disallowances totaling ₱970,147.08 although there were no Notices of Settlement of Suspensions, Disallowances and Charges (NSSDCs) issued by COA to support these deductions from the account, thus understating the account balance by the same amount.  The details of these deductions are shown in Table 7.
+
+
+
+
+
+
+
+
+
+Table 7: Schedule of CY 2020 Erroneous Credits to the Receivables-Disallowances/Charges Account
+
+Campus
+
+FC
+
+Reference
+
+JEV No.
+
+Amount Credited to the Receivables-Disallowances / Charges Account
+
+Main
+
+01 (RAF)
+
+CRJ
+
+01-2020-01-0018
+
+₱      66,952.66 
+
+
+
+
+
+CRJ
+
+01-2020-05-0210
+
+26,400.00 
+
+
+
+
+
+CRJ
+
+01-2020-06-0275
+
+26,400.00
+
+
+
+
+
+CRJ
+
+01-2020-07-0296
+
+6,600.00
+
+
+
+
+
+CRJ
+
+01-2020-08-0333
+
+6,600.00
+
+
+
+
+
+CRJ
+
+01-2020-09-0397
+
+6,600.00
+
+
+
+
+
+CRJ
+
+01-2020-10-0414
+
+6,600.00
+
+
+
+
+
+CHDJ
+
+01-2020-11-0438
+
+168,340.00
+
+
+
+
+
+CRJ
+
+01-2020-12-0498
+
+13,200.00
+
+
+
+
+
+Prior Years Per SL
+
+
+
+11,045.20
+
+
+
+
+
+Total for RAF
+
+
+
+338,737.86
+
+
+
+05 (IGF)
+
+CRJ
+
+05-2020-01-0021
+
+4,253.28 
+
+
+
+
+
+
+
+05-2020-05-0198
+
+10,066.60 
+
+
+
+
+
+
+
+05-2020-06-0256
+
+4,000.00 
+
+
+
+
+
+ADADJ
+
+05-2020-06-0228
+
+10,051.95
+
+
+
+
+
+CRJ
+
+05-2020-06-0256
+
+4,000.00
+
+
+
+
+
+CRJ
+
+05-2020-10-0392
+
+10,833.32
+
+
+
+
+
+Prior Years per SL
+
+
+
+217,604.86
+
+
+
+
+
+Total for IGF
+
+
+
+260,810.01
+
+
+
+07 (TRF)
+
+Prior Years per SL
+
+
+
+70,847.04
+
+
+
+Total for Main Campus
+
+₱   670,394.91  
+
+Carigara
+
+05 (IGF)
+
+CRJ
+
+05-2020-01-0023
+
+₱     39,000.00
+
+
+
+
+
+
+
+05-2020-05-0200
+
+3,000.00
+
+
+
+
+
+
+
+05-2020-07-0278
+
+38,825.17
+
+
+
+
+
+
+
+05-2020-08-0313
+
+6,000.00
+
+
+
+
+
+
+
+05-2020-09-0343
+
+3,000.00
+
+
+
+
+
+
+
+05-2020-09-0433
+
+4.00
+
+
+
+
+
+Total for IGF
+
+
+
+₱     89,829.17
+
+
+
+Total for Carigara Campus
+
+₱     89,829.17  
+
+Tanauan
+
+IGF
+
+CRJ
+
+05-2020-09-0344
+
+₱     95,117.00
+
+
+
+
+
+CRJ
+
+05-2020-10-0395
+
+31,739.00
+
+
+
+
+
+CRJ
+
+05-2020-11-0434
+
+34,799.00
+
+
+
+
+
+CRJ
+
+05-2020-12-0486
+
+48,268.00
+
+
+
+
+
+Total for IGF
+
+
+
+209,923.00
+
+
+
+Total for Tanauan Campus
+
+₱   209,923.00
+
+Grand Total
+
+₱970,147.08 
+
+
+
+	7)		These errors have understated the account for Receivables – Disallowances/Charges as of December 31, 2020 by ₱970,147.08.
+
+
+
+	8)		Furthermore, the presence of abnormal balances in the aggregate amount of ₱182,268.08 was noted, broken down as follows:
+
+Main Campus
+
+TRF
+
+₱     (27,626.00)
+
+Ormoc Campus
+
+RAF
+
+ (154,492.00)
+
+
+
+TRF
+
+	(       150.00)
+
+Total
+
+
+
+₱   (182,268.08)
+
+
+
+	9)		These negative balances are abnormal balances for the account whose normal presentation in the ledgers should be in positive amounts.  Any deviations should therefore be investigated and reconciled.  The Accountant explained the negative balances as pertaining to prior years’ balances that have remained unreconciled.
+
+
+
+	10)		In summary, the total understatement of Receivables-Disallowances and Charges, is computed as follows:
+
+
+
+Recorded Settlements without NSSDC
+
+₱   970,147.08
+
+Abnormal Balances
+
+186,268.08
+
+Total Understatement
+
+₱1,152,415.16
+
+
+
+	11)		All these irregularities affect the reliability and accuracy of the balances of the Account Receivables – Disallowances/Charges and the fair presentation of the account in the financial statement as of year end.
+
+
+
+	12)		We recommended that the University President direct the Campus Directors of the various EVSU campuses to require their Accountants to:
+
+
+
+a)	prepare the adjusting journal entries to correct the erroneous recording of credits to the Receivables-Disallowances/Charges account;
+
+
+
+b)	record credits and deductions to the Receivables - Disallowances/Charges account only when these are supported by NSSDC issued to acknowledge payments and settlements, 
+
+
+
+c)	investigate and reconcile the cause for the abnormal balances of the Main and the Ormoc campus, and make the corresponding adjustments where necessary.
+
+
+
+	13)		The Management commented that the Accountants of the Main and External Campuses are on the process of investigation and reconciliation of the Receivables-Disallowances/Charges account, and shall prepare adjusting entries to correct the balances of the account especially those funds with abnormal balances.
+
+
+
+	14)		The Audit Team emphasizes that recording of credits and deductions to the Receivables - Disallowances/Charges account shall be based only on NSSDC issued by COA.  Management is requested to submit to COA the JEVs and supporting documents corresponding to the adjustment that will be made for timely verification and validation.
+
+
+
+Inaccurate and unreliable Other Receivables Account balance due to unsubstantiated balance, ₱4,654,680.68; unrecorded payment, ₱201,510.99
+
+
+
+3)		The year-end balance of the Other Receivables account amounting to ₱6,306,661.23 is inaccurate and unreliable due to: a) the unsubstantiated aggregate beginning balance of ₱4,654,680.68 consisting of ₱4,654,556.89 and ₱123.79 under the Regular Agency Fund (FC-01 RAF) and Internally Generated Fund (FC-05 IGF), respectively; and b) an unrecorded payment/settlement totaling ₱201,510.99, contrary to Sections 111 and 112 of PD 1445; and Section 6, Chapter 19 of the GAM for NGAs, Volume I.
+
+
+
+	1)		Sections 111 and 112 of PD No. 1445 provide:
+
+
+
+SECTION 111.  Keeping of accounts.
+
+
+
+	(1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+Section 112. Recording of financial transactions. Each government agency shall record its financial transactions and operations conformably with generally accepted accounting principles and in accordance with pertinent laws and regulations
+
+
+
+	2)		Likewise,  Section 6 of Chapter 19 of the GAM for NGAs, Volume I, pertinently provides:
+
+
+
+Sec. 6. Qualitative Characteristics of Financial Reporting. An entity shall present information including accounting policies in a manner that meets the following qualitative characteristics enumerated in PPSAS 1:
+
+
+
+x x x 
+
+
+
+e.	Reliability – reliable information is free from material error and bias, and can be depended on by users to represent faithfully that which it purports to represent or could reasonably be expected to represent.
+
+
+
+f.	Faithful representation – information to represent faithfully transactions and other events, it should be presented in accordance with the substance of the transactions and other events, and not merely their legal form.
+
+
+
+x x x
+
+
+
+	3)		The year-end balance of the Other Receivables account reported an aggregate amount of ₱6,306,661.23, the details of which are shown below:
+
+
+
+Table 8: Other Receivables balances per GL as of December 31, 2020
+
+Fund Clusters (FC)
+
+Balances maintained in the respective campuses’ books
+
+
+
+Main
+
+Tanauan
+
+Burauen
+
+Total
+
+FC-01 RAF
+
+₱6,104,283.57
+
+₱174,421.79
+
+₱14,205.04
+
+₱6,292,910.40
+
+FC-05 IGF
+
+13,627.00
+
+-
+
+123.79
+
+13,750.79
+
+FC-07 TRF
+
+0.03
+
+-
+
+.01
+
+0.04
+
+Total
+
+₱6,117,910.60
+
+₱174,421.79
+
+₱14,328.84
+
+₱6,306,661.23
+
+
+
+	4)		Audit of the above balance vis-a-vis the submitted Subsidiary Ledgers (SLs) and supporting documents disclosed the following:
+
+
+
+a)	the beginning balance of ₱4,654,680.68, consisting of ₱4,654,556.89 under RAF (FC-01 RAF) and ₱123.79 under the IGF (FC-05 IGF), is unsubstantiated
+
+
+
+	5)		Verification of the documents submitted by the Accounting Section revealed that the aggregate beginning balance of the account reported at ₱4,654,680.68 was not supported with documents as basis for recording the transactions, and the deficiency was not disclosed in the notes to financial statements.  The beginning balance is itemized below:
+
+
+
+Table 9: Beginning Balances per General Ledgers as of December 31, 2020
+
+Fund Cluster (FC)
+
+Maintained in the respective books of:
+
+Total
+
+
+
+Main
+
+Burauen
+
+
+
+FC-01 RAF
+
+₱4,640,351.85
+
+₱14,205.04
+
+₱4,654,556.89
+
+FC-05 IGF
+
+-
+
+123.79
+
+123.79
+
+Total
+
+₱4,640,351.85
+
+₱14,328.83
+
+₱4,654,680.68
+
+
+
+	6)		Interview with the University Accountant disclosed that these amounts were balances from the prior years which they are still trying to reconcile so that they can determine the details of the account.  The SLs were maintained only in CY 2019 in compliance with the audit recommendations of the Audit Team.
+
+
+
+	7)		Unless the reconciliation is undertaken, there is no way of knowing whether these beginning balances are fairly and accurately presented.
+
+
+
+b)	unrecorded payments and settlement totaling ₱201,510.99
+
+
+
+	8)		Review of the supporting documents submitted during the year also showed that an aggregate amount of ₱201,510.99 identified as settlement for other recorded payments were not recorded in the accounting books of the Main Campus as detailed below:
+
+
+
+Table 10.  Payment Made to Other Government Agencies not Recorded in the GL
+
+Fund Clusters
+
+Amount per Campus
+
+Remarks
+
+FC 01-RAF
+
+		Main  
+
+₱ 201,510.99
+
+This is a remittance made to the National Treasury last June 19, 2019 under DBP Check No.  0058911901 of the Burauen Campus to return unused funding requirements for FY 2018.  The transaction was inadvertently not posted in the GL.
+
+
+
+	9)		Ideally, the unexpended allotment from each external campus is to be returned to the Main Campus for remittance to the National Treasury.  In this case, the Burauen Campus remitted directly the amount of their unexpended allotment of ₱201,510.99 to the Bureau of Treasury (BTr), and proof of remittance was furnished to the Main campus.  While the EVSU Burauen campus recorded the remittance, the Main Campus did not.
+
+
+
+	10)		The above unrecorded transaction has resulted in an overstatement of the account balance of Other Receivables amounting to ₱201,510.99.
+
+
+
+	11)		During the audit, it was also noted that the submitted Consolidated Status of Other Receivables as of December 31, 2020 reported a balance of  ₱5,191,502.91 but was  understated by ₱1,115,158.42 as reported under the Main and Burauen Campuses, as discussed in detail below:
+
+
+
+Table 11.  Schedule of Variances between the General Ledger Account and the Other Reports
+
+Fund Clusters/ Campuses
+
+Balances per:
+
+Variance
+
+Remarks
+
+
+
+General Ledger
+
+Status of Other Receivables
+
+
+
+
+
+FC 01-RAF
+
+Main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanauan
+
+Burauen
+
+
+
+₱6,104,283.57
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+174,421.79
+
+4,205.04
+
+6,292,910.40 
+
+₱5,002,752.19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   74,421.79
+
+___14,205.04
+
+5,191,379.02
+
+₱1,101,531.38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.00
+
+0.00
+
+1,101,531.38
+
+	1.)	The JEV drawn last September 30, 2020 to credit the account amounting to ₱201,510.99 as prior period adjustment made by the remittance of Burauen Campus to BTr for the unused funding requirements for FY 2018 was inadvertently not posted in the GL, this amount was deducted in the Status of Other Receivables report but not posted in the GL; hence, balance is overstated by ₱201,510.99.
+
+	2) 	a debit amounting to ₱900,020.39 for the unreturned unused funding requirements for CY 2020 of the external campuses have been recorded in the GL as Other Receivables, but not reported in the Status of Other Receivables Report.
+
+
+
+No Variance
+
+No Variance
+
+FC 05-IGF
+
+Main
+
+
+
+
+
+
+
+
+
+
+
+Tanauan
+
+Burauen
+
+13,627.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.00
+
+123.79
+
+13,750.79
+
+0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.00
+
+23.79
+
+123.79
+
+13,627.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.00
+
+13,627.00
+
+The recognition of Other Receivables on the overpayment of reimbursements was posted in the GL but not reported in the Status of Other Receivables report in the amount of ₱13,627.00.
+
+
+
+No Variance
+
+FC 07-TRF
+
+Main
+
+
+
+Burauen
+
+0.03
+
+
+
+
+
+0.01
+
+0.04
+
+0.00
+
+
+
+
+
+0.00
+
+0.00
+
+0.03
+
+
+
+
+
+0.01
+
+0.04
+
+
+
+These amounts pertain to the overpayment to supplier of goods which were reported as paid/settled in the Status of Other Receivables. However, our validation showed that no payment was received for the settlement of the said balance.
+
+Total
+
+₱6,306,537.44
+
+₱5,191,502.81
+
+₱1,115,158.42
+
+
+
+
+
+	The unsubstantiated beginning balance of ₱4,654,680.68 and the unrecorded settlement of ₱201,510.99 cast doubt on the validity and accuracy of the Other Receivables year-end balance.
+
+
+
+	12)		We recommended that the University President require the Accounting Office to:
+
+
+
+a.	trace the records and the supporting documents pertaining to the amount booked as Other Receivables in the aggregate amount of ₱4,654,680.68 so that the beginning balance is adequately substantiated;
+
+
+
+b.	prepare the necessary journal entries to record the remittances made by the Burauen Campus to the National Treasury in the amount of ₱201,510.99; and
+
+
+
+c.	submit all the JEVs and supporting documents to COA for validation.
+
+
+
+	13)		The University Accountant commented that the balances from prior years are ongoing reconciliation and shall continue to be investigated to be able to determine the accounts included in the beginning balance of ₱4,654,680.68.
+
+
+
+	14)		While Management accepted the audit recommendation, it has yet to set target dates when the verification and reconciliation of the account shall be completed. Thus, the Audit Team requests that copy of the JEVs on the adjustments to be made as a result of the reconciliation be submitted to COA for timely audit.
+
+
+
+
+
+Unreliable year-end balance of the Inventory Held for Consumption due to existence of variance between accounting records and RCPI, ₱71,744,741.84
+
+
+
+4)		The existence and accuracy of the year-end balances of the Inventory Held for Consumption and Semi – Expandable accounts totaling ₱91,648,369.30 are doubtful due to the following deficiencies: (a) the existence of variances between the balances of the accounting records and of the Report on the Physical Count of Inventories (RPCI) amounting to ₱71,744,741.84; (b) failure to conduct reconciliation of records between the Accounting Office and the Property Management Office (PMO); (c) failure to maintain Supplies Ledger Cards (SLCs) and Stock Cards (SCs) by the Accounting Office and the PMO, respectively; and (d) the erroneous recording of Property, Plant and Equipment (PPE) items as inventories, amounting to ₱409,171.00.  Moreover, the RPCIs submitted include semi-expendable items that have already been issued to end-users, and PPE items that were reported as inventories.
+
+
+
+	1)		Section 111 of PD No. 1445 provides:
+
+
+
+SECTION 111.  Keeping of Accounts.
+
+
+
+	(1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	2)		Section 15, Chapter 2, Chapter 8 and Chapter 10 of the GAM Volume I, provide:
+
+
+
+Chapter 2
+
+
+
+GENERAL PROVISIONS, BASIC STANDARDS AND POLICIES
+
+
+
+x x x
+
+
+
+Sec. 15. Fair Presentation. The FSs shall present fairly the financial positions, financial performance and cash flows of an entity.  Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue and expenses set out in the PPSAS.  The application of PPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.
+
+
+
+
+
+Chapter 8 
+
+
+
+INVENTORIES
+
+
+
+Sec. 13. Inventory Accounting System. 
+
+
+
+x x x
+
+
+
+Physical count/inventory, which is required semi-annually, is an indispensable procedure for checking the integrity of property custodianship. (underscoring ours)
+
+
+
+Sec. 17. Records, Forms and Reports to be prepared and/or maintained.  The following records, forms and reports are prescribed for use: 
+
+
+
+	X x x
+
+
+
+	b.	Stock Card (SC) (Appendix 58) – shall be used to record all receipts and issues of supplies and the balance in quantity at any time. It shall be maintained by the Property and/or Supply Division/Unit for each item in stock. The IAR, RIS, PO and DR serve as the original sources of information for making entries on the card.
+
+
+
+	c.	Supplies Ledger Card (SLC) (Appendix 57) – shall be used to record materials received, issued and the balance both in quantity and amount at any time. It shall be maintained by the Accounting Division/Unit for each kind of supplies and materials. The IAR, RIS, RSMI, PO and DR serve as the original sources of information for making entries on the card. 
+
+X x x
+
+
+
+	i.	Report on the Physical Count of Inventories (RPCI) (Appendix 66) – shall be used to report the physical count of supplies by type of inventory as at a given date. It shows the balance of inventory items per card and per count and shortage/overage, if any. These include the semi-expendable property wherein the issue is covered by ICS. 
+
+
+
+
+
+x x x
+
+
+
+Chapter 10
+
+
+
+PROPERTY, PLANT AND EQUIPMENT
+
+
+
+X x x 
+
+
+
+Sec. 3. Criteria for Recognition. The cost of an item of PPE shall be recognized as assets if, and only if: 
+
+
+
+X x x
+
+
+
+	e.	it meets the capitalization threshold of ₱15,000.
+
+
+
+	3)		The Inventory accounts of EVSU reported a combined balance of ₱91,648,369.30 as of year end, with details in Table 12:
+
+
+
+Table 12.  Details of Inventory Accounts as of December 31, 2020
+
+
+
+
+
+Inventory Held for Consumption
+
+Semi-Expendable Machinery & Equipment
+
+Semi-Expendable Furniture, Fixture & Books
+
+Total
+
+Balance per books, December 31, 2020
+
+₱80,206,169.26
+
+5,517,088.54
+
+5,925,111.50
+
+₱91,648,369.30
+
+
+
+	4)		Audit of the transactions, records and reports submitted for the year revealed the following deficiencies:
+
+
+
+a)	Variances between the Accounting Records and the RPCI, ₱71,744,741.84
+
+
+
+	5)		The balance per books and the total RPCI of all campuses showed a variance of ₱71,744,741.84, with the computation shown in Table 13.
+
+
+
+Table 13.  Comparison of Book balances and RPCI
+
+Campuses
+
+Per Books
+
+Per RPCI
+
+Variance
+
+Remarks
+
+Main
+
+Inventory Held for Consumption
+
+₱45,851,839.82
+
+
+
+132,605.00
+
+₱45,719,234.82
+
+This is a substantial variance and the fact that this is not adequately disclosed in the Notes to FS affects the fair presentation of accounts in the FS
+
+Semi-Expendable Machinery & Equipment
+
+3,706,371.00
+
+
+
+-
+
+3,706,371.00
+
+All semi-expendable items are immediately issued to end users hence no balance remaining at the PMO; these are substantial discrepancies and should be addressed immediately
+
+Semi-Expendable Furniture, Fixture & Books
+
+5,505,709.00
+
+-
+
+5,505,709.00
+
+
+
+Total
+
+-
+
+-
+
+₱54,931,314.82
+
+
+
+Ormoc
+
+Inventory Held for Consumption
+
+₱15,272,375.33
+
+354,759.80
+
+₱14,917,615.53
+
+This is a substantial variance and the fact that this is not adequately disclosed in the Notes to FS affects the fair presentation of accounts in the FS
+
+Semi-Expendable Machinery & Equipment
+
+324,669.39
+
+-
+
+324,669.39
+
+RPCI for Semi-Expendable Items reported a balance of ₱5,629,096.06 for SE-Machinery & Equipment and ₱5,717,677.70 for SE-Furniture, Fixture & Books. However, review & verification of the report showed that the items reported therein were already issued to end users, hence, should be considered as expense and should not be part of the inventory on hand.
+
+Semi-Expendable Furniture, Fixture & Books
+
+423,883.90
+
+-
+
+423,883.90
+
+
+
+Total
+
+-
+
+-
+
+₱15,666,168.82
+
+
+
+Carigara
+
+Inventory Held for Consumption
+
+₱4,282,816.77
+
+-
+
+
+
+No inventory report submitted.
+
+Semi-Expendable Machinery & Equipment
+
+1,022,874.20
+
+-
+
+1,022,874.20
+
+RPCI for Semi-Expendable Items reported a balance of ₱1,792,651.25 for SE-Machinery & Equipment and ₱1,181,185.00 for SE-Furniture, Fixture & Books. However, review & verification of the report showed that the items reported therein were already issued to end users, hence, should be considered as expense and should not be part of the inventory on hand.
+
+Semi-Expendable Furniture, Fixture & Books
+
+22,700.00
+
+-
+
+22,700.00
+
+
+
+Total
+
+
+
+
+
+₱ 1,045,574.20
+
+
+
+Tanauan
+
+Inventory Held for Consumption
+
+₱7,669,963.05
+
+-
+
+
+
+No inventory report submitted.
+
+Semi-Expendable Machinery & Equipment
+
+101,684.00
+
+-
+
+01,684.00
+
+RPCI for Semi-Expendable Items reported a balance of ₱6,461,828.42.  No classification as to SE-Machinery & Equipment or SE-Furniture, Fixture & Books.  However, review & verification of the report showed that the items reported therein were already issued to end users, hence, should be considered as expense and should not be part of the inventory on hand.
+
+Semi-Expendable Furniture, Fixture & Books
+
+(172,596.00)
+
+-
+
+-
+
+
+
+Total
+
+-
+
+-
+
+₱     101,684.00
+
+
+
+Total Variance
+
+
+
+₱71,744,741.84
+
+
+
+
+
+	6)		Further verification by the Audit Team revealed that the variances were attributed to the following:
+
+
+
+1)		Balances in substantial amounts have been carried forward from the prior years and have remained unaccounted for and unreconciled.
+
+
+
+The accountants of the different campuses informed the Audit Team that the substantial amount of variances is due to large amounts of unaccounted beginning balances that have been carried in the books from the prior years and reconciliation thereof is still ongoing.  The balances were already there in the books even before they assumed office as accountants.
+
+
+
+2)		Semi-Expendable properties for undetermined amounts issued to end users were not recorded in the books because the Property Management Officer (PMO) failed to issue Report of Supplies and Materials Issued (RSMI) for the issuance of these properties.
+
+
+
+The PMO of the Main Campus admitted that they did not prepare RSMI for the issuance of the semi-expendable properties to end users because they had no idea that they were supposed to accomplish these forms.  The non-preparation of RSMI for the issuance of the semi-expendable properties prevented the accounting office from recording the issuance of the same, that thereby aggravated the variance between the accounting records and the RPCI.
+
+
+
+b)	Non-reconciliation of the accounting and the property records.
+
+
+
+	7)		The Accountants and the PMOs of the EVSU Main Campus and its external campuses, admitted the absence of the SLCs and the SCs, hence the difficulty in performing the reconciliation process.  The accountant of Tanauan Campus told the Audit Team that an attempt was made to reconcile the records but they found it difficult since it was hard to retrieve records of prior years due to inadequate filing.
+
+
+
+
+
+
+
+
+
+c)	Absence of SCs and SLCs
+
+
+
+	8)		Of the five campuses, only the Tanauan Campus maintained the SCs and SLCs.  The rest of the campuses did not maintain the SCs and SLCs.  Purchases and issuances were directly recorded/encoded in the computer.  The absence of the SCs and the SLCs rendered it difficult even more to to perform the reconciliation.
+
+	
+
+d)	Non-submission of RPCI
+
+
+
+	9)		The Carigara and the Tanauan Campuses failed to conduct physical count of Inventories Held for Consumption; while the Burauen Campus conducted the physical count but did not submit its report.  Thus, the existence of inventory properties of the three external campuses is doubtful.  The conduct of the physical count of inventory is an indispensable procedure for checking the integrity of property custodianship.
+
+
+
+e)	Erroneous recording of PPE as inventories 
+
+
+
+	10)		In addition, purchases made by the EVSU Main Campus revealed that payments totaling ₱88,400.00 were erroneously recorded as Other Supplies and Materials Inventory, instead of Other Equipment, the details of which are shown below:
+
+
+
+Table 14.  Erroneous Recording of Transactions
+
+Particulars
+
+ADA NO.
+
+Qty
+
+Unit Cost
+
+Amount
+
+Guitar Amplifier KCBDO 100-120 Watts
+
+2020-155 dated 3/9/20
+
+2
+
+₱29,400.00
+
+₱58,800.00
+
+Bass Amplifier100-120 Watts
+
+
+
+1
+
+29,600.00
+
+29,600.00
+
+Total
+
+
+
+
+
+
+
+₱ 88,400.00
+
+
+
+	11)		The above items should have been recorded as PPE since each item is worth more than the threshold of capitalization of ₱15,000.00 to be recognized as PPE.
+
+
+
+	12)		On the other hand, the semi-expendable property reported by the Tanauan Campus included items that should have been classified as PPE account instead of as semi-expendable because the cost of each item falls above the threshold of ₱15,000.00, the details of which are shown below:
+
+
+
+Table 15.  Erroneous Classification of Transactions
+
+Description
+
+Quantity
+
+Unit Cost
+
+Amount
+
+Internally Generated Fund (IGF)
+
+Filing Cabinet
+
+2
+
+₱17,000.00
+
+₱34,000.00
+
+Airconditioner
+
+1
+
+16,250.00
+
+16,250.00
+
+DSLR Camera Sony
+
+1
+
+22,999.00
+
+22,999.00
+
+Airconditioner 1.5 HP
+
+1
+
+18,750.00
+
+18,750.00
+
+Computer Desktop
+
+1
+
+20,500.00
+
+20,500.00
+
+Aircon
+
+1
+
+19,500.00
+
+19,500.00
+
+Corner Sala Set
+
+1
+
+16,700.00
+
+16,700.00
+
+Double Swing Door
+
+1 set
+
+27,000.00
+
+27,000.00
+
+Sub-total
+
+
+
+
+
+₱175,699.00
+
+Trust Fund
+
+Ref. Freezer with door Chiller
+
+1
+
+31,556.00
+
+₱63,112.00
+
+Drum Set Peal Series
+
+1 set
+
+25,000.00
+
+25,000.00
+
+Mixer 16 Channels
+
+1
+
+15,000.00
+
+15,000.00
+
+U15A
+
+2
+
+20,980.00
+
+41,960.00
+
+Sub-total
+
+
+
+
+
+₱145,072.00
+
+Grand Total
+
+
+
+
+
+₱320,771.00
+
+
+
+	13)		Thus, the above items should be reclassified and reported in the Report on Physical Count of Property Plant and Equipment.
+
+
+
+	14)		These errors overstate the balance of the Inventory accounts, and therefore have materially affected the fair presentation of the accounts in the financial statements for CY 2020.
+
+
+
+f)	Erroneous reporting in the RPCI the semi expendable properties already issued to end users.
+
+
+
+	15)		The Tanauan Campus, the Ormoc Campus and the Carigara Campus reported as part of their Inventory, several semi-expendable items that were already issued to end-users.  These semi-expendable properties therefore, should not form part of the inventory as of year end since they have already been issued, the details of which are shown in the table below:
+
+
+
+Table 16.  Semi-Expendable Items Issued to End-Users as of Year End
+
+Campus
+
+Regular Agency Fund
+
+Internally Generated Fund
+
+Business Related Fund
+
+Trust Receipts Fund
+
+All
+
+Fund
+
+Total
+
+Tanauan
+
+₱123,806.45
+
+₱3,955,264.97
+
+₱      0.00
+
+₱2,382,757.00
+
+
+
+₱6,461,828.42
+
+Ormoc
+
+-
+
+8,595,774.15
+
+82,869.00
+
+2,688,301.96 
+
+
+
+11,366,945.11
+
+Carigara 
+
+-
+
+-
+
+-
+
+-
+
+2,973,836.25----footnote2----
+
+2,973,836.25
+
+Total
+
+₱123,806.45
+
+₱12,551,039.12
+
+₱82,869.00
+
+₱5,071,058.96
+
+₱2,973,836.25
+
+₱20,802,609.78
+
+
+
+	16)		The semi-expendable properties should be expensed upon issuance to the end-users so that they do not overstate the balances of the Inventory accounts.
+
+
+
+	17)		The above mentioned deficiencies affected the accuracy of the year-end balances of the Inventory and the Semi-Expendable account balances reported in the financial statements.
+
+
+
+	18)		We recommended that the University President require the Accountants and the Supply Officers/Property Management Officers of the different EVSU campuses to:
+
+
+
+a.	strictly adhere to the provisions of Sections 13 and 17 of the GAM for NGAs, Volume I, to conduct a semestral physical count of inventories, and prepare the RPCI to check the existence of the recorded properties; to maintain the SCs and the SLCs and update recordings of purchases and issuances; and conduct periodic reconciliation between the Accounting Office and the Supply Office/Property Management Office;
+
+
+
+b.	reclassify the semi-expendable properties amounting to P409,171.00 to their proper account for PPE Account, and compute the necessary depreciation for each in conformity with the provisions of Chapter 10 of the GAM for NGAs, Volume I;
+
+
+
+c.	drop from the books all semi-expendable items that have already been issued to the end-users; and henceforth, recognize the issuance of all items when they are received by the end-users; and
+
+
+
+d.	undertake the proper recording of all transactions so that the affected accounts are fairly presented in the financial statements.
+
+
+
+	19)		The Campus Director of EVSU Ormoc Campus commented that:
+
+
+
+The existence of variances in our accounts was due to the unreconciled beginning balances that was carried in the books from the prior years. Some of the Semi expendables and Inventories were not recorded in the RSMI of the supply office thus overstating the records in the accounting office. I already instructed the supply office and the accounting office to maintain the stock cards and ledger cards, to always update the recording of the purchases and conduct periodic reconciliation. Rest assured that we will fast tract the reconciliation of this account and make the necessary adjustments to come up with the correct balances. We are going to strictly adhere the Section 13 and 17 of the GAM Volume I.
+
+
+
+
+
+Understatement in booking up Machinery received from Main Campus
+
+
+
+5)		Machineries transferred from the Main Campus to the Tanauan Campus aggregating ₱1,145,000.00 were recorded in the books of the Tanauan Campus at their residual value of ₱114,500.00 contrary to Section 14, Chapter 10 of the GAM for NGAs, Volume 1, thus understating the Machinery and Accumulated Depreciation accounts by ₱1,030,500.00.
+
+	
+
+	1)		Section 14, Chapter 10 of the GAM for NGAs, Volume I, provides:
+
+
+
+Chapter 10
+
+
+
+PROPERTY, PLANT AND EQUIPMENT
+
+
+
+Sec.  14.	Intra-agency transfers of PPE (from Central Office to Regional Offices/Staff Bureaus or vice versa).  These shall be recognized at the carrying amount of the asset received.  The receiving department/office shall recognize the asset at its original historical cost less accumulated depreciation and accumulated impairment loss.
+
+
+
+	2)		Audit during the year showed that the EVSU Main Campus donated machineries to the Tanauan Campus, with details as follows:
+
+
+
+Table 17.  Machineries Donated by the Main Campus to the Tanauan Campus
+
+Items
+
+Historical Data
+
+1)	Electric Generator Set, Daewoo, /rated 200KW/250kva,etc.
+
+		Acquisition Cost	-	₱1,080,000.00
+
+		Acquisition Date	-	June 29, 2001
+
+		Estimated Useful Life	-	6 years
+
+		Salvage Value	-	10% of cost
+
+2)	Locally Fabricated All Weather/Sound Attenuated Canopy
+
+		Acquisition Cost	-	₱65,000.00
+
+		Acquisition Date	-	June 29, 2001
+
+		Estimated Useful Life	-	6 years
+
+		Salvage Value	-	10% of cost
+
+
+
+	3)		The derecognition by the Main Campus, and the receipt of the machineries by the Tanauan Campus were recorded using the following entries:
+
+
+
+Main Campus
+
+JEV No. 01-2020-12-0553 (RAF)
+
+
+
+Entry Made:
+
+
+
+	Accumulated Depreciation	₱1,030,500.00
+
+	Accumulated Surplus (Deficit)	114,500.00
+
+	Machinery	₱1,145,000.00
+
+
+
+(To derecognize the electric generator set and sound attenuated canopy generator transferred to the EVSU Tanauan Campus)
+
+Tanauan Campus
+
+JEV No. 05-2020-06-0252 (IGF)
+
+
+
+Entry Made:
+
+
+
+	Machinery	₱114,500.00
+
+	Accumulated Surplus (Deficit)	₱114,500.00
+
+
+
+(To recognize the receipt of Electric Generator Set and Sound Attenuated Canopy Generator from EVSU Main Campus.)
+
+
+
+	4)		As can be gleaned from the above entries, the receipt of the machines were recorded at their salvage value, or net carrying value, which is inconsistent with the provisions stipulated in Section 14 of Chapter 10 of GAM for NGAs, Volume 1.
+
+
+
+	5)		Even when the above donated machineries have reached their useful lives, these should still be recorded in the books of Tanauan Campus at their carrying amount and not at their net carrying value because this transaction constitutes an intra-agency transfer of PPE.  Further, since the machines were previously recorded in the RAF books of the Main Campus, they should also be recorded in the RAF books of the Tanauan Campus.
+
+
+
+	6)		These errors in recording have correspondingly affected the presentation of the aforementioned accounts in the financial statements.
+
+
+
+	7)		We recommended that the University President require all Accountants to:
+
+
+
+a)	prepare the adjusting entries to correct the understatement in the books of the Tanauan Campus so that the account balance is fairly presented in the financial statements; and
+
+
+
+b)	strictly adhere to the provisions of Section 111 of PD No. 1445 and of the GAM for NGAs to ensure the correctness and accuracy of the presentation of the account balances in the financial statements.
+
+
+
+	8)		The University Accountant commented that the “adjusting entries have been prepared to correct the books of Tanauan Campus and shall be reported in 2021,” with the assurance that they “will adhere to the provisions of Section 111 of PD No. 1445 and the GAM for NGAs.”
+
+
+
+
+
+Inaccurate Construction in Progress account balance due to: abnormal beginning balance, ₱4,425,052.56, dormant balance, ₱1,673,059.75, and unrecorded partial billings, ₱7,023,065.02
+
+
+
+6)		The year-end balance of Construction in Progress  account  of the EVSU – Main and the External Campuses totaling ₱3,542,959.21 is inaccurate and unreliable due to several deficiencies: (a) the existence of an abnormal balance of ₱1,583,990.27 in the RAF books – Main Campus, (b) the abnormal beginning balance of ₱2,841,062.29 in the IGF books – Main Campus; (c) no changes in the IGF books of the Carigara Campus of ₱1,673,059.75 since CY 2016; and (d) the partial billings of ongoing projects at the EVSU Ormoc Campus have been directly recorded to the School Buildings account instead of to the Construction in Progress – Buildings and Other Structures, thus understating the Construction in Progress account by ₱7,023,065.02, contrary to  Section 111 of PD No. 1445, and pertinent provisions of the GAM for NGAs, Volume I.
+
+
+
+	1)		Sections 111 and 112 of PD No. 1445 provide:
+
+
+
+	Section 111.	Keeping of accounts.
+
+
+
+	(1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	Section 112.	Recording of financial transactions. Each government agency shall record its financial transactions and operations conformably with generally accepted accounting principles and in accordance with pertinent laws and regulations.
+
+
+
+	2)		Likewise, Sections 6 and 56 of Chapter 19 and Section 10 of Chapter 10 of the GAM for NGAs, Volume I, pertinently provide:
+
+
+
+Chapter 19
+
+
+
+FINANCIAL REPORTING
+
+
+
+x x x
+
+
+
+Sec. 6. Qualitative Characteristics of Financial Reporting.  An entity shall present information including accounting policies in a manner that meets the following qualitative characteristics enumerated in PPSAS 1:
+
+
+
+x x x
+
+
+
+a)	Reliability – reliable information is free from material error and bias, and can be depended on by users to represent faithfully that which it purports to represent or could reasonably be expected to represent.
+
+
+
+b)	Faithful representation – information to represent faithfully transactions and other events, it should be presented in accordance with the substance of the transactions and other events, and not merely their legal form.
+
+
+
+
+
+	Chapter 10
+
+
+
+	PROPERTY, PLANT AND EQUIPMENT
+
+
+
+	x x x
+
+
+
+	Sec. 8.	Purchase of PPE.  x x x
+
+
+
+	x x x
+
+
+
+c)	Construction of PPE. During the construction period, all expenses incurred in relation to the construction of the PPE shall be taken up in the books as Construction in Progress (CIP) with the appropriate asset classification.  As soon as the construction is completed, the “Construction in Progress” account shall be reclassified to the proper asset account.  Likewise, all expenses such as interests, license fees, etc., during the construction period shall be capitalized.
+
+
+
+	3)		The GAM for NGAs, Volume III, Construction in Progress-Buildings and Other Structures, as follows:
+
+
+
+	98	Construction in Progress
+
+
+
+Account Title
+
+Account Number
+
+Normal Balance
+
+Description 
+
+Construction in Progress-Buildings and Other Structures
+
+10698030
+
+Debit
+
+This account is debited to recognize the accumulated cost or other appropriate value of buildings and other structures which are still in the process of construction or development.  This account is credited upon reclassification to the appropriate buildings and other structures account upon completion, and/or adjustments.
+
+
+
+
+
+	
+
+	4)		Review of the Pre-Closing Trial Balance and the general ledgers of the EVSU Campuses for CY 2020 showed that the Construction in Progress account reported a total balance of ₱3,542,959.21 as of December 31, 2020 with details in Table 18:
+
+
+
+Table 18: Analysis of CIP Account
+
+Campus
+
+Bal. Beg.,
+
+Jan. 1, 2020
+
+Debits
+
+Credits
+
+Bal. End.,
+
+Dec. 31, 2020
+
+EVSU-Main
+
+
+
+
+
+
+
+
+
+		RAF (FC-01)
+
+₱43,450,168.78
+
+₱18,430,182.96
+
+₱63,464,342.01
+
+(₱1,583,990.27)
+
+		IGF  (FC-05)
+
+(2,841,062.29)
+
+7,895,490.68
+
+3,588,043.58
+
+1,466,384.81
+
+EVSU-Tanauan
+
+
+
+
+
+
+
+
+
+		IGF (FC-05)
+
+1,045,580.45
+
+-
+
+1,045,580.45
+
+-
+
+EVSU-Burauen
+
+-
+
+-
+
+-
+
+-
+
+EVSU-Carigara
+
+
+
+
+
+
+
+
+
+		IGF (FC-05)
+
+1,673,059.75
+
+-
+
+-
+
+1,673,059.75
+
+EVSU-Ormoc
+
+
+
+
+
+
+
+
+
+		RAF (FC-01)
+
+9,500,000.01
+
+-
+
+9,500,000.01
+
+
+
+		IGF (FC-05
+
+806,230.10
+
+1,181,274.82
+
+-
+
+1,987,504.92
+
+
+
+
+
+
+
+
+
+₱3,542,959.21
+
+
+
+	5)		Analysis of the account disclosed the following deficiencies: 
+
+
+
+a)	Abnormal balances of ₱4,425,052.56
+
+
+
+	6)		In Table 17 above, it was noted that the Construction in Progress account under RAF of the Main Campus reported a negative balance of ₱1,583,990.27; while the IGF has also a negative beginning balance of ₱2,841,062.29, which understated the account balance at year end by ₱4,425,052.56.  The abnormal beginning balance in the IGF books was reported in CY 2019 Annual Audit Report (AAR) and the amount had been adjusted and reduced from ₱4,068,105.49 to ₱2,841,062.29.
+
+
+
+	7)		The Construction in Progress has a normal debit balance.  It is credited upon reclassification of related asset account, upon completion.  A negative ending balance or abnormal balance indicates that errors must have been committed in recording or reclassification of the CIP to the related asset account.  Any deviations therefore should be investigated carefully and eventually adjusted or reconciled.
+
+
+
+b)	No changes reported in the balances since CY 2016 amounting to ₱1,673,059.75
+
+
+
+	8)		Verification of the prior years’ ledgers also revealed that the balance of the Construction in Progress -Buildings and Other Structures account under the IGF books of the Carigara Campus amounting ₱1,673,059.75 has been reported the same amount in the general ledger since CY 2016.  As of December 31, 2020 there is only one ongoing project at the campus which is recorded under the CIP-Infrastructure Asset account.
+
+
+
+c)	Partial billing amounting to ₱7,023,065.02 was not booked up as CIP 
+
+
+
+	9)		During the year, there were partial billings for two ongoing projects at the Ormoc Campus which were recorded directly under the School Buildings account instead of to Construction in Progress – Buildings and Other Structures account, which is not in accordance with the rules and regulations under the GAM for NGAs.  These two infrastructure projects include:
+
+
+
+1)	RD Cobacha – payment for 1st progress billing for the Construction of Food Court Cum Student Lounge with contract price of ₱2,500,000.00, paid under ADA/DM No. 2020-07-87 dated 7/8/2020.
+
+
+
+Entry Made by the Accountant under JEV# 05-2020-07-0271:
+
+
+
+	School Buildings	₱1,365,361.25
+
+	Advances to Contractors	₱321,753.79
+
+	Guaranty/Security Deposits Payable	107,251.27
+
+	Due to BIR	85,335,08
+
+	Cash in Bank- Local Currency Current Account	851,021.11
+
+
+
+2)	RSO Construction – payment 1st billing (50.10%) for the Construction of the Two-Storey Six-Classroom Main Academic Building (Phase II) with revised contract of ₱11,291,772.41, paid under ADA/DM No. 2020-09-106 dated 9/2/2020.
+
+
+
+Entry Made by the Accountant under JEV# 05-2020-09-0337:
+
+
+
+	School Buildings 	₱5,657,703.77
+
+	Advances to Contractors	₱1,546,156.12
+
+	Guaranty/Security Deposits Payable	565,770.37
+
+	Due to BIR	353,606.46
+
+	CIB – LCCA	3,192,170.82
+
+
+
+	10)		The recording of the above progress billings directly to the School Buildings account has understated the Construction in Progress – Buildings and Other Structures account and overstated the School Buildings account by ₱7,023,065.02.
+
+
+
+	11)		The foregoing deficiencies rendered the Construction in Progress – Buildings and Other Structures account balance as of December 31, 2020 inaccurate and unreliable.
+
+
+
+	12)		We recommended that the University President direct the Accountants of various EVSU campuses to:
+
+a)		fast track the verification and reconciliation of the abnormal balances of the Construction in Progress – Buildings and Other Structures accounts in the IGF and RAF books of the EVSU Main Campus and prepare adjustments where necessary in order to attain a more reliable and accurate balances of the account;
+
+
+
+b)		investigate and reconcile the non-moving balances of the Construction in Progress – Buildings and Other Structures accounts in the IGF books of the EVSU Carigara Campus and prepare adjustments where necessary;
+
+
+
+c)		make the necessary adjustments for the understatement of the Construction in Progress – Buildings and Other Structures account caused by the direct recording of the progress billings to School Buildings account instead of the CIP – Buildings and Other Structures; and 
+
+
+
+d)		henceforth, strictly implement the rules and regulations provided for under the GAM for NGAs to ensure that balances and accounts are presented fairly in the financial statements of the University.
+
+
+
+	13)		Management commented that:
+
+
+
+ “Reconciliation for the CIP account are ongoing which started from the current year and working back to the earlier years. Same is being conducted with all other accounts that are needed to be reconciled.
+
+
+
+The University Accountant and Campus Accountants are on the process of investigating and reconciliation and shall fast track verification of the CIP account. Adjusting entries have been prepared for those identified transactions that needs correction and shall further prepare adjusting journal entries to correct the account balance. The University shall be more diligent in implementing the rules and regulations provided for in the GAM for NGAs to ensure fair presentation of accounts in the financial statements.”
+
+
+
+	14)		While Management accepted the audit recommendation, they did not set deadlines when the verification and reconciliation of the Construction in Progress account shall be completed.  Thus, Management is requested to submit to the COA copy the JEV with supporting documents for the adjustments that shall be made as a result of the further verification of the account for audit and validation 
+
+
+
+
+
+Unreliable Advances for Operating Expenses, Advances for Payroll, Advances to Special Disbursing Officers and Advances to Officers and Employees accounts balances
+
+
+
+7)		The year-end balances of the Advance for Operating Expenses, Advances for Payroll, Advances to Special Disbursing Officers, and the Advances to Officers and Employees accounts totaling ₱27,319,043.49 are unreliable due to: (a) the existence of abnormal balances totaling ₱4,572,248.76; (b) prior years’ unliquidated advances totaling ₱1,139,077.36 which are unsubstantiated; and c) the existence of various errors and deficiencies in recording in the aggregate amount of  ₱5,984,527.60, thus affecting the fair presentation of the accounts in the CY 2020 Financial Statements.
+
+
+
+	1)		Section 15, Chapter 2 of the GAM for NGAs, Volume I, provides:
+
+
+
+Chapter 2
+
+
+
+GENERAL PROVISIONS, BASIC STANDARDS AND POLICIES
+
+
+
+xxx
+
+
+
+Sec. 15. Fair Presentation. The FSs shall present fairly the financial position, financial performance and cash flows of an entity.  Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue and expenses set out in the PPSAS.  The application of PPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.
+
+
+
+	2)		Pertinent provisions of PD No. 1445 state:
+
+
+
+Section 111.  Keeping of accounts.
+
+
+
+	(1)	The accounts of an agency shall be kept in such detail as necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be served in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+Section 112.	Recording of financial transaction. Each government agency shall record its financial transactions and operations conformably with generally accepted accounting principles and in accordance with pertinent laws and regulations.
+
+
+
+	3)		Section 4.0 of COA Circular No. 97-002 dated February 10, 1997 provides:
+
+
+
+4.0	GRANT AND UTILIZATION OF CASH ADVANCES
+
+
+
+x x x
+
+
+
+4.1.3	A cash advance shall be reported on as soon as the purpose for which it was given has been served.
+
+
+
+	4)		Likewise, Civil Service Commission Memorandum Circular No. 23, s. 2019, dated August 13, 2019, entitled “Revised Guidelines on the Settlement of Cash Advance and the Penalty to be Imposed for Failure of an Accountable Officer to Liquidate Cash Advance Within the Prescribed Period,” provides:
+
+
+
+	Section 4.	Liquidation of Cash Advances.
+
+
+
+The Accountable Officer shall liquidate cash advances within the following period:
+
+
+
+	4.1.	Salaries, Wages, Honoraria and Other Similar Payments – within five (5) calendar days after the end of the day period. 
+
+
+
+	X x x
+
+
+
+	4.4	Traveling Expenses - within thirty (30) calendar days after the return of the official employee concerned to his official station for local travel and within sixty (60) calendar days after the return of the official/employee concerned to the Philippines in the case of foreign travel.
+
+
+
+	4.5	Special Purpose - as soon as the purpose of the cash advance has been served.
+
+
+
+	Section 5.	Administrative Liability and the Corresponding Penalty for Failure of the Accountable Officer to Liquidate Cash Advances Within the Prescribed Period.
+
+
+
+	X x x
+
+
+
+	5.2	An accountable Officer who, after formal demand by the State Auditor or Audit Team Leader, makes a partial liquidation of the cash advance shall be held liable for Simple Neglect of Duty and imposed the penalty of suspension from the government service for a period of one (1) month and one (1) day, x x x.
+
+	5.3	An Accountable Officer who, after formal demand by the State Auditor or Audit Team Leader, makes a partial liquidation of the cash advance shall be held liable for Simple Neglect of Duty and imposed the penalty of suspension from the government service for a period of three (3) months, x x x.
+
+
+
+	5.4	An Accountable Officer shall be held liable for Gross Neglect of Duty and imposed the penalty of dismissal from the service for the first offense in any of the following instances:
+
+
+
+	a.	the Accountable Officer who, after formal demand by the State Auditor or Audit Team Leader, fails to make any liquidation, whether partial or full, of the cash advances within the prescribed period stated in the formal demand letter;
+
+
+
+	b.	the Accountable Officer who, after formal demand by the State Auditor or Audit Team Leader, makes partial liquidation (regardless of the amount) of the cash advance but failed to present any justifying circumstance and has no intention to fully liquidate; and 
+
+
+
+	c.	the Accountable Officer mentioned in Section 5.2 (c) and 5.3 (c) defaulted in the payment of the unliquidated cash advance.
+
+
+
+	5)		As of December 31, 2020, the balances for the Advances for Operating Expenses, Advances for Payroll, Advances to Special Disbursing Officer, and Advances to Officers and Employees accounts are reported at ₱1,335,920.06; ₱19,373,680.86; ₱1,631,678.71; and ₱7,649,603.98, respectively.  These balances are presented below:
+
+
+
+Table 19: Balances of the Advances Accounts of the Main and External Campuses as of December 31, 2020
+
+Campuses
+
+Advances Accounts
+
+Total
+
+
+
+Advances for Operating Expenses
+
+Advances for Payroll
+
+Advances to Special Disbursing Officer
+
+Advances to Officers and Employees
+
+
+
+Main
+
+₱       (1,895.00)
+
+4,119,770.85
+
+891,744.30
+
+2,693,249.12
+
+₱   7,702,869.27
+
+Tanauan
+
+0.00
+
+7,472.84
+
+503,978.60
+
+941,339.25
+
+1,452,790.69
+
+Burauen
+
+0.00
+
+2,188,799.58
+
+18,203.50
+
+144,176.27
+
+2,351,179.35
+
+Ormoc
+
+(1,334,025.06)
+
+3,792,637.39
+
+104,071.02
+
+1,217,931.41
+
+3,780,614.76
+
+Carigara
+
+0.00
+
+9,265,000.20
+
+113,681.29
+
+2,652,907.93
+
+12,031,589.42
+
+Total
+
+₱(1,335,920.06)
+
+19,373,680.86
+
+1,631,678.71
+
+7,649,603.98
+
+₱ 27,319,043.49
+
+
+
+	6)		Audit of these reported balances disclosed the following observations and deficiencies:
+
+
+
+a)	Existence of abnormal balances totaling ₱4,572,248.76
+
+
+
+	7)		Review of the Trial Balance as of December 31, 2020 revealed that there were negative balances in the GLs, as presented in the table below:
+
+
+
+Table 20: Abnormal Balances of the Various Advances Accounts as of December 31, 2020
+
+Advances Account
+
+Campuses
+
+Total
+
+
+
+Main
+
+Tanauan
+
+Burauen
+
+Ormoc
+
+Carigara
+
+
+
+Advances for Operating Expenses
+
+		RAF
+
+₱    (1,895.00)
+
+0.00
+
+0.00
+
+(1,302,139.54)
+
+0.00
+
+₱(1,304,034.54)
+
+		IGF
+
+0.00
+
+0.00
+
+0.00
+
+(17,108.50)
+
+0.00
+
+(17,108.50)
+
+		BRF
+
+0.00
+
+0.00
+
+0.00
+
+(406.00)
+
+0.00
+
+(406.00)
+
+		TRF
+
+0.00
+
+0.00
+
+0.00
+
+(14,371.02)
+
+0.00
+
+(14,371.02)
+
+		Sub-total
+
+(1,895.00)
+
+0.00
+
+0.00
+
+(1,334,025.06)
+
+0.00
+
+(1,335,920.06)
+
+Advances for Payroll
+
+		IGF
+
+0.00
+
+(786,611.93)
+
+(56,421.90)
+
+(949,661.57)
+
+(18,579.88)
+
+(1,811,275.28)
+
+		BRF
+
+(.02)
+
+(210,961.74)
+
+(21,740.60)
+
+0.00
+
+0.00
+
+(232,702.36)
+
+		TRF
+
+(112,948.15)
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+(112,948.15)
+
+		Sub-total
+
+(112,948.17)
+
+(997,573.67)
+
+(78,162.50)
+
+(949,661.57)
+
+(18,579.88)
+
+(2,156,925.79)
+
+Advances to Special Disbursing Officer
+
+		RAF
+
+0.00
+
+(126,896.00)
+
+0.00
+
+(110,147.00)
+
+0.00
+
+(237,043.00)
+
+		IGF
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+(101,590.24)
+
+(101,590.24)
+
+		TRF
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+(289,088.47)
+
+(289,088.47)
+
+		Sub-total
+
+0.00
+
+(126,896.00)
+
+0.00
+
+(110,147.00)
+
+(390,678.71)
+
+(627,721.71)
+
+Advances to Officers and Employees
+
+		RAF
+
+0.00
+
+0.00
+
+(2,222,02)
+
+0.00
+
+0.00
+
+(2,222.02)
+
+		IGF
+
+(159,004.84)
+
+0.00
+
+0.00
+
+0.00
+
+(12,411.20)
+
+(171,416.04)
+
+		TRF
+
+(81,783.10)
+
+0.00
+
+0.00
+
+(143,774.44)
+
+(52,485.60)
+
+(278,043.14)
+
+		Sub-total
+
+(240,787.94)
+
+0.00
+
+(2,222.02)
+
+(143,774.44)
+
+(64,896.80)
+
+(451,681.20)
+
+TOTAL
+
+₱(355,631.11)
+
+(1,124,469.67)
+
+(80,384.52)
+
+(2,537,608.07)
+
+(474,155.39)
+
+₱(4,572,248.76)
+
+
+
+	8)		The balances, shown in the above table, under the Advances for Operating Expenses accounts of both the Main and Ormoc Campuses totaled ₱1,335,920.06. These balances have been recorded in the books since CY 2018 and still exist as of December 31, 2020.
+
+
+
+	9)		As of December 31, 2020, the total negative balances for all funds in the various campuses amounted to ₱4,572,248.76.  During the audit, it was noted that the negative balances were due to errors in recording the advances and their subsequent liquidations.  For example, while some cash advances were recorded in Advances for Payroll account, their subsequent liquidations were taken up under the Advances for Special Disbursing Officer account.  This practice overstates the Advances for Payroll account while understating the Advances for Special Disbursing Officer account.  In other instances, cash advances were not recorded, but their subsequent liquidations were posted.  These errors in recording understate the cash advances account, while overstating the corresponding account used to record the liquidation.
+
+
+
+	10)		Further, the presence of these negative balances is abnormal and has erroneously reduced the balances of unliquidated advances.  The amounts reported do not represent the correct balance of the particular account in the financial statements.
+
+
+
+b)	Prior years’ unliquidated advances totaling ₱1,139,077.36
+
+
+
+	11)		Audit also revealed that there are still advances from the previous years that have remained unliquidated as of December 31, 2020, as summarized below:
+
+
+
+Table 21: Prior Years’ Unliquidated Advances as of December 31, 2020
+
+Campuses
+
+Advances Accounts
+
+Total
+
+Remarks
+
+
+
+Advances to Special Disbursing Officer
+
+Advances to Officers and Employees
+
+
+
+
+
+Main
+
+₱                0.00
+
+304,121.00
+
+₱    304,121.00
+
+Advances of CYs 2005, 2006, 2017 and 2019
+
+Burauen
+
+0.00
+
+24,152.56
+
+24,152.56
+
+Advances of CY 2013
+
+Ormoc 
+
+134,300.00
+
+233,544.68
+
+367,844.68
+
+Advances of CYs 2016-2019
+
+Carigara
+
+99,400.00
+
+343,559.12
+
+442,959.12
+
+Advances of CYs 2013-2017
+
+Total
+
+₱ 233,700.00
+
+905,377.36
+
+₱1,139,077.36
+
+
+
+
+
+	12)		The above amounts reflect the total advances granted during the period from CYs 2005 to 2019, and have remained unliquidated as of December 31, 2020.
+
+
+
+	13)		During the audit, the team recommended that Management issue demand letters for those responsible officer/s and employee/s identified with unliquidated advances.  However, only the Main Campus submitted to us a copy of proof of receipt of the demand letters issued but only for those advances granted in CY 2019.
+
+
+
+	14)		Since liquidation and supporting documents were not yet submitted for recording in the Accounting Office, the above unliquidated advances have yet to be audited so the Audit Team can determine whether these advances were expended or not.  The non-submission of these liquidation reports and their supporting documents has overstated the Accumulated Surplus (Deficit) accounts and the related expenses affected.
+
+
+
+	15)		Further, the balances presented in Table 21 do not include the beginning balances in the aggregate amount of ₱20,614,876.28, the details of which are yet to be reconciled and determined.
+
+
+
+	16)		According to the bookkeeper in charge, they are still in the process of reconciliation of these beginning balances.  As of this report, they are prioritizing the current transactions to avoid further accumulation of unliquidated advances in the current year.
+
+
+
+	17)		Consequently, the Advances for Operating Expenses, Advances for Payroll, Advances to Special Disbursing Officers, and Advances to Officers and Employees accounts balances totaling ₱27,319,043.49 have yet to be validated to render their fair presentation in the financial statements.
+
+
+
+c.	Various errors in recording advances and liquidations totaling ₱5,984,527.60
+
+
+
+	18)		Audit of the transaction documents and reports submitted by Management on the advances granted during CY 2020 and their liquidations revealed several errors in recording these transactions, as follows:
+
+
+
+Table 22: Summary of noted errors/ deficiencies in recording advances and liquidations
+
+Errors/ Deficiencies
+
+Amount
+
+Effects
+
+Recommendations
+
+Advances for Payroll
+
+
+
+
+
+
+
+		Burauen
+
+
+
+
+
+
+
+FC 05-IGF
+
+The return of unused advances for TEV in the amount of ₱9,080.44 was credited to the Advances for Payroll account instead of crediting this to the Advances to Officers and Employees account.
+
+
+
+Breakdown:
+
+a) per CRJ#05-2020-01-0022
+
+01.15.20 OR#1965914  ₱    275.00
+
+01.20.20 OR#1966018       8,605.44
+
+                                                    ₱8,880.44
+
+
+
+b) per CRJ#05-2020-03-0133
+
+03.19.20 OR#1966430  ₱    200.00
+
+		Total                                   ₱9,080.44
+
+
+
+₱    9,080.44
+
+
+
+Understated Advances for Payroll and overstated Advances to Officers and Employees account balances both by ₱9,080.44.
+
+
+
+Prepare reversing entry:
+
+
+
+Debit Advances for Payroll and credit Advances to Officers and Employees both by ₱9,080.44.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FC 06-BRF
+
+Understatement in recording Advances for Payroll by ₱0.60
+
+
+
+Breakdown:
+
+Disbursement per Check#0977891
+
+
+
+CDJ#06-2020-01-003
+
+Recorded as         ₱6,615.03
+
+Should be                6,615.63
+
+Understated by   (₱         .60)
+
+
+
+.60
+
+
+
+Understated Advances for Payroll account balance and overstated the related Cash in Bank account balance both by ₱0.60
+
+
+
+Prepare adjusting  entry:
+
+
+
+Debit Advances for Payroll and credit affected Cash in Bank account.
+
+		Ormoc
+
+
+
+
+
+
+
+FC 05-IGF
+
+Error in recording advances- the Salaries and Wages account was debited in the amount of ₱36,865.00 instead of recording a debit to the Advances for Payroll account
+
+
+
+₱36,865.00, advances for payroll with ADA#2020-04-68 dated 04.30.2020; with ADADJ#05-2020-04-0165
+
+
+
+
+
+36,865.00
+
+
+
+Understated Advances for Payroll account balance and overstated expense account (Salaries and Wages) balance for the current year, this error will eventually understate the Accumulated Surplus (Deficit) account balance at the end of the year by ₱36,865.00, thus affecting the fair presentation of the Financial Statement for CY 2020.
+
+
+
+*note: the liquidation thereto was correctly posted. 
+
+
+
+Prepare an adjusting entry to correct the error in recording advances for payroll:
+
+
+
+Debit Advances for Payroll account and credit Accumulated Surplus (Deficit), for the expense debited which was eventually closed to Accumulated Surplus Deficit (Deficit) account.
+
+FC 07-TRF
+
+Unrecorded liquidation reports for the advances for payroll made in the aggregate amount of ₱1,860,000.00; per Liquidation Report (LR)#.014-09-2020 dated 9.4.2020 ₱800,000.00; LR#013-08-2020 dated 08.27.2020 ₱600,000.00; and   LR#013-08-2020 dated 08.27.2020 ₱460,000.00, submitted dated 09.21.2020.
+
+
+
+Breakdown: (advances)
+
+Check Nos. dated  August 7, 2020
+
+63782046       ₱   800,000.00
+
+63782047            600,000.00
+
+63782048            460,000.00
+
+	Total               ₱1,860,000.00
+
+
+
+1,860,000.00
+
+
+
+Overstated Advances for Payroll account balance and understated related expenses account balance of the current year which eventually overstate the Accumulated Surplus (Deficit) account balance at the end of the year. thus, affecting the fair presentation of the FS
+
+
+
+
+
+
+
+Prepare journal entry to record the liquidation by:
+
+
+
+Debit to Accumulated Surplus (Deficit) account for the related expenses since the latter was already closed to Accumulated Surplus at the end of CY 2020; and credit Advances for Payroll account.
+
+		Carigara
+
+
+
+
+
+
+
+FC 05-IGF
+
+1. Error in recording the advances for payment of Employee’s Gratuity Pay per Check#277783 dated 12.29.2020, recorded as Labor and Wages per ChkDJ#05-2020-12-0458 instead of a debit to Advances for Payroll account in the amount of ₱91,000.00
+
+
+
+91,000.00
+
+
+
+Advances for Payroll account balance is understated and the expense account balance (Labor and Wages) is overstated both by ₱91,000.00, thus affecting the fair presentation of the accounts
+
+
+
+Prepare journal entry to correct the erroneous entry:
+
+
+
+Debit Advances for Payroll account and credit the Accumulated Surplus (Deficit) account for the Labor and Wages account’s debited, since the said account was already closed to Accumulated Surplus (Deficit) account at the end of CY 2020.
+
+2. In March 2020 the ChkDJ was not posted in the GL, hence, Advances for Payroll granted that period were  not recorded in the amount of ₱13,750.00 per Check#230575 dated 03.09.2020
+
+13,750.00
+
+Understated the Advances for Payroll account balance and overstated Cash in Bank account balance both by ₱13,750.00.
+
+Prepare journal entry to record disbursements for the month of March 2020, for advances granted:
+
+Debit Advances for Payroll and credit Cash in Bank accounts.
+
+3. Error in recording the return of unused advances for payroll under Check No. 230575 with OR#2181547 dated 06.26.2020. Collection was recorded as credit to Advances to Officers and Employees instead of a credit to Advances for Payroll account in the amount of ₱13,750.00 under CRJ#05-2020-06-0236.
+
+13,750.00
+
+Understated the Advances to Officers and Employees account balance by ₱13,750.00.
+
+Prepare journal entry to correct the error made:
+
+
+
+After recording the above (item #2 entry), d.ebit Advances to Officers and Employees and credit Advances for Payroll accounts.
+
+FC 07-TRF
+
+1.Error in recording liquidation of advances for payroll under Check No. 69989 dated 5.11.2020 in the amount of ₱3,720,000.00; Liquidation was made through a Debit to Due to Central Office and a Credit to Subsidies-Others (internal account used to control and monitor funds releases received by the Main Campus from CHED and transferred to external campuses) per GJ#07-2020-07-0165; the entry should be a debit to Due to Central Office and a credit to Advances for Payroll account (it is the Main Campus who record related expenses upon liquidation to CHED)
+
+
+
+3,720,000.00
+
+
+
+Overstated the Advances for Payroll account balance by ₱3,720,000.00, thus affecting the fair presentation of the account 
+
+
+
+Prepare adjusting entries necessary to close Advances for Payroll account for the liquidation made in the amount of ₱3,720,000.00.
+
+
+
+*Note: The Main and External Campuses used their internal account in recording funds received from CHED, and used the controlling account to monitor the releases to external campuses and liquidation thereto.
+
+Special Disbursing Officers
+
+
+
+
+
+
+
+		Carigara
+
+
+
+
+
+
+
+FC 07-RAF
+
+1. Error in recording advances for payroll account with check#142564 dated 5.22.2020 in the amount of ₱104,500; it was booked as a debit to Advances to Special Disbursing Officer per ChkDJ#01-2020-05-0198, should be debited to Advances for Payroll account
+
+
+
+104,500.00
+
+
+
+Understated the Advances for Payroll account balance and overstated Advances for Special Disbursing Officer account balance both by ₱104,500.00, thus affecting the fair presentation of the account in the FS 
+
+
+
+Prepare a reversing entry to correct the balances of the accounts affected:
+
+
+
+Debit Advances for Payroll account and credit to Advances to Special Disbursing Officer account.
+
+FC 05-IGF
+
+1. April 2020 ChkDJ was recorded twice resulting in double recording of Advances to Special Disbursing Officer account in the amount of ₱4,500.00  (ChkDJ#s05-2020-03-0121 and 05-2020-04-0159)
+
+
+
+4,500.00
+
+
+
+Overstated the Advances to Special Disbursing Officer account balance and understated Cash in Bank account balance both by ₱4,500.00
+
+
+
+Prepare correcting entry:
+
+
+
+Debit Cash in Bank account and Credit Advances to Special Disbursing account both by ₱4,500.00.
+
+2. Error in recording the following Advances for Special Disbursing Officer (SDO):
+
+
+
+1.Check No. 230973 dated 10.12.20        ₱20,000.00 under Check DJ No. 05-2020-10-0418
+
+The Other Supplies and Materials Inventory account was debited instead of debiting the Advances to SDO
+
+
+
+2. Check No. 230594 dated 3.12.20 for ₱39,795.00, this advance was not recorded in the books because of the failure to record the March 2020 Check disbursements
+
+
+
+59,795.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Understated the Advances to Special Disbursing Officer account balance in the amount of ₱59,795.00 for failure to recognize the same in the books upon grant of advances; overstated Cash in Bank account balance by ₱39,795.00 for failure to record said disbursement, and overstated Accumulated Surplus (Deficit) account balance for ₱20,000.00, an amount of expense account (Other Supplies and Materials Inventory) debited upon grant of advances for SDO, thus affecting the fairness in the presentation of the FS for CY 2020, and understate the Accumulated Surplus
+
+Prepare necessary adjusting entries to correct various errors.
+
+
+
+
+
+
+
+
+
+
+
+Note: These advances were liquidated and posted in the books with a debit to Other Maintenance & Operating Expenses, and a credit to Advances to SDO both by ₱59,795.00.
+
+ 
+
+Advances to Officers and Employees
+
+		Burauen
+
+
+
+
+
+
+
+FC 05-IGF
+
+1.Unrecorded Liquidation Report in the amount of ₱3,090.00, per Liquidation Report dated October 26, 2020 (TEV) of check#58912938
+
+
+
+
+
+
+
+
+
+
+
+2. Error in debiting an account to record liquidations of prior year advances, a debit of expenses account (Travel Expense) instead of debit to Accumulated Surplus (Deficit) account, in the amount of ₱68,196.56, per Liquidation report of prior year (2019) advances for travel per GJ#05-2020-01-0056 January 2020.
+
+
+
+3,090.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+68,196.56
+
+
+
+Overstated Advances to Officer and Employee’s account and Overstated Accumulated Surplus (Deficit) for the unrecorded expenses account both by ₱3,090.00
+
+
+
+
+
+
+
+Overstated expenses for current year transactions, thus affecting the fairness of Statement of Financial Performance for CY 2020
+
+
+
+Prepare adjusting entry:
+
+
+
+Debit Accumulated Surplus (Deficit) and credit Advances to Officers and Employees both by ₱3,090.00.
+
+
+
+
+
+
+
+
+
+No adjustment entry is required; expenses accounts are eventually closed to Accumulated Surplus (Deficit) account at the end of the year.
+
+T   O   T   A   L
+
+₱5,984,527.60
+
+
+
+
+
+
+
+	19)		The above errors have contributed to the discrepancies between the balances in the SLs maintained by the External Campuses and the balances in the GLs maintained by the Main Campus, thus affecting the reliability and accuracy of the aforementioned accounts in the financial statements.
+
+
+
+	20)		We recommended that the President require the Accountants concerned to:
+
+
+
+a)	conduct the immediate reconciliation and determination of the details of the balances reporting negative balances and prepare their adjusting entries where necessary;
+
+
+
+b)	effect the immediate reconciliation of the beginning balances identifying when liquidation is due, and determine whether those were due from erroneous posting; make necessary adjustments in all records to come up with reconciled and correct balances;
+
+
+
+c)	demand liquidation from the officer/s and employee/s with outstanding advances as of December 31, 2020 to avoid sanctions to be imposed under CSC MC No. 23, s. 2019, dated August 13, 2019, and prepare necessary entries to record the liquidations and submit to the Audit Team the Liquidation Reports, supporting documents and the JEV drawn to record the transactions;
+
+
+
+d)	carefully review the JEV received from the External Campuses on particular transactions before approving and posting the same to the General Ledger to avoid accumulation of errors, thus adding to the misstatements of the financial statement.
+
+
+
+	21)		Management commented that:
+
+
+
+The university shall issue demand letters to all the officers/employees who have not liquidated yet their cash advances.
+
+
+
+Thorough review of the entries is being conducted before approval and posting to the ledgers as recommended.  Reconciliations of the accounts are ongoing and necessary journal entries shall be prepared to correct the balances of the accounts.
+
+
+
+	22)		The Audit Team requests Management to submit list of officers and employees with outstanding unliquidated advances with respective addresses for issuance of demand letter and JEVs, as well as, the supporting documents for timely audit and verification.
+
+
+
+Unreliable Balance of Accounts Payable, (₱6,076,626.72) due to abnormal balances of ₱20,386,910.87; net overstatement in recording, ₱5,116,749.77 and dormant balances, ₱173,490.92
+
+
+
+8)		The year-end balance of the Accounts Payable amounting (₱6,076,626.72) cannot be relied upon due to the following deficiencies: a) the presence of abnormal balances in the GL account and in the Schedule of Accounts Payable totaling ₱20,386,910.87; b) net overstatement in recording totaling ₱5,116,749.77; and (c) dormant balances without known creditors totaling ₱173,490.73, which have not been reverted to Accumulated Surplus, thereby affecting the fair presentation of the account in the financial statements.
+
+
+
+	1)		Section 111 of PD No. 1445 provides:
+
+
+
+	SECTION 111. Keeping of accounts. - (1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	2)		Chapter 19 of the GAM for NGAs, Volume I, pertinently provides:
+
+
+
+Chapter 19
+
+
+
+FINANCIAL REPORTING
+
+
+
+Sec.6.Qualitative Characteristics of Financial Reporting.  An entity shall present information including accounting policies in a manner that meets the following qualitative characteristics enumerated in PPSAS (Philippine Public Sector Accounting Standards) 1:
+
+
+
+x x x
+
+
+
+e.	Reliability - reliable information is free from material error and bias, and can be depended on by users to represent faithfully that which it purports to represent or could reasonably be expected to represent.
+
+
+
+f.	Faithful Representation – information to represent faithfully transactions and other events, it should be presented in accordance with the substance of the transactions and other events, and not merely their legal form.
+
+
+
+	3)		GAM for NGAs, Volume III, describes Accounts Payable, as follows:
+
+
+
+Account Title
+
+Account Number
+
+Normal Balance
+
+Description 
+
+Accounts Payable 
+
+20101010
+
+Credit
+
+This account is credited to recognize receipt of goods or services on account in the normal course of trade and business operation.  This account is debited for payment/settlement of liabilities, and/or adjustments.
+
+
+
+	4)		Sections 3.1 and 3.3 of DBM-COA Joint Circular No. 99-6 dated November 13, 1999 (Guidelines Implementing Executive Order No. 109 which Directs All National Government Agencies to Revert Certain Accounts Payable to the Cumulative Result of Operations of the National Government) provides:
+
+
+
+Section 3.	GENERAL GUIDELINES
+
+
+
+	3.1	All documented A/Ps of all funds which have remained outstanding for two (2) years, shall be reverted to the Cumulative Results of Operation – Unappropriated (CROU), now Accumulated Surplus (Deficit), except on-going capital outlays projects. 
+
+
+
+	3.2	x x x
+
+
+
+	3.3	All undocumented A/Ps, regardless of the year they were incurred, shall be immediately be reverted to the CROU, now Accumulated Surplus (Deficit).
+
+
+
+	5)		The Accounts Payable of the University reported a year-end balance of (₱6,076,626.72) detailed below:
+
+
+
+Table 23. Details of Accounts Payable Account Balance, December 31, 2020 
+
+Campus
+
+FC-01 (RAF)
+
+FC-05 (IGF)
+
+FC-07 (TRF)
+
+Total
+
+Main
+
+₱(10,651,558.46)
+
+(1,357,999.09)
+
+234,496.20
+
+₱(11,775,061.35)
+
+Burauen
+
+
+
+2,856,864.73
+
+
+
+2,856,864.73
+
+Carigara
+
+78,312.15
+
+25,153.52
+
+70,025.06
+
+173,490.73
+
+Ormoc
+
+-
+
+3,227,562.45
+
+
+
+3,227,562.45
+
+Tanauan
+
+(559,883.28)
+
+-
+
+400.00
+
+(559,483.28)
+
+Total
+
+(11,133,129.59)
+
+4,751,581.61
+
+304,921.26
+
+(6,076,626.72)
+
+
+
+	6)		During the audit of the account, as well as verification of the accounting records and documents submitted, the Audit Team noted the following deficiencies:
+
+
+
+Presence of abnormal balances, P 20,386,910.87
+
+
+
+	7)		The Schedules of Accounts Payable as of December 31, 2020 submitted by the University showed some external campuses that reported negative balances as follows:
+
+
+
+Table 24.  Negative Balances Reported for Accounts Payable as of December 31, 2020
+
+Campus
+
+Balance
+
+Remarks
+
+Main- RAF
+
+₱15,998,555.00
+
+The Schedule of Accounts Payable of the Main Campus under RAF showed the following:
+
+
+
+With normal Balances       ₱   5,346,996.52
+
+With abnormal balances    (15,998,555.38)
+
+Net Balance12.31.2020   (₱10,651,558.86)
+
+
+
+The negative balances have been identified as follows:
+
+
+
+Untraceable Counterparties             ₱ 15,897,055.38
+
+Chris A. Frencillo                                         101,500.00
+
+              Total                                        (₱15,998,555.38)
+
+
+
+The University Accountant informed the Audit Team that these balances have already been reported as negative balances & were already in the books when she assumed office.  Up until now, the verification and reconciliation of these balances are still on-going.
+
+Main – IGF
+
+3,828,472.59
+
+In the schedule submitted for the fund, the balance of the account of the IGF - Main books is composed of the following:
+
+
+
+Untraceable counterparties   ₱-3,828,472.59
+
+Various creditors                      ₱ 2,470,473.50
+
+Balance 12.31.2020               (₱1,357,999.09)
+
+
+
+The beginning balance of negative ₱3,828,472.59 refers to the prior years’ balances which are not supported with subsidiary ledgers, but verification and reconciliation is still on-going.
+
+Tanauan – RAF
+
+559,883.28
+
+This amount was recorded under JEV No. 01-2020-12-0535 to remove the accounts payable balance in the books from the previous years, but the entry is not supported with any existing claims from employees, creditors, suppliers or other agencies. This entry is redundant because the account reported a zero balance already even before the said JEV was prepared, so that there is a need to record an adjustment to correct the account.
+
+Total
+
+₱20,386,910.87
+
+
+
+	8)		Accounts Payable has normal credit balance.  The account is debited for payments/settlement of liabilities and adjustments.  Thus, having a negative balance is abnormal as this manifests that errors must have been committed in recording settlements/payments and adjustments.  The reported negative year-end balance of the Accounts Payable is therefore abnormal and unreliable.
+
+
+
+a)	Errors in recording resulting in net overstatement – P5,116,747.77
+
+
+
+	9)		During audit, errors were also discovered as reported in the table below:
+
+
+
+Table 25.  Schedule of Accounting Errors as of December 31, 2020
+
+Campus/Fund
+
+Amount
+
+Effect and Explanation for the Error
+
+Ormoc- IGF
+
+₱2,492.00
+
+Overstatement – This has been identified as a deduction of the CFI Lending loan payment from the part-time salary of Badilla, Rustico for the month of November 2020. This is recorded as Accounts Payable under JEV No. 05-2020-12-0479 instead of to the Other Payables accounts. 
+
+Main – IGF
+
+80,928.75
+
+Understatement – This amount is identified as liquidation of Advances for Payroll of Melissa Riños, SDO which should have been recorded as such.  Instead this been recorded as debit to Accounts Payable under JEV No. 05-2020-01-0015.
+
+Main – RAF
+
+5,195,186.52
+
+Overstatement - This overstatement pertains to the payable to JFR Construction General Engineering amounting ₱5,195,186.52 for the final billing of the project Industrial Technology Complex (Technomart Bldg.) at the EVSU Main that was already paid under RADAI No. 2019-03-003, and recorded under JEV No. 01-2019-03-0134 but the payment was erroneously recorded to the Construction in Progress account, instead of to Accounts Payable.  This error was included in the CY 2019 audit report but management failed to implement the audit recommendation to correct it.
+
+Net overstatement
+
+₱5,116,749,77
+
+
+
+
+
+b)	Dormant Balances, ₱173,490.73
+
+
+
+	10)		These dormant balances refer to the balances of accounts payable in the books of the Carigara Campus that have been recorded in the books for two years or more, with details below:
+
+
+
+Table 26.  Itemized list of Accounts Payable Without Valid Claimants, Carigara Campus, December 31, 2020
+
+RAF (FC-01)
+
+₱78,312.15
+
+GF (FC-05)
+
+25,153.52
+
+TRF (FC-07)
+
+70,025.06
+
+Total
+
+₱173,490.73
+
+
+
+	11)		Interview with the Accountant of the Carigara Campus revealed that these payables have been reported in the books for more than two years already.  These are without supporting documents and creditors; hence, the total amount should be immediately reverted to the Cumulative Results of Operations – Unappropriated (CROU).
+
+
+
+	12)		In view of these deficiencies, the EVSU’s Accounts Payable balance of (₱6,076,626.72) as of December 31, 2020 is not fairly presented in the financial statements.
+
+
+
+	13)		We recommended that the University President instruct all Accountants to:
+
+
+
+a)	exert more effort and fast track the investigation of the causes of the abnormal balances of the GLs at the Main Campus, and make the necessary adjustments to arrive at correct account balances;
+
+
+
+b)	reverse the inappropriate adjustment of ₱559,883.28 at the Tanauan Campus books to arrive at correct balance;
+
+
+
+c)	make the necessary adjustment on the errors recorded under Accounts Payable totaling ₱5,278,608.27 so that the correct balances of the account are reconciled;
+
+
+
+d)	revert immediately the Accounts Payable totaling ₱173,490.73 which have remained outstanding for two (2) years or more, and without valid claims or supporting documents, to the Accumulated Surplus/(Deficit) pursuant to DBM-COA Joint Circular No. 99-6; and
+
+
+
+e)	strictly adhere to the provisions of Section 111 of PD No. 1445 to ensure the reliability and accuracy of the account balances of the financial statements.
+
+
+
+	14)		Management commented that “the Accountants of the Main and External Campuses are already ongoing investigation of the abnormal balances of the Accounts Payable account, and shall fast track the verification process and prepare necessary adjusting journal entries in the current year to arrive at the correct balance of the account. Adjustments for the reversion of erroneous entry, the reversion of the outstanding Accounts Payable for more than 2 years, and other necessary adjustments to correct the balance of this account shall be prepared in 2021.”
+
+
+
+	15)		While Management accepted the audit recommendations, any adjustment to be made as a result of the investigation and reconciliation of the account as well as the reversion made shall be verified and validated, hence, the Audit Team requests the submission of the related JEVs.
+
+
+
+
+
+Understatement in Due to NGAs Account balance, ₱6,071,651.33; doubtful/ unsubstantiated balances, ₱38,612,929.64; 
+
+
+
+9)		The year-end balance of the Due to NGAs account of ₱276,327,910.74 is unreliable due to:  a) total understatement amounting to ₱6,071,651.33; and b) the existence of an unsubstantiated balance of ₱38,612,929.64.  These deficiencies have affected the presentation of the accounts in the financial statements, contrary to P.D. 1445.
+
+
+
+	1)		Section 111 of the PD No. 1445 states:
+
+
+
+SECTION 111.  Keeping of accounts.
+
+
+
+	(1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	2)		Chapter 19 of the GAM for NGAs, Volume I, pertinently provides:
+
+
+
+Chapter 19
+
+
+
+FINANCIAL REPORTING
+
+
+
+	Sec. 6.	Qualitative Characteristics of Financial Reporting.  An entity shall present information including accounting policies in a manner that meets the following qualitative characteristics enumerated in PPSAS (Philippine Public Sector Accounting Standards) 1:
+
+
+
+x x x
+
+
+
+e.	Reliability - reliable information is free from material error and bias, and can be depended on by users to represent faithfully that which it purports to represent or could reasonably be expected to represent.
+
+
+
+f.	Faithful Representation – information to represent faithfully transactions and other events, it should be presented in accordance with the substance of the transactions and other events, and not merely their legal form.
+
+
+
+	3)		The GAM for NGAs, Volume III, describes Due to NGAs, as follows:
+
+
+
+Account Title
+
+Account Number
+
+Normal Balance
+
+Description 
+
+Due to NGAs
+
+20201050
+
+Credit
+
+This account is credited to recognize the receipt of funds for delivery of goods/services as authorized by law, fund transfers from NGAs, other than the BIR, for implementation of specific programs or projects subject to liquidation and other inter-agency transactions.  This account is debited for delivery of goods /services, liquidation of funds received and settlement of liabilities, and/or adjustments.
+
+
+
+	4)	The Due to NGAs account reported a year-end balance of ₱276,327,910.74, broken down as follows:
+
+
+
+Table 27. Breakdown of the Due to NGAs Account Balance, December 31, 2020 
+
+Campus
+
+FC-01 (RAF)
+
+FC-05 (IGF)
+
+FC-07 (TRF)
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+Main
+
+
+
+
+
+
+
+
+
+Bal. 1.1.2020
+
+₱  37,844,929.64
+
+-
+
+₱    37,547,342.63
+
+
+
+Debits
+
+(38,612,929.64)
+
+
+
+(22,128,052.76)
+
+
+
+Credits
+
+768,000.00
+
+
+
+260,414,082.97
+
+
+
+Bal., 12.31.2020
+
+-
+
+-
+
+₱ 275,833,372.84
+
+₱ 275,833,372.84
+
+
+
+
+
+
+
+
+
+
+
+Tanauan
+
+
+
+
+
+
+
+
+
+Bal. 1.1.2020
+
+(2,792,562.30)
+
+230,040.00
+
+165,062.97
+
+
+
+Debits
+
+-
+
+
+
+(24,000.00)
+
+
+
+Credits
+
+-
+
+
+
+24,000.00
+
+
+
+Bal., 12.31.2020
+
+(₱2,792,562.30)
+
+₱230,040.00
+
+₱165,062.97
+
+(₱2,397,459.33)
+
+
+
+
+
+
+
+
+
+
+
+Burauen
+
+
+
+
+
+
+
+
+
+Bal. 1.1.2020
+
+(477,620.00)
+
+(269,600.00)
+
+56,935.00
+
+
+
+Debits
+
+-
+
+-
+
+(177,440.00)
+
+
+
+Credits
+
+-
+
+-
+
+-
+
+
+
+Bal., 12.31.2020
+
+(₱477,620.00)
+
+(₱269,600.00)
+
+₱(120,505.00)
+
+(₱867,725.00)
+
+
+
+
+
+
+
+
+
+
+
+Carigara
+
+
+
+
+
+
+
+
+
+Bal. 1.1.2020
+
+317,711.50
+
+-
+
+1,904,130.07
+
+
+
+Debits
+
+(317,711.50)
+
+-
+
+-
+
+
+
+Credits
+
+-
+
+-
+
+317,711.50
+
+
+
+Bal., 12.31.2020
+
+-
+
+-
+
+₱2,221,841.57
+
+₱2,221,841.57
+
+
+
+
+
+
+
+
+
+
+
+Ormoc
+
+
+
+
+
+
+
+
+
+Bal. 1.1.2020
+
+1,406,452.17
+
+(30,020.00)
+
+137,448.49
+
+
+
+Debits
+
+-
+
+-
+
+(367,500.00)
+
+
+
+Credits
+
+-
+
+-
+
+391,500.00
+
+
+
+Bal. 12.31.2020
+
+₱1,406,452.17
+
+(₱30,020.00)
+
+161,448.49
+
+₱1,537,880.66
+
+Grand Balance, 2.31.2020
+
+
+
+
+
+
+
+₱ 276,327,910.74
+
+
+
+	5)		Under the Trust Receipts Fund (TRF) of the Main Campus reported in Table 27 above at ₱275,833,372.84, its corresponding SL showed the following figures:
+
+
+
+Table 28.  Schedule of Due to NGAs Account - Main Campus, December 31, 2020 (TRF)
+
+Description
+
+Amount
+
+Unreconciled Beginning balance (2016)
+
+₱     (858,438.91)
+
+Bicol
+
+(6,045.00)
+
+CHED – Development of Technopreneurship Hub in EVSU
+
+9,591,360
+
+CHED Skolar ng Bayan
+
+13,212.38
+
+CHED – Tertiary Education Subsidy
+
+217,380,969.79
+
+CHED Labview Academy
+
+(14,701.00)
+
+CHED K to 12 Transition Scholarship
+
+(22,455.00)
+
+DILG CSIS
+
+58,558.50
+
+DOST – Scholar/STIR
+
+22,332.24
+
+DOST CRADLE
+
+2,770,275.33
+
+DOST Cleaner
+
+102,750.00
+
+DOST Energy Audit
+
+114,750.00
+
+DOST GIA (FIC/Meter Calibration)
+
+6,720,444.73
+
+DOST PCHRD
+
+2,955,326.32
+
+DOST MPEX
+
+623,127.52
+
+DOST PCIEERD
+
+(131,581.45)
+
+DOST TBI-SSF
+
+200,000.00
+
+DSWD
+
+(188,360.00)
+
+Reducing Disaster Caused by Rain-Induces Landslide Projects
+
+177,248.50
+
+St. Andrew Publishing House, Inc. Assistance
+
+(31,016.00)
+
+GJ-Adjustments
+
+36,355,614.89
+
+Grand Total
+
+₱275,833,372.84
+
+
+
+	6)		During the audit of the account, the Audit Team noted the following deficiencies:
+
+	
+
+a)		Total understatement amounting to ₱6,071,651.33 caused by:
+
+
+
+1)	Presence of abnormal/negative balances aggregating ₱4,942,904.66 has understated the balance of the account as of December 31, 2020.
+
+
+
+	7)		In Table 27 above,  the Due to NGAs account of the different campuses  reporting negative balances totaling ₱3,690,307.30 include:
+
+
+
+	Tanauan  (RAF) -	P2,792,562.30
+
+	Burauen  (RAF) -	477,620.00
+
+	(IGF) -	269,600.00
+
+	(TRF) -	120,505.00
+
+	Ormoc  (IGF) -	30,020.00
+
+	Total	₱3,690,307.30
+
+	8)		Likewise, in Table 27 containing the Schedule of Due to NGAs – Main Campus, (TRF) fund transfers that have abnormal balances totaling ₱1,252,597.36 were also noted.
+
+
+
+	9)		Due to NGAs has a normal credit balance.  The account is debited for delivery of goods/services, liquidation of funds received and settlement of liabilities, and/or adjustments.  Thus, the negative balances are abnormal balances and indicate that errors were committed in recording delivery of goods/services, liquidation of funds received and settlement of liabilities, and/or adjustments.  These abnormal balances should therefore be investigated and reconciled.
+
+
+
+	10)		These abnormal balances have been in the books for several years and have not been reconciled or adjusted, thus the account remains understated.  This observation was included in last year’s report but the recommendation has not been implemented, hence, this reiteration.
+
+
+
+2)	Funds received from the Department of Agriculture – ACEF totaling ₱390,790.00 were not recorded in the books of the EVSU Burauen.
+
+
+
+	11)		Also during the audit, it was noted that there were fund transfers received from the Department of Agriculture DA-ACEF as financial assistance for selected student-beneficiaries for SY 2016-2019.  These transfers were not recorded in the books although their corresponding disbursements and liquidations were already recorded.
+
+
+
+	12)		The unrecorded receipts of funds are identified as follows:
+
+
+
+1)	CHED-DA ACEF Batch 7 received 
+
+And acknowledged under
+
+	OR No. 1971350 dated Nov. 17, 2019	₱213,350.00
+
+
+
+2)	CHED-DA ACEF for 4 scholars for
+
+SY 2016-2019 credited directly to the
+
+	bank last November 13, 2019	177,440.00
+
+	Total unrecorded fund transfers	₱390,790.00
+
+
+
+	13)		These unrecorded fund transfers understated the Due to NGAs and the Cash in Bank – Local Currency, Current Account.
+
+
+
+3)	Cancelled checks intended to return the unexpended balances of fund transfers aggregating ₱737,956.67 were not recorded in the books.
+
+
+
+	14)		The Audit Team also noted that during the year checks were drawn to return the unexpended balances of three fund transfers amounting to ₱737,956.67.  These checks however were cancelled but their cancellation was not recorded in the books, thus understating the Due to NGAs and the Cash in Bank – Local Currency, Current Account.  The details are as follows:
+
+
+
+Table 29. List of Cancelled Checks for TRF – Main Campus
+
+Check No. & Date
+
+Amount
+
+Payee
+
+Particulars
+
+Ck# 52799387
+
+       2/24/2020
+
+₱    44,626.29
+
+PCIEERD,
+
+DOST RO8
+
+Return of unexpended balance of PCIEERD under DOST
+
+Ck# 52799389 
+
+       3/18/2020
+
+388,330.00
+
+	DOST RO8
+
+Return of unexpended balance of MSMEs Phase 2
+
+Ck# 52799416
+
+      10/26/2020
+
+305,000.00
+
+Bureau of Treasury FAO – CHED RO8
+
+Return of Unexpended PSF 2nd Tranche
+
+Total
+
+₱737,956.67
+
+
+
+
+
+
+
+	15)		During the audit, it was noted that the Accounting Office of the Main Campus did not prepare the bank reconciliation statements so that the non-recording of these cancelled checks were not detected.
+
+
+
+b)		Presence of unsubstantiated balances, ₱38,612,929.64 - TRF
+
+
+
+	16)		Also shown in Table 28 above is the unreconciled beginning balance for CY 2016 amounting to ₱858,438.91, which is reported as a negative balance.  Likewise, in the same Table 28 is the caption GJ– Adjustments amounting to ₱36,355,614.89.  The amount refers to entries/adjustments made as follows:
+
+
+
+Table 30. General Journal Adjustments
+
+JEV#
+
+Particulars
+
+Amount
+
+
+
+
+
+Debit
+
+Credit
+
+07-2020-01-0042
+
+To correct entry recorded for the payment of books and other library references for students, teaching and library clients per PO#15-0770 
+
+₱  291,010.00
+
+
+
+07-2020-01-0045
+
+To correct entry recorded for the payment of library references per PO#15-0736
+
+492,706.00
+
+
+
+07-2020-01-0044
+
+T15-0941o correct entry recorded for the payment of library references from Philippine Health and Home per PO#
+
+102,213.75
+
+
+
+07-2020-01-0044
+
+To correct entry recorded for the payment of library references per PO#15-0756
+
+1,066,385.00
+
+
+
+07-2020-01-0043
+
+To return the unexpended balance for the Financial Assistance from the President’s Social Fund to government employees affected by the 7.2 magnitude earthquake and Super Typhoon “Yolanda” (CHED-PMS) – 2nd Tranche
+
+305,000.00
+
+
+
+07-2020-12-0321
+
+Prior period adjustment.  To transfer balances for the transaction of Due to NGAs account inadvertently forwarded to RAF during years 2009-2014.
+
+
+
+₱38,612,929.64
+
+
+
+Totals
+
+2,257,314.75
+
+38,612,929.64
+
+
+
+Balance
+
+
+
+₱36,355,614.89
+
+	
+
+	17)		Included in this balance is the fund transfer of ₱38,612,929.64 from the RAF, which was transferred to the TRF under JEV NO. 07-2020-12-0321.  These balances even while still under the RAF were not supported with the Memorandum of Agreement (MOA) or contracts or any other documents that would identify the programs and projects these funds were intended for, and from where (source agency) the funds came from.
+
+
+
+	18)		This practice does not enable the Audit Team to determine the composition of the funds, and the purpose for which these funds were intended.
+
+
+
+	19)		In view of the foregoing, the Due to NGAs account balance of ₱276,327,910.74 as of December 31, 2020 is inaccurate and unreliable due to total understatement of ₱6,071,651.33 and doubtful/unsubstantiated balance of ₱38,612,929.64.
+
+
+
+	20)		We recommended that the University President submit to the Audit Team, Memorandum of Agreement or contracts covering all fund transfers to substantiate balances amounting to ₱38,612,929.64.
+
+
+
+	21)		Also, we recommend that the University President require the Accountants to:
+
+
+
+	a)	fast track the verification and investigation of the negative/abnormal balances totaling ₱4,942,904.66 of the account Due to NGAs so that this is fairly presented in the financial statements;
+
+
+
+	b)	record in the books of EVSU Burauen Campus the fund transfers from CHED-DA ACEF amounting to ₱390,790.00;
+
+
+
+	c)	record in the books of EVSU Main Campus, the cancelled checks under the TRF amounting to ₱737,956.67.
+
+
+
+	22)		Management commented that the Accountants are conducting an ongoing verification and investigation of the balances of the Due to NGAs account and those abnormal balances which were forwarded from the prior years. Initial adjusting entries were already prepared for those transactions that were identified that needs to be corrected. Rest assured that the Accounting Offices of the university shall exert their best effort, and if needed, add an Accounting Personnel to assist in the reconciliation not only for the Due to NGAs account, but for other accounts that needs to be reconciled as well.  Further, Journal Entries were already prepared by the EVSU Burauen Campus to record the CHED-DA ACEF fund transfer amounting to ₱390,700.00, and the cancelled checks under the EVSU Main Campus amounting to ₱737,956.67 were already adjusted in 2021.
+
+
+
+	23)		Management is requested to submit to the audit team the JEVs and supporting documents for the adjustment to be made in view of the reconciliation and verification of the account.
+
+
+
+
+
+Understatement of Other Payables account balance by ₱ 18,844,790.43 and doubtful/ unsubstantiated balance, ₱91,042,216.72 
+
+
+
+10)		The Other Payables year-end balance of ₱84,016,372.16 is unreliable due to: a) total understatement of ₱ 18,844,790.43; and b) unsubstantiated balance of ₱91,042,216.72; thus, affecting the fair presentation of the account balance in the financial statements.
+
+
+
+	1)		Pertinent sections of PD 1445 states:
+
+
+
+SECTION 111. Keeping of accounts. - (1) The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+(2) The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	2)		Under Executive Order (EO) No. 87 dated August 13, 2019, the President orders the reversion of accounts payables, which remain outstanding for two years or more in the books, thus:
+
+
+
+Section 1.  Reversion of Documented Accounts Payable.  All documented accounts payable for fiscal year 2016 and years prior thereto shall be reverted to the Accumulated Surplus or Deficit of the General Fund, or the Cumulative Result of Operations of the National Government.  Henceforth, all documented accounts payable which remained outstanding for at least two years, for which no actual administrative or judicial claim has been filed, shall be subject to automatic reversion.
+
+
+
+Section 2.  Treatment of Undocumented Accounts Payable.  All accounts payable which are undocumented or not covered by perfected contracts on record, regardless of the year they were incurred, shall automatically be reverted.  The recording of undocumented accounts payables in the books of accounts of agencies shall be strictly prohibited.
+
+	3)		The implementing guidelines of EO No. 87 were, however, issued on March 8, 2021 through Joint Memorandum Circular No. 1, s. of 2021, of the Department of Budget and Management and the Commission and Audit.
+
+
+
+	4)		On the other hand, Chapter 19 of the GAM for NGAs, Volume I, pertinently provides:
+
+
+
+Chapter 19
+
+
+
+FINANCIAL REPORTING
+
+
+
+Sec.  6.		Qualitative Characteristics of Financial Reporting.  An entity shall present information including accounting policies in a manner that meets the following qualitative characteristics enumerated in PPSAS (Philippine Public Sector Accounting Standards) 1:
+
+
+
+x x x
+
+
+
+e.	Reliability - reliable information is free from material error and bias, and can be depended on by users to represent faithfully that which it purports to represent or could reasonably be expected to represent.
+
+
+
+f.	Faithful Representation – information to represent faithfully transactions and other events, it should be presented in accordance with the substance of the transactions and other events, and not merely their legal form.
+
+
+
+
+
+	5)		The GAM for NGAs, Volume III, describes the following accounts:
+
+
+
+
+
+	2	Liabilities 
+
+	01	Financial Liabilities 
+
+01 Payables 
+
+
+
+Account Title
+
+Account Number
+
+Normal Balance
+
+Description 
+
+Accounts Payable
+
+20101010
+
+Credit
+
+This account is used to recognize receipt of goods or services on account in the normal course of trade and business operation. Debit this account for payment or settlement of liabilities.
+
+
+
+X x x
+
+
+
+	99	Other Payables
+
+	99	Other Payables
+
+
+
+Account Title
+
+Account Number
+
+Normal Balance
+
+Description 
+
+Other Payables 
+
+29999990
+
+Credit
+
+This account is credited to recognize other liabilities not falling under any of the specific payable accounts. This account is debited for payment or settlement of liabilities, and/or adjustment.
+
+
+
+	6)		Likewise, Appendix 6 of the GAM for NGAs, Volume II, specifically provides:
+
+
+
+SUBSIDIARY LEDGER
+
+(SL)
+
+
+
+INSTRUCTIONS
+
+
+
+A)			This ledger shows detail for each control account in the GL which is maintained per account and fund cluster by the Accounting Division/Unit.
+
+
+
+B)			It shall be accomplished as follows:
+
+
+
+1)			Entity Name  –   name of the agency/entity
+
+2)			Fund Cluster – the fund cluster name/code in accordance with the UACS
+
+3)			Account of/Office/Address/Contact Person/Number – name, office address and contact number/e-mail address of the debtor/creditor (individuals, companies, agencies). In case of an agency/company, include the name, telephone number/e-mail address of the contact person.
+
+4)			GL Account Code – GL account code prescribed in the RCA 
+
+5)			SL Account Code – SL account code assigned by the agency/entity
+
+6)			Date – date of the source documents (i.e., JEV, OR, etc.) 
+
+7)			Particulars – other information or details pertaining to the transaction
+
+8)			Ref. – reference document such as the Statement of Account/JEV/OR/DV number, etc.
+
+9)			Debit Column – amount being debited to the account
+
+10)			Credit Column – amount being credited to the account
+
+11)			Balance – the difference between the Debit and Credit columns. Place parentheses in the amount with a negative balance.
+
+
+
+C)			At the end of each month, after all transactions in the journals have been posted, the debit and credit columns of each account shall be footed in pencil and the balance indicated in ink. The totals of the SL balances shall be reconciled with the corresponding GL controlling account.
+
+
+
+D)			At the end of the fiscal year, each SL shall be ruled and closed.  All totals shall be written legibly in ink and the balance of the account carried forward as the opening balance of the new SL for the next fiscal year.
+
+
+
+	7)		The Other Payables account reported a year-end balance of ₱84,016,372.16, with details in Table 31.
+
+
+
+Table 31: Details of Other Payables Account Balance, December 31, 2020 
+
+Campus
+
+FC-01 (RAF)
+
+FC-05 (IGF)
+
+FC-06 B(RF)
+
+FC-07
+
+Total
+
+Main
+
+₱66,881,800.34
+
+1,492,832.45
+
+9,227.55
+
+-9,245,226.88
+
+₱59,138,633.46
+
+Burauen
+
+3,833,914.62
+
+90,070.45
+
+-3,098.22
+
+437,591.50
+
+4,358,478.35
+
+Carigara
+
+4,964,246.26
+
+-200,948.60
+
+148,715.50
+
+-
+
+4,912,013.16
+
+Ormoc
+
+15,054,218.88
+
+25,135.90
+
+    17,056.30
+
+-
+
+15,096,411.08
+
+Tanauan
+
+137,476.11
+
+-
+
+-
+
+373,360.00
+
+510,836.11
+
+Total
+
+₱90,871,656.21
+
+1,407,090.20
+
+171,901.13
+
+-8,434,275.38
+
+₱84,016,372.16
+
+
+
+	8)		Audit of accounts and verification of records and documents submitted showed the following deficiencies:
+
+	
+
+a)		Total understatement of ₱ 18,844,790.43 due to:
+
+
+
+1)	Presence of abnormal balances, ₱ 9,932,584.99
+
+
+
+	9)		The Schedules of Other Payables and subsidiary ledgers as of December 31, 2020 of various campuses that have reported balances in the negative are presented in the table below:
+
+
+
+Table 32: Negative Balances Reported for Other Payables, December 31, 2020
+
+Campus
+
+Balance
+
+Remarks/Name of Creditor
+
+Main – RAF
+
+₱     141,107.51
+
+-EVSU MPCI, Creditor; unreconciled
+
+Main – TRF
+
+
+
+
+
+
+
+8,919,005.66
+
+
+
+366,000.00
+
+35,905.00
+
+-Unreconciled beginning balance that has been in the books for several years already
+
+-Refunds of Year Book
+
+-St. Andrew Publishing House, Inc.
+
+Burauen-BRF
+
+3,098.22
+
+-Unreconciled balance from prior years
+
+Carigara-IGF
+
+200,948.60
+
+-Unreconciled balance from prior years
+
+Tanauan-TRF
+
+266,520.00
+
+-Unreconciled balance from prior years
+
+Total
+
+₱9,932,584.99
+
+
+
+
+
+	10)		These negative balances are abnormal and indicate that errors were committed in recording Other Payables, settlement of liabilities and adjustments, thus need to be reconciled and adjusted.  Subsidiary ledgers were prepared only in CY 2019 in compliance with the audit recommendation.  Thus, the payables of the prior years were finally monitored and the resulting negative balances were noted.
+
+
+
+2)	Derecognized Payables, ₱8,724,425.44
+
+
+
+	11)		Also noted during the verification was the dropping from the books of Tanauan Campus of its unsubstantiated balance as of January 1, 2020 totaling ₱8,724,425.44, without legal basis and adequate documentation to explain the JEV, with details below:
+
+
+
+Table 33: List of balances dropped from the books without legal basis
+
+Campus
+
+Amount
+
+Reference/Entry Made/Description
+
+Tanauan – RAF
+
+₱8,722,510.44
+
+JEV No. 01-2020-03-0152 
+
+
+
+	Other Payables	₱8,722,510.44
+
+	Accumulated Surplus (Deficit) 	₱8,722,510.44
+
+
+
+- To remove Other Payables balance in the books not supported by any existing and present claims from employees, creditors, suppliers or other agencies.
+
+Tanauan – BRF
+
+1,915.00
+
+JEV No. 06-2020-03-0042 
+
+
+
+	Other Payables 	₱1,915.00
+
+	Accumulated Surplus (Deficit) 	₱1,915.00
+
+
+
+– To remove Other Payables balance in the books not supported by any existing and present claims from employees, creditors, suppliers or other agencies.
+
+Total
+
+₱8,724,425.44
+
+
+
+	
+
+	12)		The above amount of ₱8,724,425.44 was unreconciled and accounted but was recorded in the books of the Tanauan Campus books for several years already.  This has been discussed in the prior year’s audit findings with the recommendation to substantiate the same.  The Tanauan Campus responded by dropping the total balance from the records without first undertaking the process of fully documenting the composition of the balance.
+
+
+
+	13)		Thus, it would have been more prudent for Tanauan Campus if it waited for the issuance of the guidelines and investigated first the nature of these payables before effecting automatic reversion.
+
+
+
+	14)		The recommendation by the Audit Team for the unaccounted balances was not for their derecognition, but to work on the substantiation of the amount by tracing the history of transactions, related records and documents.
+
+
+
+	15)		Dropping the amount from the records of the Tanauan Campus has understated the Other Payables account by ₱8,724,425.44.
+
+
+
+3)	Existence of accounting errors of ₱187,780.00
+
+
+
+	16)		Errors were also noted in the review and verification of the transactions and the accounting records of the Tanauan and Carigara Campuses totaling ₱187,780.00, with details in the table below:
+
+
+
+Table 34.  List of Errors Noted in Other Payables account, December 31, 2020
+
+Campus
+
+Error
+
+Effect/Explanation
+
+Tanauan – TRF
+
+₱186,680.00
+
+Understatement.  The error refers to JEV No. 07-2020-03- 0090 with the description to correct error in recording to the School Fees account instead of recording to Other Payables the receipt of payments for the Student Educational Tour FY 2108 amounting to ₱453,200.00.  However, the amount of adjustment recorded was ₱639,880.00 instead of ₱453,200.00, thus resulting in the understatement of the account by ₱ 186,680.00.
+
+Carigara – RAF
+
+1,100.00
+
+Understatement. Salary deductions in the payroll of casual employees for the month of January 2020 for bangus sales on credit amounting to ₱1,100.00 not recorded to Other Payables, hence, understating the account.
+
+
+
+Naadat, Mario             ₱550.00
+
+Ricacho, Santiago         550.00. ₱1,100.00
+
+
+
+The amount of ₱1,100.00 was included in the remittance for the month of January 2020 to Business Related Funds of Carigara Campus.
+
+Total
+
+₱187,780.00
+
+
+
+	
+
+	17)		The above errors have understated the Other Payables account by ₱187,780.00 and should be adjusted accordingly.
+
+
+
+b)		Unsubstantiated balances - ₱91,042,216.72
+
+
+
+Likewise, during audit, it was also noted that the Schedules and the SLs submitted carried beginning balances from the prior years which have remained unsubstantiated as follows:
+
+
+
+Table 35. Details of Unsubstantiated Balances of the EVSU Campuses as of December 31, 2020 
+
+Campus
+
+FC-01 (RAF)
+
+FC-05 (IGF)
+
+FC-06 (BRF)
+
+FC-07(TRF)
+
+Total
+
+Main
+
+₱66,660,740.27
+
+-
+
+-
+
+9,227.55
+
+₱66,669,967.82
+
+Burauen
+
+3,640,565.32
+
+90,070.45
+
+
+
+437,591.50
+
+4,168,227.27
+
+Carigara
+
+4,964,246.26
+
+
+
+148,715.50
+
+-
+
+5,112,961.76
+
+Ormoc
+
+15,048,867.67
+
+25,135.90
+
+17,056.30
+
+-
+
+15,091,059.87
+
+Tanauan
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total
+
+₱90,314,419.52
+
+115,206.35
+
+165,771.80
+
+446,819.05
+
+₱91,042,216.72
+
+
+
+	18)		The University Accountant explained that they are still in the process of tracing the transactions involved in these balances.  As for the balances under FC-01 RAF of Ormoc Campus, their cashier, who was once personnel of the Accounting Office at the Ormoc Campus, explained that the ₱15,048,867.67 balance can be traced to fiduciary funds collected from students prior to CY 2017.  She promised to perform the tracing and validation as she still has the records up to 2016.  Again, the accumulation of these unsubstantiated balances is the result of the failure of the Accountants to maintain SLs in the prior years.
+
+
+
+4)	Improper preparation and maintenance of subsidiary ledgers
+
+
+
+	19)		Audit also revealed that only one SL was maintained for the Other Payables account under RAF and IGF in the Carigara Campus; and that only the remittances were recorded and posted to the SL.  The amount withheld or deducted from the salaries of the employees was not recorded, resulting in the negative balance of the SL of ₱1,182,928.41.  The incorrect posting and maintenance of SL has affected the details of the controlling account by understating the account.
+
+
+
+	20)		In view of the deficiencies herein discussed, the University’s Other Payables balance of ₱ 84,016,372.16 as of December 31, 2020 was rendered inaccurate and unreliable, thus affecting its fair presentation in the financial statements.
+
+
+
+	21)		We recommended that the University President require all Accountants to:
+
+
+
+	a)	exert more effort at investigating the causes of the abnormal balances of the GLs at the Main Campus, and make the necessary adjustments to arrive at a correct and reconciled account balances;
+
+
+
+	b)	fast track the tracing of the transactions for the unsubstantiated balances, and make the necessary adjusting entries, if any, to come up with correct and reconciled balances;
+
+
+
+	c)	reverse the entry for Accumulated Surplus (Deficit) Account for the balances of the BRF and RAF in the amount of ₱8,724,425.44 recorded at the Tanauan Campus books, and trace the history of transactions, related records and documents to come up with an appropriate disposition of the balances;
+
+
+
+	d)	make the necessary adjustment on the errors to the Other Payables totaling ₱187,780.00; and
+
+
+
+	e)	undertake the preparation and maintenance of subsidiary ledgers for all accounts of Other Payables in the proper manner so the balance is accurately presented in the financial statements.
+
+	22)		Management stated that the Accountants of all the campuses are exerting their best efforts in the ongoing investigation of the abnormal balances of the account to determine the composition of the account balance.
+
+
+
+Further, additional accounting staff shall be hired to assist in the review and reconciliation of accounts and fast track the tracing of transactions to be able to identify the necessary adjustments to be made and correct the account balances.
+
+
+
+	23)		While Management accepted all the recommendations presented, Management has yet to set targets/deadlines when the investigation and reconciliation of the abnormal balances and the substantiation of unsupported balances will be conducted and completed.  Also, Management is requested to submit to COA, copy of the JEVs and supporting documents corresponding to the adjustment that will be made as a result of the review and reconciliation of the account if any, for the timely review and validation.
+
+
+
+
+
+Salary differential of EVSU-Main Campus employees amounting to ₱3,232,778.00 erroneously recorded to Honoraria-Civilian account
+
+
+
+11)		The Honoraria-Civilian account balance reported at ₱54,261,798.97 as of December 31, 2020 is not fairly presented because of the erroneous recording to the account of the salary differential of EVSU-Main Campus employees amounting to ₱3,232,778.00, contrary to Section 111 of PD No. 1445 and Chapter 3 of the GAM for NGAs, Volume III.
+
+
+
+	1)		Section 111 of PD No. 1445 provides:
+
+
+
+	Section 111.	Keeping of accounts.
+
+
+
+	(1)	he accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+	
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+	
+
+	2)		Likewise, COA Circular No. 2020-01 dated January 8, 2020, prescribing, among others, Volume III-Revised Chart of Accounts (Updated 2019) to replace Volume III-The Revised Chart of Accounts (Updated 2015) of the GAM for NGAs, describes the following accounts:
+
+
+
+Account Title
+
+Account Number
+
+Normal Balance
+
+Description 
+
+Honoraria
+
+50102100
+
+Debit
+
+This account is debited to recognize the payment given to professionals for services in recognition of their expertise, broad and superior knowledge in specific fields and special projects.  This also include payments to lecturers, resource persons, coordinators and facilitators in seminars, training programs and other similar activities in training institutions including those who render services beyond their regular workload.  This account is credited, at year end, to close to the Revenue and Expense Summary account, and/or adjustments.
+
+
+
+
+
+Account Title
+
+Account Number
+
+Normal Balance
+
+Description 
+
+Salaries and Wages-Regular
+
+50101010
+
+Debit
+
+This account is debited to recognize the pay proper for services rendered of government employees occupying regular plantilla positions. This account is credited, at year end, to close to the Revenue and Expense Summary account, and/or adjustments.
+
+
+
+
+
+	3)	Verification of the Honoraria-Civilian account of the EVSU Main Campus revealed the following deficiencies:
+
+
+
+a.	Erroneous recording of salary differential, ₱3,232,778.00
+
+
+
+	4)		The salary differential of the employees of the Main Campus authorized under NBC 461 (7th Cycle) for the period from July to December 2019, and from January to February 2020 was erroneously recorded to the Honoria-Civilian account.  This should have been recorded to the Salaries and Wages-Regular account.  The details are shown below:
+
+
+
+Table 36.  Schedule of Honoraria Erroneously Recorded as of December 31, 2020
+
+Particulars
+
+
+
+ORS/DV No.
+
+Date
+
+Amount
+
+Transfer payment for the payroll of Salary differential per NBC 461 (7th Cycle) for the period July to December 2019 and January to February 2020.
+
+CAAD
+
+01-01101101-2020-02-0119 / 2020-03-0159
+
+Feb. 28, 2020 /Mar. 2, 2020
+
+₱     34,100.00
+
+
+
+CAS
+
+
+
+
+
+1,004,206.00
+
+
+
+COBE
+
+
+
+
+
+193,294.00
+
+
+
+COE
+
+
+
+
+
+483,650.00
+
+
+
+COED
+
+
+
+
+
+1,092,198.00
+
+
+
+COT
+
+
+
+
+
+378,694.00
+
+
+
+Extension (COED)
+
+
+
+
+
+25,600.00
+
+
+
+Research (CAS)
+
+
+
+
+
+21,036.00
+
+Grand Total
+
+
+
+
+
+
+
+₱3,232,778.00
+
+	5)		In an interview, the University Accountant informed the Audit Team that the transaction was inadvertently recorded to the Honoraria-Civilian account instead of the Salaries and Wages-Regular account, thus overstating the Honoraria-Civilian account and understating the Salaries and Wages-Regular account by the same amount.
+
+
+
+	6)		This deficiency has misstated these accounts in the financial statements.
+
+
+
+	7)		We recommended that the University President require the University Accountant to:
+
+
+
+a.	make the necessary adjustments to correct the errors made in recording the transactions; and
+
+
+
+b.	strictly adhere to the provisions of Section 111 of PD No. 1445 to ensure the reliability and accuracy of the account balances of the financial statements, and the consistency in the use of accounts pursuant to Chapter 3 of the GAM for NGAs, Volume III.
+
+
+
+	8)		Management commented that, “Disclosure in the Notes to Financial Statements for CY 2020 were made for the erroneous transaction. Adjustments/restatements have already been prepared by the Accounting Office to be reported in 2021 to correct the account balance of Honoraria-Civilian account and Salaries and Wages – Regular account.
+
+
+
+Management assured the Audit Team that due diligence and best efforts are being made by the Accounting Offices of the university in recording current financial transactions and shall diligently prepare and review to ensure the reliability and accuracy of the account balances.”
+
+
+
+	9)		The Audit Team requests Management to submit copy of JEVs with supporting documents for timely audit of the account.
+
+
+
+
+
+Delayed submission of Financial Reports and its supporting documents
+
+
+
+12)		Financial Statements, Trial Balances, Bank Reconciliation Statements (BRS), and their supporting schedules CY 2020 were not submitted to the Audit Team within the reglementary period of submission, contrary to Section 122 of PD No. 1445; Section 7.2.1 (a) of COA Circular No. 2009-006 dated September 15, 2009; Sections 48 and 60 of Chapter 19, and Section 7 of Chapter 21, of the GAM for NGAs, Volume I.
+
+
+
+	1)		Section 122 of PD No. 1445 provides:
+
+
+
+Sec. 122. Submission of reports. – (1) Whenever deemed necessary in the exigencies of the service, the Commission may under regulations issued by it require the agency heads, chief accountants, budget officers, cashiers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla of personnel, and such other reports as may be necessary for the exercise of its functions.
+
+
+
+(2) Failure on the part of officials concerned to submit the documents and reports mentioned herein shall automatically cause the suspension of payment of their salaries until they shall have complied with the requirements of the Commission.
+
+
+
+X x x
+
+
+
+	2)		Section 7.2 of COA Circular No. 2009-006 dated September 15, 2009 pertinently provides:
+
+
+
+7.2	Responsibility of the Agency Accountant
+
+
+
+	7.2.1	The Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that:
+
+	
+
+a)		the reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month;
+
+
+
+x x x
+
+
+
+	3)		Likewise, Chapters 19 and 21 of the GAM for NGAs, Volume I, further provide:
+
+
+
+Chapter 19
+
+
+
+FINANCIAL REPORTING
+
+
+
+Sec. 48.  Trial Balance. Trial Balance (TB) is the list of all the GL accounts and their balances at a given time. The accounts are listed in the order in which they appear in the RCA, with the debit balances in the left column and the credit balance in the right column.
+
+
+
+a)	The TB shows the equality of debit and credit balances of all GL accounts as at a given period.  It is prepared and submitted monthly, quarterly and annually.  At the end of the fiscal year, the pre-closing and the post-closing trial balances shall be prepared.
+
+
+
+b)	x x x
+
+
+
+x x x
+
+
+
+Sec. 60. Deadlines of Submission of Reports.  All NGAs shall prepare and submit the following financial statements and schedules as follows, within the prescribed deadline:
+
+
+
+a)		Provincial Offices and Operating Units
+
+xxx
+
+
+
+b)		Regional/Branches Offices
+
+xxx
+
+
+
+c)		Central/Head/Main Offices
+
+
+
+Entity/Office	Statement/Report	Deadline 	   Submit to:
+
+Monthly         	TBs and SSs		Ten days after	   Auditor, DBM,
+
+						the end of the	   Management
+
+						month
+
+
+
+Quarterly	TBs, FSs, SSs		Ten days after	   Auditor, DBM,
+
+						the end of the	   Management
+
+						quarter
+
+
+
+Year-end	TBs, FS, SSs		February 14 of	   COA Auditor,
+
+			(combined CO,	the following	   DBM, COA-GAS
+
+			ROs and OUs)		year
+
+
+
+
+
+x x x
+
+
+
+
+
+Chapter 21
+
+
+
+BANK RECONCILIATION 
+
+
+
+Sec. 7. Reporting. The Chief Accountant shall submit the BRS within twenty days after receipt of the monthly BS to the following:
+
+
+
+	Original	COA Auditor (with all the supporting documents and JEVs)
+
+	Copy 2	Head of Agency/Entity
+
+	Copy 3	Accounting Division/Unit file
+
+	Copy 4	Bank, if necessary
+
+
+
+	4)		The above cited provisions require management to submit regularly and on time, financial statements, trial balances and other financial reports and their supporting documents to the Office of the Audit.
+
+
+
+	5)		However, despite verbal and written follow-ups of the Audit Team for the submission of these reports, records showed that Management still failed to submit the Annual Financial Statements, Trial Balance, Financial Reports, and BRSs and their supporting documents within the reglementary period, as shown in Table 37.
+
+	
+
+Table 37:  Submission of Financial Statements and Other Financial Reports for CY 2020 
+
+	Reports for Submission
+
+	Reporting Period (Frequency)
+
+	Submission Timelines
+
+	Date submitted
+
+	1.	Financial Statements and Supporting Schedules
+
+	Quarterly
+
+	
+
+	
+
+	Ten days after end of the quarter
+
+	Soft copy of the year-end Financial Statements were received thru email on May 18, 2021
+
+	
+
+	Annual
+
+	February 14, 2021
+
+	
+
+	2.	Trial Balance (TB)
+
+	Monthly
+
+	Ten days after the end of the month
+
+	Year-end Trial Balance were received thru email on April 26, 2021
+
+	3.	Financial Reports (RCI/ RADAI/ ROD/ RCD) and Supporting Documents (DVs/ Paid Payrolls/ ORs & JEV):
+
+	
+
+			a.	Main Campus
+
+	Monthly
+
+	Within Ten days of the ensuing month
+
+	
+
+			b.	External Campuses
+
+	
+
+	
+
+	
+
+	4.	Bank Reconciliation Statements (BRS):
+
+	Monthly
+
+	Within 20 days after receipt of the monthly Bank Statements (BSs)
+
+	
+
+			a.	Main Campus
+
+	
+
+	
+
+	
+
+			b.	External Campuses
+
+		Ormoc
+
+		Tanauan
+
+		Burauen
+
+		Carigara
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	No submission (all funds)
+
+	No submission (all funds)
+
+	
+
+	6)		In several audit observations, it has been reiterated to Management that the timely submission of Financial Statements and other Financial Reports is important for determining the correctness, accuracy and reliability of the accounts, and the early detection and corrections of errors, deficiencies and misstatements that may be found thereon.
+
+
+
+	7)		Moreover, the delayed submission of the required reports has hindered the Audit Team from undertaking the timely verification and validation of CY 2020 transactions and accounts as well as reporting the audit results to Management.
+
+
+
+	8)		We recommend that the University President: 
+
+
+
+	a.	require the Director of Finance Services, and the University Accountant to submit immediately to the Audit Team, the Financial Statements, Trial Balance, BRS and their supporting documents for CY 2020; and
+
+
+
+	b.	take appropriate action, against officials and employees concerned for the repeated failure to adhere to the provisions of the aforecited laws, rules and regulations; withhold the payment of salaries of officials/personnel responsible for the failure to submit the documents and reports mentioned herein until they shall have complied with the requirements of COA pursuant to Section 122(2) of PD No. 1445.
+
+
+
+	9)		Management commented that:
+
+
+
+The Consolidated Financial Statements, Trial Balances, and their supporting documents for CY  2020 have already been submitted to the COA Auditor’s office. The Main Campus, Tanauan Campus, and Ormoc City Campus have complied as to the submission of the Bank Reconciliation Statements, while Carigara Campus submitted the scanned copies of their Bank Reconciliation Statements and shall submit the hard copies the soonest possible time.
+
+
+
+The Accounting Office and Cashier’s Office have already submitted the financial reports required by the COA Auditor’s Office. The Finance team are exerting their best efforts to improve their reporting system through the implementation of the eNGAs.
+
+
+
+Management implored the consideration of the Commission on the much delayed submission because of the Covid-19 outbreak where the University had undergone lockdowns and change in its operation system such as collection of fees thru the banks that started September 2020, that while on its initial stage of implementation had encountered problems thus the Report of Collection and Deposits of the Cashier for the month of September 2020 could not be generated or prepared hence the financial reports too could not be prepared.  The problem was given solution only around March to April 2021.
+
+
+
+	10)		Soft copy of the complete year-end financial statements was emailed to the Audit Team on May 18, 2021 which is way beyond the deadline of submission on February 14, 2021.  Year-end Trial Balance was emailed April 26, 2021 when it was supposedly submitted January 10, 2021, ten days after the end of the last month of year 2020.
+
+
+
+The delayed submission of the financial statements, financial reports as well as their supporting schedules and transactions documents precluded the Audit Team from undertaking the timely verification and validation of CY 2020 transactions and accounts as well as reporting the audit results to Management.
+
+
+
+
+
+Unremitted unexpended funding requirements of External Campuses, ₱1,262,420.73
+
+
+
+13)		Unexpended fund of the Tanauan, Burauen, Ormoc and Carigara campuses in the aggregate amount of ₱1,262,420.73 was not remitted to National Treasury which has resulted in the accumulation of the cash balances in their respective Cash in Bank-Local Currency, Current Account, contrary to Paragraph 3.4.5 of the National Budget Circular (NBC) No. 578 dated January 6, 2020.
+
+
+
+	1)		Item 3.4.5 of the NBC No. 578 dated January 6, 2020, entitled “Guidelines on the Release of Funds for FY 2020” states that:
+
+
+
+	3.4.5.	After the end of validity period, all unreleased appropriations or unexpended or undisbursed funds shall revert to the unappropriated surplus of the General Fund, in accordance with Section 28, Chapter 4, Book VI of E.O. No. 292 and shall not be available for expenditure except by subsequent legislative enactment.
+
+
+
+	2)		Section 28 of Chapter 4, Book VI of E.O. No. 292 signed on July 25, 1987, provides:
+
+
+
+SECTION 28. Reversion of Unexpended Balances Appropriations, Continuing Appropriations. – Unexpended balances of appropriations authorized in the General Appropriation Act shall revert to the unappropriated surplus of the General Fund at the end of fiscal year and shall not thereafter be available for expenditure except by subsequent legislative enactment: Provided, that appropriations for capital outlays shall remain valid until fully spent or reverted: Provided, further, that continuing appropriations for current operating expenditures may be specifically recommended and approved as such in support of projects whose effective implementation calls for multi-year expenditure commitments: Provided, finally, that the President may authorize the use of savings realized by an agency during a given year to meet non-recurring expenditures in a subsequent year.
+
+
+
+	3)		Further review of the transactions and supporting documents revealed that the unexpended funds from the external campuses totaling ₱1,262,420.73 were recorded as Other Receivables, instead of returning them to the Bureau of Treasury (BTr).  The details of these transactions are presented in Table 38.
+
+
+
+Table 38: Unremitted Unused Funding Requirements Released to External Campuses
+
+Campuses
+
+Date
+
+JEV#
+
+Particulars
+
+Amount
+
+Tanauan
+
+12.31.2018
+
+GJ#01-2018-12-1013
+
+To record unexpended fund, transfer for FY 2018 funding requirements, net from the remittance made in 01/20/2020 in the amount of ₱245,327.06 with OR#849359, breakdown below:
+
+
+
+Unused              248,396.18
+
+Remittance        245,327.06
+
+Balance                 3,069.12
+
+
+
+₱       3,069.12
+
+
+
+12.31.2020
+
+GJ#01-2020-12-0558
+
+To record unexpended allotment CY 2020
+
+398,730.02
+
+
+
+Sub-total
+
+
+
+
+
+401,799.14
+
+
+
+Burauen
+
+12.31.2019
+
+GJ#01-2018-12-1039
+
+To record unexpended allotment for CY 2019
+
+308,536.95
+
+
+
+12.31.2020
+
+GJ#01-2020-12-0561
+
+To record unexpended allotment for CY 2020
+
+281,235.65
+
+
+
+Sub-total
+
+
+
+
+
+589,772.60
+
+
+
+*this amount excludes the ₱201,510.99 for FY 2018 unused fund transfers, already remitted to BTr under DBP Check No. 0058911901 dated June 19,2019.  However, as of December 31, 2020 this settlement was not yet recorded in the accounting books.
+
+Ormoc
+
+12.31.2019
+
+GJ#01-2019-12-0737
+
+To record unexpended allotment for CY 2019
+
+24,579.89
+
+
+
+12.31.2020
+
+GJ#01-2020-12-0554
+
+To record unexpended allotment for CY 2020
+
+179,128.33
+
+
+
+Sub-total
+
+
+
+
+
+203,708.22
+
+Carigara
+
+12.31.2018
+
+GJ#01-2018-12-0977
+
+To record unexpended fund, transfer for FY 2018 funding requirements, net from the remittance made in CYs 2019 and 2020 details below:
+
+
+
+Unused Allotment      ₱139,108.36
+
+Remittance/Return:
+
+1.24.2019 
+
+CRJ#01-2019-01-0014 (68,879.82)
+
+1/15/2020
+
+CRJ#01-2020-01-0018 (44,014.16)
+
+Balance:                        ₱26,214.38
+
+
+
+26,214.38
+
+
+
+12.31.2020
+
+GJ#01-2020-12-0571
+
+To record unexpended allotment for CY 2020
+
+40,926.39
+
+
+
+Sub-total
+
+
+
+
+
+
+
+67,140.77
+
+
+
+		Total
+
+₱1,262,420.73
+
+
+
+	4)	It has been the practice of the Main Campus to withdraw from its Modified Disbursement Scheme (MDS) account the Notice of Cash Allocation (NCA) requirements of the external campuses, and deposit the same to their respective Cash in Bank-Local Currency, Current Account upon receipt from the Main Campus.  The external campuses would then submit a report of their monthly transactions, and report their respective expenditures/disbursements to the Main Campus with their supporting documents for proper accounting and recording.  At year end, these unexpended funds are supposed to be remitted to the Main campus for return to the National Treasury but these funds have remained in the bank accounts of the respective campuses.
+
+
+
+	5)		In CY 2019, in compliance with the recommendation made by the Audit Team, a controlling account was set up by the Main Campus to monitor the disbursements and the unexpended balances of the fund releases made by the Main Campus to Tanauan, Burauen, Ormoc and Carigara Campuses.  The controlling account aimed to monitor and eventually enable the external campuses to remit the undisbursed releases to the BTr, or to the Main Campus for deposit to the National Treasury.
+
+
+
+	6)		However, upon thorough evaluation by the Audit Team, the Other Receivables account still contained the unutilized funding requirements of the external campuses, and which were not remitted to the BTr or to the Main Campus for return to the National Treasury.  This practice has resulted in the accumulation of cash in the Cash in Bank-Local Currency, Current Account of the respective campuses, thereby overstating the account.
+
+
+
+	7)		We recommended that the President instruct the Cashiers and the Accountants of the external campuses to:
+
+
+
+a.	remit the unused fund in the amount of ₱1,262,420.73 to the National Treasury, and to refrain from keeping unexpended allotments in the Other Receivables and Cash in Bank-Local Currency, Current Account in accordance with laws, rules and regulations; and
+
+
+
+b.	make the necessary adjusting entries upon remittance to the National Treasury, and submit the JEV supported with evidentiary documents to the Audit Team for verification.
+
+
+
+	8)		Management commented that the “Cashiers and Accountants of the External Campuses have remitted their unused funding for CY 2020 to the Main Campus, then the former to the National Treasury. Rest assured that this current year the unexpended allotments shall be remitted to the National Treasury within the current year.”
+
+
+
+	9)		The Audit Team emphasizes that since the BTr could not monitor and recoup the funding requirements downloaded to external campuses, it is then the agency’s obligation to monitor the return of the unexpended funds of the external campuses at the end of the calendar year since such funds are no longer valid or available for expenditure of the ensuing year.
+
+
+
+
+
+Erroneous Charging of the Honoraria of BOR to IGF, ₱440,075.00
+
+
+
+14)		Payments for Honoraria of the Board of Regents (BOR) of the EVSU-Main Campus, Tacloban City, for CYs 2019 and 2020 amounting to ₱440,075.00.00, were charged against the IGF, contrary to Item 6.0 of the NBC No.  2007-510 dated May 8, 2007 and Section 4(d) of RA No. 8292, thereby depleting the IGF of the University.
+
+
+
+	1)		Item 6.0 of DBM National Budget Circular No. 2007-510 dated May 8, 2007, entitled, “Guidelines on the Grant of Honoraria to the Governing Boards of Collegial Bodies,” states that:
+
+
+
+	6.0	Fund Sources
+
+
+
+The honoraria shall be sourced from the following:
+
+
+
+	6.1	For NGAs the amounts shall be charged against the appropriations for the purpose in the annual GAA, and any deficiency thereof shall be charged against savings.  No additional funding shall be provided by the government.
+
+
+
+	6.2	For GOCCs and GFIs, the amounts shall be charged against their respective corporate funds.
+
+
+
+	2)		Section 4(d) of RA No. 8292, also known as the Higher Education Modernization Act of 1997, states that:
+
+
+
+SECTION 4. Powers and Duties of Governing Boards. - The governing board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under Section 36 of Batas Pambansa Blg. 68, otherwise known as the Corporation Code of the Philippines:
+
+
+
+x x x
+
+	(d)	to fix the tuition fees and other necessary school charges, such as but not limited to matriculation fees, graduation fees and laboratory fees, as their respective boards may deem proper to impose after due consultations with the involved sectors.
+
+
+
+Such fees and charges, including government subsidies and other income generated by the university or college, shall constitute special trust funds and shall be deposited in any authorized government depository bank, and all interests shall accrue therefrom shall part of the same fund for the use of the university or college; Provided, That income derived from university hospitals shall be exclusively earmarked for the operating expenses of the hospitals.
+
+
+
+Any provision of existing laws, rules and regulations to the contrary notwithstanding, any income generated by the university or college from tuition fees and other charges,  as well as from the operation of auxiliary services and land grants, shall be retained by the university or college, and may be disbursed by the Board of Regents/Trustees for instruction, research, extension, or other programs/projects of the university or college: Provided, That all fiduciary fees shall be disbursed for the specific purposes for which they are collected.
+
+
+
+x x x
+
+
+
+	3)		Audit of the transactions during the year revealed that cash advances were drawn for the payment of honoraria to the BORs for board meetings conducted in CYs 2019 and 2020 totaling ₱506,375.00.  Of this amount, ₱440,075.00 was actually disbursed with a total of ₱364,435.00 paid out for meetings conducted in CY 2019 and ₱75,640.00 were disbursed for meetings conducted in CY 2020.  All of these disbursements were charged to the IGF, details of which are shown in the table below:
+
+
+
+	Table 39. Cash Advances for the Honoraria of the BOR for CY 2019 & 2020
+
+	Cash Advances
+
+	Amount Paid
+
+	Particulars
+
+Date
+
+Check No.
+
+	Amount
+
+	
+
+	Meeting of Committee on Finance, Admin. & Eng’g. on Jan. 29, 2019 at EVSU-Executive House Conf. Room, Tacloban City.
+
+1/28/19
+
+	52800733
+
+	₱  27,412.50
+
+₱ 23,162.50
+
+	1st Special Board Meeting at CHED, Central Office on 2/1/2019
+
+	1/30/19
+
+	52800736
+
+	49,412.50
+
+	40,912.50
+
+	1st Quarter Board Meeting at CHED, Central Office on 3/8/2019
+
+	3/1/19
+
+52800756
+
+45,512.50
+
+	41,687.50
+
+	Special Committee Meeting on Finance, Admin. & Eng’g.3/2/19 at Executive House Conf. Room
+
+3/6/19
+
+	52800761
+
+29,537.50
+
+	25,712.50
+
+	BOR Member Special Committee Meeting 4/6/19 at the Executive House Conference  Room
+
+4/5/19
+
+52800786
+
+18,062.50
+
+18,062.50
+
+	EVSU-BOR Joint Committee Meeting  6/8/19 at NEDA Regional Office No. 8
+
+6/7/19
+
+52800816
+
+29,537.50
+
+21,887.50
+
+	BOR Payroll Honorarium for 6/12/19
+
+6/10/19
+
+52800817
+
+45,512.50
+
+37,862.50
+
+	Special Committee Meeting of Eng’g. & Infra. Development on Aug. 24 & 25, 2019 at the Executive House.
+
+8/22/19
+
+52800860
+
+36,125.00
+
+32,300.00
+
+	2nd Special Board Meeting on Oct. 4, 2019 at CHED, Central Office
+
+10/2/19
+
+52800895
+
+45,427.50
+
+37,777.50
+
+	Joint Committee on Finance, Admin. & Eng’g. on Oct. 16, 2019 at NEDA RO8, Palo, Leyte.
+
+10/14/19
+
+52800909
+
+29,452.50
+
+21,802.50
+
+	3rd Quarter Board Meeting on Oct. 24, 2019 at CHED, Central Office.
+
+10/22/19
+
+52800916
+
+45,502.50
+
+37,852.50
+
+	Joint Committee Meeting on Finance, Admin. & Eng’g. on Dec. 6, 2019 at NEDA, RO 8, Palo, Leyte.
+
+12/4/19
+
+52800951
+
+29,240.00
+
+25,415.00
+
+	          Total CY 2019                                                          ₱430,735.00
+
+₱364,435.00
+
+	2nd Special Board Meeting on Sept. 25,2020 via Zoom.
+
+9/29/20
+
+52801047
+
+₱  45,215.00
+
+45,215.00
+
+	Committee Meeting of the EVSU Search Committee for Presidency on Dec. 16, 2020.
+
+12/22/20
+
+52801077
+
+30,425.00
+
+30,425.00
+
+		Total CY 2020
+
+₱    75,640.00
+
+	
+
+₱ 75,640.00
+
+		Grand Total
+
+₱  506,375.00
+
+	
+
+₱440,075.00
+
+
+
+	4)		Interview with the Budget Officer revealed that the honoraria paid to the BORs were charged to IGF because there were no more available funds for these expenses in the RAF.
+
+
+
+	5)		The practice, which is not in accordance with the aforementioned directives, depletes the IGF funds that have been specifically earmarked for identified plans and programs for the year.
+
+
+
+	6)		We recommended that the University President require the Budget Officer to strictly adhere to the provisions of Item 6.0 of the NBC No. 2007-510 dated May 8, 2007 and Section 4 (d) of RA No. 8292, and stop the practice of charging payments of honoraria to the Board of Regents against the IGF so as not to deplete this fund.
+
+
+
+	7)		Management commented that the Budget Officer is already aware and shall refrain from charging the honoraria of the BORs against the IGF.  For the current year 2021 all BOR Honoraria were charged to RAF.  Rest assured that we will strictly adhere to the provisions of Section 6.0 of the NBC No. 2007-510 dated May 8, 2007 and Section 4 (d) of R.A. No. 8292.
+
+
+
+	8)		Management further committed to strictly enforce compliance with the above regulations on the payment of the honoraria of BOR to avoid disallowance.
+
+
+
+
+
+Overstatement of Advances to Contractors account, ₱276,759.59; Understatement of Guaranty/Deposits Payable account, ₱184,501.80
+
+
+
+15)		The recoupment of advance payments to contractor for mobilization and the deduction of 10% retention money were not imposed on the progress billing payments for projects at EVSU Carigara and EVSU Ormoc, in violation of paragraphs 4.3 and 6.1, Annex E of the 2016 RIRR of RA No. 9184.
+
+
+
+	1)		Annex E of the 2016 RIRR of RA No. 9184 provides:
+
+
+
+ANNEX “E”
+
+CONTRACT IMPLEMENTATION GUIDELINES FOR THE PROCUREMENT OF INFRASTRUCTURE PROJECTS
+
+
+
+x x x
+
+
+
+	4.		ADVANCE PAYMENT
+
+
+
+	4.1.	The procuring entity shall, upon a written request of the contractor which shall be submitted as a contract documents, make advance payment to the contractor in an amount not exceeding fifteen percent (15%) of the total contract price, to be made in lump sum or, at the most, two installments according to a schedule specified in the Instructions to Bidders and other relevant Tender Documents.
+
+
+
+	x x x
+
+
+
+	4.3	The advance payment shall be repaid by the contractor by deducting fifteen percent (15%) from his periodic progress payments a percentage equal to the percentage of the total contract price used for the advance payment. (emphasis ours)
+
+
+
+	x x x
+
+
+
+	x x x
+
+	6.	RETENTION MONEY
+
+
+
+	6.1	Progress payments are subject to retention of ten percent (10%) referred to as the “retention money.”  Such retention shall be based on the total amount due to the contractor prior to any deduction and shall be retained from every progress payment until fifty percent (50%) of the value of works, as determined by the procuring entity, are completed.  If, after fifty percent (50%) completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the ten percent (10%) retention shall be imposed.
+
+
+
+	X x x
+
+
+
+	2)		Audit of the transactions on the payments of the infrastructure projects of EVSU showed that the recoupment of advances granted to contractors for the 15% mobilization, and the deduction of the 10% retention money on progress billings were not imposed on the payments made for the following projects:
+
+
+
+Table 40.  Payments made to Contractors for Infrastructure Projects for CY 2020
+
+Name of Contractor
+
+Check/DM
+
+Particulars
+
+Entry Made
+
+
+
+
+
+
+
+
+
+Mass Construction & Construction Supply
+
+Check No. 277713 dated December 3, 2020 for ₱1,729,704.30
+
+first billing payment for the 46.18% progress billing for the construction of the 2-storey Information Technology Building (Phase I) at EVSU Carigara with a total contract amount of ₱3,995,374.54)
+
+JEV No. 05-2020-12-0459 (IGP):
+
+
+
+Construction In Progress - Infrastructure Asset      ₱1,845,017.92                   
+
+
+
+Due to BIR                   ₱   115,313.62
+
+Cash In Bank -LCCA   ₱1,729,704.30
+
+RSO Construction
+
+DM No. 2020-11-143 for ₱892,539.70
+
+payment for final billing of the Improvement of EVSU Ormoc City Campus Technology Building (Phase II) with a contract amount of ₱1,057,824.83.
+
+JEV No. 05-2020-11-0427 (IGP):                   
+
+
+
+School Building -  ₱952,042.35            
+
+
+
+Due to BIR                      ₱  59,502.65             Cash In Bank -LCCA      ₱892,539.70
+
+
+
+	3)		The Audit Team noted that the amount of ₱599,306.18 was paid to the first contractor under Check No. 230939 dated September 28, 2020 for the 15% mobilization fee.  The payment was recorded in the books of EVSU Carigara as Advances to Contractors under JEV# 05-2020-09-0332.  Verification of the transaction, however, revealed that there was no recoupment of the advance made on the above progress billing, thus overstating the Advances to Contractors account by ₱276,759.59 as of December 31, 2020, and understating the Cash in Bank account by the same amount.
+
+
+
+	4)		For the same transaction, it was also noted that the 10% retention money amounting to ₱184,501.80, required to be deducted from the progress billing of 46.18%, was not withheld; nor was there a substitute instrument attached to the billing, such as, an irrevocable standby letter of credit from a commercial bank, bank guarantees or surety bonds callable on demand, of amounts equivalent to the retention money.  This retention money is intended to cover uncorrected discovered defects and third party liabilities.  This error has understated the Guaranty/Deposits Payable and Cash in Bank accounts by ₱184,501.80 each.
+
+
+
+	5)		For the second transaction, it was also noted that the 10% retention required on the final billing amounting to ₱105,782.48 was not recorded in the books of EVSU Ormoc, thus understating Guaranty/Security Deposits Payable account by the same amount.
+
+
+
+	6)		We recommended that the University President direct the Accountants of the various EVSU campuses to:
+
+
+
+a)		compute for unrecouped advances amounting to ₱276,759.59, and the 10% retention of ₱184,501.80 in the next progress payments for the construction of two-storey Information Technology Building (Phase I) at EVSU Carigara;
+
+
+
+b)		make the necessary adjustments in the books of EVSU Carigara for the unrecorded retention money amounting to ₱105,782.48;
+
+
+
+c)		carefully review the journal entries before posting to the general ledgers and strictly implement the rules and regulations provided for under the GAM for NGAs to ensure that balances and accounts are presented fairly in the financial statements of the University; and
+
+
+
+d)		henceforth, strictly adhere to the provisions of RA No. 9184 particularly on advance payments and retention money to ensure the recoupment of the advances made to contractors and the coverage/recovery for uncorrected discovered defects and third-party liabilities that may arise during the implementation of the project for which the retention money is intended.
+
+
+
+	7)		“Management ensured to deduct the unrecouped advances and the 10% retention sin the next progress billing for the construction of the two-storey IT Building (Phase I) at EVSU Carigara Campus.
+
+
+
+However, the Accounting Office of the Ormoc Campus was, inadvertently, not able to include in the journal entry the 10% retention in the payment of the progress billing. Adjusting entry to correct the account has been prepared already to be posted in 2021.
+
+
+
+Management further assured that the university shall strictly adhere to the provisions of RA 9184 in all payments to contractors.”
+
+
+
+	8)		The Audit Team stresses that retention money is intended for the security of the implementation of the agency projects while advances to contactors should be recouped when they fall due, hence, both should be strictly imposed.
+
+
+
+
+
+Unbooked cash donation and procurement of equipment and other expenses, ₱100,000.00
+
+
+
+16)		Cash donation received by EVSU Burauen Campus amounting to ₱100,000.00 was not acknowledged with an official receipt, hence not recorded in the books of the campus, contrary to Section 63 of the PD No. 1445.  Consequently, equipment procured out of the donated funds were likewise not recorded in the books, thereby understating the Inventory accounts of EVSU Burauen Campus.
+
+
+
+	1)		Sections 63 and 68 of PD No. 1445 state thus:
+
+
+
+CHAPTER 3
+
+RECEIPT AND DISPOSITION OF FUNDS AND PROPERTY
+
+
+
+	Section 63.	Accounting for moneys and property received by public officials. Except as may otherwise be specifically provided by law or competent authority all moneys and property officially received by a public officer in any capacity or upon any occasion must be accounted for as government funds and government property. Government property shall be taken up in the books of the agency concerned at acquisition cost or an appraised value.
+
+
+
+	X x x
+
+
+
+	Section 68.	Issuance of official receipt.
+
+
+
+	(1)	No payment of any nature shall be received by a collecting officer without immediately issuing an official receipt in acknowledgment thereof. The receipt may be in the form of postage, internal revenue or documentary stamps and the like, officially numbered receipts, subject to proper custody, accountability, and audit.
+
+
+
+	(2)	x x x
+
+
+
+	2)		Section 111, also of PD No. 1445, states:
+
+
+
+	SECTION 111.	Keeping of Accounts.
+
+
+
+	(1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	3)		In relation to this, the pertinent provisions of Chapter 10 of the GAM for NGAs, Volume 1, on recognition of PPEs, are as follows:
+
+
+
+Sec. 3. Criteria for Recognition. The cost of an item of PPE shall be recognized as assets if, and only if:
+
+
+
+a)	it is probable that the future economic benefits or service potential associated with the item will flow to the entity; 
+
+b) 	the cost or fair value of the item can be measured reliably;
+
+c) 	beneficial ownership and control clearly rest with the government; 
+
+d) 	the asset is used to achieve government objectives; and 
+
+e) 	it meets the capitalization threshold of ₱15,000. 
+
+
+
+Sec. 5. Measurement at Recognition.  PPE that qualifies for recognition as an asset shall be measured at cost. However, where the PPE is acquired through a non-exchange transaction, its cost shall be measured at its fair value as at the date of acquisition. 
+
+
+
+X x x
+
+
+
+Sec. 7. Modes of Acquisition of PPE. Acquisition is the process through which one entity gains possession or takes over the ownership of a particular PPE. The different modes of acquiring PPE includes purchase, construction, exchange transaction, non-exchange transaction, transfer and finance lease.
+
+
+
+	4)		During the year 2019, a cash donation of ₱100,000.00 was received by EVSU Burauen Campus from Congressman Zajid “Dong” Mangudadatu.  The donation was made without a written agreement, or Memorandum of Understanding (MoU) containing the instructions as to the disposition of the amount.
+
+
+
+	5)		A verification made by the Audit Team disclosed the following:
+
+
+
+1)		No official receipt was issued to acknowledge receipt of the amount.
+
+2)		There were no written instructions included in the MoU signed between the donor and EVSU – Burauen Campus which would serve as guidelines on the disposition of the amount donated.
+
+3)		The amount received was not deposited to the depository bank of EVSU Burauen.
+
+4)		The money was disbursed in CY 2020 for the procurement of office equipment as enumerated below:
+
+
+
+Table 41.  List of Items Procured by the EVSU Burauen Using Donated Funds
+
+Items
+
+Date Acquired
+
+Name of Store
+
+Amount
+
+To Whom Issued
+
+1 unit Steel Cabinet (4 drawers)
+
+11/3/2020
+
+Calutan’s Marketing
+
+₱  10,490.00
+
+With Property Acknowledgement Receipt (PAR)  issued to Christine Joyce P. Trapela, Accountant
+
+1 Unit Projector
+
+11/3/2020
+
+
+
+21,500.00
+
+With PAR issued to Ma. Socorro C. Gicain, Ph.D., Campus Director
+
+1 set Computer with complete accessories
+
+11/3/2020
+
+
+
+27,000.00
+
+Ma. Socorro C. Gicain, Ph.D., Campus Director
+
+1 Unit Grass Cutter
+
+
+
+
+
+9,950.00
+
+With Inventory Custodian Slip (ICS) issued to Randy B. Falguera, 
+
+1 unit Sound System
+
+
+
+
+
+6,999.50
+
+With ICS issued to Sheldon Ives G. Agaton, J.D., Ph.D., current Campus Director 
+
+Other Expenses
+
+
+
+
+
+24,060.50
+
+
+
+Total
+
+
+
+
+
+₱100,000.00
+
+
+
+
+
+	6)		Further verification also revealed that the disbursements for the procurement of these equipment were not recorded in the books, although PAR and ICS were issued to accountable officers to whom the equipment were issued.  There is a need to record the various office equipment to establish ownership of the assets.  Likewise, the other expenses have to be recorded so that the whole amount of ₱100,000.00 donation shall be accounted for.
+
+
+
+	7)		We recommended that the University President require the Accountant and the PMO of Burauen Campus to:
+
+
+
+a)	prepare a JEV to record in the books of Burauen Campus the various equipment and the other expenses in the amount of ₱75,939.50 and ₱24,060.50, respectively, and submit to COA copy of the JEV for audit.
+
+
+
+b)	post in the Property, Plant and Equipment Ledger Card (PPELC) and the Property Card the various equipment procured.
+
+
+
+c)	Thereafter, issue official receipts to acknowledge all moneys received as donation so that these are recognized as part of government funds.
+
+
+
+	8)		Management has not given comments yet on this observation.
+
+
+
+
+
+Gender and Development
+
+
+
+17)		The GAD Plan and Budget of EVSU was approved by the Philippine Commission on Women (PCW) last January 17, 2020.  Its Accomplishment Report was submitted to PCW by CHED RO8 last March 25, 2021, for review.
+
+
+
+	1)		Review of the GAD Plan and Budget and the GAD Accomplishment Report revealed that out of 28 Program, Project and Activities (PPAs) identified for implementation, 23 were fully implemented, four were partially implemented and one was not implemented at all or 66% of the GAD planned activities was accomplished.  The reason for the partial and non-implementation of the four projects was due to Covid-19 outbreak starting March 15, 2020 where offices were under lockdown and face-to-face classes were prohibited and converted to online classes.  Actual expenditures for all activities and projects were ₱23,180,000.00 (66%) out of the actual budget of ₱35,467,112.34.
+
+
+
+	2)		Per interview with the GAD focal person of the EVSU Main Campus, the Client-focused activities of the University were mostly done online and with limited participants because of the onset of the Covid 19 pandemic.  There were GAD activities though, that were carried out face-to-face by the University before the pandemic.  The focal person submitted the GAD Accomplishment Report together with the documents to support the GAD activities carried out/performed.
+
+
+
+	3)		For the organization-focused activities, the Main Campus and the External Campuses have their own GAD Offices as evidenced by the pictures submitted to us.  However only the Main Campus has the breastfeeding center, but the external campuses provided a space for this at their respective offices.
+
+
+
+	4)		Gender neutral comfort rooms were provided in all campuses in order to cater to the needs of the LGBTs.
+
+
+
+
+
+
+
+Compliance with Tax Laws
+
+
+
+18)		The Due to BIR account of EVSU had a beginning balance of ₱10,138,207.31 and the taxes withheld from its employees’ compensation, and percentage taxes, and value-added taxes for procurements in the CY 2020 amounted to ₱44,249,462.48; while the amount of ₱41,638,318.82 was reported as remitted to the Bureau of Internal Revenue, thereby leaving a balance of ₱12,749,356.97, of which an aggregate amount of ₱9,503,389.01 was remitted by the different campuses in January 2021, thus the remaining balance of ₱3,245,967.96 pertains to balances of prior years, the reconciliation of which is ongoing.
+
+
+
+
+
+Compliance with Government Service Insurance System (GSIS) Act of 1997
+
+
+
+19)		EVSU complied with the requirements on withholding and remittance of GSIS contributions and loan amortization for CY 2020 pursuant to RA No. 8291.  The account Due to GSIS had a beginning balance of ₱9,045,342.27 and during the year a total of ₱57,576,312.36 was withheld from employees; while ₱61,704,351.52 was remitted, leaving a balance of ₱4,917,303.11, of which an aggregate amount of ₱1,753,218.36 was remitted in January 2021, thus a variance of ₱3,164,084.75, pertaining to the unreconciled balances of prior years.
+
+
+
+
+
+Compliance with PhilHealth Contributions
+
+
+
+20)		EVSU complied with the requirements on withholding and remittance of PhilHealth contributions for CY 2020.  The account Due to PhilHealth had a beginning balance of ₱484,875.49.  During the year, the total contribution withheld from employees and the total remittance thereof amounted to ₱3,586,358.13 and ₱3,442,776.84, respectively, leaving a balance of ₱628,456.78 as of year end, which pertains to the unreconciled balances from prior years.
+
+
+
+
+
+Compliance with Home Development Mutual Fund Contributions (HDMF)
+
+
+
+21)		EVSU complied with the requirements on withholding and remittance of HDMF contributions for CY 2020.  The account Due to PAG-IBIG had a beginning balance of ₱1,735,720.88.  During the year a total of ₱4,632,250.08 was withheld from employees and a total of ₱4,751,979.89 was remitted, leaving a balance of ₱1,615,991.07, of which an aggregate amount of ₱259,013.50 was remitted by the Main Campus in January 2021, thus, a variance of ₱1,356,977.57, which pertains to unreconciled balances from prior years.
+
+
+
+
+
+
+
+
+
+Status of Audit Suspensions, Disallowances and Charges
+
+
+
+22)		The status of compliance with the audit of Suspensions, Disallowances and Charges issued in prior years and during CY 2020 as of December 31, 2020 is summarized in the table below:
+
+
+
+	Particulars
+
+	Beginning Balance
+
+	(as of Jan. 1, 2020)
+
+	This Period
+
+Ending Balance
+
+(as of Dec. 31, 2020)
+
+
+
+
+
+	Jan. 1 to Dec. 31, 2020
+
+
+
+
+
+
+
+	NS/ND/NC
+
+	NSSDC
+
+
+
+	Notice of Suspension
+
+₱9,266,328.91
+
+₱      0.00
+
+₱           0.00
+
+₱9,266,328.91
+
+	Notice of Disallowance
+
+75,823,867.81
+
+0.00
+
+2,078,705.95
+
+73,745,161.86
+
+	Notice of Charge
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+
+
+
+
+		133
+
+
+
+
+
+
+
+
+
+footnote1)	
+
+ The balance in the GL includes the interest income and taxes withheld, which were also the reconciling items of the book balance used in the preparation of BRS, hence, it is deemed proper to use the adjusted balance (BRS) as basis for comparison.
+
+footnote2)	
+
+ The Carigara Campus prepared and submitted the RCPI of the semi-expendable, but it was not prepared by fund.
+
+
+
+
+

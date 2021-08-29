@@ -1,0 +1,2034 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+34 
+ 
+
+PART II – OBSERVATIONS AND RECOMMENDATIONS 
+
+ 
+
+Financial Audit 
+ 
+
+Accounting Deficiencies 
+ 
+1. The Statements of Financial Position and Performance of the Food and 
+Nutrition Research Institute (FNRI) as at December 31, 2020 were fairly presented, 
+
+except for the deficiencies found in Cash and Cash Equivalents and Deferred 
+Credits/Unearned Income accounts amounting to P0.948 million which represents 0.21 
+percent of the total assets of the Institute as at year-end. 
+
+ 
+
+2. In our audit of the Agency’s accounts, we noted the following deficiencies which 
+were not adjusted as at year-end, thus, affecting the accuracy, reliability and accountability 
+of the affected FS accounts: 
+ 
+
+Table 1: Accounting Deficiency 
+
+Category/ 
+
+Classification 
+Accounts 
+
+Balance 
+
+ as at 12/31/20 
+
+(in million 
+
+pesos) 
+
+Audit 
+
+Observation 
+
+Amount 
+ (in 
+
+million 
+pesos) 
+
+Criteria / 
+
+Standard 
+
+Cash and Cash 
+Equivalents 
+
+Cash in Bank – 
+LCCA 
+
+9.311 Unidentified/ 
+unsupported 
+reconciling items  
+
+0.938 Sec. 6e, Ch. 19 
+
+Sec. 30, Ch. 5 
+
+Sec. 14, Ch. 7 
+
+all of GAM Vol. I 
+
+RCA GAM Vol. III 
+
+and EO 338 
+
+Deferred 
+Credits/ 
+Unearned 
+Income 
+
+Other Unearned 
+Revenue 
+
+0.938 
+
+Cash and Cash 
+Equivalents 
+
+Cash-Collecting 
+Officer 
+
+0.009  ORs were not 
+issued and 
+reported in strict 
+numerical 
+sequence per 
+RCD 
+
+ Under/over 
+deposit of 
+collections 
+
+ Delayed/partial 
+deposit of 
+collections 
+
+0.010 Par. 27 PPSAS 1; 
+
+Sec. 39, Ch. 5, 
+
+GAM Vol. I; 
+
+Appendix 26, 
+
+GAM Vol. II; 
+
+Sec. 69 PD 1445; 
+
+Sec. 32 Ch. II of 
+
+Revised Cash 
+
+Examination 
+
+Manual; 
+
+Sec. 40, Ch. 5, 
+
+GAM Vol. I 
+
+Total 0.948  
+
+ 
+
+Unidentified/unsupported reconciling items – P0.938 million 
+ 
+
+3. Reconciling items totaling P0.938 million representing unidentified 
+deposits/collections in CY 2019-2020 were recognized in the books as Other Unearned 
+Revenue without adequate supporting documents and proper establishment of its 
+nature and purpose, thus, affecting the reliability of the Cash in Bank - LCCA and 
+Other Unearned Revenue by the same amount of P0.938 million.  
+ 
+
+
+
+35 
+ 
+
+4. Section 6, Chapter 19 of the Government Accounting Manual (GAM), Volume I 
+states that “an entity shall present information including accounting policies in a manner 
+that meets the following qualitative characteristics enumerated in PPSAS 1,” and included 
+therein  under Section 6e thereof is “reliability” which provides that “reliable information 
+is free from material error and bias, and can be depended on by users to represent faithfully 
+that which it purports to represent or could reasonably be expected to represent.”  
+
+ 
+5. Section 30, Chapter 5 of the GAM, Volume I on “Advance Receipts of Revenue” 
+states that “when an entity receives resources before a transfer arrangement becomes 
+binding, the resources are recognized as an asset when they meet the definition and satisfy 
+the criteria for recognition as an asset and recognized as a liability until the event that 
+makes the transfer arrangement binding occurs, and all other conditions under the 
+agreement are fulfilled. When that event occurs and all other conditions under the 
+agreement are fulfilled, the liability is discharged and revenue is recognized.”  
+
+ 
+6. Further, Section 14, Chapter 7 of the same Manual on “Recognition of a Financial 
+Liability” provides that “an entity shall recognize a financial liability in its statement of 
+financial position when it becomes a party to the contractual provisions of the instrument.”  
+
+ 
+7. The Revised Chart of Accounts (RCA) for NGAs, as prescribed under GAM 
+Volume III, describes the reported Liability specifically the account Other Unearned 
+Revenue as the account used to recognize other income/revenue received in advance not 
+falling under any of the specific unearned revenue accounts. Debit this account when 
+revenue is earned. 
+ 
+8. Executive Order No. 338, s. 1996 dated May 17, 1996 requires all government 
+offices and agencies to immediately transfer all public monies deposited with depository 
+banks and other institutions to the Bureau of the Treasury (BTr), regardless of income 
+source.  
+
+ 
+9. We reviewed the Agency’s bank reconciliation statements (BRS) together with the 
+bank statements and general ledger records of the Cash in Bank - Local Currency, Current 
+Account and result of the verification revealed that there were no differences between 
+monthly bank balances per bank statements and monthly general ledger book balances, 
+except for the outstanding checks.  
+
+ 
+10. However, we noted that various unidentified credit memos (CMs) from the monthly 
+bank statements which were supposed to be reconciling items were instead recognized as 
+debit Cash in Bank - LCCA and credit Other Unearned Revenue account even if its nature 
+and purpose were not yet identified at the time of recording. Since the information were 
+initially unavailable, all unidentified deposits were temporarily recorded in the Trust Fund 
+(TF) books. Sample illustrative accounting entries made by the Accountant is shown in 
+Table 2.   
+
+ 
+ 
+ 
+
+
+
+36 
+ 
+
+Table 2: Illustrative Entries 
+JEV No./Date Entries Made (amount in millions) Should be 
+
+JEV-2020-05-001147 
+dated 5/29/20 
+ 
+
+To recognize direct deposit of payments 
+for May 2020 which are yet to determine 
+the Nature of Deposit 
+ 
+Cash in Bank – LCCA            0.377 
+       Other Unearned Revenue        0.377 
+
+No entry. CMs should be reflected as 
+book reconciling item in the BRS until 
+its purpose or nature is identified. 
+
+JEV-2020-06-000626 
+dated 6/26/20 
+ 
+
+To recognize collection for the release of 
+fund xxx. 
+ 
+Cash Collecting Officer          0.377 
+       Income account                        0.377 
+       or applicable account 
+
+Cash Collecting Officer          0.377 
+       Income account                     0.377 
+       or applicable account 
+
+JEV-2020-06-000627 
+dated 6/26/20 
+ 
+
+To recognize deposit for the release of 
+fund xxx. 
+ 
+Cash in Bank – LCCA            0.377 
+       Cash Collecting Officer             0.377   
+
+Cash in Bank – LCCA           0.377 
+       Cash Collecting Officer         0.377          
+
+JEV-2020-06-001148 
+dated 6/30/20 
+ 
+
+To recognize Reversal of entry for Direct 
+Deposit of Payments to FNRI Current 
+Account per JEV 05-001147. 
+ 
+Other Unearned Revenue      0.377 
+       Cash in Bank – LCCA               0.377 
+
+ 
+ 
+ 
+ 
+No entry 
+ 
+
+ 
+11. The practice required unnecessary transactions which made it circuitous, 
+particularly for deposits/collections intended for the Regular Agency (RA) fund which 
+were recorded interchangeably from TF to RA fund, and non-conformance to the 
+abovementioned provisions on asset/liability recognition criteria by recording the 
+unidentified deposits/collections despite unavailability of information and adequate proof 
+to determine its true nature and purpose.      
+ 
+12. As at December 31, 2020, the unidentified deposits/collections amounted to 
+P938,486.79, the breakdown of which is as follows:   
+
+ 
+Balance, January 1, 2020 869,858.43  
+Less: Prior year (PY)'s identified 
+deposits (772,534.32) 
+
+Remaining balance from PY 97,324.11  
+Add: Deposits in CY 2020 2,090,464.24  
+Less: Identified deposits in CY 2020 (1,249,301.56) 
+Balance, December 31, 2020 938,486.79  
+
+ 
+13. Further analysis of the account disclosed that the recording of unidentified deposits 
+started in March 2019. The Accountant informed us that the practice was made to comply 
+with the CY 2018 audit observation on delayed recording of reconciling items due to the 
+absence of a copy of the Memorandum of Agreement (MOA), hence, there was no 
+immediate information relative to the credit memo or the fund transfer.  
+
+ 
+
+
+
+37 
+ 
+
+14. It bears noting though, that any adjustment made to record the reconciling item 
+must be supported with the necessary supporting documents, if not, then these 
+undetermined reconciling items, although recorded in the books, still affected the reliability 
+of the Cash and Other Unearned Revenue accounts in the absence of appropriate 
+documents and identification as to its nature and purpose. It was noted that only the 
+monthly bank statements were used to support the initial recording of unidentified 
+deposits/collection in the books.    
+
+ 
+15. A well-prepared BRS is an adequate tool to monitor any irregularity or reconciling 
+items instead of recording in the books without accurate basis. It is also more appropriate 
+to improve the controls and coordination between the concerned offices in securing the 
+MOA or information/documents relative to the unknown deposits/collections to prevent 
+the accumulation and continued existence of reconciling items in the BRS, not to mention 
+that the deposits in 2019 amounting to P97,324.11 remained undetermined for over a year 
+already, which further delay would only increase the difficulty of its identification and 
+settlement. 
+
+ 
+16. The recording of deposits/collections/CMs in the books with a year-end balance of 
+P938,486.79 without adequate supporting documents and proper establishment of its nature 
+and purpose affected the reliability of the Cash in Bank - LCCA and Other Unearned 
+Revenue accounts by P938,486.79. Continued failure to identify the nature and purpose of 
+these deposits/collections, likewise, warrants the reversion of the amounts to the Bureau of 
+the Treasury (BTr) pursuant to Executive Order No. 338, s. 1996.      
+
+ 
+
+17. We recommended and Management agreed to require the Accountant to: 
+ 
+
+a. Ensure that all cash transactions in the books are properly validated 
+specific to its nature and purpose, and adequately supported with 
+
+complete documents; 
+
+ 
+
+b. Coordinate with the concerned office/s and install control measures on 
+securing the MOA/documentations to immediately determine the nature 
+
+of the CMs in the bank statements; and 
+
+ 
+
+c. Exert effort to identify the nature of the amount P938,486.79 and 
+immediately effect the necessary adjustment. Any undetermined balance 
+
+should be dropped from the books and reported back in the BRS, or assess 
+
+whether reversion to the Bureau of the Treasury is warranted.  
+ 
+18. Management commented that under Section 4, Chapter 21 of the Government 
+Accounting Manual (GAM), Volume I "the monthly BRS shall be prepared by the Chief 
+Accountant/designated staff for each of the bank accounts maintained by the agency/entity 
+using the Adjusted Balance Method. Under this method, the book balance and the bank 
+balance are brought to an adjusted cash balance that must appear on the Statement of 
+Financial Position." Consequently, to account for the unknown deposits in the books, the 
+Accountant used the Other Unearned Revenue account (a liability account) to temporarily 
+
+
+
+38 
+ 
+
+record it and prepare necessary adjusting entries when the documents/information are 
+available. The Institute receives the asset and therefore, has an obligation to provide goods 
+or services or to return the money. However, the Accountant inadvertently missed to 
+disclose the undetermined deposits which were recognized in the books as Other Unearned 
+Revenue in the Notes to Financial Statements.  
+
+ 
+19. In addition, Section 11, Chapter 21 of the GAM, Volume I shows an illustrative 
+accounting entry for adjustments in the Bank Reconciliation Statement for Authorized 
+Government Depository Bank (AGDB) accounts, this includes the unrecorded deposits: 
+ 
+
+ 
+ 
+20. Based on the foregoing bases, it is appropriate to have it recorded rather than not 
+recording transactions, as recommended, until there is sufficient information available. 
+Otherwise, it may result in inaccurate financial result due to a large amount of unreported 
+transactions by the end of a reporting period. Moreover, Management will issue a 
+memorandum to all the concerned personnel to inform and submit supporting documents 
+to the Accounting Section of any payment transactions made by clients, which are directly 
+deposited to the FNRI Project Account (1822-1032-40) for its proper classification and 
+accounting in the books.  
+ 
+21. The purpose of its recording in the book of accounts is to account/safeguard the 
+asset despite the unavailable information and not provide inaccurate or misleading 
+information.  
+
+ 
+22. Section 3 - Chapter 21, Volume I of the GAM for NGAs, states the objective of 
+bank reconciliations preparation as follows: The Bank Reconciliation Statement (BRS) 
+shall be prepared in order to: 
+ 
+
+a. Check correctness of both the bank’s and agency’s/entity’s records, 
+b. Serve as a deterrent to fraud, and 
+c. Enable the agency/entity or bank to take up charges or credits recognized by the 
+
+bank or agency/entity but not yet known to the agency/entity or bank. 
+     
+
+23. Nevertheless, a schedule of undetermined deposits is attached to the Monthly Bank 
+Reconciliation Statement, for monitoring; and the Accountant is coordinating with the bank 
+for the determination of the unknown deposits. 
+ 
+24. The total amount of P821,940.68 was already identified and appropriately 
+recognized in the book per JEV Nos. 2021-01-000218 dated January 27, 2021 and 2021-
+03-000116 dated March 3, 2021. Further, a letter request has been sent to the Land Bank 
+of the Philippines - Bicutan Branch for the remaining balance of ₱116,546.11 to request 
+
+
+
+39 
+ 
+
+information for its proper classification. Such amount shall be reverted immediately to the 
+National Treasury if it is verified that it is an income for the General Fund. 
+ 
+Auditor’s Rejoinder: 
+
+ 
+
+25. While we acknowledge the comments and actions taken by Management, we are of 
+the opinion that it is still necessary that all cash transactions recorded in the books must be 
+properly identified and supported with the necessary supporting documents to maintain the 
+reliability of the accounts pursuant to Section 111 of Presidential Decree (PD) No. 1445 
+that requires agencies to keep the accounts in such detail as necessary to meet the needs of 
+the agency and at the same time be adequate to furnish the information needed by fiscal or 
+control agencies of the government; and that the highest standard of honesty, objectivity 
+and consistency shall be observed in the keeping of accounts to safeguard against 
+inaccurate and misleading information 
+ 
+26. We also advise Management to use the illustrative accounting entry under Section 
+11, Chapter 21 of the GAM, Volume I relative to the unrecorded deposits provided again 
+that these are found valid through a proper identification process. As a matter of 
+comparison, it is quite inappropriate to recognize these unrecorded deposits merely on the 
+basis of bank credits as it is to record an expense in the books or decrease in the cash 
+balance with only the bank debits as our basis which is indeed detrimental for government 
+funds. Moreover, the GAM for NGAs provides Accounting Policies, Guidelines and 
+Procedures with Illustrative Accounting Entries, prescribed by the Commission on Audit 
+for uniformity.  
+
+ 
+Internal control lapses in handling collections 
+ 
+
+27. Identified gaps noted in the collections and deposits process such as: (a) official 
+receipts (ORs) were not issued and reported in strict numerical sequence per Report 
+
+of Collections and Deposits (RCDs) as well as use of one series or booklet of ORs for 
+
+all collections regardless of fund cluster; (b) inability to deposit intact all collections 
+
+for the day; (c) non-use and/or non-preparation of prescribed forms/reports daily; 
+
+and various errors in recording of transactions in the books of accounts, thus, 
+
+resulting in the doubtful balance of the Cash-Collecting Officer account of P9,707.98. 
+ 
+28. Paragraph 27 of the International Public Sector Accounting Standards 1 (IPSAS 1) 
+states that financial statements shall present fairly, among others, the financial position and 
+financial performance of an entity. Fair presentation requires the faithful representation of 
+the effects of transactions, other events, and conditions in accordance with the definitions 
+and recognition criteria for assets, liabilities, revenue, and expenses set out in IPSASs.  
+
+ 
+29. As at December 31, 2020, the Cash-Collecting Officer account had a balance of 
+P9,807.98, consisting of P9,707.98 for Regular Agency and P100.00 for Trust Fund. 
+However, validation of the Report of Collections and Deposits (RCDs) disclosed that all 
+collections were already deposited, except for the P100.00 under the Trust Fund, thus, 
+affecting the reliability of the Cash-Collecting Officer account balance of P9,707.98.  
+
+
+
+40 
+ 
+
+30. Inquiry from the Accounting Unit disclosed that the amount was a carry-over 
+balance from 2019 and prior years as a result of accumulated errors and adjustments in 
+recording the collections and deposits as some transactions were interchangeably recorded 
+in Regular Agency (RA) or Trust Fund (TF) account.  
+
+ 
+31. The general ledger of Cash-Collecting Officer (RA books) vis-à-vis RCDs 
+disclosed the following information:  
+ 
+
+Table 3: Breakdown of Cash – Collecting Officer account 
+
+Particulars  Debit   Credit  
+
+Beg. balance, Jan. 1, 2020 19,414.78    
+
+Prior Year's undeposited 
+collection deposited this year   
+
+765.78  
+
+Total Collections for the year 9,584,452.22    
+
+Total Deposits for the year   9,594,693.23  
+
+Adjustments made (various) 532,144.86  530,844.87  
+
+Total 10,136,011.86  10,126,303.88  
+
+End. Balance, Dec. 31, 2020  9,707.98   
+
+ 
+32. Further scrutiny of accounting records and the RCDs revealed the following 
+deficiencies that contributed to the misstatement and inaccuracy of recording the 
+collections and deposits in the books.  
+ 
+
+a) The ORs were not issued and reported in strict numerical sequence per RCD as 
+only one series or booklet was being used for all collections regardless of fund 
+cluster, thus, impeded ease and proper monitoring and reporting of collections and 
+deposits.  
+
+   
+33. Section 39 of the Government Accounting Manual (GAM), Volume I, on reporting 
+of Collections and Deposits states that receipts and deposits shall be reported: 
+ 
+
+“a.  At the close of the business day, the Collecting Officers shall prepare the 
+Report of Collections and Deposits (RCD) (Appendix 26) for submission to 
+Accounting Office/Unit. The report lists all the Official Receipts (ORs) 
+issued in numerical sequence including cancelled ones.” (emphasis ours) 
+
+ 
+34. Appendix 26 of the GAM, Volume II, requires that the Report of Collections and 
+Deposits (RCDs) must be prepared by the Collecting Officer/Cashier to record his/her 
+collections and deposits to an AGDB as of specific date and shall be maintained by fund 
+cluster. 
+
+ 
+35. The FNRI has various types of collections, including among others, income from 
+laboratory services (analysis of samples), use of equipment and dormitory, sale of printing 
+and publications, refund of unused cash advances, and receipt of funds from other agencies, 
+which are either reported in the RA Fund or TF books. 
+
+ 
+
+
+
+41 
+ 
+
+36. The RCDs were aptly prepared per fund cluster starting August 2020. However, we 
+observed that only one (1) series or booklet of ORs was being used for all types of 
+collections regardless of fund cluster as it was already the practice prior to the GAM 
+issuances. Thus, it seemed from the RCDs that the ORs were not issued in strict numerical 
+sequence, contrary to Section 39 of the GAM, Volume I, which added difficulty in tracing 
+the movement of ORs, nonetheless increases the probability of misuse/misapplication of 
+collections later on.  
+
+ 
+37. For instance, RCD No. 2020-08-097C reported issuance of OR Nos. 554394 and 
+5545398 on August 18, 2020 and August 24, 2020, respectively. However, the ORs in 
+between those series such as OR Nos. 5545395-554397 were separately recorded in two 
+(2) other RCDs. Other similar instances are illustrated in the table below.  
+
+ 
+Table 4: ORs not chronologically reported in the RCDs 
+
+ 
+
+Month 
+Fund/ 
+Book 
+
+RCD No. 
+OR No/s. 
+Issued 
+
+OR Date 
+
+August TF 2020-08-097C 
+
+ 
+5545394 
+5545398 
+5545401 
+5545402 
+
+8/18/20 
+8/24/20 
+8/24/20 
+8/24/20 
+
+ RA 2020-08-098A 5545395 
+5545396 
+
+8/20/20 
+8/24/20 
+
+ RA 2020-08-099A 5545397 
+5545399 
+5545400 
+
+8/24/20 
+8/24/20 
+8/24/20 
+
+September RA 2020-09-105A 5545416 
+5545417 
+5545418 
+5545419 
+5545420 
+
+9/1/20 
+9/1/20 
+9/1/20 
+9/1/20 
+9/1/20 
+
+ RA 2020-09-106A 5545421 
+5545423 
+
+9/2/20 
+9/2/20 
+
+ TF 2020-09-106C 5545422 9/2/20 
+
+ RA 2020-09-107A 5545424 9/3/20 
+
+ TF 2020-09-108B 5545428 
+5545426 
+5545432 
+
+9/4/20 
+9/4/20 
+9/4/20 
+
+ RA 2020-09-108A 5545429 
+5545427 
+
+9/4/20 
+9/4/20 
+
+October TF 2020-10-136C 5545535 
+5545537 
+
+10/20/20 
+10/20/20 
+
+ RA 2020-10-135A 5545536 10/20/20 
+
+November RA 2020-11-147A 6599221 
+6599223 
+6599225 
+6599226 
+
+9/11/20 
+9/11/20 
+9/11/20 
+9/11/20 
+
+ TF 2020-11-123B 6599222 
+6599224 
+
+9/11/20 
+9/11/20 
+
+ 
+
+
+
+42 
+ 
+
+38. Oddly, we also noted that on February 18-19, 2020, OR No. 5545051 was issued 
+in between OR Nos. 5545022 to 5554026 and OR Nos. 5545027 to 5545031 which was 
+obviously out of the series.  
+
+ 
+39. We noted that the Collecting Officer (CO) gathers all issued ORs, sorts the same 
+according to fund and prepares the RCDs per fund. However, the same may be 
+inconvenient especially to the Accounting Unit who receives and reviews the RCDs, as it 
+requires more effort to verify the completeness of ORs since the series of issuances were 
+most likely distributed based on the number of RCDs prepared per fund and per day not to 
+mention that the RCDs were not consistently submitted to them on a daily basis. Certainly, 
+this condition contributed in the error of interchangeably recording the transactions in 
+RA/TF books.  
+
+   
+40. The use of one (1) series or booklet of ORs for all collections regardless of fund 
+cluster and non-issuance/reporting of ORs in strict numerical sequence in the RCDs are not 
+in consonance with Section 39 and Appendix 26 of the GAM, Volumes I and II, 
+respectively, which impeded ease and proper monitoring and reporting of collections and 
+deposits and also affected the accuracy in the recording of transactions in the respective 
+books of accounts.  
+
+ 
+b) The Collecting Officer was unable to deposit intact all collections for the day, 
+
+maintain CRRec and prepare/submit the RCD daily, thus, resulting in under/over 
+deposit and delayed deposits of collections, contrary to Section 69 of PD 1445 and 
+Section 32 of the Revised Cash Examination Manual.   
+ 
+
+41. Section 69 of PD 1445 provides that public officers authorized to receive and 
+collect moneys arising from taxes, revenues or receipts of any kind shall remit or deposit 
+intact the full amounts so received and collected by them to the treasury of the agency 
+concerned and credited to the particular accounts to which the said moneys belong.  
+
+ 
+42. Likewise, Section 32, Chapter II of the Revised Cash Examination Manual per 
+COA Memorandum No. 2013-004 dated July 9, 2013 requires “all COs shall deposit intact 
+all their collections, as well as collections turned over to them by sub-collectors/tellers, 
+with authorized government depository bank (AGDB) daily or not later than the next 
+banking day. Where collections are minimal and daily deposit thereof becomes costly and 
+impractical, the COs shall deposit their collections at least once a week, or as soon as the 
+collections reach P10,000.00. xxx” 
+
+ 
+43. Section 40, Chapter 5 of the GAM for National Government Agencies (NGAs), 
+Volume I provides that after receiving the payment from the payor and issuance of the OR 
+to acknowledge receipt of cash/check, the CO shall record the collections in the Cash 
+Receipts Record (CRRec). Moreover, Appendix 29 of the GAM, Volume II requires that 
+each CO/Accountable Officer (AO) shall maintain this record (CRRec) to monitor his/her 
+accountability. All transactions for the day shall be recorded immediately and a balance 
+(Undeposited Collection) shall be extracted. 
+ 
+
+
+
+43 
+ 
+
+44. Post-audit of RCDs from January 1 to December 31, 2020, disclosed that certain 
+collections were not deposited intact by the Collecting Officer that resulted in the 
+under/over deposits of collections as well as delayed deposits ranging from five (5) to 52 
+days. 
+ 
+45. We noted that the CRRec was not maintained and the RCDs were not consistently 
+prepared and submitted to the Accounting Unit on a daily basis but mostly weekly, with 
+no immediate validation of the deposits against collections, and thus, the incidences of 
+over/under deposits in a certain day, as shown in Table 5. 
+ 
+
+Table 5: Summary of Under/Over Deposit of Collections 
+
+Collections Deposits 
+Under/(Over) 
+
+deposit 
+
+Date Amount Date Amount Total 
+
+1/28/20 123,715.40 1/29/20      123,615.40  100.00 
+
+2/3/20   2,378,435.00  2/4/20   2,378,535.00  (100.00) 
+
+2/5/20 219,256.54 2/6/20      219,156.54  100.00 
+
+2/10/20        69,770.00  2/11/20        69,970.00  (200.00) 
+
+2/13/20        62,114.10  2/14/20        62,014.10  100.00 
+
+2/24-26/20        84,613.31  2/27/20        84,213.31  400.00 
+
+2/28/20      290,788.95  3/2/20      291,188.95  (400.00) 
+
+Total 0.00 
+
+ 
+46. Further, due to the pandemic, it is quite understood that daily deposits were 
+impractical at times or even impossible during lockdowns and bank closures. However, 
+various transactions showed instances of partial deposits of collections where certain 
+amounts of collections could had been deposited already but instead omitted or excluded 
+at one point and deposited only at a later date.   
+ 
+
+Table 6: Instances of Partial/Delayed Deposits 
+
+RCD No. OR Nos. Amount 
+Date of 
+
+collection/ 
+OR date 
+
+Date of 
+deposit 
+
+No. of 
+days 
+
+delayed 
+Remarks 
+
+2020-07-081C 
+  
+
+5545357 800.00  7/20/20 8/03/20 14 Collections collected in 
+July 2020 totaling 
+P516,078.15 were 
+deposited only in 
+August 2020 in two (2) 
+batches.  
+ 
+It was partially 
+deposited on 8/3/20 at 
+P438,648.15. While 
+the remaining balance 
+of P77,430.00 was 
+deposited only on 
+8/13/20.  
+
+5545358 400.00  7/20/20 8/03/20 14 
+
+2020-07-082A 5545359  245,677.15  7/21/20 8/03/20 13 
+
+2020-07-083C 5545362  2,000.00  7/22/20 8/03/20 12 
+
+2020-07-083A 
+  
+
+5545363  21,870.00  7/22/20 8/03/20 12 
+
+5545360  141,751.00  7/22/20 8/03/20 12 
+
+2020-07-084C 5545365  5,000.00  7/23/20 8/03/20 11 
+
+  5545366 150.00  7/23/20 8/03/20 11 
+
+2020-07-085C 
+  
+
+5545367 400.00  7/24/20 8/03/20 10 
+
+5545368  800.00  7/24/20 8/03/20 10 
+
+2020-07-086C 5545369  12,000.00  7/28/20 8/03/20 6 
+
+2020-07-087C 
+  
+
+5545370 5,000.00  7/29/20 8/03/20 5 
+
+5545374  2,800.00  7/29/20 8/03/20 5 
+
+2020-07-088C 5545377 77,430.00 7/30/20 8/13/20 14 
+
+2020-08-095C 
+  
+
+5545390 400.00 8/14/20 10/05/20 52 Various deposits were 
+made in August and 5545391 1,600.00 8/14/20 10/05/20 52 
+
+
+
+44 
+ 
+
+RCD No. OR Nos. Amount 
+Date of 
+
+collection/ 
+OR date 
+
+Date of 
+deposit 
+
+No. of 
+days 
+
+delayed 
+Remarks 
+
+  5545392 1,200.00 8/14/20 10/05/20 52 September 2020 yet 
+these amounts were 
+excluded and only 
+deposited on 10/5/20. 
+
+2020-08-097C 
+  
+
+5545394 1,600.00 8/18/20 10/05/20 48 
+
+5545398 400.00 8/24/20 10/05/20 42 
+
+2020-08-100C 
+  
+
+5545403 2,000.00 8/25/20 10/05/20 41 
+
+5545404 400.00 8/25/20 10/05/20 41 
+
+2020-11-143A 6599213 12,000.00 11/03/20 11/09/20 6 Deposits of collections 
+were made on 11/5/20 
+and 11/6/20; yet these 
+amounts were 
+excluded and 
+deposited only om 
+11/9/20. 
+
+2020-11-144A 6599216 10,394.50 11/04/20 11/09/20 5 
+
+2020-12-164A 6599290 510.00 12/14/20 12/21/20 7 
+
+Total collections per 
+RCD was P58,210.00. 
+Partial deposit of 
+P57,700 was made on 
+11/15/20. The balance 
+of P510.00 was 
+deposited only on 
+12/21/20. 
+
+Total 546,582.65         
+
+ 
+47. It also bears stressing that such delays in the deposit of collections affect the manner 
+of recording the transactions in the books. As collections were not deposited intact, it added 
+difficulty on the part of the Accountant to identify and reconcile the deposited amount to 
+the previous collections in the absence of such information in the submitted RCDs or list 
+of deposited collections.   
+ 
+48. Moreover, the practice of delaying the remittance of collections by the CO is not 
+only in violation of the above-mentioned provisions but also increases the susceptibility of 
+cash to misappropriation, which is prejudicial to the interest of the government.  
+ 
+49. We recommended and Management agreed to require: 
+
+ 
+
+a. The Collecting Officer to: 
+ 
+
+i. Use separate series or booklet of ORs for each fund/book (RA and TF) 
+so that the issuance and reporting of ORs in the RCDs are consistently 
+
+sequential to facilitate ease and proper monitoring of the issuances of 
+
+ORs and recording of collections and deposits in the books;  
+
+ 
+
+ii. Ensure that ORs are issued in strict numerical sequence for each 
+fund/book; and 
+
+ 
+
+iii. Deposit intact all collections of the day on the same day or the next 
+banking day, prepare and submit the corresponding RCDs on a daily 
+
+
+
+45 
+ 
+
+basis to the Accountant, and maintain CRRec to monitor daily 
+
+collections and deposits made; 
+
+ 
+
+b. The Accountant to: 
+ 
+
+iv. Review and verify records to determine the breakdown and 
+particulars of the unadjusted balance of P9,707.98. Failure to identify 
+
+the same may result in a refund in favor of the government as it is 
+
+considered/reflected as undeposited collections in the books; and  
+
+ 
+
+v. Be more prudent in recording the transactions and ensure that the 
+same are properly reported in its respective books of accounts; and   
+
+ 
+
+c. The Accountant and the Collecting Officer to conduct reconciliation of 
+records regularly to immediately correct any discrepancy.  
+
+ 
+
+50. Management informed that the unadjusted balance of ₱9,707.98 was already 
+identified and recorded per JEV Nos. 2021-03-000717 to 718 dated March 29, 2021. 
+ 
+51. In summary, the accounting deficiencies in Cash and Cash Equivalents and Deferred 
+Credits/Unearned Income accounts amounting to P0.948 million which represents 0.21 percent 
+of the total assets of the Institute as at December 31, 2020 is considered immaterial, thus, we 
+
+rendered an Unqualified Opinion on the financial statements of the FNRI.  
+
+ 
+
+Compliance Audit  
+ 
+
+Unremitted excess proceeds from trainings conducted - P16,935.18 
+ 
+
+52. Excess proceeds of P16,935.18 derived from the conduct of trainings were not 
+remitted to the Bureau of the Treasury (BTr) in violation of Section 12 of RA 11465, 
+
+known as the General Appropriations Act of FY 2020.  
+ 
+
+53. Section 12 of Republic Act (RA) No. 11465, or the General Appropriations Act 
+(GAA) of Fiscal Year (FY) 2020, states that “Department, Bureaus, Offices and 
+instrumentalities of the national government including Constitutional Offices, enjoying 
+fiscal autonomy which conduct training programs in relation to their mandated functions 
+are authorized to collect seminar, conference, training and oath taking fees from 
+government and private agency participants. The proceeds derived from each seminar, 
+conference, training and oath taking activities shall be deposited with the National 
+Treasury as income of the General Fund pursuant to Section 44, Chapter 5, Book VI of 
+E.O No. 292.  However, the agencies which do not have appropriations in their budgets 
+for the purpose may use the proceeds for the conduct of the said seminar, conference, 
+training and oath taking activities subject to budgeting, accounting and auditing rules and 
+regulations.  Any excess proceeds shall be deposited with the National Treasury as 
+income of the General Fund.” 
+
+
+
+46 
+ 
+
+54. As at December 31, 2020, the FNRI had already remitted excess proceeds derived 
+from the conduct of trainings amounting to P175,670.38. Records, however, showed a 
+remaining balance of P16,935.18 under Cash in Bank - LCCA that is still due for remittance 
+to the BTr. The details of balance and transactions are presented in the table below. 
+ 
+
+Table 7. Excess Proceeds Derived from the Conduct of Trainings 
+
+Description 
+2019 
+
+Unexpended 
+balance 
+
+Expenses Adjustments 
+Remittance 
+
+to BTr 
+Balance 
+
+Training for the Conduct of 
+Sensory Evaluation for the 
+Sample Extruded Snack 
+
+17,100.00  (17,064.82)  - - 35.18 
+
+Training on FNRI Developed 
+Nutrition Tools and Basic 
+Nutrition Therapy 
+
+19,348.17  (19,316.07)  16,000.00 (32.10)  16,000.00  
+
+Training Workshop: Proximate 
+Analyses in Food (Moisture, 
+Ash, Protein, Fat, 
+Carbohydrate, and Energy 
+
+15,755.33  - 1,353.40 (16,208.73) 900.00 
+
+Total     52,203.50  (36,380.89)     17,353.40  (16,240.83)  16,935.18  
+
+ 
+55. As evidenced by the remittance to the BTr, it is ascertained that the trainings 
+enumerated above have already been conducted/completed and related expenses incurred 
+were likewise paid to the respective creditors. The remaining balances, except for the 
+Training for the Conduct of Sensory Evaluation for the Sample Extruded Snack, were 
+merely the result of some adjustments/errors made in the books which likewise warrants 
+the reversion to the BTr. 
+
+ 
+56. Delayed/non-remittance of the remaining excess/unexpended balances of the 
+proceeds derived from the conduct of trainings due to errors in posting in the subsidiary 
+ledgers increases the risks of possible misappropriation of funds and therefore, a loss of 
+income in the General Fund as prescribed in Section 12 of RA 11465.  
+
+ 
+
+57. We recommended and Management agreed to require the Accountant to be 
+more prudent in recording transactions, remit to the BTr any excess proceeds derived 
+
+from the conduct of trainings, and henceforth, strictly enforce the provisions of 
+
+Section 12 of RA 11465.  
+ 
+
+58. Management commented that the excess proceeds derived from the conduct of 
+training amounting to ₱16,935.18 were remitted to the National Treasury per JEV-2021-
+02-000373 and Check no. 516950 dated February 10, 2021. 
+
+ 
+
+Unreverted Guaranty/Security Deposits Payable aged more than two (2) years - 
+₱935,977.59 
+
+ 
+
+59. The Guaranty/Security Deposits Payable account of P2.716 million included 
+payables of P0.936 million or 34%, which remained outstanding/unclaimed for two 
+
+(2) years or more, contrary to Section 1 of Executive Order No. 87 and Section 98 of 
+
+Presidential Decree No. 1445. 
+
+
+
+47 
+ 
+
+60. Section 1 of Executive Order (EO) No. 87 dated August 13, 2019, states that “all 
+documented accounts payable for the fiscal year 2016 and years prior thereto shall be 
+reverted to the Accumulated Surplus or Deficit of the General Fund, or the Cumulative 
+Result of Operations of the National Government. Henceforth, all documented accounts 
+payable which remain outstanding for at least two years, for which no actual 
+administrative or judicial claim has been filed, shall be subject to automatic reversion.” 
+
+ 
+61. Further, Section 5 of the same EO states that “the Order shall apply to all accounts 
+payable of all National Government Agencies, except: (i) trust or fiduciary funds, for as 
+long as the purposes for their creation have not been accomplished; and (ii) accounts 
+payable corresponding to foreign-assisted projects for the duration of the said projects.” 
+
+ 
+62. Moreover, Section 98 of Presidential Decree (PD) No. 1445 provides that “the 
+Commission upon notice to the head of agency concerned may revert to the unappropriated 
+surplus of the general fund of the national government, any unliquidated balance of 
+accounts payable in the books of the national government, which has been outstanding for 
+two years or more and against which no actual claim, administrative or judicial, has been 
+filed or which is not covered by perfected contracts on record. This section shall not apply 
+to unliquidated balances of accounts payable in trust funds as long as the purposes for 
+which the funds were created have not been accomplished.” 
+
+ 
+63. As at December 31, 2020, the Guaranty/Security Deposits Payable account 
+disclosed a balance of P2,716,493.82, which pertained to collections of performance bonds 
+required by the agency from the suppliers/winning bidders as a guarantee to the faithful 
+performance of its obligations under the contract. Aging of the account, however, revealed 
+that 91 percent or P2,458,981.92 were already due and demandable, including the amount 
+of P935,977.59 which remained unclaimed and outstanding for more than two (2) years 
+even if the related procurement of goods/supplies and equipment were already delivered 
+and accepted. 
+ 
+
+Table 8: Aging of the Guaranty/Security Deposits Payable 
+
+Age Amount Percentage 
+
+Not yet 
+due 
+
+Less than 30 days      257,511.90  9% 
+
+Less than 90 days                     -    0% 
+
+Due 
+already 
+
+91-365 days      521,456.64  19% 
+
+Over 1 year   1,001,547.69  37% 
+
+Over 2 years        53,999.00  2% 
+
+Over 3 years      881,978.59  32% 
+
+ Total   2,716,493.82  100% 
+
+ 
+64. Taking into account of the previous year’s observation, it is worth noting that out 
+of long outstanding payables in CY 2019 of P1,611,072.80, a total of P809,067.36 or 50.22 
+percent were paid and/or reverted to the Accumulated Surplus/(Deficit) account in the 
+current year. Further, the Accountant ensured that the remaining balances are strictly 
+monitored and coordination with the suppliers are being made to settle their outstanding 
+
+
+
+48 
+ 
+
+accounts. The breakdown and status of the amount P935,977.59 which still remained 
+outstanding for two (2) years or more are shown below.     
+ 
+
+Table 9: Outstanding Guaranty/Security Deposits Payable Account for Two (2) Years or More 
+
+Name Nature 
+Over 2 
+years 
+
+Over 3 
+years 
+
+Total Remarks 
+
+Asiagel Corp. Medical 
+and 
+Laboratory 
+Supplies 
+
+25,550.00 - 25,550.00 
+waiting for 
+request 
+letter from 
+supplier 
+
+Chemline Scientific Corp. 28,449.00 122,378.90 150,827.90 
+
+Yana Chemodities Inc. -  55,000.00 55,000.00 
+
+DKSH Equipment -  36,631.91 36,631.91 
+
+Diamed Enterprise 
+
+Medical 
+and 
+Laboratory 
+Supplies 
+
+ - 609,017.78 609,017.78 
+waiting for 
+NCA 
+release 
+
+MCSA Marketing 
+Office 
+Supplies 
+
+ - 58,950.00 58,950.00 
+paid in 
+2021 
+
+Total 53,999.00 881,978.59 935,977.59   
+
+ 
+65. It is emphasized that the delays on the part of the suppliers to claim their accounts 
+have been long overdue, hence, continued waiting is no longer necessary. The continued 
+existence of prior years’ payable accounts in the books unnecessarily immobilizes public 
+funds, hampers efforts to determine the actual financial condition of the national 
+government, and hinders effective resource planning and allocation, hence, the order for 
+reversion of payables which remained outstanding for two (2) years or more pursuant to 
+the above-cited provisions.  
+ 
+66. We reiterated our prior year’s recommendation and Management agreed to 
+instruct the Accountant to continuously inform in writing the payee/supplier to claim 
+
+their outstanding accounts; otherwise, make a necessary accounting entry to 
+
+recognize the automatic reversion of payables which remain outstanding for two (2) 
+
+years or more to the Accumulated Surplus/Deficit of the general fund. 
+ 
+
+67. The Accountant already closed the long-outstanding Guaranty/Security Deposits 
+Payable to the Accumulated Surplus/(Deficit) as per the prior year’s audit recommendation 
+amounting to ₱262,960.00, while there were suppliers who gave their confirmation to 
+provide a request letter for its refund, thus, not reverted to the said account. Further, 
+pending the release of guidelines and procedures relative to the reversion of accounts 
+payable under EO 87, agencies have until the end of 2021 to comply under Section 4.1 of 
+the Joint Circular dated March 08, 2021 posted by the DBM on their website on March 11, 
+2021. Lastly, the implementation of the enhanced community quarantine (ECQ) in Metro 
+Manila and varying schedules due to the skeletal workforce arrangement hampered the 
+communication with the suppliers and other activities. 
+ 
+
+ 
+ 
+
+
+
+49 
+ 
+
+Unreverted cancelled stale check for over two (2) years - P5,391.06   
+ 
+
+68. Cancelled stale checks totaling P5,391.06 remained outstanding and carried 
+over in books for over two (2) years and not yet reverted to the Accumulated Surplus 
+contrary to Section 97 of PD 1445.    
+
+ 
+69. Section 97 of PD 1445 on disposition of stale warrants or checks, states that: 
+
+ 
+(1) A treasury warrant or check which remains outstanding after two (2) years from 
+date of its issue shall not be paid by the Treasurer of the Philippines or by any duly 
+authorized depository. The issuing agency shall take up in its books of accounts the 
+amount of this warrant or check as surplus adjustment of the fund against which it 
+was previously charged. Upon presentation of a stale warrant or check, the issuing 
+agency shall cancel it and issue to the payee a substitute warrant or check in lieu 
+thereof.  
+ 
+(2) Such sum as may be necessary to meet the obligation arising out of the issuance 
+of substitute warrants or checks chargeable against the general fund shall be charged 
+to the current year’s General Appropriations law, subject to pertinent budget rules 
+and regulations. Substitute warrants or checks payable from funds other than the 
+general fund shall be paid from the appropriate funds. 
+ 
+
+70. Review of various subsidiary ledger (SL) balances under the Cash in Bank - LCCA 
+account pertained to cancelled stale checks which remained outstanding for 10 months to 
+over two (2) years, and continuously carried over in the books as they were unclaimed by 
+the suppliers and with minimal effort by the Management to enforce its settlement.    
+
+ 
+Table 10: Cancelled stale checks 
+
+Payee 
+Check  Amount 
+
+(PhP)  
+Age 
+
+No. Date  
+
+PLDT 516807 10/8/2018            703.56  over 2 yrs. 
+
+PLDT 516807 10/8/2018         4,687.50  over 2 yrs. 
+
+Abigail S. Rustia 517037 5/23/2019         6,739.21  1 yr & 5 mos. 
+
+Abigail S. Rustia 517065 7/1/2019         6,739.21  1 yr & 6 mos. 
+
+PLDT 517116 12/4/2019       42,243.35  1 yr.  
+
+PLDT 517130 12/16/2019         8,000.00  1 yr.  
+
+PLDT 517132 12/17/2019         7,187.14  1 yr.  
+
+PLDT 517131 12/17/2019         3,825.65  1 yr.  
+
+Advance Solution Inc. 517150 2/28/2020       25,473.13  10 mos.  
+
+Total     105,598.75   
+ 
+
+71.   Given that these are valid obligations, it is imperative for the Institute to monitor 
+and ensure its payment to its creditors. The settlement of these amounts would likewise 
+facilitate the process of clearing the balances in the books of accounts, instead of leaving 
+these dormant for months or even years. Nevertheless, the amount of P5,391.06 which 
+remained outstanding for more than two (2) years must be reverted to the Accumulated 
+Surplus pursuant to Section 97 of PD 1445.   
+
+
+
+50 
+ 
+
+72. The continuous non-settlement of liabilities resulted in existence of cancelled stale 
+checks for over two (2) years, contrary to Section 97 of PD 1445.  
+
+ 
+
+73. We recommended and Management agreed to require the Accountant to: 
+ 
+
+a. Verify the status and validity of the cancelled stale checks and coordinate 
+with creditors to facilitate settlement of the balance; otherwise, directly 
+
+remit to the BTr as deemed necessary; and 
+
+ 
+
+b. Transfer/revert to the Accumulated Surplus the amounts of issued checks 
+that remained outstanding for more than two (2) years as provided for in 
+
+Section 97 of PD 1445. 
+
+ 
+74. Management commented that Section 97 of PD 1445 provides that upon 
+presentation of a stale warrant or check, the issuing agency shall cancel it and issue the 
+payee a substitute warrant or check in lieu thereof. Therefore, the Accountant shall prepare 
+a list of stale checks for endorsement to the Collecting and Disbursing Section to prepare 
+replacement checks for the settlement of the outstanding payables. 
+ 
+
+Other Compliance Issues 
+ 
+
+Gender and Development (GAD) 
+  
+75. The CY 2020 Programs/Projects addressing the GAD Plan of the Institute 
+complied with the requirements of Section 31 of the General Provisions of the General 
+
+Appropriations Act (GAA) of FY 2020, representing actual utilization of P227.835 
+
+million or 81.48 percent of its original budget of P279.619 million, or an equivalent of 
+
+50.52 percent of its appropriations of P553.507 million. 
+
+  
+
+76. Section 31 of the GAA for FY 2020 provides, among others, “All agencies of the 
+government shall formulate a Gender and Development (GAD) Plan designed to address 
+gender issues within their concerned sectors or mandate xxx.”  
+ 
+77. “The GAD Plan shall be integrated in the regular activities of the agencies, which 
+shall be at least 5% of their Budgets. xxx. Utilization of the GAD budget shall be evaluated 
+based on the GAD performance indicators identified by said agencies.”  
+
+ 
+78. Based on the Institute’s report of accomplishment, particularly on GAD as at 
+December 31, 2020, Management had allotted ₱279,618,962.00 or an equivalent of 50.52 
+percent of its current year appropriations of ₱553,507,000.00 and had an actual utilization 
+of ₱227,834,818.88, having implemented four (4) client-focused activities and three (3) 
+out of seven (7) organization-focused activities, the details of which are presented in Table 
+11 below. As noted, some of the GAD activities were suspended during the COVID-19 
+pandemic. 
+ 
+
+ 
+
+
+
+51 
+ 
+
+Table 11: GAD Plan and Accomplishment 
+GAD Activity Approved Budget Actual Cost Remarks 
+
+Client-Focused Activities 
+
+Expanded National Nutrition 
+
+Survey- Conduct data 
+
+collection, data processing and 
+
+analysis 
+
+MOOE 
+
+₱254,882,400.00 
+ 
+
+CO 
+
+₱22,500,000.00 
+
+ 
+
+203,231,236.52 
+
+ 
+
+ 
+
+22,448,129.37 
+
+The conduct of the nutrition 
+
+on-site survey was 
+
+discontinued/ terminated 
+
+on March 16, 2020 due to 
+
+the COVID-19 pandemic. 
+
+Only two (2) highly 
+
+urbanized cities (HUCs) 
+
+were covered and 43 
+
+online dissemination fora 
+
+were conducted. 
+Develop new food and nutrition 
+
+information packages 
+
+concerning women and children 
+
+MOOE 
+
+₱806,450.00 
+ 
+
+786,580.26 
+
+Done 
+
+Disseminate promotion and 
+
+marketing collaterals 
+
+concerning women and children 
+
+through quad media 
+
+MOOE 
+
+₱680,112.00 
+ 
+
+664,912.47 
+
+Done 
+
+Conduct diffusion and transfer 
+of FNRI food products and 
+technologies to SMEs including 
+women’s’ groups/associations 
+
+MOOE 
+
+₱ 700,000.00 
+ 
+
+ 
+698,143.76 
+
+Done 
+
+Organization-Focused Activities 
+
+Maintain/update the FNRI-
+developed gender database 
+
+MOOE- 0.00 - Done 
+
+Maintain Lactation facility MOOE- 2,000.00 - One client availed of the 
+
+lactation facility. Purchase 
+
+of supplies for the lactation 
+
+facility was suspended due 
+
+to the pandemic. 
+
+Conduct of regular meetings of 
+the GFPS 
+
+MOOE- 4,000.00 - One meeting was 
+
+conducted in the first 
+
+semester of 2020 
+
+Attendance to GAD-related 
+trainings and seminars 
+
+MOOE- 10,000.00 - Activities were suspended 
+
+during the COVID 19 
+
+pandemic 
+
+Conduct of GAD-related 
+trainings/seminars 
+
+MOOE- 3,000.00 - Activities were suspended 
+
+during the COVID-19 
+
+pandemic 
+
+Participate in the celebration of 
+the National Women’s Month 
+
+MOOE- 30,000.00 5,816.50 Done. The demonstration 
+
+on bread making was 
+
+conducted in cooperation 
+
+with the Philippine 
+
+Foremost Milling 
+
+Corporation. 
+
+
+
+52 
+ 
+
+GAD Activity Approved Budget Actual Cost Remarks 
+
+Participation of FNRI 
+employees in the 18-Day 
+campaign to end Violence 
+Against Women (VAW) 
+
+MOOE- 1,000.00 - Not Done. 
+
+Total  ₱ 279,618,962.00  ₱ 227,834,818.88  
+ 
+
+79. We recommended and Management agreed to continue integrating GAD-
+related activities into the Institute’s regular programs and projects, and exert effort 
+
+to strictly implement its GAD focused programs as planned. 
+
+ 
+
+Projects Related to Senior Citizens, Differently-Abled Persons and the Youth 
+ 
+
+80. The Institute was able to incorporate and implement programs/activities/ 
+projects which are related to Senior Citizens, Differently-Abled Persons and the 
+
+Youth in compliance with Sections 32 and 33 of the General Provisions of the FY 2020 
+
+GAA. 
+
+ 
+
+81. Section 32 of the GAA for FY 2020 provides, “All agencies of the government shall 
+formulate plans, programs and projects intended to address the concerns of senior citizens 
+and persons with disability, insofar as it relates to their mandated functions, and integrate 
+the same in their regular activities.” 
+
+ 
+82. “Moreover, all government infrastructure and facilities, shall provide architectural 
+or structural features, designs or facilities that will reasonably enhance the mobility, safety 
+and welfare of persons with disability pursuant to Batas Pambansa Blg. 344 and RA 7277.”      
+
+ 
+83. Further, Section 33 of the GAA for FY 2020 states that “all agencies of the 
+government are encouraged to provide allocation for youth development projects and 
+activities within the framework of the Philippine Youth Development Plan (PYDP) 2017-
+2022.” 
+
+ 
+84. Pursuant to Sections 32 and 33 of the GAA, the Institute incorporated in its regular 
+operation programs/activities/projects which address the concerns of Senior Citizens, 
+persons with disability and the youth. The details are presented in Table 12 below. 
+ 
+
+Table 12:  List of Programs 
+
+Programs Budget Utilized 
+
+Technology Generation for the Production of the Fortified Food 
+
+Products for Women of Reproductive Age (WRA)*, Pregnant and 
+
+Lactating Women (GINA) 
+
+750,000.00 
+
+ 
+
+ 
+
+746,375.84 
+
+Multi-Nutrient Extruded Rice Kernel (MNERK) Pilot Scale Production 
+
+and Shelf-Life Study of Two (2) MNERK Products for WRA 
+
+700,000.00 
+
+ 
+
+663,838.68 
+
+Development and Validation of the Weight-for-Height Reference 
+
+Table for Filipino Pregnant Women 
+
+200,000.00 
+
+ 
+
+228,339.73 
+
+
+
+53 
+ 
+
+Programs Budget Utilized 
+
+Prevalence and Associated Risk Factors of Impaired and High 
+
+Fasting Blood Glucose among Filipino Adults, 18 years old and over: 
+
+Expanded National Nutrition Survey, 2018 
+
+4,990,000.00 
+
+ 
+
+3,797,553.08 
+
+Does Household food security impact the health and nutrition status 
+
+of the elderly in the Philippines? 
+
+100,000.00 
+
+(10 in-depth 
+
+projects) 
+
+No expense 
+
+incurred 
+
+Determinants of Overweight and Obesity Among Filipino 
+
+Adolescents 
+
+Alcohol Drinking and Nutritional Status of Adolescent in the 
+
+Philippines 
+
+Is Obesity linked to anemia occurrence? – An Evaluation of 
+
+Nutritional Status of Anemic Filipino Women of Reproductive Age: 
+
+2018 Expanded National nutrition Survey 
+
+ 
+85. However, the FNRI buildings, facilities and laboratories, except for the entrance 
+lobby which has a provision for the ramp, are not yet compliant with the requirements of 
+Section 32 of the GAA insofar as the facilities should reasonably enhance the mobility, 
+safety and welfare of persons with disability such as, but not limited to, the provision of 
+elevators and handles to ensure their safety and well-being. However, renovation of 
+buildings or provision of elevators may not be implemented due to the recommended 
+relocation of the office building, as the current location of the office building is parallel to 
+a fault line.  
+ 
+86. We recommended and Management agreed to continue to integrate more 
+programs and projects into its regular activities that will address the concerns of 
+
+senior citizens, PWDs and youth in line with its mandates, and exert more effort to 
+
+comply with the provision of facilities for senior citizens and PWDs, both for the 
+
+current and relocated/new office buildings.  
+
+ 
+Monitoring of Compliance with other Mandatory Accounts 
+
+ 
+
+87. Analysis of the accounts Due to BIR, GSIS, PhilHealth, and Pag-IBIG showed that 
+for CY 2020, the Agency has deducted from the salaries of its personnel the required tax, 
+premiums and loan installments, and remitted the same together with the government share 
+within the prescribed period to the concerned institutions or agencies.  Details are in Table 
+13 below. 
+ 
+
+Table 13: Status of Compliance with Accounting of Due to BIR, GSIS, PhilHealth, and Pag-IBIG 
+
+Area Account 
+Affected 
+
+Status 
+
+Compliance with 
+Tax Laws        
+
+Due to BIR During the year, total taxes withheld amounted to 
+₱24,407,917.83, of which ₱20,297,980.62 was 
+remitted, thus a balance of ₱4,109,937.21 which 
+was remitted in the ensuing year.    
+
+Deduction and 
+Remittance of GSIS 
+premiums and loans 
+
+Due to GSIS Total deductions amounted to ₱9,093,396.59 of 
+which ₱9,074,703.19 was remitted as at year-end, 
+
+
+
+54 
+ 
+
+leaving a balance of ₱18,693.40 which was 
+remitted in the ensuing year.    
+
+Deduction and 
+Remittance of 
+PhilHealth 
+premiums 
+
+Due to PhilHealth Total deductions amounted to ₱1,363,587.78 for 
+personnel’s contributions and remitted 
+₱1,329,221.15 to Philhealth as at year-end; 
+hence, a balance of ₱34,366.63 which was paid in 
+the ensuing year.    
+
+Deduction and 
+Remittance of Pag-
+IBIG premiums and 
+loans 
+
+Due to Pag-IBIG Total deductions amounted to ₱1,779,850.18 for 
+personnel’s contribution and loan payments, and 
+remitted ₱1,777,750.18; hence, a balance of  
+₱2,100.00 remitted in the succeeding year. 
+
+Hiring of Contractual/Job Order Employees 
+
+88. For CY 2020, FNRI hired a total of 858 contractual personnel, representing 
+additional workforce of 554% to the 155 regular plantilla employees manning the Office 
+of the Director (OD), Nutrition and Food Research and Development Division (NFRDD), 
+Nutritional Assessment and Monitoring Division (NAMD), Technology Diffusion and 
+S&T Services Division (TDSTSD), Finance and Administrative Division (FAD) to 
+implement Science and Technology programs/projects and such other functions as maybe 
+assigned. The Institute paid services of approximately P102,295,691.63 charged against 
+MOOE.  
+
+ 
+Enforcement of Settlement of Suspensions, Disallowances and Charges  
+ 
+89. The total balance of audit suspensions, disallowances and charges as a result of 
+audit of various transactions as at December 31, 2020, based on Notice of Suspension 
+(NS)/Notice of Disallowance (ND)/Notice of Charge (NC)/Notice of Settlement of 
+Suspensions and Disallowances/Charges (NSSDC) issued by this Commission, is 
+summarized in Table 14: 
+ 
+
+Table 14: Summary of Audit Suspensions, Disallowances, and Charges 
+
+ Beginning 
+Balance 
+
+December 31, 
+2019 
+
+This Period 
+January 1 to December 31, 2020 
+
+Ending 
+Balance As of 
+December 31, 
+
+2020 
+NS/ND/NC NSSDC 
+
+Notice of Suspension ₱ 7,244,584.94 ₱                 - ₱7,244,584.94 ₱                       - 
+Notice of Disallowance 16,062,176.34 311,230.15  16,373,406.49 
+
+Notice of Charge -   - 
+
+TOTAL ₱23,306,761.28 ₱311,230.15 ₱ 7,244,584.94 ₱16,373,406.49 
+ 
+
+90. The details of the issued Notices of Disallowance (ND) totaling ₱16,373,406.49 are 
+presented in Table 15. 
+
+ 
+ 
+ 
+
+
+
+55 
+ 
+
+Table 15: Details and Status of ND as at December 31, 2020 
+
+ND No./Date Nature of Disallowance Amount Status as of December 31, 2020 
+
+2012-01-101(11) 
+
+dated 11/19/2012 
+
+Excess payment of 
+
+Honoraria on Science and 
+
+Technological (S&T) 
+
+activities for CY 2011 
+
+₱2,312,967.00 For automatic review of decision in 
+the Commission Proper 
+
+2016-01-101(15) 
+
+dated 07/04/2016 
+
+Excess payment on 
+
+Longevity benefits for CY 
+
+2015 
+
+3,582,284.94 Decision was already elevated to 
+the Commission Proper for 
+Automatic Review 
+
+2017-01-101(16) 
+
+dated 06/15/2017 
+
+Excess payment on 
+
+Longevity benefits for CY 
+
+2016 
+
+3,362,441.06 The decision which partially denied 
+the Appeal was subsequently 
+endorsed to the Commission 
+Proper for Automatic Review 
+
+2018-01-101-(17) 
+
+dated 05/25/2018 
+
+Excess payment on 
+
+Longevity benefits for CY 
+
+2017 
+
+3,022,508.01 NGS-Cluster 6 Decision No. 2018-
+038 dated July 19, 2018 denied the 
+appeal of the Appellants 
+ 
+Petitioner/Management filed a 
+Petition for Review of the above 
+decision with the Commission 
+Proper under COA CP Case No. 
+2018-982 dated October 24, 2018 
+
+2018-002-07-(17) 
+
+dated 07/31/2018 
+
+Excess payment of 
+
+Honoraria on Science and 
+
+technological (S&T) 
+
+activities  for C Y2017 
+
+3,781,975.33 Decision was already elevated to 
+the Commission Proper for 
+Automatic Review 
+
+20-001-101-(19) 
+
+dated 10/29/20 
+
+Overpayment of claim for the 
+
+terminal benefits in CY 2019 
+ 311,230.15 
+
+ 
+No appeal was filed. For issuance 
+of Notice of Finality of Decision 
+(NFD) and COA Order of Execution 
+(COE).  
+
+TOTAL 16,373,406.49  
+
+ 
+
+91. We reiterated our prior year’s recommendations and Management agreed to 
+firmly enforce the settlement of all suspensions and disallowances pursuant to Section 
+
+7 of the Rules and Regulations on Settlement of Accounts (RRSA), and furnish the 
+
+Audit Team copies of the settlement thereof, such as Official Receipts of Payment for 
+
+eventual issuance of NSSDC and recognition in the books of accounts.  
+ 
+
+

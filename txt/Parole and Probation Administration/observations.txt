@@ -1,0 +1,3892 @@
+PART II – OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+FINANCIAL AUDIT
+
+
+
+Non-reversion of Stale, and/or Cancelled Checks
+
+
+
+1)	The balance of the Cash and Cash Equivalents account amounting to ₱8,493,638.88 as of December 31, 2020 was inaccurate due to non-cancellation and reversion of stale and cancelled checks to the Cash-MDS, Regular account contrary to Treasury Circular No. 03-2017 dated October 20, 2017 and Sections 44 and 45, Chapter 6, Government Accounting Manual, Volume I; thus, affecting the fair presentation of Cash, Liability and Accumulated Surplus accounts in the financial statements.
+
+
+
+1)	Analysis of the Cash-MDS, Regular account revealed that the balance as of December 31, 2020 was understated by ₱325,890.86. Details are as follows:
+
+
+
+Office/ Region
+
+Account 
+
+Particular
+
+Payee
+
+Effect (over)/Under
+
+Remarks
+
+IV-A
+
+Cash, MDS Account, Regular
+
+Telephone bill of Laguna PPO
+
+PLDT Inc.
+
+₱    2,143.03
+
+Non-cancellation of stale MDS check
+
+IV-A
+
+Cash, MDS Account, Regular
+
+Discrepancy in reversion of lapsed NCA
+
+LDDAP-AD
+
+302,905.83
+
+Discrepancy in reversal of NCA pertaining to the cancelled check.
+
+VI
+
+Cash, MDS Account, Regular
+
+Check issued to PPAMCO
+
+Parole and Probation Administration Multi-Purpose Cooperative (PPAMCO)
+
+3,842.00
+
+Non-cancellation of stale MDS check
+
+VIII
+
+Cash, MDS Account, Regular
+
+Ten (10) checks that have been stale for more than three months
+
+Various Payees
+
+17,000.00
+
+Due for cancellation, replacement, and /or adjustment in the books
+
+Total
+
+
+
+
+
+
+
+₱ 325,890.86
+
+
+
+
+
+2)	Section 44, Chapter 6, GAM Volume 1 for NGAs in relation to Treasury Circular No, 03-2017 dated October 20, 2017 entitled, “The Reduction in the Expiry Period of MDS Check from Six (6) Months to Three (3) Months from date of Issue” provides that: 
+
+
+
+“Checks may be cancelled when they become stale, voided or spoiled. The depository bank considers a check stale, if it has been outstanding for over six months from date of issue or as prescribed. A stale, voided or spoiled check shall be marked cancelled on its face and reported as follows:
+
+
+
+a)	Voided, spoiled or unclaimed stale checks with the Cashier shall be reported as cancelled in the List of Unreleased Checks that will be attached to the Report of Checks Issued (RCI).
+
+
+
+b)	New checks may be issued for the replacement of stale/spoiled checks in the hands of payees or holders in due course, upon submission of the stale/ spoiled checks to the Accounting Division/Unit. A certified copy of previously paid Disbursement Vouchers (DVs) shall be attached to the request for replacement. A Journal Entry Voucher (JEV) shall be prepared to take up the cancellation. The replacement check shall be reported in the RCI."
+
+
+
+3)	While, Section 45, Chapter 6, of the same Manual, prescribed the following Illustrative Accounting Entries for Cancelled Checks –
+
+
+
+a)	Cancellation and Replacement of Stale/Voided/Spoiled MDS check issued in the current year:
+
+
+
+Account Title 			         Account Code   Debit Credit
+
+Cash-Modified Disbursement
+
+System (MDS), Regular		10104040	xxx 
+
+Accounts Payable		20101010		xxx     
+
+To recognize cancellation of stale/voided/spoiled MDS checks 
+
+
+
+Accounts Payable			20101010	xxx          
+
+Cash-Modified Disbursement 
+
+System (MDS), Regular 	10104040		xxx                     
+
+To recognize replacement of stale/voided/spoiled MDS checks. 
+
+
+
+Cash-Modified Disbursement 
+
+System (MDS), Regular		10104040	xxx             
+
+Appropriate Account		xxxxxxxx		xxx 
+
+To recognize cancellation of stale/voided/spoiled MDS checks without replacement.
+
+
+
+
+
+
+
+
+
+b)	Cancellation and Replacement of Stale/Voided/Spoiled MDS check issued in the prior year: 
+
+
+
+Accumulated Surplus/(Deficit)		30101010	xxx 
+
+Accounts Payable		20101010		xxx 
+
+To recognize the cancellation of stale/voided/spoiled MDS checks 
+
+
+
+Accounts Payable			20101010	xxx 
+
+Cash-Modified Disbursement 
+
+             System (MDS), Regular	10104040		xxx 
+
+To recognize the replacement of stale/voided/spoiled MDS checks 
+
+
+
+      Accumulated Surplus/(Deficit)	30101010	xxx 
+
+             Appropriate Account		xxxxxxxx		xxx
+
+To recognize the cancellation of stale/voided/spoiled MDS checks without replacement
+
+
+
+4)	Examination of Cash-MDS, Regular account of PPA Region IV-A disclosed that JEV No. 100-2020-3-03 dated March 31, 2020 was drawn to take up the reversion of lapsed NCA in the 1st quarter of CY 2020 amounting to ₱2,085,132.49. Verification of bank statement for the month of April 2020 showed the amount of reverted NCA was only ₱1,782,226.66. The discrepancy pertained to the cancelled check per Advice of Checks Issued and Cancelled (ACIC) No. 20-03-024. 
+
+
+
+5)	Further, check amounting to ₱2,143.03, remained outstanding for over nine months; hence, already stale and should be adjusted in the books of accounts.
+
+
+
+6)	In Region VI, verification of the status of implementation of prior year’s audit recommendation on the Cash-in-Bank, MDS account revealed that stale check in favor of PPAMCO amounting to ₱3,842.00 has not yet been cancelled to date. The payee had already communicated with PPA but the check was not returned to the agency for cancellation and issuance of replacement. The Disbursing Officer issued the required certification that the check was not cleared by the bank and that the same has not been replaced. However, the same was not reverted to the Cash account at year-end. 
+
+
+
+7)	Review of the bank reconciliation statement as of December 31, 2020 of Region VIII revealed that 10 checks totaling ₱17,000.00 have been outstanding for over three months. These checks become stale and due for cancellation, replacement, and/or adjustment in the books but remained unacted upon.
+
+
+
+8)	This practice resulted in the understatement of Cash and Cash Equivalents by  ₱325,890.86, Accounts Payable by ₱22,985.03 and Accumulated Surplus by ₱302,905.83.
+
+
+
+9)	We recommended and Management agreed to require the concerned Regional Accountants to prepare JEV to cancel stale check and communicate with the payee for its replacement and to revert the cancelled checks to the Cash account.
+
+
+
+Management Comment
+
+
+
+10)	Management commented that: 
+
+
+
+a)	Regional Accountant of Region IV-A prepared JEV No. 2021/03/03 to set up liability for prior year cancelled check. In addition, cancelled check amounting to ₱302,905.83 was reflected in April-December 2020 Bank Reconciliation Statements; 
+
+
+
+b)	Regional Accountant of PPA Region VI was advised to prepare JEV to recognize the cancellation of stale check and its replacement was made upon receipt of the check from the PPAMCO on May 12, 2021; and
+
+
+
+c)	Regional Accountant of PPA Region VIII was advised to immediately prepare the necessary adjusting entries and replace the stale checks upon surrendering of the original issued checks.
+
+
+
+Misstated Inventory accounts
+
+
+
+2)	The accuracy of the Inventories account balance of ₱7,179,056.83 as of December 31, 2020 is doubtful due to recognition of undelivered supplies and materials totaling ₱39,725.00 in the books of Region XIII contrary to Section 15, Chapter 8 of GAM Volume I and unreconciled Inventory balances between Accounting and Property records with discrepancy of ₱148,576.51 contrary to Sections 10 and 11, Chapter 8, Volume I, item A of Appendix 57 and items A and C of Appendix 66, GAM Volume II.
+
+
+
+a)	Incorrect recognition of inventory items
+
+
+
+1)	Section 15, Chapter 8 of GAM Volume I provides the process of Receipt, Inspection, Acceptance and Recording Deliveries of Inventory Items.
+
+
+
+2)	Item 7 of Section 15, Chapter 8 of GAM Volume I states that “Based on Copy 3 of the Inspection and Acceptance Report (IAR) and photocopy of Purchase Order (PO) and Delivery Receipt (DR), prepares JEV to recognize the receipt of inventory items in the books of account. Signs the “Prepared by” portion of the JEV and forwards the JEV and supporting documents (SDs) to the Chief Accountant/Head of the Accounting Division/Unit for approval.”
+
+
+
+3)	Verification of records showed that inventories totaling ₱39,725.00 not yet delivered as to date were recorded in the books by debiting Inventory and crediting Accounts Payable even without the required documents contrary to Section 15, Chapter 8 of GAM Volume I. Breakdown of inventories is as follows:
+
+
+
+Other Supplies and Material Inventory
+
+₱17,150.00
+
+Semi-Expendable ICT
+
+11,000.00
+
+Semi-Expendable Office Equipment
+
+11,575.00
+
+Total
+
+₱39,725.00
+
+
+
+4)	We recommended and Management agreed to ensure that all recorded inventories in Region XIII are already delivered, inspected, and accepted before recording the same in the books of accounts and to prepare necessary adjustments to reflect the correct balance of Inventory account.  
+
+
+
+Management Comment
+
+
+
+5)	Management advised the Regional Accountant of PPA Region XIII to strictly recognize and record inventories only upon delivery, duly inspected and accepted by the Property/ Supply Officer.  It was adjusted in February 2021.
+
+
+
+b)	Unreconciled Inventory balances between Accounting and Property Records
+
+
+
+6)	Paragraph 29(b) of IPSAS, provides that fair presentation requires an entity to present information, including accounting policies, in a manner that provides relevant, reliable, comparable, and understandable information.  
+
+
+
+7)	Verification and analysis of Inventory accounts as at December 31, 2020 disclosed difference totaling ₱114,297.45 between balances reflected in the books of accounts and submitted RPCI, contrary to Sections 10 and 11, Chapter 8, GAM Volume I, item A of Appendix 57 and items A and C of Appendix 66, GAM Volume II, to wit:
+
+
+
+Region
+
+Account Name
+
+Per Books 
+
+Per RPCI 
+
+Variance 
+
+IV-A
+
+Office Supplies
+
+₱  85,358.64
+
+₱ 175,775.39
+
+₱   90,416.75
+
+
+
+Accountable Forms
+
+2,728.70
+
+0.00
+
+2,728.70
+
+
+
+Sub-Total
+
+88,087.34
+
+175,775.39
+
+93,145.45
+
+IV-B
+
+Office Supplies
+
+289,713.91
+
+310,865.91
+
+21,152.00
+
+
+
+Sub-Total
+
+289,713.91
+
+310,865.91
+
+21,152.00
+
+Grand Total
+
+₱ 377,801.25
+
+₱   486,641.3
+
+₱ 114,297.45
+
+
+
+8)	Moreover, analysis of issued semi-expandable properties revealed that related Semi-expendable Expenses recorded per book did not reconcile with the Inventory Custodian Slips (ICS) issued in CY 2020, resulting in a difference of ₱34,279.06, details as follows:
+
+
+
+Region
+
+Account Name
+
+Per Books 
+
+Per ICS
+
+Variance 
+
+IV-A
+
+Semi-expendable Expense – Office Equipment
+
+₱ 5,000.00
+
+₱ 5,000.00
+
+₱      0.00
+
+
+
+Semi-expendable Expense – ICT Equipment
+
+439,374.08
+
+449,741.76
+
+10,367.68
+
+
+
+Semi-expendable Expense –Furniture and Fixtures
+
+126,144.98
+
+150,056.36
+
+23,911.38
+
+Grand Total
+
+₱ 570,519.06
+
+₱604,798.12
+
+₱34,279.06
+
+
+
+9)	Further, non-maintenance and updating of the required forms and reports added to the cause of unreconciled inventory balances between accounting and property records. The Report of Supplies and Materials Issued (RSMI) and Report on the Physical Count of Inventories (RPCI) were also not submitted to the Audit Team within the prescribed period contrary to existing regulations.
+
+
+
+Region
+
+Unsubmitted/ Not updated/Not maintained records
+
+NCR
+
+--	Supplies Ledger Card (SLC)
+
+--	Stock Cards
+
+III
+
+--	SLC
+
+--	RSMI 
+
+IV-A
+
+--	SLC
+
+VI
+
+--	RPCI 
+
+XIII
+
+--	SLC
+
+--	Stock Cards
+
+
+
+10)	We recommended and Management agreed to:
+
+
+
+a)	 direct the Regional Accountants and Supply/Property Officers to reconcile and investigate differences between their records before taking up necessary adjustments on affected Inventory and related Expense accounts duly supported with evidence/source documents; and
+
+
+
+b)	submit the Report of Supplies and Materials Issued (RSMI) and Report on the Physical Count of Inventories (RPCI) to the Audit Team and to maintain/update Stock Cards and Supplies Ledger Cards (SLCs) to ensure proper accounting of inventories. 
+
+
+
+Management Comment
+
+
+
+11)	Management commented that:
+
+
+
+a)	The Regional Accountant of Region IV-A prepared JEV No. 2021/03/03 to record Office Supplies Inventory and Semi-expendable Expenses. The Supply/Property Officer was instructed to include Accountable Forms Inventory in the RPCI and the Accounting Section to maintain Supplies Ledger Cards (SLC);
+
+
+
+b)	In PPA Region IV-B, upon reconciliation of accounts and records, they found out that the variance of ₱21,152.00 relates to balances of Medical Supplies Inventory for Distribution of the Region, specially, drug testing kits from DOH. Management agreed to revise the  RPCI in order to correct balances of inventory accounts affected and reflect total ₱21,152.00 separately from Office Supplies Inventory; and
+
+
+
+c)	The Regional Directors instructed the concerned officials to update and reconcile all records, conduct periodic physical count, and submit reports on time to the concerned Audit Team.
+
+
+
+Errors and deficiencies affecting Property, Plant and Equipment (PPE)
+
+ 
+
+3)	The balance of the PPE accounts aggregating ₱202,252,458.66 as of December 31, 2020 was adversely affected by various accounting errors and deficiencies amounting to ₱272,306.06 and ₱3,251,676.56 respectively, which include non-provision of depreciation, erroneous recording of transactions, unreconciled accounting and property records, among others, contrary to the provisions of Chapter 5 and 19 of GAM Volume 1.
+
+
+
+1)	The following errors and deficiencies affected the PPE accounts:
+
+
+
+Accounting Errors
+
+Nature of Error
+
+Region
+
+Accounts affected
+
+Effect
+
+
+
+
+
+
+
+(Over)/Understatement
+
+a)	Lost Properties not derecognized from the books
+
+Region VI
+
+Office Equipment
+
+(₱   54,800.00)
+
+b)	
+
+
+
+Information and Communication Technology Equipment (ICT)
+
+(111,880.75)
+
+c)	Erroneous recording of depreciation expense-Motor Vehicles
+
+Region III
+
+Motor Vehicles
+
+(55,803.05)
+
+d)	Non-provision of depreciation expense-Furniture and Fixtures, and Office Equipment
+
+Region III
+
+Furniture and Fixtures
+
+(5,578.08)
+
+e)	
+
+
+
+Office Equipment
+
+(43,043.73)
+
+f)	Erroneous amount of Loss on Sale of Unserviceable Property
+
+Central Office
+
+Other Assets
+
+(1,200.44)
+
+Total (Over)/ Understatement
+
+₱ 272,306.05
+
+
+
+Accounting Deficiencies
+
+Nature of Deficiency
+
+Region
+
+Particular
+
+Amount
+
+a)	Unreconciled PPE balances between Accounting and Property Records
+
+IV-A
+
+ICT Equipment
+
+₱   60,437.71
+
+
+
+V
+
+Various PPEs
+
+272,197.99
+
+b)	Undisposed Unserviceable properties
+
+NCR
+
+Unserviceable properties misclassified to Other Assets
+
+64,231.68
+
+
+
+I
+
+Various Unserviceable Properties
+
+364,934.00
+
+
+
+III
+
+Unserviceable Motor Vehicle (White Suzuki Alto de Luxe, MT 2008)
+
+454,122.00
+
+
+
+VI
+
+Unserviceable Office Equipment
+
+368,570.36
+
+
+
+
+
+Unserviceable ICT Equipment
+
+246,602.62
+
+
+
+
+
+Unserviceable Motor Vehicles
+
+454,122.00
+
+
+
+VII
+
+Unserviceable properties misclassified to Other Assets
+
+21,535.60
+
+
+
+VIII
+
+
+
+404,835.01
+
+
+
+IX
+
+
+
+540,087.59
+
+Total Deficiencies
+
+₱   3,251,676.56
+
+
+
+a)	Lost PPEs not derecognized
+
+
+
+2)	In Region VI, one unit of Office Equipment and one unit of Information and Communication Technology Equipment (ICT) amounting to ₱54,800.00 and ₱111,880.75 respectively, were lost and not derecognized from the books of accounts contrary to Section 41, Chapter 10 of the GAM Volume 1.
+
+
+
+3)	Section 41, Chapter 10, of the GAM Volume 1 provides the accounting policies on the derecognition of lost properties, to wit:
+
+
+
+                  x x x
+
+
+
+“b. Lost property and the related accumulated depreciation and impairment loss shall be derecognized in the books upon receipt of the Report of Lost, Stolen, Damaged, Destroyed Property (RLSDDP) supported by a Notice of Loss prepared and submitted by the Accountable Officer. The loss shall be charged to account “Loss of Assets” at an amount equal to its carrying amount.”
+
+
+
+4)	The AOs have already submitted the Report of Lost, Stolen, Damaged, Destroyed Property (RLSDDP) along with supporting documents necessary to support their claim. However, they were not able to submit their application for relief from property accountability to the Audit Team.  
+
+
+
+5)	We recommended and Management agreed to prepare JEV to derecognize lost properties and set-up receivable from concerned accountable officers. 
+
+
+
+
+
+Management Comment
+
+
+
+6)	Management commented that all Officers concerned had complied with all the required documents and submitted the request for relief from accountability to PPA COA Region VI.
+
+
+
+b)	Error in recording of Depreciation Expense-Motor Vehicles
+
+
+
+7)	Audit of Motor Vehicles account of PPA Region III disclosed that the balance of Accumulated Depreciation for the service vehicle was understated by ₱55,803.05 due to error in recording. The Accountant inadvertently debited Accumulated Depreciation instead of crediting the same in February 2020, contrary to Section 7, Chapter 19 of the GAM Volume I. 
+
+
+
+
+
+Per Books
+
+Per Audit
+
+Discrepancy
+
+Cost of Motor Vehicle
+
+₱1,065,300.00
+
+₱1,065,300.00
+
+-
+
+Accumulated Depreciation
+
+  171,904.96
+
+227,708.01
+
+₱ 55,803.05
+
+Carrying Amount 
+
+₱   893,395.04
+
+₱   837,591.99
+
+₱ 55,803.05
+
+
+
+8)	We recommended and Management agreed to draw a JEV to adjust and correct the Accumulated Depreciation of Motor Vehicle in Region III.
+
+
+
+Management Comment
+
+
+
+9)	Management complied the recommendation by preparing JEV to adjust and correct the Accumulated Depreciation account. 
+
+
+
+c)	Non-provision of Allowance for Depreciation -Furniture and Fixtures and Office Equipment
+
+
+
+10)	In Region III, procured furniture and fixtures and office equipment totaling ₱1,082,333.00 in CY 2020 were not provided with Allowance for Depreciation contrary to Item C, Section 27, Chapter 10 of GAM Volume I; thus, resulting in the understatement of Allowance for Depreciation and Depreciation Expense both by P48,621.81. Details are presented below.
+
+
+
+		Particulars
+
+		Amount
+
+		Date Acquired
+
+		Depreciation Expense Per Audit
+
+		Furniture and Fixtures
+
+		Open Shelves
+
+		₱176,150.00
+
+		10/10/2020
+
+		₱5,578.08
+
+		Office Equipment
+
+		Aircon 2.0 hp (17)
+
+		506,600.00
+
+		10/12/2020
+
+		24,063.51
+
+		Aircon 2.0 hp split type
+
+		45,800.00
+
+		10/12/2020
+
+		2,175.51
+
+		Smart TV
+
+		23,600.00
+
+		10/12/2020
+
+		1,121.01
+
+		Projector LCD (14)
+
+		315,000.00
+
+		09/29/2020
+
+		14,962.50
+
+		Paper shredder
+
+		15,183.00
+
+		10/13/2020
+
+		721.20
+
+		Total
+
+		₱1,082,333.00
+
+		
+
+		₱48,621.81
+
+
+
+11)	Gleaned from the table above, the PPE were available for use in October 2020, hence, allowance for depreciation should be provided to present the true value of PPE.
+
+
+
+12)	We recommended and Management agreed to draw a JEV to recognize the Allowance for Depreciation of procured Furniture and Fixtures, and Office Equipment in Region III. 
+
+
+
+Management Comment
+
+
+
+13)	Management commented that the Regional Accountant of PPA Region III prepared JEV to recognize Depreciation Expense of Furniture and Fixtures and Office Equipment.
+
+
+
+d)	Erroneous recording of Loss on Sale of Unserviceable Property
+
+
+
+14)	Loss on Sale of Unserviceable Property of PPA-CO was overstated by ₱1,200.44 due to erroneous recording of Accumulated Depreciation contrary to Section 27 Chapter 10 of GAM Volume I. Moreover, the use of Other Assets account was not in accordance with the GAM Volume III, the Revised Chart of Account (RCA).
+
+
+
+15)	The fully depreciated unserviceable Office Equipment and ICT Equipment with carrying value of ₱284,790.00 and ₱1,430,174.24 respectively, were disposed through sale in CY 2020.
+
+
+
+16)	Scrutiny of the PPELC revealed that Accumulated Depreciation-ICT Equipment was recorded at ₱1,358,665.53 but details in JEV # 01-2020-06-114 dated June 30, 2020 showed that the Accumulated Depreciation amounted to ₱1,357,465.09, or a discrepancy of ₱1,200.44; thus, understating the Accumulated Depreciation by the same amount.
+
+
+
+17)	Moreover, the Accountant debited the residual value of unserviceable properties to Other Assets account instead of Loss on Sale-Unserviceable Property amounting to ₱86,948.65 and credited the same amount to Other Assets. The use of Other Asset account was contrary to GAM Volume III the RCA. Details are as follows:
+
+
+
+Dropping in the books of account
+
+Recorded
+
+Should be
+
+Difference (over)/under
+
+
+
+Dr.
+
+Cr.
+
+Dr.
+
+Cr.
+
+Dr.
+
+Cr.
+
+Other Assets
+
+86,948.65
+
+
+
+85,748.21
+
+
+
+(1,200.44)
+
+
+
+Accumulated Depreciation – Office Equipment
+
+270,550.50
+
+
+
+270,550.50
+
+
+
+-
+
+
+
+Accumulated Depreciation – ICT Equipment
+
+1,357,465.09
+
+
+
+1,358,665.53
+
+
+
+1,200.44
+
+
+
+Office Equipment
+
+
+
+284,790.00
+
+
+
+284,790.00
+
+
+
+-
+
+ICT Equipment
+
+
+
+1,430,174.24
+
+
+
+1,430,174.24
+
+
+
+-
+
+
+
+On Collecting from Sale
+
+Recorded
+
+Should be
+
+Difference (over)/under
+
+
+
+Dr.
+
+Cr.
+
+Dr.
+
+Cr.
+
+Dr.
+
+Cr.
+
+Cash-Collecting Officers
+
+1,500.00
+
+
+
+1,500.00
+
+
+
+-
+
+
+
+Loss on Sale on Unserviceable Property
+
+85,448.65
+
+
+
+84,248.21
+
+
+
+(1,200.44)
+
+
+
+Other Assets
+
+
+
+86,948.65
+
+
+
+85,748.21
+
+
+
+(1,200.44)
+
+
+
+18)	We recommended and Management agreed to use the proper account in recording transaction and make necessary adjustments to record correctly Loss on Sale of Unserviceable Property in the books of accounts. 
+
+
+
+Management Comment
+
+
+
+19)	Management commented that necessary adjusting entries have been made in the books under JEV No. 1-2021-03-052 dated March 26, 2021.
+
+
+
+e)	Unreconciled PPE balances between Accounting and Property Records
+
+
+
+20)	Section 38 of the GAM Volume 1 further provides the following:
+
+
+
+“The entity shall have a periodic physical count of PPE, which shall be done annually and presented on the RPCPPE as at December 31, of each year.”
+
+
+
+21)	Section 42 of the same Manual states that:
+
+
+
+“The Chief Accountant shall maintain the PPE Ledger Card (PPELC) for each category of PPE including work and other animals, livestock, etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain Property Card (PC) for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like PAR.”
+
+
+
+22)	Comparison of the balances of Report on the Physical Count of PPE (RPCPPE) for CY 2020 and the General Ledgers (GLs) for PPE showed discrepancy amounting to ₱332,635.70, contrary to Section 42, Chapter 10 of the GAM, Volume I. Details are as follows:
+
+
+
+Region
+
+Account Name
+
+Per Books 
+
+Per RPCPPE
+
+Variance 
+
+IV-A
+
+ICT Equipment
+
+ ₱10,099,995.10 
+
+₱10,160,432.81 
+
+₱60,437.71 
+
+V
+
+Various PPEs
+
+10,398,963.71
+
+10,126,765.72
+
+272,197.99
+
+Grand Total
+
+₱20,498,958.81
+
+₱20,287,198.53
+
+₱332,635.70
+
+
+
+23)	Non-maintenance and updating of the required forms such as the PPE Ledger Cards and property Cards and non-preparation of reports added to the cause of unreconciled balances between accounting and property records.
+
+
+
+24)	Moreover, the following reports were not submitted to the Audit Team within the prescribed period contrary to existing regulations.
+
+
+
+Region
+
+Unsubmitted/Submitted late 
+
+I
+
+--	Inventory and Inspection Report of Unserviceable Property (IIRUP)
+
+III
+
+--	Report on the Physical Count of Property, Plant and Equipment (RPCPPE)
+
+--	IIRUP
+
+V
+
+--	RPCPPE
+
+VI
+
+--	RPCPPE
+
+--	IIRUP
+
+IX
+
+--	IIRUP
+
+XIII
+
+--	RPCPPE
+
+
+
+
+
+25)	We recommended and Management agreed to direct the:
+
+
+
+a)	concerned Regional Accountants and Supply/Property Officers to maintain and regularly update PPELC and PC to facilitate reconciliations of records as required under Section 42 of GAM Volume 1;
+
+
+
+b)	concerned Inventory Committee to conduct periodic physical count of PPE to establish the actual condition/ existence of the reported PPE. Afterwards, prepare and submit the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) and Inventory and Inspection Report of Unserviceable Property (IIRUP) to the Audit Team within the prescribed period.
+
+
+
+
+
+
+
+
+
+
+
+Management Comment
+
+
+
+26)	Management commented that:
+
+
+
+a)	The Regional Accountant of Region IV-A, already recognized in the books adjustment thru JEV No. 2021-02-04 dated February 4, 2021. The Accounting Section will likewise maintain Property, Plant and Equipment Ledger Cards (PPELC) in CY 2021;
+
+
+
+b)	In PPA Region V, the Property Officer will include the signature tablets and installation costs in the property records to bring the correct value and reconcile the books and property records; and
+
+
+
+c)	the Regional Directors instructed the concerned officials to update and reconcile all records, conduct periodic physical count, and submit reports on time to the concerned Audit Team.
+
+
+
+f)	Undisposed Unserviceable properties
+
+
+
+27)	Section 79 of PD1445 states that:
+
+
+
+Destruction or sale of unserviceable property. When government property has become unserviceable for any cause, or is no longer needed, it shall, upon application of the officer accountable therefor, be inspected by the head of the agency or his duly authorized representative in the presence of the auditor concerned and, if found to be valueless or unsalable, it may be destroyed in their presence. If found to be valuable, it may be sold at public auction to the highest bidder under the supervision of the proper committee an award or similar body in the presence of the auditor concerned or other duly authorized representative of the Commission, after advertising by printed notice in the Official Gazette, or for not less than three consecutive days in any newspaper of general circulation, or where the value of the property does not warrant the expense of publication, by notices posted for a like period in at least three public places in the locality where the property is to be sold. In the event that the public auction fails, the property may be sold at a private sale at such price as may be fixed by the same committee or body concerned and approved by the Commission.
+
+
+
+28)	Item D of Section 40, of GAM Volume 1 states that “All unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) (Appendix 74). PPE reported in the IIRUP shall be dropped from the books by debiting Impairment Loss-Property, Plant and Equipment (cost of the PPE less Accumulated Depreciation)”.
+
+
+
+29)	It was noted in the review of PPE reports submitted by the agency that several unserviceable PPEs were not reported in the IIRUP and no preparation for its proper disposal was made during the year. 
+
+
+
+Region
+
+Particulars
+
+Amount
+
+NCR
+
+Unserviceable properties misclassified to Other Assets
+
+₱ 64,231.68
+
+I
+
+Various Unserviceable Properties
+
+364,934.00
+
+III
+
+Unserviceable Motor Vehicle (White Suzuki Alto de Luxe, MT 2008)
+
+454,122.00
+
+VI
+
+Unserviceable Office Equipment
+
+368,570.36
+
+
+
+Unserviceable ICT Equipment
+
+246,602.62
+
+
+
+Unserviceable Motor Vehicles
+
+454,122.00
+
+VII
+
+Unserviceable properties misclassified to Other Assets
+
+21,535.60
+
+VIII
+
+
+
+404,835.01
+
+IX
+
+
+
+540,087.59
+
+Total
+
+
+
+₱2,919,040.86
+
+
+
+30)	The non-disposal of these unserviceable properties at the earliest possible time exposes such properties to further deterioration and loss of their value. It also deprived the National Government of possible income that could have been realized from sale of these unserviceable properties.
+
+
+
+31)	We recommended and the Regional Directors agreed to:
+
+
+
+a)	create Disposal Committee to facilitate disposal of unserviceable equipment to prevent further deterioration of the same which will lessen its residual value; and
+
+
+
+b)	upon disposal, submit the IIRUP to the Accounting Division as basis in the derecognition of the same from the books of accounts.
+
+
+
+Management Comment
+
+
+
+32)	Management commented that:
+
+
+
+a)	In PPA NCR, the Property Officer stated that preparation of documents for disposal is ongoing. It was agreed upon that by April 2021 the unserviceable properties will be disposed of;
+
+
+
+b)	In PPA Region I, they acknowledged the audit observations and committed to prepare necessary documentary requirements for the proper disposal of unserviceable properties;
+
+
+
+c)	In PPA Region III, Disposal Committee has been created to facilitate immediate disposal of unserviceable motor vehicle;
+
+
+
+d)	In PPA Region VI, Management promised to undertake necessary steps to dispose unserviceable properties; 
+
+
+
+e)	In PPA Region VII, Management committed to comply with the recommendation to immediately dispose unserviceable properties;
+
+
+
+f)	In PPA Region VIII, the Notice of Loss was already submitted to the Audit Team and waiting for reply/feedback. This issue has been raised before the change of management and Accountant; and
+
+
+
+g)	In PPA Region IX, they acknowledged the audit observations and committed to immediately prepare necessary documentary requirements for proper disposal of unserviceable properties.
+
+
+
+Unrecorded payables for expenses incurred
+
+
+
+4)	The accuracy of the Accounts Payable balance of ₱2,336,298.72 as of December 31, 2020 could not be ascertained due to non-recognition in the books of various unpaid expenses contrary to Section 119 of PD 1445.
+
+
+
+1)	Section 119 of PD No. 1445 states that: “All lawful expenditures and obligations incurred during the year shall be taken up in the accounts of that year.”
+
+
+
+2)	Various unpaid expenses totaling ₱56,987.32 incurred by PPA Region V from November 25, 2020 to December 31, 2020 were not recognized in the books of accounts, in violation of Section 119 of PD No. 1445; thus, understating the Accounts Payable and other affected accounts. Details are as follows:
+
+
+
+Payment for
+
+Period Covered
+
+Amount
+
+Janitorial Service
+
+December 1-31, 2020
+
+₱    1,600.00
+
+Janitorial Service
+
+December 1-31, 2020
+
+1,600.00
+
+Janitorial Service
+
+December 1-31, 2020
+
+1,600.00
+
+Janitorial Service
+
+December 1-31, 2020
+
+1,500.00
+
+Other General Service
+
+October – December 2020
+
+1,800.00
+
+Travel Expense – Local
+
+November 25-26 & 
+
+December 1-4, 2020
+
+4,650.00
+
+Travel Expense – Local
+
+November 25-27 & 
+
+December 1-4, 2020
+
+10,998.00
+
+Other Professional Service
+
+December 16-17, 2020
+
+763.64
+
+Training Expense
+
+December 14-17, 2020
+
+2,925.00
+
+Repairs & Maintenance – Building and Structures
+
+December 11-13, 2020
+
+22,031.00
+
+Other General Services
+
+December 1-31, 2020
+
+1,300.00
+
+Salaries and Wages
+
+December 18-31, 2020
+
+6,235.42
+
+PERA
+
+
+
+545.45
+
+Due to BIR
+
+
+
+(561.19)
+
+Total
+
+
+
+₱  56,987.32
+
+
+
+3)	We recommended and Management agreed to take up all lawful expenditures and obligations incurred in Region V during the year in accordance with Section 119 of P.D. No. 1445.
+
+
+
+Management Comment
+
+
+
+4)	Management commented that the Regional Accountant of PPA Region V prepared JEV to record obligations incurred to reflect the correct balance in the period it was incurred.
+
+
+
+Misclassification of accounts
+
+
+
+5)	Various transactions were erroneously recorded and not properly classified in the books of accounts.
+
+
+
+Office
+
+Account Charged
+
+Should be
+
+Amount
+
+CO
+
+Miscellaneous Income
+
+Trust Liabilities
+
+₱   240,000.00
+
+NCR
+
+Office Supplies Inventory account
+
+Semi-Expendable accounts
+
+22,789.46
+
+
+
+Other Assets
+
+Computer Software
+
+1,182,831.84
+
+
+
+
+
+Various PPE accounts
+
+19,473.30
+
+
+
+
+
+Semi-expendable account
+
+82,328.40
+
+
+
+Subsidy from CO (for transferred ICT Eqpt.)
+
+Accumulated Surplus/(Deficit)
+
+7,161,485.36
+
+CAR
+
+Semi-Expendable ICT Equipment (issued)
+
+Semi-Expendable ICT Equipment Expense
+
+140,708.88
+
+
+
+Telephone Expenses – mobile
+
+Internet Expenses
+
+8,299.00
+
+
+
+
+
+
+
+113,155.97
+
+
+
+
+
+Office Supplies Expenses
+
+1,691.75
+
+
+
+Insurance Expense
+
+Prepaid Insurance
+
+1,386.24
+
+
+
+Repairs and Maintenance – Buildings and Other Structures
+
+Construction Materials Inventory
+
+13,530.00
+
+
+
+Personal Economic Relief Allowance (PERA)
+
+Salaries and Wages – Regular
+
+173.02
+
+I
+
+Subsidy from CO (for transferred ICT Eqpt.)
+
+Accumulated Surplus/(Deficit)
+
+346,614.96
+
+III
+
+Office Equipment
+
+Semi-expendable – Office Equipment
+
+149,870.00
+
+
+
+Furniture & Fixtures
+
+Semi-expendable – Furniture and Fixtures
+
+      1,578,100.00
+
+
+
+Subsidy from CO (for transferred ICT Eqpt.)
+
+Accumulated Surplus/(Deficit)
+
+4,305,518.85
+
+IV-A
+
+Accounts Payable
+
+Other Payables
+
+24,000.00
+
+VI
+
+Various expense accounts
+
+Office Supplies Inventory
+
+73,443.55
+
+
+
+
+
+Semi-Expendable Furniture and Fixture
+
+67,750.00
+
+
+
+
+
+Various proper expense accounts
+
+141,193.55
+
+VII
+
+Other Assets
+
+Various PPE accounts
+
+21,535.60
+
+VIII
+
+
+
+
+
+404,835.01
+
+IX
+
+
+
+
+
+540,087.59
+
+XI
+
+Semi-Expendable Communications Eqpt.
+
+Communications Equipment
+
+15,000.00
+
+Total
+
+
+
+
+
+₱16,655,802.33
+
+
+
+1)	The erroneous classification as described in the above table resulted in the misstatements of the following accounts:
+
+
+
+Accounts
+
+Amounts
+
+(Over)/Understated
+
+Prepaid Insurance
+
+1,386.24
+
+Office Supplies Inventory
+
+50,654.09
+
+Construction Materials Inventory
+
+13,530.00
+
+Semi-expendable – Furniture & Fixtures
+
+1,645,850.00
+
+Semi-expendable – Office Equipment
+
+149,870.00
+
+Semi-Expendable accounts
+
+105,117.86
+
+Semi-Expendable Communications Equipment
+
+(15,000.00)
+
+Semi-Expendable ICT Equipment
+
+(140,708.88)
+
+Furniture and Fixtures
+
+(1,578,100.00)
+
+Office Equipment
+
+(149,870.00)
+
+Communications Equipment
+
+15,000.00
+
+Various PPE accounts
+
+985,931.50
+
+Computer Software
+
+1,182,831.84
+
+Other Assets
+
+(2,251,091.74)
+
+Accounts Payable
+
+(24,000.00)
+
+Trust Liabilities
+
+240,000.00
+
+Other Payables
+
+24,000.00
+
+Accumulated Surplus/(Deficit)
+
+(224,599.09)
+
+Total (Over)/Understated
+
+30,801.82
+
+
+
+2)	We recommended and Management agreed to direct the concerned Regional Accountant to record financial transactions under the proper accounts pursuant to the Revised Chart of Accounts.  
+
+
+
+Management Comment
+
+
+
+3)	Management commented that:
+
+
+
+a)	In PPA CO, reclassification of accounts has already been made under JEV No. 1-2021-04-099 dated April 16, 2021;
+
+
+
+b)	In PPA NCR, the Regional Accountant requested that reclassification of account be held in abeyance due to commitment of the Property Officer to dispose them within the month of March 2021;
+
+
+
+c)	In PPA CAR, adjustment will be made to the appropriate account;
+
+
+
+d)	In PPA Region IV-A, necessary supporting documents in granting Gratuity Pay to Contract of Service (COS) and/or Job Order (JO) personnel were submitted, as required under Administrative Order No. 38 dated 28 December 2020;
+
+
+
+e)	In PPA Region VI, accounts are now properly classified and Management will also request for realignment of funds from the Head Office;
+
+
+
+f)	In PPA Region VIII, the unserviceable properties amounting to ₱404,835.01 were recorded by previous Accountant under Other Assets. These properties are no longer in the office premises. Thus, Management cannot dispose said properties and can no longer submit the IIRUP to the Accounting Division;
+
+
+
+g)	In PPA Region XI, they will direct the Regional Accountant to adjust and prepare correcting journal entries for erroneous recording in the books of accounts; and
+
+
+
+h)	In other PPA Regional Offices, they acknowledged the audit observations and committed that they will immediately prepare necessary adjusting entry suggested by the Audit Team.
+
+
+
+COMPLIANCE AUDIT
+
+
+
+Volunteer Probation Assistants (VPAs)
+
+
+
+6)	The qualification standard for Volunteer Probation Assistants (VPAs) as provided in Section II of PPA Code of Ethics for VPAs dated January 23, 2018 was not observed by four Regional Offices based on the records of hired VPAs.
+
+
+
+	1)	Volunteerism is a program of PPA aimed at generating maximum, effective and efficient citizen participation and community involvement in the process of client rehabilitation, prevention of crime and overall administration of criminal justice.
+
+
+
+	2)	PD No. 968 permits employment of Volunteer Probation Assistants (VPA) specifically under Section  28 which states: To assist the Provincial or City Probation Officers in the supervision of probationers, the Probation Administrator may appoint citizens of good repute and probity to act as probation aides as amended under RA 10707 as: To assist the Chief Probation and Parole Officers in the supervised treatment program of the probationers, the Probation Administrator may appoint citizens of good repute and probity, who have the willingness, aptitude, and capability to act as VPAs.
+
+
+
+	3)	VPA is defined under Section 6 of RA 10707 as, persons that are trained and appointed to render various volunteer work and services to regional, provincial, and city probation office without pay.
+
+
+
+	4)	Section II of the PPA Code of Ethics for VPAs dated January 23, 2018 enumerates the qualifications of a VPA, as follows:
+
+
+
+		i)	Citizens of good repute and probity, who have willingness, aptitude and capability to act as VPA;
+
+		ii)	Preferably twenty-five (25) years old and above;
+
+		iii)	Preferably a resident of the same community as the client;
+
+		iv)	Willing to serve without compensation;
+
+		v)	Capable to prepare reports;
+
+		vi)	No criminal conviction, however, former clients with exemplary behavior fit to be role models may be considered; and
+
+		vii)	Of good health.
+
+
+
+	5)	Based on the results of compliance audit performed by Audit Teams of PPA NCR, CAR, Region I, and XIII on the VPA program of the agency, it was found that they are not compliant in Section II of PPA Code of Ethics for VPAs.
+
+
+
+	6)	During the audit, the following observations were noted: 
+
+
+
+REGION
+
+RESULTS OF AUDIT
+
+NCR
+
+Out of 123 VPAs, three are residing far from the place of assignment and one is under 25 years of age.
+
+
+
+The database of VPAs lacked information as to qualifications of volunteers. Moreover, no complete file of Monthly Accomplishment Reports was submitted by VPAs to the Chief PPO.
+
+CAR
+
+Transportation allowances in PPA CAR amounting to ₱6,000.00 were paid to various VPAs despite expiration of their appointment contrary to Section 28 of PD No 968; thus, considered irregular.
+
+I
+
+Qualification standards (such as age, adequate source of income, proof of no criminal records, proof of adequate good health, and basic training course) in accepting VPAs were not followed as required under PPA Code of Ethics for VPAs.
+
+XIII
+
+Non-observance on the use of prescribed Background Investigation Form in the screening and selection process of VPAs  and non-maintenance of complete personal file/documents of VPAs rendering the evaluation of qualifications of would-be volunteers could not be easily ascertained;  hence, inconsistent with the provisions of Section 58 of the PPA Omnibus Rules on Probation Methods and Procedures  and PPA Memorandum No. 17 dated February 24, 2016.  
+
+
+
+Payment of Traveling Expenses in PPA Region XIII amounting to ₱9,150.00 was issued directly to the Chief Parole and Probation Officers (CPPO)/OIC and paid traveling expenses to VPAs with an expired appointment, casting doubts on the regularity and validity of transactions.
+
+
+
+	7)	We recommended and Management agreed to:
+
+
+
+a)	use the Background Investigation Form in screening and selecting Volunteer Probation Assistants (VPAs) as prescribed in PPA Memorandum Order No. 17 dated February 24, 2016 and ensure strict compliance with required qualifications.  Moreover, maintain a complete personal file of VPAs for reference in screening and selection process;
+
+
+
+b)	submit Monthly Accomplishment Reports of VPAs and maintain a file for easy monitoring and assessment of their performances as basis in the renewal of their contract;
+
+
+
+c)	fully adhere to the guidelines set forth in PPA Memorandum No. 4 dated February 29, 2008 in the reimbursement of travelling expenses of appointed VPAs; and
+
+
+
+d)	ensure that VPAs have valid contract before paying their transportation allowance to avoid future disallowances.
+
+
+
+Management Comment
+
+
+
+	8)	Management commented that:
+
+
+
+a)	In NCR, Management explained that VPA whose address is in Misamis Oriental and assigned at Manila Parole and Probation Office No. 3 also resides in Sta. Mesa, Manila which made him qualified to be a volunteer for Manila Field Office. While the other two VPAs who are residing in Makati and Valenzuela acted as Resource Persons in the conduct of Therapeutic Community Trainings held in their affiliated church. Accordingly, they will revisit the application form given to applicants to have a comprehensive information of volunteers and committed to submit the Monthly Accomplishment Report of VPAs. 
+
+
+
+b)	In CAR, they will make sure that VPAs have valid contracts/appointments before paying transportation allowance.
+
+
+
+c)	In Region I, they will adhere to the guidelines set in the recruitment of VPAs. 
+
+
+
+d)	In Region XIII, they will fully adhere to the guidelines set in PPA Memorandum No. 4 dated Feb. 29, 2008 on Reimbursement of Traveling Expenses of Appointed VPAs supervising clients.
+
+
+
+Unsubmitted/ Submitted late financial reports
+
+
+
+7)	Various financial reports and its supporting documents were not submitted to the Audit Team within the prescribed period contrary to the existing regulations. 
+
+
+
+1)	The following are the pertinent rules and regulations governing submission of reports of transactions of Accountable Officers to the Audit Team, to wit:
+
+
+
+2)	Item 3.1.1 and 3.2.1 of COA Circular 2009-001 states that:
+
+
+
+ 3.1.1 Within five (5) working days from the execution of a contract by the government or any of its subdivisions, agencies or instrumentalities, including government-owned and controlled corporations and their subsidiaries, a copy of said contract and each of all the documents forming part thereof by reference or incorporation shall be furnished to the Auditor of the agency concerned. In case of agencies audited on an engagement basis, submission of a copy of the contract and its supporting documents shall be to the Auditor of the mother agency or parent company, as the case may be.
+
+
+
+ 3.2.1 A copy of any purchase order irrespective of amount, and each and every supporting document, shall within five (5) working days from issuance thereof, be submitted to the auditor concerned.  Within the same period, the Auditor shall review and point out to management defects and/or deficiencies, if any, x x x
+
+
+
+3)	Section 7.2.1 (a) of the COA Circular No. 2009-006 September 15, 2009 states that:
+
+
+
+“The Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that: 
+
+
+
+a)	The reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing months.”
+
+
+
+4)	The following reports were not submitted or submitted late: 
+
+
+
+Region
+
+Unsubmitted/Submitted late Reports
+
+CAR
+
+--	Liquidation Report for travel expense of one employee
+
+III
+
+--	Trial Balances (TBs) and Supporting Schedules 
+
+--	Disbursement Vouchers (DVs) and supporting documents 
+
+VI
+
+--	Schedule of Aging of Payables
+
+VI
+
+--	Copies of government contracts, purchase orders and their supporting documents
+
+IX
+
+--	TB and supporting schedules 
+
+--	Quarterly financial statements 
+
+--	Journal Entry Vouchers (JEVs)
+
+--	DVs and supporting schedules
+
+--	Monthly Report of Fuel Consumption
+
+--	Report of Collections and Deposits (RCD)
+
+--	Report of ADA Issued (RADAI)
+
+X
+
+--	November and December Bank Reconciliation Statements
+
+XII
+
+--	Bank Reconciliation Statements (various months)
+
+--	Disbursement Vouchers
+
+--	Report of Collections and Deposit
+
+--	Report of Check Issued
+
+--	Journal Entry Vouchers
+
+--	Monthly Report of Accountability for Accountable Forms
+
+XIII
+
+--	Property Inventory Form (PIF)
+
+
+
+5)	We recommended and Management agreed to immediately transmit the unsubmitted accounts and reports to the Audit Team and henceforth, adopt strategies taking into consideration the challenges posed by the current pandemic situation, to ensure that the required reports are submitted within the prescribed period of submission. 
+
+
+
+Management Comment
+
+
+
+6)	Management commented that:
+
+
+
+a)	In PPA Region IX, the concerned units are currently compliant with the submission of the Financial Reports to AT within the prescribed reglementary period. Scanned copies of the reports and documents are submitted via E-mail in case there are restrictions preventing the physical submission of the reports that are due;
+
+
+
+b)	In PPA Region X, the agency will ensure timely submission of BRS and they have already asked the bank to provide snap shots of said statements of accounts in advance; 
+
+
+
+c)	In PPA Region XII, they acknowledged the recommendation of the AT to direct the Accountant to prepare and submit the bank statements and original copies of paid checks within the prescribed time to strictly adhere to the rules and regulations on the prompt submission of reports; and
+
+
+
+d)	In other PPA Regions, they instructed the concerned officials to update and submit the required forms, records and reports.
+
+
+
+				Incomplete Documentation
+
+				
+
+8)	Claims for various transactions totaling ₱16,860,503.17 were paid without complete documentations while unpaid obligations totaling ₱7,849,773.76 were recognized without adequate documentations contrary to Section 4.6 of PD 1445 and COA Circular No. 2012-001, rendering the regularity and validity of the transactions doubtful.   
+
+
+
+	1)	Section 4.6 of P.D. 1445 requires that financial transactions and operations of any government agency shall be governed by the fundamental principles among others as follows:
+
+
+
+		--	Disbursement or disposition of government funds on property shall   invariably bear the approval of the proper officials.
+
+		--	Claims against government funds shall be supported with complete documentation.
+
+		--	All laws and regulations applicable to financial transactions shall be faithfully adhered to.
+
+
+
+	2)	COA Circular No. 2012-001 dated June 14, 2012 prescribes the Revised Guidelines and Documentary Requirements for Common Government Transactions that shall be adopted by all government agencies.
+
+
+
+	3)	Section 4.3 of DBM Budget Circular No. 2020-1 dated 24 March 2020 states that: The heads of government agencies may grant the COVID-19 Hazard Pay to their personnel/workers without the need for further approval by Department of Budget and Management (DBM), subject to the guidelines and conditions.
+
+
+
+	4)	Audit of disbursement vouchers disclosed that payments for various transactions were not adequately supported with the required documentations, details are as follows: 
+
+
+
+Office
+
+Particular
+
+Amount
+
+Lacking Documents
+
+CO
+
+Payments for meals and snacks
+
+₱      60,151.75
+
+--	Program of activity
+
+--	Post Activity Report
+
+--	Minutes of Meeting
+
+--	Post Activity Report
+
+I
+
+Hazard pay
+
+81,843.27
+
+--	Certification that place of assignment/travel is a hazardous or declared under state of calamity or emergency.
+
+--	Duly accomplished time record of employees or travel report
+
+--	Copy of Special Order from Agency/Department Head
+
+--	Approved DTR/Service Report
+
+
+
+Collective Negotiation Agreement (CNA) incentives
+
+1,139,793.18
+
+--	Resolution signed by both parties
+
+--	Comparative statement of DBM approved level of operating expenses and actual operating expenses
+
+--	Proof of remittance to the National Treasury of its 50 percent dividend share approved by DOF.
+
+--	Proof that planned programs/ activities/ projects have been implemented
+
+IV-A
+
+Payment of COVID-19 Hazard Pay
+
+48,500.00
+
+--	Office Order and/or Special Order issued by Head of the Agency as authority of regular and job order personnel to report for work at their official station during implementation of Covid-19 ECQ and/or MECQ; and
+
+--	Daily Time Report / Attendance Sheet and/or Accomplishment Reports for regular employees.
+
+VI
+
+Various Disbursements
+
+7,573,741.93
+
+--	Approved Budget/Basis for Disbursement
+
+--	Canvass Papers
+
+--	Official Receipts
+
+--	Stale/spoiled check for replacement
+
+--	Purchase Request (PR) 
+
+--	Delivery Receipt (DR)
+
+--	Inspection and Acceptance Report (IAR)
+
+VII
+
+Monetization of leave
+
+1,400,000.00
+
+--	Request for leave application supported with Clinical Abstract /medical procedures to be taken in case of health, medical and hospital needs or Barangay Certification
+
+
+
+Various Disbursements
+
+3,900,000.00
+
+--	Invoices
+
+--	Receipts
+
+
+
+Common use supplies
+
+1,120,822.52
+
+--	Certification from PS-DBM  of Non-Availability of Stocks and Request for Quotation (RFQ) or Request for Proposal (RFP) postings in the PhilGEPS
+
+VIII
+
+Various Disbursements
+
+9,997.75
+
+--	Corresponding supporting documents for disbursements 
+
+X
+
+
+
+1,227,202.77
+
+--	
+
+XII
+
+
+
+253,450.00
+
+--	
+
+Total
+
+
+
+₱16,815,503.17
+
+
+
+
+
+
+
+	5)	Audit of Liabilities accounts disclosed that various payables were not adequately supported with the required documentation, details are as follows:
+
+
+
+Region
+
+Particular
+
+Amount
+
+Lacking Documents
+
+IV-A
+
+Accounts Payable
+
+₱    24,000.00
+
+Copies of contracts of service to establish the claims
+
+VI
+
+Other Payables
+
+7,825,773.76
+
+--	Schedule/aging of payables
+
+--	Memorandum of Agreement
+
+Total
+
+
+
+₱7,849,773.76
+
+
+
+
+
+	6)	The absence or incomplete basic documentary requirements to support the above claims casted doubts on the validity, propriety and legality of transactions. 
+
+
+
+	7)	We recommended and Management agreed to submit required documents to support claims for various transactions. For future similar claims, ensure that all disbursements of funds are supported with complete documentation to properly establish its propriety, validity and legality. 
+
+
+
+Management Comment
+
+
+
+	8)	Management agreed to instruct concerned officials to comply with COA Circular No. 2012-001 dated June 14, 2012.
+
+
+
+a)	In PPA CO, lacking supporting documents were already submitted to the Audit Team on April 22, 2021;
+
+
+
+b)	In PPA Region IV-A, the required documents were submitted to COA Auditors during the Exit Conference on Feb 21, 2021;
+
+
+
+c)	In PPA Region VI, Management is amenable with the audit recommendations. Accounting Unit has made necessary adjustments to correct the balance of the Other Payables account in March 2021 and to maintain complete SLs as required under existing rules and regulations for easy monitoring;
+
+
+
+d)	In PPA Region X, the Management has been and will be vigilant in the processing of DVs to avoid recurrence of similar instances; 
+
+
+
+e)	In PPA Region XII, they acknowledged the recommendation of the Audit Team that the concerned personnel, especially those from the accounting and cashier sections, who are responsible in the processing and payment of claims, to comply mandatory documents for government transactions in accordance with Section 4 of P.D 1445 and to prevent audit suspensions and/or disallowances; and
+
+
+
+f)	In other PPA Regions, they instructed the concerned officials to comply with the COA Circular 2012-001 dated June 14, 2012.
+
+
+
+				Unremitted Income to the National Treasury
+
+				
+
+9)	Income generated from operations of dormitory was not remitted/deposited to the National Treasury as required under Section 4 of the General Provisions of RA No. 11465. Likewise, the agency has no authority to disburse the same in violation of Section 103 of PD 1445.
+
+
+
+	1)	Section 4 of the General Provisions of RA No. 11465 GAA of 2020 states that: Receipts or Revenues Collected by the Agencies. As a general rule, all fees, charges, assessments and other receipts or revenues collected by departments, bureaus and offices of the National Government, including Constitutional Offices enjoying fiscal autonomy in the exercise of their mandated functions, at such rates as are now or may be approved by the appropriate approving authority shall be deposited to the National Treasury as income of the General Fund pursuant to Section 44, Chapter 5 Book VI of EO No. 292 s. 1987 and Section 65 of PD No. 1445.
+
+
+
+Exceptions to the foregoing are:
+
+
+
+a)	Receipts authorized by law to be recorded as a Special Account in the General Fund, Trust Fund, or a fund other than General Fund which shall be established in accordance with rules and regulations as may be issued by the Permanent Committee (the "Permanent Committee") created under Section 45, Chapter 5, Book VI of E.O. No. 292. The said special funds may be made available for expenditure, subject to any special provision of the agencies concerned; and
+
+
+
+b)	Other instances authorized by law.
+
+Disbursements on expenditures by agencies from use or retention of income absent the above legal authority or from income deposited outside of the National Treasury without legal basis shall be void and shall subject the erring officials and employees to disciplinary actions in accordance with Section 43, Chapter 5, and Section 80, Chapter 7, Book VI of E.O. No. 292, and to appropriate criminal action under existing laws.”
+
+
+
+	2)	Section 103 of PD 1445 states that:
+
+
+
+“General liability for unlawful expenditures. Expenditures of government funds or uses of government property in violation of law or regulations shall be a personal liability of the official or employee found to be directly responsible therefor.”
+
+
+
+	3)	The PPA converted the former office of the abolished Commission on the Settlement of Land Problems (COSLAP) to a dormitory costing a total amount of ₱345,985.66. The said dormitory caters government officials and employees who need a temporary shelter. PPA charges a rate ₱200.00 per day per PPA employee and ₱300 per non- PPA employee as lodging fee to defray its operating and maintenance expenses. Most occupants were officials and employees of PPA who attended seminars or conferences in Manila.
+
+
+
+	4)	Scrutiny of the Reports of Collections and Deposits for seven years (2013-2019) the annual average collections were ₱277,419.64. However, due to COVID 19 pandemic, most of the scheduled trainings for CY 2020 were cancelled/ converted to Webinars. Hence, for CY 2020 collections totaled to ₱29,700.00 only. The total collections since then amounted to ₱1,971,637.50 which are deposited to LBP Account No. 1872103550.
+
+
+
+	5)	Further, the expenses related to maintenance and operations of the dormitory were charged from its collections. For eight years of operations, the dormitory incurred expenses totaling ₱1,619,394.64 leaving a balance of ₱352,242.86. These expenses pertained to Office Supplies Expense, Repairs and Maintenance – Building, and Other Maintenance and Operating Expenses. 
+
+
+
+	6)	In addition, the Cashier was designated as Special Disbursing Officer under Special Order No. 362 s. 15 and granted Petty Cash Fund of ₱5,000.00 to cover expenses related to the operations of the dormitory and Multi-Purpose Hall.
+
+
+
+	7)	This practice is contrary to the General Provisions of RA No. 11465 GAA of 2020 which require the remittance of revenues to the National Treasury. Likewise, the agency has no legal basis to utilize the same in violation of Section 103 of PD 1445.
+
+
+
+	8)	We recommended that Management require the Cashier to remit all collections from lodging fees to the Bureau of the Treasury in compliance with Section 4 of the General Provisions of RA 11465. 
+
+
+
+Management Comment
+
+
+
+	9)	Management commented that collections are yet to be remitted to the BTr, because Management has decided to seek an authority to use the fund generated from the dormitory and Multi-Purpose Hall. While said request is on process, the collections remain in the PPA-CO trust account in LBP.
+
+				
+
+Gender and Development (GAD)
+
+
+
+10)	Commendably, Management was able to mainstream or integrate its projects and programs for GAD related activities in compliance with Section 4.3 and 4.4 of Joint Circular No. 2004-1 of the DBM, NEDA and NCFRW.
+
+
+
+	1)	DBM-NEDA-NCRFW Joint Circular No. 2004-1 dated April 5, 2004.
+
+
+
+Section 4.3 states that: The conduct of massive information, education and communication campaigns on the gender issue/s being addressed by the agency and on corresponding agency programs, activities, and projects shall be given priority in terms of budget allocation.
+
+
+
+	2)	Section 4.4 states that: GAD planning and budgeting shall be observed annually and incorporated in all programming and budgeting exercises of agencies. The GAD activities in the GAD plan and budget must be included in the agency budget proposal in accordance with the budget call. Agencies shall ensure that the cost of implementing the GAD activities is part of their approved budget. At least five percent (5%) of the total agency budget appropriations as authorized under the annual General Appropriations Act shall correspond to activities supporting GAD xxx.
+
+
+
+	3)	The Agency spent a total of ₱57,359,679.87, representing 6.06 percent of the total appropriations of ₱946,162,000.00 for GAD Programs. Validation of compliance to the implementation of GAD related programs/activities disclosed the following:
+
+
+
+Office
+
+Appropriations
+
+5 percent GAD Budget
+
+GAD Expenses
+
+Percentage
+
+CO
+
+₱ 165,998,000.00
+
+₱ 8,299,900.00
+
+₱   9,913,608.00 
+
+5.97
+
+NCR
+
+96,116,000.00
+
+4,805,800.00
+
+5,462,919.25
+
+5.68
+
+I
+
+44,130,000.00
+
+2,206,500.00
+
+6,287,834.81
+
+14.25
+
+CAR
+
+25,324,000.00
+
+1,266,200.00
+
+2,939,136.02
+
+11.61
+
+II
+
+34,982,000.00
+
+1,749,100.00
+
+2,039,540.04
+
+5.83
+
+III
+
+62,240,000.00
+
+3,112,000.00
+
+2,105,141.27
+
+3.38
+
+IV-A
+
+66,838,000.00
+
+3,341,900.00
+
+4,433,344.91
+
+6.63
+
+IV-B
+
+30,137,000.00
+
+1,506,850.00
+
+1,983,352.48
+
+6.58
+
+V
+
+45,525,000.00
+
+2,276,250.00
+
+2,527,019.55
+
+5.55
+
+VI
+
+71,796,000.00
+
+3,589,800.00
+
+2,895,026.00
+
+4.03
+
+VII
+
+76,834,000.00
+
+3,841,700.00
+
+2,891,731.26
+
+3.76
+
+VIII
+
+48,308,000.00
+
+2,415,400.00
+
+1,196,500.25
+
+2.48
+
+IX
+
+30,548,000.00
+
+1,527,400.00
+
+1,576,982.00
+
+5.16
+
+X
+
+47,998,000.00
+
+2,399,900.00
+
+3,047,480.92
+
+6.35
+
+XI
+
+41,768,000.00
+
+2,088,400.00
+
+2,878,475.97
+
+6.89
+
+XII
+
+30,567,000.00
+
+1,528,350.00
+
+1,991,707.00
+
+6.52
+
+XIII
+
+27,053,000.00
+
+1,352,650.00
+
+3,189,880.14
+
+11.79
+
+Total
+
+₱ 946,162,000.00
+
+₱ 47,308,100.00
+
+₱ 57,359,679.87
+
+6.06
+
+
+
+	4)	Gleaned on the table, PPA integrated GAD in the regular activities of the agency in the amount of ₱47,308,100.00 which was five percent of the total appropriations of ₱946,162,000.00 in compliance with Section 31 of RA 11465; however, total amount of ₱57,359,679.87 was disbursed.
+
+
+
+	5)	We commend the agency’s continuing efforts in achieving their targets and increasing GAD awareness to reduce gender biases and issues that will create gender-responsive institution.
+
+
+
+Senior Citizens and Differently-Abled Persons Plans, Programs and Projects 
+
+
+
+11)	Management had substantially complied with the requirements of Section 32 of the GAA of 2020 which requires all agencies of the government to formulate plans, programs and projects intended to address concerns of senior citizens and differently-abled person, and integrate the same in their regular activities. It also provides that all government infrastructures and facilities shall provide architectural facilities or structural features and designs that shall reasonably enhance the mobility, safety and welfare of differently-abled persons pursuant to B.P. Bldg. 344 and R.A. No. 7277, as amended. 
+
+
+
+	1)	Joint DBM-DSWD Circular No. 2003-01 re: Implementing Guidelines for the Implementation of GAA Provisions on the Setting Aside of one percent of Government Agency Budget for Programs/Projects Related to Senior Citizens and Disabled.
+
+
+
+	2)	Out of the total appropriations for CY 2020 of the agency amounting to ₱946,162,000.00, the amount disbursed for programs and projects related to senior citizens and differently-abled persons totaled to ₱29,924,855.67 or 3.16 percent of its total appropriations. Details are as follows: 
+
+
+
+Office
+
+Appropriations
+
+Senior Citizen/
+
+PWD Expenses
+
+Percentage
+
+CO
+
+₱ 165,998,000.00
+
+None
+
+0.00
+
+NCR
+
+96,116,000.00
+
+₱    1,997,486.59
+
+2.08
+
+CAR
+
+44,130,000.00
+
+371,470.83
+
+0.84
+
+I
+
+25,324,000.00
+
+443,449.67
+
+1.75
+
+II
+
+34,982,000.00
+
+527,651.57
+
+1.51
+
+III
+
+62,240,000.00
+
+189,612.76
+
+0.30
+
+IV-A
+
+66,838,000.00
+
+487,446.34
+
+0.73
+
+IV-B
+
+30,137,000.00
+
+520,440.74
+
+1.73
+
+V
+
+45,525,000.00
+
+603,985.00
+
+1.33
+
+VI
+
+71,796,000.00
+
+1,239,975.00
+
+1.73
+
+VII
+
+76,834,000.00
+
+2,885,613.33
+
+3.76
+
+VIII
+
+48,308,000.00
+
+5,332,133.69
+
+11.04
+
+IX
+
+30,548,000.00
+
+3,559,879.64
+
+11.65
+
+X
+
+47,998,000.00
+
+5,585,658.44
+
+11.64
+
+XI
+
+41,768,000.00
+
+1,093,051.00
+
+2.62
+
+XII
+
+30,567,000.00
+
+4,204,580.00
+
+13.76
+
+XIII
+
+27,053,000.00
+
+882,421.07
+
+3.26
+
+Total
+
+₱ 946,162,000.00
+
+₱  29,924,855.67
+
+3.16
+
+
+
+	3)	Plans, programs and projects concerning senior citizens and differently-abled persons were included in the programmed activities of the agency this CY 2020.  
+
+
+
+	4)	In PPA-CO, they were not able to disbursed a single peso for the said program due to pandemic.
+
+
+
+	5)	We recommended and Management agreed to adhere to the provisions of the GAA pertaining to senior citizens and differently-abled persons by undertaking programs and activities addressing their concern.
+
+
+
+12)	Compliance with Tax Laws, remittances of GSIS, Pag-IBIG loans and premiums, and PhilHealth premiums
+
+
+
+Agencies
+
+Balance
+
+Dec. 31, 2020
+
+Remittances
+
+
+
+
+
+Amount
+
+Remarks
+
+BIR
+
+₱380,348.18
+
+₱380,348.18
+
+Region CAR – The balance was fully remitted on January 10, 2021 under JEV No. 2021-01-047A.
+
+
+
+
+
+
+
+Region X – The balance was fully remitted on February 9, 2021 under JEV No. 101-2021-01-0004.
+
+
+
+
+
+
+
+Region XIII – The balance was fully remitted on March 31, 2021 under JEV No. 2021-02-030.
+
+GSIS
+
+691,100.22
+
+476,653.81
+
+NCR – Partial remittance of ₱9,090.44 on February 9, 2021 and ₱1,197.30 on April 8, 2021 under JEV No. 21-02-013 and 21-04-030.
+
+
+
+
+
+
+
+Region IV-A - Unremitted balance being verified by DO. ₱892.78 was remitted on April 30, 2021 under JEV No. 2021-04-03.
+
+
+
+
+
+
+
+Region V - Remaining amount to be remitted after reconciliation with Management records. ₱771.90 was remitted on April 30, 2021 under JEV No. 21-04-062.
+
+
+
+
+
+
+
+Region IV-A - Unremitted balance being verified by DO. ₱892.78 was remitted on April 30, 2021 under JEV No. 2021-04-03.
+
+
+
+
+
+
+
+Region VIII - The balance was fully remitted on January 26, 2021 under JEV No. 21-Jan-036.
+
+
+
+
+
+
+
+Region IX - Unremitted Personnel Shares from Salary Differential did not reconcile with GSIS records. Ongoing reconciliation with GSIS records. ₱1,495.10 was remitted on April 27, 2021 under JEV No. 21-04-0058.
+
+
+
+
+
+
+
+Region X – The balance was fully remitted on January 7, 2021 under JEV No. 101-2021-01-0002.
+
+
+
+
+
+
+
+Region XIII – The balance was fully remitted on January 15, 2021 under  JEV No. 2021-01-002.
+
+Pag-IBIG
+
+123, 621.48
+
+123,578.97
+
+NCR – ₱42.51 was remitted on January 25, 2021 under JEV No. 21-01-005. Unremitted balance subject to reconciliation.
+
+
+
+
+
+
+
+Region V - Already refunded to employee under JEV No. 21-01-008 dated January 31, 2021
+
+
+
+
+
+
+
+Region VII – The balance was fully remitted on January 28, 2021 under JEV No. 2021-01-043
+
+
+
+
+
+
+
+Region X – The balance was fully remitted on January 6, 2021 under JEV No. 101-2021-01-0003
+
+Phil
+
+Health
+
+139, 245. 18
+
+139,190.31
+
+NCR – ₱90.77 was remitted on January 7, 2021 under JEV No. 21-01-005. Unremitted balance subject to reconciliation
+
+
+
+
+
+
+
+Region V - Over remittance subject to reconciliation
+
+
+
+
+
+
+
+Region VII – The balance was fully remitted on January 27, 2021 under JEV No. 2021-01-033
+
+
+
+13)	Compliance with Property Insurance Law prescribed under RA No. 656
+
+					
+
+	1)	Section 2 of RA 656 states that in order to indemnify or compensate the Government as defined in this Act for any damage to, or loss of, its properties due to fire, earthquake, storm, or other casualty there is hereby established the “Property Insurance Fund”, which shall consist of all money resulting from the liquidation of the insurance constituted in Section 340 of the Revised Administrative Code and from premiums and other incomes.
+
+
+
+	2)	Moreover, Section 11 of the same act states that each government shall include in its annual appropriations the amount necessary to cover premiums for the insurance of its properties during each fiscal period and remit the same immediately to the System as provided in section ten thereof.
+
+
+
+	3)	Based on available records during audit, the PPA paid a total of ₱824,730.93 in CY 2020 for the insurance premium of its insurable assets in accordance with RA No. 656.
+
+
+
+
+
+Enforcement of Settlement of Suspensions, Disallowances and Charges
+
+				
+
+14)	Disallowances/Charges totaling ₱1,846,940.59 remained unsettled/dormant contrary to COA Circular No. 2009-006 dated September 15, 2009. 
+
+
+
+	1)	COA Circular No. 2009-006 states that the COA Order of Execution shall be issued to enforce settlement of audit disallowance/charge, whenever persons liable refuse or fail to settle the same after the decision has become final and executory.
+
+
+
+	2)	The details of the issued Notice of Disallowances as of December 31, 2020 are as follows:
+
+
+
+Office
+
+Particulars
+
+Amount
+
+CO
+
+Price difference in the procurement of Motor Vehicles acquired on September 9, 2009
+
+₱284,172.97
+
+V
+
+Monetization of the leave credits of retired Regional Director
+
+209,496.38
+
+VI
+
+Notice of Disallowance issued during the year was partially settled.
+
+984,961.90
+
+
+
+VII
+
+Notice of Disallowance issued during the year and not yet settled.
+
+36,000.00
+
+XII
+
+10 years above disallowances of employees who are already retired, could no longer be located and/or insolvent.
+
+332,309.34
+
+Total
+
+
+
+₱ 1,846,940.59
+
+
+
+	3)	We reiterated our prior year’s recommendation that Management enforce settlement of disallowances in accordance with the procedures under the Rules and Regulations on the Settlement of Accounts (RRSA) prescribed under COA Circular No. 2009-006.
+
+
+
+				Management Comment
+
+
+
+	4)	Management acknowledged the recommendation and will exert more effort to enforce refund of disallowances which are already final and executory or initiate legal remedies to cause settlement thereof. Accordingly, they will send demand letters to the concerned individuals for the settlement of their account.
+
+
+
+Disaster Risk Reduction and Management Fund (DRRMF)
+
+				
+
+15)	PPA has no allocation or downloaded budget for implementation of Disaster Risk Reduction and Management (DRMM) program of the government for CY 2020.
+
+				
+
+				
+
+				
+
+				
+
+Yolanda/Marawi Funds
+
+					
+
+16)	The PPA did not receive Yolanda and Marawi funds during the year per Certification issued dated March 16, 2021.
+
+
+
+				COVID Expenses
+
+
+
+17)	There was no allotment downloaded to PPA for COVID 19 related expenses. However, regular funds were realigned to attribute for COVID19 initiatives. Details are as follows:
+
+
+
+REGION
+
+PO No. / APR No.
+
+Date
+
+Particular
+
+Amount
+
+Results of Audit
+
+CO
+
+2020-02
+
+
+
+May 27, 2020
+
+Face mask, Face shield and Thermo-gun
+
+42,120.00
+
+No significant audit findings.
+
+
+
+2020-03
+
+June 18, 2020
+
+Face mask
+
+10,400.00
+
+
+
+
+
+2020-06-19
+
+June 11, 2020
+
+Pneumococcal vaccines
+
+226,100.00
+
+
+
+
+
+2020-06-20
+
+
+
+Alcohol
+
+51,525.00
+
+
+
+
+
+2020-09-29
+
+September 21, 2020
+
+12 pcs Footbath
+
+7,788.00
+
+
+
+
+
+2020-10-44
+
+October 30, 2020
+
+Facemask, Alcohol and Face shield
+
+62,880.00
+
+
+
+I
+
+2020-06-0043
+
+
+
+June 10, 2020
+
+
+
+Disinfectant sprays, face shields, surgical masks, thermo scanner
+
+70,399.40 
+
+No significant audit findings.
+
+
+
+2020-06-0049
+
+July 10, 2020
+
+Surgical masks
+
+57,240.00 
+
+
+
+
+
+
+
+2020-09-0015
+
+September 25, 2020
+
+Surgical masks, face shields
+
+10,188.00 
+
+
+
+
+
+2020-09-0016
+
+
+
+Alcohol, cleaning aides, disinfectants
+
+4,540.00 
+
+
+
+
+
+
+
+2020-12-026
+
+
+
+December 21, 2020
+
+Alcohol, soap, disinfectant sprays, bleach, cleaning aides
+
+871,847.00 
+
+
+
+
+
+III
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+There was no COVID 19 fund released and related expense disbursed by the PPA Region 3 for CY 2020.
+
+IV-A
+
+Y20-005-002
+
+
+
+
+
+May 5, 2020
+
+Payment of medical supplies for official use of Region IV-A Personnel.
+
+129,200.00 
+
+
+
+AOM No. 2021-04 dated February 11, 2021 was issued re: Hazard pay amounting to ₱P48,500.00 granted to regular and job order personnel, who physically reported for work at their respective offices or work station during the period of Covid-19 Enhanced Community Quarantine (ECQ) and/or Modified ECQ was paid  even with incomplete documentation contrary to DBM Budget Circular No. 2020-1 dated March 24, 2020, thus casting doubts as to the propriety of the transactions.  Management had already complied with the audit recommendation by submitting the lacking documentary requirements during the exit conference on February 18, 2021. This was incorporated in CY 2020 Management Letter transmitted on March 8, 2021.
+
+
+
+
+
+June 20, 2020
+
+Payment of Hazard Pay to Regular Personnel during ECQ period: March 17 - May 15, 2020
+
+12,000.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+9,000.00 
+
+
+
+
+
+
+
+
+
+August 26, 2020
+
+Payment of Hazard Pay to Regular Personnel during ECQ period: May 16 -31, Aug 4 - 18, 2020
+
+15,000.00 
+
+
+
+
+
+
+
+
+
+
+
+Payment of Hazard Pay to Job Order Personnel during ECQ period: May 16 -31, Aug 4 - 18, 2020
+
+12,500.00 
+
+
+
+
+
+
+
+2020-10-014
+
+
+
+October 28, 2020
+
+
+
+Medical supplies for Reg IV-A Personnel in relation to Covid 19.
+
+
+
+41,000.00 
+
+
+
+
+
+IV-B
+
+2020-05-005
+
+May 7, 2020
+
+Emergency purchases of supplies amidst COVID 19 Virus outbreak for consumption/use of DOJ-PPA MIMAROPA personnel (alcohol, thermal scanner, & face mask - surgical/washable cloth), through PhilGEPS negotiated procurement - emergency cases 
+
+97,800.00
+
+No findings has been noted
+
+VI
+
+2020-03-011
+
+March 16, 2020
+
+Alcohol, Disinfectant, Liquid Soap
+
+29,490.00
+
+Audit Observation Memorandum was issued for expenses charged to improper accounts as a result of non-realignment of funds.
+
+
+
+2020-05-017
+
+May 13, 2020
+
+Alcohol - 70% solution
+
+49,280.00
+
+
+
+
+
+2020-05-020
+
+
+
+Cleaning Supplies
+
+    155,040.00 
+
+
+
+
+
+2020-05-018
+
+May 14, 2020
+
+Disinfectant
+
+47,925.00 
+
+
+
+
+
+2020-06-021
+
+June 10, 2020
+
+Alcohol, Gloves, Foot Bath
+
+196,050.00 
+
+
+
+
+
+2020-06-034
+
+June 22, 2020
+
+Table Shield for Negros Occidental Offices
+
+197,400.00 
+
+
+
+
+
+
+
+2020-06-032
+
+
+
+Alcohol Dispenser
+
+110,950.00
+
+
+
+
+
+2020-06-040
+
+
+
+Table Shield for Panay Offices
+
+187,227.00 
+
+
+
+VII
+
+APR No. Q20-00989
+
+June 18, 2020
+
+Surgical mask
+
+  181,500.00 
+
+No material/ significant audit observation noted.
+
+
+
+
+
+
+
+KN 95 mask
+
+12,650.00 
+
+
+
+
+
+
+
+
+
+Disinfectant spray
+
+3,137.20 
+
+
+
+
+
+
+
+
+
+Face shield
+
+19,800.00 
+
+
+
+
+
+
+
+
+
+Alcohol
+
+24,200.00 
+
+
+
+
+
+2020-08-0009
+
+August 12, 2020
+
+Liquid hand soap
+
+      24,240.00
+
+
+
+
+
+
+
+
+
+cleanser
+
+1,497.50 
+
+
+
+
+
+
+
+
+
+Liquid bleaching soap
+
+      19,270.00 
+
+
+
+
+
+
+
+
+
+Disposable hand gloves
+
+    58,370.00 
+
+
+
+
+
+
+
+
+
+Thermal scanner
+
+   57,270.00 
+
+
+
+
+
+
+
+
+
+Hand sanitizer
+
+     84,825.00 
+
+
+
+
+
+
+
+
+
+Plastic cover
+
+      1,675.00 
+
+
+
+
+
+
+
+
+
+Cleaner
+
+  3,430.00 
+
+
+
+
+
+
+
+
+
+Disinfecting foot mat
+
+  12,650.00 
+
+
+
+
+
+
+
+
+
+Toilet tissue paper
+
+ 21,120.00 
+
+
+
+
+
+
+
+
+
+Disinfectant spray
+
+    93,312.00 
+
+
+
+
+
+
+
+
+
+Alcohol
+
+     58,000.00 
+
+
+
+
+
+
+
+
+
+Anti-bacterial hand soap
+
+    4,036.50 
+
+
+
+
+
+2020-11-0015
+
+November 13, 2020
+
+Air Purifier with UV Light
+
+        4,016.80 
+
+
+
+IX
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+DOJ-PPA Regional Office IX has not received additional funds for Covid-19 during CY 2020 and that no realignment was made in the budget to supplement that purpose.
+
+
+
+Furthermore, all acquisitions of supplies were made through the regular procurement of the Agency and there were no purchases specific for health essentials.
+
+XII
+
+20-03-010
+
+
+
+March 4, 2020
+
+
+
+Purchase of handwash
+
+2,860.00 
+
+No material/ significant audit observation noted during the audit.
+
+
+
+
+
+
+
+Purchase of hand sanitizers
+
+  3,362.00 
+
+
+
+
+
+
+
+
+
+
+
+Purchase of Alcohols
+
+4,875.00 
+
+
+
+
+
+20-05-011
+
+May 19, 2020
+
+Purchase of face masks
+
+ 4,600.00 
+
+
+
+
+
+20-05-012
+
+
+
+Purchase of face shields
+
+  6,417.00 
+
+
+
+
+
+20-08-017
+
+
+
+August 18, 2020
+
+
+
+     16,100.00 
+
+
+
+
+
+
+
+20-08-019
+
+August 11, 2020
+
+Purchase of face masks
+
+    11,500.00 
+
+
+
+
+
+20-08-020
+
+
+
+Purchase of thermo guns
+
+      24,000.00 
+
+
+
+
+
+20-10-035
+
+October 29, 2020
+
+Purchase of handwash
+
+ 5,919.68 
+
+
+
+
+
+
+
+
+
+Purchase of hand sanitizers
+
+    7,239.78 
+
+
+
+
+
+
+
+
+
+
+
+Purchase of Alcohols
+
+    27,500.00 
+
+
+
+TOTAL
+
+3,462,142.86
+
+
+
+
+
+National Task Force to End Local Communist Armed Conflict Fund (NTF-ELCAC Fund)
+
+
+
+18)	The PPA did not receive fund for NTF-ELCAC related activities during the year per Certification dated March 19, 2021 issued by the agency. 
+
+62
+
+
+
+
+
+
+
+
+

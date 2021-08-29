@@ -1,0 +1,3926 @@
+PART- II- AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+The audit of the accounts and financial transactions of the Government Arsenal (GA) for calendar year 2020 disclosed certain observations that needed correction and/or improvement. Our observations with the corresponding recommendations are discussed in detail in the succeeding paragraphs.
+
+
+
+
+
+Financial and Compliance Audit	
+
+				
+
+Unreliable balance of Inventories Accounts- ₱2,107,951,809.32
+
+
+
+1. 	The year-end balances of the Inventories Account of  ₱2,107,951,809.32  as of December 31,2020 were unreliable due to a) unreconciled  difference of ₱579,129,088.41 between the general ledger (GL) balances and the inventory report; b) lack of periodic reconciliation between the supply ledger cards (SLCs) and the stock cards (SCs); and c) non-derecognition of semi-expendable property already issued amounting to ₱90,197.31 as prescribed under the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I.
+
+
+
+1.1   Verification showed that the accuracy and validity of the Inventories Accounts amounting to ₱2,107,951,809.32, which comprised 45% of the Agency’s total assets in the financial statements as of December 31, 2020, could not be ascertained due to the following hindrances:
+
+
+
+a)	Failure of the management to follow the proper procedure in the conduct of the yearly physical inventory.
+
+
+
+		The Agency created an inventory committee and conducted the yearly physical inventory as per Office Order No. 2020-260 dated November 26, 2020. However,  a representative from the Audit Team was not invited to witness or observe the actual process of the inventory.
+
+	
+
+b)	Inability of the Agency officials concerned to submit the report within the prescribed period.
+
+
+
+		Due to lack of personnel, the Reports on the Physical Count of Supplies and Materials were submitted late on August 28, 2020 and February 9, 2021 instead of July 31 and January 31 of each year, which were the prescribed deadlines for the first and second semesters, respectively.
+
+	
+
+c)	Unreconciled variance of ₱579,129,088.41 between the accounting records and the inventory report.
+
+
+
+1.2	Comparison of the recorded balances of the  Inventories account of ₱2,107,951,809.32 with the result of physical inventory/count of ₱1,528,822,720.91 disclosed a net variance of ₱579,129,088.41 as shown below:
+
+	
+
+Inventory Accounts
+
+Per Books
+
+Per Physical Inventory
+
+Variance
+
+Inventories Held for Manufacturing:
+
+Raw Materials Inventory
+
+₱1,128,494,052.23
+
+₱830,365,045.83
+
+₱298,129,006.40
+
+Work in Process Inventory
+
+96,214,006.08
+
+ 
+
+96,214,006.08
+
+Finished Goods Inventory
+
+750,741,740.47
+
+603,655,213.00
+
+147,086,527.47
+
+Sub-Total
+
+1,975,449,798.78
+
+1,434,020,258.83
+
+541,429,539.95
+
+Inventories Held for Consumption:
+
+Office Supplies Inventory
+
+3,818,634.48
+
+2,236,855.90
+
+1,581,778.58 
+
+Drugs and Medicines Inventory
+
+708,622.30
+
+1,804,386.00
+
+(1,095,763.70)
+
+Medical, Dental and Laboratory Supplies Inventory
+
+695,885.75
+
+325,349.68
+
+370,536.07 
+
+Fuel, Oil and Lubricants Inventory
+
+9,808,602.82
+
+2,925,262.50
+
+6,883,340.32 
+
+Construction Materials Inventory
+
+8,400,387.24
+
+5,984,657.00
+
+2,415,730.24 
+
+Other Supplies and Materials Inventory
+
+108,946,695.64
+
+81,492,966.00
+
+27,453,729.64 
+
+Sub-Total
+
+132,378,828.23
+
+94,769,477.08
+
+37,609,351.15
+
+Semi-Expendables:
+
+
+
+
+
+
+
+Semi-Expendable-Office Equipment
+
+31,200.00
+
+31,200.00 
+
+-
+
+Semi-Expendable-Technical & Scientific Equipment
+
+2,750.00
+
+-
+
+2,750.00
+
+Semi-Expendable- Other Machinery & Equipment
+
+64,919.00
+
+1,785.00
+
+63,134.00
+
+Semi-Expendable-Furniture & Fixtures
+
+24,313.31
+
+-
+
+24,313.31
+
+Sub-Total
+
+123,182.31
+
+32,985.00
+
+90,197.31
+
+Total Inventories
+
+₱2,107,951,809.32
+
+₱1,528,822,720.91
+
+₱579,129,088.41
+
+		
+
+1.3	In CY 2019, the variance was only ₱272,477,826.34 but because of continuous non-reconciliation of the accounting and property records the amount has doubled. As illustrated in the succeeding table, one of the causes of the variance that we have identified was the discrepancy that was disclosed in the physical count of Other Supplies and Materials Inventory and Fuel, Oil and Lubricants Inventory accounts way back in the year 2015.
+
+		
+
+		Account
+
+		As of  December 31, 2015
+
+		
+
+		Per Supplies Ledger Card
+
+		Per Stock Cards
+
+		Variance              (as to quantity)
+
+Fuel, Oil and Lubricants Inventory (Diesel)
+
+		76,165.20
+
+		22,225
+
+		53,940.20 liters
+
+Other Supplies and Materials Inventory (Silica Gel)
+
+		479,865
+
+		397,420
+
+		82,445 pcs
+
+		
+
+ 1.4	The beginning balances reflected in the Supplies Ledger Cards (SLCs) and the Supplies Cards (SCs) for these accounts already reflected quantity variances of 53,940.20 liters for diesel and 82,445 pieces (pcs.) for silica gel as of December 31, 2015. The audit in CY 2020 disclosed a continual increase in variance to 135,945.81 liters and 112,445 pcs., respectively. 
+
+	
+
+	1.5	In the case of drugs and medicines, we were able to confirm from the Pharmacy that the purchase price of 2,100 pieces of Trimetazidine Hydrochloride purchased by the Agency was ₱497.00 per box (30 pcs./box) or a sum of ₱34,790.00.  However, the inventory report showed the price at ₱497.00 per piece or ₱1,043,700.00, which resulted to a huge variance of ₱1,008,910.00 under the Drugs and Medicines Inventory. 
+
+	
+
+	1.6	We also noted that the Accounting Section maintains a Work in Process Inventory account with a year-end balance per books of ₱96,214,006.08 but no physical count was conducted by the Property Section. 
+
+
+
+	1.7	The above deficiencies were not in conformity with Items A, C, D and E, Appendix No. 66, Volume II of the Government Accounting Manual (GAM) for National Government Sector (NGS), which provide the following regulations, and we quote:
+
+		
+
+A)			The Report on the Physical Count of Inventories (RPCI) is a form used to report the physical count of inventory items by type such as Office Supplies Inventory, Accountable Forms Inventory, Medical,Dental and Laboratory Supplies Inventory, Food Supplies Inventory, etc. which are owned by the agency/ entity. It shall be prepared semi-annually by the Inventory Committee and by fund cluster.xxx
+
+		
+
+A)			The report shall be reconciled with the Supply Ledger Cards (SLCs) and Stock Cards (SCs) maintained by the Accounting Division/Unit and Property and/ or Supply Division/Unit, respectively. Any discrepancy shall be verified and/ or adjusted accordingly.
+
+		
+
+B)			The reports shall be prepared in four(4) copies and certified correct by the Inventory Committee, approved by the Head of the Agency or his/her authorized representative, and verified by the COA Auditor.
+
+		
+
+C)			The report shall be submitted to the COA Auditor concerned not later than July 31 and January 31 of each year for the first and second semesters, respectively.
+
+		
+
+d)	Issued semi-expendable properties totaling to ₱90,197.31 not recognized as expenses.
+
+		
+
+	1.8	Further, the Audit Team noted that semi-expendable items already issued to end-users were not yet recognized as expenses in the books, thus, overstating the Inventory account and understating the Expenses account by ₱90,197.31. Furthermore, the amounts of inventories recognized as expenses during the period were not disclosed in the Financial Statements.
+
+	
+
+	
+
+1.9	Sections 10 and 12, Chapter 8, Volume I of the same Manual state that:
+
+		
+
+		Section 10.Tangible items below the capitalization threshold of ₱15,000.00 shall be accounted as semi-expendable property. The following policies apply as follows:
+
+		
+
+		Semi-expendable property which were recognized as PPE shall be reclassified to the affected accounts.
+
+		
+
+		These tangible items shall be recognized as expenses upon issue to the end-user.
+
+		
+
+		Section 12.Disclosure and presentation. The financial statements shall disclose:
+
+		
+
+a)			The accounting policies adopted in measuring inventories, including the cost formula used;
+
+b)			The total carrying amount of inventories and the carrying amount in classifications appropriate to the entity;
+
+c)			The carrying amount of inventories carries at fair value less costs to sell; 
+
+d)			 The amount of inventories recognized as an expense during the period; 
+
+e)			The amount of any writedown of inventories recognized as an expense in the period; 
+
+f)			The amount of any reversal of any write-down that is recognized in the statement of financial performance in the period;
+
+g)			The circumstances events, such as changed economic circumstances, that led to the reversal of a write-down of inventories; and
+
+h)			 The carrying amount of inventories pledged as security for liabilities. 
+
+		
+
+1.10	The non-reconciliation of the huge discrepancy of ₱579,129,088.41 between the report on inventory and per accounting records and the non-recognition of expenses for the issued semi-expendable property totaling to ₱90,197.31 rendered the year-end account balance of Inventories unreliable. 
+
+	
+
+	1.11	We recommended and Management agreed to instruct the:
+
+
+
+a)			Inventory Committee to conduct promptly the physical inventory-taking of inventories on a semestral basis to be observed by a COA Representative; submit the Report on the Physical Count of Inventories not later than July 31 and January 31 of each year to facilitate the reconciliation of the accounting and property records and the correction/adjustment of verified discrepancies, if there are any;
+
+		
+
+b)			Accounting and Property Sections prioritize the reconciliation of the results of the inventory count with the supply and accounting records; analyze the reconciling items; and prepare correcting entries, as warranted; and
+
+
+
+c)			Agency Accountant derecognize in the books of accounts those semi-expendable items already consumed/issued to end-users.
+
+
+
+1.12	During the exit conference, the Management disclosed that the variances were attributable to the beginning balances. They commented that evaporation loss may be a possible reason for the discrepancies in the Fuel, Oil and Lubricants Inventory Account (Diesel). The Audit Team reiterated that the comparison of the SLC and the SC for such account showed a huge variance of 53,940.20 liters which for sure was not simply caused by  evaporation of the diesel. 
+
+
+
+
+
+Doubtful accuracy of the balance of Property, Plant and Equipment- ₱ 1,701,659,953.31
+
+
+
+2.     The accuracy and existence of the Property, Plant and Equipment (PPE) accounts with a carrying amount of ₱1,701,659,953.31 as of year-end could not be ascertained due to (a) improper procedures on the physical count of PPEs; (b) unreconciled variance of ₱30,188,006.76 between the balances per books and the inventory reports and absence of updated property cards; (c) inclusion of semi-expendable properties of ₱1,728,688.25; (d) failure to derecognize unserviceable properties of ₱28,911,731.35 with no future economic benefits and non-recognition of impairment loss for those with recoverable amounts; (e) non-appraisal of insurable government properties costing ₱447,039,981.97 and other deficiencies inconsistent with COA Circular No. 2020-006 dated January 31, 2020, COA Circular No. 2018-002 dated May 31, 2018, pertinent provisions of the International Public Sector Accounting Standard (IPSAS) and Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I.
+
+
+
+2.1  The Property, Plant and Equipment (PPE) reflected a net book value of ₱1,701,659,953.31 which is 36% of the Agency’s total assets of ₱4,696,191,177.56 as of December 31, 2020.
+
+
+
+2.2	The audit of the account disclosed the following deficiencies/errors:
+
+
+
+a)		Improper procedures on the physical count of PPEs
+
+	
+
+2.3	COA Circular No. 2020-006 dated January 31, 2020 provides the guidelines and procedures in the conduct of physical count and reconciliation of Property, Plant and Equipment (PPE) as follows:
+
+		
+
+		5.7 	For easy identification, the Property Number shall be prominently shown in the property sticker, in addition to the following vital information on the PPE item:
+
+			a. Description of the property
+
+			b. Model Number
+
+			c. Serial Number
+
+			d. Acquisition Date/Cost
+
+			e. Person Accountable
+
+			f. Space for the validation/signature of the Inventory Committee
+
+		
+
+		5.9	In coordination with the Property Division/Unit, the Inventory Committee shall plan/strategize on how to conduct and complete the physical inventory within prescribed period. It shall prepare a Physical Inventory Plan (PIP) containing, at least, the specific assignments/ duties of the Committee members, the cut-off date and a schedule specifying the dates and locations of the inventory taking activities from start up to the targeted completion of the physical inventory.
+
+		
+
+		5.10 The PIP shall be approved by the Head of the Agency.
+
+		
+
+		5.11	The Inventory Committee shall submit the approved PIP to the COA Audit Team at least ten (10) calendar days before the scheduled start of inventory taking activities.
+
+		
+
+		6.1.4 The Property Unit shall prepare a list of PPE items which are recorded in PPELCs but not included in the RPCPPE/Physical Inventory Report as well as PPE Items which are included in the RPCPPE but not recorded in the PPELCs.
+
+		
+
+		6.1.5 Both lists and the latest RPCPPE/ Physical Inventory Report shall be submitted to the Inventory Committee. These documents shall be considered as inventory working papers and shall be used by the Inventory Committee as basis in preparing the PIP.
+
+		
+
+		6.2.5	All PPE items counted shall be tagged with the new property stickers containing the information provided under Paragraph 5.7 of this Circular.
+
+		
+
+		6.3 	The Property and Accounting Units shall undertake collaborative procedures to ensure that all PPEs included in the RPCPPE are duly recorded in their respective records and that the Property Cards (PCs) maintained by the Property Unit and the PPELCs maintained by the Accounting Unit are reconciled.
+
+		
+
+2.4	Section 42, Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, prescribes that:
+
+			
+
+			42	The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like PAR.
+
+		
+
+2.5	Although the Agency conducted the CY 2020 physical inventory and submitted the RPCPPE within the due date, the Inventory Committee  failed to observe and follow the proper procedures in the physical count and reconciliation of PPE as prescribed under COA Circular No. 2020-006 dated January 31, 2020 and Section 42 of the GAM for NGAs, Volume I.
+
+		
+
+2.6	On September 01, 2020, the Agency issued Office Order No. 2020-171 creating the Inventory Committee and authorizing the latter to conduct the CY 2020 Annual Physical Count/Inventory of PPE. However, the Inventory Committee failed to prepare and submit the approved Physical Inventory Plan (PIP) to the COA Audit Team at least ten calendar days before the scheduled start of physical count contrary to Paragraphs 5.9, 5.10 and 5.11 of COA Circular No. 2020-006 dated January 31, 2020. 
+
+
+
+2.7	Furthermore, inquiry with the inventory team disclosed that they used the latest (2019) RPCPPE and 2020 Property Acknowledgement Receipts (PARs) as the bases for the CY 2020 physical count. Nonetheless, the required listings such as List of PPE Items per PPELCs but not included in the latest (2019) RPCPPE and vice versa were not prepared as required under Paragraphs 6.1.4 and 6.1.5 of the same COA Circular.
+
+
+
+2.8	The list of unrecorded and non-existent PPEs based on the latest available (2019) RPCPPE shall be considered as inventory working papers by the Inventory Committee and reference in the preparation of the PIP.
+
+		
+
+2.9	While there was no approved and signed PIP with lists of unrecorded and non-existent PPE Items, the Property Officer nonetheless submitted to the Audit Team a copy of the schedule of inventory of PPE and an invitation to witness the actual process of the physical count for CY 2020.
+
+		
+
+2.10	Relatedly, the Audit Team observed that new property labels were not assigned and attached to the properties during the count. The property labels which contain the vital information about the individual properties were not immediately assigned and attached to the visible but secured portion of the individual property units in order to easily identify, properly segregate items already counted and monitor accountability, inconsistent with Paragraphs 5.7 and 6.2.5 of COA Circular No. 2020-006 dated January 31, 2020.
+
+		
+
+b)		Unreconciled variance of ₱30,188,006.76 and absence of updated Property Cards (PCs)
+
+	
+
+2.11	Verification disclosed a net variance of ₱30,188,006.76 between the result of the physical inventory/count amounting to ₱2,239,367,500.85 and the recorded PPE of ₱2,269,555,507.61 as presented below:
+
+		
+
+PPE
+
+Per Books
+
+Per Physical Inventory
+
+Variance
+
+Land
+
+₱1,111,113,000.00
+
+₱    1,111,113,000.00
+
+₱                 0.00
+
+Other Land Improvements
+
+18,006,529.00
+
+18,006,529.00
+
+0.00
+
+Buildings
+
+17,662,907.01
+
+16,105,445.41
+
+1,557,461.60
+
+School Buildings
+
+29,202.83
+
+29,202.83
+
+0.00
+
+Hospitals and Health Centers
+
+2,088,221.44
+
+2,088,221.44
+
+0.00
+
+Other Structures
+
+122,965,138.27
+
+120,779,059.87
+
+2,186,078.40
+
+Machinery
+
+610,171,524.56
+
+586,472,774.56
+
+23,698,750.00
+
+Office Equipment
+
+2,446,738.95
+
+2,313,488.95
+
+133,250.00
+
+ICT Equipment
+
+18,612,352.35
+
+17,782,033.05
+
+830,319.30
+
+Communication Equipment
+
+6,881,696.63
+
+6,712,124.13
+
+169,572.50
+
+Construction and Heavy Equipment
+
+14,664,477.00
+
+14,655,197.00
+
+9,280.00
+
+Disaster Response and Rescue Equipment
+
+516,569.40
+
+247,030.00
+
+269,539.40
+
+Military, Police and Security Equipment
+
+15,546,283.16
+
+15,546,283.16
+
+0.00
+
+Medical Equipment
+
+2,153,790.25
+
+2,173,790.25
+
+(20,000.00)
+
+Sports Equipment
+
+53,200.00
+
+16,000.00
+
+37,200.00
+
+Technical and Scientific Equipment
+
+115,525,894.59
+
+114,904,775.48
+
+621,119.11
+
+Other Machinery and Equipment
+
+123,875,729.48
+
+124,109,794.73
+
+(234,065.25)
+
+Motor Vehicles
+
+68,855,331.78
+
+68,450,081.78
+
+405,250.00
+
+Other Transportation Equipment
+
+2,900.00
+
+-
+
+2,900.00
+
+Furniture and Fixtures
+
+15,140,907.12
+
+14,629,155.42
+
+511,751.70
+
+Books
+
+72,831.79
+
+72,831.79
+
+0.00
+
+Other Property, Plant and Equipment
+
+3,170,282.00
+
+3,160,682.00
+
+9,600.00
+
+Total PPE
+
+₱2,269,555,507.61
+
+₱2,239,367,500.85
+
+₱30,188,006.76
+
+Less: Accumulated Depreciation
+
+567,895,554.30
+
+
+
+
+
+PPE, Net
+
+₱1,701,659,953.31
+
+
+
+
+
+		
+
+2.12	As could be gleaned above, the variance of ₱30,188,006.76 affected various PPE categories such as Buildings, Other Structures, Machinery, Office Equipment, ICT Equipment, and others.
+
+		
+
+2.13	As compared to the previous year, the variance between the physical inventory count and the recorded PPEs was smaller by ₱76,092,555.94. As such, we commended management for the effort exerted to undertake partial reconciliation of the PPE accounts. 
+
+		
+
+2.14	However, interview with the Property Management Section (PMS) personnel disclosed that due to lack of personnel in their Division, Property Cards (PCs) were not updated contrary to Paragraph 6.3 of COA Circular No. 2020-006 dated January 31, 2020 and Section 42, Chapter 10 of GAM for NGAs, Volume I.
+
+
+
+2.15	According to the PMS, the preparation and updating of Property Cards (PCs) for PY 2019 are still ongoing.  For the meantime, they are using the PPELCs and PARs for the ongoing reconciliation.
+
+		
+
+2.16	Taking into account all the foregoing deficiencies and the unresolved variance of ₱30,188,006.76, we cast doubt on the accuracy, existence and reliability of the recorded PPE as of December 31, 2020. 
+
+		
+
+c)		Inclusion of semi-expendable properties- ₱ 1,728,688.25
+
+	
+
+2.17	Sections 4 and 10, Chapter 10 of the same Manual prescribe that:
+
+	
+
+			Section 4. The capitalization threshold of ₱15,000 represents the minimum cost of an individual asset recognized as a PPE on the Statement of Financial Position.
+
+		
+
+a)			Items with individual values below the threshold but which work together in the form of a group of network asset whose total value exceeds the threshold shall be recognized as part of the primary PPE.  (Example: computer network, PABX system, sewerage system).
+
+		
+
+		Expenditures incurred on purchasing, developing, and operating hardware, like web servers, staging servers, production servers and internet connections of a website is accounted for as PPE if the total value of the primary asset (communications networks) and these items is within the threshold of ₱15,000 and above. 
+
+		
+
+b)			This threshold shall be applied on an individual asset or per item basis.  Each item within the bulk acquisition with aggregate or total value of PPE, such as library books, computer peripherals and small items of equipment, will need to meet the capitalization threshold to be recognized as PPE.
+
+		
+
+			Section 10. Tangible Items below the capitalization threshold of ₱15,000 shall be accounted as semi-expendable property. The following policies apply as follows:
+
+		
+
+a)		Semi-expendable property which were recognized as PPE shall be reclassified to the affected accounts.
+
+	
+
+b)		These tangible items shall be recognized as expenses upon issue to the end-user.
+
+
+
+	2.18	The audit of PPE records maintained by the Accounting Section disclosed that 397 line items (Appendix A) with individual costs of below ₱15,000.00 or a sum of ₱1,728,688.25 were still recorded in the books as PPE, contrary to Sections 4 and 10, supra. Out of 397 line items, 210 were traced from the Inventory and Inspection Report of Unserviceable Properties (IIRUP) from the year 2018 to 2020 totaling to              ₱557.694.53. This amount represents unserviceable properties held for disposal. The remaining 187 line items amounting to ₱1,170,993.72 were counted during the CY 2020 physical count of semi-expendable properties as per Inventory Report submitted by the Agency.
+
+	
+
+	2.19	The non-reclassification of semi-expendable properties to the appropriate accounts overstated the recorded balances of the PPE as at year-end.
+
+	
+
+	d) Failure to derecognize unserviceable properties with no future economic benefits and non-recognition of impairment loss for those with recoverable amounts-₱28,911,731.35
+
+	
+
+	2.20	International Public Sector Accounting Standards (IPSAS) 21 and 17 prescribe that:
+
+	
+
+		An asset is impaired when the carrying amount exceeds its recoverable amount. Impairment, therefore, reflects a decline in the utility of the asset to the entity that controls it.
+
+	
+
+		The carrying amount of an item of property, plant and equipment shall be derecognized: (a) on disposal; or (b) when no future economic benefits or service potential is expected from its use or disposal.
+
+	
+
+	2.21	The audit of accounting records also revealed that various unserviceable properties totaling to ₱28,911,731.35 (Appendix B) were covered by IIRUP consisting of  ₱10,291,626.51 (CY 2018), ₱2,487,088.74 (CY 2019) and ₱16,133,016.10 (CY 2020). These amounts were carried in the books without any provision for impairment contrary to IPSAS 21.
+
+	
+
+	2.22	Likewise, unserviceable properties declared for destruction as well as those with no value based on the report of the Appraisal Committee were not immediately derecognized from the books inconsistent with IPSAS 17 which requires the derecognition of PPEs when no future economic benefits or service potential is expected from its use or disposal.
+
+	
+
+	2.23	For the unserviceable properties with appraised value (based on the market price survey conducted by the Appraisal Committee), the Agency failed to recognize impairment loss to reflect the expected recoverable amount.
+
+	
+
+	2.24	In view of the foregoing, we rendered doubt on the accuracy of the balance of PPE reflected in the Statement of  Financial Condition as of December 31, 2020.
+
+	
+
+a)		Non-appraisal of insurable government properties- ₱447,039,981.97
+
+	
+
+	2.25	Review of Property Inventory Form submitted by the management revealed that insurable government properties amounting to ₱447,039,981.97  were not appraised contrary to Item 5.1 of COA Circular No. 2018-002 dated May 31, 2018 which states that:
+
+	
+
+c)		Prepare the Property Inventory Form (PIF) listing of all the insurable properties and other assets, showing their latest appraised values/valuation, appraisal date, location, and other information.
+
+	
+
+d)		Cause the appraisal of the insurable properties and other assets of their respective offices. For this purpose, an in-house appraisal shall be sufficient if the property or insurable interest has value of P10 million and below. Otherwise, an independent appraisal shall be necessary.
+
+
+
+	2.26	The use of acquisition costs as the sole basis for insurable government properties without considering the latest appraised values especially for buildings constructed way back in 1973 and 1974 may result to higher amount of insurance premiums, thus, may cause financial burden to the Agency.
+
+	
+
+b)		Doubtful accuracy of the balance of the Other Assets-₱606,499.78
+
+	
+
+	2.27	Paragraphs 9 and 18 of IPSAS 27-Agriculture prescribes that:
+
+			
+
+	9	Agricultural Activity is the management by an entity of the biological transformation and harvests of the biological assets for sale, for distribution at no charge or for a nominal charge or conversion into agricultural produce or into additional biological assets for sale or for distribution at no charge or for a nominal charge.
+
+	
+
+	18 Agricultural Produce harvested from entity’s biological assets shall be measured at its fair value less cost to sell at the point of harvest.
+
+	
+
+	
+
+	2.28	Paragraphs 6(a), 13 and 82 of IPSAS 17- Property, Plant and Equipment prescribes that:
+
+			
+
+	6(a)This standard does not apply to biological assets related to agricultural activity other than bearer plants (see IPSAS 27- Agriculture). This standard applies to bearer plants but does not apply to the produce on bearer plants. 
+
+	
+
+	13	A bearer plant is a living plant that (a) is used in the production or supply of agricultural produce; (b) is expected to bear produce for more than one period; and (c) has a remote likelihood of being sold as agricultural produce except for incidental scrap sales.
+
+	
+
+	82	The carrying amount of an item of PPE shall be derecognized (a) on disposal or (b) when no future economic benefits or service potential is expected from its use or disposal.
+
+		
+
+	2.29	Review of the Other Assets account revealed the following observations:
+
+	
+
+a)	The long outstanding balances of the Other Assets account, consisting of items aged ten years and above, pertained to fruit bearing trees and unserviceable properties awaiting disposal in the amount of ₱407,475.18 and ₱199,024.60, respectively. According to the current Supply Accountable Officer (SAO), these fruit bearing trees were not included in the inventory and the whereabouts or location could not be determined.
+
+
+
+b)	The amount of ₱ 407,475.18 was the value of the fruit bearing trees in CY 2006 when at that time it consisted of 12,386 fruit bearing trees composed of 584 mango trees, 1,219 caimito trees, 5,048 coffee trees, 434 casoy, 3,417 atieza, 103 coconut trees, and 156 avocado trees, among others. As of this date, these fruit bearing trees were not being monitored and recorded properly; thus, there is a possibility that the value carried in the books may no longer be realistic.
+
+
+
+c)	The reclassification of fruit bearing trees to Other Assets was a departure from the pertinent provisions of the afore-cited IPSAS.
+
+
+
+d)	On the other hand, the unserviceable properties awaiting disposal in the amount of ₱199,024.60 (Appendix C) were already disposed of as per IIRUP issued on May 31, 2007 as provided by the Property Management Section. Nonetheless, these were not derecognized in the books inconsistent with Paragraph 82 of IPSAS 17. 
+
+
+
+2.30  We recommended that Management undertake the following courses of action:
+
+
+
+a)	Submit the Physical Inventory Plan (PIP) to the COA Audit Team for 2021 Physical Count together with the list of unrecorded and non-existent PPE items based on CY 2020 RPCPPE;
+
+
+
+b)	Instruct the Accounting and Property Sections to (i) prioritize the updating and reconciliation of Property Cards (PCs) with Property, Plant and Equipment Ledger Card (PPELCs); (ii) analyze the reconciling items; and (iii) prepare correcting entries, if applicable;
+
+
+
+c)	Direct the Agency Accountant to (i) reclassify to their proper accounts PPE accounts below the capitalization threshold of ₱15,000.00; (ii) derecognize unserviceable properties with no future economic benefits;(iii) provide for impairment loss for those with recoverable amount; (iv) verify the existence and accuracy of recorded fruit bearing trees and cause their reclassification from  Other Assets to their proper Biological Asset accounts; and (v) derecognize the unserviceable properties already disposed but still included as Other Assets; and
+
+
+
+d)	Cause the appraisal of all insurable government properties thru the Property Officer.
+
+
+
+	2.31 The Management assured us that they will abide with the Audit Team’s audit recommendations. 
+
+
+
+	
+
+Unreliable balance of PPE-Motor Vehicles Account
+
+
+
+1)	The accuracy and existence of PPE – Motor Vehicles account with net book value of ₱26,342,183.25 could not be ascertained due to: (a) unrecorded/non-existent motor vehicles costing ₱9,617,232.00; (b) interchanged classification of equipment and motor vehicles amounting to  ₱5,775.00 and ₱463,000.00, respectively, in the books; (c) undisposed unserviceable motor vehicles valued at ₱122,733.95; and (d) other lapses/deficiencies in violation of Section 63 of Presidential Decree (P.D.) No. 1445,  Chapter 3 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume III,  Sections 5 and 4(c) of  Republic Act (R.A.) No. 656,  COA Circular No. 77-6C, Revised Motor Vehicle Law and COA Circular No. 77-61. 
+
+	
+
+
+
+3.1	Verification of the Motor Vehicles account, with net carrying value of ₱26,342,183.25, was undertaken as of June 30, 2020, and we noted the following observations:
+
+
+
+a)	Unrecorded/non-existent Motor Vehicles in the books-₱9,617,232.00
+
+
+
+3.2	As of audit date, the following motor vehicles were found to be either included in the Property  Records but not in recognized in the books of accounts or vice versa.
+
+
+
+Unrecorded motor vehicles
+
+Description
+
+Acquisition Cost
+
+Date Acquired
+
+Mitsubishi Fuso
+
+Canter, Fuso          Model: 2019 MIT, Canter FE84 Euro 4 with Dropside body Engine No. 4M42A95668
+
+₱1,635,000.00
+
+Nov. 15, 2019 (Barter)
+
+
+
+Battery Car
+
+Hitachi, Model Ecos, Battery Golf Kart
+
+305,000.00
+
+June 27, 2020  (Barter)
+
+Battery Car
+
+Hitachi, Model Ecos, Battery Golf Cart
+
+305,000.00
+
+June 27, 2020  (Barter)
+
+Battery Car
+
+Hitachi, Model Ecos, Battery Golf Cart
+
+305,000.00
+
+June 27, 2020  (Barter)
+
+Total
+
+2,550,000.00
+
+
+
+Non-existent motor vehicles
+
+Toyota Innova
+
+2.8 E DSL M/T; Engine No. 1GD0727382
+
+1,217,000.00
+
+Nov. 21, 2019
+
+Toyota Innova
+
+2.8 E DSL M/T; Engine No. 1GD0738128
+
+1,217,000.00
+
+Nov. 21, 2019
+
+Toyota Innova
+
+2.8 E DSL M/T; Engine No. 1GD0741621
+
+1,217,000.00
+
+Nov. 21, 2019
+
+Toyota Innova
+
+2.8 E DSL M/T; Engine No. 1GD0742658
+
+1,217,000.00
+
+Nov. 21, 2019
+
+Toyota Innova
+
+2.8 E DSL M/T; Engine No. 1GD0749135
+
+1,217,000.00
+
+
+
+Nov. 21, 2019
+
+Isuzu Car
+
+Diesel; mdl TB-150S, SN 8088, engine #P-411 Isuzu
+
+2,500.00
+
+
+
+December 31, 1987
+
+Fire Truck
+
+Plate #SBN-765
+
+1.00
+
+Dec. 31, 1967
+
+Fire Truck
+
+Plate #SBN-779
+
+1.00
+
+Dec. 31, 1967
+
+Hi-Ace Commuter
+
+Toyota; Plate No.SBH-288
+
+150,400.00
+
+July 31, 1984
+
+Toyota Corona
+
+Silver Edition; Plate No. PDG-912
+
+87,500.00
+
+July 31, 1984
+
+Toyota Mini Cruizer
+
+Plate No. SBN-774
+
+36,750.00
+
+Dec. 31, 1979
+
+Isuzu Crosswind
+
+Isuzu Hi-Lander Crosswind XT Plate No. SGH-892
+
+705,080.00
+
+TMS Admin      December 31, 2002                             (OASAIL) Loan Basis to DND dtd January 26, 2018
+
+Total 
+
+7,067,232.00
+
+
+
+Grand Total 
+
+₱9,617,232.00
+
+
+
+
+
+3.3	Section 63 of P.D. 1445 states that except as otherwise be specifically provided by law or competent authority all moneys and property officially received by a public officer in any capacity or upon occasion must be accounted for as government funds and government property. Government property shall be taken up in the books of the agency concerned at acquisition cost or an appraised value.
+
+
+
+3.4	Also, Chapter 3 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume III provides that Motor Vehicles is used to recognize the cost incurred  in the purchase or assembly or fair value, if acquired through donation or transfers without cost, of motor vehicles for official use such as service vehicles (cars, buses, vans, motorcycles, and the like). Credit this account for derecognition of the carrying amount of  the replaced parts in major repairs, or disposal.
+
+
+
+3.5	As of June 30, 2020, the above motor vehicles were not recorded in the books but reflected in the Inventory report. Inquiry with the Accounting Section disclosed that the documents for the Mitsubishi Fuso and the three Battery Cars were submitted only in October 2020.
+
+
+
+3.6	As for the non-existent motor vehicles, the following deficiencies were noted:
+
+	
+
+--	The GA acquired five units of brand new Toyota Innova amounting to ₱6,085,000.00 from barter in 2019, which were delivered in November 2019 and  recorded in the books of the Agency as Motor Vehicles. However, we noted that the vehicles were not included in the Physical Inventory Report as of June 30, 2020 since reportedly these were already in the custody of the Department of  National Defense (DND).
+
+
+
+	Inquiry with the Management disclosed that these vehicles were donated to the DND, but not yet derecognized in the books since the deed of donation was still for signature, though already delivered to DND in December 2019.  Furthermore, as per Annual Audit Report (AAR) of the DND, these five vehicles were already in their custody and included in their Physical Inventory as of December 31, 2019. As stated in the AAR, the units were eventually recorded in the books of the DND.
+
+
+
+The GA Director, upon approval of the Secretary of National Defense, may barter or sell scrap items in accordance with E.O No. 888, s.1983, as amended. The barter and sale of scrap items shall be subject to the COA rules on the disposal of government properties and sale through public auction. The items acquired from barter shall be recorded or booked-up as government property while the proceeds from the sale shall accrue to the Revised AFP Modernization Act Trust Fund pursuant to Section 6 of R.A. No. 10349.  
+
+
+
+The equipment and vehicles provided in the contract to barter in exchange for the assorted brass scraps are presumably needed by the Agency which it could not  procure on its own due to budget constraints. Therefore, the same are not for donation to other government agencies. Furthermore, the National Government usually donates PPE  as a mode of disposal of property as described in the National Budget Circular (NBC) No. 425 dated January 28, 1992 which we quote:
+
+
+
+Property which can no longer be repaired or reconditioned; property whose maintenance cost/costs of repair more than outweighs the benefits and services that will be derived from its continued use; property that has become obsolete or outmoded because of changes in technology; serviceable property that has been rendered unnecessary due to change in the agency’s functions or mandate; unused supplies, materials and spare parts that were procured in excess of requirements; and unused supplies and materials that has become dangerous to use because of long storage or use of which is determined to be hazardous while the modes of disposal consist of condemnation/destruction of property, transfer of property, barter, donation of property which may be to charitable, scientific, educational or cultural institutions and sale of unserviceable Property.
+
+
+
+--	Other vehicles consisting of one unit Isuzu car, two units Fire truck, Hi-ace Commuter, Toyota Corona and Toyota Mini cruiser,  acquired from 1967 to 1987 and with accumulated net book value of ₱27,717.00, are no longer visible within the premises of the GA, thus, not included in the Inventory Report but still recorded in the books of accounts. Reportedly, the TMS has no knowledge of the whereabouts of these vehicles.
+
+
+
+--	The Isuzu Crosswind acquired in 2002 was already derecognized in the books upon donation to the Assistant Secretary for Acquisition Installations and Logistics (OASAIL), DND on September 24, 2019. This motor vehicle is still reflected in the Physical Inventory Report of the GA.
+
+
+
+b)	Erroneous recording of Other Machinery as Motor Vehicle and vice versa- ₱457,225.00 (net)
+
+
+
+3.7	Two Pumps, air operated gear oil lubricators acquired on November 18, 2008 with total net book value of ₱5,775.00 were recorded as Motor Vehicles instead of Other Machinery, while the Battery Car acquired in 2017 amounting to ₱463,000.00 was recorded as Other Machinery instead of Motor Vehicles.
+
+
+
+c)	Unserviceable Motor Vehicles- ₱122,733.95
+
+
+
+3.8	The Agency failed to dispose of the unserviceable motor vehicles which are beyond economic repair, thus, exposing them to further deterioration which could lead to further losses to the government from their diminished sale value. 
+
+
+
+3.9		The list of unserviceable vehicles is shown below:
+
+
+
+		Type of Vehicle
+
+		Plate No.
+
+		Date Acquired
+
+		Book Value
+
+1. Fire Truck (FMC R. Neck)
+
+			SBT-934
+
+		Dec. 31, 1983
+
+		₱84,107.95
+
+2.Toyota Corolla (1.5)
+
+			SJS-235
+
+		October 31, 1989
+
+		27,600.00
+
+3. Kia Besta Ambulance
+
+			SER-177
+
+		February 28, 1997
+
+		1.00
+
+4.Toyota Mini-Cruiser
+
+			SBN-757
+
+		Dec. 31, 1979
+
+		3,675.00
+
+5. Toyota Mini-Cruiser
+
+	SBN-717
+
+		Dec. 31, 1979
+
+		3,675.00
+
+6. Toyota Mini-Cruiser
+
+	SBN-759
+
+		Dec. 31, 1979
+
+		3,675.00
+
+Total 
+
+	
+
+		
+
+		₱122,733.95
+
+
+
+d)	Other lapses/deficiencies
+
+
+
+--	Uninsured Battery Cars and Unregistered/uninsured Fire Truck
+
+
+
+Motor Vehicle
+
+Description
+
+Amount
+
+Date Acquired
+
+Battery  Car
+
+Yamaha
+
+₱463,000.00
+
+November 15, 2017
+
+Battery Car
+
+Hitachi, Model Ecos, Battery Golf Kart
+
+305,000.00
+
+June 27, 2020  (Barter)
+
+Battery Car
+
+Hitachi, Model Ecos, Battery Golf Cart
+
+305,000.00
+
+June 27, 2020  (Barter)
+
+Battery Car
+
+Hitachi, Model Ecos, Battery Golf Cart
+
+305,000.00
+
+June 27, 2020  (Barter)
+
+Fire Truck
+
+Mitsubishi Fuso 4000 Liters Capacity Engine no. 8DC11504344 Chasis No. FU419N560016 Year Model: 2016 Make: Fuso
+
+3,795,000.00
+
+Barter
+
+October 27, 2017
+
+Total
+
+
+
+₱5,173,000.00
+
+
+
+3.10	Although the four Battery Cars are being used inside the Government Arsenal, there is still a need to insure the same to prevent financial losses on the part of the government due to possible accidents or damages. 
+
+
+
+3.11	As for the fire truck, inquiry with the Transportation and Maintenance Section (TMS) disclosed that the documents needed to insure and register the vehicle could not be located.
+
+
+
+3.12	Sections 5 and 4(c) of Republic Act (R.A.) No. 656 states that:
+
+
+
+Every government  is hereby required to insure its properties, with the Fund against any insurable risk herein provided and pay the premiums thereon, which, however, shall not exceed the premiums charged by private insurance companies: Provided, however, that the System reserves the right to disapprove the whole or a portion of the amount of insurance applied for: Provided, further, That such property or part thereof as may not be insurable or acceptable for insurance may be insured with any private insurance company.
+
+
+
+Property includes vessels and craft, motor vehicles, machineries, permanent buildings, properties stored therein, or in buildings rented by the Government, or properties in transit.    
+
+	
+
+	3.13		COA Circular No. 77-6C quotes an amendment of P.D. No. 1057, specifically paragraph m, which states that:
+
+	
+
+m) Government automobiles; Motor vehicles owned by the Government of the Philippines or any of its political sub-divisions and those belonging to the government owned and/ or controlled corporations shall be registered under the classification although the latter may under their respective charter pay registration fees. 
+
+	
+
+	3.14	Also, the Revised Motor Vehicle Law (Act No. 3992) as amended provides that No vehicle may be used or operated upon any public highway unless the same property is registered.
+
+	
+
+--	Most of the Agency’s motor vehicles were not marked “For Official Use Only” nor bear the name of the Agency.
+
+
+
+3.15	The Audit Team observed that the motor vehicles were not marked “For Official Use Only” on each side of the vehicles, thus, increasing their exposure to risk of unofficial use contrary to COA Circular No. 77-61 which provides that All motor vehicles owned by the government should be plainly marked, “For Official Use Only”(3 inches), under which should be written the corresponding  name of the Office operating or using the same. The mark should appear on each side of the motor vehicle. When there is no sufficient space on each side, the same should appear at the back and on the front just below the windshield of the motor vehicles.
+
+--	Two  Motor Vehicles bear private plates
+
+
+
+3.16	One Mitsubishi L200 with Plate Number XBC-914 and Daewoo Bus with Plate No. AMA 7921 did not bear government plates contrary to COA Circular No. 77-61 which provides that All government motor vehicles shall bear government plates only, except security vehicles exempt from using government plates.
+
+
+
+3.17 	We recommended and Management agreed to:
+
+
+
+a)	require the Property and  the Accounting Sections to closely coordinate for the timely recording in the books of acquisitions and disposal/donations of motor vehicles;
+
+
+
+b)	refrain from transferring custody of motor vehicles to the intended donee until a duly signed deed of donation is executed;
+
+
+
+c)	refrain from donating brand new motor vehicles from barter since the agency entered into a barter arrangement supposedly to acquire its needed items from the proceeds thereof while donation to another agency is more apt as a disposal mode for unserviceable items;
+
+
+
+d)	require the Accounting Section to reclassify the motor vehicles erroneously recorded as other machineries and vice versa;
+
+
+
+e)	dispose of the unserviceable vehicles in accordance with the prescribed rules and regulations to avoid loss to the government due to further deterioration; and
+
+
+
+f)	require the Transportation and Management Section to (i) insure the fire truck with the GSIS property insurance; and (ii) cause the marking of “For Official  Use Only” and the name of the agency on each side of the vehicle  and the  use of government plates for control purposes.
+
+
+
+3.18	The audit recommendations were partially complied with as of November 19, 2020. The Accounting Section prepared adjusting entries to book up the motor vehicles acquired through barter, derecognized motor vehicles already donated or disposed of and reclassified motor vehicles erroneously recorded as other machineries and vice versa. On the other hand, the Property Management Section (PMS) revised the physical inventory report to remove the donated motor vehicle. The PMS disclosed that upon inquiry from the GSIS, the four battery cars located and used inside the Government Arsenal were not required to be insured. The Audit Team stated that the four battery cars totaling ₱1,378,000.00 should be insured, but since the GSIS said otherwise, the Management should be ready to shoulder the financial losses that may be incurred thru accidents or damages. The Audit Team reiterated and Management admitted that the donation of brand new vehicles acquired through barter was inappropriate considering the conditions governing the disposal of government property.
+
+
+
+
+
+Non-recogntion as asset of overhead tank and accumulated major repairs- ₱6,819,569.56
+
+
+
+2)	The construction of an overhead tank at ₱5,546,830.01 and accumulated major repairs on various structures aggregating to ₱1,272,739.55 were not recognized as assets, inconsistent with the Asset Recognition Policy prescribed in the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I; thus, understating the Property, Plant and Equipment (PPE)-Buildings and Other Structures account by ₱6,819,569.56.
+
+
+
+4.1     Sections 8 and 25, Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, state that:
+
+
+
+Section 8
+
+	g. 	Construction of PPE. During the construction period, all expenses incurred in relation to the construction of the PPE shall be taken up in the books as Construction in Progress (CIP) with the appropriate asset classification. As soon as the construction is completed, the “Construction in Progress” account shall be reclassified to the proper asset account. Likewise, all expenses such as interests, license fees, etc. during the construction period shall be capitalized.
+
+
+
+Section 25
+
+An entity shall capitalize the costs incurred for repair, betterment, enhancement, expansion or upgrade of existing PPE if the amount is material and:
+
+
+
+a)		where the expenditure results in an effective increase in the future economic benefits or service potential that is expected to be derived from using the asset and the increase in future economic benefits or service potential will be realized;
+
+
+
+b)		there has been an effective increase in the quality of the services provided by the asset beyond that previously determined; or
+
+
+
+c)		there has been an effective extension to the asset’s useful life as a result of  the  expenditure.
+
+
+
+4.2	In calendar  year 2019, the Agency procured through open competitive bidding the construction of an overhead tank under ITB No.GA-BAC-2019-IP-01 with approved budget for the contract (ABC) of ₱5,567,515.00. RTDJR Construction and Supply was declared as the winning bidder, and subsequently entered into a contract with the Government Arsenal under Job Order No. 09-2019 amounting to ₱5,546,830.01.
+
+
+
+4.3	Scrutiny of  the disbursement records showed that during the same year, the contractor claimed an initial progress billing equivalent to 50.68% partial completion of the overhead tank in the amount of ₱2,773,415.01. We noted that the same was charged to Repairs and Maintenance-Buildings and Other Structures account as per JEV No. 2019-12-004407 dated December 16, 2019. Further audit of the project in the subsequent year disclosed that the final payment was released in January 2020 for 100% project completion in the amount of ₱2,773,415.00 as evidenced by JEV No. 2020-01-000191 dated January 16, 2020. Again, the transaction was entered in the books of accounts as Repairs and Maintenance-Buildings and Other Structures. The foregoing practice is a departure from the Asset Recognition Policy described in Section 8 of GAM for NGAs, Volume I.
+
+
+
+4.4	Following that policy, the progress payments should have been capitalized and recorded under the Construction in Progress (CIP)-Buildings and Other Structures account. Upon full completion and acceptance of the project, the CIP account shall be closed and the cost of the project shall be transferred to the Property, Plant and Equipment (PPE)-Buildings and Other Structures account. 
+
+
+
+4.5	As a result of that erroneous accounting policy, the Accumulated Surplus (Deficit) and the PPE-Buildings and Structures accounts were both understated by a sum of ₱5,546,830.01 as at December 31, 2020. 
+
+
+
+4.6	The Audit Team also observed that various construction materials totaling ₱1,272,739.55 issued to different projects were treated as expenses, specifically Repairs and Maintenance- Buildings and Other Structures as itemized below:
+
+
+
+DATE 
+
+PARTICULARS
+
+REPAIR COST
+
+COST of PPE
+
+NET BOOK VALUE
+
+1/31/2020
+
+Re-roofing of  Powder Magazine Room (Selda 13-1)
+
+₱122,291.03
+
+₱351,906.00
+
+₱35,190.04
+
+6/30/2020
+
+Re-roofing of Administration
+
+482,971.88
+
+2,713,743.62
+
+314,300.38
+
+6/30/2020
+
+Re-roofing of SBO
+
+213,150.00
+
+3,873.00
+
+383.70
+
+6/30/2020
+
+Repair of Magazine #1 Storage Room
+
+348,451.25
+
+38,083.84
+
+3,808.38
+
+6/30/2020
+
+Repair of  Warehouse #6
+
+105,875.39
+
+177,942.15
+
+17,794.21
+
+
+
+TOTAL
+
+₱1,272,739.55
+
+₱3,285,548.61
+
+₱371,476.71
+
+
+
+4.7	As per analysis, the other structures subject of repair were already fully depreciated; hence, any major repairs or improvements made will extend the assets’ estimated useful lives. Applying Section 25 of the same Manual, the CIP account should have been taken up upon issuance of the construction materials, and subsequently reclassified to the appropriate Buildings and Other Structures account upon completion.
+
+
+
+4.8	Moreover, Section 46, supra, states that Issuances of inventories shall be recognized as a debit to “Construction in Progress” and a credit to “Construction Materials Inventory.
+
+
+
+4.9	Consequently, the Repairs and Maintenance Expense-Buildings and Other Structures account was overstated by ₱1,272,739.55 while the Buildings and Other Structures account was understated by the same amount.
+
+
+
+	1)		We recommended that Management require the Chief Accountant to:
+
+
+
+a)	adhere strictly to the pertinent Sections of the GAM on the accounting for Property, Plant and Equipment, particularly the proper recognition of construction costs  as assets  while the projects are in progress; 
+
+
+
+b)	record Construction in Progress and Accounts Payable upon receipt of progress billing from the contractor to reflect all costs already incurred within a specified construction period based on the Accrual Basis of accounting; 
+
+
+
+c)	allocate the costs of major repairs over the remaining or extended useful life of the related PPE; and 
+
+
+
+d)	prepare the necessary adjusting entries to correct the misstatements in the accounts Buildings and Other Structures and Accumulated Surplus (Deficit) due to failure to treat as asset the cost of Overhead Tank and various construction materials issued aggregating to ₱6,819,569.56 in CYs 2019 and 2020. 
+
+
+
+4.11	The Management committed to prepare adjusting entries for the overhead tank and major repairs erroneously charged to Expenses. Nevertheless, they reasoned out that capitalization to the carrying amount of the original PPE cannot be done due to the limitation of the e-NGAS. For the meantime, they are creating another PPE number next to the reference assigned to the original PPE. The Management mentioned that they will be communicating the matter to the COA Central Office for proper resolution.The Audit Team advised the Management to consistently follow up their query/concern with the COA Central Office because this issue may also be the concern of other agencies adopting e-NGAS.
+
+
+
+
+
+Unreliable balance of Deposit on Letters of Credit – ₱516,933,079.92
+
+
+
+5.     The accuracy and validity of the items comprising the Deposit on Letters of Credit (DLC) account amounting to ₱516,933,079.92 as at year-end were doubtful due to (a) presence of DLCs of ₱8,314,771.06 not reflected in the bank balance; (b) existence of dormant accounts, aged five to six years, amounting to ₱1,523,206.66; and (c) inclusion of  fully negotiated/utilized DLCs in the sum  of ₱5,048,746.06, thus, affecting the fair presentation of the Financial Statements contrary to Section 15, Chapter 1 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I. Furthermore, the foregoing lapses are inconsistent with the transitory provisions in Item 5.2 of  Treasury Circular No. 3-2019 dated May 10, 2019.
+
+
+
+5.1	Treasury Circular No. 3-2019 dated May 10, 2019 provides the following rules and regulations governing the issuance of Letters of Credit (LCs) in government transactions:
+
+
+
+	1.3 There are national agencies (NGAs) that in the performance of their mandates procure goods and services in other countries and make use of a letter of credit (LC). An LC is a document issued by a bank to guarantee, on behalf of the procuring NGA or buyer timely payment to the seller or exporter against the receipt of complying stipulated documents. The use of LC 	is common in international trade to provide the seller or supplier protection through the payment guarantee from banks by buyers.
+
+
+
+	4.7 NGAs shall be responsible in closing outstanding amount of LC if goods/ services are already fully delivered/rendered. In addition, GSB shall recommend closure of LC outstanding for goods/services already delivered/rendered based on documents submitted by the NGAs.
+
+
+
+	5.2 Concerned NGAs shall be required to review their outstanding LCs and revert any balances for those LC already fully delivered, those without movement or activities and those that are no longer valid. Review and action to be taken shall be done within one (1) month after issuance of this Circular. In addition, GSB shall recommend closure of those outstanding LC with order fully delivered/paid based on documents submitted by the NGAs.
+
+
+
+5.2	Section 15, Chapter 1 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I prescribes that:
+
+
+
+The FSs shall present fairly the financial position, financial performance and cash flows of an entity. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with definitions and recognition criteria for assets, liabilities, revenues, and expenses set out in PPSAS. The application of PPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.
+
+
+
+5.3	The Schedule of the Deposits on Letters of Credits as of December 31, 2020 provided by the Agency showed a balance of  ₱516,933,079.92 composed of the following:
+
+
+
+FUND
+
+AMOUNT
+
+Regular Fund
+
+		₱ 348,910,561.79
+
+Special Account-Modernization Fund
+
+		167,476,400.00
+
+Trust Receipt
+
+		546,118.13
+
+Total
+
+		₱ 516,933,079.92
+
+
+
+5.4	Verification of the account disclosed the following deficiencies:
+
+
+
+a)	DLCs forming part of the year-end balance but not reflected in the  Bank Balance-₱8,314,771.06
+
+
+
+5.5	Confirmation letters were sent by the Audit Team to verify/reconcile the balances of various DLCs of the Agency maintained at the United Coconut Planters Bank (UCPB), Land Bank of the Philippines (LBP) and Development Bank of the Philippines (DBP) as at August 31, 2020. Based on the responses received from the LBP and UCPB, we gathered that two recorded DLCs were already inexistent such as LC No. 19903010-00-1H0190913FLC380 and LC No.19903010-00-FX56202013003968 amounting to ₱628,051.06 and ₱7,686,720.00, respectively.
+
+
+
+5.6	LC No.19903010-00-FX56202013003968 was opened with UCPB on October 16, 2013 as per PO No. 2013-135 for the account of a certain Milan Blagojevic-Namenska AD, supplier of propellant powder. The remarks of the Accounting Section in the Schedule of DLCs as of December 31, 2020 showed that the amount of ₱7,686,720.00 pertained to liquidated damages with pending request for withdrawal from the UCPB.
+
+
+
+5.7	On the other hand, LC No.19903010-00-1H0190913FLC380 amounting to ₱628,051.06 was opened earlier with LBP on September 19, 2013 as evidenced by PO No. 2013-134. The latter was issued to guarantee the purchase of 344 MT metals by the GA from Poongsan Corporation. The Schedule of DLCs submitted as of December 31, 2020 has a remark that there was a remaining balance for the same amount due to the shortage in delivery in which a request for withdrawal was already filed with the  LBP.
+
+
+
+5.8	The Banks’ confirmation replies paved the way for the Agency Accountant to verify the current status of the DLCs. Based on the email from the UCPB, she was informed that the DLC was transferred to a different account maintained in the same bank under the name of the Government Arsenal. She insisted that they have no existing account in UCPB other than the DLCs. According to her, they will continue to coordinate with UCPB regarding the matter. As far as the LBP is concerned, the Agency had already instructed the Bank to provide a Manager’s Check (MC) for the withdrawal of the DLC. The LBP replied that they still need to trace pertinent documents before the issuance of the MC since the account was opened seven years ago.  As of this writing, it is not clear on whether the Agency can claim the unused balance of the DLCs from the two banks.
+
+
+
+b)	Dormant balances -₱1,523,206.66
+
+
+
+5.9	Review of the documents revealed that DLCs aggregating to ₱1,523,206.66 remained dormant and outstanding from five to six years, the breakdown of which is shown hereunder:
+
+
+
+		Date
+
+		Supplier
+
+		Outstanding Balance
+
+		Age
+
+		GENERAL FUND
+
+		9/9/2015
+
+		Poongsan Corporation- 528MT metals
+
+		₱1,211,575.80
+
+		5 years
+
+		6/4/2015
+
+		Prototypa-ZM Ballistic Equipment
+
+		45,592.74
+
+		5 years
+
+		4/11/2015
+
+		Poongsan Corporation
+
+		215,988.12
+
+		5 years
+
+		Sub-Total
+
+		1,473,156.66
+
+		
+
+		TRUST FUND
+
+		31/10/2014
+
+		Rheinmetall Denel Munition 46MT Powder
+
+		37,482.95
+
+		6 years
+
+		31/3/2015
+
+		Yung Sung Ind. Phil. 46.5MT Lead wire
+
+		12,567.05
+
+		
+
+		5 years
+
+		Sub-Total
+
+		50,050.00
+
+		
+
+		TOTAL
+
+		₱1,523,206.66
+
+		
+
+
+
+5.10	During the interview, the Chief Accountant disclosed that the amounts were carried 
+
+over from prior years’ balances. We were informed that all DLCs were opened in UCPB, and negotiation is underway for the full withdrawal and closure of the account. Reportedly, the DLCs have become dormant due to late and shortage in deliveries by the suppliers concerned. So, the balances constitute unwithdrawn liquidated damages in favor of the GA. Once returned by the Bank, the amount shall be remitted to the Bureau of Treasury (BT).
+
+
+
+c)	Fully negotiated/utilized  DLCs- ₱5,048,746.06
+
+
+
+5.11	As of December 31, 2020, .98% of the account balance of the total DLCs were already fully negotiated totaling to ₱5,048,746.06, accounted for as follows:
+
+
+
+Date
+
+LC No.
+
+Supplier
+
+Outstanding Balance
+
+UCPB
+
+
+
+
+
+
+
+9/20/2017
+
+19903010-009090192817002972
+
+CompaniaBrasileria De Cartuchosof Brazil
+
+₱6,556.00
+
+6/1/2017
+
+19903010-00-9090192817001404
+
+CompaniaBrasileria De Cartuchos of Brazil
+
+901,272.00
+
+3/15/2016
+
+19903010-00-9090192816001041
+
+CompaniaBrasileria De Cartuchos of Brazil
+
+93,360.00
+
+12/11/2018
+
+19903010-00-9090192818002831
+
+Poongsan Corporation
+
+215,059.17
+
+7/19/2019
+
+19903010-00-9090192819001501
+
+Poongsan Corporation
+
+305,422.57
+
+3/05/2018
+
+19903010-00-90901928118000538
+
+Prototypa-ZM s.r.o.
+
+837,760.00
+
+4/10/2017
+
+19903010-00-9090192817000901
+
+Prototypa-ZM s.r.o.
+
+124,021.62
+
+8/13/2019
+
+19903010-009090192819001576
+
+Rheinmetall Denel Munition
+
+346,199.71
+
+5/31/2018
+
+19903010-009090192818001395
+
+Rheinmetall Denel Munition
+
+61,770.62
+
+7/27/2017
+
+19903010-009090192817002303
+
+CompaniaBrasileria De Cartuchos of Brazil
+
+1,391.53
+
+2/27/2018
+
+19903010-00909019281800470
+
+CompaniaBrasileria De Cartuchos of Brazil
+
+367,601.60
+
+Sub-total
+
+
+
+
+
+₱3,260,414.82
+
+LBP
+
+
+
+
+
+
+
+3/13/2019
+
+19903010-00-1H0131319DLCS984
+
+GECAR Machine Solutions, Inc. 
+
+₱906,360.00
+
+3/16/2020
+
+19903010-00-1HO16032OFLCS446
+
+Poongsan Corporation
+
+211,262.74
+
+10/2/2019
+
+19903010-00-1HO02109FLCS246
+
+Prototypa-ZM s.r.o.
+
+543,633.50
+
+3/28/2019
+
+19903010-00-1HO030419DLCS004
+
+GECAR Machine Solutions, Inc.
+
+127,075.00
+
+Sub-total
+
+
+
+
+
+₱1,788,331.24
+
+Grand total
+
+
+
+
+
+₱5,048,746.06
+
+
+
+5.12	As compared to the previous year, the amount was smaller by ₱1,135,726,517.70.  We commended management for the efforts exerted in the reversion of the dormant DLCs account.
+
+
+
+
+
+5.13	As to the residual amount, the Audit Team noted that the same consisted of liquidated damages that should have been remitted to the BTR as of to date. We were assured by the Accountant that a partial remittance of ₱1,033,435.00 will be made to the BTR on or before the end of January 2021.
+
+
+
+5.14	As observed, the non-adjustment and/or withdrawal of the fully negotiated/delivered and dormant DLCs resulted in the unreliable balance of the Deposit of Letters of Credit, thus, affecting the fairness of presentation of the account in the year-end financial statements. Moreover, the foregoing lapses are inconsistent with the transitory provisions as per Item 5.2 of Treasury Circular No. 3-2019 dated May 10, 2019.
+
+
+
+5.15	We recommended and Management agreed to instruct the: 
+
+
+
+(a) 	Accounting Section to reconcile and make a formal inquiry from the bank concerned regarding the unrecorded/non-existent DLCs; and
+
+
+
+(b) 	Planning and Logistics  Division and Accounting Section to (i) continuously coordinate in the immediate review of  the outstanding LCs; (ii) verify the applications of payment; (iii) cause the reversion of  any balances for those LCs already fully delivered/negotiated, without movement or activities, and those that are no longer valid in compliance with Treasury Circular No. 3-2019 dated May 10, 2019;and (iv) effect the necessary adjustments in the books, as applicable for the recorded balances of the Deposit on Letters of Credit account once their status are confirmed with the Banks concerned.
+
+
+
+5.16	To avoid or at least reduce the recurrence of dormant DLC, the Management disclosed that they will institute additional controls such as inclusion in the advice of final payment an instruction to concerned banks to immediately issue Manager’s Check in favor of the BOT. The Management also mentioned that LBP already issued the required MC. On the other hand, UCPB transferred ₱7,686,720.00 to a different account without prior notice from the GA; thus, verification of the transfer is ongoing.
+
+
+
+5.17	It is worthy to mention that management has made a partial reversion of the dormant DLCs account to the National Treasury. Meanwhile, it is expected that GA will undertake strict monitoring of the remaining DLCs, especially the amount of ₱7,686,720.00 transferred by the UCPB to a different account of the GA, for control purposes.
+
+
+
+
+
+Unreliable Other Receivables- ₱89,036,236.59
+
+
+
+6.     The correctness and validity of the items comprising the Other Receivables account amounting to ₱89,036,236.59 were uncertain due to (a) failure of the Comptroller Division to substantiate with details the transactions and balances of accounts totaling to ₱23,865.47; (b) inadequate provision for impairment on dormant receivables of ₱129,597.12; (c) doubtful collectability of receivables arising from sale of scrap materials through barter in the sum of ₱88,882,774.00 owing to absence of a stipulation on the schedule of settlement/delivery, inconsistent with Section 111 of Presidential Decree (P.D.) No. 1445, COA Circular No. 2016-005 dated December 19, 2016, pertinent provisions of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I,  and Section 6 of the Contract to Barter.
+
+	
+
+1)	
+
+6.1	Review of the Other Receivables account disclosed the following observations:
+
+
+
+a)	Dormant Accounts aged 15 to 17 years -₱129,597.12
+
+
+
+6.2	COA Circular No. 2016-005 dated December 19, 2016 defines Dormant Receivable Accounts as those accounts which balances remained inactive or non-moving in the books of accounts for ten (10) years or more and where settlement/collectability could no longer be ascertained. This Circular is issued to prescribe the guidelines and procedures in reconciling and cleaning the books of accounts of NGAs, LGUs, and GOCCs of dormant receivable accounts, unliquidated cash advances, and fund transfers for fair presentation of accounts in the Financial Statements.
+
+
+
+6.3		Item 6 of the Circular also provides that:
+
+
+
+6.1 All government entities shall conduct regular monitoring and analysis of receivable accounts to ensure that these are collected when these become due and demandable and that cash advances and fund transfers are liquidated within the prescribed period depending upon their nature and purpose; and 
+
+
+
+6.2 All government entities shall prepare the schedule of all receivables, unliquidated cash advances, and fund transfers as of December 31, 2015 and quarterly thereafter.
+
+
+
+6.4	Verification showed that as of December 21, 2020, the account Other Receivables had a book balance of ₱89,036,236.59, out of which a sum of ₱129,597.12 (Appendix D) was recognized from the year 2003 to 2005, hence, outstanding for almost 15 to 17 years. The amount consists of various collectibles of the Government Arsenal (GA) in the form of (a) consumed utilities of former employees, re-assigned military personnel and retired employees who were authorized to reside within the GA compound; and (b) cost of testing suppliers’ deliveries of cartridges that GA failed to send the bills.
+
+
+
+6.5	Interview with the incumbent Accountant disclosed that they have no knowledge of the whereabouts of the re-assigned personnel, former employees and previous suppliers concerned since pertinent records on their identity, personal information, and addresses are not available. She added that the unaccounted amount was part of the beginning balances used in the installation of the New Government Accounting System (e-NGAS) in CY 2005; thus, the retrieval of records is quite difficult now.
+
+
+
+6.6 	Given that state of records, the Audit Team noted that the provision for the allowance for impairment was inadequate at ₱6,992.13 which is only 5.40% of the total dormant receivables of ₱129,597.12. 
+
+
+
+6.7	Section 10, Chapter 7 of Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, provides that In case of Accounts Receivable, the allowance for Impairment shall be provided in an amount based on collectability of receivable balances and evaluation of such factors as aging of accounts, collection experiences of the agency, expected loss experiences and identified doubtful accounts.
+
+
+
+6.8	In view of the existence of dormant and unsubstantiated receivables in the books of accounts, both the Assets and Equity accounts are overstated, which ultimately affected the fair presentation of the Financial Statements.
+
+
+
+b)	Increasing uncollected receivables aged five years and below-₱23,865.47
+
+
+
+6.9	Section 111 of Presidential Decree (P.D.) No. 1445 provides that the accounts of an agency shall be kept in such detail as necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the Government.  
+
+
+
+6.10	Based on the aging analysis, the Audit Team observed that receivables with age of less than five years amounting to ₱23,865.47 pertained to the unpaid utilities of retired employees, re-assigned military and active establishments within the Agency.  As for the retired and re-assigned military personnel, these were not collected during their stay in the agency and prior to the issuance of their clearances and payment of last salary which indicated lapses in the collection procedures. As for the establishments operating within the premises of the Agency, we noted that monthly billing and collection of their accounts were not enforced. Consequently, the Other Receivables account balance has accumulated through the years.
+
+
+
+c)	Uncollected receivables for scrap materials exchanged thru barter- ₱88,882,774.00
+
+
+
+6.11	Section 7, Chapter 5, Volume 1 of the afore-cited Manual states that:
+
+
+
+Section 7.Recognition and Measurement of Revenue from Exchange Transactions.  Revenue from exchange transaction shall be measured at fair value of the consideration received or receivable.
+
+
+
+a)	Revenue shall be recognized when it is probable that the future economic benefits or service potential will flow to the entity and these benefits can be measured reliably.
+
+
+
+1)	Revenue from the sale of goods shall be recognized when all the following conditions have been satisfied:
+
+
+
+i)	The entity transferred to the purchaser the significant risks and rewards of ownership of the goods; (Par.28, PPSAS 9)
+
+ii)	The entity retains neither continuing managerial involvement to the degree usually associated with ownership nor effective control over the goods sold;
+
+iii)	The amount of revenue can be measured reliably;
+
+iv)	It is probable that the economic benefits or service potential associated with the transaction will flow to the entity; and 
+
+v)	The costs incurred or to be incurred in respect of the transaction can be measured reliably.
+
+
+
+Moreover, Section 8, supra, prescribes the following accounting policies in case of exchange of dissimilar goods:
+
+
+
+Sec.8.  Exchange of Goods or Services for Similar/Dissimilar Goods or Services. When goods and services are exchanged or swapped for goods or services which are of a similar nature and value, the exchange is not regarded as a transaction which generates revenue. However, when goods are sold or services are rendered in exchange for dissimilar goods or services, the exchange is regarded as a transaction which generates revenue. The revenue is measured at the fair value of the goods or services received, adjusted by the amount of any cash or cash equivalent transferred. When the fair value of the goods or services received cannot be measured reliably, the revenue is measured at the fair value of the goods given up, adjusted by the amount of any cash or cash equivalent transferred. (Par.17, PPSAS 9)
+
+
+
+6.12	Under the Special Provision No. 2 of the General Appropriations Act (GAA), FY 2020 for Government Arsenal, it was ruled that The Director of the GA, upon approval of the Secretary of National Defense, may barter or sell scrap items in accordance with E.O. No. 888, s. 1983, as amended. The barter and sale of scrap items shall be subject to the COA rules on the disposal of government properties and sale through public auction. The items acquired from barter shall be recorded or booked-up as government property while proceeds from the sale shall accrue to the Revised AFP Modernization Act Trust Fund pursuant to Section 6 of R.A. No. 10349.
+
+
+
+6.13	On September 11, 2019, the GA (first party) entered into a Contract to Barter a total of 641,556.58 kilograms of assorted metallic scraps with the highest bidder Kayalar Bakir Alasimlari San Ve. TIC. A.S., as the second party. The agreed price was  ₱129,656,310.00 which shall be delivered to the  GA in the form of equipment and machinery.  Section 3 of the contract provides that The second party shall procure the above mentioned equipment/vehicle and deliver the same at the first party’s office address. For purposes of after-sales service, enforcement of warranties and other allied services, the equipment to be bought and delivered shall be in the name of or consigned to the first party. For the hard-to-procure items, the parties shall execute an escrow account agreement with the Land Bank of the Philippines, being a government depository bank.
+
+
+
+6.14	For the easy-to-procure items, the respective Equipment/Machinery accounts were recognized outright upon delivery with the corresponding credit to the Miscellaneous Income account.
+
+
+
+6.15	Meanwhile, under the Escrow Agreement, the parties were required to open an escrow account (High Yield Savings account)under the name of DND-Government Arsenal and Kayalar Bakir Alasimlari in the sum of ₱110,291,000.00 for the acquisition of hard-to-procure equipment. The parties agreed to make an initial deposit of ₱97,563,569.00 plus an additional amount of ₱360,000.00 to cover the escrow agency fee for the first year of the agreement.  Payments to contracted suppliers for the hard-to-procure equipment shall be drawn against the escrow account thru the LBP which shall serve as the escrow agent. The remaining balance of ₱12,727,430.00 shall be delivered by the first party (DND-GA) without prior notice from the escrow agent pursuant to Section 1.3 of the Escrow Agreement. 
+
+
+
+6.16	To recognize the deposits made by the contracting parties to the escrow account, the Accounting Section debited the Other Receivables account and credited Miscellaneous Income totaling to ₱110,291,000.00 under Journal Entry Voucher (JEV) Nos. 2019-11-4690 and 2020-08-2629 dated November 4, 2019 and August 3, 2020, respectively. 
+
+
+
+6.17	During the year, a total of ₱21,408,226.00 worth of various equipment/machinery  had already been utilized out of the escrow account. Upon disbursement and delivery thereof, the appropriate Property, Plant and Equipment accounts were debited while Other Receivables account was credited. 
+
+
+
+6.18	As of December 31, 2020, the Other Receivables account had a balance of ₱88,882,774.00.
+
+
+
+6.19	Nevertheless, we noted that the Contract to Barter and the Escrow Agreement did not specify or fix the duration or time frame as to when to deliver the equipment/vehicle being exchanged by the second party. On the other hand, records showed that the GA had fully released the inventory of scrap items to Kayalar Bakir Alasimlari on March 11, 2020.
+
+
+
+6.20	Pursuant to Section 6 of the Contract, the GA has the right to rescind the contract any time should the interest of the Government so demands.  However, except for the foregoing, the contract did not contain a penalty clause in case of default by any of the parties. 
+
+
+
+6.21	In the absence of a stipulation in the contract on the terms of delivery and duration, we rendered doubt on the certainty of collection/settlement of the recorded receivables as of year-end.
+
+
+
+6.22	We recommended and Management agreed to undertake the following remedial measures:
+
+
+
+a)	direct the Chief Accountant to exhaust all remedies to determine the details and collectability of the Other Receivables account and exert more diligent effort to collect them. Otherwise, make a request to the Commission on Audit (COA) thru the Office of the Audit Team Leader for the de-recognition/write-off of the dormant, non-moving accounts following the procedures and requirements provided in COA Circular No. 2016-005;
+
+
+
+b)	establish stricter policies on the collection of accounts, especially on the unpaid utilities of employees using the GA facilities to avoid the accumulation of uncollected Receivables;
+
+
+
+c)	work out for the supplementary provision to the Contract to Barter stating the specific duration or timeframe for the delivery of the bartered items to protect the interest of the government; and
+
+
+
+d)	require the immediate delivery of the goods exchanged by the second party under the Barter System. In case of continual non-delivery, enforce the necessary sanction as provided for under Section 6 of the Contract to Barter.
+
+
+
+6.23	During the Exit Conference, the Management disclosed that they are drafting request for authority to write-off dormant accounts since their recovery is uncertain. They asked the Audit Team if ‘Certification that a corporation/debtor was not found in the SEC website’ is acceptable. The Management added that last delivery of hard to procure items is expected by the end of March 2021. The Audit Team stated that all documents pertaining to request for authority to write-off dormant accounts will be verified and reviewed in accordance with COA Circular No. 2016-005 dated December 19, 2016. The Audit Team reiterated the importance of supplementary provision to Contract to Barter with regards to the duration of delivery to protect the interest of the government.
+
+
+
+
+
+Deficiencies in the Procurement of Medicines- ₱569,197.00
+
+
+
+7.     Due to weaknesses in internal control, it has been the customary practice of management to approve disbursements even without complete documentary requirements and benefit of proper procurement process, as exemplified in the purchase of medicines worth ₱569,197.00, inconsistent with the pertinent Sections of the Revised Implementing Rules and Regulations(RIRR) of Republic Act (R.A.) No. 9184,R.A. No. 9502 or the Universally Accessibility Cheaper and Quality Medicines Act of 2008, and Administrative Order No. 2016-0034;thus, the principles of transparency and accountability in government transactions were compromised. Likewise, the validity and propriety of the disbursement were uncertain.
+
+
+
+a)	Absence of transparency in the different stages of procurement 
+
+
+
+7.1	The Revised Implementing Rules and Regulations (RIRR) of the Republic Act (R.A.) No. 9184 prescribes the following rules and regulations to promote transparency and accountability in the procurement of goods and services in the government. 
+
+
+
+
+
+Reference
+
+Specific Provisions
+
+Section 22.4
+
+The minutes of the pre-bid conference shall be recorded and prepared not later than five (5) calendar days after the pre-bid conference, and shall be made available to prospective bidders not later than five (5) days upon written request.
+
+Section 37.1.6
+
+The BAC, through the Secretariat, shall post, within three (3)calendar days from its issuance, the Notice of Award in the PhilGEPS, the website of the Procuring Entity, if any, and any conspicuous place in the premises of the Procuring Entity. 
+
+Section 37.2.1
+
+The winning bidder shall post the required Performance Security and enter into contract with the Procuring Entity within ten (10) calendar days from receipt by the winning bidder of the Notice of Award.
+
+Section 37.4.2
+
+The Procuring Entity, through the BAC Secretariat, shall post a copy of the Notice to Proceed and the approved contract in the PhilGEPS and the website of the Procuring Entity, if any, within fifteen (15) calendar days from the issuance of the Notice to Proceed.
+
+
+
+7.2	Vouching and verification of the procurement of medicines in the amount of ₱569,197.00 showed deviations from the afore-cited rules and regulations; viz:
+
+
+
+a)	No Certification from Head of BAC Secretariat on the posting of the following:
+
+--	Invitation to Bid
+
+--	Supplemental/Bid Bulletin
+
+--	Notice of Award (NOA)
+
+
+
+b)	No printout copies evidencing the posting to PhilGEPS of the following:
+
+--	Bidding documents
+
+--	Supplemental Bid Bulletin
+
+
+
+c)	Bid Evaluation Sheet was not attached to the DV.
+
+
+
+d)	The Notice of Award and the approved contract were not posted in the Agency website contrary to Sections 37.1.6 and 37.4.2 of the Act.
+
+
+
+e)	The Contract of Agreement was prepared within 24 cd instead of the prescribed period of ten cd upon receipt of the Notice of Award which is inconsistent with Section 37.2.1.
+
+
+
+f)	The Minutes of Pre-bid Conference bore no dates so it was not determined if the same was prepared not later than five calendar days after the pre-bid conference pursuant to Section 22.4.
+
+
+
+		
+
+b)	Huge discrepancy in prices vis-à-vis the ceiling per Drug Price Reference Index
+
+
+
+7.3	Republic Act (R.A.) No. 9502 or the Universally Accessible Cheaper and Quality Medicines Act of 2008 gave the Department of Health(DOH) instruments to monitor and regulate the prices of drugs and medicines to protect consumers and public procuring entities from excessive mark-ups applied on	 medicines resulting from information asymmetry and the lack of effective market competition.
+
+
+
+7.4	To address the issues, the DOH Pharmaceutical Division established a Drug Price Reference Index (DPRI) for all essential medicines to guide all national and local government health facilities in the efficient sourcing of pharmaceutical products in the public sector.
+
+
+
+7.5	The DPRI lists the ceiling prices of essential medicines for government bidding and procurement set by DOH for all National and Local Government Health Facilities and Government Agencies. Winning bid prices of essential medicines within the DPRI ceiling reflect efficient and effective procurement in the government. Their transparency and enforcement ensure consumer access to medicines and protection from excessive price mark-ups on medicines.
+
+
+
+7.6	All government entities should be guided by the DPRI when procuring medicines. It shall be applied to all forms of procurement such as public bidding, direct contracting, shopping, negotiated procurement, emergency procurement and consignment to ensure that the government achieves the best value for money in sourcing essential medicines. 
+
+
+
+7.7	The Audit Team observed that the Approved Budget for the Contract (ABC) for the medicines was higher than the Drug Price Reference Index. The DPRI provides the ceiling prices used for government bidding. Based on the validation undertaken by the Audit Team, we noted that the unit prices of the medicines procured exceeded the ceiling prices indicated in the DPRI 2019 7th edition, resulting in a huge discrepancy of  ₱204,854.93. (Appendix E)
+
+
+
+c)	Some medicines procured not listed in the PNF Manual
+
+
+
+7.8	Item V, Letter l of the Department of Health Administrative Order (DOH A.O.) No. 2016-0034 states that Only medicines listed in the 	 Manual shall be procured by all government entities in accordance with Executive Order (E.O.) No.49 s. 1993. xxx
+
+
+
+7.9	Under Letter D, Item 8 of the same AO, it was explained that pursuant to the aforementioned E.O. requests will be considered provided that the medicine/s proposed for exemption meets all the criteria for exemption. There shall also be a simultaneous application filed by the proponent for inclusion of the medicine/s in the PNF.
+
+
+
+7.10	Review of the medicines procured disclosed that seven items amounting to ₱55,950.00 (Appendix E) were not included in the PNF Manual. No written request for the exemption was evident upon verification of the Disbursement Voucher(DV).  The attachments to the DV did not also include the signed certification of the requisitioning officer that the drug products, subject of procurement, fall within and conform to the Manual as required.
+
+
+
+d)		Payment not supported with official receipt
+
+
+
+7.11	Item 3.8 of DBM Circular Letter No. 2018-14 dated December 28, 2018 reminds the National Government Agencies (NGAs) to require their creditors to issue Official Receipts (ORs) or Sales Invoices, as quoted below:
+
+
+
+3.8 Consistent with accounting and auditing rules and regulations, the NGAs are reminded to require their creditors to issue Official Receipts (ORs) or Sales Invoice as evidence of receipts of payment through LLDAP-ADA and SLIIE or MDS check. However, in instances where supply of goods are ON CREDIT and the required Sales Invoice are issued upon delivery of goods, supplemental/secondary receipts such as Acknowledgement Receipt or Collection Receipt are issued upon collection of account following Revenue Regulations (RR) No. 18-2012.
+
+
+
+3.8.1 In case the supplier/contractor failed to submit OR or sales invoice, the list of bank-validated ADA shall be attached to the DV as proof of payment.
+
+
+
+3.8.3 Non- issuance of OR or Sales Invoice by the contractor/supplier shall be reported to the BIR as violation of the regulations.
+
+
+
+7.12	In this case, the medicines were paid way back in October 2020; thus, the O.R. should have been provided by this time by the supplier had the Cashier made a follow-up. The absence of O.R. hindered us from validating the correctness of the amount written in the check reportedly issued to the supplier.
+
+
+
+7.13	Owing to the foregoing old practices which management has been accustomed to,the propriety, validity and accuracy of the disbursement were likewise impaired.
+
+
+
+7.14	We recommended and management agreed to:
+
+
+
+a)	require the Chief Accountant to (i) ensure the completeness of the supporting documents before the payment of transactions; and (ii) submit to the Auditor’s Office the required documents in compliance with the Revised IRR of R.A. No. 9184 to facilitate review and verification thereof; 
+
+
+
+b)	properly plan the kind of medicines to be procured based on the PNF Manual  in accordance with Administrative Order No. 2016-0034 and comply strictly with the policies and procedures prescribed thereto; 
+
+
+
+c)	strictly enforce the use of the current DPRI in setting the threshold (ABC) of the medicines to be purchased in consonance with the directives of the Department of Health as per R.A. No. 9502; and 
+
+
+
+(d) as an additional control over disbursements, require the supplier to issue the corresponding O.R. for the medicines paid for in compliance with existing BIR Regulations and DBM Circular Letter No. 2018-14.
+
+
+
+7.15	The Management partially complied with the audit recommendations by submitting the required supporting documents. With regard to timeliness in the execution of the contract, the Management reasoned out that upon receipt of performance bond from the supplier, the corresponding contract of agreement was immediately prepared. The Audit Team explained that the prescribed period for the execution of the contract should begin from receipt of notice of award and not from receipt of performance bond in accordance with Section 37.2.1 of R.A. No. 9184. The Management also mentioned that the ceiling prices indicated in the Drug Price Reference Index (DPRI) for some medicines were too low. The Audit Team explained that the DPRI is updated annually, therefore, the current prevailing prices were considered. We stated that other government agencies which procured essential medicines are compliant with DPRI;  thus,  the same is expected to the Government Arsenal.
+
+
+
+7.16	The Management acknowledged the audit recommendations and assured compliance with the pertinent Sections of R.A. No. 9184, Administrative Order No. 2016-0034 and R.A. No. 9502 for all subsequent procurement of medicines.
+
+
+
+
+
+Incomplete documentation and recurring budgetary deficit  for Contract of Service
+
+
+
+		8.     The validity and propriety of the salaries/wages paid to Contract of Service (COS) personnel of the Government Arsenal (GA) could not be ascertained due to absence of proofs of services and actual accomplishments rendered as required under COA Circular Nos. 2012-001 and 2009-001 dated June 14, 2012 and February 12, 2009, respectively. While there was partial compliance with the transitory provisions of Item 11 of   CSC, COA and DBM Joint Circular (JC) No. 2, s. 2020 dated October 20, 2020, the Agency still maintained a huge number of employees under COS, with some discharging the functions of regular positions, resulting in budgetary deficits for Other General Services Account by ₱40,394,974.50 and ₱21,594,319.60 in CYs 2019 and 2020, respectively.
+
+		
+
+a)	Incomplete documentation of salaries/wages
+
+
+
+8.1	COA Circular No. 2012-001 dated June 14, 2012 provides the required documentary requirements to support salary claims of Contract of Service (COS) personnel which include certified true copy of contract of service, certification by the personnel officer that the activities/services cannot be provided by regular or permanent personnel of the agency, accomplishment reports and approved DTRs.
+
+
+
+8.2	The submission of contract of service is in consonance with Item 3.1.1 of COA Circular No. 2009-001 dated February 12, 2009 which states that:
+
+
+
+3.1.1 Within five (5) working days from the execution of a contract by the government or any of its subdivisions, agencies or instrumentalities, including government-owned and controlled corporations and their subsidiaries, a copy of said contract and each of all the documents forming part thereof by reference or incorporation shall be furnished to the Auditor of the agency concerned. In case of agencies audited on an engagement basis, submission of a copy of the contract and its supporting documents shall be to the Auditor of the mother agency or parent company, as the case may be.
+
+
+
+8.3	Verification of the disbursements for calendar year 2020 disclosed that payments of salaries and wages of COS personnel were approved despite incomplete documentary requirements such as certified true copy of contract of service, certification by the Personnel Officer that the activities/services cannot be provided by regular or permanent personnel of the agency, in case of first payment, and monthly accomplishment reports.
+
+
+
+8.4	The statement of duties and responsibilities and actual accomplishment reports are vital to ascertain if COS personnel are not performing functions relative to the job description of regular positions. The absence of these documents in all related disbursement claims presented for audit cast doubt on the validity and accuracy of the reported Salaries and Wages account of COS personnel.
+
+				
+
+b)				Recurring budgetary deficit 	
+
+		
+
+		8.4	The Civil Service Commission, Commission on Audit and Department of Budget and Management Joint Circular (CSC/COA/DBM JC) No. 2, series of 2020 provides the following rules and regulations:
+
+		
+
+5.1 Contract of Service refers to the engagement of the services of an individual, private firm, other government agency, non-governmental agency or international organization as consultant, learning service provider or technical expert to undertake special project or job within a specific period.
+
+
+
+6.2 Individual Contract of  Service
+
+
+
+Government agencies may enter into COS with individuals as consultants/contractors, subject to the following guidelines:
+
+
+
+6.2.1 The term of contract between the agency and the individual contractor shall be for a maximum period of one (1) year, renewable at the option of the Head of the procuring entity, but in no case shall exceed the term of the latter.
+
+
+
+6.2.2 Engaging the services of an individual contractor shall be subject to pertinent provisions of R.A. No. 9184 and its implementing guidelines, as applicable and the existing budgeting, accounting and auditing rules and regulations.
+
+
+
+11.0 Transitory Provisions
+
+
+
+11.1 Agencies may engage the services of new COS/JO workers through individual contract and renew the individual contracts of their existing COS/JO workers until December 31, 2022. Thereafter, the engagement of COS/JO workers shall be in accordance with the provisions of this Joint Circular.
+
+
+
+11.4 Government agencies shall review their functions, systems and procedures, organizational structure and staffing to determine the appropriate human resource complement for their programs/activities/projects.
+
+
+
+The creation of permanent positions may be considered for regular functions, while the hiring of casual or contractual personnel may be considered for projects and activities that are temporary in nature, subject to evaluation of the DBM/Governance Commission for GOCCs (GCG) and to existing budgeting and accounting rules and regulations.
+
+
+
+	8.5	Out of the 949 personnel of the Agency as at December 31, 2020, a total of 380 or 40% were under COS serving the different divisions for a period of two to ten years. The details of their profile are presented in Appendix F.  We observed, however, that these personnel were allowed to assume positions which require employee-employer relationship or having functions attached to regular positions based on their job descriptions such as Storekeeper, Munitions Operator, Visual Inspector, Engineer and Architectural Draftsman.
+
+		
+
+	8.6	In a letter dated November 12, 2018, the GA had already requested the DBM for the creation of 423 casual positions and the corresponding annual budget allocation amounting to ₱128,686,776.97. In CY 2020, 24 COS personnel were given permanent positions in line with the afore-cited Joint Circular.
+
+		
+
+	8.7	Analysis showed further that the Other General Services Account was generally used by the GA to recognize the compensation paid to COS.  We compared the budget allotted and the obligations incurred for this Account as of November 30, 2019 and November 30, 2020 as presented in the Statement of Allotment, Obligations and Balances (SAOB) submitted by the Agency (available Financial Statements as of to date), and observed remarkable gaps as illustrated below:
+
+
+
+Year
+
+Allotment Received
+
+Obligation Incurred
+
+Balances
+
+2019
+
+₱2,221,000.00
+
+₱42,615,974.50
+
+(₱40,394,974.50)
+
+2020
+
+₱16,939,000.00
+
+₱38,533,319.60
+
+(₱21,594,319.60)
+
+
+
+			8.8	Although, re-alignment of funds for the deficit was aptly done out of the savings generated as of cut-off dates as mentioned above, in accordance with Sections 60 and 70 of the General Provision of the General Appropriations Act (GAA) FY 2020, still the recurring re-alignments for the purpose denote that the existence of numerous COS had caused burden to the Agency’s operating budget.
+
+	
+
+8.9	We recommended and Management agreed to undertake the following courses of action:
+
+
+
+a)	submit to the Audit Team pertinent documentation such as certified true copies of contracts of service, certification by the personnel officer that the activities/services cannot be provided by regular or permanent personnel of the agency (for first payment) and monthly accomplishment reports of the COS personnel;
+
+
+
+b)	require the HR Division to facilitate the review of the Agency’s existing functions, systems and procedures, organizational structure and staffing in order to (i) determine the appropriate human resource complement for their programs/activities/projects; (ii) address the sensitive functions occupied by the COS; and (iii) implement in full the transitory provisions of CSC, COA and DBM Joint Circular No. 2, s. 2020 before December 31, 2022 to maintain the number of COS to the essential and provide regular/permanent positions to the qualified ones. As such, savings of the Agency may be utilized for other productive purposes; and
+
+	
+
+c)	require the Budget Officer, as part of effective planning, to provide budget estimates based on actual expenditures for the last two preceding years, if the GAA allows, to avoid recurrence of deficits and subsequent re-alignment of savings to the Other General Services Account.
+
+
+
+8.10	The management assured compliance in the submission of complete documentary requirements. Furthermore, they disclosed that request for restructuring and casualization has been sent to the DBM.The Audit Team reminded the Management on the transitory provision of the Joint Circular that agencies may engage the services of new COS/JO workers through individual contract and renew the same for their existing COS/JO workers until December 31, 2022.
+
+
+
+
+
+Disbursements not supported with Official Receipts- ₱3,128,074.84
+
+
+
+	9.     Payments of agency expenditures for the months of January to December 2020 amounting to ₱3,128,074.84 were not supported with the required Official Receipts (ORs) from suppliers/service providers required in Item 3.8 of DBM Circular Letter No. 2018-14 dated December 28, 2018 and Section 4 of P.D. No. 1445.
+
+	
+
+1)	
+
+9.1	Item 3.8 of DBM Circular Letter No. 2018-14 dated December 28, 2018 reminded National Government Agencies (NGAs) to require their creditors to issue ORs or Sales Invoice, as follows:
+
+3.8 Consistent with accounting and auditing rules and regulations, the NGAs are reminded to require their creditors to issue Official Receipts (ORs) or Sales Invoice as evidence of receipts of payment through LLDAP-ADA and SLIIE or MDS check. However, in instances where supply of goods are ON CREDIT and the required Sales Invoice are issued upon delivery of goods, supplemental/ secondary receipts such as Acknowledgement Receipt or Collection Receipt are issued upon collection of account following Revenue Regulations No. 18-2012.
+
+
+
+3.8.1 In case the supplier/contractor failed to submit OR or sales invoice, the list of bank-validated ADA shall be attached to the DV as proof of payment.
+
+
+
+3.8.3 Non- issuance of OR or Sales Invoice by the contractor/supplier shall be reported to the BIR as violation of the regulations.
+
+
+
+9.2	Post-audit of disbursements vouchers for the months of January to December 2020 revealed that payments were made on claims which were not adequately supported with Official Receipts (ORs), shown as follows:
+
+
+
+Date
+
+Reference
+
+DV No.
+
+Payee
+
+Amount
+
+27-Feb-20
+
+20-02-A4
+
+2020-02-0125
+
+Fortune General Insurance Corp.
+
+₱2,568.40
+
+
+
+20-02-A4
+
+2020-02-0126
+
+Fortune General Insurance Corp.
+
+2,568.40
+
+11-Mar-20
+
+325185
+
+2020-03-0240
+
+Stradcom
+
+338.12
+
+
+
+325186
+
+2020-03-0240
+
+LTO
+
+6,900.00
+
+
+
+20-04-A1
+
+2020-03-0270
+
+Fortune General Insurance Corp.
+
+2,568.40
+
+5-May-20
+
+20-05-A1
+
+2020-04-0318
+
+Fortune General Insurance Corp.
+
+2,568.40
+
+21-May-20
+
+20-05-A1
+
+2020-05-0455
+
+Gibson’s Shoe Factory
+
+96,260.00
+
+28-May-20
+
+20-05-A2
+
+2020-05-0475
+
+Gryke Scientific Instruments Trading
+
+1,500.00
+
+
+
+20-05-A2
+
+2020-05-0480
+
+Masangkay Computer Center
+
+130,638.25
+
+4-Jun-20
+
+20-06-A1
+
+2020-05-0505
+
+Techline Inc.
+
+37,500.00
+
+
+
+20-06-A1
+
+2020-05-0507
+
+Up-town Industrial Sales Inc.
+
+20,295.10
+
+19-Jun-20
+
+20-06-A2
+
+2020-05-0506
+
+King’s Safetynet Inc.
+
+12,795.56
+
+
+
+20-06-A2
+
+2020-06-0604
+
+Fortune General Insurance Corp.
+
+5,136.80
+
+
+
+20-06-A2
+
+2020-06-0619
+
+Firstchem Technologies Inc.
+
+800,941.00
+
+30-Jun-20
+
+325393
+
+2020-06-0633
+
+Optimum Equipment Management and Exchange Inc.
+
+16,155.00
+
+24-Jun-20
+
+310857
+
+2020-06-0599
+
+Firstchem Technologies Inc.
+
+33,090.90
+
+15-Jul-20
+
+20-07-A2
+
+2020-07-0682
+
+Fortune General Insurance Corp.
+
+2,568.40
+
+27-Aug-20
+
+310860
+
+2020-08-0826
+
+Firstchem, Technologies Inc.
+
+44,674.00
+
+8-Sep-20
+
+20-09-A1
+
+2020-08-0845
+
+Ercyn Enterprise
+
+7,192.85
+
+24-Sep-20
+
+20-09-A2
+
+2020-09-0886
+
+Fortune General Insurance Corp.
+
+2,371.40
+
+
+
+20-09-A2
+
+2020-09-0907
+
+MendoEntyerprises
+
+74,600.00
+
+
+
+20-09-A2
+
+2020-09-0892
+
+Alcro Electronics Inc.
+
+45,042.20
+
+
+
+20-09-A2
+
+2020-09-0919
+
+Up-town Industrial Sales Inc.
+
+26,606.87
+
+
+
+20-09-A2
+
+2020-09-0918
+
+Firstchem Technologies Inc.
+
+44,674.00
+
+Sep-29-20
+
+20-09-A4
+
+2020-09-0938
+
+Fortune General Insurance Corp.
+
+2,371.40
+
+
+
+20-09-A4
+
+2020-09-0891
+
+Mesco Inc.
+
+400,000.00
+
+22-Sep-20
+
+325554
+
+2020-09-0927
+
+GSIS
+
+34,309.34
+
+2-Sep-20
+
+310861
+
+2020-09-0854
+
+Plastimer Industrial Corp.
+
+157,005.00
+
+13-Oct-20
+
+325599
+
+2020-10-1021
+
+Center for Global Best Practices Foundation Inc.
+
+10,740.00
+
+22-Oct-20
+
+20-10-A3
+
+2020-10-1009
+
+Dacrisdeek Enterprises
+
+200,433.60
+
+
+
+20-10-A3
+
+2020-10-0993
+
+Ercyn Enterprises
+
+510,167.15
+
+9-Nov-20
+
+325648
+
+2020-11-1113
+
+Association of Government Internal Auditors Inc.
+
+17,500.00
+
+10-Nov-20
+
+20-11-A1
+
+2020-10-1081
+
+Gynera Enterprises
+
+121,000.00
+
+4-Dec-20
+
+325700
+
+2020-12-1200
+
+GACPA Inc.
+
+                   3,500.00 
+
+16-Dec-20
+
+20 - 12- A1
+
+2020-12-1196
+
+Fortune General Insurance Corp.
+
+                   4,645.80 
+
+28-Dec-20
+
+20 - 12- A4
+
+2020-12-1293
+
+Oliveros Protective Equipment & Maritime Supplies 
+
+                 27,041.93 
+
+
+
+20 - 12- A4
+
+2020-12-1299
+
+Gibson's Shoe Factory Inc.
+
+                 84,680.00 
+
+
+
+20 - 12- A5
+
+2020-12-1294
+
+Pi-Gon Tech Industrial & Chemical Co. Ltd.
+
+                 96,325.00 
+
+
+
+20 - 12- A5
+
+2020-12-1299
+
+Pi-Gon Tech Industrial & Chemical Co. Ltd.
+
+                 38,801.57 
+
+Total
+
+ 
+
+ 
+
+ 
+
+
+
+₱3,128,074.84
+
+
+
+9.3	Interview with the Disbursing/Collecting Officer disclosed that they have difficulty getting the official receipts from the suppliers especially those that are outside Bataan. Although the pandemic contributed to this difficulty, we observed that this was already happening in prior years and these did not pertain only to the suppliers/service provider outside Bataan but also with suppliers/service providers in nearby Bataan towns.
+
+
+
+9.4	As provided by Section 53, Chapter 6 of Government Accounting Manual (GAM) for NGS, Volume I, The Cash/Treasury Unit shall monitor the receipt of the validated LDDAP-ADA from the MDS-GSB and the issue of Official Receipt (OR) or other acceptable evidence of receipt of payments by the creditors/payees.
+
+
+
+9.5	Also, the disbursement vouchers that are submitted to the Audit Team should be supported with complete documentations as provided in Sections 4(6) of P.D. No. 1445 which states that Claims against government funds shall be supported with complete documentations.
+
+
+
+9.6	In view of the foregoing, the validity and legality of the payments could not be ascertained due to lack of Official Receipts/Sales Invoices.
+
+
+
+9.7	We recommended and Management agreed to submit the official receipts of the unsupported expenditures to the Audit Team and strictly observe the provisions of Section 4 (6) of P.D. No. 1445 and Item 3.8 of DBM Circular Letter No. 2018-14 dated December 28, 2018 in the disbursement funds to provide reasonable assurance on the validity and legality of payments made.
+
+
+
+	9.8	We also recommended and Management agreed to require:
+
+
+
+a)   the cashier to monitor the submission of official receipts and Sales Invoices of the suppliers/service providers and report to the BIR those that will not comply; and 
+
+
+
+b)	the accountant to attach the afore-cited documents to the JEVs and DVs to support the disbursements upon submission of the vouchers to the Audit Team.
+
+
+
+9.9 	The Management stated that most of the suppliers/service providers who failed to issue Official Receipts were outside of Bataan. They mentioned that there were cases wherein suppliers/service providers denied or failed to check the receipt of payment due to non-monitoring. With that, they assured that they will remind the suppliers at the start of the bidding about the issuance of ORs since the payments are usually thru ADA. The Management already sent letter request to suppliers/service providers and made partial compliance/submission. The Audit Team emphasized the importance of establishing complete documentary requirements before the disbursement of funds. The Audit Team also reminded the Management of the possibility of having paid prior year disbursements without official receipts.
+
+
+
+
+
+Late Submission of Accounts
+
+
+
+	10.     The financial reports, supporting documents and other schedules were not submitted on time by the Chief Accountant in contravention of Section 7.2 of COA Circular No. 2009-006 dated September 15, 2009, thus, resulting in the inability of the Audit Team to conduct timely and efficient examination/audit of the accounts and financial transactions of  the government agency within the prescribed period.
+
+	
+
+2)	
+
+10.1	Paragraph 7.2 of COA Circular No. 2009-006 dated September 15, 2009 states:
+
+
+
+7.2 Responsibility of the Agency Accountant
+
+
+
+ 7.2.1 The Chief Accountant, Bookkeeper or other authorized official 		      performing accounting and/or bookkeeping functions of the 		     audited agency shall ensure that:  
+
+
+
+a)	The reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month; xxx
+
+
+
+
+
+10.2	Section 122 of P.D. No. 1445 also provides that the failure on the part of officials concerned to submit the documents and reports mentioned therein shall automatically cause the suspension of payment of their salaries until they have complied with the requirements of the Commission.
+
+10.3	Records showed that the Chief Accountant failed to submit the following required reports within the reglementary period pursuant to the provisions of Section 7.2 of COA Circular No. 2009-006. The delay in the submission ranged from 49 to 155 days, as shown below:
+
+
+
+Reports
+
+Period Covered
+
+Due Date
+
+Date Submitted
+
+No. of days delayed
+
+Disbursement/ Revenue Voucher/Trial Balances 
+
+January 2020
+
+2/10/2020
+
+7/15/2020
+
+155
+
+
+
+February 2020
+
+3/10/2020
+
+8/12/2020
+
+154
+
+
+
+March 2020
+
+4/10/2020
+
+9/10/2020
+
+152
+
+
+
+April 2020
+
+5/10/2020
+
+9/18/2020
+
+130
+
+
+
+May 2020
+
+6/10/2020
+
+9/23/2020
+
+104
+
+
+
+June 2020
+
+7/10/2020
+
+10/16/2020
+
+97
+
+
+
+July 2020
+
+8/10/2020
+
+10/29/2020
+
+79
+
+
+
+August 2020
+
+9/10/2020
+
+11/26/2020
+
+76
+
+
+
+September  2020
+
+10/10/2020
+
+12/21/2020
+
+71
+
+
+
+October 2020
+
+11/10/2020
+
+1/15/2021
+
+65
+
+
+
+November 2020
+
+12/10/2020
+
+1/29/2021
+
+49
+
+
+
+December 2020
+
+02/14/2021
+
+2/11/2021
+
+0
+
+
+
+
+
+
+
+
+
+
+
+10.4	Although we understand that the delays were mostly attributed due to the declaration of Enhanced Community Quarantine (ECQ) and Modified Enhanced Community Quarantine (MECQ) brought about by the COVID19 pandemic, still the Agency officials should exert their best in the prompt submission of the FS, reports, vouchers and supporting documents so as not to hinder the timely and efficient audit of their accounts. 
+
+
+
+10.5	Furthermore, interview made with the Chief Accountant disclosed that the available manpower of the Accounting Division is still not sufficient to finish the workload and submit the reports and vouchers on time, which was the same cause given for the delayed submission last year. They rendered overtime during weekdays and weekends just to finish all the unsubmitted vouchers before February 14, 2020.  
+
+
+
+10.6	The failure of the Chief Accountant to submit the required reports on time to the Audit Team resulted in the latter’s inability to conduct timely and efficient examination/audit of the accounts and financial transactions of the GA within the prescribed period. Consequently, noted audit deficiencies of the transactions made were not immediately brought to management’s attention, thus, not promptly corrected. 
+
+
+
+10.7	We recommended and Management agreed to instruct the Chief Accountant to submit the financial reports, supporting documents and other schedules to the Audit Team within the period prescribed by existing rules and regulations to evade any disciplinary action that may be instituted against them.
+
+
+
+
+
+10.8	We also recommended and Management agreed to augment the manpower needed by the Accounting Office to properly distribute the workload and help the Chief Accountant expedite the submission of the financial reports, supporting documents and other schedules/reports. 
+
+
+
+10.9	The Management acknowledged that late submission of reports was due from insufficiency of manpower. They mentioned that three personnel in Accounting Section  resigned, retired and died. The Audit Team emphasized that the period of delays in the submission of accounts ran for a number of months so that augmentation of the needed manpower in the Accounting Section is important to avoid such recurring audit observations.
+
+
+
+
+
+Gender and Development
+
+
+
+11.     The Agency was not compliant with the required Gender and Development (GAD) mechanisms and processes, such as submission of the Annual GAD Plan and Budget (GPB) duly approved by the Philippine Commission on Women (PCW) and complete GAD Accomplishment Report (AR); and establishment of GAD database contrary to PCW-NEDA-DBM  Joint Memorandum Circular (JMC) No. 2012-001; thus, the desired levels of consciousness in support of gender and development, women’s empowerment, and response to gender issues were not fully achieved. Moreover, the GAD budget provided by the Agency for CY 2020 was way below the threshold as prescribed in the JMC.
+
+
+
+11.1	PCW-NEDA-DBM Joint Memorandum Circular (JMC)  No. 2012-01, or the Guidelines for the Preparation of Annual Gender and Development (GAD) Plans and Budgets and Accomplishment reports to Implement the Magna Carta of Women prescribes the guidelines and procedures for the formulation, development, submission, implementation, monitoring and evaluation including accounting of results of agency annual GAD plans and budgets (GPBs), and GAD accomplishment reports (AR); and provide the mechanics for the development of programs, activities and projects (PAPs) to respect, protect and fulfill the rights of women at the socio-cultural, economic and political spheres.
+
+
+
+11.2	Item 4 of the JMC provides the essential elements of GAD planning and budgeting as they enable agencies to plan more effectively and implement their sectoral programs on GAD. If these are not present or need to be strengthened, agencies shall include them in their GPBs as follows:
+
+
+
+	4.1 Creation and/or Strengthening of the GAD Focal Point System;
+
+	4.2 Capability Building on Gender and Development;
+
+	4.3 Conduct of Gender Audit; and
+
+	4.4 Institutionalizing GAD Database/Sex-disaggregated Data.
+
+
+
+11.3	Review of records, verification of documents and inquiry disclosed the following observations:
+
+
+
+a)	The budget provided by the Government Arsenal (GA) for GAD programs, activities and projects(PAPs) amounting to ₱2,505,000.00 for CY 2020 was only .20% of its total budget totaling to ₱1,276,997,400.00 as presented in the Annual GPB contrary to Item 6.1 of Joint Circular No. 2012-01 of the DBM, NEDA and PCW which provides that:
+
+
+
+6.1 	At least five percent (5%) of the total agency budget appropriations authorized under the annual GAA shall correspond to activities supporting GAD plans and programs. The GAD budget shall be drawn from the agency’s maintenance and other operating expenses (MOOE), capital outlay (CO), and personal services (PS). It is understood that the GAD budget does not constitute an additional budget over an agency’s total budget appropriations.
+
+
+
+	According to the Head Secretariat, since the Government Arsenal (GA) is a manufacturing agency, their annual budget is relatively huge as compared to other government agencies. If they abide with the 5% mandatory fund allocation to GAD, a total of ₱63,849,870.00, more or less, cannot be used for other purposes for the current year; thus, the Agency is hard up in complying with such requirement. This concern was already elevated by the GA to the PCW.
+
+
+
+b)	The Agency relied on the data available with the Human Resource (HR) Department as the baseline for GAD Database contrary to Item 4.4  of Joint Circular No. 2012-01 which provides:
+
+
+
+4.4 	Institutionalizing GAD Database/Sex-disaggregated Data: The agency shall develop or integrate in its existing database GAD information to include gender statistics and sex-disaggregated data that have been systematically produced or gathered as inputs or bases for planning, budgeting, programming and policy formulation.
+
+
+
+We gathered that the Agency conducted a conference for the creation of GAD Database, and threshed out matters related to data gathering. In spite of this, however, it was not successful in its objective of developing sex-disaggregated data for gender analysis. In the end, the GAD database was not established as desired under the JMC. As such, the Agency was left with no effective means to obtain reliable, relevant and complete data for gender-responsive planning, programming and policy formulation.
+
+
+
+	Interview with the Head Secretariat disclosed that proper training is needed to determine the correct/relevant data to be included in the database.
+
+c)	The Agency submitted to the COA Team a copy of the GPB for CY 2020 as approved by the Agency Head but not yet approved/endorsed by the PCW. 
+
+
+
+Item 8.5 of Joint Circular No. 2012-01 provides:
+
+
+
+8.5  	PCW shall acknowledge in writing receipt of the GPBs within two (2) working days. It shall then review and inform the agency of its comments or actions on the GAD plans within fifteen (15) working days. If there are revisions to be made or questions to be answered about the submission, the agency shall be given thirty (30) days to resubmit the GPB. Upon receipt and acceptance of the revised GPBs, PCW shall endorse all revised GPBs and return these to the different line departments or central agencies for their submission to DBM.
+
+	
+
+According to the Head Secretariat, the same was submitted to the PCW through email to the Gender Mainstreaming Monitoring System (GMMS); however, the approval by the PCW was not evident. Upon submission to the GMMS, no response/acknowledgement was received by the Agency.
+
+	
+
+	Likewise, the Agency furnished the COA Team copies of the accomplishment reports from the first to the fourth quarter of CY 2020, the same report submitted to DND. There was no indication that other required documents were submitted to the latter.
+
+	
+
+	As of this date, the annual GAD AR was not yet submitted to the PCW supported by the required documents such as (1) brief summary of the reported program or project; (2) copies of reported policy issuances; (3) results of HGDG tests; and (4) actions taken by the Agency on the COA audit findings and recommendations as provided in Item 10.4 of the same Circular since the required submission was moved to March 5, 2021 as per Memorandum Circular(MC) No. 2021-01.
+
+	
+
+11.4	Due to the foregoing deficiencies, the Agency was hindered from performing its task of ensuring and sustaining the Agency’s critical consciousness on gender and development, women’s empowerment, and response to gender issues.
+
+
+
+		11.5		We recommended and Management agreed to:
+
+
+
+	(a) 	make representation with PCW regarding its difficulty on complying with the mandatory allocation of at least 5% of GA’s total budget for GAD activities; 
+
+	
+
+	(b)	submit to the COA Audit Team copies of the Annual GPB approved by the PCW and the GAD Accomplishment together with the required documents for proper evaluation thereof; and 
+
+	
+
+	(c) 	gather and process sex-disaggregated data and incorporate in the GAD Database to facilitate GAD mainstreaming in all management processes.
+
+	
+
+	
+
+	
+
+	
+
+Compliance with Tax Laws
+
+
+
+12.     Income tax on compensation of personnel, creditable income tax (expanded) and value added tax from various suppliers amounting to ₱17,795,450.12 were withheld and  remitted to the Bureau of Internal Revenue in compliance with Revenue Memorandum Circular No. 23-2007 dated March 23, 2007 and BIR Tax Revenue Regulation No. 10-2008 dated July 8, 2008. 
+
+
+
+12.1	The schedule of taxes withheld and remitted is presented below:
+
+
+
+Month
+
+Taxes Withheld
+
+Taxes Remitted
+
+January
+
+₱  703,836.53
+
+₱  703,836.53
+
+February
+
+492,600.78
+
+492,600.78
+
+March
+
+623,646.91
+
+623,646.91
+
+April
+
+1,121,925.45
+
+1,121,925.45
+
+May
+
+1,868,364.69
+
+1,868,364.69
+
+June
+
+3,315,263.61
+
+3,315,263.61
+
+July
+
+582,280.25
+
+582,280.25
+
+August
+
+1,133,794.16
+
+1,133,794.16
+
+September
+
+626,596.84
+
+626,596.84
+
+October
+
+1,994,391.35
+
+1,994,391.35
+
+November
+
+1,350,056.32
+
+1,350,056.32
+
+December
+
+3,982,693.23
+
+3,982,693.23
+
+Total
+
+ ₱17,795,450.12 
+
+ ₱17,795,450.12 
+
+
+
+12.2	Income tax on compensation of personnel, creditable income tax (expanded) and value added tax from various suppliers amounting to ₱17,795,450.12 were withheld and  remitted to the Bureau of Internal Revenue in compliance with Revenue Memorandum Circular No. 23-2007 dated March 23, 2007 and BIR Tax Revenue Regulations No. 10-2008 dated July 8, 2008.
+
+
+
+12.3	We commended the Management for its diligent effort to withhold and remit taxes in accordance with the regulations issued by the BIR.
+
+
+
+
+
+Compliance with R.A. No. 8291 or the GSIS Act
+
+
+
+13.     Deductions for monthly premium contributions and loan amortizations of the  officers and employees of the Agency as well as the government share were substantially remitted to the GSIS in compliance with Republic Act (R.A.) No. 8291, otherwise known as the Government Service Insurance System Act of 1997.
+
+
+
+13.1	Section 3.1 of the IRR of R.A. No. 8291 states that it shall be compulsory upon the government agency to deduct from the fixed monthly compensation the personal share of the members and to promptly remit the same to the GSIS.
+
+
+
+13.2	Furthermore, Section 4.1.2 provides that government agencies where the members are employed have legal obligation to remit on time the monthly premium contributions due from members concerned, both for personal and government shares. In case of delay, they have the legal obligation to pay interest as may be prescribed by the Board but not less than two percent (2%) simple interest per month.  
+
+
+
+13.3	In addition to that, Section 14.1 of the said IRR provides that each government agency shall remit directly to the GSIS the employee’s and government agency’s contributions within the first 10 days of the calendar month following the month to which the contributions apply. The remittance by the government agency of the contributions to the GSIS shall take priority over and above the payment of any and all obligations, except salaries and wages of its employees.
+
+
+
+13.4	For CY 2020, the Agency substantially complied with the provisions of R.A. No. 8291 as contributions deducted from the employees together with the government shares as well as loan amortizations were timely remitted to the GSIS as shown in the following table:
+
+
+
+Month
+
+
+
+Due to GSIS, beginning
+
+Withheld
+
+Total
+
+Remitted
+
+Due to GSIS, Ending
+
+January
+
+₱      18,301.26
+
+₱       2,125,053.30
+
+₱    2,143,354.56
+
+₱ 2,137,525.57
+
+₱         5,828.99
+
+February
+
+ 5,828.99 
+
+ 2,113,760.65 
+
+ 2,119,589.64 
+
+ 2,113,817.15 
+
+ 5,772.49 
+
+March
+
+ 5,772.49 
+
+ 2,248,731.65 
+
+ 2,254,504.14 
+
+ 2,162,634.82 
+
+ 91,869.32 
+
+April
+
+ 91,869.32 
+
+ 2,173,417.61 
+
+ 2,265,286.93 
+
+ 2,261,284.21 
+
+ 4,002.72 
+
+May
+
+ 4,002.72 
+
+ 1,339,122.14 
+
+ 1,343,124.86 
+
+ 1,337,352.37 
+
+ 5,772.49 
+
+June
+
+ 5,772.49 
+
+ 2,153,088.33 
+
+ 2,158,860.82 
+
+ 2,152,182.68 
+
+ 6,678.14 
+
+July
+
+ 6,678.14 
+
+ 2,147,973.95 
+
+ 2,154,652.09 
+
+ 2,148,587.05 
+
+ 6,065.04 
+
+August
+
+ 6,065.04 
+
+ 2,144,195.39 
+
+ 2,150,260.43 
+
+ 2,140,601.82 
+
+ 9,658.61 
+
+September
+
+ 9,658.61 
+
+ 2,168,052.93 
+
+ 2,177,711.54 
+
+ 2,165,014.47 
+
+ 12,697.07 
+
+October
+
+ 12,697.07 
+
+ 2,167,218.55 
+
+ 2,179,915.62 
+
+ 2,167,144.26 
+
+ 12,771.36 
+
+November
+
+ 12,771.36 
+
+ 1,046,824.55 
+
+ 1,059,595.91 
+
+ 1,039,674.14 
+
+ 19,921.77 
+
+December
+
+ 19,921.77 
+
+ 1,018,423.05 
+
+ 1,038,344.82 
+
+ 1,030,189.72 
+
+₱ 8,155.10 
+
+Total
+
+
+
+ ₱ 22,845,862.10
+
+
+
+ ₱22,856,008.26
+
+
+
+
+
+13.5	The Audit Team observed that withheld deductions were not fully remitted. Inquiry  with the Chief Accountant  disclosed that withheld deductions from the newly hired employees were not remitted until such time that their membership is duly processed and approved.
+
+
+
+13.6	The ending balances of the Due to GSIS account amounting to ₱8,155.10 consisted of contributions and loan amortizations totaling to ₱2,382.61  to be remitted to GSIS and prior years’ differences of  ₱5,772.49 to be reconciled.
+
+
+
+13.7	We commended the Management’s compliance with R.A. No. 8291 in the proper withholding of premiums/contributions to promote the welfare of its officials and employees. We also recommended and Management agreed to reconcile the prior years’ differences and remit the contributions within the prescribed period mandated by the GSIS.
+
+
+
+Compliance with R.A. No. 9679 or Pag-IBIG Fund	
+
+
+
+14.     Deductions for monthly premium contributions and loan amortizations of the   officers and employees of the Agency  as well as the government share were substantially remitted by the Agency to the Home Development Mutual Fund (HDMF) or the Pag-IBIG Fund in compliance with R.A. No. 9679, otherwise known as An Act Further Strengthening the Home Development Mutual Fund, and For Other Purposes.
+
+
+
+14.1     Rule IV, Section 1 of the  Implementing Rules and Regulations  (IRR) of R.A. No. 9679 states that the Home Development Mutual Fund or the Pag-IBIG Fund created under RA No. 9769 is a government financial institution involved in mobilizing provident funds primarily for shelter finance.  It is a nationwide tax-exempt mutual provident savings system for private and government employees and other earning groups supported by matching mandatory contributions of their respective employers in the spirit of social justice and the pursuit of national development, with housing as the primary investment.
+
+
+
+14.2	Furthermore, Rule V thereof provides that all employees who are subject to mandatory coverage by the GSIS, regardless of their employment status and employers of employees subject of mandatory coverage by the GSIS are mandatorily covered by the Fund. 
+
+
+
+14.3	Section 2, Rule VII, further states that monthly contributions of members to the Fund shall be collected through payroll deductions by their respective employers, who for this purpose shall act as agent both of the Fund and the member.
+
+
+
+14.4	While Section 3 provides that all employers shall remit to the Fund their contributions and the contributions of their covered employees as well as the latter’s loan amortizations or payments to the Fund, within fifteen (15) days from the date the same were collected unless another period is previously agreed upon between the employer and the Fund or within such periods as the Fund may prescribe otherwise.
+
+
+
+14.5	In addition to that, every employer who actually deducts from the salary of his employee the latter’s contributions, loan amortization or payments to the Fund, shall be liable for their payment and non-payment thereof will be subjected to a penalty of three percent (3%) per month of the amounts payable from the date of the loan amortizations or payments and contributions fall due until paid.
+
+
+
+14.6	For CY 2020, the Agency substantially complied with the provisions of R.A. No. 9679 as contributions deducted from employees together with the government shares as well as loan amortizations were timely remitted to the HDMF as shown in the following table:
+
+
+
+Month
+
+Due to HDMF, beginning
+
+Withheld
+
+Total
+
+Remitted
+
+Due to HDMF, Ending
+
+January
+
+ ₱    190,813.33
+
+₱     626,237.30
+
+₱       817,050.63
+
+₱      547,476.96
+
+₱   269,573.67
+
+February
+
+ 269,573.67 
+
+ 613,676.34 
+
+ 883,250.01 
+
+ 794,350.01 
+
+ 88,900.00 
+
+March
+
+ 88,900.00 
+
+ 606,265.54 
+
+ 695,165.54 
+
+ 423,379.74 
+
+ 271,785.80 
+
+April
+
+ 271,785.80 
+
+ 624,367.67 
+
+ 896,153.47 
+
+ 183,985.80 
+
+ 712,167.67 
+
+May
+
+ 712,167.67 
+
+ 622,975.82 
+
+ 1,335,143.49 
+
+ 87,000.00 
+
+ 1,248,143.49 
+
+June
+
+ 1,248,143.49 
+
+ 626,158.78 
+
+ 1,874,302.27 
+
+ 1,417,809.42 
+
+ 456,492.85 
+
+July
+
+ 456,492.85 
+
+ 613,271.76 
+
+ 1,069,764.61 
+
+ 1,068,964.61 
+
+ 800.00 
+
+August
+
+ 800.00 
+
+ 592,567.42 
+
+ 593,367.42 
+
+ 336,055.96 
+
+ 257,311.46 
+
+September
+
+ 257,311.46 
+
+ 629,683.01 
+
+ 886,994.47 
+
+ 885,994.47 
+
+ 1,000.00 
+
+October
+
+ 1,000.00 
+
+ 609,396.66 
+
+ 610,396.66 
+
+ 347,312.20 
+
+ 263,084.46 
+
+November
+
+ 263,084.46 
+
+ 589,028.89 
+
+ 852,113.35 
+
+ 611,808.23 
+
+ 240,305.12 
+
+December
+
+ 240,305.12 
+
+ 607,260.33 
+
+ 847,565.45 
+
+ 846,554.37 
+
+₱ 1,011.08 
+
+Total
+
+
+
+ ₱  7,360,889.52
+
+
+
+ ₱  7,550,691.77
+
+
+
+
+
+14.7	The Agency generally remitted the contributions deducted from employees on or before the 10th day of the following month. 
+
+
+
+14.8	The ending balances of Due to HDMF account amounting to ₱1,011.08 consisted of contributions and loan amortizations totaling to ₱511.08  to be remitted to HDMF and prior years’ differences of  ₱500.00  to be reconciled.
+
+
+
+14.9	We commended the Management’s compliance with R.A. No. 9679 for the proper withholding of premiums/contributions to promote the welfare of its officials and employees. We also recommended and Management agreed to reconcile the prior years’ differences and remit the remaining contributions within the prescribed period mandated by the HDMF.  
+
+
+
+
+
+Compliance with R.A. No. 10606	
+
+
+
+15.     Deductions for monthly premium contributions of the officers and employees were substantially remitted by the Agency to the PhilHealth in compliance with R.A. No. 10606, otherwise known as An Act Amending R.A. No. 7875, or the National Health Insurance Act of 1995, as amended, and for Other Purposes. 
+
+
+
+15.1	Section 6 of R.A. No. 10606 mandates that all citizens of the Philippines shall be covered by the National Health Insurance Program.
+
+
+
+15.2	Section 16 of the Revised IRR of National Health Insurance Act, members in the formal economy shall continue paying the monthly contributions to be shared equally by the employer and employee at a prescribed rate set by the Corporation not exceeding five percent (5%) of their respective basic monthly salaries.
+
+
+
+15.3	 Furthermore, Section 18, supra, provides that failure of the employer to remit the required contribution and to submit the required remittance list shall make the employer liable for reimbursement of payment of a properly filed claim in case the concerned employee or dependent/s avails of Program benefits, without prejudice to the imposition of other penalties as provided for in this Rule and for government agencies, it shall be mandatory and compulsory for the employers to include the payment of contributions in their annual appropriations. The use of said funds withheld by government agencies other than for the purpose of remitting Program contributions will hold the erring government employers liable under the pertinent provisions of the Revised Penal Code.
+
+15.4	For CY 2020, the Agency substantially complied with the provisions of R.A. No. 10606 as contributions deducted from employees together with the government shares were substantially remitted to the Philhealth as shown in the following table:
+
+
+
+Month
+
+Due to Philhealth, beginning
+
+Withheld
+
+Total
+
+Remitted
+
+Due to Philhealth, Ending
+
+January
+
+ ₱       7,087.50
+
+₱     309,857.14
+
+₱       316,944.64
+
+₱      310,081.55
+
+₱        6,863.09
+
+February
+
+ 6,863.09 
+
+ 306,308.98 
+
+ 313,172.07 
+
+ 306,084.57 
+
+ 7,087.50 
+
+March
+
+ 7,087.50 
+
+ 327,637.30 
+
+ 334,724.80 
+
+ 166,723.75 
+
+ 168,001.05 
+
+April
+
+ 168,001.05 
+
+ 313,423.25 
+
+ 481,424.30 
+
+ -   
+
+ 481,424.30 
+
+May
+
+ 481,424.30 
+
+ 312,574.18 
+
+ 793,998.48 
+
+ 640,924.90 
+
+ 153,073.58 
+
+June
+
+ 153,073.58 
+
+ 309,427.38 
+
+ 462,500.96 
+
+ 455,288.35 
+
+ 7,212.61 
+
+July
+
+ 7,212.61 
+
+ 306,870.55 
+
+ 314,083.16 
+
+ 166,240.50 
+
+ 147,842.66 
+
+August
+
+ 147,842.66 
+
+ 303,295.66 
+
+ 451,138.32 
+
+ 304,442.09 
+
+ 146,696.23 
+
+September
+
+ 146,696.23 
+
+ 302,259.79 
+
+ 448,956.02 
+
+ 303,790.41 
+
+ 145,165.61 
+
+October
+
+ 145,165.61 
+
+ 295,098.54 
+
+ 440,264.15 
+
+ 300,058.80 
+
+ 140,205.35 
+
+November
+
+ 140,205.35 
+
+ 292,363.25 
+
+ 432,568.60 
+
+ 299,306.75 
+
+ 133,261.85 
+
+December
+
+ 133,261.85 
+
+ 320,241.01 
+
+ 453,502.86 
+
+ 295,964.27 
+
+ 157,538.59 
+
+Total
+
+
+
+ ₱ 3,699,357.03
+
+
+
+ ₱ 3,548,905.94
+
+
+
+
+
+15.5	The Agency generally remitted the contributions deducted from employees on or before the 10th day of the following month. 
+
+
+
+15.6	The ending balances of Due to PhilHealth account amounting to ₱157,538.59 pertained to contributions and loan amortizations for remittance to PhilHealth in the ensuing  period.
+
+
+
+15.7	We commended the Management’s compliance with R.A. No. 10606 for the proper withholding of contributions/premiums to promote the welfare of its officials and employees. We also recommended and Management agreed to remit the remaining contributions within the prescribed period as mandated by the PhilHealth.  
+
+
+
+
+
+Enforcement of Audit Suspensions, Disallowances and Charges
+
+
+
+16.     The Statement of Audit Suspensions, Disallowances and Charges (SASDC) reflected zero balances as of December 31, 2020.
+
+
+
+16.1     Section 7.1.1 of the 2009 Revised Rules of Procedures of the Commission on Audit provides that the head of the agency is primarily responsible for all government funds and property pertaining to the agency and ensure that required financial and other reports and statements are submitted by the concerned agency officials in such form and within the period prescribed by the Commission and that all requirements of transactions be complied with to avoid audit suspensions, disallowances and charges. 
+
+
+
+		16.2		During the year, no audit suspensions, disallowances and charges were issued. However, audit observation memoranda (AOMs) were issued to communicate various deficiencies pertaining to the financial transactions of the Agency.
+
+	
+
+16.3	We commended Management’s compliance with the observations communicated through the Audit Observation Memoranda issued, thus, preventing issuance of suspensions, disallowances and charges.
+
+
+
+
+
+
+
+
+
+28
+
+
+
+
+
+
+
+
+

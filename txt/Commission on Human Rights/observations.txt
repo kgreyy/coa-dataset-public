@@ -1,0 +1,2410 @@
+
+
+AUDIT OBSERVATIONS AND RECOMMENDATIONS 
+
+
+
+
+
+FINANCIAL ISSUES
+
+
+
+Good Management Practices
+
+
+
+	Early Implementation of Audit Recommendations on Accounting Deficiencies
+
+	
+
+1)	The Commission on Human Rights (CHR) has implemented various audit recommendations and corrected/adjusted accounts affected by the deficiencies observed to help ensure a fair presentation of account balances reported in the financial statements as required under the IPSAS.
+
+
+
+1)	Paragraph 27 of International Public Sector Accounting Standards (IPSAS) 1 requires that financial statements shall present fairly the financial position, financial performance and cash flows of an entity. Fair representation requires the faithful presentation of the effects of transactions, other events and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in the International Public Sector Accounting Standards (IPSASs). The application of IPSASs, with additional disclosures when necessary, is presumed to result in financial statements that achieve a fair presentation.
+
+
+
+2)	Section 111, Chapter 2 of the Presidential Decree (PD) No. 1445 requires that the agency to keep the accounts in such detail as necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+3)	Commission on Audit (COA) Resolution No. 2019-016 adopted the Guidelines on determining and using materiality threshold in financial audit.  Based on this Guidelines, we determined and set the overall materiality as two percent of the total expenses of the CHR for CY 2020 or P15,327,551.70. 
+
+
+
+4)	The audit of accounts and transactions of the CHR Central Office (CHR-CO) on a test basis, including the transactions of some Regional Offices disclosed some deficiencies which were proposed for adjustment to the Management that have already been implemented and corresponding adjustments were made to help ensure correctness of the account balances presented in the audited financial statements, such as summarized below. 
+
+
+
+
+
+
+
+Audit Observation
+
+Audit Recommendations
+
+Corrective Action
+
+Reference (Appendices)
+
+
+
+Review of financial statement presentation and disclosures:
+
+	Inconsistencies of some narrative and financial information were observed in the Notes to FS while some accounts are not properly disclosed and referred to in the Notes to FS, decreasing financial information value to users and stakeholders if remained uncorrected. 
+
+
+
+We recommended that Management direct the Accountant to prepare the CHR financial statement in a manner prescribed under the PPSAS and the Government Accounting Manual, ensuring accuracy and consistency of financial information along with the disclosures in the process, to enhance its value to users and stakeholders in making and evaluating decisions.
+
+The Management thru the Accountant implemented the recommendations by adopting the recommendations and submitting the updated/corrected financial statements including Notes to FS.
+
+AOM No. 2021-003 dated March 29, 2021
+
+
+
+Reply from the Management referred to as Appendix B.
+
+
+
+Audit of Cash Advances:
+
+Advances for Operating Expenses totaling P30,280,881.03 at the Commission on Human Rights (CHR) remained unliquidated as at December 31, 2020 due to the failure of the CHR-Regional Offices (ROs) to submit immediately the Report of Disbursements and Cash in Bank Register, contrary to Item 4.4.2 and 5.1.2 of COA Circular No. 97-002 and Section 11, Chapter 6, Volume 1 of the Government Accounting Manual; thereby affecting the reliability of the Advances for Operating Expenses and the related Expense accounts. 
+
+
+
+We recommended the Management to: 
+
+
+
+a)	instruct further, thru Office Circular or Memorandum, all concerned Regional Offices to immediately liquidate their advances for operating expenses within twenty (20) days after the end of the year and remind them to ensure strict compliance with COA Circular No. 97-002; 
+
+
+
+b)	direct the Accountant to ensure the proper granting and timely liquidation of advances for operating expenses and make sure that all advances are liquidated at the end of each year; and,
+
+
+
+c)	direct the Accountant to issue demand letter for all cash advances for operating expenses not yet liquidated.
+
+
+
+The CHR thru the Accountant immediately effect adjusting entries and correction of the CY2020 financial statements based on the liquidating documents submitted by the CHR Regional Offices reducing the cash advances balance to P11,258,242.15 comprised of 
+
+the P5,000,000 that represents fund transfer made to Region IVA for the procurement of Land which is still for completion of necessary legal documents for transfer of ownership while the balances of P6,258,242.15 include the required bank maintaining balance and ROs 2020 Accounts Payable which shall be monitored and for reversion if the same is still unused as of June 30 in compliance to OED No. 211.
+
+CHR AOM No. 2021-001 (2020)	dated March 15, 2021
+
+
+
+Reply from the Management referred to as Appendix C.
+
+
+
+
+
+Reconciled balances of PPE
+
+ 
+
+2)	Despite the threat of the COVID 19, the CHR conducted physical inventory of Property Plant and Equipment in CY 2020 and rendered the Report of Physical Count of PPE (RPCPPE) in compliance with the Government Accounting Manual and continuously resolved variances observed in previous year’s Annual Audit Report resulting in reconciled balances of PPE as of December 31, 2020.
+
+
+
+1)	Section 13 Chapter 8, Volume 1 of the Government Accounting Manual (GAM) requires that physical count/inventory is an indispensable procedure for checking the integrity of property custodianship.  Likewise, Section 38, Chapter 10 of the same Manual also provides that: “the entity shall have a periodic physical count of PPE, which shall be done annually and presented on the RPCPPE as at December 31 of each year.  This shall be submitted to the Auditor concerned not later than January 31 of the following year.  Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division for proper accounting/reporting.
+
+
+
+2)	Section 42 further requires that the Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock etc.  The PPELC shall be kept to record promptly the acquisitions, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset.  For check and balance, the Property and Supply Office/Unit shall likewise maintain Property Cards (PC) for PPE in their custody to account for the receipt and disposition of the same.  The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit.  They shall be reconciled with other property records like the Property Acknowledgement Receipt (PAR).”
+
+
+
+3)	Acknowledging the RPCPPE as a powerful tool to effectively track and monitor property and equipment received during the year, missing, damaged as well as unserviceable equipment that needs repair/replacement or disposal and to further provide the basis for updating accounting records, the CHR conducted physical verification exercise during CY 2020 despite the threat of the COVID 19 and intermittent work arrangement adopted by the government.
+
+
+
+4)	As a result, the balances of PPE recorded by the CHR Accounting Office totaling P409,516,104.16 was verified and reconciled with the RPCPPE ensuring existence of the recorded properties complying essential management assertion in the financial statements, as presented below.  
+
+
+
+Table 1 – Comparison of PPE balances per Accounting and Report of Physical Count of PPE
+
+PPE
+
+Per  GL
+
+Per RPCPPE
+
+Variance
+
+Land
+
+P9,512,878.00
+
+P9,512,878.00
+
+none
+
+Buildings
+
+87,004,505.08
+
+87,004,505.08
+
+none
+
+Other Structures
+
+8,443,687.26
+
+8,443,687.26
+
+none
+
+Office Equipment
+
+18,856,013.31
+
+18,856,013.31
+
+none
+
+ICTE
+
+72,382,529.59
+
+72,382,529.59
+
+none
+
+Communication Equipment
+
+395,836.32
+
+395,836.32
+
+none
+
+Medical Equipment
+
+6,715,587.22
+
+6,715,587.22
+
+none
+
+Other Machinery and Equipment
+
+18,808,703.07
+
+18,808,703.07
+
+none
+
+Motor Vehicles
+
+109,781,287.21
+
+109,781,287.21
+
+none
+
+Furniture and Fixtures
+
+5,619,006.06
+
+5,619,006.06
+
+none
+
+Books
+
+112,141.20
+
+112,141.20
+
+none
+
+Leased Assets Improvement-Buildings
+
+55,273,598.79
+
+55,273,598.79
+
+none
+
+Other Leased Assets Improvement
+
+8,967,911.00
+
+8,967,911.00
+
+none
+
+Other PPE
+
+7,642,420.05
+
+7,642,420.05
+
+none
+
+ Total
+
+P409,516,104.16
+
+P 409,516,104.16
+
+ 
+
+
+
+5)	Unlike in previous years where the Audit Team noted variances in PPE balances, the CHR with the guidance of the Focal Commissioner and Executive Director, judiciously exerted extra team effort and coordination to bring in the correct account balances.
+
+
+
+6)	We also observed that completed structures and properties implemented thru Governance for Justice (GOJUST) project have been documented and transferred to the account of the CHR both in the accounting and property records. 
+
+
+
+7)	We enjoined Management to sustain effort and collaboration to ensure early detection and resolution of PPE account variances by conducting annual verification/physical inventory exercise and rendering the RPCPPE in the manner prescribed under the GAM ensuring accuracy of PPE account balances presented in the agency’s financial statements.
+
+
+
+
+
+OTHER FINANCIAL ISSUES
+
+
+
+Accumulation of Advances for Operating Expenses
+
+ 
+
+3)	Delays in disbursing the fund and to submit immediately the Report of Disbursements and Cash in Bank Register have caused the accumulation of Advances for Operating Expenses in the CHR Regional Offices totaling P11.258 million as at year end.  
+
+
+
+1)	Item 4.4.2 of COA Circular No. 97-002 on the Field/Activity Current Operating Expenses (COE), provides that the amount of cash advance shall be limited to the requirements for two months.  Within 5 days after the end of each month, the Accountable Officer (AO) shall submit a Report of Disbursements.  Additional cash advances shall be granted on the basis of the activity budget or the requirements for two months, whichever is lower.
+
+
+
+2)	Item 5.1.2 of the same Circular states that the AO shall liquidate his cash advance for Petty Operating Expenses and Field Operating Expenses within twenty (20) days after the end of the year; subject to replenishment as frequently as necessary during the year.
+
+
+
+3)	Section 11, Chapter 6, Volume 1 of the GAM states that “Field Offices (FOs) without complete set of books shall record chronologically in the Cash in Bank Register (CBReg) (Appendix 37) all checks issued/charged to deposits with the AGDB.  The certified copy of the CBReg together with the required SDs shall be submitted within five days after the end of each month to the concerned mother unit (central/regional/division office) by the FOs (a unit under the central/regional/division office) for review and recording of the transactions in the books of accounts.”
+
+
+
+4)	Paragraph 27 of IPSAS 1 requires that financial statements shall present fairly the financial position, financial performance and cash flows of an entity.  Fair presentation requires the faithful representation of the effects of transactions, other events and conditions in accordance with the definitions and recognition criteria for assets, liabilities, income and expenses. 
+
+
+
+5)	The Conceptual Framework for General Purpose Financial Reporting by Public Sector Entities that laid the foundation for Government Accounting Sector in adopting the IPSAS as the Philippine Public Sector Accounting Standards (PPSAS), deals with the concepts that apply to financial reporting under the accrual basis of accounting.  Under the accrual basis of accounting, transactions and other events are recognized in the financial statements when they occur (and not only when cash or its equivalent is received or paid).  Therefore, the transactions and events are recognized in the financial statements of the periods to which they relate.
+
+
+
+6)	The CHR maintains a centralized recording of financial transactions and Regional Offices do not maintain a complete set of books.  Funds for the operation of the CHR-ROs are being transferred by the CHR-CO in a quarterly basis thru the Land Bank of the Philippines (LBP) maintained by the respective CHR-ROs.  The CBReg is being used by the ROs in recording the funds received, payments made and the balance for any given period.  Transferred funds to ROs were treated as Advances for Operating Expenses at the CO which are monitored and tracked using the Subsidiary Ledger (SL).
+
+
+
+7)	Verification of the CHR records showed that the Advances for Operating Expenses totaling P11,258,242.15 remained unliquidated as of December 31, 2020, as follows: 
+
+
+
+Table 2  - Schedule of Accumulated Cash Advance for Operating Expenses
+
+As of December 31, 2020
+
+RO
+
+Amount
+
+Percent 
+
+
+
+Cash Advances Granted
+
+Liquidation
+
+Accumulated CA balance
+
+
+
+
+
+CYs 
+
+2016-2019
+
+CY 2020
+
+Total
+
+
+
+
+
+
+
+NCR
+
+P506,934.53
+
+P3,323,900.00
+
+P3,830,834.53
+
+P3,821,933.01
+
+P8,901.52
+
+0.1%
+
+CAR
+
+1,019,084.17
+
+5,810,421.52
+
+6,829,505.69
+
+6,288,315.21
+
+541,190.48
+
+4.8%
+
+I
+
+600,372.70
+
+5,426,440.00
+
+6,026,812.70
+
+5,758,303.99
+
+268,508.71
+
+2.4%
+
+II
+
+411,542.97
+
+5,171,616.00
+
+5,583,158.97
+
+5,377,215.74
+
+205,943.23
+
+1.8%
+
+III
+
+2,528,526.56
+
+5,706,628.50
+
+8,235,155.06
+
+7,764,648.52
+
+470,506.54
+
+4.2%
+
+IVA
+
+5,071,649.63
+
+6,268,743.00
+
+11,340,392.63
+
+5,829,275.01
+
+5,511,117.62
+
+49.0%
+
+IVB
+
+615,676.15
+
+4,684,263.00
+
+5,299,939.15
+
+5,192,275.28
+
+107,663.87
+
+1.0%
+
+V
+
+1,263,033.63
+
+5,035,888.00
+
+6,298,921.63
+
+5,568,721.00
+
+730,200.63
+
+6.5%
+
+VI
+
+190,305.73
+
+4,714,457.00
+
+4,904,762.73
+
+4,667,735.32
+
+237,027.41
+
+2.1%
+
+VI-Sub-Office
+
+22,889.65
+
+461,410.00
+
+484,299.65
+
+484,299.65
+
+0.00
+
+0.0%
+
+VII
+
+2,230,832.48
+
+5,617,087.71
+
+7,847,920.19
+
+7,251,664.15
+
+596,256.04
+
+5.3%
+
+VIII
+
+1,470,238.97
+
+5,790,310.91
+
+7,260,549.88
+
+6,932,590.84
+
+327,959.04
+
+2.9%
+
+IX
+
+10,194,980.29
+
+6,555,750.00
+
+16,750,730.29
+
+16,741,995.79
+
+8,734.50
+
+0.1%
+
+X
+
+1,082,845.16
+
+5,509,842.52
+
+6,592,687.68
+
+6,126,430.48
+
+466,257.20
+
+4.1%
+
+XI
+
+1,102,940.32
+
+6,005,451.00
+
+7,108,391.32
+
+6,520,891.32
+
+587,500.00
+
+5.2%
+
+XII
+
+3,319,137.28
+
+5,060,264.27
+
+8,379,401.55
+
+7,986,421.39
+
+392,980.16
+
+3.4%
+
+XIII
+
+546,660.67
+
+5,755,877.63
+
+6,302,538.30
+
+5,505,043.10
+
+797,495.20
+
+7.1%
+
+Total
+
+P32,177,650.89
+
+P86,898,351.06
+
+P119,076,001.95
+
+P107,817,759.80
+
+P11,258,242.15
+
+100%
+
+Per- centage
+
+
+
+
+
+
+
+91%
+
+9%
+
+
+
+
+
+8)	The volume of unliquidated cash advances for CY 2020 was noted in RO IVA which comprised 49 percent or P5,511,117.62 out of the total unliquidated balance of P11,258,242.15; followed by 7.1 percent or P797,495.20 at RO XIII; and 6.5 percent or P730,200.63 at RO V.
+
+
+
+9)	The Executive Director issued Memorandum No. OED-M-18120-301 dated September 18, 2020 to all CHR-ROs to liquidate the unutilized fund transfer for operating expenses.  As a result of the directive, the ROs have fully liquidated the advances for operating expenses granted in CYs 2016 to 2019 totaling P32,177,650.89, however, out of the total cash advances granted in CY 2020 of P86,898,351.06, only the amount of P75,640,108.91 was liquidated, leaving an unliquidated balance of P11,258,242.15 as at year end.  
+
+
+
+10)	The main cause of the accumulation of cash advances was the failure of the Regional Offices to utilize the fund for the purpose these were transferred mainly due to delays in the procurement/acquisition of equipment and other requirements of the ROs owing to restrictions brought about by the COVID-19 pandemic. 
+
+
+
+11)	Hence, due to delays in disbursements, the Cash in Bank Register and Report of Disbursements were not submitted within five days after the end of each month.    Irrespective of the completion date, these should have been liquidated at the end of the accounting period or every end of the year, pursuant to Item 5.1.2 of COA Circular No. 97-002.
+
+
+
+12)	Ultimately, advances for operating expenses of P11,258,242.15 remained unliquidated as of December 31, 2020 defeating the purpose for which these funds were transferred or granted.
+
+
+
+13)	We recommended and Management agreed to: 
+
+
+
+a)	Instruct further, thru Office Circular or Memorandum, all concerned Regional Offices to immediately liquidate their advances for operating expenses within 20 days after the end of the year and remind them to ensure strict compliance with COA Circular No. 97-002 and Section 11, Chapter 6, Volume 1 of the GAM; 
+
+
+
+b)	Direct the concerned CHR Regional Offices to step up procurement activities to ensure timely liquidation of advances for operating expenses and ensure that all advances are liquidated at the end of each year; and
+
+
+
+c)	Direct the CHR-CO Accountant to issue demand letter for all cash advances for operating expenses not yet liquidated.
+
+
+
+
+
+
+
+	
+
+	Inadequate/Incomplete document for disbursements
+
+	
+
+4)	Various disbursements at CHR CAR, ROs III, IVB and XII totaling P1.013 million were not fully supported with complete documentation thus, casting doubt on the validity, legality and propriety of the transactions.
+
+	
+
+1)	Section 4(6) of P.D. 1445 provides that claims against government funds shall be supported with complete documentation.  This is provided for in order to establish the validity, legality and propriety of the claims.
+
+
+
+2)	Detailed testing of the disbursement transactions for CY 2020 conducted by the audit teams at CHR ROs revealed that some claims/payments for various expenses were not fully supported with proper documentation, as enumerated below.
+
+
+
+Table 3 – Schedule of unsupported disbursement at the Regional Offices
+
+Region
+
+Nature of Expenditure
+
+Lacking Documents
+
+Amount
+
+CAR
+
+Procurement of prepaid cards
+
+Acknowledgement receipt and detailed breakdown of procured prepaid cards
+
+P10,990.00
+
+III
+
+Repairs and maintenance of motor vehicle
+
+Pre-inspection reports
+
+28,201.08
+
+IVB
+
+Payment for various government disbursements; i.e., rental of office building for the period January-October 2020, Reimbursement of traveling exp., Salaries of JO driver for Jan.-Oct. 2020, Catering of services for seminar held on Feb. 2020, Replenishment of Operating exp., Courier exp. For Jan-Oct 2020, Photocopying machine toner kits, Maintenance of motor vehicles, supply and delivery of personal hygiene kits for activity held, and Reimb of Zoom subscription held in August-October 2020
+
+Documents as required under COA Circular No. 2012-001
+
+852,641.93
+
+XII
+
+Payment for various government disbursements such as: reimbursement of travel, salaries of contractual employees for the months of March-June 2020, and water bill for April-May 2020
+
+Documents as required under COA Circular No. 2012-001
+
+120,987.79
+
+
+
+Total
+
+
+
+P1,012,820.80
+
+	
+
+3)	The absence of complete documentation to support the disbursement of government funds, the Audit Teams could not determine the validity, propriety of the transactions and legality of the claims.
+
+
+
+4)	We recommended and Management of concerned CHR ROs agreed to require their respective Accountants to review and verify the completeness and validity of the documentary requirements prior to payment of expenses.
+
+
+
+
+
+Financial and Community Assistance
+
+
+
+5)	Out of the 291 total approved beneficiaries for CHR NCR, ROs I, IVA, IVB and XII, only 40 percent or a total of 117 were granted  total benefits of P1.831 million while the remaining 60 percent or a total of 174 approved beneficiaries with total benefits of P183,000.00  were not yet released as 35 beneficiaries have insufficient contact information needed for the release of checks/delayed processing of benefit claims and 139 benefit claims were hampered due to delayed request for additional FA fund from CHR Central Office thus, the objectives of Financial and Community Assistance project has not fully been realized/attained.
+
+
+
+1)	Resolution CHR (V) No. AM2019-024 dated January 21, 2019 provides the Procedures and Work Instructions Manual (PAWIM) on the Grant of Financial Assistance (FA), pending the review of the Revised Omnibus Rules of Procedures in the Investigation of Human Rights and Violations and Abuses (HRV/A), and the Provision of CHR Assistance and other Remedies.   
+
+
+
+2)	Item IV of the Resolution states that the CHR-Financial Assistance Program shall be implemented by respective CHR Regional Offices (ROs).  The claims for financial assistance shall be treated as a supplemental measure to a case for human rights violation.  This presupposes the existence of a complaint for human rights violation with the Commission or any of its offices, and the claimants or beneficiary/ies are fully cooperating with the Commission. 
+
+
+
+3)	A claim for financial assistance is initiated by the filing of the case for human rights violation before the CHR-RO, which has the territorial jurisdiction over the case and upon whose area of responsibility the subject matter of the violation occurred.
+
+
+
+4)	A complaint for human rights when filed, shall always be investigated by the RO concerned.  The findings for the grant of financial assistance shall be contained in a separate resolution, identifying therein the person(s) entitled to receive the assistance herein provided and the amount allowed.  This same resolution shall constitute the sole basis for the RO to process and release the claim for financial assistance.  
+
+
+
+5)	Item VII of the CHR PAWIM provides the Victims Financial Assistance Package, as follows:
+
+
+
+a)	Survivor Benefits – The amount of P20,000.00 per victim shall be granted as financial assistance to the qualified beneficiaries, who died by reason of HRV/A;
+
+
+
+b)	Rehabilitation Assistance – For victims of unjust imprisonment/detention, the financial assistance shall be based on the number of months of imprisonment or detention and every fraction thereof shall be considered as one month.  The financial assistance shall be P2,000.00 per month; provided, however, that the maximum amount of financial assistance shall not exceed P20,000.00;
+
+
+
+c)	Special Coverage – Financial assistance shall be given to the victims and survivors of violation of Republic Act No. 9710, otherwise known as “The Magna Carta of Women”, which shall not be less than P10,000.00 per victim but not to exceed P30,000.00 per victim.
+
+
+
+	Financial assistance shall also be granted to victims of cases involving violations of the rights of the child, which shall not be less than P10,000.00 but not to exceed P30,000.00
+
+
+
+	Victims of violation of RA 8353, otherwise known as the “Anti-Rape Law of 1977”, shall be granted financial assistance of P20,000.00.  If the victim is a child as defined under RA 7610, otherwise known as the “Special Protection of Children Against Abuse, Exploitation and Discrimination Act”, financial assistance of P30,000.00 shall be granted.
+
+
+
+	An amount not to exceed P20,000.00 per victim shall be extended to victims of violation of RA 9262, otherwise known as the “Anti-Violence Against Women and Their Children Act of 2004”.  In instances where a Case Resolution has identified multiple victims, the financial assistance to be granted shall in no case exceed a total of P100,000.00 which shall be equally divided amongst the victims;
+
+
+
+d)	Benefits for Children in Conflict with the Law – Children in conflict with the law whose rights are violated under RA 9344, otherwise known as the “Juvenile Justice and Welfare Act of 2006”, as amended by A 10630, shall be entitled to a financial assistance of P10,000.00 but not to exceed P20,000.00;
+
+
+
+e)	Community Assistance for Internally-Displaced Persons as Victims of Counter-Insurgency – Members of communities/groups of families who are displaced from their place of abode as a result of counter-insurgency operations by the Armed Forces of the Philippines shall be entitled to a dislocation allowance of P10,000.00 per family; and
+
+
+
+f)	HRV/A Against Members of Marginalized and Vulnerable – Financial assistance in the amount not to exceed P15,000.00 shall be granted to victim/s of discrimination and, such other HRV/A committed against members of the marginalized and vulnerable sectors.
+
+
+
+6)	As of December 31, 2020, the CHR NCR, ROs I, IVA, IVB and XII approved claims and granted financial assistance under the Community and Rehabilitation Financial Assistance, details of which are as follows:
+
+
+
+Table 4 -  Status of Fund Transfer for Financial Community Assistance to Regional Offices
+
+RO
+
+Fund Transfer
+
+Approved No. of Claimants
+
+No. of Beneficiaries Benefited
+
+Total Amount Dis-tributed
+
+No. of Beneficiaries Not yet Benefited
+
+Unreleased Checks for Claimants
+
+ Fund Balance 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NCR
+
+P240,000.00
+
+3
+
+0
+
+0.00
+
+3
+
+
+
+P30,000.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*210,000.00
+
+
+
+I
+
+450,000.00
+
+40
+
+36
+
+P410,000.00
+
+4
+
+P40,000.00
+
+0
+
+
+
+IVA
+
+1,275,000.00
+
+64
+
+50
+
+910,000.00
+
+14
+
+0
+
+365,000.00 
+
+
+
+IVB
+
+205,000.00
+
+8
+
+8
+
+190,000.00
+
+-
+
+-
+
+15,000.00
+
+
+
+XII
+
+463,500.00
+
+176
+
+23
+
+320,500.00
+
+14
+
+143,000.00
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+  **139
+
+
+
+
+
+
+
+Total
+
+P2,633,500.00
+
+291
+
+117
+
+P1,830,500.00
+
+174
+
+P183,000.00
+
+P620,000.00 
+
+
+
+Percent
+
+
+
+40%
+
+
+
+60%
+
+
+
+
+
+
+
+   *Amount reverted to CHR-CO
+
+**No. of human rights victims waiting for the release of FA fund
+
+	
+
+7)	Based on the above table, we noted that out of the total funds transferred amounting to P2,633,500.00, the amount of P1,830,500.00 has already been distributed to the 117 approved claimants, while the amount of P183,000.00 pertained to unreleased checks, leaving an unutilized financial assistance of P620,000.00.  It was also noted that of the 291 approved number of claimants, 174 are not yet benefited.  It was further noted that 18 victims from CHR ROs I and XII have checks readied, but the benefits were not yet distributed since they could not be located due to insufficiency of contact information.  In CHR NCR and RO IVA, 17 human rights victims  have not been benefited from the financial assistance due to delay in processing payments; while in CHR RO XII, 139 human rights victims have not benefited yet due to delayed request for additional FA fund from CHR Central Office for the regional office to process the payments.  
+
+
+
+8)	Had the CHR undertaken proper measures on the timely establishment of permanent contact number and address of the approved claimants, and processing of payments and request for additional fund for financial assistance early on, the benefits could have been given right away to the victims of human rights violations who were in dire need of financial assistance, thus, the purpose of the grants, that is timely humanitarian services from the government, is not defeated. 
+
+
+
+9)	We recommended and Management agreed to:
+
+
+
+	a)	Require concerned CHR ROs to enhance payment processing by gathering needed documents and contact information of beneficiaries so that Financial and Community Assistance will be distributed on a timely basis; and
+
+
+
+	b)	Direct the CHR NCR, ROs IVA and XII to study the trend on the number of applicants and probable beneficiaries so that timely request and programming of needed funding and processing of payments be made to increase the number of beneficiaries to fully attain the purpose of the grants and to ensure that government humanitarian services are timely received by those concerned.
+
+
+
+
+
+	Delayed submission of accounting reports and supporting documents
+
+
+
+6)	Delayed submission of financial reports and supporting documents in CHR-NCR, ROs I, II, III, IVA, IVB, XI and XII precluded the Audit Team to have a systematic and effective review of the documents with the end view of generating timely and relevant audit results that may be communicated to Management for their information and basis in their financial decision making purposes. 
+
+
+
+1)	Section 11, Chapter 6, Volume 1 of the GAM states that Field Offices (FOs) without complete set of books shall record chronologically in the Cash in Bank Register (CBReg) (Appendix 37) all checks issued/charged to deposits with the AGDB.  The certified copy of the CBReg together with the required SDs shall be submitted within five days after the end of each month to the concerned mother unit (central/regional/division office) by the FOs (a unit under the central/regional/division office) for review and recording of the transactions in the books of accounts.   
+
+
+
+2)	Section 7.2.1a of COA Circular No. 2009-006 requires that the Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that the reports and supporting documents submitted by the Accountable Officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month.
+
+
+
+3)	Section 3.1.1 of COA Circular No. 2009-001 provides that within five (5) working days from the execution of a contract by the government or any of its subdivisions, agencies or instrumentalities, including government-owned and controlled corporations and their subsidiaries, a copy of said contract and each of all the documents forming part thereof by reference or incorporation shall be furnished to the Auditor of the agency concerned.
+
+
+
+4)	Section 5, Chapter 21 of GAM, Volume I, requires that Chief Accountant/Designated Staff shall within 10 days from receipt of the monthly Bank Statement (BS) together with the paid checks, original copies of Debit Memoranda (DM)/Credit Memoranda (CM) from the Government Servicing Bank (GSB), reconcile the BS with the general ledger and prepare the BRS in four copies.
+
+
+
+5)	Verification of records at CHR- NCR, ROs I, II, III, IVA, IVB, XI and XII showed that the designated Accountants of the respective ROs failed to submit financial reports and supporting documents within the prescribed period, as follows: 
+
+
+
+Table 5 –Schedule of Delays in submitting financial reports and documents
+
+Office/RO
+
+Financial report/ documents
+
+Period Covered
+
+Due date of submission
+
+No. of months/ days delayed
+
+NCR
+
+CBReg
+
+January 2020 to December 2020
+
+Every 5th day of the following month
+
+One to Six months
+
+RO I
+
+DVs and supporting documents
+
+June, September and December 2020
+
+Every 10th day of the following month
+
+26 days to Seven months
+
+RO II
+
+Contracts/POs
+
+January to November 2020
+
+Within five (5) working days from the execution of a contract
+
+10 days to 11 months
+
+RO III
+
+DVs and LRs  
+
+January to December 2020
+
+Every 10th day of the following month
+
+Two to 10 months
+
+
+
+BRS
+
+January to December 2020
+
+Every 10th day of the following month
+
+One to 13 months
+
+RO IVA
+
+DVs and LRs  
+
+February to December 2020
+
+Every 10th day of the following month
+
+One to Six months
+
+RO IVB
+
+Contracts/POs
+
+January to December 2020
+
+Within five (5) working days from the execution of a contract
+
+One to Nine months
+
+RO XI
+
+DVs
+
+February to September 2020
+
+Every 10th day of the following month
+
+One day to Three months
+
+RO XII
+
+RCI & DVs
+
+January to December 2020
+
+Every 10th day of the following month
+
+Seven days to Ten months
+
+
+
+6)	The Officers-in Charge of the concerned CHR ROs explained that delays in the submission of accounting reports and supporting documents were attributed to the pandemic that caused work suspensions and affected the whole country.  Since health protocols were implemented, the agency had adopted an Alternative Work Arrangement which reduced the manpower of the agency since not all employees could report at the office premises at same time, affecting performance causing delay in the preparation and submission of the needed reports.
+
+
+
+7)	While we acknowledged the consequences of the declaration of community quarantine and the risk brought about by the pandemic, prolonged delay in the submission of financial reports and supporting documents to the COA Auditors within the prescribed period hindered the appropriate review and evaluation of the transactions.  Thus, precluded the Audit Team from conducting timely audit and early detection and/or correction of errors that could have been readily relayed to Management for immediate appropriate action.
+
+
+
+8)	We recommended and Management of concerned CHR-ROs agreed to require designated Accountants to comply with the rules and regulations on the submission of financial reports and corresponding supporting documents and ensure that these are submitted to the Auditor within the prescribed period.
+
+
+
+
+
+Review of Governance in Justice Project agreements
+
+
+
+Unclear line of financial accountability and custodial responsibility for GOJUST Project
+
+
+
+7)	Financial processing, documentation and recording for Governance in Justice (GOJUST) - Human Rights transactions were primarily held by the CHR Chief Accountant without a clear line of authority while custody of financial records was passed on to the Commission on Audit – CHR unnecessarily exposing the COA of custodial responsibility. 
+
+
+
+1)	The European Union – Agencia Espanola de Cooperacion Internacional para el Desarrollo (Spanish Agency for the International Development Cooperation - AECID) Justice Sector Reform Programme: Governance in Justice (GOJUST) Project aims to promote an equitable access to justice and its efficient enforcement for all citizens in general and poor and disadvantaged people, including women, children, minorities, indigenous peoples, and human rights and social activists, in particular.----footnote1----
+
+
+
+2)	The programme focused on four interrelated components with the objective to put in place the conditions for a credible and accountable sector-wide, long-term reform of the justice system.  Firstly, it will strengthen the Justice System Coordinating Council and support it in the development of a sector reform agenda and its constituting elements.  Secondly, it will decongest selected courts, streamline case management processes and promote the modern concept of electronic Courts.  Thirdly, it will reinforce the administrative and financial management capacity of the Supreme Court and the Department of Justice.  Fourthly, it will enhance the capacity and support the efforts of independent constitutional bodies and the civil society to exercise oversight and demand accountability from the justice system with a particular focus on major human rights violations.
+
+
+
+3)	The fourth component of the programme is managed by the AECID.  This component has two main partners in the Philippines:
+
+
+
+--	The Commission on Human Rights of the Philippines (CHR)
+
+--	The Regional Human Rights Commission of the Autonomous Region of Muslim Mindanao (RHRC)
+
+
+
+4)	The following graphic illustrates the implementation modalities of the programme:
+
+
+
+----media/image1.emf----
+
+5)	The GOJUST HUMAN RIGHTS is co-financed by the European Union, EUR5,000,000 and by the AECID, EUR2,000,000, while the CHR, as beneficiary, shall not co-finance the program/action.  
+
+
+
+6)	The budget and the corresponding amount which ran from CY2015 to CY2018, is summarized and presented in Annex III: Budget for the Action of the European Union Delegation Agreement DCI-ASIE/2015/371-522, such as follows:
+
+
+
+Table 6 – GOJUST Project Budget
+
+BUDGET HEADINGS
+
+TOTAL
+
+Project Management Office (PMO)
+
+EUR 2,175,600.00
+
+Component 1: The institution, operational, and technical capacity of the Commission on Human Rights (CHR) and its staff, including through the building of partnership with civil society organizations (CSOs) are strengthened.
+
+EUR 2,027,455.68
+
+Component 2: The institution, operational, and technical capacity of ARMM Regional Human Rights Commission (RHRC) is strengthened including partnership with local civil society organizations (CSOs)
+
+EUR   574,934.27
+
+Component 3: The human rights promotion and protection role of the CSOs is reinforced, including through strategic litigation, monitoring of HR violations and support to victims
+
+EUR 1,252,780.00
+
+Component 4: The human rights monitoring and data management is strengthened through the establishment of an Observatory for Human Rights in the Philippines
+
+EUR   542,000.00
+
+TOTAL Direct Costs
+
+EUR  6,572,769.95
+
+Indirect Costs (6.5%)
+
+EUR     427,230.05
+
+TOTAL
+
+EUR  7,000,000.00
+
+
+
+7)	Also, the following were provided under Annex I: Description of the Action of the aforementioned Delegation Agreement:
+
+
+
+“5.2 	Project management
+
+
+
+5.2.1 Responsible body
+
+
+
+The contracting authority is the European Union, represented by the European Commission on behalf of and for the account of the Government of the Republic of the Philippines and the Spanish Agency for International Development Cooperation represented by the Technical Cooperation Office (TCO) of the Spanish Cooperation in the Philippines.  A programme/project manager will be appointed by the TCO.
+
+
+
+5.2.2 Implementation modalities and Management structure
+
+
+
+AECID will process bilateral grants resolutions with the CHR and the RHRC for the implementation of their respective activities already identified for the whole duration of the programme.  These grants will follow the Spanish Rules and Regulation for International Development Cooperation Grants, which have been pillar-assessed.  They will also comply with the provisions of the Delegation Agreement signed between AECID and the EU.
+
+
+
+Within this component, a partnership with Philippine Civil Society Organizations will be established mainly through the KaSaMa initiative.  KaSaMa is an initiative of the international community in the Philippines to promote dialogue with civil society, and through a participatory process, identify and conceptualize innovative and strategic human rights projects.
+
+
+
+During the inception phase (first 6 months of the programme), the management structure of the programme with the implementing partners will be set up, as well as the reporting tools, validation of expenditures, the system to validate all procurements, etc.  The Performance Measurement Framework (PMF) of the programme will be also created including the validation of the already identified indicators, the baseline and targets per indicator and per implementation year.
+
+
+
+A Monitoring Committee (Project Steering Committee) will be created.  This Committee supervises the proper execution and management of the programme in order to ensure the implementation of the planned activities and the achievement of the proposed results.  The Project Steering Committee is composed by representatives of the implementing partners, the donors (in this case the EU and the AECID) and the National Economic and Development Authority (NEDA), as the Philippine focal institution in terms of development cooperation.  The Committee will validate the different Annual Operational Plans of the programme.
+
+
+
+The Project Management Unit (PMO) for GOJUST Human Rights will be under the contractual responsibility and under the direct supervision of the Technical Cooperation Office (TCO) of the Spanish Cooperation in the Philippines.  The consultancy services of this Project Management Unit will be recruited through a consultancy firm following a negotiated procedure without prior publication.
+
+
+
+Within each of the implementing partners, a Technical Working Group (TWG) will be set up.  This TWG should be assigned by relevant representative of the CHR and the RHRC in agreement with the Technical Cooperation Office (TCO) of the Spanish Cooperation in the Philippines.  In accordance with the powers delegated to them by the relevant representative of the CHR and the RHRC, the TWG shall draw up and implement consecutive programme estimates, awards contracts and grants, commit expenditures and make the corresponding payments. At least one member of the TWG per implementing partner must be a Philippine civil servant and have confirmed management capacities.  He/she will head the Technical Working Group (TWG) which shall be responsible for the day-to-day management of the project and funds.  The TWG consists of seconded staff, programme hired staff, and the short term technical assistance. 
+
+
+
+The TWG within the implementing partners should report directly to the PMO of the project.
+
+
+
+The TWG of the CHR shall serve as secretariat to the Programme Steering Committee (PSC).  A PSC shall set up to oversee and validate the overall direction and policy of the project.  The PSC shall meet at least three times a year or as necessary.  It shall be comprised of the CHR and the RHRC, as the implementing partners; the National Economic and Development Authority (NEDA), as the Philippine focal institution in terms of development cooperation; and in principle all implementing partners; representation of the EU Delegation and the Technical Cooperation Office of the Spanish Cooperation in the Philippines and the PMO of the programme.”  (underscoring and highlight supplied)
+
+
+
+8)	On the other hand, Item 10 of the Grant Award Resolution executed by AECID (N/Ref. File no. 2016/SPE/0000400002) provides:
+
+
+
+“Grant justification.
+
+
+
+	The beneficiary shall comply with its own regulations for the financial justification of the funded project, in accordance with the established mechanisms in their applicable procedures and regulations:  the Procurement Act of the Philippines RA9184 and Philippine Government Accounting Standards – PGAS.
+
+
+
+	The grant will be justified through supporting documents of the expenses incurred in implementing the program, the submission of financial statements and the Auditor’s report.  This will include the comparative table of budget items, approved and implemented, and the Auditor’s report.”
+
+
+
+9)	The conditions for archiving are set forth under Item 16.3 Annex II: General Conditions for PA Grants or Delegations Agreement DCI-ASIE/2015/371-522:
+
+
+
+“ Archiving
+
+
+
+	16.3	For a period of five years from the End Date defined in Article 13.5 or up to the date of the limitation period of any claim pursuant to the applicable law governing the Agreement and any Procurement Contracts or Grants concluded under the Agreement if the latter last longer, the Organisation shall keep and make available according to Article 17 all relevant financial information in its original form (electronic as the case may be) or, in exceptional and duly justified cases, certified copies of original documents related to the Agreement and to any Procurement Contracts, Grant agreements and financial support to third parties concluded under this Agreement.”
+
+
+
+10)	Moreover, access and financial checks under Item 17 of the same Annex, provides:
+
+
+
+“ 17: Access and financial checks
+
+
+
+17.1	The Organisation shall allow the Eurepean Commission and the European Court of Auditors, or any other authorized representatives to conduct desk reviews and on-the-spot checks on the use made of the EU contribution (including procedures for the award of Procurement Contracts and Grants) on the basis of supporting accounting documents and any other documents related to the financing of the Action.
+
+
+
+17.2	The Organisation agrees that OLAF may carry out investigations, including on-the-spot checks, in accordance with the provisions laid down by EU law for the protection of the financial interests of the EU against fraud, corruption and any other illegal activity and, where applicable, any administrative cooperation arrangements concluded between OLAF and the Organisation’s anti-fraud bodies.
+
+
+
+17.3	To that end, the Organisation undertakes to provide officials of the European Commission, OLAF and the European Court of Auditors and their authorized agents, upon request, information and access to any documents and computerized data concerning the technical and financial management of operations financed under the Agreement, as well as grant them access to sites and premises at which such operations are carried out.  The Organisation shall take all necessary measures to facilitate these checks in accordance with its Regulations and Rules.  The documents and computerized data may include information which the Organisation considers confidential in accordance with its own established Regulations and Rules or as governed by contractual agreement.  Such information once provided to the European Commission, OLAF, the European Court of Auditors, or any other authorized representatives, shall be treated in accordance with EU confidentiality rules and legislation and Article 6.  Documents must be accessible and filed in a manner permitting checks, the Organisation being bound to inform the European Commission, OLAF or the European Court of Auditors of the exact location at which they are kept.  Where appropriate, the Parties may agree to send copies of such documents for a desk review.
+
+
+
+17.4	In case of the European Commission or their authorized agents, if the Organisation is an international organization, verifications shall cover on-the-spot checks and desk-reviews and follow any verification provisions agreed with the European Commission.  If the Organisation is not an international organization an investigation or audit may be performed.
+
+
+
+11)	The Commission on Human Rights (CHR) as beneficiary of the Grant and as the Partner, implemented the Grant based on the terms and conditions on the aforesaid EU Delegation Agreement and AECID Resolution.  The grant and the implementation thereof have been completed in 2020.
+
+
+
+12)	During the Grant’s implementation, financial processing partakes of a custodial fund or private fund using the Philippines Commission on Audit (COA) accounting system.  The COA-developed e-NGAS has been used in the recording of financial transactions as well as the generation of financial reports.  The CHR’s Chief Accountant is primarily the responsible person in ensuring the propriety of the financial transactions and financial reports which is not in consonance and unclear within the terms of the Delegation Agreement. 
+
+
+
+13)	It can be recalled that in the Delegation Agreement, the TWG shall draw up and implement consecutive programme estimates, awards contracts and grants, commit expenditures and make the corresponding payments. At least one member of the TWG per implementing partner must be a Philippine civil servant which shall be responsible for the day-to-day management of the project and funds.  The TWG consists of seconded staff, programme hired staff, and the short term technical assistance. The TWG within the implementing partners should report directly to the PMO of the project.
+
+
+
+14)	Nothing in the aforementioned Agreement that points out financial responsibility to CHR’s Chief Accountant.  However, in as much as the Grant’s financial transactions were processed under the context of COA rules and regulations, financial accountability and reporting thereof were indirectly lodged to the Chief Accountant while custody of financial records and reports has also been passed on to COA CHR.
+
+
+
+15)	We observed that this practice of passing financial accountability to CHR Chief Accountant and the custodial responsibility to COA for financial documents, records and reports were not sanctioned neither by the Delegation Agreement nor by the AECID resolution.  Worst, this practice unnecessarily exposed the COA to be accountable for the documents passed on by the Project’s Technical Working Group (TWG) and invite impression that COA is looking or auditing the Grant’s financial transactions where they are not authorized nor obliged to do so.  
+
+
+
+16)	It has to be highlighted as well that the AECID has contracted the services of private auditing firm wherein in numerous occasions during the pandemic had requested documents and reports in COA’s custody as well as physical presence of COA’s staff to locate documents needed for their review. 
+
+
+
+17)	It is worth mentioning that COA as the Philippine Supreme Audit Institution is totally independent of the CHR or any agency and government instrumentalities for that matter.  It has no obligation or authority to audit private fund unless covered by contract or formal agreement and unless there are indications that the project exposed the government agency to fraud risk, reputation risk and use of additional government resources. 
+
+
+
+18)	While the Grant has already been completed, unburden of custodial responsibility of COA for financial records and documents pertaining to GOJUST project is inviting.  
+
+
+
+19)	We recommended and Management agreed to:
+
+
+
+	a)	Direct the GOJUST Technical Working Group to pull out all the financial documents, records and reports from the COA CHR Auditing unit to unburden them of unnecessary custodial responsibility; and
+
+
+
+	b)	Ensure that clear lines of responsibility and accountability for financial processing and reporting of CHR personnel particularly the Accountant over custodial (private) fund is thoroughly delegated and defined on similar undertakings in the future.
+
+
+
+
+
+Non-disposal of unserviceable properties at CHR Regional Offices III, VI, IX and XIII 
+
+
+
+8)	Sixty-two units of unserviceable/obsolete PPEs totaling P3.770 million were not disposed of in the CHR ROs III, VI, IX and XIII as at December 31, 2020, thereby exposing such properties to further deterioration and depriving the agency of additional income from the immediate sale thereof. 
+
+
+
+1)	Section 79 of PD 1445 provides that when government property has become unserviceable for any cause, or is no longer needed, it shall, upon the application of the officer accountable therefore, be inspected by the head of the agency or his duly authorized representative in the presence of the auditor concerned and, if found valueless or unsalable, it may be destroyed in their presence.  If found to be valuable, it may be sold at public auction to the highest bidder under the supervision of the proper committee on the award or similar body in the presence of the auditor or his authorized representative.
+
+
+
+2)	Moreover, Section 42.h, Chapter 10 of the GAM, Volume I required the use of the Inventory and Inspection Report for Unserviceable Property (IIRUP) to account for all unserviceable properties of an entity which are subject to disposal.  It also serves as the basis in derecognizing the unserviceable properties carried in the PPE accounts.
+
+
+
+3)	Verification showed that the unserviceable PPE of the CHR ROs III, VI, IX and XI totaling P3,770,323.86 are not yet disposed of as of December 31, 2020.  The unserviceable PPE of the CHR ROs are as follows:
+
+
+
+	Table 7 – Unserviceable Properties not yet disposed of
+
+	As of December 31, 2020
+
+	Regional Office
+
+	Amount
+
+	Unserviceable PPE
+
+	Quantity
+
+	III
+
+	772,042.60
+
+	Motor Vehicle
+
+	1
+
+	
+
+	
+
+	Office Equipment
+
+	3
+
+	
+
+	
+
+	ICTE
+
+	6
+
+	VI
+
+	1,408,856.29
+
+	Motor Vehicle
+
+	3
+
+	
+
+	
+
+	Office Equipment
+
+	5
+
+	
+
+	
+
+	ICTE
+
+	15
+
+	IX
+
+	192,791.17
+
+	ICTE
+
+	4
+
+	XIII
+
+	1,396,633.80
+
+	Motor Vehicle
+
+	4
+
+	
+
+	
+
+	Office Equipment
+
+	2
+
+	
+
+	
+
+	ICTE
+
+	19
+
+	Total
+
+	3,770,323.86
+
+	
+
+	62
+
+
+
+4)	Upon inquiry with the OIC, Administrative Officer of CHR RO III, the disposal activity is on-going but was not fully undertaken caused by the Covid-19 pandemic.  On the other hand, a letter request for authority to dispose the unserviceable properties was submitted to CHR CO on July 2, 2020 by the Inspection and Disposal Committee of CHR RO VI for approval, but no action was taken yet.  In CHR RO IX, the properties were already determined to be unserviceable and/or obsolete, however, the report on Inventory and Inspection Report of Unserviceable Property (IIRUP) was not prepared as of December 31, 2020.  In CHR RO XIII, a letter requesting authority was sent to the CHR CO to dispose unserviceable properties and in response, a Memorandum from the Office of the Chairman dated September 10, 2020 was issued granting authority to dispose unserviceable properties, and received by the RO XIII on September 28, 2020. But as of December 31, 2020, the properties remain undisposed causing further deterioration thereby decreasing their realizable value.
+
+
+
+5)	The inability to undertake the process of disposal of unserviceable and fully depreciated assets entail additional storage space for the CHR-ROs and deprives the agency of additional income these assets may yield had these been sold earlier.
+
+
+
+
+
+
+
+
+
+6)	We recommended and Management agreed to require the:
+
+
+
+a)	Disposal Committee of CHR ROs III and XIII to facilitate the immediate and systematic disposal of all unserviceable properties in accordance with existing rules and regulations in order to prevent their further deterioration and maximize recoverable values/income therefrom;
+
+	
+
+b)	CHR RO VI to follow up the request for authority to dispose of the unserviceable properties from the CHR CO; and
+
+
+
+c)	Disposal Committee of CHR RO IX to prepare IIRUP and cause the disposal of all unserviceable properties.
+
+
+
+
+
+COMPLIANCE ISSUES
+
+
+
+Advance payments for the procurement of equipment at CHR CAR
+
+
+
+9)	Advance payments were made for the procurement of equipment totaling P102,095.04, contrary to existing laws, rules and regulations. 
+
+
+
+	1)	Section 88 (1) of P.D. No 1445 - Prohibition against advance payment on government contracts. -  Except with the prior approval of the President, the government shall not be obliged to make an advance payment for services not yet rendered or for supplies and materials not yet delivered under any contract therefor.   
+
+
+
+	2)	On November 29, 2019, the amount of P160,000.00 was transferred by the CHR - Central Office to the bank account maintained by the CHR-CAR, the Land Bank of the Philippines, for the procurement of manual typewriter, copier/printer, portable electric generator, and portable sound system with mixer and microphone.  
+
+
+
+	3)	Post-audit of disbursement vouchers covering the procurement of portable sound system and portable electric generator totaling P102,095.04 disclosed that payment was made before the delivery of the equipment contrary to the above stated regulation. The details are as follows:
+
+
+
+Table 8 – Schedule of Advance Payments to Suppliers
+
+Payee/Supplier
+
+Check
+
+Inspection and Acceptance Report
+
+
+
+No.
+
+Date
+
+Amount
+
+Date received by Supplier
+
+No.
+
+Date
+
+Date Inspected
+
+Date Accepted
+
+Wilconstruct Enterprise
+
+1826252
+
+3/3/2020
+
+P73,821.43
+
+3/12/2020
+
+20-05-006
+
+5/19/2020
+
+5/19/2020
+
+5/19/2020
+
+Robinsons Appliances Corp.
+
+1826253
+
+3/3/2020
+
+28,273.61
+
+3/13/2020
+
+20-05-005
+
+5/19/2020
+
+5/19/2020
+
+5/19/2020
+
+Total
+
+
+
+
+
+P102,095.04
+
+
+
+
+
+
+
+
+
+
+
+
+
+	4)	Analysis also showed that it took 67 to 68 days for the suppliers to deliver the equipment from the date of receipt of the check.  However, liquidated damages were not imposed to the suppliers for the delayed deliveries of equipment.    
+
+
+
+	5)	It should be stressed that payment must only be made after delivery of the equipment and appropriate inspection and acceptance procedures have been complied with as evidence by the delivery receipt and certificate of inspection and acceptance. 
+
+
+
+	6)	We recommended and Management of CHR CAR agreed to refrain from paying in advance the procured goods and services and strictly ensure adherence to Section 88 of P.D. No. 1445 and other existing laws and regulations pertaining to disbursement of public funds.
+
+
+
+	7)	The Management of CHR CAR explained that a three-day clearing period was needed by the Supplier if payment is to be made through check.  It was explained further that the transaction did not push through because of the lockdown where the entire Luzon was put on Enhanced Community Quarantine (ECQ) status, stopping work/activities.  Office personnel officially reported for work on May 18, 2020. 
+
+	
+
+	
+
+Non-evaluation of technical eligibility of suppliers
+
+
+
+10)	The Bids and Awards Committee (BAC) in CHR RO I did not conduct an evaluation as to the technical eligibility of suppliers using the prescribed additional set of parameters for the procurement of security services with contract amount of ₽541,800.00, contrary to existing Guidelines on the Procurement of Security and Janitorial Services thus, resulting in improper determination of the winning bidder. 
+
+
+
+10.1  Section 4 of Appendix 23 of the Revised Implementing Rules and Regulations (RIRR) of RA 9184 provides the guidelines on the procurement of security services, to wit:
+
+
+
+a)	Procuring entities are highly encouraged to evaluate the technical proposal of bidders using the additional set of parameters prescribed in Appendix A of these guidelines. However, considering that procuring entities have different needs and requirements, the minimum standard for each parameter shall be determined by the procuring entity. Additional technical parameters and minimum standard for each parameter must be expressly stated under Section VII. Technical Specifications of the Philippine Bidding Documents for the Procurement of Goods.
+
+
+
+b)	To determine compliance with these parameters, procuring entity may require additional documents or materials as part of the bidder’s technical proposal.  These additional documents must be expressly stated in Section VII. Technical Specifications of the PBDs for the Procurement of Goods consistent with Section 25.2 (a) (vii) of the IRR of R.A. 9184.”
+
+
+
+c)	The procuring entity shall check compliance with the technical parameters using a non-discretionary “pass/fail” criterion.
+
+
+
+	1)	In the audit of procurement for security services in CY 2020 with a contract price amounting to ₽541,800.00, which is the same amount of Approved Budget for the Contract (ABC), for CHR RO I, no documents were shown that the  BAC  conducted an evaluation of the technical eligibility of suppliers using the additional set of parameters prescribed in Appendix A by checking compliance with these parameters using a non-discretionary “pass/fail” criterion, which is not in adherence to the aforesaid guidelines. The winning bidder was determined only on the basis of bid amount or the lowest amount tendered.  
+
+
+
+	2)	Inspection of the print-out of the PhilGeps posting of the Request for Quotation (RFQ) as well as the RFQs sent to the bidders disclosed that the prescribed additional set of technical parameters containing the agency’s minimum standard for each parameter was not expressly stated thereon.
+
+
+
+	3)	The BAC explained that the bidders were required to submit a profile of their companies which were evaluated to check their technical and legal compliance.  However, the submitted company profiles did not include the additional set of technical parameters as set forth in Appendix A. Hence, the evaluation conducted was not complete and not in accordance with the guidelines of the procurement law.  
+
+
+
+	4)	As reiterated in Appendix 23 of the same RIRR, “the proper and efficient procurement of security services should be based not solely on cost, but should also take into consideration a range of factors, such as but not limited to, length of contract, standards of internal governance, adequacy of resources, levels of training, and adherence to labor and other social legislation. Thus, the winning bid is determined by the lowest calculated and responsive bid.”  
+
+
+
+	5)	The failure of the BAC to conduct evaluation of the technical eligibility of suppliers using the prescribed additional set of technical parameters provided in Appendix A, effectively disregarded embedded control to ensure capability of the bidder to undertake the project/services.
+
+
+
+	6)	We recommended and Management agreed at CHR RO I to direct the BAC to strictly adhere to the guidelines on the procurement of security services particularly the evaluation of technical proposal of bidders using the prescribed additional set of technical parameters to properly determine the lowest calculated and responsive bid capable of fulfilling procurement at hand.
+
+
+
+
+
+OTHER COMPLIANCE ISSUES
+
+
+
+	Gender and Development
+
+	
+
+11)	The CHR had prepared and approved in compliance with existing laws the annual GAD Plan and Budget (GPB) of P42.401 million or 5.17 percent based on the agency FY 2020 total appropriation of P819.665 million and implemented the plan by integrating in their regular activities that addressed gender issues within the concerned sectors or mandate which incurred total expenditures of P44.547 million or 105.06 percent of GAD budget thus, resulted in over expenditure of P2.146 million.
+
+
+
+	1)	Section 31 of the GAA for FY 2020 requires that all agencies of the government shall formulate a Gender and Development (GAD) Plan designed to address gender issues within their concerned sectors or mandate and implement the applicable provisions under Republic Act (R.A.) No. 9710 or Magna Carta of Women, Convention on the Elimination of All Forms of Discrimination Against Women, the Beijing Platform for Action, the Philippine Plan for Gender-Responsive Development (1995-2025) and the Philippine Development Plan (2017-2022). 
+
+
+
+	2)	It further requires that GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five percent (5%) of their budgets.  The preparation and submission of the annual GAD Plan and annual GAD Accomplishment Report shall be subject to the guidelines issued by the agencies concerned.  
+
+
+
+	3)	The CHR had a total appropriation of P819,665,000.00 per GAA for FY 2020.  The Focal Commissioner, Gender/GFPS Chairperson prepared the annual GAD Plan and Budget (GPB) with an approved budget of P42,401,834.70 or 5.17 percent based on the FY 2020 appropriation, duly approved by the CHR Chairperson and reviewed/endorsed by the Philippine Commission on Women (PCW). 
+
+
+
+	4)	The GPB included the various GAD-related activities concerning the gender issues in the CO and ROs to strengthen GAD institutional capacity of the CHR.  The GAD activities as well as the corresponding approved budget allocation and the actual expenditures incurred were presented as follows:
+
+
+
+Table 9 – GAD Activities with corresponding budget allocation and actual expenditures
+
+
+
+Activities
+
+Budget Allocation
+
+Actual Expenditure
+
+Expenditure (Over)/Under
+
+1
+
+Conduct of legal clinics/caravans for assistance and/or counselling to women and LGBTQI clients with provision of financial assistance to qualified individuals.
+
+P4,117,694.40
+
+P12,781,755.97
+
+P(8,664,061.57)
+
+2
+
+Conduct of gender-responsive human rights promotion activities (human rights education, training, seminar, forum, focus group discussion, etc.)
+
+4,419,721.20
+
+1,102,825.25
+
+3,316,895.95
+
+3
+
+Conduct of community based dialogues for policy review, formulation of recommendations, and development as well as dissemination of IEC materials on the CHR's role as Gender Ombud, including GBV-related laws, justice programs, security measures, facilities, and remedies of women clients
+
+2,336,284.05
+
+6,490,050.41
+
+(4,153,766.36)
+
+4
+
+Conduct of documentation, investigation, monitoring, research, and exchange of viable information on GAD to enhance the GAD module in CHR's Investigation and Case Management System
+
+3,068,209.44
+
+1,462,721.80
+
+1,605,487.64
+
+5
+
+Conduct of workshop/s to develop and validate IEC materials on GAD, including translation of IEC materials on GAD to local dialects
+
+624,995.90
+
+214,855.00
+
+410,140.90
+
+6
+
+Conduct of gender advocacy campaign
+
+1,104,930.30
+
+865,322.89
+
+239,607.41
+
+7
+
+Conduct of regional monitoring and evaluation and/or capacity building of SUCs/ RLAs/ NGAs as well as the Barangay VAW Desks for their compliance with the MCW using the RCAT-CP-VAWC and other related laws
+
+7,096,116.80
+
+130,765.90
+
+6,965,350.90
+
+8
+
+Conduct of forum on GAD and CHR's role as Gender Ombud with CSOs and/or NGAs
+
+693,289.60
+
+174,762.98
+
+518,526.62
+
+9
+
+Conduct of jail visitations to female/LGBTQI prisons and/or detention facilities with provision of legal assistance to female/LGBTQI PDLs and/or detainees and possible granting of financial assistance to qualified female/LGBTQI PDLs and/or detainees
+
+8,957,560.00
+
+449,580.21
+
+8,507,979.79
+
+10
+
+Construction and/or refurbishment of gender-sensitive facilities at the CHR CO and ROs, such as women/ children interview rooms, gender-sensitive comfort rooms, Gender Equality and Women's Human Rights Center, among others
+
+3,000,000.00
+
+2,007,906.61
+
+992,093.39
+
+11
+
+Conduct of training on GAD for CHR lawyers and investigators
+
+108,326.50
+
+137,382.62
+
+(29,056.12)
+
+12
+
+Lobby for the increase and creation of plantilla positions for women social workers, psychiatrists, and doctors
+
+324,979.50
+
+620,520.00
+
+(295,540.50)
+
+13
+
+Conduct of orientation on gender mainstreaming
+
+649,959.00
+
+253,088.02
+
+396,870.98
+
+14
+
+Collaborative engagements on the development of appropriate GAD monitoring and evaluation tool/s
+
+500,000.00
+
+4,588,680.00
+
+(4,088,680.00)
+
+15
+
+Conduct of gender analysis training in planning for PAPs, including gender impact assessment in monitoring and evaluating PAPs
+
+1,976,650.61
+
+457,904.81
+
+1,518,745.80
+
+16
+
+Conduct of capacity development activities on Gender Ombud
+
+1,473,240.40
+
+127,044.68
+
+1,346,195.72
+
+17
+
+Conduct of debriefing sessions to women personnel after rendering human rights services
+
+1,949,877.00
+
+12,682,719.90
+
+(10,732,842.90)
+
+
+
+TOTAL
+
+P42,401,834.70
+
+P44,547,887.05
+
+P(2,146,052.35)
+
+
+
+Percentage of expenditure versus GAD approved budget
+
+
+
+
+
+105.06%
+
+(5.06%)
+
+
+
+Percentage of expenditure versus the Required 5% allocation from P819,665,000 CY 2020 GAA
+
+
+
+5.43%
+
+
+
+
+
+	5)	It was noted that the CHR incurred total expenditures of P44,547,887.05 which was 105.06 percent of GAD approved budget of P42,401,834.70 with over expenditure of P2,146,052.35 equivalent to 5.06 percent. While the percentage of expenditure versus the required 5 percent allocation from P819,665,000 CY 2020 GAA was 5.43 percent.
+
+
+
+	6)	We acknowledged the CHR’s effort in acknowledging the needs of women in line of their human rights advocacies and functions as shown by the number of activities in the Table above.  
+
+
+
+	7)	Likewise, we also acknowledged the effort of the CHR-CO and all the CHR-ROs for submitting the accomplishment reports relative to GAD programs, activities and projects for CY 2020. 
+
+
+
+	8)	We recommended and Management agreed to require the Technical Working Group Gender and Development Focal Point System (TWGGDFPS) to sustain effective mainstreaming of GAD-related activities in the Agency’s function complying with the provisions of Section 31 of the GAA for FY 2020.
+
+
+
+
+
+Senior Citizens and Persons with Disability 
+
+
+
+12)	The CHR approved and implemented Programs/Projects for senior citizens and persons with disability (PWDs) both in the CO and in the ROs, in compliance with Section 32 of the General Provisions of the GAA for FY 2020.
+
+
+
+	1)	 Section 32 of the General Provisions of the GAA for FY 2020 provides that “all agencies of the government shall formulate plans, programs and projects intended to address the concerns of senior citizens and persons with disability, insofar as it relates to their mandated functions, and integrate the same in their regular activities.”
+
+
+
+	2)	The CHR sustained its participation and integration of PWDs into mainstream society and likewise recognized the valuable contribution of the elderly in the society through its various programs and activities.  It ensured that the senior citizens and PWDs are able to exercise and promote the protection of, respect for and enhancement of the people’s civil, political, economic, social and cultural rights, in compliance with Section 32 of the General Provisions of the GAA for FY 2020.
+
+
+
+	3)	During the year, the CHR approved and implemented Programs/Projects for senior citizens and PWDs, both in the CO and in the ROs, among which were the following: 
+
+
+
+--	In CY 2020, the CHR has made cognizant efforts to include older persons in all forums, conferences, meetings and discussions.  A total of 1,143 activities were conducted with a total of 47,965 participants of whom were older persons;
+
+
+
+--	On April 27, 2020, Commissioner Karen S. Gomez-Dumpit, appealed to the National Government to reconsider the simple application of chronological age as a criterion for the restriction of movements under the General Community Quarantine (GCQ) scheme which prohibits older people or those aged sixty (60) and above from going outside their homes in moderate and low-risk areas for Covid 19. She also appealed to the Department of Transportation (DOT) to revisit the policy on banning older people and pregnant women in the major transportation options, such as the Light Rail Transit (LRT) and Metro Rail Transit (MRT) in the middle of health crisis due to Covid 19;
+
+
+
+--	On June 2, 2020, Commissioner Dumpit, called the attention of the Department of Transportation (DOT) and urged them to sensitize themselves to the circumstances of the riding public, especially the elderly and orient their frontliners on the ground;
+
+
+
+--	On June 15, 2020, the Commissioner stressed in her speech about Elder Abuse Awareness during the occasion of the World Elder Abuse Awareness Day;
+
+
+
+--	The CHR aired a live presentation on the “ Karapatan ng Mga Seniors” on June 16, 2020;
+
+
+
+--	On June 22, 2020, a Webinar was hosted by the GANHRI, which focused on the role and experiences in the rights of older persons in Covid 19 responses and recovery;
+
+
+
+--	On August 19, 2020, Commissioner Dumpit commended the Department of Interior and Local Government (DILG) in adopting a lighter-based and non-discriminatory policy that respects the freedom of movement of older persons in areas under Community Quarantine and install protective measures for older persons, too;
+
+
+
+--	On September 21, 2020, the Commission has an interactive dialogue with an independent expert, in the person of Ms. Claudia Mahler, on the enjoyment of all human rights by older persons;
+
+
+
+--	The CHR, through several regional offices, celebrated International Day of Older Persons on October 1-5, 2020, by localizing IEC Post Development by the CHR Central Office and by posting an official streamer;
+
+
+
+--	The CHR continued the conduct of Capacity Development Program for the reduction or elimination of discrimination based on age;
+
+
+
+--	A total of 20 cases involving Persons with Disabilities (PWDs) were filed in the Commission consisting of various human rights violations such as rape, sexual abuse, etc.  Out of the 20 HRV cases filed, (10 were male and 10 were female.  Half of the total came from Region IVA;
+
+
+
+--	The CHR participated the National Disability Prevention and Rehabilitation Week (NDPRW), held on July 23, 2020 to culminate the birthdate of the sublime paralytic, Apolinario Mabini, as follows:
+
+
+
+	a)	Online photo contest with the theme “PWDs making significance amidst COVID-19”;
+
+	b)	Online discussion with partner agencies which tackled about the rights of PWDs;
+
+	c)	Posting in the social media (CHR-FB account) Re: Enjoining the Nation in the Celebration of National Disability Prevention Week;
+
+	d)	CHR RO XI in partnership with the City of Digos and PNP distributed face shields and face masks to 50 PWDs on July 23, 2020; and
+
+	e)	As part of the observance of the NDPRW, CHR RO XII posted in its official Facebook page a media card to raise awareness of the celebration.  A discussion on the rights of the PWDs in times of pandemic was likewise conducted in Midsayap, North Cotabato on July 17, 2020 to members of the PWD Municipal Federation;
+
+
+
+--	The CHR managed to enhance awareness and encouraged dialogue on disability issues, programs and services on mental health, in celebration of World Mental Health Day on October 10, 2020;
+
+
+
+--	On November 11, 2020, CHR CAR celebrated the Deaf Awareness Week; and
+
+ 
+
+--	Out of the 875 personnel of the CHR for CY 2020,  10 are PWDs, seven are from the ROs, and three from the Central Office.   
+
+
+
+	4)	We recommended and Management agreed to sustain its participation and integration of PWDs into mainstream society and likewise recognize the valuable contribution of the elderly in the society through its various programs and activities.
+
+
+
+	
+
+	Withholding and timely remittance of taxes; GSIS contributions and loans; Philhealth contributions; and Pag-ibig contributions  
+
+	
+
+13)	In accordance with Revenue Regulation No. 10-2008 dated July 8, 2008, RA No. 8291, the GSIS Act of 1997, RA No. 7875, as amended by RA Nos. 9241 (National Health Insurance Act of 1995) and 9679 (Pag-Ibig Fund Law 2009), the CHR deducted the amount from the employees’ payroll and accordingly remitted the following contributions/loans:
+
+
+
+Table 10- Amount Withheld and Remittances of Taxes and Contributions to NGAs
+
+NGAs
+
+Beg. Balance 1/1/2020
+
+Withheld/
+
+Contributed in 2020
+
+Total
+
+Remittance in 2020
+
+Balance Unremitted 
+
+Remarks
+
+BIR
+
+P9,740,978.77
+
+P87,954,916.08
+
+P97,695,894.85
+
+P82,428,015.57
+
+P15,267,879.28
+
+Unremitted balance of P15,267,879.28 was remitted in January 2021
+
+
+
+GSIS
+
+604,459.15
+
+24,066,850.79
+
+24,671,309.94
+
+24,133,939.87
+
+537,370.07
+
+Of the unremitted balance of P537,370.07, the amount of P175,691.18 represents the unposted remittance for SSSL5 differential on June 2020; while the amount of P361,678.89 represents employees’ loan for remittance and subject for clarification with the GSIS.
+
+
+
+Philhealth
+
+181,684.38
+
+2,368,549.81
+
+2,550,234.19
+
+2,542,451.26
+
+7,782.93
+
+The unremitted balance of P7,782.93 was the unposted remittance for prior years still subject for reconciliation
+
+
+
+Pag-IBIG
+
+14,544.71
+
+3,050,123.87
+
+3,064,668.58
+
+3,058,465.34
+
+6,203.24
+
+The unremitted balance of P6,203.24 was processed under Accounts Payable account subject for remittance.
+
+
+
+
+
+
+
+	Property Insurance Law – CHR ROs I and III
+
+
+
+14)	The office building and insurable properties of CHR RO I in the amount of P14.999 million and P14.272 million, respectively; and the two-storey dormitory building   amounting to P3.062 million and its related insurable assets of P230,414.83 at CHR RO III, were not insured with the General Insurance Fund (GIF) of the GSIS thus, exposing the property to unnecessary risk of not being indemnified should any loss or damage occur due to fortuitous events.
+
+	
+
+	1)	The Property Insurance Fund (PIF), through RA 656, was established in order to indemnify or compensate the government for any damage to, or loss of, its properties due to fire, earthquake, storm, or other casualty.  Section 5 of the said RA provides that every government, except a municipal government below first class, is required to insure its properties with the PIF against any insurable risk provided therein and to pay the premiums thereon.
+
+
+
+	2)	Section I of AO 33 dated August 25, 1987 and AO 141 dated August 17, 1994 provide that all Heads of government agencies are required to secure from the GIF of the GSIS insurance coverage for properties including all those in which their respective offices have an insurable risk.
+
+
+
+	3)	Review and verification of insurance documents revealed that for CY 2020, the office building and insurable properties of CHR RO I in the amount of P14,999,998.25 and P14,272,621.53, respectively; and the two-storey dormitory building amounting to P3,062,513.47 and its related insurable assets of P230,414.83 at CHR RO III were not insured with the GIF of the GSIS. 
+
+
+
+	4)	Inquiry with CHR RO I Management disclosed that the insurance coverage of the agency’s insurable properties was delayed pending the turnover/transfer of the newly constructed building and newly purchased equipment from DPWH Region I as the implementing agency of the project.  Based from the Property Transfer Report (PTR), said PPEs were already accepted by CHR RO I in March, July and September 2020, however, insurance coverage of their PPEs has not been processed as of December 31, 2020. 
+
+
+
+	5)	Per interview with the concerned Administrative Officer of CHR RO III, the application form along with the required documents for the property insurance of the office building was submitted to the GSIS in September 2020. 
+
+
+
+	6)	Absence of property insurance for the buildings and insurable properties at ROs I and III are indication that control measures supposedly enforced for the protection of government resources were inadequate against the risk of damage or loss of such property. 
+
+
+
+	7)	We recommended and Management of concerned CHR ROs agreed to require the:
+
+	
+
+a)	Concerned personnel of CHR RO I to facilitate the preparation and submission of necessary documents relative to the insurance coverage of all insurable properties to GIF-GSIS; and
+
+	
+
+b)	Administrative Officer of CHR RO III to follow-up the status of application for insurance of the two-storey dormitory building and related insurable assets and ensure that the properties are properly covered with the insurance of GIF-GSIS.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+COA Memorandum No. 2017-019 dated October 19, 2017 re: Amended Guidelines on Authorized Government Depository Banks (AGDBs)
+
+
+
+15)	The CHR is compliant with the provisions of COA Memorandum No. 2017-019 dated October 19, 2017.  The CHR maintains its government funds thru the Land Bank of the Philippines.
+
+
+
+
+
+Priority Development Assistance Fund (PDAF) and Disbursement Acceleration Program (DAP)
+
+
+
+16)	The CHR did not receive and disburse Priority Development Assistance Fund (PDAF) and Disbursement Acceleration Program (DAP) fund for this year and prior years, in compliance with Supreme Court Decision G.R. Nos. 208566 and 209287, respectively.
+
+
+
+
+
+Enforcement of Suspensions, Disallowances and Charges
+
+
+
+17)	The status of  Notice of Suspension, Disallowance or Charge as of December 31, 2020 showed unsettled disallowances totaling P55,494.75, as follows:
+
+
+
+Table 11 –Suspension, Disallowance and Charge as of December 31, 2020
+
+Particulars
+
+Beginning Balance
+
+January to December 2020
+
+Ending Balance
+
+Status
+
+
+
+
+
+Issued
+
+Settled
+
+
+
+
+
+Notice of Suspension
+
+-
+
+-
+
+-
+
+-
+
+
+
+Notice of Disallowance
+
+
+
+
+
+
+
+
+
+
+
+     CHR-CO
+
+P52,424.02
+
+-
+
+P5,367.44
+
+P47,056.58
+
+Under appeal
+
+     CHR-RO III
+
+8,438.17
+
+-
+
+-
+
+8,438.17
+
+
+
+Total Disallowance
+
+60,862.19
+
+-
+
+5,367.44
+
+55,494.75
+
+
+
+Notice of Charge
+
+-
+
+-
+
+-
+
+-
+
+
+
+Total
+
+P60,862.19
+
+-
+
+P5,367.44
+
+P55,494.75
+
+
+
+
+
+
+
+
+
+
+
+
+
+61
+
+
+
+
+
+
+
+footnote1)	
+
+ Annex 1: Description of the Action (GOJUST HUMAN RIGHTS) as part of the European Union Delegation Agreement – DCI-ASIE/2015/371-522
+
+
+

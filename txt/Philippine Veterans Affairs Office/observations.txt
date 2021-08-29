@@ -1,0 +1,4482 @@
+PART II - OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+FINANCIAL AUDIT
+
+Cash in Bank – Local Currency, Current Account
+
+
+
+1)	The propriety of the Cash-in-Bank – Local Currency, Current Account (CIB-LCCA), Regular Account amounting to ₱1,009,590,147.12 cannot be ascertained due to: a) unrecorded book reconciling items amounting to ₱453,374,015.25 which misstate the affected accounts in the financial statements; and b) accounting deficiencies, such as, uncorrected error in the Subsidiary Ledger (SL) totalling ₱23,400.00 and reconciling items amounting to ₱408,894,059.78 without supporting documents.    
+
+	1)	Pertinent provisions of GAM Volume 1, provide that:
+
+
+
+	Section 3, Chapter 21. The Bank Reconciliation Statement (BRS) shall be prepared in order to: (a) check correctness of both the bank’s and agency’s/entity’s records; (b) serve as a deterrent to fraud, and; (c) enable the agency/entity or bank to take up charges or credits recognized by the bank or agency/entity but not yet known to the agency/entity or bank. This shall be used in the reconciliation of bank and treasury accounts maintained with Government Servicing Bank (GSB).
+
+	
+
+	Section 6, Chapter 21. Recognition of Adjustments.  The Chief Accountant/Designated Staff shall prepare a JEV to recognize all reconciling items that require adjustment and correction in the books of accounts.
+
+	
+
+	Section 44, Chapter 6. Checks may be cancelled when they become stale. The depository bank considers a check stale, if it has been outstanding for over six months from date of issue or as prescribed.
+
+	
+
+	2)	Section 74 of PD No. 1445 provides that, At the close of each month, depositories shall report to the agency head, in such form as he may direct, the condition of the agency account standing on their books. The head of the agency shall see to it that a reconciliation is made between the balance shown in the reports and the balance found in the books of the agency.
+
+
+
+	3)	As of December 31, 2020, the reported balance of CIB-LCCA Regular account amounted to ₱1,009,566,747.12 which differed by ₱436,492,070.96 from balances maintained in four different bank accounts broken down as follows:
+
+
+
+
+
+Bank Accounts
+
+Account Number
+
+Type of Account
+
+
+
+Per Books
+
+
+
+ Per Bank 
+
+ Difference (Absolute)
+
+DBP
+
+0435-021942-030
+
+Pension Account
+
+  ₱94,549,944.81 
+
+  ₱79,816,319.80 
+
+₱14,733,625.01 
+
+LBP
+
+1672-1003-36
+
+Pension Account
+
+  133,767,564.14 
+
+142,054,924.24 
+
+ 8,287,360.10 
+
+
+
+1672-1003-36
+
+TAD Pension Account
+
+ 17,895,666.13 
+
+0.00
+
+ 17,895,666.13 
+
+PVB
+
+00201-000681-6
+
+Pension Account
+
+683,263,216.89 
+
+  393,764,228.80 
+
+  289,498,988.09 
+
+
+
+00201-000681-6
+
+Salary Account
+
+ 3,057,136.29 
+
+0.00
+
+ 3,057,136.29 
+
+UCPB
+
+118-002869-0
+
+Pension Account
+
+ 77,033,218.86 
+
+180,052,514.20 
+
+  103,019,295.34 
+
+Total
+
+
+
+
+
+₱1,009,566,747.12 
+
+₱795,687,987.04 
+
+₱436,492,070.96 
+
+
+
+	4)	Reconciliation disclosed that the noted difference of ₱436,492,070.96 was due to various reconciling items affecting book and bank balances which resulted in an adjusted balance of ₱822,139,572.55 as of December 31, 2020. Further verification revealed that book reconciling items were still uncorrected, unrecorded and unadjusted; hence, propriety of the reported balance cannot be ascertained. Details are shown below:
+
+
+
+Particulars
+
+Per Book
+
+Per Bank
+
+Unadjusted balance
+
+1,009,566,747.12
+
+795,687,987.04
+
+Add: Deposit in Transit
+
+ 
+
+28,729,469.31
+
+Uncorrected e-NGAs error in SL Account Balance 
+
+23,400.00 
+
+
+
+Error which understates the bank balance
+
+
+
+115,268.57
+
+Unrecorded reconciling items:
+
+
+
+
+
+Credit Memos
+
+301,093,058.54
+
+
+
+ 
+
+Deposits
+
+10,856,832.40
+
+311,949,890.94
+
+ 
+
+Unaccounted reconciling items:
+
+
+
+
+
+
+
+Other Reconciling items which understated the book balance
+
+25,458,859.29
+
+25,458,859.29
+
+
+
+Sub-total
+
+1,346,998,897.35
+
+824,532,724.92
+
+Less: Outstanding Checks
+
+ 
+
+1,393,852.37
+
+Unliquidated Authority to Debit Account 
+
+ 
+
+999,300.00
+
+Unrecorded reconciling items:
+
+
+
+
+
+Debit Memos
+
+141,424,124.31
+
+141,424,124.31
+
+ 
+
+Unaccounted reconciling items:
+
+
+
+ 
+
+Unidentified difference since the start of eNGAS 
+
+2,948,865.38
+
+ 
+
+
+
+Reconciling items of closed bank account transferred to existing account
+
+380,486,335.11
+
+383,435,200.49
+
+ 
+
+Sub-total
+
+524,859,324.80
+
+2,393,152.37
+
+Adjusted balance
+
+822,139,572.55
+
+822,139,572.55
+
+a)	Unrecorded reconciling items 
+
+	5)	Review and analysis of the BRS as of December 31, 2020 revealed that various book reconciling items totalling ₱453,374,015.25 remained unrecorded, summarized as follows:
+
+
+
+Particulars
+
+PY 2008-2019
+
+CY 2020
+
+Total
+
+1. Unrecorded Credit Memo
+
+₱297,374,596.84
+
+₱3,718,461.70
+
+₱301,093,058.54
+
+2. Unrecorded Deposits
+
+9,044,513.45
+
+1,812,318.95
+
+10,856,832.40
+
+3. Unrecorded Debit Memo
+
+139,973,312.48
+
+1,450,811.83
+
+141,424,124.31
+
+Total
+
+₱446,392,422.77
+
+₱6,981,592.48
+
+₱453,374,015.25
+
+	6)	Based on the above table, the total amount of ₱446,392,422.77 or 98.46 percent of the unrecorded transactions of ₱453,374,015.25 pertained to prior years’ (2008-2019) transactions. Despite continuous compliance to prior years’ audit recommendations, a decrease of 2.47 percent or ₱11,134,148.05 has been documented/recorded out of the prior years’ balance of ₱450,112,294.36 (Observation 1.2 of CY 2019 AAR). Significant amount remained unrecorded due to non-submission of the bank’s credit memos, deposit slips, report of actual remittances, debit memos and other relevant supporting documents necessary to show the details of transactions credited/debited to the Agency’s bank accounts.
+
+	7)	In addition, records showed existence of transactions totalling ₱6,981,592.48 in CY 2020 subject to reconciliation/adjustment aged as follows:
+
+Particulars
+
+less than 1 month
+
+1-6 months
+
+more than 6 months
+
+Total
+
+1)	Unrecorded Credit Memo
+
+₱465,174.40 
+
+ ₱1,324,970.75 
+
+₱1,928,316.55 
+
+₱3,718,461.70 
+
+2)	Unrecorded Deposits
+
+  93,557.45 
+
+673,575.00 
+
+1,045,186.50 
+
+1,812,318.95 
+
+3)	Unrecorded Debit Memo
+
+     5,000.00 
+
+    5,054.44 
+
+1,440,757.39 
+
+1,450,811.83 
+
+Total
+
+₱563,731.85
+
+₱2,003,600.19
+
+₱4,414,260.44
+
+₱6,981,592.48
+
+Percentage
+
+8%
+
+29%
+
+63%
+
+100%
+
+	8)	The Credit Memos (CMs) totalling ₱3,718,461.70 pertained to returned pension remittances consisting of refunds/recoveries of pensions due to: a) overpayment; b) invalid pensioner’s account; c) deceased pensioner; and d) closed account. These transactions were not recorded in the agency’s books of accounts due to failure of the banks to furnish copies of CMs together with the list of pensioners with rejected accounts and other documents to support the transactions. 
+
+	9)	The unrecorded deposits represent returned pensions due to over-remittance to deceased pensioners amounting to ₱1,812,318.95 which were not taken up in the books due to the failure of Finance Division to submit deposit slips and summary report indicating the names and pensioners’ account. However, inquiry from the Finance Division revealed that the delay in the reporting of deposit slips was due to lapses of concerned persons/entity who failed to submit report or report the deposits made.
+
+	10)	Reconciling item in the amount of ₱1,450,811.83 pertained to unsubmitted Debit Memos (DMs) or Certificate of Actual Remittances/Pension Liquidation. The DMs relate to the pensions remitted to the individual accounts of pensioners which should be forwarded by the banks to PVAO to support the transactions in the bank statements. The PVAO already communicated to the banks their request for copies of DMs and other relevant supporting documents as basis of adjustment in the books of accounts.
+
+b)	Uncorrected system error 
+
+	11)	It was noted in previous years’ audit that the General Ledger (GL) balance of CIB-LCCA account differed from the subsidiary ledger (SL) balance due to e-NGAS error, where the two transactions amounting to ₱23,400.00 were not reflected in the specific SLs. On the other hand, the transactions were correctly posted in the GL and trial balance. However, this deficiency remained uncorrected in the system. The details are as follows: 
+
+Date
+
+JEV No.
+
+Particulars
+
+CIB-LCCA (Debit)
+
+Difference
+
+
+
+
+
+
+
+GL/TB
+
+SL
+
+
+
+05/13/16
+
+2016-05-005449 
+
+Additional payment on May 2016 regular pension to UCPB
+
+₱10,000.00
+
+
+
+₱0.00
+
+(LBP)
+
+₱10,000.00
+
+03/11/16
+
+2016-03-002539 
+
+Payment to unpaid pension of Marina Baldonado
+
+13,400.00
+
+
+
+0.00
+
+(UCPB)
+
+13,400.00
+
+Total
+
+₱23,400.00
+
+₱0.00
+
+₱23,400.00
+
+c)	Reconciling items without supporting documents 
+
+	12)	Moreover, included in the reconciling items are those transactions totalling ₱408,904,059.78 without supporting documents, summarized as follows: 
+
+Particulars
+
+PY 2008-2013
+
+Prior 2008
+
+Total
+
+1. Other Reconciling Items without which understates (net) the book balance
+
+₱25,458,859.29 
+
+ 
+
+₱25,458,859.29 
+
+2. Unidentified difference since the start of e-NGAS (overstates the book balance)
+
+ 
+
+2,948,865.38 
+
+2,948,865.38 
+
+3. Reconciling items of closed bank account transferred to existing account (overstates the book balance)
+
+ 95,248,936.15
+
+285,237,398.96
+
+380,486,335.11
+
+Total
+
+₱120,707,795.44
+
+₱288,186,264.34 
+
+₱408,894,059.78 
+
+	13)	Other reconciling items which understate the Cash in Bank account by ₱25,458,859.29 consist of additions and deductions amounting to ₱29,737,787.32 and ₱55,196,646.61, respectively, from the bank account without supporting documents Inquiry with the Accounting Section (AS) revealed that they could no longer provide details of the transactions since those items have been existing in the books since CY 2008.
+
+	14)	The unidentified difference amounting to ₱2,948,865.38 pertained to unreconciled balance determined upon the implementation of old e-NGAS in CY 2004 which remained unadjusted as of December 31, 2020.  
+
+	15)	Moreover, the amount of ₱380,486,335.11 represents reconciling balances transferred from closed bank accounts to other bank account without supporting documents. Details are as follows:
+
+Bank
+
+Closed Accounts
+
+Existing Account
+
+Amount
+
+DBP
+
+2-50004-435-2
+
+CA  No. 435-021942-030
+
+₱    43,191,555.98
+
+
+
+2-50006-435-5
+
+
+
+14,460,900.09
+
+
+
+2-50001-435-3
+
+
+
+7,434,395.93
+
+
+
+Continuous Form Check
+
+
+
+(48,425,340.20)
+
+PVB
+
+Continuous Form Check 
+
+CA No. 00201-000681-6
+
+284,508,898.96
+
+UCPB
+
+SA No. 118-1-39728-8
+
+CA No. 118-002869-0
+
+34,578,345.59
+
+
+
+SA No. 118-135951-88
+
+
+
+44,737,578.76
+
+Total 
+
+₱  380,486,335.11
+
+	16)	The AS disclosed that in previous years, Management was accustomed to maintain several bank accounts in a particular bank. However, in 2009, the agency decided to close some of these accounts and deposit the balance to other account maintained with the depository bank. Adjustment was not made due to absence of details and supporting documents. It is informed that reconciliation of closed bank accounts is on-going. Failure of Management to properly account and recognize adjustments of all reconciling items on time, casted doubt on the reliability and propriety of the CIB-LCCA balance. 
+
+d)	Other Issues
+
+	17)	The agency maintained LBP Account No. 1672-1003-36 for Regular Pension and TAD Arrears pension. Accounting records disclosed that the AS maintains two SLs for the account, one for the latter and one for the former. Inquiry with the AS disclosed that Regular Pension and TAD Arrears Pension have a separate bank account which were closed and merged into one account (LBP Account No. 1672-1003-36). It was noted that the balance of TAD Arrears Pension amounting to ₱17,895,666.13 has no movement since July 15, 2019 and the accuracy of which could not be substantiated due to absence of documents.  
+
+	18)	Considering the significance of uncorrected and unaccounted amounts in the Cash in Bank account due to insufficiency of documents, we are concerned that the said deficiency may or continuously increase if not adjusted immediately. It is worth mentioning that the uncorrected and unaccounted amounts, totalling ₱23,400.00 and ₱408,904,059.78, respectively, were the subject of observation in the audit report of PVAO for the last five (5) years, and yet, there was no significant action or documentation provided to eliminate these deficiencies.
+
+	19)	We reiterated our previous years’ recommendations that Management require the:
+
+1)	
+
+2)	
+
+3)	
+
+4)	
+
+5)	
+
+6)	
+
+a)	Accounting Section to: 
+
+		i)	coordinate/communicate with the Government Accountancy Sector (GAS), COA, through e-ticket to properly log deficiencies and facilitate actions on problems encountered in the e-NGAS, and thereafter make constant follow up;
+
+		ii)	record immediately all documented transactions to reflect the actual balance of the accounts; and
+
+		iii)	adjust the entry for stale checks by debiting the Cash in Bank – LCCA Regular and crediting the appropriate accounts previously debited; 
+
+b)	Bank Reconciliation Unit (BRU) to:
+
+i)	immediately coordinate with the Finance Division (FD) on the noted unrecorded deposits to assist in identifying and monitoring deposits in the account of the agency;
+
+ii)	in coordination with the FD and the AS, exert more efforts in identifying and documenting the unaccounted reconciling items pertaining to closed bank accounts and other reconciling items which over/understates the book balance and immediately adjust all identified and documented reconciling items; and
+
+c)	FD in coordination with the Head of BRU, to immediately and continuously exert more efforts to secure from the depository bank copies of DMs/CMs and other documents to substantiate recording of the transactions in the books of accounts.
+
+	20)	Management Comments
+
+1)	Non-recording of various book’s reconciling items – ₱453,374,05.25
+
+The accumulation of the unrecorded transactions attributed to the lacking supporting documents which the servicing banks were not able to provide immediately over the last 10 years. Due to initial implementation of the DRPSS, the concerned banks were overwhelmed by the huge pension remittances and by the bulk of supporting documents they were required to submit/comply with.
+
+PVAO is continuously exerting efforts to compel the concerned servicing banks to fully comply with the supporting documents covering the years 2008 to 2018. The Finance Division and Planning and Management Division (PMD) are working closely in monitoring the completion of these efforts.
+
+2)	Uncorrected System Error of ₱23,400.00
+
+This system error was already communicated to the Government Accountancy Sector of COA through e-ticket. It was assured that the Management will consistently monitor and follow-up this error so as not to appear in CY 2021 account deficiency.
+
+3)	Reconciling items without supporting documents – ₱408,894,059.78
+
+The FD, PMD-BRU, and Bookkeeping Unit are constantly exerting efforts to determine the reconciling items comprising of ₱409 million. 
+
+	21)	Auditor’s Rejoinder
+
+Copy of e-tickets, as well as communication letters submitted to the GAS, COA should be provided to the COA-PVAO for reference.  
+
+Moreover, the non-recording of various book reconciling items and non-accounting of difference/variances are recurring issues in the Audit Annual Report for several years, which significantly affect the fair presentation of PVAO’s FS. Hence, we encourage Management to continuously exert effort to secure copies of debit/credit memos and other documents from the banks to substantiate the recording of transactions in PVAO’s books of account.
+
+
+
+
+
+
+
+Other Receivables
+
+2)	The collectability of past due accounts amounting to ₱50,169,200.85 or 52.09 percent of the total reported Other Receivables account of ₱96,310,013.79 is doubtful due to: a) dormant accounts totalling ₱29,091,396.00 aged more than 10 years; b) unsettled cash advances (CAs) of Accountable Officers (AOs) totalling ₱21,028,284.95 who are either retired, resigned, terminated, transferred or deceased; and c) unreconciled/undocumented receivables amounting to ₱49,519.90.
+
+	1)	Section 2 PD 1445 provides that, it is the policy of the State that all resources of the government shall be managed, expended or utilized in accordance with laws and regulations, and safeguarded against loss or wastage through illegal or improper disposition, with a view to ensuring efficiency, economy and effectiveness in the operations of government. The responsibility to take care that such policy if faithfully adhered to rests directly with the chief or head of the government agency concerned.
+
+	2)	Section 5.f Chapter 2, Volume I of the GAM for NGAs states that: Claims against government funds shall be supported with complete documentation.
+
+	3)	COA Circular No. 2016-005 dated December 19, 2016 provides the guidelines and procedures on the write-off of dormant receivable accounts, unliquidated cash advances and fund transfers of the national government agencies, local government units and government-owned and controlled corporations. Moreover, Section 8.3 provides the documents supporting the request for write-off.
+
+	4)	Dormant Receivables are accounts which balances remained inactive or non-moving in the books of accounts for 10 years or more and where settlement/collectability could no longer be ascertained as defined by the aforementioned circular.
+
+	5)	As of December 31, 2020, the recorded balance of Other Receivables account of ₱96,310,013.79 consists of the following: 
+
+Account Name
+
+Nature
+
+Amount
+
+Remarks
+
+
+
+
+
+Current
+
+Past Due 
+
+
+
+AFP Savings and Loan Association (AFPSLAI)
+
+	Pension Remittances
+
+₱588,064.63
+
+
+
+Fully liquidated the following month
+
+Air Materiel Wings Savings & Loan Association (AMSLAI)
+
+	Pension Remittances
+
+355.000.00
+
+
+
+
+
+Composite Wings Savings & Loan Association (CWSLAI)
+
+	Pension Remittances
+
+1,522,950.00
+
+
+
+
+
+ASIA United Bank
+
+	Pension Remittances
+
+5,582,356.63
+
+
+
+
+
+DBP
+
+	Pension Remittances
+
+4,728,500.00
+
+₱12,780,318.19
+
+The dormant balance has a pending case at the Ombudsman   in violation of Sec. 3(e) of RA No. 3019
+
+MAYBANK
+
+	Pension Remittances
+
+553,850.00
+
+
+
+Fully liquidated the following month
+
+LBP
+
+	Pension Remittances
+
+11,311,858.35
+
+
+
+
+
+Philippine Veterans Bank
+
+	Pension Remittances
+
+19,412,483.33
+
+
+
+
+
+Centennial Savings Bank
+
+	Pension Remittances
+
+
+
+16,311,077.81
+
+Receivable from former Administrator Artemio Arugay
+
+UCPB
+
+	Pension Remittances
+
+2,085,750.00
+
+
+
+Fully liquidated the following month
+
+Wilfredo Pabalan 
+
+	Advances to Officers and Employees
+
+
+
+16,110,527.43
+
+(Deceased)
+
+Various Accountable Officers
+
+	Advances to Officers and Employees
+
+
+
+4,917,757.52
+
+Outstanding for more than ten (10) years 
+
+Unreconciled Items
+
+
+
+
+
+49,519.90
+
+Balance forwarded from old version of eNGAs
+
+Total
+
+
+
+₱46,140,812.94
+
+₱50,169,200.85
+
+
+
+	
+
+	
+
+	
+
+a)		Dormant Accounts 
+
+	6)	Analysis of the Other Receivables account disclosed that receivables from Development Bank of the Philippines (DBP) amounting to ₱12,780,318.19 pertains to the unsettled pension remittances classified as return-to-sender (RTS) from CY 2002 to 2008. Pension remittances were then issued through Continuous Form Checks (CFC) disbursement scheme; a method was no longer observed by PVAO since 2009. The AS neither holds a schedule of pensioners to whom the amounts are supposedly remitted nor any other relevant document that could support the validity of the transaction. Per inquiry, it has a pending case with the Ombudsman (OMB-C-C-14-0577).
+
+	7)	The receivable from the Centennial Savings Bank of ₱16,110,527.43 pertains to pension remittances which was unlawfully withdrawn from the Philippine Veterans Bank and transferred to the Centennial Savings Bank, a non-accredited bank of PVAO, which were used for purposes other than payment of pension where transactions were irregular for not undergoing the regular process of disbursement of public funds. The Office of the Ombudsman filed the case for violation of Section 3(e) of R.A. No. 3019, as amended, otherwise known as “Anti-Graft and Corrupt Practices Act”. However, in a 45-page decision promulgated on July 5, 2019, the Sandiganbayan’s Second Division has acquitted former PVAO Administrator and two others of graft for insufficiency of evidence.
+
+b)	Unsettled CAs of AOs who are retired, resigned, terminated, transferred or deceased
+
+
+
+	8)	The receivable from Wilfredo Pabalan, former PVAO Administrator amounting to ₱16,110,527.43 pertains to various advances granted in CY 2003. Records showed that Mr. Pabalan has been replaced as Administrator in November 2003 and died on April 9, 2011. Verbal inquiry from the AS revealed that no details can be provided regarding the transactions and no available documents can be retrieved from the accounting records.
+
+	9)	Various AOs with unliquidated balance totalling ₱4,917,757.52 were either deceased, retired, resigned, terminated from the service or transferred to other agency. These unliquidated CAs remained dormant or non-moving for more than 10 years and where settlement/collectability could no longer be ascertained.
+
+	10)	As a rule, CAs must be liquidated within the prescribed period depending upon the nature and purpose of the particular CA, as provided under COA Circular 97-002 dated February 10, 1997, restating with amendments, the rules and regulations on the granting, utilization and liquidation of CAs.
+
+	11)	Failure of Management to strictly implement the provisions of the afore-cited circular and previous years’ audit recommendations caused the balance of the accounts dormant which decreases the likelihood of recovery.
+
+
+
+
+
+
+
+c)	Unreconciled balance of ₱49,519.90
+
+
+
+	12)	The Other Receivable account included unreconciled balance amounting to ₱49,519.90 which pertains to forwarded balance from the old version of eNGAs that remained undocumented to date.
+
+	13)	We recommended that Management require the Accountant to:
+
+a)	strictly adhere with the provisions of COA Circular No. 97-002 on the granting and liquidation of CAs;
+
+b)	exhaust all possible remedies to recover outstanding balances of CAs from (i) retired, resigned, terminated and transferred AOs by locating their whereabouts to be able to send demand letters thereafter; and (ii) for deceased AOs, request for authority to write-off the accounts pursuant to COA Circular No. 2016-005; and
+
+c)	exert extra effort to locate the documents regarding the unreconciled/ undocumented balances.
+
+	14)	Management Comments
+
+1)	Dormant accounts
+
+Dormant accounts totalling ₱45,251,443.33 were recognized in the books as a result of investigation and recommendation of COA, Office of the Ombudsman and other concerned government agencies. While these accounts are not moving per books, they have pending cases with the Office of the Ombudsman. The decisions of the Office of the Ombudsman and the court are part of PVAO’s basis for recording of settlement and subsequent collection of the receivables.
+
+The Legal Affairs Division is continuously monitoring the status and development of cases with the Office of the Ombudsman. 
+
+2)	Long outstanding CAs
+
+Management is continuously exerting efforts to recover the outstanding balances of receivables from former PVAO employees amounting to ₱4,917,757.52. Accordingly, they sent several demand letters to the concerned employees for the settlement of their long outstanding CAs.  
+
+The concerned AO with RTS demand letters who are either deceased or cannot be located anymore, will be part of the Management’s request for authority to write-off dormant receivables upon submission of relevant data with corresponding supporting documents. 
+
+Moreover, the Accounting Section will conduct further review of the Other Receivables account under this category and will effect necessary adjustments in the books. 
+
+3)	Unreconciled balance
+
+The receivable account of ₱49,519.90 is the balance forwarded in the books during the implementation of the e-NGAS in March 2004. This is a temporary ledger balance created while the retrieval and completion of manual ledgers to support the adjustment of receivable accounts at that time is still in process. However, PVAO has exerted efforts to locate the documents from prior years (1980s/1990s files) but to no avail. Accordingly, they will seek advice from COA for the authority to write off the account.
+
+	15)	Auditor’s Rejoinder
+
+Justification of Management pertaining to dormant accounts amounting to ₱45,251,443.33 is duly acknowledged. Management should disclose such relevant information in the Notes to FS under the Other Receivable account to inform the users of the FS.
+
+We also acknowledge Managements’ efforts in recovering receivables amounting to ₱4,917,757.52 from AOs who are retired, resigned, terminated, transferred or deceased, as well as actions taken pertaining to undocumented forwarded balance of ₱49,519.90 during the implementation of eNGAS in March 2004. The Audit Team will wait for the submission of documents by Management to support the request for authority to write-off the subject receivables.  
+
+Due from National Government Agencies (NGAs)
+
+
+
+3)	The accuracy and reliability of the Due from NGAs account balance of ₱109,275,156.20 cannot be ascertained due to non-reconciliation of PVAO’s records of fund transfers with that of the VMMC and DBM PS showing a total discrepancy of ₱4,690,661.94. Moreover, funds transferred to various NGAs totaling ₱74,937,172.77 aged more than a year to over five years were not liquidated as a result of inadequate monitoring of project implementation and non-adherence to the provisions of the Memorandum of Agreement (MOA).
+
+
+
+	1)	Section 111 of PD 1445 states that, (1) The accounts of an agency shall be kept in such details as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government; (2) The highest standards of honesty, objectivity and consistency shall be observed in keeping of accounts to safeguard against inaccurate or misleading information.
+
+	2)	COA Circular No. 94-013 dated December 13, 1994 provides the following provisions:
+
+Section 4.6	Within ten (10) days after the end of each month/end of the agreed period for the Project, the IA shall submit the Report of Checks Issued (RCI) and the Report of Disbursement (RD) to report the utilization of the funds. Only actual project expenses shall be reported. The reports shall be approved by the Head of the IA.
+
+Section 4.8	The IA Auditor shall audit the disbursements out of the trust accounts in accordance with existing COA Regulations.
+
+Section 4.9	The IA shall return to the SA any unused balance upon completion of the project.
+
+Section 5.4	The Source Agency shall require the IA to submit the reports and furnish the IA with a copy of the Journal Voucher taking up the expenditures. xxx
+
+	3)	Likewise, COA Circular No. 2012-001 dated June 14, 2012 particularly Section 3 provides for the documentary requirements in the transfer and liquidation of funds to IAs.
+
+	4)	As of December 31, 2020, the account Due from NGAs has a balance of ₱109,275,156.20 consisting of the following:
+
+Name of IA
+
+Purpose of Funds Transfer
+
+Date Granted
+
+Outstanding balance
+
+51st Engineer Brigade
+
+Rehabilitation and improvement of the "Dambana ng Kagitingan" and other facilities at Mt. Samat Shrine, Pilar, Bataan
+
+12/29/2014
+
+ ₱1,421,986.12
+
+
+
+Sub-total
+
+
+
+1,421,986.12
+
+Collecting Officer, Finance Center PA FCPA
+
+Renovation/rehabilitation of the Veterans Center, Camp Aguinaldo
+
+9/22/2017
+
+8,600,000.00
+
+
+
+Repair/rehabilitation of infrastructure projects at Libingan ng mga Bayani 
+
+12/20/2017
+
+₱1,025,300.00
+
+
+
+Additional works on the renovation/rehabilitation of the Veterans Center, Camp Aguinaldo
+
+10/22/2018
+
+3,499,103.85
+
+
+
+Rehabilitation/improvement of Capas National Shrine
+
+12/28/2018
+
+25,000,000.00
+
+
+
+Sub-total
+
+ 
+
+38,124,403.85
+
+Philippine Army Trust Receipt Fund
+
+Repair/renovation of FSEO Cagayan de Oro City, Camp Evangelista
+
+5/23/2019
+
+1,800,000.00
+
+
+
+Sub-total
+
+ 
+
+1,800,000.00
+
+Veterans Memorial Medical Center (VMMC)
+
+Veterans Hospitalization and Medical Care Program
+
+11/26/2020
+
+27,081,643.89
+
+
+
+Administrative and Operational Expenses of the VHP
+
+11/26/2020
+
+1,250,000.00
+
+
+
+Sub-total
+
+ 
+
+28,331,643.89
+
+DBM-Procurement Service (DBM-PS)
+
+Payment of Common-Use Office Supplies and Equipment 
+
+CY 2019
+
+3,590,782.80
+
+
+
+Payment of Common-Use Office Supplies and Equipment 
+
+ 
+
+ 
+
+
+
+ - per APR No. 2020-004
+
+5/26/2020
+
+720,750.00
+
+
+
+ - per APR No 2020-003
+
+5/26/2020
+
+120,036.40
+
+
+
+ - per APR No. 2020-005
+
+5/26/2020
+
+37,261.30
+
+
+
+ - per APR No 2020-006
+
+5/26/2020
+
+114,400.00
+
+
+
+ - per APR No. 2020-007
+
+7/14/2020
+
+22,880.00
+
+
+
+ - per APR No. 2020-008
+
+7/14/2020
+
+25,792.00
+
+
+
+ - per APR No. 2020-012
+
+10/28/2020
+
+351,000.00
+
+
+
+ - per APR No. 2020-013
+
+10/30/2020
+
+614,219.84
+
+
+
+Sub-total
+
+ 
+
+5,597,122.34
+
+Southern Philippines Medical Center
+
+Buildings and Other Structures Outlay of a Pilot Veterans Ward within the hospital's premises
+
+11/12/2019
+
+₱15,000,000.00
+
+
+
+Sub-total
+
+ 
+
+15,000,000.00
+
+Northern Mindanao Medical Center
+
+Buildings and Other Structures Outlay of a Pilot Veterans Ward within the hospital's premises
+
+11/12/2019
+
+15,000,000.00
+
+
+
+Sub-total
+
+ 
+
+15,000,000.00
+
+Collecting Officer- AFP Finance Center/AFPEBSO
+
+Support to the AFPEBSO-PVAO Educational Benefit Program
+
+18/12/2020
+
+4,000,000.00
+
+
+
+Sub-total
+
+ 
+
+4,000,000.00
+
+ 
+
+TOTAL
+
+ 
+
+₱109,275,156.20
+
+
+
+a)	Non-liquidation of funds transferred to various NGAs totaling ₱74,937,172.77 aged more than a year to over five years
+
+	5)	Analysis of accounting records showed that out of the unliquidated balance of ₱109,275,156.20 as of December 31, 2020, the amount of ₱74,937,172.77 or 68.58 percent remained outstanding for over a year to five years, as shown on the next page:
+
+Implementing Agency
+
+Balance as of 12/31/2020
+
+A G I N G
+
+
+
+
+
+Below 1 year
+
+1 year to less than 2 years
+
+2 years to less than 3 years
+
+3 years to over 5 years
+
+51st Engineer Brigade
+
+₱1,421,986.12
+
+
+
+
+
+
+
+₱1,421,986.12
+
+Collecting Officer, Finance Center PA (FCPA)
+
+38,124,403.85
+
+ 
+
+ 
+
+₱28,499,103.85
+
+₱9,625,300.00
+
+Philippine Army Trust Receipt Fund
+
+1,800,000.00
+
+ 
+
+₱1,800,000.00
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Veterans Memorial Medical Center
+
+28,331,643.89
+
+₱28,331,643.89
+
+ 
+
+ 
+
+ 
+
+DBM Procurement Service
+
+5,597,122.34
+
+2,006,339.54
+
+3,590,782.80
+
+ 
+
+ 
+
+Southern Philippines Medical Center
+
+15,000,000.00
+
+ 
+
+15,000,000.00
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Northern Mindanao Medical Center
+
+15,000,000.00
+
+ 
+
+15,000,000.00
+
+ 
+
+ 
+
+Collecting Officer- AFP Finance Center/AFPEBSO
+
+4,000,000.00
+
+4,000,000.00
+
+ 
+
+ 
+
+ 
+
+Total
+
+₱109,275,156.20
+
+₱34,337,983.43
+
+₱35,390,782.80
+
+₱28,499,103.85
+
+₱11,047,286.12
+
+Percentage
+
+ 
+
+31.42%
+
+32.39%
+
+26.08%
+
+10.11%
+
+	6)	The funds transferred to 51st Engineer Brigade, Philippine Army (PA) granted in CYs 2014-2015 totalling ₱2,825,666.27 were intended for the rehabilitation and improvement of the “Dambana ng Kagitingan” and other facilities at Mt. Samat National Shrine at Pilar, Bataan. Of this amount, ₱1,403,680.15 was returned by the IA on November 25, 2020 per Official Receipt No. 9177906 and the remaining balance of ₱1,421,986.12 will be utilized for the intended purpose. To date, there was neither liquidation nor refunds made by the IA.
+
+	7)	In addition, there are two fund transfers made to the Collecting Officer (CO), Finance Center (FC) of the PA in behalf of the 51st Engineer Brigade in the amount of ₱8,600,000.00 and ₱3,499,103.85 granted in September, 2017 and October, 2018, respectively. The funds were intended for the renovation/rehabilitation of the Veterans Center at Camp Aguinaldo, QC and for additional work as per revised plan and scope of work. In both projects, it was clearly stipulated in the Memoranda of Agreement, particularly Item 9, that the Brigade (referring to the 51st Engineer Brigade) shall complete the project activities within 180 calendar days as scheduled in the approved PERT/CPM upon receipt of Notice to Proceed (NTP). As of year-end, the project was neither completed nor any liquidation has been made by the IA for last two years.
+
+	8)	Moreover, in December 2017 and December 2018, funds were transferred to the CO-FC, PA in the amount of ₱1,025,300.00 and ₱25,000,000.00, respectively. The former was intended for the repair/rehabilitation of infrastructure projects at the Libingan ng mga Bayani (LNMB) while the latter was meant for the rehabilitation and improvement of Capas National Shrine. 
+
+	9)	Failure of Management to enforce liquidation of prior years’ fund releases within the prescribed period as stipulated in the MOA and pursuant to the existing rules and regulations resulted in the difficulty of ascertaining the utilization of funds and validity of the reported balances of the Due from NGAs account.
+
+	10)	Likewise, the funds that remained idle in the custody of IAs and the delay in the implementation of projects will eventually lead to delayed delivery of benefits to the intended beneficiaries. 
+
+b)	non-reconciliation of records of PVAO Accounting with that of the Accounting records of the VMMC and PS DBM 
+
+	11)	In December 2020, confirmation requests were sent to six NGAs based on the balances reported in the submitted Statement of Liquidation and Balances of Fund Transfer – Due from NGAs as of October 31, 2020. Of the six agencies, five responded to our confirmations while the CO – FC, PA has no reply. The results of confirmation are summarized below: 
+
+Implementing Agency
+
+Balance per PVAO
+
+Balance confirmed by IAs
+
+Variance
+
+Veterans Memorial Medical Center
+
+₱58,277,486.67
+
+₱27,958,019.78
+
+₱30,319,466.89
+
+DBM-Procurement Service
+
+5,789,563.94
+
+2,476,722.30
+
+3,312,841.64
+
+51st Engineer Brigade
+
+2,825,666.27
+
+1,403,680.15
+
+1,421,986.12
+
+Southern Philippines Medical Center
+
+15,000,000.00
+
+15,000,000.00
+
+0.00
+
+Northern Mindanao Medical Center
+
+15,000,000.00
+
+15,000,000.00
+
+0.00
+
+Total
+
+₱96,892,716.88
+
+₱61,838,422.23
+
+₱35,054,294.65
+
+
+
+	12)	In view of discrepancies noted, we requested the AS of PVAO in January 2021 to coordinate with VMMC and DBM-PS for reconciliation of records and to provide the Audit Team with status or results of reconciliation made. To date, the Audit Team has not received any feedback from the Acting Chief, AS.
+
+
+
+	13)	Moreover, on February 17, 2021, we sent another request to VMMC and DBM-PS to confirm correctness of the amount appearing in PVAO books as of December 31, 2020. The results are as follows:
+
+IA
+
+Balance per PVAO
+
+Balance confirmed by IAs
+
+Variance
+
+VMMC
+
+₱28,331,643.89
+
+₱26,401,338.15
+
+₱1,930,305.74
+
+DBM-PS
+
+5,597,122.34
+
+2,836,766.14
+
+2,760,356.20
+
+Total
+
+₱33,928,766.23
+
+₱29,238,104.29
+
+₱4,690,661.94
+
+	14)	Details of discrepancies totaling ₱4,690,661.94 are shown below: 
+
+IA
+
+Purpose of FTs
+
+Outstanding Balance as of 12/31/2020
+
+Variance
+
+
+
+
+
+Per PVAO
+
+Per VMMC
+
+
+
+Veterans Memorial Medical Center
+
+Veterans Hospitalization & Medical Care Program
+
+₱27,081,643.89
+
+₱26,482,942.82
+
+₱598,701.07
+
+
+
+Administrative Expenses
+
+1,250,000.00
+
+-81,604.67
+
+1,331,604.67
+
+
+
+Sub-total
+
+    28,331,643.89 
+
+    26,401,338.15 
+
+ 1,930,305.74 
+
+DBM-Procurement Service
+
+Prior Year's FTs
+
+ 2,695,509.20
+
+ 1,933,072.70
+
+ 762,436.50
+
+
+
+Current Year FTs
+
+2,901,613.14
+
+903,693.44
+
+1,997,919.70
+
+
+
+Sub-total
+
+5,597,122.34
+
+2,836,766.14
+
+2,760,356.20
+
+ 
+
+Total
+
+₱33,928,766.23
+
+₱29,238,104.29
+
+₱4,690,661.94
+
+	15)	Had a regular reconciliation of records between PVAO and the IAs been made, unreconciled differences could have been avoided and adjusted immediately.
+
+	16)	We reiterated our previous years’ recommendations that Management:
+
+a)	closely coordinate with the IAs to enforce liquidation of outstanding  fund transfers (FTs) or demand the refund of unexpended balances; 
+
+b)	create a Monitoring Team that would coordinate with IAs to determine the status of project implementation;
+
+c)	see to it that all mandatory provisions on the responsibilities of both parties stipulated in the MOA are complied with;
+
+d)	direct the AS to intensify its efforts to reconcile its records with that of the IAs through regular coordination particularly VMMC and DBM-PS; and
+
+e)	require the designated Supply Officer to reconcile on regular basis their records with the DBM-PS as to balances of undelivered/ delivered goods out of the advance payments made.
+
+	17)	Management Comments
+
+Management committed to implement the valuable recommendations offered to ensure that the implementation of projects assigned to partners-NGAs are properly monitored and that liquidations of utilized funds are immediately submitted.
+
+Management will also make certain that the AS and other concerned PVAO offices will consistently collaborate with IAs to enforce the liquidation of funds utilized, timely implementation of projects and fulfilment of IAs of its responsibilities as stipulated in the MOA
+
+	18)	Auditor’s Rejoinder
+
+We acknowledge the effort of Management in order to provide us with the status of projects outsourced from various NGA. We are looking forward to a fruitful outcome of Management’s coordination with the IAs for the liquidation of FTs, timely implementation of the project and fulfilment of IAs’ responsibilities as stipulated in the MOA.
+
+With regard to discrepancies noted between the records of PVAO and that of the VMMC and DBM-PS, we are reminding PVAO AS to exert more efforts in the reconciliation of records.  
+
+Due from Government Owned and/or Controlled Corporations (GOCCs)
+
+4)	Funds transferred to the Philippine International Trading Corporation (PITC) for procurement of goods/services for three projects worth ₱6,004,000.00 aged nearly three years are yet to be delivered nor implemented as of December 31, 2020; thus, depriving the Agency of its immediate use. 
+
+	1)	Section 7.3.3 of the Revised Implementing Rules and Regulations (IRR) of R.A. 9184 states that in order to hasten project implementation, Procuring Entities which may not have proficiency or capability to undertake a particular procurement, as determined by the Head of Procuring Entity (HOPE) concerned, may outsource the procurement tasks by:
+
+a)	Requesting other government agencies to undertake such procurement for them, through the execution of MOA containing specific arrangements, stipulations and covenants, in accordance with government budgeting, accounting and auditing rules;
+
+b)	Engaging private procurement agents to directly undertake the procurement for them, subject to the guidelines to be issued by the GPPB; or
+
+c)	Recruiting or engaging consultants to assist them directly and/or train their staff in the management of the procurement function.
+
+	2)	The Statement of Liquidation and Balances of FTs to GOCCs as of December 31, 2020 showed a balance of ₱6,004,000.00 from PITC. Analysis revealed that these funds were transferred for the implementation of various projects where PITC has offered its services as a supplier of goods and services and provider of procurement outsourcing services to PVAO. The payments made thru fund transfer were recorded as Due from GOCCs. Details are as follows:
+
+Particulars
+
+Date Granted
+
+Outstanding Balance
+
+Age
+
+Procurement of Online Veterans Benefits Management System
+
+
+
+₱900,000.00
+
+
+
+Repair of building and facilities at Ricarte National Shrine, Batac, Ilocos Norte
+
+
+
+December 29, 2017
+
+1,604,000.00
+
+Two (2) years and 11 months
+
+Construction of Administration Building at Balete National Shrine, Balete Pass, Sta. Fe, Nueva Viscaya
+
+
+
+3,500,000.00
+
+
+
+Total
+
+
+
+₱6,004,000.00
+
+
+
+	3)	From the above table, the funds transferred were all aged nearly three years while the items procured remained undelivered or unimplemented resulting in idle funds in the possession of PITC which deprived the Agency of its immediate use.  
+
+	4)	The Status Report of the three projects outsourced from PITC as of December 29, 2020 is presented/summarized as follows:
+
+Project’s Name/Description
+
+Status of the Project
+
+Procurement of Online Veterans Benefits Management System
+
+For evaluation of the submitted Request for Quotation
+
+Repair of building and facilities at Ricarte National Shrine, Batac, Ilocos Norte
+
+Bidding for said project has failed three times.  Per coordination with PITC, alternative mode of procurement was resorted to. However, procurement is for posting again after the failed re-negotiation.
+
+Construction of Administration Building at Balete National Shrine, Balete Pass, Sta. Fe, Nueva Viscaya
+
+On-going, 76 percent complete as of January 25, 2021
+
+	5)	As can be gleaned from table above, only one project has been on-going, while the remaining two have yet to be implemented or started. Had PITC completed the procurement process, all projects should have been completed or on-going implementation. 
+
+	6)	We recommended that Management:
+
+a)	continuously monitor the timelines of procurement activities and progress of all PVAO projects outsourced from PITC to ensure efficient delivery/completion of projects; and
+
+b)	require PITC to fast track the implementation of the projects or demand the refund of unutilized FTs in case procurement process has not yet been proceeded/started.
+
+	7)	Management Comments
+
+All three PVAO projects undertaken through PITC are not stagnant and are currently progressing. There were procurement-related concerns/issues encountered which impeded the implementation schedule considering that PITC is a GOCC whose procurements are likewise subject to RA 9184. The status of each project is summarized as follows:
+
+Project
+
+Amount
+
+Status
+
+Construction of Admin Building at Balete Pass National Shrine
+
+₱3,500,000.00
+
+76 percent complete as of 01/25/21 based on Statement of Work Accomplished
+
+Repairs of Buildings and facilities at Ricarte National Shrine
+
+1,604,000.00
+
+After 2 failed biddings and 3 negotiated procurements, the procurement will be posted again on February 2021, according to PITC.
+
+Procurement of Online Veterans Benefits Management System
+
+900,000.00
+
+SVP was employed. Two bidders are currently evaluated by PITC
+
+Total
+
+₱6,004,000.00
+
+
+
+Management assured that they are continuously monitoring the timelines of all procurement activities to ensure efficient realization of all deliverables. Once data are available, updates and developments will be furnished to COA.
+
+	8)	Auditor’s Rejoinder
+
+We acknowledge the effort exerted by Management in keeping the Audit Team updated with regard to the status of the projects outsourced from the PITC. 
+
+We will appreciate being informed of the progress of the two projects that are yet to be started due to procurement related issues. With regard to the construction of the Administration Bldg. at Balete Pass National Shrine which is already 76 percent completed as of January 25, 2021 based on the Statement of Work Accomplished, we are hoping that once the project has been completed in the current year, Liquidation Report/Fund Utilization Report will be immediately submitted by the IAs to PVAO.   
+
+The Audit Team will continuously monitor the actions taken by Management with regard to the progress of all projects outsourced from PITC to ensure its efficient implementation. 
+
+Unreliable Property, Plant and Equipment (PPE)
+
+5)	The accuracy and reliability of the balances of PPE accounts totalling ₱484,456,553.24 as of December 31, 2020 cannot be ascertained due to: a) failure of the AS and General Services and Support Management (GSSMD) to conduct regular reconciliation of records which resulted in unreconciled difference of ₱51,546,595.19 between the balances per books and per RPCPPE; b) unreconciled balances between the GL and the SL for Other Structures account with a variance of ₱248,230.50; c) inclusion of properties totalling ₱5,679,681.70 each item costing less than ₱15,000.00; and d) erroneous classification of various items totalling ₱9,365,215.62 which resulted in either overstatement or understatement of the affected PPE accounts; and e) inclusion of lost property amounting to ₱599,999.00. Moreover, the accuracy of the RPCPPE as of December 31, 2020 is doubtful due to various deficiencies noted such as: a) erroneous classification of PPE; b) double recording of some PPEs; and c) inclusion of one item costing below the capitalization threshold of ₱15,000.00.
+
+	1)	COA Circular No. 2020-006 dated January 31, 2020 provides the guidelines for the one-time cleansing of PPE balances and the procedures in the conduct of physical count of PPE, recognition of PPE Items found at station, and disposition for non-existing/missing PPE items.
+
+	2)	Section 79 of P.D. No. 1445 -Destruction or sale of unserviceable property provides that : When government property has become unserviceable for any cause, or is no longer needed, it shall, upon application of the officer accountable therefor be inspected by the head of the agency or his duly authorized representative in the presence of the auditor concerned and, if found to be valueless or unsalable, it may be destroyed in their presence. If found to be valuable, it may be sold at public auction to the highest bidder under the supervision of the proper committee on award or similar body in the presence of the auditor concerned or other duly authorized representative of the Commission xxx.
+
+	3)	Sec. 10, Chapter 8 Volume I of the GAM for NGAs on Semi-expendable Property, provides that: Tangible items below the capitalization threshold of P15,000 shall be accounted as semi-expendable property. The following policies apply as follows: a. Semi-expendable property which were recognized as PPE shall be reclassified to the affected accounts. b. These tangible items shall be recognized as expenses upon issue to the end-user.
+
+	4)	On the other hand, Chapter 10, Volume I of the GAM for NGAs provides the following criteria:
+
+Section 3. Criteria for Recognition - The cost of an item of PPE shall be recognized as assets if, and only if: a. it is probable that the future economic benefits or service potential associated with the item will flow to the entity; b. the cost or fair value of the item can be measured reliably; c. beneficial ownership and control clearly rest with the government; d. the asset is used to achieve government objectives; and e. it meets the capitalization threshold of P15,000.
+
+Section 38. the entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 71) as at December 31 of each year. This shall be submitted to the Auditor concerned not later than January 31 of the following year. Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division/Unit for proper accounting/recording.
+
+Section 39. Policies for Derecognition. The cost of the PPE together with the related accumulated depreciation and accumulated impairment loss shall be removed from the accounts (2014 ed. Financial Accounting, Volume I, Valix). The carrying amount of an item of PPE shall be derecognized on disposal or when no future economic benefits or service potential is expected from its use or disposal. Among the policies on the disposal of PPE are: d) A JEV shall be prepared by the Accounting Division/Unit to derecognize the asset from the books of accounts only after its disposal; and e) Disposal procedures of unserviceable property shall be in accordance with applicable rules and regulations on Supply and Property Management Manual, and Sec. 79 of P.D. No. 1445.
+
+Section 41. Loss of Property: The accounting policies on loss of property are as follows: a. When a loss of government funds or property occurs while they are in transit or the loss is caused by fire, theft, or other casualty or force majeure, the officer accountable therefore or having custody thereof shall immediately notify the Commission or the auditor concerned and, within thirty days or such longer period as the Commission or auditor may in the particular case allow, shall present his applicable for relief, with the available supporting evidence. Whenever warranted by the evidence credit for the loss shall be allowed. An officer who fails to comply with this requirement shall not be relieved of liability or allowed credit for any loss in the settlement of his accounts. (Sec. 73, P.D. No. 1445) b. Lost property and the related accumulated depreciation and impairment loss shall be derecognized in the books upon receipt of the Report of Lost, Stolen, Damaged, Destroyed Property (RLSDDP) (Appendix 75) supported by a Notice of Loss prepared and submitted by the Accountable Officer. The loss shall be charged to account “Loss of Assets” at an amount equal to its carrying amount.
+
+Section 42. Accounting and Property Records to be maintained for PPE. The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like PAR.
+
+	5)	Section 6, Chapter 19 of the GAM for NGAs Volume I provides qualitative characteristics of Financial Reporting. An entity shall present information including accounting policies in a manner that meets various qualitative characteristics enumerated in PPSAS 1. One of the characteristics provided is, e) Reliability – reliable information is free from material error and bias, and can be depended on by users to represent faithfully that which it purports to represent or could reasonably be expected to represent.  
+
+	6)	 Section 7 of the same Chapter and Manual also states that a fair presentation of the financial statements requires an entity to, b. To present information, including accounting policies, in a manner that provides relevant, reliable, comparable and understandable information.
+
+a)	Non-reconciliation of the AS and GSSMD records totalling ₱51,546,595.19
+
+	7)	The AS and GSSMD failed to conduct regular reconciliation of their records which resulted in unreconciled difference of ₱51,546,595.19, details are as follows:
+
+Account Code
+
+Account Name
+
+Balance per
+
+books as of
+
+12/31/2020
+
+Balance per RPCPPE as of 12/31/2020
+
+Variance
+
+10601010
+
+Land
+
+₱4,559,212.93
+
+₱0.00
+
+₱4,559,212.93
+
+10602990
+
+Other Land Improvements
+
+6,825,596.57
+
+6,825,596.57
+
+0.00
+
+10603040
+
+Water Supply Systems
+
+          161,000.00 
+
+0.00
+
+161,000.00
+
+10603050
+
+Power Supply Systems
+
+790,547.00
+
+921,328.68
+
+(130,781.68)
+
+10604010
+
+Buildings
+
+307,286,205.26 
+
+288,295,358.69
+
+18,990,846.57
+
+10604990
+
+Other Structures
+
+9,316,768.09
+
+23,478,358.87
+
+(14,161,590.78)
+
+10605020
+
+Office Equipment
+
+67,861,767.79
+
+25,108,157.79
+
+42,753,610.00
+
+10605030
+
+Information and Communication Technology Equipment
+
+
+
+56,684,071.63
+
+
+
+63,120,260.43
+
+
+
+(6,436,188.80)
+
+10605070
+
+Communication Equipment
+
+2,774,143.23
+
+1,812,421.88
+
+961,721.35
+
+10605110
+
+Medical Equipment
+
+   27,000.00 
+
+0.00
+
+27,000.00
+
+10605130
+
+Sports Equipment
+
+  109,808.00 
+
+318,164.74
+
+(208,356.74)
+
+10605990
+
+Other Machinery and Equipment
+
+2,960,395.66
+
+2,053,596.14
+
+906,799.52
+
+10606010
+
+Motor Vehicles
+
+13,939,270.73
+
+12576,470.43
+
+1,362,800.30
+
+10607010
+
+Furniture and Fixtures
+
+  6,804,005.82 
+
+5,331,125.09
+
+1,472,880.73
+
+10607020
+
+Books
+
+  40,332.97 
+
+0.00
+
+40,332.97
+
+10610020
+
+Works of Arts and Archeological Specimens
+
+    72,951.50 
+
+0.00
+
+72,951.50
+
+10699990
+
+Other Property, Plant and Equipment
+
+4,243,476.06
+
+3,069,118.74
+
+1,174,357.32
+
+ 
+
+Total 
+
+₱484,456,553.24
+
+₱432,909,958.05
+
+₱51,546,595.19
+
+	8)	Based on the preceding table, the unreconciled difference can be attributed, but not limited to the following:
+
+Particulars
+
+Amount
+
+Recorded in the books but not included in the RPCPPE
+
+Power Supply Systems
+
+₱348,210.00
+
+ 
+
+Buildings
+
+19,906,400.06 
+
+ 
+
+Other Structures
+
+4,454,039.78
+
+ 
+
+Office Equipment
+
+45,005,537.40 
+
+ 
+
+Information and Communication Technology Equipment
+
+22,221,757.12
+
+ 
+
+Communication Equipment
+
+1,785,014.35
+
+ 
+
+Sports Equipment
+
+77,988.00
+
+ 
+
+Other Machinery and Equipment
+
+1,611,070.66
+
+ 
+
+Furniture and Fixtures
+
+3,819,277.78
+
+ 
+
+Other Property, Plant and Equipment
+
+3,268,743.34
+
+
+
+Land
+
+4,559,212.93
+
+ 
+
+Water Supply Systems
+
+161,000.00
+
+ 
+
+Medical Equipment
+
+27,000.00
+
+ 
+
+Motor Vehicles
+
+1,362,000.00
+
+
+
+Books
+
+40,332.97
+
+ 
+
+Works of Arts and Archeological Specimens
+
+72,951.50
+
+
+
+Sub-total
+
+ 
+
+108,720,535.89
+
+Erroneous recording of some PPE in the PPELC and RPCPPE 
+
+Office Equipment
+
+(2.91)
+
+ 
+
+Information and Communication Technology Equipment
+
+47.00
+
+ 
+
+Furniture and Fixtures
+
+(540.13)
+
+
+
+Motor Vehicles
+
+800.30
+
+304.26
+
+Included in RPCPPE but not recorded in the books 
+
+Power Supply Systems
+
+478,991.68
+
+ 
+
+Buildings
+
+915,553.49 
+
+ 
+
+Other Structures
+
+18,367,400.06
+
+ 
+
+Office Equipment
+
+ 2,251,924.49 
+
+ 
+
+Information and Communication Technology Equipment
+
+28,657,992.92
+
+ 
+
+Communication Equipment
+
+823,293.00
+
+ 
+
+Medical Equipment
+
+0.00
+
+ 
+
+Sports Equipment
+
+  286,344.74 
+
+ 
+
+Other Machinery and Equipment
+
+704,271.14
+
+ 
+
+Furniture and Fixtures
+
+2,345,856.92
+
+ 
+
+Other Property, Plant and Equipment
+
+2,094,386.02
+
+56,926,014.46
+
+Unreconciled balances between the GL and SL
+
+ 
+
+
+
+Other Structures
+
+ 
+
+(248,230.50)
+
+Total Variance
+
+ 
+
+₱51,546,595.19
+
+
+
+	9)	Based on the above table, the Motor Vehicles include Mitsubishi Lancer bearing plate No. SDA-272 already disposed many years ago, but its disposal remained unrecorded in the books. Said vehicle is among the four vehicles which were disposed in April, 2013 thru sale as mentioned in Item 9.50, letter j, Part II of 2015 Annual Audit Report (AAR). The same observation was reiterated in Part II of CYs 2016 and 2018 AARs. The AS reasoned-out that they could not drop the disposed motor vehicle from the books due to inconsistencies of specifications and plate number when the accounting record was compared with the IIRUP prepared by GSSMD. Moreover, the Hyundai Mini Bus with plate No. THJ-316 also lost for more than a decade was not dropped from the books due to inability of the GSSMD to submit documents to the AS as basis for its adjustment. In 2015, Management commented that PVAO GSSMD shall locate the documents relative to the insurance claim for lost vehicle but the issue was not resolved as to date. 
+
+	10)	One control procedure to establish the correct balances of PPE accounts is the reconciliation of balances as appearing in the records of the AS and GSSMD. Through periodic reconciliation, items that need to be adjusted in the books are taken up to reflect the correct balances.
+
+b)	unreconciled balances between the GL and the SL for the Other Structures account amounting to ₱248,230.50
+
+	11)	As at year-end, the balance of the Other Structures account per GL as compared with the SL balance showed a discrepancy of ₱248,230.50, details are as follows:
+
+Account Name
+
+Balance per GL
+
+Balance per SL
+
+Variance
+
+Other Structures
+
+₱9,316,768.09
+
+₱9,564,998.59
+
+₱248,230.50
+
+Total
+
+₱9,316,768.09
+
+₱9,564,998.59
+
+₱248,230.50
+
+
+
+	12)	Apparently, the SL contains the details to support the GL control account, however, the AS failed to conduct regular reconciliation of GL and SL which resulted in a variance of ₱248,230.50.
+
+c)	Properties totalling ₱5,679,681.70 each costing less than ₱15,000.00 were recorded as PPE
+
+	13)	Verification of records as of December 31, 2020 disclosed that various properties/equipment with aggregate value of ₱5,679,681.70 but each costing below the capitalization threshold of ₱15,000.00 were classified as PPE in the books of accounts, details are as follows:
+
+Account Code
+
+Account Name
+
+Amount
+
+
+
+
+
+
+
+10603050
+
+Power Supply Systems
+
+₱27,000.00
+
+10605020
+
+Office Equipment
+
+2,245,099.95
+
+10605030
+
+Information and Communication Technology Equipment
+
+169,662.58
+
+10605070
+
+Communication Equipment
+
+658,726.96
+
+10605110
+
+Medical Equipment
+
+27,000.00
+
+10605130
+
+Sports Equipment
+
+77,988.00
+
+10605990
+
+Other Machinery and Equipment
+
+147,210.00
+
+10607010
+
+Furniture and Fixtures
+
+1,550,120.21
+
+10607020
+
+Books
+
+2,583.00
+
+10610020
+
+Works of Arts and Archeological Specimens
+
+1,000.00
+
+10699990
+
+Other Property, Plant and Equipment
+
+773,291.00
+
+Total
+
+₱5,679,681.70
+
+
+
+	14)	These properties that do not meet the capitalization threshold shall be charged to the appropriate Semi-Expendable account if found to be still in the custody of the GSSMD, otherwise, shall be charged to corresponding expense account if issued to end-users in accordance with Section 10b, Chapter 8, Volume I of the GAM for NGAs.
+
+	15)	Failure to recognize these properties in its proper accounts overstates the related PPE accounts and understates the appropriate Semi-Expendable or expenditure accounts.
+
+d)	Erroneous classification of some PPEs – ₱9,365,215.62
+
+	16)	Further evaluation of records also disclosed that some properties totalling ₱9,365,215.62 were erroneously classified which either overstates or understates the affected PPE accounts, details are as follows:
+
+Charged to
+
+Amount
+
+Should be charged to
+
+Amount
+
+Office Equipment
+
+ 
+
+₱6,545,337.20
+
+ 
+
+Furniture and Fixtures
+
+₱1,903,930.21
+
+
+
+
+
+Information and Communication Technology Equipment
+
+4,330,998.99
+
+ 
+
+ 
+
+Communication Equipment
+
+310,408.00
+
+Sub-total
+
+6,545,337.20
+
+ 
+
+6,545,337.20
+
+ 
+
+ 
+
+ 
+
+ 
+
+Furniture and Fixtures
+
+310,902.55 
+
+Other Machinery and Equipment
+
+310,902.55 
+
+Sub-total
+
+310,902.55
+
+
+
+310,902.55 
+
+Other PPE
+
+1,433,327.56
+
+Other Machinery and Equipment
+
+1,278,579.56
+
+ 
+
+ 
+
+Office Equipment
+
+25,500.00
+
+ 
+
+ 
+
+Communication Equipment
+
+129,248.00
+
+Sub-total
+
+1,433,327.56
+
+ 
+
+1,433,327.56
+
+Other Structures
+
+1,025,648.31
+
+Other Machinery and Equipment
+
+1,025,648.31
+
+Sub-total
+
+1,025,648.31
+
+ 
+
+1,025,648.31
+
+ICT Equipment
+
+50,000.00
+
+Communication Equipment
+
+50,000.00
+
+Sub-total
+
+50,000.00
+
+ 
+
+50,000.00
+
+Total
+
+₱9,365,215.62
+
+ 
+
+₱9,365,215.62
+
+e)	Undisposed unserviceable properties and fully-depreciated motor vehicles totalling ₱16,200,010.84 and ₱1,441,570.00, respectively
+
+	17)	Verification of RPCPPE as of December 31, 2020 disclosed that it includes unserviceable properties/equipment found in station totalling ₱16,200,010.84 not yet disposed. 
+
+Account Name
+
+Amount
+
+Booked-up
+
+Unbooked
+
+Power Supply Systems
+
+₱459,010.08
+
+₱206,800.00
+
+₱252,210.08
+
+Office Equipment
+
+    5,333,003.82 
+
+  4,915,253.82 
+
+   417,750.00 
+
+ICT Equipment
+
+   8,556,692.63 
+
+  3,500,767.93 
+
+ 5,055,924.70 
+
+Communication Equipment
+
+       454,603.88 
+
+    343,528.88 
+
+     111,075.00 
+
+Sports Equipment
+
+     229,745.00 
+
+  31,820.00 
+
+    197,925.00 
+
+Other Machinery and Equipment
+
+       708,804.14 
+
+    210,000.00 
+
+    498,804.14 
+
+Other PPE
+
+458,151.29
+
+247,590.29
+
+210,561.00
+
+Total
+
+₱16,200,010.84
+
+₱9,455,760.92
+
+₱6,744,249.92
+
+
+
+	18)	 Out of the total ₱16,200,010.84 unserviceable properties, only ₱9,455,760.92 or 58.37 percent was recorded as PPE while the remaining ₱6,744,249.92 or 41.63 percent was not recorded in the books. This deficiency may affect   disposal of unserviceable properties due to unavailability of accounting records.
+
+	19)	Moreover, various fully depreciated motor vehicles which have been unserviceable for several years and not yet disposed of were still included in the RPCPPE instead of the IIRUP. Details are as follows: 
+
+Description
+
+Property Number
+
+Amount
+
+Remarks
+
+Commuter van, model: L-300 Series 1987, Engine No. 4G63HT-7466, Chassis No. L067WQ-03406, Plate No. PMC-314, white, Mitsubishi brand
+
+PVAO-1989-01-31-MV-01-19
+
+₱80,000.00
+
+
+
+Fully depreciated (acquired in Jan. 31, 1989)
+
+Motorcycle, model: Shogun 125 Series 2004, Engine No. F453-TH513101, Chassis No. BF44J-113187, Plate No. 5329-NA, Suzuki brand
+
+PVAO-2004-10-27-MV-01-09
+
+                          90,000.00 
+
+
+
+Fully depreciated (acquired in Oct. 27, 2004)
+
+Pick-up, model: B-2200 crew cab, 4-engine, Plate No. SDF-480, Security Plate No.: PLM-269, Engine No.: RF157146, Chassis No.:  MF000997, Mazda brand
+
+PVAO-1990-01-31-MV-01-06
+
+                        342,570.00 
+
+
+
+Fully depreciated (acquired in Jan. 30, 1990)
+
+Pick-up, model: Hi-Lux D-Cab Series 1996, Engine No. LN85-7089943, Chassis No. 2L-9373049, Plate No. UKV-541, Toyota brand 
+
+PVAO-2001-07-19-MV-02-86
+
+                        330,000.00 
+
+Fully depreciated (acquired in July 19, 2001)
+
+Versa van, model: L-300 1999 Series, Engine No. 4D56A-J3961, Chassis No. PAEL 069WZW13010027, Plate No. SPD-904, white, Mitsubishi brand
+
+PVAO-1999-04-28-MV-01-84
+
+                        599,000.00 
+
+Fully depreciated (acquired in April 28, 1999)
+
+Total
+
+ 
+
+₱1,441,570.00
+
+ 
+
+	20)	All unserviceable properties noted by GSSMD during the inventory taking shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) which shall be submitted to the Accounting Section after disposal and shall serve as basis of the AS to drop from the books the disposed unserviceable properties carried in the PPE accounts.
+
+	21)	These unserviceable properties may expose to further deterioration if not disposed immediately which may diminish its resale value.
+
+
+
+f)	inclusion in the Accounting and Property records of a vehicle with acquisition cost of ₱599,999.00 which was previously reported as lost
+
+	22)	As mentioned in the previous years’ AARs (CYs 2015 and 2018), a Mitsubishi L-300 van with plate number SPD 904 valued at ₱599,000.00 is one of the two lost vehicles confirmed by the Head of the GSSMD. Verification of records disclosed that said vehicle is still recorded in the books and included in the RPCPPE with unserviceable status.  
+
+	23)	It is informed that subject vehicle could not be dropped from the books due to absence of documents to support the adjustment. It is worth mentioning that the agency was able to claim insurance benefits from the GSIS; the proceeds of which were utilized to procure another vehicle.  
+
+g)	inclusion of unreconciled amount and negative balances in the SL amounting to ₱34,771,802.48 and ₱181,073.29, respectively
+
+	24)	It was noted that the SL of the following PPE accounts includes balances described as “unreconciled” due to the conversion of the old e-NGAs, details are as follows:
+
+Account Name
+
+Property Number
+
+Description
+
+Amount
+
+Communication Equipment
+
+10605070-00-004-PVAO-999-9999
+
+Unreconciled
+
+₱10,895.16
+
+
+
+10605070-00-004-PVAO999-9999-A-1
+
+Unreconciled - A
+
+121,860.40
+
+Office Equipment
+
+10605020-00-007-PVAO-2004-01-01
+
+Office Equipment - Unreconciled 
+
+34,601,296.95
+
+Books
+
+10607020-00-005
+
+Others (unreconciled)
+
+37,749.97
+
+Total
+
+ 
+
+ 
+
+₱34,771,802.48
+
+
+
+	25)	Likewise, it was also observed that some properties were recorded in the books carrying negative balances totaling ₱181,073.29, broken down as follows:
+
+Account Name
+
+Property Number
+
+Description
+
+Amount
+
+Office Equipment
+
+10605020-00-002-002-PVAO-2011-06-10-SFC/L-14-194
+
+Cabinet, filing, steel, 4 drawers, lateral #014
+
+(₱6,010.20)
+
+
+
+10605020-00-002-002-PVAO-2011-06-10-SFC/L-51-224
+
+Cabinet, filing, steel, 4 drawers, lateral #039
+
+(6,010.20)
+
+
+
+10605020-00-002-002-PVAO-2011-06-10-SFC/L-41-221
+
+Cabinet, filing, steel, 4 drawers, lateral #041
+
+(6,010.20)
+
+
+
+10605020-00-002-002-PVAO-2011-06-10-SFC/V-21-231
+
+Cabinet, filing, steel, 4 drawers, vertical #021
+
+(6,010.20)
+
+
+
+10605020-00-002-002-PVAO-2011-06-10-SFC/V-44-254
+
+Cabinet, filing, steel, 4 drawers, vertical #044
+
+(6,010.20)
+
+
+
+10605020-00-002-002-PVAO-2011-06-10-SFC/V-59-303
+
+Cabinet, filing, steel, 4 drawers, vertical, w/ vault #059
+
+(6,010.20)
+
+
+
+10605020-00-004-PVAO-2012-07-18-PC/SET-03-83
+
+Computer, desktop, ACER brand, model: S6610G. Intel Core i5-2500 3.3 GHz - 18
+
+(51,808.64)
+
+
+
+10605020-00-004-PVAO-2012-12-03-PC/SET-06-130
+
+Computer, desktop, CPU, tower case, model: S6610G, SN: PSVCB09016226050719204, with LCD monitor, mod
+
+(51,808.64)
+
+
+
+10605020-00-007-PVAO-2009-03-19-FM-01-57
+
+Fax Machine, model: FAX-335MC, SN: U61548K8K970079, Brother brand
+
+(15,750.00)
+
+ 
+
+ Sub-total
+
+ 
+
+(155,428.48)
+
+Furniture and Fixtures
+
+10607010-00-003-PVAO-2011-07-27-EC/L-02-183
+
+Chair, executive, padded seat and back, leatherette, gas lift, w/ arm rest, caster #002
+
+(3,750.00)
+
+Information and Communication Technology Equipment 
+
+10605030-00-002-PVAO-1999-04-27-PRT-01-86
+
+Printer, deskjet, model: D1560, SN: TH96Q5D03C, HP brand
+
+(21,894.81)
+
+Total
+
+ 
+
+ 
+
+(₱181,073.29)
+
+
+
+	26)	These unreconciled and negative balances are the results of non-monitoring and non-reconciliation of accounts.
+
+
+
+
+
+
+
+	27)	 Moreover, the following deficiencies were noted in the review of RPCPPE as of December 31, 2020:
+
+h)	erroneous classification of accounts totalling ₱53,176,062.89
+
+	28)	Verification of the RPCPPE as of year-end disclosed erroneous classification of PPE valued at ₱53,176,062.89, details as follows:
+
+
+
+Reported as
+
+Amount
+
+Should be reported as
+
+Amount
+
+Office Equipment
+
+ 
+
+₱478,432.69
+
+Furniture and Fixtures
+
+₱478,432.69
+
+
+
+2,652,933.40
+
+Information and Communication Technology Equipment
+
+2,652,933.40
+
+
+
+439,802.00
+
+
+
+Communication Equipment
+
+439,802.00
+
+Sub-total
+
+3,571,168.09
+
+ 
+
+3,571,168.09
+
+Other Structures
+
+ 
+
+ 
+
+Building
+
+₱21,706,400.06
+
+
+
+ 
+
+Other Machinery and Equipment
+
+20,500.00
+
+Sub-total
+
+21,726,900.06
+
+ 
+
+21,726,900.06
+
+Other Heritage Assets
+
+ 
+
+12,616,414.67
+
+Buildings
+
+12,616,414.67
+
+
+
+15,261,580.07
+
+Other Structures
+
+15,261,580.07
+
+Sub-total
+
+27,877,994.74
+
+ 
+
+27,877,994.74
+
+Total
+
+₱53,176,062.89
+
+ 
+
+₱53,176,062.89
+
+
+
+	29)	Likewise, the following properties were reported twice in the RPCPPE:
+
+Description
+
+Amount
+
+Recorded under
+
+Building, 1 storey, mixed concrete, Quarters
+
+₱60,462.45
+
+Other Structures and Other Heritage Asset
+
+Building, 1 storey, mixed concrete, Stock room
+
+                    52,000.00 
+
+
+
+Building, 1 storey, mixed concrete,240 sqm, Guesthouse Bldg
+
+               1,852,373.35 
+
+
+
+Commercial stalls, 1 storey, mixed concrete, steel truss roof framing
+
+               2,994,314.74 
+
+
+
+Entrance Arch
+
+    241,713.00 
+
+
+
+Total
+
+₱5,200,863.54
+
+ 
+
+
+
+	30)	It is noteworthy to mention that all properties reported in the RPCPPE fall within the capitalization threshold of ₱15,000.00 except for 18 pieces framed picture of National Heroes valued at ₱2,317.50. which are categorized as Other Heritage Assets.
+
+	31)	We reiterated our previous years’ recommendations that Management require the:
+
+a)	AS and GSSMD to:
+
+i)	collaborate an effective system by which their records are reconciled regularly and the results of the physical count tally with the amount recorded in the books of accounts; 
+
+ii)	make necessary adjustments to correct deficiencies noted either in the books or in the Inventory Report, where appropriate, to reflect the correct balances of PPE accounts;
+
+iii)	reclassify erroneously classified items to its appropriate PPE accounts in order to reflect correct balances of affected accounts; and
+
+iv)	observe proper account classification in recording transactions for proper presentation of the accounts in the Financial Statements and in the Inventory Report; 
+
+b)	Chief Accountant to:
+
+i)	determine cause/s of the unreconciled amount and exert efforts to identify details/composition of unreconciled balances; and
+
+ii)	analyze negative balances recorded in the books and make necessary adjustments.
+
+c)	GSSMD to:
+
+i)	take immediate and appropriate action on the disposal of unserviceable properties to avoid further deterioration and possible loss of their value and to generate additional income from its disposal; 
+
+ii)	fast track submission of documents to the AS concerning disposed Mitsubishi Lancer and lost Hyundai Mini Bus considering that these issues are not resolved for years; and
+
+iii)	shed light on the true condition/status of the L-300 vehicle.
+
+d)	We also recommended that Management implement COA Circular No. 2020-006 dated January 31, 2020 for the one-time cleansing of PPE balances, if appropriate. 
+
+	32)	Management Comments
+
+All recommendations are being acted upon expeditiously. Corrective actions and measures were being undertaken to prevent occurrence of similar deficiencies such as creation of a Reconciliation Team to institutionalize the reconciliation of PPE accounts between the records of the Accounting and GSSMD Sections, on-going adjustments and reclassification in the books of accounts, and intensified disposal schedule in 2021 as lined-up per PVAO Disposal Program, among others.
+
+	33)	Auditor’s Rejoinder
+
+We acknowledge the prompt action of Management with regard to our recommendations and we are optimistic that with the creation of PVAO PPE Reconciliation Team and the continuous effort of the Accounting and General Service Sections to collaborate effectively and through the guidance of COA Circular No. 2020-006, deficiencies repetitively noted will be finally dealt with.   
+
+With regard to our observations on reported properties with book value of less than ₱15,000.00 recorded as PPE and erroneous classification of some PPE accounts, the Audit Team looks forward to full adjustments of these amounts to its proper accounts within the year.
+
+We take note of the action of GSSMD for coming up with CY 2021 PVAO Disposal Program trusting that timelines set for various activities relative to unserviceable properties will be met as targeted.
+
+With Management’s commitment to resolve all the discrepancies noted, we are very optimistic that issues on the lost and disposed motor vehicles together with those properties that were unserviceable for several years will finally be resolved. 
+
+Accounts Payable
+
+6)	The Accounts Payable account with a balance amounting to ₱12,238,767.29 includes liabilities totalling ₱1,370,956.29 which have been outstanding for more than two years contrary to existing laws, rules and regulations. 
+
+	1)	Executive Order No. 87 issued on August 13, 2019 directs that all accounts payable which remain outstanding for two years or more in the books of National Government Agencies be reverted to the Accumulated Surplus or Deficit of the General Fund, or the cumulative result of operations of the National Government.
+
+	2)	Section 2.a Chapter 6 of the GAM Volume I states that, Accounts Payable – refers to valid and legal obligations of NGAs/OUs, for which, goods/services/projects have been delivered/rendered/completed and accepted, regardless of the year when these obligations were incurred.
+
+	3)	Section 98 of PD 1445 states that, Reversion of unliquidated balances of accounts payable. The Commission, upon notice to the head of agency concerned, may revert to the unappropriated surplus of the general fund of the national government, any unliquidated balance of accounts payable in the books of the national government, which has been outstanding for two years or more and against which no actual claim, administrative or judicial, has been filed or which is not covered by perfected contracts on record. Xxx
+
+	4)	Section 3.3 of the DBM and COA Joint Circular No. 99-6 dated November 13, 1999 states that, All undocumented A/Ps, regardless of the year they were incurred, shall immediately be reverted to the CROU.
+
+	5)	As of December 31, 2020, the reported balance of Accounts Payable account amounted to ₱12,238,767.29. Aging of which is as follows: 
+
+No. of Days Past Due
+
+Amount
+
+Not Yet Due
+
+₱10,852,867.00
+
+91-365 days
+
+14,944.00
+
+Over 2 years
+
+1,370,956.29
+
+ Total 
+
+₱12,238,767.29
+
+	6)	Verification showed that dormant balances of ₱1,318,426.29 were outstanding for more than two years and were not supported with valid supporting documents; thus, validity and reliability of the recorded liabilities are doubtful. Details are as follows:
+
+Creditors
+
+Total
+
+DCI Konstrukt, Inc.
+
+₱522,462.62 
+
+Rolosa Construction and Supplies
+
+785,963.67 
+
+Fely Flores Adlaon
+
+10,000.00 
+
+Various Creditors
+
+52,530.00
+
+TOTAL
+
+₱1,370,956.29
+
+	7)	Payable to DCI Konstrukt, Inc. amounting to ₱522,462.62 pertains to the unpaid balance of repair/rehabilitation of PVAO offices with a contract price of ₱1,110,336.91 and has been existing since the inception of the new eNGAS in January 1, 2015. Inquiry with the AS disclosed that the first payment to DCI Konstrukt, Inc. which includes mobilization fee and payment of the first progress billing totalling ₱633,716.31 had been the subject of Notice of Disallowance No. 15-004-101-(14) dated July 7, 2015, thus, the remaining balance payable to DCI Konstrukt, Inc. has been put on hold. Liquidation or reversion is yet to transpire upon the resolution of the appeal with the Commission Proper.
+
+	8)	While the unpaid balance to Rolosa Construction and Supplies amounting to ₱785,963.67 pertains to the 10 percent retention fee of the extension/rehabilitation of PVAO Records Storage Building project with contract price of ₱7,859,636.73 per CA 2014-006 dated September 23, 2014, records disclosed that the last payment was made on June 22, 2016 or more than 4 years ago, and yet reversion or payment of retention fee to the contractor is still not processed. Moreover, verification of the Schedule of Accounts Payable against the respective SL balances showed a difference of ₱1,230,014.29, to wit: 
+
+Creditors
+
+Payable
+
+SL
+
+Difference
+
+DCI Konstrukt, Inc.
+
+₱522,462.62 
+
+₱78,412.00
+
+₱444,050.62
+
+Rolosa Construction and Supplies
+
+785,963.67 
+
+0.00
+
+785,963.67
+
+Total
+
+
+
+
+
+₱1,230,014.29
+
+	9)	Further verification of account revealed that payable to Fely Flores Adlaon amounting to ₱10,000.00 was not included in the reversion of accounts payable per JEV No. 2017-03-003767 dated March 31, 2017 due to eNGAS error. However, the deficiency remained uncorrected to date.
+
+	10)	Furthermore, the Accounts Payable also include liabilities for various claims totaling ₱52,530.00 due to cancellation of checks that become stale or for being RTS. Details are as follows:
+
+Creditors
+
+Total
+
+Cancellation Reference
+
+Status
+
+Camarines Sur Polytechnic Colleges
+
+2,530.00 
+
+JEV-2018-06-006270 
+
+Stale
+
+Corazon Chiong Fune
+
+20,000.00 
+
+JEV-2018-01-000399 
+
+RTS
+
+Milagros Flores Acosta
+
+10,000.00 
+
+JEV-2016-01-001022
+
+Stale
+
+Nancy Aluxillos Lacanilao
+
+20,000.00 
+
+JEV-2018-02-001355 
+
+RTS
+
+Tadtad Joel Posada
+
+14,944.00 
+
+
+
+
+
+Tatad Joel Posada
+
+(14,944.00)
+
+
+
+
+
+TOTAL
+
+₱52,530.00
+
+
+
+
+
+	11)	It is informed that check issued to Ms. Nancy A. Lacanilao for the payment of burial claim amounting to ₱20,000.00 was cancelled under JEV-2018-02-001355 and replaced by Check No.10445076 dated January 22, 2018 but the corresponding adjustment was not recorded in the books.  
+
+	12)	Likewise, two SLs for Tadtad Joel Posada were maintained; thus, two sets of records were sourced of information. 
+
+	13)	We recommended that Management require the AS to:
+
+a)		investigate the difference amounting to ₱1,230,014.29 between the GL and SL balances of DCI Konstruct, Inc., and Rolosa Construction and Supplies;
+
+b)		review and determine if dormant balances are still valid obligations; if not, revert those payables which have been outstanding for two years or more, pursuant to existing laws, rules and regulations; 
+
+c)		effect the necessary adjustment on the account of Tadtad Joel Posada and maintain only one SL for each creditor; and
+
+d)		regularly review payables particularly those with material amount to ensure that only those rightful obligations are recorded properly in the books of accounts and presented in the FS.
+
+	14)	Management Comments
+
+	1)	Dormant accounts
+
+Accounts payable that had been outstanding for more than two years refers to the balance of DCI Konstrukt, Inc. for the repair/rehabilitation of PVAO Admin Building which was put on hold due to the issuance of Notice of Disallowance, and the 10 percent retention fee to Rolosa Construction and Supplies for the extension/rehabilitation of PVAO Records Building. These balances are not reverted to the unappropriated surplus /adjusted in the books due to the fact that they remain valid and legal obligations of the agency based on the contract and accomplished project.
+
+The GSSMD however is continuously conducting verification of records and documents related to the projects accomplished by DCI Konstruckt, Inc. and Rolosa Construction and Supplies, such as their current billings and demand letters to facilitate either the full payment of balances or reversion of balances to unappropriated surplus.
+
+	2)	Discrepancies of accounts
+
+With regard to the observed discrepancies of accounts between the GL and SL of creditors, the AS has already informed and submitted the required documents to the Information Technology Office of COA CO regarding these errors. 
+
+
+
+Cancelled checks of Nancy Auxillos Lacanilao and Tadtad Joel Posada were adjusted per JEV No. 2021-01-000400 and 2021-01-000401, respectively.
+
+
+
+Other reversion of claims amounting to ₱32,530.00 will be posted in January 2021 after thorough review of prior year related documents/ transactions.
+
+
+
+
+
+	15)	Auditor’s Rejoinder
+
+Justification pertaining to dormant accounts of DCI Kontrukt, Inc. and Rolosa Construction and Supplies were acknowledged, should Management disclose such relevant information in the Notes to FS under the Accounts Payable account to make it known to users of the FS.
+
+Furthermore, submitted JEVs were likewise acknowledged, with the continuous monitoring of other cancelled claims amounting to ₱32,530.00 which are currently being reviewed by Management.
+
+
+
+
+
+Pension Payable
+
+7)	The balance of Pension Benefits Payable account totalling ₱1,492,383,025.99 is doubtful due to discrepancy of ₱937,573,009.76 between the balance per books against the PVAO’s servicing banks and financial institutions’ records. Moreover, inadequate monitoring of pension liquidations resulted in the accumulation of unliquidated pension remittances totalling ₱1,492,383,025.99; hence, not in accordance with Sections 74, 111, and 124 of P.D.1445 and the provisions in the MOA between the PVAO and its servicing banks and financial institutions.
+
+	1)	Section 74 of PD No. 1445 provides that, At the close of each month, depositories shall report to the agency head, in such form as he may direct, the condition of the agency account standing on their books. The head of the agency shall see to it that a reconciliation is made between the balance shown in the reports and the balance found in the books of the agency.
+
+	2)	Section 111 of P.D.1445 states that: Keeping of accounts. (1) The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government. (2) The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+	3)	Section 124 of P.D.1445 states that, It shall be the direct responsibility of the agency head to install, implement, and monitor a sound system of internal control.
+
+	4)	In the MOA executed between the PVAO and its servicing banks and financial institutions, it is stated that, xxx shall submit liquidation report consisting of the number of pensioners whose pension were credited to their respective individual account not later than the twentieth (20th) of the month following the pension credit date.
+
+	5)	The balance of Pension Benefits Payable account amounting to ₱1,492,383,025.99 as of December 31, 2020 represents the unliquidated pension remittances of nine servicing banks and financial institutions of PVAO. The balance will be reduced upon submission of DMs and/or certificate of actual pension remittances to individual pensioner’s accounts. 
+
+	6)	Evaluation of SLs against the Bank Statement (BS) of servicing banks and Statement of Other Receivables (SOR) of each financial institution disclosed the following discrepancies:
+
+Banks/Financial Institutions
+
+Amount
+
+
+
+Per SL
+
+Per BS/SOR
+
+Difference (Absolute)
+
+1)	AFPSLAI
+
+223,350.00 
+
+    173,350.00 
+
+50,000.00
+
+2)	AMWSLAI
+
+315,000.00 
+
+    355,000.00 
+
+40,000.00
+
+3)	AUB
+
+2,887,206.63 
+
+   2,921,206.63 
+
+34,000.00
+
+4)	CWSLAI
+
+0.00 
+
+          -   
+
+0.00
+
+5)	DBP
+
+277,754,869.02 
+
+   79,816,319.80 
+
+197,938,549.22
+
+6)	LBP
+
+484,721,103.60 
+
+  142,054,924.24 
+
+342,666,179.36
+
+7)	Maybank
+
+100,000.00 
+
+      100,000.00 
+
+0.00
+
+8)	PVB
+
+668,468,746.26 
+
+ 393,764,228.80 
+
+274,704,517.46
+
+9)	UCPB
+
+57,912,750.48 
+
+ 180,052,514.20 
+
+122,139,763.72
+
+Total
+
+₱1,492,383,025.99 
+
+₱799,237,543.67 
+
+₱937,573,009.76
+
+	7)	Based on the above table, the amount payable to these servicing banks and financial institutions reflected a net balance of ₱1,492,383,025.99 in the SL, while evaluation of the BS and SOR showed a total balance of ₱799,237,543.67, or posting a difference of ₱937,573,009.76.
+
+	8)	In addition, discrepancies noted on other accounts were due to prior years’ balances during the implementation of the Direct Pension Remittance Scheme (DPRS), where payment to pensioners were remitted even those accounts were on hold or under evaluation which resulted in accumulation of unliquidated balances.
+
+	9)	However, results of the aging of the Pension Benefits Payable account as of December 31, 2020 submitted by the AS showed otherwise. Details are shown below:
+
+Banks/
+
+Financial Institutions
+
+Amount
+
+Number of days past due
+
+
+
+
+
+Not due
+
+Less than 1 year
+
+More than 1 year
+
+AFPSLAI
+
+223,350.00 
+
+223,350.00 
+
+0.00
+
+0.00
+
+AMWSLAI
+
+315,000.00 
+
+315,000.00 
+
+0.00
+
+0.00
+
+AUB
+
+2,887,206.63 
+
+2,887,206.63 
+
+0.00
+
+0.00
+
+CWSLAI
+
+0.00 
+
+0.00 
+
+0.00
+
+0.00
+
+DBP
+
+277,754,869.02 
+
+277,754,869.02 
+
+0.00
+
+0.00
+
+LBP
+
+484,721,103.60 
+
+484,721,103.60 
+
+0.00
+
+0.00
+
+Maybank
+
+100,000.00 
+
+100,000.00 
+
+0.00
+
+0.00
+
+PVB
+
+668,468,746.26 
+
+668,468,746.26 
+
+0.00
+
+0.00
+
+UCPB
+
+57,912,750.48 
+
+57,912,750.48 
+
+0.00
+
+0.00
+
+Total
+
+₱1,492,383,025.99 
+
+₱1,492,383,025.99 
+
+₱0.00
+
+		₱0.00
+
+	10)	The above table shows that all the remaining unliquidated balances are from the month of December 2020 only. Further verification of records disclosed that the outstanding balance of ₱1,492,383,025.99 was not supported with list of pensioners. It was noted that this issue was not resolved due to Management’s failure to submit justifications and/or relevant documents to support the claim and substantiate the outstanding balance of the account.
+
+	11)	Failure of Management to properly account the difference in the report on time, casts doubt on the reliability of the Pension Benefits Payable account balance.
+
+	12)	We recommended that Management:
+
+a)	require the Head of AS and BRU to identify and document noted difference amounting to ₱937,573,009.76 between the balances per books against the BRS and SOR to reflect the correct balance; 
+
+b)	submit the list of pensioners to support pension benefits payable amounting to ₱1,492,383,025.99; 
+
+c)	analyze erroneous adjusting entries pertaining to prior years’ transactions;
+
+d)	prepare and submit adjustments with sufficient supporting documents; and 
+
+e)	implement monitoring scheme to avoid difference in reporting of balances of the account.
+
+
+
+	13)	Management Comments
+
+
+
+The pension benefits payable account consists of pension remittances and pension benefits obligation under validation program. The account is credited/increased each month for the pension benefits remitted to cash in bank local currency account which are consequently credited to pensioners’ bank accounts within the month, and for the establishment of pension obligations for a specific period. The account balance is decreased by the liquidations of government servicing banks/financial institution on the actual remittance made to pensioners and by payments/settlement of validated pension obligations by the office. 
+
+
+
+1)	Identify/document the noted difference of ₱980,312,073.07
+
+
+
+Based on the on-going review and reconciliation of account conducted by the Bank Reconciliation Unit (BRU), the following amounts are identified.
+
+
+
+Pension Payable - SL balance as of Sept 30, 2020
+
+₱1,462 Million
+
+Less: 
+
+
+
+Unliquidated pension remittances for CY 2020
+
+(16.9 Million)
+
+Pension obligations under validation program
+
+(1,460 Million)
+
+Difference
+
+	₱14.9 Million*
+
+*system/eNGAS error that was already corrected as of December 31, 2021
+
+
+
+2)	Submit list of pensioners totalling ₱1,461,598,704.08.
+
+
+
+The list of pensioners submitted and accounted for amounted to ₱1,074,004,000.00. Details as follows:
+
+
+
+Bank
+
+Amount
+
+DBP
+
+       ₱ 204,017,600.00 
+
+LBP
+
+        322,280,500.00 
+
+PVB 
+
+        465,882,000.00 
+
+UCPB
+
+           81,823,900.00 
+
+Sub-total
+
+   1,074,004,000.00 
+
+Less: Pension Benefit Payable account
+
+   1,461,598,704.08 
+
+Difference
+
+      ₱387,594,704.08 
+
+
+
+3)	Implement appropriate monitoring scheme to avoid differences in reporting of the balances of the account.
+
+
+
+The Management implemented improvements in monitoring and reporting of the Pension Benefits Payable such that the BRU included in their reconciliation statements for Cash in Bank accounts and Other Receivables account the related entries/transactions to account for the Pension Benefits Payable. A separate report and disclosure of difference in the accounts will also be attached as supporting schedule to the reconciliation statements.
+
+
+
+	14)	Auditor’s Rejoinder
+
+
+
+We acknowledge Management’s compliance to COA’s recommendations on the deficiencies noted, as well as the justifications and committed actions related thereto. However, we request submission of documents/information regarding the following:
+
+
+
+a)	Correction on system/eNGAS error amounting to ₱14.9 Million, being the difference identified between the balance per books and per servicing banks/financial institutions’ records. 
+
+
+
+b)	Justification or other related documents identifying the difference of ₱387 Million between the balance of Pension Benefits Payable per list of pensioners and the balance per books.  
+
+
+
+Moreover, the on-going procedures of reconciliation for variance amounting to ₱1.46 Billion will be continuously monitored to minimize or eliminate the same. Non-submission of documents related thereto will not resolved the deficiencies noted. 
+
+Repairs and Maintenance accounts
+
+
+
+8)	Various accounting errors, omissions and deficiencies were noted in recording repairs and maintenance of the Agency’s assets which resulted in the misstatements of the affected accounts in the financial statements.
+
+	1)	Pertinent provisions of the GAM for NGAs Volume I provides the following: 
+
+Chapter 2, Section 2. Accrual Basis. Basis of accounting under which transactions and other events are recognized when they occur (and not only when cash or its equivalent is received or paid). Therefore, the transactions and events are recognized in the accounting records and recognized in the financial statements of the periods to which they relate. The elements recognized under accrual accounting are assets, liabilities, net assets/equity, revenue, and expenses.
+
+Chapter 10, Section 8.g Construction of PPE. During the construction period, all expenses incurred in relation to the construction of the PPE shall be taken up in the books as Construction in Progress (CIP) with the appropriate asset classification. As soon as the construction is completed, the ―Construction in Progress account shall be reclassified to the proper asset account. 
+
+Chapter 10, Section 24. Repairs and Maintenance. Repairs and maintenance primarily maintain or improve the functionality and capacity of the PPE; increase its service life; improve the quality of its output; or reduce the operating cost. These may be categorized into major and minor repairs. Minor repairs shall be directly charged to expense account ―Repairs and Maintenance of the specific PPE while major repairs shall be added to the carrying amount of the PPE and shall be depreciated over the remaining life of the PPE. Where cost cannot easily be differentiated between a minor or major repair, it shall be treated as expense. 
+
+	2)	Section 4(6) of PD 1445 provides that, Claims against government funds shall be supported with complete documentation.
+
+	3)	Section 60 Chapter 19 of the GAM for NGAs Vol. I states that, the reports and supporting documents submitted by the accountable officers are immediately recorded in the books of account and submitted to the Auditor within the first ten (10) days of the ensuing month.
+
+	4)	For CY 2020, accounting records show expenditures relative to Repairs and Maintenance of various PPEs totalling ₱9,116,674.56, summarized as follows:
+
+
+
+Account
+
+ Fund 01 
+
+ Fund 06 
+
+ Total 
+
+RM – Buildings & Other Structures
+
+₱7,746,793.94 
+
+₱925,280.25
+
+₱8,672,074.19 
+
+RM – Machinery and Equipment
+
+156,487.60 
+
+        0.00   
+
+  156,487.60 
+
+RM – Transportation Equipment
+
+   288,112.77 
+
+         0.00   
+
+288,112.77
+
+ Total
+
+₱8,191,394.31
+
+₱925,280.25
+
+₱9,116,674.56
+
+	5)	Audit of transactions classified as repairs and maintenance of various PPEs disclosed various accounting errors and omission, as follows:
+
+Deficiencies/Particulars
+
+Reference/ Date
+
+Amount (Over)/Understatements)
+
+
+
+
+
+Assets
+
+Equity
+
+
+
+
+
+
+
+Repairs and Maintenance 
+
+Accumulated Surplus/ (Deficit)
+
+
+
+
+
+Buildings
+
+CIP-Buildings and Other Structures
+
+Machinery and Equipment
+
+Buildings and Other Structures
+
+
+
+Erroneous Classification of Prior Years’ Expenditures as Repair and Maintenance - P184,721.60
+
+IFE Elevators
+
+Elevator Maintenance at Mount Samat National Shrine (Nov. and Dec. 2019)
+
+01/09/20
+
+Ck#10934298
+
+
+
+
+
+
+
+(₱19,800.00)
+
+₱19,800.00
+
+
+
+2/11/20
+
+Ck#10961293
+
+
+
+
+
+
+
+(19,800.00)
+
+19,800.00
+
+Jardine Schindler Elevator Corporation
+
+Elevator Maintenance at PKTCC Building
+
+(Nov. and Dec. 2019)
+
+1/17/20
+
+Ck#10934427
+
+
+
+
+
+
+
+(14,392.00)
+
+14,392.00
+
+
+
+1/23/20
+
+Ck#10934679
+
+
+
+
+
+
+
+(14,392.00)
+
+14,392.00
+
+Freeman Enterprise
+
+Repair and preventive maintenance services of ACU (Oct. and Dec. 2019)
+
+08/04/20
+
+CK#LDDFAP-ADA-No. 2020-08-093
+
+
+
+
+
+(P59,438.40)
+
+
+
+59,438.40
+
+
+
+08/04/20
+
+CK#LDDAP-ADA-NO. 2020-08-092
+
+
+
+
+
+(56,899.20)
+
+
+
+56,899.20
+
+
+
+
+
+
+
+
+
+(116,337.60)
+
+(68,384.00)
+
+184,721.60
+
+Erroneous Classification of Expense Accounts - P21,000.00
+
+IFE Elevators
+
+Elevator maintenance at Mount Samat National Shrine (July 2020)
+
+09/29/20
+
+Ck#11061022
+
+
+
+
+
+(21,000.00)
+
+21,000.00
+
+
+
+Erroneous Classification of Completed project - P11,943,052.15
+
+One Manuel Contractors and Builders Corporation
+
+Repair and Renovation of Bonifacio and Luna Hall per CA-17-2017
+
+Prior years payments of progress billings
+
+9,985,024.81
+
+
+
+
+
+
+
+(9,985,024.81)
+
+
+
+03/27/20
+
+Ck#10998117
+
+1,523,322.91
+
+
+
+
+
+(1,523,322.91)
+
+
+
+
+
+03/27/20
+
+CK#10998118
+
+434,704.43
+
+
+
+
+
+(434,704.43)
+
+
+
+Sub-total
+
+
+
+11,943,052.15
+
+
+
+
+
+(1,958,027.34)
+
+(9,985,024.81)
+
+Erroneous classification of Repairs and Maintenance P183,110.33
+
+One Manuel Contractors and Builders Corporation
+
+Variation Order for the construction of Administration Building at USAFIP-NL
+
+01/22/20
+
+CK#466262
+
+
+
+183,110.33
+
+
+
+(183,110.33)
+
+
+
+Sub-total
+
+
+
+
+
+183,110.33
+
+
+
+(183,110.33)
+
+
+
+TOTAL
+
+
+
+11,943,052.15
+
+183,110.33
+
+(137,337.60)
+
+(2,188,521.67)
+
+(9,800,303.21)
+
+Total Misstatement (Aggregate)
+
+P24,252,324.96
+
+a)		Erroneous classification of prior years’ expenditures as Repair and Maintenance (RM) - ₱184,721.60
+
+	6)	Verification of records revealed that expenditures totalling ₱184,721.60 incurred in CY 2019 but paid in CY 2020 were recorded as Repair and Maintenance Expense instead of Accumulated Surplus/(Deficit). 
+
+b)		Erroneous classification of expenses - ₱21,000.00
+
+	7)	Likewise, payment to IFE Elevators Philippines, Inc. for the preventive maintenance of one (1) unit Metis-CR elevator amounting to ₱21,000.00, installed at Mount Samat National Shrine, Pilar Bataan was classified as Repairs and Maintenance – Machinery and Equipment instead of Repairs and Maintenance – Buildings and Other Structures.    
+
+c)		Erroneous classification of repairs and maintenance of completed project - ₱11,943,052.15
+
+	8)	In CY 2017, PVAO entered into a contract with One Manuel Contractors and Builders Corporation for the repair and renovation of Bonifacio and Luna Hall located at PVAO, Camp Aguinaldo, in the amount of ₱11,943,052.15 (inclusive of variation order of P1,085,440.56) per Contract Agreement CA-17-2017 dated December 13, 2017. The project cost was taken from the budget for MOOE and payment totalling P11,943,052.15 was recorded in the books as Repairs and Maintenance – Buildings and Other Structures
+
+	9)	Repairs and renovation of Bonifacio and Luna Hall was determined to have significant contribution to the functionality and capacity of the building which can be considered a major repair. Section 24, Chapter 10 of GAM Vol. 1 provides that major repairs shall be added to the carrying amount of the PPE and shall be depreciated over its remaining life. The details are as follows:
+
+Reference
+
+Particulars
+
+Original contract Amount
+
+Variation Orders
+
+Total
+
+Prior Years’ Payment
+
+3/15/2018JEV-2018-03-002332
+
+Progress billing equivalent to 50.03% work accomplishment
+
+2,562,525.44 
+
+
+
+2,562,525.44 
+
+3/15/2018JEV-2018-03-002337
+
+Progress billing equivalent to 50.03% work accomplishment
+
+2,869,537.64 
+
+
+
+2,869,537.64 
+
+9/10/2018JEV-2018-09-009114
+
+Progress billing equivalent to 85.97% work accomplishment
+
+1,840,838.79 
+
+
+
+1,840,838.79 
+
+9/10/2018JEV-2018-09-009141
+
+Progress billing equivalent to 85.97% work accomplishment
+
+2,061,386.81 
+
+
+
+2,061,386.81 
+
+10/17/2018JEV-2018-10-010313
+
+Variation order #1 for the repair /renovation of Bonifacio and Luna Hall
+
+
+
+294,325.74 
+
+294,325.74 
+
+10/17/2018JEV-2018-10-010335
+
+Variation order #2 for the repair /renovation of Bonifacio and Luna Hall
+
+
+
+356,410.39 
+
+356,410.39 
+
+Sub-total - recorded as repair and maintenance in the year of occurrence and close to Accumulated Surplus/ (Deficit)
+
+9,334,288.68
+
+ 650,736.13
+
+ 9,985,024.81
+
+Current Year Payment
+
+3/27/2020JEV-2020-03-002341
+
+Progress billing equivalent to 100% work accomplishment
+
+1,523,322.91 
+
+
+
+1,523,322.91 
+
+3/27/2020JEV-2020-03-002342
+
+Variation order #3 for the repair /renovation of Bonifacio and Luna Hall
+
+434,704.43 
+
+
+
+434,704.43 
+
+Sub-total - Repairs and Maintenance - B&OS
+
+1,958,027.34
+
+ 
+
+ 1,958,027.34
+
+Grand Total
+
+ 
+
+11,292,316.02
+
+ 650,736.13
+
+11,943,052.15 
+
+d)		Erroneous classification of Repairs and Maintenance - ₱183,110.33 
+
+	10)	Further evaluation of documents disclosed that progress billing in the amount of P183,110.33 for the construction of Administration Building at USAFIP-NL, La Union (Contract Agreement CA-20-2017) with contract cost of ₱2,498,003.36 (inclusive of variation orders) was recorded in the books as Repairs and Maintenance – Buildings and Other Structures instead of Construction in Progress.   
+
+	11)	It is worth mentioning that expenditures relative to building constructions, whether repairs or maintenance which primarily maintain or improve the functionality and capacity of the PPE, shall be added to the carrying amount of the PPE and shall be depreciated over the remaining life of the PPE, as stated in the provisions of Chapter 10, Volume I of the GAM for NGAs.
+
+	12)	The erroneous classification and recording of these expenditures resulted in the total misstatement of ₱24,252,324.96; thus, affecting the fair presentation of the financial statements.
+
+e)		Incomplete/non-submission of documentary requirement - ₱800,729.76
+
+	13)	In addition, post-audit of the disbursement vouchers relating to repairs and maintenance revealed that expenses totalling P800,729.76 were not supported with official receipts to support the disbursements. Details are as follows:
+
+Reference
+
+Payee
+
+Particulars
+
+Amount
+
+JEV-2020-07-006304 CK#11000026
+
+IFE Elevators
+
+	4 pcs cage holder of one elevator unit at Mt. Samat, Bataan
+
+₱10,953.60
+
+JEV-2020-08-006502 CK#11000251
+
+Treadstone Konstruct & Building Materials Supply Specialist Inc.
+
+Repair pf PEFTOK WAR Memorial Hall
+
+750,033.05 
+
+JEV-2020-08-006492 CK#11000244
+
+Carworld Inc.
+
+Preventive maintenance of Mitsubishi Strada 
+
+(Plate No. B2S645)
+
+16,051.11 
+
+JEV-2020-08-006495 CK#11000245
+
+
+
+Preventive maintenance of Mitsubishi Strada 
+
+(Plate No. B21718)
+
+23,692.00 
+
+Total
+
+₱800,729.76
+
+
+
+	14)	Non-submission of official receipts to support the payments made casted doubt on the validity of the claims.
+
+
+
+	15)	We recommended that Management require the AS to:
+
+
+
+		a)	prepare necessary adjusting entries to correct deficiencies noted and observe caution in using the proper classification of accounts in recording transactions; 
+
+		b)	reclassify the progress billing to the appropriate Construction in Progress account; and
+
+		c)	submit the lacking documents to support the claims.
+
+
+
+
+
+	16)	Management Comments
+
+
+
+Management submitted the JEVs (JEV Nos. 2021-01-000377, 2021-01-000379, 2021-01-000488, 2021-01-000372, and 2021-01-000376) correcting the erroneous classification of accounts and Official Receipts (OR) amounting to ₱703,155.98 issued by Treadstone Konstrukt & Building Materials Supply Specialist Inc. 
+
+
+
+	17)	Auditor’s Rejoinder
+
+
+
+We acknowledge the submission of documents. However, collection receipt instead of official receipt issued by IFE Elevators was submitted to support the disbursement which could not be considered to satisfy the requirement in audit. Moreover, the OR issued by Carworld Inc. lacks clear details such as OR No., OR date, and even the amount. Hence, the deficiency relating to both payees are yet to be addressed and complied with. 
+
+
+
+Reference
+
+Payee
+
+Particulars
+
+Amount
+
+JEV-2020-07-006304 CK#11000026
+
+IFE Elevators
+
+	4 pcs cage holder of one elevator unit at Mt. Samat, Bataan
+
+₱10,953.60
+
+JEV-2020-08-006492 CK#11000244
+
+Carworld Inc.
+
+preventive maintenance of Mitsubishi Strada 
+
+(Plate No. B2S645)
+
+16,051.11 
+
+JEV-2020-08-006495 CK#11000245
+
+
+
+preventive maintenance of Mitsubishi Strada 
+
+(Plate No. B21718)
+
+23,692.00 
+
+Total
+
+₱50,696.71
+
+
+
+
+
+COMPLIANCE AUDIT
+
+Receipt and Disbursement of COVID-19 Funds
+
+9)	The validity and propriety of various COVID-related expenditures totalling ₱3,108,937.73 cannot be ascertained due to incomplete documentation, contrary to the provisions of Section 4 of PD 1445, COA Circular No. 2012-001 dated June 14, 2012 and COA Memorandum No. 2020-019 dated November 9, 2020.
+
+
+
+	1)	Section 4 (6) of PD No. 1445 provides that Claims against government funds shall be supported with complete documentation.
+
+	2)	COA Circular No. 2012-001 dated June 14, 2012 prescribed the revised guidelines and documentary requirements for common government transactions. The general requirements for all types of disbursements were also provided in the same Circular; among others are the submission of the Certificate of Availability of Funds issued by the Chief Accountant and sufficient and relevant documents to establish validity of the claim.
+
+	3)	Moreover, COA Memorandum No. 2020-019 dated November 9, 2020 provides the guidelines in the Financial and Compliance Audit of the Corona Virus Disease 2019 (COVID-19) Funds during the period of the State of National Emergency.
+
+	4)	Per Status Report on the Receipt and Utilization of COVID-19 Funds as of December 31, 2020 duly signed by the Acting Head, Budget Section and Chief, Planning and Management Division, PVAO did not receive any COVID-19 funds from other sources such as special releases by DBM, funds allocated for DRRM, realigned or reallocated funds mentioned in RA No. 11469, fund transfers and cash donations. PVAO resorted to realignment of funds from CY 2020 GAA to defray various expenditures in relation to the agency’s response to the pandemic.
+
+	5)	Total funds realigned amounted to ₱7,243,722.94 to cover COVID-19-related expenditures. Out of the total amount obligated, ₱7,142,541.39 was disbursed, leaving a balance of ₱101,181.55 as of year-end.
+
+	6)	Various DVs and supporting documents relative to COVID-19 expenditures covering the period April 2020 to December 2020 were submitted and post-audited. In the course of audit, we have noted that several disbursements totalling ₱3,108,937.73 were not supported with complete documentation as shown in Annex 3.
+
+	7)	Non-submission of necessary documents affects the validity and propriety of disbursements made.
+
+	8)	Likewise, DVs and supporting documents for the period October to December 2020 were not submitted within the prescribed period of submission of reports pursuant to Section 60(c), Chapter 19 of the GAM for the NGAS Volume I.   
+
+	9)	We recommended that Management:
+
+	a)	submit the lacking documents and henceforth ensure completeness of supporting documents for all disbursements in accordance with the existing laws, rules and regulations before processing of claims; and
+
+	b)	comply with the period of submission of reports pursuant to Section 60(c), Chapter 19 of the GAM for the NGAs Volume I.   
+
+	10)	Management Comment
+
+Management partially submitted the required lacking documents covering transactions for the period April to December 2020.  
+
+	11)	Auditor’s Rejoinder
+
+We acknowledge Management’s commitment to ensure completeness of supporting documents for all transactions and partial compliance to COA’s recommendations by submitting the required documents which we have evaluated. However, we encourage Management to submit other required supporting documents the soonest possible time. 
+
+Receipt and Disbursement of Yolanda/Marawi Funds
+
+10)	For the calendar year 2020, the agency did not receive Yolanda and Marawi funds.
+
+Receipt and Disbursement of DRRM Funds
+
+11)	The agency is not a recipient of Disaster Risk Reduction and Management fund for CY 2020.
+
+Receipt and Disbursement of NTF-ELCAC Funds
+
+12)	The agency is not a recipient of National Task Force to End Local Communist Armed Conflict fund for CY 2020.
+
+Compliance with Tax Laws, RA 8291 (GSIS), RA 9679 (HDMF), PhilHealth
+
+13)	As of December 31, 2020, the remaining balance of withheld inter-agency payable are as follows:
+
+Particulars 
+
+Beginning Balance
+
+2020
+
+Balance
+
+Remarks
+
+
+
+
+
+Withheld
+
+Remittance
+
+Dec 31, 2020
+
+
+
+Due to BIR 
+
+₱3,108,124.73
+
+₱11,230,548.98
+
+₱11,757,974.93
+
+₱2,580,698.78
+
+Remitted  in January 2021
+
+Due to GSIS 
+
+28,045.57
+
+21,602,334.41
+
+21,577,277.59
+
+53,102.39
+
+For adjustment in 2021
+
+Due to PAG-IBIG
+
+19,804.04
+
+2,610,502.15
+
+2,608,320.85
+
+21,985.34
+
+For adjustment in 2021
+
+Due to PHILHEALTH
+
+(827.07)
+
+1,275,877.79
+
+1,274,584.05
+
+466.67
+
+For adjustment in 2021
+
+Due to BIR
+
+	1)	For CY 2020, PVAO has complied with BIR Regulation No. 14-2002 dated September 9, 2002 and Revenue Memorandum Circular No. 5-2006 dated November 2, 2005, by withholding taxes from its officials and employees and various suppliers. 
+
+	2)	The balance of the Due to BIR account totalling ₱2,580,698.78 as of December 31, 2020 was all remitted in January 2021.
+
+Due to GSIS
+
+	3)	Republic Act 8291 requires the deduction of GSIS premiums from the salaries of all government employees and remittance thereof to the Government Service Insurance System and states that, “xxx Each employer shall remit directly to the GSIS the employees’ and employers’ contributions within the first ten (10) days of the calendar month following the month to which the contributions apply. The remittance by the employer of the contributions to the GSIS shall take priority over and above the payment of any and all obligations, except salaries and wages of its employees.”
+
+	4)	Inquiry with the Accounting Section revealed that the balance of ₱53,102.39 pertains to various errors in recording of funding source resulting in positive and negative balance of the individual account of employees but no effort was exerted to correct these errors.
+
+Due to PAG-IBIG
+
+	5)	Section 3a, Rule VI of the IRR of RA 9679 or HDMF Law of 2009, otherwise known as the PAG-IBIG Fund Law states that, “All employers shall remit to the Fund their contributions and the contributions of their covered employees as well as the latter’s loan amortizations or payments to the Fund, as provided for under Section 2 of this Rule, when applicable, within fifteen (15) days from the date the same were collected unless another period is previously agreed upon between the employer and the Fund, or within such periods as the Fund may prescribe otherwise.” 
+
+	6)	The remaining balance of Due to PAG-IBIG totalling ₱21,985.34 pertains to prior years transactions subject to reconciliation and adjustment this CY 2021.
+
+Due to PhilHealth
+
+	7)	The negative beginning balance of Due to PHILHEALTH account amounting to ₱827.07 remained unadjusted, leaving a ₱466.67 balance in the account for further evaluation and adjustment. 
+
+
+
+
+
+
+
+Status of Settlement of Audit Suspensions, Disallowances and Charges
+
+14)	As of December 31, 2020, the total suspensions and disallowances amounted to ₱2,184,746,275.12, details are as follows:  
+
+Notice
+
+Beginning BalanceAs of 
+
+December 31, 2019
+
+This Period
+
+January 1 to December 31, 2020
+
+Ending BalanceAs of 
+
+December 31, 2020
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of  Suspension
+
+₱944,771,171.43
+
+₱2,456,779.24
+
+₱18,546,634.01 
+
+₱928,681,316.66
+
+Notice of  Disallowance 
+
+1,256,064,958.46
+
+57,630.00
+
+57,630.00
+
+1,256,064,958.46
+
+Notice of Charge
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Total
+
+₱2,200,836,129.89
+
+ ₱2,514,409.24
+
+ ₱18,604,264.01 
+
+₱2,184,746,275.12
+
+	1)	For CY 2020, suspension amounting to ₱57,630.00 matured into disallowance and was issued under Notice of Disallowance (ND) No. 19-002-101(18) dated December 2, 2019, but was not reported until the first quarter of CY 2020. The same ND was fully-settled under NSSDC 20-007 dated October 5, 2020.
+
+Gender and Development (GAD)
+
+15)	The agency failed to allocate five percent of the total agency’s appropriations for CY 2020 for GAD in attaining its objectives contrary to Section 31 of the GAA of CY 2020. 
+
+	1)	Section 31 of the GAA of FY 2020 states that, “Programs and Projects Related to Gender and Development – All agencies of the government shall formulate a Gender and Development (GAD) Plan designed to address gender issues within their concerned sectors or mandate and implement the applicable provisions under R.A. No. 9710 or the Magna Carta for Women, Convention on the Elimination of all Forms of Discriminations Against Women, the Beijing Platform for Action, the Philippine Plan for Gender-Responsive Development (1995-2025), and the Philippine Development Plan (2017-2022).
+
+	2)	The GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least 5% of their budgets. For this purpose, activities currently being undertaken by agencies which relate to GAD or those that contribute to poverty alleviation, economic empowerment especially of marginalized women, protection, promotion and fulfilment of women’s human rights and practice of gender-responsive governance are considered sufficient compliance with said requirement. Utilization of the GAD budget shall be evaluated based on the GAD performance indicators identified by said agencies.
+
+	3)	The agency has a total appropriations of ₱10,881,622,161.59 including the pension and gratuity fund of ₱10,257,808,787.00 for CY 2020 while the approved budget for GAD program/activities amounted to ₱197,821,573.95 or two percent only of its total appropriations which is below the required five percent budget equivalent to ₱544,081,108.08. Moreover, review of the agency’s GAD Plan and Budget showed that the plan includes 21 activities which were mostly accomplished and completed, in which the total amount expended for the year amounted to ₱172,989,049.29 or 87.45 of the allocated budget of ₱197,821,573.95.
+
+	4)	We recommended that Management require the GAD Focal Point System to strictly adhere to the provisions of the GAA by allocating the required funds and ensure that the GAD programs and activities are implemented as planned with utmost economy, efficiency and effectiveness.
+
+Senior Citizens and Differently-Abled
+
+16)	The Agency substantially allotted funds in accordance with the provisions of Section 32 of the General Provisions of the FY 2020 GAA for the hospitalization and medical care benefits, transport devices, and construction and repair of ramps and PWD friendly comfort rooms in different Field Extension Offices and Military Shrines for Senior Citizens (SCs) and PWDs amounting to ₱288,228,734.39.
+
+
+
+	1)	Section 32 of the General Provisions of the FY 2020 GAA requires all agencies of the government to formulate plan, programs and projects intended to address the concerns of senior citizens and persons with disability, insofar as it relates to their mandated functions, and integrate the same in their regular activities.
+
+
+
+	2)	Moreover, all government infrastructures and facilities shall provide architectural or structural features, designs or facilities that will reasonably enhance the mobility, safety and welfare of persons with disability pursuant to Batas Pambansa Blg. 344 and R.A. No. 977, as amended.
+
+
+
+	3)	For CY 2020, Management submitted Accomplishment Report for SCs and Differently-abled persons totalling ₱248,240,337.52 with activities such as: celebration of veteran-related events where the role of older persons in nation’s building is recognized; provision of ambulatory devices; health and wellness program through medicines; medical missions; free transport shuttles; repair of ramps and PWD-friendly comfort rooms; and provision of hospitalization and medical care benefits to veterans and their dependents through the Veterans Hospitalization and Medical Care Programs (VHMCP) and establishment of veterans ward nationwide.
+
+
+
+Compliance with Property Insurance Law
+
+17)	Relative to compliance with Property Insurance Law, the agency paid the amount of ₱1,590,623.94 to the GSIS in CY 2020 for the insurance of the following properties: 
+
+Policy Number
+
+Particulars
+
+Amount
+
+1000652124
+
+KIA Panoramic Van Plate No: SGS-392 
+
+ ₱3,103.95 
+
+FI-NM-GSISHO-0035169
+
+Buildings and other Structures located at the PVAO Central Office and military shrines 
+
+1,540,159.79 
+
+1000655078
+
+Toyota Tamaraw FX Plate No: SEF-743
+
+500.76 
+
+1000655082
+
+Toyota Innova Plate No: SAA-3744
+
+           6,722.34 
+
+1000658318
+
+Toyota Grandia Plate No: SAA-3745
+
+           9,043.14 
+
+1000662629
+
+Mitsubishi Xpander Motor No. 4A91DM5990
+
+           8,228.67 
+
+1000662628
+
+Mitsubishi Strada Motor No. 4N15UCN1252
+
+           9,518.33 
+
+1000662628
+
+Mitsubishi Strada Plate No. B2S645
+
+           9,518.33 
+
+1000667905
+
+Toyota Innova Plate No. SJN-609
+
+           3,828.63 
+
+Total
+
+
+
+₱1,590,623.94 
+
+
+
+57
+
+
+
+
+
+
+
+
+

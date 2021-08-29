@@ -1,0 +1,2660 @@
+PART II - AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+	The audit of financial transactions and operations of the Aurora State College of Technology (ASCOT) for calendar year 2020 disclosed some observations that needed improvements and/or corrections. Our observations with the corresponding recommendations are discussed in detail in the succeeding paragraphs.
+
+
+
+A)	Financial Audit
+
+
+
+Doubtful accuracy of the PPE account balance
+
+
+
+1. 	The reliability of the Property, Plant and Equipment (PPE) account with a carrying value of ₱301,531,338.99 as of December 31, 2020 was uncertain due to unfinished inventory-taking and inclusion of unserviceable property due for disposal, resulting in an unreconciled discrepancy of ₱17,683,163.37  between the  Report on Physical Count of Property, Plant and Equipment (RPCPPE) and the PPE Ledger Card (PPELC) contrary to Section 38, Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I. 
+
+
+
+		1.1	As of December 31, 2020, the Property, Plant and Equipment account had a  carrying value of ₱301,531,338.99, the breakdown of which is shown per account in the table below:
+
+		
+
+		Particulars
+
+		Amount
+
+		Land
+
+		₱        0.00 
+
+		Other Land Improvements
+
+		28,735,026.73 
+
+		School Buildings
+
+		136,095,767.40
+
+		Hostel and Dormitories
+
+		50,473,895.48 
+
+		Office Equipment
+
+		6,790,265.83 
+
+		Information and Communication Technology Equipment 
+
+		10,159,052.39
+
+		Agricultural and Forestry Equipment
+
+		241,974.71 
+
+		Communication Equipment
+
+		18,847.50 
+
+		Medical Equipment
+
+		103,322.92 
+
+		Sports Equipment
+
+		26,604.25
+
+		Technical and Scientific Equipment
+
+		12,848,079.82 
+
+		Motor Vehicles
+
+		14,351,134.79 
+
+		Furniture and Fixtures
+
+		971,206.93 
+
+		Books
+
+		682,100.39 
+
+		Other Property, Plant and Equipment
+
+		333,964.23 
+
+		Other Structures
+
+		1,361,828.46 
+
+		Disaster Response and Rescue Equipment
+
+		94,491.67 
+
+		Military, Security and Police Equipment
+
+		770.00 
+
+		Power Supply System
+
+		296,638.57 
+
+		Construction in Progress
+
+		37,946,366.92 
+
+		Total 
+
+₱301,531,338.99
+
+1.2	Section 38, Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, states:
+
+
+
+The entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) as at December 31 of each year. This shall be submitted to the Auditor concerned not later than January 31 of the following year. Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division/Unit for proper accounting/recording. 
+
+	
+
+	1.3	It is the practice of the Supply Office to prepare and submit the Report on Physical Count of Property, Plant and Equipment (RPCPPE) for the current year’s acquisitions only. The College did not include in the Report other PPE items acquired prior to CY 2020 which practice is not in conformity with the above-cited provision of the GAM. This demonstrates that the Supply Office has not been monitoring the condition and whereabouts of all the properties of the College, thus, casting doubt on the existence of the PPEs reported in the financial statements.
+
+	
+
+1.4	During the ocular inspection conducted by the Audit Team, it was noted that most of the PPEs have no property stickers or tags, thus, the difficulty in identifying and verifying such details, i.e.  model or serial number of the unit and the person accountable. As part of good internal control, it is a basic rule that all government property shall be properly labeled and physically identified by the Inventory Committee. As prescribed by the Commission on Audit (COA) Circular No. 2020-006 dated January 31, 2020, the Property Number shall be prominently shown in the property sticker, in addition to the description of the property, model number, serial number, acquisition date/cost, person accountable, and space for the validation/signature of the Inventory Committee.
+
+
+
+1.5	The College has not yet adopted the use of uniform property identification system for PPE, contrary to Item 5.6 of said COA Circular No. 2020-006, which requires a unique Property Number to be assigned for each PPE item. The Circular prescribes a new numbering system for PPE of all government agencies consisting of at least 14-digit Property Number indicating the year purchased (4), PPE sub-major account group (2), general ledger account (4), serial number (4), and location/office (2), wherein additional digits may be used for serial number and location/office, as necessary.
+
+
+
+	1.6	In addition, the Supply and Accounting Offices failed to reconcile their property records, particularly for those PPEs acquired in CYs 1994 to 2012 that were reported in the Financial Statements (FS) aggregately or in lumpsum. As of this writing, the College is still in the process of identifying or segregating the items individually for accurate presentation in the FS.
+
+	
+
+	1.7	In view of the absence of subsidiary records, such as Property, Plant and Equipment Ledger Card (PPELC) during the aforementioned period, coupled with the failure to conduct actual physical inventory-taking, the unreconciled balances of the previous years gradually decreased to ₱17,683,163.37 as at December 31, 2020.  The matrix below shows the breakdown of the amount per account; viz:
+
+
+
+Account
+
+Unreconciled Balance
+
+Items Individually Identified During the Year
+
+Unreconciled Balance
+
+
+
+(as of December 31, 2019)
+
+
+
+(as of December 31, 2020)
+
+Office Equipment
+
+₱      4,030,093.88 
+
+₱   1,287,222.79 
+
+₱   2,742,871.09 
+
+Information & Communication Technology Equipment
+
+11,593,757.90
+
+6,289,086.45 
+
+5,304,671.45 
+
+Agricultural & Forestry Equipment
+
+280,550.00
+
+40,050.00 
+
+240,500.00 
+
+Technical & Scientific Equipment
+
+4,893,763.65
+
+0.00 
+
+4,893,763.65 
+
+Furniture & Fixtures
+
+1,116,962.25
+
+0.00 
+
+1,116,962.25 
+
+Books
+
+2,362,976.34
+
+0.00 
+
+2,362,976.34 
+
+Other PPE
+
+1,410,391.31
+
+388,972.72 
+
+1,021,418.59 
+
+TOTAL
+
+₱    25,688,495.33 
+
+₱   8,005,331.96 
+
+₱  17,683,163.37 
+
+	
+
+	1.8	Incidentally, identified items worth ₱8,005,331.96 were already reported in the Inventory and Inspection Report of Unserviceable Properties (IIRUP), but not yet derecognized in the books of accounts in the absence of actual disposal. 
+
+	
+
+	1.9	These unreconciled balances between the PPELC and the RPCPPE and the incomplete inventory reports raised doubts on the existence, completeness, and accuracy of the recorded PPEs of the College.
+
+	
+
+		1.10		We recommended and the management agreed to direct the following officials to: 
+
+
+
+a)		Accountant:
+
+	
+
+i)	Search for the pertinent documents, reports and records maintained in the previous years to facilitate the reconciliation of balances between the PPELC and the RPCPPE; and  
+
+
+
+ii)	File a request for authority to derecognize non-existing/missing PPEs to the Office of the Auditor in accordance with the guidelines set under Item 8 of the COA Circular 2020-006 dated January 31, 2020.
+
+	
+
+b)		Supply Officer:
+
+	
+
+i)	Closely coordinate with the College Accountant for the reconciliation of the unreconciled balances of the PPE and thereafter, conduct periodic reconciliation of Accounting and Supply/Property records for PPE accounts; 
+
+
+
+ii)	Revise the Property Number using the uniform property identification system for PPE prescribed under Item 5.6 of COA Circular No. 2020-006, and attach individual property tags to all PPEs of the College; and
+
+
+
+iii)	Exert extra effort in locating the properties purchased in CYs 1994 to 2012, and accomplish the IIRUP as stated in the Instructions of Appendix No. 74 of GAM for NGAs, Volume II. 
+
+
+
+(c) Inventory Committee:
+
+
+
+i)	Conduct inventory of the PPE in accordance with COA Circular 2020-006 dated January 31, 2020 and include therein all items of PPE owned by the College, to come up with updated and complete RPCPPE.
+
+
+
+
+
+Insufficient Fidelity Bond
+
+
+
+1)			Both the Cashier and the Disbursing Officer (DO) were not adequately bonded contrary to Section 5.1 of the Treasury Circular No. 02-2009, dated August 6, 2009; thus, posing risk that the College may not be appropriately indemnified in the event of loss of the cash handled by any of the accountable officers (AOs).
+
+
+
+1)	Treasury Circular No. 02-2009 dated August 6, 2009 provides that:
+
+
+
+Section 5.1 – Amount of Bond.
+
+
+
+The amount of bond shall be based on the total accountability (cash. property and accountable forms) of the accountable public officer as determined by the Head of Agency. Provided, the individual maximum accountability of each accountable public officer shall not exceed One Hundred Million Pesos (₱100M). However, the Head of Agency may assign to other public officers the excess accountability for which a separate Fidelity Bond shall be secured.
+
+
+
+Section 7.3 – Increase in Accountability.
+
+
+
+		Any increase in the amount of accountability, resulting to an increase in the amount of bond shall be subject to increase in premium.
+
+
+
+2)	The Cashier and the Disbursing Officer (DO) posted a bond of ₱100,000.00 each for a maximum cash accountability of ₱250,000.00; to wit:
+
+
+
+Accountable Officer
+
+Maximum Cash Accountability
+
+Fidelity Bond
+
+Risk No.
+
+Effectivity
+
+CYNTHIA D. MACOSE
+
+Cashier III/Admin. Officer V
+
+₱    250,000.00
+
+₱  100,000.00
+
+21-20-0002R
+
+01/03/2020 – 01/03/2021
+
+OLGA V. ABION
+
+Disbursing Officer III/Admin. Assistant IV
+
+250,000.00
+
+100,000.00
+
+21-20-0003R
+
+01/03/2020 – 01/03/2021
+
+
+
+3)	However, during the conduct of cash examination of their cash and accounts, covering the period December 6, 2019 to November 10, 2020,  we noted that their actual accountabilities were much higher than the declared maximum cash accountability in their applications for bond. For the Disbursing Officer, the cash examination showed that the monthly balance of her unliquidated cash advances ranged from ₱537,382.94 to ₱2,920,264.25; while for the Cashier, daily collections are deposited intact not later than the next banking day.
+
+
+
+4)	The requirement for every accountable officer to be adequately bonded under Section 5.1 of Treasury Circular No. 02-2009, is a necessary control to safeguard the government in cases of damage or loss of assets. The Bureau of Treasury (BT) declares that Fidelity Fund shall answer only for Defalcations, Shortages, and Unrelieved Accountabilities of the bonded official/employee who has current and existing bond up to the actual amount of loss but not exceeding the amount of bond. As such, in case of inadequate bond, the College is at risk of not being indemnified for losses incurred beyond the bond coverage.
+
+
+
+5)	To minimize or avoid said risk, the College should have to increase the bond in accordance with the range of actual cash accountability pursuant to Section 7.3 of the Treasury Circular No. 02-2009.
+
+
+
+6)	We recommended and the management agreed to assess the risk associated with the cash accountabilities of the accountable officers (AOs) and consider increasing their fidelity bonds, especially that of the Disbursing Officer, corresponding to the amount of their actual accountabilities in order to provide adequate protection on the assets of the College.
+
+
+
+
+
+Unreconciled discrepancies between the cashbooks and the accounting records
+
+
+
+1)	The discrepancies between the cashbooks and the accounting records have not been eliminated or adjusted, where appropriate, indicating lack of regular reconciliation between the accountable officers (AOs) and the Accountant which may result to the failure to detect and correct errors, and prevent probable losses or misappropriation.
+
+
+
+1)	Verification of the different records maintained for cash accounts disclosed the following accounting errors and deficiencies; to wit:
+
+
+
+
+
+
+
+A. Cash Receipts Record (CRRec)
+
+
+
+	3.1.1 Unrecorded collection and deposit in July 2020 for ₱2,500.00 under the Special Projects Fund as per Official Receipt (OR) No. 6995422 dated July 21, 2020;
+
+
+
+	3.1.2 Unrecorded deposit of ₱39,521.75 on December 12, 2019 under the Income Generating Project (IGP) Fund; and
+
+
+
+3.1.3 Erroneous recording of deposits in the CRRec of the IGP Fund on December 11 and 27, 2019, resulting in an overstatement of ₱94,931.67, itemized as follows:
+
+
+
+Date
+
+Particulars
+
+Amount
+
+December 11, 2019
+
+Recorded Amount
+
+₱802, 365.85
+
+
+
+Per Audit
+
+802,365.18
+
+
+
+Overstatement
+
+0.67
+
+December 27, 2019
+
+Recorded Amount
+
+105,478.51
+
+
+
+Per Audit
+
+10,547.51
+
+
+
+Overstatement
+
+₱ 94,931.00
+
+
+
+3.1.4 Incorrect recording in the CRRec of the Special Trust Fund (STF), understating the collections and deposits for the Trust Fund and overstating that of the STF, details of which are as follows:
+
+
+
+Particulars
+
+Amount
+
+Collections
+
+
+
+OR No. 3895855 dated 09/30/2020
+
+₱           7,707.62
+
+OR No. 3895906 dated 10/08/2020
+
+4,992.00
+
+TOTAL
+
+        12,699.62
+
+
+
+
+
+Deposits
+
+
+
+Deposit on 10/01/2020 (OR No. 3895855)
+
+           7,707.62
+
+Deposit on 10/09/2020 (OR No. 3895906)
+
+4,992.00
+
+TOTAL
+
+₱         12,699.62
+
+
+
+		1)	Several transactions for the Graduate Program Fund were erroneously recorded in the CRRec of the STF, and vice versa, thus, misstating the collections and deposits of the other account; to wit:
+
+
+
+a.  Collections and deposits recorded in the Graduate Program Fund that should have been recorded in the STF:
+
+
+
+Particulars
+
+Amount
+
+OR Nos. 3893587-3893595 dated 06/04/2020, deposited on 06/05/2020
+
+₱      45,580.00
+
+OR Nos. 3893597-3893621 dated 06/04/2020, deposited on 06/05/2020
+
+92,850.00
+
+OR Nos. 3893623-3893624 dated 06/04/2020, deposited on 06/05/2020
+
+2,630.00
+
+OR No. 3893625 dated 06/05/2020, deposited on 06/08/2020
+
+4,380.00
+
+OR Nos. 3893628-3893630 dated 06/05/2020, deposited on 06/08/2020
+
+14,515.00
+
+TOTAL
+
+₱    159,955.00
+
+
+
+a)	Collections and deposits recorded in the STF that should have been recorded in the Graduate Program Fund:
+
+
+
+Particulars
+
+Amount
+
+OR Nos. 3893622 dated 06/04/2020, deposited on 06/05/2020
+
+₱           10.00
+
+OR Nos. 3893626-389627 dated 06/05/2020, deposited on 06/06/2020
+
+130.00
+
+OR Nos. 3893631-389636 dated 06/05/2020, deposited on 06/06/2020
+
+580.00
+
+TOTAL
+
+₱         720.00
+
+
+
+		2)	Collection in the amount of ₱1,975,545.00 under OR No. 6995435 dated November 4, 2020 was not recorded in the CRRec of the STF, understating the collections for the month of November 2020.
+
+
+
+B. Cash Disbursements Record (CDRec)
+
+
+
+		3)	For the Graduate Program Fund, the cash advance, supported by Check #61400081 amounting to ₱23,828.00 and the corresponding disbursement in December 2020 were erroneously recorded in the CDRec as ₱23,828.88; while in November 2020, there was unrecorded disbursement in the amount of ₱1,600.00, resulting in an overstatement in the accountability of the Disbursing Officer (DO).
+
+
+
+		4)	For the Special Trust Fund (Senior High School) –
+
+
+
+	a)	The DO failed to record her cash advance, supported by Check No. 500408 dated March 18, 2020 amounting to ₱44,298.00, and the corresponding disbursements in the amounts of ₱24,298.00 and ₱20,000.00 made in April and May 2020, respectively;
+
+
+
+	b)	Disbursement for October 2020 amounting to ₱84,000.00 was erroneously recorded as a debit to the CDRec, thus, overstating the accountability of the DO; and
+
+
+
+	c)	The DO failed to present during the cash examination her unliquidated cash advance, supported by Check #556002 dated October 8, 2020 amounting to ₱2,000.00, resulting in a shortage by the same amount. The said cash advance was liquidated only on December 9, 2020.
+
+
+
+		5)	For the Special Trust Fund –
+
+a. 	The DO erroneously recorded in the CDRec the cash advances and disbursements as follows:
+
+
+
+Ref.
+
+Particulars
+
+Amount
+
+Check # 61400085 dated 12/12/2019
+
+Recorded Amount
+
+₱           88,474.40
+
+
+
+Per Audit
+
+88,474.00
+
+
+
+Difference
+
+.40
+
+
+
+
+
+
+
+Check # 61400382 dated 06/23/2020
+
+Recorded Amount
+
+₱         454,950.59
+
+
+
+Per Audit
+
+454,850.59
+
+
+
+Difference
+
+₱                 100.00
+
+
+
+3.2	The foregoing errors could have been detected and corrected immediately had the accountable officers (AOs) and the Accountant conducted monthly reconciliation of their books/records.
+
+
+
+C. Journal Entry Voucher/General Ledger
+
+
+
+3.3	In February 2020, the Accountant erroneously recorded a collection in the Cash Receipts Journal (CRJ) for the Trust Fund in the amount of ₱1,698,540.00. This transaction pertains to a collection on January 31 which was deposited on February 1. Such entry in the CRJ made reference to Journal Entry Voucher (JEV) No. VCO/PCA-20-02-005, however, it did not include any debit or credit to the “Cash-Collecting Officer” account.
+
+
+
+3.4	It was noted that the entry in the afore-cited JEV consisted only of a debit to “Cash in Bank-LCCA-DBP” and a credit to “Due to NGAs”, indicating a transfer of fund from the Philippine Coconut Authority (PCA). The correct entry should have been a debit to “Cash in Bank-LCCA-DBP” and a credit to “Cash-Collecting Officer”, to record the deposit of the collection. Due to the foregoing error, the accountability of the Cashier was overstated per Accounting records.
+
+
+
+3.5	A review of the accounting records showed that said collection from PCA was properly recorded in January 2020, through JEV No. VCO/PCA-20-01-002, debiting “Cash-Collecting Officer” and crediting “Due to NGAs”. However, it was further noted that the JEV was both recorded in the General Journal (GJ) and the CRJ, contrary to the Instructions on the use of Accounting Books, Registries, Records, Forms and Reports as prescribed in the Government Accounting Manual (GAM), Volume II.
+
+
+
+3.6	As instructed under Appendix 5 of GAM, Volume II, postings to the ledger shall come directly from the General and Special Journals. Appendix 2 prescribes that CRJ shall be used as a Special Journal to record the RCD/CRReg submitted by the collecting officer/s; on other hand, Appendix 1 specifies that GJ shall only be used to record transactions not recorded in the Special Journal/s.
+
+
+
+3.7	Notwithstanding the bookkeeping errors in the Journals, the General Ledger (GL) balances for the month of January and February were not affected and showed the correct balances of the abovementioned accounts. The errors were only detected in the JEV and Journals, but not in the balances of accounts in the GL and Trial Balance. The foregoing findings indicate that the Accountant did not follow the specific uses and purposes of the accounting journals and ledgers in accordance with the aforementioned procedures in the GAM, thus, creating discrepancies between the subsidiary records and the GL controlling accounts, and causing difficulties in identifying the correct accountabilities of the accountable officers.
+
+
+
+3.8	We recommended and the management agreed to undertake the following courses of action:
+
+
+
+a)	Direct the Collecting and Disbursing Officers to record all transactions appropriately in their respective cashbook and make adjustments/corrections on the noted errors as mentioned above;
+
+
+
+b)	Instruct the Accountant to draw an adjusting/reversing entry to correct JEV No. VCO/PCA-20-02-005 by debiting “Due to NGAs” account and crediting “Cash Collecting Officer” to reconcile the postings in the General Ledger and the balances of the accounts in the Trial Balance;
+
+
+
+c)	Direct the accountable officers (AOs) and the Accountant to conduct monthly reconciliation of their books/records in order to identify and timely correct errors and/or immediately detect shortage or malversation, if any; and
+
+
+
+d)	Advise the Accountant and the AOs to follow the Instructions provided in Appendices 1 to 5, 27 and 40 of the GAM for NGAs, Volume II, in the maintenance and keeping of accounting records and cashbooks. 
+
+
+
+
+
+Compliance Audit
+
+
+
+Graduates Employability and Performance in the Licensure Board Examinations
+
+
+
+1)	The academic courses offered by the College are aligned with the various memoranda issued by the Commission on Higher Education (CHED); however, the performance of the College for the past five years in the licensure board examinations given by the Professional Regulation Commission (PRC) was below the national passing grade attributable to the delayed hiring of teaching plantilla position and, therefore, did not speak well of the academic performance of the College.
+
+
+
+a. Performance in the National Licensure/Board Examinations
+
+
+
+1)	Pursuant to Republic Act (R.A.) No. 7664, otherwise known as An Act Establishing the Aurora State College of Technology (ASCOT), the College is mandated to provide technical and professional training in the fields of sciences, arts, teacher education, agriculture, engineering and technology as well as short-term vocational courses.
+
+
+
+2)	Pursuant to its mandate, ASCOT offered the following curricula and disciplines since its creation in calendar year 1994 which are presented vis-à-vis the priority courses identified by the Commission on Higher Education (CHED) and communicated to all Higher Educational Institutions (HEIs) through various memorandum orders:
+
+
+
+PROGRAMS/DISCIPLINES/DEGREES OFFERED
+
+Per CMO No.
+
+Per ASCOT
+
+30 series 2004 – Teacher Education Program
+
+
+
+Bachelor of Elementary Education (BEEd)
+
+BOT Resolution No. 472 s. 2001/BOT Resolution No. 30 s. 2004 – Revised Curriculum
+
+Bachelor of Secondary Education (BSEd)
+
+BOT Resolution No. 211 s. 1998/ BOT Resolution No. 30 s. 2004 – Revised Curriculum
+
+30 series 2006 – Bachelor of Science in Hotel and Restaurant Management (BSHRM)
+
+BOT Resolution No. 813 s. 207/ BOT Resolution No. 30 s. 2006 – Revised Ladderized Curriculum in Certificate in Associate in Hotel and Restaurant Management leading to BSHRM
+
+43 series 2006 – Bachelor of Science in Fisheries (BSFi)
+
+BOT Resolution No. 469 s. 2001/ BOT Resolution No. 900 s. 2008 – Revised Curriculum
+
+44 series 2006 – Bachelor of Science in Forestry (BSF)
+
+BOT Resolution No. 20 s. 1995/ BOT Resolution No. 6 s.  2012 – Ladderized Curriculum in Diploma in Forest Technology leading to BSF
+
+53 series 2006 – Bachelor of Science in Information Technology (BSIT)
+
+BOT Resolution No. 124 s. 1997/ BOT Resolution No. 902 s.  2008 – Ladderized Curriculum in Certificate in Associate in Computer Technology
+
+29 series 2007 – Bachelor of Science in Civil Engineering (BSCE)
+
+BOT Resolution No. 22 s. 1995/ BOT Resolution No. 8 s. 2010 – Revised Ladderized Curriculum in Certificate in Junior/Senior Construction Builder Courses leading to BSCE 
+
+09 series 2008 – Bachelor of Science in Mechanical Engineering (BSME)
+
+BOT Resolution No. 22 s. 1995/ BOT Resolution No. 8 s. 2010 – Ladderized Curriculum in Junior/Senior Mechanical Technician Courses leading to BSME
+
+14 series 2008 – Bachelor of Science in Agriculture (BSA)                                                                                                                                                                                                                                                                          
+
+BOT Resolution No. 592 s. 2003/ BOT Resolution No. 14 s 2008 – Ladderized Curriculum in Certificate in Agricultural Science leading to BSA
+
+34 series 2008 – Bachelor of Science in Electrical Engineering (BSEE)
+
+BOT Resolution No. 21 s. 1995/ BOT Resolution No. 8 s. 2010 – Ladderized Curriculum in Junior/Senior Electrician Course leading to BSEE
+
+Executive Order (EO) No. 358 series of 2004 – Bachelor of Industrial Technology (BIT)
+
+BOT Resolution No. 176 s. 1998/ BOT Resolution No. 752 s. 2006 – Revised Ladderized Curriculum in Certificate in Junior/Senior Automotive Technician Courses, Diploma in Automotive Technology leading to BIT major in Automotive Technology; Certificate in Junior/Senior Construction Builder Courses, Diploma in Civil Technology leading to BIT major in Building Construction Technology; Certificate in Junior/Senior Electrician Courses, Diploma in Electrical Technology leading to BIT major in Electrical Technology; Certificate in Food Technology, Diploma in Food Technology leading to BIT major in Food Technology.
+
+
+
+3)	Courses offered by ASCOT are generally aligned with the priority courses identified by CHED and nine out of 11 are packaged as ladderized curriculum programs leading to bachelor’s degree. We noted that for the past five years, the College has no new course/program.
+
+
+
+4)	The College also offered Graduate Program consisting of the following degrees:
+
+
+
+PROGRAM/DISCIPLINE/DEGREES OFFERED
+
+CMO No. 36 s. 1998
+
+ASCOT
+
+Master of Arts in Education (Majors: Guidance and Counselling, Educational Management, Filipino Language Teaching, Science Education)
+
+BOT Resolution No. 740 s. 2006
+
+Master in Management (Majors in Educational Management, Public Management, Business Management)
+
+BOT Resolution No. 351 s. 2000
+
+Master of Science in Agriculture (Majors in Animal Science, Crop Science)
+
+BOT Resolution No. 473 s. 2001
+
+Master of Science in Environmental Management
+
+BOT Resolution No. 925 s. 2008
+
+
+
+5)	Below is the table showing the level or accreditation status of the courses being offered and the initial year of its operation.
+
+
+
+ACCREDITATION STATUS DONE BY
+
+ACCREDITING AGENCY OF CHARTERED COLLEGES and
+
+UNIVERSITIES IN THE PHILIPPINES, Inc. (AACCUP)
+
+Degree Programs
+
+Year of Initial Operation
+
+Level/Accreditation Status
+
+Duration of Validity of Accreditation Status
+
+Master of Arts in Education (Majors: Guidance and Counselling, Educational Management, Filipino Language Teaching, Science Education)
+
+2006
+
+Level II – Re-accredited
+
+July 16, 2018-July 15, 2022. The program was first accredited as Level II on December 16, 2015 to December 15, 2018.
+
+Master in Management (Majors in Educational Management, Public Management, Business Management)
+
+2000
+
+Level II – Re-accredited
+
+July 16, 2018-July 15, 2022. The program was first accredited as Level II on December 16, 2015 to December 15, 2018.
+
+Master of Science in Agriculture (Majors in Animal Science, Crop Science)
+
+2001
+
+Level I - Accredited
+
+October 1, 2017-September 30, 2020.
+
+Master of Science in Environmental Management
+
+2008
+
+Level I - Accredited
+
+October 1, 2017-September 30, 2020.
+
+Bachelor of Elementary Education (BEEd)
+
+2001
+
+Level II – Re-accredited
+
+October 1, 2017-September 30, 2021
+
+Bachelor of Secondary Education (BSEd)
+
+1998
+
+Level II – Re-accredited
+
+July 16, 2018-July 15, 2022
+
+Bachelor of Science in Hotel and Restaurant Management (BSHRM)
+
+2007
+
+Level I - Accredited
+
+October 1, 2017-September 30,2020 
+
+Bachelor of Science in Fisheries (BSFi)
+
+2001
+
+Level I- Accredited
+
+July 16, 2018- July 15, 2021
+
+Bachelor of Science in Forestry (BSF)
+
+1995
+
+Level II- Reaccredited 
+
+October 1, 2017- September 30, 2021
+
+Bachelor of Science in Information Technology (BSIT)
+
+1997
+
+Level I- Accredited
+
+October 1, 2017- September 30, 2020
+
+Bachelor of Science in Civil Engineering (BSCE)
+
+1995
+
+Level I- Accredited
+
+October 1, 2017- September 30, 2020
+
+Bachelor of Science in Mechanical Engineering (BSME)
+
+1995
+
+Level I- Accredited
+
+October 1, 2017- September 30, 2020
+
+Bachelor of Science in Agriculture (BSA)        
+
+2003
+
+Level II- Reaccredited
+
+July 16, 2018- July 15, 2022
+
+Bachelor of Science in Electrical Engineering (BSEE)
+
+1995
+
+Level I- Accredited
+
+October 1, 2017- September 30, 2020
+
+Bachelor of Industrial Technology (BIT)
+
+1998
+
+Level I- Accredited
+
+October 1, 2017- September 30, 2020
+
+
+
+6)	It can be clearly gleaned above that for the undergraduate programs only four out of 11 courses are in Level II or only 36% while seven or 64% are in Level I which shows that the College failed to meet the standards of the accrediting agency considering that the number of years of operation ranges from 18 to 26 years and 14 to 26 years, respectively. This condition also affected the College’s request for higher budget allocation.
+
+
+
+
+
+7)	The Director of Quality Assurance Office reasoned out that the College has just started to go through the accreditation process in CY 2012, and noted that all courses/programs are already accredited in just eight years, considering that the first step is the Preliminary Survey Visit (PSV) for four years and one year after graduation it will be subject to evaluation for accreditation.
+
+
+
+8)	Records also showed that for the last five years (data for AY 2020-2021 is for the first semester only), the population of the College has increased in all programs as shown in the tables and graphs below.
+
+
+
+
+
+PROGRAMS/DISCIPLINES/DEGREES OFFERED
+
+Academic Year
+
+2016-2017
+
+2017-2018
+
+2018-2019
+
+2019-2020
+
+Bachelor of Elementary Education (BEEd)
+
+65
+
+41
+
+86
+
+116
+
+Bachelor of Secondary Education (BSEd)
+
+221
+
+162
+
+293
+
+366
+
+Bachelor of Science in Hotel and Restaurant Management (BSHRM)
+
+324
+
+337
+
+686
+
+1043
+
+
+
+
+
+PROGRAMS/DISCIPLINES/DEGREES OFFERED
+
+Academic Year
+
+2016-2017
+
+2017-2018
+
+2018-2019
+
+2019-2020
+
+Bachelor of Science in Civil Engineering (BSCE)
+
+453
+
+356
+
+357
+
+478
+
+Bachelor of Science in Mechanical Engineering (BSME)
+
+98
+
+82
+
+107
+
+169
+
+Bachelor of Science in Electrical Engineering (BSEE)
+
+136
+
+115
+
+147
+
+242
+
+
+
+
+
+PROGRAMS/DISCIPLINES/DEGREES OFFERED
+
+Academic Year
+
+2016-2017
+
+2017-2018
+
+2018-2019
+
+2019-2020
+
+Bachelor of Science in Agriculture (BSA)
+
+283
+
+287
+
+537
+
+868
+
+Bachelor of Industrial Technology (BIT)
+
+955
+
+735
+
+983
+
+1488
+
+
+
+
+
+PROGRAMS/DISCIPLINES/DEGREES OFFERED
+
+Academic Year
+
+2016-2017
+
+	2017-2018
+
+2018-2019
+
+2019-2020
+
+Bachelor of Science in Fisheries (BSFi)
+
+58
+
+73
+
+125
+
+149
+
+Bachelor of Science in Forestry (BSF)
+
+432
+
+801
+
+566
+
+793
+
+Bachelor of Science in Information Technology (BSIT)
+
+830
+
+460
+
+528
+
+545
+
+9)	As of December 31, 2020, it has employed 183 faculty members or an increase of 73 or 66 % compared to the previous five academic years (2012-2016) of 110. This is composed of 86 plantilla positions (63 permanent and 23 temporary) and 97 are contractual. Their qualifications in terms of highest educational attainment as at year-end are presented in the next table.
+
+
+
+Department
+
+Educational Attainment
+
+Remarks
+
+
+
+Doctorate Degree
+
+Master’s Degree
+
+Bachelor’s Degree
+
+Total
+
+
+
+Plantilla positions:
+
+
+
+
+
+
+
+
+
+
+
+Education
+
+4
+
+9
+
+0
+
+13
+
+Two are currently enrolled in doctorate degree.
+
+Arts & Sciences
+
+0
+
+11
+
+10
+
+21
+
+One is currently enrolled leading to doctorate degree while eight are enrolled leading to master degree.
+
+Agriculture & Aquatic Sciences
+
+5
+
+6
+
+2
+
+13
+
+Two are currently enrolled in master’s degree.
+
+Forestry
+
+1
+
+5
+
+5
+
+11
+
+One is currently enrolled in doctorate degree and seven in master’s degree.
+
+Industrial Technology
+
+1
+
+1
+
+6
+
+8
+
+Six are currently enrolled in master’s degree
+
+Information Technology 
+
+0
+
+7
+
+2
+
+9
+
+Three are currently enrolled in doctorate degree and with 30 units and nine units, respectively, in master’s degree
+
+Engineering
+
+2
+
+1
+
+8
+
+11
+
+Three with 36 units in master’s degree
+
+Sub-total,
+
+ Plantilla items
+
+13
+
+40
+
+33
+
+86
+
+
+
+Contractual
+
+
+
+
+
+
+
+97
+
+
+
+Grand total
+
+
+
+
+
+
+
+183
+
+
+
+
+
+10)	Review of employment documents revealed that their qualifications were generally responsive to the requirements of Civil Service Commission (CSC) Memorandum Circular (MC) No. 10, s. 2012 dated June 5, 2012 which adopts the minimum education requirement for the following faculty positions in State Universities and Colleges (SUCs) and Local Colleges and Universities (LCUs):
+
+
+
+Faculty Positions
+
+Education Requirement
+
+Instructor I to III (SUCs & LCUs)
+
+Assistant Professor I to IV (SUCs)
+
+Assistant Professor 1 (LCUs)
+
+Master’s degree in the area of specialization
+
+
+
+11)	Further assessment of the College’s academic performance disclosed the low performance in national licensure examinations.
+
+12)	Below are the graphs showing the performance obtained by the College in the different licensure board examinations in different programs, compared against the national passing rate during the past five years using the average of the result of two examinations given during the year.
+
+
+
+Licensure Examination for Teachers (Elementary) CY 2016-2019.
+
+Surpassed the NPR and noted 100% passing in CY 2019.
+
+
+
+
+
+
+
+Licensure Examination for Teachers (Secondary) CY 2016-2019.
+
+Surpassed the NPR and shows increasing passing rate except for CY 2016.
+
+
+
+
+
+     
+
+Fisheries Technologist Licensure Board Examination for CY 2016 & 2017 only.
+
+Below the NPR.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Licensure Board Examination for Foresters CY 2016-2019.
+
+Below the NPR.
+
+
+
+
+
+
+
+
+
+Licensure Board Examination for Civil Engineers CY 2016-2019.
+
+Below the NPR.
+
+
+
+
+
+
+
+
+
+Licensure Board Examination for Mechanical Engineers CY 2016-2020.
+
+Surpassed the NPR for CY 2018 and 2020.
+
+
+
+
+
+
+
+Licensure Board Examination for Agriculturist CY 2016-2019.
+
+Below the NPR.
+
+
+
+
+
+
+
+Licensure Board Examination for Electrical Engineers CY 2016-2020.
+
+Surpassed the NPR for CY 2018.
+
+
+
+
+
+
+
+13)	Due to the pandemic condition brought about by the Corona Virus Infectious Disease (COVID) 2019, all board examinations in CY 2020 were postponed by the PRC, except for the Licensure Board Examination for Mechanical Engineers which was given in February 2020. It is worthy to mention that the College has surpassed the national passing rate of 34.45%, having 50% passing rate for the said examination.
+
+
+
+14)	Below is the summary of the performance of the College in the national licensure examinations; viz:
+
+
+
+a)	ASCOT’s passing rate is far below the national passing rate in the programs of Bachelor of Science in Fisheries, Bachelor of Science in Forestry, Bachelor of Science in Civil Engineering, and Bachelor of Science in Agriculture for the past four years; and
+
+
+
+b)	Of the eight programs, two showed increasing passing rates, two varying rates and four showed a decreasing trend in the passing rate.
+
+
+
+15)	As noted, the unsatisfactory performance of the College in the licensure/board examinations was not in keeping with the reported qualifications and competencies of its teaching personnel.
+
+
+
+16)	Further interview with the Vice President for Academic Affairs (VPAA) revealed that the possible cause of their graduates’ poor performance in national board examinations is the lack of teaching personnel due to delayed hiring.
+
+
+
+17)	As explained and presented earlier, the College has just started filling-up vacant plantilla in the teaching position in CY 2018 under the leadership of the former College President. This contributed to poor performance in national board examination because most of the faculty members were newly hired and did not have much experience.
+
+
+
+18)	Another reason is the lack of concentration of some faculty members assigned to handle the K to 12 Program of the Department of Education (DepEd), wherein the College still have ten sections of Grade 12 for the last batch of the Program.
+
+
+
+
+
+b. Employability of Graduates
+
+
+
+19)	The Office of the Guidance Counsellor provided the Audit Team with the data on the status of employment of its graduates for the past five years (CYs 2016 to 2020) as summarized below:
+
+
+
+Program
+
+Number of graduates
+
+Number of graduates employed
+
+Percentage of employed graduates
+
+  BS in Elementary Education
+
+14
+
+11
+
+79
+
+BS in Secondary Education
+
+41
+
+37
+
+90
+
+BS in Hotel & Restaurant Management
+
+5
+
+3
+
+60
+
+B S in Fisheries
+
+5
+
+3
+
+60
+
+BS in Forestry
+
+36
+
+25
+
+69
+
+BS in Information Technology
+
+44
+
+31
+
+70
+
+BS in Civil Engineering
+
+20
+
+18
+
+90
+
+BS in Mechanical Engineering
+
+6
+
+3
+
+50
+
+BS in Electrical Engineering
+
+9
+
+6
+
+67
+
+BS in Agriculture
+
+8
+
+5
+
+63
+
+B of Industrial Technology
+
+25
+
+17
+
+68
+
+Total
+
+213
+
+159
+
+75
+
+
+
+20)	As shown above, all of the programs offered by the College got an employment rate of 50% and above, with the Education and Civil Engineering Programs obtaining the highest rate of 90%. 
+
+
+
+1)	We reiterated our recommendation and the College President agreed to adopt strategies to upgrade the quality of education of the College, particularly the qualifications of the teaching personnel, which in turn will yield better performance of its graduates in the licensure examinations, making them more competitive in acquiring high paying jobs or decent means of livelihood.
+
+
+
+
+
+Unrecovered advance payment  and performance bond from abandoned infra projects
+
+
+
+1)			The College failed to recoup ₱7,121,688.80 of the  advance payment to the contractors and/or collect out of the forfeited performance bonds corresponding to three pre-terminated/abandoned projects way back in CY 2018, namely: Construction of Three-Storey Classroom and Office Building; Construction of Three-Storey Social Science and GAD Building; and Construction of Three -Storey Arts and Science Building Complex, all located in ASCOT, Zabali Campus, Baler, Aurora, thus, preventing the College from pursuing the projects due to insufficiency of funds to the detriment of the government.
+
+
+
+1)	Records of the Aurora State College of Technology (ASCOT) showed that the implementation of the following construction projects with total contract cost of ₱76,295,873.84 were discontinued, as follows:
+
+
+
+
+
+Name of Project
+
+Contract
+
+1)	Construction of Three (3) Storey Classroom and Office Building,
+
+ASCOT, Zabali Campus, Baler, Aurora
+
+₱11,139,000.00
+
+2)	Construction of Three (3) Storey Classroom and Office Building,
+
+ASCOT, Bazal Campus, Maria Aurora, Aurora
+
+14, 980,000.00
+
+3)	Construction of Three (3) Storey Social Science and GAD Building
+
+ASCOT, Zabali Campus, Baler, Aurora
+
+28,388,782.25
+
+4)	Construction of Three (3) Storey Arts and Science Building Complex
+
+ASCOT, Zabali Campus, Baler, Aurora
+
+21,788,091.59
+
+Total
+
+₱76,295,873.84
+
+
+
+
+
+2)	On November 6, 2018, the contracts for the above-mentioned projects were terminated in accordance with Annex I of the 2016 Revised Implementing Rules and Regulations (IRR) of Republic Act (R.A.) No. 9184 for the following reasons:
+
+
+
+a)	Negative slippage of 15% or more due to the fault of the Contractor;
+
+b)	Negative slippage of more than 10% after the contract time has expired due to the contract’s fault;
+
+c)	Abandonment of the contract works; and
+
+d)	Minimum essential equipment and manpower necessary to execute the works are not present on the project site.
+
+
+
+3)		It is worth mentioning that only two contractors were awarded with these four major projects, which were simultaneously commenced. It was risky for the Bids and Awards Committee (BAC) to award two major projects to a single contractor, especially in the case of the construction of two Three (3) Storey Classroom and Office Building, which were distantly located, one in the main campus, Brgy. Zabali, Aurora, and the other at Bazal, Maria Aurora, Aurora. The same is true notwithstanding the proximity of the other two projects, with the buildings’ location being adjacent to each other, considering that these two projects would commence at the same time, and may require same type of equipment. As such, following the same timeline, there would be physical impossibility to cope with the program of works within the contract duration, unless it was clearly shown that the contractors have such adequate number of workers which may be exclusively used and designated to each project.
+
+	
+
+4)		It would have been prudent for the BAC and Technical Working Group (TWG) to consider the technical and financial capabilities of each of the contractors to handle two major projects simultaneously and not evaluate them on a per project basis only.
+
+
+
+5)	Due to the abandonment of the projects, the advance payments made to the contractors  for each project were not fully recovered in the following amounts:
+
+
+
+Name of Project
+
+Unrecouped Advance Payment 
+
+Performance Bond
+
+1)	Construction of Three (3) Storey Classroom and Office Building,
+
+ASCOT, Zabali Campus, Baler, Aurora
+
+₱      982,259.30
+
+₱     3,341,700.00
+
+2)	Construction of Three (3) Storey Classroom and Office Building,
+
+ASCOT, Bazal Campus, Maria Aurora, Aurora
+
+1,614,402.09
+
+4,494,000.00
+
+3)	Construction of Three (3) Storey Social Science and GAD Building
+
+ASCOT, Zabali Campus, Baler, Aurora
+
+1,876,299.73
+
+8,516,619.68
+
+4)	Construction of Three (3) Storey Arts and Science Building Complex
+
+ASCOT, Zabali Campus, Baler, Aurora
+
+2,648,727.68
+
+6,536,427.48
+
+TOTAL
+
+₱  7,121,688.80
+
+₱   22,888,747.16
+
+
+
+6)	Paragraphs 4.2 and 4.3 of Annex E of the said RIRR provides:
+
+
+
+4.2. The advance payment shall be made only upon the submission to and acceptance by the procuring entity of an irrevocable standby letter of credit of equivalent value from a commercial bank, a bank guarantee or a surety bond callable upon demand, issued by a surety or insurance company duly licensed by the Insurance Commission and confirmed by the procuring entity.
+
+
+
+4.3 The advance payment shall be repaid by the contractor by deducting fifteen percent (15%) from his periodic progress payments a percentage equal to the percentage of the total contract price used for the advance payment.
+
+
+
+7)	On the other hand, Section 39, supra, provides:
+
+
+
+39.1 To guarantee the faithful performance by the winning bidder of its obligations under the contract in accordance with the Bidding Documents, it shall post a performance security prior to the signing of the contract.
+
+
+
+x x x
+
+
+
+39.3. The performance security shall be denominated in Philippine Pesos and posted in favor of the Procuring Entity, which shall be forfeited in the event it is established that the winning bidder is in default in any of its obligations under the contract.
+
+
+
+x x x
+
+
+
+8)	Pursuant to the above provisions, the College informed the Insurance Company, thru the letters dated November 20, 2018, of the failure of the contractors to finish the aforementioned projects. Asserting that the bonds are callable on demand, the College demanded the forfeiture of the Performance Bonds and the Advance Payment Bonds, for the unrecouped portion of the mobilization fees, which claims were calculated to ₱30,010,435.96.
+
+
+
+9)	In a letter dated April 5, 2019, the Insurance Company required the College to submit its comment on the allegations of the contractors that “the delay was NOT due to [the contractors’] fault,” and that the delay was attributed to the (1) revision in the scope of works due to the change orders that are merely based on the Revised Plan of the Project Engineer; and (2) the absence of newly executed contract containing the alleged revisions duly agreed upon by both parties. The College refuted such claim, but the Insurance Company did not make further response.
+
+
+
+10)	Exactly similar issues for the project on the Construction of Three (3) Storey Classroom and Office Building in ASCOT, Zabali Campus, Baler, Aurora, were raised in Part II- Audit Observations and Recommendations of the CY 2019 Annual Audit Report (AAR), but the same have not yet been acted upon, hence, this reiteration.
+
+
+
+11)	To date, the Insurance Company has not settled the claims of the College.  Despite this, the latter has not made the necessary action, for instance, filing of civil suit in order to be indemnified, thus, placing the government at a very disadvantageous position. For such failure to recover from the contractors and/or the bonding company, the projects were put to stop.
+
+
+
+12)	Consequently, the prolonged abandonment of the aforementioned projects contributed to the rapid deterioration or depreciation of the structures already built, which may render them unusable or unfeasible to be used in case of continuation of the project, resulting later to total wastage of public funds. Ultimately, the public was deprived of the promised benefits and better-quality services through the establishment or construction of new classrooms and offices.
+
+
+
+13)	We recommended and the management agreed to undertake the following remedial measures:
+
+
+
+a)	Require the BAC, in case of projects awarded to contractors with simultaneous projects, to consider the financial capability of the contractors to provide sufficient and available equipment and manpower to be pledged exclusively on each project;
+
+
+
+b)	Seek legal assistance from the Office of the Solicitor General in pursuing the collection or forfeiture of the Performance Bonds and Advance Payment Bonds in relation to the abandoned projects, or in filing a civil action for indemnity and damages against the Insurance Company, if necessary, due to inordinate delay in processing the claims of the College; and
+
+
+
+c)	Consult the Department of Works and Highways (DPWH) in developing a plan or other options to continue/complete the abandoned/terminated projects or modify the existing structures to prevent total wastage or loss of government resources and at the same time be beneficial to intended end-users.
+
+
+
+
+
+Violation of Procurement Law
+
+
+
+1)	The acquisition of Office Equipment and Information and Computer Technology Equipment totaling to ₱904,447.00 and ₱1,434,355.00, respectively, was undertaken thru Small Value Procurement (SVP), but the items were not reflected in the Annual Procurement Plan (APP) as required by law, which rendered doubt on the necessity and regularity of the transactions and may also constitute splitting of contracts, in violation of Sections 7.2 and 54.1 of the Revised Implementing Rules and Regulations (RIRR) of Republic Act (R.A.) No. 9184, otherwise known as the Government Procurement Reform Act. Moreover, some of these contracts were awarded to bidders/suppliers who offered items with lower specifications than what were actually requested, to the disadvantage of the government.
+
+
+
+a. Procurement not indicated in the APP
+
+
+
+1)	Section 7.2 of the Revised Implementing Rules and Regulations (RIRR) of Republic Act (R.A.) No. 9184 provides:
+
+
+
+No procurement shall be undertaken unless it is in accordance with the approved Annual Procurement Plan (APP), including approved changes thereto. The APP must be consistent with the duly approved yearly budget of the Procuring Entity and shall bear the approval of the HoPE or second-ranking official designated by the HoPE to act on his behalf.
+
+
+
+2)	During the year, the College procured several Office Equipment and Information and Computer Technology (ICT) Equipment in the amount of ₱904,447.00 and ₱1,434,355.00, respectively, exclusive of items which were expensed outright for not meeting the ₱15,000.00 threshold. Out of the total amount, only ₱484,000.00, which pertains to the purchase of ICT Equipment funded by the Commission on Higher Education Department – Institutional Development Assistance for Accreditation (CHED-IDAA), was covered by APP of the College, through Supplemental APP, in violation of the above-cited provision.
+
+
+
+3)	It was also noted that the Supplemental APP was not posted in the Transparency Seal Section of the College website. The practice is not in compliance with Section 93 of the National Budget Circular (NBC) No. 542, issued by the Department of Budget and Management (DBM) on August 29, 2012, which requires the posting of the APP, among others, in the agency’s website to promote transparency and accountability.
+
+
+
+b. Splitting of Contracts
+
+
+
+4)	Section 54.1 of the RIRR of RA No. 9184 provides:
+
+
+
+Splitting of Government Contracts is not allowed. Splitting of Government Contracts means the division or breaking up of GoP contracts into smaller quantities and amounts, or dividing contract implementation into artificial phases or sub-contracts for the purpose of evading or circumventing the requirements of law and this IRR, particularly the necessity of competitive bidding and the requirements for the alternative methods of procurement.
+
+
+
+xxx.
+
+
+
+6.5	In the procurement of these Office and ICT equipment, the BAC resorted to Small Value Procurement (SVP) under Section 53.9 of the RIRR of R.A. No. 9184. It was noted that the procurement was done in piecemeal or through a series of “Request for Quotation”, which may constitute splitting that is prohibited under Section 54.1, supra. 
+
+
+
+5)	For instance, the purchase of six units of laptops and one unit desktop computer, aggregating to ₱421,888.00, consisted of eight purchase orders (POs), with four of the laptops purchased within the month of June. The said procurement, by its nature, should have been considered as one project and captured in a single procurement. The multiple awards to different suppliers were unreasonably without clear advantage to the government, as compared to purchasing the equipment through competitive bidding or in bulk.
+
+
+
+6)	Likewise, COA Circular No. 76-41 prohibits the splitting of requisitions, purchase orders, vouchers and others. In the said Circular, “Splitting” means, in its literal sense, dividing or breaking up into separate parts or portions, or an act resulting in a fissure, rupture, breach.  Within the sphere of government procurement, splitting is associated with requisitions, purchase orders, deliveries and payments.
+
+
+
+7)	The above deficiencies are attributed to poor or lack of proper procurement planning, as demonstrated by the absence or non-inclusion of these equipment in the end-users’ Project Procurement Management Plan (PPMP) supposedly supporting the College’s APP. As discussed in the Manual of Procedures for the Procurement of Goods and Services, planning aims for higher efficiency and efficacy in government procurement. It enables the procurement officials concerned to anticipate the onset of events and, as a consequence, better calibrate their response to them. Had the College Units or Offices carefully planned and programmed properly their projects they should have identified beforehand the elements necessary for smooth operation.
+
+c. Non-compliance with the minimum specifications of goods
+
+
+
+8)	In addition to the above observations, the College awarded contracts to suppliers whose offers did not meet the specifications indicated in the Request for Quotation (RFQ); to wit:
+
+
+
+Reference No.
+
+Description of Item
+
+in the RFQ
+
+Item Offered and Received
+
+Amount
+
+P.O. No.
+
+2020-06-073
+
+D.V. No.
+
+164-20-07-291
+
+Laptop Core 17 (sic), Processor speed 2.8GHz, 32 GB RAM, 2TB HDD, 17.3 Inches Display
+
+Intel Core i5, 8 GB RAM, 1TB HDD, 15.6-inch screen size
+
+₱ 80,995.00
+
+P.O. No.
+
+2020-08-124
+
+D.V. No. GRAD-20-09-064
+
+Laptop Core i7, Processor model 8th gen. intel i7 processor, 8 GB RAM, 32 GB, Windows 10
+
+Intel Core i5, 4 GB RAM, ddr4, 1TB HDD+128 ssd, 2GB ddr5
+
+47,950.00
+
+
+
+
+
+TOTAL
+
+₱128,945.00
+
+
+
+9)	Despite not meeting the required specifications, the BAC recommended the awarding of the contracts and the same items were accepted and certified by the Inspection Committee as found in order as to quality and specifications when they were delivered.
+
+
+
+10)	The acceptance of lower quality products for the same price as what was originally requested placed the government interest at a disadvantageous position.
+
+
+
+d. Other deficiencies noted
+
+
+
+11)	The BAC is not requiring the submission of the Omnibus Sworn Statement from the suppliers, contrary to the requirements of Annex H of the same RIRR. The RIRR requires that for the conduct of SVP, the following documents must be submitted: Mayor’s permit, PhilGEPS Registration Number, Income Tax Return – if the ABC exceeds ₱500,000.00, and the Omnibus Sworn Statement under Appendix A of the same RIRR. Thus, the failure to submit any of the aforesaid documents would render the procurement irregular for non-compliance with the Procurement Law.
+
+
+
+12)	There are inconsistencies in the information provided in the PO as to the mode of procurement used. Some of the POs indicate “Shopping” when the mode of procurement actually used is “Small Value Procurement” or “SVP”, as recommended by the BAC in their resolution. This is significant because of the different procedural and documentary requirements for each mode, as provided in Annex H of the RIRR. The signatories and other viewers of the PO might have overlooked and ignored the other conditions because “Shopping” has reduced documentary requirements, i.e. Mayor’s/Business Permit and PhilGEPS Number, as compared to “SVP” which requires additional Income Tax Return – if the ABC exceeds ₱500,000.00, and the Omnibus Sworn Statement, as discussed in the immediately preceding paragraph. 
+
+
+
+13)	In four of the assailed procurement activities (see details in the next table), the Abstract for Quotations showed that only one supplier responded to the RFQs. However, there was no showing that the BAC sent the RFQ to at least three suppliers. The absence thereof casts doubt on the regularity and propriety of the said procurement. As required in the specific guidelines for SVP under Annex H of the RIRR, the BAC shall prepare and send the RFQs/RFPs to at least three suppliers, contractors, or consultants of known qualifications.
+
+
+
+P.O. No.
+
+Description of Item
+
+Amount
+
+2020-06-063
+
+Copier
+
+₱         64,000.00
+
+2020-06-069
+
+Laptop
+
+124,999.00
+
+2020-06-074
+
+Laptop and Printer
+
+51,994.00
+
+2020-07-085
+
+Copier
+
+222,000.00
+
+
+
+TOTAL
+
+₱       462,993.00
+
+
+
+1)	We recommended and the management agreed to adopt the following courses of action:
+
+
+
+a)	Advise the Planning Director to (i) meticulously and judiciously plan the College budget and the timing of the procurement activities; and (ii) require the different end-user offices/units to present their programs, activities, and projects in their respective Project Management Procurement Plan (PPMP), which may be updated semi-annually or as often as may be required;
+
+
+
+b)	Direct the BAC to (i) judiciously and carefully plan all procurement activities and conduct the same in accordance with the Annual Procurement Plan (APP) of the College and in strict compliance with the provisions of R.A. No. 9184 and its RIRR; (ii) justify their action in resorting to the alternative mode of small value procurement and in piecemeal instead of competitive public bidding as required under Section 54.1 of the same Act, to avail of the most advantageous prices available in the market; (iii) submit the Omnibus Sworn Statement (OSS) of the winning suppliers/contractors for all the completed procurement, ongoing and future conduct of SVP, otherwise, the said procurement may be deemed irregular  in audit for non-compliance with the requirements of the said RIRR; (iv) in case of SVP when only one supplier responded to the Request for Quotation (RFQ), submit proof of invitation or sending of the RFQ to at least three suppliers, otherwise, the procurement may be disallowed for non-compliance with the requirements of the RIRR;  and
+
+
+
+c)	Require all officials/personnel deemed responsible to submit justification for the awarding of contract and subsequent payment and acceptance of the equipment which did not meet the minimum specifications as stated in the Request for Quotation (RFQ), otherwise, we shall be constrained not to allow the transaction in audit.
+
+
+
+
+
+Gender and Development Audit 
+
+
+
+1)				The Gender and Development (GAD) sex-disaggregated database of the College is yet to operate due to unavailability of its own operating system, defeating the goal of the Philippine Commission on Women (PCW )-National Economic and Development Authority (NEDA) - Department of Budget And Management (DBM) Joint Circular (JC)  No. 2012-01, specifically Paragraph 4.4; thus, the Programs, Activities and Projects (PAPs) in the GAD Plan and Budget (GPB) may not properly identify and address gender-related issues existing in the Agency and among its clients. Moreover, out of the GAD budget of ₱8,570,160.00, only ₱1,737,120.00 was actually utilized due to partial or non-implementation of the target PAPs, depriving the intended beneficiaries of the benefits and advantages to be derived therefrom.
+
+
+
+a. Non-operational GAD Sex-disaggregated Database
+
+
+
+1)			Philippine Commission on Women (PCW)-National Economic and Development Authority (NEDA) - Department of Budget and Management (DBM) Joint Circular (JC) No. 2012-01 sets the guidelines in the preparation and submission of the Annual GPB and Accomplishment Reports (AR) to implement the Magna Carta of Women (MCW). It provides that one of the essential elements in GAD Planning and Budgeting is the existence of GAD Database; to wit: 
+
+
+
+4.0 	ESSENTIAL ELEMENTS IN GAD PLANNING AND BUDGETING
+
+xxx
+
+4.4 	Institutionalizing GAD Database/Sex-disaggregated Data: The agency shall develop or integrate in its existing database GAD information to include gender statistics and sex-disaggregated data that have been systematically produced or gathered as inputs or bases for planning, budgeting, programming, and policy formulation.
+
+
+
+2)	In prescribing gender mainstreaming as a strategy for implementing the MCW, Section 36 (c) of R.A. No. 9710, or the Magna Carta for Women (MCW) mandates that all government agencies shall develop and maintain a GAD database containing gender statistics and sex-disaggregated data that have been systematically gathered, regularly updated, and subjected to gender analysis for planning, programming, and policy formulation.
+
+
+
+3)	According to the College GAD Director, a data management system has just been created, but it was only accessible by the Human Resources and Management Office (HRMO), thus the GAD sex-disaggregated database was not yet integrated. The Director for Distance and Online Learning who created the data management system expressed that the upgrading of the system, which is set in June 2022, will facilitate the inclusion of the GAD sex-disaggregated data and other GAD related information.
+
+
+
+7.4	To emphasize, GAD database is essential in planning the relevant programs, activities and projects (PAPs) needed to address existing gender-related issues. In the absence of such database, GAD interventions, if any, may not be truly gender-responsive and gender sensitive.
+
+
+
+1)	Thus, in the absence of an operational GAD sex-disaggregated database of ASCOT, the College PAPs may not be gender-responsive or they may not properly identify and address existing gender-related issues. 
+
+
+
+b. Signed GAD AR not submitted
+
+
+
+2)	Section 7.0 of PCW Memorandum Circular No. 2021-01 dated January 20, 2021, prescribing the guidelines for the submission of FY 2020 GAD AR, states:
+
+
+
+FY 2020 GAD ARs submitted to PCW shall be authenticated by the GMMS with a barcode. Concerned agencies shall print the GMMS-authenticated GAD AR for signature of their agency head and submit signed copies to PCW and their respective COA Audit Team.
+
+
+
+3)	The College has not yet submitted the GAD AR to the PCW due to its pendency before the Commission on Higher Education (CHED) Regional Office (RO) for review in compliance with the said MC No. 2021-01 which requires that the GAD ARs of State Colleges and Universities (SUC) shall first be reviewed by the concerned CHED RO, who shall then submit the GAD AR to PCW. Nonetheless, for purposes of conducting audit, the College submitted to the Audit Team the AR submitted to the CHED RO albeit unreviewed, unauthenticated, and unsigned by the College President.
+
+
+
+c. Underutilization of GAD funds
+
+
+
+4)	Section 6.1, PCW-NEDA-DBM JC No. 2012-01 states:
+
+
+
+At least five percent (5%) of the total agency budget appropriations authorized under the annual GAA shall correspond to activities supporting GAD plans and programs.  The GAD budget shall be drawn from the agency’s Maintenance and Other Operating Expenses (MOOE), Capital Outlay (CO), and Personal Services (PS).  It is understood that the GAD budget does not constitute an additional budget over an agency’s total budget appropriations.
+
+
+
+5)	The College allocated as GAD Budget a sum of ₱8,570,160.00 or 6.36% of the total appropriation of the College of ₱134,727,000.00 pursuant to R.A No. 11465 or the General Appropriations Act (GAA) for FY 2020. Notwithstanding, only ₱1,737,120.00 or 1.29%, of the total appropriation of the College was actually used for GAD activities.
+
+
+
+6)	According to the Director, the planned activities of the College have been reduced due to the unusual circumstances related to the COVID-19 pandemic, i.e. series of lockdown and movement restrictions set by the government regulatory bodies to ensure the safety and health of everyone. Notwithstanding, it has been noted that there were proposed or planned GAD projects or activities that were disapproved in the previous fiscal year and proposed again in the current GAD Plan and Budget (GPB) but were not approved anew for undisclosed reason.
+
+
+
+7)	It is understood that the activities indicated or proposed in the GPB are results of careful study of the current situation of the Agency with respect to addressing gender issues, otherwise, they will not be neither approved by the Agency Head nor endorsed by the PCW. The approval of the GPB presupposes commitment to undertake the projects indicated therein. Any disapproval should have been taken and discussed as early as the planning stage to pave way for other relevant activities. It would be unreasonable to include the said activities in the GPB if the agency has no plans to execute the same, in effect, depriving the intended beneficiaries of the benefits and advantages to be derived therefrom.
+
+
+
+8)	The underutilization of the GAD Fund is an indication that the College is not committed to support the objectives of the government in incorporating GAD in its regular activities, inconsistent with Section 6.1 of PCW-NEDA-DBM JC No. 2012-01 and Section 31 of the GAA FY 2020.
+
+
+
+	1)				We recommended and the management agreed to support activities that promote gender awareness and sensitivity, in realization of the objectives of the Magna Carta for Women, and instruct the Director of GAD Office to:
+
+
+
+a)	Expedite the operation of the GAD database in order to appropriately identify gender issues and come up with more suitable Programs, Activities and Projects (PAPs) proposal to address the same; and 
+
+
+
+b)	Exert more diligent effort in implementing or accomplishing the GAD activities indicated in the GPB.
+
+
+
+
+
+Compliance with BIR Regulations
+
+
+
+1)	The College was substantially compliant with the tax laws and regulations in the withholding of taxes due from government transactions and the subsequent remittance thereof to the Bureau of Internal Revenue (BIR).
+
+
+
+	1)	The College has complied with the withholding of taxes due from government transactions and the subsequent remittances thereof in compliance with Executive Order (E.O.) No. 651, Republic Act (R.A.) No. 7649 and Bureau of Internal Revenue (BIR) Tax Revenue Regulation No. 11-2018 dated January 31, 2018.
+
+
+
+	2)	The Monthly summary of the taxes withheld and remitted is presented in the table below:
+
+
+
+Date
+
+Beginning Balance
+
+Taxes Withheld
+
+Taxes Remitted
+
+Ending Balance
+
+ January 
+
+₱   1,574,854.34 
+
+₱        475,925.23 
+
+₱     1,574,854.34 
+
+₱      475,925.23 
+
+ February 
+
+475,925.23 
+
+563,651.04 
+
+1,140,210.95 
+
+ (100,634.68)
+
+ March 
+
+ (100,634.68)
+
+577,622.36 
+
+563,651.04 
+
+ (86,663.36)
+
+ April 
+
+ (86,663.36)
+
+697,274.41 
+
+577,622.36 
+
+32,988.69 
+
+ May 
+
+32,988.69 
+
+2,266,620.10 
+
+697,274.41 
+
+1,602,334.38 
+
+ June 
+
+1,602,334.38 
+
+1,027,749.39 
+
+1,602,334.40 
+
+1,027,749.37 
+
+ July 
+
+1,027,749.37 
+
+921,450.20 
+
+1,027,749.38 
+
+921,450.19 
+
+ August 
+
+921,450.19 
+
+596,315.08 
+
+921,450.20 
+
+596,315.07 
+
+ September 
+
+596,315.07 
+
+571,281.10 
+
+596,315.07 
+
+571,281.10 
+
+ October 
+
+571,281.10 
+
+938,473.33 
+
+571,281.10 
+
+938,473.33 
+
+ November 
+
+938,473.33 
+
+710,080.84 
+
+938,473.34 
+
+710,080.83 
+
+ December 
+
+710,080.83 
+
+1,372,172.78 
+
+710,080.83 
+
+1,372,172.78 
+
+TOTAL
+
+₱   1,574,854.34
+
+10,718,615.86
+
+10,921,297.42
+
+₱   1,372,172.78
+
+
+
+	3)	The ending balance of ₱1,372,172.78 was fully remitted as of January 6, 2021.
+
+
+
+	4)	We recommended and the management agreed to regularly and religiously remit all taxes withheld to avoid penalty for late remittances.
+
+
+
+
+
+Compliance with GSIS Law
+
+
+
+1)	The College was substantially compliant with Republic Act (R.A.) 8291 or the Government Service Insurance System (GSIS) Act of 1997 in properly deducting and remitting to the GSIS employees’ premiums/contributions and loan amortizations.
+
+
+
+1)	Monthly remittance of GSIS premiums/contributions is herein summarized as follows:
+
+
+
+Date
+
+Beginning balance
+
+Amount Withheld
+
+Amount Remitted
+
+Ending Balance
+
+ January 
+
+₱                0.00
+
+ ₱   1,008,456.54 
+
+ ₱   1,004,323.85 
+
+ ₱       4,132.69 
+
+ February 
+
+4,132.69
+
+1,013,623.84
+
+1,017,055.36
+
+701.17
+
+ March 
+
+701.17
+
+1,306,896.43
+
+0.00
+
+1,307,597.60
+
+ April 
+
+1,307,597.60
+
+1,281,145.33
+
+1,641,576.26
+
+947,166.67
+
+ May 
+
+947,166.67
+
+532,471.48
+
+1,329,252.63
+
+150,385.52
+
+ June 
+
+150,385.52
+
+1,261,873.57
+
+508,076.51
+
+904,182.58
+
+ July 
+
+904,182.58
+
+1,281,134.34
+
+2,134,205.25
+
+51,111.67
+
+ August 
+
+51,111.67
+
+1,297,308.71
+
+1,324,570.06
+
+23,850.32
+
+ September 
+
+23,850.32
+
+1,285,560.99
+
+1,309,404.40
+
+6.91
+
+ October 
+
+6.91
+
+1,287,268.07
+
+1,287,274.98
+
+0.00
+
+ November 
+
+0.00
+
+468,458.92
+
+468,458.92
+
+0.00
+
+ December 
+
+0.00
+
+496,559.13
+
+496,426.34
+
+132.79
+
+TOTAL
+
+₱                0.00
+
+₱  12,520,757.35 
+
+₱ 12,520,624.56 
+
+₱           132.79 
+
+
+
+2)	Section 13 of the IRR of R.A. No. 8291 states that it shall be compulsory upon the government agency to deduct from the fixed monthly compensation the personal share of the members and to promptly remit the same to GSIS.
+
+
+
+3)	It is further provided that the government agency shall also deduct from the fixed monthly compensation of the employee the loan amortizations (consolidated loans, policy loan, housing loan and other loans), premium payments (optional, pre-need and other non-life insurance) and other amounts due to the GSIS.
+
+
+
+4)	Section 6 of R.A. 8291 requires that each employer shall remit directly to the GSIS the employee’s and employer’s contributions within the first ten days of the calendar month following the month to which the contributions apply.
+
+
+
+5)	In compliance with the above provisions, the College has appropriately withheld premiums/contributions and loan amortizations and remitted the same to the GSIS. 
+
+
+
+9.7.	We recommended and the management agreed to keep on strictly complying with R.A. 8291 on the proper deductions and timely remittances of GSIS members’ premiums/compulsory deductions to avoid interests and penalties which the employee-members may unnecessarily shoulder.
+
+
+
+
+
+Compliance with HDMF Law
+
+
+
+10.	The College was substantially compliant with Republic Act (R.A.) 9679, otherwise known as the Pag-IBIG Fund Law, in remitting to the Home Development Mutual Fund (HDMF) the withheld monthly contributions and loan amortizations of the employees of the College.
+
+
+
+1)	Section 3(a), Rule VII of the Implementing Rules and Regulations (IRR) of Republic Act (R.A.) No. 9679 requires that “all employers shall remit to the Fund their contributions and the contributions of their covered employees as well as the latter’s loan amortizations or payments to the Fund, within fifteen days from the date the same were collected unless another period is previously agreed upon between the employer and the Fund or within such periods as the Fund may prescribed otherwise.”
+
+
+
+2)	The College had properly deducted the monthly contributions and loan amortizations for each employee and timely remitted the same to the HDMF, together with the employer’s share, in compliance with the above provision of R.A. No. 9679.
+
+
+
+3)	The monthly remittance of Pag-IBIG premiums/contributions and loan amortizations is shown in the table below.
+
+
+
+Date
+
+Beginning balance
+
+Amount Withheld
+
+Amount Remitted
+
+Ending Balance
+
+ January 
+
+₱                0.00
+
+₱         74,844.52 
+
+₱        74,844.52 
+
+₱0.00                0.00
+
+ February 
+
+0.00
+
+94,695.09 
+
+94,695.09 
+
+0.00
+
+ March 
+
+0.00
+
+76,359.89 
+
+76,059.89 
+
+300.00
+
+ April 
+
+300.00
+
+79,808.43 
+
+80,108.43 
+
+0.00
+
+ May 
+
+0.00
+
+73,604.37 
+
+73,604.37 
+
+0.00
+
+ June 
+
+0.00
+
+73,027.91 
+
+73,027.91 
+
+0.00
+
+ July 
+
+0.00
+
+78,505.50 
+
+78,505.50 
+
+0.00
+
+ August 
+
+0.00
+
+80,430.19 
+
+80,430.19 
+
+0.00
+
+ September 
+
+0.00
+
+82,497.04 
+
+82,897.04 
+
+(400.00)
+
+ October 
+
+ (400.00)
+
+82,003.45 
+
+81,703.45 
+
+ (100.00)
+
+ November 
+
+ (100.00)
+
+81,903.45 
+
+81,903.45 
+
+ (100.00)
+
+ December 
+
+ (100.00)
+
+82,203.45 
+
+82,003.45 
+
+100.00
+
+TOTAL
+
+₱                0.00
+
+₱      959,883.29
+
+₱      959,783.29
+
+₱           100.00
+
+
+
+10.3.	We recommended and the management agreed to keep on strictly complying with the provisions of R.A. No. 9679 or the HDMF Law of 2009 and its IRR.
+
+
+
+
+
+Status of Settlement of Suspensions, Disallowances and Charges
+
+
+
+11.	The College had audit suspensions and disallowances amounting to ₱32,172,531.37 and ₱99,967,400.00, respectively, as of December 31, 2020, while no outstanding Charges were noted as of the same date. 
+
+
+
+1)	The balances of the Statement of Audit Suspensions, Disallowances and Charges (SASDC) for the year ended December 31, 2020 are as follows:
+
+
+
+Notices
+
+Beginning Balance
+
+(As of December 31, 2019)
+
+This period (January 1 to December 31, 2020)
+
+Settlement this period
+
+(January 1 to December 31, 2020)
+
+Ending Balance
+
+(As of December 31, 2020)
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension (NS)
+
+₱    32,172,531.37
+
+₱                 0.00
+
+₱               0.00
+
+₱    32,172,531.37
+
+Notice of Disallowance (ND)
+
+99,991,775.00
+
+0.00
+
+24,375.00
+
+99,967,400.00
+
+Notice of Charge (NC)
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Total
+
+₱  132,164,306.37
+
+₱                 0.00
+
+₱     24,375.00
+
+₱  132,139,931.37
+
+
+
+
+
+2)	The audit suspensions pertained to six infrastructure projects of the College while the disallowances covered the transactions funded from the Department of Agriculture’s Agricultural Competitiveness Enhancement Fund Executive Committee (DA/ACEF-EXECOM). Said NSs and NDs remained unsettled as of year-end, which is not in conformity with COA Circular No. 2009-006 dated September 15, 2009. 
+
+
+
+3)	Section 7.1.1 of the COA Rules and Regulations on Settlement of Accounts (RRSA) provides, among others, that the Head of Agency, who is primarily responsible for all government funds and property pertaining to his agency, shall ensure that: (b) the settlement of disallowances and charges is made within the prescribed period; (c) the requirements of transactions suspended in audit are complied with.
+
+
+
+4)	We recommended and the College President agreed to:
+
+
+
+a)	Continually remind and/or require all persons responsible for the settlement of the NSs to immediately submit all the documents required to prevent the issuance of NDs and the persons liable for the audit disallowances to settle the amount due within six months from receipt of the NDs; and
+
+
+
+b)	Initiate the necessary administrative and/or criminal action in case of unjustified failure/refusal by officials concerned to effect compliance with the foregoing requirements as prescribed in Section 7.1.2 of the RRSA.
+
+		45
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+

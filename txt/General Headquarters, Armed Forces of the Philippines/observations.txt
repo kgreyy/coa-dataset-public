@@ -1,0 +1,6264 @@
+PART II – OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+FINANCIAL AUDIT
+
+
+
+	Inaccurate balances of Cash in Bank – Local Currency Current Account and Cash in Bank – Local Currency Savings Account 
+
+
+
+1)	The balances of Cash in Bank –Local Currency Current Account and Cash in Bank –Local Currency Savings Account amounting to ₱5,774,658,348.88  and ₱1,465,682,806.26, respectively, as at December 31, 2020 had been rendered inaccurate due to several omissions in the recognition of fiscal events of substantial amounts in the books of GHQ Central Office (GHQ-CO), Provident Fund, AFP Real Estate Office (AFPREO), AFP Pension and Gratuity Management Center (AFPGMC), AFP Modernization Act Trust Fund (AFPMATF), Presidential Security Group (PSG), AFP Health Service Command (AFPHSC), Central Command (CENTCOM) and Western Command (WESCOM) contrary to Section 6, Chapter 21 of the Government Accounting Manual (GAM) Volume 1.
+
+
+
+	1)		The Cash in Bank accounts of the GHQ Central Office, Provident Fund, AFPREO, AFPPGMC, AFPMATF-CO, PSG, AFPHSC, CENTCOM and WESCOM as of December 31, 2020, are composed of the following:
+
+
+
+	Unit/Fund
+
+	Cash in Bank –LCCA
+
+	Cash in Bank LCSA
+
+	GHQ CO
+
+₱339,279,246.88 
+
+	₱18,185,237.89
+
+	Provident Fund
+
+          141,597,761.42
+
+	0.00
+
+	AFPREO
+
+          120,042,206.21
+
+	0.00
+
+	AFPPGMC
+
+	506,543,643.60
+
+	0.00
+
+	AFPMATF-CO
+
+	       3,578,620,905.88 
+
+	1,444,645,761.52
+
+	PSG
+
+	               7,541,823.47
+
+	0.00
+
+	AFPHSC
+
+	610,103,548.19
+
+	0.00
+
+	CENTCOM
+
+	4,020,243.04
+
+	0.00
+
+	WESCOM
+
+	7,810,800.58
+
+	0.00
+
+	Total 
+
+	₱5,315,560,179.27
+
+	₱1,462,830,999.41
+
+	Balance per Statement of Financial Position
+
+	₱5,774,658,348.88
+
+	₱1,465,682,806.26
+
+	
+
+	2)		The following fiscal events adversely affected the accuracy of the reported balances of the Cash in Bank- Local Currency Current Account and Cash in Bank Local Currency Savings Account. 
+
+	
+
+Unrecorded book reconciling items 
+
+
+
+	3)		Section 6, Chapter 21 of the GAM, Volume 1, requires the Chief Accountant/ Designated Staff to prepare a Journal Entry Voucher (JEV) to recognize all reconciling item/s that require adjustments or corrections in the books.
+
+
+
+	4)		Also, Section 44, Chapter 6 of the same Manual provides that checks may be cancelled when they become stale, voided or spoiled.  The depository bank considers a check to be stale if it has not been negotiated for over six months from its date of issue or as prescribed.
+
+
+
+	5)		Review of the Bank Reconciliation Statements (BRS) of GHQ-CO, Provident Fund, AFPREO, AFPMATF, AFPPGMC, PSG, CENTCOM and WESCOM revealed that the following book reconciling items were not taken up as adjustments in the books of accounts, thereby resulting in the understatement of the Cash in Bank account balances by ₱4,322,370.07.  Details as follows:
+
+
+
+Particulars
+
+Unit/Fund
+
+Amount
+
+Unrecorded deposits from payment of loans
+
+GHQ-CO 
+
+(Provident Fund)
+
+₱3,011,363.85
+
+Unrecorded disbursements
+
+AFPREO
+
+(7,237.25)
+
+Unrecorded on-line collections
+
+AFPPGMC
+
+1,657,243.08
+
+Unrecorded interest income
+
+
+
+18,797.52
+
+Unadjusted outstanding ADAs (invalid accounts)
+
+
+
+255,286.24
+
+Unadjusted rejected payroll trans.
+
+PSG
+
+4,940.00
+
+Unadjusted erroneous accounting entries
+
+WESCOM
+
+(2,000,000.00)
+
+Unrecorded deposits
+
+
+
+381,478.00
+
+Non-adjustment of stale checks
+
+GHQ-CO
+
+17,220.79
+
+1,000,498.63
+
+
+
+AFPREO
+
+8,270.00
+
+
+
+
+
+AFPPGMC
+
+939,429.25
+
+
+
+
+
+CENTCOM
+
+35,578.59
+
+
+
+Overall Net-Effect on the CIB Balance - Understatement
+
+₱4,322,370.07
+
+	
+
+Unverified/undocumented bank debit and credit memos
+
+
+
+	6)		Moreover, the following bank debit and credit memos remained unverified and have not been taken into account due to the unavailability of supporting documents and transaction details.
+
+ 
+
+Unit/Fund
+
+Bank Debit Memos
+
+Bank Credit Memos
+
+GHQ-CO
+
+₱1,264,015.39
+
+₱1,319,900.14
+
+AFPREO
+
+0.00
+
+1,369,531.70
+
+AFPMATF-CO
+
+33,667,036.71
+
+3,734,662.60
+
+AFPPGMC
+
+11,723,157.13
+
+69,821,379.03
+
+Total
+
+₱46,654,209.23
+
+₱76,245,473.47
+
+
+
+	7)		At the AFPHSC, confirmation with the Land Bank of the Philippines (LBP) servicing branch on its payroll account disclosed a year-end balance of ₱151,146.83 (inclusive of the ₱10,000.00 maintaining balance).  The Advice to Debit Account (ADA) for the undisbursed ₱141,146.83 should be immediately processed by the 12th Finance Service Unit (FSU) in favor of the payees.  The delayed payments deprive the rightful payees of the amounts due them.  Should the balance be identified as an excess or unutilized fund, then it must be remitted to the Bureau of the Treasury (BTr). 
+
+
+
+
+
+Presence of subsidiary ledger (SL) accounts with doubtful existence
+
+
+
+	8)		We have previously cited audit observations in our Annual Audit Reports (AARs) from CYs 2016 to 2019 regarding the presence of inactive bank accounts in SLs. However, we have ascertained that this concern continues to exist; hence, this reiteration.
+
+
+
+Unit/Fund
+
+SL Account
+
+Amount
+
+GHQ-CO
+
+CFC Pay & Allowances
+
+₱164,692,084.46
+
+
+
+ISAFP Trust
+
+(10,000.00)
+
+
+
+AFP Logistics Command
+
+2,670,455.11
+
+
+
+Logistics Command
+
+41,005,803.90
+
+
+
+Unreconciled- Regular
+
+4,067,439.84
+
+
+
+Unreconciled- Regular
+
+18,185,237.89
+
+
+
+Subtotal
+
+230,611,021.20
+
+AFPREO
+
+Unreconciled
+
+23,008,588.74
+
+Total
+
+₱253,619,609.94
+
+	
+
+Idle program fund
+
+
+
+	9)		In PSG, verification disclosed that the trust receipt for the Inter-Agency Transferred Fund (IATF) amounting to ₱1,031,999.48 includes a Medical Assistance Program (MAP) fund of ₱1,000,000.00.  This fund originated from the Department of Health (DOH) on February 27, 2018, under Official Receipt (OR) No. 1589992 and recorded in the books under JEV No. 07-2018-03-026 dated March 19, 2018. However, the initial fund transfer of ₱1,000,000.00 had been idle for more than two years indicating non-implementation of the MAP.  Consequently, its intended beneficiaries were deprived of the program’s benefits.
+
+
+
+	10)		We recommended that Management:
+
+
+
+a)		require the Accountants of GHQ-CO, Provident Fund, AFPREO, AFPMATF, AFPPGMC, PSG, CENTCOM and WESCOM to verify and take up necessary reconciling items in the books, and make a representations with the LBP servicing branch to call attention on the provision of debit and credit memo details;
+
+	
+
+b)		require the WESCOM to utilize the LandBank we-Access facility particularly the viewing, printing or downloading of statement of accounts for all accounts maintained with the LBP for timely reconciliation of the agency's records with the actual bank balance;
+
+
+
+c)		direct the AFPHSC FSU to determine details of unidentified payroll account balance and to process, if warranted, its corresponding ADA in favor of the payees.  Otherwise, the balance should be remitted to the Bureau of the Treasury;
+
+
+
+d)		form an ad hoc group that will dedicate time and effort to determine details of inactive bank accounts and unreconciled balances; and draft recommended entries to close balances of the said accounts; and
+
+
+
+e)		deliberate on the action to be taken on the unutilized Medical Assistance Program fund of PSG given the considerable period that it has remained unused and inform the Department of Health that its initial release is still intact.
+
+	
+
+	11)		Management’s comments are as follows:
+
+	
+
+	AFPMATF - The AFP Accounting Center (AFPAC) is exerting best efforts to submit required documents and to keep up with deadlines prescribed by existing rules and regulations.  Even with the pandemic and limited workforce, the Center is trying to minimize delays in their submissions. Also, reconciling item amounting ₱33,667,036.71 was recorded in the books in January 2021 thru JEV-2021-01-000001 and the Chief, MFO AFP PS sent letters to concerned AGDBs to request submission of copies of debit/credit memos and negotiated checks.
+
+	
+
+	AFPPGMC - Per coordination with AFPAC, interest income of ₱18,797.52 from UCPB was already recorded through JEV No. 2021-01-001001 dated January 4, 2021. Of the nine items composing the ₱1,657,243.08 unrecorded collections, four have already been adjusted in the books.  The remaining five items, however, still require further verification before final disposition can be rendered. The unadjusted amount of ₱939,429.25 representing stale checks are currently undergoing verification to determine if some checks have been replaced and negotiated, in which case the unnegotiated check will be adjusted as a cancellation rather than a set-up of the corresponding liability. Coordination is currently being done between AFPAC and AFP Finance Center (AFPFC) to obtain supporting documents for unrecorded debit and credit memos amounting to ₱11,723,157.13 and ₱69,821,379.03, respectively. The AFPAC continues to exert best efforts to comply with the BRS submission deadlines through sustained coordination with the depository bank to obtain transaction details through other means (advance copies printed in continuous form, email, etc.) duly recognized by both entities.
+
+
+
+	PSG - The PSG Hospital has already identified possible patients who qualify for the MAP.  A list of these patients has been submitted to the Office of Financial Management and initial procedures for the Program to move forward are now in progress.  Further, utmost efforts to comply with all pertinent laws and procedures to enhance its implementation will be exerted.
+
+
+
+	CENTCOM - The subject checks were already collected by creditors (PLDT and Smart) and the corresponding ORs were already issued. However, they failed to deposit said checks to their account until they became stale. As far as the Command is concerned this was a consummated transaction and the office of the 4th FAU will make necessary adjustment to this effect. As of this date, there were no request from concerned creditors for replacement of said checks.
+
+	
+
+	WESCOM - The Commander had already issued instructions and directives to concerned personnel to comply with recommendations and that the Command through the 18th FSU had already coordinated with the LBP in processing enrolment of four (4) current accounts with the LBP we-Access facilities. Adjustments were already made for the remaining reconciling items except for the ₱119,140.00 but communication was already made by CRSH to PhilHealth.
+
+
+
+Income from prior years that have not been recognized in the books
+
+
+
+2)	The non-recognition of lease income during previous periods amounting to ₱54,725,120.33 and overstatement of recognized lease revenue for the period August to December 2020 by ₱168,000.00 resulted in the understatement of the Operating Lease Receivables account balance by ₱54,557,120.33.
+
+
+
+ Non- recognition of lease income from previous years
+
+
+
+	1)		Section 7, Chapter 5 of the GAM provides that revenue arising from the use by others of entity assets yielding interest, royalties and dividends or similar distributions shall be recognized when it is probable that the economic benefits or service potential associated with the transaction will flow to the entity; and the amount of the revenue can be measured reliably (Pars. 33 and 34, PPSAS 9). For lease income, the revenue recognition point is when fees are billed for earned revenue from use of government property/facilities or if not applicable, when fees are collected.
+
+
+
+	2)		Records of GHQ-CO show that a reconciliation of the Lease Receivables balance was made between the contracting parties (AFP and Smart Communications, Inc.) in December 2017 which resulted into a mutually agreed recapitulated balance of accrued revenue amounting to ₱54,725,120.33. Following the revenue recognition principle earlier cited, the related revenue was already earned and thus, required immediate recognition.  However, said balance was not recognized in the books resulting in the understatement of the reported balance of Operating Lease Receivables by the same amount.   
+
+
+
+	Overstatement of recognized lease revenue 
+
+
+
+	3)		Also, audit results showed that the recorded lease revenue for the period January to December 31, 2020, of ₱15,967,191.00 was overstated by ₱168,000.00 which pertained to the five- month rental of the SMART Tower located at Mt. Sapat (DMPI Site), Pasuquin, Ilocos Norte. 
+
+	
+
+	4)		Our validation revealed that Smart Communications Inc. had already ceased operation of said site effective August 2020 following the donation of the Self-Supporting Tower (SST) co-located at 582nd ACWG, Paredes Air Station (PAS), Mount Sapat Pasuquin, Ilocos Norte, to the PAF.  The donated tower will be included in the PAF inventory for use of the Air Defense Command on Air Defense Surveillance Reconnaissance (ADSR) communications.  The corresponding five-month rentals have been recognized in the books which require adjustment to correct overstatement of the recorded balance of Lease Revenue and Lease Receivable.
+
+	
+
+	5)		Apparently, the current lease income recognized in the books did not include increase in rental fees as provided in Article 4, Section 1 of the Memorandum of Agreement (MOA) that requires annual contract price escalation corresponding to the NEDA inflation rate.
+
+	
+
+	6)		We recommended that Management:
+
+
+
+a)	require the AFP Accounting Center to analyze the issues raised and promptly prepare necessary adjustments to reflect the correct balances of lease revenue and receivables; and
+
+
+
+b)	revisit the MOA, specifically the provision on implementation of annual escalation of rental fees corresponding to the NEDA inflation rate.
+
+
+
+	7)		Management stated that AFPAC, already recorded the lease income as per JEV Nos. 2021-01-000915 and 2020-01-000902 both dated January 4, 2021.
+
+	
+
+Unreconciled balance of Due from National Government Agencies (NGAs) account
+
+
+
+3)	The balance of Due from National Government Agencies of ₱1,369,022,428.33 as at December 31, 2020 has been rendered inaccurate due to a discrepancy of ₱218,582,249.06 between records of AFP Accounting Center, PSG and Implementing Agencies (IAs). 
+
+
+
+
+
+	1)	As of December 31, 2020, the balance of the Due from National Government Agencies account at the GHQ-CO, AFPREO and PSG was composed of the following:
+
+
+
+Unit/Fund
+
+Amount
+
+GHQ-CO
+
+  ₱1,134,112,715.74
+
+AFPREO
+
+1,859,943.93 
+
+PSG
+
+1,121,561.36
+
+Total
+
+₱1,137,094,221.03
+
+Balance per Statement of Financial Position
+
+₱1,369,022,428.33 
+
+
+
+	2)	Section 6.1 of COA Circular 2016-005 provides that, all government entities shall conduct regular monitoring and analysis of receivable accounts to ensure that these are collected when they become due and demandable and that cash advances and fund transfers are liquidated within the prescribed period depending upon their nature and purpose.
+
+
+
+	3)	In addition, COA Circular No. 94-013 provides, among others: Within ten (10) days after the end of each month/end of the agreed period for the Project, the IA shall submit the Report of Checks Issued (RCI) and the Report of Disbursement (RD) to report the utilization of the funds.  Only actual project expenses shall be reported x x x.  The IA shall return to the SA any unused balance upon completion of the project.
+
+
+
+Discrepancy between balances per books and IA records of ₱218,582,249.06 
+
+
+
+	4)	To ascertain the correctness of the balances of transferred funds, we sent confirmation requests to various implementing agencies (IAs).  Results of confirmation disclosed a discrepancy ₱218,582,249.06 between the Agency’s books and that of IAs’ records. 
+
+
+
+Unit/ Fund
+
+IAs
+
+Balance per
+
+books
+
+Balance per
+
+IA books
+
+Difference
+
+GHQ-CO
+
+PS-DBM
+
+₱203,004,279.60
+
+₱8,344,921.76
+
+₱194,659,357.84
+
+
+
+OCD
+
+ 16,901,934.27 
+
+                   0.00     
+
+   16,901,934.27 
+
+
+
+51st 
+
+   6,377,276.98 
+
+        219,416.12 
+
+     6,157,860.86 
+
+
+
+PN
+
+ 87,299,818.88 
+
+ 100,395,000.00 
+
+(13,095,181.12)
+
+
+
+PAF
+
+69,790,000.00
+
+56,368,907.76
+
+13,421,092.24
+
+
+
+Subtotal
+
+P383,373,309.73
+
+P165,328,245.64
+
+₱218,045,064.09
+
+PSG
+
+PS-DBM
+
+1,121,561.36
+
+584,376.39
+
+537,184.97
+
+Total
+
+₱384,494,871.09
+
+₱165,912,622.03
+
+₱218,582,249.06 
+
+
+
+	5)	The ₱218,582,249.06 difference can be attributed to the following:
+
+
+
+Unit/Fund
+
+IAs
+
+Difference
+
+Particulars
+
+GHQ-CO
+
+PS-DBM
+
+₱194,659,357.84
+
+--	Unrecorded deliveries of procured items worth ₱772,665.63
+
+--	Unrecorded remittance to the BTr of the residual balance of ₱102,026,266.90
+
+--	Unaccounted difference of ₱91,860,425.31 
+
+
+
+OCD
+
+   16,901,934.27 
+
+--	Erroneous recording
+
+
+
+51st 
+
+     6,157,860.86 
+
+--	Unrecorded liquidation
+
+
+
+PAF
+
+13,421,092.24
+
+--	
+
+
+
+PN
+
+(13,095,181.12)
+
+--	Liquidation taken-up in the books of GHQ but not yet in PN
+
+PSG
+
+PS-DBM
+
+537,184.97
+
+--	Fund transfers not recorded in the books of PS-DBM ₱422,342.14
+
+--	Unrecorded remittance to the BTr of the residual balance of ₱114,842.83
+
+Total
+
+₱218,582,249.06
+
+
+
+
+
+	6)	Noteworthy to mention are the more than ₱200M in unreconciled variances between the GHQ-CO and PS-DBM records during previous years.  However, this was reduced to ₱91,860,425.31 as of December 31, 2020.
+
+
+
+Substantial amount of dormant balances among unliquidated fund transfers 
+
+
+
+	7)	Further, aging of accounts of the GHQ-CO and AFPREO disclosed that ₱1,072,958,847.13 or more than 94.45 percent are already overdue for a period ranging from one to more than 10 years as shown below.
+
+	
+
+Unit
+
+IAs
+
+Balance as of Dec 31, 2020
+
+Less than 1 year
+
+Past Due Accounts
+
+
+
+
+
+
+
+
+
+1-9 years
+
+10 years & above
+
+GHQ-CO
+
+PS-DBM
+
+₱203,004,279.60
+
+₱4,029,418.96
+
+₱10,202,847.32
+
+₱188,772,013.32
+
+
+
+OCD
+
+16,901,934.27 
+
+16,901,934.27 
+
+
+
+0.00     
+
+
+
+PAF
+
+ 69,790,000.00 
+
+ 1,500,000.00 
+
+68,290,000.00
+
+ 0.00    
+
+
+
+PN
+
+ 87,299,818.88 
+
+ 1,500,000.00 
+
+85,798,428.88
+
+ 1,390.00 
+
+
+
+51st EB
+
+ 6,377,276.98 
+
+ 0.00  
+
+4,296,967.68
+
+ 2,080,309.30 
+
+
+
+PA
+
+ 619,000,385.75 
+
+24,137,854.80 
+
+548,306,672.37
+
+ 46,555,858.58 
+
+
+
+GA
+
+   11,793,343.59 
+
+11,793,343.40 
+
+                0.19 
+
+0.00  
+
+
+
+AFPLC
+
+   39,127,395.29 
+
+0.00  
+
+0.00  
+
+39,127,395.29
+
+
+
+UP NEC
+
+      2,139,500.00 
+
+0.00  
+
+   2,139,500.00
+
+0.00  
+
+
+
+Others
+
+78,678,781.38
+
+3,151,261.11
+
+69,100,288.06
+
+6,427,232.21
+
+
+
+
+
+1,134,112,715.74
+
+63,013,812.54
+
+788,134,704.50
+
+282,964,198.70
+
+AFPREO
+
+PA
+
+ ₱1,875,593.93
+
+0.00  
+
+ 183,208.08
+
+1,692,385.85 
+
+
+
+PAF
+
+ (15,650.00)
+
+0.00  
+
+0.00     
+
+ (15,650.00)
+
+
+
+
+
+1,859,943.93
+
+0.00  
+
+183,208.08
+
+1,676,735.85
+
+Total
+
+₱1,135,972,659.67
+
+₱63,013,812.54
+
+₱788,317,912.58
+
+₱284,640,934.55
+
+Total Past Due Accounts
+
+₱1,072,958,847.13
+
+Percentage
+
+94.45%
+
+
+
+	8)	The Project Managers, who monitor the status of fund transfers, should enforce prompt submission of liquidation reports, and return of any unexpended funds.  Failure to do so results in the accumulation of unliquidated fund transfers and consequently dormant accounts. 
+
+
+
+	9)	Apparently, at the GHQ-CO, ₱85,624,259.71 have already become dormant and their collectability remotely possible.  Details are as follows:
+
+ 
+
+IAs
+
+Year Transferred
+
+Outstanding Balance
+
+PA
+
+1994-2010
+
+₱38,215,614.91
+
+51st EB
+
+1994-2010
+
+1,852,627.30
+
+PN
+
+2004
+
+ 1,390.00 
+
+Others
+
+1994-2007
+
+6,427,232.21
+
+AFPLC
+
+2003 forwarded balance
+
+39,127,395.29
+
+Total
+
+₱85,624,259.71
+
+
+
+	10)	Considering that fund transfers were granted several years ago, it is highly probable that the corresponding projects/activities have already been completed and the funds fully utilized. 
+
+
+
+	11)	We recommended that Management:
+
+
+
+a)	exercise caution in the transfer of funds to PS-DBM given the substantial amounts of unliquidated transfers from prior years;
+
+
+
+b)	direct the Accountant of GHQ-CO, AFPREO and PSG to:
+
+
+
+i)	record in the books the direct deposit/refund of the PS-DBM to the Bureau of the Treasury upon obtaining supporting documentation; 
+
+ii)	provide documents to PS-DBM relative to the unrecorded fund transfers amounting to ₱422,342.14 and request that the same be taken up in the books;
+
+iii)	verify and record the receipts of supplies and materials worth ₱772,665.63;
+
+iv)	conduct regular reconciliation with implementing agencies to ensure prompt detection of discrepancies, if any;
+
+v)	request implementing agencies to provide copies of liquidation reports and supporting documents for accounts already liquidated per confirmation and to return unused funds;
+
+
+
+c)	request for authority to write-off dormant unliquidated fund transfers following the guidelines provided under COA Circular 2016-005; 
+
+
+
+d)	direct the GHQ SAO to:
+
+
+
+i)	maintain a record per unit/office to monitor advance payments made and corresponding deliveries/receipts of supplies, and ensure prompt submission of Delivery Receipts and supporting documents to AFPAC; and
+
+ii)	request the PS-DBM to expedite delivery of the remaining procured items and to return any excess payments.
+
+
+
+	12)	Management’s comments are as follows:
+
+
+
+GHQ-CO - On March 16, 2021,  OJ4 issued Logistics Letter Directive Nr 2021-02 setting forth the guidelines on the amendment of the Annual Procurement Plan and Project Procurement Management Plan for FY 2022 of all Program 4 units and offices, particularly the mode of procurement of common-use supplies and equipment originally approved to be procured from PS-DBM. This is to comply with the previous recommendation of COA advising GHQ, AFP to cease transferring funds to PS-DBM unless previous transfers are completely liquidated. Further, the Headquarters has forwarded letters dated April 12, 2021 to the AFPAC and GHQ SAO requesting to make appropriate measures that will ensure liquidation of transferred funds to PS-DBM and avoid further accumulation of unliquidated funds.
+
+
+
+The AFP Procurement Service is in the process of coordinating/gathering data from concerned offices pertaining to the unreconciled difference between AFPAC and PS-DBM. Also, the SAO GHQ instructed various SAOs to continually coordinate with PS-DBM to expedite delivery of the remaining procured items and to return any excess payments.  As to the prior year balance, various SAOs were instructed to continue coordinating with their respective offices/units and with accounting office regarding unreconciled variances.
+
+
+
+The ₱125,000.00 unliquidated election funds of PA were released to 4ID and 52EBde. These units have already submitted their respective Report of Disbursements (RDs) to PA Accounting Office and was subsequently forwarded to AFPAC. However, RDs were only stamped received and were not signed by their respective auditors. The AFPAC returned the documents and requested that RDs be signed by their respective Auditor since the COMELEC Accounting Department does not accept unverified and unsigned RDs. COMELEC does not record in their books of accounts unverified and unsigned RDs, hence, it will not be deducted from the AFP’s cash advances. Moreover, the PA will be required to submit to AFPAC the COA verified and signed RDs of the unliquidated election funds amounting to ₱4,333,540.23.
+
+
+
+AFPREO - Letter dated February 18, 2021 was sent to all concerned and has established constant coordination and follows up with them. 
+
+
+
+PSG - Regular reconciliation of balances of the Due from National Government Agencies account with PS-DBM is currently being undertaken by the 7th AFP FASU.  The Accountant has already communicated with PS-DBM, through a letter dated November 27, 2020, providing them with copies of all the LDDAP ADA issued for the transferred funds for the procured items at PS-DBM Store.  Further, a request has been made to record the same in their books for a total amount of ₱416,118.88. Accordingly, they requested from PS-DBM the immediate submission of pertinent supporting documents for the direct deposit/refund made to the BTr amounting to ₱114,842.83 which pertains to unutilized transferred fund in CY 2012 and earlier years.
+
+	
+
+	Unimplemented/undelivered project/equipment/supplies/services by the PITC
+
+	
+
+4)		Projects/equipment/supplies/services procured through outsourcing to the Philippine International Trading Corporation (PITC) remained unimplemented/undelivered as of December 31, 2020; thus, depriving the government and intended users of expected benefits that would have been derived therefrom.  Moreover, book balances of fund transfers at the GHQ-CO and AFPHSC have a discrepancy of ₱63,901,347.63 with that of the PITC records.
+
+
+
+	1)		Funds transferred made by the GHQ-CO, AFPMATF and AFPHSC to PITC amounted to ₱686,870,238.62 as of December 31, 2020 broken down as follows:
+
+	
+
+Unit/Fund
+
+Balance
+
+GHQ-CO
+
+₱248,964,296.22
+
+AFPMATF
+
+333,601,025.00
+
+AFPHSC
+
+104,304,917.40
+
+Total
+
+₱686,870,238.62
+
+	
+
+Unimplemented/undelivered project/equipment/supplies/services by PITC totaling ₱582,565,321.22
+
+	
+
+	2)		Section 7.3.3 of the Revised Implementing Rules and Regulations (RIRR) of RA 9184 states that in order to hasten project implementation, Procuring Entities which may not have the proficiency or capability to undertake a particular procurement, as determined by the HoPE concerned, may outsource the procurement tasks by: a) requesting other GoP agencies to undertake such procurement for them through the execution of a memorandum of agreement containing specific arrangements, stipulations and covenants, in accordance with government budgeting, accounting and auditing rules x x x. 
+
+
+
+	3)		Fund transfers to PITC for the procurement of ammunition, equipment, tires and batteries, freight services and construction and rehabilitation of buildings, etc. in the GHQ-CO have remained undelivered from a period ranging from one to more than eight years.  This defeats the purpose of availing the services of PITC in a timely manner to hasten project implementation.
+
+	
+
+	4)		At the AFPMATF, based on updates from the PITC, the implementation of four projects are still in-progress even if funds have been transferred way back in CY 2018.  Given the maximum period of 136 days allowed for the procurement of goods under Annex C of the RIRR of RA 9184, the PITC could have made the delivery/completion of the abovementioned projects had it taken advantage of said period. 
+
+
+
+	5)		The failure of PITC to expedite completion of projects and liquidation of transferred funds as well as failure to provide a delivery timeline deprived recipients of the timely use of military supplies, equipment, among others, and funds remained idle for a considerable period.  Further, the delays defeat the objectives envisioned in Section 7.3.3(a) of the RIRR of the RA 9184.
+
+
+
+Difference between GHQ, AFPHSC and PITC records of ₱63,901,347.63
+
+
+
+	6)		Confirmation with the PITC disclosed that balances per GHQ-CO, AFPHSC and PITC records as of December 31, 2020 had a discrepancy of ₱63,901,347.63.  Details are as follow:
+
+	
+
+	Unit
+
+	Per Books
+
+	PITC
+
+	Difference
+
+	GHQ-CO
+
+	₱248,964,296.22
+
+	₱195,634,800.84
+
+	₱53,329,495.38
+
+	AFPHSC
+
+	104,304,917.40
+
+93,733,065.15
+
+	10,571,852.25
+
+	Total
+
+	₱353,269,213.62
+
+	₱289,367,865.99
+
+	₱63,901,347.63
+
+	
+
+	7)		The ₱63,901,347.63 difference can be attributed to the following:
+
+	
+
+	Unit
+
+	Particulars
+
+	GHQ-CO
+
+	Particulars
+
+	Amount
+
+	
+
+	Unrecorded deliveries
+
+	   ₱(55,527,959.56)
+
+	
+
+	Unrecorded service fees
+
+	     (2,755,456.75)
+
+	
+
+	Unrecorded interest earned
+
+	          350,430.79
+
+	
+
+	Unrecorded penalties earned
+
+	            35,492.34
+
+	
+
+	Unrecorded refund
+
+	(226,997.41)
+
+	
+
+	Unrecorded remittance of interest earned
+
+	(325,404.79)
+
+	
+
+	Unrecorded fund transfer*
+
+	5,120,400.00
+
+	
+
+	Total
+
+	₱(53,329,495.38)
+
+	AFPHSC
+
+	Unrecorded deliveries 
+
+	₱10,571,852.25
+
+	*for verification with PITC if this is fund transfer from GHQ Regular Fund
+
+	
+
+	8)		The non-recognition of the abovementioned transactions resulted in material misstatements of the Due from Government Owned and/or Controlled Corporations - PITC account and the corresponding inventory, PPE, and/or revenue accounts.
+
+
+
+	9)		We recommended that Management:
+
+
+
+a)	make a written representation to PITC to expedite procurement, delivery and completion of the remaining items; otherwise, demand for refund of unutilized funds to be remitted to the BTr;
+
+
+
+b)	require the AFPAC and 6th FASU to reconcile regularly with PITC and prepare necessary JEVs to take-up valid reconciling items; and
+
+
+
+c)	request the PITC to notify Management whenever charges or credits were made in the account of the latter, and forward supporting documents to the AFPAC.
+
+
+
+	10)		Management’s comments are as follows:
+
+
+
+GHQ-CO - OJ4 forwarded a letter dated January 26, 2021 to the PITC reiterating the performance of the following actions: 
+
+
+
+a)	expedite the procurement, delivery and completion of the remaining items; otherwise, refund of unutilized funds which will be remitted back to the BTr;
+
+b)	remit the interest and penalties earned in favor of GHQ, AFP so that the same may be deposited to the BTr;
+
+c)	notify the AFPAC whenever charges or credits were made from the transferred funds, and forward supporting documents to AFPAC for the immediate recording of the said transaction; and 
+
+d)	continue working with the AFPAC for reconciliation of the discrepancy between GHQ, AFP and the PITC books.
+
+	
+
+The AFPAC noted that the variances are mostly associated with the procurement of ammunitions and other operational activities in favor of OJ4 with check number 1583484 dated 14 February 2018. These are due to the service fees, funds used for opening letter of credit, and delivered projects which are already deducted and recorded in MPG-PITC’s schedule of balances. The amount mentioned are not yet recorded in AFP’s books of accounts since proof of completion and delivery of projects are not yet submitted to the AFPAC for liquidation and recording purposes. 
+
+
+
+	Particulars
+
+	Amount
+
+	Ck Number 1583484 (AFPAC balance)
+
+	    ₱181,738,720.00
+
+	Ck Number 1583484 (MPG - PITC balance)
+
+	    129,424,213.27
+
+	Difference
+
+	    ₱52,314,506.73
+
+	
+
+Nevertheless, as agreed with MPG-PITC, they will be submitting all necessary documents relating the reconciling items as discussed last March 09, 2021. With this, the Center assures the Audit Team that there will be more frequent and regular reconciliation with PITC and expedite the preparation of JEVs to take up all variances.
+
+		
+
+	Moreover, the AFPAC also requested PITC last March 16, 2021 to notify them whenever charges or credits were made in the account of the GHQ, AFP, and forward supporting documents to the Center. The PITC was also informed to remit interest and penalties earned in favor of GHQ, AFP so that the same may be deposited to the BTr.
+
+
+
+	AFPMATF - The OJ4 submitted the status of the projects based on the report of PITC as of 19 January 2021, to wit:
+
+	
+
+Project
+
+Status
+
+JCPV Phase 2 Repowering of PS-37 
+
+Ongoing procurement process
+
+Medium Lift Fixed Wing Aircraft (C-295) Additional Integrated Logistics Support (ILS)
+
+Delivered and accepted
+
+C4ISTAR Ph 2B – Satellite GPS Tracking System
+
+Contract for final routing
+
+C4ISTAR Ph 2B-FM Radio Broadcasting Eqpt.
+
+
+
+	
+
+	AFPHSC - According to the 6th FASU, they will record said transactions upon receipt of appropriate supporting documents such as IAR and DRs.
+
+
+
+Unliquidated/unsettled fund transfers to Operating Units 
+
+
+
+5)		The weak enforcement of liquidation/settlement of transferred funds, and inadequate reconciliation with Operating Units resulted in the accumulation of unliquidated fund transfers of ₱118,392,009.30, of which ₱5,638,707.53 are dormant.  Further, a variance of ₱6,775,729.88 exists between the books of GHQ-CO, AFPREO and Operating Units.
+
+
+
+	1)	Section 6.1 of COA Circular 2016-005 states all government entities shall conduct regular monitoring and analysis of receivable accounts to ensure that these are collected when they become due and demandable and that cash advances and fund transfers are liquidated within the prescribed period depending upon their nature and purpose.
+
+
+
+	2)	In addition, COA Circular No. 94-013 provides, among others, that: Within ten (10) days after the end of each month/end of the agreed period for the Project, the IA shall submit the Report of Checks Issued (RCI) and the Report of Disbursement (RD) to report the utilization of the funds.  Only actual project expenses shall be reported xxx. The IA shall return to the SA any unused balance upon completion of the project.
+
+
+
+	3)	As of December 31, 2020, the balance of Due from Operating/Field Units (OUs) account of GHQ-CO and AFPREO amounted to ₱118,392,009.30.
+
+
+
+Particulars
+
+GHQ-CO
+
+AFPREO
+
+Total
+
+Balance Dec 31, 2019
+
+₱119,314,770.36 
+
+₱8,738,921.35 
+
+₱128,053,691.71 
+
+Ad: Fund Transfers
+
+57,614,048.00 
+
+ 
+
+   57,614,048.00 
+
+Subtotal
+
+176,928,818.36 
+
+8,738,921.35 
+
+ 185,667,739.71 
+
+Liquidations:
+
+
+
+
+
+
+
+Prior Years
+
+25,314,279.04 
+
+5,713,180.69 
+
+   31,027,459.73 
+
+Current Year
+
+36,248,270.68 
+
+ 0.00
+
+   36,248,270.68 
+
+Subtotal
+
+61,562,549.72 
+
+5,713,180.69 
+
+   67,275,730.41 
+
+Balance Dec 31, 2020
+
+₱115,366,268.64 
+
+₱3,025,740.66 
+
+ ₱118,392,009.30 
+
+
+
+	4)	Our review of GHQ-CO records revealed that out of the ₱119,314,770.36 balance from previous transfers, only ₱25,314,279.04 or 21.22 percent was liquidated during the current year.  Notwithstanding the substantial outstanding balance, additional transfers of ₱57,614,048.00 were made during CY 2020, of which only ₱36,248,270.68 or about 62.92 percent was liquidated.
+
+
+
+	5)	It was also noted that fund transfers to operating units  for projects already concluded such as the Bangsamoro Organic Law Plebiscite and 2019 National/Local Elections, are likewise not fully liquidated as of December 31, 2020.
+
+
+
+	6)	The aging of accounts also showed that ₱92,893,921.28 or 78.46 percent are already overdue for a period ranging from one to more than 10 years where ₱5,638,707.53 remain dormant, viz: 
+
+ 
+
+IAs
+
+Year Transferred
+
+Outstanding Balance
+
+PMA
+
+1998
+
+₱ 483,700.00 
+
+AFPMC
+
+1994-2007
+
+16,007.53
+
+SOUTHCOM
+
+1995-1999
+
+5,139,000.00
+
+Total
+
+₱5,638,707.53
+
+
+
+	7)	The AFPAC had difficulty in enforcing settlement of the above-listed transfers due to unavailability of supporting documents and dissolution of unit/office as in the case of SOUTHCOM.  Last year, they requested for the write-off of accounts totaling ₱570,614.50, but it was returned due to lack of supporting documents as required in COA Circular No. 2016-005. 
+
+
+
+	8)	Furthermore, to ascertain the correctness of balances of transferred funds, we sent confirmation requests to various IAs. Results thereof disclosed a discrepancy between GHQ-CO, AFPREO and OUs books and IA records totaling ₱6,775,729.88. The difference was mainly due to the late/non-recording of liquidations in the GHQ-CO books and lack of periodic reconciliation with counterparts. Details presented in succeeding table.
+
+
+
+Unit/Fund
+
+IAs
+
+Balance per
+
+books
+
+Balance per
+
+OUs books
+
+Difference
+
+GHQ-CO
+
+AFPEBSO
+
+₱19,907,775.16
+
+₱18,772,274.28
+
+₱1,135,500.88
+
+
+
+CENTCOM
+
+    2,231,400.00 
+
+       348,700.00 
+
+  1,882,700.00 
+
+
+
+EASTMINCOM 
+
+    1,852,350.00 
+
+       477,450.00 
+
+  1,374,900.00 
+
+
+
+NOLCOM 
+
+   1,668,644.00 
+
+    1,152,044.00 
+
+     516,600.00 
+
+
+
+PMA
+
+       483,700.00 
+
+                  0.00   
+
+     483,700.00 
+
+
+
+SOLCOM
+
+       880,450.00 
+
+       785,350.00 
+
+       95,100.00 
+
+
+
+Subtotal
+
+27,024,319.16
+
+21,535,818.28
+
+5,488,500.88
+
+AFPREO
+
+PMA
+
+ 1,295,235.00 
+
+ 8,006.00 
+
+ 1,287,229.00 
+
+Total
+
+₱28,319,554.16
+
+₱21,543,824.28
+
+₱6,775,729.88
+
+
+
+	9)	 We recommended that Management direct the AFP Accounting Center to:
+
+
+
+a)	make constant follow-ups to operating units for the submission of liquidation reports and return any unused funds particularly for projects or activities that are already completed;
+
+
+
+b)	conduct regular reconciliation with counterparts and prepare necessary JEVs to take up valid reconciling items; and 
+
+
+
+c)	request for authority to write-off dormant unliquidated fund transfers following the guidelines provided in COA Cir. 2016-005.
+
+
+
+	10)	Management stated the following:
+
+
+
+GHQ-CO - the OJ3 forwarded the COA verified and signed Report of Disbursement of WESMINCOM with a total amount of ₱7,645,000.00.
+
+
+
+AFPEBSO - already made coordination with AFPAC regarding the balance per books for reconciliation.
+
+
+
+AFPREO - sent letters dated February 18, 2021 to all concerned IAs and established constant coordination and follows up with them.
+
+
+
+Accumulation of balance of Due from Officers and Employees 
+
+
+
+6)	Low collection turnover of receivables at the GHQ-CO, AFPREO and PSG from Military Officers and Enlisted Personnel for utility bills and rent of quarters resulted in the accumulation of the Due from Officers and Employees account balance to ₱29,911,890.08 as of December 31, 2020.
+
+
+
+	1)	Section 6.1 of COA Circular No. 2016-005 dated December 19, 2016 provides that all government entities shall conduct regular monitoring and analysis of receivable accounts to ensure that these are collected when these become due and demandable x x x. 
+
+
+
+	2)	The Due from Officers and Employees account pertains to rental of quarters, electric and water bills of military officers and enlisted personnel assigned at the GHQ-CO and PSG.  As of December 31, 2020, the balance of Due from Officers and Employees in GHQ-CO, AFPREO and PSG for utility billings totaled ₱29,911,890.08.  
+
+
+
+Unit/Fund
+
+Amount
+
+GHQ-CO
+
+₱18,058,736.95
+
+AFPREO
+
+11,366,043.13
+
+PSG
+
+487,110.00
+
+Total
+
+₱29,911,890.08
+
+
+
+	3)	At the GHQ-CO and AFPREO, out of the ₱58,385,531.33 balance covering both current and prior years only ₱28,960,751.25 or 49.60 percent was collected in CY2020.  Details are presented in succeeding table.
+
+
+
+Particulars
+
+GHQ-CO
+
+AFPREO
+
+Total
+
+Balance Dec 31, 2019
+
+₱20,933,769.51
+
+₱11,494,096.18
+
+₱32,427,865.69
+
+Add: Billing
+
+25,957,665.64
+
+-
+
+25,957,665.64
+
+Subtotal
+
+46,891,435.15
+
+11,494,096.18
+
+58,385,531.33
+
+Less: Collections
+
+28,832,698.20
+
+128,053.05
+
+28,960,751.25
+
+Balance Dec 31, 2020
+
+₱18,058,736.95
+
+₱11,366,043.13
+
+₱29,424,780.08
+
+Percentage 
+
+61.49%
+
+1.11%
+
+49.60%
+
+
+
+	4)	In addition, aging of accounts at the GHQ-CO, AFPREO and PSG showed that ₱29,582,770.08 are already overdue for more than a year. 
+
+
+
+Unit/Fund
+
+Less than 1 year
+
+Over 1 year
+
+Total
+
+GHQ-CO 
+
+-
+
+₱18,058,736.95
+
+₱18,058,736.95
+
+AFPREO
+
+-
+
+11,366,043.13
+
+11,366,043.13
+
+PSG
+
+329,120.00
+
+157,990.00
+
+487,110.00
+
+Total
+
+₱329,120.00
+
+₱29,582,770.08
+
+₱29,911,890.08
+
+
+
+	5)	It was also observed that out of 2,456 military officials and personnel with back accounts in AFPREO, only one payment was made during the year under audit.  The accounts of the remaining 2,455 personnel remained non-moving for several years. 
+
+
+
+	6)	The nominal collection may be attributable to a lack of resolve in the enforcement of policies relative to the settlement of accounts.  There are no sanctions imposed against those with delinquent accounts such as:  a one percent surcharge for every month of payment delay, disconnection of electricity and water provisions, and termination of Contract of Occupancy.
+
+	
+
+	Presence of negative and non-moving/unreconciled SL accounts
+
+ 
+
+	7)	Furthermore, a review of prior year’s GHQ and AFPREO balances disclosed the presence of non-moving and negative balances accounts, to wit:
+
+
+
+                                  Negative Balance SL accounts
+
+Unit/Fund
+
+Particulars
+
+Amount
+
+GHQ-CO
+
+These are carried over beginning balances in CY 2016 recorded thru JEV No. 2016-01-000004 and remained unadjusted/non-moving for more than four years. 
+
+₱(1,092,357.03)
+
+
+
+AFPREO
+
+These are collections in CY 2012 and earlier from 889 military personnel with no accounting set-up. 
+
+(3,377,630.36)
+
+Total
+
+₱(4,469,987.39)
+
+
+
+                          Non-Moving/Unreconciled SL accounts
+
+Unit/Fund
+
+Particulars
+
+Amount
+
+GHQ-CO
+
+
+
+Non-moving accounts
+
+These are carried over beginning balances in CY 2016 recorded thru JEV Nos. 2016-01-000002 and 2016-01-000004 and remained non-moving for more than four years. 
+
+₱6,555,741.42
+
+
+
+
+
+Unreconciled SL accounts
+
+Carried-over balance when the Agency shifted from the old Government Accounting System to the new e-NGAS. The balance of this account continues to decrease due to posting of collections from military personnel with no specific SL account.
+
+918,963.60
+
+AFPREO
+
+
+
+1,543,660.58
+
+Total
+
+₱9,018,365.60
+
+
+
+	8)	These issues could have been promptly detected and corrected had the offices concerned conducted regular reconciliation of their accounts.  Moreover, collectability of non-moving accounts may be uncertain since some individuals may no longer be active in active service or their whereabouts unknown.
+
+
+
+	9)	We recommended that Management:
+
+
+
+a)	direct the GHQ Office of the Non-Appropriated Funds (ONAF), AFPREO and PSG Housing Base and Facilities Office (HBFO) to:
+
+
+
+i)	consistently send demand letters to all awardees with arrears;
+
+ii)	conduct an updated identification of the location and service status of Military Officers/Enlisted Personnel who continue to maintain long outstanding and/or dormant liabilities and explore remedies to collect their unpaid balances;
+
+iii)	strictly enforce sanctions embodied in SOP 05-16 and Contract of Occupancy for late/non-payment of obligations;
+
+iv)	collaborate with the 7th AFP FASU particularly on sharing of information that will facilitate improvement of collection efficiency;
+
+
+
+b)	direct the AFPAC to review and identify causes of negative and non-moving accounts, and draw adjusting entries as necessary; and
+
+
+
+c)	advise the AFPAC, AFPREO and ONAF to conduct periodic reconciliation of their records.
+
+
+
+	10)	Management’s comments are as follows:
+
+
+
+GHQ-CO - The Chief ONAF continuously issues demand letters and disconnection notices to Officers and Enlisted Personnel with arrears every month which started last October 2020. Monthly current accounts of Officers and Enlisted Personnel were submitted to AFPAC every end of the month. The list of names with non-moving accounts were submitted to HAO for checking of records. The Chief ONAF conducts monthly dialogue with personnel of AFPAC and AFP Finance (PBC Branch) for the purpose of reconciliation of records. The Office is continuously implementing Letter Directive #12 dated 20 October 2020 (amendment to SOP #05-2016).
+
+
+
+PSG - FASU-PSG regularly sends demand letters to delinquent quarters’ occupants in compliance with COA’s recommendations to continuously monitor unpaid accounts.  The latest demand letters were issued on July 11, 2019.  The Office was not able to send demand letters in CY 2020 since most FASU civilian workforce were working from home due to the pandemic. Accordingly, they are now preparing communications to be addressed to the Major Services’ Commanders to assist PSG in locating military personnel with past due accounts under their jurisdiction. This will be coursed through the Office of the Commander, PSG for approval.
+
+
+
+Further, to improve collection particularly from military personnel with unknown addresses, updated statements of Due from Officers and Employees were forwarded to AFPAC for inclusion in the AFPAC’s Data Base which is used as reference for the issuance of final clearances. 
+
+
+
+
+
+
+
+
+
+
+
+Deficiencies Noted Affecting Collectability of Other Receivables
+
+
+
+7)	The accuracy, completeness, existence, and collectability of Other Receivables account balance of ₱499,086,572.48 could not be ascertained due to: a) unrecorded pension overpayments of ₱3,187,078.28; b) overdue accounts of ₱128,368,294.64 of which ₱52,708,387.55 are dormant accounts; and c) presence of negative subsidiary leger balance of ₱4,094,581.36.
+
+
+
+	1)	Section 27 of IPSAS No. 1 provides that FS shall present fairly the financial position, financial performance, and cash flows of an entity.  Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria of assets, liabilities, revenue and expenses set out in IPSAS.
+
+
+
+	2)	As of December 31, 2020, Other Receivables account has a balance of P499,086,572.48 which includes the accounts of GHQ-CO, AFPPGMC, AFPREO, PSG, AFPHSC and CENTCOM totaling  ₱443,699,364.42, details as follows:
+
+
+
+Unit/Fund
+
+Amount
+
+GHQ-CO
+
+Regular Agency Fund
+
+      ₱94,258,897.57 
+
+
+
+Trust Fund
+
+        86,419,686.13 
+
+
+
+Subtotal
+
+180,678,583.70
+
+AFPPGMC
+
+212,003,254.79
+
+AFPREO
+
+39,320,950.61
+
+PSG
+
+        362,645.44
+
+AFPHSC
+
+6,973,715.61
+
+CENTCOM
+
+4,360,214.27
+
+Total
+
+₱443,699,364.42
+
+
+
+	3)	Audit of Other Receivable accounts showed that the accuracy, completeness, existence and collectability of the account balance could not be ascertained due to the following:
+
+
+
+a) Unrecorded pension overpayment
+
+
+
+	4)	Unrecovered pension overpayments totaling ₱3,187,078.28 were not recorded in the books of AFPPGMC which resulted in the understatement of Other Receivables account by the same amount.
+
+
+
+b) Overdue and dormant accounts
+
+
+
+	5)	Section 5.4 of COA Circular No. 2016-005 states: Dormant Receivables Accounts as accounts which balances remained inactive or non-moving in the books of accounts for ten (10) years or more and where settlement/collectability could no longer be ascertained.
+
+
+
+	6)	Section 6.1 of the same Circular provides: All government entities shall conduct regular monitoring and analysis of receivable accounts to ensure that these are collected when these become due and demandable and that cash advances and fund transfers are liquidated within the prescribed period depending upon their nature and purpose.
+
+
+
+	7)	Analysis and examination of the aging schedule of Other Receivables of GHQ-CO, AFPREO, PSG, AFPHSC and CENTCOM showed that ₱128,368,294.64 are overdue accounts aged from one year to more than 10 years, of which ₱52,708,387.55 are dormant receivables with no supporting documents.  These accounts are broken down as follows:
+
+
+
+Unit/Fund
+
+Overdue Accounts
+
+Dormant
+
+GHQ-CO Trust Fund
+
+₱78,629,932.74
+
+₱8,599,442.31
+
+AFPREO
+
+39,317,840.61
+
+39,317,840.61
+
+PSG
+
+276,375.40
+
+0.00
+
+AFPHSC
+
+5,783,931.62
+
+537,561.77
+
+CENTCOM
+
+4,360,214.27
+
+4,253,542.86
+
+Total
+
+₱128,368,294.64
+
+₱52,708,387.55
+
+
+
+c) Presence of negative subsidiary ledger balances (SL)
+
+
+
+	8)	Also, the Other Receivables account of GHQ-CO included negative SL balances of ₱4,094,581.36 that were carried over from CY 2016 beginning balances and remained unadjusted for more than four years.
+
+
+
+	9)	We recommended that Management:
+
+
+
+a)	require the AFP Pension and Gratuity Management Center to submit a periodic report of overpayments due for recovery as well as recoveries already made to the AFP Accounting Center so that the latter will be able to record said transactions;
+
+
+
+b)	advise the GHQ ONAF to:
+
+
+
+i)	fast track the commissioning of an automated billing system that will, among others, promptly impose/record penalties for late/non-payment of arrears; enable monitoring of outstanding concessionaire balances; and identify possible reconciling items with the AFPAC;
+
+ii)	consistently issue demand letters to concessionaires with arrears (copy furnished the Office of the Auditor) and ensure strict implementation of other provisions embodied in SOP 05-16; and
+
+
+
+c)	require the GHQ-CO, AFPREO, PSG, AFPHSC and CENTCOM to explore other possible ways to collect overdue accounts, if all efforts undertaken prove to be futile, file a request for write-off following the guidelines in COA Circular 2016-005.
+
+
+
+	10)	Management stated the following:
+
+
+
+GHQ-CO – The GHQ ONAF is already using the new automated billing system in the issuance of bills to residents and concessionaires inside Camp Aguinaldo. 
+
+
+
+AFPPGMC - According to Management, out of 26 unrecognized Other Receivables of ₱3,187,078.28, six pensioners are not included in the Request for Recovery of Overpayment, while 22 have SLs that have been updated upon citation in the AOM.  The difference was caused by the set-up of receivable of only up to the amount recovered which was lesser than the amount requested for recovery. The AFPAC will record the Request for Recovery of Overpayments as soon as they are received.  Unrecorded portion of collectibles are being scrutinized and recorded from the earliest year CY 2016 to CY 2020.
+
+
+
+PSG - FASU-PSG regularly sends demand letters to delinquent quarters’ occupants in compliance with COA’s recommendations to continuously monitor unpaid accounts.  The last demand letters issued were on July 11, 2019.  The Office was not able to send demand letters in CY 2020 since most FASU civilian workforce were working from home due to the pandemic. Further, to improve receivable collection particularly from military personnel with unknown addresses, updated statements of Other Receivables account were forwarded to the AFPAC, for inclusion in the AFPAC’s Data Base which is used as reference for issuance of final clearances. On the other hand, assessment and validation of receivable account is currently ongoing, particularly for long past due accounts.  Accounts that will qualify for write-off will be processed for the completion of requirements in accordance with COA rules and regulations.
+
+
+
+CENTCOM - The Chief, 4th AFP Field Accounting Service Unit (4th FASU) explained that upon his assumption as Head of the 4th FASU this account was one of his priorities and worked this out in coordination with the 21st Finance Service Unit. Accordingly, they were able to request before, certification from the BTr pertaining to dormant and outstanding balance amounting to ₱13,143,051.59 covering the period from June 2007 to June 2013. After so many years, the BTr no longer confirm deposits made by the Office from CY 2008 and earlier. This resulted in unreconciled accounts balance between the Agency and the BTr. Further, the Chief, 4th FASU said that they will adopt the recommendation of the Audit Team to request for write-off of dormant and outstanding Other Receivable as prescribed in COA Circular No. 2016-005. 
+
+
+
+
+
+
+
+
+
+Inaccurate Balance of Inventory
+
+
+
+8)	The balance of Inventory accounts totaling ₱10,149,821,564.88 as at year-end has been rendered inaccurate due to: a) unrecorded consumptions/issuances of various inventory items; b) presence of unreconciled ₱613,190,206.69 balance; c) misclassification of inventories; and d) non-submission of Report on the Physical Count of Inventories (RPCI). 
+
+
+
+	1)	As of December 31, 2020, the Inventory accounts have an aggregate balance of  ₱10,149,821,564.88 which includes the accounts of GHQ-CO, AFPMATF and AFPHSC totaling ₱8,887,847,531.26 that consist of the following:
+
+
+
+Particulars
+
+GHQ-CO
+
+AFPMATF
+
+AFPHSC
+
+WESCOM
+
+Inventory Held for Sale
+
+₱24,532,335.01
+
+₱0.00
+
+₱0.00
+
+₱0.00
+
+Inventory Held for Distribution
+
+0.00
+
+6,910,514,740.18
+
+3,649,560.00
+
+0.00
+
+Inventory Held for Consumption
+
+1,310,904,578.75 
+
+      9,824,282.89 
+
+543,606,213.98
+
+13,885,675.12
+
+Semi-Expendable
+
+  70,357,853.33 
+
+0.00
+
+572,292.00
+
+0.00
+
+Total
+
+1,405,794,767.09
+
+6,920,339,023.07
+
+547,828,065.98
+
+13,885,675.12
+
+
+
+₱8,887,847,531.26
+
+
+
+	2)	The following observations were noted in the audit of Inventory accounts which adversely affected the accuracy and reliability of the Inventory account balance.
+
+
+
+Unrecorded receipt and issuances of various inventories 
+
+
+
+	3)	Section 2(a) of Chapter 2 of the GAM Volume I states: Accrual basis – means a basis of accounting under which transactions and other events are recognized when they occur (and not only when cash or its equivalent is received or paid). Therefore, the transactions and events are recognized in the accounting records and recognized in the financial statements of the periods to which they relate. The elements recognized under accrual accounting are assets, liabilities, net assets/equity, revenue, and expenses.
+
+
+
+	4)	Section 10 of Chapter 8 of the same Manual provides that tangible items below capitalization threshold of ₱15,000.00 shall be accounted as semi-expendable property and shall be recognized as expenses upon issue to the end-user.
+
+
+
+	5)	Based on accounting records of WESCOM, there were inventory items delivered and accepted in December 2020 totaling ₱723,945.00 but were recorded as inventories in the books only in March 2021 due to delayed submission by SAO of Delivery Receipts, Inspection and Acceptance Report and Purchase Orders (PO) to the FASU.
+
+
+
+	6)	While, issuances/transfers of inventory items to end-users supported by Report of Supplies and Materials Issued (RSMIs) and Property Transfer Reports (PTRs) totaling ₱598,833,201.74 at the GHQ-CO and AFPMATF were not recorded in the books which resulted in the overstatement of the balance of inventory accounts and the understatement of related expense accounts.  Details as follows:
+
+
+
+Unit/Fund
+
+Amount
+
+GHQ-CO
+
+₱19,120,661.96
+
+AFPMATF
+
+579,712,539.78
+
+Total
+
+₱598,833,201.74
+
+
+
+	7)	Also, fuel consumptions through fleet cards totaling ₱26,137,332.09 were not recognized in the books of GHQ-CO resulting in the understatement of Fuel, Oil, and Lubricants (FOL) expenses, Subsidy to Operating Units and Accounts Payable.
+
+
+
+	8)	Moreover, property/equipment costing ₱4,558,905,213.87 recorded under Property and Equipment for Distribution and FOL products at the AFPMATF were already transferred/issued to their respective end-users.  However, the corresponding PTRs/RISs/RSMI were not yet prepared/submitted by SAO to AFPAC for its recognition in the books. Further, the Report of Physical Count of Inventory as of December 31, 2020 indicated a zero balance for petroleum products.
+
+
+
+	9)	At the GHQ-CO, semi-expendable equipment/property costing ₱65,009,853.33 have likewise been issued to end-users, however, recognition of issuances could not be made due to non-submission of the required Inventory Custodian Slip (ICS).  This concern had been cited in previous years’ audit report.
+
+
+
+Unreconciled SL balance of ₱613,190,206.69
+
+
+
+	10)	Of the ₱1,310,904,578.75 balance of Inventory Held for Consumption at the GHQ CO, ₱613,190,206.69 or 46.78 percent pertains to SL balance captioned as “Unreconciled”.  Details are presented in Annex A.
+
+
+
+	11)	The unreconciled SL balance was part of the beginning balance set-up for Inventory accounts during transition to e-NGAS.  These accounts, which have remained outstanding since CY 2005, have no supporting documents and is contrary to Section 12 of the MNGAS which provides that totals of SLs shall be reconciled with their respective control accounts in the GL regularly. 
+
+
+
+Misclassification/erroneous recording of inventory accounts 
+
+
+
+	12)	Drugs and Medicines Inventory; and Medical, Dental and Laboratories Inventory amounting to ₱9,385,477.31 were recorded twice in the books of AFPHSC, thus overstating balance of Drug and Medicines Inventory, and Medical, Dental and Laboratories Inventory accounts by ₱3,890,228.50 and ₱5,495,248.81 respectively.
+
+
+
+	13)	Furthermore, issuances of ₱6,030,059.24 worth of other supplies and materials inventory in CY 2020 were charged against the Accumulated Surplus/Deficit account by AFPHSC instead of the appropriate expense account.
+
+
+
+	14)	At the GHQ-CO, inventories costing ₱501,183.03 received from PS-DBM were erroneously recorded under the Office Supplies Inventory account instead of Other Supplies and Materials Inventory account. Said inventories were already issued to end-users.  The erroneous recording of these transactions resulted in the overstatement of the Office Supplies Expense account and the understatement of Other Supplies and Materials Expenses account by ₱501,183.03.
+
+
+
+	Deliveries and issuances of FOL products not promptly recorded
+
+
+
+	15)	Various deliveries and issuances of FOL at GHQ-CO were not recognized in the books during the periods wherein they occurred. Out of recorded deliveries of ₱101,389,499.69 for CY 2020, ₱66,162,171.03 or 65 percent pertained to prior years.  Likewise, of the ₱90,921,569.18 reported issuance in CY 2020, 62 percent or ₱56,022,486.75 likewise pertained to prior years.  The same condition was also validated to exist during CYs 2018 and 2019.
+
+
+
+Unreconciled variance between the GL balance and RPCI
+
+
+
+	16)	In WESCOM, comparison of GL balances of inventories as of year-end totaling ₱13,885,675.12 and RPCI amounting to ₱11,037,630.93 disclosed a discrepancy of ₱2,848,044.19. 
+
+
+
+	17)	Despite the significant amount of discrepancy however, the Audit Team was informed by the Accountant and SAO that to date, no adjustments were made to correct either the accounting or the property records which means that no reconciliation has been made.
+
+
+
+Non-submission of RPCI
+
+
+
+	18)	Section 13, Chapter 8 of the GAM Volume 1 emphasized that physical count/ inventory, which is required semi-annually, is an indispensable procedure for checking the integrity of property custodianship.
+
+
+
+	19)	In the course of our audit, we requested for the submission of the RPCI of GHQ-CO for the year ended December 31, 2020 to substantiate existence of the ₱1,335,436,913.76 balance of Inventory Held for Sale/ Inventory Held for Consumption.  However, the RCPI was not presented for evaluation.
+
+
+
+
+
+
+
+
+
+	20)	We recommended the following remedial measures:
+
+
+
+a)	AFPAC and AFPHSC to:
+
+
+
+i)	determine cause/s behind the unrecorded issuances of supplies and materials inventory items despite being covered by Property Transfer Reports (PTRs), Requisition and Issue Slip (RIS) and Report of Supplies and Materials Issued (RSMI), and to implement steps to take up unrecorded issuances in the books; 
+
+ii)	effect necessary adjusting entries to correct misclassifications and erroneous recording of inventories;
+
+
+
+b)	GHQ SAO to ensure that issuances of semi-expendable property are covered with Inventory Custodian Slip (ICS)  to be promptly forwarded to the AFP Accounting Center (AFPAC) for proper recording;
+
+
+
+c)	OTQMG to promptly forward to AFPAC statements of account on fuel usage from fleet card transactions and all documents relative to FOL deliveries and issuances; 
+
+
+
+d)	AFPAC, OTQMG and GHQ SAO to conduct periodic reconciliation of records and analyze balances of SLs composing Inventory accounts labeled as “Unreconciled” and draw necessary accounting entries as details are identified;
+
+
+
+e)	GHQ SAO and OTQMG to effect timely preparation of PTRs/RISs/ RSMI and its prompt submission to AFPAC;
+
+
+
+f)	Inventory Committee of WESCOM to reconcile with the accounting and property records the net variance of ₱2,848,044.19 to ensure reliability and accuracy of inventory items recorded in the Inventory accounts in the FS; and
+
+
+
+g)	OTQMG, GHQ SAO and Inventory Committee of the Unit to ensure the conduct of physical count of inventories for FOL at least twice a year and submit copy of the RPCI to the Office of the Auditor not later than July 31 and January 31 of each year.
+
+
+
+	21)	Management stated the following comments:
+
+
+
+GHQ-CO - Chief SAO commented that they had communicated with AFPAC requesting for details of unrecognized issuance of semi-expendable property amounting to ₱65,009,853.33 that were not covered with ICS. The GHQ SAO ensures that all issuances of properties to end-users shall be covered with appropriate issuance documents and shall be promptly submitted to AFPAC.
+
+
+
+Also the TQMG commented that based on assessment of circumstances regarding the apparent delay of the unrecorded transaction from October to December 2020 of e-POL cards, reveals that the non-availability of Notice of Cash Allocation (NCA) greatly affect the processing of POL-Payments. Moreover, the POL supplier only gives the Statement of Account every second week of the succeeding month. Thus, the processing of payment for every month will commence thereafter. For this reason, the difference on the understated FOL expenses or Subsidy to Operating Units are already beyond the cut-off period for CY 2020 financial statements due to timing or disbursement. 
+
+
+
+AFPMATF - The Chief SAO stated that they have coordinated with OTQMG on the conduct of reconciliation with AFPAC and provision of necessary liquidating documents for recording of issuances of supplies to effect the correct balance of FOL Inventory.  Further, SAO ensures to monitor unliquidated documents regarding FOL under AFPMATF.
+
+	
+
+OTQMG also stated that they are constantly coordinating with AFPAC to ensure compliance with the submission of required liquidation documents. To date, OTQMG is now in the process of collating pertinent documents prior to submission to AFPAC to expedite liquidation process of POL issuances by AFPMATF.
+
+
+
+AFPHSC - The 6th FASU replied that the overstatement of inventory of accounts due to double recording was primarily caused by postings of inventories to the inaccurate fund cluster.  Inventories recorded under Fund Source 01101101-Specific Budget of NGAs were sometimes recorded again under Fund Source 01102101-Continuing Appropriations. Various journal entries were drawn to correct these balances.
+
+
+
+WESCOM – Management agreed with the observations and committed to implement the above audit recommendations.
+
+
+
+	Deficiencies affecting the accuracy, completeness and valuation of PPE
+
+	      
+
+9)	The accuracy, completeness, and valuation of the PPE account balance of ₱125,414,059,434.27 had been adversely affected by various weaknesses that are contrary to the provisions Chapter 5 of the GAM, Volume I.
+
+	
+
+	1)				The PPE accounts disclosed an aggregate balance of ₱125,414,059,434.27 as at year-end which include the accounts of the GHQ-CO, AFPMATF-CO, PSG, PMA, AFPHSC, CENTCOM, EASTMINCOM, NOLCOM, SOLCOM and WESCOM totaling ₱31,382,348,652.93. 
+
+			
+
+Unit/Fund
+
+Cost
+
+Accumulated Depreciation/ Impairment Losses
+
+Carrying Amount
+
+GHQ-CO
+
+₱23,944,515,470.25
+
+₱5,108,393,646.19
+
+₱18,836,121,824.06
+
+AFPMATF- CO
+
+6,077,949,755.88
+
+1,135,560,459.76
+
+4,942,389,296.12
+
+PSG
+
+1,529,957,407.31
+
+958,099,725.88
+
+571,857,681.43
+
+PMA
+
+1,865,443,691.74
+
+808,167,992.95
+
+1,057,275,698.79
+
+AFPHSC
+
+1,893,047,241.42
+
+1,188,989,197.52
+
+704,058,043.90
+
+CENTCOM
+
+4,913,133,638.34
+
+174,531,780.33
+
+4,738,601,858.01
+
+EASTMINCOM
+
+74,385,960.41
+
+33,287,088.66
+
+41,098,871.75
+
+NOLCOM
+
+459,886,688.75
+
+187,175,630.66
+
+272,711,058.09
+
+SOLCOM
+
+116,268,528.44
+
+53,168,586.84
+
+63,099,941.60
+
+WESCOM
+
+290,320,724.46
+
+135,186,345.28
+
+155,134,379.18
+
+Total
+
+₱41,164,909,107.00
+
+₱9,782,560,454.07
+
+₱31,382,348,652.93
+
+
+
+	The following deficiencies adversely affected accuracy, completeness, and valuation of PPE:
+
+	Unrecorded receipts of property and equipment
+
+	
+
+	2)		Section 21, Chapter 5 of the GAM, Volume I, provides that an entity shall recognize an asset in respect of transfers when the transferred resources meet the definition of an asset and satisfy the criteria for recognition as such.
+
+	
+
+	3)		Section 26 (a), Chapter 5 of the same Manual further provides that gifts and donations (other than services in-kind) are recognized as assets and revenue when it is probable that future economic benefits or service potential will flow to the entity and the FV of the assets can be measured reliably.  The act of giving the gift or donation is considered to be simultaneous with the transfer of its legal title.  In such circumstances, there is no doubt as to the future economic benefits flowing to the entity. (Par. 95, PPSAS 23)
+
+	
+
+	4)		Properties and equipment costing ₱389,260,321.34 of GHQ-CO, PSG, AFPHSC and EASTMINCOM were not recognized in the books which resulted in the understatement of PPE accounts.
+
+	
+
+	Unit/Fund
+
+	Particulars
+
+	Amount
+
+	GHQ-CO
+
+	Donated by AFPMBAI
+
+	₱37,633,547.45
+
+	
+
+	Payment from SMART Communications, Inc.
+
+	65,304,364.42
+
+	
+
+	Completed Projects charged to RMC
+
+	58,952,553.15
+
+	
+
+	Subtotal
+
+	161,890,465.02
+
+	PSG
+
+	Donated by DPWH
+
+	40,000,000.00
+
+	AFPHSC
+
+	Donated by DOH
+
+	24,681,566.00
+
+	
+
+	Procurement of medical equipment
+
+	3,359,680.00
+
+	
+
+	Transfers from Unified Commands
+
+	148,548,610.42
+
+	
+
+	Subtotal
+
+	176,589,856.42
+
+	EASTMINCOM
+
+	Donated by DPWH
+
+	10,780,000.00
+
+	Total
+
+	₱389,260,321.34
+
+	
+
+	5)		Noteworthy to mention is that some of the donated properties and equipment at GHQ-CO costing ₱31,797,065.00 were later transferred to different Unified Commands/ Key Budgetary Units/Major Services of the AFP as stated in the of deeds of donation.
+
+
+
+	Non-derecognition of demolished office building 
+
+	
+
+	6)		IPSAS, paragraph 82, provides that the carrying amount of an item of PPE shall be derecognized on disposal or when no future economic benefits or service potential is expected from its use or disposal.
+
+	
+
+	7)		At the NOLCOM, Management failed to derecognize the demolished fully depreciated office building costing ₱1,843,200.00.  The continuous recognition of the building overstates the total assets equivalent to its carrying value of ₱92,160.00.
+
+
+
+	Understatement of Accumulated Depreciation
+
+	
+
+	8)		Analysis of accumulated depreciation of various PPE in GHQ-CO showed that depreciation was understated by ₱36,598,422.29, details presented in Annex B.
+
+	
+
+	
+
+	Non-reclassification of completed project to the appropriate PPE account
+
+	
+
+	9)		The Construction in Progress – Buildings and Other Structures account at GHQ-CO and AFPMATF-CO includes projects already completed costing ₱288,486,132.31 but still unadjusted to the appropriate PPE account due to non-submission/unavailability of documents to be used by AFPAC as basis to reclassify and transfer the project to its end user.
+
+
+
+Unit/Fund
+
+Project
+
+Amount
+
+GHQ-CO
+
+Construction of two Medium Quarters
+
+₱18,709,316.00
+
+AFPMATF-CO
+
+JCPV II (Marine E Upgrade)
+
+269,776,816.31
+
+Total
+
+₱288,486,132.31
+
+
+
+	Fully depreciated properties that lacked complete documentation
+
+	
+
+	10)		Fully depreciated properties with book value of ₱15,869,604.20 in AFPMATF-CO which lacked complete documentation and purchased at a cost of ₱158,696,042.00 from CY 2005 to 2009 were forwarded from the old e-NGAS (CY 2005).  The lack of necessary information for these items has made the verification of its existence, valuation, and proper classification unattainable.
+
+
+
+	Subsidiary ledger balances with negative book value
+
+	
+
+	11)		Review of SL balances of PPE extracted from e-NGAS of GHQ-CO and AFPMATF disclosed the following negative balance as of December 31, 2020:
+
+	
+
+Unit/Fund
+
+PPE Account
+
+Cost
+
+Accum. Dep.
+
+Book Value
+
+GHQ-CO
+
+Other Equipment
+
+₱15,012.00
+
+₱17,594.46
+
+₱(2,582.46)
+
+
+
+Other Structures
+
+0.00
+
+119,935.00
+
+(119,935.00)
+
+
+
+Subtotal
+
+15,012.00
+
+137,529.46
+
+(122,517.46)
+
+AFPMATF-CO
+
+Communication Eqpt.
+
+0.00 
+
+140,402,496.90 
+
+(140,402,496.90)
+
+
+
+Medical Equipment
+
+0.00
+
+3,666,303.75 
+
+(3,666,303.75)
+
+
+
+Military, Police and Security Equipment
+
+0.00 
+
+1,459.49 
+
+(1,459.49)
+
+
+
+
+
+0.00 
+
+50,239,803.22 
+
+(50,239,803.22)
+
+
+
+Subtotal
+
+0.00
+
+194,310,063.36
+
+(194,310,063.36)
+
+Total
+
+₱15,012.00
+
+₱194,447,592.82
+
+₱(194,432,580.82)
+
+	
+
+	Unreconciled difference between the accounting and property records
+
+
+
+	12)		Section 490 of the GAM, Volume 1 states that physical count of PPE is an indispensable procedure for checking the integrity of property custodianship.  Physical inventory taking of equipment is required at least once a year.
+
+	
+
+	13)		An analysis of accounting records data as against submitted RPCPPE of the GHQ-CO, AFPMATF-CO, PMA, CENTCOM, EASTMINCOM, SOLCOM and WESCOM disclosed a difference of ₱4,718,026,708.61 as follows:
+
+
+
+Unit/Fund
+
+Per Accounting
+
+RPCPPE
+
+Difference
+
+GHQ-CO
+
+₱23,808,113,203.60
+
+₱20,988,595,258.99
+
+₱2,819,517,944.61 
+
+AFMATF-CO
+
+2,708,239,260.68
+
+886,596,521.16
+
+ 1,821,642,739.52 
+
+PMA
+
+1,364,121,680.03
+
+1,362,295,336.58
+
+ 1,826,343.45 
+
+CENTCOM
+
+4,913,133,638.34
+
+4,875,836,915.03
+
+ 37,296,723.31 
+
+EASTMINCOM
+
+74,385,960.41
+
+85,165,961.41
+
+10,780,000.00
+
+SOLCOM
+
+89,547,053.01
+
+116,268,528.44
+
+ 26,721,475.43
+
+WESCOM
+
+290,320,724.46
+
+290,079,242.17
+
+241,482.29
+
+Total
+
+
+
+
+
+₱4,718,026,708.61
+
+	
+
+	14)		The conduct of physical count substantiates the existence of PPE items and validates the accuracy of book balances.  However, Management failed to complete the physical count and complete the reconciliation of discrepancies, hence, the reliability of reported PPE balances could not be fully ascertained.  
+
+	
+
+	
+
+	
+
+	Non-submission of RPCPPE
+
+	
+
+	15)		At the AFPHSC, no RPCPPE for CY 2020 was presented to the audit team for examination because the SAO was not able to conduct the annual physical count of PPE as of December 31, 2020.  Thus, the composition of the balance of the PPE account could not be validated.
+
+	
+
+	Non-disposal Unserviceable Property Plant and Equipment
+
+	
+
+	16)		At the PMA, several obsolete and unserviceable properties totaling ₱10,150,618.97 that were beyond economical repair were not subjected to disposal. Consequently, unserviceable assets were exposed to further deterioration and income that could have been realized from its disposal proceeds might have been reduced.
+
+	
+
+	Property, Plant and Equipment
+
+	Total Cost
+
+	Office Equipment
+
+	₱ 48,875.00
+
+	Other Property, Plant and Equipment
+
+	208,378.00
+
+	Other Machinery and Equipment
+
+	824,900.30
+
+	Medical Equipment
+
+	774,800.00
+
+	Military, Police and Security Equipment
+
+	696,760.53
+
+	Communication Equipment
+
+	188,660.00
+
+	Information and Communication Technology Equipment
+
+	670,904.10
+
+	Motor Vehicles
+
+	 6,737,341.04
+
+	Total
+
+	₱10,150,618.97
+
+	
+
+	17)		Unserviceable assets, except for motor vehicles, have been dropped from the accounting records. Upon verification, we determined that the Accounting Unit used the Property Turn-in Slip and Disposition Form as basis for dropping the items from the books.  This practice is not in accordance with the provisions of the GAM for NGAs where the required form was the Inventory and Inspection Report of Unserviceable Property (IIRUP).
+
+	
+
+	18)		On the other hand, unserviceable equipment totaling ₱53,957,669.49 at the PSG were disposed of without prior notification to the COA audit team.
+
+	
+
+	19)		We recommended that Management:
+
+	
+
+a)	direct the Accountants of GHQ-CO, AFPMATF, PSG, AFPHSC, PMA, SOLCOM, NOLCOM and WESCOM to:
+
+
+
+i)	draw accounting entries to record receipt and transfer of PPE, derecognition of demolished office building, reclassification of all completed projects to its proper PPE account, and to correct the accumulated depreciation balances of PPE accounts;
+
+ii)	analyze details of PPE accounts with negative balances and draw the necessary accounting entries; 
+
+iii)	reconcile their records with the SAO and make the necessary adjustments;
+
+
+
+b)	direct the SAO and concerned units to forward all documents regarding unrecorded PPE to the accounting units for proper recording of receipts and transfers of PPE;
+
+
+
+c)	explore the possibility of forming a Technical Working Group that will focus on the analysis and verification of undocumented accounts;
+
+
+
+d)	direct the Accountants, SAO and Inventory Committee to conduct and finish the physical count of PPE, and submit the RPCPPE for validation; 
+
+
+
+e)	direct the SAO and 7th AFP FASU to coordinate with each other for recording of disposed unserviceable PPE, including proper accomplishment of the IIRUP; and
+
+
+
+f)	notify COA audit team prior to any disposal of PPE is undertaken to allow inspection thereof in compliance with Section 79 of PD No. 1445.
+
+	
+
+	20)	Management stated the following:
+
+
+
+	GHQ-CO - GHQ SAO coordinated with AFPAC regarding details of unreconciled differences and breakdown of AFPMABAI donations that were not recorded in the books. The office shall promptly submit all necessary documents regarding unrecorded PPE as basis for the AFPAC to properly record receipts and transfers in the books.
+
+	
+
+	The AFPAC initiated the transfer of completed medium-rise quarters from Construction in Progress to Buildings and Other Structures  account. However, the e-NGAS could not accept the entry because the SL does not reflect the balance of said account. Hence, any adjustment will create a negative SL balance. 
+
+	
+
+	OTQMG submitted partial documents to AFPAC last March 11, 2021 for the recording of delivered equipment and completed construction projects for proper recording. Accordingly, they will submit all documentary requirements for deliveries as soon as all signatures of end-user's are obtained.
+
+
+
+	AFPMATF - AFPAC stated that items included in the RPCPPE but not recorded in the AFPMATF books are funded out of Special Projects and Programs (SPAPS) and not through the Modernization Fund, hence, should not be included in the books of accounts. The Center is continuously coordinating with SAO to properly account for and record all transactions pertaining to the AFP Modernization Program.
+
+	
+
+	Also, the composition of the ASFP Inventory Task Force was already published by OTAG and incorporated in the Letter Order Number 167 on 15 June 2020.  Subject to the availability of members, a meeting will be convened to generate a time-bound action plan for the analysis and verification of unreconciled, dormant, and/or undocumented accounts. TWG will submit updates by the end of March 2021.
+
+		
+
+	PSG - The Command has already requested copy of the Memorandum of Agreement (MOA) entered into by and between the DND and DPWH Convergence Program on Strengthening and Expanding Military Facility Readiness for National Security and Development. Likewise, the Command, through the Group Staff Engineer, has already followed up the status of the MOA of subject building with the DPWH North Manila District.  PSG will immediately submit the MOA and its pertinent documents for perusal of the Audit Team.
+
+
+
+	The inspection and disposal of unserviceable PPE for Program 4 units to include KBUs is being facilitated by Property Reutilization and Disposal Division (PRDD), Supply Unit GHQ and HSC, AFP.  Nevertheless, PSG  has directed SAO to notify COA on the succeeding turnover activities of unserviceable equipment.
+
+
+
+	The Command has directed the SAO and Accounting Office to regularly conduct coordination, monitoring and reconciliation of records. As a response, the Accounting Office has sent a letter to the SAO for the submission of disposal reports with its properly accomplished IIRUP.
+
+	
+
+	AFPHSC - According to the 6th FASU, various medical equipment acquired and issued during CY 2020 totaling ₱3,359,680.00 were recorded in the books through JEV Nos. 2021-01-000017 and 2021-01-000016 both dated January 28, 2021 upon submission of pertinent documents by the SAO.  Moreover, PPE transfers from UC amounting to ₱148,548,610.42 will be recognized as PPE in the records of HSCs this March 2021.  SAO, AFPHSC shall advise the Responsible Supply Officers (RSO) of the different HSCs to submit RPCPPE to field Accountants. Further to date, no documents have been forwarded to the 6th FASU such as Deed of Donation, PTR and PAR pertaining to the 1 Hitachi Computed Tomography (CT) Scanner costing ₱22,850,000.00.
+
+	
+
+	According to SAO, they are currently in the process of reconciling records with the Accounting Office.  After which, they will comply with the submission of RPCPPE.
+
+	
+
+	PMA - The Command said that the variance was due to timing difference of recording in the books between Accounting Unit and SAO. However, they assured to make reconciliation and draw adjusting entries on affected accounts.
+
+		
+
+	SAO will effect turn-in of unserviceable PPE at 1FSSU, Army Service Command (ASCOM) PA, Fort Magsaysay, Nueva Ecija.  Conduct of public bidding of scrap materials will be temporarily suspended to avoid contamination from COVID 19.  SAO has already prepared nine Property Turn-in Slip (PTIS).  After receipt of PTIS from 1FSSU, the IIRUP will be submitted to the Field Accounting Unit as basis for dropping from the books.
+
+	
+
+	CENTCOM - The SAO, CENTCOM has communicated to Chief, GHQSAO, to seek guidance and authority to recognize back transferred PPEs. He said that they will issue a designation order. Upon receipt of the designation order, RPCPPE for Health Service Central will be facilitated and be submitted to 4th FASU for reconciliation. But, in the absence of designation order SAO CENTCOM cannot recognize yet said PPEs since there is no authority from Higher Headquarters and it might cause duplication of report of assets.
+
+	
+
+	During exit conference, SAO-CENTCOM explained that  AFP Management Letter dated 17 November 2020 was issued to:  a) provide policy guidelines and procedures in the decentralized budget implementation of subordinate units that are geographically separated from their parent units in order to resolve difficulty in processing of fund support of these units and to expedite program and budget implementation; b) define rules and functions of Commanders/Chiefs of servicing units and offices in budget implementation of subordinate units that are geographically separated from their parent units in order to provide convenience and economy while enhancing fiscal control of financial transactions; and c) provide policy on proper recording of PPEs based on existing auditing and accounting rules and regulations.
+
+	
+
+	Guidelines of AFPML, Section I states that: Property accountability on the PPEs of the geographically separated subordinate unit shall be transferred to the servicing SAO of the responsibility center for proper recording of repair and maintenance expenses in the books of accounts of the respective Field Accounting Service Unit. In order to reconcile records of SAO CENTCOM with the accounting records, another RPCPPE was prepared so that the difference between the accounting books and the property records would be the properties transferred to SAO, AFPHSC per PTR.
+
+
+
+	EASTMINCOM - During exit conference, 9th FASU informed the Audit Team that they had already made necessary adjustments to increase PPE and record the corresponding depreciation expense thru JEV Nos. 2020-02-000069 and 2021-02-000070 dated February 9, 2021.
+
+	
+
+	SOLCOM - The Accountant claimed that the difference between RPCPPE and accounting records are presented in the summary of reconciliation of PPE as of December 31, 2020:
+
+
+
+PPE Balance per RPCPPE
+
+₱ 89,547,053.01
+
+PPE of AFPHSCtr-SL 
+
+21,532,472.00
+
+PPE of 3CEISG, CEISSAFP
+
+5,188,844.86
+
+Amount Difference in recording of transferred PPE
+
+______158.57
+
+PPE Balance per Accounting Records
+
+₱ 116,268,528.44
+
+
+
+	In addition, she also stated that they will comply with the provision of the GAM and COA rules and regulations.  
+
+	
+
+	WESCOM - The Commander committed in adhering to the recommendations and that instructions and directives had already been given to the concerned personnel as recommended. Moreover, the Accountant and SAO had already made necessary adjustments in their respective records after the reconciliation.
+
+
+
+Unliquidated/Unsettled Past Due Cash Advances 
+
+
+
+10)	Past due cash advances totaling ₱84,215,689.16 remained unliquidated as of December 31, 2020 and remained outstanding for a period ranging from 30 days to over 43 years contrary COA Section 89 of PD 1445 and Circular No. 97-002.  Moreover, the balance includes ₱7,610,163.20 in accountabilities of accountable officers (AOs) who were either inactive, retired, AWOL, deceased or separated from the service; and ₱183,580.38 in negative SL balances.
+
+
+
+	1)	Section 89 of PD 1445 and COA Circular No. 97-002 dated February 10, 1997 provides the rules and regulations on the grant, utilization and liquidation of cash advances.  Pertinent provisions are as follows:
+
+	
+
+--	A cash advance shall be reported on as soon as the purpose for which it was granted has been served.
+
+--	No additional cash advance shall be allowed to any official or employee unless the previous cash advance given is first settled or a proper accounting thereof is made.
+
+--	Cash advances for foreign travel shall be liquidated within 60 days after return to the Philippines while those for local travel shall be liquidated within 30 days after return to official station.
+
+
+
+
+
+Long-outstanding balances of cash advances
+
+
+
+	2)	Past due cash advances totaling ₱84,215,689.16 in GHQ-CO, AFPMATF-CO, PMA, NOLCOM and WESMINCOM remained unliquidated as at year-end, details presented in the succeeding table.
+
+
+
+Unit/Fund
+
+Account Name
+
+Amount
+
+GHQ-CO
+
+Advances to Officers and Employees
+
+  ₱10,965,802.28
+
+
+
+Advances to Special Disbursing Officer
+
+   26,071,598.70
+
+
+
+Advances for Payroll
+
+     8,567,538.88
+
+
+
+Advances for Operating Expenses
+
+     9,740,550.10
+
+
+
+Subtotal
+
+55,345,489.96
+
+AFPMATF-CO
+
+Advances to Officers and Employees
+
+57,310.24
+
+PMA
+
+Due from Officers and Employees
+
+27,461,540.13
+
+NOLCOM
+
+Advances to Special Disbursing Officer
+
+145,000.00
+
+WESMINCOM
+
+Advances to Officers and Employees
+
+23,967.00
+
+
+
+Advances to Special Disbursing Officer
+
+188,069.10
+
+
+
+Advances for Payroll
+
+994,312.73
+
+
+
+Subtotal
+
+1,206,348.83
+
+Total
+
+₱84,215,689.16
+
+
+
+	3)	Of the ₱84,215,689.16 past due accounts, ₱9,739,661.17 or 11.57 percent had been outstanding for a period ranging from one to over 43 years, to wit:
+
+
+
+Office
+
+Years Outstanding
+
+Total
+
+
+
+1-10 years
+
+11-20 years
+
+21 to 43 years
+
+
+
+GHQ-CO
+
+ ₱985,793.63 
+
+₱2,569,240.07
+
+₱4,920,968.40
+
+₱8,476,002.10 
+
+AFPMATF-CO
+
+57,310.24
+
+0.00
+
+0.00
+
+57,310.24
+
+WESMINCOM
+
+0.00
+
+14,175.00
+
+1,192,173.83
+
+1,206,348.83
+
+Total
+
+₱1,043,103.87
+
+₱2,583,415.07
+
+₱6,113,142.23
+
+₱9,739,661.17
+
+
+
+Outstanding accountabilities of retired, separated or deceased accountable officers
+
+
+
+	4)	COA Circular No. 2016-005 prescribes the guidelines and procedures in cleaning the books of NGAs of dormant receivable accounts for its fair presentation in the FS.  It provides that dormant receivable accounts may be written-off from the agency’s books through a request for authority and approval of COA.  Specific procedures for requesting authority have been provided under Item 8.0 of the same Circular.
+
+
+
+	5)	Examination of cash advances showed that the ₱7,610,163.20 in unliquidated cash advances at the GHQ-CO and WESMINCOM pertains to AOs who are either inactive, retired, AWOL, separated, discharged, deceased or with unknown status of employment.
+
+
+
+Unit/Fund
+
+Status
+
+Advances to SDOs
+
+Advances to OEs
+
+Advances for Payroll
+
+Total
+
+GHQ-CO
+
+In-active
+
+₱3,345,800.68
+
+₱1,943,202.23
+
+0.00
+
+₱5,289,002.91
+
+
+
+Separated
+
+0.00
+
+150,619.94
+
+0.00
+
+150,619.94
+
+
+
+AWOL
+
+0.00
+
+244,737.60
+
+0.00
+
+244,737.60
+
+
+
+Discharged
+
+0.00
+
+119,986.6,
+
+0.00
+
+119,986.6,
+
+
+
+Deceased
+
+0.00
+
+122,102.06
+
+0.00
+
+122,102.06
+
+
+
+Retired
+
+0.00
+
+453,821.26
+
+0.00
+
+453,821.26
+
+
+
+Unknown
+
+0.00
+
+23,544.00
+
+0.00
+
+23,544.00
+
+WESMINCOM
+
+Separated
+
+188,069.10
+
+23,967.00
+
+994,312.73
+
+1,206,348.83
+
+TOTAL
+
+₱3,533,869.78
+
+₱3,081,980.69
+
+₱994,312.73
+
+₱7,610,163.20
+
+
+
+	6)	These AOs were separated from the service without having been cleared of their accounts by the Accounting Office.  It was also determined that supporting documents were no longer available for most of the accounts, and that some were merely carried over to the schedule of unliquidated advances.
+
+
+
+Negative subsidy ledger (SL) balances
+
+
+
+	7)	At the GHQ-CO, the Advances to Special Disbursing Officers, Advances to Officers and Employees and Advances for Payroll included negative SL balances totaling ₱183,580.38 which remained unadjusted as at year end, to wit:
+
+
+
+Account
+
+Amount
+
+Advances to Special Disbursing Officers
+
+₱(15,399.94)
+
+Advances to Officers and Employees
+
+(168,180.37)
+
+Advances for Payroll
+
+                       (0.07)
+
+Total
+
+            ₱(183,580.38)
+
+
+
+Granting of additional cash advances despite non-liquidation of previous cash advances 
+
+
+
+	8)	At the AFPHSC, PSG, PMA and NOLCOM, additional cash advances were granted to AOs despite accumulation of unliquidated balances.  This practice is inconsistent with Section 89 of PD No. 1445 and sub-section 4.1.2 of COA Circular No. 97-002 dated February 10, 1997.  
+
+
+
+	9)	Also, two Disbursing Officers of AFPHSC were granted cash advances more than their authorized maximum cash accountabilities, and cash advances for local travels and seminars were drawn despite the absence of complete supporting documents.
+
+
+
+
+
+
+
+	10)	We recommended that Management:
+
+
+
+a)		require the Accountants of GHQ-CO, AFPMATF, PSG, AFPHSC, PMA, NOLCOM and WESMINCOM to:
+
+		
+
+	i)			strictly enforce liquidation of cash advances within the prescribed period;
+
+	ii)			issue demand letters to persons who have outstanding balances;
+
+	iii)			consider offsetting unsettled balances against amounts due to concerned parties;
+
+	iv)			draw necessary adjusting entries to address negative SL balances;
+
+	v)			closely monitor liquidation of cash advances and refrain from granting further advances to AOs with outstanding balances; 
+
+	vi)			limit advances within approved bond amounts with the BTr;
+
+		
+
+b)		direct the GHQ-CO and WESMINCOM to request authority to write-off dormant receivables pursuant to COA Circular No. 2016-005 as a final recourse after exhausting all remedies; and
+
+
+
+c)		require the CCAFP Treasurer to immediately settle cash advances for PMA student pay and allowances by depositing amounts due them to their individual bank accounts.
+
+
+
+	11)	The following are the comments from Management:
+
+
+
+GHQ-CO - AFPAC continuously enforces liquidation of cash advances within the prescribed period, especially for prior year balances. As a result, ₱2.7 Million was already liquidated out of ₱4.7 Million balance from CY 2019 and prior years of Advances to Officers and Employees. Also, the Center observed “no liquidation, no cash advance policy”.  However in some cases where there is proper justification made and in order not to hamper operations of concerned units/offices, exemptions are made. 
+
+
+
+The Center also issued series of demand letters to officers and employees for CY 2020.  For cash advances which remained outstanding and dormant for 10 or more years, the GHQ ALAB continuously convene every month for deliberation of said unliquidated cash advances. With this, GHQ CO was able to request for write-off the first batch/list of personnel with dormant accounts totaling ₱32,968.49. The AFPAC and ALAB is continuously exploring more avenues for the recovery of outstanding balances. Coordination with PSA for death certificates of deceased military officers and personnel, and coordination with OTAG, AFPPGMC, PMAAAI for the last known addresses and contact numbers of military officers and personnel with unliquidated cash advances are two of the actions being undertaken.
+
+
+
+The AFPAC will continue sending demand letters to AOs and employees with outstanding balances in previous years and we are exploring all avenues for the recovery of unliquidated CAs of “in-active”, “AWOL”, “Separated”, “Discharged” and “Retired” AOs and employees.
+
+
+
+AFPMATF - As of March 2, 2021, refunds were already made to clear accounts of those with outstanding cash advance bringing the amount of Advances to Officers and Employees account to zero.  
+
+
+
+AFPHSC – Cash advance for travel expenses availed by CPT Julius Caesar Carlos MAC in the amount of ₱317,250.00 shall be deposited to the 12th FSU in March 2021. The ₱1,069,995.00 was advanced by LTC Cynthia Liao MC to support the immediate procurement of office supplies needed for the Neuro-Psychological Test of PMA cadet candidates. Cash advance of ₱3,000,000.00 of 1LT Kyle Nicole Teruel NC was availed to promptly address the medical requirements of COVID 19 patients admitted at AFPHSC at the height of the pandemic. Cash advance for local travel of the Office of the Inspector General  have not been liquidated because the travel did not materialize due to the pandemic.  The amount of ₱317,250.00 shall be refunded by the SDO.
+
+
+
+PSG - The Command grants additional cash advances for expenses that are emergency in nature, e.g. activities that are urgent and unprogrammed, and related to the deployment of troops for protective security operations involving the President and members of the First Family.  Oftentimes, these activities overlap, coincide, or occur simultaneously.  The grant of additional advances to AOs, despite their outstanding liquidations, is resorted to so that their operational mandate will not be adversely affected. Presently, the PSG Accountant sees to it that no additional cash advance will be granted to SDO unless the previous one is fully liquidated.
+
+
+
+PMA – The amount of ₱16,250,000.00 from PMA New Cadet account will be transferred to the individual LBP Savings accounts of 325 members of PMA Class 2024 at ₱50,000.00 each as initial Cadet’s Individual Savings Account (CISA) transfer. The full CISA transfer will be immediately implemented as the total NBCN and non-CISA expenses has been deducted from the remaining CISA.
+
+
+
+NOLCOM - The liquidation documents are still with the Finance Office and that liquidation will be recorded as soon as these are forwarded to the Accounting Office.
+
+
+
+WESMINCOM - A request for write-off of dormant accounts has been made by Management for the entire amount of ₱1,206,348.83.  Collective efforts are continuously exerted by the Command and its Headquarters to reach the immediate family of the deceased AOs to obtain a copy of death certificates.
+
+
+
+Unreliable Balance of Advances to Contractors
+
+11)	The balance of Advances to Contractors of ₱10,216,641,345.48 as  at year-end includes a negative SL balance of ₱253,371.55 in the account of GHQ-CO.  Moreover, advance payments to contractors with terminated contracts have not been recouped in GHQ-CO and AFPMATF.
+
+
+
+	1)		The Advances to Contractors account is debited to record amounts advanced to contractors as authorized by law and conversely credited for its recoupment.  The balance of Advances to Contractors amounted to P10,216,641,345.78 as of December 31, 2020 which includes the accounts of the GHQ CO and AFPMATF totaling ₱10,067,408,353.17, viz: 
+
+	
+
+Unit/Fund
+
+Balance
+
+GHQ-CO
+
+₱9,071,471.27
+
+AFPMATF
+
+          10,058,336,881.90 
+
+Total
+
+₱10,067,408,353.17
+
+
+
+	Negative subsidiary ledger balances
+
+
+
+	2)		The SL of CTAN Construction, and Square Meter Trading & Construction at the GHQ CO have negative balances of ₱253,371.54 and ₱0.01, respectively, as of December 31, 2020.
+
+
+
+	3)		Records show that a final progress payment of ₱2,137,822.37 made on June 4, 2019 to CTAN Construction for the Multi-Purpose Building MIG-5 through check No. 1594176 and was recorded under JEV No. 2019-06-016125.  The payment included an advance payment recoupment of ₱253,371.54, however, our audit revealed that no advance payment was ever made to this contractor.  The said recoupment consequently resulted into a negative SL balance of the Advances to Contractors account and an underpayment to the contractor by the same amount.
+
+
+
+	Unrecouped advance payments to contractors with terminated contracts 
+
+
+
+	4)			Item 4.2, Annex “E” of the Revised 2016 IRR of RA 9184 provides, among others, that the advance payment shall be made only upon submission to and acceptance by the procuring entity of an irrevocable standby letter of credit of equivalent value from a commercial bank, a bank guarantee or a surety bond callable upon demand, issued by a surety or insurance company duly licensed by the IC and confirmed by the procuring entity.
+
+
+
+	5)		Management failed to recoup ₱11,239,339.77 in advances to contractors even if their contracts have already been terminated.  Details below.
+
+	
+
+Unit/Fund
+
+Contractor
+
+Balance 
+
+GHQ-CO
+
+DWD Construction & Services
+
+₱3,092,159.67
+
+
+
+Magda Construction and Supply
+
+436,827.56
+
+
+
+CVAP Construction
+
+430,620.44
+
+
+
+Sumag Builders Construction
+
+1,224,827.16
+
+
+
+ALXM Construction
+
+254,156.27
+
+
+
+Subtotal
+
+5,438,591.10
+
+AFPMATF
+
+Three W Builder Inc. 
+
+5,385,000.00 
+
+
+
+Wilcu Construction
+
+415,748.67
+
+
+
+Subtotal
+
+5,800,748.67
+
+Total
+
+₱11,239,339.77
+
+
+
+	6)		Non-recovery of advance payments manifests the need for closer monitoring of implementation of available remedies provided for in Item 4.2 of Annex E of the Revised IRR of RA 9184 which is the enforcement of claims of guarantees from banks or surety agencies.
+
+
+
+	7)		We recommended that Management:
+
+
+
+a)	advise the AFPAC to consider the issues raised and draw necessary accounting entries to correct balances of affected accounts; and 
+
+
+
+b)	make written representations to contractors with unrecouped advances to demand its recovery.
+
+
+
+	8)		Management stated the following:
+
+
+
+	GHQ-CO - Actions taken by the AFP Procurement Center are as follows:
+
+
+
+Contractor 
+
+Action Taken
+
+DWD Construction & Services
+
+Sent letter to Stronghold Insurance Company, Inc thru courier on 13 March 2021 and  DWD Construction & Services thru LBC on 16 March 2021.
+
+Magda Construction and Supply (MCS)
+
+Sent letter to Travelers Insurance & Surety Corp and MCS thru LBC on 12 March 2021. A letter from bonding company on 19 March 2021 was received requiring the submission of requirements for the said claim. Required documents were sent to the bonding company on 25 March 2021.
+
+CVAP Construction
+
+Sent to CVAP Construction the first and second demand letter. In the  letter dated 23 March 2021 of contractor to the Commander, MIG 5, ISAFP requesting for issuance of a Certification as required by OTCE, AFP.
+
+Sumag Builders Construction
+
+Sent letter to Stronghold Insurance Company, Inc thru courier on 13 March 2021 and Sumag Builders Construction thru registered mail (Phil Post Corp) on 16 March 2021.
+
+ALXM Construction
+
+Initially, a letter was sent to ALXM Construction on December 20, 2020 which was then followed by a hand carried letter dated March 8, 2021 by GHQPC personnel.  However, the contractor’s address as indicated in the contract proved to be inaccessible.  It was later discovered that ALXM’s business address was at #133 Rizal Street, Sagpon, Daraga, Albay. A representative was dispatched to serve the follow-up letter at the Daraga, Albay address but efforts to do so were unsuccessful since it was discovered that Mr. Alex Madaraog no longer resides in said place.
+
+
+
+	AFPMATF - According to Management, the Defense PS wrote a letter to Wilcu Construction informing the latter on the forfeiture of its 10 percent retention money as warranty amounting to ₱1,108,662.82.  This is to cover the unrecouped advance payment of ₱415,748.67 and unwithheld taxes of ₱692,813.71, or a total of ₱1,108,562.38.  The retention money was due for release to the supplier and no warranty claim was received from the end-user.  Likewise, the Defense PS advised AFP to facilitate the refund (net of taxes) of the retention money to be drawn from the Letter of Credit. Also, continuous coordination is being made with the Office of the Solicitor General regarding the CIAC Arbitration with Three W Builders Inc.
+
+
+
+	Misstated Balance of Other Prepayments account
+
+	
+
+12)	The Other Prepayments account balance of ₱262,368,993.86 as of December 31, 2020 is misstated due erroneous accounting entries amounting to ₱345,825.78 and presence of long outstanding undocumented balances of ₱325,570.55.
+
+
+
+	1)		The Other Prepayments account has a balance of ₱262,368,993.86 as of December 31, 2020 which includes the account of the AFPMATF amounting to ₱4,808,859.82 that consists of the following:
+
+
+
+Particulars
+
+Amount
+
+AFP-B3-01-001
+
+₱23,506.61
+
+AFP-D2-01-001
+
+162,284.76
+
+AFP-G-C2-02
+
+139,779.18
+
+Petron check nos. 3152474 & 314702
+
+4,483,289.27
+
+Total
+
+₱4,808,859.82
+
+
+
+Unadjusted Erroneous Accounting Entries
+
+
+
+	2)		Accounting entries made through JEV Nos. 2020-08-000395 and 2020-12-000644 to correct the erroneous capture of delivered quantity of petroleum products (per JEV Nos. 2019-10-000613 and 2020-06-000333) was likewise incorrect. This resulted in the overstatement of the Other Prepayments account balance by ₱345,825.78.
+
+	
+
+	3)		Records showed that the recorded total cost of FOL products under JEV No. 2019-00613 and 2020-06-000333 was correct, only the quantity was erroneously posted in the SL; hence, only the quantity should be adjusted.
+
+	
+
+Long outstanding undocumented balance
+
+
+
+	4)		The following SL accounts pertains to forwarded balances from CY 2013 and documents to support the reported amounts could not be found.
+
+	
+
+Particulars
+
+Amount
+
+AFP-B3-01-001
+
+₱23,506.61
+
+AFP-D2-01-001
+
+162,284.76
+
+AFP-G-C2-02
+
+139,779.18
+
+Total
+
+₱325,570.55
+
+
+
+	5)		The non-adjustment of erroneous accounting entries and the ₱325,570.55 long outstanding undocumented balance have rendered the Other Prepayments account and its related expense accounts as misstated. 
+
+
+
+	6)		We recommended that Management:
+
+
+
+a)	direct the AFP Accounting Center to effect the recognition of all transactions affecting the Other Prepayments account; and
+
+
+
+b)	assign staff/personnel to document and establish the nature and status of the long outstanding balances.
+
+
+
+	7)		According to the AFPAC, the reconciliation of records is simultaneous with the validation of submitted documents.  Also, OTQMG already assigned personnel to document and establish the nature and status of long outstanding balances of the POL fund.  They are now in the process of collating the documents prior to submission to AFPAC.
+
+
+
+Deficiencies Affecting the Accuracy of the Deposit on Letters of Credit (DLC) account
+
+
+
+13)	The Deposit on Letters of Credit balance of ₱28,568,860,209.75 as of December 31, 2020 is misstated due to various accounting errors and omissions of GHQ-CO and AFPMATF-CO such as; a) unadjusted erroneous accounting entries; b) unadjusted SL balances pertaining to completed/fully delivered projects; c) unreconciled SL balances; and d) accounting entries with incomplete supporting documents. 
+
+
+
+
+
+
+
+	1)	DLCs were opened with various banks in favor of several suppliers to pay for the supply and delivery of various goods and/or services covered with valid contracts.  The DLC at the GHQ-CO and AFPMATF-CO carried a balance of ₱28,357,177,608.75 as of December 31, 2020.
+
+
+
+Unit/Fund
+
+Amount
+
+GHQ-CO
+
+                 ₱2,333,359,172.07
+
+AFPMATF-CO
+
+26,023,818,436.68
+
+Total
+
+₱28,357,177,608.75
+
+	
+
+	Unadjusted erroneous accounting entries
+
+	
+
+	2)	Erroneous capture of transactions at the AFPMATF which remained unadjusted as at year-end resulted in the understatement of the DLC account balance by ₱136,756.71. Details as follows:
+
+	
+
+Particulars
+
+Understatement (Overstatement)
+
+JEV #2017-12-000442
+
+Foreign exchange (Forex) rate used to record drawdown of US$19,757,559.30 was ₱51.87 instead of ₱51.865, which resulted in the understatement of DLC by ₱98,787.80.
+
+₱98,787.80
+
+JEV #2017-12-000442
+
+Forex rate used to record drawdown of US$($9,878,779.65 was ₱51.857 instead of ₱51.865, which resulted in the overstatement of DLC by ₱77,283.52.
+
+(77,283.52)
+
+JEV #2020-10-000491
+
+Forex rate used to record drawdown of US$$23,050,485.85 was ₱51.87 instead of ₱51.865, which resulted in the overstatement of DLC by ₱115,252.43.
+
+115,252.43
+
+Total
+
+₱136,756.71
+
+	
+
+	Long outstanding SL balances 
+
+	
+
+	3)	Previous audit reports of the GHQ-CO and AFPMATF showed that the following long outstanding SL balances of DLC pertained to completed or fully delivered projects which were not recognized in the books in view of the absence of supporting documents.  Details as follow:
+
+	
+
+	Unit/Fund
+
+	Payee
+
+	Amount
+
+	GHQ-CO
+
+	Remington Outdoor Company, Inc.
+
+	₱1,944,261,591.66
+
+	
+
+	All Transport Network
+
+	29,065,335.06
+
+	
+
+	Harris Corporation
+
+	231,000,163.10
+
+	
+
+	Hanwa/ Daewoo (JV)
+
+	80,006,568.14
+
+	
+
+	DF Young Inc. / ISC No.
+
+	3,064,889.86
+
+	
+
+	Talon Security Consulting and Trade Ltd.
+
+	35,169,315.00
+
+	
+
+	Subtotal
+
+	2,322,567,862.82
+
+	AFPMATF
+
+	Hanwa Corp & St Daewoo Corp (JV)
+
+	24,413,077.66
+
+	Total
+
+	₱2,346,980,940.48
+
+	
+
+Unreconciled SL balance of ₱4,195,269.40 since CY 2005
+
+
+
+	4)	At the GHQ-CO, out of the ₱111,491,333.41 beginning balance set up on December 31, 2005 thru JEV No. 2005-12-000001, ₱4,195,269.40 has remained outstanding and dormant since CY 2005.  No supporting documents could be located for this dormant portion, hence it was captioned as “Unreconciled Balance” in the SL.
+
+
+
+Accounting entries with incomplete supporting documents
+
+
+
+	5)	Furthermore, the DLC also includes ₱4,417,169.66 in accounts that have remained dormant for over 30 years.  These pertains to transactions in the books of PSG that have no adequate supporting documents.
+
+
+
+	6)	We recommended that Management:
+
+
+
+a)	direct the AFPAC and AFPPC to discuss/settle their issues on non-submission of documents regarding payments to suppliers so that transactions affecting the Deposit on Letters of Credits (DLC) account can be recorded;
+
+
+
+b)	direct the AFPAC to:
+
+
+
+	i)	make necessary adjusting entries to correct erroneous capture of transactions; 
+
+	ii)	exert efforts to determine available details, if any, on the composition of “Unreconciled Balance” so that alternatives may be explored for its appropriate accounting treatment;
+
+
+
+c)	direct the Procurement Center to closely monitor payments and balances of Letters of Credit (LCs) and provide the AFPAC adequate information for its proper recording;
+
+
+
+d)	require servicing banks to regularly submit Statements of Account/ Application of Payments of all opened LCs as stipulated in the MOA; and
+
+
+
+e)	direct PSG to ensure that only proper and complete documents are included to support reports and transactions.
+
+
+
+
+
+
+
+	7)	Management’s comments are as follows:
+
+
+
+GHQ-CO – The AFPAC is continuously reconciling the composition of Unreconciled Balance by checking other documents available to support the amount booked in said SL. Rest assured that the Center will explore all other means to record all completed and delivered projects and payments to suppliers to arrive at the correct DLC balance.
+
+
+
+AFPMATF – The GHQ Procurement Center (PC) commented that the recommendation of COA pertaining to drawdowns to the servicing banks has been noted.  They assured to forward all copies of liquidation documents for drawdowns to the AFPAC. They will monitor the application of payments to servicing banks and submit the same to the AFPAC copy furnished the Audit Team Leader Also, they will send a letter to servicing banks to remind the regular submission of updated bank statements (BS) and statement of accounts (SOA) as stipulated in the MOA.  Continuous coordination is being maintained with concerned offices in accordance with existing fiscal policies and controls.
+
+
+
+PSG – The Command, has directed the 7th AFP FASU to refrain from attaching improper and incomplete documents in recording agency financial transactions. Likewise, the ATL, will be updated of the actions to be taken as to the entries on the DLC.
+
+
+
+	Misstated Balance of Guaranty Deposits Account 
+
+
+
+14)	The non-recognition of the application of deposits and/or delivery and acceptance of supplies/equipment/services totaling ₱2,793,750,330.37 at AFPMATF misstated the Guaranty Deposits account balance of ₱8,174,739,731.04 contrary to Section 7 Chapter 19 of the GAM Volume 1.  Moreover, transferred funds to the Federal Reserve Bank of New York (FRBNY) was over by US$48,151.63 or ₱2,455,733.13.
+
+
+
+	1)		The Guaranty Deposits account has a balance of P8,174,739,731.94 as of December 31, 2020 which includes the account of AFPMATF, amounting to  ₱6,129,622,066.55.  The amount of ₱6,129,622,066.55 pertains to wire transfers to the US Treasury and various vendors for the supply and delivery of various goods and/or services per approved Letter of Offer and Acceptance (LOA).  This account is adjusted when deposits are applied and/or delivery and acceptance of supplies/equipment/services are made.
+
+
+
+	2)		Review of the Status Report of Projects under the AFP Modernization Program and examination of recorded transactions disclosed that the following goods/services totaling ₱2,793,750,330.37 were already completed/accepted.  However, the GHQ- AFP Accounting Center has not recorded the completed transactions due to delays or non-submission of documents that will serve as basis for its recording.  Details of these goods/services are as follows:
+
+
+
+Particulars
+
+Amount
+
+Harris Corporation- JSOG communication equipment
+
+₱114,336,000.00
+
+Harris Corporation- 2,019 units of 20 Watts HF SSB Manpack radio and 6,356 units 5 Watts VHF Handheld radio, 20W HF Manpack radios and Personal Role Radio
+
+
+
+315,872,775.65
+
+
+
+FMS Case PI-UAH (60 mm Mortar through FMS)
+
+106,900,000.00 
+
+FMS Case PI-B-VBP (720 units 40MM Grenade Launcher and 230 units 7.62MM General Purpose Machine Gun)
+
+206,169,339.54
+
+FMS Case PI-D-SAC (1 unit Gulfstream G-280 Aircraft with ILS)
+
+1,943,068,172.32 
+
+Jordan Aeronautical System Company 
+
+107,404,042.86
+
+Total
+
+₱2,793,750,330.37
+
+	
+
+	3)		Also, the amount transferred to the FRBNY for the procurement of communication and electronic radio equipment under FMS Case PI-B-VCD was over by USD48,151.63 or ₱2,455,733.13.  Details as follows:
+
+
+
+Particulars
+
+Amount (US Dollar)
+
+Total Contract Price per LOA 
+
+
+
+₱23,781,906.00
+
+1st payment (March 2018)
+
+2,798,349.00
+
+
+
+2nd payment (August 2018)
+
+19,649,407.76
+
+
+
+3rd payment (Feb 2020)
+
+1,382,300.87
+
+23,830,057.63
+
+Difference (Over payment)
+
+
+
+₱(48,151.63)
+
+
+
+	4)		It was also noted that the following balances pertain to a cancelled project and residual funds which the AFP or national government has yet to recover, viz:
+
+	
+
+Particulars
+
+Amount (₱)
+
+Remarks
+
+FMS Case PI-B-UAM (Boom Rescue Hoist & Vertical Post Assy)
+
+4,828,451.00 
+
+Project was cancelled due to unavailability of parts
+
+FMS Case  PI-B-VCD (Communications and Electronic Radio Equipment PN and PA)
+
+43,273,641.16 
+
+
+
+Residual Fund US$ 355,705.20 based on the schedule of OJ4
+
+FMS Case PI-B-UAI (Rocket Launcher Light)
+
+11,868,641.56
+
+Residual fund US$ 264,120.28 based on the schedule of OJ4 
+
+
+
+	5)		The non-recognition of the application of deposits and/or delivery, and acceptance of foregoing purchases/acquisition in the books misstated the Guaranty Deposits account balance as of December 31, 2020.
+
+	
+
+	6)		We recommended that Management:
+
+	
+
+a)	advise the Office of the Deputy Chief of Staff for Logistics, J4 and AFP Accounting Center (AFPAC) to discuss/settle issues on the ₱2,793,750,330.37 unrecorded transactions for deliveries already made, and the ₱2,455,733.13 excess fund transfer to the Federal Reserve Bank of New York (FRBNY);
+
+
+
+b)	based on the results of discussions made in (a), direct the AFPAC (subject to availability of adequate supporting documents) to draw accounting entries to record completed transactions and the adjustment for the excess fund transfer;
+
+
+
+c)	require the AFPAC and OJ4 to periodically hold coordination meetings to thresh out issues that hamper timely recognition of guaranty deposit transactions; and
+
+
+
+d)	ensure that the AFP or NG has control or possession of funds transferred to the FRBNY as payment for the project that was cancelled (US$485,659.00 or ₱4,828,451.00); the unintentional overpayment (US$48,151.63 or ₱2,455,733.13); and residual funds from LOA PI-B-UAI and PI-B-VCD.
+
+	
+
+	7)		The AFPAC stated that coordination was made with OJ4, OA4 and GHQ SAO to require submission of other liquidation documents.  Per verbal update from OA4, the Certificate of Acceptance for the delivered AH-1S aircraft is not yet available since it is still not operational.  Coordination was also made to request refund of excess fund transfer.
+
+	
+
+	8)		OJ4 comments are as follows:
+
+	
+
+	Particulars
+
+	Actions Taken/ Comments
+
+	AFPJSOG Harris Communication Equipment (HCE) (₱114,336,000.00) and various Harris Radio CE (₱315,696,925.11)
+
+	Reiterated the request for retrieval of available documents from JUSMAG-Phil. and cognizant US IA to support liquidation of said FMS Case.  Initially, JUSMAG -Phil. informed that said FMS Case has been reported as “closed” since 2012 and retrieval of documents will take some time as it will also pass-through regular US Government protocols and procedures.  To date, this Office is still awaiting availability of requested documents form the JUSMAG-Phil.
+
+	FMS Case PI-B-VBP 
+
+	Reiterated the request for retrieval of available documents pertaining to the acquisition of 720 units of 40mm GL and 7.62mm GPMG from JUSMAG-Phil.  As of 08 March 2021, JUSMAG-Phil. is preparing to provide available documents on said transaction.
+
+	FMS Case PI-B-UAH 
+
+	The Office is currently awaiting issuance of complete financial status of the case from the US Defense Financial and Accounting Service pending the delivery of the remaining 10 units of 60mm mortars that were funded through the FMF grant.  Said mortars are expected to be delivered not later than 3rd Quarter of 2021.  As of 08 March 2021, GHQ AC has provided the bank details where the funds will be refunded in the Philippines.  A letter will be sent to JUSMAG-Phil. requesting to effect transfer of the residual and overpayment funds.
+
+	FMS Case PI-D-SAC 
+
+	This project is still awaiting complete delivery of ILS equipment not later than 3rd Quarter of CY 2021.  Liquidation documents will be submitted upon complete delivery of the ILS.
+
+	FMS Case PI-B-VCD 
+
+	This OJ4 has submitted the complete liquidation documents to the GHQ AC on 17 December 2020 wherein a total of US$355,705.16 was reported as residuals from the procurement of radio equipment due to price decrease during the actual contracting undertaken by the US IA.  Also, this Office acknowledges overpayment of US$48,151,.63 due to erroneous Advice of Payment issued by the GHQ Procurement Center reflecting therein the wire transfer of the total peso value obligated for said project instead of the actual US dollar value amounting to US$1,382,300.87.  To date, a total of US$403,857.79 which includes the residual funds amounting to US$355,705.16 and the overpayment amounting to US$48,151.63 are currently deposited at the AFP FMS Holding Account PI-Q-1QM for AFP Modernization-Funded FMS Projects. Said funds can readily be requested for return to the AFP account in-country upon receipt of confirmation from the GHQ AC that liquidation documents submitted for said project are already complete, including bank details where the residual funds will be deposited.
+
+	FMS Case PI-B-UAM 
+
+	As of 08 March 2021, the funds for the cancelled project is still deposited on said Case and can only be transferred upon closure of the Case pending the submission of demilitarization report.  To date, OJ4 is still awaiting the submission of Demilitarization Report of the Boom Rescue Hoist undertaken by the ASCOM, PA last 23 February 2021.
+
+
+
+
+
+
+
+
+
+Inaccurate Balance of Accounts Payable
+
+15)	The accuracy of the Accounts Payable balance of ₱519,238,197.40 as at December 31, 2020 could not be ascertained due to accounting errors and deficiencies of GHQ-CO and AFPMATF-CO such as :  a) misinterpreted accounting treatment of transactions; b) presence of negative SL balances of ₱1,235,284.87; c) non-reversion of long outstanding payables to the Accumulated Surplus/(Deficit); and d) set-up of payable without corresponding allotment contrary to the GAM and Section 98 of PD 1445.
+
+
+
+	1)	The Accounts Payable has a balance of ₱519,238,197.40 as of December 31, 2020 which includes the accounts of GHQ-CO and AFPMATF-CO totaling  ₱229,238,170.24 as shown below.
+
+
+
+Unit/Fund
+
+Amount
+
+GHQ-CO
+
+₱45,652,332.69
+
+AFPMATF-CO
+
+   183,585,837.55 
+
+Total
+
+₱229,238,170.24
+
+
+
+a) Misinterpreted treatment of transactions by the AFPAC 
+
+
+
+	2)	At the AFPMATF, the payables set-up of ₱59,624,482.43 (US$1,113,851.23) thru JEV No. 2020-06-000330 was not appropriate since only US$61,222.03 out of the US$20,840,434.38 total contract price remains unpaid.
+
+
+
+	3)	The foregoing errors resulted in the overstatement of Accounts Payable by ₱59,624,482.43 since the US$61,222.03 balance was not covered by an allotment.
+
+
+
+b) Presence of negative subsidiary ledger balances 
+
+
+
+	4)	Section 2, Chapter 6 of the GAM Volume I defines Accounts Payable as valid and legal obligations of NGAs/OUs, for which, goods/services/ projects have been delivered/rendered/completed and accepted, regardless of the year when these obligations were incurred.
+
+
+
+	5)	Also, Volume III of the same Manual provides that Accounts Payable is used to recognize receipt of goods or services on account in the normal course of trade and business.  Debit this account for payment or settlement of liabilities.
+
+
+
+	6)	At the GHQ-CO, the following payable negative SL balances remained in the books for more than three years and apparently, the AFP Accounting Center was not able to analyze and prepare the necessary entries to correct the negative balances.
+
+
+
+	Creditors
+
+Amount 
+
+Martirez Builders
+
+       ₱ (501,645.31)
+
+Notre Dame De Charters Hospital
+
+        (375,527.28)
+
+AFPCES
+
+        (245,705.61)
+
+M.C. Pen Enterprises & Construction
+
+           (92,406.00)
+
+Meralco
+
+           (20,000.00)
+
+Jbcom Enterprises
+
+                       (0.60)
+
+Petron Corporation
+
+                       (0.07)
+
+Total
+
+ ₱(1,235,284.87)
+
+
+
+c) Non-reversion of long-outstanding payables 
+
+
+
+	7)	Section 98 of PD 1445 provides, among others, that any unliquidated balance of accounts payable in the books of the NG which has been outstanding for two years or more, and against which no actual claim, administrative or judicial, has been filed or which is not covered by perfected contracts on record should be reverted to unappropriated surplus of the general fund (GF) of the NG. 
+
+
+
+	8)	Likewise, EO No. 87 dated August 13, 2019 directs that all accounts payable which remain outstanding for two years or more in the books of NGAs must be reverted to the Accumulated Surplus or Deficit of the GF, or the cumulative result of operations of the NG.
+
+
+
+	9)	At the GHQ-CO, payables totaling ₱2,013,776.23 (Annex C) have been outstanding for more than two years and not been reverted.  Moreover, no actual claims have been filed by identified creditors for several years.
+
+
+
+d) Accounts payable was recorded without a corresponding allotment
+
+
+
+	10)	At the AFPMATF, the ₱99,345,358.35 (US$2,059,305.00) payable that was set up thru JEV No. 2019-04-000205 in favor of the US Treasury for the contract identified as FMS CASE PI-P-LFE was made without an available allotment.  Contract amount of this project was US$5,885,105.00, of which US$3,825,800.00 had been paid thus leaving a balance of US$2,059,305.00.
+
+
+
+	11)	The non-adjustment of erroneous accounting entries, presence of Subsidiary Ledgers with negative balances, non-reversion of long outstanding payables and set-up of payable without corresponding allotment has adversely affected the balance of Accounts Payable as of December 31, 2020.
+
+
+
+	12)	We recommended that Management:
+
+
+
+a)	direct the AFP Accounting Center to:
+
+
+
+i)	evaluate issues raised and draw adjusting entries to correct balances of affected accounts;
+
+ii)	analyze negative balances of SLs as cited and prepare adjusting entries; 
+
+iii)	revert balances that have been outstanding for more than two years and those without identified valid/actual claimants pursuant to Section 98 of PD 1445 and EO No. 87 dated August 13, 2019; and
+
+
+
+b)	make written representations with DBM for the release of supplemental allotment to cover outstanding balances to Elbit Systems Land and C4i, Ltd., and the US Treasury.
+
+
+
+	13)	The OJ4 commented that based on the coordination made with the DND on January 22, 2020, the Office of the Assistant Secretary for Logistics, Acquisition and Defense (OASLA) and SRDF, DND informed Headquarters that the payment for the remaining balance of said FMS Case was put on hold pending the resolution or outcome of discussion between OASLA and Korea Aerospace Industries (KAI), the supplier of the FA-50 Aircraft.  To date, they  are still awaiting the result of said discussion.
+
+
+
+Overstated Balance of Due to Central Office Account
+
+
+
+16)	Receipt of Fuel, Oil and Lubricants (FOL) from GHQ totaling ₱2,267,710.02 was recorded as Due to Central Office at the PMA instead of Subsidy from Central Office, thereby overstating the Due to Central Office balance and understating Subsidy from Central Office by the same amount.
+
+
+
+	1)	Chapter 3, Volume III of the GAM prescribes the revised chart of accounts to be adopted in recording transactions of NGAs and defines the following accounts:
+
+ 
+
+Due to Central Office – is used to recognize the receipt of funds not covered by allotments from Central Office by Bureaus/Regional Office/Operating Units of the same agency for the implementation of specific programs or projects and other intra-agency transactions.  Debit this account for liquidation of funds received or settlement of liabilities.
+
+
+
+Subsidy from Central Office – is used to recognize amount of subsidy received by the Regional Office/Staff Bureau/Operating Unit from the Central Office.  This account shall be closed to the Revenue and Expense Summary account.
+
+
+
+	2)	Records of PMA showed that the Due to Central Office account balance of ₱2,267,710.02 as of December 31, 2020 pertained to the receipt of FOL from Deputy Chief of Staff for Logistics, OJ4, AFP as requested by the Command on May 20, 2019 to support their requirements in connection with the conduct of cadets’ trainings.
+
+
+
+	3)	Confirmations made by the PMA Audit Team with the AFP GHQ Accounting Center disclosed that the latter’s records show zero balance of the account as of December 31, 2020.  The FOL received by PMA was recognized in the GHQ books as Subsidy to Operating Units.
+
+
+
+	4)	The erroneous recording of receipt of FOL products from GHQ resulted in the overstatement of reported balance of Due to Central Office account by ₱2,267,710.02 and the understatement of Subsidy from Central Office account by the same amount.
+
+
+
+	5)	We recommended that the Command require the Accounting Unit to coordinate with AFP Accounting Center for reconciliation of the account and prepare necessary adjusting journal entries to reflect the correct account balances.
+
+
+
+	6)	The Command stated that the Accounting Unit will make necessary adjusting entry.
+
+
+
+COMPLIANCE AUDIT
+
+
+
+Overpayment of Pension Benefits
+
+		
+
+17)	Weaknesses in the database of the Pension Management Information System (PenMIS) maintained by AFPPGMC resulted in pension underpayments to 130 qualified recipients totaling ₱3,461,718.09; and overpayments to 273 qualified recipients totaling ₱10,415,156.71, or a net overpayment of ₱6,953,438.62.
+
+
+
+	1)	Sections 2 and 4(4) of PD 1445 provides that the head of an agency and all those who exercise authority over the financial affairs, transactions, and operations of the agency, shall take care of the management and utilization of government resources, in accordance with laws and regulations, and safeguard against loss or wastage to ensure efficient, economical, and effective operations of the government.
+
+
+
+	2)	Standard Operating Procedures (SOP) No. 14 dated 15 July 2019, which amended SOP No. 10 dated April 16, 2014, deals on the policies and procedures in protecting the AFP Pension Fund through monitoring of pensioners and pension cleansing system.
+
+
+
+	3)	Our examination of transactions generated from the PenMIS database maintained by the AFPPGMC disclosed significant lapses in the processing of information relevant to pension benefit payouts.  Apparently, personal and retirement data of AFP pensioners were not corrected and/or updated which resulted to incorrect computations of monthly pensions.  Information such as retirement rank/pay grade, longevity pay and/or length of service, among others, need to be constantly updated to arrive at accurate computations of pension payments.
+
+
+
+	4)	We reviewed pension benefit expenses from January to December 2020 taking into consideration the implementation of the new pension rates due to the increase in base pay of military and uniformed personnel under Congress Joint Resolution No. 01 dated January 01, 2018.  The adjustments in pension amounts initially took effect in the payroll of June 2019, while adjusted payments for the period January to May 2019 were subsequently made before the same year ended. 
+
+
+
+	5)	We also conducted, on a sampling basis, a recomputation of monthly benefits of 403 pensioners from January to December 2020 using the new rates.  When results of the recomputation were evaluated against actual payrolls paid by the AFP Finance Center (AFPFC), we noted that 130 pensioners with grade O1 were underpaid a total of ₱3,461,718.09, while 273 pensioners with the same grade were overpaid by ₱10,415,156.71.  This rendered the Pension Benefits account overstated by ₱6,953,438.62 as of December 31, 2020.
+
+
+
+Particulars
+
+Amount 
+
+(under) over
+
+130 underpaid pensioners 
+
+₱(3,461,718.09)
+
+273 overpaid pensioners 
+
+10,415,156.71
+
+Net Overstatement
+
+₱6,953,438.62
+
+
+
+	6)	Our concerns regarding the accuracy of the PenMIS database had been previously raised during prior years’ audits particularly on overpayments.  In reply to previous audit observations, we were informed that Management recognized receivables in the accounting records and then makes monthly deductions from future benefit payments to recover overpaid amounts.  While remedial action had been done on overpayment recoveries, the issue on erroneous computations continue to exist.  Clearly, the existing PenMIS database needs remedial action to address the problem with computation inaccuracies.
+
+
+
+	7)	We recommended that Management require the AFPPGMC to:
+
+
+
+	a)			conduct an assessment of causes of erroneous data generated by the PenMIS, whether there is failure on the human intervention aspect (errors in encoding data or failure to update pensioner information); or a failure or limitation of the system to process data despite accurate encoding;
+
+
+
+	b)			formulate (in collaboration with the Noncurrent Records Division, Office of the Adjutant General) responsive and attainable courses of action that will address the weaknesses that result in over/ underpayments, errors and other difficulties that hinder the delivery of efficient service to its clients; and
+
+
+
+	c)			closely monitor over/underpayments to its clients for the purpose of implementing corrective action thereon, i.e. to recover overpayments and conversely, to settle underpayments from/to its clients.
+
+
+
+	8)	According to Management, they are still processing the procurement of a replacement program for the PenMIS database.  To support the enhancement of said database, higher headquarters detailed a TWG for the AFP Pension Managers One Database System effective 01 June 2020 per Letter Order No. 138 and fund support of ₱2,259,000.00.
+
+
+
+	9)	The Center requested copies of the retirement orders of the 403 pensioners from the Noncurrent Records Division, Office of the Adjutant General.  Upon receipt, the Center will recompute and correct the monthly pension benefits of the 403 pensioners as warranted.  Overpayments will be computed once the correct monthly payroll takes effect.  Moreover, incurred overpayments will be deducted from their current payroll through B4 deductions, while pensioners with underpayment will be contacted for processing of refunds.
+
+
+
+	10)	 The Center will closely monitor over/underpayments to its clients in coordination with the AFP Finance Center.  Submission of monthly Report of Overpayments shall be made to the financial institutions and AGDBs and to Processing, Bonding and Collection Branch of the AFPFC to facilitate recovery.          
+
+
+
+Unreleased Retention Money
+
+
+
+18)	Retention money totaling ₱1,851,833.64 withheld from payments to Petron Corporation at the GHQ-CO remained unreleased and unclaimed despite the lapse of the three-month warranty period pursuant to paragraph 17.3, Section IV of the General Conditions of Contract (GCC), and Section V of Special Conditions of the Contract (SCC).
+
+
+
+	1)	Section 17.3 of the GCC provides that in order to assure that manufacturing defects shall be corrected by the Supplier, a warranty shall be required from the Supplier for a minimum period specified in the SCC.  The obligation for the warranty shall be covered by, at the Supplier’s option either retention money in an amount equivalent to at least one percent of every progress payment, or a special bank guarantee equivalent to at least one percent of the total Contract Price or other such amount if so specified in the SCC.  Said amounts shall only be released after the lapse of the warranty period specified in the SCC; provided, however, that the supplies delivered are free from patent and latent defects and all the conditions imposed under the Contract have been fully met.
+
+
+
+	2)	Item 17.3, Section V of the SCC states that the Supplier warrants that the goods assured of quality for three (3) months after acceptance by the Procuring Entity of the delivered goods.
+
+
+
+	3)	The warranty serves as security that the supplied goods are free from defects. When the prescribed warranty period expires and no manufacturing defects were observed, Management shall process the refund of the one percent retention money to the Supplier.
+
+
+
+	4)	Verification of DVs for FOL payments showed that Management retained one percent from gross FOL payments totaling ₱1,851,833.64 as warranty on FOL products delivered.  However, they failed to refund said retention money after the expiration of the prescribed warranty period of three (3) months.  Details presented in Annex D.
+
+
+
+	5)	We recommended that Management advise the OTQMG to process the refund of the guaranty/security deposits due to Petron Corporation and implement the provisions on warranty/security pursuant to paragraph 17.3, Section IV of the GCC and Section V of the SCC.
+
+
+
+	6)	The OTQMG commented that checks for the retention money for CY 2018 and 2019 are already available for pick-up at the 11th FSU, Finance Center.
+
+
+
+Unutilized Repair, Maintenance and Construction (RMC) Fund
+
+
+
+19)	The Repair, Maintenance and Construction Fund balance of ₱8,380,581.99 representing rebates and patronage discount from Petron Corporation remains unutilized to date at the PSG.  Moreover, ₱1,910,406.30 was not deducted from the payments to Petron Corporation, contrary to Item No. 8 of the contract.
+
+
+
+	1)	The RMC Fund was created by virtue of a MOA entered into by and between the DND and Petron Corporation for the supply and delivery of DND-Wide Petroleum Requirements.  The MOA consists of three lots namely: Lot 1 – Petroleum requirements nationwide; Lot 2-Oil and Lubricants requirements nationwide; and Lot 3-e-FOL Card requirements nationwide.
+
+
+
+	2)	The MOA provides that the supplier shall, at its own expense, be responsible for the maintenance, rehabilitation, and construction of the procuring entity’s FOL dumps, as well as the provision of additional FOL storage facility or equipment, as may be requested by the procuring entity using rebates earned at percentages presented in the succeeding table.
+
+
+
+Lot No.
+
+Percentage and Base
+
+
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+1
+
+5% of Gross Payment (GP)
+
+5% of GP
+
+5.5% of GP
+
+5.5 % of GP
+
+6.5% of GP
+
+2
+
+None
+
+
+
+
+
+
+
+
+
+3
+
+4.2% of net payments
+
+6.5% of GP
+
+6.5% of GP
+
+
+
+
+
+
+
+Unutilized Repair, Maintenance and Construction (RMC) Fund
+
+
+
+	3)	As of December 31, 2020, the RMC fund totaling ₱8,380,581.99 in PSG remained unutilized to date. Out of the total RMC fund earned from CYs 2015 to 2019 of ₱9,006,581.99, only ₱626,000.00 (6.95%) was delivered/implemented in 2018, as presented hereunder:
+
+
+
+Year
+
+Total (₱)
+
+Implemented Projects (₱)
+
+% of Utilization
+
+Balance (₱)
+
+2015
+
+ 829,921.92 
+
+ 626,000.00 
+
+ 75.43 
+
+ 203,921.92 
+
+2016
+
+ 1,738,637.97 
+
+ -   
+
+ -   
+
+1,738,637.97 
+
+2017
+
+ 2,314,368.30 
+
+ -   
+
+ -   
+
+2,314,368.30 
+
+2018
+
+ 1,956,640.84 
+
+ -   
+
+ -   
+
+1,956,640.84 
+
+2019
+
+2,166,742.96
+
+ -   
+
+ -   
+
+2,166,742.96 
+
+Total
+
+9,006,581.99
+
+ 626,000.00 
+
+ 6.95
+
+8,380,581.99 
+
+
+
+	4)	The non-utilization of the RMC Fund/Rebates deprives the PSG of benefits from modern facilities/equipment that can be acquired through the Fund.  In like manner, the PSG is deprived of savings as a result of non-availment of the rebates.
+
+
+
+Rebates from payments to Petron Corporation were not deducted in full
+
+
+
+	5)	The MOA between DND and Petron Corporation for CY 2019 provides the following:
+
+
+
+--	The 6.5 percent rebates shall be computed based on the total payments made by DND-Wide units to the supplier, x x x;
+
+
+
+--	The AFP’s share shall be automatically deducted from the contract price upon payment of delivered FOL products to be remitted to the Bureau of the Treasury (BTr) for the repair, maintenance, rehabilitation and construction of FOL facilities, as well as procurement of additional FOL equipment in accordance with POEs duly approved by the Head of the Procuring Entity.
+
+
+
+	6)	At the GHQ-CO and PSG, rebates deducted from the payments to Petron Corporation were understated by ₱1,910,406.30 which resulted in an overpayment of ₱1,910,406.30 to the supplier.
+
+
+
+Unit/Fund
+
+Total Rebates earned
+
+Rebates deducted from payment 
+
+Overpayment  
+
+GHQ CO
+
+₱554,352.18
+
+₱0.00
+
+₱554,352.18
+
+PSG
+
+ 1,952,720.11 
+
+ 596,665.99 
+
+1,356,054.12
+
+Total
+
+₱2,507,072.29
+
+₱596,665.99
+
+₱1,910,406.30
+
+
+
+	7)	We recommended that Management:
+
+
+
+a) direct the OG4 and 7th AFP FASU to make written representations with the OTQMG for the optimal utilization of the ₱8,380,581.99 RMC fund earned from 2015 to 2019, or for the conversion of rebates into future deliveries of FOL products to PSG; and
+
+
+
+b) initiate steps to recover from Petron Corporation the ₱1,910,406.30 that was not withheld from the payment and remit the same to the BTr.
+
+
+
+	8)	Management commented the following:
+
+
+
+GHQ-CO – OTQMG recognizes the lapse on the non-deduction of RMC from payment check number 1598737 which resulted in an overpayment amounting to ₱554,352.18. Nonetheless, they are trying, as much as possible, not to commit discrepancies and deficiencies to avoid audit observation, such as this. Management requested the Petron Corporation to facilitate its refund.
+
+
+
+PSG – The unutilized RMC fund was due to non-inclusion of PSG’s Program of Expenditures (POE) in the proposed projects submitted by OTQMG to Secretary of National Defense.  A letter to the OTQMG had been prepared to inquire about the non-inclusion of the command’s POE. The FASU-PSG has been automatically deducting the 6.5 percent on every payment made to Petron Corporation starting November 2020 on all FOL deliveries.  The new procedure of recognizing rebates as trust receipts was implemented at PSG only in November 2020.  Conformity to the new guidelines was based on the letter of the TQMG, AFP to Chief, AFP AC, copy of which was received last October 29, 2020.  Thus, per books and rebate records per se, there was no overpayment made to Petron. The Command earned a total rebate on FOL payments of ₱1,952,720.12, of which ₱1,356,054.12 was recorded in the books as Other Receivables thru JEV no. 01-2020-12-214 dated December 29, 2020.  While the rebates of ₱596,666.00 were recognized as trust receipts and remitted to the BTr in compliance to the CY 2019 FOL contract.
+
+
+
+Non-renewal or Absence of Valid Contracts or MOAs with Concessionaires
+
+
+
+20)	Several concessionaires were permitted to operate within the Camp General Emilio Aguinaldo (CGEA) premises despite having expired or revoked permits/contracts/MOAs, contrary to EO No. 301.
+
+
+
+	1)	Section 7 of EO No. 301 dated July 26, 1987 provides that the head of any agency intending to lease out government-owned buildings or spaces for private use shall have authority to determine the reasonableness of the terms of the lease and rental rates thereof, and to enter such lease contracts without need of prior approval by higher authorities, subject to compliance with the uniform standards or guidelines established by the DPWH, and to the audit jurisdiction of COA or its duly authorized representative, in accordance with existing rules and regulations.
+
+
+
+	2)	As a matter of policy, rental of leased spaces inside CGEA must be covered by a lease contract/MOA executed by and between the GHQ and HSC, represented by the Camp Commander as Lessor, and private individuals/entities as Lessee.
+
+
+
+	3)	However, our evaluation revealed that several establishments as shown in Annex E continue their operations despite having no valid contracts or MOAs and are being billed for monthly rentals.
+
+
+
+	4)	Valid lease contracts provide the basis for the lessor-lessee relationship between the GHQ and HSC and the private leasing entities.  Without it, there is no legal basis for the lessor to claim payment and on the other hand, for the lessee to recognize its obligation for rental fees. Not only does this situation manifest weakness in internal control, but it opens occasions for misunderstanding and vagueness which may result in potential disagreements between the parties in the future.
+
+
+
+	5)	We recommended that Management direct GHQ and HSC to immediately execute contracts for concessionaires that continue to do business within the CGEA premises without valid binding agreements.
+
+
+
+	Bank Accounts without Authority from the Permanent Committee
+
+
+
+21)	Twenty bank accounts with book balance of ₱1,812,797,567.87 deposited with the LBP, DBP and UCPB are continuously retained despite the absence of express written authority from the Permanent Committee as required in  Section 10 of the General Provisions of the FY 2020 GAA.
+
+
+
+	1)	Section 10 of the General Provisions of the FY 2020 GAA requires the closing and reversion of all balances of Special Accounts, Fiduciary or Trust Funds, Revolving Funds to the General Fund when there is no legal basis for their creation.
+
+	
+
+	2)	Section 2 of EO 338 dated June 4, 1996 also requires all government offices and agencies, unless otherwise provided by law, to immediately transfer all public funds, monies deposited with depository banks and other institutions to the BTr regardless of income source.
+
+
+
+	3)	Verification of bank accounts recorded under the Cash in Bank –Local Currency Current Account and Cash in Bank Local Currency Savings Account and currently maintained with LBP, DBP, PVB and UCPB showed that 20 bank accounts were retained/maintained without the required authority from the Permanent Committee.  Details are as follows:
+
+
+
+Unit/Fund
+
+Particulars
+
+Balance
+
+GHQ-CO
+
+7 bank accounts
+
+₱37,744,283.45
+
+AFPREO
+
+2 bank accounts
+
+84,362,300.55
+
+AFPEBSO
+
+8 bank accounts
+
+347,483,190.39
+
+AFPMATF-CO
+
+3 bank accounts
+
+1,346,059,600.33
+
+Total
+
+20 bank accounts
+
+₱1,812,797,567.87
+
+
+
+	4)	Also, in a letter dated June 19, 2020 of Secretary of Finance Carlos Dominguez to Secretary of National Defense Delfin Lorenzana, the former recommended closure of the AFPMATF bank accounts and remittance to the National Treasury of the outstanding bank balances.
+
+	
+
+	5)	According to the AFPEBSO Management, they made a written request to the Permanent Committee to open one current account to maintain a 100-million-peso revolving fund for responsive scholarship payments to AFPEBSO grantees.  However, said request was denied due to insufficiency of legal basis.
+
+	
+
+	6)	We recommended that Management promptly comply with the cited rules and close the stated bank accounts, or obtain authority from the Permanent Committee for its retention.
+
+	
+
+	7)	The following are the comments of Management:
+
+	
+
+AFPEBSO – Management requested representation for the inclusion of Special Provision in the proposed Government Appropriation for the exemption to deposit the said fund to the National Treasury. Furthermore, they are crafting a paper to support the need to maintain a revolving fund to ensure prompt release of fund to beneficiaries and assurance that resources will have transparent and prevent misapplications.
+
+
+
+AFPMATF – AFP PS commented that they already remitted a total of ₱62,386,689.47 to the BTr on February 3, 2021 and have requested the servicing banks for the issuance of Managers Check for the residual funds and interest income, prior to the remittance to BTr.  Three out of six existing bank accounts have already secured authority from the Chairman of Permanent Committee.  Continuous coordination with the cognizant offices and concerned banks are being conducted for the immediate implementation of the audit recommendations.
+
+
+
+The balances of DBP Interest Income Account and UCPB Interest Income Account were already remitted to BTr last 03 February 2021 and subsequently closed, while the UCPB Current Account is for closure upon completion of the last two remaining projects in the said account.  These two banks have been excluded from the list of preferred banks for modernization projects.
+
+	
+
+Unutilized Funds and Unremitted Collections to the Bureau of the Treasury
+
+
+
+22)	Scholarship fund, donation, interest income and other unutilized funds totaling ₱469,124,099.81 were not remitted to the Bureau of the Treasury contrary to Sections 5 and 6 of the General Provisions of the FY 2020 GAA.
+
+
+
+	1)	Section 5 of the General Provisions of the FY 2020 GAA provides that receipts from donations, whether in cash or in kind, shall be accounted for in the books of the donee-government agency in accordance with accounting and auditing rules and regulations.  The cash value of the donations shall be deemed automatically appropriated for the purpose specified by the donor.  The receipts from cash donations and proceeds from sale of donated commodities shall be deposited with the National Treasury and recorded as a Special account in the General Fund and shall be available to the implementing agency concerned through a Special Budget pursuant to Section 35, Chapter 5, Book VI of EO 292.  Donations for specific purpose/s with a term not exceeding one (1) year shall be treated as trust receipts in accordance with Section 7 hereof. 
+
+	
+
+	2)	Also, Section 6 of the General Provisions, requires that the following shall be deposited with the National Treasury and recorded as trust receipts in accordance with EO 338, s. 1996 as implemented by COA-DBM-DOF Joint Circular No. 1-97 dated January 2, 1997:
+
+
+
+1)	Receipts collected or received by departments, bureaus, offices, and instrumentalities of the NG, including institutional Offices enjoying fiscal autonomy and SUCs: (a) non-tax sources, such as insurance proceeds, acting as trustee, agent or administrator, (b) as a guaranty for the fulfilment of an obligation; or (c) from donations authorized by law or contract with a term not exceeding one year; and
+
+
+
+2)	Those classified by law or regulations as trust receipts.
+
+
+
+	3)	Funds totaling ₱469,124,099.81 composed of donations, interest income, scholarship trust, and other unutilized cash were still deposited with servicing banks and not remitted to the BTr as provided by Section 6, General Provisions of the FY 2020 GAA. The breakdown is presented in the succeeding table.
+
+	
+
+	Unit/ Fund
+
+	Particulars
+
+	Balance
+
+	GHQ-CO
+
+Unutilized fund for payment of rewards and other claims in CY 2010. 
+
+	₱2,170,000.00
+
+	
+
+	Unutilized fund for payment of pay and allowances 
+
+	33,706,975.42
+
+	
+
+	Unutilized/unused United Nation Reimbursement Funds in CY 2012. 
+
+	40,365.00
+
+	
+
+	Unutilized proceeds from the sale of bid documents
+
+	534,199.86
+
+	
+
+	Unutilized Philippine Deference Reform fund in CY 2014.
+
+	10,000.00
+
+	
+
+CAFGU Fund – meant for civilian forces helping in the military’s anti-insurgency campaign. The account is inactive since 2016.
+
+	259,229.17
+
+	
+
+	Unutilized Marawi funds
+
+	1,023,514.00
+
+	AFPREO
+
+	Interest Income
+
+	28,732.66
+
+	AFPEBSO
+
+	Scholarship Funds from PNP and other donors
+
+	347,483,190.39
+
+	AFPMATF
+
+	Interest income
+
+	21,844,949.55
+
+	
+
+	Income share from opened Letter of Credit
+
+	1,396,854.28
+
+	
+
+	Residual funds from LC opening
+
+	60,610,270.27
+
+	SOLCOM
+
+	Interest income
+
+	819.21
+
+	EASTMINCOM
+
+	Residual balance of IPSP Fund
+
+	15,000.00
+
+	Total
+
+	₱469,124,099.81
+
+	
+
+	4)	We recommended that Management remit the ₱469,124,099.81 to the Bureau of the Treasury pursuant to the cited regulations.
+
+
+
+	5)	Management comments are as follows:
+
+
+
+AFPREO – This Office is processing remittance of interest income under LBP #1672-1004-17 from July-December 2020 amounting to ₱18,304.07.
+
+
+
+AFPMATF – AFP Procurement Service stated that they already remitted a total of ₱62,386,689.47 to the BTr on February 3, 2021 and have requested the servicing banks for the issuance of Managers Check for the residual funds and interest income, prior to the remittance to BTr.
+
+
+
+EASTMINCOM – The Command committed to revert and deposit the residual balance of IPSP amounting to ₱15,000.00. Said amount will be deposited to Collecting Officer, AFP FC, as per 9th FSU, reversion of the residual balance to BTr shall be initiated by the AFPAC.
+
+
+
+SOLCOM – The Accounting Unit has requested the SOLCOM Commander, thru the Chief OFM, for remittance to the BTr of the accumulated interest income of AFP SOLCOM Trust Receipts Account with LBP CA# 0212-1066-23, and to deposit additional cash to said bank account to ensure that Cash in Bank  will not fall below maintaining balance.  The Chief OFM stated that they already approved the request of the Accounting Unit.
+
+
+
+Incomplete Submission of Supporting Documents
+
+
+
+23)	Disbursements at the GHQ-CO, PMA, CENTCOM and WESMINCOM totaling ₱130,178,500.50 were not completely supported with required documents contrary to Section 4, Paragraphs 6 and 7 of PD 1445.
+
+
+
+	1)	Section 4, Paragraphs 6 and 7 of P.D. No. 1445 state the fundamental principles governing financial transactions and operations in government, among others, that: (a) claims against government funds shall be supported with complete documentation and (b) all laws and regulations applicable to financial transactions shall be faithfully adhered to.
+
+
+
+	2)	Audit of disbursements at the GHQ-CO, PMA, CENTCOM and WESMINCOM showed that the following transactions were not supported with required documents, to wit:
+
+
+
+Unit/Fund
+
+Particulars
+
+Lacking Documents
+
+Amount
+
+GHQ CO
+
+Delivery of various Military, Police and Traffic Supplies from PS-DBM and Government Arsenal
+
+--	Inspection and Acceptance Reports 
+
+₱125,628,583.20
+
+PMA
+
+Payments for Telephone & Internet Subscription including Insurance of PMA facilities
+
+--	Statement of Account/Bill
+
+--	Invoice/Official Receipt
+
+--	Certification by Agency Head or his authorized representatives that all NDD, National Operator Assisted Calls and International Operator Assisted Calls are official in nature
+
+3,489,842.30
+
+CENTCOM
+
+Payments for the repairs and maintenance of facilities
+
+--	Official Receipts (ORs) 
+
+1,060,075.00
+
+WESMINCOM
+
+Supporting documents of Report of Disbursements  for Cash Advances for purchases of drugs and medicines were incomplete and improper.
+
+--	Purchase Orders  and Contracts
+
+0.00
+
+Total
+
+₱130,178,500.50
+
+
+
+	3)	Moreover, at the AFPMATF 13 contracts (Annex F) submitted to the COA Audit Team were not accompanied with Minutes of Submission and Opening of Bid Envelopes (SOBE), and other minutes of BAC meetings that were necessary to determine compliance with the Section 37.1.1 of Revised IRR of RA 9184.  The Audit Team requested the submission of said minutes but the same have not been provided as of this writing.
+
+
+
+	4)	We recommended that Management:
+
+
+
+a)	direct the WESMINCOM to observe the mandatory requirements to support transactions and to use appropriate forms or templates;
+
+
+
+b)	require the contractor of CENTCOM to submit Official Receipts;
+
+
+
+c)	require the DND BAC 2 to submit the Minutes of SOBE and other relevant minutes of BAC meetings of the 13 contracts so that the awards to bidders could be assessed for compliance with rules/ regulations; and
+
+
+
+d)	strictly adhere with the guidelines that all disbursements should be covered with evidence of receipt of payment, either paper-based document or electronic document, and to refrain from processing payments with incomplete supporting documents.
+
+
+
+	5)	Management commented the following:
+
+
+
+GHQ-CO– According to GHQ SAO, they will coordinate with OJ4 and AFPMCC regarding inspections of ammunitions acquired thru Government Arsenal and PS-DBM.
+
+
+
+AFPMATF – According to the DND BAC, they will comply with the audit recommendation.
+
+
+
+PMA – The Command has duly noted that they will strictly adhere with the guidelines on all disbursement transactions henceforth to avoid the reoccurrence of said observation.
+
+
+
+WESMINCOM – Management agreed to comply with the recommendations and will adhere to the pertinent provisions of relevant rules and regulations governing disbursements.
+
+
+
+CENTCOM – Management commented that they have already sent a letter to ADV Sagittarius Construction requesting the latter to submit ORs as proof of payment for goods delivered and services rendered to Camp Lapu-lapu Station Hospital, AFPHSC-Central.  The said letter was sent through LBC delivery at LBC-Cebu IT Park on 07 January 2021.
+
+
+
+	Delayed Completion of Various Projects
+
+	
+
+24)	Forty-one projects with an aggregate cost of ₱6,812,295,233.40 were not completed within the contract period; nine projects totaling ₱940,463,472.13 were suspended; and one project worth ₱12,212,589.83 was terminated.
+
+
+
+	1)	The timely accomplishment of deliverables, particularly government procurement activities, is of paramount consideration since the timely completion thereof guarantees the prompt delivery of public service.  Thus, the expectation for parties to faithfully adhere to the terms and conditions of their contract cannot be overemphasized.
+
+
+
+	2)	Our evaluation of the status of various AFP Modernization Projects as of December 31, 2020 disclosed that 41 projects were not completed within the specified contract period; nine projects were suspended; and one project was terminated, as presented in Annex G.  
+
+
+
+	3)	Apparently, significant delays in the implementation/completion/delivery of projects were caused by numerous suspension orders and time extensions issued by DND due to the following:
+
+
+
+a)	issues on illegal settlers/site possession
+
+b)	issuance of DENR permit
+
+c)	issuance of Civil Aviation Authority of the Philippines (CAAP) (height clearance permit
+
+d)	issuance of export permit
+
+e)	suspension of works due to dependency on another project
+
+f)	unavailability of construction materials in the locality
+
+g)	suspension of work due to COVID- 19 pandemic
+
+
+
+	4)	Some causes of delay, such as the COVID-19 pandemic, may have been beyond Management’s control.  However, issues such as site possession, issuance of government permits, etc., were concerns that could have been anticipated or resolved during early stages of project planning and implementation.
+
+
+
+	5)	We recommended that Management formulate and implement an action plan to put back on track completion of pending projects and to enforce, where applicable, the employment of available remedies provided under the Revised IRR of RA 9184 such as the imposition of liquidated damages.
+
+
+
+
+
+	6)	The Defense Procurement Office is aware of the completion timelines of every project and keeping track of it towards completion despite the extension and suspension of projects due to reasonable and unforeseen circumstances that are outside Management’s control.  Series of meetings were held for Project Management Review and updating on the development of projects, and to resolve issues and obstacles.  The TWGs are closely monitoring the work of contractors/suppliers to resolve issues.  This Office also agrees that issues such as site possession, and issuance of government permits should have been anticipated and resolved during the early stage of procurement process. 
+
+
+
+Delayed Submission of Financial and Mandatory Reports
+
+
+
+25)	Management failed to submit financial reports/statements, copy of contracts and other supporting documents to the Office of the Auditor within the prescribed period, with delays ranging from one to 371 calendar days, contrary to the provisions of PD 1445, the GAM, and Rules and Regulations on Settlement of Accounts (RRSA).
+
+
+
+	1)	Section 43(1) of PD 1445 states: The auditors shall exercise such powers and functions as may be authorized by the Commission in the examination, audit and settlement of the accounts, funds, financial transactions, and resources of the agencies under their respective audit jurisdiction.
+
+
+
+	2)	Pertinent provisions that set submission deadlines of various reports and financial statements are as follows:
+
+
+
+	Report
+
+	Deadline
+
+	Basis
+
+	Report of Collection and Deposits, Report of Cash Disbursements, Report of Checks Issued 
+
+	Every 10th day after the end of each month
+
+	Section 7.2.1a of the RRSA as prescribed by COA Cir. No. 2009-006 dated Sept. 15, 2009
+
+	Monthly Trial Balances and Supporting Schedules  including the JEVs
+
+	10 days after the end of the month
+
+	Section 60 (C) of Chapter 19, GAM Volume I
+
+	Quarterly Trial Balances, Financial Statements and supporting schedules
+
+	10 days after the end of the quarter
+
+	
+
+	Year-end Trial balances, Financial Statements and supporting schedules
+
+	February 14 of the following year
+
+	
+
+	Bank Reconciliation Statements (BRS)
+
+	20 days after receipt of monthly Bank Statement
+
+	Section 7 of Chapter 21, GAM Volume I
+
+	Copy of approved contracts and supporting documents
+
+	5 working days from execution of contract
+
+	Section 3.1.1 COA Cir. No. 2009-001
+
+
+
+	3)	We have noted delays ranging from one to 371 calendar days in the submission of reports and documents by different units/offices to their respective auditors due to lack of manpower, voluminous transactions, absence of signatories and on-going update of records/documents in the implementation of e-NGAS, details presented in Annex H.
+
+
+
+	4)	Furthermore, monthly BRS of AFPMATF and AFPEBSO were not accompanied with supporting documents contrary to Section 74 of PD 1445, Chapter 21, Section 5 of the GAM Volume I, and COA Circular No. 92-125A.
+
+
+
+	5)	While the constraints brought about by the current pandemic may be taken into consideration, the above precluded the COA audit team to make timely audit of accounts and financial transactions.  Thus, early detection and correction of errors were not immediately relayed to Management for action.
+
+
+
+	6)	We recommended that Management submit the required reports/ documents to the Office of the Auditor within the period prescribed by existing rules and regulations.
+
+
+
+	7)	Management commented the following:
+
+
+
+GHQ-CO – Some reports were already forwarded to the Office of the Auditor; some are still in process, for which the Center will devote extra effort to deliver promptly.
+
+
+
+AFPEBSO – The LBP servicing branch clarified that checks in transit is due to Truncation Error between Landbank and the payee’s servicing banks.  Check Truncation Error is a check clearance system that involves the digitalization of a physical paper check into a substitute electronic form for transmission to the paying bank.  In addition, PVB explains the circumstance as a problem in archiving, and DBP commented as to no image availability.  Furthermore, for clarification, Management requested an official statement from DBP and LBP regarding this matter dated 23 March 2021 and AFPEBSO is still waiting for their replies.
+
+
+
+AFPPGMC – According to Management, the submission of financial and mandatory reports is late due to delayed transmission of source documents to the Center.  Henceforth, best efforts will be exerted to resolve the problem so that financial and mandatory reports can be submitted in a timely manner. On the other hand, the trial balance and financial reports are submitted almost on time even if the abstracts (RCD, RCI, RADA) are not yet submitted for recording.  Those delayed for more than 300 days were the Reports of Online Collections (January to October 2020) which were received only on December 14, 2020, and the submission of UCPB BRS from June to December 2020 since Management received the bank statements only in March 2021.
+
+
+
+AFPMATF – The noted delay in submission of some approved contracts was due to the observation of protocols pertaining to the general community quarantine wherein movements of personnel were limited. The GHQ SAO ensures to submit to the COA the required Notice of Delivery within 24 hours upon acceptance of delivery and/or receipt of documents in order to give ample time for the auditors to prepare and perform inspections of the same.  Likewise, AFP AC is exerting effort in submitting required documents and keeping up with the deadlines prescribed by existing rules and regulations.
+
+
+
+AFPHSC – The 6th FASU stated that another factor which contributed to the delays in submission of reports was the delayed transmittal of trial balances of six Health Service Centers (HSCs) where accounting personnel were likewise infected with COVID-19.   Also, since the HSCs were also e-NGAS users, they also experienced glitches/problems in their systems.
+
+
+
+PMA – Inquiry with Command personnel revealed that delays are due to: (a) lengthy preparation of voluminous abstract of DVs done by one personnel of the Finance Office; (b) failure of suppliers to immediately issue ORs on paid disbursements covered by List of Due and Demandable Accounts Payable (LDDAP); and (c) late submission of Daily Time Records of the Command’s personnel for payroll transactions.
+
+
+
+WESMINCOM – Management agreed to comply with the recommendation and ensured that they will furnish the Office of the Auditor copies of contracts at the earliest possible time within the given five days prescribed period.  A copy of the contract for the rehabilitation project of Western Mindanao Command Apartment Number 1 (Excluded Door Number 10), including necessary documents to support the same, has been submitted to the Office of the Auditor on February 24, 2021 in response to the AOM. 
+
+
+
+26)	COVID-19 Fund
+
+
+
+	1)	The Corona Virus 2019 (COVID-19) pandemic adversely affected our society this past year. Despite government efforts to control virus transmission, the number of confirmed cases continued to rise.  In view thereof, President Rodrigo Duterte declared a State of Calamity throughout the Philippines on March 16, 2020 under Proclamation No. 929.  Pursuant thereto, all law enforcement agencies, with support from the AFP, were directed to undertake all necessary measures to ensure peace and order.
+
+
+
+	2)	To support its operational requirements against the COVID-19 outbreak, the DBM released ₱24,237,308.00 to the GHQ which was sourced from the National Disaster Risk Reduction and Management (NDRRM) Fund thru SARO No. BMB-D-20-0008074 dated April 27, 2020. 
+
+
+
+	3)	Likewise, the AFPHSC received ₱150,702,648.00 in COVID-19 funds sourced from the “Bayanihan to Heal as One Act” to cover their requirements for the temporary treatment and monitoring facilities for CoVid-19 cases thru SARO-BMB-D-20-0007114 dated April 17, 2020.
+
+
+
+	4)	The GHQ-CO, PSG, AFPHSC and CENTCOM realigned a total of ₱148,025,397.46 from their FY 2020 budget. Also, PSG and AFPHSC obtained funds from the OP, DOH, and PCSO to support its program implementation measures and operational requirements. 
+
+
+
+	5)	Summary of funds received and allotted for COVID-19 are as follows:
+
+
+
+Unit
+
+Funding Source
+
+Amount
+
+GHQ-CO
+
+FY 2020 GAA (NDRRMF)
+
+₱24,237,308.00
+
+
+
+FY 2020 GAA (Realignment)
+
+22,991,759.00   
+
+
+
+Subtotal
+
+47,229,067.00
+
+AFPHSC
+
+Bayanihan to Heal As One Act
+
+150,702,648.00
+
+
+
+PCSO
+
+10,000,000.00
+
+
+
+DOH
+
+13,275,000.00
+
+
+
+FY 2020 GAA (Realignment)
+
+121,246,061.55
+
+
+
+Subtotal
+
+295,223,709.55
+
+PSG
+
+OP 
+
+11,631,000.00
+
+
+
+FY 2020 GAA (Realignment)
+
+2,323,795.00
+
+
+
+Subtotal
+
+13,954,795.00
+
+CENTCOM
+
+FY 2020 GAA (Realignment)
+
+1,463,781.91
+
+
+
+Total
+
+₱357,871,353.46
+
+
+
+	6)	Of the ₱47,229,067.00 COVID-19 funds of GHQ-CO, ₱27,518,965.94 was transferred to the Major Services and Unified Commands and the balance of ₱19,710,101.06 remained with GHQ CO.  Details of transferred funds are presented in Annex I.
+
+
+
+	7)	Out of the ₱357,871,353.46 COVID-19 funds of GHQ-CO, AFP, ₱265,533,032.50 was obligated, leaving an unobligated balance of ₱92,338,320.96 as presented in the succeeding table.
+
+
+
+Funding Source
+
+Receipt
+
+Obligation
+
+Unobligated 
+
+FY 2020 GAA (NDRRMF)
+
+₱24,237,308.00
+
+₱24,235,150.72
+
+₱2,157.28
+
+Bayanihan to Heal as One Act
+
+150,702,648.00
+
+134,782,336.34
+
+15,920,311.66
+
+FY 2020 GAA (Realignment)
+
+148,025,397.46
+
+94,884,545.44
+
+53,140,852.02
+
+OP
+
+11,631,000.00
+
+11,631,000.00
+
+0.00
+
+PCSO
+
+10,000,000.00
+
+0.00
+
+10,000,000.00
+
+DOH
+
+13,275,000.00
+
+0.00
+
+13,275,000.00
+
+Total
+
+₱357,871,353.46
+
+₱265,533,032.50
+
+₱92,338,320.96
+
+
+
+	8)	While ₱133,153,963.62 was disbursed during the year, as follows:
+
+
+
+Funding Source
+
+Receipt
+
+Disbursement
+
+Unutilized 
+
+FY 2020 GAA (NDRRMF)
+
+₱24,237,308.00
+
+₱24,233,150.72
+
+₱4,157.28
+
+Bayanihan to Heal as One Act
+
+150,702,648.00
+
+2,420,062.46
+
+148,282,585.54
+
+FY 2020 GAA (Realignment)
+
+148,025,397.46
+
+94,869,750.44
+
+53,155,647.02
+
+OP
+
+11,631,000.00
+
+11,631,000.00
+
+0.00
+
+PCSO
+
+10,000,000.00
+
+0.00
+
+10,000,000.00
+
+DOH
+
+13,275,000.00
+
+0.00
+
+13,275,000.00
+
+Total
+
+₱357,871,353.46
+
+₱133,153,963.62
+
+₱224,717,389.84
+
+
+
+	9)	There were no significant findings noted in the audit of COVID-19 funds utilization, except that at the PSG, the procurement of testing kits, medicine and equipment totaling ₱11,631,000.00 were not supported with appropriate documentation, i.e., contract, NOA, NTP, and BAC resolution recommending to the HOPE that the alternative mode of procurement was to be adopted, contrary to Annex H of the IRR of RA 9184 and item 9.2 of COA Circular No. 2012-001.   Moreover, the Audit Team was not notified within 24 hours after delivery, contrary with Item No. 6.9 of COA Cir. No. 2009-02. 
+
+
+
+	10)	We recommended and Management agreed to submit to the COA Audit Team the necessary supporting documents for the COVID-19 procurements and to comply with the mandatory written notice on deliveries of goods/services within 24 hours from acceptance.
+
+
+
+	11)	Management stated that due to the urgency and delicate nature of the purchased equipment and supplies, the items were directly delivered to the health facilities, thus, the failure to comply with the COA Circular.  Nevertheless, the Command has reminded the concerned offices to exercise more caution and diligence in the performance of their tasks and strictly comply with the COA Circular and other pertinent laws and regulations.
+
+
+
+27)	National Task Force (NTF) to End Local Communist Armed Conflict Fund
+
+
+
+	1)	To cover the operational and logistical requirements of the AFP in support of the NTF to End Local Communist Armed Conflict for CY 2020, the DBM released ₱120,000,000.00 to the GHQ, AFP.  The said amount was all utilized during the year based on the submitted Budget and Financial Accountability Report (BFAR) as of December 31, 2020. 
+
+
+
+Yolanda and Marawi Fund
+
+
+
+28)	The ₱4,342,889.23 balance of fund transfers to implementing agencies (IAs) intended for the Yolanda and Marawi victims/beneficiaries remained unliquidated for more than two years.
+
+
+
+	1)	COA Circular No. 94-013 provides, among others, that within ten days after the end of each month or end of the agreed period for the Project, the IA shall submit the Report of Checks Issued (RCI) and the Report of Disbursement (RoD) to report on the utilization of funds.  Only actual project expenses shall be reported.  The reports shall be approved by the Head of the IA.  The IA shall return to the SA any unused balance upon completion of the project.
+
+
+
+	2)	In CYs 2013-2014, the GHQ, AFP transferred funds to Major Services and operating units for operational requirements and financial assistance to soldiers who were affected by typhoon Yolanda.  In CYs 2017-2018, the Headquarters made a subsequent fund transfer to commands/units for financial assistance to AFP casualties in the Marawi siege. 
+
+
+
+	3)	Our review of the Due from National Government Agencies, and Due from-Operating Units account balances as of December 31, 2020 disclosed that fund releases recorded under both accounts relative to the Marawi and Yolanda funds continue to remain unliquidated for more than two years.  Details are as follows:
+
+
+
+IAs
+
+Fund Transfers
+
+Liquidations
+
+Balance
+
+Marawi Fund
+
+
+
+
+
+
+
+Philippine Army
+
+ ₱194,855,155.32 
+
+ ₱191,192,088.50
+
+₱3,663,066.82
+
+Philippine Air Force
+
+ 411,142.50 
+
+ 411,142.50 
+
+0.00
+
+Philippine Navy
+
+ 54,450,923.36 
+
+ 54,450,923.36 
+
+0.00
+
+AFPHSC
+
+ 480,000.00 
+
+          480,000.00 
+
+0.00
+
+WESMINCOM
+
+ 1,521,047.21 
+
+ 1,521,047.00 
+
+0.21
+
+Subtotal
+
+251,718,268.39
+
+248,055,201.36
+
+3,663,067.03
+
+Yolanda Fund
+
+
+
+
+
+
+
+Philippine Army
+
+ 1,419,507.90 
+
+ 739,685.70 
+
+679,822.20
+
+Philippine Air Force
+
+ 524,355.65 
+
+ 524,355.65 
+
+0.00
+
+Philippine Navy
+
+ 1,104,256.60 
+
+ 1,104,256.60 
+
+0.00
+
+CENTCOM
+
+ 75,000.00 
+
+ 75,000.00 
+
+0.00
+
+Subtotal
+
+3,123,120.15
+
+2,443,297.95
+
+679,822.20
+
+Total
+
+₱254,841,388.54
+
+₱250,498,499.31
+
+₱4,342,889.23
+
+
+
+	4)	To verify the status of the outstanding fund transfers, we sent a confirmation notice to the Philippine Army, results of which are as follows:
+
+
+
+IA
+
+Particulars
+
+Balance
+
+Status per IA
+
+Marawi Fund
+
+PA
+
+
+
+Ck#542626 for beneficiaries of 124 KIA personnel
+
+₱50,000.00
+
+unobligated balance for return to SA
+
+
+
+Ck#542645 for 16 WIA personnel
+
+24,983.92
+
+no list of claimant and specific implementing guidelines as to amount per beneficiary
+
+
+
+Ck#542632 for beneficiaries of 20 KIA personnel
+
+193,548.40
+
+no specific implementing guidelines as to amount per beneficiary
+
+
+
+Ck#542635 for beneficiaries of 63 KIA personnel
+
+1,260,000.00
+
+
+
+
+
+Ck#542640 for beneficiaries of 124 KIA personnel
+
+1,488,000.00
+
+
+
+
+
+Ck#542652 for 1415 WIA personnel and beneficiaries of 124 KIA personnel
+
+627,942.00
+
+₱100,000.00 – unobligated balance for return to SA
+
+₱527,942.00 – no list of beneficiaries 
+
+
+
+Ck#542659 for beneficiaries of 124 KIA personnel
+
+18,592.50
+
+unobligated balance for return to SA
+
+Total
+
+
+
+₱3,663,066.82
+
+
+
+Yolanda Fund
+
+PA
+
+Donation to the victims of Earthquake and Typhoon Yolanda
+
+₱679,822.20
+
+RoD in process
+
+	
+
+	5)	As shown in the foregoing table, bulk of the outstanding balance of the Marawi fund pertains to unutilized fund due to the absence of directives/ implementing guidelines from the GHQ, AFP.  The remaining residual/ unobligated balances have not been returned by the PA to GHQ, AFP or remitted to the BTr.  Moreover, the unliquidated Yolanda fund balance has yet to be settled as the RoD is still in process.
+
+
+
+	6)	This observation had been previously raised since CY 2018 and has remained unacted upon since then.
+
+
+
+	7)	We recommended that Management require: 
+
+
+
+a)	the Office of the Deputy Chief of Staff for Personnel, J1 to address the issues that continue to restrict the disbursement of the remaining Marawi fund; otherwise, require PA to return the same so that it can be deposited to the BTr; and
+
+
+
+b)	the PA for the submission of liquidation reports for the Yolanda Fund.
+
+
+
+	8)	AFPAC stated that the unliquidated balance of ₱4,342,889.23  as of December 31, 2020 is composed of ₱3.6 million under Marawi Fund which was refunded to AFPAC on April 27,2021 and was recorded under JEV-2021-04-000415 and JEV-2021-04-000416. The Yolanda Fund portion amounting to ₱679,822.00 was recorded under JEV 2021-03-000373 leaving a balance of ₱0.20.
+
+
+
+Compliance with Gender and Development (GAD) Requirements
+
+
+
+29)	Various programs and projects relating to GAD have been undertaken by the GHQ, AFP in accordance with its GAD Plan pursuant to Section 31 of the General Provisions of the FY 2020 GAA and Joint Circular No. 2012-01 of the DBM, NEDA and Philippine Commission on Women (PCW).
+
+
+
+	1)	Section 31 of the General Provisions of the FY 2020 GAA provides that all agencies of the government shall formulate a GAD Plan designed to address gender issues within their concerned sectors or mandate and implement the applicable provisions under R.A. No. 9710 or the Magna Carta of Women, Convention on the Elimination of All Forms of Discrimination Against Women, the Beijing Platform for Action, the Philippine Plan for Gender-Responsive Development (1995-2025) and the Philippine Development Plan (2017-2022).  The GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five percent of their budgets. Xxx.
+
+
+
+	2)	Compliance of units under the GHQ, AFP is presented below.
+
+
+
+Unit
+
+Status
+
+GHQ-CO
+
+The actual GAD budget allocated was ₱136,815,757.06 and reported actual expenditures amounted to ₱172,579,513.81.
+
+AFPHSC
+
+The Command fully utilized funds and implemented plans, projects and programs as indicated in the GAD Plan and Budget (GPB). Total expenditure amounted to ₱360,122,707.75 which is 21.97 percent of the total allocation.
+
+PSG
+
+Various GAD programs and projects have been undertaken by PSG in accordance with its GPB of ₱37,911,640.50 and actual expenses of ₱39,099,586.27.
+
+PMA
+
+PMA allocated ₱246,199,695.31 and utilized ₱244,969,454.31 for its GAD programs and activities.
+
+CENTCOM
+
+Conducted various GAD activities with actual expenses totaling ₱8,978,077.00.
+
+EASTMINCOM
+
+The Command was able to spend ₱4,126,963.22 or 6.0 percent of the total appropriations of the Command on different GAD activities.
+
+NOLCOM
+
+The Command allocated ₱10,310,588.20, equivalent to 5.01 percent of total budget of ₱205,723,307.40.  Out of the allocation, ₱13,352,369.02 was expended for GAD activities.
+
+SOLCOM
+
+The Command’s total expenditure for its various GAD projects and activities amounted to ₱3,317,096.35 which is equivalent to at least five percent of the Agency’s budget.
+
+WESMINCOM
+
+Different activities of the Command for GAD-related activities amounted to ₱29,373,222.28.
+
+
+
+	3)	We commend Management for its sustained efforts in actively pursuing the effective implementation of its GAD programs and projects.
+
+
+
+Programs/Projects for Senior Citizens (SCs) and Differently-abled Persons (PWDs)
+
+
+
+30)	Section 32 of the General Provisions of the FY 2020 GAA provides that all agencies of the government shall formulate plans, programs and projects intended to address the concerns of Senior Citizens and persons with disability, insofar as it relates to their mandated functions, and integrate the same in their regular activities. Moreover, all government infrastructures and facilities shall provide architectural or structural features, designs or facilities that will reasonably enhance the mobility, safety and welfare of PWD pursuant to BP Blg. 344 and RA No. 7277, as amended.
+
+
+
+	1)	The table below shows the programs/activities conducted by the GHQ, AFP during CY 2020, viz:
+
+
+
+Unit
+
+Status
+
+GHQ-CO
+
+GHQ incurred ₱2,129,472.75 in expenses to address the concerns of SCs and PWDs through the following: a) information, education and communication campaign/ advocacies; (b) protection and safety programs for older persons and PWDs; (c) civil work projects to enhance mobility, safety and welfare of SCs and PWDs.
+
+AFPHSC
+
+Plans, programs and projects for SCs and PWDs amounting to ₱893,850.80 were integrated in the programmed activities of the Command.
+
+AFPDSC
+
+Management integrated dental services in their regular activities rendered to SCs and PWDs such as oral prophylaxis, oral surgery, restorative dentistry and prosthodontics totaling ₱56,000.00.
+
+PSG
+
+For CY 2020, the agency conducted medical and dental missions, free eye consultation and eyeglasses, Christmas fellowship with SCs, and National Disability Prevention with total allocation of ₱448,000.00.
+
+CENTCOM
+
+Programs and projects for SCs were implemented with an actual cost of ₱342,991.90.
+
+EASTMINCOM
+
+Repairs on roofing, gutter and downspout at quarters, parking bay; installation of hand washing/disinfecting area; repairs of comfort rooms and maintenance of kitchen area, all for the use of SCs and PWDs.
+
+NOLCOM
+
+₱66,400.00 was allocated and spent for the conduct of Awareness Seminar on SCs/PWDs and repair of ramp at Del Cordillera Hall.
+
+WESMINCOM
+
+The Western Mindanao Command was able to address the issue on the lack of railing passageway intended for SCs and PWDs.  A railing passageway was installed at Main Gate 1 costing ₱15,000.00.
+
+
+
+	2)	We commend Management for its unwavering support for Senior Citizens and Persons With Disability through implementation of various projects that benefit both sectors of society.
+
+
+
+Compliance with Tax Laws and Regulations
+
+
+
+31)	For CY 2020, GHQ, AFP remitted a total of ₱435,096,162.58 to the Bureau of Internal Revenue in taxes withheld on purchases of goods/services, and on salaries and allowances of personnel, and payments to contractors.
+
+
+
+	1)	EO 651 dated February 16, 1981 requires every government office or agency to show full and faithful compliance with tax laws and regulations and serve as a model to the tax paying public.  This directive was reiterated under Revenue Regulation 1-87 dated April 2, 1987, Revenue Memorandum 8-2003 dated March 3, 2003 and Revenue MC No. 56-2009 dated August 10, 2009, which prescribed the use of the Updated Government Money Payment Chart (withholding tax rates to be used in the computation of taxes to be withheld on the sale of goods and services).
+
+
+
+	2)	Below is the summary of taxes withheld, remittances and balances of the different units under the GHQ, AFP, to wit:
+
+
+
+Unit/Fund
+
+Amount Withheld
+
+Amount Remitted
+
+Balances
+
+GHQ-CO
+
+₱244,886,903.28 
+
+₱212,003,028.60 
+
+₱32,883,874.68 
+
+AFPMATF
+
+40,924,489.49
+
+19,559,505.45
+
+  21,364,984.04 
+
+AFPHSC
+
+116,504,025.96
+
+115,635,592.86
+
+       868,433.10 
+
+PSG
+
+16,640,203.63
+
+16,640,203.63
+
+                     -   
+
+PMA
+
+59,931,425.93
+
+59,931,425.93
+
+                     -   
+
+EASTMINCOM
+
+1,040,221.40
+
+764,244.22
+
+       275,977.18 
+
+CENTCOM
+
+      1,339,541.11 
+
+      1,339,541.11 
+
+0.00
+
+NOLCOM
+
+3,770,303.59
+
+2,703,488.72
+
+1,066,814.87 
+
+SOLCOM
+
+1,673,596.99
+
+1,469,971.20
+
+       203,625.79 
+
+WESMINCOM
+
+3,652,482.07
+
+3,049,401.09
+
+       603,080.98 
+
+WESCOM
+
+1,999,759.74
+
+1,999,759.77
+
+(0.03)
+
+Total
+
+₱492,362,953.19
+
+₱435,096,162.58
+
+₱57,266,790.61
+
+
+
+	3)	Unremitted taxes as of December 31, 2020 of the GHQ, EASTMINCOM, NOLCOM, and SOLCOM were all remitted in January 2021.
+
+
+
+	4)	At the AFPHSC, the balance of ₱868,433.10 pertains to accounts payable as of year-end which remained unpaid as of March 2021.
+
+
+
+	5)	We commend Management for their continued compliance with existing tax rules and regulations.
+
+
+
+Compliance with Government Service Insurance System (GSIS), Pag-IBIG and Philippine Health Insurance Corporation (PhilHealth) Rules and Regulations
+
+
+
+32)	The GHQ-CO, PSG, AFPHSC and PMA complied with the withholding and remittance of mandatory deductions pursuant to regulations issued by the GSIS, Pag-IBIG and PhilHealth.
+
+
+
+	1)	Section 14.1 of the IRR of RA 8291 provides that each government agency shall remit directly to the GSIS the employees’ and government agency’s contributions within the first ten (10) days of the calendar month following the month to which the contributions apply.
+
+
+
+	2)	Section 18(b) of the IRR of RA 7875 provides that the monthly premium contribution of employed members shall be remitted by the employer on or before the date prescribed by the PhilHealth.
+
+
+
+	3)	Section 3(a), Rule VII of the IRR of RA 9679 provides that all employers shall remit to the Pag-IBIG Fund their contributions and the contributions of their covered employees as well as the latter’s loan amortizations or payments to the Fund within fifteen (15) days from the date the same were collected, unless another period is previously agreed upon between the employer and the Fund, or within such periods the Fund may prescribe otherwise.
+
+
+
+	4)	Presented below is the compliance of the GHQ-CO, PSG, AFPHSC and PMA with GSIS, Pag-IBIG and PhilHealth laws for CY 2020. 
+
+	
+
+GSIS
+
+Unit
+
+Withheld
+
+Remitted
+
+Balance
+
+
+
+GHQ-CO
+
+₱122,417,343.26
+
+₱116,222,512.98
+
+₱6,194,830.28
+
+
+
+AFPHSC
+
+18,935,496.88
+
+18,935,496.88
+
+0.00
+
+
+
+PSG
+
+1,998,732.80
+
+1,998,732.80
+
+0.00
+
+
+
+PMA
+
+8,091,072.22
+
+8,020,961.15
+
+70,111.07
+
+
+
+Total
+
+₱151,442,645.16
+
+₱145,177,703.81
+
+₱6,264,941.35
+
+PAG-IBIG
+
+GHQ-CO
+
+₱9,515,338.42
+
+₱9,502,837.54
+
+₱12,500.88
+
+
+
+AFPHSC
+
+2,002,020.22
+
+2,002,020.22
+
+0.00
+
+
+
+PSG
+
+169,425.73
+
+169,425.73
+
+0.00
+
+
+
+PMA
+
+476,830.29
+
+476,830.29
+
+0.00
+
+
+
+Total
+
+₱12,163,614.66
+
+₱12,151,113.78
+
+₱12,500.88
+
+PHIL-HEALTH
+
+Unit
+
+Withheld
+
+Remitted
+
+Balance
+
+
+
+GHQ-CO
+
+₱41,244,092.07
+
+₱40,804,150.05
+
+₱439,942.02
+
+
+
+AFPHSC
+
+4,459,643.71
+
+4,459,643.71
+
+0.00
+
+
+
+PSG
+
+       386,427.50   
+
+         386,427.50     
+
+0.00
+
+
+
+PMA
+
+8,956,917.58   
+
+8,956,811.77   
+
+105.81
+
+
+
+Total
+
+₱55,047,080.86
+
+₱54,607,033.03
+
+₱440,047.83
+
+
+
+	5)	We commend Management for their continued adherence to existing GSIS, Pag-IBIG, and PhilHealth rules and regulations.
+
+
+
+Compliance with Property Insurance Law 
+
+
+
+33)	RA No. 656, otherwise known as the Property Insurance Law, as amended by PD 245, requires all government agencies to insure against any insurable risk, their properties, assets, and interests with the General Insurance Fund as administered by the GSIS. 
+
+
+
+	1)	Compliance by the different units under GHQ, AFP is presented below.
+
+
+
+Unit
+
+Status
+
+GHQ-CO
+
+A total of ₱6,002,499.93 insurance premiums for properties were paid in CY 2020.
+
+PSG
+
+A total of ₱1,081,682.22 insurance premiums for its insurable assets were paid in CY 2020.
+
+EASTMINCOM
+
+During CY 2020, the agency insured with the GSIS properties with a total carrying amount of ₱16,528,365.00 for Buildings and Other Structures with corresponding insurance premium of ₱23,676.55 following RA No. 656, otherwise known as the “Property Insurance Law” as amended by PD No. 245 dated July 13, 1973.
+
+NOLCOM
+
+The Command complied with the provisions specified in the Act, however, Management has been paying the yearly insurance of the demolished building at its market/ appraisal/insurable interest of ₱1,751,040.00.
+
+PMA
+
+Out of ₱206,123,480.17 as appraised by the GSIS on the insurable properties, ₱1,187,271.24 computed premiums were paid and recorded in the books in CY 2020.
+
+SOLCOM
+
+Out of ₱41,711,879.02 worth of insurable properties, ₱241,524.65 in insurance premiums were paid in CY 2020. 
+
+WESCOM
+
+₱92,660,195.04 worth of buildings and facilities of Western Command were insured against fire and lightning, typhoon, and flood under Policy No. FI-NM-GSISPAL-0000626 issued on July 7, 2020 for the period covering July 16, 2020 to July 16, 2021, of which ₱575,930.16 insurance premium, inclusive of VAT was paid and recorded in the books in CY 2020.
+
+
+
+	2)	A cursory evaluation of total premiums paid by the different units under the GHQ, AFP will indicate that the total cost of insurable property is grossly disproportionate to insurance costs.  While we were not able to conduct an extensive audit of this area, we believe there is sufficient basis to assume that not all insurable PPEs are covered.  This audit issue will be pursued in subsequent audits.
+
+
+
+	3)	We recommended that Management consider compliance with the Property Insurance Law as a focus area for subsequent years so that all its insurable properties will be adequately covered against potential losses.
+
+
+
+	4)	Management commented that they will comply with the Property Insurance Law to ensure that insurable properties will be adequately covered against potential losses.
+
+
+
+Enforcement of Settlement of Audit Suspension, Disallowances and Charges
+
+
+
+34)	The unsettled suspensions and disallowances totaled to ₱16,748,164.79 as of December 31, 2020.
+
+
+
+	1)	Total audit suspensions, disallowances and charges as of December 31, 2020 based on the Notice of Suspension (NS)/ Notice of Disallowance (ND)/ Notice of Charge (NC)/ Notice of Settlement of Suspensions and Disallowances/Charges (NSSDC) are summarized in the succeeding table.
+
+
+
+Unit/Fund
+
+NS/ND
+
+Amount
+
+NSSDC
+
+Balance
+
+GHQ-CO
+
+ND
+
+₱7,999,995.99 
+
+₱0.00 
+
+₱7,999,995.99 
+
+AFPPGMC
+
+ND
+
+442,045.62
+
+57,000.00
+
+385,045.62
+
+AFPHSC
+
+ND
+
+1,167,856.46
+
+0.00
+
+1,167,856.46
+
+PMA
+
+ND
+
+8,244,829.40
+
+1,049,562.68
+
+7,195,266.72
+
+CENTCOM
+
+NS
+
+267,315.62
+
+267,315.62
+
+0.00
+
+Grand Total
+
+₱18,122,043.09
+
+₱1,373,878.30
+
+₱16,748,164.79
+
+
+
+	2)	The NDs, except for AFPPGMC, are currently on appeal with the Commission Proper.  As for AFPPGMC, the accountable person sent a letter last September 29, 2020 informing the Center that she was temporarily unable to make payments due to difficulties brought about by the Covid pandemic.  Payments will be resumed in 2021.
+
+
+
+	3)	Continuous monitoring of the status of the NSs and NDs is done by Management to ensure that remedies availed of are in accordance with COA rules and regulations.
+
+107
+
+
+
+
+
+
+
+
+

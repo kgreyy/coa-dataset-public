@@ -1,0 +1,2624 @@
+PART II - OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+A)	Financial Audit
+
+
+
+Unreliable Balances of Merchandise Inventory and Cost of Sales
+
+
+
+1)	The accuracy of the Merchandise Inventory and Cost of Sales accounts balances totaling ₱604,357,159.33 and ₱2,386,208,820.65, respectively, was adversely affected by the following: (a) unfinished cost write-down and disposal of expired/contaminated items; (b) consistent disparities of ending inventory cost per Retail Method formula as against results of actual physical count; and (c) internal control weaknesses over inventory management.
+
+
+
+	1)	Section 7, Chapter 9 of the Government Accounting Manual (GAM), Volume 1 states: Financial statements shall present fairly the financial position, financial performance and cash flows of an entity.  Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in PPSASs.   The application of PPSASs, with additional disclosures when necessary, is presumed to result in financial statements that achieve a fair presentation. (Par. 27, IPSAS 1)
+
+
+
+	2)	Section 7, Chapter 8 of the GAM provides: When inventories are sold, exchanged, or distributed, their carrying amount shall be recognized as an expense in the period in which the related revenue is recognized.  The amount of any write-down to net realizable value and all losses of inventories shall be recognized as an expense in the period the write-down or loss occurs.  Reversal of any write down of inventories arising from increase in net realizable value shall be recognized as a reduction in the amount of inventories recognized as an expense in the period in which the reversal occurs. (Par. 44, IPSAS 12).
+
+
+
+Unfinished cost write-down and disposal of expired/contaminated items
+
+
+
+	3)	Inventory is written down when goods are lost, spoiled, become obsolete/damaged, or incurs a decline in value which should be timely effected so that <a href="https://www.accountingtools.com/articles/2017/5/10/financial-statements">financial statements</a> will promptly reflect the reduced value of goods.
+
+
+
+	4)	Several AFPCES outlets had in their possession inventory items for disposal costing ₱2,574,045.83 as of December 31, 2020.  These included expired medicines costing ₱1,859,272.89; obsolete spare parts, oil, and tires for motor vehicles valued at ₱413,279.73; and other outdated goods costing ₱301,493.21.  Said items could no longer be returned to suppliers because the prescribed return period has lapsed or the merchants are no longer in business with the AFPCES.  To date, investigations are on-going to address these incidents.
+
+
+
+	5)	The following table presents details of inventory items scheduled for disposal as reported by various outlets at the end of CY 2020, viz:
+
+
+
+
+
+AFPCES Outlets
+
+Cost of items for disposal as of 
+
+Dec. 31, 2020
+
+Remarks
+
+GMA Outlets
+
+BNS C&X
+
+₱ 44,360.21
+
+Disposal request was approved but was not conducted.
+
+VAB C&X
+
+15,261.65
+
+Disposal documents pending approval.
+
+Malacañang Park C & X
+
+3,864.74
+
+Request for disposal submitted to Headquarter, approval pending 
+
+
+
+Minimart
+
+7,831.41
+
+
+
+Central Warehouse
+
+126,361.80
+
+
+
+AFPMC Drugstore
+
+1,583,916.01
+
+Under investigation to determine if cause of expiration of medicines was due to negligence of accountable staff.
+
+Main Drugstore
+
+246,689.66
+
+
+
+FB Drugstore
+
+28,667.22
+
+
+
+Awaiting for investigation report before disposal.
+
+CGEA (Main) Gas Station
+
+413,279.73
+
+Request for disposal submitted to Headquarters, approval pending 
+
+Total
+
+2,470,232.43
+
+
+
+Northern Luzon Area
+
+CSA C & X
+
+9,405.00
+
+Awaiting for investigation report before disposal.
+
+FRM C & X
+
+9,700.77
+
+Request for disposal submitted to Headquarters, approval pending 
+
+Total
+
+19,105.77
+
+
+
+Southern Luzon
+
+NSL C & X
+
+9,012.02
+
+Request for disposal submitted to Headquarters, approval pending.
+
+Visayas Area
+
+CL C & X
+
+3,472.59
+
+Awaiting for investigation report before disposal.
+
+CMP C & X
+
+26,279.10
+
+
+
+PP C & X
+
+5,830.35
+
+Disposal documents pending approval.
+
+Total
+
+35,582.04
+
+
+
+Mindanao Area
+
+CE C & X
+
+3,251.29
+
+With request for disposal.
+
+CGS C & X
+
+36,862.28
+
+Awaiting for the investigation report before disposal.
+
+Total
+
+40,113.57
+
+
+
+Grand Total
+
+2,574,045.83
+
+
+
+	6)	The non-recognition of the decline in inventory value for these items adversely affected the fair presentation of account balances of Merchandise Inventory and corresponding expense accounts as of December 31, 2020.
+
+
+
+Consistent disparities of ending inventory cost of outlets per Retail Method formula as against those obtained through actual physical count
+
+	
+
+	7)	Our review of transactions revealed that in the preparation of monthly income statements by CES outlets, the cost of ending inventory is calculated through the use of a formula called the Retail Method which estimates the cost-to-retail ratio as shown below:
+
+
+
+     Cost of Sales-to-Retail
+
+
+
+Total Cost of Goods Sold
+
+Ratio =
+
+Total Retail/Selling Price of Goods Available for Sale
+
+
+
+	8)	Through this method, the selling prices of goods for sale are determined by the application of cost mark-ups at different rates depending on its cost range or item category, e.g. fuel and medicines.  Details of the mark-ups are as follows:
+
+
+
+Cost Range/Category of Item for sale
+
+Mark-up Rate
+
+(In %age)
+
+P0.01-799.99
+
+4.5
+
+P800.00 and above
+
+          5.0
+
+Gasoline
+
+3.5
+
+Diesel
+
+1.5
+
+Medicine
+
+          3.0
+
+
+
+	9)	Results of cost estimates from the Retail Method disclosed constant variances against costs derived from actual physical count as evidenced by our comparison of CY 2020 ending inventory valuations as presented in income statements attached to Post Operation Reports as of December 31, 2020.  Results disclosed that 29 outlets showed an aggregate discrepancy of ₱8,935,001.78.   On the other hand, 14 outlets, incurred negative discrepancies totaling ₱3,256,876.45.  Details are presented below, to wit:
+
+
+
+AFPCES outlets
+
+Ending inventory per physical count
+
+Ending Inventory of outlets per Income Statement (Retail Method)
+
+Variance
+
+VLUNA Branch
+
+         25,556,999.68 
+
+       25,263,457.19 
+
+       293,542.49 
+
+BNS Branch
+
+         26,483,821.36 
+
+       26,242,974.76 
+
+       240,846.60 
+
+VAB Branch
+
+         22,777,320.72 
+
+       21,867,627.48 
+
+       909,693.24 
+
+PARK Branch
+
+         10,315,274.87 
+
+       10,298,806.57 
+
+        16,468.30 
+
+Mini Mart
+
+         11,609,285.36 
+
+       11,303,745.62 
+
+       305,539.74 
+
+Central Warehouse
+
+         48,703,433.36 
+
+       47,979,319.87 
+
+       724,113.49 
+
+VLUNA DS
+
+           1,583,916.01 
+
+                         -   
+
+    1,583,916.01 
+
+BNS DS
+
+         38,115,733.75 
+
+       37,976,923.26 
+
+       138,810.49 
+
+FB DS
+
+         21,619,106.57 
+
+       21,466,227.95 
+
+       152,878.62 
+
+MAIN DS
+
+         13,498,188.85 
+
+       13,127,678.42 
+
+       370,510.43 
+
+FB GAS
+
+              576,559.01 
+
+           319,949.85 
+
+       256,609.16 
+
+VLUNA GAS
+
+           1,261,837.36 
+
+         1,182,209.22 
+
+        79,628.14 
+
+MAIN GAS
+
+           1,479,402.39 
+
+         1,391,900.03 
+
+        87,502.36 
+
+BAB Branch
+
+           8,911,028.37 
+
+         8,846,345.50 
+
+        64,682.87 
+
+CD Branch
+
+           4,276,232.23 
+
+         3,692,788.48 
+
+       583,443.75 
+
+CSA Branch
+
+           9,123,821.04 
+
+         8,765,751.74 
+
+       358,069.30 
+
+CEA Branch
+
+           7,226,133.52 
+
+         7,182,126.51 
+
+        44,007.01 
+
+FAB Branch
+
+         23,858,699.45 
+
+       23,533,463.27 
+
+       325,236.18 
+
+NSL Branch
+
+         19,414,489.02 
+
+       19,413,583.18 
+
+             905.84 
+
+SP Branch
+
+         26,103,975.69 
+
+       26,062,400.91 
+
+        41,574.78 
+
+CL Branch
+
+           9,664,406.61 
+
+         9,395,494.42 
+
+       268,912.19 
+
+CLL Branch
+
+         15,616,200.74 
+
+       15,325,905.68 
+
+       290,295.06 
+
+PP Branch
+
+           3,363,344.05 
+
+         3,307,258.90 
+
+        56,085.15 
+
+CCS Branch
+
+         13,423,472.98 
+
+       13,417,589.34 
+
+          5,883.64 
+
+CE Branch
+
+           7,647,468.61 
+
+         6,959,596.09 
+
+       687,872.52 
+
+CGS Branch
+
+         14,224,333.77 
+
+       13,961,991.09 
+
+       262,342.68 
+
+CP Branch
+
+         11,915,907.97 
+
+       11,431,415.81 
+
+       484,492.16 
+
+CMY Branch
+
+           5,330,391.78 
+
+         5,136,680.78 
+
+       193,711.00 
+
+EAAB Branch
+
+           7,142,524.44 
+
+         7,035,095.86 
+
+       107,428.58 
+
+Subtotal
+
+       410,823,309.56 
+
+    401,888,307.78 
+
+   8,935,001.78 
+
+MAIN Branch
+
+36,188,789.58
+
+       36,396,469.49 
+
+     (207,679.91)
+
+FB Branch
+
+27,704,866.24
+
+       27,761,196.17 
+
+       (56,329.93)
+
+VAB DS
+
+13,038,548.04
+
+       13,471,094.30 
+
+     (432,546.26)
+
+CAB Branch
+
+12,391,086.06
+
+       12,403,253.59 
+
+       (12,167.53)
+
+CMDC Branch
+
+10,995,983.30
+
+       11,034,253.86 
+
+       (38,270.56)
+
+FDP Branch
+
+11,868,852.17
+
+       12,399,448.34 
+
+     (530,596.17)
+
+FRM Branch
+
+16,733,500.25
+
+       17,265,461.11 
+
+     (531,960.86)
+
+CC Branch
+
+16,108,454.50
+
+       16,318,485.96 
+
+     (210,031.46)
+
+CGN Branch
+
+13,818,582.90
+
+       13,983,425.09 
+
+     (164,842.19)
+
+CRD Branch
+
+6,327,554.64
+
+         6,428,923.05 
+
+     (101,368.41)
+
+CMP Branch
+
+4,350,582.79
+
+         4,384,987.80 
+
+       (34,405.01)
+
+MAB Branch
+
+9,908,004.41
+
+       10,579,939.05 
+
+     (671,934.64)
+
+CB Branch
+
+4,161,855.25
+
+         4,175,839.37 
+
+       (13,984.12)
+
+CN Branch
+
+9,937,189.62
+
+       10,187,949.02 
+
+     (250,759.40)
+
+Subtotal
+
+193,533,849.75
+
+196,790,726.20
+
+  (3,256,876.45)
+
+Grand Total
+
+       604,357,159.31
+
+     598,679,033.98
+
+    5,678,125.33
+
+	
+
+	10)	The above data show valuations for ending inventory and cost of sales that were obtained through the Retail Method and used in the preparation of income statements showed consistent disparities from costs derived from actual physical counts.  Apparently, a net understatement of ₱5,678,125.33 in ending inventory valuation which resulted in a corresponding overstatement in cost of sales was reported in income statements of outlets.
+
+	
+
+	11)	Moreover, we suppose that the current procedure to arrive at the cost of sales figure in the preparation of monthly income statements is through the workback approach where cost of sales is determined by deducting ending inventory from total cost of goods available for sale.  We believe that this procedure misleadingly considers all inventory items that were not counted as part of ending inventory to be considered sold.  This, in our opinion, disregards the consideration of possible loss through spillage or pilferage.
+
+
+
+	12)	We understand the difficulty of conducting a physical count regularly given the volume of inventory items vis-à-vis a limited manpower complement, not to mention the need to close outlets and forego business days that generate revenue.  However, the necessity for the truthful representation of transactions, and the control and safeguard of assets could not be disregarded.  Given the limitations cited, we foresee the necessity to adopt a strategy that will facilitate the performance of tasks, promote operational efficiency, and address weaknesses currently prevailing, more specifically those regarding inventory control.
+
+
+
+	13)	In our opinion, Management should seriously consider updating or acquiring an automated system that will effectively respond to its operational requirements.
+
+
+
+Internal control weaknesses over inventory management
+
+
+
+	14)	Section 9, Chapter 8 of the GAM Volume 1 states:  Supplies and materials for inventory purposes shall be recorded using Perpetual Inventory System, resulting in a more accurate records and a running total for the cost of goods sold in each period and issuance thereof shall be recorded as they take place, x x x.  The system requires accounting records to show the amount of inventory on hand at all times through the maintenance of the Supplies Ledger Card (Appendix 67) by the Accounting Unit and Stock Card (Appendix 68) by the Supply Unit for each item in stock.
+
+
+
+	15)	Section 13, Chapter 8 of the GAM provides:  The Inventory Accounting System consists of monitoring, controlling, recording of acquisition and disposal of inventory.  It further provides that, Physical count/inventory, which is required semi-annually, is an indispensable procedure for checking the integrity of property custodianship.
+
+
+
+	16)	The AFPCES uses the Point of Sale (POS) system which is a software that handles not only sales transactions, but other functions such as monitoring inventory movement i.e. purchasing, receiving and transferring of products to and from other locations.
+
+
+
+	17)	A walkthrough of transactions made at Clark Air Base Commissary and  Exchange (C&X) and Basa Air Base (BAB) C&X, particularly on the system feature handling the recording of purchases and stock transfers to/from outlets revealed that inventory reports generated by the POS system were not reliable due to the following deficiencies, to wit:
+
+
+
+	--	Negative balances in certain stock items despite confirmation of no human error involved in encoding;
+
+	--	Lack of feature in recording stock transfers to and from the outlet; and
+
+	--	Non-adjustment of purchase returns.
+
+
+
+	18)	Likewise, the following outlets were unable to maintain accurate inventory records, viz:
+
+ 
+
+Outlet
+
+Non-Maintenance
+
+--	Basa Air Base C&X
+
+--	Clark Air Base C&X
+
+--	Camp Capinpin C&X
+
+--	Camp Elias Angeles C&X
+
+--	Camp Macario Peralta C&X
+
+--	Naval Station Legaspi C&X
+
+--	Camp Ceasar Sang-an C&X
+
+--		Stock Cards 
+
+--		Supplies Ledger Cards 
+
+--		Bin Cards
+
+--		No regular inventory-taking
+
+
+
+	19)	We also noted limitations on availability of manpower on most outlets.  This has resulted in undesirable situations such as the absence of segregation of duties between physical custody and recordkeeping i.e., the warehouseman was also responsible for updating the bin cards, inability to conduct regular physical count, and serious delays in recording of inventory movement.  
+
+
+
+	20)	We recommended that Management:
+
+
+
+a)	hasten the completion of ongoing investigations to facilitate disposal of relevant items; 
+
+
+
+b)	consider prompt assessment of AFPCES’ operations particularly those relative to sales and inventory management which are the core segments of its business and on the basis of assessment results, undertake pre-procurement activities to update/acquire an automated system that will address its operational requirements given its limitations on manpower; and
+
+
+
+c)	ensure that a strategy to preserve all CES business information is in place prior to the installation and commissioning of the automated system.  This will serve as backup data storage in case the initial stages of system utilization manifest glitches or malfunctions.
+
+
+
+	21)	According to Management, they will exert best efforts to hasten the investigations on bad orders of branches so that disposal of items can be expedited.  They also conducted in-house seminars to concerned outlet personnel for the handling and documentation of bad orders last February 2 to 3, 2021.  In addition, Management also created technical working group to facilitate the said disposal. 
+
+
+
+	22)	Furthermore, Management has in the pipeline the acquisition of a new Enterprise Resource Management System (ERMS) in its Annual Procurement Budget (APP) for CY 2021.  It is currently conducting pre-procurement activities for the said system.  They also intend to formulate a strategy to preserve all information for both the HQ and AFPCES field branches, and will craft a plan to effectively migrate all business information into the new data storage.
+
+
+
+Unreliable Property, Plant and Equipment accounts
+
+
+
+2)	The accuracy of the Property, Plant and Equipment (PPE) account balance of ₱77,404,063.58 was adversely affected by the following: (a) non-disposal of unserviceable properties; and (b) non-recording of three serviceable motor vehicles.
+
+
+
+	1)	Section 15, Chapter 2 of the GAM for NGAs Vol. I, states:  Fair Presentation. The FSs shall present fairly the financial position, financial performance and cash flows of an entity. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in PPSAS. The application of PPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.
+
+
+
+	2)	Our review of the PPE accounts showed that the accuracy of PPE accounts as at December 31, 2020 was adversely affected by the following:
+
+
+
+Non-disposal of unserviceable properties - ₱1,181,421.43
+
+
+
+	3)	Section 79 of PD 1445 provides:   When government property has become unserviceable for any cause, or is no longer needed, it shall, upon application of the officer accountable thereof, be inspected by the head of the agency or his duly authorized representative in the presence of the auditor concerned and, if found to be valueless or unsalable, it may be destroyed in their presence.  If found to be valuable, it may be sold at public auction to the highest bidder.
+
+
+
+	4)	As reported in the CY 2019 Annual Audit Report, various PPEs with an aggregate value of ₱1,627,714.01 were already considered for disposal. However, per validation, ₱1,181,421.43 of these items were still carried in the books as PPE and included in the Report of Physical Count.  Details are as follows:
+
+
+
+Particulars
+
+Property Number
+
+Date Acquired
+
+Amount
+
+Motor Vehicles
+
+L300 Vehicle
+
+MV-2018-UBX 830
+
+1-Mar-95
+
+₱ 444,946.43
+
+Owner Type Jeep(DRM 334)
+
+MV-2018-DRM 334
+
+26-Aug-96
+
+468,000.00
+
+Subtotal
+
+912,946.43
+
+ICT Equipment
+
+CPU
+
+ICTE-2019-5146
+
+0-Jan-00
+
+17,200.00
+
+Office Equipment
+
+Cash Register
+
+OE-2019-5786
+
+8-Feb-06
+
+23,500.00
+
+Cash Register Towa
+
+OE-2019-5093
+
+1-Dec-10
+
+29,700.00
+
+Cash Register Nasco
+
+OE-2019-5134
+
+25-Jun-08
+
+23,000.00
+
+Cash Register Nasco
+
+OE-2019-5135
+
+5-Oct-06
+
+23,000.00
+
+Cash Register Nasco
+
+OE-2019-5136
+
+12 Apr 13
+
+32,500.00
+
+Cash Register Nasco
+
+OE-2019-5137
+
+12 Apr 13
+
+32,500.00
+
+Cash Register Nasco
+
+OE-2019-5138
+
+5-Dec-08
+
+23,000.00
+
+Cash Register Nasco
+
+OE-2019-5139
+
+14-Aug-13
+
+32,500.00
+
+Cash Register Nasco
+
+OE-2019-5140
+
+13-Feb-12
+
+31,575.00
+
+Subtotal
+
+251,275.00
+
+TOTAL
+
+₱1,181,421.43
+
+
+
+	5)	Chapter 10, Section 40 (d) of the GAM for NGAs provides:  All unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) Appendix 74.  PPE reported in the IIRUP shall be dropped from the books by debiting Impairment Loss – Property, Plant and Equipment (cost of the PPE less Accumulated Depreciation).
+
+
+
+	6)	The inclusion of disposable items in the regular PPE account misrepresents its non-operational condition that they continue to provide economic benefits to AFPCES in the long-term.
+
+
+
+Unrecorded serviceable motor vehicles
+
+		
+
+	7)	Our audit disclosed that three serviceable motor vehicles which are insured with the GSIS were not recorded in both Accounting and Property units. The motor vehicles are as follows: 
+
+
+
+Particulars
+
+Plate Number
+
+Location
+
+Isuzu Forward Wing Van
+
+RAK 563
+
+Central Warehouse
+
+Hino Firetruck
+
+PKT-981
+
+Central Warehouse
+
+Kawasaki
+
+SL-5150
+
+Camp Capinpin C&X
+
+
+
+	8)	Inquiry with the Accountant and Supply Officer revealed that there were no available documents to support the recording thereof in the books.  Unrecorded properties casted doubt on the reliability and completeness of the Agency’s physical count and proper valuation of PPE in the books. 
+
+
+
+	9)	We recommended that Management: 
+
+
+
+a)	implement disposal procedures for PPE items that have been identified to be unserviceable to avoid its further deterioration; and
+
+
+
+b)	should documents for the acquisition of the three vehicles remain unobtainable during the next calendar year, consider said vehicles as “Found at Station” and have it recorded in the Accounting and Property Units by assigning conservative costs.
+
+
+
+	10)	Management stated the following:
+
+
+
+a)	Copies of Property Turn-in Slip (PTIS) for unserviceable equipment totaling ₱268,475.00 are for signature by the Commanding Officer of Naval Station Depot.  On the other hand, letter-request for disposal of unserviceable vehicles amounting to ₱912,946.43 has been forwarded to Army Support Command, Philippine Army (ASCOM PA)  and G4, (AFP General Headquarters) GHQ & Headquarters Service Command (HSC), respectively; and
+
+
+
+b)	Two motor vehicles located at the Central Warehouse will be included in the RPCPPE for CY 2021 marked “FIS” with amounts as assigned by the Appraisal Committee as discussed last 10 March 2021, while Motor vehicle with plate no. SL 5150 – was turned-in by AFPCES last 23 June 2020. 
+
+
+
+B)	Compliance Audit
+
+
+
+	Dormant Receivables account
+
+
+
+3)	Steps were not taken to process ₱60,762,971.35 total dormant receivables for possible application for write-off in accordance with COA Circular 2016-005 dated December 19, 2016.
+
+
+
+	1)	Par. 27 of IPSAS 1 provides: Fair Presentation and Compliance with IPSAS: Financial statements shall present fairly the financial position, financial performance, and cash flows of an entity.  Fair presentation requires the faithful presentation of the effects of the transactions, other events and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue and expenses set out in IPSASs.  The application of IPSASs, with additional disclosures, when necessary, is presumed to result in financial statements that achieve a fair presentation.
+
+
+
+	2)	COA Circular No 2016-005 dated December 19, 2016 was issued to prescribe guidelines and procedures in reconciling and cleaning the books of accounts of NGAs, LGUs and GOCCs with dormant receivable accounts, unliquidated cash advances, and fund transfers.
+
+
+
+	3)	Item 5.4 of the Circular describes dormant receivable accounts as those with balances that have remained inactive in the books for 10 years or more and where settlement/ collectability thereof could no longer be ascertained.
+
+
+
+	4)	The total receivable accounts of the AFPCES as of December 31, 2020 consists of the following:
+
+
+
+Account
+
+Amount
+
+Allowance for Impairment
+
+Net
+
+Remarks
+
+Accounts Receivable 
+
+₱7,574,459.67
+
+₱3,905,501.42
+
+₱3,668,958.25
+
+Receivables from sale of merchandise expected to be collected in the regular course of business or over a definite period.
+
+Loans Receivable-Others
+
+7,000.00
+
+7,000.00
+
+-
+
+Personal loans granted in CY 2011 to employee subject to payroll deduction. 
+
+Other Receivable – receivables from SMC, Wyeth, Ace Classics
+
+858,437.71
+
+858,437.71
+
+
+
+		Supplier’s short deliveries paid in advance and overpayments for purchases made during prior years.
+
+
+
+Other Receivables- receivables from SSS
+
+671,935.73
+
+671,935.73
+
+-
+
+Claims from SSS for sickness and maternity benefits paid by AFPCES in advance from CY 1995-2000.
+
+Other Receivables - Non-Trade
+
+
+
+70,221,036.68
+
+
+
+67,955,180.02
+
+
+
+2,265,856.66
+
+Receivables from civilian and military personnel for cash and merchandise shortages, goods on account, and overpayment of salaries from 1984 to present.
+
+Total
+
+ ₱ 79,332,869.79
+
+₱ 73,398,054.88.
+
+₱5,934,814.91
+
+
+
+       
+
+Our verification of the composition of these receivables disclosed that accounts totaling P60,762,971.35 (about 77 percent) of the total receivable balance of ₱79,332,869.79 have been inactive for a period ranging from 10 to 36 years.  Details are as follows:
+
+
+
+
+
+
+
+Accounts
+
+Amount
+
+No. of years Dormant
+
+%age to Total Receivables
+
+Accounts Receivables - Trade
+
+₱    3,189,938.37
+
+19-27 
+
+4
+
+Receivables from Suppliers (SMC, Wyeth, Ace Classics)
+
+858,437.71
+
+10-13 
+
+1
+
+Receivables from SSS
+
+671,935.73
+
+20-25 
+
+.8
+
+Other Receivables - Non Trade
+
+  56,042,659.54 
+
+11-36
+
+71
+
+Total Dormant  
+
+60,762,971.35
+
+
+
+76.8
+
+Total Receivables
+
+₱  79,332,869.79
+
+
+
+
+
+
+
+	5)	Further verification of the dormant accounts revealed the following:
+
+
+
+a)	Accounts Receivable - Trade amounting to ₱3,189,938.37 which have been outstanding for 19-27 years remained unverified due to unavailability of supporting documents;
+
+
+
+b)	Absence of documents to substantiate the amount recorded in the books for receivables from SMC, Wyeth, and Ace Classics totaling ₱858,437.71 resulted in the dormancy of the accounts for 10-13 years.  In addition, Ace Classics is no longer an active supplier of AFPCES;
+
+
+
+c)	Dormant receivables from the SSS ranging 20 to 25 years lacks proper documentation to support the validity of the claims; and
+
+
+
+d)	Results of verification of the Status Report of Receivables as of December 31, 2020 disclosed that accountable officers (AOs) for dormant Other Receivables - Non Trade accounts were either deceased, retired, terminated, on AWOL status or their whereabouts unknown.   In CY 2016, Management claimed that demand letters were sent to AOs.  However, these were either returned to sender or addressees can no longer be located.
+
+
+
+	6)	The list of the dormant Accounts Receivables and AOs with corresponding amounts of accountabilities are shown in Annexes B - D.
+
+
+
+	7)	As of December 31, 2020, AFPCES provided an allowance for impairment of receivables totaling ₱71,075,777.08.   The absence of documents to support the existence of accounts as well as the number of years that these have been inactive casted doubts on its collectability.
+
+
+
+	8)	We recommended and Management agreed to consider forming a temporary group that would focus on updating, verifying and collecting information about individuals or entities with outstanding accounts to determine conclusively the collectability thereof.   Data gathered may then be used as basis in complying with the requirements on requests for write-off pursuant to COA Circular No. 2016-005.
+
+
+
+Deficiencies noted in the audit of expenses
+
+
+
+4)	The propriety and validity of expenditures totaling ₱515,884.35 could not be ascertained due to absence of supporting documents to substantiate its official nature.
+
+
+
+	1)	Paragraph 1.2.2 of COA Circular No. 2012-001 dated June 14, 2012 prescribes the following documentary requirements in the liquidation of PCF expenses: 
+
+
+
+--	Summary of Petty Cash Fund Voucher
+
+--	Report of Disbursements
+
+--	Petty Cash Fund Replenishment Report
+
+--	Approved purchase request with Certificate of Emergency Purchase if necessary
+
+--	Bills, receipts and invoices
+
+--	Certificate of Inspection and Acceptance
+
+--	Waste Material Report in case of replacement/repair
+
+--	Approved Trip ticket for gasoline expenses
+
+--	Canvass from at least three suppliers for purchases involving P1,000 and above except for purchases while on official travel
+
+--	Summary or abstract of canvass
+
+--	Petty Cash Voucher duly accomplished and signed
+
+--	Official Receipt (OR) in case of refund
+
+--	For reimbursement of toll receipts (toll receipts and trip tickets)
+
+--	Such other supporting documents that may be required and/or required under the company policy depending on the nature of expenses incurred.
+
+
+
+	2)	Our evaluation of expense replenishments from the PCF disclosed the following deficiencies, viz:
+
+
+
+Expenses not supported by ORs - ₱7,000.00
+
+
+
+	3)	As prescribed by COA Circular No. 2012-001, an OR is a basic documentary requirement in the liquidation of PCF expenses.  On a sampling basis, we observed several expenses totaling ₱7,000.00 were not supported with ORs, to wit:
+
+
+
+Date
+
+DV no.
+
+Amount
+
+Payee/Particulars
+
+Remarks
+
+11/12/2019
+
+11109019
+
+5,500.00
+
+Calibration
+
+DV is without  supporting document 
+
+12/26/2019
+
+12273819
+
+1,500.00
+
+DFM auto repair shop
+
+No OR attached
+
+Subtotal
+
+₱7,000.00
+
+
+
+
+
+
+
+
+
+Absence of Inspection and Acceptance Reports (IARs) for purchases of motor parts/supplies and for repairs and maintenance expenses for vehicles - ₱44,950.00.
+
+ 	
+
+	4)	Likewise, we noted that purchases of motor parts/supplies as well as expenses for repairs and maintenance of vehicles amounting to P44,950.00 were not supported with IARs to prove completion of the work done on the vehicle. The table below shows expenses which were not supported with IARs.
+
+
+
+Date
+
+DV No.
+
+Date
+
+OR No.
+
+Supplier
+
+Amount
+
+Particulars
+
+8/31/2018
+
+8222318
+
+8/8/2018
+
+36366
+
+Standard Auto Supply
+
+  P  3,440.00 
+
+outer and inner bearing
+
+
+
+
+
+8/9/2018
+
+89561
+
+Lucky Two Motor Parts
+
+    1,800.00 
+
+brake shoe
+
+10/29/2018
+
+10235918
+
+10/11/2018
+
+38771
+
+Standard Auto Supply
+
+    4,000.00 
+
+pressure plate
+
+
+
+
+
+10/22/2018
+
+17831
+
+Cubao Brake & Clutch Supplies
+
+    1,200.00 
+
+repair of front right brake system
+
+12/3/2018
+
+11208218
+
+10/23/2018
+
+17833
+
+Cubao Brake & Clutch Supplies
+
+    1,600.00 
+
+brake bonding
+
+5/3/2019
+
+4206619
+
+4/3/2019
+
+0383
+
+Maco Surplus Auto Parts Store
+
+    1,500.00 
+
+repair of gearbox
+
+6/27/2019
+
+6205119
+
+6/13/2019
+
+2017
+
+GMB Auto Parts Supply
+
+    6,000.00 
+
+clutch disc
+
+
+
+
+
+6/25/2019
+
+1536
+
+JR Welding Shop
+
+    1,000.00 
+
+welding of drag link conversion
+
+
+
+
+
+6/25/2019
+
+0458
+
+GMG Diesel Parts
+
+    6,000.00 
+
+drag link end
+
+
+
+
+
+6/20/2019
+
+1518
+
+JR Welding Shp
+
+    1,000.00 
+
+welding drag link conversion
+
+
+
+
+
+6/20/2019
+
+0422
+
+GMG Diesel Parts
+
+    1,500.00 
+
+drag link end
+
+7/9/2019
+
+7102819
+
+7/2/2019
+
+130423
+
+Jerdan Auto Supply
+
+    4,500.00 
+
+One (1) set tie rod end
+
+
+
+
+
+ 
+
+ 
+
+AR only
+
+    1,000.00 
+
+Mechanic’s
+
+7/10/2019
+
+7111019
+
+6/27/2019
+
+02992
+
+TCM Auto Supply
+
+    1,500.00 
+
+ fee for repair of power steering box and  replace-ment of oil seal
+
+
+
+
+
+7/3/2019
+
+30644
+
+RSV Auto Electrical & Battery shop
+
+    2,280.00 
+
+commutator, bearing, service alternator
+
+11/22/2019
+
+11179519
+
+11/15/2019
+
+295099
+
+Kayaco Motor Parts Inc.
+
+    1,400.00 
+
+rearing
+
+3/20/2020
+
+3152520
+
+9-Mar-20
+
+157366
+
+Cubao Brake & Clutch Supplies
+
+    1,700.00 
+
+brake bonding
+
+
+
+
+
+3/9/2020
+
+02959
+
+Yamat Machine Shop
+
+    1,700.00 
+
+brake drum replace
+
+7/1/2020
+
+ 
+
+ 
+
+6256020
+
+ 
+
+ 
+
+6/25/2020
+
+90147
+
+Calilao Auto Supply
+
+    1,830.00 
+
+brake shoe, wheel cup, sand paper
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total
+
+P44,950.00 
+
+ 
+
+
+
+ 
+
+Expenses for local travels not supported with approved Itinerary of Travel (IT) - ₱432,506.00
+
+
+
+	5)	Paragraph 1.2.4.1 of the aforementioned Circular requires submission of an approved IT as a requirement for the liquidation of travel expenses.  Our review of liquidation documents for the official travel totaling ₱ 432,506.00 relative to the delivery of merchandise to various AFPCES outlets within Luzon area disclosed that the required IT was not submitted.  Details of these expenses are presented in Annex E. 
+
+ 
+
+Expenses exceeding P300.00 inappropriately supported by Certification of Expenses Not Requiring Receipts (CENRR) - ₱31,428.35
+
+
+
+	6)	COA Circular 2017-001 dated June 13, 2017, provides that expenses incurred by government officials and employees in the discharge of their official functions amounting to ₱300.00 or less need not be supported by OR.  However, on a sampling basis, we noted that there are expenses exceeding ₱300.00 which are supported by a CENRR contrary to the said Circular.  These expenses totaling  ₱4,000.00 are as follows:
+
+
+
+Date
+
+DV no.
+
+Particulars
+
+Amount
+
+5/22/2020
+
+5070520
+
+snacks/repair
+
+     ₱1,500.00 
+
+5/22/2020
+
+5070520
+
+general cleaning of fuel tank and repair of stick shift
+
+1,500.00
+
+8/7/2020
+
+7224820
+
+muffler bracket, fabricating welding
+
+1,000.00
+
+Subtotal
+
+₱4,000.00
+
+
+
+
+
+	1)	Likewise, in our verification of the Other Supplies and Materials expenses account, there were disbursements exceeding ₱300.00 which were also supported by CENRR to wit:
+
+
+
+Date
+
+JV #
+
+Date of Transaction
+
+Amount
+
+Particulars
+
+2/11/2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0107220
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1/9/2020
+
+   ₱  500.00 
+
+Monthly Operating Expense (MOE) for January 2020 meals of the Accounting Division (AD)
+
+
+
+
+
+1/15/2020
+
+       570.00 
+
+
+
+
+
+
+
+1/28/2020
+
+       700.00 
+
+
+
+
+
+
+
+1/30/2020
+
+       425.00 
+
+
+
+
+
+
+
+1/7/2020
+
+    1,400.00 
+
+MOE for January 2020 meals of HSC/Motorpool.
+
+
+
+
+
+1/13/2020
+
+    1,375.00 
+
+
+
+
+
+
+
+1/28/2020
+
+    1,000.00 
+
+
+
+3/11/2020
+
+0207320
+
+2/19/2020
+
+       430.00 
+
+MOE for February 2020 meals of AD 
+
+6/10/2020
+
+0506820
+
+3/13/2020
+
+    1,000.00 
+
+MOE for March 2020 Meals of Motorpool
+
+6/4/2020
+
+ 
+
+ 
+
+0502220
+
+ 
+
+ 
+
+ 
+
+       785.35 
+
+MOE for April 2020 meals of AD
+
+
+
+
+
+4/20/2020
+
+    1,000.00 
+
+MOE for April 2020 meals of Motorpool
+
+
+
+
+
+4/29/2020
+
+    5,120.00 
+
+
+
+6/10/2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+0507220
+
+ 
+
+ 
+
+ 
+
+ 
+
+5/11/2020
+
+       930.00 
+
+Quarterly Command and Staff Conference meals (2nd Quarter)
+
+
+
+
+
+ 
+
+       470.00 
+
+
+
+
+
+
+
+ 
+
+       390.00 
+
+
+
+
+
+
+
+ 
+
+       840.00 
+
+
+
+
+
+
+
+6/1/2020
+
+       560.00 
+
+
+
+8/27/2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0802120
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7/26/2020
+
+       325.00 
+
+MOE for July 2020 meals, IT Department
+
+
+
+
+
+7/3/2020
+
+       400.00 
+
+MOE for July 2020 meals, AD
+
+
+
+
+
+7/22/2020
+
+       400.00 
+
+
+
+
+
+
+
+7/15/2020
+
+       500.00 
+
+
+
+
+
+
+
+7/23/2020
+
+       400.00 
+
+
+
+
+
+
+
+7/23/2020
+
+       330.00 
+
+MOE for July 2020, meals, Audit Division
+
+
+
+
+
+7/23/2020
+
+    1,000.00 
+
+MOE for July 2020 meals, Motorpool
+
+7/14/2020
+
+ 
+
+701720
+
+ 
+
+6/29/2020
+
+       620.00 
+
+Blessing of Minimart CX
+
+
+
+
+
+7/1/2020
+
+    1,000.00 
+
+
+
+7/14/2020
+
+ 
+
+ 
+
+ 
+
+0701820
+
+ 
+
+ 
+
+ 
+
+6/18/2020
+
+       700.00 
+
+Quarterly Command and Staff Conference (2nd Quarter)
+
+
+
+
+
+6/22/2020
+
+    1,300.00 
+
+
+
+
+
+
+
+6/23/2020
+
+       690.00 
+
+
+
+
+
+
+
+ 
+
+    1,418.00 
+
+
+
+9/22/2020
+
+ 
+
+0810420
+
+ 
+
+8/5/2020
+
+       500.00 
+
+MOE for August 2020 meals, AD
+
+
+
+
+
+8/20/2020
+
+       350.00 
+
+
+
+TOTAL
+
+₱27,428.35 
+
+ 
+
+
+
+	2)	We recommended that Management:
+
+
+
+a)	implement strict compliance with COA Circular No. 2012-001 on the submission of mandatory supporting documents for official expenditures, and refrain from processing replenishments that are inadequately supported;
+
+
+
+b)	require submission of IARs to support repairs and maintenance expenses of official vehicles in accordance with Appendix 62 of the GAM Volume II;
+
+
+
+c)	require employees who are on official travel outside of Metro Manila to accomplish the Itinerary of Travel in compliance to COA Cir 2012-001; and
+
+
+
+d)	advise AOs not to honor the CENRR as a valid liquidation supporting document for expenses exceeding ₱300.00.
+
+
+
+	3)	Management agreed that they will implement COA Circular No. 2012-001 and will no longer process replenishments of expenses that are inadequately supported.  In addition, a Memorandum to AOs has been issued on 14 February 2021 to stop using the CENRR for expenses exceeding P300.00.
+
+
+
+Accountable Officers not bonded
+
+5)	Employees accountable for the custody of Inventories Held for Sale at several AFPCES outlet warehouses were not bonded contrary to Section 101 of PD 1445 and Treasury Circular No. 02-2009.
+
+
+
+	1)	Section 101 of PD 1445 provides that every officer of any government agency whose duties permit or require the possession or custody of government funds or property shall be accountable therefor and for the safekeeping thereof in conformity with law, and every AO shall be properly bonded in accordance with law.
+
+
+
+	2)	Likewise, Paragraph 4.1 of the General Provision of Treasury Circular 02-2009 dated August 6, 2009 states,  Public Officers Covered- Every officer, agent and employee of the Government of the Philippines or of the Companies or Corporations of which the majority stock is held by the National Government (NG) regardless of the status of their appointment shall, whenever the duties performed by such officer, agent or employee permits or requires the possession, custody or control of funds or properties which he is accountable, be deemed a bondable officer and shall be bonded and his fidelity insured. ( Section 314 and 318, PBL)”
+
+
+
+	3)	We verified the bonds of AOs of AFPCES outlets and discovered that warehousemen of several outlets were not bonded as of December 31, 2020.  These branches are as follows:
+
+
+
+a)	Minimart C & X
+
+b)	Fort Bonifacio  C & X
+
+c)	Villamor Air Base C & X
+
+d)	Malacañang Park C & X
+
+e)	Camp Servillano Aquino SA C & X
+
+f)	Camp O’Donnel C & X
+
+g)	Fort del Pilar C & X
+
+h)	Camp Capinpin C & X
+
+i)	Naval Station Legaspi C & X
+
+j)	Camp Lucban C & X
+
+k)	Camp Macario Peralta C & X
+
+l)	Mactan Air Base C & X
+
+m)	Camp Panacan C & X
+
+n)	Camp Manuel T Yan C & X
+
+
+
+	4)	To protect the government from losses that may be incurred in case of unauthorized use or misapplication of funds and property by AOs, it is essential that AOs be covered with a Fidelity bond.
+
+
+
+	5)	We recommended that Management secure fidelity bonds of warehousemen in charge of safekeeping inventories in the outlets in accordance with BTr Circular 02-2009 dated August 6, 2009.
+
+
+
+	6)	According to Management as of 25 March 2021, the CC Branch Manager has prepared necessary documents for submission to the BTr in order to process the bonding of the newly assigned warehouseman who assumed office last 01 March 2021.  Meanwhile, other AOs of AFPCES outlets who are not yet bonded have pending applications with the BTr. 
+
+
+
+Unreliable Retailware Manager System
+
+
+
+6)	The Retailware Manager System (RMS) also known as Report of Deliveries Received (RDR) computerized system failed to generate the status report of returned merchandise at the Camp Servillano Aquino and Camp O’Donnell outlets in Tarlac City and Capas, respectively, both in Tarlac Province.
+
+
+
+	1)	The AFPCES RMS is an automated system used in recording purchased and returned merchandise to suppliers, and transfers to/from other outlets and the main branch.  The reports generated by system are the following:
+
+
+
+a)	direct purchases; 
+
+b)	local purchases; 
+
+c)	stock transfer-in; 
+
+d)	stock-transfer-out; and
+
+e)	purchase returns 
+
+
+
+	2)	We observed that outlets located at Camp Servillano Aquino and Camp O’Donnell, both in Tarlac Province, were experiencing issues in the generation of the Report of Purchase Returns.  Upon request, said Report could not be presented by both outlets for validation. Information gathered from concerned staff disclosed that the RDR has not been generated by the RMS.  Hence, details of returned merchandise due to its inferior or flawed condition such as the date items were returned, cost of returned merchandise, and the offsetting of costs from prior sales against subsequent payments could not be promptly validated.
+
+	3)	For CYs 2019 and 2020, the total cost of returned merchandise for the two outlets, as determined by the audit team, are as follows:
+
+ 
+
+Outlet
+
+Amount
+
+Totals
+
+
+
+2019
+
+2020
+
+
+
+C/S Aquino C&X
+
+₱368,512.95
+
+₱461,863.19
+
+₱830,376.14
+
+C/O’Donnell C&X
+
+665,656.33  
+
+297,405.35
+
+963,061.68
+
+Total
+
+₱1,034,169.28 
+
+₱759,268.54
+
+₱1,793,437.82
+
+
+
+	4)	We recommended that the Managers of outlets located at Camps Servillano Aquino and O’Donnell immediately make written representations with the AFPCES Headquarters to report limitations affecting their automated systems.  In the meantime, said outlets must be advised to formulate measures to compensate for the failure of the RMS to provide purchase returns data.
+
+
+
+	5)	Management commented that CSA and CD C&X have been preparing and monitoring schedules of their Purchase Returns deducted in the subsequent billings of local suppliers in the area while AFPCES Headquarters monitors the deduction of purchase returns to subsequent billings of suppliers for payments processed at the Headquarters.
+
+
+
+	6)	Management agreed that AFPCES Headquarters will furnish copies of schedule of deduction of Purchase Returns from subsequent billings of suppliers to the Office of the Auditor of all outlets.
+
+
+
+Delayed/Non Submission of Financial and Mandatory reports, Purchase Orders and Notices of Deliveries
+
+
+
+7)	Management failed to submit financial and mandatory reports, advance copies of purchase orders and notification of scheduled deliveries of purchased items to the Office of the Auditor within the prescribed period, contrary to the provisions of PD No. 1445 and the Rules and Regulations on Settlement of Accounts (RRSA). 
+
+
+
+	1)	Section 100 of PD 1445 provides that: Disbursing officers in any government agency shall render monthly reports of their transactions pursuant to regulations of the Commission to be submitted not later than the fifth day of the ensuing month to the auditor concerned who shall conduct the necessary examination and audit within thirty days from receipt thereof.
+
+
+
+	2)	Section 7.2.1a of the RRSA, as prescribed under COA Circular No.  2009-006 dated September 15, 2009, provides among others that the Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that the reports and supporting documents submitted by AOs are immediately recorded in the books and submitted to the Auditor within the first 10 days of the ensuing month.	
+
+
+
+	3)	At AFPCES HQ, we have noted delays in the submission of financial reports by the Accounting Unit for a period ranging from eight to 221 days (Annex F).  Likewise, the following AFPCES outlets failed to submit the following reports within the prescribed period, viz:
+
+
+
+Particulars
+
+Outlets
+
+Monthly Post Operating Reports
+
+     Camp O’ Donnel C&X
+
+Monthly Bank Reconciliation Statements (BRS)
+
+     Camp O’ Donnel C&X
+
+
+
+     Naval Station Legaspi C&X
+
+
+
+     Camp Cesar Sang-an C&X
+
+Cash in Bank Register (CBReg)
+
+     Camp Cesar Sang-an C&X
+
+Cash Disbursement Register (CBReg)
+
+--	Camp O’ Donnel C&X
+
+PCRs
+
+
+
+Schedule of Fund Transfer
+
+
+
+Report on Accountability for Accountable Forms (RAAF)
+
+     Camp O’ Donnel C&X , 
+
+
+
+     Camp Cesar Sang-an C&X
+
+Report on the Physical Count of Inventories (RPCI)
+
+     Camp Reigo de Dios C&X 
+
+
+
+     Camp Cesar Sang-an C&X
+
+Report on the Physical Count  Property, Plant and Equipment (RRCPPE)
+
+     Camp Evangelista C&X
+
+Required monthly report
+
+     Fernando Air Base  C&X  
+
+
+
+     Sangley Point C&X 
+
+
+
+     Camp General Sionco  C&X
+
+
+
+     Camp Bautista  C&X
+
+Purchase Orders
+
+     Camp Macario Peralta  C&X  
+
+
+
+     Camp Lapu-Lapu  C&X
+
+
+
+     Camp Panacan  C&X
+
+Financial Reports
+
+--	Mactan Airbase  C&X
+
+Agency Action Plan and Status of Implementation (AAPSI)
+
+
+
+
+
+
+
+	4)	In the addition, the following outlets failed to prepare/maintain the following reports:
+
+
+
+Particulars
+
+Outlets
+
+Bank Reconciliation Statements (BRS)
+
+     Camp Cesar Sang-an C&X
+
+
+
+     Naval Station Legaspi C&X
+
+Cash in Bank Register (CBReg)
+
+     Camp Cesar Sang-an C&X
+
+Petty Cash Voucher
+
+     Camp Bautista  C&X
+
+
+
+	5)	Failure to submit the reports and documents required under existing regulations to the Office of the Auditor within the prescribed period resulted in delays in the conduct of verification of financial records.  Also, the delay or non-submission of these reports/documents precluded the early detection and correction of deficiencies and timely reporting of audit results to Management. 
+
+
+
+	6)	We recommended that Management comply with deadlines set for the submission of financial reports, disbursement records, liquidation reports, Journal Entry Vouchers, Daily Sales and Remittance Reports and other reportorial requirements to the Office of the Auditor. 
+
+
+
+	7)	Management commented that the restrictions imposed by the government due to the pandemic such as the implementation of skeletal workforce in government offices affected the processing of documents and the limited courier services caused the delay of submission of reports from regional outlets to Headquarters are some of the factors that caused the late submission of reports to COA Office.
+
+
+
+Other observations noted 
+
+
+
+8)	The observations noted by regional auditors in the conduct of cash examinations (CEs) and the corresponding recommendations are summarized as follows: 
+
+
+
+Outlets
+
+Observations
+
+Recommendations
+
+FDP CX
+
+The Petty Cash Fund Register (PCFReg) maintained by AO was not accomplished in accordance with GAM Vol. II, thus verification of information on PCF expenses could not be performed.
+
+Require the AO to prepare the PCFReg in accordance with the Instructions of Appendix 59 of GAM Vol. II.
+
+FB GAS STATION
+
+The Store Manager/PCFC was using CENRR as support for various expenses totaling ₱5,400.00 contrary to COA Circular 2017-01.
+
+
+
+Require the Store Manager/PCFC to refrain from using CENRR as support for expenses exceeding ₱300.00 in compliance with COA Circular 2017-01.
+
+BAB C&X; CAB C&X
+
+Liquidation reports for Petty Cash Fund of BAB C and X and CAB C and X amounting to ₱7,286.75 and  ₱9,814.08, respectively, were not submitted to AFPCES Headquarters to liquidate the same.  
+
+Require the Petty Cash Custodian to submit liquidation report pertaining to PCF - Utilities Fund to the Accounting Office of AFPCES HQ to clear accountability of the AO. 
+
+CMDC C&X
+
+
+
+The allotted PCF is not sufficient to cover monthly recurring expenses which resulted in negative balances of the fund before the approval of replenishments.
+
+Require the AO to request for increase in Petty Cash Fund to sufficiently cover recurring expenses for one month pursuant to Section 4.3.1 of COA Circular No. 97-002.
+
+FRM C&X
+
+Due to the delay in the receipt of fund transfer for the replenishment of PCF-Regular, there were months that the PCF custodian incurred expenses more than the ₱7,900.00 PCF fund. The Loose Change Fund (LCF) was temporarily borrowed to accommodate the expenditures contrary to Section 4(3) of PD No. 1445.
+
+
+
+a)	AFPCES Management facilitate the replenishment of PCF;
+
+b)	Require the  PCF Custodian to regularly submit PCF replenishment vouchers every 15 days to prevent incurrence of deficit or negative balance of PCF; 
+
+c)	Direct the PCF Custodian to stop using the LCF other than the purpose for which it was created; and
+
+d)	Store Manager of FRM C&X make representations with proper authorities to increase the amount of PCF to sustain its recurring monthly expenses.
+
+CC C&X
+
+The Store Manager simultaneously performs the function of Fund Custodian contrary to Section 124 of PD 1445 and Section 50 of the GAAM Vol. II resulting in the absence of check and balance.
+
+Require the Store Manager to make representations with the AFPCES - Main Office for the immediate deployment of a capable fund custodian to ensure check and balance within the outlet.
+
+
+
+	1)		Management explained that the excess PCF of BAB and CAB C&X was caused by a wrong entry which had been corrected.  Further, Store Managers of CMDC C & C and FRM C & X stated that their concerns have been made known to Headquarters.  They also submitted a request to augment their existing PCF. 
+
+	
+
+	2)		Further, Memoranda were already issued by Management to respective AFPCES outlets in compliance with the audit recommendations.
+
+	
+
+	3)		Management also commented that based on their analysis, the amount of PCF issued to FRM and CMDC C&X were enough to cover their monthly operating expenses. However, there were cases wherein the submitted liquidation and replenishment reports to the Headquarters lack proper documentations which caused the delay in processing of the PCF.
+
+	
+
+As to the CC C&X, Management already designated Mr. Joseph G Martinez as Fund Custodian effective 01 March 2021.
+
+Designated heads and/or AOs do not hold permanent positions
+
+9)	The designated division heads and AOs of several AFPCES outlets do not hold permanent positions contrary to Sections 4.1.4 and 4.1.5 of COA Circular No. 97-002; and Section 7.2 of CSC, COA and DBM Joint Circular No. 1, s. 2017. 
+
+
+
+	1)	Section 4.1.4 of COA Circular No. 97-002 dated February 10, 1997 provides “Only permanent appointed officials shall be designated as disbursing officers. Elected officials may be granted a cash advance only for their official travelling expenses.”
+
+
+
+	2)	Section 4.1.5 of the same Circular states ”Only duly appointed or designated disbursing officers may perform disbursing functions.  Officers and employees who are given a cash advance for official travel need not be designated as Disbursing Officers.”
+
+
+
+	3)	Section 7.2 of CSC, COA and DBM Joint Circular No. 1, s. 2017 dated June 15, 2017 states “Hiring of Job Order workers shall be limited to emergency or intermittent work, such as clearing of debris on the roads, canal, waterways etc., after natural man-made disasters occurrences, other trades and crafts and manual tasks such as carpentry, plumbing, painting, electrical and the like which are not part of the regular functions of the agency.”
+
+
+
+	4)	To date, AFPCES has no existing plantilla positions, thus military officials and enlisted personnel from the three AFP major commands are designated to supervise its operations.  As of December 31, 2020, AFPCES is manned by 11 military officers, 44 enlisted personnel, six detailed military personnel, two detailed staff from the General Headquarters and 335 civilian personnel.  The civilian personnel are Job Order (JO) workers whose contracts are renewable every five months.
+
+
+
+	5)	Some of these JO personnel are assigned in sensitive positions and as accountable officers as follows:
+
+
+
+1)	Store Managers
+
+2)	Chief, Civilian Personnel
+
+3)	Head, Morale and Welfare Branch
+
+4)	Chief Merchandising
+
+5)	Chief Sales
+
+6)	Head, Pricing
+
+7)	Head, Purchasing
+
+8)	Head, Procurement Branch
+
+9)	Head, Inventory Management
+
+10)	Head Procurement
+
+11)	Head, Bookkeeping Branch
+
+12)	Head, Processing Branch
+
+13)	Head, Accountability Branch
+
+14)	Chief, Audit Division
+
+15)	Head Audit Division
+
+16)	Head TCC Branch
+
+17)	Head, Disbursement and Processing Branch
+
+18)	Head Collection Branch
+
+19)	Head Pre-audit Branch
+
+20)	Chief Budget and Fiscal Branch
+
+21)	Fund Custodian
+
+22)	Warehousemen
+
+
+
+	6)	While these personnel perform their tasks satisfactorily, the sensitive nature of their tasks requires that they be covered with surety arrangements to protect government funds and property from exposure to risks.
+
+
+
+	7)	We reiterated our previous audit recommendation that Management elevate this concern to General Headquarters officials so that appropriate measures be initiated to address this issue.
+
+
+
+	8)	Management stated that Office of the Chief of Staff of Armed Forces of the Philippines (OCSAFP) issued a Memorandum to J1, informing that action on the AFP’s request submitted to the DBM on 11 Feb 2021 for the creation of 134 positions for AFPCES is expected to be completed approximately within 90 working days from date of receipt, provided all necessary data/information/ documents crucial to the evaluation of the request are complete.  Likewise, they have also requested from Major Services of the camps for available enlisted personnel to be assigned to vital positions of AFPCES branches.
+
+
+
+Compliance to Finance Incentives Review Board (FIRB) regulations on the Availment of Tax Subsidy
+
+10)	AFPCES fully complied with the following requirements stated in FIRB Resolution No. 7-20 dated October 13, 2020, to wit:
+
+--	Details of its systems to ensure that commissary privileges are confined solely to its intended beneficiaries, including the following:
+
+a)	Breakdown of customers by type/category;
+
+b)	Quantity and purchase limits; and
+
+c)	Identification requirements for customers.
+
+--	Results of the annual audit of its operations by the Commission on Audit or a reliable independent auditor
+
+--	Marking on all items entitled to tax subsidy with “Tax Subsidized by the Philippine Government, Not for Resale”.
+
+--	Availment in accordance with the terms and conditions of Section 15 (c) of Republic Act (RA) no. 11465 or the 2020 General Appropriations Act (GAA) subject to availability of funds, pursuant to the terms and conditions of the Rules and Regulations to Implement Subsidy Provisions under Executive Order (EO) 93.
+
+Relative thereto, a Certificate of Entitlement to Subsidy dated November 5, 2020 amounting to ₱321,598,507.74 was granted by the FIRB to continue the Agency’s services and post-exchange facilities.  To cover tax subsidy availment of AFPCES for CY 2020, the DBM issued Special Allotment Release Order No. SARO-BMB-D-20-001685 on December 10, 2020 amounting to ₱300, 964,305.00. 
+
+Compliance with Insurance Law
+
+
+
+11)	The Agency’s buildings, vehicles and equipment were insured with the GSIS thru Policy No. FI-NM-GSISHO-0034679 covering the period January 1 to December 31, 2020.
+
+Compliance with Tax Laws and Regulations
+
+
+
+12)	For CY 2020, AFPCES complied with BIR Regulation No. 14-2002 dated 09 September 2002 and Revenue Memorandum Circular No. 5-2006 dated 02 November 2005, by withholding taxes from its officials, employees and suppliers.  Of the ₱30,470,156.03 in withheld taxes, ₱30,359,904.31 was remitted during the year leaving a balance of ₱110,251.72 which was settled on January 2021.
+
+	Gender and Development (GAD)
+
+	
+
+13)	For CY 2020, Management allocated funds for GAD activities, although the Agency does not receive funds from AFP GHQ.  It was able to accomplish GAD-related activities such as attendance of its personnel to trainings/seminars and administration of flu vaccines to its employees. 
+
+Programs and Projects Related to Senior Citizens and Differently-abled Persons
+
+
+
+14)	To provide satisfaction to its authorized customers particularly the veterans, senior citizen and retirees, AFPCES has repainted and renovated CC C & X building.
+
+Compliance with deduction/remittance of GSIS premiums and Pag-IBIG contributions
+
+
+
+15)	AFPCES personnel are under contract of service and not considered government employees.  Hence, no deductions/remittances of GSIS premiums and Pag-IBIG contributions are made.
+
+Enforcement of settlement of audit suspension, disallowance and charge
+
+
+
+16)	AFPCES has no suspensions, disallowances and charges as of December 31, 2020.
+
+
+
+COVID-19 Funds
+
+
+
+17)	For CY 2020, AFPCES was not a recipient of COVID-19 Funds.
+
+
+
+32
+
+
+
+
+
+
+
+
+

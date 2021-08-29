@@ -1,0 +1,3434 @@
+PART II - OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+A)	FINANCIAL AUDIT
+
+
+
+Misstatements in the Financial Statements
+
+
+
+1)	Various accounting errors and omissions were noted in the recording of transactions which resulted in the understatement of Accumulated Surplus/ Deficit account by ₱3,651,415.97 and the overstatement of PPE, Accumulated Depreciation and Due to Officers and Employees accounts by ₱736,878.64, ₱700,034.71 and ₱3,688,259.90, respectively; thus, affecting the fair presentation of the financial statements (FS), contrary to the provisions of IPSAS 1. 
+
+
+
+	1)	IPSAS 1 provides that financial statements shall present fairly the financial position, financial performance, and cash flows of an entity. Fair presentation requires faithful presentation of the effects of transactions, other events and conditions in accordance with the definition and recognition criteria for assets, liabilities, revenue, and expenses set out in International Public Sector Accounting Standards (IPSAS). 
+
+
+
+	2)	Audit of FSs for CY 2020 disclosed various accounting errors and omissions which resulted in misstatements totaling ₱4,425,138.54 or equivalent to 0.23 percent of the total Assets of ₱1,963,116,243.31. Details are as follows:
+
+
+
+Deficiencies
+
+Amount of Misstatements (Aggregate)
+
+Amount (Over)/Understatements
+
+
+
+
+
+Assets
+
+Liabilities
+
+Equity
+
+
+
+
+
+PPE
+
+Accumulated Depreciation
+
+Due to Officer and Employee
+
+Accumulated Surplus/Deficit
+
+Erroneous recording of adjustments
+
+3,688,259.90 
+
+ 
+
+ 
+
+(3,688,259.90)
+
+3,688,259.90
+
+Non-recording of disposed properties
+
+736,878.64
+
+(663,583.64)
+
+(630,404.46)
+
+ 
+
+ (33,179.18)
+
+
+
+ 
+
+(73,295.00)
+
+(69,630.25)
+
+ 
+
+ (3,664.75)
+
+Total 
+
+ 4,425,138.54
+
+(736,878.64)
+
+(700,034.71)
+
+(3,688,259.90)
+
+3,651,415.97
+
+
+
+
+
+(36,843.93)
+
+(36,843.93)
+
+
+
+₱19,631,162.43
+
+Materiality level (1% of the CY 2020 Total Assets of ₱1,963,116,243.31)
+
+ 
+
+               0.23 
+
+Percentage of Misstatements to Total Assets
+
+
+
+	3)	Details of uncorrected misstatements in the FSs as of December 31, 2020 are presented in the succeeding paragraphs.
+
+
+
+Erroneous adjustments in Due from GOCC account
+
+
+
+	4)	It was recommended in previous year’s AOM----footnote1---- that Management recognize liability to officers and employees only upon receipt of reimbursements on Professional Fees from PhilHealth. The Chief Accountant of Accounting Section (AS) agreed to the said recommendation and thereafter prepared the necessary adjustments. 
+
+	
+
+	5)	Verification of records however, revealed that the adjusting entries made were erroneous.  The details are shown below:
+
+
+
+Reference #
+
+Adjusting Entry
+
+Should-be Adjusting Entry
+
+Affected Accounts
+
+(Over)/
+
+Understate-ment
+
+
+
+	Debit
+
+	Credit
+
+	Debit
+
+	Credit
+
+	
+
+
+
+	JEV-2019-03-001743
+
+	Accumulated Surplus/ Deficit
+
+	
+
+	Due to Officer and Employee
+
+	
+
+	Accumulated Surplus/ Deficit
+
+	₱3,688,259.90
+
+	
+
+	
+
+	Due from GOCC
+
+	
+
+	Due from GOCC
+
+	Due to Officer and Employee
+
+	(3,688,259.90)
+
+
+
+	6)	This deficiency resulted in the overstatement of the Due to Officers and Employees account in the amount of ₱3,688,259.90 and the understatement of the Accumulated Surplus/ Deficit account by the same amount.
+
+
+
+	7)	We recommended that Management require the AS to prepare a journal entry voucher (JEV) to correct the erroneous adjusting entries made.
+
+
+
+Failure to derecognize disposal of properties 
+
+
+
+	8)		Section 39 (d), Chapter 10 GAM----footnote2---- Vol. I, provides that: A Journal Entry Voucher shall be prepared by the Accounting Division/Unit to derecognize the asset from the books of accounts only after its disposal; xxx
+
+	
+
+	9)		The Director of VMMC approved Disposal Committee Resolution No. 001-2020 dated March 2, 2020, authorizing the Supply Section to dispose various unserviceable properties of the Center. Verification however, disclosed that the disposed properties amounting to ₱736,878.64 were still recorded in the books.   The details are as follows:
+
+
+
+Account
+
+Item/s
+
+Amount
+
+Office Equipment
+
+Air conditioning unit
+
+₱ 663,583.64
+
+ICT Equipment
+
+Computer set
+
+73,295.00
+
+Total
+
+₱ 736,878.64
+
+
+
+	10)	Interview with the concerned AS personnel revealed that the aforementioned properties are not derecognized from the books due to incomplete description. 
+
+
+
+	11)	As a result thereof, the PPE accounts were overstated by ₱736,878.64. 
+
+
+
+	12)	We recommended that Management require the AS and Supply Section (SS) to coordinate on disposed unserviceable properties with incomplete description to properly ascertain and derecognize the same in the books.
+
+
+
+	13)	Management Comments
+
+
+
+a)	There is already an on-going reconciliation and adjustments on the erroneous entry made. Necessary adjusting entries to correct any errors will be taken up upon review and reconciliation.
+
+
+
+b)	A Credit Adjustment Voucher has been prepared by the Chief, SS, for approval/signature of the VMMC Director.
+
+
+
+c)	The AS and SS are regularly reviewing all disposed properties for proper identification and derecognition from the books of accounts.
+
+	
+
+
+
+Accounting Deficiencies
+
+
+
+Unreliability and inaccuracy of various Receivable accounts
+
+
+
+1)	The (a) existence of long outstanding and/or dormant receivables amounting to ₱26,089,667.05, and (b) presence of 1,298 negative Subsidiary Ledger (SL) balances with an aggregate amount of ₱17,824,401.55 cast doubt on the fair presentation of receivables accounts in the FS. 
+
+
+
+	1)	The Center’s Accounts Receivables (AR), Other Receivables (OR), and Due from Officers and Employees (DOE) with balances of ₱22,535,248.38, ₱18,503,397.17 and ₱117,498.57, respectively, at year-end are comprised of the following:
+
+		
+
+	Accounts
+
+	Nature of Transactions
+
+	AR
+
+	Past due hospital bills of civilian patients. 
+
+	OR
+
+	Due from various debtors such as concessionaires for light and water (Veterans Golf Club), undeposited golf course collections of Mr. Gragasin, VMMC employees’ indemnities for breach of contract, bill of affiliation fees, bill of guaranteed hospital bills for retired employees, bill of overpayment of salaries and allowances for retired employees, tax deficiency on Professional Fee for retired employees.
+
+	DOE
+
+	Overpayment of salaries and allowances and due from employees who serve as guarantors for civilian patients.
+
+	
+
+	2)	Aging of AR, OR, and DOE accounts as of December 31, 2020 are as follows:
+
+	
+
+Accounts
+
+Current
+
+Long outstanding
+
+Total
+
+
+
+No. of SL
+
+<1 year
+
+No. of SL
+
+1 to 10 years
+
+No. of SL
+
+>10 years
+
+No. of SL
+
+Amount
+
+AR
+
+1203
+
+₱8,733,763.00
+
+561
+
+₱6,098,944.21
+
+941
+
+₱7,702,541.17
+
+2,705
+
+₱22,535,248.38
+
+OR
+
+42
+
+6,371,442.61
+
+846
+
+10,941,707.67
+
+297
+
+1,190,246.89
+
+1,185
+
+18,503,397.17
+
+DOE
+
+646
+
+(38,628.54)
+
+608
+
+(281,126.71)
+
+32
+
+437,353.82
+
+1,286
+
+117,598.57
+
+Total
+
+1891
+
+₱15,066,577.07
+
+2015
+
+₱16,759,525.17
+
+1270
+
+₱9,330,141.88
+
+5176
+
+₱41,156,244.12
+
+Percentage
+
+64.24
+
+35.76
+
+
+
+
+
+Existence of long outstanding and/or dormant receivables
+
+
+
+	3)	As can be gleaned from the table above, ₱9,330,141.88 or 35.76 percent of the Center’s long outstanding receivables amounting to ₱26,089,667.05 (₱16,759,525.17 + ₱9,330,141.88) represent dormant----footnote3---- account.
+
+
+
+	4)	Interview with the concerned AS personnel revealed that demand letters were sent to various debtors, however, they were returned with notations “unknown address”, “unclaimed/no one to receive”, “moved out”, “insufficient address”, “deceased”, and “unknown name at the given address”.
+
+
+
+	5)	COA Circular No. 2016-005 lays down the prescribed guidelines and procedures----footnote4---- in reconciling and cleaning the books of account or removing dormant receivables for fair presentation of receivables accounts in the FS. The AS however, failed to submit request for write off of dormant accounts despite existence of ₱9,330,141.88 dormant receivables.
+
+
+
+	6)	The failure of the AS to request for the write-off of dormant accounts defeated the purpose of reconciling and cleaning the books of account through derecognition pursuant to COA Circular No. 2016-005. 
+
+
+
+	7)	We recommended that Management require the AS to:
+
+
+
+a)	submit request for write-off of dormant receivables to COA for accounts that qualify for derecognition pursuant to COA Circular No. 2016-005; and
+
+
+
+b)	exhaust all possible remedies to collect receivables from debtors.
+
+Presence of abnormal/negative SL balances
+
+
+
+	8)	Our scrutiny of records further disclosed that the Center has 1,296  negative  SL balances with an aggregate amount of ₱9,801,651.55, the details are as follows:
+
+
+
+Account/Particulars
+
+No. of Negative SL
+
+Amount
+
+
+
+Prior Years
+
+Current Year
+
+Total
+
+Prior Years
+
+Current Year
+
+Total
+
+AR
+
+Consignment, Hospital Bill, Endowment Funds, PCSO Endowment Funds
+
+202
+
+
+
+332
+
+
+
+534
+
+₱(2,011,214.72)
+
+
+
+₱(3,413,133.31)
+
+
+
+₱(5,424,348.03)
+
+
+
+OR
+
+Overpayment of Salaries, Electricity and Water
+
+15
+
+
+
+7
+
+22
+
+(70,959.35)
+
+
+
+(2,229,354.68)
+
+
+
+(2,300,314.03)
+
+
+
+DOE
+
+Guarantorship, Overpayment of Salaries
+
+581
+
+159
+
+740
+
+(1,750,524.37)
+
+
+
+(326,465.12)
+
+
+
+(2,076,989.49)
+
+
+
+Total
+
+798
+
+498
+
+1,296
+
+₱(3,832,698.44)
+
+₱(5,968,953.11)
+
+₱(9,801,651.55)
+
+
+
+	9)	Interview with the Acting AS Chief, disclosed that the existence of negative balance in the AR was due to payment made on consigned drugs and medicines from the Consignment Pharmacy Area.
+
+
+
+	10)	For OR account, the AS is  still evaluating the reason/s for the existence of negative SL balances.
+
+
+
+	11)	For DOE account, the Acting Chief of AS explained that the negative SL balance was due to the deductions made from the salaries of active employees acting as guarantors. The following are the flow of transactions:
+
+
+
+Activity
+
+Journal Entry Voucher
+
+Audit Observation
+
+
+
+SL
+
+Debit
+
+Credit
+
+
+
+Discharge of Civilian Patients (CP) guaranteed by OE (Guarantorship)
+
+Various CP
+
+Accounts Receivable
+
+Hospital Fees
+
+ AR remained outstanding despite payment made through salary deductions because the account used to record the transaction was DOE instead of  AR.  
+
+Deduction on salaries and wages of OE shall be effected if the CP   cannot pay the hospital bills.
+
+Officers and Employees
+
+Salaries and Wages
+
+Due from Officers and Employees
+
+
+
+
+
+	12)	The AS further explained that some SLs with negative balances have been existing in the books of account for more than five years, and the reasons mentioned above are not exclusive as there are other reasons for negative balance; hence, these accounts are subject to further reconciliation and analysis. 
+
+
+
+	13)	The existence of negative SL balances rendered the AR, OR and DOE accounts unreliable and inaccurate as it reduce the balance of receivables.
+
+
+
+	14)	We recommended that Management direct the AS to: 
+
+
+
+a)	reconcile negative SLs accounts pertaining to consigned medicines; 
+
+
+
+b)	reconcile deductions made in the payroll of the guarantor employees (DOE) against the SL of the guaranteed civilian patients (AR) to identify the amount for adjustment; and 
+
+
+
+c)	evaluate and analyze causes of negative SL balances and make necessary adjustments if warranted, to reflect  correct account balances.
+
+
+
+	15)	Management Comments:
+
+
+
+	a)	A summary report and other pertinent documents to support the request for write-off of receivables qualified for derecognition is prepared and for submission to COA.  AS is also mandated to submit request for write-off on a quarterly basis to lessen long outstanding receivables which have very low probability of collection.
+
+
+
+	b)	AS is continuously sending demand letters to all debtors. There is also an approved Disposition Form made by AS requiring all issuer of Promissory Note to attach photocopy of ID with stated specific address as additional document in order to identify the exact address where demand letter will be sent.  There are also two Contract of Service personnel hired as Accounts Receivable Analyst responsible for sending demand letters and preparation of necessary adjustment related to all receivables account. 
+
+
+
+	c)	There is an on-going reconciliation of previous entries made in the said accounts.  AS reviewed the flow of transaction that caused negative balances and made necessary additional entries to avoid further accumulation of negative balances. Consignment receivables are recorded daily with reference to the submitted Summary of Charged Slip from Pharmacy Consignment for the set-up of Accounts Receivables and proper credit of the same will be entered upon payment. 
+
+
+
+	d)	Reconciliation and verification of negative balances for guaranteed receivables are in process to be able to properly identify payments made thru salary deduction by VMMC employees.
+
+
+
+	e)	Cash Section consistently submits to AS all promissory notes received for proper set-up of receivables and to make sure that all deductions charged to each employee as guarantor is properly supported by promissory notes. 
+
+
+
+	f)	AS shall evaluate, verify and analyze causes of the negative SL balances. Necessary adjustments will be taken up in the books immediately. 
+
+
+
+
+
+Doubtful balance of Due from GOCC account
+
+
+
+2)	The accuracy of the Due from GOCCs account with a balance of ₱94,674,874.96 at year-end is doubtful due to: (a) inclusion of long outstanding/dormant receivables from PhilHealth totaling ₱10,822,133.06 aged one to more than 10 years due to absence of monitoring and enforcement of collections thereof;              (b) existence of negative SL balance of ₱430,898.12; and (c) unreconciled difference of ₱829,048.91 between the balance per books and per PITC records of fund transfers. 
+
+
+
+	1)	As of December 31, 2020, the Due from GOCC account disclosed a balance of ₱94,674,874.96 consisting of the following: 
+
+
+
+GOCC
+
+Amount
+
+Remarks
+
+PhilHealth
+
+₱ 95,065,207.20
+
+Total claims from PhilHealth for hospitalization reimbursement from various patients.
+
+
+
+(430,898.12)
+
+Negative SL balances
+
+Net Collectibles from PhilHealth
+
+94,634,309.08
+
+
+
+PITC
+
+40,565.88
+
+Remaining of the transferred amount to PITC for procurement and delivery of the Center’s Water Pipeline Project.
+
+Total
+
+₱ 94,674,874.96
+
+
+
+
+
+	2)	Audit of Due from GOCC account showed the following deficiencies:
+
+
+
+Long outstanding uncollected receivable from PhilHealth
+
+	
+
+	3)	Scrutiny of records disclosed that the Center has a total receivables of ₱95,105,773.08 from PhilHealth as of year-end.  Further verification disclosed that said amount includes accounts totaling ₱10,822,133.06 which have been outstanding for more than one to more than 10 years.   
+
+
+
+	Age - Due from GOCC (Use of Income/Internally Generated)
+
+	No. of SL
+
+	One Year
+
+	More than one year
+
+	Not yet due
+
+1,187
+
+₱59,277,682.37 
+
+
+
+	Below 1 year
+
+1,183
+
+25,005,957.65 
+
+
+
+	More than 1year to 5 years
+
+653
+
+
+
+₱ 5,373,753.18 
+
+	More than 5years to 10 years
+
+370
+
+
+
+   2,101,105.53 
+
+	10 years and above
+
+751
+
+
+
+   3,347,274.35 
+
+	Sub-total
+
+
+
+84,283,640.02
+
+10,822,133.06
+
+	Total
+
+4,144
+
+₱ 95,105,773.08
+
+	4)	Under Section 47, RA 7875----footnote5----, the claim of the health care provider  may be denied in cases where the delay in the filing of claim is caused by the health care provider and the Medicare benefits had already been deducted, the claim will not be paid.  Moreover, the Corporation may deny or reduce any benefit provided therein when the claims are attended by any of the circumstances mentioned in the same section. (Emphasis ours)
+
+
+
+	5)	The aforementioned law gives PhilHealth the authority to deny or reduce claims for reimbursements by VMMC----footnote6----, if it meets the conditions. 
+
+
+
+	6)	Interview with the Acting Chief, AS revealed that the Center has yet to inquire on the status of its claims or send demand letter to PhilHealth for collection of long oustanding receivables. 
+
+
+
+	7)	Therefore, had regular monitoring of the agency’s receivables from PhilHealth, especially those aging “more than one year” to “10 years and above”, been made, existence of long outstanding accounts could be avoided and necessary adjustment in the books could be effected in case of denial of claim.
+
+
+
+Existence of negative SL balances
+
+	
+
+	8)	Chapter 3 of the Revised Chart of Accounts (RCA) defines Due from GOCCs account as the account used to recognize advances for purchase of goods/ services as authorized by law, fund transfers to GOCCs for implementation of projects, guarantee fees for NG-guaranteed loans of GFIs/GOCCs, NG advances for debt service payments on NG-relent or guaranteed loans of GFIs/ GOCCs and other receivables from GFIs/GOCCs.  Credit this account for the receipt of goods or services, liquidation of fund transfers (FTs), and receipt of guarantee fees, payment of advances and other receivables.
+
+
+
+	9)	Scrutiny of records showed that 203 SLs under the Trust Fund Cluster have an aggregate balance of negative ₱430,898.12. Details are shown as follows:
+
+	
+
+	Age of Due from GOCC (Trust Fund Cluster)
+
+	No. of SL
+
+	Amount
+
+	Below 1 year
+
+	15
+
+	₱  (47,820.00)
+
+	More than 1 to 5 years
+
+	128
+
+	(130,268.12)
+
+	More than 5 to 10 years
+
+	29
+
+	(170,490.00)
+
+	10 years and above
+
+	31
+
+ (82,320.00)
+
+	Total
+
+	203
+
+₱ (430,898.12)
+
+	
+
+	10)	Further verification disclosed that some of the negative SL balances are the result of erroneous adjustments made by the AS and not from the the receipt of goods or services, liquidation of FTs, and receipt of guarantee fees, payment of advances and other receivables that allows crediting of Due from GOCCs account. 
+
+
+
+	11)	Thus, the existence of negative SL balances on Due from GOCC – PhilHealth account, casts doubt on the accuracy and reliability of the account as it reduce the balance of Due from GOCC. 
+
+
+
+Unreconciled balances of Due from PITC
+
+
+
+	12)	Verification disclosed that there is a discrepancy of ₱19,780,765.25 between the balance per books of ₱21,625,522.51 and the confirmed balance per PITC records of ₱1,844,757.26 as of year-end.  Records however showed that the PITC has completed the contracted project amounting to ₱18,951,716.34. Details are as follows:
+
+
+
+	Due from PITC
+
+	Unreconciled amount
+
+	Balance per book, 12/31/2020
+
+	₱ 21,625,522.51
+
+	Balance per PITC
+
+	1,844,757.26
+
+	Difference
+
+	19,780,765.25
+
+	Less: completed project already adjusted in the books
+
+18,951,716.34
+
+	Total unreconciled amount
+
+₱     829,048.91
+
+
+
+	13)	The reason for the difference of ₱829,048.91 could not be determined yet and subject to further reconciliation of records by the Accounting and Engineering Sections of VMMC and PITC. 
+
+
+
+	14)	We recommended that Management: 
+
+
+
+a)	enforce collection of receivables from PhilHealth by sending demand letter and making a representation to inquire on status of claims; 
+
+
+
+b)	require the AS to monitor the amount due from PhilHealth; 
+
+
+
+c)	evaluate and analyze causes of negative SL balances and make necessary adjustments, if warranted, to reflect the correct account balance; and 
+
+
+
+d)	reconcile the balance of Due from GOCC - PITC and identify services that are already performed but not recorded in the books, if there is any.
+
+
+
+	15)	Management Comments:
+
+
+
+a)	Demand letter to PhilHealth was served and duly received on March 11, 2021. Demand Letter shall be sent frequently and shall make a representation with PhilHealth to inquire on the status of claims. 
+
+
+
+b)	AS shall evaluate and analyze causes of the negative SL balances. Necessary adjustment will be taken up in the books.
+
+
+
+c)	Liquidation and Completion report was already submitted by PITC last March 17, 2021. The difference was already accounted for and recorded in the books including recognition of completed projects.
+
+
+
+
+
+Doubtful Inventory Accounts balance
+
+
+
+3)	The physical existence and reliability of Inventory accounts amounting to ₱393,622,252.21 as of December 31, 2020 cannot be ascertained due to:                       (a) erroneous RPCI----footnote7---- for Medical, Dental and Laboratory Supplies Inventory;                    (b) unreconciled balances of SLCs and SCs for Drugs and Medicines Inventory; and (c) presence of non-moving/dormant balances of various Inventory items amounting to ₱39,149,925.60. Moreover, the Report of Supplies and Materials Issued (RSMI) and Requisition and Issue Slip (RIS) did not conform with the prescribed format under the GAM.
+
+
+
+	1)	Section 2 of PD No. 1445 provides that it is the declared policy of the State that all resources of the government shall be managed, expended or utilized in accordance with law and regulations, and safeguard against loss or wastage through illegal or improper disposition, with a view to ensuring efficiency, economy and effectiveness in the operation of the government. The responsibility to take care that such policy is faithfully adhered to rests directly with the chief or head of the government agency concerned.
+
+
+
+	2)	Audit of Inventory accounts showed the following deficiencies:
+
+
+
+Erroneous RPCI for medical, dental and laboratory supplies inventory
+
+
+
+	3)	The SS submitted the RPCI as of December 31, 2020 on March 4, 2021.  Comparison of the AS and SS records showed a difference of ₱353,544,017.37, computed as follows: 
+
+
+
+Account
+
+Balance 
+
+Difference
+
+
+
+Per Books
+
+Per RPCI
+
+
+
+Office Supplies Inventory
+
+₱     4,164,335.18 
+
+₱     3,383,854.04 
+
+₱        780,481.14 
+
+Accountable Forms, Plates and Stickers Inventory 
+
+99,611.78 
+
+62,206.24 
+
+37,405.54 
+
+Food Supplies Inventory 
+
+13,085,877.69 
+
+6,249,414.54 
+
+6,836,463.15 
+
+Drugs and Medicines Inventory 
+
+221,596,864.26
+
+138,835,202.76 
+
+82,761,661.50 
+
+Medical, Dental and Laboratory Supplies Inventory 
+
+123,308,302.11
+
+376,286,081.16 
+
+252,977,779.05
+
+Fuel, Oil and Lubricants Inventory 
+
+1,950,419.11 
+
+1,950,419.04 
+
+0.07 
+
+Other Supplies and Materials Inventory 
+
+29,215,146.08 
+
+19,266,615.16 
+
+9,948,530.92 
+
+Semi-expendable Machinery and Equipment
+
+201,696.00
+
+-0-
+
+201,696.00
+
+Total
+
+₱393,622,252.21
+
+₱546,033,792.94 
+
+₱353,544,017.37
+
+
+
+	4)	As can be gleaned from the table above, the balance per RPCI for Medical, Dental and Laboratory Supplies Inventory account is higher than that of balance per book with a difference of ₱252,977,779.05.
+
+
+
+	5)	Interview with the SS personnel revealed that the Inventory Committee (IC) is in charge in the actual inventory count per office. After the actual inventory taking, the IC will submit the physical count of items to the SS for consolidation and preparation of RPCI.
+
+
+
+	6)	Verification however, revealed that the SS committed an error in the preparation of the RPCI by using the unit of measure (UM) and cost per UM per e-NGAS (per box) in multiplying the quantity submitted by the Nursing Section which is per piece. This resulted in a large difference between the balance per book and per RPCI for Medical, Dental and Laboratory Supplies Inventory as shown in the table: 
+
+
+
+
+
+
+
+Description
+
+
+
+
+
+(a)
+
+RPCI
+
+Physical Count submitted by Nursing Service for preparation of RPCI
+
+
+
+Difference
+
+(e- i)
+
+
+
+
+
+(j)
+
+
+
+ UM
+
+Cost per UM
+
+ Quantity
+
+Amount
+
+(c x d)
+
+UM
+
+Cost per UM
+
+Quantity
+
+Should be Amount
+
+(g x h)
+
+
+
+
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+(i)
+
+
+
+Gloves, examination, latex, non-powdered, hypoallergenic, large, box of 100's
+
+Box (100 pcs/box)
+
+282.75
+
+291,080
+
+82,301,572.64 
+
+Pc.
+
+2.83
+
+
+
+291,080
+
+816,512.58 
+
+
+
+80,834,745.31
+
+
+
+Gloves, examination, latex, non-powdered, hypoallergenic, medium size, box of 100's
+
+Box (100 pcs/box)
+
+363.08
+
+186,600
+
+67,751,515.36 
+
+Pc.
+
+3.63
+
+
+
+186,600
+
+677,515.15 
+
+
+
+67,074,000.21
+
+
+
+Booties 100 pcs per box
+
+Box (100 pcs/box)
+
+600.00
+
+105,900
+
+63,540,000.00 
+
+Pc.
+
+6.00
+
+
+
+105,900
+
+635,400.00 
+
+
+
+62,904,600.00
+
+
+
+Surgeons face mask, earloop, 50's
+
+Box (50 pcs/box)
+
+93.78
+
+501,300
+
+47,012,145.58 
+
+Pc.
+
+1.88
+
+
+
+501,300
+
+940,242.91 
+
+
+
+46,071,902.67
+
+
+
+Bowie and dick test card (color changes from purple to green when processed) box of 120's
+
+Box (120 pcs/box)
+
+19,999.47
+
+960
+
+19,199,490.00 
+
+Pc.
+
+166.66
+
+
+
+960
+
+159,995.75 
+
+
+
+19,039,494.25
+
+
+
+Sterilization wrap, non-woven fabric (50 gsm) size: 900mm x 900mm, 250 pcs per box
+
+Box (250 pcs/box)
+
+6,250.00
+
+2,000
+
+12,500,000.00 
+
+Pc.
+
+25.00
+
+
+
+2,000
+
+ 50,000.00 
+
+
+
+12,450,000.00
+
+
+
+Povidone iodine swab/wipes, box of 100's)
+
+Box (100 pcs/box)
+
+378.00
+
+28,100
+
+10,621,800.00 
+
+Pc.
+
+3.78
+
+
+
+28,100
+
+106,218.00 
+
+
+
+10,515,582.00
+
+
+
+(Examination gloves, small 100's/box
+
+Box (100 pcs/box)
+
+126.25
+
+18,500
+
+  2,335,715.65 
+
+Pc.
+
+1.26
+
+
+
+18,500
+
+ 23,357.16 
+
+
+
+2,312,358.49
+
+
+
+Suture coated polyglactin 6-0 cutting p-1 needle undyed, 24's
+
+Box (24 pcs/box)
+
+11,900.00
+
+72
+
+    856,800.00 
+
+Pc.
+
+495.83
+
+
+
+72
+
+ 35,700.00 
+
+
+
+821,100.00
+
+
+
+Needle, surgeon's regular 3/8 circle cutting edge size 12
+
+Dozen (12 pcs/ box)
+
+1,679.60
+
+240
+
+    403,104.00 
+
+Pc.
+
+139.97
+
+
+
+240
+
+ 33,592.00 
+
+
+
+    369,512.00 
+
+
+
+Face masks 50's disposable (earloop)
+
+Box (50 pcs/box)
+
+32.85
+
+9,885
+
+    324,724.13 
+
+Pc.
+
+0.66
+
+
+
+9,885
+
+    6,455.06 
+
+
+
+   316,298.06 
+
+
+
+
+
+	7)	The errors committed by the SS in the preparation of RPCI cast doubt on the reliability of the year-end balance of physical count of Medical, Dental and Laboratory Supplies Inventory.  
+
+
+
+Unreconciled balance of SLC----footnote8----s and SC----footnote9----s of Drugs and Medicines Inventory account
+
+
+
+	8)	Appendix 57 of GAM, Vol. II, Instruction in the preparation of SLC provides that the agency shall conduct physical count of inventories every semester. The semestral physical inventory of supplies shall be reconciled with the SLCs and controlling accounts and Supply and/or Property records. 
+
+
+
+	9)	To ascertain the existence and accuracy of the account, verification was conducted on inventory items with a balance of more than two percent of the total year-end balance of Drugs and Medicine Inventory account of ₱221,596,864.26 or ₱4,431,937.29. Records disclosed the following information:
+
+	
+
+Nomenclature
+
+Cost per Unit
+
+INVENTORY BALANCE
+
+DIFFERENCE
+
+in amount
+
+
+
+
+
+Per Book (SLC)
+
+SC
+
+RPCI
+
+SLC vs SC
+
+SC vs RPCI
+
+
+
+
+
+Qty
+
+Amount
+
+Qty
+
+Amount
+
+Qty
+
+Amount
+
+
+
+
+
+Atorvastatin calcium 40mg
+
+16.76
+
+
+
+302,537
+
+
+
+5,069,479.32
+
+
+
+271,955
+
+
+
+4,557,965.80 
+
+
+
+277,075
+
+4,643,777.00 
+
+
+
+    511,513.52 
+
+
+
+  (85,811.20) 
+
+
+
+Pneumococcal conjugate vaccine inj
+
+3,816.85
+
+
+
+2,822
+
+
+
+10,771,152.05
+
+
+
+381
+
+
+
+1,454,219.85 
+
+
+
+381
+
+
+
+1,454,219.85 
+
+
+
+ 9,316,932.20 
+
+
+
+-0-
+
+Remdesivir 100mg lyophilized powder for injection (infusion
+
+5,780.64
+
+
+
+849
+
+
+
+4,907,765.79
+
+
+
+823
+
+
+
+4,757,466.72 
+
+
+
+823
+
+
+
+4,757,466.72 
+
+
+
+    150,299.07 
+
+
+
+-0-
+
+Rituximab 500mg/vial
+
+82,127.48
+
+
+
+67
+
+
+
+5,502,541.16
+
+
+
+40
+
+
+
+3,285,099.20 
+
+
+
+40
+
+
+
+   3,285,099.20 
+
+
+
+ 2,217,441.96 
+
+
+
+-0-
+
+Tamsulosin hcl 200mcg cap (as hcl
+
+20.16
+
+
+
+422,377
+
+
+
+8,516,799.49
+
+
+
+219,358
+
+
+
+4,422,257.28 
+
+
+
+221,748
+
+
+
+   4,470,439.68 
+
+
+
+ 4,094,542.21 
+
+
+
+ (48,182.40) 
+
+
+
+Terazosin / terazosin hcl 5mg tab
+
+84.65
+
+
+
+252,037
+
+
+
+21,334,932.05
+
+
+
+183,733
+
+
+
+15,552,998.45 
+
+
+
+160,379
+
+
+
+13,576,082.35 
+
+
+
+5,781,933.60 
+
+
+
+1,976,916.10 
+
+
+
+Trastuzumab 150mg lyophilized powder
+
+31,876.04
+
+
+
+276
+
+
+
+8,797,786.15
+
+
+
+45
+
+
+
+1,434,421.80 
+
+
+
+135
+
+
+
+   4,303,265.40 
+
+
+
+ 7,363,364.35 
+
+
+
+(2,868,843.60) 
+
+
+
+Trastuzumab 150mg
+
+38,272.00
+
+
+
+267
+
+
+
+10,218,624.00
+
+
+
+-0-
+
+-0-
+
+-0-
+
+-0-
+
+10,218,624.00 
+
+
+
+-0-
+
+TOTAL
+
+
+
+75,119,080.01
+
+
+
+35,464,429.10
+
+
+
+ 36,490,350.20
+
+39,654,650.91
+
+(1,025,921.10) 
+
+
+
+	10)	As can be gleaned from the above table, there is huge discrepancy between the balances per SLC, SC and RPCI. 
+
+
+
+	11)	Our interview revealed that the issues on the unreconciled balance of Drugs and Medicines Inventory have been observed for the past few years and the subject of the AS an SS reconciliation.
+
+
+
+Existence of non-moving or dormant balances of various Inventory items
+
+
+
+	12)	Also noted is the presence of 2,112 non-moving or dormant SLC balances with an aggregate amount of ₱39,149,925.60, the details are as follows:
+
+
+
+Account
+
+No. of non-moving items
+
+Amount
+
+Office Supplies Inventory
+
+108
+
+₱     755,184.12 
+
+Accountable Forms, Plates and Stickers Inventory
+
+1
+
+1,225.00 
+
+Food Supplies Inventory
+
+31
+
+2,536,232.61 
+
+Drugs and Medicines Inventory
+
+344
+
+13,071,276.49 
+
+Medical, Dental and Laboratory Supplies Inventory
+
+734
+
+18,021,508.56 
+
+Fuel, Oil and Lubricants Inventory
+
+1
+
+0.07 
+
+Other Supplies and Materials Inventory
+
+893
+
+4,764,498.75 
+
+Total
+
+2,112
+
+₱39,149,925.60
+
+
+
+	13)	Interview with AS personnel revealed that the dormant/non-moving accounts were attributed to unreconciled prior years’ transactions which may already exist before the migration of balances from old NGAS to New E-NGAS in 2016; thus, subject to further reconciliation.
+
+
+
+Non-conformity with prescribed format of RSMIs 
+
+
+
+	14)	Section 7, Chapter 8 of the GAM, Volume I, provides that: Report of Supplies and Materials Issued (RSMI) (Appendix 64) – shall be prepared by the Property and/or Supply Custodian based on the RIS and shall be used by the Accounting Division/Unit as basis in preparing the JEV to record the supplies and materials issued.
+
+
+
+
+
+
+
+	15)	Appendix 64 (3) of the GAM, Volume II, states: 
+
+
+
+----media/image1.png----
+
+
+
+	16)	The purpose of assigning the serial number for each RSMI is to ensure control in every inventory issuance and deterrence against double recording of issuances. 
+
+
+
+	17)	Verification of various RSMIs forwarded to the Audit Team (AT) revealed that the Pharmacy Services (PS) – Main, Engineering and Building Management Section (EBMS), and Dental Service (DS) prepared and submitted RSMIs with no assigned serial numbers. 
+
+
+
+	18)	The failure of concerned personnel to assign serial number in the RSMIs does not conform with the prescribed format under Section 7, Chapter 8 of the GAM.
+
+
+
+Non-conformity to the prescribed format of RIS
+
+
+
+	19)	Appendix 64, GAM, Volume II, instructs for the preparation of RIS, to quote:
+
+
+
+5. RIS No. – RIS control number assigned by the designated personnel in the Supply and/or Property Division/Unit. 
+
+
+
+17. Received by and date – signature, name and designation of the person who received the item/s and date of receipt.
+
+
+
+	20)	Interview with the PS personnel disclosed that they are religiously consolidating daily the RIS received from end-users and subsequently prepares RSMI for submission to the AS to ensure that issued medicines are recorded completely.
+
+
+
+	21)	Verification revealed that all submitted RSMI to AS by PS were accordingly recorded in the books during CY 2020.  However, the portion of “RIS Number (RIS No.)” and “Received by” in all RIS for drugs and medicines were blank. 
+
+
+
+	22)	Then again, leaving the portion of “RIS No.” and “Received by” blank in the RIS created doubt on accuracy and completeness of recorded issuances of drugs and medicines. 
+
+
+
+
+
+
+
+	23)	We recommended that Management require the:
+
+
+
+a)		Inventory Committee (IC) to correct errors noted in the RPCI and submit to COA the revised RPCI as of December 31, 2020;
+
+	
+
+b)		AS and SS to coordinate, analyze and reconcile balances of accounting and inventory records, and effect necessary adjustments to reflect  correct balance of the account; 
+
+	
+
+c)		PS to fill out all data required in the RIS to ascertain validity and accuracy of reported issuances; and
+
+	
+
+d)		concerned personnel to use the prescribed RSMI form pursuant to GAM.
+
+	
+
+	24)	Management Comments:
+
+
+
+a)	The IC is in the process of revising the erroneous RPCI for Medical, Dental and Laboratory Inventory. Corrected RPCI will be submitted upon adjustment of the report.  
+
+
+
+b)	Pharmacy Service, Supply Section and AS will create a team that will be responsible for the reconciliation of inventory accounts.  A meeting will be set in order to identify solutions to avoid further errors in inventory balances.
+
+
+
+c)	Pharmacy Service acknowledged the audit observations and will immediately conform to the complete filling out of RIS serial number. It will require all nurses to sign in the received portion of the RIS in compliance with the audit observation. A control number will be assigned to each RIS in accordance with the prescribed GAM format.
+
+
+
+d)	The Pharmacy Service noted the audit observation and will conform to the prescribed RSMI form starting April 1, 2021. A Hospital Memorandum dated March 25, 2021 was issued reiterating the provisions contained in  the Hospital Memorandum No. 540 dated July 23, 2019 to remind all departments and sections on the implementation of prescribed GAM Forms.
+
+
+
+
+
+Difference between balance per books and PVAO books 
+
+
+
+4)	The accuracy of the balance of Due to NGAs account amounting to ₱32,537,646.40 as of December 31, 2020 cannot be relied upon due to the discrepancy of ₱11,661,997.49 between the balance per books and the amount confirmed by the Philippine Veterans Affairs Office (PVAO) as balance of transferred funds to VMMC.
+
+
+
+	1)	COA Circular No. 94-013, dated December 13, 1994 laid down the rules and regulations in the grant, utilization and liquidation of funds transferred to implementing agencies (IAs) to ensure that the transfer is properly taken up in the books of the Source Agency (SA) and IAs, the transferred funds are used only for the intended purpose, and proper accounting and reporting is made on the utilization of funds.
+
+
+
+	2)	Verification disclosed that there is a discrepancy of ₱11,661,997.49 between the balance per books of ₱16,669,646.40 and the confirmed balance from PVAO records of ₱28,331,643.89 as of year-end.  
+
+
+
+	3)	Verification further showed that fund transfer from PVAO of ₱211,328,466.07 and liquidation made by VMMC of ₱236,874,832.47 during the year were properly recorded in the books of both agencies. 
+
+
+
+	4)	Interview with AS personnel disclosed that the unreconciled balance of ₱11,661,997.49 could be attributed to prior years’ transactions relative to the Veterans Hospitalization and Medical  Care Program (VHMCP), a program in response to the PVAO advocacy that “no veteran shall pay for his/her own medicine”. Accordingly, the documents used in the payments of patient’s reimbursement should be identified/located to determine whether the same have been submitted to PVAO to support the liquidation of funds transferred. The AS coordinated with PVAO Accountant regarding the unreconciled balance and the latter cooperated by providing the former with copy of their SL from January 2016 to November 2020.  Also, the AS already assigned one of its personnel to focus on the reconciliation of the account.
+
+
+
+	5)	The non-reconciliation of records of VMMC and PVAO with a discrepancy of ₱11,661,997.49 rendered the accuracy of Due to NGAs account doubtful.
+
+
+
+	6)	We recommended that Management require the AS to reconcile the balance due to PVAO, identify payments made on patient’s reimbursement and confirm with PVAO submission of documents to support liquidation of funds received.  
+
+
+
+	7)	Management Comment:
+
+
+
+The AS has coordinated with PVAO and had already received copy of PVAO SL for VHMCP Fund Transfers for the period January 2016 to November 2020 as reference for the on-ongoing reconciliation.  An Accountant in the Bookkeeping Unit was assigned to focus on reconciliation. Necessary adjustments will be made upon verification.
+
+
+
+
+
+
+
+
+
+A)	COMPLIANCE AUDIT
+
+
+
+Granting of multiple Cash Advances (CAs) to Special Disbursing Officer (SDO) despite non-settlement of previous CAs
+
+
+
+5)	Additional CAs were granted to SDOs despite non-settlement of the previous CAs contrary to Section 89 of PD 1445.
+
+
+
+	1)	Section 89 of PD 1445 is states that: x xx. A cash advance shall be reported on and liquidated as soon as the purpose for which it was given has been served. No additional cash advance shall be allowed to any official or employee unless the previous cash advance given to him is first settled or a proper accounting thereof is made.
+
+
+
+	2)	Section 14 (c), Chapter 6 of the GAM Volume I provides that, no additional CA shall be allowed to any official or employee unless the previous CA given is first settled/liquidated or a proper accounting thereof is made.
+
+
+
+	3)	Verification of unliquidated CAs disclosed that additional CAs of ₱5,049,986.18 were granted to SDOs despite non-settlement of previous CAs. Details are as follows: 
+
+
+
+AO
+
+Date CA Granted
+
+Amount
+
+Purpose
+
+Sherly Cano Biag
+
+26-Nov-2020
+
+₱1,000.00
+
+Telephone expense used to contact and send messages to veterans and their dependents (cash section).
+
+
+
+1-Dec-2020
+
+100,000.00
+
+Postage and Courier Services uses for mailing letters/documents and checks, notarial fees and mailing expenses of Memorandum of Agreement (MOA) for various government and private accredited hospital.
+
+
+
+15-Dec-2020
+
+52,000.00
+
+Purchase of office supplies and other office supplies and materials for the VHMCP activities.
+
+
+
+28-Dec-2020
+
+1,000.00
+
+Telephone expenses used to contactand send messages to veterans and their dependents.
+
+ 
+
+Sub-Total
+
+154,000.00
+
+ 
+
+Siminig, John Bob P.
+
+16-Oct-2020
+
+1,248,953.40
+
+VMMC 65th Anniversary Celebration on Nov. 16-22, 2020.
+
+
+
+26-Oct-2020
+
+3,106.23
+
+Remittance of professional Fees (PFs) deducted from Employees Payroll for the month of October 2020 Payroll.
+
+
+
+23-Nov-2020
+
+84,171.50
+
+Additional expenditures RE: VMMC 65th Anniversary Celebration 2020
+
+
+
+26-Nov-2020
+
+22,203.67
+
+Remittance of PFs deducted from employee’s payroll for the month of November 2020.
+
+
+
+14-Dec-2020
+
+880,100.00
+
+VMMC Anniversary "Pasasalamat" Celebration, December 14-18, 2020.
+
+
+
+14-Dec-2020
+
+65,000.00
+
+Launching of VMMC Malasakit Center Program on December 18, 2020.
+
+
+
+17-Dec-2020
+
+75,000.00
+
+Emergency purchase of Drugs & Medicines on Holiday (Dec. 24, 25, 30, 31 & Jan. 1, 2021.)
+
+
+
+17-Dec-2020
+
+25,042.78
+
+Remittance of PFs deducted from employee’s payroll for the month of December 2020.
+
+
+
+27-Nov-2020
+
+885,690.00
+
+PFs (PhilHealth) for the period of October 1-31, 2020.
+
+
+
+21-Dec-2020
+
+922,719.90
+
+PFs (PhilHealth) for the period of November 1-30, 2020.
+
+
+
+27-Dec-2020
+
+743,019.10
+
+PFs (PhilHealth) for the period of September 1-30, 2020.
+
+ 
+
+Sub-Total
+
+ 4,955,006.58
+
+ 
+
+Leticia C. Yadao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21-Feb-2020
+
+38,000.00
+
+Expenses of Annual Commencement and Recognition of the graduating Fellows and Residents for the period of July 2019 to June 2020 on March 13, 2020.
+
+
+
+6-Mar-2020
+
+100.00
+
+Annual Basketball Tournament CY 2020.
+
+
+
+22-Sep-2020
+
+72,500.00
+
+Continuous implementation of the QMS (ISO 9001:2015) standards, IRC EC to conduct Readiness Assessment on various areas for September 2020.
+
+
+
+3-Nov-2020
+
+103,600.00
+
+Representation expense of VMMC-BAC for CY 2020. Negotiated Procurement - Emergency Cases of Drugs and Medicines for November to December 2020 to include Negotiated Procurement - Emergency Cases of Supplies and Materials for PHIVIDED
+
+
+
+3-Nov-2020
+
+70,000.00 
+
+Continuous implementation of the QMS (ISO 9001:2015) standards, IRC EC to conduct a Readiness Assessment on various areas for Oct-Nov 2020
+
+
+
+10-Nov-2020
+
+10.00 
+
+Cash Advance for Beautification of VMMC lobby for the Anniversary 2020 Celebration
+
+
+
+10-Nov-2020
+
+353,000.00
+
+Landscaping of VMMC Road, Phase I & II, Right & Left.
+
+
+
+26-Nov-2020
+
+289,423.00 
+
+Representation expense of VMMC BAC 'Early Procurement Conference - Lot 48-AF-2020-Supply, Delivery and Testing OF 40 units of Laptop (Rebidding), Bid Evaluation/LCB/SCB Determination under Lot 46-GAA-2020, Supply, Delivery, Installation, Customization and Commissioning of Patient Online, Portal on November 24 - December 15, 2020
+
+
+
+1-Dec-2020
+
+96,500.00 
+
+Continuance of ISO 9001:2015 2nd Management Review Meeting on December 1-4, 2020.
+
+
+
+15-Dec-2020
+
+84,000.00 
+
+2nd Surveillance Audit under the ISO 9001, 2015.
+
+
+
+23-Dec-2020
+
+121,800.00
+
+Representation expense of VMMC BAC procurement of 11 projects under Bayanihan 2 on Dec. 21-28, 2020.
+
+ 
+
+Sub-Total
+
+1,228,933.00
+
+ 
+
+TOTAL AMOUNT
+
+₱6,337,939.58
+
+
+
+Unliquidated CA prior to issuance of additional CA
+
+Sherly Cano Biag
+
+(1,000.00)
+
+
+
+	Siminig, John Bob P
+
+(1,248,953.40)
+
+
+
+	     Leticia C. Yadao
+
+(38,000.00)
+
+
+
+Additional CA granted prior to liquidation
+
+₱5,049,986.18 
+
+
+
+
+
+	4)	Interview with AS personnel revealed that CAs were granted for different purpose/s. Hence, additional CAs were allowed but for a different specific project/purpose. 
+
+
+
+	5)	Further analysis showed that 52.50 percent or ₱2,601,781.68 of the SDO’s (Mr. Siminig) CAs of ₱4,955,006.58, represents reimbursements of PFs from PhilHealth to various Medical Officers.  The payment of PF reimbursement may have instead been deposited directly to the bank account of concerned medical officers to avoid risk of being lost in the hands of the SDOs.  Moreover, DBM Circular Letter No. 2013-16 as amended by DBM Circular Letter No. 2018-14 instructs strict implementation of the Modified Direct Payment Scheme (MDPS) for transactions entered by National Government Agencies (NGAs). The MDPS directs NGAs to pay using the Advice to Debit Account (ADA) to suppliers/creditors/payees. Thus, VMMC being an NGA, should have paid the medical officers through ADA in compliance with the DBM Circular. 
+
+
+
+	6)	Non-liquidation and additional grant of CAs to SDOs without liquidating the previous CAs is contrary to the aforementioned laws, rules and regulations.. 
+
+
+
+	7)	We recommended that Management:
+
+
+
+	a)	stop granting additional CA to SDOs without liquidating first the previous CAs; and
+
+
+
+	b)	comply with existing regulation on the use of ADA to pay the PF of medical officers. 
+
+
+
+
+
+
+
+	8)	Management Comments:
+
+
+
+a)	The granting of additional CAs to SDO was due to overlapping events and for different purposes.
+
+
+
+b)	SDOs will be reminded of deadlines for liquidation of CA before granting another CA. Monitoring of outstanding CAs is strictly implemented. Prescribed deadline for liquidation shall be observed.
+
+
+
+c)	Cash Section will consider the payment of PFs through ADA to avoid long outstanding CAs and in compliance to DBM Circular No. 2018-14 dated December 28, 2018 for the implementation of the MDPS.
+
+
+
+
+
+Inadequate Internal Control in Payroll Preparation and Issuance of Clearance
+
+
+
+6)	Absence of policy and procedure in the preparation of payroll and inadequate internal control on the issuance of clearance from money and property accountabilities to retiring/resigning employees resulted in: (a) overpayments of salaries and allowances to employees and Contract of Service (COS) personnel amounting to ₱853,917.07; and (b) existence of dormant/unsettled receivables from resigned and/or retired employees amounting to ₱2,101,632.90.
+
+
+
+Overpayment of salaries and allowances
+
+
+
+1)	
+
+2)	
+
+3)	
+
+	1)	Examination of Status of Other Receivables and Schedule of Due from Officer and Employees showed that there were 1,843 recorded overpayments of salaries and allowances to active and former employees of the Center amounting to ₱853,917.07 (Annex A) from 2005 to 2020, the details are shown below:
+
+
+
+Year
+
+Due from Officers and Employees
+
+Other Receivables
+
+Total
+
+2005- 2010
+
+7
+
+140
+
+147
+
+2011
+
+9
+
+2
+
+11
+
+2012
+
+2
+
+0
+
+2
+
+2013
+
+3
+
+1
+
+4
+
+2014
+
+10
+
+19
+
+29
+
+2015
+
+9
+
+0
+
+9
+
+2016
+
+323
+
+2
+
+325
+
+2017
+
+18
+
+ 
+
+18
+
+2018
+
+68
+
+699
+
+767
+
+2019
+
+180
+
+9
+
+189
+
+2020
+
+340
+
+2
+
+342
+
+Total
+
+969
+
+874
+
+1,843
+
+
+
+	2)	Interview with the concerned Cash Section (CS) and AS personnel disclosed that the salaries and allowances of the VMMC personnel were paid weekly. Tardiness/undertimes/absences of employee are being deducted from leave credits, hence, employees receive their salaries in full without deductions.  The Acting Chief, AS also stated that the Center is giving Subsistence Allowance----footnote10---- (SA) to its employees in the amount of ₱50/day, If an employee incurred absences for the current month, deductions thereof from the SA shall be made in the ensuing month.
+
+
+
+	3)	According to AS, the Human Resource Section (HRS) was late in notifying the payroll preparer of tardiness/undertimes/absences incurred by employees; hence, no deductions were made in the payroll of SA in the ensuing month which resulted in the overpayment of the same. In the audit of 2020 transactions, it was noted that the payroll preparer was notified on the tardiness/absences/undertimes of employees for the months of March to October 2020 only in November 2020 or seven months delayed. 
+
+
+
+	4)	Further, separated employees did not notify the Center of their separation. Considering that payroll for salaries are processed in advance, resigned or separated employees were able to withdraw their salaries.   
+
+
+
+	5)	The significant number of overpayments over the years indicates failure of the Center to establish policies and procedure to avoid overpayment.  Likewise, no policy was established for the recovery of the overpayments from both active and former employees considering the existence of uncollected receivables.  
+
+
+
+	6)	We recommended that Management require the: 
+
+
+
+a)	Financial and Management Division (FMD) to: i) formulate policy on the recovery of overpayment from active and former employees of the Center; and ii) analyze root cause/s of overpayment;  
+
+
+
+b)	Human Resource Section (HRS) to timely notify the payroll preparer on  the tardiness, undertimes, or unofficial absences of employees; 
+
+
+
+c)	AS to assess the collectability of overpayments from former employees;
+
+
+
+d)	CS to deduct the overpayment from salary of concerned employees until full recovery of amount. 
+
+
+
+
+
+
+
+Issuance of clearance to resigned and retired employees with liability from the Center
+
+
+
+	7)	Retiring or resigning government employees are required under the law to submit clearance from money and property accountabilities, among others, to its employer agency prior to its actual intended date of retirement or resignation.  
+
+
+
+	8)	Scrutiny of records showed that a total of 1,031 separated employees of the Center had been cleared by the AS despite having a liability with VMMC in an aggregate amount of ₱2,101,632.90. Details are as follows:
+
+
+
+Particular
+
+No. of separated employees
+
+Amount
+
+Bill of Guaranteed Hospital Bills for retired employees
+
+137
+
+₱   843,300.89
+
+Bill of Overpayment of Salaries and Allowances for retired employees
+
+873
+
+1,185,830.01
+
+Tax Deficiency on PF 
+
+21
+
+72,502.00
+
+Total
+
+1,031
+
+₱2,101,632.90
+
+		
+
+	9)	The act of the AS in issuing clearance to retiring/resigning employees  despite having money and property accountabilities is a sign of weak or inadequate ICS. This deficiency may result to financial loss due to non-recovery of overpayments. 
+
+ 
+
+	10)	We recommended that Management require the: 
+
+
+
+a)	AS to explain why clearance from money accountability was issued to employees even with unsettle accounts; and 
+
+
+
+b)	FMD to install adequate ICS in the issuance of clearance to retiring or resigning employees.
+
+
+
+	11)	Management Comments:
+
+
+
+a)	FMD shall review existing policies together with the other offices concerned and develop effective control to avoid further occurrence of overpayments.  A policy will be formulated in order to address the identified internal control deficiencies.
+
+
+
+b)	Human Resource Section (HRS) submits reports to AS on a monthly basis but for 2020, due to the late issuance by the Civil Service Commission on the treatment of absences during the pandemic, reports for absences were submitted only to accounting in the last quarter of 2020. HRS shall strictly monitor attendance of all employees for a timely reporting of payroll adjustments.
+
+
+
+c)	For collection of outstanding debt, salary deduction is implemented for existing employees and sending of demand letter for former employees is continuously done.
+
+
+
+d)	AS always checks any outstanding liability at the time clearance form was received.  Clearances issued to employees are checked twice by AS.  First is during the initial clearance before approval of the Director and second before payment of any unpaid salaries and benefits. Some employees leave the agency without securing any clearance.
+
+
+
+e)	Any liability that arises after the clearance was signed due to circumstances beyond the control of AS is recorded as receivable and a demand letter is sent for collection.
+
+
+
+f)	FMD will review existing procedures for the issuance of clearance to retiring and resigning employees in order to identify inadequacy of controls and formulate a policy to address the problem.
+
+
+
+g)	A hospital policy will be issued upon formulation of an effective internal control and procedure.
+
+
+
+
+
+Delayed Submission of Financial and Mandatory Reports
+
+	
+
+7)	The Center’s non-observance of existing COA rules and regulations in the submission of required financial/budgetary reports within the prescribed period prevented the Audit Team from conducting timely review and evaluation of transactions and immediate correction of any deficiencies found therein.  
+
+			
+
+8)		
+
+	1)	The Head of the Agency, who is primarily responsible for all government funds and property pertaining to his office, shall ensure that the required financial reports and statements are submitted by the concerned agency officials in such form and within the period prescribed by the Commission on Audit (COA).
+
+
+
+	2)	GAM and various COA issuances set the timeliness in the submission of various reports and FSs as stated below:
+
+	
+
+	Report title
+
+	Deadline
+
+	Basis
+
+	Report of Collection and Deposits (RCD), Report of Cash Disbursements (RoCD), Report of Checks Issued (RCI), Liquidation Reports (LRs), Report of Accountability for Accountable Forms (RAAF)
+
+	Every 10th day after the end of each month
+
+	Section 7.2.1a of the Rules and Regulations of the Settlement of Accounts (RRSA) as prescribed under COA Circular No. 2009-006 dated September 15, 2009
+
+	Monthly Trial Balances (TBs) and Supporting Schedules (SSs) including JEVs.
+
+	10 days after the end of the month
+
+	Section 60(c) of Chapter 19, of the GAM Volume I
+
+	Quarterly TBs, FSs and Supporting Schedules (SSs)
+
+	
+
+	
+
+	Year-end TBs, FSs and SSs
+
+	February 14 of the following year
+
+	
+
+	Bank Reconciliation Statements (BRSs)
+
+	20 days after receipt of monthly Bank Statements (BS)
+
+	Section 7 of Chapter 21, GAM Volume I
+
+	Statements of Appropriations, Allotments, Obligations, Disbursements and Balances (SAAODB)– FAR No. 1 
+
+	30 days after the end of each quarter
+
+	Section 32(a) of Chapter 3, GAM Volume I
+
+	Summary of Appropriations, Allotments, Obligations, Disbursements and Balances by Object of Expenditures (SAAODBOE) – FAR No. 1.A 
+
+	
+
+	
+
+	List of Allotments and Sub-Allotments (LASA)– FAR No. 1.B 
+
+	
+
+	
+
+	Statement of Approved Budget, Utilizations, Disbursements and Balances (SABUDB)– FAR No. 2 
+
+	
+
+	
+
+	Quarterly Report of Revenue and Other Receipts (SABUDBOE)– FAR No. 2.A 
+
+	
+
+	
+
+	Quarterly Report of Revenue and Other Receipts (QRROR)– FAR No. 5 
+
+	
+
+	
+
+	Quarterly Physical Report of Operation (QPRO)– BAR 1 
+
+	
+
+	
+
+	Aging of Due and Demandable Obligations (ADDO)– Far No. 3 
+
+	On or before 30th day following the end of the year
+
+	Section 32(b) of Chapter 3, GAM Volume I
+
+	Monthly Report of Disbursements (MRD)– FAR No. 4 
+
+	
+
+	Section 32(c) of Chapter 3, GAM Volume I
+
+	Consolidated Statement of Allotments, Obligations and Balances per Summary of Appropriations under FCR under GAA, GARO and SARO
+
+	On or before February 14 of the following Calendar Year
+
+	Section 32(d) of Chapter 3, GAM Volume I
+
+	Report of Physical Count of Property, Plant and Equipment (RPCPPE)----footnote11----
+
+	Not later than January 31 of each year
+
+	 Sec. 42 (g), Chapter 10 GAM Volume I
+
+	
+
+	3)	Based on our records, the AS and Budget Section failed to submit the aforementioned financial/budgetary reports within the required period, which hindered the timely audit/verification of transactions/ and corrections of any errors/deficiencies as of December 31, 2020 as follows:
+
+
+
+Financial Reports/Statements
+
+No. of Days Delayed
+
+Report of Collections and Deposits
+
+9-112
+
+Report of Cash Disbursements/Check Issued
+
+8-154
+
+Liquidation Reports
+
+22-154
+
+Monthly Trial Balances and Supporting Schedules
+
+24-175
+
+Quarterly Financial Statements
+
+41-95
+
+Journal Entry Vouchers (non-cash transactions)
+
+No submission made
+
+Bank Reconciliation Statements
+
+5-192
+
+FAR No. 1 – SAAODB
+
+11-95
+
+FAR No. 1.A – SAAODBOE
+
+11-95
+
+FAR No. 1.B – LASA 
+
+11-95
+
+FAR No.4-MRD
+
+16-95
+
+BAR No. 1 – QPRO
+
+11-95
+
+RPCPPE
+
+32
+
+
+
+	4)	Presented in Annex B is the summary of submission of the aforementioned reports.
+
+
+
+	5)	Our inquiry with the AS revealed that the delayed submission of the financial accountability reports, statements and supporting schedules was due to series of work suspensions declared during the year (2020) due to COVID-19 pandemic. 
+
+
+
+	6)	Moreover, the Acting Chief of AS stated that they are not aware of the submission of the non-cash transaction JEVs since it has been the practice of their office not to submit JEVs pertaining to non-cash transactions even during the time of his predecessor.
+
+
+
+	7)	However, it is worthy to mention that the AS has submitted the complete set of FS of the Center as of December 31, 2020 within the prescribed period.
+
+
+
+	8)	Likewise, it is noted that the Center has conducted its annual physical count of PPE and the corresponding RPCPPE was submitted on March 4, 2021.  
+
+
+
+	9)	Verification revealed that the Physical Inventory Committee tasked to submit the report encountered problems during inventory taking such as: restrictions on the areas and wards to be inventoried specially the COVID wards, ICUs and Operating Rooms, non-availability of AOs due to the alternative work arrangement schedule and the long holidays.
+
+
+
+
+
+	10)	We recommended that Management require the: 
+
+
+
+a)	AS and Budget Section to ensure submission of required financial reports and statements to COA within the prescribed period;
+
+	 
+
+b)	 Supply Officer/Inventory Committee to submit the RPCPPE within the specified time frame; and
+
+	
+
+c)	AS to submit non-cash JEVs within the deadline set.  
+
+
+
+	11)	Management Comments:
+
+
+
+a)	For 2020, all reports were not submitted on the prescribed deadline due to implementation of Enhanced Community Quarantine where most employees were not able to go to work due to stoppage of public transportation and also with the implementation of skeletal workforce to avoid wide spread of Covid-19 Virus.
+
+
+
+b)	VMMC Management acknowledged the audit observation for late submission of reports and will devise appropriate procedure in order to conform to the prescribed deadline while observing health protocols during this pandemic.
+
+
+
+c)	IC will be reminded to prioritize the preparation of RPCPPE in order to comply with the prescribed period of submission.
+
+
+
+d)	AS is on the process of completing documents needed for non-cash transactions from January to December 2020 and will submit the same upon completion.
+
+
+
+
+
+Audit of COVID-19 Funds
+
+
+
+1)	The Center received funds and cash donations amounting to ₱97,765,550.00    from various individuals and institutions as well as realigned funds amounting to ₱83,557,292.80 within the existing regular agency budget for CY 2020 for COVID 19 response. 
+
+
+
+2)	
+
+	1)		Section 4 of RA 11469 otherwise known as the, “Bayanihan to Heal As One Act” provides that:
+
+
+
+ Pursuant to Article IV, section 23 (2) of the Constitution, the President is hereby authorized to exercise powers that are necessary and proper to carry out the declared policy. The President shall have the power to adopt the following temporary emergency measures to respond to crisis brought by the pandemic:
+
+
+
+(x) Notwithstanding any law to the contrary, reprogram, reallocate, and realign from savings on other items of appropriations in the FY 2020 GAA in the Executive Department, as may be necessary and beneficial to fund measures that address and respond to the COVID-19 emergency, including social amelioration for affected communities, and recovery of areas, sectors and industries severely affected.	 
+
+
+
+	2)	The Center, as a Health Institution, was relentless in its effort to help the nation’s fight against COVID-19 pandemic. These include performance of testing and confinement of COVID-19 patients.
+
+
+
+	3)	During CY 2020, the Center accumulated COVID-19 funds from FTs, donations in cash, and realignment of regular funds in an aggregate amount of ₱181,322,842.80. The details are as follows:
+
+
+
+	Donee/SA Fund
+
+Purpose
+
+Amount
+
+Utilization
+
+% of Utilization
+
+Donation in cash from various individuals
+
+Purchase of COVID-19 Protection for Frontliners and Medical Equipment for COVID-19
+
+₱  1,650,550.00 
+
+₱    1,650,550.00
+
+
+
+100
+
+Department of Health
+
+Medical equipment in response to COVID- 19.  
+
+13,275,000.00
+
+7,407,000.00
+
+56
+
+Veteran Federation of the Philippines 
+
+Medical equipment and ambulance to address the COVID-19 Pandemic  
+
+82,840,000.00
+
+77,982,000.00
+
+94
+
+Sub-total
+
+
+
+97,765,550.00
+
+87,039,550.00
+
+
+
+Regular Funds 
+
+Realignment of Regular Funds to COVID Funds
+
+83,557,292.80
+
+50,933,779.80
+
+61
+
+TOTAL
+
+
+
+ ₱181,322,842.80
+
+₱174,079,100.00
+
+96
+
+
+
+	4)	We commended Management for their active participation in the fight/ response against COVID-19 pandemic.
+
+
+
+	5)	Henceforth, ensure rigorous infection control standards and processes within the hospital to protect all people behind the operation of the Center, especially the health care workers.
+
+
+
+	6)	Management Comments:
+
+
+
+The COMMENDATION for VMMC’s active participation in the fight or response against COVID-19 pandemic is highly recognized which will boost the morale of the Center’s health care workers.
+
+
+
+This hospital is continuously doing its best to ensure rigorous infection control standards and processes within the hospital to protect all the people behind the operations of the Center, most especially the health care workers.
+
+Gender and Development (GAD)
+
+
+
+1)	The Center complied with the requirements provided in Section 31----footnote12---- of the General Appropriation Act (GAA) of 2020 to formulate GAD----footnote13---- Plan and to allocate at least five percent of their budget.
+
+
+
+2)	
+
+	1)	The preparation and submission of annual GAD Plan and Budget (GPB) and annual GAD Accomplishment Report (AR) shall be guided by Joint Circular (JC) No. 2012-01 issued by the Department of Budget and Management (DBM), National Economic Development Authority (NEDA) and Philippine Commission on Women (PCW).
+
+
+
+	1)	In response to the requirement mentioned above, the Center has allocated at least five percent of their total appropriations for CY 2020. Details are shown below:
+
+
+
+	Particulars
+
+	Total
+
+	Total budget
+
+	₱ 1,920,908,000.00
+
+		GPB
+
+	115,843,000.00
+
+	GAD AR
+
+	553,483,906.96
+
+	Percentage----footnote14----
+
+	28.81%
+
+
+
+	2)	The GAD AR showed that the Center has fully utilized and implemented the plans, projects and programs indicated in the GPB, details are as follows:
+
+
+
+GAD Mandate
+
+GAD Activity
+
+Amount
+
+Client-focused
+
+
+
+Provide hemodialysis treatment for clients regardless of patient classification, 2,024 patients seeking hemodialysis treatments were catered irrespective of patient category (RPV- 1,353; RPVD- 618; Others - 53)
+
+₱    5,400,000.00
+
+
+
+Provide diagnostics and other treatment of clients regardless of patient’s classification, thus, 179,724 patients seeking laboratory services were catered regardless of patient category (RPV- 79,063; RPVD- 63,645; Others- 37,016)
+
+47,110,606.96
+
+
+
+Provide gender responsive tertiary health care to RPVs and RPVDs as far as access to equal provision of drugs and medicines is concerned. As a result, 254,554 patients were given medications regardless of patient category (RPV- 129,344; RPVD- 111,680; Others- 13,530)
+
+500,698,000.00
+
+Organizational focused
+
+
+
+Conduct Gender Awareness and Sensitivity Training such as (a) 160/160 participants attended the 2 sessions of Gender Awareness and Sensitivity Training; and (b)  80/80 participants attended the Gender Awareness and Sensitivity Training and MOVE Orientation.
+
+108,100.00
+
+
+
+Conduct Women, Peace, and Security Seminar  participated by  80 women of the Center.
+
+16,100.00
+
+
+
+Conduct Magna Carta for Women Seminar participated by  80 women of the Center.
+
+16,100.00
+
+
+
+20/20 participants completed the Trainors Training on the Use of the VMMC- GAD Monitoring and Evaluation Tool
+
+135,000.00
+
+Total GAD AR
+
+₱553,483,906.96
+
+
+
+
+
+Programs/Projects for Senior Citizens and Differently-Abled Persons
+
+1)	VMMC being a geriatric hospital complied with Section 32----footnote15---- of the GAA of 2020 in the form of granting 20 percent discount on all hospital fees, laboratory fees to senior citizen civilian patients. This is also in compliance with the Expanded Senior Citizens Act of 2003----footnote16----. 
+
+
+
+1)	
+
+	1)	The hospital’s structure and facilities are also designed to enhance mobility, safety and welfare of persons with disability pursuant to the Magna Carta for Disabled Persons----footnote17----. 
+
+
+
+
+
+Compliance with Tax Laws, GSIS, Pag-ibig and PhilHealth
+
+
+
+1)		The Center is generally compliant with various laws and regulations on withholding and remittances of taxes, mandatory contributions, loan/other deductions for CY 2020.
+
+
+
+2)	
+
+	1)	Out of the December 31, 2020 balances of the Due to BIR, Due to GSIS, Due to Pag-IBIG and Due to PhilHealth totaling ₱26,384,020.80, the aggregate amount of ₱16,670,641.63 was remitted in 2021; thus, leaving a balance of ₱9,713,379.17 pertaining to prior years’ transactions which is subject to  reconciliation.
+
+
+
+Accounts
+
+Beginning Balance
+
+2020
+
+Balance
+
+Remarks
+
+
+
+
+
+Withheld
+
+Remittances
+
+12/31/2020
+
+
+
+Due to BIR----footnote18----
+
+
+
+₱14,858,411.51 
+
+₱108,524,563.79 
+
+₱104,002,416.26
+
+₱19,380,559.04 
+
+Remitted ₱12,049,449.41 in 2021 leaving a balance of ₱7,331,109.63 for reconciliation
+
+Due to GSIS----footnote19----
+
+379,944.10 
+
+63,059,757.35 
+
+ 57,669,815.72
+
+5,769,885.73 
+
+Remitted ₱5,216,603.06 in 2021 leaving a balance of ₱553,282.67 for reconciliation
+
+Due to Pag-IBIG----footnote20----
+
+22,483.10 
+
+8,706,191.18 
+
+ 8,064,273.78
+
+664,400.50 
+
+Remitted ₱652,699.48  in 2021 leaving a balance of ₱11,701.02 for reconciliation
+
+Due to PhilHealth----footnote21----
+
+81,416.79 
+
+6,943,053.40 
+
+ 6,455,294.66
+
+569,175.53 
+
+Remitted ₱559,012.50 in 2021 leaving a balance of ₱10,163.03 for reconciliation
+
+ TOTAL
+
+₱15,342,255.50 
+
+₱187,233,565.72 
+
+₱176,191,800.42
+
+₱26,384,020.80 
+
+ 
+
+
+
+
+
+2)	Status of Settlement of Audit Suspensions, Disallowances and Charges
+
+
+
+3)	
+
+	1)	Section 7.1 of the Revised Rules and Regulations on the Settlement of Accounts as prescribed under COA Circular No. 2009-006 dated September 15, 2009  provides, among others that, the head of the agency, who is primarily responsible for all government funds and property pertaining to his agency,  shall ensure that: (a) xxx;  (b) the settlement of disallowances and charges is made within the prescribed period; (c) the requirements of transactions suspended in audit are complied with; and (d) appropriate actions are taken on the deficiencies noted as contained in the AOM.”
+
+
+
+	2)	The total audit suspensions, disallowances and charges in audit amounted to ₱277,727.65 as of December 31, 2020, based on the Notice of Suspension (NS)/ Notice of Disallowance (ND)/ Notice of Charge (NC)/ Notice of Settlement of Suspensions and Disallowances/Charges (NSSDC) as summarized below:
+
+	
+
+Particulars
+
+Beginning Balance, 
+
+Jan. 1, 2020
+
+This Period
+
+Jan. 1 to Dec. 31, 2020
+
+Ending Balance,
+
+Dec. 31, 2020
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension
+
+₱                 -
+
+₱                 -
+
+₱                 -
+
+₱                 -
+
+Notice of Disallowance
+
+283,224.78
+
+337,265.99
+
+342,763.12
+
+277,727.65
+
+Notice of Charge
+
+-
+
+
+
+
+
+
+
+Total
+
+₱283,224.78
+
+₱337,265.99
+
+₱342,763.12
+
+₱277,727.65
+
+
+
+	3)	Notices of Appeal on ND amounting to ₱249,237.46 were filed by the responsible persons before the Office of the Cluster Director on June 19, 2019.
+
+
+
+
+
+1)	Receipt and Disbursement of Yolanda, Marawi, and National Task Force to End-Local Communist Armed Conflict (NTF-ELCAC) Funds
+
+
+
+	1)	The Center did not receive Yolanda, Marawi and NTF-ELCAC funds during the year.
+
+54
+
+
+
+
+
+footnote1)	
+
+ Audit Observation Memorandum Number (AOM No.) 2019-013 (2018) dated March 7, 2019
+
+footnote2)	
+
+ Government Accounting Manual for National Government Agencies
+
+footnote3)	
+
+ 5.4 of COA Circular No. 2016-005 defines dormant receivable accounts as one which balances remained inactive or non-moving in the books of accounts for ten (10) years or more and where settlement/collectability could no longer be ascertained.
+
+footnote4)	
+
+ Item No. 8, Procedures in the Write-off  of Dormant Accounts of of COA Circular No. 2016-005 provides that the Head of the government entity shall file the request for authority to write off dormant receivable accounts xxx to the COA Audit Team Leader and/or Supervising Auditor The request shall be supported by the following documents: (a) schedule of dormant accounts by accountable officer/debtor/government entity and by account, certified by the accountant and approved by the Head of the government entity; (b) certified relevant documents validating the existence of the conditions, as applicable, such as, (i) proof of exhaustion of all remedies to collect the receivables and demand to liquidate the cash advances and fund transfers, such as but not limited to copies of served or returned demand letters; and, (ii) other justifications, like in the case of request for write-off due to loss of documents, the circumstances of the loss should be stated in the letter-request, among others.
+
+
+
+footnote5)	
+
+ IRR for the National Health Insurance Act of 1995
+
+footnote6)	
+
+ Veterans Memorial Medical Center
+
+footnote7)	
+
+ The RPCI is a form used to report the physical count of inventory items by type such as Office Supplies Inventory; Accountable Forms Inventory; Medical, Dental and Laboratory Supplies Inventory; Food Supplies Inventory, etc. which are owned by the agency/entity. It shall be prepared semi-annually by the Inventory Committee and by fund cluster. (Appendix 66, GAM, Vol. II)
+
+footnote8)	
+
+ Stock Ledger Card
+
+footnote9)	
+
+ Stock Card
+
+footnote10)	
+
+ Subsistence Allowance (SA) is the money paid to a worker in addition to salary to cover expenses that may be incurred in the performance of the job.
+
+footnote11)	
+
+  Sec. 42 (g), Chapter 10 GAM Volume I, further provides that: “Report on the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 73) – this form shall be used to report the physical count and condition of PPE by type as at a given date, including those which are unrecorded and those which could not be accounted for. It shows the balance of PPE per property cards and per count and the shortage/overage, if any. It shall be rendered by the Inventory Committee, on its yearly physical count of properties owned by the entity. xxx”. Appendix 73 (E) of the GAM, Volume II, states that: “It shall be submitted to the Auditor concerned and Accounting Division/Unit not later than January 31 of each year.”
+
+footnote12)	
+
+ Section 31 of the general provision of the GAA for 2020 provides that all agencies of the government shall formulate a GAD Plan designed to address gender issues within their concerned sectors and mandate and implement applicable provisions under RA No. 9710 or Magna Carta of Women xxx. The GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five percent of their budget. 
+
+footnote13)	
+
+ Gender and Development 
+
+footnote14)	
+
+ GAD AR divided by total budget
+
+footnote15)	
+
+ Section 32 of GAA of 2020 provides that all agencies of the government shall formulate plans, program and projects intended to address the concerns of senior citizens and persons with disability, insofar as it relates to their mandated functions, and integrate the same in their regular activities.
+
+footnote16)	
+
+ RA No. 7432, as amended by RA No. 9257 
+
+footnote17)	
+
+Batas Pambansa Bilang 344 and . RA No. 7277
+
+footnote18)	
+
+ Executive Order No. 651 dated February 16, 1981 requires every government office or agency to show full and faithful compliance with tax laws and regulations and serve as model to the paying public.
+
+footnote19)	
+
+ Section 14.1 of the Implementing Rules and Regulations (IRR) of RA No. 8291 provides that each government agency shall remit directly to the GSIS the employees’ and government agency’s contributions within the first 10 days of the calendar month following the month to which the contributions apply.
+
+footnote20)	
+
+ Section 3(a), Rule VII of the IRR of RA No. 9679 provides that all employers shall remit to the Fund their contributions and the contributions of their covered employees as well as the latter’s loan amortizations or payments to the Fund within 15 days from the date the same were collected unless another period is previously agreed upon between the employer and the Fund, or within such periods the Fund may prescribe otherwise.
+
+footnote21)	
+
+	 Section 18(b) of the IRR of RA No. 7875 provides that the monthly premium contribution of employed members shall be remitted by the employer on or before the date prescribed by the PHIC.
+
+
+
+
+

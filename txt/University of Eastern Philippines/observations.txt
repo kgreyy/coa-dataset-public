@@ -1,0 +1,6388 @@
+PART II
+
+
+
+
+
+OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+Financial and Compliance
+
+
+
+Accounts Receivable aged over one year to eighteen years, ₱8,360,332.55; No Allowance for Impairment Losses
+
+
+
+1)		Accounts Receivable aged over one year to eighteen years totaling P8,360,332.55 has remained unsettled as of December 31, 2020 due to the failure of Management to enforce its collection.  Likewise, no Allowance for Impairment Losses was provided for the account, thus affecting the fair presentation of the account in the financial statements.
+
+
+
+	1)		Sections 2 and 102 of Presidential Decree (PD) No. 1445 provide:
+
+
+
+Section 2. Declaration of Policy. - It is the declared policy of the State that all resources of the government shall be managed, expended or utilized in accordance with law and regulations, and safeguarded against loss or wastage through illegal or improper disposition, with a view to ensuring efficiency, economy and effectiveness in the operations of government. The responsibility to take care that such policy is faithfully adhered to rests directly with the chief or head of the government agency concerned.
+
+
+
+x x x
+
+
+
+	Section 102. Primary and secondary responsibility. - (1)	The head of any agency of the government is immediately and primarily responsible for all government funds and property pertaining to his agency.
+
+
+
+	(2)	Persons entrusted with the possession or custody of the funds or property under the agency head shall be immediately responsible to him without prejudice to the liability of either party to the government.
+
+
+
+	2)		A description of the accounts used in accounting is provided in COA Circular No. 2020-001 dated January 8, 2020, as follows:
+
+
+
+03 Receivables
+
+01 Loans and Receivable Accounts
+
+
+
+Account Title 		Accounts Receivable
+
+Account Number	10301010
+
+Normal Balance	Debit
+
+Description 	This account is debited to recognize the amount due from customers arising from regular trade and business transactions. This account is credited upon collection, transfers, write-off, and/or adjustments of receivables.
+
+
+
+Account Title 		Due from Officers and Employees
+
+Account Number	10399020
+
+Normal Balance 	Debit
+
+Description 	This account is debited to recognize amount of claims from agency's officers and employees for overpayment (not covered by Notice of Disallowance), cash shortage, loss of assets and other bills issued by the agency, losses in excess of allowable variance between books and volumetric count of merchandise inventory and the like (not covered by Notice of Charge). This account is credited for receipt of payment, write-off and approved relief from property accountability.
+
+
+
+	3)		Likewise, Section 9 of Chapter 5 and Section 10 of Chapter 7 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, state thus:
+
+	
+
+Chapter 5
+
+
+
+REVENUE AND OTHER RECEIPTS
+
+
+
+Sec. 9. Impairment Losses and Allowance for Impairment Losses. When an uncertainty arises about the collectability of an amount already included in revenue, the uncollectible amount, or the amount in respect of which recovery has ceased to be probable, is recognized as an expense (impairment losses), rather than as an adjustment of the amount of revenue originally recognized.
+
+
+
+Entities shall evaluate the collectability of accounts receivable on an ongoing basis based on historical bad debts, customer/recipient credit-worthiness, current economic trends and changes in payment activity.  An allowance is provided for known and estimated bad debts.
+
+
+
+x x x
+
+CHAPTER 7
+
+
+
+FINANCIAL INSTRUMENTS
+
+
+
+Sec. 10. Impairment of Financial Assets. An entity shall assess at the end of each reporting period whether there is any objective evidence that a financial asset or group of financial assets is impaired.  If any such evidence exists, the entity shall measure the amount of loss as the difference between the carrying amount of the asset and the present value of estimated future cash flows discounted at the financial asset’s original effective interest rate.  The carrying amount of the asset shall be reduced either directly or through use of an allowance account.  The amount of the loss shall be recognized in surplus or deficit.
+
+
+
+In case of Accounts Receivable, the Allowance for Impairment shall be provided in an amount based on collectability of receivable balances and evaluation of such factors as aging of accounts, collection experiences of the agency, expected loss experiences and identified doubtful accounts.
+
+
+
+	4)		COA Circular No. 2016-005 (Guidelines and Procedures on the Write-off of Dormant Receivable Accounts, Unliquidated Cash Advances, and Fund Transfers of National Government Agencies [NGAs], Local Government Units [LGUs] and Government-Owned and Controlled Corporations [GOCCs]) dated December 19, 2016, defines dormant receivable accounts thus:
+
+	
+
+	5.4	Dormant Receivable Accounts – accounts which balances remained inactive or non-moving in the books of accounts for ten (10) years or more and where settlement/collectability could no longer be ascertained.
+
+	
+
+	5)		As of December 31, 2020, the Accounts Receivable account of the UEP - Main Campus reported a balance of P12,426,799.55.  Of the total balance, P8,360,332.55 or 67.28% pertains to prior years’ balances which has been outstanding for over one year to eighteen years.  Analysis of the account also disclosed that the total balances for each year from CY 2016 to CY 2020 have been increasing steadily, and in CY  2020 the balance reported a considerably higher increase by P3,605,512.00 or 40.87% compared to last year’s balance as shown in the table below:
+
+	
+
+Table 1.	Schedule of Accounts Receivable from CY 2016 to CY 2020
+
+FUND
+
+As of December 31
+
+
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+
+
+TOTAL
+
+CURRENT
+
+PRIOR YEARS
+
+
+
+
+
+
+
+
+
+RAF
+
+₱4,966,779.18
+
+₱0.00
+
+₱4,966,779.18
+
+₱4,966,779.18
+
+₱4,966,779.18
+
+₱4,974,181.89
+
+₱4,973,659.57
+
+IGF
+
+5,681,124.27
+
+3,958,167.00
+
+1,722,957.27
+
+2,185,912.27
+
+1,741,045.27
+
+621,095.27
+
+621,095.27
+
+BRF
+
+1,724,622.50
+
+108,300.00
+
+1,616,322.50
+
+1,614,322.50
+
+1,614,322.50
+
+1,614,322.50
+
+1,614,322.50
+
+TF
+
+54,273.60
+
+
+
+54,273.60
+
+54,273.60
+
+54,273.60
+
+54,273.60
+
+54,273.60
+
+TOTAL
+
+₱12,426,799.55
+
+₱4,066,467.00
+
+₱8,360,332.55
+
+₱8,821,287.55
+
+₱8,376,420.55
+
+₱7,263,873.26
+
+₱7,263,350.94
+
+PERCENTAGE TO TOTAL  
+
+32.72%
+
+67.28%
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+	6)		Despite the recommendations discussed in the previous years’ Annual Audit Reports (AAR), Management still failed to exert its best efforts to collect these receivables.  Management did not issue billing statements/demand letters to the debtors, thus depriving the University of the funds for its developmental projects/programs/activities (PPAs).
+
+
+
+	7)		Further, audit of the Accounts Receivables account of the University disclosed the following observations/deficiencies:
+
+
+
+	a.	Regular Agency Fund (RAF) – see Annex F
+
+
+
+	8)		The year-end balance of P4,966,779.18 under the RAF remained unchanged from CY 2018 to CY 2020.  The amount of P4,966,256.86 identified as outstanding receivables under the RAF are collectibles from the employees of the University, while the amount of P522.32 is a receivable from Mikaela Enterprises, summarized as follows:
+
+	
+
+Table 2.  Composition of Accounts Receivable Balance as of December 31, 2020
+
+Particulars
+
+Amount
+
+Reneged scholarship contract
+
+P4,755,010.00
+
+Under deduction from salary for loans/over remittance of loans/overpayment of salaries  
+
+208,981.70
+
+Overpayment of salaries
+
+81,937.94
+
+Others (negative balances)
+
+(79,672.78)
+
+Mikaela Enterprises
+
+522.32
+
+Total
+
+P4,966,779.18
+
+
+
+	9)		Verification also revealed that the receivables from the employees who reneged on their scholarship contracts totaling P4,755,010.00 were discussed thirteen years ago in an audit observation under the CY 2007 AAR, and since then, Management had not exerted all efforts to collect the same. So government funds have remained unsettled as of December 31, 2020.
+
+
+
+	10)		The dates when most of the transactions occurred could not be determined due to lack of information in the schedules.  Those with data showed that some collectibles were recognized in CY 2005 or fifteen years ago, but there was no action on the part of Management to enforce their settlement.
+
+
+
+	11)		Also, receivables from some debtors were reported with negative balances amounting to P79,672.78, and such would be an indication of irregularity for such account.
+
+
+
+	b.	Internally Generated Fund (IGF) – see Annex G
+
+	
+
+	12)		The total receivables under the IGF amounting to P5,681,124.27 is broken down as follows:
+
+	
+
+Table 3.	Composition of Accounts Receivables for IGF as of December 31, 2020
+
+Particulars
+
+Amount
+
+Age
+
+Unpaid tuition of students - 1st Sem. AY 2007-2008
+
+P621,562.00
+
+13 years
+
+Unpaid tuition of students - 1st Sem. AY 2018-2019
+
+373,650.00
+
+2 years
+
+Unpaid tuition of students - 2nd Sem, AY 2018-2019 to 1st Sem AY 2019-2020
+
+728,212.00
+
+over 1 year
+
+Unpaid tuition of students - 2nd Sem AY 2019-2020 to 1st Sem, AY 2020-2021
+
+1,976,292.00
+
+1 year
+
+Bill to Department of Education for Senior High School
+
+1,981,875.00
+
+less than 1 year
+
+Untraced Variance
+
+(466.73)
+
+ 
+
+Total
+
+P5,681,124.27
+
+ 
+
+
+
+	13)		Receivables from the unpaid tuition fees of students for the first semester of Academic Year (AY) 2007-2008 are already thirteen years old, with a negative balance of ₱466.75 in the account.
+
+
+
+	c.	Business Related Fund (BRF) – see Annex H
+
+
+
+	14)		Likewise, the amount of P1,614,322.50 of the total receivables reported under the BRF totaling P1,724,622.50 had no changes since CY 2016.
+
+
+
+	15)		Included in the total is the amount of P1,568,145.56 which pertains to receivables from the Income Generating Projects (IGP) of the University, itemized as follows:
+
+
+
+Table 4.	Composition of Accounts Receivables for BRF as of December 31, 2020
+
+Particulars
+
+Amount
+
+Lot Rental
+
+P1,352,355.06
+
+Tuition-Kiddie Learning Center (KLC)
+
+101,300.00
+
+FTC Hall Rental
+
+79,200.00
+
+Mudcrab sale
+
+16,285.50
+
+Carabeef sale
+
+7,400.00
+
+Hostel Hall Rental
+
+7,150.00
+
+Dorm Rental
+
+2,355.00
+
+Agtest sale
+
+2,100.00
+
+Total
+
+P1,568,145.56
+
+
+
+	16)		Some of the debtors are still employees of the University to whom billing statements would have been readily and accessibly served.  Aging of the amount shows that it is composed of collectibles which are almost eighteen years old. 
+
+	
+
+	17)		Part of the schedule showed accounts receivable totaling P44,223.79 the collectability of which is remote because the Accounting Section has not kept any record to show the identity and whereabouts of the accountable officers for these receivables:
+
+	
+
+Table 5.	Accounts Receivables Without Details as of December 31, 2020
+
+Debtors
+
+Amount
+
+Prior Years
+
+P1,107.29
+
+Difference between AOM total and detailed list of students
+
+43,116.50
+
+Total
+
+P44,223.79
+
+
+
+	18)		Verification also revealed that a total of P3,109.00 pertains to long outstanding receivables from suppliers, and the amount of P1,155.85 is a negative balance.
+
+
+
+	d.	Trust Fund (TF) – see Annex I
+
+
+
+	19)		The total balance of receivables reported under the TF amounting to P54,273.60 had no changes since CY 2016.  The schedule also showed that some of the debtors were employees of the University to whom billing statements or demand letters could have been easily served.  These receivables are from the sale to the employees of tilapia, crab, milkfish, rice and shrimp, summarized as follows:
+
+
+
+Table 6.	Composition of Accounts Receivables for Trust Fund as of December 31, 2020
+
+Particulars
+
+Amount
+
+Sale of tilapia, crab, milkfish, rice and shrimp
+
+P26,384.75
+
+Overpayment of salary
+
+21,306.45
+
+Others
+
+6,582.40
+
+Total
+
+P54,273.60
+
+	
+
+	20)		Also, accounts receivables were not properly recorded as such: collectibles, which resulted from the under deduction of salary for loan repayments, over remittance of loans, reneged scholarship program, and overpayment of salaries of employees who are still in active service should have been recorded under the Due from Officers and Employees account, while those account receivables from employees who are no longer in the service should have been recorded under the Other Receivables account.
+
+
+
+	21)		The lack of information as to when some accounts receivable were recognized for some debtors hindered the Audit Team from determining the age of certain collectibles.
+
+
+
+	22)		Review of the General Ledgers also revealed that the Accountant did not provide for an Allowance for Impairment Losses, considering the fact that some receivables are eighteen years old.
+
+
+
+	23)		Providing an allowance for impairment losses presents a more realistic picture of how much of the accounts receivable can still be collected.  Since state universities and colleges are required to use the accrual basis of accounting, the University should provide for an allowance for impairment losses to present a more accurate and fair reporting of the results of its operations in the financial statements.
+
+
+
+	24)		We recommended that the President requires the Accountant of the Main Campus to:
+
+
+
+a)		enforce immediate settlement of the receivables from those employees and personnel who are still in active service at the University, and to issue billing statements and demand letters for those who are no longer connected with the University, and monitor their collections;
+
+	
+
+b)		prepare schedules of accounts receivable with their complete information especially on the following: 1) date when recognized, 2) address of the debtor, and 3) age of the receivables;
+
+	
+
+c)		reclassify the collectibles recorded under Accounts Receivable to Due from Officers and Employees for employees who are still in active service, and to Other Receivables for those who are no longer in the service;
+
+
+
+d)		strictly implement Section 9, Chapter 5 and Section 10, Chapter 7, both of the GAM for NGAs, Volume I, for the provision of allowance for impairment losses; and
+
+
+
+e)		request for the write-off of receivables which are considered dormant, subject to the guidelines and procedures prescribed in COA Circular No. 2016-005 dated December 19, 2016.
+
+
+
+	25)		The Management commented that:
+
+	
+
+--	As recommended, the Accounting Office will enforce immediate settlement of receivables from its accountable officers/employees for the overpayment of salaries and under deductions from salary for loans/over remittance of loans, contributions and tax effective July 01, 2021.  The office will issue notices of immediate settlement to the officers/employees concerned and, in case of failure to settle the receivables within the prescribed period, the office will deduct the amount due from their salaries upon submission of a duly signed Authority to Deduct.
+
+
+
+--	As for the other receivables, the office is still working on the reconciliation of balances and the retrieval of the necessary documents to arrive at the actual amount due from the students, lessees and other IGP clients.  These amounts recorded in the books are based only on the recommendation of the previous COA Resident Auditors.  The office is still working on the preparation of a more detailed and reliable Schedules to support the receivables.  The office will enforce the settlement of these receivables once the actual amount due has been verified.
+
+
+
+--	For the erroneous accounts used in the initial recognition of receivables from employees, the office will make the necessary adjustments for the reclassification of the accounts once the actual receivables have been verified.
+
+
+
+--	With regard to the provision of Section 9, Chapter 5 and Section 10, Chapter 7 of the GAM for NGAs, Volume I, we could not provide the Allowance for Impairment of the Accounts Receivables due to lack of reliable data which is one of the factors to be considered in the valuation and measurement of the Impairment Loss.  The office will just make all the possible remedies to demand the settlement of the receivables and, as recommended, request for the write-off based on the COA Circular No. 2016-005 dated December 19, 2006.
+
+
+
+	1.28	We would like the emphasize the importance of updating the records of the Accounts Receivable account so that these are fairly presented in the financial statements.
+
+
+
+
+
+Unliquidated cash advances aged over one year to 21 years, ₱3,603,464.59
+
+
+
+2)		Breakdown in control over the grant, utilization and liquidation of cash advances has resulted in the accumulation of unliquidated cash advances totaling P3,603,464.59, which has been outstanding for over one year to 21 years, thereby exposing government funds to the risk of loss.
+
+
+
+	1)		Section 89 of PD No. 1445 provides:
+
+
+
+Section 89. Limitations on cash advance. - No cash advances shall be given unless for a legally authorized specific purpose.  A cash advance shall be reported on and liquidated as soon as the purpose for which it was given has been served.  No additional cash advances shall be allowed to any official or employee unless the previous cash advance given to him is first settled or a proper accounting thereof is made.
+
+
+
+	2)		The limitations on cash advances are restated in Sections 4 and 5 of COA Circular No. 97-002 dated February 10, 1997, as follows:
+
+
+
+4. GRANTING AND UTILIZATION OF CASH ADVANCES
+
+
+
+4.1	General Guidelines
+
+
+
+x x x
+
+
+
+4.1.2	No additional cash advances shall be allowed to any official or employee unless previous cash advance given to him is first settled or a proper accounting thereof is made.
+
+
+
+4.1.3	A cash advance shall be reported on as soon as the purpose for which it was given has been served.
+
+
+
+5. LIQUIDATION OF CASH ADVANCES
+
+
+
+5.1	The AO shall liquidate his cash advance as follows:
+
+
+
+5.1.1	Salaries, Wages, etc. - within five (5) days after each fifteen (15) day/end of the month pay period.
+
+
+
+5.1.2	Petty Operating Expenses and Field Operating Expenses - within twenty (20) days after the end of the year; subject to replenishment as frequently as necessary during the year.
+
+
+
+5.1.3	Official Travel - within sixty (60) days after return to the Philippines in the case of foreign travel or within thirty (30) days after return to his permanent official station in the case of local travel, as provided for in EO 248 and COA Circular No. 96-004.
+
+
+
+Failure of the AO to liquidate his cash advance within the prescribed period shall constitute a valid cause for the withholding of his salary and the institution of other sanctions as provided for under paragraphs 9.2 and 9.3 hereof.
+
+
+
+x x x
+
+
+
+5.7	 When a cash advance is no longer needed or has not been used for a period of two (2) months, it must be returned to or refunded immediately to the collecting officer.
+
+	
+
+	3)		Relative thereto, items 3.3.1 and 3.3.2 of COA Circular No. 96-004 dated April 19, 1996, state:
+
+
+
+3.3.1	The Accountant shall retain a copy of the travel advance voucher and the itinerary of travel (Appendix A).  He shall keep an index of the cash advances made by each official/employee and shall monitor the liquidation of the said cash advances.
+
+
+
+	3.3.2	In addition, the Accountant shall:
+
+
+
+a.	Send within (10) days before the expiration of the 30 or 60 days period specified under Section 16 of EO 248, a written reminder under signature of the head of the agency or his duly authorized representative, enjoining the official or employee concerned to liquidate his travel cash advance. This is to preclude complaints arising from suspension of salaries due to non-liquidation of travel advances.
+
+	
+
+b.	Delete the name of the official or employee from the subsequent payrolls until such time that the travel cash advance has been fully liquidated, if the official or employee concerned fails to liquidate the cash advance within the prescribed period.
+
+
+
+	4)		Moreover, Executive Order No. 77 dated March 15, 2019, provides:
+
+
+
+Section 22. Rendition of Account on Cash Advances and Sanction.
+
+
+
+(a)	Within two (2) calendar months after the return of an official or employee to the Philippines, in the case of official travel abroad, or within one (1) calendar month of his/her return to permanent official station in the case of official local travel, such official or employee shall render an account of the cash advances received in accordance with existing applicable rules and regulations.
+
+	
+
+	5)		COA Circular No. 2016-005 (Guidelines and Procedures on the Write-off of Dormant Receivable Accounts, Unliquidated Cash Advances, and Fund Transfers of National Government Agencies [NGAs], Local Government Units [LGUs] and Government-Owned and Controlled Corporations [GOCCs]) dated December 19, 2016, defines dormant unliquidated cash advances thus:
+
+	
+
+5.5	Dormant Unliquidated Cash Advances – advances granted to disbursing officers, agency officers and employees which remained non-moving for ten (10) years or more and where settlement/collectability could no longer be ascertained.
+
+	
+
+	6)		UEP - Main Campus reported outstanding cash advances for all funds as of December 31, 2020 totaling P3,603,464.59, all of which have been outstanding for over a year to over 21 years, detailed as follows:
+
+
+
+	Table 7.	Schedule of Outstanding Cash Advances as of December 31, 2020
+
+Fund
+
+Total Balance as of December 31, 2020
+
+Current Year
+
+Prior Years
+
+Remarks
+
+Regular Agency Fund (RAF)
+
+P1,350,296.94
+
+P0.00
+
+P1,350,296.94
+
+See Annex J
+
+Internally Generated Fund (IGF)
+
+239,483.35
+
+0.00
+
+239,483.35
+
+See Annex K
+
+Business Related Fund (BRF)
+
+172,711.17
+
+0.00
+
+172,711.17
+
+See Annex L
+
+Trust Fund (TF)
+
+1,840,973.13
+
+0.00
+
+1,840,973.13
+
+See Annex M
+
+Total
+
+P3,603,464.59
+
+P0.00
+
+P3,603,464.59
+
+ 
+
+Percentage to Total
+
+0%
+
+100%
+
+
+
+
+
+	7)		The accounts affected by the unliquidated cash advances as of December 31, 2020 are summarized in the table below:
+
+	
+
+Table 8.	Composition of Outstanding Cash Advances as of December 31, 2020
+
+Account Name
+
+Amount per Fund
+
+TOTAL
+
+
+
+RAF 
+
+IGF 
+
+TF 
+
+BRF 
+
+
+
+Petty Cash Fund
+
+P0.00
+
+P9,487.13
+
+P0.00
+
+P0.00
+
+P9,487.13
+
+Advances for Payroll
+
+1,267,243.50
+
+82,731.48
+
+
+
+1,688,022.85
+
+3,037,997.83
+
+Advances to Special Disbursing Officer
+
+60,224.44
+
+-
+
+172,711.17
+
+60,935.03
+
+293,870.64
+
+Advances to Officers and Employees
+
+
+
+22,829.00
+
+147,264.74
+
+
+
+92,015.25
+
+262,108.99
+
+Total
+
+P1,350,296.94
+
+P239,483.35
+
+P172,711.17
+
+P1,840,973.13
+
+P3,603,464.59
+
+	
+
+	8)		The accumulation of these unliquidated cash advances showed that Management did not strictly implement the internal control measures over the granting, utilization and liquidation of cash advances, thereby exposing the funds to possible risk of loss, and depriving the Main Campus of the necessary resources for its operations, if unexpended portion of cash advances exists and is not refunded.
+
+
+
+	9)		Verification further showed the following various factors which contributed to the accumulation of these cash advances:
+
+
+
+a)	A total of P3,286,520.98 (see Annex N) pertains to unliquidated cash advances of Accountable Officers (AOs) and employees who are no longer connected with the UEP – Main Campus.  These unliquidated cash advances have been outstanding for over eight years to 21 years already because Management did not exhaust all remedies to demand the liquidation of these cash advances.
+
+
+
+Of the total amount of P3,286,520.98 in unliquidated cash advances, the amount of P2,663,859.34 or 81.05% pertains to those cash advances aged over seventeen years granted to a former Collecting and Disbursing Officer, who was already dismissed from the service per Ombudsman Decision dated April 18, 2011 due to a cash shortage.
+
+
+
+b)	Despite a previous years’ audit recommendation, additional cash advances for travel were granted to an employee of the UEP – Main Campus in CY 2019, even when his previous cash advances remained unliquidated, or were not fully liquidated resulting in accumulation of his unliquidated cash advances totaling P74,862.78 (see Annex O).
+
+
+
+c)	Two AOs/employees whose unliquidated cash advances have accumulated to ₱582,303.01 (see Annex P) are still included in the payrolls for CY 2020 despite their unliquidated cash advances of more than one year to over sixteen years and who were issued demand letters from the Accountant in CYs 2017, 2018, 2019 and 2020.  Interview with the Officer-in-Charge of the Accounting Office disclosed that it was only in December 2020 when his Office effected the deletion from the payroll of these two AOs concerned.
+
+
+
+d)	Unliquidated balances from cash advances which have been partially settled by the AOs have accumulated to P77,605.06 (see Annex Q).  Aging shows that these are from over nine years to nineteen years old, and Management has not taken any action in the collection of these balances, thus, these have remained in the books.
+
+
+
+	10)		These observations were included in the CY 2012 to CY 2019 AARs but the recommendations therein have not been fully implemented.  On a more positive note, however, it is pointed out that the amount of unliquidated cash advances has been substantially reduced to P3,603,464.59 from its original balance of P12,530,907.32 in CY 2012.
+
+	
+
+	11)		We recommended that the President require the:
+
+
+
+a)	personnel concerned to immediately liquidate their outstanding cash advances and henceforth, to submit liquidation documents within the prescribed period;
+
+
+
+b)	Accountant to adopt stricter controls over the implementation of the pertinent provisions of COA Circular No. 96-004 dated April 19, 1996 as regards the monitoring and liquidation of cash advances, and the sanctions provided therein until such time when the AOs fully liquidate their cash advances;
+
+
+
+c)	Accountant to request for the write-off of dormant cash advances, except for the cash advance of a disbursement officer who incurred shortage and was dismissed from service, pursuant to COA Circular No. 2016-005 dated December 19, 2016;
+
+
+
+d)	installation of more efficient internal control measures over the issuance of clearances for accountable officers who resign or retire from the University so that those with outstanding cash advances are obliged to settle obligations immediately and fully before their separation from the University.
+
+
+
+	12)		In their response, Management explained that:
+
+	
+
+--	As recommended and in compliance with COA Circular No. 94-004, the Accounting Office has served Demand Letters to the employees concerned on January 13, 2020 and July 20, 2020 requiring them to immediately settle their unliquidated cash advances as of the period and informing them of the sanctions if the employee failed to liquidate within the prescribed period.  In August and September 2020, the office effected the deletion of all employees with outstanding cash advances.  However, on September 18, 2020, the University President issued Memorandum No. 85-1, s.2020, extending the deadline of the liquidation of the outstanding cash advances of the employees from July 30, 2020 to November 30, 2020 in view of the Bayanihan to Heal as One Act 2.  With this, the office facilitated the payment of salaries of these employees from August 2020 to November 2020.
+
+
+
+--	In November 23, 2020, the office has again served Demand Letters to the concerned employees.  All employees with outstanding cash advances were deleted from the December 2020 and subsequent payrolls.  The office will continue to serve notices/Demand Letters and withhold the salaries of these employees until such time that the cash advances have been fully liquidated.
+
+
+
+--	As for the settlement of unliquidated cash advances of officials/employees who are no longer connected with the university, the office will issue a Demand Letter based only on their last known address.
+
+
+
+--	The office is committed to strictly implement the pertinent provisions of COA Circular No. 96-004 as regards the monitoring and liquidation of cash advances, and the sanctions provided therein.
+
+
+
+
+
+Unreliable PPE account balance, ₱831,919,159.50
+
+
+
+3)		The year-end balance of the PPE account totaling P831,919,159.50 is not fairly presented due to: a) the non-provision of depreciation of PPE items totaling P63,500,719.16; b) non-recording of received PPE donations; c) erroneous accounting entries made to record the procurement of construction materials for infrastructure projects; d) the inclusion in the books of unserviceable and fully depreciated properties; and e) the non-submission of the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) as of December 31, 2020.
+
+
+
+	1)		Section 111 of the PD No. 1445 provides:
+
+	
+
+Section 111. Keeping of the accounts. - (1) That the accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+x x x
+
+
+
+	2)		The pertinent provisions of the GAM for NGAs, Volume 1 are as follows:
+
+
+
+Chapter 10
+
+
+
+PROPERTY, PLANT AND EQUIPMENT
+
+
+
+Sec. 2. Definition of Terms. When used in this Manual, the following terms shall mean:
+
+
+
+x x x
+
+k.	Property, Plant and Equipment – are tangible assets that are:
+
+1)	purchased, constructed, developed or otherwise acquired;
+
+2)	held for use in the production or supply of goods or services or to produce program outputs;
+
+3)	for rental to others;
+
+4)	for administrative purposes;
+
+5)	expected to be used during more than one reporting period; and
+
+6)	not intended for resale in the ordinary course of operations.
+
+
+
+x x x
+
+
+
+Sec. 3. Criteria for Recognition. The cost of an item of PPE shall be recognized as assets if, and only if:
+
+
+
+a)	it is probable that the future economic benefits or service potential associated with the item will flow to the entity;
+
+b)	the cost or fair value of the item can be measured reliably;
+
+c)	beneficial ownership and control clearly rest with the government;
+
+d)	the asset is used to achieve government objectives; and
+
+e)	it meets the capitalization threshold of P15,000.
+
+
+
+Under this recognition principle, an entity shall evaluate all its PPE costs at the time they are incurred. These costs include cost incurred initially to acquire or construct an item of PPE and costs incurred subsequently to add to, replace part of, or service the PPE.
+
+
+
+Sec. 8. Purchase of PPE. PPE acquired through purchase are charged against appropriations/allotments or special budget for capital outlay. PPE can be purchased on cash basis, on account, on installment basis, with promotional items, and at a lump sum price.
+
+
+
+x x x
+
+
+
+a)	Construction of PPE. During the construction period, all expenses incurred in relation to the construction of the PPE shall be taken up in the books as Construction in Progress (CIP) with the appropriate asset classification. As soon as the construction is completed, the “Construction in Progress” account shall be reclassified to the proper asset account. Likewise, all expenses such as interests, license fees, etc., during the construction period shall be capitalized.
+
+
+
+x x x
+
+
+
+Sec. 12. Donation without Condition. Cost of PPE acquired through donation without condition shall be taken up at its fair value at the date it is acquired. All expenses incurred in connection with the donated asset, such as delivery and installation costs, shall be included in the amount recognized as asset. The fair value of the PPE shall be recognized as “Income from Grants and Donations in Kind.”
+
+
+
+x x x
+
+
+
+Sec. 38. Physical Count of PPE. The entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 71) as at December 31 of each year. This shall be submitted to the Auditor concerned not later than January 31 of the following year. Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division/Unit for proper accounting/recording.
+
+
+
+Sec. 39. Derecognition. The cost of the PPE together with the related accumulated depreciation and accumulated impairment loss shall be removed from the accounts (2014 ed. Financial Accounting, Volume I, Valix). The carrying amount of an item of PPE shall be derecognized on disposal or when no future economic benefits or service potential is expected from its use or disposal. The following are the policies on the disposal of PPE:
+
+
+
+a)	The gain or loss arising from derecognition of an item of PPE shall be included in surplus or deficit when the item is derecognized. 
+
+b)	If, under the recognition principle, an entity recognizes in the carrying amount of PPE the cost of a replacement for its part, then the carrying amount of the replaced part shall be derecognized. If it is not practicable to determine the carrying amount of the replaced part, the entity may use the cost of the replacement as an indication of what the cost of the replaced part was at the time it was acquired or constructed. 
+
+c)	The gain or loss arising from the disposal of an item of PPE shall be determined as the difference between the net disposal proceeds, if any, and the carrying amount of the item; 
+
+d)	A JEV shall be prepared by the Accounting Division/Unit to derecognize the asset from the books of accounts only after its disposal;
+
+e)	Disposal procedures of unserviceable property shall be in accordance with applicable rules and regulations on Supply and Property Management Manual, and Sec. 79 of P.D. No. 1445.
+
+
+
+Sec. 40. Idle, Unserviceable and Fully Depreciated PPE. The following are the policies on idle, unserviceable and fully depreciated PPE:
+
+
+
+a)	Temporary idle activity or abandonment of PPE does not preclude depreciating the asset, as future benefits are consumed not only through usage but also through obsolescence, and wear and tear.
+
+
+
+b)	A PPE is said to be fully depreciated when the carrying amount is equal to zero or residual value. The cost of fully depreciated assets remaining in service and the related accumulated depreciation and accumulated impairment losses shall not be removed from the accounts.
+
+
+
+c)	A PPE is said to be unserviceable if it is no longer capable of providing the entity with future economic benefits or service potential.
+
+
+
+d)	All unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) (Appendix 74). PPE reported in the IIRUP shall be dropped from the books by debiting Impairment Loss-Property, Plant and Equipment (cost of the PPE less Accumulated Depreciation).
+
+
+
+	3)		Also, COA Circular No. 2020-06 (Guidelines and Procedures in the Conduct of Physical Count of Property, Plant and Equipment [PPE], Recognition of PPE Items Found at Station, and Disposition for Non-existing/Missing PPE Items, for the One-Time Cleansing of PPE Account Balances of Government Agencies) dated January 31, 2020, states:
+
+
+
+	5.0	GENERAL GUIDELINES
+
+
+
+5.1	Each government agency shall conduct a physical count of all its PPE, whether acquired through purchase or donation, including those constructed by administration and found at station.
+
+
+
+5.2	The Head of the Agency shall create an Inventory Committee composed of adequate number of members to be able to complete the physical inventory in three months or less. The Inventory Committee shall have at least one member each from the Accounting and Property Divisions/Units of the agency.
+
+
+
+5.3	The members of the Inventory Committee shall be temporarily relieved of all their regular duties to devote their full time in the conduct of the physical inventory taking until the same is completed.  The entire inventory taking shall be witnessed by the Commission on Audit (COA) Auditor. The Audit Team Leader and/or any of his/her audit team members may be assigned for the purpose.
+
+
+
+x x x
+
+
+
+5.5	The Head of the Agency may also require a representative from the agency's Audit Service/Unit to witness the inventory taking. 
+
+
+
+5.6	Each government agency shall adopt a uniform property identification system for PPE wherein a unique Property Number shall be assigned for each PPE item, using the following numbering system:
+
+----media/image1.png----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The codes for the PPE sub-major account group and General Ledger account correspond to those provided in the Revised Chart of Accounts prescribed under the Accounting Manuals of the respective Sectors (National, Local and Corporate).
+
+
+
+Additional digits may be used for serial number and location/office, as necessary.
+
+
+
+5.12	Property records shall be updated based on the results of the physical inventory and reconciled with accounting records to come up with the reconciled balances of PPE accounts to be considered as the correct balance of the agency's PPEs.
+
+
+
+	4)		The accuracy of the balance of the PPE accounts of the University as of December 31, 2020 reported at P831,919,159.50 could not be ascertained due to the following observations:
+
+
+
+a)	A total of P63,500,719.16 comprising the beginning balances of some PPE accounts have no specific lists or schedules, and no depreciation expenses were provided, thereby affecting the fair presentation of the PPE accounts in the financial statements.  Their existence and proper valuation could not be determined due to lack of records and documents that would prove their location, acquisition costs and acquisition dates.  Upon interview, the Assistant Accountant admitted that these amounts were only carried forward from CY 2004 balances which were maintained by the previous Accountant.  The composition of the amount is shown in the following table:
+
+
+
+Table 9.	Schedule of PPE Balances Without Supporting Schedules as of December 31, 2020
+
+PPE Accounts
+
+Regular Agency Fund
+
+Internally Generated Fund
+
+Trust Fund
+
+Total
+
+Books
+
+₱1,052,524.64
+
+-
+
+-
+
+₱1,052,524.64
+
+Furniture and Fixture
+
+1,923,575.39
+
+₱314,950.00
+
+₱203,756.25
+
+2,442,281.64
+
+Office Equipment
+
+7,958,724.24
+
+869,362.00
+
+2,131,590.50
+
+10,959,676.74
+
+Communication Equipment
+
+86,700.00
+
+-
+
+-
+
+86,700.00
+
+Information Technology Equipment
+
+6,465,747.22
+
+660,301.00
+
+-
+
+7,126,048.22
+
+Technological and Scientific Equipment
+
+5,455,720.40
+
+-
+
+67,033.00
+
+5,522,753.40
+
+Sports Equipment
+
+37,750.00
+
+-
+
+-
+
+37,750.00
+
+Medical Equipment
+
+60,244.00
+
+-
+
+-
+
+60,244.00
+
+Disaster Response and Rescue Equipment
+
+70,370.00
+
+-
+
+-
+
+70,370.00
+
+Machinery
+
+1,107,754.46
+
+-
+
+-
+
+1,107,754.46
+
+Motor Vehicles
+
+3,193,840.14
+
+713,000.00
+
+-
+
+3,906,840.14
+
+Land Improvements
+
+10,853,552.16
+
+966,837.50
+
+433,142.00
+
+12,253,531.66
+
+Agricultural and Forestry Equipment
+
+-
+
+70,000.00
+
+127,094.00
+
+197,094.00
+
+Work/Zoo Animals
+
+-
+
+9,000.00
+
+-
+
+-
+
+Works of Art an Archeological Specimens
+
+-
+
+194,000.00
+
+-
+
+-
+
+Buildings
+
+-
+
+132,961.25
+
+-
+
+132,961.25
+
+Other Structures
+
+2,138,516.81
+
+-
+
+-
+
+2,138,516.81
+
+Other Machineries and Equipment
+
+9,836,300.08
+
+ 
+
+23,000.00
+
+9,859,300.08
+
+Other Property, Plant and Equipment
+
+6,455,860.82
+
+-
+
+26,632.00
+
+6,482,492.82
+
+Construction in Progress-Land Improvements
+
+-
+
+37,159.44
+
+-
+
+37,159.44
+
+Construction in Progress-Buildings and Other Structure
+
+-
+
+26,719.86
+
+-
+
+26,719.86
+
+Total
+
+₱56,697,180.36
+
+₱3,994,291.05
+
+₱3,012,247.75
+
+₱63,500,719.16
+
+
+
+These beginning balances are not supported adequately with schedules or inventories so there was no way of knowing whether these items are still existing or are still serviceable.
+
+
+
+b)	Donations from students and/or student organizations, non-government organizations, as well as national government agencies were not recorded in the books as part of PPE of the UEP - Main campus.
+
+
+
+Interview with some faculty members of the College of Engineering and College of Science disclosed that some students were required to conduct researches and theses as part of their curriculum.  As a requirement, the students would come up with devices or prototype equipment which remained in the custody of the college/professor as a donation.  It was confirmed that some of those devices and/or equipment would cost higher than the capitalization threshold of P15,000.00, and were in the inventory list prepared by the college but there was no proper documentation and coordination with the Accounting Office and the Property Management Office (PMO) in order to officially include the items in the PPE accounts of the University.  Some of these donated PPEs are as follows:
+
+
+
+Table 10.  List of Donated PPEs Without Valuation and Not Recorded in the books as of December 31, 2020
+
+Quantity
+
+PPE Item/Description
+
+Donor
+
+Donee
+
+2
+
+Acer Desktop
+
+City Savings Bank
+
+UEP Accounting Office
+
+1
+
+Sharp Personal Refrigerator
+
+Northern Samar Masonic Lodge No.211
+
+UEP College of Business Administration
+
+1
+
+EPSON EB-241 SVGA 330 Lumens Projector (White)
+
+Mr. Rikki A. Rubenecia
+
+UEP College of Engineering
+
+1
+
+EPSON LCD Projector H842C 100v, 50/60Hz 3.1-1.3A
+
+Engr. Martin Junboy C. Tan
+
+UEP College of Engineering
+
+1
+
+Automatic Transfer Switch
+
+UEP College of Engineering Students (Thesis output)
+
+UEP College of Engineering
+
+1
+
+Solar Photocopier
+
+UEP College of Engineering Students (Thesis output)
+
+UEP College of Engineering
+
+1
+
+Solar Tracker
+
+UEP College of Engineering Students (Thesis output)
+
+UEP College of Engineering
+
+1
+
+Solar Automobile
+
+UEP College of Engineering Students (Thesis output)
+
+UEP College of Engineering
+
+
+
+Moreover, an ocular visit at the UEP Laboratory Elementary School (UEPLES), revealed that a covered court was constructed in the premises but this project was never reflected in the quarterly reports submitted by the Physical Plant Development Office (PPDO).  Verification with the Accountant revealed that the structure was donated by the Parents-Teachers Association (PTA), but the donation was not recorded in the books due to lack of supporting documents and proper turnover.
+
+
+
+c)	Erroneous recording of the procurement of construction supplies and materials for various infrastructure projects implemented by administration.
+
+
+
+The University made the following procurements for construction supplies and materials in CY 2020 for various infrastructure projects amounting to P1,072,731.80 which were implemented by administration based on the following Purchase Orders (POs):
+
+
+
+Table 11.  Schedule of POs for Various Infrastructure Projects of the University as of December 31, 2020
+
+PO Date
+
+PO No.
+
+Delivery Date
+
+Delivery Receipt No.
+
+Purpose
+
+Amount
+
+4/8/2020
+
+202004073
+
+5/6/2020
+
+15718; 14642
+
+UEP Petron Gas Station use
+
+₱38,864.00
+
+4/8/2020
+
+202004071
+
+5/6/2020
+
+15716; 14643
+
+White beach use
+
+27,389.00
+
+7/3/2020
+
+202007120
+
+9/15/2020
+
+19692; 19691
+
+UEP Petron Service Station use
+
+123,255.00
+
+7/21/2020
+
+202007127
+
+9/9/2020
+
+19295
+
+DFI repair of roofing
+
+6,810.00
+
+8/24/2020
+
+202008155
+
+9/15/2020
+
+18141
+
+Repair of garage at machinery department
+
+84,585.00
+
+10/14/2020
+
+202010176
+
+11/23/2020
+
+16686; 16685; 16850; 16849; 16689; 16848; 16847; 16687; 18311; 18344; 16848; 16847; 16850; 16849; 16686; 16685; 16687
+
+Repair of CR at College of Law
+
+468,103.00
+
+11/19/2020
+
+202011186
+
+12/10/2020
+
+16899; 16900; 16858; 18788
+
+Fabrication of concrete lavatory at Kapihan
+
+9,944.80 
+
+11/19/2020
+
+202011186
+
+1/14/2021
+
+18886
+
+Fabrication of concrete lavatory at Kapihan
+
+405.00 
+
+11/19/2020
+
+202011185
+
+12/10/2020
+
+16897; 19050; 16898
+
+Fabrication of concrete lavatory at Gymnatorium
+
+9,944.80 
+
+11/19/2020
+
+202011185
+
+1/14/2021
+
+18887
+
+Fabrication of concrete lavatory at Gymnatorium
+
+405.00 
+
+11/19/2020
+
+202011184
+
+12/7/2020
+
+18490; 18489; 18493; 18884
+
+Fabrication of concrete lavatory of diff colleges/units
+
+191,745.40
+
+11/19/2020
+
+202011187
+
+12/7/2020
+
+18487; 18486; 18488; 18335
+
+Fabrication of concrete lavatory at Medical Dental Clinic
+
+9,944.80
+
+12/23/2020
+
+202012201
+
+1/19/2021
+
+18329; 18330
+
+Not indicated (Water System)
+
+101,336.00
+
+
+
+
+
+
+
+
+
+T O T A L
+
+P1,072,731.80
+
+
+
+Verification revealed that purchase of these materials were neither recorded as Construction Materials Inventory upon delivery nor recorded as Construction in Progress upon issuance.  The Accounting Office recorded the transactions only upon payment by making the following entries:
+
+
+
+Table 12. Accounting Entries Used to Record the Purchase of the Construction Materials
+
+Account Title
+
+Debit
+
+Credit
+
+For current year transactions:
+
+
+
+
+
+Repairs and Maintenance-Buildings and Other Structures
+
+xxx
+
+
+
+Due to BIR
+
+
+
+xxx
+
+Cash in Bank – LCCA
+
+
+
+xxx
+
+To record payment for the purchase of construction materials
+
+
+
+
+
+
+
+
+
+
+
+For prior year transactions:
+
+
+
+
+
+Accumulated Surplus/(Deficit)
+
+xxx
+
+
+
+Due to BIR
+
+
+
+xxx
+
+Cash in Bank – LCCA
+
+
+
+xxx
+
+To record payment for the purchase of construction materials
+
+
+
+
+
+
+
+Section 8(g)(2), Chapter 10 of GAM for NGAs, Volume I, provides the following illustrative entries to recognize purchase of construction materials for the implementation of infrastructure projects by administration:
+
+
+
+Table 13. Illustrative Entries Under Section 8(g)(2), Chapter 10 of GAM for NGAs, Volume I
+
+Account Title
+
+Debit
+
+Credit
+
+Construction Materials Inventory
+
+xxx
+
+
+
+Accounts Payable
+
+
+
+xxx
+
+To recognize the delivery and acceptance of construction materials with charge invoice
+
+
+
+
+
+Xxx
+
+
+
+
+
+Construction in Progress-Building and Other Structures
+
+xxx
+
+
+
+Construction Materials Inventory
+
+
+
+xxx
+
+To recognize issue of construction materials
+
+
+
+
+
+xxx
+
+
+
+
+
+Construction in Progress-Building and Other Structures
+
+xxx
+
+
+
+Accounts Payable
+
+
+
+xxx
+
+To set up liability for payroll
+
+
+
+
+
+
+
+This erroneous recording has affected the fair presentation of the financial statements and at the same time highlighted the breakdown in controls over the proper issuance and utilization of construction materials thereby exposing government funds and property to the risks of loss, malversation and misappropriation.
+
+
+
+d)	Unserviceable properties were still recorded in the books thereby overstating the PPE account.
+
+
+
+The GAM for NGAs requires that unserviceable properties shall be reported and dropped from the books using proper forms such as the Inventory and Inspection of Unserviceable Property (IIRUP).  The loss of government property shall likewise be reported immediately and the proper relief of accountability shall be applied by the persons accountable therefor.
+
+
+
+The IIRUP submitted by the three campuses were not properly filled out as to property number, cost, accumulated depreciation, impairment losses and carrying amount, thus, the amounts to be dropped from the books could not be determined.
+
+
+
+Also, UEP - Laoang automatically resorted to the “destruction” mode of disposal of unserviceable items without assessing whether or not the unserviceable property consisted of valuable parts which could have been separated from their worthless parts for proper accounting and disposition.
+
+
+
+Further, records from the Accounting Office showed that various items of the PPE account have been recorded at salvage value for period ranging from the year 2006 to 2020, but were not yet removed from the books, thereby casting doubt as to their existence and condition.
+
+
+
+The RPCPPE as of December 31, 2020 was not prepared and submitted by the University in compliance with COA Circular No. 2020-06.
+
+
+
+	5)		Finally, the Accounting Section and the Supply Office/PMO did not periodically reconcile their records.
+
+
+
+	6)		Other deficiencies noted during the verification of the PPE accounts included:
+
+
+
+1)	Property Acknowledgement Receipts (PARs) are unnumbered, not properly filled out, not renewed at least every three years (unless there were changes in custodianship/user of the property) and in some instances, the dates of receipt and issue by the recipients and Supply/Property Officer, respectively, are not indicated.
+
+
+
+2)	Property Cards maintained by the Supply Office/PMO do not contain details of the following:
+
+
+
+a)	fund clusters;
+
+b)	description of the PPE (i.e. brand, size, color, serial no. and etc.);
+
+c)	number assigned by the Supply and/or Property Division/Unit to the property/inventory tag;
+
+d)	date of acquisition/transfer/disposal;
+
+e)	reference/PAR number or the number assigned to the reference document or Property Acknowledgment Receipt (PAR) used as basis in recording the receipt, issue, transfer or disposal of PPE;
+
+f)	quantity of PPE received based on source documents;
+
+g)	quantity of PPE issued to end-user, transferred to other NGAs or disposed, etc.;
+
+h)	name of agency/entity and/or accountable person receiving the issued or transferred PPE;
+
+i)	office/officer concerned, amount and remarks for the important information, observation or comment about the PPE being received, issued, transferred or disposed
+
+j)	difference between the quantity of the PPE on hand less the issued, transferred, or disposed item/s, if any;
+
+k)	amount of PPE received based on source documents
+
+l)	important information, observation or comment about the PPE being received, issued, transferred or disposed
+
+
+
+3)	In three campuses, properties have no inventory tags to facilitate the identification of the University properties.
+
+
+
+	7)		These breakdowns in controls over the recording, inventory and disposal of government properties within the school campuses have affected the reliability of the account balances reported in the financial statements as of year end.
+
+
+
+	8)		We recommended that the President require the:
+
+	
+
+a)	Accountant of the Main Campus to: exert diligent efforts in: (1) identifying the PPE items included in the CY 2020 balances; (2) recording all received PPE donations; (3) properly recording the procurement and issuance of construction materials for infrastructure projects implemented by administration; and (4) providing for depreciation of the properties so that they are carried at their salvage value;
+
+	
+
+b)		Supply Officer and/or PMO of the three campuses to: adequately maintain the necessary documents such as the PC, PAR and IIRUP; implement inventory tagging; and periodically reconcile their records with the Accounting Office’s records;
+
+	
+
+c)		Inventory Committee of the three campuses to conduct actual physical count and prepare and submit a complete and reliable RPCPPE as of December 31, 2020 in accordance with COA Circular No. 2020-06 dated January 31, 2020;
+
+	
+
+d)		Disposal Committee in the respective campuses to execute the procedure in the proper disposal of unserviceable properties in accordance with the modes prescribed under the Supply and Property Management Manual, and Sec. 79 of PD No. 1445;
+
+	
+
+e)		Department/Section Heads and Deans of Colleges to report and provide documents for donations made to the respective Department/Section or College in behalf of the University for purposes of recording the same in its books and avoiding possible loss of government property; and
+
+	
+
+f)		Vice President for Administration and Finance (VPAF) to formulate sound policies that would require accountability of all personnel concerned in the donation process.
+
+	
+
+	9)		Management commented that:
+
+	
+
+--		In order to establish reliable and more accurate PPE balances, the Accounting Office will recommend to the Office of the President the creation of an Inventory Committee and conduct of physical count of all PPEs of the university in accordance with COA Circular No. 2020-006 dated January 31, 2020.  For now, the office is working with the Property Management Office in identifying and reconstructing the records of PPEs acquired in 2020 to 2010 or of those with readily available data.  The office will work on this until all PPEs will be properly accounted in the books.
+
+
+
+--	As for the unrecorded donated PPEs, we will coordinate with the offices/colleges concerned for the documents in support of the donation.  These documents will serve as our bases of recording the donated PPEs.
+
+
+
+--		For the erroneous recording of the procurement of construction supplies and materials, the Accounting Office will further evaluate some of the transactions, specifically the repairs and maintenance of various PPEs and fabrication of concrete lavatory of different units/colleges, if these will meet the criteria for recognition of PPE as provided under PPSAS 17/IPSAS 17 or Chapter 10, GAM for NGAs Volume II.  If the recognition criteria are met, the office will make all the necessary adjustments to properly account the repair/addition and derecognize the carrying amounts of the parts being replaced.  The office will coordinate with the Physical Plant Development Office for the necessary documents in the evaluation such as the Statement of Work Accomplishments of the projects implemented by the administration.
+
+
+
+	10)		The Supply Officer of the UEP - Catubig Campus in her reply stated that the inventory tagging of properties was on-going.
+
+
+
+
+
+Unreliable Land account balance, ₱116,916,017.48
+
+
+
+4)		The accuracy of the Land account with a reported balance of P116,916,017.48 in the financial statements cannot be ascertained due to: (a) non-recording of the acquisition costs of the asset at the UEP - Catubig Campus; (b) error in the recording of the donated land of UEP - Laoang Campus; and (c) failure of the UEP - Catubig and Laoang Campuses to facilitate the transfer of land titles of purchased and donated land.
+
+
+
+	1)		Section 111 of the PD No. 1445 provides:
+
+	
+
+Section 111. Keeping of the accounts. (1) That the accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+x x x 
+
+
+
+	2)		Likewise, Sections 2 and 3, Chapter 10 of GAM for NGAs, Volume 1, provide:
+
+
+
+Chapter 10
+
+
+
+PROPERTY, PLANT AND EQUIPMENT
+
+
+
+Sec. 2. Definition of Terms. When used in this Manual, the following terms shall mean:
+
+
+
+x x x
+
+
+
+k.	Property, Plant and Equipment – are tangible assets that are:
+
+x x x
+
+7)	purchased, constructed, developed or otherwise acquired;
+
+8)	held for use in the production or supply of goods or services or to produce program outputs;
+
+9)	for rental to others;
+
+10)	for administrative purposes;
+
+11)	expected to be used during more than one reporting period;  and
+
+12)	 not intended for resale in the ordinary course of operations.
+
+x x x
+
+
+
+Sec. 3. Criteria for Recognition. The cost of an item of PPE shall be recognized as assets if, and only if:
+
+
+
+a)	it is probable that the future economic benefits or service potential associated with the item will flow to the entity;
+
+b)	the cost or fair value of the item can be measured reliably;
+
+c)	beneficial ownership and control clearly rest with the government;
+
+d)	the asset is used to achieve government objectives; and
+
+e)	it meets the capitalization threshold of P15,000.
+
+
+
+Under this recognition principle, an entity shall evaluate all its PPE costs at the time they are incurred.  These costs include cost incurred initially to acquire or construct an item of PPE and costs incurred subsequently to add to, replace part of, or service the PPE.
+
+
+
+	3)		Verification of the Land account of the University showed a balance of P116,916,017.48 as of December 31, 2020, consisting of the following:
+
+
+
+Table 14. Composition of the Land Account as of December 31, 2020
+
+Campus
+
+Land Title
+
+Carrying Amount
+
+UEP - Main
+
+TCT No. T-744 and TCT No. T-745
+
+P116,914,831.00
+
+UEP - Laoang
+
+No data
+
+1,186.48
+
+UEP - Catubig
+
+
+
+0.00
+
+Total
+
+
+
+P116,916,017.48
+
+
+
+	4)		Upon interview, the Accountant of the UEP - Catubig Campus said that she did not record the acquisition costs of land as reported in the RPCPPE because the titles to these parcels of land were not yet transferred in the name of the campus.  Review of the records showed the following lots constituting the land occupied by the UEP - Catubig Campus:
+
+
+
+Table 15. Composition of the Lots Occupied by the UEP – Catubig Campus as of December 31, 2020
+
+Item
+
+Description
+
+Title
+
+Acquisition Cost
+
+Remarks
+
+1
+
+Lot No. 515 & 517
+
+OCT No. 116
+
+₱3,000.00
+
+Original School Campus, 5 hectares donated to DepEd/CVNHS
+
+2
+
+Lot No. 514
+
+TCT No. 283
+
+2,000.00
+
+Coco/Pasture Land purchased from Matias Ejon
+
+3
+
+Lot No. 1898-A
+
+TCT No. 423
+
+2,500.00
+
+Cocoland/Watershed purchased from Zacarias Ejon
+
+4
+
+Lot No. 1898-C
+
+TCT No. 436
+
+2,500.00
+
+Cocoland/Watershed purchased from Miguel Ejon
+
+5
+
+Lot No. 1897
+
+TCT No. 437
+
+2,500.00
+
+Cocoland/Watershed purchased from Juanillo Danque
+
+6
+
+Lot No. 521
+
+TCT No. 546
+
+3,000.00
+
+School Campus/Rice Field purchased from Romulo Lluz
+
+7
+
+Lot No. 519 & 522
+
+TCT No. 533
+
+3,000.00
+
+School Campus/Rice Field purchased from David Rebadomia
+
+8
+
+Lot No. 525 & 527
+
+TCT No. 513
+
+3,000.00
+
+School Campus/Rice Field purchased from Honorio Rebadomia
+
+9
+
+Lot No. 518 & 520
+
+TCT No. 528
+
+3,000.00
+
+School Campus/Rice Field purchased from Gloria Rebadomia
+
+10
+
+Lot No. 512
+
+TCT No. 277
+
+2,000.00
+
+Coco/Pasture Land purchased from Maximo Adalla
+
+11
+
+Lot No. 535
+
+TCT No. 758
+
+3,000.00
+
+Rice Field purchased from Casto Robis
+
+12
+
+Lot No. 536
+
+TCT No. 937
+
+3,000.00
+
+Rice Field purchased from Roque Tafalla
+
+13
+
+Lot No. 1896
+
+TCT No. 944
+
+2,500.00
+
+Cocoland/Watershed purchased from Francisco Conge
+
+14
+
+Lot No. 526 & 528
+
+TCT No. 3361
+
+3,000.00
+
+Athletic Ground purchased from Lourdes Lluz
+
+15
+
+Lot No. 1802
+
+TCT 3477
+
+2,500.00
+
+Cocoland/Watershed purchased from Luciana Tafalla
+
+ 
+
+Total
+
+₱40,500.00
+
+ 
+
+
+
+	5)		The Supply Officer of UEP - Catubig Campus informed the Audit Team that she is processing the documents for the transfer and titling of the land occupied by the campus.
+
+
+
+	6)		As to the UEP - Laoang Campus, an interview with its Accountant disclosed that the land where the campus is located was donated by several donors but the titles were not yet transferred to the name of the UEP - Laoang Campus.  The Accountant also said that the recorded cost of the land amounting to P1,186.48 was not the fair market value, thus, the amount was understated.  The RPCPPE submitted by the Supply Officer/PMO of this campus did not include the Land account.
+
+
+
+	7)		Management’s neglect to enforce its right of ownership and possession over its real property and to efficiently manage the same resulted in the unlawful occupation by several private individuals, thereby depriving the government and its stakeholders the full use thereof or benefit from reasonable income arising from its use and such other purposes of its acquisition.
+
+
+
+	8)		The foregoing conditions also rendered unreliable the University’s Land account balance of P116,916,017.48.
+
+
+
+	9)		We recommended that the President should:
+
+	
+
+a)	direct the Accountants of the UEP - Catubig and Laoang Campuses to make the necessary entries to the costs involved in the acquisition of the land, and to fully disclose in the Notes to Financial Statements the description and status of the properties owned by the University;
+
+	
+
+b)	direct the Supply Officer/PMO of UEP Laoang Campus to include the Land account in the RPCPPE maintained and updated by his Office; and
+
+
+
+c)	direct the Campus Directors of the UEP Catubig and Laoang Campuses to initiate efforts for the transfer of titles of the parcels of land acquired/donated to, and by, the campus.
+
+
+
+	10)		The comments of the Management are summarized hereunder as follows:
+
+
+
+--	The external campuses were directed to comply with the recommendations.
+
+
+
+--	The MOA and Contract of Lease will be submitted the soonest to the Audit Team, as we have to retrieve these documents from the archives.
+
+
+
+--	Committee on Land Use Occupancy and Housing Unit is already existing consistent with the provisions of the University Code.
+
+
+
+--	Land Use Development and Infrastructure Plan will be prepared which will incorporate all the necessary provisions of existing law as noted by the COA.
+
+
+
+
+
+Unreliable Biological Assets account balance, ₱117,000.00
+
+
+
+5)		The Biological Assets account balance amounting to P117,010.00 of the University as of December 31, 2020 is unreliable due to several deficiencies noted during the audit: a) the account balance has reported no changes since CY 2016; b) there has been no inventory reports submitted by the UEP - Catubig Campus; c) the biological assets reported in the inventory report submitted by UEP - Main Campus did not indicate any unit cost and total cost of the items in the list; d) the Biological Assets Property Card and PPELC were not maintained and updated; and e) the Quarterly Report on Biological Assets (QRBA) has not been prepared and submitted.
+
+
+
+	1)		Sections 111 and 112 of the PD No. 1445 state that:
+
+
+
+Section 111. Keeping of accounts.
+
+
+
+1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+Section 112. Recording of financial transaction. Each government agency shall record its financial transactions and operations conformity with generally accepted accounting principles and in accordance with pertinent laws and regulations.
+
+
+
+	2)		Chapter 11 of the GAM for NGAs, Volume I, provides:
+
+
+
+Sec. 3. Examples of Biological Assets, Agricultural Produce and Products. The following are examples of biological assets, agricultural produce and products that are the result of processing after harvest.
+
+
+
+Table 18.  Examples of Biological Assets, Agriculture Produce and Products
+
+Biological Assets
+
+Agricultural produce
+
+Products that are the result of processing after harvest
+
+Trees in a plantation
+
+Felled trees
+
+Logs, lumber
+
+Forest
+
+Coconut fruit (mature)
+
+Coconut oil
+
+
+
+Coconut fruit (young)
+
+Coconut juice
+
+
+
+Coconut husk
+
+Bunot
+
+
+
+Coconut trunks
+
+Coco lumber
+
+Plants
+
+Rice
+
+Rice flour
+
+
+
+Harvested cane
+
+Sugar
+
+
+
+Corn
+
+Corn Flour, Corn Starch
+
+
+
+Cotton
+
+Thread, Clothing
+
+
+
+Cassava
+
+Cassava Flour
+
+Dairy cattle
+
+Milk
+
+Cheese
+
+Sheep
+
+Wool
+
+Yarn, Carpet
+
+Pigs
+
+Carcass
+
+Sausages, Cured Hams
+
+Bushes
+
+Leaf
+
+Tea, Cured tobacco
+
+Vines
+
+Grapes
+
+Wine
+
+Fruit trees
+
+Picked fruits
+
+Processed fruits
+
+
+
+Sec. 5. Biological Transformation. Biological transformation results in the following types of outcomes:
+
+
+
+a. Asset changes through:
+
+	1)	Growth (an increase in quantity or improvement in quality of an animal or plant),
+
+	2)	Degeneration (a decrease in the quantity or deterioration in quality of an animal or plant), or
+
+	3)	Procreation (creation of additional living animals or plants); or
+
+
+
+Sec. 7. Measurement. A biological asset shall be measured on initial recognition at each reporting date at its fair value less cost to sell, except where market-determined prices or values are not available, and for which alternative estimates of fair value are determined to be clearly unreliable. In such a case, that biological asset shall be measured at its cost less any accumulated depreciation and any accumulated impairment losses. (Pars 16 and 34, PPSAS 27)
+
+
+
+Sec. 8. Determination of Fair Value.  The following are the basis for determining the fair value of a biological asset or agricultural produce:
+
+
+
+a.	The determination of fair value for a biological asset or agricultural produce may be facilitated by grouping biological assets or agricultural produce according to significant attributes; for example, by age or quality.  An entity selects the attributes corresponding to the attributes used in the market as a basis for pricing. (Par. 19, PPSAS 27)
+
+
+
+b.	When entities enter into contracts to sell their biological assets or agricultural produce at a future date, the fair value of a biological asset or agricultural produce is not adjusted because of the existence of a contract. (Par. 20, PPSAS 27)
+
+
+
+Sec. 11. Narrative Procedures. The procedure of the acquisition and recognition of biological assets are as follows:
+
+
+
+a)	Acquisition of biological assets
+
+
+
+Area of Responsibility
+
+Seq. No.
+
+Activity
+
+Biological Asset’s Caretaker/ Officer-in-charge
+
+1
+
+Upon receipt of biological asset and based on the approved IAR, Delivery Receipt and other supporting documents, records the biological asset in the Biological Assets Property Card (BAPC) (Appendix 78)
+
+
+
+2
+
+Submit copies of the approved IAR with the  required supporting documents to the Accounting Division/Unit
+
+
+
+b)	Recognition of gain or loss due to physical damage
+
+
+
+Area of Responsibility
+
+Seq. No.
+
+Activity
+
+Biological Asset’s Caretaker/Responsible Person
+
+1
+
+Prepare Quarterly Report of Biological Assets (QRBA) (Appendix 79) containing, among others, the balances at the beginning of the quarter and the changes in fair value of the biological assets due to physical changes such as: a) growth, b) degeneration, c) production, and d) procreation.
+
+
+
+2
+
+Submit the QRBA to the Accounting Division/Unit. 
+
+Accounting Division/Unit
+
+Accountant/Bookkeeper
+
+3
+
+Prepare JEV to recognize the gain or loss on fair value of the biological asset due to physical changes. (Refer to Sec. 12- Illustrative Accounting Entries of this Chapter)
+
+
+
+4
+
+Post the appropriate account in the GJ, GL and SL for biological assets.
+
+(Refer to Sec. 55, Chapter 19-Financial Reporting)
+
+
+
+	3)		Likewise, Chapter 10 of GAM for NGAs Volume I provides:  
+
+
+
+Sec. 42. Accounting and Property Records to be maintained for PPE. The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock, etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same.  The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like PAR.
+
+
+
+	4)		Verification of the Biological Assets account balance as of year end revealed that there were no changes in the account since CY 2016, hence, the balance of P117,010.00 as of December 31, 2020 is misstated.  An analysis of the account is shown in the following table:
+
+
+
+Table 19.  Comparison of Year End Balances of the Biological Assets Account since CY 2016
+
+Biological Assets Accounts
+
+Balance as of December 31
+
+
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+Breeding Stocks
+
+₱106,310.00
+
+₱106,310.00
+
+₱106,310.00
+
+₱106,310.00
+
+₱106,310.00
+
+Livestock
+
+6,000.00
+
+6,000.00
+
+6,000.00
+
+6,000.00
+
+6,000.00
+
+Livestock Held for Consumption/ Sale/ Distribution
+
+4,700.00
+
+4,700.00
+
+4,700.00
+
+4,700.00
+
+4,700.00
+
+Total
+
+₱117,010.00
+
+₱117,010.00
+
+₱117,010.00
+
+₱117,010.00
+
+₱117,010.00
+
+	5)		The year-end balance of P117,010.00 is composed of the balances reported by the UEP - Main Campus totaling P105,010.00 and that of the UEP - Catubig Campus amounting to P12,000.00.
+
+
+
+	6)		The UEP - Catubig Campus did not submit the physical inventory report of the biological assets as of December 31, 2020 so its account could not be validated.  The UEP - Main Campus submitted the Physical Inventory Report of Livestock as of December 31, 2020 but it is not indicated therein the unit costs and total costs for each of the livestock in the inventory.
+
+
+
+	7)		Based on the annual average farmgate price of each livestock for slaughter in CY 2020 provided by the Philippine Statistics Authority (PSA), the total estimated amount of P1,456,972.70 of the inventory as of December 31, 2020 was arrived at, upon recomputation, as follows:
+
+
+
+Table 20.  Computation for Year-end Cost of Inventory for Biological Assets as of December 31, 2020
+
+Biological Assets
+
+Description
+
+Heads
+
+Estimated Unit Cost Per Market Price
+
+Total Estimated Cost Per Market Price
+
+Remarks
+
+Goat
+
+Buck
+
+3
+
+₱3,896.75
+
+₱11,690.25
+
+The annual average farmgate price of goat for slaughter in 2020 was P155.87 per kilogram, liveweight. 
+
+
+
+The estimated average weight of: 
+
+a) buck/doe/ goat/sheep = 25 kgs.;
+
+b) kid/nanny = 10 kgs.
+
+Note: PSA has no annual average farmgate price of sheep for slaughter in 2020.  
+
+
+
+Doe
+
+15
+
+3,896.75
+
+58,451.25
+
+
+
+
+
+Kid (male)
+
+3
+
+1,558.70
+
+4,676.10
+
+
+
+
+
+Nanny
+
+3
+
+1,558.70
+
+4,676.10
+
+
+
+
+
+Total 
+
+24
+
+ 
+
+79,493.70
+
+
+
+Sheep
+
+Sheep (female)
+
+2
+
+3,896.75
+
+7,793.50
+
+
+
+
+
+Sheep (male)
+
+2
+
+3,896.75
+
+7,793.50
+
+
+
+
+
+Total 
+
+2
+
+
+
+P15,587.00
+
+
+
+Buffalo
+
+Gatasan (female)
+
+9
+
+47,187.00
+
+424,683.00
+
+The annual average farmgate price of carabao for slaughter in 2020 was P104.86 per kilogram, liveweight.
+
+ 
+
+The estimated average weight of: 
+
+a) Gatasan = 450kgs.; 
+
+b) Senior Bull = 550kgs.; and 
+
+c) junior Bull = 350 kgs. 
+
+
+
+Senior Bull 
+
+1
+
+57,673.00
+
+57,673.00
+
+
+
+
+
+Junior Bull
+
+1
+
+36,701.00
+
+36,701.00
+
+
+
+
+
+Total 
+
+11
+
+
+
+P519,057.00 
+
+
+
+Cattle
+
+Bull
+
+9
+
+48,860.00
+
+439,740.00
+
+The annual average farmgate price of cattle for slaughter in 2020 was P122.15 per kilogram, liveweight. 
+
+
+
+The estimated average weight of: 
+
+a) bull = 400 kgs.; 
+
+b) cow = 300 kgs; 
+
+c) Bull calf = 150 kgs.; 
+
+d) Calf (female) = 100 kgs. 
+
+
+
+Cow
+
+8
+
+36,645.00
+
+293,160.00
+
+
+
+
+
+Bull calf
+
+4
+
+18,322.50
+
+73,290.00
+
+
+
+
+
+Calf (female)
+
+3
+
+12,215.00
+
+36,645.00
+
+
+
+
+
+Total 
+
+24
+
+ 
+
+P842,835.00
+
+
+
+ 
+
+ Grand Total
+
+
+
+
+
+₱1,456,972.70
+
+ 
+
+
+
+	8)		The understatement of the biological assets inventory reported as at year end has affected the presentation of these assets in the financial statements.
+
+
+
+	9)		While the UEP - Main Campus submitted the Physical Inventory Report of Livestock for December 31, 2018, the Campus failed to submit a report for CY 2019.  Comparison of the submitted inventory report as of December 31, 2018 and that of December 31, 2020 showed a considerable decrease on goat and buffalo inventory as shown below:
+
+
+
+Table 21.  Comparison of biological assets inventory as of December 31, 2018 and December 31, 2020
+
+Livestock
+
+Based on Physical Inventory as of 12/31/2018
+
+Based on Physical Inventory as of 12/31/2020
+
+Increase/(Decrease)
+
+ 
+
+Male
+
+Female
+
+Male
+
+Female
+
+Male
+
+Female
+
+Goat
+
+3
+
+42
+
+6
+
+18
+
+3
+
+(24)
+
+Sheep
+
+ 
+
+6
+
+2
+
+2
+
+2
+
+(4)
+
+Buffalo
+
+16
+
+10
+
+2
+
+9
+
+(14)
+
+(1)
+
+Cattle
+
+16
+
+10
+
+13
+
+11
+
+(3)
+
+1
+
+
+
+	10)		Table 21 also showed unusual variances on the male goat and male sheep inventory because of its negative balances yet there has been no explanation for the discrepancies from the Project-in-Charge.
+
+
+
+	11)		The decrease in the number of livestock was attributed to deaths as reported in the documents and reports attached to the inventory report as of December 31, 2020.  Details are as follows:
+
+
+
+Table 22.  Number of Deaths of the Biological Assets as of December 31, 2020
+
+Cause of Death
+
+Date of Request/ Date of Death
+
+Evidence Submitted
+
+Goat
+
+Sheep
+
+Buffalo
+
+Cattle
+
+
+
+
+
+
+
+M
+
+F
+
+M
+
+F
+
+M
+
+F
+
+M
+
+F
+
+Laboratory Specimen
+
+1/20/2020
+
+Request by the VPAA
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+2
+
+ 
+
+Dog bite
+
+3/23/2020
+
+Report with Pic
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dog bite
+
+05/04/2020
+
+Report with Pic
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dog bite
+
+05/05/2020
+
+Report with Pic
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dog bite
+
+05/10/2020
+
+Report with Pic
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dog bite
+
+5/15/2020
+
+Report with Pic
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dog bite
+
+03/09/2020
+
+Report with Pic
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dog bite
+
+4/20/2020
+
+Report with Pic
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Feet stuck on the wooden floor
+
+08/08/2020
+
+Report with Pic
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dog bite
+
+11/28/2020
+
+Report with Pic
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pneumonia secondary to intestinal parasitism
+
+06/10/2020
+
+Necropsy Summary Report with Pic
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chronic intestinal parasitism
+
+7/13/2020
+
+Necropsy Summary Report with Pic
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bronchopneumonia
+
+7/13/2020
+
+Necropsy Summary Report with Pic
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dog bite
+
+5/16/2020
+
+Report with Pic
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bloat
+
+10/17/2020
+
+Report with Pic
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Granulomatous pneumonia
+
+1/28/2020
+
+Necropsy Summary Report with Pic
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Slaughtered for the founding anniversary
+
+6/15/2020
+
+Request by the VPAA
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total 
+
+3
+
+6
+
+0
+
+5
+
+4
+
+0
+
+2
+
+0
+
+
+
+	12)		Compared with the reported number of deaths, the variance between the CY 2018 and the CY 2020 inventory reports showed a noticeable difference in the number of deaths of livestock as of year end as presented in the following table:
+
+	
+
+Table 23. Comparison of Computed Variance and Reported Number of Dead Livestock as of December 31, 2020
+
+Livestock
+
+Variance between CY 2018 and CY 2020 inventory
+
+Reported as Dead
+
+Difference
+
+(unaccounted as of December 31, 2020)
+
+
+
+Male
+
+Female
+
+Male
+
+Female
+
+Male
+
+Female
+
+Goat
+
+3
+
+(24)
+
+3
+
+6
+
+0
+
+18
+
+Sheep
+
+2
+
+(4)
+
+0
+
+5
+
+2
+
+-1
+
+Buffalo
+
+(14)
+
+(1)
+
+4
+
+0
+
+10
+
+1
+
+Cattle
+
+(3)
+
+1
+
+2
+
+0
+
+1
+
+1
+
+
+
+	13)		There was no request for Relief from Accountability for the loss of livestock through death.
+
+
+
+	14)		Audit showed other deficiencies as follows:
+
+
+
+a)	The PMO did not maintain the Biological Assets Property Cards; while the Accounting Section did not maintain the PPELC.
+
+
+
+b)	The Caretakers or Projects-in-charge did not prepare the required QRBA and did not maintain an Animal Project Inventory and Status Report or Production Report which would have shown the movements of the Biological Assets account, whether through sale, death, or birth of an animal.
+
+
+
+c)	Likewise, the PMO and the Projects-in-Charge were not able to show documents to prove the ownership of the University over the animals found in the project sites.
+
+
+
+d)	There was no system of identification of the animals under the cattle project because most of the animals wore no ear tags or markings which made it difficult for those in-charge to identify one from the other.
+
+
+
+e)	Aside from the animals, the management also failed to account for the other biological assets present in its premises, especially the coconut trees from which the University derives income for copra production.
+
+
+
+	15)		These deficiencies indicate a material misstatement of the Biological Assets account balance as of year end.  Likewise, the absence of controls over the biological assets of the University exposes these government resources to loss through misappropriation or theft.
+
+
+
+	16)		We recommended that the University President require the:
+
+
+
+a)	Each Project-in-Charge to assign unit costs to all biological assets under his charge and to prepare the QRBA in accordance with the pertinent provisions of the GAM for NGAs and PPSAS 27 – Agriculture; and
+
+
+
+b)	Accountant to record in the University books the total costs of the Biological Assets based on the QRBA submitted by the Projects-in-Charge and to disclose in the Notes to Financial Statements the composition of the Biological Assets account.
+
+
+
+	17)		Management commented that
+
+	
+
+--	The project in-charge and the property supply office is working together to comply with the recommendations.
+
+
+
+--	Monitoring of the accomplishment of this activity will be done to ensure compliance.
+
+
+
+
+
+Various deficiencies in recording affecting fair presentation of accounts in the financial statements 
+
+
+
+6)	Subsidiary Ledgers (SL) are not maintained to support the General Ledger (GL) accounts totaling P206,016,994.49; disallowances totaling P119,977.01 have not been recorded in the books; various errors amounting to P23,966,386.61 have remained uncorrected; and, there are no adequate disclosures on the Notes to Financial Statements for accounts totaling P5,768,843.62, thereby affecting the fair presentation of the financial statements.
+
+
+
+	1)		Sections 111 and 114 of PD No. 1445 provide: 
+
+
+
+Section 111. Keeping of accounts.
+
+
+
+1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+Section 114. The general ledger.
+
+
+
+1)	The government accounting system shall be on a double entry basis with a general ledger in which all financial transactions are recorded.
+
+
+
+2)	Subsidiary records shall be kept where necessary.
+
+
+
+	2)		GAM for NGAs, Volume II, Appendix 6, Instruction A states:
+
+
+
+A)		This ledger shows detail for each control account in the GL which is maintained per account and fund cluster by the Accounting Division/Unit.
+
+
+
+	3)		The pertinent provisions of COA Circular No. 2009-006 dated September 15, 2009 state:
+
+
+
+SECTION 7.	RESPONSIBILITIES FOR AUDIT AND SETTLEMENT OF ACCOUNTS
+
+
+
+x x x
+
+
+
+7.2	Responsibility of the Agency Accountant
+
+
+
+	7.2.1	The Chief Accountant, Bookkeeper of other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that:
+
+
+
+x x x
+
+
+
+d)	the disallowances and charges that have become final and executory as contained in the Notice of Finality of Decision (NFD) are recorded in the books of accounts, and settlements thereof under the NSSDC are dropped therefrom; and
+
+
+
+x x x
+
+
+
+SECTION 22.	NOTICE OF FINALITY OF DECISION (NFD)
+
+
+
+x x x
+
+
+
+22.6	The Chief Accountant shall, on the basis of the NFD, record in the books of accounts, the disallowance and/or charge as a receivable.
+
+
+
+	4)		Section 30 of Chapter 19 of the GAM for NGAs, Volume I, states as follows:
+
+
+
+Chapter 19
+
+
+
+FINANCIAL REPORTING
+
+
+
+x x x
+
+
+
+Sec. 30. Notes to Financial Statements. Notes to financial statements are integral parts of the financial statements. Notes provide additional information and help clarify the items presented in the financial statements. It provides narrative description or disaggregation of items in the financial statements and information about them that do not qualify for recognition.
+
+
+
+Notes shall, as far as practicable, be presented in a systematic manner. Each item on the face of the Statement of Financial Position, Statement of Financial Performance, Statement of Changes in Net Assets/Equity, and Statement of Cash Flows shall be cross-referenced to any related information in the notes. (Par. 128, PPSAS 1)
+
+
+
+	5)		Annex A, Chapter 3 of the COA Circular No. 2020-001 dated January 8, 2020 prescribes the use of the following accounts:
+
+
+
+Account Title: 	Cash-Collecting Officers
+
+Account Code: 	10101010
+
+Normal Balance: Debit
+
+Description: 	This account is debited to recognize the amount of collections with the Collecting Officers for remittance to the Treasurer of the Philippines (TOP)/ deposit to AGDBs. This includes unremitted collections of collecting officers who are no longer designated as such, whether in active service or separated from the service. This account is credited for remittance to the TOP/deposit to AGDBs, adjustment due to incurrence of cash shortage by the collecting officer, relief of accountability or restitution of misappropriated collections.
+
+
+
+Account Title: 	Receivables-Disallowances/Charges
+
+Account Code: 	10399010
+
+Normal Balance: Debit
+
+Description:  	This account is debited to recognize the amount of disallowances/charges in audit due from public/private individuals/entities which have become final and executory. This account is credited for settlement of disallowances/charges
+
+
+
+Account Title: 	Mid-Year Bonus
+
+Account Code: 	50102160
+
+Normal Balance: Debit
+
+Description: 	This account is debited to recognize the amount of mid-year bonus granted annually to government officials and employees as authorized by law. This account is credited, at year end, to close to the Revenue and Expense Summary account, and/or adjustments
+
+
+
+	6)		Verification of the consolidated financial statements as of December 31, 2020 disclosed deficiencies affecting the fair presentation of the accounts, as follows:
+
+
+
+1)	The accuracy of the balances of the following GL accounts totaling P206,016,994.49 was not ascertained because of the absence of SLs and Schedules to show the details of each controlling account:
+
+
+
+Table 24. General Ledger Accounts Without SLs and Supporting Schedules
+
+Account Title
+
+Balances per Consolidated Financial Statements
+
+Total Amount with SL & Schedules
+
+Amount with No Schedules and Subsidiary Ledgers
+
+Cash-Collecting Officers
+
+₱100,944,658.14
+
+₱100,367,254.38
+
+₱577,403.76
+
+Cash in Bank-Local Currency, Savings Account
+
+883,884.64
+
+681,166.01
+
+202,718.63
+
+Loans Receivables-Others
+
+204,324.00
+
+-
+
+204,324.00
+
+Due from National Government Agencies
+
+7,541,028.75
+
+7,529,042.35
+
+11,986.40
+
+Due from Operating/Field Units
+
+928,800.77
+
+453,800.77
+
+475,000.00
+
+Due from Other Funds
+
+1,915,076.27
+
+624,997.74
+
+1,290,078.53
+
+Receivables-Disallowances and Charges
+
+194,815.20
+
+155,224.04
+
+39,591.16
+
+Due from Officers and Employees
+
+1,079,781.79
+
+628,088.64
+
+451,693.15
+
+Other Receivables
+
+13,934,927.96
+
+1,084,319.12
+
+12,850,608.84
+
+Advances for Payroll
+
+6,859,503.36
+
+-
+
+6,859,503.36
+
+Advances for Special Disbursing Officer
+
+293,870.64
+
+-
+
+293,870.64
+
+Advances to Officers and Employees
+
+262,108.99
+
+-
+
+262,108.99
+
+Construction in Progress-Land Improvements
+
+1,934,413.94
+
+1,897,254.50
+
+37,159.44
+
+Construction in Progress-Buildings and Other Structures
+
+273,757,554.66
+
+259,901,014.27
+
+13,856,540.39
+
+Advances to Contractors
+
+7,616,609.56
+
+11,730.41
+
+7,604,879.15
+
+Guaranty Deposits
+
+310,000.00
+
+-
+
+310,000.00
+
+Accounts Payable
+
+12,164,319.90
+
+8,899,883.74
+
+3,264,436.16
+
+Due to Officers and Employees
+
+7,114,549.51
+
+953,832.93
+
+6,160,716.58
+
+Due to BIR
+
+4,604,872.94
+
+6,397.38
+
+4,598,475.56
+
+Due to GSIS
+
+2,068,998.71
+
+223,070.65
+
+1,845,928.06
+
+Due to Pag-IBIG
+
+104,337.33
+
+43,946.27
+
+60,391.06
+
+Due to PhilHealth
+
+444,090.99
+
+81,808.72
+
+362,282.27
+
+Due to NGAs
+
+102,638,714.81
+
+863,762.15
+
+101,774,952.66
+
+Due to Other Funds
+
+1,886,124.65
+
+549,015.79
+
+1,337,108.86
+
+Trust Liabilities
+
+14,156,605.15
+
+-
+
+14,156,605.15
+
+Guaranty/Security Deposits-Payable
+
+20,979,227.05
+
+271,111.20
+
+20,708,115.85
+
+Other Payables
+
+7,221,301.72
+
+800,785.88
+
+6,420,515.84
+
+Total
+
+₱592,044,501.43
+
+₱386,027,506.94
+
+₱206,016,994.49
+
+
+
+The OIC-Accountant said she is still working on the preparation of SLs and schedules to fully substantiate the composition of the above accounts.
+
+
+
+2)	The UEP-Main and Laoang Campuses did not record as Receivables, the audit disallowances that had become final with Notices of Finality of Decision (NFDs) received by them in CY 2020, resulting in the understatement of the Receivables-Disallowances/Charges account by P119,977.01.  These Notices of Disallowance (NDs ) which became final and executory are as follows:
+
+
+
+Table 25.  Schedule of Notices of Disallowance & NFDs Not Recorded in the books as of December 31, 2020
+
+ND Number
+
+Date of ND
+
+Payee
+
+Amount of ND
+
+UEP Main Campus
+
+
+
+
+
+
+
+ND No. 2019-001-TF (2016-PCARRD)-UEP Main
+
+January 17, 2019
+
+Maria Rowena O. Punsalan
+
+P7,989.00
+
+ND No. 2019-003-TF (2016-PCARRD)-UEP Main
+
+January 17, 2019
+
+Ma. Flora U. Rosco
+
+12,789.00
+
+ND No. 2019-005-TF (2016-PCARRD)-UEP Main
+
+January 17, 2019
+
+Ma. Flora U. Rosco
+
+10,089.00
+
+
+
+
+
+Sub-total
+
+P30,867.00
+
+UEP Laoang Campus
+
+
+
+
+
+
+
+ND No. 2018-005-IGF(2017) UEP Laoang
+
+June 29, 2018
+
+Leonardo P. Giray
+
+P17,580.00
+
+ND No. 2018-007-IGF(2017) UEP Laoang
+
+June 29, 2018
+
+Jayson M. Mejos
+
+12,045.00
+
+ND No. 2018-008-IGF(2017) UEP Laoang
+
+June 29, 2018
+
+Hanzel Madeja
+
+10,115.00
+
+ND No. 2018-009-IGF(2017) UEP Laoang
+
+June 29, 2018
+
+Tirso L. Ong
+
+10,115.00
+
+ND No. 2018-012-IGF(2017) UEP Laoang
+
+June 29, 2018
+
+Wilfredo Militar, Jr.
+
+5,201.00
+
+ND No. 2018-013-IGF(2017) UEP Laoang
+
+June 29, 2018
+
+Sharlynne Pearl Ross Anthonette M. Villardo
+
+1,814.01
+
+ND No. 2018-014-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Bienvinido C. Balanlay, Jr.
+
+4,080.00
+
+ND No. 2018-015-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Bienvinido C. Balanlay, Jr.
+
+500.00
+
+ND No. 2018-016-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Bienvinido C. Balanlay, Jr.
+
+1,760.00
+
+ND No. 2018-024-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Dr. Luisito P. Muncada
+
+2,080.00
+
+ND No. 2018-025-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Dr. Luisito P. Muncada
+
+800.00
+
+ND No. 2018-026-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Dr. Ma. Asuncion G. Desales
+
+2,080.00
+
+ND No. 2018-027-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Dr. Ma. Asuncion G. Desales
+
+1,780.00
+
+ND No. 2018-032-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Jabel Philip L. Irinco
+
+4,500.00
+
+ND No. 2018-037-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Martin L. Nobis, Jr.
+
+4,260.00
+
+ND No. 2018-038-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Jocelyn P. Igdon
+
+2,300.00
+
+ND No. 2018-040-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Lyn E. Marquez
+
+1,480.00
+
+ND No. 2018-041-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Lyn E. Marquez
+
+880.00
+
+ND No. 2018-042-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Martin L. Nobis, Jr.
+
+1,480.00
+
+ND No. 2018-045-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Maricel O. Baldoza
+
+2,480.00
+
+ND No. 2018-046-IGF(2017) UEP Laoang
+
+October 1, 2018
+
+Mary Ann A. Bantilo
+
+1,780.00
+
+
+
+
+
+Sub-total
+
+P89,110.01
+
+
+
+
+
+Grand Total
+
+P119,977.01
+
+
+
+According to the Accountant of UEP - Laoang Campus, she only recorded the Notices as Receivables when the disallowances were paid and settled by the accountable officers.
+
+
+
+3)	The schedule of the Other Receivables account under the IGF of UEP - Laoang Campus includes undeposited collections totaling P135,801.61 of Emma Gabion, a former Collecting and Disbursing Officer who absconded.  The entry is erroneous, and should be reclassified to Cash – Collecting Officers account in accordance with COA Circular No. 2020-01 dated January 8, 2020.  An explanation in the Notes to Financial Statements should be included to disclose the anomaly.
+
+
+
+4)	Verification of the Consolidated Statement of Financial Performance also disclosed that the Year-End Bonus account totaling P48,240,107.25 included the payments of mid-year bonuses totaling P23,830,585.00 which should have been correctly classified and recorded under the Mid-Year Bonus account.  Payments for the mid-year bonus have been identified as follows:
+
+
+
+Table 26.  Payments for the Mid-Year Bonus Not Recorded Correctly as of December 31, 2020
+
+Campus
+
+Amount
+
+UEP - Main Campus
+
+P19,980,080.00
+
+UEP - Catubig Campus
+
+1,709,854.00
+
+UEP - Laoang Campus
+
+2,140,651.00
+
+Total
+
+P23,830,585.00
+
+
+
+5)	The balances, discussed in the succeeding paragraphs, reported at year end totaling P5,768,843.62 should have been fully disclosed in the Notes to Financial Statements considering their materiality, and the remote possibility of recovering the amounts.
+
+
+
+a)	Unliquidated cash advances totaling P2,663,859.34 aged over seventeen years and undeposited collections totaling P103,128.04 of a former Collecting and Disbursing Officer of UEP - Main Campus, who was already dismissed from the service due to a cash shortage;
+
+
+
+b)	Unliquidated cash advances totaling P365,974.66 aged over twelve years and undeposited collections totaling P2,270,788.80 of another former Collecting and Disbursing Officer of UEP - Main Campus, who has absconded; and
+
+
+
+c)	Unliquidated cash advances totaling P229,291.17 aged over fifteen years and undeposited collections totaling P135,801.61 of a former Collecting and Disbursing Officer of UEP - Laoang Campus, who has absconded.
+
+
+
+	7)		Other deficiencies were noted in the verification of the Consolidated Financial Statements as follows:
+
+	
+
+a)	The Consolidated Pre-Closing Trial Balance disclosed some errors on the Account Codes contrary to COA Circular No. 2020-001 dated January 8, 2020, as follows:
+
+
+
+Table 27.  Errors in the Use of Account Codes Presented in the TB for Certain Accounts as of December 31, 2020
+
+Account Title
+
+As Presented in the Consolidated Pre-Closing Trial Balance
+
+Per COA Circular No. 2020-001 dated January 8, 2020
+
+Receivables-Disallowances/Charges
+
+10305010
+
+10399000
+
+Due from Officers and Employees
+
+10305020
+
+10399020
+
+Other Receivables
+
+10305990
+
+10399990
+
+Semi-Expendable Other Equipment
+
+10405190
+
+10405990
+
+Water Supply Systems
+
+10603050
+
+10603040
+
+Accumulated Depreciation-Water Supply Systems
+
+10603051
+
+10603041
+
+Construction in Progress-Land Improvements
+
+10699010
+
+10698010
+
+Construction in Progress-Buildings and Other Structures
+
+10699030
+
+10698030
+
+Work /Zoo and/or Other Animals
+
+10698990
+
+10699010
+
+Other Property, Plant and Equipment
+
+10698990
+
+10699990
+
+Accumulated Depreciation-Other Property, Plant and Equipment
+
+10698991
+
+10699991
+
+Miscellaneous Income
+
+40609990
+
+40699990
+
+Chemical and Filtering Supplies Expense
+
+50203010
+
+50203130
+
+
+
+b)	The Account Titles used in the Consolidated Financial Statements were not in accordance with the Revised Chart of Accounts (RCA) prescribed in COA Circular No. 2020-001 dated January 8, 2020, as shown in the following table:
+
+
+
+Table 28.   Errors in the Use of Account Titles in the Consolidated Financial Statements
+
+Per Consolidated Financial Statements 
+
+Per COA Circular No. 2020-001 dated January 8, 2020
+
+Consolidated Statement Financial Position
+
+Cash-Collecting Officer
+
+Cash-Collecting Officers
+
+Cash in Bank-Local Currency, Current
+
+Cash in Bank-Local Currency, Current Account
+
+Cash in Bank-Local Currency, Savings
+
+Cash in Bank-Local Currency, Savings Account
+
+Due from Government-Owned and/or Controlled Corporation
+
+Due From Government-Owned or Controlled Corporation
+
+Due from Operating Units
+
+Due from Operating/Field Units
+
+Due from Other Fund
+
+Due from Other Funds
+
+Semi-Expendable Other Machinery and Equipment
+
+Semi-Expendable Other Equipment
+
+Communication Network
+
+Communications Networks
+
+Accumulated Depreciation-Communication Network
+
+Accumulated Depreciation-Communications Networks
+
+Information and Communication Technology Equipment
+
+Information and Communications Technology Equipment
+
+Accumulated Depreciation-Information and Communication Technology Equipment
+
+Accumulated Depreciation-Information and Communications Technology Equipment
+
+Communication Equipment
+
+Communications Equipment
+
+Other Machinery and Equipment
+
+Other Equipment
+
+Work /Zoo Animals
+
+Work /Zoo and/or Other Animals
+
+Consolidated Statement Financial Performance
+
+Fines and Penalties
+
+Fines and Penalties-Service Income
+
+Income from Grants and Donations in Cash
+
+Donations in Cash
+
+Bank Charges
+
+Bank Charges-Loans/Borrowings
+
+
+
+c)	Under Note 6 of the Consolidated Notes to Financial Statements, the Inventories account of the Consolidated Notes to Financial Statements disclosed the following discrepancies:
+
+
+
+Table 29.  Errors in the Statement of Financial Position and Notes to FS
+
+Account Title
+
+Per Consolidated Notes to FS 
+
+Per Consolidated Statement of Financial Position
+
+Difference
+
+Semi-Expendable Machinery and Equipment
+
+₱736,760.57
+
+₱1,246,495.57
+
+₱509,735.00
+
+Semi-Expendable Furniture, Fixtures and Books
+
+4,498,722.00
+
+3,988,987.00
+
+-509,735.00
+
+
+
+	8)		The foregoing conditions have affected the fair presentation of the CY 2020 consolidated financial statements.
+
+
+
+	9)		We recommended that the University President require:
+
+
+
+a)	The Accountant of the UEP - Main Campus to prepare the required SLs and schedules to support the balances of the controlling accounts in the GL for CY 2020; to make the necessary corrections of the account titles; and to make the necessary disclosures in the Notes to Financial Statements for UEP so that these are fairly presented; and
+
+
+
+b)	The Accountants of UEP - Main and Laoang Campuses to record all Receivables-Disallowances/Charges from notices that have become final and executory in compliance with the COA Circular No. 2020-001 and to make the necessary adjusting entries to correct the errors found in their financial statements.
+
+
+
+	10)		In their response to the issues discussed in the Audit Observation Memorandum, Management stressed the following points:
+
+	
+
+a)	The Accounting Office has already submitted the SLs and Schedules for all accounts of Internally Generated Fund, Business Related Fund, and Trust Fund and for some accounts of Regular Agency Fund.  The lacking Subsidiary Ledgers and Schedules for Regular Agency Fund will be submitted on or before May 31, 2021.  The office has prioritized the preparation of Ledgers and Schedules of all accounts based on the readily available records of the office.  The office is still working on the reconciliation of 2004 forwarded balances and retrieval of the transaction documents necessary in the preparation of a more detailed Ledgers and Schedules for the period.
+
+
+
+b)	As to the recording of the Notice of Finality of Disallowance issued in 2020, the office has already recorded these disallowances totaling P30,867.00 in March 2021.  In fact, these disallowances were already paid and settled by the accountable employees as per OR No. 0224514 dated March 31, 2021 (MR. Punsalan), OR No. 0225169 dated March 26, 2020 (MF Rosco), and OR No. 0225170 dated March 31, 2021 (MF Rosco).
+
+
+
+c)	As to the erroneous accounts used in the Financial Statements as of December 31, 2020, the office has just made the necessary corrections/adjustments in the university’s financial reports as of January 01, 2021 and, as required, the office has also converted its current year’s financial reports based on the updated Revised Chart of Accounts provided under COA Circular No. 2020-001 dated January 08, 2020.
+
+
+
+
+
+BOR Honoraria erroneously charged against IGF/STF
+
+
+
+7)	Payments of per diem to the Board of Regents (BOR) of UEP during board meetings in CYs 2018-2020 totaling P855,600.00 were erroneously charged against the IGF - Special Trust Fund (STF) instead of the General Appropriations Act (GAA), thus, depleting the fund which could have been utilized for instruction, research, extension, or similar programs or projects of the University.
+
+
+
+	1)		Section 4(d) of Republic Act (RA) No. 8292, also known as the Higher Education Modernization Act of 1997, states that:
+
+	
+
+Section 4. Powers and Duties of Governing Boards. - The governing board shall have the following specific powers and duties in addition to its general powers of administration and the exercise of all the powers granted to the board of directors of a corporation under Section 36 of Batas Pambansa Blg. 68, otherwise known as the Corporation Code of the Philippines:
+
+
+
+x x x
+
+
+
+(b) to receive and appropriate all sums as may be provided, for the support of the university or college in the manner it may determine, in its discretion, to carry out the purposes and functions of the university or college;
+
+
+
+x x x
+
+
+
+(d) to fix the tuition fees and other necessary school charges, such as but not limited to matriculation fees, graduation fees and laboratory fees, as their respective boards may deem proper to impose after due consultations with the involved sectors.
+
+
+
+Such fees and charges, including government subsidies and other income generated by the university or college, shall constitute special trust funds and shall be deposited in any authorized government depository bank, and all interests shall accrue therefrom shall part of the same fund for the use of the university or college; Provided, That income derived from university hospitals shall be exclusively earmarked for the operating expenses of the hospitals.
+
+
+
+Any provision of existing laws, rules and regulations to the contrary notwithstanding, any income generated by the university or college from tuition fees and other charges, shall be retained by the university or college, and may be disbursed by the Board of Regents/Trustees for instruction, research, extension, or other programs/projects of the university or college: Provided, That all fiduciary fees shall be disbursed for the specific purposes for which they are collected. (underscore ours)
+
+
+
+x x x
+
+
+
+	2)		Items 5 and 6 of  the Budget Circular No. 2003-6 dated September 29, 2003 entitled, “Guidelines Relative to the Grant of Per Diems to Members of Collegial Bodies and Members of the Board of Regents/Trustees of State Universities and Colleges” state:
+
+
+
+1)	Funding Source
+
+
+
+	The amount necessary to implement the benefits authorized herein shall be charged as follows: 
+
+	
+
+	1)	For National Government Agencies and SUCs 
+
+
+
+The amount shall be charged against the amount appropriated for the purpose in the General Appropriations Act.  Any deficiency shall be charged against savings.
+
+
+
+x x x
+
+
+
+2)	Responsibility of the Head of Collegial Body
+
+
+
+	The chief operating officer of the collegial body and the President of the SUC concerned shall be responsible for the payment of per diems not in accordance with the provisions of this Circular, without prejudice, however, to the refund of any excess payment by the official, employee or person concerned.
+
+
+
+	3)		The Supreme Court, in Ricardo E. Rotoras vs. Commission on Audit, G.R. No. 211999 promulgated on August 20, 2019, affirmed the Commission on Audit’s disallowances on the grants of additional honoraria to members of governing boards of state universities and colleges, holding that:
+
+
+
+The special trust fund of a state university or college shall only be used for instruction, research, extension, or similar programs or projects.  The members of governing boards and officials who approved an allowance or benefit that has been disallowed are obliged to return what they have received.
+
+
+
+x x x
+
+
+
+X x x, Section 4(d) limits the use of the special trust fund for instruction, research, or extension.  The “other programs/projects” referred to in Section 4(d) must be of the same nature as instruction, research, or extension.
+
+
+
+	4)		Verification of the transactions during the year revealed that the payments of per diem and honoraria for the BOR during board meetings held in CY 2018 to CY 2020 totaling P855,600.00 were charged to the IGF-STF, details of which are as follows:
+
+
+
+Table 30. Disbursements for Honoraria of the BOR Charged to the IGF-STF as of December 31, 2020
+
+Cash advances
+
+Amount Paid
+
+Date of Check
+
+Check No. 
+
+Amount 
+
+
+
+CY 2018
+
+1/25/2018
+
+0058672557
+
+P43,750.00
+
+P31,000.00
+
+4/16/2018
+
+58672979
+
+30,250.00
+
+17,500.00
+
+2/7/2018
+
+58673387
+
+33,500.00
+
+24,500.00
+
+9/19/2018
+
+58673953
+
+29,000.00
+
+21,350.00
+
+1/10/2018
+
+58673996
+
+37,675.00
+
+28,900.00
+
+3/12/2018
+
+58674436
+
+29,750.00
+
+29,750.00
+
+11/12/2018
+
+1782820
+
+41,500.00
+
+33,850.00
+
+ 
+
+Sub-total
+
+P245,425.00
+
+P186,850.00
+
+CY 2019
+
+02/06/2019
+
+58674767
+
+P29,000.00
+
+P17,525.00
+
+2/28/2019
+
+58674933
+
+31,325.00
+
+23,675.00
+
+03/11/2019
+
+66115087
+
+41,500.00
+
+33,850.00
+
+3/28/2019
+
+66115219
+
+41,500.00
+
+37,675.00
+
+5/16/2019
+
+66115586
+
+41,500.00
+
+22,375.00
+
+06/10/2019
+
+66115889
+
+41,500.00
+
+30,025.00
+
+06/10/2019
+
+66115692
+
+28,825.00
+
+25,000.00
+
+07/10/2019
+
+66115850
+
+21,350.00
+
+21,350.00
+
+08/01/2019
+
+66116109
+
+29,200.00
+
+26,225.00
+
+08/01/2019
+
+66116108
+
+P46,450.00
+
+P38,800.00
+
+8/13/2019
+
+66116167
+
+41,500.00
+
+30,025.00
+
+09/09/2019
+
+66116357
+
+29,200.00
+
+25,375.00
+
+09/12/2019
+
+66116398
+
+41,500.00
+
+33,850.00
+
+9/27/2019
+
+66116550
+
+33,850.00
+
+26,200.00
+
+11/13/2019
+
+66116947
+
+45,325.00
+
+41,500.00
+
+ 
+
+Sub-total
+
+P543,525.00
+
+P433,450.00
+
+CY 2020
+
+06/05/2020
+
+66117492
+
+P47,350.00
+
+P39,700.00
+
+08/12/2020
+
+66117655
+
+31,675.00
+
+31,675.00
+
+8/24/2020
+
+66117659
+
+42,350.00
+
+34,700.00
+
+10/22/2020
+
+66117788
+
+31,825.00
+
+31,825.00
+
+11/11/2020
+
+66117805
+
+34,700.00
+
+34,700.00
+
+11/26/2020
+
+66117817
+
+31,825.00
+
+31,825.00
+
+12/21/2020
+
+66117841
+
+34,700.00
+
+30,875.00
+
+ 
+
+Sub-total
+
+P254,425.00
+
+P235,300.00
+
+ 
+
+Grand Total
+
+P1,043,375.00
+
+P855,600.00
+
+
+
+	5)		The use of the IGF-STF in the payments of per diem to the members of the BOR during board meetings has depleted the fund that should have been utilized for the instruction, research, extension, or similar programs or projects of the University as espoused under Section 4 of RA No. 8292.
+
+
+
+	6)		We recommended that the President require the:
+
+	
+
+a)		Budget Officer to stop charging to the IGF-STF the payments of per diem to the BOR, and instead properly charge it against the amount appropriated for the purpose in the GAA, and any deficiency shall be charged against the savings.
+
+	
+
+b)		Personnel concerned to refund the per diem they received for the period CY 2018-2020 totaling P855,600.00.
+
+
+
+	7)		This recommendation is without prejudice to the issuance of a Notice of Disallowance, if warranted.
+
+	
+
+	8)		In their reply, the following are the comments of Management:
+
+
+
+--	The Budget Officer stopped charging from Internally Generated Fund honoraria of UEP BOR for their attendance to meetings starting April 2021.
+
+
+
+--	We appeal from this commission not to require refund of the payments made on the basis of good faith, service rendered, and to save cost to the government, but instead to allow replenishment to the internally generated fund from regular agency fund to effect correction of the erroneous charging.
+
+
+
+--	The appeal is based on our contention that the amount receive by UEP BOR was genuinely intended as payment for services rendered during their attendance to meetings and consistent with COA recommendations in various AOMs to follow the CHED CMO 20 series of 2011 or the guideline on the use of Internally Generated Funds, which provides under Section 18 thereof that a provision for common fund shall be established to defray cost of honoraria and other incentives of the BOR.
+
+
+
+--	Since refund would cancel payment of a valid obligation, the obligation will be restored back and the university will still be legally liable to UEP BOR for honoraria in every meeting attended consistent with DBM Guidelines.  Consequently, it would just be a change of pocket from where the university will take the money to pay a valid obligation but, additional cost will be incurred in enforcing refund and in the re-processing later of payment to settle a valid obligation.
+
+
+
+--	Rest assured that the existing guideline in the charging of funds for honoraria of BOR members will be followed strictly.
+
+
+
+	9)		The following are the comments of the Budget Officer:
+
+	
+
+--	We will comply with the COA audit recommendation to stop the practice of charging of the BOR Honoraria to the IGF Funds and instead properly charge these to the General Fund.
+
+
+
+--	For the previous years of charging the BOR honoraria to IGF/STF, our office were usually requested to transfer the BOR honoraria charged to General Fund to Income Tuition because of time constraint on encashing the check.  The checks charged to General Fund has clearing time and they have not enough time for the payroll and stuffing of the envelop.
+
+
+
+--	Our office was compelled to follow the requests to transfer the funding as it was usually persons in higher ranks that were making the requests.
+
+
+
+7.9	We would like to emphasize the proper charging of expenses so that government funds are utilized efficiently and solely for the purpose for which they were allotted for to maximize the benefits thereof. 
+
+
+
+
+
+Deficiencies in the implementation of infrastructure projects
+
+
+
+8)	Various supplies and materials totaling P1,071,921.80 were procured for infrastructure projects implemented by administration which were not supported with approved Program of Works (POWs), and were not included in the Annual Procurement Plan (APP).  Various deficiencies were noted on completed infrastructure projects totaling P109,708,282.74, while projects totaling P249,752,043.72 were implemented without the requisite building permits.
+
+	
+
+	1)		Section 2 of PD No. 1445 provides:
+
+	
+
+PRELIMINARY TITLE
+
+
+
+GENERAL PROVISIONS
+
+	
+
+x x x
+
+	
+
+Section 2. Declaration of Policy. It is the declared policy of the State that all resources of the government shall be managed, expended or utilized in accordance with law and regulations, and safeguarded against loss or wastage through illegal or improper disposition, with a view to ensuring efficiency, economy and effectiveness in the operations of government. The responsibility to take care that such policy is faithfully adhered to rests directly with the chief or head of the government agency concerned.
+
+	
+
+x x x
+
+
+
+	2)		Section 7 of Rule II and Section 12 of Rule V, 2016 Revised Implementing Rules and Regulations (RIRR) of RA No. 9184 provide:
+
+
+
+RULE II - PROCUREMENT PLANNING
+
+
+
+Section 7.	Procurement Planning and Budget Linkage.
+
+
+
+7.1	All procurement shall be within the approved budget of the Procuring Entity and should be meticulously and judiciously planned by the Procuring Entity.  Consistent with government fiscal discipline measures, only those considered crucial to the efficient discharge of government functions shall be included in the Annual Procurement Plan (APP).  xxx
+
+
+
+7.2	No procurement shall be undertaken unless it is in accordance with the approved APP, including approved changes thereto. The APP must be consistent with the duly approved yearly budget of the Procuring Entity and shall bear the approval of the HoPE or second-ranking official designated by the HoPE to act on his behalf.
+
+
+
+
+
+RULE V – BIDS AND AWARDS COMMITTEE
+
+
+
+Section 12.	Functions of the BAC
+
+
+
+12.2	The BAC shall be responsible for ensuring that the Procuring Entity abides by the standards set forth by the Act and this IRR, and it shall prepare a Procurement Monitoring Report (PMR) in the form prescribed by the GPPB. The PMR shall cover all procurement activities specified in the APP, whether ongoing and completed, from the holding of the pre-procurement conference to the issuance of notice of award and the approval of the contract, including the standard and actual time for each major procurement activity. The PMR shall be approved and submitted by the HoPE to the GPPB in printed and electronic format within fourteen (14) calendar days after the end of each semester. The PMR shall likewise be posted in accordance with E.O. 662, s. 2007, as amended.
+
+
+
+	3)		GPPB Circular No. 02-2020 dated May 20, 2020 sets forth the following guidelines:
+
+
+
+3.0	General Guidelines
+
+
+
+	3.1	All PEs shall post their respective APPs and PMRs, duly approved by the Head of the Procuring Entity (HoPE), in the designated section of their agency website or in the absence thereof, at any conspicuous place reserved for this purpose within the premises of the PE.  In either case, the Head of the Bids and Awards Committee (BAC) Secretariat shall submit a certification to the Government Procurement Policy Board (GPPB) stating that the PE has complied with the posting requirement using the form provided in Appendix 1.
+
+
+
+	3.2	All PEs shall likewise submit to the GPPB their respective APPs, PMRs and APCPI Results, duly approved by the HoPE, through electronic mail in both Microsoft Excel and Portable Document Format (PDF) files.
+
+
+
+The deadline for submission of the above procurement reports shall be, as follows:
+
+
+
+x x x
+
+
+
+However, in view of the Corona Virus Disease 2019 pandemic, which resulted in the declaration of a State of Public Health Emergency in the country, the deadlines for submission of the following procurement reports shall be extended as follows:
+
+----media/image2.png----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	4)		Annex A of the GPPB Resolution No. 018-2006 dated December 6, 2006, entitled “APPROVING AND ADOPTING THE REVISED GUIDELINES FOR THE IMPLEMENTATION OF INFRASTRUCTURE PROJECTS BY ADMINISTRATION” states:
+
+
+
+3.0 Conditions and Requirements for the use of “By Administration”
+
+
+
+3.1	Projects undertaken by Administration shall be included in the approved Annual Procurement Plan (APP) of the procuring entity concerned, as well as the procurement of the different project components, i.e. tools and construction equipment covered under sub-item no. 3.5.  Any change to the APP shall be in accordance with Section 7.4 of the 2016 Revised IRR of RA No. 9184.
+
+
+
+x x x
+
+
+
+	5)		Finally, Section 301, Chapter III of PD No. 1096, provides:
+
+
+
+PRESIDENTIAL DECREE (P.D.) NO. 1096
+
+
+
+ADOPTING A NATIONAL BUILDING CODE OF THE PHILIPPINES (NBCP) THEREBY REVISING REPUBLIC ACT NUMBERED SIXTY-FIVE HUNDRED FORTY-ONE 
+
+(R.A. NO. 6541)
+
+
+
+	x x x
+
+
+
+CHAPTER III
+
+PERMITS AND INSPECTION
+
+
+
+Section 301. Building Permits.	No person, firm or corporation, including any agency or instrumentality of the government shall erect, construct, alter, repair, move, convert or demolish any building or structure or cause the same to be done without first obtaining a building permit therefor from the Building Official assigned in the place where the subject building is located or the building work is to be done.
+
+
+
+	6)		Verification of the various infrastructure projects implemented by the University in CY 2020 disclosed the following:
+
+
+
+a)	Various construction materials totaling P1,071,921.80 were procured for projects implemented by administration which were not supported with the approved POW, and were not included in the APP.
+
+
+
+	7)		During audit of the POs submitted for the year, it was noted that the University procured various construction materials totaling P1,071,921.80 for the construction of projects undertaken by administration, as presented in Table 11 (Paragraph No. 3.4, this Report).
+
+
+
+	8)		The Audit Team then sent a letter to Management requesting the submission of the POWs of all projects implemented and/or on-going in CY 2020, whether through public bidding or by administration.  Management submitted POWs for projects implemented through public bidding only.
+
+
+
+	9)		In Annex A of 2016 RIRR of RA No. 9184, the importance of the POW is emphasized, thus:
+
+
+
+i)	Program of Work – Before prosecuting any project, the necessary program of work shall be prepared and submitted for approval. In no case shall construction funds be remitted to field offices or construction work on a project be started before the program of work is approved, in accordance with existing laws. No program of work for any project shall be approved without detailed engineering.
+
+
+
+	10)		Likewise, Volume 3 of the Manual of Procedures for the Procurement of Infrastructure Projects issued by the GPPB stresses the importance of detailed engineering for all government projects which requires among others the preparation of the program of work, which must include among others, estimates of the work, items, quantities and costs and a PERT/CPM network of the project activities.  The absence of POWs for those projects implemented by administration indicates poor planning as such does not allow one to determine the cost of each of the projects, what the project is built of and how long it is going to take before the project is completed.
+
+
+
+	11)		Moreover, verification of the Annual Procurement Plan (APP) and the Project Monitoring Report (PMR) for CY 2020 submitted by Management revealed that these projects were not included in both reports, so apparently, the projects had no funding and are therefore irregular.  Also, there was no proof that the APP and the PMR were posted on the University website and/or in conspicuous places within its premises and that these reports were submitted to the GPPB within the period prescribed in Resolution No. 02-2020 dated May 20, 2020.
+
+
+
+	12)		These deficiencies indicate the presence of lapses in the procurement process: particularly on the procurement planning and budget linkage, which require that all government procurements shall be judiciously and meticulously planned.
+
+
+
+b)	Deficiencies in infrastructure projects totaling P109,708,282.74 were noted during project validation.
+
+
+
+	13)		The existence of defects and deficiencies in various infrastructure projects totaling P109,708,282.74 during the validation as of December 31, 2020, is presented in the following table:
+
+
+
+	Table 33.  Infrastructure Projects with Noted Deficiencies as of December 31, 2020
+
+Project/ Program/ Activity Name
+
+ Total Cost 
+
+Date Started
+
+Target Completion Date
+
+Defects and Deficiencies
+
+
+
+
+
+
+
+
+
+
+
+1. Completion of College of Law Extension
+
+₱7,835,550.00
+
+10/8/2019
+
+6/6/2020
+
+Reported as 100% complete on the 3rd Quarter of 2020 but validation of the project as of 12/31/2020 revealed the following: 1. Electrical works remain undone; 2. Defective doorknobs were not yet replaced; 3. Tileworks need rework due to faulty installation; 4. one window was not yet installed; 5. some doors were not yet installed; 6. ceiling and roofing works in the roof deck need rework due to water leak and 7. Windows need sealant to avoid water leak especially in the roof deck.
+
+2. Const. of Three (3) Storey Men's Residence Hall
+
+39,819,968.08
+
+4/26/2017
+
+12/30/2018
+
+Reported as 100% complete on the 4th Quarter of 2019 but validation of the project as of 12/31/2020 showed that it was still on-going and the Audit Team observed the following 1.) Three (3) fire extinguishers were not yet delivered and installed; 2.) Faucets and soap holders at the CRs were defective and of low quality; 3.) Telephone handsets were not functional.
+
+4. Const. of Academic Building (Phase 3)
+
+49,905,643.93
+
+3/19/2019
+
+5/30/2019
+
+Reported as completed in the 4th quarter of 2019 but validation of the project as of December 31, 2020 showed that it was still ongoing. The Audit Team observed the following: 1. Backfilling and compaction were partially done; 2. CR accessories were incomplete and 3. Electrical works were partially done.
+
+5. Improvement of Classrooms (CAFNR,CAC,CBA,COED,CE,CL,CNAHS,CS,CVM,GS, GYM) Phase 2
+
+1,302,144.88
+
+3/28/19
+
+4/28/19
+
+Reported as 100% completed on the 4th Quarter of 2019 but validation of the project as of 12/31/2020 showed that it was still on-going and the Audit Team observed the following:  1.) College of Business Administration - Formica for the white boards and tile works need rework due to faulty installation; 2.) College of Education -security grills under phases 1 and 2 are subject for rework; grills were poorly painted with single coating; 3.) College of Arts and Communication - White board formica were not yet installed, two (2) panel doors were installed but poor workmanship was observed, ordinary tiles were attached instead of granite tile for the countertop of the sink; 4.) College of Science - Ceiling works need rework due to water leak; 5.) Gymnatorium - water pump motor was defective and incomplete window installation under Phase 2; 6.) Fisheries Department - ceiling works remain undone, ceiling fans were not delivered/installed and electrical works remain undone causing light bulbs to be unusable; 7.) Veterinary Medicine - Electrical works remain undone; 8.) Graduate Studies - electrical works remain undone and one (1) air-conditioning units were not yet delivered
+
+Improvement of Classrooms (CAFNR,CAC,CBA,COED,CE,CL,CNAHS,CS,CVM,GS, GYM)
+
+10,844,975.85
+
+1/21/2019
+
+1/21/2019
+
+
+
+Total
+
+₱109,708,282.74
+
+ 
+
+ 
+
+ 
+
+
+
+	14)		On audit, it was also discovered that the following contractors did not apply for electricity sub-meters in particular projects of the University:
+
+
+
+Table 35.  Infrastructure Projects With No Application for Sub-Meters for CY 2020
+
+Project Title/Description
+
+Contractor
+
+Improvement of Classrooms of 12 Classrooms
+
+RHYES BUILDERS & SUPPLY
+
+Improvement of Classrooms
+
+RHYES BUILDERS & SUPPLY
+
+Completion of the College of Law
+
+AS Aguilana Construction & Supply
+
+Construction of Covered Walk (Phase II)
+
+JCAD Engineering and Supply
+
+
+
+c)	Infrastructure projects totaling P249,752,043.72 were not covered by building permits
+
+
+
+	15)		The construction, repair and renovation of projects implemented in CY 2020 amounting to P249,752,043.72, either by administration or through competitive bidding, were commenced without the necessary building permit in violation of the National Building Code.  The Applications for Building Permit submitted by the PPDO, do not pertain to the construction projects undertaken in CY 2020, but were for infrastructure projects from the previous years.
+
+
+
+	16)		Verification disclosed that the following infrastructure projects by the University for the year were undertaken without the requisite building permits:
+
+
+
+Table 35.  Infrastructure Projects Without Building Permits
+
+Item
+
+Project/ Program/ Activity Name
+
+Total Cost
+
+(in Php)
+
+Date Started
+
+Target Completion Date
+
+
+
+
+
+
+
+
+
+
+
+1
+
+Completion of College of Law Extension
+
+P7,835,550.00
+
+10/8/2019
+
+6/6/2020
+
+2
+
+Const. of University Academic Building (PHASE IV)
+
+97,444,880.57
+
+10/11/2019
+
+2/26/2021
+
+3
+
+Completion of University Academic Building Phase IV
+
+9,924,528.40
+
+9/25/2020
+
+3/23/2021
+
+4
+
+Completion of Research and Extension Building
+
+8,751,802.69
+
+9/25/2020
+
+2/21/2021
+
+5
+
+Construction of Multi-Purpose Centennial Hall
+
+19,602,784.38
+
+9/28/2020
+
+3/26/2021
+
+6
+
+Construction of the UEP-DTI Food Processing Shared Service Facility (Phase III)
+
+1,714,998.01
+
+9/25/2020
+
+1/2/2021
+
+7
+
+Construction of Covered Walk (Phase II)
+
+1,752,816.97
+
+9/28/2020
+
+1/11/2021
+
+8
+
+Construction of Covered Court (Phase II)
+
+851,949.96
+
+9/25/2020
+
+10/24/2020
+
+9
+
+Const. of Three (3) Storey Men's Residence Hall
+
+39,819,968.08
+
+4/26/2017
+
+12/30/2018 
+
+10
+
+Construction of Academic Building (Phase 3)
+
+49,905,643.93
+
+3/19/2019
+
+5/30/2019
+
+11
+
+Improvement of Classrooms (CAFNR,CAC,CBA,COED,CE,CL,CNAHS,CS,CVM,GS, GYM) Phase 2
+
+1,302,144.88
+
+3/28/19
+
+4/28/19
+
+12
+
+Improvement of Classrooms (CAFNR,CAC,CBA,COED,CE,CL,CNAHS,CS,CVM,GS, GYM)
+
+10,844,975.85
+
+1/21/2019
+
+1/21/2019
+
+ 
+
+Total
+
+P249,752,043.72
+
+ 
+
+ 
+
+
+
+	17)		These deficiencies can be attributed to the failure of the PPDO to monitor and supervise the implementation of the infrastructure projects of the University, and to adequately plan for these projects.
+
+
+
+	18)		The failure of Management to require the contractors to correct these defects within the construction period up to the lapse of the warranty period would translate into pecuniary loss on the part of the government.
+
+
+
+	19)		We recommended that the President require the:
+
+
+
+a)	PPDO to:
+
+
+
+(i) submit the POWs of all infrastructure projects implemented by administration in CY 2020; and henceforth, meticulously prepare POWs for all infrastructure projects of the University
+
+
+
+(ii) demand that the contractors correct the defects noted for the infrastructure projects; and henceforth ensure that the contractors completely implement the projects based on the POW, and submit the necessary approved building permits before the commencement of a project.
+
+
+
+(iii) closely monitor and supervise the implementation of all infrastucture projects, whether these are undertaken by contract or by administration to safeguard government funds and resources.
+
+
+
+b)	BAC Secretariat to prepare a complete APP which will include all the infrastructures projects to be implemented either by administration or by public bidding during the year so that adequate planning could be adopted.
+
+
+
+	20)		The response of Management stated that:
+
+	
+
+--	The POWs for identified projects were submitted for verification and others will be retrieved from computer files, also for resubmission.
+
+
+
+--	Contractors were asked to comply immediately noted deficiencies in their on-going projects and building permits application were already on process at the LGU of Catarman.
+
+
+
+--	Enhanced supervision of on-going projects will be conducted to ensure the efficient implementation and avoid wastage of resources.
+
+
+
+--	APPs were submitted already but enhancement in the succeeding preparations will be made.  By fund clusters APP will be prepared for easy monitoring of these procurements.
+
+
+
+
+
+No APP and PPMP supporting the approved Special Budget and its augmentation
+
+
+
+9)	The approved Special Budget totaling P96,498,130.00 and its augmentation totaling P9,050,000.00 were not supported with an APP and Project Procurement Management Plans (PPMP) duly approved by the Board of Regents (BOR).
+
+
+
+	1)		Section 7 of Rule II of the RIRR of RA No. 9184 states:
+
+
+
+RULE II – PROCUREMENT PLANNING
+
+
+
+Section 7.	Procurement Planning and Budgeting Linkage
+
+
+
+7.1.	All procurement shall be within the approved budget of the Procuring Entity and should be meticulously and judiciously planned by the Procuring Entity. Consistent with government fiscal discipline measures, only those considered crucial to the efficient discharge of governmental functions shall be included in the Annual Procurement Plan (APP). For purposes of this IRR, a procurement project shall be considered crucial to the efficient discharge of governmental functions if it is required for the day-to-day operations or is in pursuit of the principal mandate of the Procuring Entity concerned. The APP shall include provisions for foreseeable emergencies based on historical records. In the case of Infrastructure Projects, the APP shall consider the appropriate timing/phasing of related project activities, such as, engineering design and acquisition of right-of-way site or location, to reduce/lower project costs.
+
+
+
+7.2	No procurement shall be undertaken unless it is in accordance with the approved APP, including approved changes thereto. The APP must be consistent with the duly approved yearly budget of the Procuring Entity and shall bear the approval of the HoPE or second-ranking official designated by the HoPE to act on his behalf.
+
+
+
+7.3.	The APP shall be formulated and revised only in accordance with the following guidelines:
+
+
+
+7.3.1	Upon issuance of the budget call in the case of NGAs, SUCs, Constitutional Commissions or Offices, or similar document for GOCCs, GFIs and LGUs, the Procuring Entity shall prepare its indicative APP for the succeeding calendar year to support its proposed budget taking into consideration the budget framework for that year in order to reflect its priorities and objectives.
+
+7.3.2.	In the preparation of the indicative APP, the end-user or implementing units of the Procuring Entity shall formulate their respective Project Procurement Management Plans (PPMPs) for their different programs, activities, and projects (PAPs). The PPMP shall include:
+
+
+
+a)	information on whether PAPs will be contracted out, implemented by administration in accordance with the guidelines issued by the GPPB, or consigned;
+
+b)	the type and objective of contract to be employed;
+
+c)	the extent/size of contract scopes/packages;
+
+d)	the procurement methods to be adopted, and indicating if the procurement tasks are to be outsourced as provided in Section 7.3.3 of this IRR;
+
+e)	the time schedule for each procurement activity and for the contract implementation; and
+
+f)	the estimated budget for the general components of the contract.
+
+
+
+x x x
+
+
+
+Based on the specific needs, the end-user or implementing units of the Procuring Entity shall be responsible for the preparation of all documents necessary for the procurement activity, including but shall not be limited to, the technical specifications, scope of work, or terms of reference.
+
+
+
+x x x
+
+
+
+7.3.4.	The PPMPs shall then be submitted to the Procuring Entity’s Budget Office for evaluation in order to ensure consistency with the Procuring Entity's budget proposal and compliance with existing budgeting rules. The PPMPs included in the budget proposal shall be forwarded to the BAC Secretariat for consolidation into an indicative APP, and to the BAC for final recommendation of the appropriate procurement modality. For this purpose, the indicative APP shall include the following:
+
+
+
+a)	Name of Procurement Project;
+
+b)	Procurement Management Office (PMO)/end-user/implementing unit;
+
+c)	Method of Procurement;
+
+d)	Schedule of identified procurement activities as reflected in the APP form approved by the GPPB;
+
+e)	Source of funds;
+
+f)	Indicative ABC; and
+
+g)	Other relevant descriptions of the project, if applicable.
+
+
+
+The indicative APP and budget proposal shall be simultaneously submitted to the HoPE and/or other oversight bodies for approval.
+
+
+
+7.3.5.	As soon as the GAA, corporate budget, or appropriation ordinance, as the case may be, becomes final, the end-user or implementing units shall revise and adjust the PPMPs to reflect the budgetary allocation for their respective PAPs. The revised PPMPs shall be submitted to the BAC, through its Secretariat, for the final recommendation of the methods of procurement. The indicative APP shall then be revised and approved in accordance with Section 7.2 of this IRR. The APP shall be submitted to the GPPB on or before the end of January of the budget year, and shall be posted in accordance with E.O. 662, series of 2007, as amended.
+
+
+
+7.4.	Changes to the individual PPMPs and the consolidated APP may be undertaken every six (6) months or as often as may be required by the HoPE. The respective end-user or implementing units of the Procuring Entity shall be responsible for the changes to the PPMPs, while the BAC Secretariat shall be responsible for the consolidation of these PPMPs into an APP, which shall be subject to the approval of the HoPE.
+
+
+
+Changes in the APP, if any, for the budget year shall be submitted to the GPPB in July of the current budget year, and in January of the following budget year.
+
+
+
+	2)	Section 22, Article IV of CHED Memorandum Order (CMO) No. 20, Series of 2011, dated August 4, 2011 provides:
+
+	
+
+	ARTICLE IV
+
+	SPECIAL BUDGETARY PROVISIONS
+
+
+
+Section 22. Documents to Support Budget Proposal – The budget for the use of income shall be submitted for approval to the BOR/T.  However, no budget shall be submitted for approval by the BOR/T unless the same is accompanied by the following:
+
+
+
+a)	 A certificate duly signed by the Accountant that collections have been made, duly receipted and deposited in the official government depositary bank.  Such certification shall be broken down by college, campus, and fund (fiduciary, self-liquidating projects and activities and regular funds) showing the details of the fees collected.
+
+
+
+b)	Annual Procurement Plan (APP)/Project Procurement Management Plan (PPMP)/EPP
+
+
+
+All budget proposals for maintenance and other operating expenses requiring procurement shall be covered by an APP and PPMP duly signed by the deans, executive directors, fiduciary and IGP/Production fund administrators, and the President, and submitted for approval to the BOR/T.  This requirement and all other mandatory requirements under RA 9184 (Government Procurement Reform Act) shall be observed strictly to maximize the use of financial and material resources.
+
+
+
+c)	Investment Plan
+
+
+
+All capital outlay and investment program must be covered by a BOR/T approved Project Procurement Management Plan.
+
+
+
+	3)	The CY 2020 Special Budget of the University in the total amount of P96,498,130.00 was approved through BOR Resolution No. 020, S. 2020, while the Finance Committee issued BOR Referendum No. 08, S. 2020, on December 2, 2020 approving the augmentation totaling P9,050,000.00.
+
+	
+
+	4)	Audit revealed that the CY 2020 Special Budget and the augmentation were not supported with duly approved APP, PPMPs and/or Investment Plan, where procurement of various equipment and other capital outlay expenditures should have been specified and/or identified.
+
+	
+
+	5)	A consolidated APP reflects the entire procurement activities that an agency plans to undertake within the calendar year.  It allows procurement in a more cost-efficient and economical way, thereby resulting in savings in terms of cost, time and effort devoted to the process of procurement.
+
+
+
+	6)	This deficiency in the procurement process precluded the Audit Team to evaluate whether all procurements made during the year are essential for the Projects, Activities and Programs (PAPs), which are crucial to the operations of the University.  This deficiency not only contravenes accepted rules and regulations, policies and guidelines on the use of income and special trust funds of the University, but also hampers the evaluation on how efficient these resources were utilized and prioritized.
+
+
+
+	7)	We recommended that the President ensure that proposed budgets and augmentations are supported with APP and PPMPs, when applicable.  Further, we recommended that the President direct:
+
+
+
+a)	all end-user units to prepare their PPMPs, incorporating therein all their procurement requirements for the year;
+
+
+
+b)	the BAC Secretariat to consolidate the PPMPs into a comprehensive, workable and realistic APP for approval by the HoPE and the BOR, as basis of procurement for the year;
+
+
+
+c)	Budget Officer to duly evaluate and review the PPMPs of the end-user units; support the budget with an APP and PPMPs; and strictly observe planning and budgeting linkage with other persons concerned; and
+
+
+
+d)	the Supply Office to undertake the procurement of all requirements for the year based on the approved APP in accordance with RA No. 9184.
+
+
+
+	8)	The Management commented that that they have complied with the recommendations in CY 2021, and that the consolidated APPs were prepared and submitted for all funds duly supported with PPMPs.
+
+
+
+
+
+Fund sourcing for budget augmentation not certain whether or not free from any obligation or encumbrance
+
+
+
+10)	Funds totaling P9,050,000.00 taken from the balances reported in the bank statements as at year end were used to augment the CY 2020 Special Budget.
+
+
+
+	1)		Section 3, Article I of CMO No. 20 Series of 2011 dated August 4, 2011 provides:
+
+
+
+Section 3.	Definition of Terms – The following terms are hereby defined in accordance with its operational meaning, as follows:
+
+
+
+a)	Accumulated Savings – refer to funds available for appropriation computed as follows:
+
+
+
+Fund balance at the end of the year, then deduct the following:
+
+
+
+1)	Projects still to be implemented and paid out of the general fund;
+
+2)	Funds being accumulated for an Approved Projects to be financed out of Student Trust Fund;
+
+3)	Accounts payable properly booked or obligated on the books of accounts;
+
+4)	Purchase Requests obligated in the next calendar year; and
+
+5)	Fund balances of self-liquidating entities (e.g. graduate school in some SUCs, and the like) auxiliary services in IGPs.
+
+
+
+x x x
+
+
+
+s)	Savings – refer to such portion or balance of the SUC’s released allotment for the year, free of any obligation or encumbrance and which are no longer intended for specific purpose/s such as but not limited to 1) Unexpected balance after completion of the work/activity/project for which the appropriation is authorized; or 2) unexpended funds resulting from implementation of improved systems and procedures, cost saving measures and efficiency where the agency was able meet and deliver the required or planned targets, programs and services approved in the annual budget at a lesser cost, targets, programs and services approved in the annual budget.  (Relate with the definition of “Monthly or Quarterly Savings”)
+
+
+
+x x x
+
+
+
+w) Unexpended Amount – refers to the unobligated balance of the budget.  At the end of a given period, the unexpended amount may be declared as savings.  At the end of calendar year, it may be considered as Surplus.  This is usually the amount which is included in the cumulative results of operations unappropriated or the acronym popularly known as “CROU”, or simply stated, Accumulated Savings.  The BOR/T, through the initiative of the finance division, may use the amount for the payment of additional incentives or reprogrammed as funding for projects proposed for the next calendar year.  (See definition of Accumulated Savings).
+
+
+
+	2)		In addition to the originally approved CY 2020 Special Budget of the University, the BOR, upon the proposal of the Finance Committee issued BOR Referendum No. 08, S. 2020, on December 2, 2020 approving the augmentation of the CY 2020 Special Budget totaling P9,050,000.00, as detailed below:
+
+
+
+Table 36.  Composition of the Approved Special Budget for CY 2020
+
+Particulars
+
+Amount
+
+Personnel Services
+
+
+
+Faculty and Staff Development
+
+₱1,000,000.00
+
+Curriculum Development
+
+1,500,000.00
+
+Administrative Services
+
+340,000.00
+
+Sub-total
+
+₱2,840,000.00
+
+Maintenance and Other Operating Expenses
+
+
+
+Administrative Services
+
+2,624,620.00
+
+Student Development
+
+200,000.00
+
+Fiduciary Fund
+
+20,000.00
+
+Business Related Fund
+
+2,100,000.00
+
+Trust Fund
+
+1,025,380.00
+
+Sub-total
+
+₱5,970,000.00
+
+Capital Outlay
+
+
+
+Facilities Development
+
+₱240,000.00
+
+Grand Total
+
+₱9,050,000.00
+
+	
+
+	3)		According to the Budget Officer, the Special Budget totalling P9,050,000.00 was sourced from the balances reported in the bank statements as of year end.  This amount consisted of prior years’ accumulated savings from the fund as reflected in the bank statements.  However, the Accountant did not submit the details as to what bank accounts the amount of P9,050,000.00 was sourced from. 
+
+
+
+	4)		The practice is highly irregular because no bank reconciliation statements were prepared and submitted for verification so that the Audit Team had no way of determining whether these year end balances were free of encumbrances, and were no longer intended for any other projects and payables.
+
+
+
+	5)		We recommended that the President direct the Budget Officer to submit evidence of the source of the P9,050,000.00 which was used to augment the CY 2020 Special Budget; and to prepare and maintain the necessary registries so that the monitoring of the budget and its subsequent expenditures is made easier in compliance with Section 3 of the GAM for NGAS.
+
+
+
+	6)		We recommended that the Budget Officer issue a certification to support the augmentation of budgets that fund sources are free of any obligation or encumbrances, and no longer intended for specific purpose.
+
+
+
+	7)	The Management commented that the budget officer will be asked to submit evidence of the source of his augmentation which comes from the excess of collections as against the projected income in prior year.
+
+
+
+
+
+Reduction of budget for research and extension services exceeded the authorized limit
+
+
+
+11)		Modifications made in the allocation for the Research and the Extension Services in CY 2020 Special Budget exceeded the limits which affected the implementation of the programs and projects for the school year.
+
+
+
+	1)		Sections 9 and 11 of CMO No. 20 Series of 2011 dated August 4, 2011 also state that:
+
+
+
+ARTICLE III
+
+SPECIFIC BUDGETARY ALLOCATION
+
+
+
+x x x
+
+
+
+Section 9. Limitation on adjustment or modification of percentage allocation for Research Services – The budget allocation for Research shall be fixed at ten percent (10%).  This percentage shall not be modified or reduced in order to ensure the accomplishment of research activities or undertaking that is geared towards producing research outputs that would be beneficial for the development of the community or locality where the SUC is located.
+
+
+
+x x x
+
+
+
+Section 11. Limitation on adjustment or modification of percentage allocation for Extension Services – The budget allocation for Extension Services shall be fixed at ten percent (10%) of the tuition fees to ensure effective delivery of programs involving technology transfer of research outputs to the community or locality in which the SUC is located.
+
+	2)		The University submitted to the Audit Team an approved Realignment to the Special Budget for CY 2020.  Review and verification of the budget revealed that the realignment under Research Services budget was reduced by 2.5% and that for Extension Services, by 4.2%, as shown in the following table:
+
+
+
+Table 37.  Realignment percentages of Items in the Special Budget for CY 2020
+
+Particulars
+
+% of Allocation per CMO
+
+Allocation based on Budget
+
+Realignment
+
+% of Modification Based on Realignment 
+
+Research Services
+
+10%
+
+₱5,940,000.00
+
+(₱150,000.00)
+
+2.5%
+
+Professional Services
+
+ 
+
+
+
+(50,000.00)
+
+ 
+
+Taxes, Insurance Premiums and other Fees
+
+ 
+
+
+
+(100,000.00)
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+Extension Services
+
+10%
+
+5,940,000.00
+
+(250,000.00)
+
+4.2%
+
+Awards/Rewards, Incentives and Prizes
+
+ 
+
+
+
+(200,000.00)
+
+ 
+
+Professional Services
+
+ 
+
+
+
+(50,000.00)
+
+ 
+
+
+
+	3)		The reduction in these particular items is irregular as this violates the specific provisions of Sections 9 and 11 of CMO No. 20, Series of 2011.  As such, the implementation of the University’s vital programs of producing research outputs and the delivery of programs involving technology transfer that would prove beneficial for the development of the community or locality where the University is located are compromised.
+
+
+
+	4)		Those limits were set for the purpose of ensuring that the University’s objectives for Instruction, Research Services, Extension Services, Production and Administrative Services would be met in response to the need of the University and its stakeholders.
+
+
+
+	5)		We recommended that the President direct the Budget Officer to restore the budgeted funds for both Research and Extention Services, and henceforth strictly observe the provisions of CMO No. 20, Series of 2011 relative to the specific budget allocations for each of the programs identified so that the efficient operations of the University is assured.
+
+
+
+	6)		The Management commented that FY 2021 Budget is fully compliant with the provisions of CMO No. 20 series of 2011.  Modifications were made in the previous year because of the present pandemic that affected the conduct of research and extension activities thus, creating some fiscal space for other priority programs needing immediate funding.  We earnestly appeal for consideration on this matter since as of today some of the provisions in the mentioned CMO has been rendered ineffective by virtue of latest jurisprudence.
+
+Non-maintenance of Registries of Budget, Utilization and Disbursements; non-submission of Budget and Financial Accountability Reports
+
+
+
+12)		The Registries of Budget, Utilization and Disbursements (RBUD) were not maintained, and the Budget and Financial Accountability Reports (BFARs) pertaining to the Special Budget were not submitted, hence, the fund balances at a given period could not be ascertained.	
+
+
+
+	1)		The pertinent sections in Chapter 3 of the GAM for NGAs, Volume 1, provide:
+
+
+
+x x x
+
+
+
+Sec. 5. Monitoring of the Budget.  The budget shall be monitored by the Budget Division/Units of NGAs through the maintenance of registries for that purpose.
+
+
+
+x x x
+
+
+
+Sec. 18. Registries of Budget, Utilization and Disbursements. The Registries of Budget, Utilization and Disbursements (RBUD) shall be used to record the approved special budget and the corresponding utilizations and disbursements charged to retained income authorized under R.A. 8292 for SUCs and other retained income collection of a national government agency with similar authority, Revolving Funds and Trust Receipts/Custodial Funds. It shall be maintained by legal/authority, fund cluster, MFO/PAP and budget classification. 
+
+
+
+a)	Registry of Budget, Utilization and Disbursements-Personnel Services (RBUD-PS) (Appendix 10A) shall be used to record the budget utilizations and disbursements classified under PS.
+
+
+
+b)	Registry of Budget, Utilization and Disbursements-Maintenance and Other Operating Expenses (RBUD-MOOE) (Appendix 10B) shall be used to record the budget utilizations and disbursements classified under MOOE.
+
+
+
+c)	Registry of Budget, Utilization and Disbursements-Financial Expenses (RBUD-FE) (Appendix 10C) shall be used to record the budget utilizations and disbursements classified under FE.
+
+
+
+d)	Registry of Budget, Utilization and Disbursements-Capital Outlays (RBUD-CO) (Appendix 10D) shall be used to record the budget utilizations and disbursements classified under CO.
+
+
+
+	2)		For CY 2020, the University approved a Special Budget amounting to P96,498,130.00 and its augmentation amounting to P9,050,000.00, or a total of P105,548,130.00.
+
+	
+
+	3)		Verification disclosed that the Budget Office did not maintain the required RBUD to monitor the budget, utilization and disbursements of the Special Budget totaling P105,548,130.00.  Likewise, the following BFARs pertaining to the Special Budget were not submitted to the Audit Team as of given date:
+
+	
+
+a)	Statement of Approved Budget, Utilizations, Disbursements and Balances (SABUDB) – FAR No. 2 (for Off-Budget Fund)
+
+--	Trust Fund and Business Related Fund – 1st, 3rd and 4th Quarters
+
+--	Internally Generated Fund – 1st, 2nd, 3rd and 4th Quarters
+
+b)	Summary of Approved Budget, Utilizations, Disbursements and Balances by Object of Expenditures (SABUDBOE) – FAR No. 2-A (for Off-Budget Fund) 
+
+--	Trust Fund and Business Related Fund – 1st, 3rd and 4th Quarters
+
+--	Internally Generated Fund – 1st, 2nd, 3rd and 4th Quarters
+
+c)		Quarterly Report of Revenue and Other Receipts (QRROR) – FAR No. 5
+
+--	Trust Fund and Business Related Fund – 1st and 4th Quarters
+
+	
+
+	4)		Non-maintenance of those registries in a manner prescribed by the GAM for NGAs would result in the failure to monitor the budget, utilization and disbursements of the fund so that the particulars of this special budget cannot be readily determined as of a given date.
+
+
+
+	5)		Further, the absence of the registries, and the non-submission of the BFARs pertaining to the Special Budget have hampered the thorough verification by the Audit Team of the utilization of the 2020 Special Budget.
+
+	
+
+	6)		We recommended that the President direct the Budget Officer to:
+
+	
+
+a)		submit the required BFARs for the CY 2020 Special Budget; and
+
+
+
+b)		prepare and maintain the necessary registries for the Special Budget to enable a more efficient evaluation of the utilization of the Fund.
+
+
+
+	7)		The Management stated that the Registries and BFARs will now be prepared on time as they will be implementing the Electronic Budget and Accounting System and assured that these concerns will be fully addressed in FY 2021.
+
+	
+
+	
+
+	Internal Audit Service not institutionalized
+
+	
+
+13)		The University failed to create, organize and operate an Internal Audit Service Office, thereby affecting its efficient and effective fiscal administration and performance of its affairs and functions.
+
+	
+
+	1)		Sections 2 and 3 of RA No. 3456, known as the Internal Auditing Act of 1962 dated June 16, 1962, has been amended by RA No. 4177, which provide:
+
+Sec. 2. There shall be created, organized and operated in all branches, subdivisions and instrumentalities of the government, including government-owned and/or controlled corporations to be known as agency for purposes of this Act, internal audit services which shall assist management to achieve an efficient and effective fiscal administration and performance of agency affairs and functions. (emphasis supplied)
+
+Sec. 3. The Internal Audit Service shall be under the direct administrative supervision and control of the heads and/or assistant heads of the agency.  It shall be organized as an independent staff unit and shall correspondingly perform staff functions.  It shall be responsible for instituting and conducting a program of internal audit for the agency.  The chief of the Internal Audit Service shall have the rank and salary equivalent to the third ranking official of the agency. He shall report directly to the head or assistant head of the agency.
+
+	2)		Administrative Order No. 278 dated April 28, 1992, provides:
+
+	
+
+1.1	The Internal Audit Service (IAS) shall be an integral part of the office/organization and shall assist the institution management in the effective discharge of its responsibilities insofar as the same would not encroach on or be adversarial with those of the auditors of the Commission on Audit. Xxx. The internal audit activities shall include the following:
+
+
+
+1.1.1	Ascertaining the reliability and integrity of financial and operational information and the means used to identify, measure, classify and report such information;
+
+	
+
+1.1.2	Ascertaining the extent of compliance and reviewing the systems established to ensure compliance with government policies, plans and procedures, laws and regulations which have impact on operations;
+
+	
+
+1.1.3	Ascertaining the extent to which the assets and other resources of the institutions are accounted for and safeguarded from losses of all kinds;
+
+	
+
+1.1.4	Reviewing and evaluating the soundness, adequacy and application of accounting, financial and other operating controls and promoting the most effective control at reasonable cost;
+
+	
+
+1.1.5	Reviewing operations or programs to ascertain whether or not results are consistent with established objectives and goals and whether or not such programs are being carried out as planned;
+
+	
+
+1.1.6	Evaluating the quality of performance of groups/individuals in carrying out their assigned responsibilities; and
+
+	
+
+1.1.7	Recommending corrective actions on operational deficiencies observed.
+
+
+
+2.0	In addition to its above duties, the IAS may be called upon to perform special assignments by the Head of the Agency. However, it shall not be responsible for or required to participate in procedures which are essentially a part of regular operating activities or in operations which are the primary responsibility of another unit in the organization. The IAS shall be detached from all functions of routine operating character, such as the following:
+
+	
+
+2.1	Pre-audit of vouchers and counter-signature of checks;
+
+	
+
+2.2	Inspection of deliveries, although the internal auditor may, as part of his examination, observe inspection;
+
+
+
+2.3	Preparation of treasury and bank reconciliation statements;
+
+
+
+2.4	Development and installation of systems and procedures; however, in exceptional cases, the internal auditor may assist by way of giving suggestions;
+
+
+
+2.5	Taking physical inventories; however, the internal auditor may review the plans in advance and observe and test-check the accuracy of counting, costing and summarizing;
+
+
+
+2.6	Maintaining property records; and
+
+
+
+2.7	All other activities related to operations.
+
+
+
+	3)		Moreover, Philippine Government Internal Audit Manual issued by the Department of Budget and Management (DBM), pertinently provides:
+
+
+
+1)	Scope of Internal Audit
+
+
+
+3.1	Scope
+
+
+
+Internal audit is an integral part of the internal control system of public service organizations. The scope of internal audit is broad and involves all matters relating to operations and management control.
+
+
+
+Among others, internal audit encompasses the appraisal of the adequacy of internal controls, the conduct of management audit and the evaluation of the results of operations, focusing on the effectiveness of controls of operating systems and support services units/systems.
+
+
+
+3.2	Functions of IAS/IAU
+
+
+
+Pursuant to the Administrative Code of 1987, and as reiterated in the NGICS, the functions of the IAS/IAU are as follows:
+
+
+
+a)	Advise the DS/HoA or in the case of GOCCs/GFIs, the Governing Body through the Audit Committee, on all matters relating to management control and operations audits;
+
+
+
+b)	Conduct management and operations audits of Department/ Agency/GOCC/GFI functions, programs, projects, activities with outputs, and determine the degree of compliance with their mandate, policies, government regulations, established objectives, systems and procedures/processes and contractual obligations;
+
+
+
+c)	Review and appraise systems and procedures, organizational structures, asset management practices, financial and management records, reports and performance standards of the department proper, bureaus and regional offices;
+
+
+
+d)	Analyze and evaluate management deficiencies and assist top management by recommending realistic courses of action; and
+
+
+
+e)	Perform such other related duties and responsibilities as may be assigned or delegated by the Secretary or the Governing Board or as may be required by law.
+
+
+
+	4)	The University has three campuses, namely: UEP - Main, UEP - Catubig and UEP - Laoang, and maintains four types of fund clusters, namely: 01-Regular Agency Fund (RAF), 05-Income Generating Fund (IGF), 06-Business Related Fund (BRF) and 07-Inter-Agency Trust Fund (IATF).
+
+
+
+	5)	Review of the organizational structure of the University revealed that it has an Internal Auditor.  This was confirmed in an interview with the Vice President for Administration and Finance (VPAF), but the Internal Auditor was only given the task of preparing payrolls.
+
+
+
+	6)	Verification of the CY 2020 Plantilla of Personnel also showed an Internal Auditor position with Salary Grade 15.  Interview with the Internal Auditor disclosed that she was appointed in CY 2013, and from her appointment in CY 2013 to CY 2019 she was assigned at the Accounting Office tasked to conduct the pre-audit of all transactions for all funds.  She was reassigned to the Human Resource Management Office in CY 2020 tasked to prepare the monthly payrolls of the permanent employees.
+
+	
+
+	7)	These conditions show that the IAS was not created, organized and operated by the University as required under RA No. 3456, AO No. 278, and the revised PGIAM, thereby affecting the efficient and effective fiscal administration and performance of the University’s affairs and functions.
+
+	
+
+	8)	The role of the Internal Auditor is not about fault-finding; neither is it investigative or punitive.  As a component of the performance management framework of the University, the IAS should have assessed the levels of performance against agreed measures, targets and objectives, and should have reported thereon.  The internal audit function is separate from, but complementary to, the day-to-day monitoring of internal controls and the conduct of continual management improvement, which are within the responsibility of operating units.
+
+
+
+	9)	While it is the direct responsibility of the University President to install, implement and monitor a sound internal control system, the IAS assists him by conducting a separate evaluation of the ICS to determine if controls are well designed and properly implemented.
+
+
+
+	10)	Considering the bulk of transactions and the increasing number of government programs/projects/activities to be implemented every year, the University needs all the assistance it can get in the achievement of efficient and effective fiscal management and performance of its affairs, operations and functions.
+
+
+
+	11)	We recommended that the President create, organize and operate an Internal Audit Service in accordance with RA No. 3456, Administrative Order No. 278 dated April 28, 1992, and the revised PGIAM.
+
+
+
+	12)	The Management commented that the proposal to create, organize, and operate the IAU will be submitted to the UEP BOR immediately in compliance with the recommendations, and provisions of law.
+
+
+
+
+
+Compliance with Tax Laws
+
+
+
+14)	For CY 2020, UEP withheld taxes totaling P48,503,247.88 from its employees’ compensation, percentage taxes and value-added taxes on its various suppliers/payees.  The Management did not regularly remit the taxes withheld because in CY 2020 the total amount to be remitted to the Bureau of Internal Revenue (BIR) was P50,992,599.56 (including the beginning balance), but only P47,445,840.33 was remitted, thereby leaving an ending balance of P4,604,872.94 as at year end,  as shown in the following table:
+
+
+
+Particulars
+
+Amount
+
+Beginning Balance, 1/1/2020
+
+P3,546,759.23
+
+Tax Withheld in CY 2020
+
+48,503,247.88
+
+Remittances in CY 2020
+
+47,445,840.33
+
+Ending Balance, 12/31/2020
+
+P4,604,872.94
+
+
+
+
+
+Compliance with GSIS Act of 1997
+
+
+
+15)	During the year, a total of P56,424,127.25 was withheld for GSIS deductions,  while a total of  P56,054,604.84 was remitted to the GSIS.  As of December 31, 2020, the ending balance of the Due to GSIS account amounted to P2,068,998.71 as shown in the following table:
+
+
+
+Particulars
+
+Amount
+
+Beginning Balance, 1/1/2020
+
+P1,699,476.30
+
+Withheld in CY 2020
+
+56,424,127.25
+
+Remittances in CY 2020
+
+56,054,604.84
+
+Ending Balance, 12/31/2020
+
+P2,068,998.71
+
+
+
+
+
+Compliance with PhilHealth Contributions
+
+
+
+16)	During the year, a total of P4,364,742.57 was withheld from employees for PHILHealth Contributions, and remittances totaled P4,099,497.09.  As of December 31, 2020, the balance of the Due to Philhealth account amounted to P444,090.99 as shown in the following table:
+
+
+
+Particulars
+
+Amount 
+
+Beginning Balance, 1/1/2020
+
+P178,845.51
+
+Withheld in CY 2020
+
+4,364,742.57
+
+Remittances in CY 2020
+
+4,099,497.09
+
+Ending Balance, 12/31/2020
+
+P444,090.99
+
+
+
+
+
+Compliance with Home Development Mutual Fund (HDMF) Contributions
+
+
+
+17)	During the year, a total of P6,236,121.78 was withheld from employees and the University remitted the amount of P6,226,305.58 to the HDMF.  As of December 31, 2020, the balance of the Due to Pag-IBIG account amounted to P104,337.33 as shown in the following table:
+
+
+
+Particulars
+
+Amount
+
+Beginning Balance, 1/1/2020
+
+P94,521.13
+
+Withheld in CY 2020
+
+6,236,121.78
+
+Remittances in CY 2020
+
+6,226,305.58
+
+Ending Balance, 12/31/2020
+
+P104,337.33
+
+
+
+
+
+Status of Settlements of Audit Suspensions, Disallowances and Charges
+
+
+
+18)	The status of compliance with the audit suspensions, disallowances and charges issued in prior years and during CY 2020 is summarized in the following table:
+
+
+
+Particulars
+
+Beginning Balance
+
+Issued During the Year
+
+Settlement During the Year
+
+Ending Balance 
+
+
+
+Jan. 1, 2020
+
+
+
+
+
+Dec. 31, 2020
+
+Audit Suspensions
+
+P2,913,534.00
+
+
+
+P-0-
+
+P2,913,534.00
+
+Audit Disallowances
+
+8,966,099.92
+
+
+
+88,934.27
+
+8,877,165.65
+
+Audit Charges
+
+-
+
+
+
+
+
+-
+
+
+
+36
+
+
+
+
+
+
+
+
+

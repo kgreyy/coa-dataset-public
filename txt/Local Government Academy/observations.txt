@@ -1,0 +1,2310 @@
+PART II – OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+A)	Financial Audit 
+
+
+
+Unreliable Cash Balance 
+
+
+
+1)	Stale checks totaling P83,086.41 were not adjusted and/or recorded in the books as of December 31, 2020 contrary to the provisions of Chapter 6, Section 44 of the GAM Volume 1, resulting in the understatement of the Cash-Modified Disbursement System (MDS) - Regular and Accounts Payable accounts by the same amount.
+
+
+
+	1)	Chapter 6, Section 44 of the GAM, Volume 1 states that:
+
+
+
+Checks may be cancelled when they become stale, voided or spoiled. The depository bank considers a check stale, if it has been outstanding for over six months from date of issue or as prescribed and reported as follows:
+
+
+
+a)	Voided, spoiled or unclaimed stale checks with the Cashier shall be reported as cancelled in the List of Unreleased Checks that will be attached to the RCI.
+
+
+
+b)	New checks may be issued for the replacement of stale/spoiled checks in the hands of the payees or holders in due course, upon submission of the stale/spoiled checks to the Accounting Division/Unit. A certified copy of the previously paid DVs shall be attached to the request for replacement. A JEV shall be prepared.
+
+
+
+	2)	Treasury Circular No. 03-2017, however, reduced the expiry period of MDS check from six (6) months to three (3) months from date of issue to reduce large balances of outstanding MDS checks and to simplify accounting, reconciliation and monitoring of the age profile and composition of check floats.
+
+
+
+	3)	Verification of Cash - MDS, Regular includes reconciling items, totaling P83,086.41, representing stale checks which remained outstanding and not adjusted in the books as of December 31, 2020.  Details are shown below:
+
+
+
+Date
+
+Check No.
+
+Payee
+
+Particulars
+
+Amount
+
+02/18/2020
+
+1415145
+
+Casa Miguel
+
+Payment of Hotel Accommodations
+
+P 8,859.38 
+
+03/11/2020
+
+1415194
+
+PICPA MMR
+
+Payment of registration fee for the attendance to the Seminar 
+
+ 7,687.50 
+
+03/13/2020
+
+1415201
+
+PLDT INC.
+
+Payment of telephone bill charges 
+
+ 4,916.16 
+
+03/13/2020
+
+1415202
+
+PLDT INC.
+
+Payment of telephone bill charges 
+
+ 23,165.41 
+
+03/01/2020
+
+1416221
+
+G S I S
+
+Payment of GSIS Insurance fee for the service vehicle.
+
+ 4,380.23 
+
+03/26/2020
+
+1416259
+
+Lotico Gerson Villanueva
+
+Payment of honorarium 
+
+ 10,440.00 
+
+03/26/2020
+
+1416266
+
+Gilda Gaurino
+
+Payment of honorarium 
+
+ 5,220.00 
+
+04/22/2020
+
+1416312
+
+Aser B. Javier
+
+Payment for the replacement of staled check: No. 1408383 dated June 17, 2019 
+
+ 9,717.73 
+
+06/30/2020
+
+1416425
+
+Jan Michael Alexander Bernadas
+
+Payment of Resource Speaker 
+
+ 8,700.00 
+
+TOTAL
+
+P 83,086.41
+
+
+
+	4)	Entries for the cancellation and replacement of stale/voided/spoiled MDS checks issued in the current year should be as follows: 
+
+
+
+Cash-Modified Disbursement System (MDS), Regular	xxx
+
+Accounts Payable						xxx
+
+
+
+To recognize the cancellation of stale/voided/spoiled MDS checks
+
+
+
+Accounts Payable						xxx
+
+          Cash-Modified Disbursement System (MDS), Regular	xxx
+
+
+
+To recognize the replacement of stale/voided/spoiled MDS checks.
+
+
+
+Cash-Modified Disbursement System (MDS), Regular	xxx
+
+          Appropriate Account		  				xxx
+
+
+
+To recognize the cancellation of stale/voided/spoiled MDS checks without replacement
+
+
+
+	5)	As a result of the above errors, the accounts Cash - MDS, Regular and Accounts Payable were both understated by P83,086.41 due to non-adjustment of the stale checks.
+
+
+
+	6)	It is informed that due to COVID-19 pandemic, payees of MDS checks were not able to collect payments due them; thus, MDS checks became stale. 
+
+
+
+	7)	We recommended that Management direct the Accountant to immediately effect necessary adjusting entries pertaining to stale checks totaling P83,086.41, to reflect the correct balances of the affected accounts. 
+
+
+
+	8)	As of March 11, 2021, the Management immediately prepared the adjusting entries for errors found. Further, to prevent recurring error, the Management required the preparer of the BRS to submit a Notice of Stale Checks Report with the corresponding JEV. 
+
+
+
+	9)	Auditor Rejoinder:
+
+
+
+JEV effecting adjustments of stale checks, including attachments thereof, was not submitted to the Audit Team. 		
+
+					
+
+	Unreliable balance of Inventories 
+
+	
+
+2)	The balance of the Inventory accounts amounting to P6,652,998.20 is unreliable due to: (a) non-recording of issued supplies inventory and semi-expendable properties and equipment amounting to P62,128.36 and P1,175,572.51, respectively; (b) non-reconciliation of Supplies Ledger Card (SLC) by the Accounting Division (AD) and Stock Card (SC) by the Property Division; and (c) non-submission of Report on the Physical Count of Inventories (RPCI) contrary to the provisions of Chapter 8  of the GAM for NGAs, Volume I.
+
+
+
+	1)	Chapter 8 of the GAM, Volume I provides that:
+
+
+
+Section 7	When inventories are sold, exchanged, or distributed, their carrying amount shall be recognized as an expense in the period in which the related revenue is recognized. If there is no related revenue, the expense is recognized when the goods are distributed or the related service is rendered.
+
+
+
+Section 9	Supplies and materials purchased for inventory purpose shall be recorded using the perpetual inventory system, resulting in a more accurate inventory records and a running total for the cost of goods sold in each period.  The system requires accounting records to show the amount of inventory on hand at all times through the maintenance of the SLC (Appendix 57) by the Accounting Division/Unit for each item in stock. Regular purchases shall be coursed through the inventory account and issues thereof shall be recorded as they take place except for supplies and materials purchased out of PCF for immediate use or on emergency cases which shall be charged directly to the appropriate expense accounts.
+
+Section 17	The following records, forms and reports are prescribed for use:
+
+
+
+a)	Stock Card (SC) (Appendix 58) – shall be used to record all receipts and issues of supplies and the balance in quantity at any time. It shall be maintained by the Property and/or Supply Division/Unit for each item in stock. The IAR, RIS, PO and DR serve as the original sources of information for making entries on the card.
+
+
+
+b)	Supplies Ledger Card (SLC) (Appendix 57) – shall be used to record materials received, issued and the balance both in quantity and amount at any time. It shall be maintained by the Accounting Division/Unit for each kind of supplies and materials. The IAR, RIS, RSMI, PO and DR serve as the original sources of information for making entries on the card.
+
+
+
+c)	Report on the Physical Count of Inventories (RPCI) (Appendix 66) – shall be used to report the physical count of supplies by type of inventory as at a given date. It shows the balance of inventory items per card and per count and shortage/overage, if any. These include the semi-expendable property wherein the issue is covered by ICS.
+
+
+
+	2)	As of December 31, 2020, the Inventory accounts of LGA have an aggregate balance of P6,652,998.20, consisting of the following: 
+
+
+
+Account Title
+
+Balance as of 
+
+12/31/2020
+
+Medical, Dental and Laboratory Supplies for Distribution
+
+P      188,705.51 
+
+Office Supplies Inventory
+
+3,209,797.74 
+
+Other Supplies and Materials Inventory
+
+95,120.49 
+
+Semi-Expendable Office Equipment
+
+94,247.04 
+
+Semi-Expendable Information and Communication Technology Equipment
+
+213,055.31 
+
+Semi-Expendable Communication Equipment
+
+90,052.36 
+
+Semi-Expendable Printing Equipment
+
+98,923.17 
+
+Semi-Expendable Sports Equipment
+
+25,922.50 
+
+Semi-Expendable Other Equipment
+
+6,427.65 
+
+Semi-Expendable Furniture and Fixtures
+
+2,235,908.23 
+
+Semi-Expendable Books
+
+394,838.20 
+
+Total Inventories as of December 31, 2020
+
+P  6,652,998.20
+
+
+
+	3)	The balance of inventory accounts as enumerated above is considered unreliable for the following reasons:
+
+
+
+	a)	non-recording of issued supplies inventory and semi-expendable properties and equipment amounting to P62,128.36 and P1,175,572.51, respectively;
+
+	b)	non-reconciliation of SLC by the AD and SC by the Property Division; and
+
+	c)	non-submission of RPCI.
+
+
+
+a)	Non-recording of issued supplies inventory and semi-expendable properties and equipment amounting to P62,128.36 and P1,175,572.51, respectively
+
+
+
+	4)	Section 7, Chapter 8 of the GAM for NGAs, Volume I provides that when inventories are distributed or related service is rendered, expense should be recognized. The following schedule shows the total purchases and issuances for the year 2020:
+
+
+
+Account Title
+
+Beginning Balances
+
+Purchases
+
+Issuances
+
+Ending Balances
+
+
+
+In Pesos (P)
+
+Medical, Dental and Laboratory Supplies for Distribution
+
+-
+
+ 1,020,864.00 
+
+ 832,158.49 
+
+ 188,705.51 
+
+Office Supplies Inventory
+
+ 3,199,335.90 
+
+ 1,009,718.20 
+
+ 999,256.36 
+
+ 3,209,797.74 
+
+Other Supplies and Materials Inventory
+
+ 61,691.36 
+
+ 150,947.95 
+
+ 117,518.82 
+
+ 95,120.49 
+
+Sub-total
+
+3,261,027.26 
+
+ 2,181,530.15 
+
+1,948,933.67 
+
+3,493,623.74 
+
+Semi-Expendable Office Equipment
+
+51,150.00 
+
+43,097.04 
+
+                                 -   
+
+94,247.04 
+
+Semi-Expendable ICT Equipment
+
+-   
+
+213,055.31 
+
+-   
+
+213,055.31 
+
+Semi-Expendable Communication Equipment
+
+21,600.00 
+
+68,452.36 
+
+                                 -   
+
+90,052.36 
+
+Semi-Expendable Printing Equipment
+
+55,475.00 
+
+43,448.17 
+
+-   
+
+98,923.17 
+
+Semi-Expendable Sports Equipment
+
+25,922.50 
+
+-   
+
+-   
+
+25,922.50 
+
+Semi-Expendable Other Equipment
+
+-   
+
+6,427.65 
+
+-   
+
+6,427.65 
+
+Semi-Expendable Furniture and Fixtures
+
+502,796.25 
+
+1,733,111.98 
+
+-   
+
+2,235,908.23 
+
+Semi-Expendable Books
+
+394,838.20 
+
+-   
+
+-   
+
+394,838.20 
+
+Sub-total
+
+1,051,781.95 
+
+ 2,107,592.51 
+
+ -   
+
+3,159,374.46 
+
+GRAND TOTAL
+
+4,312,809.21 
+
+ 4,289,122.66 
+
+1,948,933.67 
+
+6,652,998.20 
+
+
+
+	5)	It could be observed that there were no issuances made for the eight semi-expendable property accounts; hence, the reason for accumulated balance of P3,159,374.46 at year-end. Likewise, the balance includes properties that were reclassified from PPE to semi-expendable in compliance to Section 10 Chapter 8 of the GAM for NGAs which provides the capitalization threshold of P15,000 for PPE. Nonetheless, these items were already issued to end-users upon reclassification; hence, corresponding expenses totaling P1,175,572.51 for the following semi-expendable properties should have been recognized:
+
+
+
+Account Title
+
+Issuances
+
+Semi-Expendable Office Equipment
+
+P         43,097.04 
+
+Semi-Expendable ICT Equipment
+
+ 51,655.31 
+
+Semi-Expendable Communication Equipment
+
+ 68,452.36 
+
+Semi-Expendable Printing Equipment
+
+ 43,448.17 
+
+Semi-Expendable Other Equipment
+
+ 6,427.65 
+
+Semi-Expendable Furniture and Fixtures
+
+ 962,491.98 
+
+TOTAL
+
+P    1,175,572.51
+
+
+
+	6)	Further, upon inspection and review of documents submitted, it was observed that inventories totaling P62,128.36 were already issued per Stock Cards as of December 31, 2020. However, the balance remains outstanding in the books as the RSMI, particularly for the month of December, was not submitted on a timely manner to the Accounting Division, thereby overstating the inventory account by the same amount. Details are as follows:
+
+
+
+Account Title
+
+Ending Balances
+
+Issuances per Stock Card
+
+Adjusted Ending Balances
+
+Medical, Dental and Laboratory Supplies for Distribution
+
+ 188,705.51 
+
+37,964.60
+
+150,740.91
+
+Office Supplies Inventory
+
+ 3,209,797.74 
+
+17,191.47
+
+3,192,606.27
+
+Other Supplies and Materials Inventory
+
+ 95,120.49 
+
+6,972.29
+
+88,148.20
+
+Total
+
+3,493,623.74 
+
+62,128.36
+
+3,431,495.38
+
+
+
+	7)	Thus, the non-recording of issued inventories and semi-expendable properties and equipment amounting to P62,128.36 and P1,175,572.51, respectively, renders the Inventory accounts overstated by P1,237,700.87 while the corresponding expenses understated by the same amounts.
+
+
+
+b)	Non-reconciliation of SLC by the Accounting Division and SC by the Property Division
+
+
+
+	8)	As previously discussed, the SCs maintained by the Property Division and SLCs maintained by the Accounting Division did not reconcile; thus, causing discrepancies totaling P62,128.36 between the actual and recorded inventories as reported by the two offices. 
+
+
+
+c)	Non-submission of Report on the Physical Count of Inventories (RPCI)
+
+
+
+	9)	The RPCI is a form used to report the physical count of inventory items by type such as Office Supplies Inventory; Accountable Forms Inventory; Medical, Dental and Laboratory Supplies Inventory, etc. which are owned by the agency/entity. It shall be reconciled with the SLCs and SCs maintained by the Accounting Division/Unit, and Property and/or Supply Division/Unit, respectively and shall be prepared semi-annually by the Inventory Committee and by fund cluster. The report shall be submitted to the COA Auditor concerned not later than July 31 and January 31 of each year for the first and second semesters, respectively. However, to date, no RPCI was submitted by the Property and Supply Division to COA for audit and evaluation, as no physical count was conducted at year-end
+
+
+
+	10)	We recommended that Management require the:
+
+
+
+a)	Property and Supply Division (PSD) to submit RSMI for the month of December   to the AD in order to promptly record issuances of inventories and make corresponding adjusting entries for reclassified semi expendable properties already issued; 
+
+
+
+b)	AD and PSD to update and regularly reconcile SLCs and SCs; and
+
+
+
+c)	PSD to immediately submit the RPCI to COA in conformity with the pertinent provisions of GAM for NGAs Vol 1.
+
+
+
+	11)	Management commented that the JEV taking up the issuance of Office Supplies, Medical, Dental and Laboratory Supplies and Other Supplies and Materials inventory was submitted to COA. Accordingly, restructuring of the Property and Supply Division will be made by assigning a dedicated personnel to reconcile records with the Accounting Division. 
+
+
+
+	12)	Auditor Rejoinder:
+
+
+
+No adjusting entries were made on the issuance of Semi-Expendable Properties.
+
+
+
+Recurring gaps in PPE
+
+
+
+3)	Recurring gaps in the physical count of the agency’s PPE were noted.  Further, unserviceable PPE of the LGA-TC were not disposed. Thus, exposing it to further deterioration and devaluation contrary to the provisions of COA Circular No. 2020-006 dated January 31, 2020 and Section 79 of PD 1445. 
+
+	
+
+	1)	In the physical inspection conducted last February 1, 2021 at the LGA-TC, Los Baños, Laguna, gaps contrary to the provisions of COA Circular No. 2020-006 were noted. Details are as follows: 
+
+	
+
+	COA Circular No. 2020-006
+
+	Lapses found during Physical Inventory Taking
+
+	Sec 5.6 Each government agency shall adopt a uniform property identification system for PPE wherein a unique Property Number shall be assigned for each PPE item.
+
+--		The property tag varies in format making it difficult to locate the items listed in the Inventory Count Form (ICF). 
+
+	Sec 5.9 In coordination with the Property Division/Unit, the Inventory Committee shall plan/strategize on how to conduct and complete the physical inventory within the prescribed period. It shall prepare a PIP containing, at the least, the specific assignments/duties of the Committee members, the cut-off date and a schedule specifying the dates and locations of the inventory taking activities from start up to the targeted completion of the physical inventory.
+
+--		No Physical Inventory Plan (PIP) was submitted to COA 10 calendar days before the scheduled start of inventory taking activities.
+
+	Sec 6.2(2) The Inventory Committee shall use the inventory working papers provided by the Property Unit as basis for inventory taking activities, taking into consideration the capitalization threshold of P15,000.
+
+--		Still included as inventory are properties under the capitalization threshold of P15,000.00 for PPE.
+
+	Sec. 6.2(3) The physical count shall be recorded/documented daily in a standard Inventory Count Form (ICF), using the format in Annex A  of this Circular, which shall be used as the basis in the preparation of the RPCPPE after the physical count.
+
+--		The Inventory Committee did not use the recommended format of ICF,  pursuant to the  above-mentioned Circular to indicate current condition and location of properties found.
+
+	Sec 6.2(5) All PPE items counted shall be tagged with new property stickers containing the information provided under Paragraph 5.7 of this Circular.
+
+--		The properties were not tagged with new property stickers during the count. 
+
+
+
+	2)	Further, Section 79 of PD 1445 provides the guidelines in the destruction or sale of unserviceable property. It requires that when government property has become unserviceable for any cause, or is no longer needed, it shall, upon application of the officer accountable therefore, be inspected by the head of the agency or his duly authorized representative in the presence of the auditor concerned and, if found to be valueless or unsalable, it may be destroyed in their presence.  
+
+	
+
+	3)	During the physical count of PPE, various unserviceable properties were found in the area, which if remained undisposed will be exposed to further deterioration and devaluation. Also, unserviceable properties include old bed frames and old furniture, which are made of fire-hazard materials. These light materials, if exposed to fire, could pose a threat to life and limb of personnel deployed in the area.  As required under Section 40(d) Chapter 10 of the GAM for NGAs, Volume I, an IIRUP shall be prepared by the Property Officer indicating therein the complete details of unserviceable properties subject to disposal.
+
+	
+
+	4)	It should also be noted that the RPCPPE was not submitted to COA Audit Team which is an annual report that shall also be prepared by the Supply and/or Property Division to be submitted to the Auditor concerned and Accounting Division not later than January 31 of each year. Non-submission thereof, shall prevent the Audit Team from validating the accuracy of reports of the Management. The physical count of PPE was only conducted last February 1, 2021; hence, the reason for the delayed  submission of the required report.  
+
+	 
+
+	5)	We recommended that Management require the PSD to: 
+
+		
+
+a)			strictly comply with the procedural guidelines in the conduct of physical count of PPE as provided under COA Circular No. 2020-006 dated January 31, 2020; and 
+
+		
+
+b)			immediately prepare and submit the IIRUP and RPCPPE as required under the pertinent provisions of the GAM for NGAs Volume I.
+
+
+
+	6)	The Management acknowledged the lapses noted in the conduct of physical count of PPE and committed to: 1) use the ICF and issue uniform property tag with property number conforming with the format prescribed by the said COA Circular; 2) provide a copy of PIP ahead of time during the next count; 3) drop the semi-expendable properties from the list of PPEs and likewise issue  Inventory Custodian Slip (ICS) replacing the Property Acknowledgement Receipt (PAR); and 4) submit the IIRUP and RPCPPE as soon as possible. 
+
+
+
+Further, during the Exit Conference the Management informed COA that the LGA has already organized a Disposal Committee to make further action on the undisposed properties, so as not to become hazardous to the Training Center.  
+
+
+
+	7)	Auditor’s Rejoinder: 
+
+
+
+The RPCPPE was submitted to COA on March 10, 2021 only. However, balances thereof did not reconcile with the balances in the books. Unserviceable PPEs were already excluded from the RPCPPE, while the semi-expendable properties are already dropped from the books.  
+
+
+
+Further, Management is encouraged to prioritize the disposal of unserviceable properties and reconciliation of balances between the Accounting and Property Division in order to cleanse the PPE accounts. 
+
+
+
+
+
+Unliquidated Fund Transfers
+
+
+
+4)	Fund transfers to National Government Agencies (NGAs), Local Government Units (LGUs) and Non-Government Organizations/Civil Society Organizations (NGOs/CSOs) totaling P72,835,649.93 remained unliquidated as of December 31, 2020 of which 64 percent of the total balances or P46,607,025.97 had been outstanding from one to over three years, casting doubt as to whether or not the Academy’s resources are being used effectively and the projects’ objective towards the delivery of the desired outputs are efficiently implemented.
+
+
+
+	1)	COA Circular 94-013 dated December 13, 1994 provides that: 
+
+
+
+Section 4.6 Within ten (10) days after the end of each month/end of the agreed period for the Project, the IA shall submit the Report of Checks Issued (RCI) and the Report of Disbursement (RD) to report the utilization of the funds.  Only actual project expenses shall be reported.  The reports shall be approved by the Head of the IA.
+
+
+
+Section 4.9 The IA shall return to the SA any unused balance upon completion of the project.
+
+
+
+Section 6.7 The Implementing Agency shall return to the Source Agency any unused balance upon completion of the project.
+
+
+
+	2)	Further, item 3.1.1 of COA Circular No. 2012-001 as amended by COA Circular No. 2016-002 dated May 31, 2016 requires: “certification by the Accountant that funds previously transferred to the Implementing Agency (IA) has been liquidated and accounted for in the books” as part of the documentary requirements for fund transfers.
+
+
+
+	3)	As of December 31, 2020, the balance of funds transferred to NGAs, LGUs and NGOs/CSOs amounted to P72,835,649.93 for the implementation of various capacity development projects and activities, summarized as follows:
+
+		
+
+Age
+
+Due from NGAs
+
+Due from LGUs
+
+Due from NGOs/POs
+
+Totals
+
+Current (2020)
+
+25,043,083.96
+
+                                   -   
+
+1,185,540.00
+
+26,228,623.96
+
+Over 1 year (2019)
+
+25,938,261.21
+
+                                   -   
+
+1,323,478.12 
+
+27,261,739.33
+
+Over 2 years (2018)
+
+8,593,677.76
+
+-   
+
+-   
+
+8,593,677.76
+
+3 years and over (2017 & beyond)
+
+6,564,121.10
+
+4,037,487.78
+
+150,000.00
+
+10,751,608.88
+
+Sub-total
+
+41,096,060.07
+
+4,037,487.78
+
+1,473,478.12
+
+46,607,025.97
+
+Total as of 12/31/2020
+
+66,139,144.03
+
+4,037,487.78
+
+2,659,018.12
+
+72,835,649.93
+
+				
+
+	4)	A significant decrease of prior years’ balances was observed during 2019, however, the following practices are still presently contributing to the accumulation of unliquidated fund transfers, to wit:
+
+
+
+a)	Continuous release of fund transfers despite outstanding balances and without certification by the Accountant that funds previously transferred to the IA has been liquidated and accounted for;
+
+
+
+b)	Period of implementation of specific projects funded by the transfer not specified in the MOA between LGA and IAs; and
+
+
+
+c)	Circuitous manner of releasing funds and liquidation thereof.
+
+
+
+a)	Continuous release of fund transfers despite outstanding balances 
+
+
+
+	5)	Additional fund transfers totaling P39,796,497.87 were made during the year despite previous years’ unliquidated balances and no certification was issued by the Accountant confirming that funds previously transferred to the IAs has been liquidated and accounted for in the books. Details are as follows: 
+
+
+
+ 
+
+NGAs
+
+LGUs
+
+NGOs/CSOs
+
+Total
+
+Prior Years’ Balance
+
+Beg. Balance
+
+119,098,354.81
+
+13,990,191.10
+
+3,650,000.00
+
+136,738,545.91
+
+Liquidation
+
+78,002,294.74
+
+9,952,703.32
+
+2,176,521.88
+
+90,131,519.94
+
+Balance December 31, 2020 (a)
+
+41,096,060.07
+
+4,037,487.78
+
+1,473,478.12
+
+46,607,025.97
+
+Percentage (a/c)
+
+62.14%
+
+100.00%
+
+55.41%
+
+63.99%
+
+Current Year’s Balance
+
+Fund Transfers
+
+38,610,957.87
+
+0.00
+
+1,185,540.00
+
+39,796,497.87
+
+Liquidation
+
+13,567,873.91
+
+-   
+
+-   
+
+13,567,873.91
+
+Balance December 31, 2020 (b)
+
+25,043,083.96
+
+0.00
+
+1,185,540.00
+
+26,228,623.96
+
+Percentage (b/c)
+
+37.86%
+
+0.00%
+
+44.59%
+
+36.01%
+
+Grand Totals (c)
+
+66,139,144.03
+
+4,037,487.78
+
+2,659,018.12
+
+72,835,649.93
+
+	6)	From the above data, it can be inferred that out of the total unliquidated fund transfers of P72,835,649.93 as of December 31, 2020, 63.99 percent or P46,607,025.97 are balances from the prior years’ fund transfers, while P26,228,623.96 or 36.01 percent are current year balances. Details are as follows: 
+
+
+
+NGAs/LGUs/ NGOs/CSOs
+
+Current
+
+Past Due
+
+Total
+
+NGAs
+
+
+
+
+
+
+
+DILG BARMM
+
+-   
+
+82,316.88 
+
+82,316.88 
+
+DILG REGION I
+
+504,800.00 
+
+129,134.76 
+
+633,934.76 
+
+DILG REGION II
+
+1,299,858.00 
+
+21,194.26 
+
+1,321,052.26 
+
+DILG REGION III
+
+2,578,928.53 
+
+124,060.84 
+
+2,702,989.37 
+
+DILG Region IV-A (CALABARZON)
+
+909,768.64 
+
+1,078,591.19 
+
+1,988,359.83 
+
+DILG MIMAROPA
+
+1,670,700.00 
+
+863,557.37 
+
+2,534,257.37 
+
+DILG Region V
+
+3,644,998.10 
+
+3,542,111.89 
+
+7,187,109.99 
+
+DILG Region VI
+
+2,252,196.00 
+
+4,776,498.42 
+
+7,028,694.42 
+
+DILG Region VII
+
+548,700.00 
+
+1,783,518.42 
+
+2,332,218.42 
+
+DILG Region VIII
+
+879,596.05 
+
+6,997,194.18 
+
+7,876,790.23 
+
+DILG Region IX
+
+3,729,095.23 
+
+5,276,055.28 
+
+9,005,150.51 
+
+DILG Region X
+
+1,181,650.00 
+
+2,676,916.81 
+
+3,858,566.81 
+
+DILG Region XI
+
+1,120,100.00 
+
+2,712,893.66 
+
+3,832,993.66 
+
+DILG Region XII
+
+1,169,200.00 
+
+4,727,690.27 
+
+5,896,890.27 
+
+DILG Region XIII (CARAGA)
+
+727,619.00 
+
+2,012,847.59 
+
+2,740,466.59 
+
+DILG CAR
+
+253,933.70 
+
+6,648.48 
+
+260,582.18 
+
+DILG NCR
+
+117,084.32 
+
+1,668,452.22 
+
+1,785,536.54 
+
+DILG Central Office
+
+-   
+
+2,248,432.92 
+
+2,248,432.92 
+
+Total DILG ROs
+
+22,588,227.57 
+
+40,728,115.44 
+
+63,316,343.01 
+
+DBM-Procurement Service
+
+2,454,856.39 
+
+9,828.10 
+
+2,464,684.49 
+
+DPWH LAGUNA 2ND DISTRICT ENGINEERING OFFICE
+
+                          -   
+
+           325,718.20 
+
+325,718.20 
+
+Miscellaneous Trust Fund DOH CHD WV
+
+                          -   
+
+             32,398.33 
+
+32,398.33 
+
+Total Other NGAs
+
+2,454,856.39 
+
+367,944.63 
+
+2,822,801.02 
+
+Sub-total NGAs
+
+25,043,083.96 
+
+41,096,060.07 
+
+66,139,144.03 
+
+LGUs
+
+
+
+
+
+
+
+City Government of Angeles - MDG FACES
+
+                         -   
+
+                     387.95 
+
+                   387.95 
+
+City Government of Antipolo - MDG FACES
+
+                         -   
+
+                60,000.00 
+
+60,000.00 
+
+City Government of Balanga - MDG FACES
+
+                         -   
+
+              150,000.00 
+
+150,000.00 
+
+City Government of Bayawan - MDG FACES
+
+                         -   
+
+                60,000.00 
+
+60,000.00 
+
+City Government of Bayugan - MDG FACES
+
+                         -   
+
+                32,611.43 
+
+32,611.43 
+
+City Government of Bogo - MDG FACES
+
+                         -   
+
+              210,000.00 
+
+210,000.00 
+
+City Government of Cabadbaran - MDG FACES
+
+                         -   
+
+              150,000.00 
+
+150,000.00 
+
+City Government of Cadiz - MDG FACES
+
+                         -   
+
+                56,858.25 
+
+56,858.25 
+
+City Government of Cagayan de Oro - MDG FACES
+
+                         -   
+
+              150,000.00 
+
+150,000.00 
+
+City Government of Calbayog
+
+-   
+
+90,000.00 
+
+90,000.00 
+
+City Government of Carcar - MDG FACES
+
+-   
+
+153,463.00 
+
+153,463.00 
+
+City Government of Dasmariñas - MDG FACES
+
+                         -   
+
+                34,144.00 
+
+34,144.00 
+
+City Government of Dumaguete - MDG FACES
+
+                         -   
+
+                14,412.15 
+
+14,412.15 
+
+City Government of El Salvador - MDG FACES
+
+                         -   
+
+              151,752.00 
+
+151,752.00 
+
+City Government of Escalante - MDG FACES
+
+                         -   
+
+              150,000.00 
+
+150,000.00 
+
+City Government of Gapan - MDG FACES
+
+                         -   
+
+              154,085.39 
+
+154,085.39 
+
+City Government of General Santos
+
+-   
+
+210,000.00 
+
+210,000.00 
+
+City Government of Koronadal- MDG FACES
+
+                         -   
+
+                60,000.00 
+
+60,000.00 
+
+City Government of Lucena - MDG FACES
+
+                         -   
+
+              137,398.00 
+
+137,398.00 
+
+City Government of Manila (MHD-SHC-Mass Hot Project)
+
+                         -   
+
+              100,000.00 
+
+100,000.00 
+
+City Government of Masbate - MDG FACES
+
+                         -   
+
+              112,624.50 
+
+112,624.50 
+
+City Government of Oroquieta
+
+-   
+
+4,700.00 
+
+4,700.00 
+
+City Government of Panabo- MDG FACES
+
+                         -   
+
+                60,000.00 
+
+60,000.00 
+
+City Government of Puerto Princesa - MDG FACES
+
+                         -   
+
+                     520.50 
+
+520.50 
+
+City Government of San Jose Del Monte - MDG FACES
+
+                         -   
+
+                90,000.00 
+
+90,000.00 
+
+City Government of Silay - MDG FACES
+
+                         -   
+
+              126,954.00 
+
+126,954.00 
+
+City Government of Sipalay - MDG FACES
+
+                         -   
+
+                             -   
+
+                          -   
+
+City Government of Sta. Rosa - MDG FACES
+
+                         -   
+
+                60,000.00 
+
+60,000.00 
+
+City Government of Tacloban - MDG FACES
+
+                         -   
+
+              300,000.00 
+
+300,000.00 
+
+City Government of Talisay - MDG FACES-Region VI
+
+                         -   
+
+                51,736.95 
+
+51,736.95 
+
+City Government of Tanjay - MDG FACES
+
+                         -   
+
+              149,170.50 
+
+149,170.50 
+
+City Government of Tayabas - MDG FACES
+
+                         -   
+
+                  3,211.00 
+
+                3,211.00 
+
+City Government of Vigan - MDG FACES
+
+                         -   
+
+                             -   
+
+                          -   
+
+City Gov't of Las Piñas - MDG FACES
+
+                         -   
+
+                58,524.75 
+
+58,524.75 
+
+City Health Office - Parañaque City
+
+-   
+
+50,000.00 
+
+50,000.00 
+
+City Health Office - Santiago City
+
+-   
+
+50,000.00 
+
+50,000.00 
+
+DRR Phase II for the Concreting of Hulo-Malaya Dolores Road
+
+                         -   
+
+              350,015.57 
+
+350,015.57 
+
+Municipal Government of Aliaga of Brgy. Poblacion West III, Aliaga, Nueva Ecija
+
+                         -   
+
+              444,917.84 
+
+444,917.84 
+
+Subtotal LGUs
+
+-   
+
+4,037,487.78 
+
+4,037,487.78 
+
+Cebuplus Association, Inc. (CPA)
+
+                       -   
+
+150,000.00 
+
+150,000.00 
+
+Galing-Pook Foundation
+
+1,185,540.00 
+
+823,478.12 
+
+2,009,018.12 
+
+Polytechnic University of the Philippines
+
+                       -   
+
+        500,000.00 
+
+        500,000.00 
+
+Subtotal NGOs/CSOs
+
+1,185,540.00 
+
+1,473,478.12 
+
+2,659,018.12 
+
+GRAND TOTAL
+
+26,228,623.96
+
+46,607,025.97
+
+72,835,649.93
+
+
+
+	7)	Meanwhile, it should be noted that only 34.09 percent (P13,567,873.91/ P39,796,497.87) of the current year’s fund transfers have been liquidated, indicating that there are still lapses in the liquidation of fund transfers to date. Remaining balances of current year’s fund transfers amounting P26,228,623.96 shall continue to accumulate unless the Management restricts granting of additional fund transfers provided however, previous cash advances are liquidated.  
+
+
+
+	8)	Despite liquidations made in 2020, the remaining unliquidated fund transfers casts doubt to the efficiency of implementation of projects for which the fund transfers were made.
+
+
+
+b)	Period of implementation of specific projects funded by the transfer was not specified in the MOA between LGA and IAs 
+
+
+
+	9)	The transfer of funds to DILG Regional Offices (DILG-ROs) was covered by a Memorandum of Agreement; however, this pertains to the whole year fund transfers and does not stipulate the specific activity to be conducted by the IAs and including the corresponding period of implementation for each project. Indicating the period of implementation in the MOA will be useful to facilitate the liquidation of fund transfers to IAs and imposition of penalties, if applicable. 
+
+
+
+c)	Circuitous manner of releasing funds and liquidation thereof
+
+
+
+	10)	The outstanding balance of P72,835,649.93 includes funds released by DILG-CO to DILG-ROs through LGA amounting to P63,316,343.01 for the implementation of various DILG programs and activities. This manner is deemed circuitous considering that the Department can release such funds directly to its ROs. Funds could have been downloaded directly to DILG-ROs to implement activities/programs for which the transfer was made. 
+
+
+
+	11)	Confirmation letters were sent to NGAs/LGUs/NGOs/CSOs to verify the correctness of the remaining balances recorded in the books. However, out of 59 confirmation letters sent, only 26 replies were received, of which only one IA has the same balance as recorded in the books. Other IAs have differences in the timing of recording, while majority claimed that they have fully liquidated the amounts reflected in the balances of LGA. 
+
+
+
+	12)	Due to this circuitous manner of releasing funds, some liquidation reports did not reach the LGA because these were allegedly submitted to either DILG or COA-IA. Hence, the liquidation of fund transfers for those NGAs/LGUs cannot be recorded accordingly. Difficulty in communicating with IAs and lack of coordination is evident in the replies to confirmation (Annex B). 
+
+
+
+	13)	We recommended that Management:
+
+
+
+a)	issue demand letters to IAs requiring the submission of liquidation reports and require the return of unused funds especially for long outstanding fund transfers (FTs); otherwise, strictly refrain from granting additional FTs unless previous CAs are first liquidated to minimize the accumulation of unliquidated balances;
+
+
+
+b)	revisit the MOA with the IAs to ensure that timelines/completion date of every project funded by the FT are indicated therein; and
+
+
+
+c)	coordinate with concerned ROs and LGUs and make necessary adjustments on the outstanding FTs based on the results of the confirmation.
+
+
+
+	14)	Management explained that they have been continuously sending demand letters to IAs for them to liquidate. Further, the Management emphasized that a regular coordination is also established with DILG-ROs via Local Governance Regional Resource Center (LGRRC) Quarterly Meetings and during these meetings, status of FTs is one of the major point of concern. During the exit conference, Management added that they are implementing internal control measures to prevent granting of additional FTs to IAs with low liquidation rate. 
+
+
+
+	15)	Auditor’s Rejoinder: 
+
+
+
+We maintain our position that Management continue to coordinate with IAs to reconcile records. Further, the LGA should also consider seeking assistance from the DILG Central Office in order to oblige the Regional Directors to fully liquidate prior years’ accumulated unliquidated fund transfers.
+
+
+
+
+
+B)	COMPLIANCE AUDIT
+
+
+
+Non-remittance of Trust Receipts to the National Treasury 
+
+
+
+5)	Unutilized fund balances/receipts from various sources totaling P19,111,308.61 intended for various purposes covering the period 2008 to 2020 were not remitted to the BTr or returned to Source Agencies (SAs) contrary to the provisions of Section 6 of the General Provisions of RA No. 11465 or the GAA for FY 2020 and EO No. 431 dated May 30, 2005.
+
+
+
+	1)	It is a declared policy by the State that unless otherwise specifically provided by law, all income collected by agencies of the government by virtue of the provisions of law, order and regulations shall be deposited with the National Treasury, and shall accrue to the unappropriated surplus of the General Fund of the Government. 
+
+
+
+	2)	Section 6 of General Provisions of the GAA (RA 11465) requires that the following be deposited to the National Treasury:
+
+
+
+a)	Receipts collected or received by departments, bureaus, offices and instrumentalities of the National Government, including Constitutional Offices enjoying fiscal autonomy and SUCs: (i) from non-tax sources, such as insurance proceeds, acting as trustee, agent or administrator; (ii) as guaranty for the fulfillment of an obligation; or (iii) donations authorized by law or contract with a term not exceeding one (1) year; and 
+
+
+
+b)	Those classified by law or regulations as trust receipts.
+
+
+
+	3)	EO No. 431 dated May 30, 2005, on the other hand, requires reversion of all dormant accounts, unnecessary special and trust funds to the General Fund and for other purposes.
+
+
+
+	4)	This was further clarified by the guidelines provided in COA Circular No. 2015-001 dated January 29, 2015 which prescribes that the head of the Accounting Unit of the NGA conduct thorough analysis of the cash accounts, providing cash mapping of cash accounts, special and trust funds maintained by the government agencies with AGDBs but without valid claimants, or are no longer necessary for the attainment of the purposes for which the said funds were established/received and/or the project implementation has been completed, terminated, cancelled or abandoned.
+
+
+
+	5)	As of December 31, 2020, the CIB-LCCA maintained by LGA with AGDB includes receipts accumulating to P19,111,308.61. This account is made up of receipts from various sources such as refunds of unused funds from IAs, receipt of funds from SAs/donors/financing entities, and others, to wit:  
+
+
+
+Date
+
+Payor
+
+Particulars
+
+Amount
+
+03/04/19
+
+ASEAN Plus Three Cooperation Fund (APTCF)
+
+Grant by ASEAN Plus Three Cooperation (Approved amount $197,502.20, Initial payment/transfer $177,751.9)
+
+9,133,093.64 
+
+8/30/19
+
+None
+
+Interest Income Less Withholding Taxes for the Quarter
+
+2,618.10 
+
+09/20/19
+
+DILG NCR Special Project LGA
+
+Refund of unutilized fund transfer 
+
+
+
+247,465.74 
+
+09/30/19
+
+Mandaue City 
+
+
+
+15,150.00 
+
+11/29/19
+
+
+
+None
+
+Interest Earned for the 3rd Quarter
+
+2,427.10 
+
+
+
+DILG Region XIII
+
+Refund of unutilized fund transfer
+
+
+
+127,069.89 
+
+12/31/19
+
+
+
+DILG BARMM
+
+
+
+
+
+1,000.00 
+
+
+
+
+
+
+
+1,330.00 
+
+
+
+
+
+
+
+4,330.00 
+
+
+
+
+
+
+
+337.00 
+
+
+
+
+
+
+
+2,417.02 
+
+
+
+Dangerous Drugs Board 
+
+Direct Deposit from Source Agency
+
+1,830,000.00 
+
+
+
+Region XIII
+
+Refund of unutilized fund transfer
+
+703.94 
+
+12/31/19
+
+
+
+None
+
+Interest Earned and Withholding Taxes for the Quarter
+
+3,038.45 
+
+02/21/20
+
+DILG Region VII
+
+Refund of unutilized fund transfer
+
+
+
+1,650,000.00 
+
+02/28/20
+
+DILG Region XI
+
+
+
+500,000.00 
+
+3/31/20
+
+
+
+DILG CAR
+
+
+
+500,000.00 
+
+
+
+DILG ARMM
+
+
+
+1,029,490.78 
+
+
+
+None
+
+Interest Earned Less Withholding Taxes
+
+3,408.87 
+
+6/30/20
+
+DILG CAR
+
+Refund of unutilized fund transfer
+
+
+
+500,000.00 
+
+6/30/20
+
+DILG CAR
+
+
+
+45,244.25 
+
+9/30/20
+
+None
+
+June 2020 Interest and Withholding Taxes
+
+3,485.13 
+
+9/30/20
+
+DILG Region X
+
+Refund of unutilized fund transfer
+
+2,607,945.95 
+
+Subtotal
+
+18,210,555.86 
+
+
+
+ 
+
+Other unaccounted amounts/ balances from 2008 to date
+
+900,752.75 
+
+Grand Total
+
+19,111,308.61 
+
+
+
+	6)	It should be noted that the grant from ASEAN amounting to P9,133,093.64 for the implementation of the project entitled, "Baseline Study on Governance Systems among ASEAN Plus Three Countries" was made last March 2019. However, it was observed that the grant remained unutilized for more than one year.
+
+
+
+	7)	We recommended that Management require the Accounting Section to: 
+
+
+
+a)	determine proper disposition of all cash balances of LGA as prescribed in COA Circular No. 2015-001 dated January 29, 2015;
+
+
+
+b)	prepare the DV and check to support the withdrawal of fund from the AGDB and subsequently remit the same to the BTr or return to the SA; and
+
+
+
+c)	in case of grants from foreign donors, determine from the attendant agreement if unused funds are required to be returned to the grantor.
+
+
+
+	8)	Management commented that they have exhausted efforts to scrutinize the details of DILG-LGA Account No. 0672-1075-12 and all funds found subject for refund/return were already remitted and recorded accordingly. With regard to the grant from ASEAN amounting to P9,133,093.64 for the implementation of the project entitled, “Baseline Study on Governance Systems among ASEAN Plus Three Countries”, Management clarified that the project is supposed to be fully implemented last 2020. However, due to the pandemic, the project implementation was halted. A request for extension for its implementation was already made to ASEAN and awaiting the official document of approval.
+
+
+
+	9)	Auditor’s Rejoinder
+
+
+
+JEVs covering the remittance of dormant fund balances to the BTr are not yet submitted to the Audit Team for validation and audit purposes.
+
+
+
+
+
+
+
+Delayed submission of Bank Reconciliation Statements
+
+
+
+6)	Bank Reconciliation Statements (BRS) were not submitted to COA within the prescribed period, contrary to Section 5, Chapter 21 of GAM for NGAs, Volume I, thereby precluding the Audit Team from conducting timely audit of accounts and informing the Management of any deficiencies or errors that may be noted thereat.
+
+		
+
+	1)	The BRS shall be prepared in order to check correctness of both the bank’s and agency’s/entity’s records, to prevent fraud and to enable the agency/entity or bank to take up charges or credits recognized by the bank or agency/entity but not yet known to the agency/entity or bank.   
+
+	
+
+	2)	Section 74 of PD 1445 requires the agency head to see to it that reconciliation is made between the balance shown in the reports of the depositary banks and that in the books of accounts of the agency.
+
+	
+
+	3)	Preparation of the BRS as discussed in Section 5, Chapter 21 of the GAM for NGAs, Volume I requires that the Chief Accountant/Designated Staff shall within ten days from receipt of the monthly Bank Statement (BS) together with the paid checks, original copies of Debit Memoranda (DM)/Credit Memoranda (CM) from the GSB, reconcile the BS with the GL and prepare the BRS in four copies.
+
+		
+
+	4)	The Chief Accountant/Designated Staff shall then prepare a JEV to recognize all reconciling items that require adjustment and correction in the books of accounts. The BRS shall be submitted within 20 days after receipt of the monthly BS to the following: 
+
+	
+
+	Original – COA Auditor (with all the supporting documents and JEVs) 
+
+	Copy 2 –  Head of Agency/Entity 
+
+	Copy 3 –  Accounting Division/Unit file 
+
+	Copy 4 –  Bank, if necessary 
+
+	
+
+	5)	The BRS as of December 31, 2020 should have been submitted to the Audit Team last January 20, 2021. However, to date the latest BRS submitted are only up to March 2020 and August 2020. Details are as follows: 
+
+ 
+
+Account Number
+
+Latest BRS Submitted
+
+Book Balance
+
+2067-9004-41
+
+March 2020
+
+                        -   
+
+0672-1075-12
+
+August 2020
+
+P     17,012,073.47 
+
+0672-1093-96
+
+August 2020
+
+       3,286,651.96 
+
+0672-1091-91
+
+August 2020
+
+     24,870,479.80 
+
+0672-1092-13
+
+August 2020
+
+            93,704.00 
+
+	
+
+	6)	Inquiry with the personnel concerned, BS are hard to obtain from the bank especially in the midst of the COVID-19 pandemic.
+
+	
+
+	7)	BRS, among others served as proof that cash exist. To be effective, the BRS should be accurate and prepared on time. Reconciling items needing adjustments should be done immediately to ensure correctness of balances of affected accounts.
+
+	
+
+	8)	We recommended that Management exhaust all efforts to obtain copies of BS and immediately prepare and submit the BRS in order to address possible lapses and deficiencies that could be found thereof.
+
+
+
+	9)	Management has already submitted the remaining BRS for December 2020 except for MDS Account No. 2067-9004-41.  Management commented that they are in resolute communication with the AGDB, Landbank of the Philippines (LBP), Pasig Capitol Branch for the immediate release of the December 2020 BS.  They further commented that they have also tried to secure the weAccess (Institutional Internet Banking) online facility even before the pandemic broke out.  However, there has been difficulty of securing signatures of the Board of Trustees of the Academy. 
+
+
+
+	Programs/Projects Related to Gender and Development (GAD) 
+
+
+
+7)		The LGA failed to secure endorsement of the GAD Plan and Budget (GPB) for CY 2020 from the Philippine Commission on Women (PCW) and the corresponding Accomplishment Report (AR) thereof were not submitted to the Audit Team contrary to Section 31 of the GAA for CY 2020 and COA Circular No. 2014-001 dated March 18, 2014. 
+
+	
+
+	1)		Section 31 of the General Provisions of the GAA for FY 2020 provides that: 
+
+	
+
+	All agencies of the Government shall formulate a Gender and Development (GAD) Plan designed to address gender issues within their concerned sectors or mandate and implement the applicable provisions under R.A No. 9170 of the Magna Carta of Women, Convention on the Elimination of All Forms of Discrimination Against Women, the Beijing Platform for Action, the Philippine Plan for Gender-Responsive Development (1995-2025) and the Philippine Development Plan (2017-2022).
+
+	
+
+	2)		Section V of COA Circular No. 2014-001 dated March 18, 2014 further requires that:
+
+	
+
+	The audited agency shall submit a copy of the Annual GAD Plan and Budget to the Audit team assigned to the agency within five (5) working days from the receipt of the approved plan from the PCW or their mother or central offices, as the case maybe.  Likewise, a copy of the corresponding Accomplishment Report shall be furnished to the said audit team within five (5) working days from the end of January of the preceding year.
+
+	
+
+	3)		For CY 2020, the GAD Focal Person failed to secure endorsement of its GPB for CY 2020 from the PCW contrary to the provisions cited above. Consequently, the Management failed to submit it GPB CY 2020 to the Audit Team while corresponding Accomplishment Report (AR) was not submitted for review and validation, contrary to the provisions of COA Circular No. 2014-001 dated March 18, 2014. 
+
+	
+
+	4)		We recommended that the GAD Focal Point Person immediately submit copies of the GPB as approved by PCW and the corresponding Report of Accomplishments to the Audit Team in accordance with existing laws and regulations. 
+
+
+
+	5)		Management admitted their lapses relative to the Programs/Projects concerning GAD and therefore committed to submit GAD Accomplishment Reports of the agency. 
+
+	
+
+	
+
+	Programs/Projects in support of Senior Citizens and Persons with Disability
+
+	
+
+8)		The LGA failed to prepare plans, programs and projects for senior citizens (SCs) and person with disabilities (PWDs), as required under Section 32 of the General Provisions of the GAA FY 2020.
+
+	
+
+	1)		Section 32 of the General Provisions of the GAA for CY 2020, requires that: 
+
+	
+
+	“All agencies of the government shall formulate plans, programs and projects intended to address the concerns of senior citizens and person with disability, insofar as it relates to their mandated functions, and integrate the same in their regular activities.”
+
+	
+
+	2)		The LGA failed to prepare and submit plans, programs, and projects intended to address the concerns of the SCs and PWDs as required in the above-cited provision of the GAA.
+
+
+
+	3)		We reiterated our prior year’s recommendation that Management comply with the provision of Section 32 of the GAA. 
+
+
+
+	4)		Management commented that they are still looking for ways to be able to provide/conduct programs/projects for SCs and PWDs
+
+
+
+
+
+
+
+
+
+Report on COVID-19 Funds and Related Expenses 
+
+
+
+9)	COVID-19 Hazard Pay amounting to P1,164,000.00 was granted to LGA employees, contract of service (COS) and job order (JO) personnel, who physically reported for work during the period of implementation of the ECQ. The payment was compliant to the parameters set under Section 2 of AO No. 26 of 2020 dated March 23, 2020. 
+
+
+
+	1)	On March 8, 2020, through Proclamation No. 922 by the President of the Philippines, a state of public health emergency throughout the Philippines was declared due to the COVID-19 pandemic, threatening national security. The declaration enabled the government agencies and LGUs to immediately act to prevent loss of life by utilizing appropriate resources to implement urgent and critical measures to contain and prevent the spread of COVID-19, mitigate its effects and impact to the community, and prevent serious disruption of the functioning of the government and the community. 
+
+
+
+	2)	Relative thereto, the LGA realigned a total of P4,532,600.27 of its Regular Agency funds and incurred COVID-19 related expenses amounting P4,316,123.06 (Details are shown in Annex C).
+
+
+
+	3)	Further, on March 23, 2020, AO No. 26 was issued authorizing the grant of Hazard Pay to government personnel who physically report for work during the period of implementation of an Enhanced Community Quarantine (ECQ) relative to COVID-19 pandemic subject to the following conditions under Section 2 thereof: 
+
+
+
+Conditions on the Grant of the COVID-19 Hazard Pay:
+
+
+
+a)	The personnel are occupying regular, contractual of casual positions or are engaged through contract of service (COS), job order (JO) or other similar schemes;
+
+
+
+b)	The personnel have been authorized to physically report for work at their respective working hours by the head of agency or office during the implementation of Enhanced Community Quarantine (ECQ) measures in the area of such office or workstation; and
+
+
+
+c.	The rate of COVID-19 hazard pay shall be based on the number of days an employee physically reports for work.
+
+
+
+	4)	The LGA, an attached agency under the DILG, responsible for human resource development and training of local government officials and the department personnel, rendered services in the midst of pandemic and therefore granted COVID-19 Hazard Pay to LGA employees, contract of service and job order personnel totaling P1,164,000.00 for the period March 17, 2020 to May 31, 2020 and August 4 to August 18, 2020. Details are as follows: 
+
+
+
+Period Covered
+
+Quarantine Measure
+
+Amount of COVID-19 Hazard Pay Granted
+
+
+
+LGA
+
+LGA-TC
+
+
+
+March 17 to 31, 2020
+
+ECQ
+
+ECQ
+
+P          169,000.00 
+
+April 1 to 15, 2020
+
+ECQ
+
+ECQ
+
+179,000.00 
+
+April 16 to 30, 2020
+
+ECQ
+
+ECQ
+
+217,000.00 
+
+May 1 to 15, 2020
+
+ECQ
+
+ECQ
+
+239,500.00 
+
+May 16 to 31, 2020
+
+MECQ*
+
+MECQ*
+
+142,500.00 
+
+August 4 to 18, 2020
+
+MECQ*
+
+MECQ*
+
+217,000.00 
+
+TOTAL
+
+
+
+
+
+P      1,164,000.00 
+
+*MECQ (Modified Enhanced Community Quarantine)
+
+
+
+	5)	Scrutiny of documents submitted to the Audit Team revealed that various trainings, meetings and fora were still conducted in the Academy despite the implementation of the ECQ in Metro Manila and Laguna.  Some pertinent activities are, but not limited to the following:  
+
+
+
+a)	Workshop: Revisiting the LGA Strategic Plan (2019-2023)
+
+b)	Various Listong Ugnayan COVID-19 ay Labanan Online Talakayan
+
+--	Online Discussion with DILG Officials and Field Officers
+
+--	Online Discussion with LGU Officials and Functionaries
+
+
+
+	6)	It was noted that the claim for COVID-19 Hazard Pay during implementation of Modified Enhanced Community Quarantine (MECQ) from May 16 to 31, 2020 and August 4 to 18, 2020 were supported with clarification from DBM allowing such grant.
+
+
+
+	7)	Therefore, based on the work performed described in this report, nothing has come to the attention of the Audit Team on non-compliance by the LGA, in all material respects, with Section 2 of AO No. 26 of 2020 dated March 23, 2020.
+
+	
+
+	Statement of Audit Suspensions, Disallowances and Charges (SASDC)
+
+	
+
+	For CY 2020, no Notice of Disallowance/Notice of Suspension/Notice of Charge was issued to the Academy. 
+
+	
+
+	Compliance with Tax Laws (RA 8291 (GSIS), RA 9679 (Pag-IBIG), RA 7875 (PhilHealth)
+
+	
+
+	The Academy is compliant with the existing laws on the withholding of taxes, GSIS, Pag-IBIG and PhilHealth contributions from salaries of personnel, remitting the same regularly with balances as of December 31, 2020 as follows: 
+
+	
+
+Account
+
+Balances
+
+
+
+January 1, 2020
+
+ Withheld 
+
+ Remittance 
+
+December 31, 2020
+
+Due to BIR
+
+2,304,385.10
+
+8,191,766.21 
+
+8,069,447.13 
+
+2,426,704.18 
+
+Due to GSIS
+
+329,131.89
+
+4,132,238.94 
+
+3,880,144.68 
+
+581,226.15 
+
+Due to Pag-IBIG
+
+669.93
+
+1,144,280.71 
+
+1,074,289.30 
+
+1,500.00 
+
+Due to PhilHealth
+
+43,312.11
+
+346,326.66 
+
+343,422.18 
+
+46,216.59 
+
+TOTAL
+
+2,677,499.03
+
+13,814,612.52 
+
+13,367,303.29 
+
+3,055,646.92
+
+	
+
+	Due to BIR - Out of P2,426,704.18 balance, the amount of P1,694,461.24 was remitted in January 2021 with details as follows: 
+
+	
+
+Tax Remittance Advice (TRA) 
+
+Serial No./Reference No.
+
+Amount of Remittance
+
+07B0432021385339/172100039533414
+
+      518,471.79 
+
+07B0432021385330/012100039533260
+
+        247,058.01
+
+07B0432021385378/402100039533943
+
+      928,931.44 
+
+Total Remittance
+
+1,694,461.24
+
+	
+
+	Due to GSIS – Out of the P581,226.15 balance, P18,926.28 was remitted in February 2021. The amount of P549,564.53 was not remitted due to pending approval of the Agency Remittance Advice (ARA) of the Academy for those with increase in salaries due to promotion and Salary and Standardization Law (SSL) while the remaining balance of P12,735.40 is subject to verification and adjustment.
+
+	
+
+	Due to Pag-IBIG – The remaining balance of P1,500.00   is subject to verification and adjustment.
+
+	
+
+	Due to PhilHealth – Out of P46,216.59, the amount of P1,447.91 was remitted in February 2021, while the remaining P44,768.68 is subject to verification and adjustment.
+
+
+
+	Marawi/Yolanda Funds
+
+
+
+The LGA did not receive Marawi or Yolanda Funds for CY 2020.
+
+	
+
+	National Task Force to End Local Communist Armed Conflict (NTF-ELCAC) Funds
+
+
+
+	The LGA did not receive ELCAC Funds for CY 2020. 
+
+39
+
+
+
+
+
+
+
+
+

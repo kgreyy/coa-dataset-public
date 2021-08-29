@@ -1,0 +1,1387 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+36 
+
+  
+
+OBSERVATIONS AND RECOMMENDATIONS 
+
+ 
+
+ 
+
+A. Financial Audit 
+ 
+
+Non-recording of the Inventory issued – P113.597 million 
+
+1. There were unrecorded issued Inventory totaling P113,597,619.48 due to the non-
+preparation and monthly submission of the Report of Supplies and Materials 
+
+Issued by the Property and/or Supply Custodian to the Accounting Division as 
+
+basis in preparing the Journal Entry Voucher to record the supplies and 
+
+materials issued, resulting in overstatement of the Inventories and Accumulated 
+
+Surplus accounts by the same amount as at December 31, 2020. 
+
+ 
+
+Section 7, Chapter 8 of the Government Accounting Manual (GAM) Volume I, in 
+
+consonance with Paragraph 43 of IPSAS 12 provides that “when inventories are sold, 
+
+exchanged or distributed, the carrying amount of those inventories shall be 
+
+recognized as an expense in the period in which the related revenue is recognized. If 
+
+there is no related revenue, the expense is recognized when the goods are distributed 
+
+or the related service is rendered.” 
+
+ 
+
+Other applicable provisions under Chapter 8, of the GAM, Volume 1 are as 
+
+follows: 
+
+ 
+
+Section 13. Inventory Accounting System. The Inventory Accounting System 
+
+consists of the system of monitoring, controlling and recording of acquisition 
+
+and disposal of inventory. Physical count/inventory, which is required semi-
+
+annually, is an indispensable procedure for checking the integrity of property 
+
+custodianship. 
+
+ 
+
+Section 17 – Records, Forms and Reports to be prepared and/or maintained.  
+
+The following records, forms and reports are prescribed for use: 
+
+ 
+
+a. Stock Card (SC) – shall be used to record all receipts and issues of 
+supplies and the balance in quantity at any time. It shall be maintained by the 
+
+Property and/or Supply Division/Unit for each item in stock. 
+
+ 
+
+b. Supplies Ledger Card (SLC) – shall be used to record materials received, 
+issued and the balance both in quantity and amount at any time.  It shall be 
+
+maintained by the Accounting Division/Unit for each kind of supplies and 
+
+materials. 
+
+ 
+
+c. Report of Supplies and Materials Issued (RSMI)– shall be prepared by 
+the Property and/or Supply Custodian based on the Requisition and Issue Slip 
+
+
+
+37 
+
+  
+
+and shall be used by the Accounting Division/Unit as basis in preparing the 
+
+Journal Entry Voucher (JEV) to record the supplies and materials issued. 
+
+ 
+
+Likewise, Appendix 64 requires that the Accounting Division/Unit and Supply 
+
+and/or Property Division/Unit shall conduct periodic reconciliation of the SLC 
+
+and SC to identify and adjust any discrepancy. 
+
+ 
+
+As at December 31, 2020, PDEA had a booked Inventory balance of 
+
+P141,248,104.71, which shows a discrepancy of P113.597,619.48 from the Report on 
+
+the Physical Count of Inventories (RPCI), broken down as follows: 
+
+ 
+Account Amount (P) 
+
+FS RPCI Difference 
+
+Office Supplies Inventory  19,816,458.64   357,890.82   19,458,567.82  
+
+Animal/Zoological Supplies 
+
+Inventory 
+ 4,472,589.90   -     4,472,589.90  
+
+Medical, Dental and Laboratory 
+
+Supplies Inventory 
+ 18,542,493.02   70,096.00  18,472,397.02  
+
+Fuel, Oil and Lubricants Inventory  1,072,930.73   -     1,072,930.73  
+
+Military, Police and Traffic 
+
+Supplies Inventory 
+ 52,244,683.03  
+
+ 
+
+13,887,947.40  
+ 38,356,735.63  
+
+Other Supplies and Materials 
+
+Inventory 
+ 26,335,080.71  
+
+ 
+
+10,499,851.01  
+ 15,835,229.70  
+
+Semi-Expendable Office 
+
+Equipment 
+ 234,361.44   -     234,361.44  
+
+Semi-Expendable ICT Equipment  4,963,313.07   -     4,963,313.07  
+
+Semi-Expendable Communications 
+
+Equipment 
+ 626,945.00   -     626,945.00  
+
+Semi-Expendable Military Police 
+
+Security Equipment 
+ 12,724,571.02   2,834,700.00   9,889,871.02  
+
+Semi-Expendable Medical 
+
+Equipment 
+ 71,920.00  -  71,920.00  
+
+Semi-Expendable Technical and 
+
+Scientific Equipment 
+ 5,600.00  -  5,600.00  
+
+Semi-Expendable Sports 
+
+Equipment 
+ 26,600.00  -  26,600.00  
+
+Semi-Expendable Books  558.15  -  558.15  
+
+Semi-Expendable Furniture and 
+
+Fixtures 
+ 110,000.00  -  110,000.00  
+
+Total 141,248,104.71 27,650,485.23  113,597,619.48 
+
+ 
+
+Our audit showed that the discrepancy between accounting records and the RPCI 
+
+amounting to P113,597,619.48 is composed of inventories already issued in the prior 
+
+years but still not recorded in the books. The failure of the Accounting Division/Unit 
+
+to record the issuance of the inventory was due to the non-preparation and monthly 
+
+submission of the RSMI by the Property and/or Supply Custodian. 
+
+ 
+
+
+
+38 
+
+  
+
+In addition, SLC were not regularly prepared/updated by Accounting 
+
+Division/Unit, resulting to difficulty in conducting a periodic reconciliation of the 
+
+SLC and SC to identify and adjust any discrepancy. 
+
+ 
+
+The non-recording of the issuance of inventory and non-preparation of the 
+
+required records and reports are contrary to the Section 7, 13 and 17 of the Chapter 8 
+
+of GAM Volume I and Paragraph 43 of IPSAS 12 and thus rendered Inventory 
+
+accounts overstated by P113,597,619.48 with corresponding overstatement of the 
+
+Accumulated Surplus account by the same amount. 
+ 
+
+We recommended and Management agreed to require the: 
+
+ 
+
+(a) Logistics and Administrative Management Services to monitor the 
+Property and/or Supply Office the preparation of the RSMI for all 
+
+issued inventory to be submitted to the Accounting division/Unit for 
+
+recording; and 
+
+ 
+
+(b) Accounting Division/Unit to: (i) regularly prepare/update the SLC for 
+each kind of supplies and materials; and (ii) prepare JEV to adjust the 
+
+unrecorded issuance of inventory upon submission of the required 
+
+documents by the Property and/or Supply Custodian. 
+
+ 
+
+ 
+
+B. Compliance Audit 
+ 
+
+Delayed liquidation of cash advances (CAs)   
+
+ 
+
+2. The balance of the Advances for Operating Expenses account had accumulated 
+to P11,356,694.19 as at year-end due to the delayed liquidation of CAs contrary 
+
+to the1 COA Circular No. 97-002 dated February 10, 1997 on the grant, 
+
+utilization and accounting of CAs; thus, making the CA susceptible to loss or 
+
+misuse or theft, while long-kept supporting documents might be misplaced. In 
+
+addition, the practice of waiting for the full utilization of the CA and refund of 
+
+the unused balance to close their accountabilities resulted to the total refunded 
+
+amount of P261,976.25 to the Bureau of the Treasury which reduced the cash 
+
+allocation of the agency. 
+
+ 
+
+COA Circular No. 97-002 dated February 10, 1997 requires that “the 
+
+Accountable Officer (AO) liquidate his cash advance for Petty Operating Expenses 
+
+and Field Operating Expenses within twenty days after the end of the year; subject to 
+
+replenishment as frequently as necessary during the year.” 
+
+ 
+
+Limitations on Cash Advance are provided under Section 89 of PD No. 1445 
+
+which states that “a cash advance shall be reported on and liquidated as soon as the 
+
+purpose for which it was given has been served.  No additional cash advance shall be 
+
+
+
+39 
+
+  
+
+allowed to any official or employee unless the previous cash advance give to him is 
+
+first settled or a proper accounting thereof is made.”  
+
+ 
+
+Advances for Operating Expenses of the agency were granted to the accountable 
+
+officers with the following timeline of utilization: 
+
+ 
+
+Kinds of Advances for OE Estimated Length of Utilization 
+
+MOOE  monthly 
+
+Gas allocation monthly 
+
+Petty cash solely for travel expenses 
+As soon as 75 percent was 
+
+disbursed 
+
+Cash advance for specific purpose 
+as soon as the purpose for which it 
+
+was given has been served 
+
+ 
+
+The amount of allocation for the CAs were estimated based on historical data. 
+
+Under PDEA internal policy, CAs for regular MOOE and Gas should be liquidated on 
+
+5th to – 8th day of the succeeding month, Petty Cash may be liquidated once 75 percent 
+
+was already disbursed and for Cash advance for specific purpose be liquidated as soon 
+
+as the purpose has been served. 
+
+ 
+
+For CY 2020, the agency granted 567 cash advances totaling P660,846,975.95 to 
+
+32 AOs of which, at year-end, 53 CAs amounting to P11,356,694.19 granted to 13 AO 
+
+remained unliquidated having delayed at an average of 182 days, as follows: 
+
+ 
+
+No. 
+Accountable 
+
+Officers 
+Region Date Granted Balances (P) 
+
+Days 
+
+delay 
+
+1 Margie T. Asejo 2 28-Jul-20 84,724.61 126 
+
+2 Karen Dale 3 03-Nov-20 135,000.00 28 
+
+3 Ma Glovie A 
+
+Angelias 
+4A 28-Jul-20 98,900.00 126 
+
+  
+
+14-Oct-20 813,622.95 48 
+
+  
+
+22-Oct-20 40,000.00 40 
+
+  
+
+03-Dec-20 851,872.95 1 
+
+4 Edna Cagaoan 6 13-Dec-19 976,000.00 365 
+
+  
+
+05-Dec-19 250,000.00 365 
+
+  
+
+22-Oct-20 40,000.00 30 
+
+  
+
+10-Nov-20 627,196.92 9 
+
+  
+
+07-Dec-20 649,246.92 1 
+
+5 Jeanette C Fua 8 22-Oct-20 40,000.00 30 
+
+6 Napoleon C 
+
+Calaoagan 
+9 13-Dec-19 89,900.00 365 
+
+  
+
+28-Jul-20 90,500.00 126 
+
+  
+
+22-Oct-20 40,000.00 70 
+
+  
+
+03-Dec-20 746,046.22 1 
+
+  
+
+04-Oct-19 900.00 424 
+
+7 Edelisa P Taher 10 11-Jun-20 350,000.00 173 
+
+8 Richard B Autor 12 28-Jul-20 89,900.00 126 
+
+  
+
+22-Oct-20 40,000.00 40 
+
+
+
+40 
+
+  
+
+No. 
+Accountable 
+
+Officers 
+Region Date Granted Balances (P) 
+
+Days 
+
+delay 
+
+9 Marcelina P Gorre 13 29-Oct-20 642,498.83 33 
+
+  
+
+02-Dec-20 662,498.83 1 
+
+10 Rilette Oximar Academy 15-Feb-19 34,860.00 655 
+
+ 
+
+08-Mar-19 178,600.00 634 
+
+ 
+
+28-May-19 60,360.00 553 
+
+ 
+
+23-Jan-20 453.00 313 
+
+ 
+
+11-Feb-20 336,900.00 294 
+
+ 
+
+07-Jul-20 9,100.00 147 
+
+11 Intan L Saidona ARMM 27-Sep-18 1,000,000.00 730 
+
+  
+
+10-Mar-20 3.82 295 
+
+  
+
+28-Jul-20 85,100.00 126 
+
+  
+
+22-Oct-20 40,000.00 40 
+
+  
+
+10-Dec-20 519,012.44 1 
+
+12 Lisa Rea Benito CAR 14-Oct-20 525,739.73 48 
+
+  
+
+22-Oct-20 40,000.00 30 
+
+  
+
+03-Dec-20 565,739.73 1 
+
+13 Alvin R. Yaptangco FMS 21-Mar-19 350.00 621 
+
+14-Jan-20 7,703.26 322 
+
+11-Feb-20 32,731.30 294 
+
+06-Jul-20 82,163.48 148 
+
+12-Aug-20 40,787.22 111 
+
+08-Oct-20 90,815.08 54 
+
+08-Oct-20 31,960.00 44 
+
+16-Nov-20 58,044.00 15 
+
+19-Oct-20 15,000.00 43 
+
+09-Nov-20 15,000.00 22 
+
+03-Dec-20 23,962.90 1 
+
+ 
+
+03-Dec-20 55,500.00 1 
+
+ 
+
+03-Dec-20 15,000.00 1 
+
+  
+
+15-Dec-20 15,000.00 1 
+
+  
+
+15-Dec-20 55,500.00 1 
+
+  
+
+15-Dec-20 55,500.00 1 
+
+  
+
+17-Dec-20 7,000.00 1 
+
+ 
+
+Total   
+
+ 
+
+11,356,694.19  
+
+  
+
+The above CAs were granted for the following purposes: 
+
+ 
+
+Particulars Date Granted 
+Age of 
+
+Outstanding CAs 
+Amount (P) 
+
+Admin Expense 
+December 2019 to 
+
+October 2020 
+3 - 12 months 728,524.61 
+
+Association Dues November 2020 2 months 135,000.00 
+
+Particulars Date Granted 
+
+Age of 
+
+Outstanding 
+
+CAs 
+
+Amount (P) 
+
+
+
+41 
+
+  
+
+PDEA Academy 
+
+Expenses 
+
+February 2019 to July 
+
+2020 
+5 to 22 months 620,273.00 
+
+Registration of 
+
+Vehicles 
+
+January to November 
+
+2020 
+1 to 11 months 344,204.34 
+
+Particulars Date Granted 
+
+Age of 
+
+Outstanding 
+
+CAs 
+
+Amount (P) 
+
+Maintenance and 
+
+other Operating 
+
+Expenses 
+
+October 2019 to 
+
+December 2020 
+0 to 15 months 7,928,692.24 
+
+Utilization of 
+
+Financial Assistance 
+
+December 2019 to 
+
+June 2020 
+7 to 12 months 600,000.00 
+
+Repair of Properties September 2018 25 months 1,000,000.00 
+
+Total 11,356,694.19 
+
+ 
+
+The delay in the liquidation were caused by delayed implementation of the 
+
+activities; incomplete supporting documents of the payments and existence of huge 
+
+unutilized balances after completion of the activity.  
+
+ 
+
+For the year, AOs had refunded a total of P261,976.25 unutilized balances in 
+
+order to close their accountabilities. This refunded amount reduced the available cash 
+
+allocation of the agency having returned to the general fund in the Bureau of the 
+
+Treasury. 
+
+ 
+
+The granting of numerous cash advances for specific purposes which piled up the 
+
+cash in the hands of the AOs may also lead to: 
+
+ 
+
+ the availability of huge balances at the hand of the AOs is susceptible to 
+misuse of funds; 
+
+ difficulty in the safekeeping of cash on hands and supporting documents; 
+
+ CAs cannot be liquidated until all activities are completed; and 
+
+ difficulty in tracking the transactions pertaining to specific cash advance 
+ 
+
+We reiterated our prior year’s recommendation and Management agreed to 
+
+study the possibility of assigning one AO per region instead of different AO for 
+
+different purposes and maintain the CA on replenishment method of liquidation 
+
+for the regular cash advances. 
+
+ 
+
+Management’s study for the possibility of granting one AO per region to maintain 
+
+the CA on replenishment method instead of different AOs for different purposes, 
+
+which was the Audit Team’s recommendation in prior years, is still on-going. In 
+
+preparation, management conducted a workshop attended by different AOs and 
+
+Administrative Officers from the regional offices regarding the liquidation of cash 
+
+advances. 
+
+ 
+
+
+
+42 
+
+  
+
+ 
+
+Dormant Accounts 
+
+ 
+
+3. The accuracy and reliability of the year-end balance of the Due from GOCCs 
+account amounting to P5,549,046.83 is doubtful due to Management’s failure to 
+
+conduct a periodic verification and analysis of the unliquidated fund transfer 
+
+resulting to its being dormant which remained unsettled and outstanding in the 
+
+books for more than 10 years with no possibility of collection and were not acted 
+
+upon contrary to COA Circular No. 2016-05. 
+
+ 
+
+COA Circular No. 2016-005 dated December 19, 2016 prescribed guidelines and 
+
+procedures on the write-off of dormant receivable accounts, unliquidated cash 
+
+advances and fund transfer of NGAs, Local Government Units (LGUs) and GOCCs 
+
+with the following applicable provisions: 
+
+ 
+
+Item 6.1 - All government entities shall conduct regular monitoring and analysis 
+
+of receivable accounts to ensure that these are collected when these become due 
+
+and demandable…x x X” 
+
+ 
+
+Item 7.1 and 7.2 – The Accountant shall conduct regular and periodic 
+
+verification, analysis, and validation of the existence of the receivables, 
+
+unliquidated cash advances, and fund transfers, and determine the concerned 
+
+debtors, accountable officers (Regular and Special Disbursing Officers, 
+
+Collecting Officers, Cashiers) and the source and implementing government 
+
+entities concerned; Reconcile the unliquidated fund transfers between the source 
+
+and implementing government entities, prepare the adjusting entries for the 
+
+reconciling items noted, and require liquidation of the balances; 
+
+ 
+
+Item 8.2 and 8.3 - the Head of the Agency shall file the request for authority to 
+
+write-off dormant receivable accounts, unliquidated cash advances, and fund 
+
+transfers and shall be supported by the following documents: 
+
+ 
+
+a. Schedule of dormant accounts by accountable officer/debtor/government 
+entity and by account, certified by the accountant and approved by the 
+
+Head of the government entity;  
+
+b. Certified relevant documents validating the existence of the conditions, as 
+applicable, such as: 
+
+c. Death Certificate issued by Philippine Statistics Authority (formerly 
+National Statistics Office) 
+
+d. Proof of Insolvency 
+e.   Certification from the Department of Trade and Industry that the debtor has 
+
+no registered business 
+
+f. Certification from the Securities and Exchange Commission that the 
+Corporation is no longer active 
+
+
+
+43 
+
+  
+
+g. Certificate of no residence in the barangay of the municipality/city of last 
+known address 
+
+h. Proof of exhaustion of all remedies to collect the receivables and demand to 
+liquidate the cash advances and funds transfer, such as but not limited to 
+
+copies of served or returned demand letters  
+
+i. Certification by Legal Officer of the entity of no pending case relative to 
+the account 
+
+j. Certification by the responsible officials of the entity to the effect that there 
+are no records/documents available to validate claim 
+
+k. Other justifications, like in the case of request for write off due to loss of 
+documents, the circumstances of the loss should be stated in the letter 
+
+request 
+
+    
+
+As of December 31, 2020, the year-end balance of Due from GOCCs accounts 
+
+amounting to P5,549,046.83 is composed of advance payment for the procurement of 
+
+various items from Philippine International Trading Corporation (PITC) which 
+
+remained outstanding for more than 10 years presented as follows: 
+
+ 
+
+Purpose 
+Date 
+
+Granted 
+
+ Unliquidated 
+
+Amount (P) 
+Age 
+
+Procurement of Office Equipment 23/12/2008       147,961.70  12 years  
+
+Procurement of K9 Dogs 23/12/2008    1,132,432.70  12 years  
+
+Procurement of Laboratory Equipment 12/08/2009    2,519,954.05  11 years 4 mos 
+
+Procurement of Military Equipment 27/08/2009         16,857.60  11 years 4 mos 
+
+Procurement of Military Supplies 22/12/2009         66,351.67  12 years  
+
+Procurement of ICT Equipment 25/03/2010         39,718.52  10 years 9 mos 
+
+Procurement of Laboratory Equipment 28/12/2010         33,912.33  10 years 9 mos 
+
+Procurement of Laboratory Equipment 23/12/2009           6,075.16  12 years  
+
+Procurement of Fabricated Armory 23/12/2009       305,092.80  12 years  
+
+Renovation of EIIB Building (RO I, V, 
+
+VI, VII, XI and CAR) 
+23/12/2008    1,280,690.30  12 years  
+
+Total       5,549,046.83    
+
+ 
+
+Management stated that the above cash advance to PITC were already liquidated, 
+
+however, the amounts per liquidation together with supporting documents are not 
+
+reconciled with the total CA leaving an unliquidated balance which remain 
+
+outstanding for more than 10 years. 
+
+ 
+
+This could have been prevented if the Management did not fail to regularly 
+
+coordinate with the PITC to fully utilize the outstanding balance and/or require the 
+
+submission of remaining liquidating documents. 
+
+ 
+
+The inclusion of the above dormant accounts results to doubt the accuracy, 
+
+reliability and fair presentation of the Due from GOCCs account in the Financial 
+
+Statements. 
+
+
+
+44 
+
+  
+
+ 
+
+We recommended and Management agreed to expedite the evaluation of all 
+
+overdue accounts to determine proper disposition and request authority to write-
+
+off, if warranted. 
+
+ 
+
+ 
+
+Compliance with the Gender and Development (GAD) Program 
+
+ 
+
+4. For CY 2020, PDEA accomplished its targeted GAD activities, thus, attaining its 
+objectives.  It spent a total of P312,555,524.26 which was equivalent to 10.71 percent 
+
+to its total allotment in accordance with the general provisions of the General 
+
+Appropriation Act. Its targets and accomplishments are summarized below: 
+
+ 
+
+GAD Activity 
+
+Outputs Amount (P) 
+
+Target Actual Fund Allocated 
+Amount 
+
+Utilized 
+
+Client-Focused 
+
+Operation of the 
+
+PDEA Welfare 
+
+desk for children 
+
+And women 
+
+involved in Illegal 
+
+Drug Activities 
+
+Number of 
+
+Designated 
+
+Children and 
+
+Women Welfare 
+
+Officer – 34 
+
+Designated 
+
+Children and 
+
+Women Welfare 
+
+Officer 
+
+ 
+
+67 Designated 
+
+Children and 
+
+Women Welfare 
+
+Officer  
+
+13,077,624.0  
+
+ 
+
+ 
+
+ 
+
+237,003,300.00 
+
+Percentage 
+
+of Female Drug 
+
+Enforcement 
+
+Officer – at least 
+
+30% of Drug 
+
+Enforcement 
+
+Officer is Female 
+
+37.09% of Drug 
+
+Enforcement 
+
+Officer is Female 
+
+236,000,000.00 
+
+Organization Focused 
+
+Training and 
+
+Seminars related 
+
+to Enhancement of 
+
+the Performance of 
+
+the Agency 
+
+Percentage 
+
+of Female 
+
+participants in Drug 
+
+Related Trainings 
+
+Conducted by the 
+
+Agency - at least 
+
+40% of participants 
+
+in Drug Related 
+
+Trainings 
+
+conducted by the 
+
+Agency 
+
+49% of 
+
+Participants in 
+
+Drug Related 
+
+Trainings 
+
+conducted by the 
+
+Agency 
+
+10,070,849.49 12,955,720.13 
+
+Conduct of Anti-
+
+Illegal Drug 
+
+Advocacy 
+
+Campaign 
+
+Dangerous Drugs 
+
+  15,000,000.00 18,495,096.00 
+
+
+
+45 
+
+  
+
+GAD Activity 
+
+Outputs Amount (P) 
+
+Target Actual Fund Allocated 
+Amount 
+
+Utilized 
+
+Supply Reduction 
+
+and Suppression 
+
+Operation of the 
+
+Task Force 
+
+Drug Couriers 
+
+(TFDC)Supply 
+
+of Illegal Drugs 
+
+Suppressed 
+
+  5,000,000.00 7,142,472.00 
+
+Training and 
+
+Seminars related to 
+
+Enhancement of the 
+
+Performance of the 
+
+Agency 
+
+  10,070,849.49 12,955,720.13 
+
+Total 289,219,322.98 288,552,308.26 
+
+ 
+
+ 
+
+Programs and Projects related to Senior Citizens and Differently-abled Persons  
+
+ 
+
+5. PDEA implemented the following programs/projects for senior citizens and 
+differently-abled employees: 
+
+ 
+
+a. Anti-drug abused lectures to the special population which included PWDs and 
+Senior Citizens. 
+
+ 
+
+b. Empowerment, employment and hiring of qualified personnel without prejudice 
+to disabilities. 
+
+ 
+
+c. Health and wellness program for PDEA personnel. 
+ 
+
+ 
+
+Compliance with the Property Insurance Law  
+
+ 
+
+6. PDEA paid a total of P1,894,532.31 as premiums on the insurance of its PPE 
+covering the period May 2, 2020 – May 2, 2021. 
+
+ 
+
+RA. No. 656, as amended by PD No. 245, mandates all government agencies to 
+
+insure all their insurable properties, assets and interests with the General Insurance 
+
+(GIF) of the GSIS in order to indemnify the government from any loss or damage to 
+
+property against loss due to fire, earthquake, storm or other fortuitous event. 
+
+ 
+
+Sec. 17 of RA No. 10607 states that the measure of an insurable interest in 
+
+property is the extent to which the insured might be indemnified by loss or injury 
+
+thereof. 
+
+
+
+46 
+
+  
+
+ 
+
+The abovementioned rules and regulations emphasized Management’s 
+
+responsibility for safeguarding its assets from loss and wastage with the due diligence 
+
+of a good father of family. 
+
+ 
+
+Verification disclosed that all insurable properties, assets and interests of PDEA 
+
+were adequately insured with GIF administered by GSIS. 
+
+ 
+
+ 
+
+Compliance with Tax Laws 
+
+ 
+
+7. PDEA complied with the requirements under DBM and Department of Finance (DOF) 
+Joint Circular No. 1-2000A dated July 31, 2001 on the withholding and remittance of 
+
+taxes.  For CY 2020, PDEA withheld P118,975,730.92 and remitted P96,286,335.15 
+
+on salaries and other compensation and P22,689,395.77 on procurement of goods and 
+
+services for a total of P118,975,730.92 leaving an unremitted tax withheld of P0. 
+
+ 
+
+ 
+
+Compliance with GSIS Premium Deductions and Remittances 
+
+ 
+
+8. Of the P185,676,166.77 GSIS premiums withheld from compensations, 
+P152,849,179.00 was remitted during the year leaving a balance of P32,826,987.77. 
+
+This was remitted on January 7, 2021.  
+ 
+
+ 
+
+Compliance with the Pag-IBIG Fund Law 
+
+ 
+
+9. Of the P15,947,043.41 Pag-IBIG contributions withheld from compensations, 
+P8,024,697.05 was remitted during the year leaving a balance of P7,922,346.36. This 
+
+was remitted on January 7, 2021.  
+
+ 
+
+Disaster Risk Reduction and Management 
+
+ 
+
+10. The PDEA participated in the Nationwide Simultaneous Earthquake Drill (NSED) 
+conducted annually in compliance with Section 35 of the General Provisions of the GAA 
+
+of 2020. 
+
+ 
+
+  
+
+
+
+47 
+
+  
+
+COVID-19 Releases and Utilization 
+
+                
+
+11. PDEA was not a recipient of the COVID-19 fund; however, in CY 2020, the Agency, 
+under RA No. 11469 – Bayanihan to Heal as One Act, for the protection of its 
+
+manpower from the COVID 19 pandemic, incurred the following expenses charged to 
+
+its regular MOOE allotments: 
+
+ 
+
+Particulars Amount(P) 
+
+Procurement of Personal Protective Equipment 97,250.00 
+
+Various Medical Supplies, Scanners and Disinfection 
+
+Services 
+
+2,370,699.19 
+
+Installation of Rapid Testing Holding Area 63,267.50 
+
+Total 2,531,216.69 
+
+ 
+
+ 
+
+NTF-ELCAC 
+
+                
+
+12. For CY 2020, the PDEA had no NTF-ELCAC fund received from DBM or any other 
+sources. 
+
+ 
+
+C. Others 
+ 
+
+Status of Audit Suspensions, Disallowances and Charges 
+
+  
+
+13. No Notice of Suspension, Disallowance and Charge was issued to the PDEA in CY 
+2020. 
+
+ 
+
+Fund Utilization Rate 
+  
+
+14. Of the total appropriations and allotment in CY 2020 amounting to P2,969,973,217.00 
+and P2,919,673,217.00, respectively, 99.90 percent or P2,916,639,075.45, was 
+
+obligated and 84.36 percent or P2,463,006,753.24 was disbursed. Summary is shown 
+
+in the next page: 
+
+ 
+Particulars Allotment Obligated Disbursed  % Obligated % Disbursed   
+
+ In million pesos   
+
+PS 1,319 1,319 1,319 100 100 
+
+MOOE 830 830 826 100 100 
+
+CO 475 472 22   99     5 
+
+Automatic 
+
+Appropriations 
+32 32 32 100 100 
+
+Special 
+
+Purpose Fund 
+264 264 264 100 100 
+
+Total 2,920 2,917 2,463 99.90 84.36 
+
+ 
+
+

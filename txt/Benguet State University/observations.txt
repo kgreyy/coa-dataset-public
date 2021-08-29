@@ -1,0 +1,3144 @@
+Part II – Observations and Recommendations
+
+
+
+
+
+Cash and Cash Equivalents
+
+
+
+1)	The CRRec prescribed under the Government Accounting Manual (GAM), Volume II is not being properly maintained by the Cashiering Section; thus, rendering the determination of actual balances of collections at any given time and unnecessary delay in the reconciliation of variances which have accumulated to ₱5,059,569.83 at the time of cash examination, as compared against the Subsidiary Ledger (SL) balances of pertinent funds.
+
+
+
+	1)	Sequence No. 3 of Section 40, GAM, Volume I, the detailed procedures for Collections and Deposits through the Collecting Officer (CO), provides among others, that the CO shall record his/her collections in the Cash Receipts Record (CRRec), Appendix 29 of the GAM Volume II.  The same is required under the GAM for the AO to monitor his accountability and to record the necessary adjustments therein.
+
+
+
+	2)	Cash examinations on the accounts of the University Cashier disclosed that CRRec did not include the following details necessary for verification purposes, to wit:
+
+
+
+	a)	Serial numbers of Official Receipts (OR) issued;
+
+	b)	Dates when ORs were issued or collections were received;
+
+	c)	Names of payors;
+
+	d)	Nature of collections; and
+
+	e)	Monthly totals of collections, deposits and undeposited collections.
+
+
+
+	3)	The monthly CRRec maintained at the Cashiering Section only show summary totals of daily collections without the details as previously mentioned; thus, making it difficult and time consuming in tracing variances between the CRRec and the SLs as experienced by the audit team. 
+
+
+
+	4)	Data gathered revealed the following total accumulated reconciling items as of the audit date:
+
+
+
+Fund Cluster
+
+Amount
+
+Remarks
+
+Cluster 01 - F 101
+
+₱       31,087.17
+
+2 reconciling items
+
+Cluster 05 - F164
+
+277,839.85
+
+63 reconciling items 
+
+Cluster 06 - F161 & 163
+
+105,142.50
+
+9 reconciling items. These include prior years’ unreconciled balances totaling ₱84,812.50.
+
+Cluster 07 F911 SP
+
+  4,189,415.31
+
+14 reconciling items
+
+                  F911 Trust
+
+456,085.00
+
+11 reconciling items
+
+Total amount of Variances
+
+₱  5,059,569.83
+
+
+
+
+
+	5)	Further verification disclosed that an aggregate balance of ₱84,812.50 that have piled up prior to November 2017 and reflected in the SL of Cluster O6 (Fund 161 & 163 - Business Type Income) could not be traced to the CRRec because there were no particulars to base it on. 
+
+
+
+	6)	The Cashiering Section informed that they were using the Student Information Accounting System (SIAS) to record collections. However, it was noted that entries therein were not segregated by clusters. The SIAS was designed to facilitate the efficient preparation and submission of records and reports by the Cashier’s Office. The system has several templates to generate records, reports and schedules relative to collections, but, the templates for CRRec and Detailed Report of Collections and Deposits were disabled due to technical glitch in the System. The personnel in-charge of preparing the CRRec also justified that most of the time she was pre-occupied with her main tasks thus, admittedly, she could only update the CRRec when her primary tasks were done and made use of the summary totals of daily collections, instead of recording each transaction with all the details.
+
+
+
+	7)	The use of complete information that is provided by the CRRec facilitates verification and reconciliation of variances, if any, during cash audit. Similarly, updated and proper CRRec expedite the immediate detection and correction of over or under statement of entries in the SLs for proper adjustments.
+
+
+
+	8)	We recommended and Management agreed to:
+
+
+
+		1)	Require the Cashier to maintain updated CRRec in consonance with the requirements of the GAM, Volume II to facilitate reconciliation with the accounting section and to have a ready reference for his actual accountability at any given time;
+
+
+
+		2)	Instruct the Cashier to coordinate, if possible, with the entity representative/s who installed the SIAS for the activation of the templates for Cash Receipts Record and Detailed Report of Collections and Deposits including other templates that were disabled in the SIAS for efficient use of University fund spent for the installation of the system; 
+
+
+
+		3)	Instruct the Cashier to consider reviewing the current assigned tasks of each personnel at his office for possible individual load adjustment and, assign the preparation/update of CRREc based on the result of the assessment; and 
+
+
+
+		4)	Instruct the Accounting and the Cashiering Sections to undertake immediate reconciliation of their records to establish correctly the SL balance of affected funds particularly the variance of ₱5,059,569.83 that had not been adjusted to date.
+
+
+
+	9)	Additionally, Management committed to do the following:
+
+
+
+a)	Sustain the updating of records to have a ready reference for accountability;
+
+b)	Strengthen the control in the cashiering office; 
+
+c)	Strengthen the manual process of reporting to easily migrate to the new collecting system; and
+
+d)	Regular reconciliation of records of the cashiering sector and accounting sector.   
+
+
+
+2)	The non-preparation/submission of Bank Reconciliation Statement (BRS), which is contrary to Sections 5 and 7, Chapter 21 of the GAM, Vol. 1, resulted in non-detection of errors and prevented the prompt adjustment thereof.
+
+
+
+	1)	Section 74 of Presidential (PD) No. 1445 l requires that at the close of each month, depositories shall report to the agency head, in such form as he may direct, the condition of the agency account standing on their books. The head of the agency shall see to it that a reconciliation is made between the balance shown in the reports and the balance found in the books of the agency.
+
+
+
+	2)	Section 5, Chapter 21, Volume I of GAM states that “The Chief Accountant/Designated Staff shall within ten days from receipt of the monthly Bank Statement (BS) together with the paid checks, original copies of Debit Memoranda (DM)/Credit Memoranda (CM) from the GSB, reconcile the BS with the GL and prepare the BRS in four copies.”
+
+
+
+	3)	Section 7 Chapter 21, Volume I of GAM requires the submission of BRS by the Chief Accountant within twenty days after the receipt of monthly BS to the COA Auditor (with supporting documents and JEVs), Head of the Agency/Entity, Accounting Division/Unit file, Bank, if necessary.
+
+
+
+	4)	Analysis of the Cash in Bank – Local Currency, Current Account of BAPTC at year-end, with LBP account number 1372-0104-75 showed a balance of ₱33,534,763.57 in the subsidiary ledger (SL). Conversely, bank statement as of year-end displayed a balance of ₱42,419,298.65 resulting in a variance of ₱8,884,535.08. 
+
+
+
+	5)	Records, however, show that BRS were not prepared nor submitted to the audit team ever since the bank account with number LBP 1372-0104-75 was opened/created in October 2015 contrary to the foregoing provisions. It was noted that the former Accountant who resigned in 2020 did not prepare the BRS during his tenure nor currently been prepared to date also by the present Accountant. 
+
+
+
+	6)	Upon review of the bank statement and subsidiary ledger for the fourth quarter of 2020, various reconciling items were noted, as follows: 
+
+	
+
+	Particular
+
+	Amount
+
+	Total
+
+	1
+
+	Double recording of disbursements
+
+	
+
+	
+
+	
+
+	a
+
+	Payment of salaries and wages thru bank for the period November 16-30, 2020 
+
+	(JEV-2020-12-002-2749 and JEV-2020-12-002982)
+
+	607,155.80
+
+	
+
+	
+
+	b
+
+	Payment of utility expenses. BENECO billing 9/26/20-10/26/20 
+
+	(JEV-2020-12-002-2799 and JEV-2020-12-002981)
+
+	161,478.33        
+
+	
+
+	
+
+	c
+
+	Payment of Communication expenses for PLDT account number 653037635 for the period 7/17/20 to 10/16/20 
+
+	(JEV-2020-12-002-2803 and JEV-2020-12-002983)
+
+	           2,935.62        
+
+	771,569.75
+
+	2
+
+	Actual disbursements were made in January 2021, but were recorded in December 2020
+
+	
+
+	       
+
+	
+
+	a
+
+	Payment of salaries and wages to Security Agency for period November 1-15, 2020. 
+
+	JEV-2020-12-002-002969
+
+95,420.16
+
+
+
+	
+
+	b
+
+	Payment of purchase of office supplies with Check # 869675, JEV-2020-12-002973
+
+120,304.32
+
+
+
+	
+
+	c
+
+	Payment of salaries and wages to Security Agency for the period November 16-30, 2020. 
+
+	JEV-2020-12-002-002970
+
+         95,420.16          
+
+311,144.64
+
+	3
+
+	Unrecorded disbursements
+
+
+
+
+
+	
+
+	a
+
+	Tax - September 2020
+
+ (4,426.02)
+
+
+
+	
+
+	b
+
+	Tax - September 2020
+
+ (7,920.47)
+
+     
+
+	
+
+	c
+
+	Debit memo order
+
+ (12,000.00)
+
+(24,846.49)
+
+	Total
+
+
+
+1,057,867.90
+
+		
+
+	7)	The above errors and omissions in recording of disbursements and the remaining unreconciled discrepancy will remain to be unadjusted without the preparation of BRS. 
+
+		
+
+	8)	The Finance Division Head/Accountant of BAPTC explained that the preparation of BRS as at date was not possible as they were still gathering and collating documents/records to facilitate the reconciliation. And with the voluminous work in the division, they could not fast track the preparation of the said report.
+
+		
+
+	9)	Pertinent thereto, we reiterate the provision on reporting requirements as clearly stated under Section 122 of PD 1445 and the corresponding penalty/sanction for non-compliance by concerned personnel, to wit;
+
+		
+
+1)			Whenever deemed necessary in the exigencies of the service, the Commission may under regulations issued by it require the agency head, chief accountants, budget officers, cashiers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla or personnel, and such other reports as may be necessary for the exercise of its functions.
+
+		
+
+2)			Failure on the part of the officials concerned to submit the documents and reports mentioned herein shall automatically cause the suspension of payment of their salaries until they shall have complied with the requirements of the Commission
+
+	
+
+	10)	Non-preparation and non-submission of BRS affects the reliability of the reported Cash in bank – LC, CA balance at year-end. Moreover, review or verification of BRS and timely communication of audit results could not be performed by the audit team due to the absence of such reports. 
+
+	
+
+	11)	We recommended and Management through the COO BAPTC agreed to:
+
+			
+
+		1)		Require the BAPTC Accountant to regularly prepare the BRS to reconcile the Cash in Bank-LC, CA balances of the accounting against the bank records and make the necessary adjustments, where appropriate; and 
+
+	
+
+		2)		Require the Cashier to withhold the salary of the BAPTC Accountant for failure to submit documents or reports required of her without justifiable reason, until she shall have complied with the requirements.  
+
+		
+
+	12)	The BAPTC Accountant assured the audit team that they will continue to prepare the bank reconciliation statement despite the limitations, summarized as follows:
+
+	
+
+a)		She assumed office only on September 3, 2020;
+
+b)		No proper turnover of documents by the former Accountant;
+
+c)		Limited access to eNGAS, which the Management granted right away; 
+
+d)		No Records of Disbursements were retained/furnished to BAPTC; and
+
+e)		Other activities and projects needed more attention.
+
+
+
+
+
+
+
+Receivables
+
+
+
+3)	Operating lease receivables in the amount of ₱13.9 million were not recorded in the books of the University, hence, understating the account and corresponding income account in the financial statements. Likewise, lapses in the monitoring/renewal/issuance of MOAs or contracts which were bases of preparation of bills affected the reliability of the operating lease receivables account balances and the collectability of rental dues for lack of lease agreements to enforce it.
+
+
+
+	1)	Paragraph 31 of the Framework for the Preparation and Presentation of Financial Statements explains that “…information has the quality of reliability when it is free from material error and bias and can be depended upon by users to represent faithfully that which it purports to represent or could reasonably be expected to represent…”
+
+
+
+	2)	As part of the income generating activities of the University, building spaces, stalls and lot spaces thereat are being leased out to several lessees termed as “Partners/Cooperators”. The lease agreements are in the form of Memorandum of Agreement (MOA), Contract or Permit to Use and Occupy Space/Lot.  Similarly, the Benguet Agri-Pinoy Trading Center (BAPTC) through its Chief Operating Officer (COO) rents out trading stalls, office and commercial spaces to qualified lessees pursuant to its functions and mandates.
+
+
+
+	3)	Analysis of the operating lease receivables account of the University as of December 31, 2020 disclosed the following information:
+
+
+
+Particulars
+
+Operating Lease Receivables (OLR) Per SL
+
+Unrecorded OLR
+
+
+
+Total OLR
+
+
+
+OLR not included in the Aging Schedule
+
+Entrepreneurship Center; Stalls; Lots/Spaces for parking and stalls; BOT Agreements; and Housing Occupancy 
+
+₱13,347,712.33
+
+₱13,207,827.51
+
+₱26,555,539.84
+
+₱1,038,293.48
+
+BAPTC Stalls/Spaces 
+
+3,545,000.00
+
+734,300.00
+
+
+
+4,279,300.00
+
+3,545,000.00
+
+Total
+
+₱16,892.712.33
+
+₱13,942,127.51
+
+₱30,834,839.84
+
+₱4,583,293.48
+
+
+
+	4)	As shown in the table above, and based on verification of SLs maintained by the Accounting Office, only ₱16.9 million were recorded as OLR during the year instead of ₱30.8 million or a difference of ₱13.9 million. Review of MOAs, Contract or Permit to Use and Occupy BSU Land Space, billings statements and evidence of lease payments showed various errors in recording and computation of rentals. 
+
+
+
+	5)	Previous year’s audit revealed that overdue operating lease receivables amounting to ₱4.1 million in 2017, was understated in the books by ₱3.7 million. This included surcharges and penalties incurred by the lessees at the BSU Entrepreneurship Center. Accordingly, the Accounting Section was then advised to adjust the affected account, yet appropriate action was not undertaken. Because of the unrecorded receivables at the end of the year including the adjustment of ₱3.7 million, the account Other Receivables-OLR balance was understated by ₱13.9 million.  
+
+
+
+	6)	Relatedly, review of the aging of receivables showed various accounts not included in the summary list or a total receivable of approximately ₱4.6 million, ₱3.5 million of which pertained to prior years’ receivables from BAPTC lessees. Records also show that some Partners included in the schedules of OLR have no corresponding SLs or SLs were not updated. Consequently, balances forwarded to the Aging schedule remain unadjusted.  
+
+
+
+	7)	Other deficiencies noted which affected the reliability of the OLR account includes the following:
+
+
+
+		1)	Non-renewal of 49 lapsed MOAs, 7 for the University Business Affairs (UBA) and 42 under the BAPTC, regardless of partners’ continued occupancy of their rented stalls. As noted, rental rates were billed based on the rate stated in the lapsed MOAs or rates applied to former occupants; thus, the tendency that billed amounts were possibly lower.
+
+
+
+		2)	Regular MOAs, Contracts and Permit to Use & Occupy have provisions for surcharges of 5% and penalties of 10% for failure to pay within the agreed period.  However, the MOA entered between the University and Express Lane Pharmacy has no provision for surcharges and penalties. 
+
+
+
+		3)	Various MOAs were prepared and perfected only on the 4th quarter of 2020 with the Partners already occupying the spaces during the first quarter of the year. The absence of MOAs upon renting out the BSU spaces delayed the collection of rental payments for several months, which may even lead to non-collection of the needed income.  
+
+
+
+		4)	No regular/delayed monitoring of contracts. The absence/delayed execution of MOA rendered difficulty in determining the exact reckoning date on the computation of rental dues or the risk of non-collection due to the absence of updated contracts to be enforced.  
+
+
+
+	8)	It should be noted that income derived from leases of University spaces/facilities plays a big part in generating additional funds to sustain its programs and projects; thus, the need for a reliable accounting records and perfected lease agreements to enforce collection of receivables when they fall due. 
+
+
+
+	9)	We recommended that Management:
+
+
+
+		1)	Require the Accounting Office to adjust the understatement of the Operating Lease Receivable account amounting to ₱13.9 million to present its correct balance and the related income account in the financial statements; 
+
+		
+
+		2)	Require the UBA and the BAPTC to pursue more aggressive strategies to enforce collection of the outstanding/overdue OLRs of ₱30.8 million; and strictly enforce the provisions of the lease contracts/MOAs that includes consistent application of the sanctions (surcharges and penalties, compounded monthly for overdue payments), and institution of legal remedies, if necessary, to protect the interest of the University;
+
+	
+
+		3)	Direct the UBA and the BAPTC COO to prepare immediately upon expiration, MOAs, Contract or Permit to Use and Occupy Space/Lot and furnish copies thereof to the Accounting Office including previous lease agreements not yet provided, for an accurate and/or timely recording of rental dues; and
+
+	
+
+		4)	Direct the Accounting Office to maintain and update SLs and render accurate and correct aging schedules for operating lease receivables; and the BAPTC Accounting Section to prepare its own aging schedule of the account to facilitate consolidation with the University’s records.
+
+
+
+	10)	During the exit conference, Management informed the audit team on the restructuring of UBA having a Director for Special Projects and Partnership to focus on the preparation of MOA. Meanwhile, preparation and review of MOA for BAPTC and UBA are on-going. Further, the Accountant informed the Audit Team that she already recorded the said unrecorded OLRs.
+
+
+
+4)	Transaction documents establishing the University’s contractual right to enforce payment have not been established; thus, the validity of the recorded receivables amounting to ₱11.1 million is doubtful.
+
+
+
+	1)	Assets are defined under Paragraph 7 of the International Public Sector Accounting Standards No. 1 as “resources controlled by an entity as a result of past events and from which future economic benefits or service potential are expected to flow to the entity”. One of such assets is “Other Receivables” which is the amount due from debtors not falling under any of the specific receivable accounts.
+
+
+
+	2)	The account “Other Receivables” shows a balance of ₱25,661,531.03 as of December 31, 2020. Of the said balance, ₱11,144,391.81 pertained to claims of which the specific transaction events and the corresponding documentary evidence in support thereof, have not been established. Accordingly, such claims could not be validated.
+
+
+
+	3)	Below is a summary of said Other Receivables recognized under each Fund Cluster:
+
+
+
+Fund Cluster
+
+Aging of Other Receivables Account
+
+Total
+
+
+
+More than 5 years up to 10 years
+
+More than 10 years
+
+
+
+Regular Agency Fund
+
+₱          738,389.58
+
+₱                0.00
+
+₱       738,389.58
+
+Internally Generated Fund (IGI)
+
+1,181,276.40
+
+320,134.60
+
+1,501,411.00
+
+Business Type Income
+
+1,392,353.03
+
+(48,732.07)
+
+1,343,620.96
+
+Trust Fund
+
+7,556,410.27
+
+4,560.00
+
+7,560,970.27
+
+Totals
+
+₱     10,868,429.28
+
+₱     275,962.53
+
+₱  11,144,391.81
+
+
+
+	4)	Analysis of ledgers and interview with concerned personnel disclosed the following information:
+
+
+
+Particulars
+
+Period of Dormancy
+
+Remarks
+
+
+
+More than 5 years up to 10 years
+
+More than 10 years
+
+
+
+Utility expenses incurred by occupants of housing units and lessees of other BSU properties
+
+₱       7,888.88
+
+₱ 234,395.02
+
+The specific debtors are identified but the specific transactions from which the receivables pertain to are not established.  There are no documents to substantiate the receivables and the negative balance.
+
+Overpayments made to suppliers
+
+33,928.04
+
+35,732.17
+
+
+
+Due from other Funds of the University - erroneous Charging of Expenses/ deposits
+
+2,694,898.91
+
+ 7,973.39 
+
+
+
+Funds “borrowed” by former employees from CN-RLE fund
+
+0.00
+
+49,160.00
+
+
+
+Share in the income of IGPs
+
+24,323.87
+
+0.00
+
+Specific IGPs were identified, however, the specific transactions they pertain to are not established.
+
+Claims booked with no particulars
+
+8,106,229.83
+
+ (51,298.05)
+
+Some specific debtors were identified, however, some amounts were established as beginning balances during the setting up of the E-NGAS. There are no documents to substantiate the receivables and the negative balance.
+
+Commuted penalty against an employee
+
+1,159.75
+
+
+
+0.00
+
+Balance of penalty imposed to an employee.  
+
+Totals
+
+₱10,868,429.28
+
+₱275,962.53
+
+
+
+
+
+	5)	The lack of transaction details from which the receivables have emanated and the absence of documentary evidence to support the claims, would impede the enforcement of settlement. Given the said circumstances, the likelihood that the University would gain benefits from these recognized assets is low and the validity of the receivables is doubtful.
+
+
+
+	6)	Likewise, COA Circular No. 2016-005 dated December 19, 2016, defines dormant receivable accounts as “accounts which balances remained inactive or non-moving in the books of accounts for ten (10) years or more and where settlement/collectability could no longer be ascertained.”
+
+
+
+	7)	Said Circular also provides the guidelines and procedures on the write-off of dormant receivable accounts, unliquidated cash advances and fund transfers. Likewise, it was issued for the purpose of reconciling and cleaning the books of agencies of dormant accounts for fair presentation in the financial statements.
+
+
+
+	8)	Analysis further showed that ₱275,962.53, net of negative balance, of the Receivables remained dormant for more than ten years. With the availing circumstances, a request for write-off of dormant accounts may be an option for the University to clean its Books in accordance with the guidelines set forth under the above-mentioned COA Circular.
+
+
+
+	9)	We recommended and Management agreed to:
+
+
+
+		1)	Instruct the Accounting Office to review prior years’ records especially during the setting up of the E-NGAS, to track the transaction sources and establish the corresponding supporting documents of the booked receivables amounting to ₱10,868,429.28;
+
+		
+
+		2)	Enforce the collection of receivables found valid by issuance of a demand letter and/or other legal means; and
+
+	
+
+		3)	Request for the write-off of the dormant Receivables amounting to ₱275,962.53 following the procedures under COA Circular No. 2016-005.  
+
+
+
+	10)	During the exit conference, Management committed to look into the details of the forwarded balances to come up with specific recommendations and request for write-off. 
+
+
+
+	11)	Moreover, Management explained that they had been exerting efforts to secure what was due to the University and that Legal Office had issued demand letters related to current accounts. 
+
+
+
+5)	The accuracy of the “Due from NGAs” – PS DBM account of ₱309,768.00 is adversely affected due to: (a) outrightly expensed replenishments of Government Fares Agreement (GFA) fund totaling ₱605,000.00; (b) absence of report from the Travel Arranger/HRDO of booked tickets amounting ₱905,000.00; (c) undelivered supplies and materials in the amount of ₱226,688.18; and (d) replenishments of GFA fund amounting to ₱405,000.00, which was not recorded by PS.
+
+
+
+	1)	Section 13.3 Chapter 6 of the GAM Volume I provides for the illustrative accounting entries on advance payments made to the Procurement Service by debiting the account “Due from NGAs”. Charges made to this account therefor such as booked airline tickets thru the PS Portal and delivered supplies and materials by PS should be on the credit side.
+
+
+
+	2)	The Subsidiary Ledger (SL) for the Due from NGAs – PS DBM account under Fund Cluster 5 as of December 31, 2020, shows the following information:
+
+
+
+Check
+
+Particulars
+
+Amount
+
+Date
+
+Number
+
+
+
+
+
+4/1/2019
+
+1079731
+
+Initial deposit of credit line for Airline Tickets – Government Fares Agreement (GFA) Year 2019 (PS-DBM CO)
+
+₱  200,000.00
+
+4/29/2019
+
+1079865
+
+Payment of computer printers’ inks and toners (PS-DBM CAR)
+
+9,768.00
+
+3/6/2020
+
+1123731
+
+Additional – deposit of credit line for Airline Tickets – GFA Year 2020 (PS-DBM CO) – deposited to the PS bank account on May 21, 2020.
+
+100,000.00
+
+Total Recognized Receivables
+
+₱  309,768.00
+
+
+
+	3)	To comply with the required and agreed initial deposit of ₱500,000.00 as provided in the GFA Memorandum of Agreement (MOA) entered on May 1, 2019, between the University and the PS-DBM Central Office, the University deposited an initial amount of ₱200,000.00 on May 21, 2019 and then a year after on May 21, 2020 an additional amount of ₱100,000.00 was likewise deposited, both charged to Fund cluster 5 as shown in the preceding table. 
+
+
+
+	4)	Meanwhile, further analysis revealed that aside from the charges to Fund cluster 5, other deposits of ₱300,000.00 and ₱155,000.00 or a total of ₱455,000.00 was made to PS-DBM Central Office on May 21, 2019 and October 1, 2019, respectively. Similarly, a replenishment was deposited to the same PS-DBM bank account in the amount of ₱150,000.00 on May 21, 2020. The deposits totaling ₱605,000.00 were all charged under Fund cluster 1. Upon further analysis, it was discovered, however, that the amounts were outrightly expensed by the Accounting instead of treating them as “Due from NGAs” – PS DBM account.  Details are as follows: 
+
+
+
+Check
+
+Particulars
+
+Amount
+
+Date
+
+Number
+
+
+
+
+
+Fund Cluster 1
+
+
+
+
+
+3/28/2019
+
+589594
+
+Initial deposit of credit line for Airline Tickets – GFA Year 2019 (PS-DBM)
+
+₱ 300,000.00
+
+9/19/2019
+
+597244
+
+Replenishment of utilized credit line for Philippine Airlines– deposited to the PS bank account on Oct. 1, 2019.
+
+155,000.00
+
+3/9/2020
+
+597380
+
+Additional – deposit of credit line for Airline Tickets – GFA Year 2020 (PS-DBM) – deposited to the PS bank account on May 21, 2020.
+
+150,000.00
+
+Total Deposit and Replenishments
+
+₱ 605,000.00
+
+
+
+	5)	Accordingly, the utilization of said deposits and replenishments for GFA fund totaling to ₱905,000.00 were, neither in the SL, nor, monitored by the Accounting Office because there were no reports on booked airline tickets for the years 2019 and 2020 provided by the Travel Arranger/Human Resource Development Office (HRDO) to the Accounting for recording in the appropriate account. With the absence of report and the manner the replenishments which were outrightly expensed, the Accounting had difficulty in monitoring airline bookings. 
+
+
+
+	6)	Likewise, as presented in the table under fund Cluster 5, and review of the Other Agency Summary of Payments and Deliveries obtained from the PS DBM – CAR, the amount of ₱9,768.00 appearing in the SL of the University was not reflected in the DBM report, on the contrary, the report indicated complete delivery of supplies and materials as of December 31, 2020.  Yet, the PS DBM CAR summary indicated several transactions with undelivered supplies for the year 2019 and current year 2020 amounting to ₱33,753.65 and ₱192,934.53, respectively, or ₱226,688.18, not found in the SL resulting in the understatement of the account balance. 
+
+
+
+	7)	On January 29, 2021, the Chief-HRDO received a letter from the OIC-Chief Accountant of PS-DBM CO, informing that based on their records, the University incurred a negative balance of their GFA fund amounting to ₱668,827.53 as of December 31, 2020. The said letter is supported by a Summary of Payments and Deliveries as of December 31, 2020, summarized as follows:
+
+
+
+Date/ Booking Period
+
+Philippine Air Lines
+
+Air Asia
+
+
+
+Deposit/ Payment (Php)
+
+Total Booked Tickets (Php)
+
+Balance(Php)
+
+Deposit/ Payment(Php)
+
+Total Booked Tickets (Php)
+
+Balance (Php)
+
+6/7/2019
+
+300,000.00
+
+
+
+
+
+200,000.00
+
+
+
+
+
+7/22/2019 to 11/15/2019
+
+
+
+659,456.78
+
+ (359,456.78)
+
+
+
+           0.00
+
+200,000.00
+
+12/23/2019 to 8/6/2020
+
+
+
+310,519.30
+
+(669,976.08)
+
+
+
+198,851.45
+
+1,148.55
+
+Totals
+
+ 300,000.00
+
+969,976.08
+
+( 669,976.08)
+
+200,000.00
+
+198,851.45
+
+   1,148.55
+
+Total Balance (Unpaid)
+
+
+
+( 668,827.53)
+
+
+
+
+
+
+
+
+
+	8)	As can be analyzed from the above record of the PS DBM, it is indicated that ticket purchases exceeded the deposits made by the University by ₱668,827.53. However, further review showed that the replenishments in 2019 of ₱155,000.00 and in 2020 of ₱100,000.00 and ₱150,000.00 or a total of ₱405,000.00 were not reflected in their records which if recorded could have resulted in an outstanding negative balance of only ₱263,827.53 instead of ₱668,827.53. As a consequence, the access and use by the University of the PS Portal (airline booking) was temporarily disabled until the fund is fully replenished.
+
+
+
+	9)	With the treatment of the deposits/replenishments as direct expense and absence of report from the Travel Arranger/HRDO, proper monitoring of balances could not be made easily. Otherwise, if the Due From-NGAs account was used with corresponding reports provided by the HRDO, monitoring of balances as well as reconciliation of account balances shall have been facilitated.
+
+
+
+	10)	Due to the deficiencies noted, the balance of the Due from NGAs-PS DBM account is unreliable at the end of the year.
+
+
+
+	11)	We recommended and Management agreed to:
+
+
+
+		1)	Require the Accounting Division to record its deposits/replenishments for advance payments made for airline booking and purchases for supplies and materials with PS DBM, by debiting Due from NGAs – PS DBM and charges thereto as credits to the account; 
+
+
+
+		2)	Instruct the Accounting Division to reconcile the affected accounts with its counterpart at PS DBM Central Office for immediate adjustment of the discrepancies noted to ensure correctness and reliability of the reciprocal accounts; and 
+
+
+
+		3)	Require the Travel Arranger/HRDO to submit regularly reports on booked airline tickets or immediately upon access and use by the University of the PS Portal (airline booking), to the Accounting Division for recording and monitoring purposes.
+
+
+
+	12)	The HRDO admitted that their booking records are not updated and that they will be submitting a complete report to the Accounting Office for proper recording.  Meanwhile, the Accountant vowed to update her SL upon submission by HRDO of the complete booking report and to make the necessary adjustments in the recording of replenishments.
+
+
+
+
+
+Inventory and Property, Plant and Equipment (PPE) 
+
+
+
+6)	The accuracy of the PPE and Inventory account balances presented in the Statement of Financial Position as of December 31, 2020 with net book value of ₱6,731,866,892.44 and ₱21,362,963.35, respectively, is unreliable/doubtful due to partial and incomplete inventory taking and non-reconciliation with accounting records.
+
+
+
+	1)	Inventory taking is an indispensable procedure for checking the integrity of property custodianship. In all cases, the physical inventory taking which is required semi-annually or annually should be regarded with importance as provided under Section 13, Chapter 8, Volume I of the GAM.  It also serves as a basis for preparing accounting reports. At the end of each quarter the Accounting and the Supply/Property unit should reconcile their records. (Handbook on Property and Supply Management System).
+
+
+
+	2)	Section 38, Chapter 10 of the Government Accounting Manual (GAM), also mandates that, “The entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) as at December 31 of each year. This shall be submitted to the Auditor concerned not later than January 31 of the following year.”
+
+
+
+	3)	Section 122 of Presidential Decree No. 1445, the Government Auditing Code of the Philippines, also states that, “Whenever deemed necessary in the exigencies of the service, the Commission may under regulations issued by it require the agency heads, chief accountants, budget officers, cashiers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla of personnel, and such other reports as may be necessary for the exercise of its functions.”
+
+
+
+	4)	The University, through the SPMO in compliance with the previous audit recommendations of the audit team contained in CY 2018 and 2019 Annual Audit Reports, conducted an inventory taking on various dates of CY 2020.  A report on partial compliance was submitted to the audit team on January 29, 2021. Perusal of the RPCI submitted showed that inventory taking was, however, completed only on some of the inventory accounts of two (2) fund clusters namely, Clusters 1 and 5 detailed as follows:
+
+
+
+Fund Cluster
+
+Accounts Inventoried
+
+1)	Cluster 1 (GF 101)
+
+Office Supplies
+
+
+
+Construction Materials
+
+
+
+Other supplies & materials
+
+2)	Cluster 5 (STF 164)
+
+Office Supplies
+
+
+
+      Construction Materials
+
+
+
+Other supplies & materials
+
+
+
+	5)	The results of the inventory are yet to be reconciled with the figures in the accounting records. Likewise, because of the partial inventory conducted, the total net book balance of PPE and Inventory accounts of ₱6,731,866,892.44 and ₱21,362,963.35, respectively, as presented in the Statement of Financial Position of the University as of December 31, 2020, remains doubtful or unreliable. Breakdowns of the PPE and Inventory account balances as of year-end are presented below:
+
+
+
+A)	PPE Accounts
+
+
+
+PPE Accounts
+
+Cost (PhP)
+
+Accumulated Depreciation (PhP)
+
+Net Book Value (PhP)
+
+
+
+
+
+
+
+
+
+Land
+
+6,212,478,200.00 
+
+-   
+
+6,212,478,200.00 
+
+Other Land Improvements
+
+26,074,592.79 
+
+15,786,842.11 
+
+10,287,750.68 
+
+Water Supply Systems
+
+68,028.00 
+
+15,079.54 
+
+52,948.46 
+
+Power Supply Systems
+
+83,890.00 
+
+ 79,695.54 
+
+4,194.46 
+
+Buildings
+
+195,819,731.84 
+
+ 19,088,583.96 
+
+176,731,147.88 
+
+School Buildings
+
+252,526,325.89 
+
+104,398,628.41 
+
+148,127,697.48 
+
+Other Structures
+
+95,763,517.13 
+
+30,679,411.43 
+
+65,084,105.70 
+
+Machinery
+
+343,500.00 
+
+286,544.71 
+
+56,955.29 
+
+Office Equipment
+
+28,615,988.92 
+
+19,409,275.45 
+
+9,206,713.47 
+
+Information and communications Technology Equipment
+
+89,529,932.43 
+
+64,780,951.64 
+
+24,748,980.79 
+
+Agriculture and Forestry Equipment
+
+4,825,198.30 
+
+3,420,763.32 
+
+1,404,434.98 
+
+Communication Equipment
+
+689,850.00 
+
+451,521.07 
+
+238,328.93 
+
+Construction and Heavy Equipment
+
+984,416.00 
+
+809,299.94 
+
+175,116.06 
+
+Disaster Response and Rescue Equipment
+
+86,750.00 
+
+57,688.68 
+
+29,061.32 
+
+Medical Equipment
+
+22,634,748.95 
+
+9,482,374.61 
+
+13,152,374.34 
+
+Sports Equipment
+
+2,754,413.98 
+
+1,132,189.57 
+
+1,622,224.41 
+
+Technical and Scientific Equipment
+
+45,345,990.52 
+
+23,598,442.78 
+
+21,747,547.74 
+
+Other Machinery Equipment
+
+13,957,760.62 
+
+8,083,560.89 
+
+5,874,199.73 
+
+Motor Vehicles
+
+19,448,012.56 
+
+7,170,560.50 
+
+12,277,452.06 
+
+Furniture and Fixtures
+
+16,683,428.59 
+
+10,489,295.21 
+
+ 6,194,133.38 
+
+Books
+
+1,320,480.40 
+
+848,586.81 
+
+471,893.59 
+
+Other Property, Plant and Equipment
+
+20,609,647.01 
+
+12,288,968.13 
+
+8,320,678.88 
+
+Construction in Progress-Buildings and Other Structures
+
+13,580,752.81 
+
+-   
+
+13,580,752.81 
+
+Total Property, Plant and Equipment, December 31, 2020
+
+7,064,225,156.74 
+
+332,358,264.30 
+
+6,731,866,892.44 
+
+
+
+B)	Inventory Accounts
+
+
+
+Inventory Accounts
+
+Total
+
+Merchandise Inventory
+
+2,170,244.81 
+
+Construction Materials for Distribution
+
+3,725.00 
+
+Raw Materials Inventory
+
+2,314,297.77 
+
+Finished Goods Inventory
+
+956,641.25 
+
+Office Supplies Inventory
+
+48,497.78 
+
+Accountable forms, Plates and Sticker Inventory
+
+414,005.32 
+
+Animal/Zoological Supplies Inventory
+
+6,170.78 
+
+Drugs and Medicines Inventory
+
+95,510.01 
+
+Medical, Dental and Laboratory Supplies 
+
+2,921,450.10 
+
+Agricultural and Marine Supplies Inventory
+
+2,881,877.93 
+
+Textbooks and Instructional Materials Inventory
+
+1,091,617.45 
+
+Construction Materials Inventory
+
+3,806,624.73 
+
+Other supplies and Materials Inventory
+
+4,616,300.42 
+
+Semi-Expendable Furniture and Fixtures
+
+36,000.00 
+
+Total Inventory Accounts, December 31, 2020
+
+21,362,963.35 
+
+
+
+	6)	Inventory taking is an essential yearly undertaking that every agency should undertake. It is an indispensable procedure to establish existence of pertinent assets as reported in the accounting records, including their whereabouts, ownership and conditions. Moreover, the aggregate amounts of PPE and inventory accounts of BSU are highly material, thus, having significant impact on the opinion to be rendered on the financial statements of the University for a given period.
+
+
+
+	7)	This is a reiteration of prior years’ audit finding which remained unresolved during the year.
+
+
+
+	8)	We recommended that Management require the Inventory Committee to fast track and complete the inventory taking on or before the second quarter of CY 2021 and reconcile the results thereof with the records of the Accounting Office to establish correctness and veracity of affected account balances.
+
+
+
+	9)	Moreover, furnish the audit team the completed and reconciled RPCPPE and RPCI against the Accounting Office records for audit purposes.
+
+
+
+	10)	Management replied that physical inventory taking had concluded while reconciliation of physical count of PPE with the property records and accounting records is on-going. Additionally, Management committed to comply with the recommendations.  
+
+
+
+7)	Four (4) motor vehicles procured by the Provincial Local Government Unit (PLGU) of Benguet turned over to BSU-BAPTC valued at ₱7,322,088.00 were not recorded in the books of the University, contrary to the pertinent provisions of the Government Accounting Manual (GAM). As a result, total assets were understated by the same amount.
+
+
+
+	1)	On April 6, 2017, the PLGU Benguet and the Department of Agriculture Regional Field Office (DA-RFO)-CAR executed a Memorandum of Agreement (MOA) relative to the operation of the BAPTC. Said MOA specified that the parties agreed to implement the project “Provision of Transport Vehicles to support the BAPTC to Promote Adherence to Proper Harvest Handling of Highland Vegetables.” The DARFO-CAR thus allocated and transferred to the PLGU Benguet the amount of Ten Million Six Hundred Twenty Thousand P10,620,000.00) Pesos only for the procurement of four (4) hauling trucks and (2) service vehicles in support of the operations of the BAPTC.
+
+
+
+	2)	However, under the other terms and conditions of the contract, the PLGU Benguet has procured three (3) hauling trucks and one (1) service vehicle which were turned over to BAPTC. Further, review disclosed that the parties agreed to modify and supplement the “other terms and conditions” of the MOA with the following:
+
+
+
+a)	The BAPTC shall issue an acknowledgement receipt of the three (3) hauling trucks and one (1) service vehicle to the PLGU Benguet upon delivery;
+
+
+
+b)	The BAPTC shall assume full responsibility upon acceptance including the maintenance, registration and drivers/personnel without the necessity of executing a special MOA with the PLGU Benguet.
+
+
+
+	3)	The GAM provides the following forms and instructions with regard to the transfer of property accountability:
+
+
+
+Property Transfer Report (Appendix 76) – this form shall be used every time there will be transfer of property from an outgoing officer to his successor or from one accountable officer/employee to another of the same or another entity.
+
+
+
+Property Acknowledgement Receipt (Appendix 72) –This form shall be used by the Supply and/or Property Division/Unit to report the issuance of PPE and the acknowledgement of the end-user.
+
+
+
+	4)	Likewise, Section 32, Chapter II, Volume I of the GAM on the Recognition of an Asset provides that, “An asset shall be recognized in the financial position when and only when (a) it is probable that the future economic benefits will flow to the entity; and (b) the asset has a cost or value that can be measured reliably.”
+
+
+
+	5)	Validation by the audit team at BSU-BAPTC revealed that four (4) vehicles procured and transferred by the PLGU Benguet to the former on May 27, 2020 were directly received by the COO of BAPTC as evidenced by the Property Transfer Report (PTR). 
+
+
+
+	6)	Details of the vehicles are as follows:
+
+
+
+Vehicle
+
+Cost/Amount
+
+Trans Van (FOTON) – IOG 414
+
+1,540,200.00
+
+Truck (HYUNDAI) – KO C661
+
+1,950,944.00
+
+Truck (HYUNDAI) – KO C680
+
+1,950,944.00
+
+Truck (HYUNDAI) – KO E801
+
+1,880,000.00
+
+Total
+
+₱7,322,088.00
+
+
+
+	7)	Records obtained from the PLGU-Benguet nonetheless showed that said vehicles were already dropped from their accounting records based on Journal Voucher N0. 2020-04-000437 dated April 1, 2020. However, verification showed that the cost of the transferred vehicles was not yet recorded in the books of the University, nor, PAR was issued to the recipient. 
+
+
+
+	8)	Consequently, the assets account was understated corresponding to the equivalent cost of the transferred vehicles amounting to ₱7,322,088.00. Additionally, it was informed that processing for the registration of the vehicles at the Land Transportation Office in the name of the University is on-going. When registered, issuance of PAR will follow to pinpoint responsibility and accountability for the vehicles.
+
+
+
+	9)	We recommended and Management agreed to:
+
+
+
+		1)	Instruct the SPMO to fast-tract the transfer of LTO registration of the said vehicles to BSU-BAPTC to facilitate issuance of PAR to the end-user/s; and
+
+
+
+		2)	Advise the BSU Accounting Section to recognize the cost of the transferred motor vehicles   in the University’s books of accounts since these were already dropped from the PLGU Benguet records to establish actual ownership and reliability of asset balances.
+
+
+
+	10)	As an update, LTO registration of three HYUNDAI truck were on process, while Trans van is yet to process. Meanwhile, the amount of four motor vehicles were booked up in the books of the University.  
+
+
+
+8)	The ownership of the recorded land assets of the University totaling ₱2.694 billion is not clearly established due to unresolved land disputes and illegal occupancy by private claimants; hence, the reliability of the account balance at year-end is doubtful.
+
+
+
+	1)	Section 3, Chapter 10, Volume I of the Government Accounting Manual (GAM) provides the criteria for a Property, Plant and Equipment (PPE) to be recognized as an asset, one of which is that “beneficial ownership and control clearly rest with the government.”
+
+
+
+	2)	Moreover, the COA Financial Audit Manual provides that the account balance as of the reporting period must satisfy the audit assertions for fair presentation in the financial statements, one of the assertions is the right or control of the entity to the asset.
+
+
+
+	3)	Audit of the land account of the University with a total balance of ₱6,212,478,200.00 as of December 31, 2020, disclosed that ownership and the right of the University on some of its land areas recognized in the financial statements, was not well established and assured due to land disputes and ownership claim of illegal settlers. 
+
+
+
+	4)	Based on the data gathered (refer to Annex A), some of the landholdings of the University were being claimed by various private individuals, including former BSU employees, private entities and other interested parties. Problems encountered by management include, among others, the following:
+
+
+
+a)	Refusal of some illegal occupants to execute memorandum of agreement with the University despite continued occupancy on said lots;
+
+b)	Filing of case was held in abeyance since the results of review by the Office of the Solicitor General Cases (OSG) on the portion of land occupied by a certain Lumiqued, et al. is yet to be issued, as basis for the filing;
+
+c)	The 10-year allowable execution of judgment had lapsed (1979-1989), thus, refiling of case is necessary. This pertains to the transfer of title from PNB;
+
+d)	Encroachment issues;
+
+e)	Swapping of titles which still needs to be endorsed to the OSG;
+
+f)	Claimants with permanent houses, gardens and the like, demand lot compensation (2 has);
+
+g)	Due to improvements made by claimants, protracted and pending negotiations for the release of contested land area (34.37has) was subject to lot compensation. Community did not yet agree to the amount of lot compensation; 
+
+h)	Cancellation of title and recovery case won by BSU, but, contested at the Court of appeals; and
+
+i)	Illegal occupants including former officials and employees of BSU adamantly refused to vacate or leave the occupied BSU lands. Accordingly, violent reactions were met by University authorities during dialogues/negotiations.
+
+
+
+	5)	The above-mentioned problems, if not addressed aggressively by the current Management, may likely result in more private claimants and illegal settlers of the University’s landholdings. As provided under Section 102 of Presidential Decree No. 1445, the agency head is immediately and primarily responsible for all government funds and property pertaining to his agency. Hence, he should initiate or install precautionary measures to protect or safeguard the assets under his jurisdiction against any risk or possible losses that may arise.
+
+
+
+	6)	The audit team recognized and acknowledged the efforts and actions taken by the Land Reservation Office (LRO) and Legal Office in initiating actions including legal remedies to protect the interest of the University. Nonetheless, the unresolved problems have been existing for several years, but, apparently there was a slow-paced results of management actions. These illegal settlers or claimants have long been enjoying to their advantage what the BSU owned. Hence, it is only high time for management to exhaust all possible means to regain its rights and fully asserts ownership to these lands, including regular follow-up of legal proceedings that have already been filed in the courts to fast track resolutions. 
+
+
+
+	7)	Unless the land dispute issues have been resolved, the certainty and correctness of the balances of the land account presented in the financial statements totaling ₱2.694 billion remains doubtful.
+
+
+
+	8)	We recommended and Management agreed to prioritize and expedite immediate actions to resolve the ownership problems on the identified disputed land areas of the University to assure its rights and eventually to establish correctly the total amount of land account in the financial statements.
+
+
+
+9)	The building occupied by BAPTC since 2015 subject of a Deed of Donation executed between the Department of Agriculture (DA) and BSU has not been turned over to BSU by DA due to unresolved issues; thus, booking up and availment of GSIS insurance coverage could not be undertaken.  
+
+
+
+	1)	The establishment of the BAPTC was covered by a Memorandum of Agreement (MOA) dated September 14, 2012, as amended by another MOA notarized in February 3, 2015.  In the said amended MOA entered into by and between the Department of Agriculture (DA), Benguet Congressional District, Province of Benguet, La Trinidad Local Government Unit, Benguet State University, and Benguet Farmers’ Cooperative, the parties agreed, among others, that:
+
+	
+
+--		DA provide funds in the amount of ₱707,188,588.38 for the construction of the Center
+
+--		Benguet Congressional District be responsible for the expansion of the 1.5km Strawberry/Swamp Road and construction of Loop Road Field going to the Strawberry Field and improve drainage in the amount of ₱40,000,000.00
+
+--		BSU allow the use of its parcel of land with an area of 4 hectares for the establishment of the Center
+
+--		BSU allow the use of its parcel of land with an area of 1.5 hectares for the Loop Road
+
+--		BAPTC shall be donated to BSU, subject to the conditions set under the Deed of Donation
+
+	
+
+	
+
+	2)	Article V of said MOA pertaining to the caption Ownership of the Trading Center states that the Center shall be donated to the BSU subject to the provisions under the Deed of Donation. Provided, that it will be solely used for the Socio-Economic Enterprise of the Center which is the joint projects of the parties hereto.
+
+
+
+	3)	As specified in the MOA, DA transfers and conveys, by way of donation, unto BSU the BAPTC free from all liens and encumbrances provided that the BAPTC shall be solely used in accordance with the study entitled “Socio-Economic Enterprise of the BAPTC”. A deed of donation of the BAPTC was signed by then former DA Secretary Alcala and former BSU President Ladilad in 2015.
+
+
+
+	4)	Documents show that the BAPTC has been operating since 2015 in accordance with approved guidelines. Verification however, of the Accounting records, show that the building has not been recognized yet as asset of the University. Inquiry with concerned personnel at the Accounting Office disclosed that, they have no idea, or, have not received any documents from DA relative to the donated building which could have been their basis to record the value of the asset.
+
+
+
+	5)	Nonetheless, the former Finance Division Chief of BAPTC informed the audit team that he tried to secure the necessary documents from the DA Central, but allegedly, the latter cannot provide documents since the DA has yet to accept the project as completed. No follow up, however, had been made from thereon. Also, the University has not made any official request for the documents to DA. It was claimed by the Accounting Office that there was only a verbal request made with an officer of the DA.
+
+
+
+	6)	To validate the claim of Management and to confirm the reasons why the building was not recorded to date, the audit team instead, proceeded to DA Central Office on January 14, 2021 and interviewed concerned personnel of the DA-Agribusiness Marketing Assistance Service (AMAS), in--charge office of DA infrastructures. Accordingly, it was informed that the building was actually not yet accepted by DA because of various structural deficiencies that needs to be fixed. Verification also from records of the DA Accounting disclosed that the building was still recorded under account, Construction in Progress (CIP). Concerned personnel of the AMAS assured that they were doing their best to facilitate the turnover of the building from DA to the end user, BAPTC-BSU. Thus, the donation remains uncertain, unless duly accepted by BSU.
+
+
+
+	7)	Further, the BAPTC has been using the building for five (5) years, and is the one benefitting from the government fund used to construct it, thus, BSU should have been duty-bound to secure insurance coverage of the building and equipment/machineries housed therein, as required under the Property Insurance Law. The purpose of insurance is to indemnify or compensate the Government for any damage to, or loss of, its properties due to fire, earthquake, storm or other casualty. However, this requirement could not be done unless the building is already owned by University.
+
+
+
+	8)	With the five (5) years that passed, it only showed that University officials did not prioritize or have not given much attention to undertake swift representations with DA for the implementation of the conditions of the MOA. Henceforth, the deed of donation is considered ineffective. 
+
+
+
+	9)	We recommended that Management endeavor to have a strong representation with the DA Central Office for the immediate resolution of the issues affecting the turnover of the building to the BSU.
+
+
+
+	10)	Management informed the audit team that they have been doing their part for the turnover of BAPTC, whereas, the issue was raised in every board (Project Steering Board) meeting, however, the turnover was the DA’s commitment. Also, as of date, no turnover was done from the contractor to the DA. 
+
+
+
+10)	The submission of “Clearance from Money, Property and Work-Related Accountabilities” as mandated under Section 9 of the Implementing Rules and Regulations (IRR) of Republic Act (RA) No. 10154, of retiring University personnel was not strictly complied and monitored by Management; thus, posing risk or non-assurance in the recovery of monetary and property liabilities of retirees and ultimately loss of University resources. 
+
+
+
+	1)	Section 9 of the IRR of Republic Act (R.A.) No. 10154, otherwise known as An Act Requiring All Concerned Government Agencies to Ensure the Early Release of the Retirement Pay, Pensions, Gratuities and Other Benefits of Retiring Government Employees, provides the Responsibilities of Retiring Employees, to wit: 
+
+
+
+“a. Submit a written expression of intent to retire indicating the desired date of retirement and the retirement package he/she intends to avail at least one hundred twenty (120) days prior to his/her actual retirement; and 
+
+
+
+b. Submit the complete documentary requirements prescribed by the employer-agency not later than one hundred (100) days prior to the actual/intended date of retirement.” 
+
+
+
+	2)	Relatedly, Memorandum Circular No. 34 dated February 19, 1993 requires the settlement, surrender, and/or turnover of government vehicles and other equipment of outgoing officials and employees prior to the effectivity of their transfer, resignation, retirement, or separation from office. 
+
+
+
+	3)	Par. 2 of said Circular states that, “Pursuant to existing rules and regulations, and in the interest of public service, all heads of departments, bureaus, offices, agencies, and instrumentalities of the government, including government-owned or controlled corporations, are hereby directed to require all outgoing government officials and employees in their respective offices to effect a physical turnover of all government assets in their custody, such as vehicles, communication facilities, and all other equipment prior to the effectivity of their transfer to other agencies, resignation, retirement, or separation from office. Otherwise, clearance from their accountabilities shall not be issued and these equipment shall be physically retrieved from them.
+
+
+
+	4)	One of the required documents to be submitted to the University’s Human Resource Management Office (HRMO by a retiring employee is his/her “Clearance from Money, Property and Work-Related Accountabilities” or Form: QF-HRMO-05, to be submitted within 120 days prior to his/her retirement. This requirement is specified in the individual letter of BSU to the retiring employees. 
+
+
+
+	5)	Compliance to the requirement was however very low because of management’s laxity to strictly monitor and impose the said regulations. Foremost, there were no proper turnover in the case of retiring accountable officers (AOs) to whoever will assume their position. Based on data gathered within the past five (5) years, there were 27 personnel who retired without clearance. Out of the 27, clearances of 12 retired personnel were still in process with earliest date was 2018. No property clearance for the remaining 15 was filed either. Subsequently, terminal pay as well as last salary of these retirees were withheld by the Accounting Section until such time that they were cleared from their accountabilities, which include, among others, property issued not turned over to the University, unsettled various disallowances and other unpaid accounts. It was informed that it was the practice by some employees nearing retirement to just exhaust their leave credits and then leave the University without clearance. 
+
+
+
+	6)	Apparently, management had not taken any assertive action to demand clearance or physical retrieval of issued property or equipment at the time concerned retirees have not yet bowed out in government service, or, months before retirement. Additionally, it was noted that unclaimed benefits of various retirees were not even enough to compensate their accountabilities. 
+
+
+
+	7)	The lapse of management to strictly oblige submission of clearance prior to retirement had significantly increased the number of retired employees who have no clearance for years. Further, this practice rendered more difficulty for management to run after them for reasons that some could no longer be located or lost interest to follow up their terminal leave payments. As a result, the University may possibly no longer recover, or, is not assured to still recover whatever is due the government. 
+
+
+
+	8)	We recommended that Management:
+
+
+
+		1)	Direct the HRMO to strictly enforce the provisions of the IRR of R.A. No. 10154, to ensure that all accountabilities have been settled by concerned personnel prior to retirement for protection from loss of University’s resources; 
+
+
+
+		2)	Instruct the Office of the Supplies and Property Management Office (SPMO), in coordination with the HRMO, to conduct physical retrieval of unreturned equipment or property from concerned retirees and soon-to-retire employees. Otherwise, seek the assistance of the Legal Services Office for the institution of legal remedies, administrative and criminal sanctions within the purview of existing laws, rules and regulations of Par. 3 of MC No. 34; and 
+
+
+
+		3)	Require retiring AOs to adhere strictly with the guidelines in the proper turnover of accountabilities, records, money and property, to his/her successor not later than 100 days prior to the actual/intended date of retirement so that the University could go after them for unsettled accounts, if any, while they are still in service. 
+
+
+
+	9)	During the exit conference, Management committed to:
+
+
+
+		1)	Come up with a university policy wherein whenever there is designation or promotion or changes in responsibilities, one of the basic requirements is the clearance of accountability before paying the increased salary, for promoted employee, or giving the equivalent teaching load, for designated employee; and
+
+
+
+		2)	Look into the preparation of a policy on having a minimum Earned Leaves to be retained per employee.
+
+
+
+	10)	Furthermore, Management directed the Executive Assistant/Acting CAO-Finance to implement the recommendations. Meanwhile, the SPMO is working on the processing of clearances of the retired employees and whose clearances are with the SPMO as well as the transfer of existing properties previously issued to the retired employee. 
+
+
+
+11)	The joint inventory required upon transfer of government funds or property from one accountable officer to another, or, from an outgoing officer to his successor, was not being done to determine any loss/deficiency to the account of the former thus, may be possibly charged to his/her successor’s accountability if not cleared.
+
+
+
+	1)	Section 77 of Presidential Decree (PD) No. 1445 pertains to the provision on invoice and receipt upon transfer of funds or property which states that, “When government funds or property are transferred from one accountable officer to another, or from an outgoing officer to his successor, it shall be done upon properly itemized invoice and receipt which shall invariably support the clearance to be issued to the relieved or outgoing officer, subject to the regulations of the Commission.”
+
+
+
+	2)	In the event of the transfer of supplies, materials, and equipment from one accountable officer to another, an inventory thereof shall be taken jointly by the outgoing and the incoming officers, and a receipt passed on the basis of such inventory. 
+
+
+
+	3)	Section 80 of PD 1445 also requires that an accountable officer, upon ceasing to act in his official capacity as such, shall submit to the auditor of the agency concerned a report of his accountability. Any remaining balance of such accountability shall be deposited in the proper treasury without unnecessary delay.
+
+
+
+	4)	The requirement of the above regulations was not being strictly implemented whenever turnover of project leaders (PL) of the income generating projects (IGPs) was held. Despite verbal advice from the audit team, compliance was still nil. Instances when a joint inventory was not undertaken include, the turnover of the canteen, the poultry, the garments and upon the retirement of the Vice President of the UBA, who was at the same time the AO of parking fees. A new officer was designated to assume the latter’s responsibilities; however, no proper turnover was made. The incoming PLs/AOs just assumed their responsibilities without going through the required process, thus, actual accountabilities were not correctly determined or established.
+
+
+
+	5)	Evidently, management’s compliance to the requirement was very lax because not even a single inventory report was submitted to the audit team by an AO upon ceasing to act on his official function. 
+
+
+
+	6)	The high school canteen on the other hand ceased operation sometime late last year. The audit team was not immediately informed of the closure. The canteen was subsequently leased to a private entity. No inventory report was submitted by the outgoing PL to the audit team to determine her actual accountability. 
+
+
+
+	7)	It is emphasized that no officer accountable for property will be relieved from his accountability, except, upon presentation of a receipt duly accomplished by his successor covering the full value of the property claimed to have been transferred. Further, acceptance on the part of the incoming AO without proper inventory is a presumption that he/she assumed responsibility of any discrepancy to be noted in the course of audit.
+
+
+
+	8)	The necessity of complying with the rules and regulations, therefore, does not only protect the AO concerned to be free from any accountabilities, but, for the assurance that scarce government resources are safeguarded from unnecessary loss. 
+
+
+
+	9)	We recommended and Management agreed to:
+
+
+
+		1)	Require the UBA to implement strictly the pertinent provisions of Sections 77 and 80 of PD 1445 for proper accounting of accountabilities and to protect the interest of the government; and
+
+
+
+		2)	Advise outgoing AOs to see to it that an inventory or a report of his/her accountability is submitted to the audit team upon ceasing of official function for verification purposes. 
+
+	
+
+	10)	During the exit conference, Management informed the audit team that they have started discussing matters as to how they can remedy the issue and as to how they can enforce some processes with the turnover. 
+
+	
+
+	11)	Moreover, the Vice President for Business Affairs admitted that there was no turnover done but he will look into the properties and documents left in the UBA. 
+
+
+
+12)	The University Housing Committee (UHC) failed to enforce the policy on the allowable tenure of stay of several retirees in the housing unit, which is three months from retirement; thus, depriving qualified applicants of the housing privilege.
+
+
+
+	1)	The Benguet State University (BSU) Housing Policy covers housing units for regular faculty and staff occupying plantilla positions. The housing is a privilege and it is granted for the convenience of the University and its clients. It aims to help employees attain both short term and longterm economic stability. Further, it may also be an incentive to be used in the hiring and retention of qualified and needed personnel of the University. But, in no case shall there be an additional compensation for the faculty and staff.
+
+
+
+	2)	The Housing Policy Guidelines of the Benguet State University (BSU), Board of Regents (BOR) Resolution No. 2610, s.2017 and its Implementing Rules and Regulations (IRR), Section V (15) states, among others, “when a grantee retires, the allowable tenure of stay should end after three (3) months from retirement. In case of untimely death, the bereaved family maybe allowed to stay for a maximum of 6 months after death.” 
+
+
+
+	3)	Validation by the Audit Team and documents gathered, revealed that various personnel of the University who have already long retired did not yet surrender their units to enable other applicants to avail of the housing privilege. 
+
+
+
+	4)	Except for three (3) occupants, most of them were retired members of the faculty and have overstayed for a period ranging from 11 months to three (3) years, and 10 months, contrary to the housing policy that the allowable tenure of stay should end after three (3) months from retirement. According to a member of the UHC, some refused to vacate their units for years despite the issuance of several notices or demand to vacate. It was likewise informed that the matter was referred to the Legal Office for action. However, the audit team noted that despite the passage of years, no action was made by the BSU Legal Office for the ejection of these overstaying occupants. Others reasoned the pandemic but notably, their three (3) months extension have already lapsed long before the onset of the pandemic lest they failed to show any effort to look for a place to transfer. It should be emphasized that these persons are already considered as private citizens thus, they have no more authority nor right to still enjoy the housing privilege, much more that they have been occupying it for free.
+
+
+
+	5)	It was observed that the UHC seemed unable to apply the law resulting in the misuse of the housing privilege. Inquiry revealed that there was a long list of applicants for housing units, but, with the unresolved issues, the privilege of some maybe put on hold, or, will not materialize at all. 
+
+
+
+	6)	The inability of management/UHC to enforce strictly the conditions set forth under the University’s Housing Policy, may imperil the essence of granting housing privilege to qualified faculty and staff, which may ease them to support their financial stability. 
+
+
+
+	7)	We recommended and Management agreed to–
+
+
+
+		1)	Instruct the UHC to immediately coordinate with the Legal Office to pursue the filing of eviction case, if necessary, on overstaying and defiant retirees including the non-BSU employee (ATI), to remove any partiality or bias in the grant of housing privilege; 
+
+
+
+		2)	Direct the UHC to set deadline for the overstaying occupants to vacate the units. For the extended stay, impose/collect rental fees with surcharges or penalty, if warranted, reckoning from date of expiry of the three (3) month allowable extension until eviction based on rental rates currently being charged in the vicinity of similar type of facility; and
+
+
+
+		3)	Require the UHC to be firm in strictly enforcing the guidelines of the housing policy specifically Section V (15) of its IRR. Likewise, stop acceding to “special” request for additional extension beyond the allowable tenure to stay, to give fair chance to all qualified applicants avail of the housing privilege. 
+
+	
+
+	8)		During the exit conference, the former housing chairman explained that they referred the above matter to the Legal Office, after three reminders issued to the violators (tenants).
+
+	
+
+	9)		Moreover, Management committed to look into a win-win solution. As a preventive measure, the Legal Office shall review the contracts and consider padlocking the housing unit unless with justifiable reasons. 
+
+
+
+13)	The absence of necessary supporting documents such as driver’s trip tickets and official travel orders to support the expenses incurred in the use of four (4) motor vehicles manifests uncontrolled and unregulated utilization thereof, and may result in audit disallowances.
+
+
+
+	1)	Administrative Order (AO) No. 239 dated September 15, 2008 entitled “Prohibiting the Use of Government Vehicles for Purposes other than Official Business, and for other Purposes” states that:
+
+
+
+“SECTION 3. The use of government vehicles by bureaus and offices shall be authorized only through the issuance for each trip of a serially numbered ticket, duly signed by an authorized official. These motor vehicles shall be used strictly for official business, bear government plates only, and after office hours or during weekends and holidays kept in a garage designated/provided therefor by the bureau or office to avoid their unauthorized use.
+
+
+
+During weekends and holidays, the guard on duty shall keep the keys. If the vehicles are spotted elsewhere during said days, the guard shall be held liable along with those caught using the vehicle in accordance with the service contract entered into by the Government and security agency concerned.”
+
+
+
+	2)	Likewise, COA Circular No. 77-61 dated September 26, 1977 entitled “Prescribing the Use of the “Manual on Audit for Fuel Consumption of Government Motor Vehicles” states that:
+
+
+
+“2. Use of government vehicles shall be properly controlled and regulated.
+
+
+
+ - The use of government motor vehicles should be controlled through properly accomplished and duly approved Driver’s Trip Tickets (Appendix A) which should be serially numbered, a summary of which shall be made at the end of the month in a Monthly Report of Official Travels (Appendix F), for audit purposes.”
+
+
+
+“6. All expenses regarding any unauthorized use or misuse of government motor transportation shall be disallowed in audit. Accordingly, the officials and employees, including drivers responsible therefor, shall be held personally liable for the expenditures arising therefrom, in addition to administrative, criminal or civil prosecutions as may be warranted by the circumstances, including the withdrawal of the privilege to use government transportation.”
+
+	
+
+	3)	Audit on the proper utilization of the motor vehicles disclosed unauthorized usage due to absence of trip tickets as well as travel orders. Inspection of the odometer of each vehicle showed long distance travels were undertaken despite the fact that the vehicles were not yet registered at LTO as BSU-BAPTC property. Since the LTO registration of the vehicles were not yet transferred to BSU-BAPTC, the vehicles should have been kept in the garage designated for safe-keeping, awaiting the transfer of registration.
+
+
+
+	4)	Presented hereunder is the summary of usage or mileage of travels as of November 19, 2020, to wit:
+
+
+
+Vehicle
+
+Mileage (in kilometers)
+
+Trans Van (FOTON) – IOG 414
+
+7,548
+
+Truck (HYUNDAI) – KO C661
+
+7,373
+
+Truck (HYUNDAI) – KO C680
+
+2,821
+
+Truck (HYUNDAI) – KO E801
+
+689
+
+Total
+
+18,431 kilometers
+
+
+
+	5)	In her letter dated November 16, 2020, the COO of BAPTC stated that trip tickets, travel orders and logbooks for monitoring was just recently implemented by BAPTC, or, after the audit was conducted. Based on her explanation and non-submission of supporting documents as required, the total distance of 18,431 kilometers travelled by the vehicles were certainly not covered by trip tickets and travel orders. She further explained that due to the immediate need to transport unsold perishable vegetable reliefs to various places as requested by officials of various agencies and organizations during the early and middle stage of COVID-19, usage was not strictly monitored. 
+
+
+
+	6)	The audit team found the explanation of the COO untenable because during the early/middle stage of COVID-19, travelers in private/government vehicles must abide with the strict regulations/protocols like securing travel pass, and for government vehicles, trip tickets and travel orders were required, especially when crossing borders between municipalities. With the imposed government restrictions, check points did not allow travelers without complete papers to support the need to travel. Interview with some staff revealed that, apparently there were instances that the vehicles were used for personal business hence, the excessive or unexplained distance of travels. Moreover, the failure of the COO to provide the details to support the 18,431 mileage, notwithstanding the demand of the audit team, made it more probable to assume that various travels were indeed, not official. 
+
+
+
+	7)	The lapses of concerned officials are obvious violation of the stated rules and regulations which, may possibly expose, not only BAPTC, but also, the BSU at risk for further damage due to improper/unauthorized use of the vehicles. Moreover, with the absence of PAR, management will have difficulty to pinpoint accountability or responsibility in case of damage, loss or misuse.
+
+
+
+	8)	In response to the audit conducted, BAPTC management initiated the formulation of policies and guidelines on the use of its vehicles through a resolution on the BAPTC Transport Vehicle Rental Rates, approved by the Project Steering Board (PSB) on October 29, 2020. 
+
+
+
+	9)	In view of the foregoing, we recommended Management to require the:
+
+
+
+		1)	COO and other concerned official/s of BAPTC to strictly comply with Section 3 of Administrative Order (AO) No. 239 and COA Circular No. 77-61 relative to the proper use of government vehicles to forestall disallowance in audit;
+
+
+
+		2)	COO to submit documents, if available, to support the 18,431 mileage travelled by subject vehicles for evaluation purposes of the audit team. Otherwise, remit to the BSU Cashier the corresponding rentals of the vehicles that cannot be justified/supported due to the presumption that these were used for personal business/purpose; and
+
+
+
+		3)	Strict implementation of the newly PSB approved BAPTC Transport Vehicle Policies and Guidelines for vehicle rentals. Enforce sanctions for violation thereof as provided under COA Circular No. 77-61.
+
+
+
+	10)	Management acknowledged and agreed with the recommendations. Likewise, they submitted their justification on the above findings, as follows:
+
+
+
+a)	The motor vehicles were used for COVID-19 relief operations, wherein some trips/travels were not recorded; thus, served as a lesson to be diligent in keeping records in the use of government vehicles for proper monitoring; and
+
+
+
+b)	The van with plate number IOG 414 was used as an employee shuttle when public transportations were suspended, as well as for official business. 
+
+
+
+	Audit Team’s Rejoinder
+
+
+
+	11)	The audit team considered the submitted justifications on the Trans Van (FOTON) – IOG 414 and the 4,249 mileage of the 3 vehicles used during the BAPTC relief operations. However, the balance of 6,634 unaccounted mileage and declared not official travels was issued the corresponding Notice of Disallowance. 
+
+
+
+
+
+Advances
+
+
+
+14)	Cash advances in the aggregate amount of ₱1,512,339.16, remained unliquidated for more than five (5) to twenty-two (22) years due to non-submission of liquidation reports by former BSU Accountable Officers (AOs). As a result, the non-movement of the accounts for several years adversely affected the validity of the account balances presented in the financial statements.
+
+
+
+	1)	COA Circular No. 97-002 dated February 10, 1997, provides the rules and regulations on the granting, utilization and liquidation of cash advances, to wit:
+
+
+
+“When a cash advance is no longer needed or has not been used for a period of two (2) months, it must be returned to or refunded immediately to the collecting officer.
+
+
+
+All cash advances shall be fully liquidated at the end of each year. Except for petty cash fund, the AO shall refund any unexpended balance to the Cashier/Collecting Officer who will issue the necessary official receipt.
+
+
+
+At the start of an ensuing year, a new cash advance may be granted, provided that a list of expenses against the previous cash advance is submitted. However, when no liquidation of the previous cash advance is received on or before January 20, the Accountant shall cause the withholding of the AO’s salary.” 
+
+
+
+	2)	Civil Service Commission (CSC) Memorandum Circular No. 23 series of 2019 provides the revised guidelines on the settlement of cash advance and the penalty to be imposed for failure of an accountable officer to liquidate cash advance within the prescribed period. Section 3 of the same circular, on the settlement and liquidation of Cash Advance, states that:
+
+
+
+“A cash advance is settled and liquidated either by returning the money advanced if unspent, or by the presentation of regularly accomplished vouchers, giving satisfactory detail of the items thereon paid which must be in accordance with the purpose for which the cash advance was granted, and further supported by proper receipts and other evidence of payment, subject to the result of the post-audit thereof by the auditor concerned.”
+
+
+
+	3)	Audit of the balances of the cash advances pertaining to Advances to Officers and Employees, Advances for Operating Expenses and Advances for Payroll as of December 31, 2020, showed that long outstanding and overdue cash advances were not liquidated and settled by former BSU AOs, summarized as follows:
+
+
+
+Account
+
+Unliquidated Amounts (Php)
+
+Age
+
+Advances to Officers and Employees
+
+152,250.53
+
+5 to 22 years
+
+Advances for Operating Expenses
+
+5,000.00
+
+6 years
+
+Advances for Payroll
+
+1,355,088.63
+
+11 to 14 years
+
+Total
+
+1,512,339.16
+
+
+
+
+
+	4)	Based on the above table, the cash advances were long outstanding for a substantial period, ranging from five (5) to twenty-two (22) years. Review of the report of Status of Unliquidated Cash Advances as of December 31, 2020 submitted to the audit team, disclosed that some of the cash advances were used for travelling expenses and registration fees, while the oldest of the unliquidated cash advances was granted in CY 1997.
+
+
+
+	5)	Also, some of the balances were beginning balances carried over from previous years while others were reconciling items established by the previous audit teams during their cash examinations conducted in CY 2011 to May 2017. Apparently, management lacked action to properly address the deficiencies noted which have long been brought to their attention. Neither, the reconciling items noted by the former audit teams were adjusted by the Finance Division despite constant reminders and follow ups. Accordingly, nine (9) demand letters (DL) were prepared to collect the outstanding CAs, but these were not issued to the intended recipients because their whereabouts could not be traced, or located anymore. 
+
+
+
+	6)	The audit team was informed that some of the AOs unfortunately, did not secure clearance prior to their exit from the University, thereby liquidation of their outstanding balances was not enforced as mandated. Nevertheless, as a remedy for subsequent cases, management has the option to withhold the AO’s salary as final recourse for defying pertinent rules and regulations.
+
+
+
+	7)	The non-movement of the accounts for long years adversely affected the validity of the account balances presented in the financial statements as of year-end. Similarly, the probability of settlement become doubtful or uncertain.
+
+
+
+	8)	Relatedly, Article 217 of the Revised Penal Code (RPC) unequivocally states that “The failure of a public officer to have duly forthcoming any public funds or property with which he is chargeable, upon demand by any duly authorized officer, shall be prima facie evidence that he has put such missing funds or property to personal use.”
+
+
+
+	9)	In view of the foregoing, we recommended and Management agreed to initiate the following courses of action:
+
+
+
+		1)	Direct the Accounting Section to immediately: a) draw adjusting/correcting entries to take up the reconciling items noted in prior years’ audit; b) conduct extensive analysis on the correctness of the beginning balances carried over through years for propriety of account balances; 
+
+
+
+		2)	Pursue all means to locate the whereabouts of erring AOs including the institution of legal remedies, if necessary, to enforce settlement of their obligations to the University. Failure on the AO’s part to liquidate their outstanding accounts shall be a prima facie evidence that he has put such missing funds or property to personal use (RPC 217); and
+
+
+
+		3)	Consider the option to request for write-off had there been proof of exhaustion of all remedies pursuant to the provisions of COA Circular No. 2016-005.
+
+ 
+
+
+
+Payables
+
+
+
+15)	Dormant liabilities amounting to ₱34.107 million, were not reverted to the Accumulated Surplus/Deficit, contrary to Executive Order No. 87, COA Circular No. 99-004 and Presidential Decree No. 1445. Thus, it raises doubts on the valuation and existence of the payables and adversely affects the fair presentation of the accounts in the University’s Statement of Financial Position.
+
+
+
+	1)	Executive Order (E.O.) No. 87 issued by the President on August 13, 2019, directs that all accounts payable which remain outstanding for two (2) years or more in the books of national government agencies be reverted to the Accumulated Surplus or Deficit of the General Fund, or the Cumulative Result of Operations of the National Government.
+
+
+
+	2)	Section 4.1.3 of COA Circular No. 99-004 dated August 17, 1999, provides that all undocumented payables and those which are more than two (2) years shall be reverted to the Cumulative Results of Operations Unappropriated, now Accumulated Surplus/Deficit, except payables under fiduciary funds and foreign assisted projects.
+
+
+
+	3)	Section 98 of Presidential Decree (P.D.) No. 1445 also provides that any unliquidated balance of accounts payable in the books of the national government which has been outstanding for two (2) years or more and against which no actual claim, administrative or judicial, has been filed or which is not covered by perfected contracts on record may be reverted to the unappropriated surplus of the general fund of the national government, except for unliquidated balances of accounts payable in trust funds as long as the purposes for which the funds were created have not been accomplished.
+
+
+
+	4)	Audit of the balances of the liability accounts of the University as of December 31, 2020, disclosed that some payable accounts were inactive, non-moving, and remained outstanding for substantial period of time. In compliance with the aforementioned rules and regulations, the dormant payables should have been reverted to the Accumulated Surplus/Deficit. A summary of the accounts is presented as follows:
+
+
+
+Account Name
+
+Total (Php)
+
+Age
+
+Remarks
+
+Accounts Payable
+
+ 362,191.73 
+
+2 to more than 6 years
+
+Some payables were beginning balances in the e-NGAS version 2 since PY 2015.
+
+Due to Officers and Employees
+
+ 1,120,306.79 
+
+2 to more than 6 years
+
+
+
+Other Payables
+
+32,624,445.40 
+
+2 to more than 6 years
+
+
+
+Total
+
+34,106,943.92 
+
+
+
+
+
+
+
+	5)	Based on the above table, the payable accounts were long outstanding for a period ranging from two (2) to more than six (6) years. Verification of the Subsidiary Ledgers pertaining to the accounts showed that some of the balances as of December 31, 2020 were beginning balances of CY 2015, which were carried over from prior periods.
+
+
+
+	6)	The non-movement of the payable accounts is presumed that no request/demand for payment was received by the University from the creditors/payees. Hence, the considerable length of time that elapsed raised doubts as to its existence and valuation.
+
+
+
+	7)	Also, the dormancy of the payable accounts which extends beyond the two-year period prescribed under the rules and regulations warrants the reversion of the balances to the Accumulated Surplus/Deficit to ensure that liabilities are properly presented in the financial statements.
+
+
+
+	8)	Regular monitoring of the payable accounts of the agency, in compliance with the aforementioned rules and regulations, facilitates the preparation of transparent, accountable and realistic disbursement and annual expenditure programs. Consequently, it prevents the accumulation and dormancy of payables.
+
+
+
+	9)	We recommended that Management effect the reversion of dormant payables to Accumulated Surplus/Deficit, in accordance with the applicable provisions of E.O. No. 87, COA Circular No. 99-004 and P.D. No. 1445.
+
+
+
+	10)	We also recommended that Management periodically monitor its liability accounts to ensure that dormant payable accounts are properly disposed in accordance with pertinent accounting rules and regulations.
+
+
+
+	11)	Management committed to adjust the payables account under the Internally Generated Income Fund and revert various payables under the Trust Fund (Outside Funded) to the funding agencies since the projects have ended. 
+
+
+
+
+
+Income Generating Projects
+
+
+
+16)	The target revenue of the Income Generating Projects (IGPs) of the University was not met, due to non-action of some factors which are within the control of management; thus, the objectives and goal of income generation was not totally attained.
+
+
+
+	1)	The goal of the IGPs of the University, based on the IGP Manual, is to generate substantial revenues to support the four-fold functions of the University and provide livelihood for its various stakeholders.
+
+
+
+	2)	Audit of the Quarterly Report of Revenue and Other Receipts submitted to the audit team showed the performance of the IGPs for CY 2020 under Fund Cluster 6, presented as follows:
+
+
+
+Actual Revenue and Other Receipts Collections
+
+₱ 62,577,899.48
+
+Target Revenue (Annual) per BESF
+
+100,205,998.00
+
+Variance
+
+- 37,628,098.52
+
+Percentage
+
+                   - 37.55%
+
+
+
+	3)	Based on the above table, it shows that the target Annual Revenue of the University for its IGPs was not met during the year, with a negative variance of 37.55 percent equivalent to ₱37.628 million. Seemingly, the major factor that negatively affected the performance of the IGPs, was the more than two months of lockdown during the height of Covid-19. Production of goods was halted and demand on BSU products was low, while fewer clients were catered by service oriented IGPs.
+
+	
+
+	4)	Aside from the effect of the pandemic and based on discussion with UBA Officials on February 15, 2021, other factors impacted the performance of IGPs, as follows:
+
+
+
+i)	Limited operation of some of the IGPs due to social distancing protocols.
+
+ii)	Low working capital, only 15 percent of net income from PY year can be used for the succeeding year’s operation.
+
+iii)	Late approval of the Program of Receipts and Expenditures (PRE) by the Board of Regents resulting in late procurement of raw materials. The canteen was closed for almost one month since no cash was available to procure raw materials.
+
+iv)		Slow movement of procurement papers from different offices that caused delay in procurement, production and operation of IGPs.
+
+
+
+	5)	The effect of the Covid pandemic on operations was understandable, however, the negative variance should not have been as high as -37.55 percent had the Management imposed corrective measures on certain factors as enumerated above which affected income generation.
+
+
+
+	6)	According to UBA officials, consultations with management and the University Business Council are ongoing to address the issues on the operations of IGPs. Aside from the UBA Director, the University President designated additional two (2) OIC Directors, one as in-charge in Marketing and Branding of BSU products and the other one as in-charge for Special Projects with the aim to help revitalize and improve the performance and operations of UBA.
+
+
+
+	7)	Accordingly, an enhanced IGP Manual is being finalized and only lacks the procedural guidelines on Finance prior to submission and approval of the Board of Regents. However, because of the delayed issuance of the new IGP Manual which already took years, revisions on processes and operations of IGPs which are compliant with existing rules and regulations cannot be fully carried out. 
+
+
+
+	8)	We recommended and Management agreed to:
+
+
+
+		1)	Resolve the problems/factors that has been confronting the UBA such as, issues on business processes and budgetary requirements, to improve its income generation performance that will redound to the benefit of the University.
+
+
+
+		2)	Fast track the approval of the new/enhanced IGP Manual to fully guide management, UBA in particular, in fulfilling its income generation goals. 
+
+
+
+
+
+Compliance with Republic Act No. 9184
+
+
+
+17)	The agency failed to sufficiently carry out detailed engineering activities before contract bidding on the infrastructure project “Construction of Storm Drainage System,” thus, resulting in underutilization of project cost and questionable changes in project plans and specifications, contrary to pertinent provisions of the 2016 Revised IRR of RA No. 9184.
+
+
+
+	1)	Section 17.6. of the 2016 Revised IRR of RA No. 9184 provides that no bidding and award of contract for infrastructure projects shall be made unless the detailed engineering investigations, surveys and designs, for the project have been sufficiently carried out and duly approved in accordance with the standards and specifications prescribed by the Head of the Procuring Entity concerned or his duly authorized representative, pursuant to the recommendation of the end-user or implementing unit and in accordance with the “Detailed Engineering for the Procurement of Infrastructure Projects” under Annex “A” of the IRR.
+
+
+
+	2)	Also, Section 20.1.c(iii) of the same IRR, provides that the Bids and Awards Committee (BAC) during the Pre-procurement Conference shall determine the readiness of the procurement at hand, including, among other aspects, the completion of the detailed engineering according to the prescribed standards in the case of infrastructure projects.
+
+
+
+	3)	Technical inspection jointly conducted by the personnel of COA-CAR Technical Services Office (TSO) and BSU Planning and Development Office (PDO) on January 5 and 11, 2021 on the said project showed that detailed engineering activities were not sufficiently carried out by agency officials before the bidding and award of contract.
+
+
+
+	4)	Based on the findings and observations indicated in the TSO inspection report, the actual agency accomplishment in the As-built Plan of the project showed significant deviation from the original plan. This include the relocation of the inlets, which is questionable under the said report, to wit:
+
+
+
+“They were originally located along the interior road then relocated just halfway the main canal (box culvert) along the building rear portions (please refer to plan). This revision limited the range of flood water drainage or the capacity of the canal system to ensure immediate drain of surface runoff within the essential and habitable parts of BSU compound located at the flat areas from the fence to the building premises with the interior road in between as strategic locations for the inlets. Drainage on these portions which are generally flat is essential to eliminate ponding and flooding.”
+
+
+
+	5)	Likewise, due to revisions made on the project particularly the re-routing of the original path of the drainage, quantities in some items of work were not attained and considered as underrun. 
+
+
+
+	6)	Also, verification of the last billing of the contractor under Disbursement Voucher No. 101-19-09-0055 showed that the project was declared fully completed with only 75 percent of actual accomplishment, presented as follows:
+
+
+
+Particulars
+
+Amount (Php)
+
+Percent of Accomplishment
+
+Original contract cost
+
+18,818,737.52
+
+-
+
+    Add: Variation order no. 1
+
+1,180,000.00
+
+-
+
+Revised contract cost
+
+19,998,737.52
+
+100.00 %
+
+    Less: Actual cost of the completed project
+
+14,927,057.68
+
+74.64 %
+
+Unutilized balance of the project
+
+5,071,679.84
+
+25.36%
+
+
+
+	7)	Based on the above table, the project has only utilized the total amount of ₱14,927,057.68 or 74.64 percent of the revised contract cost of ₱19,998,737.52, thereby, showing underutilization of ₱5,071,679.84 or 25.36 percent of the total cost which could have been avoided had detailed engineering been done adequately and executed properly in accordance with the IRR.
+
+
+
+	8)	Evidently, the technical viability of the project was not clearly established at its inception. Survey, site investigation and other detailed engineering activities were not sufficiently carried out by the BSU PDO, which resulted in the inefficient use of funds allocated to the project and some questionable changes in the project plans.
+
+
+
+	9)	Annex “A” of the IRR, provides that as a requirement for the procurement of works, the concerned government officials who prepared and approved the detailed engineering shall issue a certification that the detailed engineering surveys and designs have been conducted according to the prescribed agency standards and specifications in conformance with the provisions in the Annex A of the IRR, and that the detailed engineering outputs are adequate for the procurement at hand.
+
+
+
+	10)	In view of the foregoing, we recommended that Management:
+
+
+
+		1)	Require the BAC, in future infrastructure projects to be implemented by the University; a) to ensure that detailed engineering is sufficiently carried out before the contract bidding to avoid problems that may arise during implementation phase of projects and; b) to strictly comply with the “Detailed Engineering for the Procurement of Infrastructure Projects” provided in Annex “A” of the IRR; and
+
+
+
+		2)	Require the PDO and former BAC (2017) to submit justifications on the above observations for further evaluation by the audit team.
+
+
+
+	11)	Management assured the Audit Team for them to be more cautious on the matter in the implementation of future infrastructure projects and to comply with the audit recommendations.
+
+
+
+	12)	The University Architect explained during the exit conference that the revisions made were necessary to suit the actual field conditions during the implementation of the project in year 2017. She also added that the project started in 2008 and was funded in 2015, thus, during that period changes in the project site have occurred until the actual project implementation in 2017, which essentially led to revisions on the project.
+
+
+
+
+
+Fund Utilization
+
+
+
+18)	The average rate of obligation and disbursement of University funds pegged at 67.42 percent and 62.04 percent, respectively, showed a reasonable, but not remarkable, capability of the University to implement its programs, projects and activities (PPAs); hence, funds were not fully maximized and planned PPAs were not fully attained.
+
+
+
+	1)	The four fund sources of BSU to implement its PPAs were: a) Fund Cluster 1/ Regular Agency Fund, b) Fund Cluster 2/ Internally Generated Fund, c) Fund Cluster 3/ Business Related Funds and d) Trust Receipts.
+
+	
+
+	2)	Audit of the Budget and Financial Accountability Reports (BFARS) of the University as of December 31, 2020, showed only an average rate of obligation and disbursement of BSU funds, exceeding 50 percent but less than 68 percent of its fund allocations, presented as follows:
+
+
+
+Rate
+
+Fund Cluster 1
+
+Regular Agency Fund 
+
+Fund Cluster 5
+
+Internally Generated Fund 
+
+Fund Cluster 6
+
+Business Related Fund 
+
+Fund Cluster 7
+
+Trust Receipts
+
+
+
+a)	Obligational
+
+P549,349,444.96
+
+600,106,000.00
+
+P131,008,665.63
+
+252,542,529.35
+
+P56,028,686.77
+
+76,238,899.61
+
+P110,959,061.62
+
+210,355,276.23
+
+Percentage
+
+91.54%
+
+51.88%
+
+73.49%
+
+52.75%
+
+Average
+
+67.42%
+
+b)	Disbursement
+
+P503,398,447.41
+
+549,349,444.96
+
+P 62,560,298.56
+
+131,008,665.53
+
+P45,687,029.09
+
+56,028,686.77
+
+P 30,200,834.63
+
+110,959,061.62
+
+Percentage
+
+91.63%
+
+47.75%
+
+81.54%
+
+27.22%
+
+Average
+
+62.04%
+
+
+
+	3)	Based on the foregoing table, the obligational and disbursement rates under Fund Cluster 1- Regular Agency Fund were at 91.54 percent, and 91.63 percent respectively, which were quite high. Despite the adverse effect of Covid-19 in year 2020 in its operations, the University was able to obligate and disburse most of its funds sourced from FY 2020 General Appropriations Act, to implement its planned PPAs.
+
+
+
+	4)	Likewise, under Fund Cluster 6-Business Related Funds, the rates were also considerably high, which reflected the much needed working capital of the Internally Generating Projects to finance its operations and generate income.
+
+
+
+	5)	However, obligational and disbursement rates on the other two Fund Clusters, the Internally Generated Funds and Trust Receipts, were low. Specifically, the disbursement rate under Fund Cluster 7 which was at 27.22 percent only, was considerably low. Factors that contributed to it were the multi-year implementation of projects, extension of project durations due to limitations during the height of the pandemic and uncontrollable factors during actual implementation of projects.
+
+
+
+	6)	We recommended that Management maximize the utilization of its fund allocations for the ensuing years particularly on the Internally Generated Funds and Trust Receipts, with due regard to pertinent rules and regulations to fully attain its targets and ultimately the goals and objectives of the University.
+
+
+
+	7)	The former VP for R&E explained that low fund utilization on researches were due to unpaid honorarium but with the recent move of the management, they hope to increase the utilization rate. 
+
+
+
+
+
+Scholarship Grants
+
+
+
+19)	Numerous scholarship grantees failed to abide with the terms and conditions set forth under the scholarship grant/agreement entered into with the University, with the latter not imposing sanctions thus, may imperil the school’s continuing program for career and personnel development to improve public service. Consequently, non-compliance with the contract may certainly cause, either suspension, or disallowance, of all money claimed including other incidental expenses for breach of contract.
+
+
+
+	1)	BSU promotes a continuing program for career and personnel development for all employees at all levels to create a work environment and climate conducive to the development of personnel skills, talents, and values for better public service. The University, through its Human Resource Development (HRD) Program, aims to promote the attainment of a highly motivated and competent public service by means of an intensive faculty and staff development to enable the University to carry on most adequately its four-fold functions in instruction, research, extension and production.
+
+
+
+	2)	To achieve the objectives of the program, several faculty and staff were qualified to pursue further studies, locally, or internationally, whereby a contract agreement was entered into between the grantee and the University. 
+
+
+
+	3)	Among the terms and conditions stipulated in the contract include the responsibility of the parties involved such as:
+
+
+
+		1)	The University: 
+
+
+
+a)	Shall pay the grantee the salary and other authorized and/or allowable benefits during the period of the scholarship program. 
+
+
+
+b)	Monitor, through the HRMO, the submission of the requirements like the copy of grades at the end of each term, and the submission of the Official Transcript of Records (OTR) and Diploma upon completion of the period of study. 
+
+
+
+		2)	The Grantee:
+
+
+
+c)	Submit to the University President, the Human Resource Development Committee, the NEDA Special Committee on Scholarship (if the study program is abroad), copy furnished the HRMO, a copy of grades at the end of each term; and submit OTR, diploma, or certificate of completion or its equivalent, within sixty (60) days from date of return to duty. 
+
+
+
+d)	Shall submit to the University the necessary application for the extension of the study grant with supporting papers within a reasonable time before the expiration of the original period if there is sufficient reason for such extension. 
+
+
+
+e)	Refund in full to the University such sum of money as may have been received from the University of whatever nature (includes, but not limited to: salaries; COLA; PERA; benefits, school fees and other expenses incidental to the study grant) while on scholarship, for failure to comply with any of the conditions of the contract through his/her fault or willful neglect, resignation, or other causes within his/her control, it being understood that proportionate refund shall in no case be allowed. 
+
+
+
+f)	Shall obligate himself/herself to abide by the terms and conditions of the scholarship grant. 
+
+
+
+	4)	The Agreement also provides that the grant of scholarship/study leave shall be deemed terminated after the expiration of the prescribed duration, unless terminated for just causes. 
+
+
+
+	5)	BSU Office Memorandum No. 245, S. 2018 dated November 26, 2018, also provides that Accomplishment Report (scholarly report which includes true copy of grades) shall be submitted by the grantee on study leave to the Office of the President (OP) at the end of each term/semester for update and monitoring. 
+
+
+
+	6)	In connection thereto, Chapter 1 (X.1.) – Sanctions of the HRD Program, provides that “Failure of the grantee to submit the required reports to the University President, through the HRD Committee and the College concerned within thirty (30) days after the close of the term or semester shall be a ground for withholding the salary, allowances and other allowable compensation.”
+
+
+
+	7)	Resolution No. 2085-a, s. 2012 approved by the Board of Regents of BSU in March 30, 2012 states that, “the Board gave instructions for management to submit a list of all faculty members who were on full time scholarship but have not finished their degrees and giving instructions further that those in the list should pay their service obligation through 30 percent salary deduction, until such time that the said obligation is settled.”
+
+
+
+	8)	In response to the audit team’s queries/letters sent on various dates, management provided the list of scholars as of June 30, 2020. Out of the 60 grantees, the HRMO was able to provide the team with only 14 contract agreements on September 1, 2020. These contracts pertained to those with expired study grants and who have not complied with the terms and conditions stipulated therein. The remaining contracts are yet to be furnished to the audit team. 
+
+
+
+	9)	Perusal likewise, showed that, 34 grantees have expired duration and/or extension of study grant. Moreover, majority have not completed their degrees while others were still in the process of completing their requirements which was beyond the allowed time of extension of one term. Also, grantees whose contracts ended in May 2020, but are still enrolled, or, in the process of completing their requirements, have not submitted to the HRMO any approved contract extension as mandated. Gauging from the time of expiry of their contract ranging from five (5) months to 29 years as of June 30, 2020, the expended time is considered unreasonable.
+
+
+
+	10)	The audit team’s observations and results of validation were corroborated by the Internal Audit Section (IAS) findings on the matter in 2019. Despite those findings by both COA and IAS, it appears that management was not so keen nor strongly committed to resolve the issues based on the years that passed. To date, funds disbursed to subsidize the program significantly amounted to ₱52.41 million spent for study leave with pay and other incidental expenses charged to the government. 
+
+
+
+	11)	Management did not implement any sanctions, hence, the practice was continuously abused by concerned personnel. The laxity, as well as, the negligence of both parties to abide strictly with the terms of the contract, had left negative impressions, not only with other personnel, but with the University as well. 
+
+
+
+	12)	Further, because of management’s continuous neglect, particularly, the office/s in-charge to firmly apply the terms and conditions of the scholarship agreement, the program’s objectives may not be successfully attained while public funds spent may just be put to waste, or inefficiently used, hence disallowable in audit. 
+
+
+
+	13)	In view of the foregoing, we recommended and Management agreed to–
+
+
+
+		1)	Require concerned scholars/grantees to immediately comply and submit all the requirements stipulated in the scholarship contract, otherwise, cause for the refund in full to the University all sums of money as may have been received from the University of whatever nature during the scholarship period; 
+
+
+
+		2)	Exhaust all means to demand refund from grantee/s who studied abroad, but, absconded, or, failed to return without valid cause. Consider inclusion of legal remedies in the terms of the contract to discourage grantees from absconding and /or defaulting on their obligations; 
+
+
+
+		3)	Require the HRMO to closely monitor strict compliance of current grantees with the requirements of BSU Office Memorandum No. 245, S. 2018 dated November 26, 2018 re: submission of Accomplishment Report including copy of grades to the OP at the end of each term/semester for update and monitoring.  Further, see to it that all provisions included in the scholarship contract are consistent in the spirit of fair play and equality; and
+
+
+
+		4)	Impose strictly the provisions of Board Resolution No. 2085-a, s. 2012 including withholding the salary, allowances and other allowable compensation of concerned personnel based on Chapter 1 (X.1.) – Sanctions of the HRD Program. 
+
+
+
+	14)	Subsequently, the audit team issued two Notices of Suspension on the above findings.
+
+
+
+
+
+
+
+Enforcement of COA Disallowances and Charges
+
+
+
+20)	Various COA Orders of Execution (COEs) received by the officials of the University were not strictly enforced, contrary to Section 7.1.3 of COA Circular No. 2009-006; resulting in corresponding disallowances and charges totaling ₱3,229,433.06 which remained outstanding as of December 31, 2020.
+
+
+
+	1)	COE is a document issued by authorized personnel of the COA to enforce the settlement of an audit disallowance/charge, whenever the persons liable fail or refuse to settle them after the decision has become final and executory. It is a written instruction to withhold payment of salary and other money due to persons liable, for settlement of their liability.
+
+
+
+	2)	Section 7.1.3 of COA Circular No. 2009-006 dated September 15, 2009 entitled “Prescribing the use of the Rules and Regulations on Settlement of Accounts” (RRSA), requires that the Head of the Agency shall enforce the COE through the withholding of salaries or other compensation due the person liable in satisfaction of a disallowance or charge. The withholding of salaries and other compensation shall be undertaken in coordination with the agency Cashier.
+
+
+
+	3)	Based on the Statement of Audit Suspensions, Disallowances and Charges (SASDC) issued as of December 31, 2020, twenty-one (21) Notice of Disallowance (NDs) totaling ₱2,514,494.06 and two (2) Notice of Charge (NCs) totaling ₱714,939.00, with COEs, remained outstanding as of December 31, 2020. Details are summarized as follows:
+
+
+
+NC/ND No.  
+
+Date
+
+ Amount 
+
+ Settlements 
+
+ Balance as of 12/31/2020 
+
+Notice of Disallowance
+
+ 
+
+ 
+
+ 
+
+ 
+
+ND No. 10-001-164-(09)
+
+11/12/2010
+
+5,565,644.88 
+
+3,756,303.52 
+
+1,809,341.36 
+
+ND No. 14-001-101-(11)(Bokod)
+
+7/25/2014
+
+492,200.00 
+
+439,403.23 
+
+52,796.77 
+
+15-007-911-(13)(BSU-Main)
+
+5/7/2015
+
+31,500.00 
+
+28,100.00 
+
+3,400.00 
+
+15-008-911-(13&14)(BSU-Main)
+
+5/7/2015
+
+89,760.00 
+
+-   
+
+89,760.00 
+
+15-011-911-(14)(BSU-Main)
+
+5/14/2015
+
+185,400.00 
+
+-   
+
+185,400.00 
+
+15-001-101-(14)(BSU-Main)
+
+5/26/2015
+
+68,834.93 
+
+30,581.24 
+
+38,253.69 
+
+15-043-SP-(14)(BSU-Main)
+
+8/24/2015
+
+65,779.60 
+
+12,520.00 
+
+53,259.60 
+
+15-032-911-(14&15)(BSU-Main)
+
+8/26/2015
+
+39,910.00 
+
+17,876.50 
+
+22,033.50 
+
+16-003-164-(15)(BSU-Main)
+
+5/17/2016
+
+159,028.00 
+
+136,044.66 
+
+22,983.34 
+
+16-003-101 and 164 (15-16)(BSU-Main)
+
+7/13/2016
+
+28,100.00 
+
+22,800.00 
+
+5,300.00 
+
+16-005-05-(16)(BSU)
+
+9/8/2016
+
+163,040.80 
+
+157,799.83 
+
+5,240.97 
+
+16-006-05-(16)(BSU)
+
+9/16/2016
+
+210,323.66 
+
+178,364.71 
+
+31,958.95 
+
+16-007-05-(16)(BSU)
+
+9/28/2016
+
+40,820.00 
+
+36,452.91 
+
+4,367.09 
+
+17-001-01&05(16)(BSU)
+
+1/18/2017
+
+83,050.00 
+
+ 
+
+83,050.00 
+
+17-004-05-(16)
+
+4/18/2017
+
+12,504.81 
+
+8,328.84 
+
+4,175.97 
+
+17-006-05-(16)
+
+4/26/2017
+
+21,666.07 
+
+7,439.45 
+
+14,226.62 
+
+17-007-05-(16)
+
+4/27/2017
+
+17,604.27 
+
+6,313.64 
+
+11,290.63 
+
+17-014-05-(17)
+
+9/4/2017
+
+29,000.00 
+
+20,944.43 
+
+8,055.57 
+
+17-025-05-(17)
+
+11/15/2017
+
+30,000.00 
+
+ 
+
+30,000.00 
+
+18-01-07-(16)
+
+2/5/2018
+
+29,400.00 
+
+ 
+
+29,400.00 
+
+18-003-05-(17)
+
+2/20/2018
+
+10,200.00 
+
+ 
+
+10,200.00 
+
+Totals
+
+ 
+
+7,373,767.02 
+
+4,859,272.96 
+
+2,514,494.06 
+
+Notice of Charge
+
+ 
+
+ 
+
+ 
+
+ 
+
+16-002-06-(16)(BSU Main)
+
+11/17/2016
+
+20,956.25 
+
+4,706.25 
+
+16,250.00 
+
+17-002-06-(16)(BSU)
+
+4/17/2017
+
+754,689.00 
+
+56,000.00 
+
+698,689.00 
+
+Totals
+
+ 
+
+775,645.25 
+
+60,706.25 
+
+714,939.00 
+
+Grand Total
+
+ 
+
+8,149,412.27 
+
+4,919,979.21 
+
+3,229,433.06 
+
+
+
+	4)	As can be gleaned from the preceding table, settlements amounting to ₱4,919,979.21 were made on the NDs and NCs, after receipt of the COEs by the persons liable, which was 60.37 percent of the total audit disallowances/charges of ₱8,149,412.27. Nevertheless, some retired, separated and resigned employees have not fully settled their corresponding liabilities prior to their exit from the University.
+
+
+
+	5)	It is emphasized that settlement of a disallowance/charge by the persons liable under the COE is immediate in nature, except when installment payments were requested by the persons liable and approved by the Director of the Prosecution and Litigation Office (PLO) of COA, pursuant to COA Resolution No. 2015-031 dated August 20, 2015. Thus, failure to request or lack of approved request for installment payment means that full settlement should be immediate.
+
+
+
+	6)	More so, persons determined liable in an audit disallowance/charge are solidarily liable for the amount thereof. In solidary obligation, any solidary debtor may be compelled to pay the whole amount, not only his or her share, whether or not he/she benefitted from the said debt and without prejudice to the solidary debtor’s claim against the other persons liable. Unlike in a joint obligation, as opposed to solidary obligation, the debtors are obliged to pay only a portion of the full amount of debt that corresponds to each debtor’s share.
+
+
+
+	7)	Of the persons determined liable for the disallowed or charged amount, 245 personnel were certified by the Human Resource Management Office (HRMO) as active in service with BSU as of January 28, 2021. 
+
+
+
+	8)	By the solidary nature of liable persons under the disallowance/charge, the immediate settlement of the amount can be enforced against the salaries and/ or other compensation of the 245 active BSU personnel. In case the persons liable are no longer in the service, the University shall cause the collection or settlement of the amount directly from them.
+
+
+
+	9)	Noteworthy to mention is that, violation of the instruction in the COE, such as payment of salaries or any money due the persons liable, shall cause automatic disallowance of the amount paid with the Head of the Agency and Cashier as persons liable. This is in addition to the unsettled amount in the COE.
+
+
+
+	10)	Section 23.4 of the RRSA also states that “The auditor shall monitor the implementation of the COE and report to the Director the action taken by the agency thereon. Unsettled COEs shall be referred to the General Counsel for appropriate action including referral to the Office of the Solicitor General and the Ombudsman.”
+
+
+
+	11)	As follow up on the compliance of the University, the audit team received various memoranda from the Legal Office-COA-CAR and COA Central Office as well, inquiring the status and actions taken by the agency on the COEs issued.
+
+
+
+	12)	Management replied that as early as October 2020, the cashiering office have individually informed the concerned personnel with a summary of disallowances with COEs. As result thereof, some paid voluntarily. Meanwhile, payroll for overload was modified to consider the deduction of disallowances with COEs. 
+
+
+
+	13)	During the exit conference, Management informed the audit team that a memorandum was issued requesting all offices concerned to implement the recommendations.
+
+
+
+21)	The approved installment payment scheme by the COA Legal Services Sector – PLO was not followed resulting in unsettled disallowances of ₱7,194,232.65 as of December 31, 2020 contrary to COA Resolution No. 2015-031.
+
+
+
+
+
+
+
+
+
+
+
+	1)	COA Resolution No. 2015-031 dated August 20, 2015 entitled “Policy on settlement of audit disallowances by persons liable,” provides the policy guidelines on all requests for settlement of audit disallowances on installment basis.
+
+
+
+	2)	Specific provisions related to the approved period of installment payment of the audit disallowances of the University are as follows:
+
+	
+
+“The monthly payment shall be deducted from the salary of the person liable, subject to the minimum take home pay requirement under the General Appropriations Act. Any deficiency in the installment payment for a given month after effecting the salary deduction shall be paid directly by the person liable to the agency cashier within five (5) days after the due date of the installment payment.
+
+
+
+In case the person liable retires, resigns or is otherwise separated from the service before the disallowance is settled in full, the person liable may execute an undertaking authorizing the application of his remaining salary, accrued leave credits and other separation benefits to satisfy the deficiency. Any unsettled balance after all such salaries and benefits have been applied shall be paid by the person liable directly to the agency cashier within fifteen (15) days from the date of receipt of notice/demand from the accountant or concerned officer.”
+
+
+
+	3)	The University, in accordance with the said circular, requested payment of various NDs on installment basis, which became final and executory or with COE issued. The said request was granted by COA indicating the monthly installment to be paid by the persons liable. 
+
+
+
+	4)	Review of settlements made by the persons liable as evidenced by the Notice of Settlement of Audit Suspensions, Disallowances and Charges (NSSDCs) issued by the audit team, however, disclosed that, installment payments were not strictly followed and implemented by the University. The deductions made on the payrolls were not in accordance with the approved monthly payments such that some have no deductions at all, while some paid partially but, in the long run, discontinued paying. 
+
+
+
+	5)	Observation likewise disclosed that employees nearing retirement including some who already retired, resigned and transferred to other agencies with outstanding disallowances/liabilities, just opted to exhaust their leave credits which the University allowed. Without leave credits to convert as their terminal pay, and only minimal amount left to collect for their retirement, clearance was no longer their priority or secured which is considered a deliberate move on their part to avoid settling their disallowances. This has been observed as the usual practice which is not only disadvantageous to the University, but also, becomes a burden to the remaining liable persons who are still active in service because of the solidary nature of the disallowances. The liability of one is the liability of all.
+
+
+
+	6)	Henceforth, since the period for installment has already lapsed and as demanded by existing regulations, the settlement of disallowance/s by the persons liable with COE is immediately required. The COE issued contained the authority of the BSU Cashiering Office to withhold payment of salaries and other money due to concerned persons liable.
+
+
+
+	7)	We recommended and Management agreed to:
+
+
+
+		1)	Enforce collection of the entire amount due from the persons liable to be paid directly to the BSU Cashiering Office upon receipt of this AOM;
+
+
+
+		2)	Withhold payment of the salaries, or, any amount due the persons liable who are still with the University by the BSU Cashiering Office such as, among others, overload pay, subject to the minimum take home pay requirement under the General Appropriations Act; or
+
+
+
+		3)	Collect the entire amount of the disallowance/charge from any of the persons liable under the subject COE without prejudice to their right to reimbursement from the other persons liable especially the approving officials.
+
+
+
+	8)	Finally, in case the COEs are still not carried out despite numerous verbal and written notices by COA authorities, the audit team has no other recourse than to implement the law through the issuance of subsequent ND to the Head of the Agency and the University Cashier; and ultimately refer the violation to the General Counsel including the Office of the Solicitor General and the Ombudsman for their appropriate action.
+
+
+
+22)	Several accountable officers were not bonded, contrary to Section 101 of PD 1445 and Section 4.1 of the Bureau of Treasury Circular No. 02-2009 dated August 6, 2009; thereby, exposing the government to the risk of unrecoverable losses of funds that may occur in the event of shortages/deficits.  
+
+
+
+	1)	Section 101 of PD 1445 requires that, “(1) Every officer of any government agency whose duties permit or require the possession or custody of government funds or property shall be accountable therefor and for the safekeeping thereof in conformity with law. (2) Every accountable officer shall be properly bonded in accordance with law.” 
+
+
+
+	2)	Also, Section 4.1 of the Bureau of Treasury Circular (BTC) No. 02-2009 dated August 6, 2019 provides:
+
+
+
+“Every officer, agent, and employee of the Government of the Philippines xxx, regardless of the status of their appointment shall, whenever the nature of the duties performed by such officer, agent or employee permits or requires the possession, custody or control of funds or properties for which he is accountable, be deemed a bondable officer and shall be bonded or bondable and his fidelity insured.”
+
+
+
+	3)	Records show that several accountable officers were not bonded during the period of cash examinations, summarized as follows:
+
+
+
+Accountable Officers
+
+Position/Designation/
+
+Project
+
+Period Covered (Cash Examination)
+
+Risk Number
+
+Lawilao, Judith G.
+
+Collecting Officer, Mushroom Project
+
+10/04/19 - 11/03/20
+
+No bond
+
+Masedman, Rebecca T.
+
+Project Manager, Garments
+
+10/15/19 – 10/27/20
+
+No bond
+
+Delmas, Edna B. 
+
+Project Manager, Guest houses
+
+10/04/19 - 11/03/20
+
+No bond
+
+Dumapis, Richard P.
+
+Director, Veterinary Hospital
+
+10/15/19 - 11/03/20
+
+No bond
+
+Garcia, Fitzgerald B.
+
+Project Manager, Poultry Project
+
+09/24/19 – 11/04/20
+
+No bond
+
+Salda, Violeta B.
+
+Director, Food Science Research and Innovation Center
+
+10/31/19 – 10/27/20
+
+No bond
+
+Pallay, Sunshine
+
+Cash Collecting Officer
+
+12/28/19 – 11/03/20
+
+No bond
+
+
+
+	4)	Verification revealed that the Collecting Officers of the Mushroom Project and the Project Manager of Garments, respectively, were designated within the period of cash examination, however, no application for fidelity bond were secured before assumption of office.
+
+
+
+	5)	Meanwhile, fidelity bond of the Project Manager of Guest Houses and the Director of Veterinary Hospital were not renewed before expiration on April 4, 2019, when they continually hold position requiring such bond. 
+
+
+
+	6)	As of date, only the fidelity bond of Mr. Garcia and Mr. Dumapis were secured from the Bureau of Treasury on October 14, 2020 and January 13, 2021, respectively, while all others remained unprocessed. 
+
+
+
+	7)	Considering the custodial functions of the above identified accountable officers over government funds, fidelity bonds should have been secured before expiration and before acceptance of such functions. Not securing of bond from the National Treasury were noted to have been the negligence of the accountable officers to submit documentary requirements and the Compensation, Benefits and Other Obligations (CBOO) Office to oversee the necessity to apply for fidelity bond as stated in the Section 101 of PD 1445 and Section 4.1 of BTC No. 02-2009.
+
+
+
+	8)	According to an administrative staff, non-renewal and non-processing of fidelity bonds were due to non-submission of requirements by the accountable officers despite repeated reminder from the CBOO office to submit such.
+
+
+
+	9)	Failure of the accountable officers to secure fidelity bond exposes the government to the risk of unrecoverable losses of funds that may occur in the event of shortages/deficits of cash accountability.
+
+
+
+	10)	We recommended that Management:
+
+
+
+		1)	Require all designated accountable officers to apply for fidelity bond in accordance with Section 4.1 of BTC No. 02-2009; and 
+
+
+
+		2)	Adhere at all times with the provisions of the bonding law, TC No. 02-2009 and PD 1445, to safeguard public funds in case of defalcations, shortages and unrelieved losses.  
+
+
+
+	11)	Management informed the audit team that in all designations as accountable officer, application for a bond should be attached.
+
+
+
+
+
+Gender and Development
+
+
+
+23)	Various GAD planned targets for CY 2020 were met, however, some were cancelled due to the pandemic. Nevertheless, COVID 19 response GAD activities were instead, initiated to support and undertake urgent and appropriate assistance to its clients, employees, students and stakeholders, with the end view of promoting gender equality and women’s empowerment. 
+
+
+
+	1)	Section 36 of R.A. 9710 states, “All departments, including their attached agencies, offices, bureaus, state universities and colleges, government-owned and -controlled corporations, local government units, and other government instrumentalities shall adopt gender mainstreaming as a strategy to promote women's human rights and eliminate gender discrimination in their systems, structures, policies, programs, processes, and procedures….”
+
+
+
+	2)	Joint Circular No. 2004-1 of the DBM, NEDA and the National Commission on the Role of Filipino Women (NCRFW), now the Philippine Commission on Women (PCW), provides that at least five (5) percent of the total agency budget appropriations authorized under the annual General Appropriations Act shall correspond to activities supporting GAD plans and programs. Also, the General Appropriations Act (GAA) provides that the GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five percent (5%) of the agency’s budgets.
+
+
+
+	3)	PCW-NEDA-DBM Joint Circular No. 2012-01 provides guidelines for the preparation of Annual Gender and Development (GAD) Plans and Budgets and Accomplishment Reports to implement the Magna Carta for Women .As provided in the guidelines, one of the essential elements to enable agencies to effectively plan and implement their programs on GAD is the regular undertaking of trainings, orientations and capacity development of agency personnel for better understanding and appreciation of GAD issues and GAD-related laws and commitments.
+
+
+
+	4)	For CY 2020, the University was provided under the GAA a total budget appropriation of ₱614,222,000.00 of which ₱32,281,131.49 or 5.10 percent was allocated and spent for GAD programs, activities and projects (PAPs) during the year.
+
+
+
+	5)	Notwithstanding the threat of the Covid 19 pandemic that befall humanity during the first quarter of 2020 up to this day, various organizational-focused GAD activities as well as client-focused GAD activities were conducted to enhance awareness of University personnel and students as well, on GAD issues. The activities that were successfully carried out include gender mainstreaming of graduate school students, Disaster Risk Reduction Management (DRRM) for NSTP and student leaders and enhancement of disaster reduction committee (Bokod Campus). Various webinars on numerous GAD topics were also successfully conducted with 1961 male and female participants. Distribution of information, education and communication (IEC) materials pertaining to various Republic Acts (RA) tackling GAD issues were disseminated. 
+
+
+
+	6)	We encourage Management to continue its active role in promoting and attaining GAD responsive activities in support to the government’s commitment to pursue women’s empowerment and gender equality. 
+
+
+
+Senior Citizen and Differently-abled Program
+
+
+
+24)	To cater the needs of senior citizens and differently-abled persons, the University constructed special lanes for differently-abled persons for their safety and convenience.
+
+
+
+Compliance with PHILHEALTH Law
+
+ 
+
+25)	For year 2020, the University remitted the total amount of ₱8,574,932.59 to the Philippine Health Insurance Corporation (PhilHealth). This is in compliance with Republic Act No. 9241 or the National Health Insurance Act of 1995 and DBM Circular Letter No. 2017-3 dated January 3, 2017, which prescribe the policies and procedures on Government Share on the Health Insurance Premium (HIP) Contributions of Government Employees to the PhilHealth effective FY 2017.
+
+
+
+Compliance with GSIS Act of 1997
+
+
+
+26)	In compliance with Republic Act No. 8291, the GSIS Act of 1997, dated May 30, 1997, the University deducted properly and remitted without delay the Government Service Insurance System (GSIS) personal share and loans of employees amounting ₱29,677,843.55 and ₱9,622,470.04, respectively, for year 2020. Likewise, the employer’s share amounting to ₱34,731,267.10 was remitted without delay, however, ₱23,645,435.16 of which was remitted thru the DBM. 
+
+
+
+Compliance with PAG-IBIG (HDMF)
+
+
+
+27)	Pursuant to Republic Act No. 9679 or the Home Mutual Fund Law of 2009 otherwise known as PAG-IBIG (Pagtutulungan sa kinabukasan: Ikaw, Bangko, Industriya at Gobyerno) Fund, the University deducted and remitted without delay the PAG-IBIG personal share and loans of employees amounting to ₱2,740,000.00 and ₱3,601,550.70, respectively. Likewise, the employer’s share amounting to ₱969,900.00 was remitted without delay.
+
+
+
+Compliance with Tax Laws
+
+
+
+28)	The University withheld taxes on gross compensation income from officials and employees and government purchases and contract of services from suppliers/contractors the total amount of ₱41,232,616.96 and ₱6,418,220.98, respectively, of which same amount was remitted to the Bureau of Internal Revenue, in accordance with the Revenue Regulation No. 10-2008 dated July 8, 2008. 
+
+
+
+Suspensions, Disallowances, and Charges
+
+
+
+29)	Audit suspensions, disallowances and charges amounting to ₱50.48 million, ₱60.88 million, and ₱0.98 million, respectively, remained unsettled as of end of the calendar year.  
+
+	
+
+	1)	Records of settlement show that audit suspension, disallowances and charges issued in previous years and during this audit period, have not been settled as of December 31, 2020, viz:
+
+	
+
+	
+
+	Nature
+
+	
+
+	Balance as of December 31, 2019
+
+	January 1 to December 31, 2020
+
+	Balance as of December 31, 2020
+
+	
+
+	
+
+	Issuance
+
+	Settlement
+
+	
+
+	Notice of Suspension
+
+	₱ 6,705,717.39  
+
+	106,749,023.07 
+
+	62,973,703.20 
+
+	 50,481,037.26 
+
+	Notice of Disallowance
+
+	59,906,821.56
+
+	 1,564,430.09 
+
+	 593,296.66 
+
+	 60,877,954.99 
+
+	Notice of Charge
+
+	819,099.00
+
+	 157,000.00 
+
+	 -   
+
+	 976,099.00 
+
+	TOTAL
+
+	₱67,431,637.95 
+
+	108,470,453.16 
+
+63,566,999.86 
+
+	112,335,091.25 
+
+	
+
+	2)		As noted from the monitoring of settlements, disallowances and charges have been enforced by Management through deductions from regular payrolls, from other money claims such as retirement pay and through direct payments of the identified liable persons.  
+
+	
+
+
+
+
+
+59
+
+
+
+58
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,649 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+37
+
+PART II - OBSERVATIONS AND RECOMMENDATIONS
+
+A. Financial and Compliance Audit
+
+Unserviceable equipment still included in the ICT Equipment balance
+
+1. Two unserviceable laptops with total carrying amount of ₱46,549.91 reported
+in the Inventory and Inspection Report of Unserviceable Property (IIRUP)
+were not dropped from the ICT Equipment account, contrary to Section 40,
+Chapter 10, Volume I of the GAM, affecting the fairness of presentation of
+ICT Equipment in the financial statements.
+
+Section 40, Chapter 10, Volume I of the GAM states:
+
+c) PPE is said to be unserviceable if it is no longer capable of
+providing the entity with future economic benefits or service
+potential.
+
+d) All unserviceable property shall be reported in the Inventory and
+Inspection Report of Unserviceable Property (IIRUP) (Appendix
+74). PPE reported in the IIRUP shall be dropped from the books by
+debiting Impairment Loss – Property, Plant and Equipment (cost of
+the PPE less Accumulated Depreciation).
+
+The submitted Report of Physical Count of Property, Plant and Equipment
+(RPCPPE) and IIRUP showed two (2) unserviceable laptops with the following
+details:
+
+Description Location Cost AccumulatedDepreciation
+Carrying
+Amount
+
+Apple Notebook MacBook 12
+inch with Retina Display (Gold)
+S/N: SC020K5FKGF85
+
+AO-GSD 85,000.00 60,852.89 24,147.11
+
+Dell XPS 13 256 SSD
+Notebook Intel core i7-7500
+8gb Memory
+SN: HCSCBG2
+
+AO-GSD 86,184.00 63,781.20 22,402.80
+
+Total 171,184.00 124,634.09 46,549.91
+
+Verification of the PPE accounts revealed that these two unserviceable laptops are
+still carried in the books of the agency as the Accountant has not drawn yet a
+Journal Entry Voucher (JEV) to recognize impairment loss on the unserviceable
+PPEs reported in the IIRUP, required under Section 40 (d), Chapter 10, Volume I of
+the GAM; thus, affecting the fair presentation of ICT Equipment in the financial
+statements.
+
+
+
+38
+
+We recommended that Management instruct the:
+
+a) Accountant to draw a JEV to recognize the impairment loss of the two (2)
+unserviceable laptops reported in the IIRUP; and
+
+b) Property Officer to submit the IIRUP to the agency’s Disposal Committee
+for the immediate disposal of the unserviceable equipment.
+
+Management Comment:
+
+The Property Officer is currently updating the IIRUP. Corresponding
+adjustments/reclassification will be immediately reflected in the books of accounts,
+and upon disposal of the laptops.
+
+Delayed Submission of Disbursement Vouchers
+
+2. Disbursement vouchers for the months of October to December 2020
+amounting to ₱83,787,886.04 were not submitted for audit, thus the Audit
+Team was not able to establish the correctness and reliability of the affected
+accounts’ balances in the financial statements as at year end.
+
+Paragraph 6.05 of COA Circular No. 95-006 dated May 18, 1995 provides that “the
+official involved in the daily recording of transactions in the books of accounts shall
+turn over the receipts and the disbursement records with all paid vouchers and
+documents evidencing the transactions to the Auditor within 10 days from date of
+receipt of said documents.”
+
+While Section 60 (c), Chapter 19, Volume I of the GAM, states that all NGAs shall
+prepare and submit the following financial statements/trial balances (FS/TB) and
+supporting schedules (SS)/documents within the prescribed deadline.
+
+Entity/Office Statement/Report Deadline Submit to
+
+Monthly TBs and SSs Ten days after the endof the month
+Auditor, DBM,
+Management
+
+Quarterly TBs, FSs and SSs Ten days after the endof the quarter
+Auditor, DBM,
+Management
+
+Year-end
+TBs, FSs and SSs
+(combined CO, ROs
+and OUs)
+
+February 14 of the
+following year
+
+COA Auditor, DBM,
+COA-GAS
+
+In the preparation of the TB, the source/summarizing documents are posted to the
+respective SLs. The source documents include the DV, JEV and other supporting
+documents.
+
+
+
+39
+
+Review on the submission of the required reports and documents submitted to the
+Audit Team showed that the DVs were not regularly and timely submitted by the
+Accounting Office. As of February 18, 2021, financial reports and documents
+covering the period January to September 2020 were delayed.
+
+In consideration of the unexpected challenges and limitations in the overall
+operations of agencies brought about by the COVID-19 pandemic, which affected
+the personnel working arrangement and the submission of financial reports to the
+Audit Team, we made an adjustment in the deadline of submission of reports; thus,
+the number of days delayed was significantly reduced by two months. Still, the new
+computed delay is 10 to 109 working days.
+
+As of February 18, 2021, DVs for the months of October to December 2020
+totaling P83,787,886.04 were not yet submitted for audit. Details of the delay are
+shown below.
+
+Reports/Documents Deadline ofSubmission
+Date
+
+Submitted
+
+Days
+Delayed
+
+Amount of
+Transactions
+Not Submitted
+for Audit (P)
+
+Disbursement Vouchers (DVs)
+January Feb. 10, 2020 Feb. 20, 2020 10
+February Mar. 10, 2020 Mar. 10, 2020 0
+March Jun. 10, 2020 Sep. 24, 2020 71
+April July 10, 2020 Dec. 16, 2020 109
+May Aug 10, 2020 Dec. 16, 2020 88
+June Sept. 10, 2020 Jan. 7, 2021 79
+July Oct. 10, 2020 Jan. 7, 2021 58
+August Nov. 10, 2020 Feb. 8, 2021 60
+September Dec. 10, 2020 Feb. 15, 2021 42
+October Jan. 10, 2020 29 21,969,607.27
+November Feb. 10, 2021 5 33,502,155,77
+December Feb. 10, 2021 5 28,316,046.77
+
+Total 83,787,886.04
+Journal Entry Vouchers (JEVs)
+
+January Feb. 10, 2020 Feb. 20, 2020 10
+February Mar. 10, 2020 Mar. 10, 2020 0
+March Jun. 10, 2020 Sep. 24, 2020 71
+April July 10, 2020 Dec. 16, 2020 109
+May Aug. 10, 2020 Dec. 16, 2020 88
+June Sept. 10, 2020 Jan. 7, 2021 79
+July Oct. 10, 2020 Jan. 7, 2021 58
+August Nov. 10, 2020 Feb. 8, 2021 60
+September Dec. 10, 2020 Feb. 15, 2021 42
+October Jan. 10, 2020 29
+November Feb. 10, 2020 5
+December Feb. 10, 2021 5
+
+The non-submission to the Auditor’s Office of the aforementioned financial reports
+prevented the Audit Team to establish the correctness and reliability of the affected
+accounts’ balances in the financial statements as at year end.
+
+
+
+40
+
+We recommended that Management direct the Chief Accountant and other
+concerned officers and employees to strictly comply with the prescribed
+deadlines in the submission of financial reports and documents to the Office of
+the Auditor.
+
+Management Comment:
+
+The PCC acknowledged the delay in the submission of DVs/JEVs and supporting
+documents and the value of its timely submission to the Office of the Commission
+on Audit (COA) for the efficient conduct of the examination and review of the
+accounts and operations of the PCC. However, the pandemic brought so many
+challenges and limitations in the overall operations of PCC, which significantly
+affected the financial processes and submission compliance. The adoption of the
+alternative work arrangements such as Work-From-Home (WFH) and Skeletal
+Work Force (SWF) in conformity with Inter-Agency Task Force for COVID-19 and
+relevant Civil Service Commission rules and regulations affected the efficiency of
+government operations compared to the normal times. Nonetheless, PCC continued
+to proactively observe business continuity through electronical means, but despite
+the precautions observed by PCC, several personnel, including 2 personnel from
+accounting tested positive for COVID-19; thus, suspended the physical operations
+of PCC for the time being until swab tests of all direct contacts were released.
+Further, the sudden transfer of one of the Accountants to other agency and the filing
+of sick of leave of the other Accountant significantly reduced the manpower and
+operating capacity of the Accounting office. Notwithstanding these circumstances,
+PCC assured the Audit Team that they will exert all efforts to improve the system,
+to be able to comply on the timely submission of financial reports and documents.
+
+Gender and Development Plan (GAD) and Implementation
+
+3. The PCC had formulated a GAD Plan designed to address gender issues for
+FY 2020 through integration in the Agency’s regular activities.
+
+Section 31 of the General Provision (GP) of RA No. 11465 or the General
+Appropriation Act (GAA) for Fiscal Year 2020 provides the Programs and Projects
+related to GAD. All agencies of the government shall formulate GAD Plan
+designed to address gender issues, insofar as it relates to their intended functions,
+and integrate the same in their regular activities.
+
+The PCC allotted a budget of P138,780,872.00 for GAD and incurred a total
+expense of P55,830,393.26 or 32.55 percent and 13.09 percent, respectively, of the
+agency’s total appropriations of P426,330,224.00.
+
+The PCC reported accomplishments relative to the implementation of its plans and
+programs related to GAD as presented in the next page.
+
+
+
+41
+
+GAD Activity
+Amount (P) Remarks
+
+GAD Budget Actual Cost
+1. Monitoring of the
+
+Implementation of PCC GAD
+Activities
+
+400,632.00 421,703.47 Implemented
+1 Fulltime GAD Coordinator
+hired from January 1 – Dec.
+31, 2020
+
+2. Conduct of GFPS Regular
+Meetings
+
+20,000.00 49,053.41 Implemented
+GAD related agenda were
+discussed during the various
+FGD for the PCC Gender
+Assessment (7/7 meetings)
+GAD Year-end Assessment
+was also considered as one of
+the GFPs Regular Meetings
+(1/1 meeting)
+
+3. Percentage of required
+meeting conducted – 100% of
+required meetings conducted
+(Anti-Sexual Harassment Act
+of 1995: RA No. 7877)
+
+18,000.00 0.00 Not Implemented
+(Not Applicable) No meeting
+was conducted as no sexual
+harassment case was reported
+for FY 2020
+
+4. Conducted seminar on
+Prevention of Sexual
+Harassment in the Workplace
+
+36,000.00 87,552.90 Implemented
+3 batches of seminar
+conducted
+Participants (Male-36;
+Female-38)
+
+5. Maintenance of Gender-
+Neutral washroom/ toilet for
+Senior Citizen and PWD
+
+42,960.00 60,326.52 Implemented
+
+6. Maintenance of Lactation and
+Wellness/ Nook Room
+
+141,180.00 218,769.24 Implemented
+
+7. Conduct of Orientation on
+Media and Gender Equality
+Guidelines
+
+17,000.00 43,273.89 Implemented
+30 participants attended
+(Male-8; Female-22)
+
+8. Conduct Orientation on
+Gender Fair Language
+Guidelines
+
+64,000.00 17,198.88 Implemented
+27 participants attended (Male-
+11; Female-16)
+
+9. Participation to/ Celebration
+of Women’s Month
+
+45,000.00 66,877.60 Implemented
+2 batches of Film Screening of
+“Bagahe” conducted
+48 participants attended
+(Male-18; Female-30)
+
+10.Participation to/
+Commemoration of 18-day
+VAW Campaign
+
+60,000,00 50,000.00 Implemented
+Film Screening of “Nuwebe”
+2 batches of group session via
+MS Streams (Film Launching
+and Film Q&A) conducted
+46 participants (Male-15:
+Female-31
+51 participants (Male-18;
+Female-33
+
+Gender Issue and/ or GAD
+Mandate
+Republic Act 8187 or Paternity
+Leave Act of 1996
+
+10,622.82 1 male availed
+
+Republic Act 11210 or 105-
+Day Expanded Maternity
+
+902,155.23 1 female availed
+
+
+
+42
+
+GAD Activity
+Amount (P) Remarks
+
+GAD Budget Actual Cost
+Leave Law
+Republic Act 8972: Solo
+Parents’ Welfare Act of 2000
+
+5,451.41 3 females availed
+
+Relevant Agency MFO/PAP
+Competition Policy
+Enforcement Program (HGDG
+Score: 14.16, 70.80% of the
+total appropriations amounting
+P194,825,000)
+(PIMME Score: 10.33 or
+51.65% of the total
+disbursements amounting
+P104,351,225.15)
+
+137,936,100.00 53,897,407.79
+
+Total 138,780,872.00 55,830,393.26
+Percentage 32.55 13.09
+
+Senior Citizens and Persons with Disability Program/Project
+
+4. The PCC formulated programs and projects that addressed the concerns of
+senior citizens and persons with disability through integration in the Agency’s
+regular activities.
+
+Section 32 of the GP of RA No. 11465 or the GAA for FY 2020 provides the
+Programs and Projects related to Senior Citizens and Persons with Disability. All
+agencies of the government shall formulate plans, programs and projects intended
+to address the concerns of senior citizens and persons with disability, insofar as it
+relates to their intended functions, and integrate the same in their regular activities.
+
+The PCC reported the following accomplishments relative to the implementation of
+its plans and programs for senior citizens and persons with disability.
+
+Activity Actual Accomplishment Actual Cost
+Advocacy Program on
+Competition Policy and
+Law
+
+Conducted 7 advocacy activities Direct Cost:
+P 1,871.00
+PS Attribution:
+P 591,378.00
+Total Cost:
+P 593,249.00
+
+Informational Videos in
+PCC social media
+accounts with sign
+language insets or closed
+captions/ subtitles
+
+13 informational videos (i.e., competition
+minutes videos) with closed
+captions/subtitles developed
+
+PS Attribution:
+P1,847,799.00
+
+Posting of e-streamers for
+disability-related
+activities
+
+2 digital streamers/banners uploaded to
+the TV monitor and PCC website
+
+
+
+43
+
+Activity Actual Accomplishment Actual Cost
+Sustained Implementation
+of accessible website
+design
+
+PCC website that contains the following
+features:
+
+ Initial page set-up on the PCC Web
+Management Portal
+
+ Assigned short-cut keys
+ Maintenance of Accessibility Portal
+
+P 65,500.00
+(PCC Website
+Hosting)
+
+Provision of comments or
+recommendations on
+competition-related bills,
+statutes or policies
+
+Reviewed and commented on 9
+competition-related bills, statutes or
+issuances which have an incidental effect
+on the welfare of the PWDs and SCs
+
+Conduct of market
+studies or undertaking
+of issue papers
+
+Completed 5 issues papers or market
+studies
+Commenced 3 market studies
+
+P 4,473,200.00
+
+Provision of PWD toilet
+facility
+
+Maintenance of the PWD washroom/toilet
+facility
+
+Proportionate
+Rental Cost:
+P 60,260.00
+
+Total P 7,040,008.00
+
+Compliance with Disaster Risk Reduction and Management
+
+5. In compliance with Section 36 of the GP of RA No. 11465, the PCC created the
+PCC-Emergency Response Team (PCC-ERT). Below are the activities conducted
+for CY 2020:
+
+Date Activity
+May 10, 17, 24 & 31
+October 11, 18 & 25
+
+Conduct of Fire Alarm Testing
+The PCC-ERT coordinated with the Vertis North
+Corporate Center management for the conduct of fire
+alarm testing
+
+Oct 12-16 Two PCC personnel attended the Free Basic
+Occupational Safety and Health Training for
+Government Workers conducted by the Occupational
+Safety and Health Center
+
+Compliance with Climate Change Adaptation and Mitigation
+
+6. In further compliance with Section 36 of the GP of RA No. 11465, the PCC
+undertakes the following projects.
+
+1) Office Circular No. 2019-10-002 dated October 4, 2019 or the PCC Energy
+Conservation Policy;
+
+
+
+44
+
+2) Systematic waste segregation, collection and disposal pursuant to RA 9003
+or the Solid Waste Management Act and house rules of the Ayala Property
+Management Corp.; and
+
+3) Distribution of lifeline kits to PCC officials and employees, including job
+orders and institutional contracts
+
+Additionally, the PCC conducted webinar on Container Gardening Made Easy
+aimed at sharpening the gardening skills of participants, conducted by Mr. Eduardo
+Cleofe Jr. of Luntiang Republika Eco Farms, last November 18, 2020.
+
+Compliance with Tax Laws
+
+7. The PCC regularly complied with the requirement of DOF-DBM-COA Joint
+Circular No. 1-2000 dated January 3, 2000 and Joint Circular No. 1-2000A dated
+July 31, 2001, relative to the remittance of all taxes withheld on gross compensation
+income from officials and employees for the current year and on taxes withheld
+from private entities regarding government purchases and contracts for services.
+
+The taxes withheld and remitted to BIR are shown below:
+
+Taxes withheld for CY 2020 P40,971,196.42
+Less: Remitted in 2020 40,971,196.42
+Difference P 0.00
+
+The TRAs were supported with properly accomplished Withholding Tax Returns
+filed with the Bureau of Internal Revenue on or before the 10th day of the following
+month.
+
+Compliance with GSIS Premium Deductions and Remittances (RA No. 8291)
+
+8. GSIS Social Insurance and Employees Compensation Fund (SIF and ECIF)
+premiums were deducted from the salaries of employees and remitted on time to the
+GSIS. The loans payable and insurance premiums remitted are shown below:
+
+Deductions from salaries including RLIP
+and Loans payable for CY 2020 P15,966,548.80
+
+Less: Remittance in 2020 14,689,931.88
+Balance as of December 31, 2020 P 1,276,616.92
+
+The balance of P1,276,616.92 was remitted in January 2021.
+
+
+
+45
+
+Compliance with Pag-IBIG Fund Law (RA No. 9679)
+
+9. For CY 2020, the PCC remitted all required amounts due to the Home Development
+Mutual Fund (HDMF) in compliance with RA No. 9679 dated July 21, 2009. Total
+amount deducted from salaries including loan remittances for the year amounted to
+P2,253,731.14 of which P2,088,409.16 was remitted as of December 31, 2020,
+leaving a balance of P165,321.98, which was remitted in January 2021.
+
+Compliance with the PhilHealth Law (RA No.7875)
+
+10. For CY 2020, the PCC remitted all withheld amounts due to the PhilHealth on or
+before the 10th day of the succeeding month. Total amount deducted from salaries
+for the year amounted to P1,566,977.77 of which P1,430,292.49 was remitted as of
+December 31, 2020, leaving a balance of P136,685.48, which was remitted in
+January 2021.
+
+Compliance with the Property Insurance Law (RA No. 656)
+
+11. The PCC insured its insurable properties in compliance with COA Circular No.
+2018-002 dated May 31, 2018, with the General Insurance Fund of the GSIS as
+required under RA No. 656, otherwise known as the “Property Insurance Law”, as
+amended by PD No. 245 dated July 13, 1973.
+
+Status of Audit Suspensions, Disallowances and Charges
+
+12. There were no audit suspensions, disallowances and charges issued in prior and
+current years to the PCC.
+
+

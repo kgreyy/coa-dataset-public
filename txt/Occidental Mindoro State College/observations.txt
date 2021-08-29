@@ -1,0 +1,3616 @@
+
+
+PART II – DETAILED OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+A)	FINANCIAL AND COMPLIANCE AUDIT
+
+
+
+1)	Inefficient and ineffective monitoring, controlling and recording of inventories due to weak internal control and incorrect practices contrary to the Government Accounting Manual (GAM) for National Government Agencies (NGAs) resulted in a) discrepancy of P2,363,858.25 between the accounting records and the Report on the Physical Count of Inventories; b) accumulated shortages and overages; c) non-compliance with accrual basis of accounting; and d) erroneous classification of inventory and expense accounts, thus  rendering the Inventory and Supplies and Materials Expense accounts valued at P8,232,406.15 and  P27,947,998.83, respectively as of December 31, 2020 inaccurate and unreliable.
+
+Chapter 8 of GAM for NGAs, Volume I, defines Inventory Accounting System as the system of monitoring, controlling and recording of acquisition and disposal of inventory. The system starts with the receipt of the purchased inventory items and ends with its issuance/disposal.
+
+
+
+Analysis and evaluation of the Inventory Accounting System of the College revealed the following deficiencies that need immediate actions:
+
+
+
+a)	Discrepancy of P2,363,858.25 between the accounting records and the Report on the Physical Count of Inventories 	
+
+Part C of the Instructions for Appendix 66 of GAM for NGAs, Volume II, provides that the Report on the Physical Count of Inventories (RPCI) shall be reconciled with the Supplies Ledger Cards (SLCs) and Stock Cards (SCs) maintained by the Accounting Division/Unit, and Property and/or Supply Division/Unit, respectively. Any discrepancy shall be verified and/or adjusted accordingly.
+
+
+
+Review of the accounting records and RPCI as of December 31, 2020 revealed a discrepancy of P2,363,863.25 as follows: 
+
+
+
+Inventory Accounts
+
+As of December 31, 2020
+
+Difference
+
+
+
+Per FS/SLC
+
+Per RPCI
+
+
+
+Merchandise Inventory
+
+P    124,780.00
+
+P               0.00
+
+P  124,780.00
+
+Office Supplies Inventory
+
+  4,292,234.07 
+
+  4,200,221.07 
+
+       92,013.00 
+
+Accountable Forms, Plates & Stickers
+
+     152,900.00 
+
+0.00
+
+     152,900.00 
+
+Medical, Dental & Laboratory Supplies
+
+     396,540.00 
+
+     396,540.00 
+
+0.00
+
+Fuel, Oil & Lubricants
+
+       25,611.50 
+
+0.00
+
+       25,611.50 
+
+Agricultural & Marine Supplies
+
+        9,962.00 
+
+0.00
+
+        9,962.00 
+
+Textbooks & Instructional Materials
+
+     343,463.80 
+
+     343,463.80 
+
+0.00
+
+Construction Materials Inventory
+
+  1,532,566.75 
+
+0.00
+
+  1,532,566.75 
+
+Other Supplies & Materials
+
+  1,354,348.03 
+
+     928,318.03 
+
+     426,030.00 
+
+Total
+
+P8,232,406.15
+
+P5,868,542.90
+
+P2,363,863.25
+
+Verification of documents and inquiry with concerned personnel revealed the following factors that led to the discrepancy:
+
+
+
+i)	There was no actual physical count conducted and no RPCI prepared for the following inventories because, generally, these items were considered by the Supply Office as issued to end-users, hence, no longer their accountability:
+
+
+
+Inventory Account
+
+Fund(P)
+
+
+
+GF
+
+STF
+
+EFIPP
+
+Total
+
+Merchandise 
+
+ 
+
+ 
+
+124,780.00 
+
+124,780.00 
+
+Office Supplies 
+
+ 
+
+ 
+
+76,723.00 
+
+76,723.00
+
+Accountable Forms, Plates and Stickers 
+
+99,600.00 
+
+51,500.00 
+
+1,800.00 
+
+152,900.00 
+
+Fuel, Oil and Lubricants 
+
+ 
+
+ 
+
+25,611.50 
+
+25,611.50 
+
+Agricultural and Marine Supplies 
+
+ 
+
+ 
+
+       9,962.00 
+
+        9,962.00 
+
+Construction Materials 
+
+2,340.00 
+
+1,530,226.75 
+
+ 
+
+1,532,566.75 
+
+Other Supplies and Materials 
+
+ 
+
+ 
+
+   219,400.00 
+
+     219,400.00
+
+Total
+
+101,940.00 
+
+1,581,726.75 
+
+458,276.50 
+
+2,141,943.25 
+
+
+
+For inventories, except accountable forms, under the Enhanced Food and Income Production Program (EFIPP) Fund totalling P458,276.50, the EFIPP Director explained that they did not prepare the RPCI because there has been prior agreement that the Supply Office will be the one to conduct the physical count and prepare the RPCI thereof.
+
+
+
+For Accountable Forms, Plates and Stickers totalling P152,900.00, the Accountant imparted that the amount reported in the FS was based on the Report of Accountability for Accountable Forms (RAAF) as of December 31, 2020 prepared by the Cashiers. 
+
+
+
+The Audit Team would like to emphasize that inventory items such as accountable forms and checkbooks shall not be treated in the same manner as the commonly used supplies that once issued shall be expensed outright due to the high risk of the nature of the said items. As such, the inventory records of the Supply Office should reflect the unused accountable forms even though these are already under the custody of the Cashiers and therefore should be included in the actual physical count in order to establish accountability at all times. 
+
+
+
+It was also noted that the cost of Modified Disbursement System (MDS) checks for General Fund was not included in the balance of Accountable Forms Inventory presented in the Financial Statements. Inquiry revealed that the Accounting Office overlooked the purchase of MDS checks since it was made through Petty Cash Fund.
+
+
+
+
+
+
+
+For Construction Materials Inventory (CMI) totalling P1,532,566.75, the Supply Office explained that after inspection and acceptance of the materials, these were all immediately issued to the Physical Plant and Facilities (PPF) Office, thus none was reported in the RPCI. However, inquiry with the PPF Director, Supply Officer, Accountant and Chief Administrative Officer disclosed that the construction materials were only issued in form to the PPF Office but in substance, these are still under the custody and monitoring of the Supply Office until the former needs the materials for the projects. In fact, the Accounting Office recorded them as inventories since they believe that these items were still unused and stored in the stock room of the Supply Office as of year-end. 
+
+
+
+Relative thereto, the Audit Team inquired with the PPF Director to verify the status of these inventories. Our validation revealed that materials totalling P1,389,270.75 were already used in the following projects that were all completed as of year-end:
+
+
+
+Project
+
+Cost of Materials
+
+School Buildings
+
+ 
+
+Construction of Student Services Building – Lubang campus
+
+P 721,933.75 
+
+Other Land Improvements
+
+ 
+
+Concreting of Access Road in front the Lower Campus – Murtha campus
+
+174,335.00 
+
+Repairs and Maintenance - Buildings and Other Structures
+
+
+
+Repainting of Roofing and Exterior Wall of Buildings and Perimeter Fence – San Jose campus
+
+350,887.00 
+
+Repair of Student Nook Roofing - San Jose campus
+
+3,946.00 
+
+Repair of the damages due to Typhoon Ursula – Labangan campus
+
+10,275.00 
+
+Repair of Student Nook and Parking Area at CCJE
+
+15,148.00 
+
+Repair of the damaged Roofing at Firing Range
+
+19,906.00 
+
+Repair of the damaged Roofing at Generator House
+
+12,096.00 
+
+Repair of Roofing of Student Nook beside HRM Building, in front SSF Office and covered walkway near 14-Clasroom
+
+13,368.00 
+
+Repair of Roofing of Crop Processing Building Damaged by Typhoon Ursula - PPF Labangan campus
+
+19,111.00 
+
+Repair of Damaged Comfort Room at 3rd Floor of Home Economics Building – San Jose campus
+
+4,270.00 
+
+Repair of Gymnasium at San Jose campus damaged by Typhoon Ursula 
+
+6,746.00 
+
+Replacement of Damaged Wooden Flush Door at HRM Building at Labangan campus
+
+                            6,452.00 
+
+Repair of Canteen and Staff House at Sablayan campus damaged by Typhoon Tisoy
+
+                            9,380.00 
+
+Repair of Guard Post damaged by Typhoon Quinta and for extension activity entitled Sustainable Livelihood Program for the Municipality of Lubang
+
+21,417.00 
+
+Total
+
+P 1,389,270.75 
+
+
+
+The Accountant explained that the items remained in the CMI account since she has no information on whether or not these items were already used. However, she could have inquired with the PPF Director if she really intended to check the status of these materials.
+
+
+
+The above-listed materials should no longer be reported as inventory but should be closed to School Buildings, Other Land Improvements and Repairs and Maintenance (R&M) – Buildings and Other Structures amounting to P721,933.75, P174,335.00 and P493,002.00, respectively, as of December 31, 2020.
+
+
+
+ii)	Inventories under the Trust Fund totalling P47,790.00 pertain to semi-expendable items issued in Calendar Years (CYs) 2017-2018. As a result, the office supplies inventory, other supplies and materials inventory and accumulated surplus are overstated by P15,290.00, P32,290.00  P47,790.00, respectively.
+
+
+
+iii)	The remaining discrepancy of P174,130.00 for Other Supplies & Materials Inventory pertains to materials for the following events/projects:
+
+
+
+Status
+
+Project/Event
+
+Cost of Supplies and Materials
+
+Inventories are not yet consumed
+
+Installation of Fabricated Handwashing Bins - OMSC San Jose and Labangan
+
+
+
+P   55,599.00 
+
+
+
+Repair of the Damaged Roofing of Ampitheatre Audio Room due to Typhoon Ursula - OMSC Labangan
+
+
+
+4,290.00 
+
+
+
+Subtotal
+
+59,889.00
+
+Inventories are already consumed and project completed
+
+Food Supplies for 2019 Intramurals 
+
+18,726.00 
+
+
+
+Repair of the Damaged Roofing of Generator House, Ampitheatre Audio Room and Motorpool
+
+
+
+41,079.00 
+
+
+
+Repair of Brother Printer MFC - L2700DW 
+
+23,940.00 
+
+
+
+Repair and Replacement of Defective Parts of Toyota Land Cruiser with Plate No. SKS -116 
+
+
+
+ 25,620.00 
+
+
+
+Repair of the Clogged Water Closet at Female Comfort Room 1st floor of 12-CL Building at OMSC Sablayan
+
+
+
+4,800.00 
+
+
+
+Subtotal
+
+114,165.00
+
+Quantity per SLC is more than the actual count
+
+Scouring Pad with foam - 19 packs per RPCI but 21 packs per SLC (STF)
+
+
+
+      74.00 
+
+
+
+Metal Screw, 3/16'' x 1 1/4'' - 130 pieces per RPCI but 131 pieces per SLC (GF)
+
+
+
+    2.00 
+
+
+
+Subtotal
+
+76.00
+
+ 
+
+Total
+
+P 174,130.00 
+
+
+
+Materials totalling P59,889.00 are excluded in the physical count conducted by the Supply Office since they considered these items as already issued to the PPF Office but the materials were still stored in the stock room together with other supplies maintained by the former.
+
+
+
+On the other hand, materials totalling P114,165.00 were already used in CYs 2019 and 2020, thus overstating Other Supplies and Materials Inventory account by P114,165.00. In addition, the following accounts were also affected:
+
+
+
+Account
+
+Overstatement (Understatement)
+
+Accumulated Surplus
+
+P18,726.00
+
+R&M – Building and Other Structures
+
+(45,879.00)
+
+R&M – Machinery and Equipment
+
+(23,940.00)
+
+R&M – Transportation Equipment
+
+(25,620.00)
+
+
+
+Inquiries further revealed that no report was submitted to the Accounting Office and no reconciliation was made between the RPCI and the SLCs and SCs maintained by the Accounting and Supply Offices, respectively, contrary to Part C of the Instructions for Appendix 66 of GAM for NGAs, Volume II, thus the above-noted discrepancies were not yet dealt with/adjusted to date.
+
+b)	Accumulated shortages and overages amounting to P1,458,166.64 and P400,017.08, respectively
+
+Section 2 of Presidential Decree (PD) No. 1445 states that it is the declared policy of the State that all resources of the government shall be managed, expended or utilized in accordance with laws and regulations, and safeguarded against loss or wastage through illegal or improper disposition, with a view to ensuring efficiency, economy and effectiveness in the operations of government.
+
+
+
+Chapter 8, Section 17 (i) of GAM for NGAs, Volume I, provides that the RPCI shall be used to report the physical count of supplies by type of inventory as at a given date. It shows the balance of inventory items per card and per count and shortage/overage, if any. Physical count, which is required semi-annually, is an indispensable procedure for checking the integrity of property custodianship. 
+
+
+
+On February 2, 2021, two days after the deadline for its submission, the College submitted to the Audit Team its RPCI. The Audit Team, in order to verify the existence of the reported inventories, conducted physical count on February 5, 2021 together with the Supply personnel. Issuances/transfers, if any, to end-users and deliveries for the period January 1 to February 5, 2021 were added and deducted, respectively, to the actual count to arrive at the audited balance of inventories as of December 31, 2020. Comparison between the balance of inventories per RPCI and per audit revealed shortages and overages amounting to P1,458,166.64 and P400,017.08, respectively. Details are shown in Annexes A to C and summarized below.
+
+
+
+Inventory Account
+
+Shortages
+
+Overages
+
+Office Supplies Inventory
+
+P1,061,271.22 
+
+P186,656.08 
+
+Textbook and Instructional Materials Inventory
+
+144,019.40 
+
+0.00
+
+Other Supplies and Materials Inventory
+
+252,876.02 
+
+213,361.00 
+
+Total
+
+P1,458,166.64 
+
+P400,017.08 
+
+
+
+It is also worth mentioning that P173,608.20 or twelve percent (12%) of the above shortages are totally missing where no single quantity of their class was presented during the count. In fact, the Audit Team performed another count on March 4-5, 2021 to firmly establish the above observation and requested the Supply Office personnel in-charge to present the said items; however, they could not present anything and confirmed that these items are no longer existing as of year-end.
+
+
+
+Moreover, there were items that were not included in the RPCI but were found during the physical count conducted by the Audit Team (details in Annexes A to C).
+
+
+
+Shortages and overages on inventories might be caused by several factors and in the case of the College, these are the following:
+
+
+
+i)	Weak Security
+
+
+
+The Audit Team observed during ocular inspection that the stock room is easily accessible to anyone from the Supply Office and other College personnel instead of the authorized personnel only, thus items are exposed to possible loss due to theft and misappropriation. In fact, there are times that the exit door is open for long period of time. 
+
+
+
+ii)	Incorrect Inventory Counts 
+
+
+
+The RPCI preparer explained that she, together with other Supply Office personnel, actually performed the physical count, however, admitted that she did not reflect the actual count in the RPCI as previously done and taught by her predecessor.  She also confirmed that some inventories are no longer existing, lacking or more than what was reported in the RPCI. 
+
+
+
+This practice shows that the agency neglects the true value of physical count/inventory and prepares the RPCI for compliance purposes only, thus shortages and overages have accumulated for years without being corrected.
+
+
+
+iii)	Administrative Errors 
+
+
+
+The Audit Team reviewed pertinent records, forms and reports that were prepared by the Supply and Accounting Offices for CY 2020 and observed the following:
+
+
+
+a)	Discrepancies between the Report of Supplies and Materials Issued (RSMI) and the Requisition Issue Slip (RIS) 
+
+
+
+Inventories amounting to P159,541.26 were issued based on RIS but were not recorded in the RSMI while inventories totalling P23,776.84 were recorded in the RSMI but were not actually issued. This happened either due to error in the preparation of the RSMI or the stocks are not available per record but actually exist.
+
+
+
+In addition, the quantity of some supplies and materials issued per RSMI are more than or less than that of the issuance per RIS amounting to P9,345.93 and P6,339.91, respectively. There are also instances when some items were erroneously switched in the RSMI resulting in discrepancy of P7,092.08 (details in Annex D).
+
+
+
+b)	Discrepancies between the RSMI and the SLC
+
+
+
+The following inventory items were recorded in the RSMI but have no SLCs:
+
+
+
+Item Description
+
+Quantity Issued
+
+Scouring Pad, made of synthetic nylon 120 x 220mm 
+
+2
+
+Junction Box, 4x4 with cover (orange)poly
+
+5
+
+Junction Box, 4x4 with cover (orange)poly
+
+12
+
+Mefenamic Acid 250 mg, 100s
+
+1
+
+Ruler, plastic 450mm (18") width 38mm min
+
+1
+
+Loratidine 5mg + Bethamethasone 250mg
+
+2
+
+Wire#14mm2, copper THWN 102 meters
+
+102
+
+
+
+There are also items in the RSMI that are out of stock per accounting records, thus the Accounting staff, instead of recording the whole quantity for those items, exchanged it with other items. For example, 21 pieces of Binder, 3-ring, D type, legal, 64mm, (2.5" with insert clear-view pocket) were issued per RSMI but since there are only 16 pieces available for this item per accounting records, the Accounting staff recorded it as 16 pieces of Binder, 3-ring, D type, legal, 64mm, (2.5" with insert clear-view pocket) and 5 pieces of Cartolina, neon in the SLC, reasoning that they have the same cost/amount.
+
+
+
+c)	Weighted Average Cost Method is not followed 
+
+
+
+Section 5, Chapter 8 of GAM for NGAs, Volume I, provides that specific identification of costs is inappropriate when there are large numbers of items of inventory that are ordinarily interchangeable, thus for interchangeable items, cost is determined using the weighted average cost formula. 
+
+
+
+The SLC, SC and RSMI clearly show that the weighted average method, which calls for the re-calculation of the average cost of all items in stock after every purchase, was not used for costing inventories. Items with different purchase order (PO), even if they are interchangeable, have separate SLCs and SCs which consumes time and effort in every issuance, RSMI preparation, updating of SC and SLC and the like since they still have to check what PO and price is applicable for the items.
+
+
+
+d)	The Supply and Accounting personnel have no idea on some of the information in the SC and SLC as follows:
+
+
+
+--	Re-order Point which is the minimum quantity of stocks which signals the need to re-order the item and number of days to consume. In fact, for the Accounting personnel, the Reorder Point is the PO No.
+
+--	Number of Days to Consume which is the estimated number of days for which the stock is to be consumed as determined by the Supply and/or Property Division/Unit based on historical data.
+
+--	Reference which is the reference documents used as basis in recording the transactions (i.e. JEV for receipt and RIS for issue, etc.)
+
+--	Item Code which is the stock number assigned by the property personnel for each type of supplies
+
+
+
+In fact, the Accounting Office developed its own Item Code as “Account Code-Year-Month-Item No. per purchase order”, e.g. 155-16-10-012. In addition, the Reference No. used in the SLC for receipts and issuances of inventory is the Disbursement Voucher (DV) Number instead of Journal Entry Voucher (JEV) number for receipt or RIS Number for issuance. The Accounting staff explained that it will more difficult for him to use the JEV number as reference since it is not connected with the inventory. The Audit Team observed, however, that he is having difficulty because he is talking about the JEV related to the DV where various items are included and not the JEV on the receipt/issuance of the inventories.
+
+
+
+iv)	Inconsistent application of policies
+
+
+
+The College uses the Perpetual Inventory Method and records the purchase as inventory only when the received portion of the RIS attached to the DV is signed by the Supply Officer, otherwise, the purchase is recorded directly to expense account because according to the Supply Officer, these are considered issued to the end-users. This so-called RIS is different from the RIS submitted by offices when they request supplies and materials from the Supply Office on a daily basis. 
+
+
+
+Inquiry and verification revealed, however, that some of the supplies considered as ‘directly issued/expense outright’ are actually stored in the Stock Room of the Supply Office, among them are inventories for module preparation, COVID prevention and construction materials for use of the Physical, Plant and Facilities (PPF) Office. These supplies and materials are only issued in form but in substance, these are still under the custody and monitoring of the Supply Office.
+
+
+
+The Supply Officer explained that the inventories are still in their stock room since the end-users have no space to store the said items which is exactly the reason why these supplies and materials should not be expensed outright. This practice added confusion to the Supply personnel since every time the end-users request these inventories, they still included them in the RIS together with other supplies in the OMSC system which again, consumes time and effort for the Supply personnel to segregate the requested items.
+
+
+
+Moreover, the Audit Team observed that release of inventories to four campuses of the College namely: Murtha, Sablayan, Mamburao and Lubang were recorded as issuances and are no longer the accountability of the Supply Officer but the release of inventories to San Jose campus is considered as transfer only and still part of the inventories of the OMSC System under the accountability of the Supply Officer.
+
+
+
+This inconsistent application of policies added to the difficulties being experienced by the Supply personnel in handling inventories.
+
+
+
+The Supply and Accounting Offices explained that they are not aware of the ‘correct’ process since what they are doing has been the practice way back before. They also explained that the above conditions exist due to lack of manpower and volume of work assigned to each of them. 
+
+
+
+In order to have a clear understanding of the reasons behind the above-cited conditions, the Audit Team performed a walkthrough of the entire Inventory Accounting System of the College which is also a way to test the integrity of the agency’s internal control. Comparison between procedures required by Chapter 8 of GAM for NGAs, Volume I and actual agency practices are shown in Annex E and the lapses are summarized as follows:
+
+
+
+A)	Receipt, Inspection, Acceptance and Recording Deliveries of Inventory Items (Section 15, Chapter 8 of GAM for NGAs, Volume I)
+
+--	Not all deliveries are supported with Delivery Receipt (DR) except for items procured through competitive bidding and Procurement Service.
+
+--	No Inspection and Acceptance Receipt (IAR) is prepared/forwarded to the Property Inspector. The agency only prepares IAR during DV preparation.
+
+--	Since no IAR is prepared yet during delivery, notations are made in the PO as to whether or not the delivered items are in conformity with the specifications. Most of the time, the notations are not clear enough especially with respect to delivery dates.
+
+--	No copy of IAR, PO and DR is forwarded to the Accounting Office upon delivery and acceptance of goods.
+
+--	The Accounting Office records nothing upon receipt of goods since they have not received any document yet.
+
+--	No Copy of IAR but only second copy of PO is forwarded to the Stock Card (SC) Keeper.
+
+--	Only the DRs from PS-DBM for partial deliveries are being forwarded to the Accounting Office but these are only filed temporarily without any action on the part of Accounting.
+
+--	It is only in the second semester of CY 2020 that the Supply Office updates their SC.
+
+--	Purchases are recorded only after the corresponding disbursement voucher (DV) has been processed and it is only every end of the month that deliveries/purchases are recorded in the SLC and Working Paper of the Accounting staff.
+
+--	Partial deliveries are not recorded in the SLC/Working paper until all the items have been delivered and the DV has been processed.
+
+--	Inventories which are “directly issued” to the end-users based on the RIS are recorded as inventories but were closed to expense at the same time.
+
+
+
+B)	Requisition and Issue of Inventory Items (Section 16, Chapter 8 of GAM for NGAs, Volume I)
+
+--	Requesting Office prepares RIS in four (4) copies instead of three (3) copies only.
+
+--	Supply personnel determines the reasonableness of the quantity and nature of item/s being requested and ensures that the same does not exceed the planned usage for the period based on the Project Procurement Management Plan (PPMP) instead of the Head/Authorized Official of the Requesting Office. 
+
+--	There is no designated Supply Custodian since there are four or more Supply personnel who are authorized to issue the supplies.
+
+--	Most of the time, the ‘Issued-Quantity’ column is filled up using pencil only and there are times when the information in 4 copies of RIS are not the same.
+
+--	Supply Officer signs the “Approved by” portion of the RIS only after the supplies and materials are received by the end-user.
+
+--	The RSMI is prepared only  at the end of each month and forwarded to the Accounting Office without any supporting RIS. Stock cards are also updated on a monthly basis.
+
+--	If there are items included in the RSMI but are not yet recorded in the SLC or other accounting records, the Accounting staff returns the RSMI to the Supply Office for revision. This happens due to agency practice of recording inventories only after the DV has been processed/approved. As a result, the RSMI does not show the true information on supplies and materials issued.
+
+
+
+Based on the Audit Team’s assessment, weak security, incorrect inventory counts, administrative errors and inconsistent application of policies were all rooted from the College’s lack of knowledge, poor coordination, mismanagement and continuous deviation from the correct Inventory Accounting System.
+
+
+
+The College’s incorrect practices over the years resulted not only in unexplained shortages and overages of P1,458,166.64 and P400,017.08, respectively, but also to unrecorded inventories as of year-end amounting to P43,609.93. Unrecorded inventories pertain to partial delivery of hardware and construction supplies for the repair and maintenance of San Jose and Labangan campuses on September 8, 2020 and October 5, 2020 under PO No. 2020-08-070 which was not recorded by the Accounting Office.
+
+
+
+The unreconciled inventories should be accounted for immediately to avoid disallowance thereof and/or refund of the equivalent cost of the missing items.
+
+c)	Non-compliance with accrual basis of accounting which resulted in overstatement and understatement of supplies and materials expenses for the period ended December 31, 2020 amounting to ₱7,575,471.09 and ₱45,870.00, respectively
+
+Section 2, Chapter 2 of GAM for NGAs, Volume I, defines ‘accrual basis’ as a basis of accounting under which transactions and other events are recognized when they occur (and not only when cash or its equivalent is received or paid). Therefore, the transactions and events are recognized in the accounting records and in the financial statements on the periods to which they relate. 
+
+
+
+Review of accounting records, RSMI and RIS disclosed, however, that some transactions and events were not recognized in the periods to which they relate, as follows:
+
+
+
+i)	Supplies and materials issued in prior years totalling ₱7,557,901.09 were recorded as expense in CY 2020 instead of debit to accumulated surplus
+
+
+
+Supplies and materials amounting to ₱7,557,901.09 issued in the previous years were recorded as expense in the Statement of Financial Performance for the year ended December 31, 2020 instead of debit to Accumulated Surplus contrary to GAM for NGAs, Volume III, which requires Accumulated Surplus/(Deficit) as the account to be used in recognizing prior period adjustments. Details are shown below:
+
+
+
+Expense Account
+
+GF
+
+STF
+
+Total
+
+Office Supplies 
+
+₱144,151.01 
+
+₱   994,705.26 
+
+₱1,138,856.27 
+
+Other Supplies and Materials 
+
+720,111.02 
+
+   3,286,819.00 
+
+   4,006,930.02 
+
+Textbooks and Instructional Materials 
+
+9,031.00 
+
+   2,403,083.80 
+
+   2,412,114.80 
+
+Total
+
+₱873,293.03 
+
+₱6,684,608.06 
+
+₱7,557,901.09 
+
+
+
+The Accounting personnel explained that upon checking his working paper and SLCs, he noticed that these supplies and materials were still recorded in the Inventory Accounts, thus he inquired with the Supply personnel if these were issued or not. The Supply personnel confirmed that these semi-expendable and inventory items were already issued to end-users in prior years. The Accounting and Supply personnel agreed to expense these items in CY 2020 instead of closing them to Accumulated Surplus, thus resulting in its understatement of ₱7,557,901.09 and overstatement of Office Supplies Expense, Other Supplies and Materials Expense and Textbooks and Instructional Materials Expense accounts by ₱1,138,856.27, ₱4,006,930.02 and ₱2,412,114.80, respectively.
+
+
+
+ii)	Hardware, construction and electrical supplies totalling ₱45,870.00 issued in CY 2020 were recorded as expense only in CY 2021
+
+
+
+Hardware, construction and electrical supplies issued in CY 2020 to the Physical Plant and Facilities Office totalling ₱45,870.00 were not reported in the RSMI for CY 2020. The Supply personnel explained that these items were not initially recorded in the RSMI since these were purchased on a per lot basis and there was no available cost for each item. It was only in January 2021 that the costs of the items were known, thus they recorded the issuance only in the same month. However, when asked why it took them months before they looked into the costs of the individual items, the Supply personnel admitted that they forgot to check it prior to year-end. 
+
+
+
+Further verification revealed that the items, with their individual cost, were already recorded in the SLC and accounting records as early as October 2020. The Supply personnel should have asked the Accounting personnel assigned with inventories if he has available data regarding the cost of each item.  This laxity of the Supply personnel understated the expenses of CY 2020 by ₱45,870.00 and overstated the expenses of CY 2021 by the same amount.
+
+
+
+iii)	Unused Electrical and Hardware Supplies totalling ₱17,570.00 were recorded as Other Supplies and Materials Expense
+
+
+
+Electrical and hardware supplies for spare parts and for installation of fabricated handwashing bins in San Jose and Labangan campuses were charged directly to Other Supplies and Materials Expense despite the fact that the supplies were not yet consumed as of year-end. 
+
+
+
+The Accountant explained that it was recorded as expense because they thought that these have been installed already. Inquiry with the Supply personnel and PPF Director revealed, however, that the materials were not yet used since they are still waiting for other items to be delivered before they start the installation of fabricated handwashing bins. As a result, the Other Supplies and Materials Expense account was overstated by ₱17,570.00 and the Construction Materials Inventory was understated by the same amount. 
+
+
+
+The above procedures where transactions and events are not recognized in the periods to which they relate is a clear deviation from the accrual basis of accounting as required by GAM for NGAs, Volume I, thus resulted in the overstatement and understatement of supplies and materials expenses for the period ended December 31, 2020 amounting to ₱7,575,471.09 and ₱45,870.00, respectively.
+
+d)	Erroneous classification of Inventory and Expense accounts valued at ₱679,726.70 and ₱2,726,921.60, respectively, contrary to GAM for NGAs, Volume III
+
+GAM for NGAs, Volume III, requires government agencies to use the Revised Chart of Accounts (RCA) to properly recognize and present their financial transactions.
+
+
+
+Review of the details of inventory accounts presented in the Statement of Financial Position and Statement of Financial Performance for CY 2020 disclosed that the College did not religiously follow the Revised Chart of Accounts (RCA) prescribed in GAM for NGAs, Volume III, in the recognition and presentation of their financial transactions as discussed in the succeeding paragraphs.
+
+
+
+i)	Drugs and Medicines Inventory and Construction Materials Inventory amounting to ₱87,580.00 and ₱592,146.70, respectively, were classified/recorded under wrong inventory accounts
+
+
+
+Medical, Dental and Laboratory Supplies Inventory and Other Supplies and Materials Inventory included items amounting to ₱87,580.00 and ₱592,146.70, respectively, that should have been recognized in a different inventory account, as shown in detail in Annex F and summarized as follows:
+
+
+
+Correct Inventory Account Classification
+
+Erroneous Inventory Account Classification
+
+Under-statement
+
+
+
+Medical, Dental and Laboratory Supplies 
+
+Other Supplies and Materials 
+
+
+
+Drugs and Medicines
+
+₱87,580.00
+
+₱           0.00 
+
+₱  87,580.00
+
+Construction Materials
+
+0.00
+
+592,146.70 
+
+592,146.70
+
+Overstatement
+
+₱87,580.00 
+
+₱592,146.70 
+
+₱679,726.70 
+
+
+
+The erroneous classification overstated Medical, Dental and Laboratory Supplies Inventory and Other Supplies and Materials Inventory by ₱87,580.00 and ₱592,146.70, respectively, with the corresponding understatement of Drugs and Medicines Inventory and Construction Materials Inventory by the same amount as of December 31, 2020.
+
+
+
+ii)	Cost of goods distributed to students affected by the Enhanced Community Quarantine and supplies for reproduction of modules amounting to P729,126.80 and P1,931,051.76, respectively, were recorded to wrong expense accounts
+
+
+
+The accounts and their description discussed in the RCA, Volume III, of  GAM for NGAs include, among others, the following:
+
+
+
+
+
+
+
+
+
+
+
+Account
+
+Description
+
+Welfare Goods Expenses
+
+This account is used to recognize the cost of goods issued/distributed to people affected by calamities/disasters/ground conflicts such as canned goods, blankets, mats, kitchen utensils, flashlights and other similar items. This also includes the cost of food served to people affected by calamities/disasters/ground conflicts. 
+
+Other Supplies and Materials Expenses
+
+This account is used to recognize the cost of inventories issued to end-users not otherwise classified under the specific inventory expense accounts. 
+
+Textbooks and Instructional Materials Expenses
+
+This account is used to recognize the cost of books and instructional materials distributed to public schools including flipcharts, video clips/slides, and the like.
+
+Office Supplies Expenses
+
+This account is used to recognize the cost or value of office supplies such as bond paper, ink, and small tangible items like staple wire remover, puncher, stapler and other similar items issued to end-users for government operations. 
+
+
+
+On March 16, 2020, the entire Luzon was placed under Enhanced Community Quarantine (ECQ) as government’ response to contain and prevent the further spread of coronavirus (COVID 19) through Proclamation No. 929, series of 2020, signed by the President of the Republic of the Philippines. Several students of the College were not able to go home before the imposition of ECQ and were stranded in their rented apartments and boarding houses. As a response to the pandemic and to give assistance to its students, the College distributed food packs, consisting of canned goods, noodles, toiletries and the like, totalling P729,126.80 to affected students.
+
+
+
+The pandemic also necessitated the College to adapt flexible learning and teaching methods where students will be taught through modules and/or online classes. As such, the Vice President for Academic Affairs (VPAA) requested the purchase of supplies and materials totalling P1,931,051.76 for the reproduction of modules to be distributed to the students for CY 2020. 
+
+
+
+The Accounting Office recorded the cost of goods distributed to students and the cost of supplies for module preparation under Other Supplies and Materials Expense and Office Supplies Expense, respectively, contrary to the RCA prescribed under GAM for NGAs, Volume III. As a result, the Welfare Goods Expense and Textbooks and Instructional Materials Expense accounts were understated by P729,126.80 and P1,931,051.76 while Other Supplies and Materials Expense and Office Supplies Expense accounts were overstated by the same amount, respectively.
+
+
+
+It is also worth mentioning that the list of recipients or proof that the goods were actually distributed to affected students was not attached to the disbursement vouchers.
+
+
+
+iii)	Seven (7) Binding and Punching machines valued at P9,534.72 each were issued to the different offices of the College and recorded as Office Supplies Expense instead of Semi-Expendable Machinery and Equipment Expense
+
+
+
+Section 10, Chapter 8 of GAM for NGAs, Volume I, provides that tangible items below the capitalization threshold of P15,000.00 shall be accounted as semi-expendable property. The cost of semi-expendable machinery and equipment issued/used for operation shall be recorded to semi-expendable machinery and equipment expense.
+
+
+
+The Supply Office issued seven (7) Binding and Punching machines valued at P9,534.72 each to the different offices of the College in July 2020 with corresponding Inventory Custodian Slip (ICS). Review of the accounting records revealed, however, that the issuance was recorded under the Office Supplies Expense account instead of Semi-expendable Machinery and Equipment Expense.
+
+
+
+The Accounting personnel explained that this was so because the items were originally recorded as Office Supplies Inventory and included in the RSMI. As a result, the Office Supplies Expense account was overstated by P66,743.04 and the Semi-Expendable Machinery and Equipment Expenses account was understated by the same amount.
+
+
+
+The Accountant explained that she recorded the above costs to those expense accounts because she based it in the Obligation Request and Status (ORS) submitted by the Budget Office. In addition, she thought that Welfare Goods Expense account is applicable only to local government units.
+
+
+
+The erroneous classification of these inventory and expense accounts does not only result in inaccurate and unreliable reporting but may mislead the readers of the financial statements and other interested parties contrary to sound accounting policies. 
+
+The foregoing deficiencies rendered both the Inventory account and the Supplies and Materials Expenses account valued at ₱8,232,406.15 and ₱27,947,998.83, respectively, as of year-end inaccurate and unreliable.
+
+
+
+We recommended that the SUC President ensure consistent and strict compliance with the provisions set forth in Presidential Decree No.  1445 and GAM for NGAs and instruct the following:
+
+
+
+
+
+
+
+a)	The Supply and Accounting Office to:
+
+i)	follow the Perpetual Inventory System where all purchases of supplies and materials shall initially be recorded as inventory and expensed only upon its issuance. Relative thereto, all supplies and materials delivered shall be under the custody of the Supply Officer until its actual issuance to the end-users for proper and easy monitoring. All requests shall be made by accomplishing the standard format of RIS and all copies shall be completely filled up using permanent pen prior to the issuance of supplies to end-users. Supply Office must have a complete central file of all the RIS; and
+
+ii)	ensure compliance with the accrual basis of accounting, weighted average method and proper classification of accounts.
+
+b)	The Supply Officer to:
+
+i)	discuss with the EFIPP Director who shall perform physical count of inventories under EFIPP Fund; 
+
+ii)	conduct complete physical count, including the accountable forms in the custody of Cashiers, at least semi-annually and prepare RPCI truthfully;
+
+iii)	limit access to stock room to authorized personnel only; and
+
+iv)	conduct thorough investigation and reconciliation of shortages and overages or account for the missing inventories on or before April 15, 2021 to avoid issuance of Notice of Disallowance thereof and/or refund of the equivalent cost of the missing inventories. 
+
+c)	The Accountant to:
+
+i)	perform reconciliation between the RPCI and accounting records and assess why differences have occurred before making any adjustments. Inventory reconciliation is not simply an adjustment of the book balance to match the physical count; and
+
+ii)	coordinate with (a) Supply Officer for inventories which remained unissued for long period of time if they are already issued or not and (b) PPF Director to check whether there are materials that were already issued but still recorded as inventories as of year-end.
+
+The SUC President, through Office Order No. 70, series of 2021, instructed both the Supply and Accounting Offices to strictly comply with the audit recommendations.
+
+
+
+The Supply and Accounting Offices agreed to hold a meeting to revisit the procedures in the monitoring, controlling and recording of inventories to assess the needed measures to enhance the status of internal control and correct the inadvertent errors made in order to render accurate and reliable data. The Perpetual Inventory Method has been followed by both offices, though, due to numerous reasons which include huge workloads and numerous transactions, a number of these were overlooked as well, having made inadvertent errors. The use of weighted average method will be used as recommended by COA.
+
+
+
+The EFIPP Director will be invited in the meeting scheduled for the Supply and Accounting Unit in order to address the matter of who shall perform physical count of inventories under EFIPP fund.
+
+
+
+A semi-annual complete physical count will be conducted including the Accountable Forms in the custody of the Cashiers. As mentioned above, after a revisit of the procedures for keeping track of the inventories, the RPCI shall be made correctly and possibly free from errors.
+
+
+
+An oral instruction to personnel has been reiterated that access to the Stockroom is strictly limited to authorized personnel only. An investigation on the shortages and overages as mentioned in the observation and results of which will be given to the COA Audit Team on or before April 15, 2021.
+
+
+
+The Accountant will also prepare the reconciliation schedule between the RPCI and the SLC including the assessment as to why differences have occurred before effecting any adjustments. A copy of such reconciliation will also be given to the COA Audit Team on or before May 30, 2021. The inventories which remained unissued for long period of time shall be brought to the attention of the Supply Officer during the scheduled meeting to determine whether they were already issued or not. The PPF Director will also be invited to properly address the matter. COA will be informed of the plans made to ensure that the recommendations will be implemented.
+
+
+
+We appreciated the commitment of Management to comply with the audit recommendations.
+
+
+
+2)	The accuracy and reliability of Property, Plant and Equipment (PPE) accounts with carrying value of ₱395,116,976.85 as of December 31, 2020 were doubtful due to (a) non-capitalization of major repairs totalling ₱3,017,257.25; (b) incomplete physical count of PPE for Land, Land Improvements, Buildings and Other Structures with carrying value of ₱303,355,616.32; (c) non-derecognition of unserviceable and disposed properties with net book value of ₱1,243,154.47 and ₱25,000.00, respectively; (d) erroneous classification of PPE accounts valued at ₱16,351,258.78; and (e)  recording of 133 units of goods valued at ₱5,220,820.00 in the PPE Ledger Card on a per brand basis and PO instead of on a per item basis contrary to Chapter 10 of GAM for NGAs, Volumes I, II and III, thereby affecting the fair presentation of the Financial Statements.
+
+Chapter 10 of GAM for NGAs, Volume I, covers accounting for PPE which includes accounting treatment, recognition, measurement and derecognition to ensure that all PPEs are properly valued and recorded, and the disclosure requirements in reporting PPE. 
+
+
+
+International Public Sector Accounting Standards (IPSAS) 1 requires that Financial Statements present fairly the financial position, financial performance, and cash flows of an entity. Fair presentation requires faithful representation of the effects of the transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in IPSAS.
+
+
+
+Relative thereto, the Audit Team tested the accuracy and reliability of PPE accounts with carrying amount of ₱395,116,976.85 comprising 57.92 percent of the total assets as of year-end. Result of audit revealed the following deficiencies:
+
+
+
+a)	The cost of major repairs of Buildings and Other Structures totalling ₱3,017,257.25 were charged to Repairs and Maintenance – Building and Other Structures account contrary to Sections 24 and 25, Chapter 10 of the GAM for NGAs, Volume I.
+
+Section 24, Chapter 10 of GAM for NGAs, Volume I, provides that repairs and maintenance primarily maintain or improve the functionality and capacity of the PPE; increase its service life; improve the quality of its output; or reduce the operating cost. These may be categorized into major and minor repairs. Minor repairs shall be directly charged to expense account “Repairs and Maintenance” of the specific PPE while major repairs shall be added to the carrying amount of the PPE and shall be depreciated over the remaining life of the PPE. 
+
+
+
+Section 25 of the same Chapter further provides that an entity shall capitalize the costs incurred for repair, betterment, enhancement, expansion or upgrade of existing PPE if the amount is material and:
+
+
+
+a)	where the expenditure results in an effective increase in the future economic benefits or service potential that is expected to be derived from using the asset and the increase in future economic benefits or service potential will be realized; or
+
+b)	there has been an effective increase in the quality of the services provided by the asset beyond that previously determined; or
+
+c)	there has been an effective extension to the asset’s useful life as a result of the expenditure.
+
+
+
+In December 2019, Typhoon Ursula hit the province of Occidental Mindoro and damaged several properties including that of the College. The College spent, among others, the following repairs and maintenance in order for these properties to continue functioning properly and sustain their purpose up to their estimated useful life:
+
+
+
+Particulars
+
+Cost of Repairs and Maintenance
+
+(A)
+
+Amount Derecognized from the PPE
+
+(B)
+
+Percentage of Cost of Repair Over Amount Derecognized
+
+(A/B)
+
+Repair of the Information Technology Felipe Agoncillo Building 
+
+₱   552,242.30
+
+
+
+₱ 450,000.00
+
+
+
+123%
+
+
+
+Repair of Two Classroom Building - Gabriela Silang Building 
+
+208,400.00
+
+68,000.00
+
+306%
+
+Repair of Old Piggery 1 
+
+619,912.15
+
+107,193.00
+
+578%
+
+Repair of Old Piggery 2 
+
+456,702.80
+
+107,193.00
+
+426%
+
+Repair of the Damaged Organic Storage and Classroom Buildings 
+
+215,000.00
+
+77,378.50
+
+278%
+
+Repair of Phil-Chi Building 
+
+667,000.00
+
+345,464.64
+
+193%
+
+Repair of the Green House 
+
+298,000.00
+
+90,000.00
+
+331%
+
+TOTAL
+
+₱3,017,257.25
+
+
+
+
+
+
+
+Results of audit revealed that the Old Piggery 1, Old Piggery 2, Phil-Chi Building and portions of the other damaged properties were derecognized by the Accounting Unit while the related repairs and maintenance with significant amount were not capitalized as asset but recorded as expense contrary to Sections 24 and 25, Chapter 10 of GAM, Volume I. 
+
+
+
+Based on the Audit Team’s assessment of the materiality of the cost of repair to the cost derecognized from the asset which ranged from 123 percent to 578 percent, the said repairs were significant and should be considered major repairs, thus should be added to the carrying amount of the asset. The treatment of such repairs as expenses overstated the expense account by ₱3,017,257.25 and understated the related PPE accounts by the same amount.
+
+b)	Land, Land Improvements, Buildings and Other Structures with a total carrying value of ₱303,355,616.32 were not physically inspected/counted but reported in the RPCPPE contrary to Section 42(g), Chapter 10 of GAM for NGAs, Volume I.
+
+Section 42(g), Chapter 10 of GAM for NGAs, Volume I, provides that the Report on Physical Count of PPE (RPCPPE) form shall be used to report the physical count and condition of PPE by type as at a given date, including those which are unrecorded and those which could not be accounted for. It shows the balance of PPE per property card and per count and the shortage/overage, if any. It shall be rendered by the Inventory Committee, on its yearly physical count of properties owned by the entity.
+
+
+
+Appendix 73(A) of GAM for NGAs, Volume II, also provides that the said report shall show the physical count of PPE by type such as land, land improvements, infrastructure, building and other structures, machinery and equipment, transportation equipment, furniture, fixtures and books, etc. which are owned by the agency. 
+
+
+
+Inquiry with the Property/Internal Control Unit revealed that physical count was not conducted for buildings and other structures. The reported buildings and infrastructure projects in the RPCPPE were based only from the Certificate of Completion and Final Inspection given by the PPF Office. Thus, the actual whereabouts, conditions and other relevant information of the buildings and other infrastructures as of year-end could not be determined. 
+
+
+
+Furthermore, they also admitted that they do not reconcile their report to the accounting office prior to its submission to the Audit Team hence, multiple revisions of the RPCPPE beyond the required deadline were made as follows:
+
+
+
+Particulars
+
+Date Submitted to the Audit Team
+
+First Submission
+
+January 29, 2021
+
+First Revision
+
+February 3, 2021
+
+Second Revision
+
+February 10, 2021
+
+Third Revision
+
+February 18, 2021
+
+Fourth Revision
+
+February 22, 2021
+
+
+
+Multiple revisions of the RPCPPE and reporting the properties as physically inspected/counted when in truth and in fact they are not, did not only render the RPCPPE unreliable but also cast doubts on the accuracy and reliability of the PPE as of year-end.
+
+c)	Unserviceable properties and disposed school bus with net book value of ₱1,243,154.47 and ₱25,000.00, respectively, were not yet dropped from the books of accounts contrary to Section 40(d), Chapter 10 of GAM for NGAs, Volume I.
+
+
+
+Section 79 of Presidential Decree (P.D.) No. 1445 provides that “When government property has become unserviceable for any cause, or is no longer needed, it shall, upon application of the officer accountable therefor, be inspected by the head of the agency or his duly authorized representative xxx and, if found to be valueless or unsalable, it may be destroyed. If found valuable, it may be sold at public auction to the highest bidder under the supervision of the proper committee on award or similar body xxx. In the event that the public auction fails, the property may be sold at a private sale at such price as may be fixed by the same committee or body concerned xxx.”
+
+
+
+Also, Section 40.d, Chapter 10 of GAM for NGAs, Volume I, provides that all unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) (Appendix 74). PPE reported in the IIRUP shall be dropped from the books by debiting Impairment Loss-Property, Plant and Equipment (cost of the PPE less Accumulated Depreciation). 
+
+
+
+Review of the RPCPPE as of December 31, 2020 showed that 596 unserviceable properties purchased at ₱19,263,831.23 with a total net book value of ₱1,243,154.47 (Annex G) were not yet disposed contrary to the above-cited regulations. The unserviceable assets were composed of undisposed properties which were accumulated from CYs 2015-2020 RPCPPE. The following observations were also noted: 
+
+
+
+i)	The unserviceable school bus reported in the IIRUP as of December 31, 2018 with a total acquisition cost of ₱500,000.00 and a net book value of ₱25,000.00 was disposed on September 16, 2020 for ₱25,000.00; however, the said school bus was still reported/recorded in the RPCPPE and PPE Ledger Card (PPELC) as of December 31, 2020. 
+
+
+
+ii)	The IIRUP as of December 31, 2020 was submitted by the Property/ Internal Control Unit to the Accounting Unit only on February 12, 2021.
+
+
+
+Verification with the Internal Control Unit revealed that the delayed preparation and submission of IIRUP was brought about by the following:
+
+
+
+i)	Difficulties in assigning individual cost to the parts of a set since it was originally recorded on a lump-sum basis; and
+
+
+
+ii)	Large volume of properties that slows down the proper determination of the appraised value of the unserviceable properties.
+
+
+
+The untimely submission of the IIRUP hampered the Accounting Unit to promptly drop the unserviceable properties from the books thus, the non-derecognition of  unserviceable properties and the disposed school bus from the books overstated the Property, Plant and Equipment accounts of the College by ₱1,243,154.47 and ₱25,000.00, respectively. Moreover, the non-disposal of the unserviceable properties cluttered the agency’s space, and exposed these assets to further deterioration and deprived the agency from the income that might be generated from its sale. Furthermore, had these properties been disposed earlier, additional cost and time in maintaining these properties could have been avoided.
+
+
+
+
+
+
+
+
+
+
+
+
+
+d)	Erroneous classification of PPE accounts valued at ₱16,351,258.78 contrary to GAM for NGAs, Volume III.
+
+GAM for NGAs, Volume III, requires government agencies to use the Revised Chart of Accounts (RCA) to properly recognize and present their financial transactions.
+
+
+
+Review of the Statement of Financial Position showed the following balances of Other Structures, Machinery, Office Equipment, Information and Communications Technology (ICT) Equipment, Technical and Scientific Equipment, Other Machinery and Equipment, Motor Vehicle, Furniture and Fixtures, Books and Other PPE accounts:
+
+
+
+Account
+
+Description
+
+Acquisition
+
+Cost
+
+Accumulated Depreciation
+
+Net
+
+Book Value
+
+Other Structures
+
+₱34,863,465.10
+
+₱6,397,919.62
+
+₱28,465,545.48
+
+Machinery
+
+7,556,768.88
+
+4,962,892.42
+
+2,593,876.46
+
+Office Equipment
+
+16,278,026.16
+
+11,851,988.98
+
+4,426,037.18
+
+ICT Equipment
+
+75,038,301.39
+
+49,314,534.09
+
+25,723,767.30
+
+Technical and Scientific Equipment
+
+
+
+34,105,579.17
+
+
+
+9,655,482.76
+
+
+
+24,450,096.41
+
+Other Machinery and Equipment
+
+
+
+15,606,993.76
+
+
+
+9,186,434.32
+
+
+
+6,420,559.44
+
+Motor Vehicle
+
+5,928,874.92
+
+4,694,960.56
+
+1,233,914.36
+
+Furniture and Fixtures
+
+3,585,546.50
+
+1,551,124.04
+
+2,034,422.46
+
+Books
+
+2,078,003.25
+
+1,647,870.53
+
+430,132.72
+
+Other PPE
+
+29,714.29
+
+28,228.58
+
+1,485.71
+
+Total
+
+₱195,071,273.42
+
+₱99,291,435.90
+
+₱95,779,837.52
+
+
+
+The Audit Team verified the actions taken by the College on the observations and recommendations pertaining to PPE discussed in the CY 2019 Annual Audit Report and noted that there were still items included in the abovementioned accounts which should have been recognized and classified in a separate/different accounts, as shown in detail in Annexes H to O and summarized in the next page.
+
+
+
+The Audit Team would like to reiterate that the erroneous classifications overstated the carrying amounts of Other Structures, Machinery, Office Equipment, ICT Equipment, Technical and Scientific Equipment, Other Machinery and Equipment, Furniture and Fixtures, Motor Vehicle, Books and Other PPE by ₱11,784,309.16, ₱1,863,785.04, ₱82,300.18, ₱457,783.67, ₱69,660.00, ₱1,794,512.79, ₱294,821.73, ₱910.00, ₱1,690.50 and ₱1,485.71, respectively, with the corresponding understatement of the affected accounts as of December 31, 2020.
+
+
+
+
+
+Correct Account Classification
+
+Erroneously Classified as (Carrying Amount in Php)
+
+
+
+Other Structures
+
+Machinery
+
+Office Equipment
+
+ICT Equipment
+
+Technical and Scientific Equipment
+
+Other Machinery and Equipment
+
+Furniture and Fixtures
+
+Motor Vehicle
+
+Books
+
+Other PPE
+
+Under-statement
+
+Other Land Improvements
+
+             4,546.80 
+
+ 
+
+ 
+
+ 
+
+ 
+
+          3,600.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+           8,146.80 
+
+Water Supply System
+
+    2,292,894.02 
+
+     132,131.98 
+
+ 
+
+ 
+
+ 
+
+       15,573.90 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  2,440,599.90 
+
+Power Supply System
+
+ 
+
+     161,178.03 
+
+ 
+
+ 
+
+ 
+
+     135,947.50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      297,125.53 
+
+Buildings
+
+9,486,868.34 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+22,568.23 
+
+ 
+
+ 
+
+ 
+
+9,509,436.57 
+
+Office Equipment
+
+ 
+
+11,025.00 
+
+ 
+
+877.75 
+
+ 
+
+716,042.13 
+
+10,336.00 
+
+ 
+
+ 
+
+ 
+
+738,280.88 
+
+ICT Equipment
+
+ 
+
+42,900.00 
+
+76,750.18 
+
+ 
+
+69,660.00 
+
+616,274.76 
+
+ 
+
+ 
+
+ 
+
+
+
+805,584.94 
+
+Technical and Scientific Equipment
+
+ 
+
+ 1,516,550.03 
+
+       3,550.00 
+
+  456,905.92 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 1,485.71
+
+
+
+
+
+1,978,491.66 
+
+Furniture and Fixtures
+
+ 
+
+ 
+
+       2,000.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+           2,000.00 
+
+Agricultural and Forestry Equipment
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+       14,505.75 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        14,505.75 
+
+Military, Police and Security Equipment
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+          7,518.42 
+
+ 
+
+ 
+
+ 
+
+ 
+
+           7,518.42 
+
+Medical Equipment
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+261,917.50 
+
+ 
+
+ 
+
+ 
+
+261,917.50 
+
+Technical and Scientific Equipment
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     285,050.33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      285,050.33 
+
+Other Machinery and Equipment
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 910.00 
+
+ 
+
+ 
+
+910.00 
+
+Below P15,000.00 threshold not yet adjusted in FS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1,690.50 
+
+ 
+
+1,690.50 
+
+Overstatement
+
+11,784,309.16 
+
+1,863,785.04 
+
+82,300.18 
+
+457,783.67 
+
+69,660.00 
+
+1,794,512.79 
+
+294,821.73 
+
+910.00 
+
+1,690.50 
+
+1,485.71 
+
+16,351,258.78
+
+
+
+a)	Recording of 133 units of goods valued at ₱5,220,820.00 procured under different projects in the PPELC on a per brand basis and PO instead of on a per item basis contrary to Section 42, Chapter 10 of GAM for NGAs, Volume I.
+
+Section 42, Chapter 10 of GAM for NGAs, Volume I, provides that the Chief Accountant shall maintain the PPELC for each category of PPE. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. Section 4 of the same Chapter further provides the capitalization threshold of ₱15,000.00 as a minimum cost of an individual asset recognized as a PPE in the FS.
+
+
+
+Verification of documents revealed that despite having separate cost per item in the PO, 133 units of goods valued at ₱5,220,820.00 procured under different projects were recorded in the PPELC as a group on a per brand basis and PO instead of on a per item basis (Annex P). 
+
+
+
+The Audit Team would like to reiterate that although the aforementioned properties are to be depreciated over the same useful life per class of PPE, it is still appropriate to record in the PPELC the properties on a per item basis since this will effectively aid in the identification of carrying amounts/book values of specific properties that may require accounting adjustments in case of major repairs, betterments, additions and rearrangements, impairment, loss, disposal and reconciliation with other property records like Property Acknowledgement Receipt, Property Transfer Report, IIRUP and RPCPPE.
+
+The foregoing deficiencies rendered the PPE accounts valued at ₱395,116,976.85 as of year-end inaccurate and unreliable.
+
+
+
+We recommended that the College President instruct the following:
+
+
+
+a)	The Accountant to (i) capitalize the cost of major repairs and depreciate the same over the remaining life of the PPE; (ii) drop from the books the disposed school bus with a carrying value of ₱25,000.00 and other unserviceable properties reported in the IIRUP as at December 31, 2020; (iii) strictly observe appropriate account classification in recording financial transactions; (iv) immediately prepare the necessary adjusting entries to correct the erroneous recording and classification of PPE; (v) record the properties procured on a per item basis in the PPELC.
+
+
+
+b)	The Property/Internal Control Unit to (i) create a detailed plan on how the physical count will be done and indispensably conduct physical count on all the PPEs of the College; and (ii) conduct the determination of the appraised value of unserviceable properties at least every quarter to avoid its accumulation that would hamper the timely submission of IIRUP;
+
+
+
+c)	The Supply Officer to request from the supplier the unit cost of each part of item in a set of the delivered goods in case the purchases involve a part that can be purchased separately to aid in the identification of carrying amounts/book values of specific properties that may require adjustments in case of replacement, impairment, loss and disposal; and
+
+
+
+d)	All Offices/Units/Departments to immediately report the discovery of an unserviceable property to the Supply and Property/Internal Control Unit to aid them in the timely submission of IIRUP. 
+
+
+
+The specific actions undertaken/to be undertaken by Management are:
+
+
+
+a)	A journal entry will be prepared to capitalize the cost of major repairs. Supporting documents will be collated to support the JEV and ensure accuracy of the adjustments to be made. The journal entry to drop from the books the disposed school bus has been prepared while the journal entry to derecognize the other unserviceable properties reported in the IIRUP as at December 31, 2020 will be made as soon as the IIRUP has been approved by COA.
+
+
+
+b)	The Property/Internal Control Unit will prepare the recommended detailed plan on how and when the physical count will be done on all PPEs of the College. The Unit will convene to address the said matter and shall submit the abovementioned plan upon its approval by the SUC President. The quarterly appraisal of unserviceable properties will also be taken up in the meeting.
+
+
+
+c)	The Supply Office issued Memo No. 4 requiring the personnel in-charge with procurement to specify/itemize the unit cost of each part of item in the posting of Request for Quotation/Invitation to Bid in a set of goods to be procured in case the purchases involve a part that can be purchased separately to aid in the identification of carrying amount/book values of specific properties that may require adjustments in case of replacement, impairment, loss and disposal.
+
+
+
+d)	As mentioned in the Office Order No. 57, all offices/units/departments will be required to immediately report the discovery of an unserviceable property to the Supply and Property/Internal Control Unit to aid in the timely submission of IIRUP. An Office Memorandum dated March 10, 2021 was issued by the CAO/VPAFSS to reiterate reporting requirements for lost/stolen and damaged/destroyed property and ensure compliance therewith by offices/units/departments.
+
+
+
+e)	The Accountant has always been meticulous in the preparation of journal entries especially in the account classification, though due to the volume of these transactions, a number of transactions have been inadvertently overlooked. Most of the reclassifications recommended are for assets which were procured a number of years ago, and are already fully depreciated. Due to these findings, more attention to account reclassification shall be prioritized in order to avoid such lapses. The entry/ies as mentioned above are now being prepared and shall be submitted as soon as supporting schedules have been made. In addition, the PPELC will be reviewed thoroughly to make sure that PPE have been classified properly, and maintained on a per item basis.
+
+
+
+We appreciated Management initial actions and commitment to comply with the audit recommendations. 
+
+
+
+3)	The payment of Proportional Vacation Pay (PVP) to regular teaching personnel for the Academic Year (AY) 2019-2020 was not in accordance with CSC Memorandum Circular No. 9, series of 2012, DepEd Memorandum No. 049, series of 2020, and CSC Memorandum Circular No. 8, series of 2014, due to the decision of the Human Resource Management Office to adopt the old guidelines on the grant of PVP which resulted in an overpayment of P114,464.53.
+
+The Omnibus Rules on Leave is the consolidated laws relative to leave administration in the government sector. It updates all implementing rules and regulations on leave administration to make them more relevant and responsive to current realities and concerns. It also harmonizes the various rules when needed in the interest of equity and fairness. 
+
+
+
+Throughout the years, several amendments were made to the Omnibus Rules on Leave including, among others, Civil Service Commission (CSC) Memorandum Circular (MC) No. 9, series of 2012, addressed to All Heads of Constitutional Bodies; Departments, Bureaus and Agencies of the National Government; Local Government Units; Government-Owned and/or Controlled Corporations (GOCC) with Original Charters; and State Universities and Colleges. The said Circular amends Section 6 (Teacher’s Leave) which provides that:
+
+“Section 6. Teacher’s Leave – Teachers shall not be entitled to the usual vacation and sick leave credits but to proportional vacation pay (PVP). The total PVP that shall be earned by teachers shall be based on the computation to be provided by the Department of Education (DepEd) every school year. A teacher who has rendered continuous service in a school year without incurring absences without pay of not more than 1 ½ days shall be entitled to the total PVP earned from the number of summer and Christmas vacation days as determined by the DepEd. xxx.”
+
+In compliance thereto, the DepEd issued Memorandum No. 049, Series of 2020, dated April 30, 2020 for the Computation of Public School Teacher’s PVP for School Year (SY) 2019-2020. It provides that for SY 2019-2020, each of the teachers who have rendered continuous service from June 3, 2019 to April 3, 2020 shall be entitled to 80 days total of PVP from summer and Christmas vacation days. Computation on how the DepEd came up with the 80 days total PVP is discussed in the said Memorandum.
+
+
+
+The Human Resource Management Office (HRMO) personnel assigned in the computation of PVP informed the Audit Team that the College also used the computation provided by the DepEd in the previous years. However, in the recent years, the computation of DepEd became confusing on the part of the College and believed that there is something wrong in the computation provided in the issued DepEd Memorandum. Thus, they chose to follow the old provision in the Omnibus Rules on Leave which states that:
+
+“Section 6. Teacher’s Leave – Teachers shall not be entitled to the usual vacation and sick leave credits but to proportional vacation pay (PVP) of 70 days of summer vacation leave plus 14 days of Christmas vacation. A teacher who has rendered continuous service in a school year without incurring absences without pay of not more than 1 ½ days is entitled to 84 days of proportional vacation pay.” (underscoring ours)
+
+Further inquiry revealed that the College was not aware that the above provision has already been amended by CSC MC No. 9, series of 2012. Had they known of the amendment, they might have followed the computation provided by DepEd.
+
+
+
+In order to validate the College’s claim of confusion/error, the Audit Team decided to analyze the memoranda issued by DepEd in the previous years. Our analysis revealed, however, that there is nothing wrong or confusing in the DepEd memoranda since they only used actual number of days based on DepEd calendar of activities.
+
+
+
+For further clarification, the Audit Team made a detailed comparison on the computation of PVP as shown in the succeeding table. Since DepEd’s SY 2019-2020 started from June 3, 2019 to April 3, 2020 while OMSC’s Academic Year (AY) covered August 5, 2019 to May 15, 2020; the Audit Team, in order to come up with a correct PVP applicable for teachers of OMSC, made a computation patterned with the DepEd Memorandum using the actual academic activities of the College for AY 2019-2020. 
+
+
+
+
+
+
+
+
+
+Per DepEd Memorandum No. 049, Series of 2020
+
+Per Audit 
+
+Per Agency 
+
+Number (No.) of Summer vacation days 
+
+Days
+
+No. of Summer vacation days 
+
+Days
+
+No. of Summer vacation days 
+
+Days
+
+April 4 to 30, 2020 = 27 days
+
+ 
+
+May 16-31, 2020 = 16 days
+
+ 
+
+May 16-31, 2020 = 16 days
+
+ 
+
+May 1 to 31, 2020 = 31 days
+
+58
+
+June 1-30, 2020 = 30 days
+
+62
+
+June 1-30, 2020 = 30 days
+
+62
+
+ 
+
+ 
+
+July 1-16, 2020 = 16 days
+
+ 
+
+July 1-16, 2020 = 16 days
+
+ 
+
+Add: No. of Christmas vacation days
+
+22
+
+Add: No. of Christmas vacation days
+
+22
+
+Add: No. of Christmas vacation days
+
+22
+
+December 15 to 31, 2019 = 17 days
+
+
+
+December 19 to 31, 2019 = 16 days
+
+
+
+December 19 to 31, 2019 = 16 days
+
+
+
+January 1 to 5, 2020 = 5 days
+
+
+
+January 1 to 9, 2020 = 9 days
+
+
+
+January 1 to 9, 2020 = 9 days
+
+
+
+Total PVP earned from the number of Summer and Christmas vacation days
+
+80
+
+ 
+
+84
+
+ 
+
+84
+
+Divided by actual days served 
+
+284
+
+Divided by actual days served 
+
+263
+
+
+
+Divided by No. of Days in AY 2019-2020:
+
+251
+
+Total No. of Days served from June 3, 2019 to April 3, 2020
+
+ 
+
+Total No. of Days served from August 5, 2019 to May 15, 2020
+
+ 
+
+ 
+
+ 
+
+June 3 to June 30, 2019 = 28 days
+
+ 
+
+ 
+
+ 
+
+365 days in a Year
+
+ 
+
+July 1 to 31, 2019 = 31 days
+
+ 
+
+August 5 to 31, 2019 = 27 days
+
+ 
+
+Less: 104 Saturdays and Sundays
+
+ 
+
+August 1 to 31, 2019 = 31 days
+
+ 
+
+September 1 to 30, 2019 = 30 days
+
+ 
+
+Less: 10 legal holidays provided 
+
+ 
+
+September 1 to 30, 2019 = 30 days
+
+ 
+
+October 1 to 31, 2019 = 31 days
+
+ 
+
+  in EO 292
+
+ 
+
+October 1 to 31, 2019 = 31 days
+
+ 
+
+November 1 to 30, 2019 = 30 days
+
+ 
+
+ 
+
+ 
+
+November 1 to 30, 2019 = 30 days
+
+ 
+
+December 1 to 31, 2019 = 31 days
+
+ 
+
+ 
+
+ 
+
+December 1 to 31, 2019 = 31 days
+
+ 
+
+January 1 to 31, 2020 = 31 days
+
+ 
+
+ 
+
+ 
+
+January 1 to 31, 2020 = 31 days
+
+ 
+
+February 1 to 29, 2020 = 29 days
+
+ 
+
+ 
+
+ 
+
+February 1 to 29, 2020 = 29 days
+
+ 
+
+March 1 to 31, 2020 = 31 days
+
+ 
+
+ 
+
+ 
+
+March 1 to 31, 2020 = 31 days
+
+ 
+
+April 1 to 30, 2020 = 30 days
+
+ 
+
+ 
+
+ 
+
+April 1 to 3, 2020 = 3 days
+
+ 
+
+May 1 to 15, 2020 = 15 days
+
+ 
+
+ 
+
+ 
+
+Total = 306 days
+
+ 
+
+Total = 285 days
+
+ 
+
+ 
+
+ 
+
+Less Number of Christmas vacation days (22 days)
+
+ 
+
+Less Number of Christmas vacation days (22 days)
+
+ 
+
+ 
+
+ 
+
+Multiply Factor
+
+0.282
+
+ 
+
+0.319
+
+ 
+
+0.335
+
+
+
+As can be gleaned from the preceding table, the Factor Rate per audit is different from the Factor Rate per agency due to the difference in the count of actual number of days served. The difference in the Factor Rate and the actual number of days served had a great impact in the amount of PVP to be granted to teachers in the following instances:
+
+--	teaching personnel with Absences Without Pay (AWOP)
+
+--	a regular teaching personnel earning service credits is transferred or designated to perform a non-teaching function who is entitled to earn a Vacation Leave and Sick Leave within the Academic Year or vice-versa. 
+
+--	a regular teaching personnel retired within the academic year
+
+--	a new teaching personnel is hired within the academic year
+
+Below is the comparison in the computation of PVP per agency and per audit for a teaching personnel designated to a non-teaching position effective January 20, 2020:
+
+Per Audit
+
+Per Agency
+
+Days Served from August 5, 2019 to January 19, 2020
+
+168
+
+Maximum PVP in a Year
+
+
+
+84
+
+
+
+
+
+Less: Equivalent deduction 
+
+
+
+ 
+
+Less: Christmas Vacation
+
+-22
+
+No. of Days
+
+251
+
+ 
+
+Less: AWOL
+
+0
+
+Less: Days Served
+
+-168
+
+ 
+
+Actual Days Served
+
+146
+
+Deficit Service
+
+83
+
+ 
+
+Multiply Factor
+
+0.319
+
+Multiply Factor
+
+0.335
+
+-28
+
+Total PVP earned 
+
+47
+
+Total PVP earned
+
+56
+
+Less: Christmas Vacation
+
+-22
+
+Less: Christmas Vacation
+
+
+
+-22
+
+PVP earned for summer vacation
+
+25
+
+PVP earned for summer vacation
+
+34
+
+Further comparison by the Audit Team of the audited amount of PVP that should be received by the College faculty against the actual amount paid by the agency revealed that non-adherence with CSC Memorandum Circular No. 9, series of 2012, and DepEd Memorandum No. 049, series of 2020, resulted in total overpayments amounting to P114,464.53. Details are shown in Annex Q and summarized below.
+
+Case of Faculty
+
+No. of Employees
+
+Overpayment
+
+With Deductible AWOP
+
+27
+
+P25,410.64
+
+Designated to Non-Teaching Function
+
+2
+
+22,375.07
+
+Designated to Teaching Function
+
+1
+
+4,889.10
+
+Newly Hired
+
+2
+
+4,388.59
+
+Retired
+
+4
+
+22,244.01
+
+Erroneously Reclassified to Non-Teaching Function
+
+1
+
+35,157.12
+
+Total
+
+37
+
+P 114,464.53
+
+
+
+
+
+The overpayment to 27 employees with deductible AWOP was attributed to the difference in the (a) number of equivalent AWOP, (b) Factor Rate; and (c) formula used in the computation of the amount of equivalent AWOP wherein the Accounting Office used calendar days while the Audit Team used work days pursuant to CSC Memorandum Circular No. 8, Series of 2014, which provides the formula in the computation of salaries of employees who incur leave of absence without pay, as follows:
+
+Salary = Number of Days Paid Status x Monthly Salary
+
+				   22 Days
+
+The overpayment to the other ten employees was mainly due to the difference in the Factor Rate and the number of days served for AY 2019-2020 where the agency used 251 days while the Audit Team used 263 days. It is also worth mentioning that most of the documents supporting the disbursement vouchers for the payment of PVP do not include a separate computation of the equivalent AWOP. 	
+
+
+
+Continuous adoption of outdated provisions of the CSC although unintentional, may cause unfavorable effects to the College and its personnel. The HRMO should have been proactive, resourceful and updated with relevant issuances on PVP. 
+
+
+
+ In view of the foregoing, we recommended that the SUC President instruct the following:
+
+
+
+a)	the Accountant, in coordination with the HRMO, to cause the refund of the overpayment of PVP totalling P114,464.53; henceforth, ensure strict compliance with CSC Memorandum Circular No. 8, series of 2014, and provide separate payroll for the payment of PVP with supporting computations; and
+
+
+
+b)	the HRMO to ensure strict compliance with the provisions set forth in CSC Memorandum Circular No. 9, series of 2012, and DepEd Memorandum No. 049, series of 2020.
+
+The College President issued Office Order No. 77, series of 2021, which instructed the Accountant and the HRMO to strictly follow the COA recommendations. The specific actions committed to be performed by the officials concerned are as follows:
+
+
+
+The Accountant, in coordination with the HRMO, will inform the personnel concerned of the overpayment of PVP and request its refund and also discuss the best terms of payment in case they cannot make a one-time refund. A report will be made to update the COA Audit Team on the status of the matter at the soonest time possible. The Accountant also committed to comply strictly with CSC Memorandum Circular No. 8, series of 2014. A separate payroll will be prepared for future payments of the PVP and supporting computations will be attached thereto.
+
+
+
+The HRMO likewise committed to ensure that the provisions set forth in CSC Memorandum Circular No. 9, series of 2012, and DepEd Memorandum No. 049, series of 2020, will be strictly complied with.
+
+
+
+The Audit Team appreciated the Management’s commitment to comply with the audit recommendations.
+
+
+
+
+
+4)	The Office of the Vice-President for Academic Affairs (VPAA) and the Accounting Office committed errors in the (a) computation of Teaching Overload (TO) hours to be paid for; and (b) TO units as basis for the computation of honoraria for AY 2019-2020 in violation of Chapter 7.13.1 of the Manual on Position Classification and Compensation and BOT Resolution No. 79, s. 2017, thus resulting in overpayment of P216,407.89 to 32 faculty members. Moreover, inconsistent assignment of equivalent unit of designation for three faculty members during the same AY did not promote uniform and fair application of BOT Resolution No. 79, s. 2017, among faculty-stakeholders, thereby depriving the concerned faculty members just and commensurate payment for the excess services they have rendered for the College.
+
+Chapter 7 - Position Classification and Compensation Scheme for Faculty Positions in State Universities and Colleges of the Manual on Position Classification and Compensation covers all teaching positions involved in instruction, research and extension activities in all State Universities and Colleges (SUCs), Commission on Higher Education (CHED)-supervised Higher Education Institutions and Technical Education and Skills Development Authority (TESDA)-supervised Technical Education Institutions. Chapter 7.13.1 also provides that faculty members are entitled to honoraria for Teaching Overload which shall be based on Prime Hourly Teaching Rate (PHTR).
+
+
+
+TO refers to services rendered in excess of the regular teaching load. It is the difference between the actual and the prescribed Full Time Equivalent (FTE) load of each faculty member, where FTE load is the sum of the equivalent unit of designation held by a faculty member and his/her teaching load for a particular Academic Year (AY), captioned as follows:
+
+TO           = Actual FTE load – Prescribed FTE load
+
+
+
+FTE load = Equivalent unit of Designation + Teaching Load 
+
+The Board of Trustees (BOT) of the OMSC issued BOT Resolution No. 79, s. 2017, to resolve, update and prescribe, among others, the FTE load of faculty members of the College. The said resolution standardizes the FTE loading of faculty members according to designation, number of teaching preparation and nature of academic subject, which shall then be the basis for the computation of TO to be paid for.
+
+
+
+Audit of honoraria for TO in AY 2019-2020 revealed overpayments totalling P216,407.89 to 32 faculty members which is not in accordance with Chapter 7.13.1 of the Manual on Position Classification and Compensation. Hereunder are the conditions which led to the afore-mentioned deficiency:
+
+
+
+a)	Erroneous computation of TO hours to be paid for
+
+Post-audit of Disbursement Vouchers (DVs) and verification of documents disclosed overpayment of honoraria for TO totalling P65,007.75 to 24 faculty members in view of errors made in the computation of TO hours, such as (details in Annexes R and S):
+
+
+
+i)	Excess TO hours paid for modular subjects in graduate school – A particular academic subject, for both undergraduate and graduate schools, requires a total of 54 teaching hours to be completed within a semester. In the case of graduate school subjects, 4.50 teaching hours shall be completed within a week, which gives a total of 12 weeks of regular class in a semester. However, all graduate school subjects are modular in form, thus instead of a regular weekly class/meeting, the schedule is compressed into six days, during weekends from 8:00AM to 12:00NN and 1:00PM to 6:00PM, or nine hours per meeting. Hence, for modular subjects in the graduate school, a nine-hour day of class covers a two-week equivalent of teaching hours.
+
+
+
+Audit disclosed that one faculty member handling two graduate school subjects had three TO hours per week to be paid for which entails that the maximum number of TO hours that shall be paid to her within the semester, if she has no absences and undertimes, is 36 hours (3 TO hours x 12 weeks). However, post-audit of DVs and inquiry with the Accounting Office disclosed that honoraria for TO of 51.17 hours during the second semester was actually paid to the concerned faculty member, resulting in an overpayment of 15.17 hours amounting to P9,506.82 (details in Annex R).
+
+
+
+The Accounting personnel assigned in the computation of honoraria for TO admitted that she committed error in the analysis of TO hours to be paid during the semester. She informed, and the Audit Team confirmed, that she had simply counted the inclusive hours per Daily Time Record (DTR) of the concerned faculty member based on the compressed nine-hour class/meeting per day without regard to the actual three TO hours per week. 
+
+
+
+The Audit Team also observed that the Summary of Loading for the Semester prepared by the Office of the VPAA (OVPAA), which serves as the basis of the Accounting Office in the computation of honoraria for TO, does not indicate the specific inclusive hours for each graduate school subject assigned as the basis for TO hours. The OVPAA personnel assigned in the preparation of such summary specifies only the dates of the six-day compressed classes. Such failure, to specify the inclusive hours as the basis for the TO, contributed to the difficulty of the Accounting Office to ascertain the TO hours to be paid for.
+
+
+
+ii)	Duplication of academic subject as basis for TO – Analysis of the Summary of Loading for the Semester and verification of Schedules of Teaching Loads revealed that teaching hours of one subject assigned as basis for TO was counted twice as shown below.
+
+
+
+
+
+Subject
+
+Course/Section
+
+Time
+
+Day
+
+TO Hours
+
+General Chemistry 2
+
+STEM 12-3
+
+4:00-5:00PM
+
+M
+
+1.00
+
+General Chemistry 2
+
+STEM 12-1
+
+5:00-6:20PM
+
+MWF
+
+3.99
+
+General Chemistry 2
+
+STEM 12-4
+
+1:30-2:20PM
+
+MW
+
+1.67
+
+General Chemistry 2
+
+STEM 12-2
+
+2:20-3:40PM
+
+MW
+
+2.67
+
+General Chemistry 2
+
+STEM 12-3
+
+3:40:5:00PM
+
+MW
+
+2.67
+
+Total
+
+
+
+
+
+
+
+12.00
+
+
+
+It is clear from the Table above that one teaching hour during Mondays, 4:00-5:00PM, was counted twice as basis for the computation of honoraria for TO. As a result, overpayment was made for seven hours (seven Mondays, 4:00-5:00PM, from January to March 2020) amounting to P2,765.77.
+
+
+
+The concerned personnel of OVPAA, when interviewed, acknowledged her lapses in the preparation of Summary of Loading for the Semester and considered the same as human error.
+
+
+
+iii)	Unaccounted undertimes – Re-computation and analysis of DTRs disclosed 37.49 hours of unaccounted undertime from 16 faculty members by the Accounting Office which resulted in the overpayment totalling P10,656.49. 
+
+
+
+iv)	Payment of honoraria for teaching hours not covered by TO Schedule – Analysis of DTRs, Summary of Loading for the Semester and Schedules of Teaching Loads revealed that five faculty members were paid honoraria for TO of 59.31 teaching hours totalling P37,014.58 that were not covered by TO Schedule.
+
+
+
+v)	Error in encoding TO hours from DTRs to the Payroll – TO hours paid to two faculty members per payroll exceeded the actual TO hours in their respective DTRs by ten hours. The said typographical error resulted in overpayment totalling P5,064.09.
+
+
+
+The Accounting Office personnel assigned in the computation of honoraria for TO admitted that the afore-mentioned overpayments were inadvertently overlooked due to voluminous workload.
+
+
+
+
+
+
+
+
+
+b)	Erroneous TO units as basis for the computation of honoraria
+
+Post-audit of DVs and verification of documents disclosed overpayment of honoraria for TO totalling P151,400.14 to eight faculty members in view of erroneous TO units as basis for the computation of honoraria due to:
+
+
+
+i)	Invalid designations in the absence of Office Orders approved by the College President– The designations of seven faculty members were not supported with approved office orders from the College President in violation of item c(5), Section 13, Rule IV of the CSC 2017 Omnibus Rules on Appointments and Other Human Resources Actions, as amended, which states that designations shall be made through an office order issued by the appointing officer/authority, hence their designations are invalid and could not be enforced. 
+
+
+
+Verification of documents and inquiry with the concerned faculty members disclosed that their designations were either (a) from office orders issued by Campus Directors and Department Heads only; or (b) already included in their Schedules of Teaching Loads without any prior office order from the College President. 
+
+
+
+In the absence of such office orders, the designations of the concerned faculty members have no legal basis, thus the OVPAA should have not included the equivalent units of designation in the computation of their FTEs. As a result, the payment of honoraria for TO totalling P142,273.10 (details in Annex T) is deemed irregular.
+
+
+
+ii)	Excessive assignment of equivalent unit of designation - A faculty member was given 18 units for her designation as Cafeteria and Marketing Center Manager instead of three (3) units as provided in BOT Resolution No. 79, s. 2017. Comparison between the actual equivalent unit given to her and the equivalent unit as prescribed in BOT Resolution No. 79, s. 2017, was made by the Audit Team, as follows:
+
+Basis
+
+Prescribed FTE
+
+Actual FTE
+
+ Teaching Overload 
+
+
+
+Equivalent Unit of Designation
+
+Required Teaching Load
+
+Total FTE
+
+Teaching Load
+
+ Total FTE 
+
+
+
+
+
+a
+
+b
+
+c = a + b
+
+ d 
+
+ e = a + d 
+
+ f = e - c 
+
+Per Schedule of Teaching Load
+
+18
+
+0
+
+18
+
+6
+
+24
+
+6
+
+Per BOT Resolution
+
+3
+
+15
+
+18
+
+6
+
+9
+
+0
+
+
+
+Per Schedule of Teaching Load, since the equivalent unit of her designation already met the ‘Prescribed FTE’ of 18 units, her six units of teaching load formed part of her entire TO which then became the basis for the computation of her honoraria for TO amounting to P9,127.04.
+
+
+
+However, if the BOT Resolution No. 79, s. 2017, shall be followed, the actual FTE is less than the prescribed FTE, hence there is no TO, and the honoraria totalling P9,127.04 paid to her does not constitute, in any way, an excess service that should be paid for.
+
+
+
+The Executive Assistant of the College President and VPAA, as well as the Accountant, when interviewed, could not justify the assignment of such excessive equivalent unit of designation, and payment of such honoraria, respectively.
+
+
+
+The Audit Team would like to emphasize that BOT Resolution No. 79, s. 2017, was issued to standardize the FTE load of faculty members of the College and avoid assignment of FTE by way of mere discretion.
+
+The above-mentioned errors in the (a) computation of TO hours to be paid for; and (b) TO units as basis for the computation of honoraria showed that Management failed to comply with the standards set in Chapter 7.13.1 of the Manual on Position Classification and Compensation and BOT Resolution No. 79, s. 2017, thus resulting in overpayment of honoraria for TO totalling P216,407.89 to 32 faculty members of the College.
+
+
+
+In addition to the overpayment of honoraria for TO totalling P216,407.89, the Audit Team also observed inconsistent assignment of equivalent unit of designation for three faculty members during AY 2019-2020, as shown below.
+
+Designation
+
+Campus
+
+Equivalent Unit of Designation
+
+TO not paid
+
+
+
+
+
+1st Sem
+
+2nd Sem
+
+Should be
+
+1st Sem
+
+2nd Sem
+
+Program Coordinator - Midwifery Department
+
+San Jose
+
+9.00
+
+6.00
+
+9.00
+
+-
+
+3.00
+
+Registrar - Designate
+
+Mamburao
+
+6.00
+
+9.00
+
+9.00
+
+3.00
+
+-
+
+Supply Officer - Designate
+
+Mamburao
+
+6.00
+
+9.00
+
+9.00
+
+3.00
+
+-
+
+Inquiry with the VPAA disclosed the following reasons for the inconsistent assignment of equivalent unit of designation:
+
+
+
+a)	The Program Coordinator – Midwifery Department was given nine units for his designation during the first semester as he assumed the duties and responsibilities of the Program Head – Midwifery Department when the latter was concurrently designated as the Sports Director of the College. Moreover, the VPAA informed that considering the concurrent designations of the Program Head, it is best for the Program Coordinator to assume the former’s duties and responsibilities to maintain an uninterrupted operation for the Midwifery Department.
+
+
+
+However, the equivalent unit was decreased to six units during the second semester since the concerned faculty member, despite his assumption of the duties and responsibilities of a Program Head, is not yet officially designated as such in the absence of Office Order from the College President and concurrence from the BOT by way of resolution.
+
+
+
+While it is true that the concerned faculty member is not the Program Head in “paper”, principle of substance over form suggests otherwise since the nature of work being performed is already that of a Program Head. Hence, nine units should have been assigned as the equivalent unit of his designation and an Office Order should have been prepared at the time or even before he assumed the duties and responsibilities of the Program Head – Midwifery Department. 
+
+
+
+b)	The Registrar-Designate and the Supply Officer-Designate of Mamburao Campus were each given six units for their designation during the first semester. They, however, have respectfully appealed to be assigned nine units which is consistent with BOT Resolution No. 79, s. 2017. The correct equivalent unit of nine took effect only during the second semester.
+
+
+
+The Audit Team emphasizes that the College, in addition to adherence with BOT Resolution No. 79, s. 2017, should have meticulously evaluated the nature of work that faculty members were designated to perform as a gauge for appropriate assignment of equivalent unit of designation.
+
+
+
+Additionally, BOT Resolution No. 79, s. 2017, was issued to standardize the FTE load of faculty members of the College, thus non-conformity thereto did not promote uniform and fair application thereof among faculty-stakeholders and as a result, the concerned faculty members were deprived of just and commensurate payment for the excess services they have rendered for the College.
+
+
+
+We recommended that the SUC President ensure strict compliance with the provisions set forth in Chapter 7.13.1 of the Manual on Position Classification and Compensation regarding payment of honoraria for Teaching Overload and:
+
+
+
+a)	Instruct the VPAFSS, in coordination with the Accountant, to cause the refund of overpaid honoraria totalling P216,407.89;
+
+
+
+b)	Instruct the Accountant to ensure accuracy and regularity in the computation of honoraria for TO;
+
+
+
+c)	Instruct the VPAA to ensure regularity and appropriateness in the assignment of equivalent unit of designation in adherence with the provisions set forth in BOT Resolution No. 79, s. 2017;
+
+
+
+d)	Instruct the Accountant and the VPAA to closely coordinate with each other to ensure (i) appropriateness of equivalent units of designation and teaching load, both for ‘Prescribed FTE’ and ‘Actual FTE’, and the resulting TO units; and (ii) accuracy and propriety of the duration/time and academic subjects assigned as bases for TO before payment thereof is made; and
+
+
+
+e)	Ensure that office orders for designations of College Officials are approved and issued to the designees before the latter take on their duties and responsibilities.
+
+
+
+The VPAFSS, the VPAA and the Accountant had been duly instructed per Office Order No. 16 dated January 21, 2021 to comply with the audit recommendations.
+
+
+
+The Accountant has reviewed cited instances of erroneous computation of total hours and will inform the payees concerned that the same has to be paid back over the counter or by salary deduction depending upon the net take-home-pay and agreement with the payee.
+
+
+
+In case of overpayment due to invalid designations in the absence of Office Orders from the College President, reconsideration is hereby sought and payback instruction requested to be recalled. The designated personnel were in good faith and have implemented the tasks that were assigned to them. Acts and commands of the President are normally embodied in Special Orders (SO), in this instance however, authorization for the additional task or designation itself can be construed to be included in Special Order authorizing the payment of honoraria per attached schedule of overload. If COA will graciously consider the lack of SO for the designations rectified by the S.O. for the overload and the approval of the overload schedule, OMSC will be very grateful in behalf of the payees and promises to be more vigilant in the future.
+
+
+
+The VPAA, for his part, instructed the College Deans to ensure that the faculty loads of both regular and part-time faculty are within the BOT FTE policy and not to include FTE units in the final faculty loads of locally designated faculty until Office Order from the College President has been issued.
+
+
+
+We appreciated the Management’s commitment and willingness to comply with the audit recommendations.
+
+
+
+5)	The College paid honoraria totalling P366,062.50 for BOT-related meetings contrary to the provisions of Republic Act (RA) No. 8292 and its Implementing Rules and Regulations (IRR), thus resulting in overpayment of P366,062.50.
+
+The Audit Team reviewed and analyzed the payment of honoraria granted to members of the BOT and related transactions covering Calendar Years (CYs) 2018-2020. Audit revealed that payments totalling P366,062.50 were contrary to the provisions of RA No. 8292 and its IRR. Hereunder are the conditions which led to the afore-mentioned deficiency:
+
+
+
+
+
+a)	The members of the BOT were granted two honoraria for a one-day meeting 
+
+Review of documents revealed that the BOT conducted four regular meetings in CY 2018, one special and two regular meetings in CY 2019 and four regular meetings in CY 2020, as shown below.
+
+
+
+BOT Meetings
+
+Date
+
+Honoraria
+
+CY 2018
+
+
+
+
+
+1st Quarter Regular (112th) 
+
+ March 26, 2018 
+
+P 38,500.00 
+
+2nd Quarter Regular (113th)
+
+ May 11, 2018 
+
+30,000.00 
+
+3rd Quarter Regular (114th)
+
+ November 12, 2018 (AM) 
+
+38,500.00
+
+4th Quarter Regular (115th)
+
+ November 12, 2018 (PM) 
+
+38,500.00
+
+CY 2019
+
+
+
+
+
+1st Quarter Regular (116th)
+
+ June 13, 2019 
+
+30,000.00 
+
+2nd Quarter Regular (117th)
+
+ July 25, 2019 
+
+17,250.00 
+
+Special Meeting
+
+ November 20, 2019 
+
+25,750.00 
+
+CY 2020
+
+
+
+
+
+3rd Quarter Regular (118th) 2019
+
+ January 8, 2020 (AM) 
+
+25,750.00 
+
+4th Quarter Regular (119th) 2019
+
+ January 8, 2020 (PM) 
+
+25,750.00 
+
+1st Quarter Regular (120th) 2020
+
+ September 17, 2020 (AM) 
+
+25,750.00 
+
+2nd Quarter Regular (121st) 2020
+
+ September 17, 2020 (PM) 
+
+25,750.00 
+
+
+
+Total
+
+P321,500.00 
+
+
+
+However, it can be noted in the above table that the BOT conducted two quarterly meetings in a single day, on November 12, 2018, January 8, 2020 and September 17, 2020 and were paid honoraria equivalent to two meetings, contrary to Section 12 of the Implementing Rules and Regulations of RA No. 8292 that explicitly provides the following:
+
+
+
+Section 12.1 Regular Meetings – The Governing Body (GBs) must regularly convene at least once every quarter.
+
+
+
+12.2 Frequency, Date and Venue of Regular Meetings – The frequency over and above the minimum stated in 12.1 hereof, and the date and venue of regular meetings of the GBs shall be determine by the GB itself provided that only four (4) regular meetings and two (2) special meetings shall be granted the authorized allowance.” (emphasis supplied)
+
+
+
+The Vice-Chair, as authorized by the BOT Chair, explained that the Commissioners empowered to represent the CHED Chairman are only limited in number and at times saddled by more SUCs than they could handle. She further explained that although Governing Body (GB) chairmanship to SUCs is akin to jury-duty, this is not the sole jury-duty consuming the time of CHED Commissioner/GB Chairs. She added that there are situations when crises and other functions in their own agency must take precedence. In such times, scheduling the meeting for all the SUCs under its supervision, which numbers more than twenty (20) for each Commissioner/GB Chair, poses a problem that requires Solomonic balancing act.
+
+
+
+The Audit Team understands the busy schedule of the BOT especially its Chair, however, the above law explicitly requires the GBs to convene at least once in every quarter.  Correspondingly, the claim of honoraria should also be limited to once every quarter.  The said action resulted in overpayment of P90,000.00, as computed below.
+
+
+
+Date of Meeting
+
+Amount
+
+November 12, 2018
+
+P 38,500.00
+
+January 8, 2020
+
+25,750.00 
+
+September 17, 2020
+
+25,750.00 
+
+Total
+
+P 90,000.00
+
+
+
+In addition, per diem, the appropriate term for the allowance granted to the BOT per DBM Budget Circular No. 2003-6, is a Latin word which literally means “per day”, "by the day" or "for each day” when translated into English. Also, here are some of the definitions of per diem from different sources:
+
+
+
+Source
+
+Definition of per diem
+
+Merriam – Webster Dictionary
+
+Per diem is an amount of money someone is given for daily expenses, such as those incurred while traveling for work.
+
+Cambridge Dictionary
+
+Per diem is an <a href="https://dictionary.cambridge.org/us/dictionary/english/amount">amount</a> of <a href="https://dictionary.cambridge.org/us/dictionary/english/money">money</a> <a href="https://dictionary.cambridge.org/us/dictionary/english/paid">paid</a> for each <a href="https://dictionary.cambridge.org/us/dictionary/english/day">day</a> that an <a href="https://dictionary.cambridge.org/us/dictionary/english/employee">employee</a> <a href="https://dictionary.cambridge.org/us/dictionary/english/works">works</a> away from <a href="https://dictionary.cambridge.org/us/dictionary/english/their">their</a> <a href="https://dictionary.cambridge.org/us/dictionary/english/home">home</a> or <a href="https://dictionary.cambridge.org/us/dictionary/english/their">their</a> <a href="https://dictionary.cambridge.org/us/dictionary/english/office">office</a>, used to <a href="https://dictionary.cambridge.org/us/dictionary/english/pay">pay</a> for <a href="https://dictionary.cambridge.org/us/dictionary/english/food">food</a>, <a href="https://dictionary.cambridge.org/us/dictionary/english/travelling">travelling</a>, etc.
+
+Investopedia
+
+Per diem payments are <a href="https://www.investopedia.com/articles/personal-finance/093014/understanding-diem.asp">daily allowances paid to employees</a> to cover costs incurred while on a business trip.
+
+
+
+Based on the above definitions of per diem, the members of the Board should have been granted only one per diem for a one-day meeting even it covers the agenda for a two-quarter or even four-quarter meetings. In fact, the members of the BOT are provided with meals, transportation and tokens during their meetings on top of their per diems, thus to claim double per diem is inappropriate.
+
+b)	CHED and DOST Region IV-B Directors attended BOT meetings and claimed honoraria as resource persons in form but in substance, they acted as members of the BOT without voting powers
+
+Audit of disbursement vouchers and reports of cash disbursements/liquidations showed that in every BOT regular meeting, the Directors of the Commission on Higher Education (CHED) and Department of Science and Technology (DOST), both of Region IV-B, have been consistently receiving honoraria, equivalent to the amount received by a member of the Board, as resource persons.
+
+
+
+A resource person, as defined in DBM Budget Circular No. 2007-1 dated April 23, 2007, is any person who, by virtue of his/her expertise in a specific subject area, serves as speaker in seminars, conferences, symposia, training programs and similar activities. In this case, the two Regional Directors cannot fall under the definition of a resource speaker since they did not, in any way, discuss any specific subject/topic for an hour or more during the meetings. Also, a regular board meeting could not be considered as a seminar, conference, symposia, training program or other similar activity.
+
+
+
+Inquiry with concerned officials and review of the Minutes of Regular Meetings further confirmed that the two did not act as speakers but rather members of the Board as follows:
+
+
+
+--	The College President, when interviewed, informed the Audit Team that the said Directors are considered members of the Board without voting powers and has been the practice prior to her assumption of office. 
+
+--	The said Directors are among the Board of Trustees in the OMSC Annual Report 2019-2020.
+
+--	During the 112th Regular Meeting, the BOT Chair informed the members of the Board that during her last Directorate Meeting with the other CHED Commissioners, it was resolved that the CHED Regional Director will be a regular member, but non-voting member of the Board of Trustees. 
+
+--	In the Report of Cash Disbursements and General Payroll for the 114th and 115th Regular BOT Meetings held on November 12, 2018, the CHED Director signed and received honoraria as a member of the Board despite the fact the she is not among the members enumerated under Section 3.a, Composition of the Governing Body of SUCs, of RA 8292.
+
+--	They act, inquire and participate as members of the Board and are addressed as Trustees in most of the Minutes of BOT meetings.
+
+
+
+The Audit Team would like to emphasize that the CHED Commissioners, or even its Chairman, cannot revise a law approved by the Congress and the President of the Philippines, thus appointing someone who is not among those enumerated in the law as a member of the Board is illegal. Section 3.a of RA No. 8292 specifically provides the following:
+
+“Section 3. The Governing Boards; manner of appointment. –
+
+(a) Composition – The governing body of state universities and colleges is hereby in the Board of Regents for universities and in the Board of Trustees for colleges which shall be composed of the following:
+
+(i) Chairman of the Commission on Higher Education (CHED), Chairman;
+
+(ii) President of the university or college, Vice Chairman;
+
+(iii) Chairmen of the Congressional Committees on Education and Culture;
+
+(iv) Regional Director of the National Economic Development Authority (NEDA) where the main campus of the university or college is located;
+
+(v) Regional Director of the Department of Science and Technology (DOST) in case of science and technological colleges; or the Regional Director of the Department of Agriculture colleges; or the Secretary of Education for an Autonomous Region. In lieu of such representation, the commanding generals of the Philippine Air Force and the Philippine Navy shall sit as members of the Board of the Philippine State College of Aeronautics and the Philippine Merchant marine Academy, respectively;
+
+(vi) President of the faculty association;
+
+(vii) President of the supreme student council or the student representative elected by the student council: Provided, That in the absence of a student council president of student representative elected by the student council, the university or college shall schedule one (1) weekly for the campaign and election of student representative;
+
+(viii) President of the alumni association of the institution concerned;
+
+(ix) Two (2) prominent citizens who have distinguished themselves in their professions or fields of specialization chosen from among lists of at least five (5) persons qualified in the city or the province where the school is located, as recommended by the search committee constituted by the President consultation with the Chairman of the CHED based on the normal standards and qualifications for the position;
+
+xxx.” (emphasis and underscoring supplied)
+
+Among the above enumerated composition of the BOR for universities and BOT for colleges under Section 3 of RA No. 8292, the CHED Regional Director is not included, hence cannot become a member of the Board. Also, since only one seat is allotted to the Regional Director of the Department of Agriculture and the DOST Regional Director, the latter cannot anymore sit as one, pursuant to Section 3.a (v) of the same Act. Hence, payment of honoraria to the Regional Directors of CHED and DOST totalling P64,250.00 from CYs 2018-2020 is considered irregular.
+
+c)	Members of the BOT Finance Committee were granted honoraria instead of allowing only reimbursement of necessary expenses incurred during their meetings as Finance Committee
+
+The BOT, in their 95th Regular Meeting held on December 12, 2013, created among themselves a Finance Committee composed of: Regional Director of NEDA, Regional Director of DA, Faculty and Student Trustees. Its function is to review or scrutinize the financial matters especially with regard to procurement to ensure compliance with the requirements of RA No. 9184 before the matter is included in the Agenda. The Board Secretary shall confer with the Financial Committee and provide them with necessary documents before the item is presented to the Board. The Finance Committee shall indorse or recommend the approval or disapproval of the item. 
+
+
+
+Review of disbursement vouchers, payroll and liquidations revealed that the College, instead of allowing only reimbursement of necessary expenses incurred during meetings, granted honoraria to the members of the Finance Committee totalling P168,750.00, as follows:
+
+
+
+Date of Meeting
+
+No. of Members
+
+ Honoraria Granted 
+
+March 01, 2018
+
+4
+
+P16,250.00 
+
+April 28, 2018
+
+3
+
+12,250.00 
+
+September 24, 2018
+
+3
+
+12,250.00 
+
+November 06, 2018
+
+3
+
+12,250.00 
+
+February 28, 2019
+
+3
+
+12,250.00 
+
+May 29, 2019
+
+2
+
+8,250.00 
+
+September 27, 2019
+
+3
+
+13,000.00 
+
+November 15, 2019
+
+3
+
+13,000.00 
+
+December 10, 2019
+
+4
+
+17,250.00 
+
+June 23, 2020
+
+3
+
+13,000.00 
+
+July 10, 2020
+
+3
+
+13,000.00 
+
+September 11, 2020
+
+3
+
+13,000.00 
+
+December 29, 2020
+
+3
+
+     13,000.00 
+
+Total
+
+
+
+P 168,750.00 
+
+
+
+The BOT, through a letter reply to our audit query, explained that the grant of honoraria to the members of the Finance Committee is predicated on the principle that said benefit is earned as a token of appreciation for gratuitous service on account of one’s broad and superior knowledge or expertise in a specific field which service is not among the regular and permanent functions of their respective agencies (DBM Budget Circular No. 2007-1 dated April 23, 2007). According to them, the function of the BOT Finance Committee members fits the description of such service. They added that the meeting is normally before the regular meeting of the GB En Banc and involves review, critiquing and revisions if necessary and is not a duplication of the proceedings during the regular meeting itself. They believed that their actions fit the category of resource person or facilitator. Further, most of the time, there are many other facets of the SUC’s operations included on top of financial matters in the agenda during regular meetings.
+
+
+
+The claim of Management that the Finance Committee was granted honoraria since they serve as resource persons or facilitators per DBM Budget Circular No. 2007-1 dated April 23, 2007 is of no merit because (a) their function as described above does not fall within the definition of a resource person under the said Circular; and (b) the Circular does not pertain to a GB or Committee meetings but to seminars, conferences, symposia, training programs and other similar activities.
+
+
+
+In addition, Section 12.2 of the IRR of RA No. 8292 explicitly provides that only the four (4) regular meetings and two (2) special meetings shall be granted the authorized allowance. Thus, the members of Finance Committee shall not be granted honoraria but shall only be reimbursed for the necessary expenses incurred in connection with their official business as authorized by a resolution of the Board per Section 3.c of RA No. 8292 and Section 17 of its IRR, as follows:
+
+
+
+“Section 17 No Compensation for the Chairman, Vice-Chairman and Members of GBs – The Chairman, Vice-Chairman and Members of the GB of chartered SUCs shall not receive any regular compensation as such but they shall receive entitlements to actual allowances allowed by law and reimbursement of necessary expenses incurred during or in conjunction with their attendance in the regular meetings or special sessions of the GB or in connection with their performance of official business duly authorized by the GB through Resolution.”(emphasis and underscoring supplied)
+
+d)	Creation and payment of honoraria to the Academic Committee composed of members outside of the BOT has no legal basis.
+
+The BOT, through Referendum No. 08, series of 2020, created an Academic Committee that will evaluate, review and endorse to the Board for approval, all the proposed academic matters of the College. The said Committee is composed of the following:
+
+
+
+Chair
+
+Director Joselito C. Alisuag
+
+Director, CHED MIMAROPA Region
+
+Member
+
+Director Josefina P. Abilay
+
+Director, DOST MIMAROPA Region
+
+Member
+
+Dr. Joliwar C. Joaquin
+
+President, Faculty Federated Association
+
+
+
+Based on the Referendum, the Committee was authorized to receive per meeting an honorarium of P4,500.00 and P4,250.00 as Chair and Members, respectively. As of December 31, 2020, the members of the Academic Committee were granted a total of P26,000.00 honoraria, as follows:
+
+
+
+Academic Committee
+
+ Position
+
+ Date of Meeting 
+
+
+
+
+
+Dec. 16, 2020
+
+Dec. 22, 2020
+
+Chair
+
+CHED MIMAROPA Regional  Director 
+
+P4,500.00 
+
+P 4,500.00 
+
+Member
+
+DOST MIMAROPA Regional Director 
+
+         4,250.00 
+
+         4,250.00 
+
+Member
+
+Faculty Trustee/ BOT Member 
+
+    4,250.00 
+
+     4,250.00 
+
+
+
+Total
+
+P13,000.00 
+
+P13,000.00 
+
+The grant of honoraria to the members of the Academic Committee is doubtful and unnecessary since (a) it lacks legal basis per RA No. 8292 and its IRR; (b) the Chair and one of its members are outside parties and are not even members of BOT or the College; and (c) its purpose/function duplicates that of the Academic Council as stated in Section 10 of RA No. 8292. 
+
+
+
+“Section 10. Academic Council – There shall be an academic council with the President of the university or college as Chairman and all the members of the instructional staff with the rank of not lower than assistant professor as members. The academic council shall have the power to review and recommend the curricular offerings and rules of discipline of the university or college subject for appropriate action of the Board of Regents/Trustees. It shall fix the requirements for the admission of students as well as for graduation and the conferment of degrees subject to review and/or approval by the Board of Regents/Trustees through the president of the university or college”.
+
+
+
+The College President explained that the purpose of the Academic Committee is good for the College since the matters discussed in the Academic Council are being reviewed for errors/deficiencies and the Committee provides suggestions and recommendations for its improvement prior to the deliberation of the BOT. In addition, the Committee will back up the academic agenda during the BOT meeting.
+
+
+
+Be that as it may, the members of the Academic Committee shall not be outside parties. In addition, they shall not be granted honoraria but shall only be reimbursed for necessary expenses incurred in connection with their official business as authorized by a resolution/s of the Board per Section 3.c of RA No. 8292 and Section 17 of its IRR. 
+
+e)	Non-representation of the faculty and student sectors in the Search Committee for two BOT members from the private sector and grant of honoraria to the Board Secretary for functions which are inherent to her duties and responsibilities.
+
+Section 10.2 of the IRR of RA No. 8292 provides that the Search Committee (SC), for the Selection and Appointment of the two (2) GB Members representing the Private Sector, to be formed and constituted by the President of the chartered SUC concerned and to be approved by the CHED Chairman shall have three (3) members who shall elect from among themselves their Chair, provided that the faculty and student sectors concerned shall be represented in the SC.
+
+
+
+Verification revealed, however, that the faculty and student sectors were not represented in the Search Committee, composed of the following:
+
+
+
+
+
+
+
+
+
+Role
+
+Name
+
+Position
+
+Chairman
+
+Dr. Maria Olivia Z. Domingo
+
+President of Kalayaan College
+
+Members
+
+Dr. Elbert C. Edaniol
+
+VP for Academic Affairs of OMSC
+
+
+
+Dr. Levilester B. Salcedo
+
+Private Sector Representative
+
+Secretariat
+
+Ms. Fe L. Lobresco
+
+Staff of Commissioner De Las Llagas
+
+
+
+Ms. Mila P. Ayes
+
+Board Secretary
+
+
+
+The BOT, in their reply to our audit query, explained that at the time the Search Committee was constituted, the students were still going through their electoral process and the Supreme Student Government’s Federation President took oath only on November 20, 2019. The VPAA was also referred to represent the faculty in the purely assistorial SC since both Supreme Student Government Federation (SSGF) President and the Faculty Trustee are BOT members and will cast their vote for any qualified applicant once the SC has submitted their list of nominees. They added that voting members of the BOT were agreed to be excluded in the SC to remove bias from the process of screening and shortlisting of candidates. The BOT members including the on-going private sector representative selected, instead, other independent personalities to constitute the Search Committee.
+
+
+
+The Audit Team would like to emphasize that Section 10.2 requires that faculty and student sectors shall be represented in the SC, not specifically SSGF President and Faculty Trustee.
+
+
+
+Relative thereto, the Audit Team noticed the creation of a Search Committee Secretariat even if there is already a Board Secretary. The Vice-Chairman explained that given the complexity of vetting for the most qualified BOT members from the private sector and the zeal for transparency entitles the GB to exercise its prerogative of assigning as many personnel it deemed necessary to ensure that the Search is implemented and completed with maximum efficiency at the shortest time possible based on availability of team members. 
+
+
+
+Based on the above explanations, the creation of the Search Committee alone with the assistance of the Board Secretary is sufficient without the necessity of creating an SC Secretariat. In addition, their reason of ‘maximum efficiency at the shortest time possible’ could not be justified since as of this writing, no private sector representative has been selected yet despite the creation of the SC in January 2019. The BOT, in their reply to our letter, explained that they opted to extend the Search in order to attract more applicants. 
+
+
+
+Moreover, the payment of honoraria to the VPAA and Board Secretary amounting to P9,562.50 and P7,500.00, respectively, is unnecessary since the former is already properly compensated in the form of salary and overload pay while the Secretariat function is inherent in the latter’s duties and responsibilities.
+
+The above-mentioned deviations from the laws, rules and regulations resulted in excessive and irregular payment of honoraria totalling P366,062.50. It is also worth mentioning that aside from the said overpayment, honoraria for BOT-related meetings for CY 2018 and previous years were all charged against Special Trust Fund contrary to Section 4(d) of RA No. 8292 and Supreme Court Decision GR No. 211999 dated August 20, 2019.
+
+
+
+The Audit Team would like to emphasize that the grant of honoraria should have valid legal basis instead of mere prerogative of the Board. It is true that the BOT were vested powers for them to be more effective in their governance of SUCs but those powers are still subject to limitations for the best interest of the College and the government.
+
+
+
+We recommended that the BOT Chair and SUC President ensure strict compliance with the provisions set forth in RA No. 8292 and its IRR regarding payment of honoraria to the Governing Body and:
+
+
+
+a)	Direct the members of the BOT and persons previously mentioned to cause the refund of the overpayment of honoraria totalling P366,062.50;
+
+
+
+b)	Refrain from granting honoraria to persons other than the members of the Board during BOT meeting;
+
+
+
+c)	Instruct the members of the Finance Committee to present official receipts in order to claim reimbursement of necessary expenses incurred in relation to their performance of official business duly authorized by resolution of the Board;
+
+
+
+d)	Review the composition and necessity of constituting the Academic Committee; 
+
+
+
+e)	Ensure that the student and faculty sector are well-represented in the Search Committee for BOT members from private sector; and
+
+
+
+f)	Instruct the Accountant to institute control measures and ensure that payment of authorized allowance shall be in accordance with RA No. 8292 and its IRR.
+
+
+
+The Management requested reconsideration on the refund of honoraria based on the following justifications:
+
+
+
+a)	The College  construed Section 12.1 as a directory of the law, implying that  it is a mere direction or instruction of no obligatory force and involves no invalidating consequence for its disregard, as opposed to an imperative or mandatory provision which must be followed; since in Section 12.2  it was also stated that “The frequency over and above the minimum stated in 12.1 hereof, and the date and venue of regular meetings of the GBs shall be determined by the GB” was construed as the grant of  explicit discretion to the BOT/GB to schedule the meeting at the earliest and most convenient time when quorum will be met and either the CHED Chairman/Commissioner, as the duly designated Chair of the Board, or the SUC President who is the Vice-Chairman thereof can be present pursuant to Section 13.
+
+
+
+The limit and control is “that only four (4) regular meetings and two (2) special meetings shall be granted the authorized allowance (emphasis supplied).”   For FY 2018 to 2020, the allowances granted to the BOT did not exceed the number of allowable meetings with honoraria for each year, hence, there can be no overpayment.  Likewise, there was no provision in the IRR or RA No. 8292 itself that specifies the length of a BOT Meeting.  
+
+
+
+However, the OMSC BOT has a standing policy that limits the meeting agenda, as much as possible, to no more than 15 (regular length) to preserve efficiency and effectiveness of the process and no more than three (3) hours per meeting was the recommended optimum length by a NEDA director during a lecture on Completed Staff Work (CSW).  Still, the volume of matters requiring BOT action cannot always be compressed to fit the ideal scenario.  Hence, whenever availability of the members of the BOT is restricted by the demands of their own agencies, the BOT has chosen to conduct two (2) meetings in the one day/date where there is available quorum rather than leaving important agenda at some other distant date.
+
+
+
+b)	The Regional Directors of DOST and CHED are tasked by the BOT as empowered by the CHED En Banc (CEB) to attend the meetings in advisory capacity and even assigned for committee membership being the top experts in the areas of Research/Extension and Instruction. Their entitlement to honoraria is based on the principle that said benefit is earned as a token of appreciation for gratuitous service on account of one’s broad and superior knowledge or expertise in a specific field which service is not among the regular and permanent functions of their respective agencies. (DBM Budget Circular No. 2007-1 dated April 23, 2007).  
+
+
+
+c)	The BOT delegated the rigid review of financial and academic matters to Members of the BOT Finance and Academic Committee in order that all the numerous requests for action can be attended to within a single day.  Said bodies serve as check and balance to the SUCs’ Academic and Administrative Council in terms of their independence from the agency.
+
+
+
+The creation of a committee is within the purview of the BOT’s power to establish policy guidelines and procedures for participative decision-making and transparency within the institution pursuant to Section 4 (v) of RA No. 8292 on the Powers and Duties of the Governing Boards (GB).  The exhaustive deliberation of financial and academic matters before each proposal is brought to the BOT regular meeting ensures that the members have all the information they need to make optimum decisions and minimize deferral or disapproval of financial and academic matters.    
+
+
+
+The payment of honoraria to members of the Academic and the Finance Committee members  is expressly provided for in the GAA general provisions (Section 52 in FY 2018, Section 53 in FY 2019 and Section 54 in FY 2020) for chairpersons and members of commissions, boards, councils, and other similar entities, including personnel thereof who are not paid salaries nor per diems but compensated in the form of honoraria subject to the guidelines prescribed under B.C. No. 2003-5 dated September 26, 2003, as amended by B.C. No. 2007-1 dated April 23, 2007 and N.B.C.  No. 2007-510 dated May 8, 2007, B.C. No. 2007-2 dated October 1, 2007, B.C. No. 2004-5A dated October 7, 2005, as amended by B.C. No. 2007-3 dated November 29, 2007, DBM and DOST J.C, No. 1 dated June 25, 2013 and such other guidelines issued by the DBM.  Cases not covered by the provisions of these circulars shall be referred to the Department of Budget and Management for resolution.  
+
+
+
+d)	Overload pay is earned for actual teaching rendered after regular working hours or on top of the full-time equivalent load and should not prevent the VPAA from receiving remuneration in the form of an honoraria for his services to the Search Committee.
+
+
+
+In all these, the OMSC President and key officials acted believing they are following the law in approving the payment of honoraria to the concerned persons who in turn also believed in good faith that they were entitled to them. As the grant of allowances and honoraria to, and their receipt by, the board secretary and the other OMSC Officials were made in good faith pursuant to the OMSC policy and guidelines, the OMSC President and Officials cannot be held personally liable for the subject allowances and honoraria, and should not be required to return them.
+
+
+
+The inclusion of the Student Representative in Search Committee will be recommended by the President in future Search Committees, henceforth.
+
+
+
+The Accountant will exercise vigilance in ensuring compliance with RA No. 8292 and will keep abreast of the changes to be implemented by CHED in the future.
+
+
+
+	Auditor’s Rejoinder:
+
+
+
+The Audit Team would like to emphasize that laws, rules and regulations should be understood/applied in a full perspective and not on a piece-meal basis.
+
+
+
+The Audit Team disagrees with the College interpretation of “Section 12.1 as a directory of the law, implying that it is a mere direction or instruction of no obligatory force and involves no invalidating consequence for its disregard, as opposed to an imperative or mandatory provision which must be followed.” (underscoring supplied). Section 12.1 of the IRR of RA No. 8292, as already mentioned in our discussion of audit findings, use the word “must” which means that it must be followed and not a mere discretion or instruction.
+
+
+
+With regard to Section 12.2, Management should thoroughly understand the IRR when it states:
+
+Section 12.2 Frequency, Date and Venue of Regular Meetings – The frequency over and above the minimum stated in 12.1 hereof, and the date and venue of regular meetings of the GBs shall be determined by the GB itself provided that only four (4) regular meetings and two (2) special meetings shall be granted the authorized allowance.”(emphasis supplied).
+
+Section 12.2 gives the BOT the authority to determine the date and venue of regular meetings and the frequency over and above the minimum stated in 12.1, that is over and above the minimum one meeting per quarter. We also like to emphasize that we do not question how long the meeting will be or how many agenda are included in the meeting so long as the authorized allowance is in accordance with the laws, rules and regulations, however, OMSC’s grant of said allowance as mentioned in the audit finding did not follow the provisions under RA No. 8292, its IRR and DBM Budget Circular No. 2003-6.
+
+
+
+For the Regional Directors of DOST and CHED, the Audit Team would like to reiterate that the argument of Management that they were granted honoraria per DBM Budget Circular No. 2007-1 dated April 23, 2007 has no basis for the following reasons: (a) in substance they were granted honoraria as “non-voting members” of the BOT as indicated in the documents reviewed by the Audit Team; (b) they did not meet the definition of a resource speaker in DBM BC No. 2007-1; and (c) BOT meeting is not a seminar, conference, symposium, training program and other similar activity.
+
+
+
+For the grant of honoraria to the BOT Finance and Academic Committees, the Audit Team maintains that the members of the said Committees shall not be granted honoraria but shall only be reimbursed for necessary expenses incurred in connection with their official business as authorized by resolution of the Board per Section 3.c of RA No. 8292 and Section 17 of its IRR. In addition, the allowed per diem pertains to Board meetings where there is a quorum and not to Committee meetings.
+
+
+
+The refund of honoraria given to the VPAA as member of the Search Committee is based on the principle that the Search Committee meetings happened during working hours where he is already paid salaries, thus the grant of honoraria is unnecessary.
+
+
+
+
+
+
+
+
+
+
+
+
+
+B)	GENDER AND DEVELOPMENT (GAD) IMPLEMENTATION
+
+
+
+6)	Inadequate gender mainstreaming contrary to Section 36, Chapter VI of Republic Act No. 9710 due to (a) insufficient GAD Database; (b) late submission of GAD Accomplishment Report; (c) inclusion of expenditures sourced from other funds; and (d) reporting unreliable outputs impaired the College’s capability to promote women’s human rights and eliminate gender discrimination.
+
+OMSC, as a government agency, is required under Section 36, Chapter VI of the RA No. 9710, otherwise known as the Magna Carta of Women, to adopt Gender Mainstreaming as a strategy to promote women’s human rights and eliminate gender discrimination in their systems, structures, policies, programs, processes and procedures which shall include, among others, the following:
+
+--	Creation and/or Strengthening of the GAD Focal Point Systems (GFPS)
+
+--	Generation and Maintenance of GAD Database
+
+--	Planning, budgeting, monitoring and evaluation for GAD
+
+The Audit Team verified the actions taken by the College on the observations and recommendations pertaining to Gender and Development discussed in the CY 2019 Annual Audit Report and we would like to commend the GAD Focal Point System in their effort to comply with some of our recommendations, as follows:
+
+--	Creation of the GFPS effective January 2, 2020 with their specific roles
+
+
+
+--	The expenses that can be charged to the GAD budget as prescribed under Annex C of PCW-NEDA-DBM Joint Circular No. 2012-01 were considered in the utilization of GAD funds.
+
+However, evaluation and scrutiny of the GAD Accomplishment Report (AR) for the year revealed the presence of the following deficiencies:
+
+
+
+a)	Insufficient GAD Database 
+
+Section 36(c), Chapter VI of RA 9710 requires agencies to develop and maintain GAD Database containing gender statistics and sex-disaggregated data that have been systematically gathered, regularly updated and subjected to gender analysis for planning, programming and policy formulation. 
+
+
+
+Inquiry with GAD Chairperson and TWG disclosed that they have no GAD Database yet but started to collect sex-disaggregated data from the Records and Registrar Offices. She mentioned that they still need to undergo relevant trainings prior to establishment of GAD Database.
+
+
+
+
+
+b)	Late submission of GAD Accomplishment Report for CY 2020
+
+The Philippine Commission on Women (PCW) issued Memorandum Circular No. 2021-01 on the Submission of FY 2020 GAD Accomplishment Report (AR) which include, among others, the deadline of state universities and colleges (SUCs) on February 26, 2021 for the encoding and submission of FY 2020 GAD AR through the Gender Mainstreaming Monitoring System (GMMS), for review of CHED regional offices.
+
+
+
+Inquiry and verification revealed that the OMSC submitted its GAD AR only on March 22, 2021. According to the GAD Chairperson, they requested an extension from PCW to submit the report on March 22, 2021 and the same was granted, thus the actual date of submission. She added that the request was granted since she just assumed her post as the GAD Chairperson in the last week of October 2020.
+
+c)	Expenditures totalling P63,833.34 were sourced out of funds other than the General Appropriations Act
+
+Activities with gender issues “Participation in Anti-Violence Against Women and their Children Campaign” and “Gather Relevant Data regarding the Status of Women and Other Marginalized Sectors of the Community” have actual results of 14 researches. The salary equivalent of the faculty and staff for the time spent in doing the researches and the related research incentives and awards were reported as the cost/expenditure for the 14 researches. Inclusive of these expenditures, however, are disbursements amounting to P63,833.34 sourced not from the General Fund but from the Special Trust Fund.
+
+d)	Expenditures totalling P9,125,979.51 for Monitoring and Supervision of the GAD Programs, Projects and Activities were not supported with complete details/reports
+
+Review of GAD AR for CY 2020 showed that one of the Agency’s gender issue is the low gender mainstreaming with the following objectives, performance indicators/targets and actual result:
+
+
+
+Gender Issue
+
+Low Gender Mainstreaming
+
+Objective
+
+Creation and Strengthening of the GFPS
+
+Performance Indicator/Target
+
+Composition of GFPS – at least 1 hour/day/semester for monitoring and supervision of the GAD related activities
+
+Actual Result
+
+The GFPS composition were identified and their roles were clearly spelled out. GAD Projects/Activities/Programs (PAPs) are reflected in their accomplishment report.
+
+
+
+The actual result  which costs P9,125,979.51 or 64% of the total GAD expenditures for CY 2020 pertains to the salary equivalent to the number of hours allotted by 33 GFPS members on monitoring and supervision of GAD PAPs where 31 of them allotted 540 hours each for the period January 1 to December 31, 2020 while the other two allotted 180 and 480 hours, respectively. 
+
+
+
+Inquiry was made with the GAD Chair and Secretariat for the details of the 540 hours and its corresponding accomplishment report as stated in the actual result above. The latter explained that it pertains to the three hours/day/semester spent by each member of the GFPS on monitoring and supervision of the GAD-related activities since they believed that one hour per day is not enough. 
+
+
+
+Audit revealed, however, that the 32 GFPS member have not yet submitted the details/accomplishment reports to support the 540 hours spent as reported despite the letter of the GAD Chair dated February 18, 2021. In fact, only one GFPS member submitted her accomplishment report as furnished to us by the GAD Secretariat, however, the same did not clearly show the detailed distribution of the 540 hours spent for GAD. 
+
+
+
+The Secretariat explained that the non-submission of accomplishment was due to the volume of work and busy schedule of each of the members of the GFPS. 
+
+
+
+This explanation of the Secretariat further cast doubts on the accuracy and reliability of the 540 hours reported as time spent by each of the GFPS members for GAD alone.
+
+The above-mentioned deficiencies in the gender mainstreaming of the College impaired its capability to promote women’s human rights and eliminate gender discrimination.
+
+
+
+We recommended that the SUC President instruct the GAD Chairperson to (a) ensure timely preparation and submission thru the GMMS of the GAD Accomplishment Report; (b) coordinate with other concerned offices for the completion of GAD database that could assist them in identifying valid, appropriate and existing gender issues that are to be addressed prior to the preparation of the GAD Plan and Budget; and (c) coordinate with all concerned offices to ensure accuracy and reliability of GAD Accomplishment Report to better assess the College’s fulfillment of its GAD objectives.
+
+The SUC President issued Office Order No. 76, series of 2021 instructing the GAD Chair to comply with the audit recommendations. 
+
+
+
+The GAD Chair has devised a scheme to keep track of GAD programs/activities and projects (PAPs) implemented in each unit/department/college/campus on a monthly basis. This will expedite the consolidation of documents and thus meet the deadline in the submission of the accomplishment report (AR). This is also a mechanism to ensure the accuracy and reliability of the GAD AR.
+
+
+
+The training on Gender Audit and Analysis will be one of the priority trainings in GPB for CY 2021. Also, capability training on GAD Planning and Budgeting for GFPS is included in the training program to come up with PAPs that are responsive and relevant in order to fulfill the GAD objectives of OMSC.
+
+
+
+We appreciate Management’s immediate actions and commitment to comply with the audit recommendations.
+
+
+
+
+
+C)	COMPLIANCE WITH TAX LAWS AND REGULATIONS
+
+
+
+The College is compliant with the provisions of the Bureau of Internal Revenue (BIR) Revenue Memorandum Circular No. 23-2007 dated March 20, 2007 relative to the withholding of applicable taxes. Balances of trust collections withheld/collected accruing to the BIR were duly remitted in January 2021 as disclosed in the Notes to FS.
+
+
+
+
+
+D)	COMPLIANCE WITH GSIS, Pag-IBIG, PHILHEALTH REGULATIONS
+
+
+
+Trust collections withheld/collected accruing to the GSIS, Pag-IBIG and PhilHealth with year-end balances of P552,668.33, P3,600.00 and P5,366.89, respectively, were all remitted in January 2021 in accordance with pertinent GSIS, Pag-IBIG and PhilHealth regulations.
+
+
+
+
+
+E)	COMPLIANCE WITH SENIOR CITIZEN AND PERSONS WITH DISABILITY (PWD) LAW
+
+
+
+The College has incorporated in all its plans for infrastructure projects, ramps for senior citizens and PWDs. They also added rails on staircases for all its existing buildings and designated a comfort room specifically for them. The College also established express lanes in the Cashier’s booth to give priority to all senior citizens and PWDs in compliance with existing laws and regulations.      
+
+
+
+
+
+F)	ODA FUNDED PROJECTS
+
+
+
+The College did not receive any Official Development Assistance (ODA) funds during the year.
+
+
+
+
+
+
+
+
+
+
+
+G)	COMPLIANCE WITH PRIORITY DEVELOPMENT ASSISTANCE FUND (PDAF) AND DISBURSEMENT ACCELERATION PROGRAM (DAP) DECISION
+
+
+
+The College has not received funds for DAP and PDAF nor had any balance of the same as of December 31, 2021.
+
+
+
+
+
+H)	UNSETTLED SUSPENSIONS, DISALLOWANCES AND CHARGES
+
+
+
+The Statement of Audit Suspensions, Disallowances and Charges (SASDC) as of December 31, 2020 showed a balance of P5,901,873.47 for Notices of Charge (NCs) issued in CY 2016 and Notice of Disallowance issued in CY 2019 amounting to P5,794,946.72 and P106,926.75, respectively. 
+
+
+
+The NCs have one pending appeal for exclusion from liability filed by the OMSC Accountant but the appeal of three liable persons was denied and Notice of Finality of Decision was issued.
+
+
+
+For the ND, appeals by the three liable persons were filed on March 12, 2020 but the same was denied by COA Regional Office No. IV-B through its COA RO IV-B Decision No. 2020-14 dated September 30, 2020. NFD has yet to be issued by the Regional Director.
+
+
+
+	48
+
+
+
+
+
+
+
+
+

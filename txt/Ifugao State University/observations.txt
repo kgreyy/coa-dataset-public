@@ -1,0 +1,1088 @@
+Part II – Observations and Recommendations
+
+
+
+
+
+Financial and Compliance
+
+
+
+1)	The balance of the Cash In Bank-Local Currency, Current Account (CIB-LCCA) as of yearend amounting to Ꝑ129,355,783.87 was understated by Ꝑ18,294,150.18 due to unrecorded deposits, disbursements, credit and debit memos and cancelled/stale checks, erroneous adjusting entries and misstated amounts, among others, which also   understated the Trust Liabilities account by Ꝑ15,285,200.00. As a result, the fair presentation of the FS is affected.
+
+1.1. The balance of the Cash In Bank – LCCA account as of yearend amount to Ꝑ129,355,783.87, broken down as follows:
+
+----media/image1.png----
+
+1.2. 	Cash examination on the accounts of the accountable officers was conducted on November 27, 2020 and various misstatements were found. Further analysis of the cash account as of December 31, 2020 disclosed a big disparity between the balance per ledger/financial statements and balance per audit, as follows:
+
+----media/image2.png----
+
+1.3. 	As gleaned from the table, the Trust Fund registered a huge difference due to an unrecorded deposit of Ꝑ15,285,200.00 on December 7, 2020 to the Trust Fund 2 LBP account.  Its partner account, Trust Liabilities, was not also recognized in the books.  The Accountant informed that this was a direct deposit for the Tertiary Education Subsidy (TES) of students, the amount of which shall be recorded this February 2021, because the corresponding Report of Collections and Deposits was submitted on said month.  The audit team verified that it was a reconciling balance in the Bank Reconciliation Statement (BRS) of said TF account as of December 31, 2020, but, was not adjusted accordingly, contrary to the Government Accounting Manual (GAM) for NGAs, Volume I.
+
+1.4. 	Chapter 21 of said GAM provides that one of the objectives of the BRS is to enable the agency to take up credits recognized by the bank, but, not yet known to the agency (Section 3).  The book balance and the bank balance are brought to an adjusted cash balance that must appear on the Statement of Financial Position (Section 4).  After preparing the BRS, the Chief Accountant shall prepare a journal entry voucher (JEV) to recognize all reconciling items that require adjustment and correction in the books of accounts (Section 6).
+
+1.5. 	Sections 21 and 22 of Chapter 5 of the GAM require that an entity shall recognize an asset in respect of transfers when the transferred resources meet the definition of an asset, and when the entity obtains control of transferred resources, measured at the date of acquisition.  Moreover, among the qualitative characteristics of financial reporting are relevance and timeliness.  That is, information must be delivered to users timely in order for the information to be relevant.  
+
+1.6. 	Apart from the unrecorded TES grants, the rest of the understatement totaling Ꝑ3,008,950.18 was due to unrecorded deposits, disbursements, credit and debit memos and cancelled/stale checks, erroneous adjusting entries and misstated amounts, among others (Annex A).  Of this amount, Ꝑ1,941,291.42 pertained to CY 2020 and Ꝑ1,067,658.76 for prior years, of which the latter included the Ꝑ538,740.43 remaining unrecorded direct deposits to the bank from the original Ꝑ4,907,055.65 reported in the CY 2019 AAR. These prior years’ misstatements had been communicated to management through Cash Examination Reports issued to them, however, they still remain unadjusted/unacted upon.
+
+1.7. 	The understatement of the Cash in Bank account balance by Ꝑ18,294,150.18 representing 12% of the adjusted balance, Trust Liabilities by Ꝑ15,285,200.00 and misstatement of other partner accounts by an aggregate amount of Ꝑ3,008,950.18 affected the fair presentation of the financial statements.
+
+	1)	 We recommended and management agreed to:
+
+1.8.1. 	adjust the Cash In Bank and Trust Liabilities accounts to obliterate the understatements of Ꝑ18,294,150.18 and Ꝑ15,285,200.00, respectively; 
+
+
+
+		1)	trace and adjust the other misstatements by considering the previous years’ cash examination reports’ reconciling items, except for the unrecorded deposits of prior years amounting to Ꝑ538,740.43 which shall be deposited to the account of the Bureau of Treasury after recording; and
+
+
+
+		2)	henceforth, strictly monitor all identified reconciling items in the bank reconciliation statements and immediately make the necessary adjustments to reflect the correct Cash balance in the financial statements.
+
+1)	Property, Plant and Equipment (PPE) accounts listed in the Financial Statements at a total cost  of Ꝑ872,206,237.97 (excluding Construction in Progress), were not adequately supported by the Report on the Physical Count of PPE (RPCPPE), Property Cards (PC), Inventory and Inspection Report of Unserviceable Property (IIRUP), and updated/complete PPE Ledger Cards (PPELC); such that, no reconciliation of balances was made, including the variance of Ꝑ565,719,566.33 between the previous year’s financial statements and RPCPPE. This casts doubt on the accuracy of the recorded accounts’ balances at yearend, and contrary to the Government Accounting Manual (GAM) for National Government Agencies (NGAs).    
+
+
+
+			2.1.  Chapter 10 of the GAM, Volume 1, states that:
+
+			“Section 38.  Physical Count of PPE. The entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 71) as at December 31 of each year.  This shall be submitted to the Auditor concerned not later than January 31 of the following year.  Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division/Unit for proper accounting/recording.
+
+			 
+
+			“Section 42. Accounting and Property Records to be maintained for PPE.  The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock, etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset.  For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same.  The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit.  They shall also be reconciled with other property records like PAR.”
+
+		2.2. 	  Section 42 further provides the following:
+
+
+
+--	The RPCPPE shall be used to report the physical count and condition of PPE by type as at a given date, including those which are unrecorded and those which could not be accounted for.  It shows the balance of PPE per PC and per count and the shortage/overage, if any.  It shall be rendered by the Inventory Committee, on its yearly physical count of properties owned by the entity. 
+
+
+
+--	The Accounting Staff in charge in maintaining the PPELC shall record promptly the acquisition, description, custody, estimated life, depreciation, impairment, issue/transfers/disposal, repair history and other information about the property.  
+
+
+
+--	The Inventory and Inspection Report on Unserviceable Property (IIRUP) shall be used to account for all unserviceable property of an entity which is subject to disposal.  It also serves as the basis in derecognizing the unserviceable properties carried in the PPE accounts.
+
+
+
+			2.3.   As of this date, no RPCPPE for CY 2020 has been submitted as it is still on-going preparation. Our audit of CY 2019 revealed that the RPCPPE reflected a variance of Ꝑ565,719,566.33 with the recorded PPE of the same year, primarily due to incomplete physical count.  Had there been a conduct of physical count, or the updating of the CY 2019 RPCPPE, this could support management’s assertions on the existence, valuation, completeness, and rights and obligations of the recorded PPE this current year.
+
+		
+
+			2.4.  The audit team was glad to note that the Accounting Office has prepared PPELCs for the current year and reconstructed those of prior years, except for Disaster Response and Rescue Equipment under General Fund and all PPE sub-accounts under Income Generating Project with recorded carrying costs of Ꝑ98,080.00 and Ꝑ4,668,768.97, respectively.  However, the data therein were copied and pasted from the Schedules of PPE, such that, relevant information were lacking or erroneously recorded, i.e. Description, Reference No., Estimated Useful Life, Accumulated Depreciation for some, Accumulated Impairment Loss, Issues/Transfers/Adjustments, Adjusted Cost, Repair History, etc.
+
+
+
+			2.5.  Dropped items were not specified, and all repairs of PPE items were not indicated in the original item/account, but were prepared separate PPELCs, a sample is cited below:
+
+
+
+		----media/image3.png----
+
+
+
+			2.6.   As provided in Appendix 5 of the GAM, Volume II, the general ledger (GL) summarizes all transactions recorded in the general journal and special journals (e.g. CRJ, CDJ, CkDJ, etc.), and controlling accounts in the GL shall be supported by details in the subsidiary ledgers (SLs).  The PPELCs are the SLs for the PPE accounts, hence vital in the accounting of PPE.  Also, the PPELC shall be reconciled with the RPCPPE, PC and the control accounts.  
+
+
+
+	1)			Further, query with the Supply and Property Officer disclosed that no Property Cards were prepared, and the Inspection and Inventory Report for Unserviceable Property (IIRUP) were being prepared by their office as of this writing, due to their manpower limitation.
+
+		
+
+	2)			The IIRUP is an important report where all unserviceable property are reported, and shall be the basis of the Accountant to drop the items in the books by debiting Impairment Loss.  Although there were items dropped in the books this year, we noted that the bases were the IIRUP of prior years.  Thus, PPE which became unserviceable this year were not dropped yet in the books, overstating their carrying values. Due to the late preparation of the RPCPPE and the IIRUP, the non-preparation of PC and incompletely/erroneously prepared PPELCs, reconciliation of PPE accounts to verify and adjust discrepancies were not done, casting doubt on the accuracy and reliability of the recorded PPE in the FS. In fact, only the Land account with a total cost of Ꝑ152,446,090.00 could be established with certainty, as supplemented in paragraph 3 hereunder.
+
+
+
+	3)		We recommended that management:
+
+
+
+		1)	conduct physical inventory-taking of PPE and submit the RPCPPE to COA and the Acccounting Office for reconciliation of the PPE accounts, and thereafter conduct the inventory-taking on a regular basis; 
+
+
+
+		2)	maintain and update  accurate property records for all PPE items – PPELC by the Accounting Office and PC by the  Property Office; and
+
+
+
+		3)	fast track the preparation of the IIRUP and submit the original copy (inspection and inventory) and final copy (after disposal) to Accounting for preparation of adjusting entries.
+
+
+
+	1)	The RPCPPE and IIRUPs of CY 2020 were belatedly submitted on February 24, 2021.  
+
+
+
+	2)	During the exit conference, it was discussed that inventory-taking and submission of reports should be done earlier inorder that reconciliation of accounts with those of the accounting office can take place before the submission of FS every February 14. Management agreed on the recommendations and gave assurance to implement them this CY 2021 as this has become an annual audit finding.  
+
+
+
+1)	A parcel of land was recorded under the Land account even without clear ownership rights and without proper disclosure in the Notes to FS; thus, the Land account was overstated by Ꝑ1,879,150.00.
+
+
+
+
+
+
+
+3.1.  	Section 3 of the GAM, Volume 1 on the Criteria for Recognition of PPE requires that the cost of PPE shall be recognized as assets if beneficial ownership and control clearly rest with the recording agency, among others.  
+
+3.2.  	Audit of the Land account with total cost of Ꝑ154,325,240.00 disclosed the recognition of a 187,727 square meters of land with market value of Ꝑ1,879,150.00 located at Mabato-bato, Lamut transferred to the University through a Waiver of Rights instrument.
+
+3.3. 	It was learned that the land was a pastureland covered by an expired Pasture Lease Agreement granted by the Department of Environment and Natural Resources (DENR) to the former leaseholder (transferor).  On August 17, 2019, the transferor executed a Waiver of Rights in favor of IFSU, which instigated the Accounting Office to record the same under PPE this CY 2020.  Also, it was informed that an application for a Presidential Proclamation for the land’s conversion into an IFSU campus is on process. 
+
+3.4. 	The audit team opined that since the Pasture Lease Agreement has already expired, then the Waiver was irrelevant.  And since there was no other document to show ownership by the University of said land, this should not be recognized under PPE yet, but may be disclosed in the Notes to FS, until a clear proof of ownership is perfected. 
+
+3.5. 	As a result, the Land account was overstated by Ꝑ1,879,150.00.  The adjusted balance should be Ꝑ152,446,090.00. 
+
+3.6. 	We recommended that the Accountant derecognize the Ꝑ1,879,150.00 cost of the pasture land under the Land account until a clear proof of ownership is secured by the University; however, the matter shall be disclosed in the Notes to FS.  
+
+3.7. 	Management agreed to drop the account on the face of the FS for now, but to disclose it in the Notes to FS.  Further, the audit team urged management to pursue and expedite the application for a Presidential Proclamation to gain full control and ownership of said land, in as much as a tax declaration and land survey by DENR have already been secured.   
+
+2)					A total of ₱436,646.97 past due Accounts Receivable (AR) has accumulated under the Income Generating Projects (IGP) Fund due to inadequate monitoring and laxity of persons managing these IGPs; thereby, depriving the latter of the much needed funds for their operation. 
+
+				
+
+	1)				As a general rule, Accounts Receivable being current assets, are expected to be collected within one (1) year.
+
+			
+
+	2)				Section 6.1 of COA Circular No. 2016-005 provides that all government entities shall conduct regular monitoring and analysis of receivable accounts to ensure that these are collected when these become due and demandable.
+
+			
+
+	3)				Review of the financial reports of the Income Generating Projects (IGP) Fund of the University, as of December 31, 2020 revealed that eleven (11) IGPs have outstanding Accounts Receivable (AR) totaling ₱957,807.86, of which, the aging of the account disclosed that ₱436,646.97 or 46% are past due, as follows:
+
+
+
+		----media/image4.png----
+
+				
+
+	4)					Scrutiny of the specific past due accounts revealed the following:
+
+					
+
+		1)						For the Commercial Center, these arose from unpaid rentals of the sixteen (16) commercial stalls owned by the University.  Notwithstanding the provision in the Contract of Lease that lessees can not renew their contracts, unless outstanding rental balances are settled, seven (7) lessees were able to do otherwise, as their lease contracts were renewed in August 2019.
+
+					
+
+		2)						For the Table Egg Production - Main Campus, Cattle/Ruminants- Potia Campus, and Bakery – Potia Campus, majority were receivables from former permanent and contract of service employees for the purchase on account of products produced by these IGPs.  
+
+		
+
+		3)						For the Food Court, these were unpaid rentals from food service operators of the seven (7) food stalls.  Their Contracts of Lease cover six (6) years from July 1, 2015 to June 30, 2021 with Ꝑ2,700.00 monthly lease.  The same contract stipulated that 0.5% surcharge per day shall be paid by the lessee in case of delay of payment of rentals or if paid after the 30th day of each month. However, it was noted that no surcharges have been recorded yet in the books, even if the payments were long overdue. 
+
+		
+
+		4)						For the rest of the accounts, the bookkeeper could not identify their nature and details, as these were incurred prior to her employment.  She was not able to trace and monitor them, as she lacked documents as bases. 
+
+
+
+	5)				Inadequate monitoring and laxity of persons managing these IGPs resulted in the accumulation of inactive accounts. Further, the inability to collect the receivables deprived the IGPs of the much needed funds for their operations. 
+
+				  
+
+	6)					We recommended that management cause the following:
+
+
+
+				4.6.1. 		Collect the overdue receivables and impose the corresponding surcharges where applicable; and trace the nature of the other unknown accounts;
+
+				
+
+		1)					 	Conduct regular monitoring of all Receivable accounts, through the Accountant, to ensure that these are collected when they become due and demandable;
+
+
+
+		2)					 	Strictly implement the provisions stipulated in the Lease Contracts for the Commercial Center and Food Court IGPs, specifically, the non-renewal of contracts unless balances are fully paid, and imposition of surcharges to late payees, respectively; and
+
+
+
+		3)					 	Collect from officers who approved the purchase on account of IGP products by former University employees.
+
+
+
+	1)				 Management agreed on our recommendations.  Their dilemma is the lack of documents turned over to them from the previous IGP employees, but they assured that they will try to address these issues the soonest.
+
+			
+
+	2)			As a rejoinder, it is imperative that somebody has to answer for the non-collection of these receivables.  Management is aware that other public officers, although not accountable for government funds, by the nature of their duties, may likewise, be similarly held accountable and responsible therefor, through their participation in the use or application of such government funds. Thus, this deficiency needs to be addressed now so as not to be a precedent in future projects. 
+
+
+
+1)	Long outstanding Loans Receivable under the Student Assistance Fund for Education (SAFE) Loan Program amounting to Ꝑ1,562,160.24 remained uncollected as of yearend due to failure of Management to track the whereabouts of the student-borrowers and impose the provisions of the contract; thereby, depleting the revolving fund of the program. 
+
+ 
+
+	1)	The Commission on Higher Education (CHED) and the University entered into a Memorandum of Agreement (MOA) on July 3, 2008 for the implementation of the SAFE Loan Program in accordance with the provisions of CHED Memorandum Order (CMO) No. 25 series of 2008. The program aims to provide assistance to the financially needy 3rd year, 4th year, 5th year, or graduating college students in all higher education institutions nationwide through the easy, accessible and interest-free student loan program payable within two to five years after graduation. Based on the MOA, CHED shall provide the University Ꝑ2,000,000.00 which shall be treated as Revolving Fund subject to terms and conditions. 
+
+
+
+	2)	As of December 31, 2020, the Loans Receivable - Others account has an outstanding balance of Ꝑ2,663,339.83, consisting of Ꝑ569,875.61 forwarded balance from previous years and undergoing reconciliation, Ꝑ1,562,160.24 loans granted to students under the SAFE Loan Program, and Ꝑ531,303.98 loans granted under the Income Generating Project Salary Loan.   
+
+
+
+	3)	Aging of the Loans Receivable – Others account, particularly the SAFE Loan Program, shows that the carried over balance has been outstanding for over 3 years. In fact, Ꝑ516,210.00 or 33% of these loans granted to students have been outstanding for over 10 years now. 
+
+
+
+	4)	Under the CMO and the related MOA, the participating Higher Education Institutions shall assist CHED Regional Office to monitor or track the whereabouts of the scholars after graduation for the latter to settle the loan at the period of repayment.
+
+
+
+	5)	As noted in previous years’ audit, these long outstanding loans were not collected because some of the grantees were no longer enrolled in the University due to graduation, transfer to another school or dropped out from the University. Also, loans ranging from Ꝑ2,000.00 to Ꝑ15,000.00 were granted from 2008 to 2019 to graduating students while undertaking on-the-job trainings or preparing theses and were payable before graduation. Faculty members or permanent employees of the University were required as co-makers of the students to assure payment of said loans. Despite of this, collection of loans was not made. 
+
+
+
+	6)	As a result, the objective of the program to help financially needy students, may not be achieved, if the revolving fund is depleted or exhausted.
+
+
+
+	7)	We reiterated our prior years’ recommendation that management locate the whereabouts of the students who are no longer with the University to settle their loans. 
+
+
+
+
+
+
+
+	1)	We also recommended that management:
+
+
+
+		1)	exhaust all measures of collection which include the issuance of demand letters not only to the student borrowers but also to the co-makers indicated in the contract; and 
+
+
+
+		2)	consider requesting for write-off of dormant receivables following strictly the procedures under COA Circular 2016-005.
+
+
+
+	2)	Management agreed on the above recommendations. Accordingly, the bottleneck lies on the tracking down of the contract documents in order to identify the co-makers of the student-borrowers, but management assured that they will do something about this.  
+
+
+
+1)	Fund transfers amounting to Ꝑ1,578,742.59 received from other National Government Agencies remained unliquidated despite completion of the projects due to lack of monitoring; contrary to Chapter 6 of the Government Accounting Manual (GAM) and COA Circular No. 94-013.  Moreover, Fund Utilization Reports were not timely submitted to the Source Agencies; resulting in discrepancies of the reciprocal account balances, Due To/From NGAs, between the source and implementing agencies in any particular period.
+
+
+
+	1)	Chapter 6, Section 63(f) of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume 1 states that:
+
+
+
+“f.  Within ten (10) days after the end of each month/end of the agreed period for the Project, the IA shall submit the RCI and the RCDisb to report the utilization of the funds.  Only actual project expenses shall be reported.  The reports shall be approved by the Head of the IA.
+
+
+
+“g.  The IA shall return to the SA any unused balance upon completion of the project, if stipulated in the MOA.”
+
+
+
+	2)	Paragraphs 4.6 and 4.9 of COA Circular No. 94-013 dated Dec. 13, 1994 also provide the same conditions as above.
+
+
+
+	3)	As of December 31, 2020, the balance of funds transferred by other National Government Agencies to the University, recorded under Due to NGAs account totaled Ꝑ38,164,790.99. Aging and review of the subsidiary accounts showed that a balance of Ꝑ1,578,742.59 pertains to transfers which are still outstanding, although the projects have already been completed, as enumerated below:
+
+   
+
+----media/image5.png----
+
+
+
+	4)	Except for the PCAARRD Climate Change and PCAARRD Tilapia Culture that submitted their Terminal Audited Financial Report for verification in CY 2020, the rest were completed in prior years, but no liquidations were made during the current year. As gleaned from the table, a balance of Ꝑ574,132.91 have been outstanding for more than two (2) years now.  
+
+
+
+	5)	Since the projects/programs for which the fund transfers were intended have been finished, the remaining balances should have been refunded to the respective source agencies as stipulated in their MOAs, and thereafter fully liquidated. 
+
+
+
+	6)	Sections 7.1 and 7.2 of COA Circular No. 2016-005 dated December 19, 2016 requires the Accountant to conduct regular and periodic verification, analysis and validation of the existence of fund transfers and determine the sources thereof.  She is also obliged to require liquidation of the balances.
+
+
+
+	7)	Non-liquidation or the delayed submission of the required liquidation reports may affect the fund releases to the University of any succeeding tranches or new fund transfers from the source agencies.  
+
+
+
+	8)	Relatively, it was noted that reports on the utilization of Inter-Agency Transferred Funds for projects/programs implemented by IFSU were not submitted to the source agencies on time as generally required in the respective Memoranda of Agreement (MOAs) or Project Implementation Guidelines.  These require the IA to submit an Audited Financial Report (AFR) duly received by the COA, reflecting the utilization of project funds.
+
+
+
+	9)	The Fund Utilization Report (FUR) shall only be the basis of the IA to record a debit in the account “Due to NGAs” and the SA to recognize the actual utilization of the funds transferred to the IA by recording a credit to the account “Due from NGAs”.
+
+
+
+	10)	The non-submission of the required FUR or AFR to the SA within the required period resulted in discrepancies between the balances of the reciprocal accounts, Due from NGAs and Due to NGAs, in the books of the SA and IA, respectively, as expenses incurred at the University level were already deducted from the Due to NGAs account, as further discussed in item 2 below, but not yet reflected in the books of the SA, until the FUR or AFR is submitted to them.  
+
+
+
+	11)	We recommended and management agreed to: 
+
+
+
+		1)	return all unutilized balances of completed projects to the source agencies, and thereafter, submit the liquidation reports the soonest;
+
+
+
+		2)	require the Accounting Office to regularly call for and monitor the liquidation of fund transfers for programs/projects under the Due to NGAS account; and 
+
+
+
+		3)	submit FURs to source/funding agencies timely or as prescribed in the MOA, Project Implementation Guidelines and GAM. 
+
+
+
+1)	Disbursements incurred under Inter-Agency Transferred Funds were not initially recognized under the appropriate asset or expense accounts, but directly debited to Due to NGAs; contrary to the prescribed accounting treatment under the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume 1.  This may result in exceeding the cost limitations in the Line Item Budget per project.
+
+
+
+	1)	Annex M, Volume I of the GAM for NGAs provides illustrative entries for Trust Receipts – Inter-Agency Transferred Funds.  The following entries are applicable to the Trust Fund books of the Implementing Agency (IA) for received funds and related expenses:
+
+
+
+----media/image6.png----
+
+
+
+	2)	Review of transactions under the Trust Fund disclosed that all disbursements for Personnel Services, Maintenance and Other Operating Expenses and Capital Outlay from fund transfers under Due to NGAs were directly recorded as debits to Due to NGAs account and credits to either Cash in Bank-LCCA or Payable account, contrary to the provisions of the GAM as mentioned above.  
+
+
+
+	3)	Initially, the disbursements are to be recorded in the proper asset or expense account. Thereafter, the expenses are adjusted as charges to the Due to NGAs account at reporting date. For projects with Property, Plant and Equipment components, these should be booked-up in the proper PPE account with the accompanying depreciation. After completion of the project, the PPE is either donated to the Implementing Agency or turned over to the Source Agency.  In either case, the Due to NGAs account shall then be debited, and the Income account or PPE account is credited, respectively.
+
+
+
+	4)	As a result of the deficiency, the appropriate classification of expenditure for every transaction was no longer recognized.  Moreover, conformity of disbursements with the classification and cost limitations in the Line Item Budget for each project is not readily determined under this recording system.
+
+
+
+	5)	We recommended and management agreed to require the Accountant to strictly conform with the prescribed accounting entries of recording transactions for externally-funded projects; specifically those provided in the Government Accounting Manual for National Government Agencies, Volume 1. 
+
+
+
+2)					Undocumented past due Accounts Payable (AP) and Due to Officers and Employees amounting to ₱354,305.00 and ₱13,014.82, respectively, remained in the IGP books; affecting the reliability of the account balances. 
+
+ 
+
+	1)				Review of the financial reports of the Income Generating Project (IGP) funds of the University as of December 31, 2020 revealed that five (5) IGPs have outstanding Accounts Payable (AP) amounting to ₱366,068.72, of which the aging of the account disclosed that ₱202,824.00 or 55% and ₱157,080.00 or 43% are past due for over 1 year and over 2 years, respectively.
+
+
+
+	2)				Interview with the IGP Bookkeeper disclosed that supporting documents of past due accounts amounting to ₱297,805.00 could not be found on file, while supporting documents were lacking for one past due account amounting to  ₱29,000.00.  Another recorded past due account of ₱27,500.00 was accordingly intended to be offset with the payee’s rentals at the food court, however, it has been non-moving for over two (2) years now, and no documents were available on file.  Only the remaining ₱11,763.72 was documented and on-going processing of payment. These past due accounts were supposedly payments for supplies and materials for the IGP projects. 
+
+
+
+	3)				It was surmised that these accounts without supporting documents could have already been paid since the suppliers never came to collect.  The previous bookkeeper may have recorded the wrong account – debit to Expense accounts instead of Accounts Payable, since the checks were named under the supplier, while the schedule of AP reflected the names of the former IGP employees as payees.    The current bookkeeper could not trace the accounts since financial records and documents turned over to her almost two (2) years ago were incomplete.  It is for the same reason that one (1) AP account could not be processed due to lack of supporting documents on file.   
+
+
+
+	4)				Similarly, the Aging of Due to Officers and Employees account showed that ₱60,954.57 has been past due for over 3 years now.  Indicated therein were two (2) creditors (one current IFSU employee and one former employee) for reimbursement of supplies for printing on three (3) instances.  
+
+	
+
+	5)				Inquiry from both creditors revealed that one (1) confirmed having outstanding amount due from the IGP Fund, while the other refuted. 
+
+	
+
+	6)				On the same analysis, the amount due for the printing materials amounting to ₱13,014.82 could have already been paid directly to the supplier but incorrectly adjusted in the books.  
+
+	
+
+	7)				The former employee with total reimbursement claim of ₱47,939.75 informed that all documents pertaining thereto, have been submitted to the Accounting Office. However, the present bookkeeper stated that she found nothing on file.
+
+
+
+	8)				The University Accountant admitted in the past that due to her workload, she could not closely monitor the financial recording and reporting of the IGP funds.
+
+
+
+	9)				The existence of undocumented payables in the books affects the reliability of the account balance.  Moreover, the non-payment of a valid claim may bring about negative impression to the IGP and to the officers, as well.
+
+
+
+	10)				We recommended and management agreed to cause the following:
+
+
+
+		1)				The Accounting Office to re-trace the transactions relative to the AP accounts which are undocumented or lack supporting documents, and adjust accordingly; while the Due to Officers and Employees amounting to ₱13,014.82 be dropped from the books;
+
+
+
+		2)				The University Accountant to devise a strategy in order that financial recording and reporting of the IGP funds are closely monitored by her, including the proper and complete turnover of financial documents and reports, in case of change of bookkeepers/employees; and
+
+
+
+		1)				The IGP officers and Accounting Office to trace and verify the validity of the claim on the remaining ₱47,939.75 past due account of former employee, and act accordingly.
+
+			
+
+			8.11 It was settled that management may issue confirmation letters to the listed creditors and once affirmed, documents to support their claims shall be requested or looked into.  
+
+
+
+3)					Security deposits stipulated in the Lease Contracts were not collected from six (6) lessees of the Commercial Center and Food Stalls totaling ₱180,000.00; thereby, the interest of the University under said contracts was not protected.
+
+
+
+	1)					Among the stipulations in the Lease Contracts between the University and lessees of the sixteen (16) commercial stalls and seven (7) food court/food service stalls is the payment of security deposits amounting to ₱30,000.00 each intended to cover for unpaid utility bills, such as, electricity, water, sanitation, sewerage, among others, and to answer for any damages which the leased property may have suffered.  It may also cover for unpaid monthly rent, interest or penalties still outstanding after termination of the contract.  The amount is refundable to the lessee, free of any interest subject to deduction for whatever circumstances, as provided above.
+
+
+
+	2)					The financial reports show that a total of ₱510,000.00 was recorded as Other Unearned Revenue and Guaranty Deposits Payable amounting to ₱390,000.00 and ₱120,000.00, respectively.   Verification revealed that these refer to the security deposits mentioned above.  However, it was noted that the recorded amounts are lacking of ₱180,000.00, that is, three (3) lessees each from the two (2) IGPs have not paid their security deposits.  
+
+
+
+	3)					As of this writing, the bookkeeper and project manager are verifying who among the lessees might not have paid.
+
+
+
+	4)					The lack of security deposits from lessees deprives the IGPs of funds to guaranty the payment of unpaid utility bills, damages to the leased property, unpaid rents and interests or penalties still outstanding after termination of the contract.
+
+
+
+	5)					On the other hand, the Government Accounting Manual (GAM), Volume III, provides the more appropriate account title for this type of security deposits, as follows: 
+
+
+
+			Customers’ Deposits Payable – this account is used to recognize the receipt of cash deposits from customers for goods/services to be delivered and property to be leased.  Debit this account upon application of the deposit to the cost of the goods/services delivered and of the damages to the leased property, or upon refund of the cash deposits.
+
+				
+
+	6)					Thus, due to the recording of the collected security deposits totaling ₱510,000.00 under either Unearned Revenue or Guaranty Deposits Payable, instead of Customers’ Deposits Payable, the accounts were misclassified.
+
+				
+
+	7)					We recommended and management agreed to cause the immediate collection of the unpaid security deposits from the six (6) lessees and record them the soonest.  Further, require the Bookkeeper to reclassify the accounts used to Customers’ Deposits Payable. 
+
+
+
+4)	Unutilized funds of five (5) extension programs to address the COVID 19 threat totaling Ꝑ840,814.65, were not returned immediately to the Commission on Higher Education (CHED) after their completion due to slow processing of liquidation documents, contrary to the provision in the Memoranda of Agreement; thus, depriving the CHED and other state universities and colleges of the immediate use of the fund.
+
+ 
+
+	1)	The CHED, during its meeting on March 24, 2020, approved the guidelines for the release of financial assistance to State Universities and Colleges to produce goods and/or deliver services to curtail and eliminate the COVID-19 threat. On April 13, 2020, the CHED and the University entered into a Memorandum of Agreement (MOA) to produce necessary goods and deliver important services to assist security, health, and local government frontliners. The CHED shall provide additional financial support to the University in order to upgrade their institutional capability and sustain the production of much needed goods and/or the delivery of important services. 
+
+	2)	It is also provided in the MOA that the University shall return any/all unused balance of the program fund, including any/all income/interest earned/generated from the same, upon pre-termination or completion of the project within forty-five (45) but not more than sixty (60) calendar days, pursuant to Executive Order No. 338. 
+
+ 
+
+	3)	Verification disclosed that on May 22, 2020 the CHED through its Higher Development Education Fund, transferred Ꝑ3,946,063.80 to the University for five (5) extension programs/projects, to be implemented within three (3) months as provided in the approved project proposals and line item budgets.  The University President received the Notice to Proceed on June 29, which was relayed to the Project Leaders on July 1.  The projects commenced immediately and were completed on various dates in September and October.  As of December 31, 2020, these projects have an aggregate unexpended balance of Ꝑ1,121,547.00.  Data are as follows:
+
+
+
+----media/image7.png----
+
+
+
+	4)	Although completed on time, the liquidation of the utilized funds transferred was much delayed. In fact, the documents and Terminal Reports were submitted for audit only on January and February of CY 2021.  Also, we noticed that payments for some goods were not processed immediately, such that purchases costing Ꝑ280,732.35  were paid only in CY 2021 even if delivery of goods was made up to six (6) months past, as follows:
+
+
+
+----media/image8.png----
+
+	5)	Due to the late liquidation of the utilized fund transfers because of delays in the processing of payments, among others, the remaining balance of Ꝑ840,814.65 (Ꝑ1,121,547.00 less Ꝑ280,732.35) was not returned immediately to the CHED as required in the MOA.  As such, the timely distribution of the funds by the CHED to other SUCs who may need them at this time of pandemic was deterred.
+
+
+
+	6)	We recommended and management agreed to refund immediately the unexpended Ꝑ840,814.65 to CHED in adherence to the provision of the MOA; and henceforth, require the Project Leaders of projects funded from transferred funds, to strictly follow the timelines in the MOA. 
+
+
+
+5)	Agency personnel concerned did not properly accomplish various Purchase Orders (POs) in accordance with the instructions of the Government Accounting Manual for National Government Agencies; thereby, affecting the validity of the transactions.
+
+ 
+
+	1)	The project, Disaster Risk Reduction of Climate Change Impacts on Rice and Vegetable Farms in Ifugao, aimed to capacitate farmers, barangay and municipal officials on disaster risk reduction and climate change adaptation and mitigation through science and technology interventions at the farm level and communities in the province of Ifugao.
+
+
+
+	2)	The Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development (PCAARRD) provided financial support with a total grant of Ꝑ6,109,614.00, and implemented by IFSU in two years as Year 1 (October 1, 2017- September 30, 2018) and Year 2 (October 1, 2018 to September 30, 2019 with 6-month extension until March 31, 2020).
+
+
+
+	3)	Appendix 61 of the Government Accounting Manual (GAM) for National Government Agencies – Volume II provides the standard form for Purchase Orders and the instructions on how they shall be accomplished. It also stated that, if date of delivery is not stated, the date of delivery shall mean seven calendar days after the receipt of the PO by the supplier. 
+
+
+
+	4)	Verification of transactions revealed that purchase orders for the following procurement of goods under the project were not thoroughly filled up, including data on date the goods were inspected and accepted.
+
+
+
+----media/image9.png----
+
+
+
+	5)	As can be gleaned above, the procuring entity did not specify the place and definite date/s of delivery of the goods in the PO. As such, the items should have been delivered after seven calendar days from receipt of the PO by the supplier. However, review of the Inspection and Acceptance Reports disclosed that the goods were inspected and accepted as complete beyond seven calendar days from receipt of the PO.  Thus, liquidated damages should have been imposed for each day of delay on the undelivered goods. 
+
+
+
+	6)	The purchase order is a contract itself. If the delivery terms and date of conforme/acceptance by supplier/contractor is not specified, there will be no basis for the reckoning date in the computation of the penalty for delayed deliveries, thus affecting the validity of the transactions.
+
+
+
+	7)	We recommended and management agreed to:
+
+
+
+		1)	require the Accountant to compute for the liquidated damages using seven calendar days after receipt of the Purchase Order as reckoning date in accordance with the instruction in the GAM; otherwise, payment not in conformity with said instruction is disallowable in audit;
+
+
+
+		2)	ensure that every Purchase Order be duly filled up to provide all the necessary data in accordance with the Government Accounting Manual and, as guide for the suppliers in complying with the terms and conditions of the contract; and
+
+
+
+		1)	submit to the audit team copies of all Purchase Orders irrespective of amount, within five days after issuance for our review, and in compliance with COA Circular No. 2009-001.
+
+
+
+	8)	During the exit conference, the audit team pointed out that this deficiency was not limited to this project alone, as similar cases were noted in some POs of General Fund and Special Trust Fund.  
+
+
+
+	9)	Management assured that they will look into this and will comply with the requirements mentioned above.
+
+
+
+6)	A total of 1,067 disbursement vouchers issued and recorded during the year were not verified due to non-submission; thereby, affecting the propriety and validity of the transactions and the accuracy of the recorded account balances in the financial statements in the aggregate amounts of P9,317,150.67, P42,557,534.93 and P37,991,824.55 for Assets (excluding Cash), Liabilities, and Expenses, respectively.  
+
+
+
+	1)	Section 7.2.1 (a) of COA Circular No. 2009-06 dated September 15, 2009 provides the following:
+
+“The Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that:
+
+“(a) The reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first (10) days of the ensuing month.”
+
+	2)	Section 6.05 of COA Circular 95-006 stipulates that:
+
+“The official involved in the daily recording of transactions in the books of accounts shall turn over the receipts and the disbursement records with all paid vouchers and documents evidencing the transaction to the Auditor within ten (10) days from the date of receipt of said documents.”
+
+	3)	Post-audit and inventory of the disbursement vouchers (DVs) revealed that a total of 1,067 DVs issued from January to December under all four funds as provided below, were not yet submitted to COA as of date.  Nine hundred eighty-eight (988) of these were issued in December. 
+
+
+
+----media/image10.png----
+
+
+
+	4)	Basing on the disbursement journals, the following are the summary of recorded accounts and balances (Details in Annex B) relative to these unsubmitted DVs:
+
+
+
+
+
+
+
+
+
+
+
+
+
+----media/image11.png----
+
+	5)	The non-review of these disbursements due to absence of DVs affected the validity and propriety of the corresponding transactions, and accuracy of the above recorded account balances.  In fact, due to the materiality of the balances, the fair presentation of the financial statements was compromised.  Moreover, delayed submission of DVs precludes the audit team from conducting timely, extensive and efficient examination of the accounts and transactions of the University for the year under audit.  
+
+
+
+	6)	Obviously, management has not complied with the legal deadlines in the submission of disbursement vouchers, which is ten days of the ensuing month.  Late submissions during the strict Community Quarantine periods are acceptable, however, all CY 2020 DVs should have been submitted as of date, due to the easing of quarantine protocols during the second semester of CY 2020.  The Accounting Office reasoned that the delayed scanning of the DVs and supporting documents due to lack of manpower precluded their submission of the December vouchers.  It was noted, however, that a number of Job Order employees were hired to do the scanning, thus, even with the voluminous work at hand, with the right work attitude and prioritization of activities, the job could have been completed.  For the pre-December vouchers, it was learned that some were already completed but not yet submitted, while some are still being located.  
+
+
+
+	7)	Various sanctions are provided by law for the failure to provide COA with the reports necessary for the exercise of its functions.  Section 122 of PD No. 1445, among others, provides that the failure on the part of officials concerned to submit the documents and reports mentioned therein shall automatically cause the suspension of payment of their salaries until they have complied with the requirements of the Commission.
+
+
+
+	8)	A Notice of Suspension shall be issued for these unsubmitted DVs.
+
+
+
+	9)	We recommended that management: 
+
+
+
+		1)	Cause the submission of all vouchers covering transactions of CY 2020 the soonest; 
+
+
+
+		1)	Henceforth, submit all DVs on or before the 10th day of the ensuing month; and
+
+
+
+		2)	Implement measures such as withholding of salaries as provided under Section 122 of PD 1445 to enforce deadlines on submission of DVs and other reports. 
+
+
+
+	1)	Management assured that all the lacking vouchers of CY 2020 be submitted the following week after the exit conference, although they have reservations on the “10th day of the ensuing month” submission deadline of vouchers.
+
+
+
+	2)	The audit team reiterated that the submission on or before the 10th day of the ensuing month of DVs is the legal deadline, although just like in the past, delay in submission can be considered for justifiable reason/s.
+
+
+
+1)	Five (5) Supply and Property officers of five campuses of the University were not bonded, one (1) Collecting Officer and two (2) Campus Executive Directors have expired Fidelity Bonds while three (3) officers have insufficient fidelity bonds, contrary to the Public Bonding Law, Presidential Decree No. 1445 and Treasury Circular No. 02-2009; rendering the university funds and property not adequately safeguarded against losses due to unforeseen events.
+
+
+
+13.1. 	Pertinent provisions of the law and certain regulations on Fidelity Bonds are as follows:
+
+
+
+13.2. 	Section 314 & 318 of the Public Bonding Law –
+
+
+
+“Every officer, agent, and employee of the Government of the Philippines or of the companies or corporations of which the majority of the stock is held by the National Government (NG), regardless of the status of their appointment shall, whenever the nature of the duties performed by such officer, agent or employee permits or requires the possession, custody or control of funds or properties for which he is accountable, be deemed a bondable officer and shall be bonded or bondable and his fidelity insured.”
+
+
+
+13.3. 	Section 101 of Presidential Decree (PD) No. 1445, otherwise known as the Government Auditing Code of the Philippines –
+
+
+
+1)	Every officer of any government agency whose duties permit or require the possession or custody of government funds or property shall be accountable therefor and for the safekeeping thereof in conformity with law.
+
+
+
+2)	Every accountable officer shall be properly bonded in accordance with law.
+
+
+
+13.4. Section 4.4 of the General Provisions of Treasury Circular No. 02-2009 dated August 6, 2009 of the Revised Omnibus Regulations Governing the Fidelity Bonding of Accountable Public Officers –
+
+
+
+	“Accountability for Public Property – Every officer, agent and employee, accountable for public property shall be liable for its money value in case of improper or unauthorized use or misapplication thereof, by himself or any person for whose acts he may be responsible.  He shall likewise be liable for all losses, damages or deterioration due to negligence in the keeping or use of the property, whether or not it be, at the time of such loss, damage or deterioration, in his actual custody.”
+
+	
+
+13.5.	A Fidelity Bond is an insurance of a bondable public officer under the Fidelity Fund to assure that he faithfully performs all the duties imposed by law upon him, and faithfully accounts all funds and public property coming into his possession/custody or control. The fund shall answer for defalcations, shortages, and unrelieved accountabilities of the bonded official/employee.
+
+
+
+Not Bonded
+
+
+
+13.6. Our confirmation with the Bureau of Treasury – Ifugao Provincial Office revealed that the five (5) Supply/Property Officers of the campuses of Lamut-Main, Lagawe, Potia, Hapao and Tinoc have not been bonded.
+
+
+
+13.7. According to one of them, he was not aware that Supply and Property Officers need to be bonded.  In fact, ever since he held the position, he never posted Fidelity Bond (FB).
+
+
+
+13.8. As mentioned, being the custodians of the various supplies and materials and equipment of the University, posting of FB is required.  The premium is computed as follows:
+
+
+
+Property Accountability for Supplies and Materials:
+
+		50% of their Total Value x 1.5% = Premium
+
+
+
+Property Accountability for Equipment:
+
+30% of their Total Value x 1.5% = Premium
+
+With Expired Fidelity Bonds
+
+	1)	Item 7.2 of the same Treasury Circular above requires that the FB of an accountable officer shall be renewed before the expiration of the bond.
+
+
+
+	2)	We noted that one (1) Collecting Officer (CO) and two (2) Campus Executive Directors (CED) have expired FBs but were not renewed, as follows:
+
+----media/image12.png----
+
+	3)	Although the CO retired in July 2020, the table above shows that he never renewed his FB since CY 2018, yet he continued to be in possession and custody of government funds as the CO until his retirement.  
+
+
+
+	4)	On the other hand, being the head of a campus makes one an accountable officer, having custody/control of funds or/and property of the campus, and being accountable to the University President who is primarily accountable.  As such, the two (2) CEDs are covered by the fidelity bonding law, of which renewal should have been done regularly.  Non-renewal is tantamount to non-application of bond. 
+
+ With Insufficient Fidelity Bond
+
+	5)	The Treasury Circular above also states that:
+
+
+
+“5.1  Amount of Bond – The amount of bond shall be based on the total accountability (cash, property and accountable forms) of the accountable officer as determined by the Head of the Agency.  Provided, the individual maximum accountability of each accountable public officer shall not exceed One Hundred Million Pesos (P100M).  However, the Head of the Agency may assign to other public officers the excess accountability for which a separate Fidelity Bond shall be secured.
+
+
+
+“6.1. Primary Liability – The head of any government agency at all levels, whether national, corporate or local is primarily responsible and accountable for all government funds and property pertaining to his agency.
+
+
+
+“7.3 Increase in Accountability – Any increase in the amount of accountability, resulting to an increase in the amount of bond shall be subject to increase in premium.”
+
+
+
+	6)	Review of the amount of bonds and the maximum cash accountabilities of the bonded officials and employees of the University disclosed that the following posted inadequate FB: 
+
+----media/image13.png----
+
+
+
+	7)	As stated above, the property accountability of the University President may be assigned to the different Property Officers, CEDs or other officers, but in such case, separate FB shall be secured or the amounts of bond of those already bonded shall increase accordingly. 
+
+
+
+	8)	Failure to post FBs, or the non-renewal thereof, by bondable public officers and employees has both administrative and criminal sanctions, as follows:
+
+--	Administrative Liability – Failure to comply with requirements of PD 1445 (Government Auditing Code of the Philippines, Sections 101 & 127) is considered neglect of duty and will be penalized in accordance with the Civil Service Law.
+
+
+
+--	Criminal Liability (Anticipation of Duties of a Public Office) – Suspension from office or employment until he shall have complied with the formalities of the law & fine from 200 to 500 pesos (Art. 236, Revised Penal Code).
+
+
+
+	9)	Moreover, absence of fidelity bond may result in the non-indemnity of loss of government funds in cases of defalcations, shortages and unrelieved losses in the accounts of bondable public officers, and non-payment of incidental fees and costs in cases of civil proceedings brought against them to recover sums paid on their account from the Fidelity Fund.  Also, inadequate FBs put the University at risk of not recovering in full the amount of loss from the Fund.
+
+
+
+	10)	We recommended and management agreed to:
+
+
+
+13.18.1. 	require all Supply and Property Officers of the different campuses of the University to apply for fidelity bond; 
+
+
+
+13.18.2. 	require the Campus Executive Directors concerned to renew their bonds; 
+
+
+
+13.18.3. 	increase the amounts of bond of the University President, Disbursing Officer, and Collecting Officer of the Main Campus commensurate to their accountabilities; and 
+
+
+
+13.18.4. 	subsequently, pay the prescribed premium rates to the Bureau of Treasury pursuant to Treasury Circular No. 02-2009.
+
+
+
+
+
+Gender and Development
+
+
+
+1)	The University’s GAD Focal Point did not opt to revise the University’s GAD Plan and Budget (GPB) for CY 2020 as provided in the Philippine Commission on Women (PCW) Memorandum Circular (MC) No. 2020-03; such that, the gender issues and activities identified therein may not have addressed the actual issues and concerns arising from the unequal status of men and women stakeholders due to the COVID-19 situation.
+
+14.1. 	The Philippine Commission on Women (PCW) Memorandum Circular No. 2020-03 dated April 27, 2020 was issued to provide guidance on the revision and/or implementation of the FY 2020 GPB to implement GAD projects, activities and programs (PAPs) that address gender issues and concerns related to the COVID-19 situation.  Pertinent provisions are as follows:
+
+“Section 4.1. All national government agencies and instrumentalities are enjoined to review and revise, as necessary, their FY 2020 Gender and Development (GAP) Plan and Budget (GPB) to implement measures to address gender issues and concerns arising from the unequal status of their women and men stakeholders due to the COVID-19 situation.  Such measures should be in line with their respective agency mandates, Republic Act No. 9710 or the Magna Carta of Women and the Bayanihan to Heal as One Act…. 
+
+“Section 4.2  The revision of the FY 2020 GPB should also be in line with the parameters set under National Budget Circular No. 580.  GAD PPAs that fall under Section 4.3.1 of said policy shall be discontinued.”
+
+14.2. 	Relatively, National Budget Circular (NBC) No. 580 on the adoption of economy measures in the government due to the emergency health situation dated April 22, 2020 states:
+
+“4.3.1 Discontinuance of the following:
+
+	….
+
+	4.3.1.2  Start-up construction of government buildings, as well as repairs/renovation works which may be deferred;
+
+	….
+
+	4.3.1.4 All local travels, unless urgently necessary and allowed by the Secretary or head of the SUCs, constitutional offices and GOCCs;
+
+	4.3.1.5 Conduct of celebrations and cultural or sports activities not related to the core function of the agency;….”
+
+14.3. 	Based on the CY 2020 GPB, the University planned to mainstream in its budget the amount of Ꝑ37,450,796.00 which is 10.90% of its proposed budget for the same year to address fourteen (14) gender issues/mandates through various GAD activities.  Among these activities, we noted three (3) which fall under the list of “for discontinuance” projects/activities cited above, as follows:
+
+----media/image14.png----
+
+14.4. 	Due to the NBC Circular dated April 2020, the above three (3) activities were not implementable during the year, hence, it was necessary to revise them to include other gender issues and activities that were expected to arise during the COVID 19 pandemic.  Revised GPB was due for submission on July 1, 2020 for re-endorsement of PCW, however, none was submitted by the University’s GAD Focal Point.
+
+14.5. 	On the other hand, the other activities identified in the GPB, although not included in the items “for discontinuance” could have been considered beforehand as non-implementable within the year, thus subjected to revision, consisting of activities like trainings and orientation/community activities with total GAD budget of Ꝑ500,000.00 for food and training materials.  
+
+14.6. 	As a result of the non-revision of the GPB, the gender issues they intended to resolve may not have been addressed, while additional gender issues and concerns brought about by the COVID 19 situation and the means of addressing them were not included therein. 
+
+14.7. 	We recommended that, henceforth, management comply with GAD-related regulations in the preparation or revision of GPBs in order to properly address pressing gender issues and concerns.
+
+14.8. 	The Director of the Gender and Development Research and Resource Center (GADRRC), in her response to the audit team’s Audit Observation Memorandum which was presented during the exit conference, informed that the non-revision of the GPB of the University was based on the same PCW MC 2020-03 which provides in Section 4.4 that, “Agencies with FY 2020 GPB that has been endorsed or still under review by the PCW have an option to submit an adjusted GPB until 01 July 2020 for (re-)endorsement of PCW.”  She justified that since the IFSU GPB was not yet endorsed by PCW, they adhered to Section 4.5, which is to reflect all changes made in the original FY 2020 GPB in their GAD Accomplishment Report.
+
+14.9. 	As gleaned from the above provisions of the MC, GPBs for revision were not only those that have been endorsed, but also those unendorsed but still under review by PCW, which would include the IFSU GPB. The audit team, however, appreciates the response of the GADRRC Director and noted that in spite of the non-revision of the GPB, some measures were put in place to ensure that gender issues in the time of the pandemic were addressed, i.e. requiring all units to align their projects or activity proposals to be implemented during the year to PCW guidelines.  
+
+14.10. 	On the other hand, as of this writing, the audit team was not furnished the CY 2020 GAD Accomplishment Report which was supposed to be submitted to PCW through the Commission on Higher Education on February 28, copy furnished the COA office.  Thus, verification whether the changes/revisions  were reflected in the GAD AR could not be done.
+
+
+
+Compliance with Tax Laws
+
+
+
+1)	Taxes withheld were doubly remitted and abnormal negative balances in the subsidiaries of the Due to BIR account amounting to Ꝑ35,076.74 existed due to double recording of replacement checks and non-availment of the BIR Form 1601-EQ’s carry over feature; thereby, depriving the University of the timely use of the fund and creating doubt on the accuracy of the account balance presented in the Financial Statements. 
+
+15.1. 	One of the financial assertions for account balances is the valuation and allocation defined as: “Assets, liabilities and equity balances are included in the financial statements at appropriate amounts and any resulting valuation or allocation adjustments are appropriately recorded.” Normally, assets and expenses accounts have debit balances while liability, income and equity accounts have credit balances.
+
+15.2. 	As of December 31, 2020, the Due to BIR account has a balance of Ꝑ655,087.15 with the following details:
+
+----media/image15.png----
+
+15.3. 	The balance at yearend was deposited in the succeeding months of January and February 2021.
+
+15.4. 	However,  negative balances were noted in the subsidiaries per fund affecting the totality of the account, as follows:
+
+----media/image16.png----
+
+15.4. 	Inquiry from the Accounting Office personnel-in-charge disclosed that these negative balances resulted from double/erroneous remittances. On a test basis, we traced the accounts and noted the following common entries made, in chronological order:
+
+----media/image17.png----
+
+15.5. 	As gleaned from the table, these were checks returned for replacement after the taxes   withheld from them were already remitted to the BIR.  Upon replacement of the check, the original entries upon issuance of the check were again posted, hence, there was double or over-recording of the accounts.  And then again, the second recorded Due to BIR balance was remitted, resulting in double remittance of the same withheld tax.  Thereafter, the original entries were reversed, resulting in the debit or negative balance of the Due to BIR account though bringing the Cash and Accounts Payable accounts to balance. The negative balance of the Due to BIR account was intended to be offset in the next remittance period.
+
+15.6. 	One of the reforms in the Tax Reform for Acceleration and Inclusion (TRAIN) Act or the Republic Act No. 10963 that took effect on January 1, 2018 is the issuance of Revenue Memorandum Circular (RMC) No. 27-2018 prescribing the use of BIR Form 1601-EQ, where taxpayers can now have the option to carry forward or offset any over-remitted expanded withholding taxes (EWT) to the next quarter, at least within the same calendar year. The last phrase means that only the over-remittance in the first to third quarters can be carried forward to the succeeding quarter. In the event of over-remittance in the fourth or last quarter, the taxpayer’s option would still be to file an application for refund or Tax Credit Certificate (TCC). 
+
+
+
+15.7. 	In line with this, all negative balances of the Due to BIR account relating to EWT due to over-remittance should have been only temporary in the books, as these were supposed to be offset in the succeeding quarter of CY 2020.  Seven (7) out of the nine (9) transactions above occurred during the first three (3) quarters, but because these were not carried over to the next quarter remittance period, the negative balances remained as of yearend.  These over-remittances could not be carried over to CY 2021.
+
+
+
+	1)	The existence of abnormal balances created doubt on the accuracy of the account presented in the financial statements.  Further, requesting for refund from the BIR for the over-remittance usually takes some time as it has to undergo auditing and assessment, thereby, the timely use of the fund by the University is compromised.
+
+
+
+	2)	We recommended and management agreed to:
+
+
+
+2)	
+
+	1)	
+
+		1)	instruct the Accounting personnel concerned to observe caution in recording replacement checks to avoid the double remittance of taxes;
+
+
+
+		2)	file for the refund from BIR of the over-remitted taxes; and
+
+
+
+		3)	henceforth, avail itself of the reforms in the new TRAIN Act, specifically its “carry over” feature. 
+
+
+
+Compliance with Government Service Insurance System Laws
+
+
+
+3)	The University withheld the Government Service Insurance System (GSIS) premium contribution of employees and remitted the same to the GSIS together with the government share, the ECC premiums and loans due to GSIS.
+
+
+
+16.1. 	Section 6 of the Government Service Insurance Act of 1997 (RA No. 8291) provides that:
+
+
+
+	“The employer shall report to the GSIS the names of all its employees, their corresponding employment status, positions, salaries and such other pertinent information, including subsequent changes therein, if any, as may be required by the GSIS; the employer shall deduct each month from the monthly salary or compensation of each employee the contribution payable by him in accordance with the schedule prescribed in the rules and regulations implementing this Act.”
+
+
+
+16.2. 	For CY 2020, the University withheld premiums and other contributions totaling Ꝑ24,471,288.64 and remitted to the GSIS the total amount of Ꝑ24,353,558.87, including the forwarded balance from CY 2019 of Ꝑ19,696.55, as follows:
+
+
+
+----media/image18.png----
+
+
+
+16.3.  The remaining balance was remitted on January 2021.
+
+
+
+
+
+Compliance with Home Development Mutual Fund (HDMF) Law of 2009/Pag-IBIG Fund
+
+
+
+4)	The University withheld the HDMF/Pag-IBIG premium contributions of employees and remitted the same to the HDMF together with the government share.
+
+
+
+17.1. 	Sections 7 and 23 of Republic Act No. 9679 or An Act Further Strengthening the Home Development Mutual Fund and For Other Purposes, provides that:
+
+
+
+	“Section 7.  Fund Generation and Contributions. – The money of the Fund shall be generated by the provident savings that the covered employees shall contribute for the purpose every month, and the equal amounts that their respective employers shall mandatorily contribute….
+
+
+
+	“Section 23.  Remittance of Contributions. – (a) It shall be the duty of every employer, private or public, to set aside and remit the contributions required under this Act….”
+
+
+
+17.2.  	For CY 2020, the University withheld premiums and other contributions totaling Ꝑ5,425,863.56 and remitted the total amount of Ꝑ5,395,570.39 to the HDMF/Pag-IBIG, as follows:
+
+
+
+----media/image19.png----
+
+
+
+17.3. 	The remaining balance was remitted on January 2021.
+
+
+
+
+
+Compliance with the National Health Insurance Act of 2013 (RA 10606)/Philippine Health Insurance Corporation (PhilHealth) Law
+
+
+
+5)	The University withheld the PhilHealth contributions of employees and remitted the same to the Philippine Health Insurance Corporation together with the government share.
+
+
+
+18.1. 	Section 28 of Republic Act No. 10606 or The National Insurance Act of 2013, An Act Amending Republic Act No. 7875 Otherwise Known as the “National Health Insurance Act of 1995” as Amended and For Other Purposes, provides in part that:
+
+
+
+	“All members who can afford to pay shall contribute to the Fund, in accordance with a reasonable, equitable and progressive contribution schedule to be determined by the Corporation on the basis of applicable actuarial studies….”
+
+
+
+18.2. 	For CY 2020, the University withheld premiums totaling Ꝑ1,946,147.78 and remitted to PhilHealth the total amount of Ꝑ1,945,161.93, including the forwarded balance from CY 2019 of Ꝑ2,531.92, as follows:
+
+
+
+----media/image20.png----
+
+
+
+18.3. 	The remaining balance was remitted on January 2021.
+
+
+
+
+
+Suspensions, Disallowances and Charges
+
+
+
+6)	Suspensions/Disallowances/Charges totaling Ꝑ19,862,809.10 remained outstanding as of December 31, 2020.
+
+
+
+1)	
+
+2)	
+
+3)	
+
+	1)	As of December 31, 2020, the University had the following audit suspensions, disallowances and charges, and settlements thereof:
+
+
+
+----media/image21.png----
+
+
+
+	2)	Audit disallowances that were issued before RRSA amounting to P3.57 million have become final and executory.  Further, two (2) NDs are still under appeal with COA-CO totaling P7,067,421.66, while the above Suspension has already been settled as of date.
+
+
+
+	3)	We recommended that management require the persons liable for the audit disallowances to settle their accounts the soonest, especially those which have become final and executory. 
+
+
+
+
+
+Value for Money Audit
+
+
+
+4)	The continuous non-operation of the IFSU Water Delivery, an income generating project, due to lack of operating permit, deprived the University of additional income while incurring losses due to the depreciation of its machines and equipment, and incurred opportunity loss estimated at ₱60,000.00 for the year. 
+
+20.1. 	The Ifugao State University and Collins Purified Drinking Water and Enterprise (Collins)entered into a contract of agreement on March 6, 2017 for the University to assume the operations of the water refilling business for a consideration of ₱450,000.00. IFSU commenced operations of the business in May 2017, however, after only a period of one year and 4 months of operation, the water station temporarily shut down in October 2018 due to a power outage brought about by the non-payment of electrical expenses payable to Ifugao Electric Cooperative (IFELCO) for the months of September 2017 to August 2018.  Accordingly, check payments of IFSU were not accepted by IFELCO because the bills were under the business name of Collins Purified Drinking Water and Enterprise.
+
+20.2. 	The contract between IFSU and Collins states that “IFSU undertakes to cause the transfer of grants, permits, and rights to its name, issued by the various regulatory agencies, which are needed in order to operate the business establishment subject of this agreement.”
+
+20.3. 	It was also stated in the feasibility study of management supporting the take-over of the water delivery business that “the IGP Office will work on the transfer of ownership within 2017 including the change of business name.”
+
+	20.4. 	This finding was first brought to the attention of management in the CY 2018 Annual Audit Report, of which the latter agreed to process the transfer of the business name from Collins Purified Drinking Water Enterprise to IFSU Water Delivery, settle the electrical bills to IFELCO, and resume its business operation. 
+
+20.5. 	To date, the business name was not yet officially changed to the proposed IFSU Water Delivery despite the lapse of over three (3) years from consummation of the contract, even if the electricity was already installed in CY2019.  As such, the permit to operate has not yet been issued.  Accordingly, the change of business name was still on process.
+
+20.6. 	The lack of permit to operate resulted in the continuous closure of the establishment, and deprived the IGP Fund of additional income, while the machines/equipment of the project continue to incur additional losses due to their deterioration and depreciation.  For CY 2020, the depreciation expenses were estimated at ₱83,410.00.  Also, the opportunity loss for CY 2020, if the stall occupied by this refilling station were retained by Collins or rented out to other business operators at ₱5,000.00 monthly, is estimated at ₱60,000.00.
+
+20.7. 	Further, considering that water is a basic necessity, pandemic or no pandemic, the operation of the same could have provided some of the needed income for the IGP Fund as a whole, in as much as most of the projects under the Fund were non-operational in CY 2020 due to the COVID-19 pandemic.
+
+20.8. 	We recommended that management expedite the following:
+
+1)	
+
+2)	
+
+3)	
+
+4)	
+
+5)	
+
+6)	
+
+7)	
+
+	1)	
+
+		1)	Transfer of the business name from Collins Purified Drinking Water Enterprise to IFSU Water Delivery;
+
+
+
+1)	
+
+2)	
+
+3)	
+
+4)	
+
+5)	
+
+6)	
+
+7)	
+
+	1)	
+
+		1)	Acquisition of permit to operate; and 
+
+
+
+		2)	Resumption of the water delivery operation.
+
+
+
+	2)	Management informed during the exit conference that the transfer of business name was completed recently.  Thus, the Project Manager is now processing the permit to operate so operation will resume.
+
+
+
+	3)	The audit team was glad to note of the development, considering that it has been more than three (3) years that the project was not operational.  It is hoped that the operation will resume this year.
+
+
+
+41
+
+
+
+
+
+
+
+
+

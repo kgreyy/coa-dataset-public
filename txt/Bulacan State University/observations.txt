@@ -1,0 +1,5070 @@
+PART II – AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+	The audit of financial transactions and operations of the Bulacan State University (BulSU) for calendar year 2020 disclosed some observations that needed improvements and/or corrections. Our observations with the corresponding recommendations are discussed in detail in the succeeding paragraphs.
+
+
+
+Financial and Compliance Audit 
+
+
+
+Doubtful accuracy of the reported Cash in Bank accounts – ₱988,844,371.85
+
+
+
+1. 	The accuracy of the reported Cash in Bank account balance of ₱988,844,371.85 of the Bulacan State University (BulSU) for the calendar year 2020 was not established due to the understatement by ₱262,042,961.36 which was  the net effect of the (a) unrecorded interest earned from bank deposits of ₱134,464.48 ; (b) unadjusted stale checks of ₱120,949.40; (c) unrecorded debit memos of ₱835,635.79; (d) unrecognized credit memos of ₱17,260,834.13; and (e) other reconciling items amounting to ₱245,362.349.14  in the Bank Reconciliation Statements (BRS) contrary to Sections 2, 3,5 and 6  of Chapter 21 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I.
+
+
+
+1.1. 	The audit of the Cash in Bank account requires the confirmation of balances with depository banks as of a given date to ascertain the completeness and correctness of the account balance per books.
+
+
+
+1.2.	Section 2, Chapter 21 of the Government Audit Manual (GAM) for National Government Agencies (NGAs), Volume I, defines Bank Reconciliation as the settlement of differences contained in the bank statement and the cash account in the agency’s/entity’s books of accounts. 
+
+
+
+1.3. 	Section 3 of the same Manual states the objectives for the preparation of the Bank Reconciliation Statement (BRS); to wit:
+
+
+
+	 a)  To check the correctness of both the bank’s and agency’s/entity’s records; 
+
+	 b)  To serve as a deterrent to fraud; and
+
+ c)  To enable the agency/entity or bank to take up charges or credits recognized 
+
+                   by the bank or agency/entity but not yet known to the agency/entity or bank.
+
+
+
+1.4.	Relative thereto, we requested the President and the Chief Accountant to send confirmation letters to the University’s authorized government depository banks (AGDBs) to verify the accuracy of the bank balances as of December 31, 2020.   The confirmation results showed the following deficiencies:
+
+	
+
+a)	Understatement due to unrecorded interest income, net of tax; credit and debit memos; and several adjustments in six bank accounts of two AGDBs-                           ₱262,042,961.36, detailed as follows:
+
+Bank
+
+Account Number
+
+Confirmed Amount by the Bank
+
+Book Balance
+
+Discrepancy **
+
+Land Bank of the Philippines, Malolos Branch 
+
+2792-1005-22
+
+₱1,165,523,089.30
+
+₱905,063,137.04
+
+₱260,459,952.26
+
+
+
+2792-1018-63
+
+3,386,788.71
+
+3,386,442.54
+
+346.17
+
+
+
+2792-1031-22
+
+400,306.00
+
+400,306.00
+
+0.00
+
+
+
+2792-1030-50
+
+1,960,988.49
+
+1,960,788.05
+
+200.44
+
+
+
+2792-1038-90
+
+5,153,480.24
+
+5,152,880.54
+
+599.70
+
+DBP, Malolos Branch
+
+05-034-456-56
+
+1,535,913.39
+
+75,000.00
+
+1,460,913.39
+
+Total **
+
+ 
+
+₱1,177,960,566.13
+
+₱916,038,554.17
+
+₱261,921,011.96
+
+Unadjusted Stale Checks
+
+2792-1005-22
+
+
+
+
+
+120,949.40
+
+Net Understatement 
+
+
+
+
+
+
+
+₱262,042,961.36
+
+**Includes unrecorded Interest Income/Debit and Credit Memos/ Other Adjustments. Details are shown in Appendix A. 
+
+
+
+b)	As could be gleaned in the preceding table, the account LBP # 2792-1005-22 had unadjusted stale checks as at year-end totaling to ₱120,949.40 which should have been adjusted/reverted back to the account of the University, as itemized below:
+
+	
+
+Date
+
+Check No.
+
+Payee
+
+Amount
+
+
+
+
+
+
+
+
+
+
+
+March 20,2020
+
+1194855
+
+Magdalena Soyosa
+
+    ₱13,710.60 
+
+
+
+April 20, 2020
+
+1194913
+
+Christian Renz D. Delos Santos
+
+    10,443.14 
+
+
+
+ 
+
+1194930
+
+Christian Renz D. Delos Santos
+
+      4,179.11 
+
+
+
+ 
+
+1194948
+
+Vinz Reginald Pangilinan
+
+    10,834.74 
+
+
+
+ 
+
+1194953
+
+Desserie Rose Jingco
+
+      5,500.00 
+
+
+
+June 9, 2020
+
+1195071
+
+Home Development Mutual Fund
+
+    57,800.00 
+
+
+
+June 11, 2020
+
+1195108
+
+Laura G. Llarena
+
+      2,596.65 
+
+
+
+June 24, 2020
+
+1195203
+
+Anel Martin Antero
+
+      6,570.86 
+
+
+
+ 
+
+1195206
+
+Anel Martin Antero
+
+      4,928.15 
+
+
+
+June 25, 2020
+
+1195232
+
+Meleonor O. Roxas
+
+         324.00 
+
+
+
+
+
+1195240
+
+Meleonor O. Roxas
+
+      4,062.15 
+
+
+
+ 
+
+
+
+Total 
+
+₱120,949.40
+
+
+
+
+
+c)	In addition, the Foreign Account (FA) under LBP CA # 2794-0032-22 amounting to ₱72,805,817.68 has not been updated due to the non-preparation of BRS since CY 2015. The balance at the end of the year was multiplied by the BSP conversion rate at the close of December 2020 to be able to establish the peso equivalent of the Foreign Account. However, the Accounting Office failed to recognize gain or loss in the conversion of foreign currency (dollars) to local currency (pesos).  
+
+
+
+1.5. 	Moreover, some adjustments/reconciling items affecting account LBP 2792-1005-22 dated back as far as CYs 2018 and 2019, particularly the unrecognized debit/credit memos, but have remained unadjusted in the books of the University as of December 31, 2020. 
+
+
+
+1.6. 	As provided under Section 5 of Chapter 21 of GAM for NGAs, Volume I, The Chief Accountant/Designated Staff shall within ten days from receipt of the monthly Bank Statement (BS) together with the paid checks, original copies of Debit Memoranda (DM)/Credit Memoranda (CM) from the Government Servicing Bank (GSB), reconcile the BS with the general ledger (GL) and prepare GL and prepare the BRS in four copies. 
+
+
+
+1.7. 	Also, under Section 6, supra, particularly on the Recognition of Adjustments on  Bank Reconciliation, it is required that the Chief Accountant/Designated Staff prepare a journal entry voucher (JEV) to recognize all reconciling items that require adjustment and correction in the books of accounts.
+
+
+
+1.8. 	In view of the unadjusted reconciling items, the Cash in Bank-LCCA and other related accounts were misstated by ₱262,042,961.36. Likewise, the accounts Cash in Bank-Foreign Currency and Expenses were also misstated due to non-recognition of forex gain or loss. 
+
+
+
+1.9.	We recommended and management agreed that the President instruct the Accountant to (i) draw the appropriate journal entry vouchers (JEVs) to recognize all reconciling items requiring adjustment in the books of the University; (ii) prepare the BRS on a monthly basis to properly identify the source and nature of errors/adjustments; and (iii) furnish the AGDBs with copies of the BRS to inform them of the required adjustments/supporting documents on their part,  thus, ensuring the accuracy of both the bank’s and the University’s records on the Cash in Bank accounts. 
+
+
+
+
+
+Unreliable Land account – ₱29,362,874.12
+
+
+
+2.	The reliability of the Land account with a reported balance of ₱29,362,874.12 as of December 31, 2020 was doubtful due to (a) failure to secure the Transfer Certificates of Title (TCTs) of various parcels of land under the name of the University contrary to Section 39 of Presidential Decree (P.D.) No. 1445; (b) unreconciled difference of ₱5,122,425.33 between the Accounting and Property records; and (c) unrecorded fair market value (FMV) of the donated lot, thus, affecting the fair presentation of the Land account in the financial statements. 
+
+
+
+2.1.	This is a reiteration of prior year’s recommendation in view of management’s failure to provide appropriate action on the matter. 
+
+
+
+2.2.	Section 39 of Presidential Decree (P.D.) No. 1445 provides that:
+
+In the case of deeds to property purchased by any government agency, the Commission shall require a certificate of title entered in favor of the government or other evidence satisfactory to it that the title is in the government. It shall be the duty of the officials or employees concerned including those in non-government entities under audit, or affected in the audit of government and non-government entities, to comply promptly with these requirements.
+
+
+
+2.3.	Section 6, Chapter 19 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume 1, provides that one of the qualitative characteristics of financial reporting is reliability, defined as free from material error and bias, and can be depended on by users to represent faithfully that which it purports to represent.
+
+
+
+2.4.	International Public Sector Accounting Standard (IPSAS) No. 17, specifically Section 27 states that where an asset is acquired through a non-exchange transaction, its cost shall be measured at its fair value as of the date of acquisition.
+
+
+
+2.5.	Relatedly, Section 12, Chapter 10 of GAM for NGAs, Volume I, provides that:
+
+
+
+Cost of PPE acquired through donation shall be taken up at its fair value at the date it is acquired. All expenses incurred in connection with the donated asset, such as delivery and installation cost, shall be included in the amount recognized as asset. The fair value of the PPE shall be recognized as Income from Grants and Donations in Kind.
+
+
+
+2.6.	As presented in the Statement of Financial Position of the University as of December 31, 2020, the Land account under Property, Plant and Equipment (PPE) had a balance of ₱29,362,874.12, composed of ten parcels of land located all over the Province of Bulacan with a total land area of 40.34 hectares. These were acquired either through purchase, proclamation or donation.
+
+
+
+2.7.	On the other hand, the records of the Property/Supply Office showed 11 parcels of land measuring 41.8486 hectares valued at an aggregate amount of ₱24,240,448.79 or a difference of ₱5,122,425.33 from the recorded amount. Consider the following:
+
+
+
+Location
+
+Lot Area (in hectare)
+
+Mode of Transfer/
+
+Supporting Documents
+
+Date
+
+Cost
+
+Transfer Certificate Title in the name of BulSU
+
+
+
+Remarks
+
+City of Malolos, Bulacan
+
+2.4511
+
+Purchase 
+
+Original CT RO-2172 (Oct-104)
+
+TCT 82242 under Oscar Fernando
+
+TCT 242665 under Alberto Domingo and Thelma Domingo
+
+10/07/1986
+
+ ₱ 3,927,852.53
+
+
+
+DOE – Bulacan/Gov. Roberto M. Pagdanganan;
+
+Contested due to the issuance of titles in the name of Mrs. Felicisma Buena under TCT 039-2015012599 to 602, 039-2015012605 and 039-RT2014000442
+
+City of Malolos, Bulacan
+
+25.000
+
+Proclama-tion No. 22
+
+09/23/1998
+
+216,000.00
+
+-
+
+Five hectares shall be used exclusively for the propagation of Philippine Carabao.
+
+Poblacion, Bustos, Bulacan
+
+1.0564
+
+Purchase
+
+04/29/1999
+
+5,292,851.26
+
+TCT 131395
+
+Lot 43-C-2-B-2-B-4-F-3-B-4-C-2 of the subdivision plan PSD-03-099051 being a portion of Lot 43-C-2-B-2-B-4-F-3-B-4-C PSD-03-037308
+
+Poblacion, Bustos, Bulacan
+
+0.1771
+
+Purchase
+
+05/13/1958
+
+(Original Registration Date)
+
+
+
+02/14/2019 
+
+(Certificate of Title)
+
+5,524,745.00
+
+TCT 039-2019001888
+
+Lot 43-C-2-B-2-B-4-D-2 of the subdivision plan (LRC) PSD-302923 approved as a non-subdivision project being a portion of lot 43-C-2-B-2-B-4-D describe on plan (LRC) PSD-219541.
+
+Poblacion, Bustos, Bulacan
+
+0.3093
+
+Purchase
+
+10/24/1960
+
+(Original Registration Date)
+
+
+
+10/12/2018 
+
+(Certificate of Title)
+
+9,279,000.00
+
+	TCT 039-2019001218
+
+Lot 43-C-2-B-2-B-4-F-3-B-4-C-1 of the subdivision plan (LRC) PSD-03-099051 being a portion of lot Lot 43-C-2-B-2-B-4-F-3-B-4-C PSD-03-037308 LRC REC NO..
+
+Bustos, Bulacan
+
+0.4371
+
+Donated
+
+09/22/1976
+
+
+
+11/19/1981
+
+-
+
+-
+
+DOD – Mayor Alexis Santos/BCAT
+
+DOD – Lipana-Hilario/BCAT
+
+Hagonoy, Bulacan
+
+7.8992
+
+Donated
+
+
+
+Kapasiyahan Bldg. 25
+
+Kapasiyahan Bldg. 23
+
+06/06/1995
+
+-
+
+-
+
+KB – February 6, 2013
+
+Pulilan, Bulacan
+
+0.5000
+
+Donated
+
+
+
+Deed of Donation (DOD)
+
+TCT 039-2013007616 under Emma C. Bajet
+
+TCT 039-2014012577 under Demetrio Bajet Jr. and Emma Castillo Bajet
+
+02/06/2013
+
+-
+
+-
+
+DOD – Spouses Demetrio Bajet Jr. and Emma Castillo-Bajet
+
+Bulakan, Bulacan
+
+0.5186
+
+Donated
+
+
+
+Deed of Donation
+
+TCT-148055,
+
+TCT-148056, TCT-148070 under Francisco Rodrigo
+
+12/18/2003
+
+-
+
+-
+
+DOD – Dr. Anacleto Meneses; Owner – Francisco Rodrigo, married to Remedios Enqriquez
+
+San Jose Del Monte City, Bulacan
+
+1.9996
+
+Donated
+
+
+
+Deed of Donation;
+
+TCT 1-401502 under First Sarmiento Property Holdings, Inc.
+
+03/24/1998
+
+-
+
+
+
+DOD – First Sarmiento Property Holdings, Inc.
+
+San Rafael, Bulacan
+
+1.5000
+
+Donated
+
+
+
+Deed of Donation
+
+09/28/2018
+
+-
+
+-
+
+DOD – Municipality of San Rafael/Mayor Cipriano D. Violago, Jr;
+
+Not found in the inventory listing.
+
+TOTAL
+
+41.8486
+
+
+
+
+
+₱ 24,240,448.79
+
+
+
+
+
+	
+
+2.8.	In the verification of the aforementioned documents, we observed the following:
+
+
+
+a)	Eight parcels of land with total lot area of 40.2733 hectares were not covered by TCTs registered in the name of the BulSU which is not in accordance with Section 39 of P.D. No. 1445 and Section 449 of the Government Accounting and Auditing Manual (GAAM), Volume 1, thus, exposing these lots to possible third-party claims. 
+
+
+
+b)	Six parcels of land donated to the University with a total lot area of 12.8545 hectares were not recorded in the books at their fair market value which is not in consonance with Section 27 of IPSAS No. 17.  Also, one parcel of land located at San Rafael, Bulacan, with a lot area of 1.5 hectares was not included in the 2019 Report on the Physical Count of Property, Plant and Equipment (RCPPE).
+
+
+
+c)	A parcel of land located at Bustos, Bulacan with lot area of 0.4371 reported in the CY 2020 RCPPE had no supporting documents. Although based on the inventory report submitted, the lot was covered by a Deed of Donation from donors Mayor Alexis Santos and Hilario Lipana.
+
+
+
+2.9.	Management should facilitate the immediate titling of these lots in the name of the University to document ownership over the property and avoid the payment of unnecessary penalties that may be imposed by regulatory bodies. Ownership of land and land rights are established on the basis of genuine TCT in the Land Registration Authority - Registry of Deeds, free from any liens/encumbrances.
+
+
+
+2.10.	To determine the fair market value of these parcels of land, the management may obtain copies of their Tax Declaration of Real Property in the Municipal Assessor’s Office of the municipality where these lots are located.
+
+
+
+2.11.	The failure to reconcile the balances between the Property and Accounting Units rendered doubt on the reliability and accuracy of the recorded balance of the Land account of ₱29,362,874.12 as of year-end. 
+
+
+
+2.12.	We reiterated our previous year’s recommendation and the University President agreed to (a) require the University officials concerned to facilitate the immediate titling of the parcels of land in the name of the University to protect its interest; (b) instruct the University Accountant to cause the immediate recording of the fair market value of the donated lands; and (c) instruct the University Accountant and the Supply Officer to reconcile their records on the cost of  each parcel of  land to arrive at the correct Land account balance to be reflected in the financial statements.
+
+2.13. 	The Accounting and Property Unit of BulSU conducted a meeting and agreed to scrutinize prior years’ documents to determine the cause of unreconciled balances. 
+
+
+
+2.14. 	Management is in the process of locating the documents that can be used as basis in the determination of the value of the lands donated to BulSU and is currently in discussion with the donors and government offices concerned for the transfer of the titles of these lands to BulSU. 
+
+
+
+
+
+Unreliable balance of Property, Plant and Equipment – ₱3,196,389,836.29
+
+
+
+3. 	The accuracy of the account balances of Property, Plant and Equipment (PPE) as of December 31, 2020 amounting to ₱3,196,839,836.29 remained doubtful due to (a) unreconciled difference of ₱328,618,460.82 between the accounting and property records; (b) inclusion of missing PPEs in the amount of ₱8,152,265.08 which were not found during the physical count; (c) unrecorded donated properties due to absence of supporting documents for valuation purposes; (d) non-maintenance of Property Cards (PCs) by the Property Unit; (e) non-updating of the Property Plant and Equipment Ledger Cards (PPELCs) by the Accounting Unit; and (f) unfinished physical count of PPE contrary to the pertinent provisions of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I. 
+
+
+
+3.1. 	Section 42, Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, provides:
+
+
+
+		The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with the PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like PAR.
+
+
+
+(a) 	Unreconciled difference between the accounting and property records - ₱328,618,460.82
+
+
+
+3.2.	To establish the reliability of the balances reported in the financial statements (FS), the Audit Team compared the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) submitted by the Supply Unit with the Accounting records. Except for the Construction in Progress (CIP) accounts, a huge difference aggregating to ₱328,618,460.82 was noted, broken down as follows:
+
+
+
+Property, Plant and Equipment 
+
+Per Accounting
+
+Records
+
+Per Property
+
+Records
+
+Difference
+
+Land and Land Improvements 
+
+            ₱34,628,137.78 
+
+  ₱24,240,448.79 
+
+             ₱10,387,688.99 
+
+Other Land Improvements
+
+3,499,562.40 
+
+  4,022,761.78 
+
+               (523,199.38) 
+
+Road Networks
+
+50,896,600.26 
+
+  50,896,600.26 
+
+                             -   
+
+Water Supply Systems
+
+40,250.00 
+
+ 
+
+                  40,250.00 
+
+Parks, Plazas and Monuments 
+
+4,733,385.75 
+
+   23,931,266.53 
+
+           (19,197,880.78) 
+
+Buildings
+
+1,072,186,801.60 
+
+997,366,128.77 
+
+            74,820,672.83 
+
+Other Structures
+
+30,405,087.10 
+
+77,310,774.21 
+
+ (46,905,687.11)
+
+Machinery Equipment
+
+                         -   
+
+46,002,753.84 
+
+(46,002,753.84) 
+
+Office Equipment
+
+45,511,637.77 
+
+37,698,684.97 
+
+              7,812,952.80 
+
+ICT Equipment
+
+261,391,957.14 
+
+192,365,557.72 
+
+            69,026,399.42 
+
+Communication Equipment 
+
+12,016,459.00 
+
+5,976,959.00 
+
+              6,039,500.00 
+
+Disaster Response and Rescue Equipment 
+
+                                            1,136,653.00 
+
+                           -   
+
+              1,136,653.00 
+
+Military, Police and Security Equipment 
+
+1,654,566.72 
+
+1,063,938.40 
+
+                 590,628.32 
+
+Medical Equipment
+
+38,772,909.90 
+
+3,366,970.50 
+
+            35,405,939.40 
+
+Printing Equipment 
+
+31,646.85 
+
+  967,503.55 
+
+(935,856.70) 
+
+Sports Equipment 
+
+1,219,007.87 
+
+  1,753,100.00 
+
+              534,092.13 
+
+Technical and Scientific Equipment 
+
+359,784,519.51
+
+290,334,862.53
+
+69,449,656.98
+
+Other Machinery and Equipment 
+
+152,551,710.87 
+
+ 27,468,629.06 
+
+           125,083,081.81 
+
+Motor Vehicles
+
+28,066,118.97 
+
+26,548,621.00 
+
+              1,517,497.97 
+
+Furnitures and Fixtures
+
+37,427,531.70 
+
+10,973,131.60 
+
+            26,454,400.10 
+
+Books
+
+     14,913,684.14 
+
+           -   
+
+            14,913,684.14 
+
+Work/Zoo Animals
+
+45,000.00 
+
+                           -   
+
+                  45,000.00 
+
+Other PPE
+
+4,400,039.00 
+
+       -   
+
+              4,400,039.00 
+
+Intangible Assets
+
+         1,818,186.00 
+
+6,224,300.00 
+
+-             4,406,114.00 
+
+TOTAL
+
+2,157,131,453.33 
+
+1,828,512,992.51 
+
+       328,618,460.82 
+
+Construction in Progress - Buildings 
+
+                                      1,038,824,138.98 
+
+
+
+ 
+
+*Construction in Progress - Infrastructure
+
+                                               884,243.98 
+
+ 
+
+ 
+
+GRAND TOTAL
+
+₱ 3,196,839,836.29 
+
+  ₱1,828,512,992.51 
+
+ 
+
+*Not included in the Property Record pending completion and acceptance of the projects.
+
+
+
+3.3.	Inquiry with the Supply Unit of the BulSU disclosed that there was a team created in CY 2020 for the reconciliation of records. Not long after its creation, the team was dissolved due to the reorganization in the structure of BulSU and the reconciliation between the property and accounting records was not given priority. This matter has been raised in the previous years’ audit reports but the Management failed to give an appropriate action.  
+
+
+
+3.4.	On the other hand, Section 105 (1) of Presidential Decree (P.D.) No. 1445 states that:
+
+
+
+	Every officer accountable for government property shall be liable for its money value in case of improper or unauthorized use or misapplication thereof, by himself or any person for whose acts he may be responsible. He shall likewise be liable for all losses, damages, or deterioration occasioned by negligence in the keeping or use of the property whether or not it be at the time in his actual custody.
+
+	
+
+3.5.	Section 41, paragraph d, Chapter 10 of GAM for NGAs, Volume I, provides the accounting policies in case of loss of property, quoted as follows:
+
+
+
+	A receivable account shall be set up to record the accountability of the accountable officer simultaneous with derecognition of the lost PPE.
+
+
+
+3.6.	Moreover, Section 38, supra, provides:
+
+	
+
+The entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) as at December 31 of each year. This shall be submitted to the Auditor concerned not later than January 31 of the following year. Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division/Unit for the proper accounting/recording. 
+
+	
+
+(b) Missing PPEs - ₱8,152,265.08
+
+
+
+3.7.	Scrutiny of the RPCPPE disclosed that out of the balance of ₱1,828,512,992.51, there were PPE items amounting to ₱8,152,265.08 which were missing during the physical count, shown in Appendix B. The Accountant confirmed that this amount is still carried in the books and no receivable was set up to recognize the accountability of the accountable officers (AOs) concerned. As such, the reported balances of the PPE accounts were overstated by ₱8,152,265.08 due to the inclusion of the missing PPEs.
+
+
+
+(c) Unrecorded donated properties of undetermined amount
+
+
+
+3.8.	Further verification showed that the RPCPPE included PPEs acquired thru donation but with no recorded amounts. The Supply Unit informed the Audit Team that there were no documents available to support the donated PPEs found in station. The same were not recorded in the books of accounts since the Supply Unit failed to furnish the Accountant with a listing thereof, contrary to Sections 12 and 38, both of Chapter 10, GAM, Volume I, which reads: 
+
+
+
+Cost of PPE acquired through donation without condition shall be taken up at its fair value at the date it is acquired. All expenses incurred in connection with the donated asset, such as delivery and installation cost, shall be included in the amount recognized as asset. The fair value of the PPE shall be recognized as “Income from Grants and Donations in Kind.
+
+3.9	Since these donated PPEs were not recorded upon acquisition, no corresponding depreciation was recognized over the course of time contrary to Section 27, supra, which provides that:
+
+
+
+	xxx
+
+
+
+b. Except for land and not recognized heritage assets, all PPE shall be depreciated.
+
+
+
+c. Depreciation of an asset begins when it is available for use such as when it is in the location and condition necessary for it to be capable of operating in the manner intended by the Management…xxx
+
+	
+
+3.10	As a consequence of the foregoing, the PPE accounts and the corresponding Depreciation Expenses were both understated. 
+
+
+
+(d) Incomplete inventory-taking
+
+
+
+3.11	The importance of physical count is sourced from Section 43, Chapter 10 of the afore-cited Manual which prescribes that Physical count/inventory, which is required annually, is an indispensable procedure for checking the integrity of property custodianship. Relative thereto, the Inventory Committee was unable to complete the conduct of their physical count of properties owned by BulSU. Some of the reasons provided to us were the unavailability of the schedule of the AOs and lack of manpower. Aside from the different offices in the Main Campus, BulSU has five extension campuses subject for inspection by the Inventory Committee which only consists of five members. The RPCPPE submitted to the Audit Team included the remarks “Rescheduled for Inventory” for those PPEs not counted/validated for CY 2020. 
+
+
+
+(e) Non-maintenance of subsidiary records
+
+
+
+3.12	In addition, the Accounting Unit omitted to prepare the subsidiary ledgers (SLs) and PPE Ledger Cards (PPELC). Similarly, the Supply Unit did not maintain Property Cards (PCs) for each PPE item. The maintenance of subsidiary records is required under Section 42 of the Manual, so the absence of both records made it difficult to facilitate the reconciliation for each PPE account. Aside from this, it was discovered that no property numbers were assigned to the PPEs issued to the different offices of the University. For one, the inadequacy of documentation hindered the Audit Team from performing an independent validation of the accuracy of the results of inventory- taking per RPCPPE and the PPE balances reflected in the Financial Statements presented for audit. In view hereof, we find it important to emphasize the related provisions of Section 111 of P.D. No. 1445, which states that:
+
+
+
+The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+3.13.	Despite repeated advices to Management to prioritize their action on recurring deficiencies, the discrepancy between the Accounting and Property records for PPE has accumulated from year to year. 
+
+
+
+3.14.	We recommended and Management agreed to: 
+
+
+
+a)	Instruct the Accountant and Supply Unit to facilitate the reconciliation of their records and adjust the books of accounts and property records, as warranted, once the results have been established; 
+
+
+
+b)	Investigate the cause and determine the whereabouts of the missing PPEs from the accountable officers (AOs). Otherwise, instruct the Accountant to set up a receivable to establish the accountability of the AOs who failed to present the missing PPEs; 
+
+
+
+c)	Determine the fair market value of the unrecorded donated PPEs and provide depreciation to present the PPE at its proper valuation; and
+
+
+
+d)	Undertake proper planning and designate additional members of the Committee on Inventory to facilitate the completion of the physical count of all PPEs owned by the University; and i) Follow the instructions provided for accomplishing the Property, Plant, and Equipment Ledger Card (PPELC) and Property Card (PC) to ensure that the balances of the PPE presented in the reports submitted by the Accountant and the Supply Unit are both correct; and ii) Assign a property number for each PPE issued to the different offices for proper monitoring purposes. 
+
+
+
+3.15.	The Accounting Unit facilitated a discussion with the Property Unit of BulSU for the reconciliation of each record of the office.
+
+
+
+
+
+Unreliable Other Payables – ₱979,003,049.38
+
+
+
+4.	The absence of subsidiary ledgers (SLs) and documents to support the reported balance of Other Payables account in the amount of ₱958,975,401.43 as of December 31, 2020 rendered doubt on its existence, completeness and accuracy contrary to Section 111 of Presidential Decree (P.D.) No. 1445.  
+
+
+
+4.1.	Section 111 of Presidential Decree (P.D.) No. 1445 states that:
+
+
+
+The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+4.2.	Chapter 3 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume III, provides that the account Other Payables is used to recognize other liabilities not falling under any of the specific payable accounts. It is debited for settlement of the liabilities. 
+
+
+
+4.3.	The balance of Other Payables as of December 31, 2020 amounted to ₱979,003,049.38 of which a total of ₱958,975,401.43 from previous years was not provided with subsidiary ledgers (SLs) by the Accounting Unit. The account consists of various contributions in the form of a) Employee Fund withheld from the salaries of job order and contract service personnel; b) Faculty Fund for the faculty members under regular and temporary status; c) BulSU Multipurpose Cooperative Inc.; d) SSS contributions; e) Provident Fund; and f) Balikatan contributions. Likewise, fund transfers from other national government agencies (NGAs) are accumulated in this account. 
+
+
+
+4.4.	We also gathered that it has been the practice of the Accounting Office to credit Other Payables for the amount transferred by the Commission on Higher Education (CHED) based on the billing statements sent by BulSU in compliance with the Revised Rules and Regulations of Republic Act (R.A.) No. 10913, known as the “Universal Access to Quality Tertiary Education Act of 2017.
+
+
+
+4.5.	Since the said funds from the NGAs/CHED are intended to support specific projects and are subject to liquidation to source agencies, the same should have been credited to the account Due to NGAs as prescribed in Chapter 3 of GAM, Volume III or the Revised Chart of Accounts, which is quoted as follows:
+
+
+
+	This account is used to recognize the receipt of funds for delivery of goods/services as authorized by law, fund transfers from NGAs, other than the BIR, for implementation of specific programs or projects and other inter-agency transactions. Debit this account for delivery of goods/services, liquidation of funds received and settlement of liabilities.
+
+
+
+4.6.	The Audit Team verbally requested the submission of the supporting documents of the fund transfers erroneously recognized under the Other Payables account. However, the Accounting Office has not complied yet as of this writing. The reclassification to the appropriate account cannot be made until the remaining balances of the amount transferred by various source agencies are identified. 
+
+
+
+ 4.7.	The absence of required details hindered us from ascertaining the existence, completeness and accuracy of the recorded Other Payables account. 
+
+
+
+4.8.	We recommended and management agreed to direct the Accountant to: 	
+
+
+
+a)	Exert effort in determining and extracting the details of Other Payables amounting to ₱958,975,401.43 and maintain subsidiary ledgers (SLs) to support the General Ledger (GL) controlling account for Other Payables; and
+
+
+
+b)	Identify the remaining balances of externally-funded projects lodged under Other Payables and transfer the same to the Due to NGAs account and/or other appropriate accounts, if warranted.
+
+
+
+4.9.	Management provided additional personnel to the Accounting Unit of BulSU to assist in the extraction of details of the transactions which accumulated in the Other Payables account. 
+
+
+
+
+
+Doubtful accuracy and collectability of Receivables - ₱122,882,652.29
+
+
+
+5.	Out of the recorded Receivables with a carrying value of ₱357,280,649.82 as at year-end, the accuracy and collectability of some accounts totaling to ₱122,882,652.29   were uncertain due to (a)  absence of effective measures for the collection of long outstanding accounts from students’ unpaid loans and tuition fees totaling to ₱71,564,227.98; (b) discontinuance of sending of bills/statement of accounts to a lessee with outstanding leases of ₱49,780,407.21 as at December 31, 2020; and (c) unreconciled records on student loans under the Student Financial Assistance Program (STUFAP) resulting in a discrepancy of ₱1,538,017.10. 
+
+
+
+5.1	As of December 31, 2020, the Receivables account had a reported carrying value of ₱357,280,649.82, composed of:
+
+
+
+Details
+
+Balance as of December 31, 2020
+
+Accounts Receivable 
+
+
+
+
+
+Receivable from Students – Tuition Fees
+
+₱    71,564,227.98
+
+
+
+Less: Allowance for Impairment 
+
+(3,168,244.78)
+
+
+
+Net Value – Accounts Receivable
+
+68,395,983.20
+
+Due from National Government Agencies
+
+237,451,473.76
+
+Operating Lease Receivable
+
+49,780,407.21
+
+Due from Officers and Employees
+
+7,001.00
+
+Loans Receivable
+
+1,538,017.10
+
+Disallowances and Charges
+
+107,767.55
+
+TOTAL ACCOUNTS AND LOANS RECEIVABLE
+
+₱ 357,280,649.82
+
+
+
+5.2	Discussed below are the observations of the Audit Team in the audit of the different Receivable accounts; viz:
+
+
+
+a)	Uncollected Tuition Fees – ₱71,273,934.28
+
+
+
+5.3	The recorded Accounts Receivable amounted to ₱71,564,227.98 as of year-end. Out of this amount, a sum of ₱290,293.70 pertains to the uncollected fees from the tenants of stalls being rented out by the University while the bulk or ₱71,273,934.28 represents unpaid tuition fees of the students enrolled in the Bulacan State University (BulSU) from various academic years. The composition of the amount is tabulated below:
+
+
+
+Year of 
+
+Transaction
+
+< 1-1 yr.
+
+>1-2 yrs.
+
+3-4 yrs.
+
+5 yrs. & More
+
+Amount
+
+2014 and 
+
+Previous 
+
+
+
+
+
+
+
+₱38,331,327.67
+
+₱38,331,327.67
+
+2015
+
+
+
+
+
+
+
+10,521,598.00
+
+10,521,598.00
+
+2016
+
+
+
+
+
+₱4,116,531.00
+
+
+
+4,116,531.00
+
+2017
+
+
+
+
+
+3,970,462.05
+
+
+
+3,970,462.05
+
+2018
+
+
+
+
+
+297,953.00
+
+
+
+297,953.00
+
+2019
+
+
+
+₱ 11,040,090.09
+
+
+
+
+
+11,040,090.09
+
+2020
+
+₱ 3,286,266.17
+
+
+
+
+
+
+
+3,286,266.17
+
+TOTAL
+
+₱ 3,286,266.17
+
+₱ 11,040,090.09
+
+₱8,384,946.05
+
+₱48,852,925.67
+
+
+
+₱ 71,564,227.98
+
+
+
+5.4	As shown above, a huge part of the Accounts Receivable has been long outstanding in the books for five years and more.  Inquiry with the Accounting Unit revealed that there were students who were able to graduate from BulSU despite their outstanding accountabilities. They admitted that it was difficult for the University to know the current whereabouts of the persons liable. According to them, there might be changes in their names as a result of marriage and due to relocation or change of residential addresses. 
+
+
+
+5.5	To our mind, the University had been negligent somehow in monitoring the receivables and the clearance system did not work effectively. Had the BulSU been vigilant in determining the outstanding payables of each student before giving them clearance to graduate or transfer to other universities, the amount could not have accumulated. 
+
+
+
+5.6	As to the uncollected rentals, the University issued demand letters to the delinquent tenants in early 2021, requiring them to immediately settle their debts/arrears.  
+
+
+
+5.7	As a result, BulSU was deprived of the income which could have been more productively used by the University in performing its mandate and improving its operations.
+
+
+
+(b) Understated Operating Lease Receivable – ₱49,780,407.21
+
+
+
+5.8	As of year-end, the Operating Lease Receivables of BulSU amounted to ₱49,780,407.21. The amount represents the receivable from the space rented by Graceland, Inc. and Golden Arches Development Corporation in the amount of ₱48,445,724.40, and ₱1,334,682.81, respectively. Aging of the Receivables is presented below:
+
+
+
+Operating Lease Receivable
+
+Amount Due
+
+Total
+
+
+
+Less than One Year
+
+Over 1 Year
+
+Over 2 Years
+
+Over 3 Years
+
+
+
+Receivable from Graceland Inc.
+
+
+
+₱21,093,000.00
+
+₱17,175,000.00
+
+₱10,177,724.40
+
+₱   48,445,724.40
+
+Receivable from Golden Arches Development, Corporation
+
+₱1,334,682.81
+
+
+
+
+
+
+
+  1,334,682.81
+
+Total
+
+₱1,334,682.81
+
+₱21,093,000.00
+
+₱ 17,175,000.00
+
+₱10,177,724.40
+
+₱   49,780,407.21
+
+
+
+5.9	We were informed that a legal case has already been filed on April 30, 2019 for the rescission of the contract with Graceland, Inc. and the collection of the above receivables for the failure of the lessee to fulfill its obligations under the Lease Agreement. Since then, BulSU did not send billing statements to the delinquent lessee. 
+
+
+
+5.10	Inquiry with Management revealed that they have sought legal assistance from the Office of the Solicitor General and followed the advice of the latter to stop sending bill payments to the delinquent lessee pending release of the final decision by the Court.
+
+
+
+5.11	Upon confirmation, we gathered that Graceland, Inc. has been continually occupying the property of BulSU without paying any rental fees since November 2016; hence, obviously prejudicial to BulSU. Consequently, BulSU was deprived of the income due thereon. 
+
+
+
+5.12	Despite the continuous occupation of Graceland, Inc. in the premises owned by the University, the monthly fees collectible from the lessee which reached to ₱7,502,984.98 for CY 2020 were not recognized in the books of the University. (Refer to Appendix C for the details.)  In effect, the Receivables and Income accounts presented in the financial statements were understated by that amount as of December 31, 2020.  
+
+
+
+5.13	Anent the receivable from the Golden Arches Development Corporation amounting to ₱1,334,682.81, we noted that corresponding payment was made in February 2021.
+
+
+
+b)	Unreconciled records of Loans Receivable- Student Financial Assistance Program (StuFAP) – ₱1,538,017.10
+
+
+
+5.14	In order to cater the financial needs of deserving students who are not covered by existing scholarships and student loan programs of the Commission on Higher Education (CHED), the Student Assistance Fund for Education for Loan (SAFE Loan) Program was launched. The guidelines for the implementation of which were embodied in CHED Memorandum Order No. 25, series of 2008.
+
+
+
+5.15	Under Section B, Rule IX, supra, the participating Higher Educational Institutions (HEIs) are given the following duties:
+
+
+
+1)	Shall establish a Student Financial Assistance (SFA) Unit to manage the disbursements of the program and undertake the operations internal to the private HEI, with the option to utilize its existing equivalent to SFA Unit for this purpose; 
+
+
+
+xxx
+
+
+
+v. 	Draw corresponding duly notarized promissory note for repayment within 2 to 5 years after graduation, duly signed by the student borrower when grant of loan is availed; 
+
+
+
+xxx
+
+
+
+viii. Maintain separate accounting records for the program that will be subjected to periodic monitoring by CHED and/or COA Audit Teams.
+
+
+
+	1)	The Office of the Student Scholarships (OSS) of BulSU was the SFA Unit of the University which handles the application and monitors the settlement of SAFE loan. Qualified loan grantees under this Program can borrow as much as ₱8,000.00 depending on individual circumstances and requirements. 
+
+
+
+5.17	The Report submitted by the OSS disclosed that a total of ₱3,840,121.00 remained unsettled by the SAFE Loan grantees. However, per Accounting records, the outstanding loans as of December 31, 2020 amounted to ₱1,538,017.10; thus, a difference of ₱2,302,103.90 appeared in the verification of the two records. This can be inferred from the lack of coordination between the two offices. 
+
+ 
+
+	2)	Inquiry with the OSS revealed that there was no update in their records starting CY 2010 since they were not furnished by the Accounting Unit of any proofs of payment or settlement made for the SAFE loan.
+
+
+
+5.19	 Further, the Audit Team observed that the BulSU has no files of duly notarized promissory notes executed by the student borrowers to guarantee the repayment of their loans. This practice is not consistent with the afore-cited CHED Memorandum. 
+
+
+
+5.20	The discrepancies in the records maintained by the two offices cast doubt on the reliability and accuracy of the reported balance of Loans Receivables as of year-end. 
+
+
+
+5.21	We recommended and management agreed to undertake the following courses of action:
+
+
+
+(a) 	Determine the whereabouts of the alumni of the University who were able to graduate despite their unsettled accountabilities and demand in writing the immediate settlement thereof; 
+
+
+
+(b)  Determine the amount due from Graceland, Inc. and record in the books; 
+
+
+
+(c)	Demand payment from Graceland, Inc. for their continuous occupation in the premises of the University; 
+
+
+
+(d)	Exert effort in collecting payments of arrearages from the delinquent stall lessees; and
+
+
+
+(e)  Instruct the Accounting Unit and the OSS to reconcile and update their records to come up with more reliable information regarding the SAFE loan program.  
+
+
+
+
+
+Unserviceable PPE – ₱6,717,470.79
+
+
+
+	6.		Various idle, obsolete and unserviceable properties with a total carrying amount of ₱6,717,470.79 as of December 31, 2020 were still carried in the books of accounts due to lack of a disposal program,  resulting in the further deterioration of the assets, thus, depriving the Agency of any benefit or financial gain that may be derived from their monetization and overstating the recorded PPE balances for failure to derecognize items of no economic value to the Agency contrary to Section 79 of Presidential Decree (P.D.) No.1445,  National Budget Circular (NBC) No. 425 dated January 28, 1992, and Section 40, Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I.
+
+
+
+6.1.	Section 79 of Presidential Decree (P.D.) No. 1445 provides that:
+
+	
+
+Destruction or sale of unserviceable property. When government property has become unserviceable for any cause, or is no longer needed, it shall, upon application of the officer accountable therefore, be inspected by the head of the agency or his duly authorized representative in the presence of the auditor concerned and, if found to be valueless or unsalable, it may be destroyed in their presence. xxx
+
+
+
+6.2.	Further, the Manual on Disposal of Government Property embodied under National Budget Circular (NBC) No. 425 dated January 28, 1992 was issued to guide agencies in their disposal undertakings. Part I (A) thereof provides, among others, that disposal occurs when a piece of equipment or property can no longer provide efficient service or, though still working, has been rendered useless due to obsolescence. 
+
+
+
+6.3.	Likewise, Section 40, Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, provides that PPE is said to be unserviceable if it is no longer capable of providing the entity with future economic benefits or service potential and shall be reported in the IIRUP for dropping from the books by debiting Impairment Loss-Property, Plant and Equipment (cost of the PPE less Accumulated Depreciation).
+
+
+
+6.4.	Based on the Summary of Unserviceable Property as of December 31, 2020, submitted by BulSU to the Audit Team, we noted that various items classified as unserviceable were still carried under the Property, Plant and Equipment (PPE) account for ₱6,717,470.79 (Appendix D). Since the operating condition of the properties had already deteriorated either thru ordinary wear and tear or constant use thereof, the same should have been segregated from the functional ones to free the PPE account from items which are actually useless and, therefore, not qualified as assets.  
+
+
+
+6.5.	For lack of an effective disposal program, the Agency failed to immediately initiate the disposal proceedings to avoid further deterioration of the property and the consequent reduction in the value thereof. Since the properties have not been disposed of yet in accordance with the afore-cited rules and regulations, the continual inclusion of the unserviceable items bloated the PPE account by the same amount. In addition, the University was deprived of the additional income that could have been obtained had these properties been sold or negotiated promptly to interested buyers.
+
+
+
+6.6.	It is worth mentioning that a systematic and timely disposal will yield benefits in terms of a higher appraised value/selling price. Needless to say, storage areas will be decongested of unnecessary items making them available for other purposes. 
+
+
+
+6.7.	We recommended and management agreed to undertake the following courses of action:
+
+
+
+a)	Conduct periodic inspection and assessment of Property, Plant and Equipment (PPE) and facilitate the immediate disposal of idle and unserviceable PPEs which are of no longer use and/or benefit to the Agency in accordance with NBC No. 425 in as much as their values tend to diminish due to the passage of time and constant exposure to elements; and
+
+
+
+b)	Instruct the Accountant to drop from the books of accounts the unserviceable PPEs following the procedures prescribed under Section 40, Chapter 10 of the GAM for NGAs, Volume I.
+
+
+
+6.8.	Management asserted that the disposal of the unserviceable property was delayed due to pandemic, although it was successfully undertaken in February 2021. 
+
+
+
+6.9.	The Accounting Unit is in the process of evaluating the summary of unserviceable properties prepared by the Property Office. 
+
+
+
+
+
+Delayed preparation/ Non- submission of bank reconciliation statements 
+
+
+
+	7.	Bank Reconciliation Statements (BRSs) were not prepared and submitted on time to the Audit Team which practice was not in conformity with Section 74 of Presidential Decree (P.D.) No. 1445 and COA Circular No. 92-125A, thus, hindering the prompt detection and adjustment of book errors/reconciling items.
+
+	
+
+	7.1.	Bank reconciliation is an accounting tool that allows an agency to compare its accounting records against the bank’s records to uncover any possible discrepancies and reflect the true balance of its Cash in Bank account as of a given period.
+
+	
+
+	7.2.	Section 74 of Presidential Decree (P.D.) No. 1445 requires that the head of the agency shall see to it that reconciliation is made between the bank and book balances of the agency.  Also, sound internal control for cash requires that bank reconciliation statements be prepared monthly to determine the accuracy of the general ledger (GL) account and its agreement with that of the depository bank. 
+
+
+
+	7.3.	Moreover, the Accountant, under COA Circular No. 92-125A, is required to prepare and submit to the Auditor the Bank Reconciliation Statement (BRS) within 15 days after the end of each month.
+
+
+
+	7.4.	BulSU maintains seven bank accounts with two authorized government depository banks (AGDBs), namely: Land Bank of the Philippines (LBP) and Development Bank of the Philippines (DBP).
+
+
+
+	7.5. 	The audit of these bank accounts revealed that the BRS were not usually submitted within the prescribed period to the Audit Team for review and verification.   Delays in the submission thereof ranged from two to eight months; and one year and five years on the other two accounts, as illustrated in the table below:
+
+	
+
+Depository Bank
+
+Bank/Account Name
+
+Cut-off Period 
+
+Date Submitted for Audit
+
+Period of Delay
+
+LBP Malolos  Branch
+
+LBP/MDS CA# 2279-9001-14
+
+January 2020
+
+September 1, 2020
+
+8 months
+
+
+
+
+
+February 2020
+
+September 1, 2020
+
+7 months
+
+
+
+
+
+March 2020
+
+September 1, 2020
+
+6 months
+
+
+
+
+
+April 2020
+
+September 1, 2020
+
+5 months
+
+
+
+
+
+May 2020
+
+September 1, 2020
+
+3 months
+
+
+
+
+
+June 2020
+
+October 23, 2020
+
+4 months
+
+
+
+
+
+July 2020
+
+October 23, 2020
+
+3 months
+
+
+
+
+
+August 2020
+
+October 23, 2020
+
+2 months
+
+
+
+
+
+September 2020
+
+January 7, 2021
+
+4 months
+
+
+
+
+
+October 2020
+
+January 7, 2021
+
+3 months
+
+
+
+
+
+November 2020
+
+January 26, 2021
+
+2 months
+
+
+
+
+
+December 2020
+
+February 5, 2021
+
+2 months
+
+LBP Malolos  Branch
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LBP/TF CHED CA# 2792-1018-63
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+January 2020
+
+August 25, 2020
+
+7 months
+
+
+
+
+
+February 2020
+
+August 25, 2020
+
+6 months
+
+
+
+
+
+March 2020
+
+August 25, 2020
+
+5 months
+
+
+
+
+
+April 2020
+
+August 25, 2020
+
+4 months
+
+
+
+
+
+May 2020
+
+August 25, 2020
+
+3 months
+
+
+
+
+
+June 2020
+
+September 18, 2020
+
+3 months
+
+
+
+
+
+July 2020
+
+November 4, 2020
+
+4 months
+
+
+
+
+
+August 2020
+
+November 4, 2020
+
+3 months
+
+
+
+
+
+September 2020
+
+January 7, 2021
+
+4 months
+
+
+
+
+
+October 2020
+
+February 3, 2021
+
+4 months
+
+
+
+
+
+November 2020
+
+February 3, 2021
+
+3 months
+
+
+
+
+
+December 2020
+
+February 23, 2021
+
+2 months
+
+LBP Malolos  Branch
+
+
+
+
+
+LBP/TF CHED SAFE 4SR CA# 2792-1031-22
+
+January 2020
+
+August 25, 2020
+
+7 months
+
+
+
+
+
+February 2020
+
+August 25, 2020
+
+6 months
+
+
+
+
+
+March 2020
+
+August 25, 2020
+
+5 months
+
+
+
+
+
+April 2020
+
+August 25, 2020
+
+4 months
+
+
+
+
+
+May 2020
+
+August 25, 2020
+
+3 months
+
+
+
+
+
+June 2020
+
+November 4, 2020
+
+5 months
+
+
+
+
+
+July 2020
+
+November 4, 2020
+
+4 months
+
+
+
+
+
+August 2020
+
+February 18, 2021
+
+6 months
+
+
+
+
+
+September 2020
+
+February 18, 2021
+
+5 months
+
+
+
+
+
+October 2020
+
+February 18, 2021
+
+4 months
+
+
+
+
+
+November 2020
+
+February 18, 2021
+
+3 months
+
+
+
+
+
+December 2020
+
+
+
+February 18, 2021
+
+2 months
+
+LBP Malolos  Branch
+
+ 
+
+LBP/TF Providential Fund CA#2792-1030-50
+
+ 
+
+January 2020
+
+August 25, 2020
+
+7 months
+
+
+
+
+
+February 2020
+
+August 25, 2020
+
+6 months
+
+
+
+
+
+March 2020
+
+August 25, 2020
+
+5 months
+
+
+
+
+
+April 2020
+
+August 25, 2020
+
+4 months
+
+
+
+
+
+May 2020
+
+August 25, 2020
+
+3 months
+
+
+
+
+
+June 2020
+
+November 4, 2020
+
+5 months
+
+
+
+
+
+July 2020
+
+November 4, 2020
+
+4 months
+
+
+
+
+
+August 2020
+
+November 4, 2020
+
+3 months
+
+
+
+
+
+September 2020
+
+January 2, 2021
+
+4 months
+
+
+
+
+
+October 2020
+
+February 3, 2021
+
+4 months
+
+
+
+
+
+November 2020
+
+February 3, 2021
+
+3 months
+
+
+
+
+
+December 2020
+
+February 18, 2021
+
+2 months
+
+LBP Malolos Branch
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LBP/SHS VP CA# 2792-1038-90
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+January 2020
+
+August 25, 2020
+
+7 months
+
+
+
+
+
+February 2020
+
+August 25, 2020
+
+6 months
+
+
+
+
+
+March 2020
+
+August 25, 2020
+
+5 months
+
+
+
+
+
+April 2020
+
+August 25, 2020
+
+4 months
+
+
+
+
+
+May 2020
+
+August 25, 2020
+
+3 months
+
+
+
+
+
+June 2020
+
+November 4, 2020
+
+5 months
+
+
+
+
+
+July 2020
+
+November 4, 2020
+
+4 months
+
+
+
+
+
+August 2020
+
+November 4, 2020
+
+3 months
+
+
+
+
+
+September 2020
+
+February 3, 2021
+
+5 months
+
+
+
+
+
+October 2020
+
+February 18, 2021
+
+4 months
+
+
+
+
+
+November 2020
+
+February 18, 2021
+
+3 months
+
+
+
+
+
+December 2020
+
+February 18, 2021
+
+2 months
+
+LBP Malolos  Branch
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LBP/TF, Regular CA# 2792-1005-22 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+January 2020
+
+May 4, 2020
+
+4 months
+
+
+
+
+
+February 2020
+
+May 10, 2020
+
+3 months
+
+
+
+
+
+March 2020
+
+June 8, 2020
+
+3 months
+
+
+
+
+
+April 2020
+
+June 8, 2020
+
+2 months
+
+
+
+
+
+May 2020
+
+February 11, 2021
+
+9 months
+
+
+
+
+
+June 2020
+
+February 11, 2021
+
+8 months
+
+
+
+
+
+July 2020
+
+February 11, 2021
+
+7 months
+
+
+
+
+
+August 2020
+
+February 11, 2021
+
+6 months
+
+
+
+
+
+September 2020
+
+February 11, 2021
+
+5 months
+
+
+
+
+
+October 2020
+
+March 4, 2021
+
+5 months
+
+
+
+
+
+November 2020
+
+March 4, 2021
+
+4 months
+
+
+
+
+
+December 2020
+
+N/A
+
+ 
+
+DBP, Malolos Branch 
+
+DBP CA# 000503445656
+
+Jan. to Dec. 2020
+
+None 
+
+ 
+
+ LBP, Malolos
+
+FA                     # 2794-0032-22 
+
+Jan. to  Dec.  2015 to 2020 
+
+None  
+
+ 
+
+	
+
+7.6.	As could be gleaned in the above table, the depository account maintained under DBP #0503445656, which is solely intended for the granting of scholarships, had no prepared/submitted BRS for the entire year 2020 although verification of the passbook presented to the Audit Team showed movements/transactions charged to that account.  
+
+ 
+
+	7.7	Moreover, the LBP Dollar Account No. CA 2794-0032-22 has no bank reconciliation prepared for the period of five years since CY 2015 even though there were payments and incoming transactions charged or added to that account.
+
+	
+
+	7.8. 	One reason for the delay according to the personnel assigned in the preparation of BRS was the late receipt of bank statements from the AGDBs.  Reportedly, time lags in the release of bank statements ranged from two to three months.  
+
+	
+
+	7.9.	Also, on the early part of October 2020, there were movements/restructuring done in the Accounting Section which added to the confusion on whose duty/responsibility will the bank reconciliation fall. It is worth mentioning that an Internal and External Section was created, which is an independent office from the main Accounting Section.   
+
+
+
+	7.10.	The failure to prepare and submit the BRS within the reasonable time prescribed by regulations delayed the detection and resolution of errors in the cash transactions of the University, thus, rendering the accuracy of the Cash in Bank balance doubtful.  Moreover, due to such inordinate delay in the submission, the statements lost their relevance and informative value necessary to agency stakeholders and decision makers. 
+
+	
+
+7.11.	We recommended and management agreed to: (a) coordinate with the officials of the depository banks for the early release of the monthly bank statements; (b) require the Accounting Department to (i) enroll the accounts of the BulSU with the respective depository banks’ websites which allow the electronic generation of statement of accounts at any point in time; and (ii) perform the timely reconciliation of bank statements and submit the reports thereon to the Audit Team within the prescribed period.
+
+
+
+7.12.	Management has coordinated with the authorized depository banks to provide the details of transactions pertaining to the Foreign Currency Savings Account of BulSU. 	
+
+Unauthorized release of cash advances to students-₱3,029,363.56. 
+
+
+
+8.	The Student Government Fund (SGF) was released to the respective elected Presidents of the Student Government through cash advances in huge amounts totaling to ₱3,029,363.56 during School Year (SY) 2019-2020. Immediate liquidation thereof was not required contrary to Section 4 of COA Circular No. 97-002 dated February 10, 1997, Section 14, Chapter 6, Volume I of the Government Accounting Manual (GAM), and Sections 4 and 93 of Presidential Decree (P.D.) No. 1445. 
+
+
+
+8.1. 	Section 3, Rule I, Implementing Rules and Regulations (IRR) of Republic Act (R.A.) No. 10931, known as the “Universal Access to Quality Tertiary Education Act of 2017” states:
+
+xxx
+
+
+
+(u) Development Fees refers to fees used to fund students’ activities, projects and programs other than those intended for general and specific student welfare and development, some of which, if applicable, are distributed by the HEI to pertinent student groups.
+
+
+
+These programs include the following:
+
+
+
+1)	Leadership trainings;
+
+2)	Off-campus experiential learning (field trips and the like);
+
+3)	Student partnerships and activities of student organizations;
+
+4)	Student publication/newsletter;
+
+5)	Life-long learning activities;
+
+6)	Spiritual, social and values programs; and 
+
+7)	Bridging/remedial programs...xxx
+
+
+
+	8.2.		Section 7, Rule II, IRR of the same R.A. states that all students availing themselves of the free higher education provision shall be entitled to the enjoyment of development fees. 
+
+
+
+8.3. 	Further, Section 53, supra, provides that The SUCs and LUCs shall bill the CHED on a semestral basis (or if applicable, trimestral) for reconciliation of the mobilization fund and additional payment – in case the mobilization fund is not enough to pay for all students who are availing of the Free Higher Education benefit.
+
+
+
+8.4. 	The billing statements sent by the BSU to CHED were based on the number of students who took the entrance exam and availed of the free tuition and other school benefits as required under Section 11, Rule 1 of R.A. No. 10931.
+
+
+
+8.5. 	The amount billed to CHED is based on the Schedule of Fees per first semester of Academic Year (AY) 2017-2018 as provided in Section 54 (c):
+
+
+
+(c) all tuition and other fees charged by the SUCs and LUCs shall not increase from the amounts used during the first semester of Academic Year 2017-2018, until such time that the system for the composite fee is implemented, or the five-year transition period has lapsed, whichever comes first.
+
+8.6. 	The BSU bills CHED in the amount of ₱28.00 for every student enrolled for the Student Government (SG) fee, classified under Development Fees, which intend to support the projects and activities of the student organizations. Such fee is based on the Schedule of Fees for AY 2017-2018. These fees are accumulated and collectively referred to as “Student Government Fund”. 
+
+
+
+8.8. 	Analysis of the utilization of the Student Government Fund for School Year (SY) 2019-2020 revealed that the same was given to the SG President, through issuance of checks, in the amount identified in its budget proposal for the semester. The Accountant averred that the amount disbursed was in the nature of a cash advance given to students subject to the liquidation of the latter. However, there was no written agreement between the two parties to govern the grant and liquidation of fund. 
+
+
+
+8.9. 	The act of granting cash advance to students is not allowed under COA Circular No. 97-002, Section 14, Chapter 6 of GAM, Volume I and Section 93 of Presidential Decree (P.D.) No. 1445. 
+
+
+
+8.10. 	Section 4, COA Circular No. 97-002, as amended by COA Circular 2006-005, provides that:
+
+			xxx
+
+
+
+4.1.4. Only permanent appointed officials shall be designated as disbursing officers. Elected officials may be granted a cash advance only for their official traveling expenses. 
+
+
+
+4.1.5. Only duly appointed or designated disbursing officers may perform disbursing functions. (Emphasis supplied.)
+
+
+
+8.11. 	The above-cited provisions are reiterated under Section 14, Chapter 6 of the GAM for NGAs, Volume I. 
+
+
+
+8.12.	Likewise, Section 93 of P.D. No. 1445 provides that Warrants chargeable to revenue or trust funds of the national government or checks drawn against the Treasury Checking Account for Agencies maintained with any government depository shall be made payable either directly to the creditor to whom the money is due or to a disbursing officer for official disbursement. (Emphasis and underscoring supplied.)
+
+	
+
+8.13. 	Review of the disbursement vouchers (DVs) on the release of SG Fund revealed that the SG Presidents were issued with individual checks totaling to ₱3,029,363.56, as detailed below:
+
+
+
+Date
+
+DV 
+
+No.
+
+Check No.
+
+Particulars
+
+Amount
+
+02/26/2019
+
+164-19-02-0265
+
+1102878
+
+Withdrawal from Student Government Fund
+
+P 697,920.76
+
+05/09/2019
+
+164-19-05-0164
+
+1103569
+
+Withdrawal from Student Government Fund 
+
+215,828.00
+
+09/10/2019
+
+164-19-09-0274
+
+1105061
+
+Withdrawal from Student Government Fund
+
+613,351.85
+
+12/19/2019
+
+164-19-11-0088
+
+1193306
+
+Withdrawal from Graduate School Student Government Fund 
+
+400,000.00
+
+12/18/2019
+
+164-19-12-0379
+
+1193885
+
+Withdrawal from Student Government Fund 
+
+432,735.00
+
+03/04/2020
+
+164-20-03-0059
+
+1194766
+
+Withdrawal of Student Government Fund 
+
+669,527.95
+
+	TOTAL
+
+₱3,029,363.56
+
+
+
+8.14. 	Scrutiny of the DVs showed that the supporting documents were limited to the SG Resolution requesting the release of fund, budget proposal, and computation of estimated fund. Other pertinent documents, specifically the authority of the students to safe keep such large amount of fund, were not evident contrary to COA Circular No. 2012-001 which provides the general requirements for all types of disbursements including “sufficient and relevant documents to establish the validity of the claim”. Moreover, Section 4 (6) of P.D. No. 1445 states that Claims against government funds shall be supported with complete documentation. With inadequate attachments, the BSU should not have permitted the release of large amounts to student leaders. 
+
+
+
+8.15. 	The budget proposal attached to the DVs merely showed a list of projects with corresponding amounts for different colleges. A detailed estimate of itemized expenses must have been required from the claimants in order to establish the necessity and reasonableness of the amount advanced. 
+
+
+
+8.16. 	Section 4, Chapter 6 of GAM for NGAS, Volume I and COA Circular No. 97-002 dated February 10, 1997, provide that only permanent appointed officials shall be designated as disbursing officers and may perform disbursing functions. This provision was clearly not observed when the BSU released large amounts of SG Fund to the SG President who, in her capacity as a student, does not qualify to be an accountable officer of government funds under the previously mentioned issuances. 
+
+
+
+8.17.	The Accountant argued that the requests made for the release of funds were supported with SG Resolution. To our mind, these Resolutions are only binding within the student organization and is not considered as an authority of SG officials to take custody of the public funds themselves. It must be emphasized that these SG Resolutions do not overrule the existing government accounting and auditing rules promulgated to safeguard public funds.  
+
+
+
+8.18. 	It may be stressed that the recipients of the SG Fund are neither permanent nor bonded employees of BSU; thus, the release of funds which ran to almost half a million per check placed government interest at immeasurable risk. As such, the accountability over those unsettled cash advances is now shifted to the BSU officials who authorized the disbursements.  
+
+
+
+8.19. 	In the first place, a regular and bonded accountable officer should have been assigned to perform the custodial and cashiering functions on behalf of the SG. 
+
+
+
+8.20. 	Although under R.A. No. 10931, students are accorded access to free higher education, the law does not intend to grant the fund directly to them for purposes of safekeeping and subsequent disbursement for programs/activities.  
+
+
+
+8.21. 	Notwithstanding the noble purpose of the Fund and the benefits to be achieved therefrom for the promotion of the general welfare of students, pertinent rules on disbursement of public funds should never be compromised and utilization of SG funds shall not undermine Section 4 (7) of P.D. No. 1445 which states that all laws and regulations applicable to financial transactions shall be faithfully adhered to. 
+
+
+
+8.22.	 In view of the foregoing, government funds were unnecessarily exposed to loss, misuse, or misappropriation. 
+
+	
+
+8.23. 	We recommended and management agreed to undertake the following remedial measures:
+
+
+
+a. 	Designate an Accountable Officer, who is a permanent employee of the University and properly bonded in accordance with the BTR Circular No. 2009-002, to handle and monitor the utilization of the SG Fund;  and stop the practice of transferring funds directly to the SG President who is not qualified to handle such accountability under existing rules and regulations; and
+
+
+
+b. 	Instruct the Accountant to (i) ensure the completeness and propriety of documents supporting the disbursements; and (ii) reconcile the bill statements sent by BSU to CHED, and the amounts actually transferred by the latter, and confirm whether the deficiency, if any, is still collectible.
+
+
+
+
+
+Grant of unauthorized leave privileges
+
+
+
+9. 	The grant of sabbatical leave with pay for rest and recreation of two faculty members for a period of one year was devoid of legal basis, hence, considered as irregular under Item 3.1 of COA Circular No. 2013-01 dated October 29, 2012.
+
+
+
+9.1.	The Board of Regent of BulSU granted sabbatical leave under Board Resolution Nos. 57 and 59, series of 2019 to two of its faculty members with the following positions:
+
+
+
+POSITION
+
+MONTHLY SALARY
+
+SABATTICAL LEAVE
+
+Associate Professor 5
+
+₱75,359.00
+
+August 13, 2019 to May 31, 2020
+
+Associate Professor 5
+
+₱76,563.00
+
+August 13, 2019 to August 12, 2020
+
+
+
+9.2. 	In the review of the Memorandum of Agreement (MOA) of the two faculty of BulSU regarding the grant of sabbatical leave for rest and recreation, we noted that the said MOA lacked legal basis as follows:
+
+
+
+a)	The grant of sabbatical leave is not embodied under existing Civil Service Commission (CSC) rules and regulations;
+
+
+
+b)	The approval of the Board of Regent cannot be considered as a legal basis absent any  law, rules and regulations granting sabbatical leave benefits;
+
+
+
+c)	Supposedly, the purpose of a sabbatical leave is to provide a leave of absence with pay for purposes of intensive study or research which has as its outcome increasing the quality of the individual’s future contribution to the University.  A sabbatical is a privilege which may be granted to an individual who has demonstrated by publication, teaching, exhibition or performance an above average ability in scholarship, research, or other creative accomplishment; and
+
+
+
+d)	Nevertheless, the actual purpose of the leave was for rest and recreation which was deemed personal and the University will not benefit from such leave; hence, the approved sabbatical leave was considered as irregular and not allowable in audit.
+
+
+
+9.3.	Section 6, Rule XVI of the Omnibus Rules on Leave, provides the following:
+
+
+
+Sec. 6. Teacher’s Leave. – Teachers shall not be entitled to the usual vacation and sick leave credits but to proportional vacation pay (PVP) of seventy (70) days of summer vacations plus fourteen (14) days of Christmas vacation. A teacher who has rendered continuous service in a school year without incurring absences without pay of not more than 1 ½ days shall be entitled to eighty-four (84) days of proportional vacation pay.
+
+
+
+9.4.	Other leave benefits of teachers such as study leave and indefinite sick leave are covered by Sections 24 and 25 of R.A. No. 4670 (Magna Carta for Public School Teachers).
+
+
+
+9.5.	Relatedly, the two Professors were duly compensated in the form of salaries during the period of their sabbatical leave in the amount of ₱715,910.50 and ₱918,756.00, respectively. 
+
+
+
+9.6.	Aside from salaries, they were accorded the full enjoyment of their Year-end Bonus for CY 2019 and Mid-year Bonus for CY 2020.
+
+
+
+9.7.	The grant of sabbatical leave with full payment of salaries and bonuses during the entire period of leave was considered as irregular and inappropriate as defined in Item 3.1 of COA Circular No. 2012-003 dated October 29, 2012, quoted as follows:
+
+
+
+The term “irregular expenditure” signifies an expenditure incurred without adhering to established rules, regulations, procedural guidelines, policies, principles or practices that have gained recognition in laws. Irregular expenditures are incurred if funds are disbursed without conforming with prescribed usages and rules of discipline. There is no observance of an established pattern, course, mode of action, behavior, or conduct in the incurrence of an irregular expenditure. A transaction conducted in a manner that deviates or departs from, or which does not comply with standards set is deemed irregular. A transaction which fails to follow or violates appropriate rules of procedure is, likewise, irregular.
+
+
+
+9.8.	We recommended that the University officials (a) strictly comply with the provisions of Rule XVI of the Omnibus Rules on Leave in the grant of leave privileges to faculty members; (b) require the refund of salaries and bonuses paid to the two faculty members who were granted sabbatical leave without reasonable basis; and (c) stop the grant of other forms of leave which are not authorized under the Civil Service Commission (CSC) Omnibus Rules on Leave or appropriate laws, if any.
+
+
+
+9.9.	Management explained that the grant of sabbatical leave was in accordance with the Revised Faculty Manual of BulSU, which was patterned after the University of the Philippines’ Manual. 
+
+
+
+Auditor’s Rejoinder:
+
+
+
+9.10. 	We did not find the explanation of Management tenable as far as the matter at hand is concerned. It is significant to note that the Revised Faculty Manual CY 2019 was not yet published when the personnel concerned were granted sabbatical leaves. Based on the previous Manual (Faculty Manual CY 2011), BSU implemented the policy on Sabbatical Leave for the exclusive purpose of scholarship pursuits; revitalization of academic competence; and contribution to the reserve knowledge of the institution. To our mind, the application of the Revised Faculty Manual CY 2019 after its publication should be prospective, rather than retroactive. 
+
+
+
+9.11. 	The reason given for upholding the Revised Manual in this particular case was that the same was patterned from U.P. which is a renowned state university. Be that as it may, and putting it in another perspective, UP and BulSU are two separate entities governed by different charters, therefore, the policy of one may not be applicable to the other or cannot take place or substitute the other. 
+
+
+
+
+
+Extravagant expenditures incurred for planning workshop activities 
+
+
+
+10. 	The conduct of a three-day planning workshop activities for the preparation of the 2021-2025 Medium Term Development Plan (MTDP) in March 2020 entailed costly accommodation for 77 participants totaling to ₱986,980.00 contrary to COA Circular No. 85-55 dated September 8, 1985 and COA Circular 2012-003 dated October 29, 2012. 
+
+ 
+
+10.1. 	COA Circular No. 85-55 dated September 8, 1985 defines “extravagant expenditure” as that incurred without restraint, judiciousness and economy. Extravagant expenditure exceeds the bounds of propriety. These expenditures are immoderate, prodigal, lavish luxurious grossly excessive and injudicious. 
+
+
+
+10.2. 	In the same light, COA Circular No. 2012-003 dated October 29, 2012 explicitly considers as extravagant the payment for rent of expensive halls or rooms in luxury hotels or restaurants used for meetings and seminars and other official functions, except when such hotels or restaurants are used for government-sponsored international conventions, meetings and the like. 
+
+
+
+10.3. 	In the audit of the disbursement voucher (DV) with Check No. 204829 dated March 3, 2020, we noted that the University expended the amount of ₱986,980.00 for planning workshop activities at Vitalis Villas in Santiago, Ilocos Sur held on March 4 to 6, 2020. Said expenditure is considered extravagant for the following reasons:
+
+			
+
+10.3.1.	As per supporting documents, the amount of ₱986,980.00 was allotted for 77 persons/participants or ₱12,817.92 per participant. The amount was over and above the authorized ceiling of ₱2,000.00 per day for each participant as prescribed under Section 3.2 of National Budget Circular (NBC) No. 563 dated April 22, 2016. 
+
+
+
+10.3.2. The activity which was participated in by officers and employees of the University was held in Region 1 when it could have been conducted in places within Region 3.
+
+
+
+10.4.	In the course of audit of the transaction, we noted documentary deficiencies as follows:
+
+
+
+10.4.1. No attendance sheet was attached to the DV which cast doubt on the correctness of the number of participants/attendees and the amount paid;
+
+
+
+10.4.2. No program of activities and proof of output from said activity;
+
+
+
+10.4.3. The bid proposals as shown below showed that the winning bidder was actually Fairfly Travel and Tours, which also offered free transportation to and from destination (Fort Ilocandia). However, the Deputy Director justified that from information gathered via internet, Fort Ilocandia had many negative reviews although no documents were presented to support the allegations.  The second lowest bidder-Thunderbird was also disregarded since Vitalis Villas, the third lowest bidder offered free two buses to transport the participants from BulSU to Vitalis Villa and vice versa. 
+
+
+
+Bidder
+
+Quotation
+
+Fairfly Travel and Tours (Fort Ilocandia)
+
+₱    796,950.00
+
+Thunderbird Pilipinas Hotels and Resort
+
+976,000.00
+
+Vitalis Villas
+
+986,980.00
+
+Hotel Luna
+
+1,382,180.00
+
+
+
+10.4.4. The quotations from these hotels were obtained before the request for quotations was posted in the PhilGEPS on February 21, 2020 as evidenced by the deadline set by the hotels/travel agency for the confirmation of the reservation; to wit:
+
+
+
+Bidder
+
+Deadline for Confirmation
+
+Vitalis Villas
+
+February 17, 2020
+
+Hotel Luna
+
+February 18, 2020
+
+
+
+10.4.5. The amount allocated for the planning workshop was ₱990,000.00 to suit the quotation of the Vitalis Villas where they intended to hold the activity.
+
+
+
+10.5.	Further, we observed that in spite of the two buses provided by the hotel, the University still utilized three vehicles, two units Starex and one Hiace van, thus, incurring additional gasoline expenses for the activity.  Also, in addition to the free meals and accommodation, the drivers were given travelling allowances; to wit:
+
+
+
+Driver
+
+Travelling Allowance
+
+Driver 1
+
+₱    3,750.00
+
+Driver 2
+
+3,300.00
+
+Driver 3
+
+3,750.00
+
+TOTAL
+
+₱ 10,800.00
+
+
+
+10.6. 	The University held its seminars and trainings outside its campuses despite having in-house training facilities.  These were considered as extravagant expenses. If these activities were done within its campus, the University could have saved much to finance other activities.
+
+
+
+10.7. 	Moreover, P.D. No. 1445 of the Government Auditing Code of the Philippines provides that government resources should be safeguarded against loss or wastage.
+
+
+
+10.8.	We recommended and management agreed to advise the University officials concerned to (a) submit to the Audit Team an explanation or justification for conducting trainings and seminars in expensive venues, together with the lacking documents for evaluation; (b) refrain from conducting seminars and trainings in expensive hotels and resorts and other high-end venues to ensure savings for other priority expenditures; and (c) exercise prudence at all times to safeguard and conserve government funds for activities that are necessary and essential to carry the Agency’s mandate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Extravagant procurement of laptops
+
+
+
+11. 	The contract for the supply of 40 units of high-end laptop amounting to ₱5,162,616.00 was offered to bidders by the University with specific preference to the brand name of the equipment as stated in the procurement documents, thus, incurring a cost difference of ₱2,042,308.40 as compared to units of the same specifications, contrary to Section 18 of Republic Act (R.A.) No. 9184 and its Revised Implementing Rules and Regulations (RIRR). Likewise, 14 units have remained idle since October 2020 because the procurement was done way ahead of the target utilization date, rendering the expenditure unnecessary pursuant to COA Circular No. 2012-003 dated October 29, 2012.    
+
+
+
+11.1.	BulSU entered into an agreement with S1 Technologies Incorporated for the delivery of laptops to be used at the Regional Development Center (RDC).  The supplier was declared as the bidder with the Lowest Calculated and Responsive Bid (LCRB) per BulSU Bids and Awards Committee (BAC) Resolution No. 2020-129 dated June 18, 2020.   
+
+
+
+11.2.	Scrutiny of the bidding documents revealed that the Technical Specifications of the project specifically identified “MacOS” as the required operating system, which obviously refers to a high-end brand, Apple. 
+
+
+
+11.3.	It is a public knowledge that MacOS is the operating system pre-installed on all Mac computers produced by Apple. Therefore, it is undeniable that the Technical Specifications made by the BulSU is tailored-fit for a particular brand which is a violation of Section 18 of Republic Act (R.A.) No. 9184; to wit:
+
+
+
+Specifications for the Procurement of Goods shall be based on relevant characteristics and/or performance requirements. Reference to brand names shall not be allowed. (emphasis supplied)
+
+
+
+11.4.	Section 18, Rule VI of the Revised Implementing Rules and Regulations (RIRR) of the Act clearly elucidates:
+
+
+
+Specifications for the procurement of Goods shall be based on relevant characteristics, functionality and/or performance requirements. Reference to brand names shall not be allowed except for items or parts that are compatible with the existing fleet or equipment of the same make and brand, and to maintain the performance, functionality and useful life of the equipment.
+
+
+
+11.5.	Further, the procurement of high-end laptops falls within the definition of “Extravagant” expenditure under COA Circular No. 2012-003 dated October 29, 2012; viz:
+
+
+
+The term “extravagant expenditure” signifies those incurred without restraint, judiciousness and economy. Extravagant expenditures exceed the bounds of propriety. These expenditures are immoderate, prodigal, lavish, luxurious, grossly excessive and injudicious.
+
+
+
+11.6.	“Unnecessary” Expenditure is likewise defined under Item 4.1, supra, to wit:
+
+
+
+The term pertains to expenditures which could not pass the test of prudence or the diligence of a good father of a family, thereby denoting non-responsiveness to the exigencies of the service. Unnecessary expenditures are those not supportive of the implementation of the objectives and mission of the agency relative to the nature of its operation. This would also include incurrence of expenditure not dictated by the demand of government and those utility of which cannot be ascertained at a specific time. xxx
+
+
+
+11.7.	When compared to non-Apple laptops available in the market, the Macbook Pro 16 acquired by the BulSU at the cost of ₱129,065.40 per unit was relatively higher. As shown in Appendix E, the unit cost of laptops with almost similar specifications ranges from ₱78,007.69 to ₱112,990.00.
+
+
+
+11.8.	Had the University purchased units with similar specifications at a cheaper price, cost savings of ₱16,075.40 to ₱51,057.71 per unit, or a total of ₱643,016.00 to ₱2,042,308.40 could have been generated as savings from the procurement.
+
+
+
+11.9.	The subject laptops were received by BulSU on October 16, 2020 and a one-year warranty from then on was provided by S1 Technologies per Warranty Certificate issued by their Account Manager.
+
+ 
+
+11.10.	Based on the List of Personnel submitted by the end-user office, 16 sets of Macbook Pro laptops were issued to different personnel of BulSU for research purposes. Since the laptops were only intended for research purposes, the necessity of high-end and extravagant laptops cannot be established.
+
+  
+
+11.11.	As of this writing, 14 sets of laptops remained unutilized and stocked in one of the buildings in the University. We were informed that the RDC where the laptops shall be installed has not yet been completed as of year-end. Per Status of Infrastructure submitted by the Project and Management Office, the building was only at 65% completion as of December 31, 2020. Unavoidably, the warranty runs despite the non-usage of the laptops. 
+
+
+
+11.12.	Since there was no actual need yet of the 14 units in CY 2020, the procurement is considered unnecessary at that time pursuant to COA Circular No. 2012-003 dated October 29, 2012. 
+
+
+
+11.13.	Had there been proper coordination among the offices involved in the planning and procurement, excessive pricing of the equipment due to tailor-fitting could have been avoided. Likewise, the University may suffer from possible wastage of funds since the 14 sets of equipment were idle for a considerable period of time and, thus, exposed to ordinary wear and tear.
+
+
+
+11.14.	In view of the foregoing, we recommended and management agreed to (a) render a written explanation for the deviations made from the basic regulations in government procurement; and (b) justify in writing the acquisition of the computer units in CY 2020 when there was no specific need for them yet, and the reason for acquiring high-end equipment.  
+
+
+
+
+
+Unliquidated Cash Advances
+
+
+
+12. 	Cash advances totaling to ₱2,836,224.58 remained unliquidated as of December 31, 2020 which resulted to delayed recognition of assets/expenses that were paid out of said advances and exposed the unused portion to possible risk of loss or misappropriation. Moreover, additional cash advances were drawn despite the non-liquidation of the previous accountabilities by the accountable officers concerned contrary to Presidential Decree (P.D.) No. 1445, COA Circular No. 97-002 dated February 10, 1997, COA Circular No. 2012-001 dated June 14, 2012 and Section 14 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I. 
+
+
+
+12.1.	Section 89 of Presidential Decree (P.D.) No. 1445 provides the limitations on cash advances; viz:
+
+
+
+No cash advance shall be given unless for a legally authorized specific purpose. A cash advance shall be reported on and liquidated as soon as the purpose for which it was given has been served. No additional cash advance shall be allowed to any official or employee unless the previous cash given to him is settled or a proper accounting thereof is made.
+
+
+
+12.2.	Likewise, pertinent provisions of COA Circular No. 97-002 dated February 10, 1997 are hereby cited:
+
+
+
+4.1.2. No additional cash advance shall be allowed to any official or employee unless the previous cash advance given to him is first settled or a proper accounting hereof is made. 
+
+
+
+4.1.3. A cash advance shall be reported on as soon as the purpose for which it was given has been served. 
+
+xxx
+
+
+
+5.7. When a cash advance is no longer needed or has not been used for a period of two (2) months, it must be returned to or refunded immediately to the collecting officer. 
+
+
+
+5.8. All cash advances shall be fully liquidated at the end of each year. Except for petty cash fund, the AO shall refund any unexpended balance to the Cashier/Collecting Officer who will issue the necessary official receipt. (Emphasis supplied.)
+
+
+
+12.3.	Review of the financial documents showed that BulSU had unliquidated cash advances of ₱2,836,224.58 as of year-end, detailed as follows:
+
+
+
+Other Current Assets
+
+Amount
+
+Advances for Payroll 
+
+   ₱ 2,749,436.96
+
+Advances to Special Disbursing Officer
+
+86,787.62
+
+Total Other Current Assets 
+
+   ₱ 2,836,224.58
+
+
+
+12.4.	The unliquidated cash advances of Special Disbursing Officers (SDOs) amounting to ₱86,787.62 remained unsettled for 21 to 41 days. 
+
+
+
+12.5. 	Based on the Status of Unliquidated Cash Advances as of December 31, 2020 submitted by the Accounting Unit, the unsettled cash advances of the University Cashier for payrolls amounted to ₱2,131,459.00 sourced from the General Fund and ₱617,977.96 from the Income Fund, or a total of ₱2,749,436.96, as itemized below:
+
+
+
+Date of Grant
+
+ADA/ Check No.
+
+Particulars
+
+Amount
+
+General Fund (101)
+
+11/20/2020
+
+9920111098
+
+Cash Advance for Scholarship Grant of GADC for 2nd Semester 2019-2020
+
+₱ 1,215,000.00
+
+11/23/2020
+
+9920100996
+
+Cash Advance of BulSU for six Colleges and Sarmiento, Hagonoy Campuses for Extension Services Capsule 
+
+591,209.00
+
+12/01/2020
+
+9920121144
+
+Cash Advance for Honoraria of Speakers on November 25-26, 2020
+
+16,750.00
+
+12/03/2020
+
+9920121148
+
+Cash Advance -Cash Prize for   GADC 
+
+11,000.00
+
+12/03/020
+
+9920121149
+
+Cash Advance -Cash Prize for GADC
+
+12,500.00
+
+12/10/2020
+
+9920121190
+
+Cash Advance for Scholarship Grant GADC 2nd Semester 
+
+285,000.00
+
+Sub-total
+
+ 2,131,459.00
+
+Income Fund (164)
+
+10/28/2020
+
+1195816
+
+Cash Advance for BulSU’s 14 Colleges re: expenses for Sambalaran Camp Project “Bayanihan para sa Ligtas na Lipunan”
+
+350,000.00
+
+11/17/2020
+
+1195978
+
+Cash Advance for payment of internet allowance of faculty member for 1st Semester 2020-2021
+
+10,800.00
+
+11/18/2020
+
+1196000
+
+Cash Advance for payment of other professional services of faculty members for October 19-31, 2020
+
+46,903.96
+
+11/19/2020
+
+1196015
+
+Cash Advance for Scholarship of Luisito Carlos for 2nd Semester SY 2019-2020
+
+10,000.00
+
+12/03/2020
+
+1196107
+
+Cash Advance for Allowance of Cultural 
+
+30,000.00
+
+12/03/2020
+
+1196110
+
+Cash Advance for Tuition Fee and Miscellaneous 
+
+14,874.00
+
+12/11/2020
+
+1196177
+
+Cash Advance for payment of internet allowance of faculty member for 1st Semester 2020-2021
+
+5,400.00
+
+12/17/2020
+
+1196208
+
+Cash Advance for Scholarship Grant of Mr. Henry Sy 
+
+50,000.00
+
+12/17/2020
+
+1196209
+
+Cash Advance for Scholarship Grant of Mr. Henry Sy 
+
+50,000.00
+
+12/17/2020
+
+1196210
+
+Cash Advance for Scholarship Grant of Mr. Henry Sy 
+
+50,000.00
+
+Subtotal
+
+617,977.96
+
+Grand Total
+
+₱ 2,749,436.96   
+
+
+
+12.6.	Similar to the prior year’s observation, we noted that the additional cash advances were continuously granted to the University Cashier, in his capacity as AO, despite his failure to fully settle the cash advances previously granted to him. 
+
+
+
+12.7.	The non-liquidation of cash advances at the end of the year resulted in the delay in the recognition of assets/expenses that were paid out of the cash advances and exposed the accumulated amount in the hands of the AO to risk of loss or misappropriation of the unexpended balance. 
+
+
+
+12.8.	Civil Service Commission (CSC) Resolution No. 1900929 issued on August 13, 2019 prescribes the revised guidelines on the settlement of cash advances and penalty to be imposed for failure of an accountable officer to liquidate cash advance within the prescribed period. AOs proven to be negligent to fully settle their accountabilities after formal demand by the auditor may face suspension and penalty of dismissal. 
+
+
+
+12.9. 	Time and again, we have reminded the University to strictly comply with the COA rules prescribed for the grant, utilization and liquidation of cash advances; however, this year’s practice showed that management failed to give appropriate action on this matter. 
+
+12.10. 	In view of the foregoing, we recommended that management undertake the following courses of action:
+
+
+
+a)	Demand settlement from all officials and employees with outstanding cash advance and refund any unutilized amount; and 
+
+
+
+b)	Refrain from authorizing additional cash advances to AOs unless the previous grants are fully liquidated.
+
+
+
+12.11. Management asserted that it is impractical for the University Cashier to liquidate first before granting additional cash advance since most of its stakeholders are students and that liquidation of cash advances did not go beyond the two-month reglementary period. 
+
+
+
+Auditor’s rejoinder:
+
+
+
+12.12. We disagreed with the view of the University that it is impractical to require liquidation from the students because of the short duration of the activities funded by the cash advances. When it comes to the implementation of laws established for good governance, “practicality” has no room for its application. The existing laws will not adjust to specific circumstances and needs of BulSU. Regardless of the condition of the stakeholders, Section 4 (7) of P.D. No. 1445 is clear that all laws and regulations applicable to financial transactions shall be adhered to. 
+
+
+
+
+
+Non-imposition of liquidated damages on delayed infrastructure projects 
+
+13. 	BulSU failed to impose against erring contractors liquidated damages calculated at ₱10,431,380.13 and adopt other remedial measures to protect its interest on overly delayed completion of three infrastructure projects of the University contrary to the contract terms and Annex E of the Revised Implementing Rules and Regulations (RIRR) of Republic Act (R.A.) No. 9184. 
+
+
+
+13.1.	Item 8.5, Annex E of the RIRR of R.A. No. 9184 provides that:
+
+
+
+	In no case however, shall the total sum of the liquidated damages exceed ten percent (10%) of the total contract price, in which event the contract shall automatically be taken over by the procuring entity concerned or award the same to a qualified contractor through negotiation and the erring contractor’s performance security shall be forfeited. The amount of the forfeited performance shall be aside from the amount of the liquidated damages that the contractor shall pay the government under the provisions of this clause and impose other appropriate sanctions.
+
+
+
+13.2. Records showed that the BulSU entered into contract agreements with three contractors for various infrastructure projects of the University, as tabulated below:
+
+
+
+Name of Project
+
+No. of days delayed
+
+Calculated liquidated damages
+
+Proposed Two-Storey Supply and Storage Warehouse 
+
+180 
+
+₱   8,492,821.87
+
+Construction of Additional Classrooms 
+
+173 
+
+1,893,478.14
+
+Renovation of Meneses Faculty Office
+
+17 
+
+45,080.12
+
+TOTAL 
+
+17 to 180  calendar days
+
+₱ 10,431,380.13
+
+
+
+13.3.	Review of contracts of the identified projects revealed that the terms and conditions included an imposition of liquidated damages computed at one percent of ten percent for each day of delay.
+
+
+
+13.4.	Verification of the status of these infrastructure projects disclosed that the contract duration of the projects had lapsed. Apparently, no request for extension was received by the University from the contractor. 
+
+
+
+13.5.	Further, two projects exceeded the 10% threshold for liquidated damages, yet management did not impose other sanctions like, for instance, forfeiture of performance security to protect the interest of the government. 
+
+
+
+13.6. 	We recommended and management agreed to (a) cause the immediate submission of the requests for extension for the projects, if there are any, and the approval of the University President on the matter. If there are none, render an explanation for not exercising the Agency’s right for the imposition of necessary sanctions against the defaulting contractors and adoption of other remedial actions pursuant to Annex E of the RIRR of R.A. No. 9184; and (b) impose the payment of liquidated damages deductible from the subsequent unclaimed progress billings of the contractor and consider the forfeiture of its performance security to protect the interest of the government. 
+
+
+
+
+
+Irregular purchase of rice 
+
+
+
+14.	The acquisition of 400 sacks of rice amounting to ₱368,000.00 thru emergency purchase for the project “Suhay-Buhay: Alay sa Iyo, Kabulsu” was considered as an irregular expenditure under Item 3.1 of COA Circular No. 2012-003 dated October 29, 2012.
+
+
+
+14.1.	Per DV No. 200500-10, ADA No. 01101101-05-0460-2020 dated May 8, 2002, the University purchased 400 bags (25 kilos) of rice amounting to ₱368,000.00 from Romared Ricemill Corporation for the GADC Project “Suhay Buhay” as an assistance to BulSUans during the Enhanced Community Quarantine (ECQ). 
+
+
+
+14.2.	However, we noted the following deficiencies during the audit of the transaction: 
+
+14.2.1. The project was not included in the University’s approved GAD Plan;
+
+
+
+14.2.2. The purchase of 400 bags of rice was pursued with no specific recipients.  As a proof, only 96 were disposed of as of this writing while a total of 304 bags were still on hand and at the risk of being rotten since the same were delivered on May 20, 2020 or almost six months ago; 
+
+
+
+14.2.3.	There were no written criteria for the project recipients or beneficiaries.  The recipients were either regular employees, job order personnel and part-time instructors with salary as high as ₱43,687.00. Giving a bag of rice to these regular employees was tantamount to the grant of additional benefits which was not approved by either the DBM or the Office of the President. Moreover, the job order personnel and part time instructors have no employee and employer relationship with the University, hence, not entitled to benefits enjoyed by the regular employees; 
+
+
+
+14.2.4. We are also of the opinion that the extension of full compensation to all regular employees, job orders, part time instructors and contractual during the period of ECQ, in spite of not reporting for work, is more than enough assistance to them; and
+
+
+
+14.2.5. Lastly, the DV was not duly supported with proof of receipt of the beneficiaries. The Audit Team was only provided with a photocopy instead of the original copy of the list of recipients upon request.  This practice was in violation of Section 4(6) of P.D. No. 1445 which requires that claims against government funds shall be supported with complete documentation.
+
+
+
+14.3. 	Furthermore, unlike the local government agency, the University has no Disaster Risk Reduction and Management Fund (DRRMF) which it can use to provide assistance to its constituents during this pandemic.
+
+
+
+14.4. 	As such, the grant of rice assistance to the University staff and faculty was considered an irregular expenditure as defined in Item 3.1 of COA Circular No. 2012-003 dated October 29, 2012 which is quoted as follows:
+
+
+
+		The term “irregular expenditure” signifies an expenditure incurred without adhering to established rules, regulations, procedural guidelines, policies, principles or practices that have gained recognition in laws. Irregular expenditures are incurred if funds are disbursed without conforming with prescribed usages and rules of discipline. There is no observance of an established pattern, course, mode of action, behavior, or conduct in the incurrence of an irregular expenditure. A transaction conducted in a manner that deviates or departs from, or which does not comply with standards set is deemed irregular. A transaction which fails to follow or violates appropriate rules of procedure is, likewise, irregular.
+
+	
+
+	14.5    We recommended that (a) the University President and the GAD Focal Person  submit to the Audit Team a written explanation to justify the approval of the disbursement and the criteria for determining the recipients of the rice assistance; (b) require the recipients to make a refund equivalent to the cost per bag of rice;  (c) hold the approving officials responsible for the cost of rice not disposed/distributed; and  (d) exercise due prudence to preserve and safeguard government funds at all times.
+
+	
+
+
+
+Excessive communication expenses
+
+
+
+15. 	Excessive communication expenses amounting to ₱39,138.01 were claimed by the Board Secretary of the BulSU contrary to the University’s Board of Regents Resolution No. 13, s. 2010, COA Circular No. 2012-003 dated October 29, 2012 and Section 4 of Presidential Decree (P.D.) No. 1445. 
+
+
+
+15.1. 	BulSU Board of Regents (BoR) Resolution No. 13, series of 2010 approved the monthly cellphone allowance of the Board Secretary at a minimum amount of ₱500.00 but not exceeding ₱1,000.00. 
+
+
+
+15.2. 	In the review of the covering disbursement vouchers (DVs) for calendar year 2020, we noted that the Board Secretary claimed monthly cellphone allowances for two subscription plans with Globe Telecommunications Company under Account Nos. 61482384 and 1062906772, detailed as follows:
+
+
+
+Account Number 61482384
+
+Date
+
+DV No.
+
+ADA No.
+
+Particulars
+
+Amount
+
+03/03/2020
+
+20030014
+
+9920030284
+
+Reimbursement of telephone bill (Globe) Billing Period  January 13, 2020 to February 12, 2020
+
+      ₱ 991.25 
+
+16/06/2020
+
+20060078
+
+9920060534
+
+Reimbursement of telephone bill (Globe) Billing Period  February 13, 2020 to March 12, 2020; March 13, 2020 to Apr 12, 2020; April 13, 2020 to May 12, 2020; 
+
+     2,712.42 
+
+02/07/2020
+
+20070015
+
+9920070614
+
+Reimbursement of telephone bill (Globe) Billing Period  May 13, 2020 to June 12, 2020
+
+        949.00 
+
+30/07/2020
+
+20070179
+
+9920070717
+
+Reimbursement of telephone bill (Globe) Billing Period  June 13, 2020 to July 12, 2020
+
+        988.00 
+
+02/09/2020
+
+20080105
+
+9920090793
+
+Reimbursement of telephone bill (Globe) Billing Period  July 13, 2020 to Aug 12, 2020
+
+        933.00 
+
+10/05/2020
+
+20090125
+
+9920100918
+
+Reimbursement of telephone bill (Globe) Billing Period August 13, 2020 to September 12, 2020
+
+        827.53 
+
+04/11/2020
+
+20100125
+
+9920111025
+
+Reimbursement of telephone bill for September to October 2020 Billing Period September 13, 2020 to October 12, 2020
+
+        843.01 
+
+03/12/2020
+
+20120007
+
+9920121141
+
+Payment of telephone bill Billing Period October 13, 2020 to November 12, 2020
+
+        820.51 
+
+12/29/2020
+
+20120143
+
+9920121290
+
+Reimbursement of telephone bill (Globe)  Billing Period November 13, 2020 to December 12, 2020
+
+     1,000.00 
+
+
+
+
+
+
+
+Total 
+
+₱10,064.72
+
+
+
+Account Number 1062906772
+
+Date
+
+DV No. 
+
+ADA No. 
+
+Particulars 
+
+Amount
+
+09/10/2020
+
+20090043
+
+1195442
+
+Reimbursement of Broadband Subscription (Globe) Billing Period January 13, 2020 to August 12, 2020
+
+    ₱ 3,249.00 
+
+
+
+
+
+
+
+
+
+     3,249.00 
+
+
+
+
+
+
+
+
+
+     4,749.00 
+
+
+
+
+
+
+
+
+
+   11,247.01 
+
+
+
+
+
+
+
+
+
+     3,648.00 
+
+10/05/2020
+
+20090126
+
+9920100919
+
+Reimbursement of Broadband Subscription (Globe) Billing Period August 13, 2020 to September 12, 2020
+
+     3,249.00 
+
+10/30/2020
+
+20100140
+
+1195873
+
+Reimbursement of Broadband Subscription (Globe) Billing Period September 13, 2020 to October 12, 2020
+
+     3,249.00 
+
+12/29/2020
+
+20120144
+
+9920121289
+
+Reimbursement of Broadband Subscription (Globe) Billing Period November 13, 2020 to December 12, 2020
+
+     3,249.00 
+
+12/01/2020
+
+20120009
+
+1196097
+
+Reimbursement of Broadband Subscription (Globe) Billing Period October 13, 2020 to November 13, 2020
+
+     3,249.00 
+
+
+
+
+
+
+
+Total 
+
+₱39,138.01
+
+
+
+15.3. 	In his letter dated September 1, 2020, the Board Secretary sent his justification letter addressed to the University Accountant, which reads:
+
+
+
+This is to reiterate that Globe Telecom Account Number 61482384 in my name is where the undersigned charges the monthly communication allowance granted      through Board Resolution No. 13, series of 2010.
+
+
+
+At the same time, Globe Telecom Account Number 1062906772, also in the name of the undersigned is used for the paperless Board meeting being practiced since 2018. The monthly charges under this specific account is used for the implementation of the paperless Board meeting. This is separate account from the one used for communication allowance. (Emphasis supplied.)
+
+
+
+15.4.	Based on the above-cited Letter, the Board Secretary averred that the availment of another plan under the same telecommunication company was intended for board meetings held online. We noted, however, that the Billing Statements of the second mobile subscription with Account Number 1062906672 includes a gadget, Samsung Note 10 (Aura Black). The Monthly Recurring Fee is ₱1,799.00 and the monthly installment for the gadget is ₱1,450.00; thus, a total amount of ₱3,249.00 is being reimbursed by the Board Secretary for this plan. 
+
+
+
+15.5. 	To our mind, since the Board Secretary acquired a second mobile subscription plan for office use, he should have requested a broadband, instead of getting a plan with a gadget under his name. 
+
+
+
+15.6. 	The justification provided by the Board Secretary is deemed unacceptable considering that the Billing Statements for the second mobile subscription plan showed personal usages contrary to Section 4 (2) of P.D. No. 1445 which states that “Government funds or property shall be spent or used solely for public purposes.”
+
+		
+
+15.7. 	Taking into account further that the threshold of ₱1,000.00 as provided for under BoR Resolution No. 13, series of 2010 was exceeded, we found the claims as excessive in the purview of Section 5.1 of COA Circular No. 2012-003 dated October 29,2012, quoted as follows:	
+
+
+
+The term “excessive expenditures” signifies unreasonable expense or expenses incurred at an immoderate quantity or exorbitant price. It also includes expenses which exceed what is usual and proper, as well as expenses which are unreasonably high and beyond just measure or amount. They also include expenses in excess of reasonable limits. (Emphasis supplied.)
+
+
+
+15.8. 	In view of the foregoing, it is understood that any excess or additional claim constitutes unauthorized use of public funds and shall be for the personal account of the official concerned. 
+
+
+
+15.9. 	This matter has already been raised by the previous Audit Team with management; however, it has remained unacted upon and the Board Secretary still continued to claim mobile expenses at unusual amounts. 
+
+
+
+15.10. 	We recommended that management instruct the Board Secretary to (i) immediately refund the excess amount of ₱39,108.01; and (ii) exercise prudence in the use of government funds for communication expenses thru strict compliance with the University rules and regulations and pertinent COA issuances.  
+
+
+
+15.11.	Management commented that its Board of Regents authorized the increase of communication allowance of its Executive Committee members from ₱1,500.00 to ₱2,499.00. The amount incurred in excess of the authorized allowance was used for lobbying with government officials for possible matters that will benefit the BulSU community. 
+
+
+
+Auditor’s rejoinder:
+
+
+
+15.12.	The Audit Team maintains its stand that the authorized limit for communication allowance shall be observed and any excess thereof shall be shouldered by the officials concerned. 
+
+
+
+
+
+Gender and Development (GAD)
+
+
+
+16.	BulSU allocated ₱64,840,266.84 or 6.19 percent of the ₱1,046,783,700.00 appropriations of the agency for the implementation of its Gender and Development (GAD) plans and activities pursuant to Section 31, General Provisions of the General Appropriations Act for FY 2020. 	
+
+
+
+
+
+
+
+16.1.	Pursuant to FY 2020 GAA, all government agencies are mandated to formulate GAD Plan and Budget (GPB) within the context of their mandate. Section 31, General Provisions of the said GAA provides that GAD Plan shall be integrated in the regular activities of the agencies which shall be at least five percent of their respective budget. 
+
+
+
+16.2.	Verification of BulSU’s compliance in the preparation of the GPB showed that for CY 2020, the Agency had a total budget of ₱64,840,266.84 or 6.19 percent of the total appropriations of ₱1,046,783,700.00.
+
+
+
+16.3.	Records showed that BulSU incurred a total of ₱92,693,672.09 for GAD-related activities. 
+
+
+
+16.4. 	The GAD-related activities and accomplishments of BulSU are presented in Appendix F. 
+
+
+
+16.5.	We commended the management on its accomplishments and recommended that the GAD Focal Point Person (GFPP) be directed to continue providing the required budget allocation for the GAD Plan, taking into consideration the regular activities of BulSU that can be attributed to GAD to attain gender responsiveness.
+
+
+
+
+
+Poor performance in Licensure Examinations
+
+
+
+17.	Despite the impressive performance of the Bulacan State University (BulSU) in majority of the Licensure Examinations, there were programs which manifested declining University Passing Rates (UPRs) for the last five years, specifically in the programs of Architecture, Landscape Architecture, Guidance Counseling, and Secondary Education. The Bustos Campus of the University significantly showed poor performance in the licensure examinations for Secondary Education which raised alarm on the capability of the BulSU in producing professionals in the field of education. Moreover, BulSU failed to obtain a Center of Excellence and/or Center of Development status from the Commission on Higher Education (CHED) for any of its programs, thus, casting doubt on the performance of the University performance in the areas of instruction, research and publication, extension and linkages and institutional qualifications.
+
+
+
+17.1.	By virtue of Republic Act (R.A.) No. 7665, the former Bulacan College of Arts and Trades (BCAT) was converted to Bulacan State University (BulSU) on December 30, 1993. Under Section 2 of its charter, BulSU is mandated to provide higher professional, technical, and special instructions for special purposes and promote research and extension services, advanced and progressive leadership in agriculture, commerce, education, fishery, forestry, engineering, arts and sciences, law, medicine, public administration, technical and other fields, as may be relevant. 
+
+
+
+17.2.	In order to determine the current status of State Universities and Colleges (SUCs) and to level the playing field with private higher educational institutions (HEIs) in the Philippines, the Department of Budget and Management (DBM) and Commission on Higher Education (CHED) Joint Circular (JC) No. 1, series of 2016, dated April 13, 2016 providing the levelling instrument for state universities and colleges, which aims to categorize different types of institutions from Level I to Level V, with the latter being the highest, in terms of institutional performance. 
+
+
+
+17.3.	The levelling criteria in the above-mentioned JC includes the performance in the licensure/board examination as an indicator of quality and relevance of instruction, one of the Key Results Areas (KRAs).  Per CHED Memorandum Order (M.O.) No. 9, series of 2019, BulSU was ranked as SUC on a Level III status. 
+
+
+
+17.4.	The Audit Team conducted a review of the performance of the University graduates in the professional licensure examinations of 14 curricular programs for the five-year period covering 2016 to 2020. Most of the University Passing Rates (UPRs) obtained by BulSU are higher than the National Passing Rates (NPRs). Details are tabulated below:
+
+
+
+Program
+
+Date of Examination
+
+2016
+
+2017
+
+2018
+
+2019
+
+
+
+
+
+UPR
+
+NPR
+
+UPR
+
+NPR
+
+UPR
+
+NPR
+
+UPR
+
+NPR
+
+1
+
+Architecture
+
+1st semester
+
+39.58%
+
+55.66%
+
+56.1%
+
+57.62%
+
+57.58%
+
+57.6%
+
+53.13%
+
+56.28%
+
+
+
+
+
+2nd semester
+
+45.33%
+
+55.89%
+
+54.84%
+
+55.62%
+
+67.86%
+
+55.96%
+
+78.67%
+
+66.33%
+
+2
+
+Accountancy
+
+1st semester
+
+80.00%
+
+42.91%
+
+38.46%
+
+35.14%
+
+53.85%
+
+28.92%
+
+39.29%
+
+16.47%
+
+
+
+
+
+2nd semester
+
+51.22%
+
+36.48%
+
+50.00%
+
+30.45%
+
+39.44%
+
+25.19%
+
+23.33%
+
+14.32%
+
+3
+
+Civil Engineer
+
+1st semester
+
+36.36%
+
+38.17%
+
+30.65%
+
+35.92%
+
+31.03%
+
+36.03%
+
+42.68%
+
+38.25%
+
+
+
+
+
+2nd semester
+
+50.00%
+
+45.9%
+
+66.17%
+
+48.81%
+
+63.64%
+
+45.11%
+
+66.33%
+
+43.18%
+
+4
+
+Criminologist
+
+3rd quarter
+
+18.18%
+
+23.9%
+
+25.00%
+
+24.99%
+
+63.98%
+
+35.68%
+
+60.98%
+
+44.11%
+
+
+
+
+
+4th quarter
+
+61.79%
+
+31.36%
+
+63.98%
+
+35.68%
+
+40.35%
+
+33.38%
+
+35.00%
+
+38.47%
+
+5
+
+Electrical Engineer
+
+1st semester
+
+44.44%
+
+41.29%
+
+36.17%
+
+44.92%
+
+75%
+
+52.12%
+
+54.05%
+
+62.79%
+
+
+
+
+
+2nd semester
+
+82.65%
+
+68.46%
+
+74.44%
+
+62.94%
+
+76.67%
+
+66.74%
+
+84.56%
+
+67.16%
+
+6
+
+Electronics Engineer
+
+1st semester
+
+52.46%
+
+36.95%
+
+38.89%
+
+41.27%
+
+48.98%
+
+45.36%
+
+58.76%
+
+48.92%
+
+
+
+
+
+2nd semester
+
+49.75%
+
+40.36%
+
+51.87%
+
+49.72%
+
+57.92%
+
+49.49%
+
+60.09%
+
+49.43%
+
+7
+
+Guidance Counselor
+
+2nd semester
+
+50.00%
+
+61.28%
+
+50.00%
+
+65.14%
+
+42.86%
+
+65.6%
+
+0.00%
+
+62.45%
+
+8
+
+Landscape Architect
+
+1st semester
+
+32.14%
+
+69.86%
+
+ 26.32%
+
+52.11%
+
+25.00%
+
+46.51%
+
+69.05%
+
+54.67%
+
+9
+
+Librarian
+
+2nd semester
+
+71.11%
+
+64.74%
+
+73.47%
+
+60.29%
+
+48.44%
+
+49.00%
+
+50.77%
+
+55.18%
+
+10
+
+Mechanical Engineer
+
+1st semester
+
+44.44%
+
+55.32%
+
+43.48%
+
+56.88%
+
+53.33%
+
+47.05%
+
+60.87%
+
+50.49%
+
+
+
+
+
+2nd semester
+
+84.38%
+
+69.57%
+
+77.59%
+
+69.01%
+
+81.25%
+
+60.82%
+
+90.07%
+
+70.65%
+
+11
+
+Nursing
+
+3rd quarter
+
+67.8%
+
+43.60%
+
+0.00%
+
+34.74%
+
+76.92%
+
+43.82%
+
+64.00%
+
+52.2%
+
+
+
+
+
+4th quarter
+
+69.7%
+
+47.73%
+
+76.06%
+
+45.65%
+
+76.06%
+
+45.65%
+
+80.21%
+
+55.2%
+
+12
+
+Psychometrician
+
+ 2nd semester
+
+47.89%
+
+50.46%
+
+57.23%
+
+56.97%
+
+66.67%
+
+54.46%
+
+58.41%
+
+63.73%
+
+13
+
+Bachelor of Elementary Education 
+
+1st semester
+
+41.64%
+
+30.18%
+
+20.28%
+
+10.39%
+
+33.67%
+
+23.62%
+
+41.56%
+
+27.29%
+
+
+
+
+
+2nd semester
+
+40.64%
+
+28.39%
+
+31.05%
+
+26.33%
+
+33.69%
+
+20.29%
+
+34.52%
+
+31.34%
+
+14
+
+Bachelor of Secondary Education
+
+1st semester
+
+34.54%
+
+34.43%
+
+26.39%
+
+25.46%
+
+37.92%
+
+29.91%
+
+29.84%
+
+25.95%
+
+
+
+
+
+2nd semester
+
+30.85%
+
+33.78%
+
+45.59%
+
+46.37%
+
+48.92%
+
+48.03%
+
+34.60%
+
+39.69%
+
+Note: Due to government-imposed restrictions and other unforeseeable circumstances due to community quarantine all over the country, the conduct of the licensure examinations from March to December 2020 were postponed; thus, only two licensure examinations; namely, Architects and Mechanical Engineers were taken by the University graduates for A.Y. 2020. 
+
+
+
+17.5.	It can be gleaned from the data above that most of the licensure examinations undertaken by BulSU had UPRs higher than the NPRs, which can be attributed to the quality education and training provided by the specific Colleges of the University under the supervision of the respective Deans and, of course, by the University President. 
+
+
+
+17.6.	It is also worth mentioning that the University produced topnotchers from various programs as enumerated below:
+
+
+
+Name
+
+Program
+
+Period of Examination
+
+Rank
+
+Genesis Ermitaño
+
+Electrical Engineer
+
+September 2016
+
+5th
+
+Kathrine Del Rosario
+
+Civil Engineer
+
+November 2016
+
+8th
+
+Judy Ann Larin
+
+Architecture
+
+June 2017
+
+3rd
+
+Mark Vincent Lizarondo
+
+Electrical Engineer
+
+September 2017
+
+8th
+
+Paolo Maningas
+
+Mechanical Engineer
+
+September 2017
+
+8th
+
+Jireh Boy Albania
+
+Psychometrician
+
+November 2017
+
+7th
+
+Clemuel Bagay Cruz
+
+Psychometrician
+
+November 2017
+
+8th
+
+Wilbert Guinto Hernandez
+
+Civil Engineer
+
+November 2017
+
+7th
+
+Gerald Marquez Barrientos
+
+Criminology
+
+January 2018
+
+5th
+
+Carlo Bautista
+
+Electronics Engineer
+
+April 2018
+
+7th
+
+Jethro Mariano Sayo
+
+Mechanical Engineer
+
+August 2018
+
+4th
+
+Billy Alcantara
+
+Mechanical Engineer
+
+August 2018
+
+5th
+
+Franchesca Ramirez
+
+Librarian
+
+October 2018
+
+5th
+
+John Cleo Talavero
+
+Electronics Engineer
+
+October 2018
+
+7th
+
+Christine Irlandez
+
+Psychometrician
+
+October 2018
+
+10th
+
+Louis Sison
+
+Secondary Education
+
+September 2018
+
+6th
+
+Bien Emerson Victoria
+
+Mechanical Engineer
+
+August 2019
+
+10th 
+
+Jose Delos Santos
+
+Electrical Engineer
+
+August 2019
+
+6th
+
+Renz Delos Santos
+
+Electrical Engineer
+
+August 2019
+
+6th
+
+Karlo Avendaño
+
+Electrical Engineer
+
+August 2019
+
+8th
+
+Eli Carisma
+
+Electronics Engineer
+
+October 2019
+
+9th
+
+
+
+17.7.	The performance of the University in the licensure examinations for Architecture, Landscape Architecture, Guidance Counseling, and Secondary Education for the same period showed a lower UPR as compared to the NPR as illustrated in the graphs below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17.8.	Three out of the four programs presented above; namely: Landscape Architecture, Guidance Counselor and Secondary Education showed declining UPRs over the years which might affect the overall performance of the University, specifically in the SUC levelling status of BulSU, in which one of the indicators is the performance in licensure examinations. 
+
+  
+
+17.9.	In the review of the performance of the extension campuses of the University, the Audit Team noted that through the years, the Bustos Campus failed to obtain a UPR higher than the NPR for the licensure examinations for teachers, both for elementary and secondary education, as summarized below:
+
+
+
+Data for Bustos Campus
+
+Program
+
+Period of Examination
+
+2016
+
+2017
+
+2018
+
+2019
+
+
+
+
+
+UPR
+
+NPR
+
+UPR
+
+NPR
+
+UPR
+
+NPR
+
+UPR
+
+NPR
+
+1
+
+Bachelor of Elementary Education
+
+1st semester
+
+28.18%
+
+28.39%
+
+9.09%
+
+10.39%
+
+29.21%
+
+23.62%
+
+26.13%
+
+27.29%
+
+
+
+
+
+2nd semester 
+
+23.11%
+
+30.18%
+
+23.30%
+
+46.37%
+
+18.29%
+
+20.29%
+
+21.63%
+
+31.34%
+
+Program
+
+Period of Examination
+
+2016
+
+2017
+
+2018
+
+2019
+
+
+
+
+
+UPR
+
+NPR
+
+UPR
+
+NPR
+
+UPR
+
+NPR
+
+UPR
+
+NPR
+
+2
+
+Bachelor of Secondary Education
+
+1st semester
+
+22.22%
+
+35.43%
+
+16.96%
+
+NPR
+
+UPR
+
+29.91%
+
+25.15%
+
+25.95%
+
+
+
+
+
+2nd semester 
+
+20.16%
+
+33.78%
+
+36.00%
+
+45.65%
+
+34.61%
+
+48.03%
+
+31.33%
+
+39.69%
+
+
+
+17.10.	As presented in the following charts, majority of the graduates of BulSU – Bustos Campus failed in the licensure examination for teachers taken during the years 2016 to 2019.
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17.11.	The consistent flop in the performance of the graduates of BulSU – Bustos Campus in said licensure examinations raised alarm on the capability of the Campus to produce professionals in the field of education. 
+
+
+
+17.12.	Another performance indicator in the SUC levelling instrument is the number of programs offered by the University with Center of Excellence (COE) and/or Center of Development (COD) status. 
+
+17.13.	The Center of Excellence and Development Program is provided under Section 8 (f) of R.A. No. 7722, otherwise known as the “Higher Education Act of 1994” which mandated the CHED to “identify, support and develop potential centers of excellence in program areas needed for the development of world-class scholarship, nation building and national development.” 
+
+
+
+17.14.	Center of Excellence is granted to a department within a higher educational institution, which continuously demonstrates excellent performance in the areas of instruction, research and publication, extension and linkages and institutional qualifications. On the other hand, the Center of Development status is given to those departments which demonstrate the potential to become a Center of Excellence in the future. 
+
+
+
+17.15.	Verification with the Planning Unit of BulSU disclosed that from the two cycles of SUC Levelling, from CYs 2013 to 2015 and CYs 2016 to 2018, BulSU did not obtain a score under this performance indicator because there were no programs yet with COE and/or COD status. Unfortunately, from CYs 2019 and 2020, the University received no point under this indicator for the same reason. 
+
+
+
+17.16.	Inquiry with the Office of the Vice President for Academic Affairs revealed that BulSU has been persistent in submitting its application to CHED but was not granted the desired COE or COD status in any of its program. The last application was made in the year 2019 but no response from CHED regarding its status was received from then on. 
+
+
+
+17.17.	In closing, we commend the University on its impressive performance in the licensure examinations of the majority of its programs for the last five years. 
+
+
+
+17.18.	Nevertheless, there are still areas which need improvement particularly the performance of other programs with declining UPRs as identified above, the continuous poor performance of BulSU – Bustos Campus on the licensure examinations for teachers and the failure of the University to obtain a COE and COD statuses from CHED. Each of these factors play a vital role in the attainment of a higher rank through evaluation of CHED using the SUC levelling instrument. 
+
+
+
+17.19.	In view of the foregoing, we recommended and management agreed to undertake the following courses of action: 
+
+
+
+a)	Require the Vice President for Academic Affairs (VPAA) to revisit the programs with declining UPRs for the last five years; 
+
+
+
+b)	Require the Dean of Bustos Campus to conduct an in-depth evaluation of its programs to identify the causes of the poor performance in licensure examinations of its graduates; and
+
+
+
+c)	Conduct an evaluation and institute reforms on the programs offered by the University to improve performance in the areas of instruction, research and publication, extension and linkages and institutional qualifications which are the general criteria of CHED for the grant of COE and COD statuses. 
+
+
+
+
+
+Compliance with Tax Laws 
+
+
+
+18.	Taxes withheld in prior years amounting to ₱2,478,904.26 remained unremitted to the Bureau of Internal Revenue (BIR) contrary to Revenue Regulations No. 2-98 dated April 17, 1998, as amended. 
+
+
+
+18.1.	Section 2.80, BIR Revenue Regulations No. 2-98 dated April 17, 1998 states that:
+
+
+
+In general, the employer shall be responsible for the withholding and remittance of the correct amount of tax required to be deducted and withheld from the compensation income of his employees. If the employer fails to withhold and remit the correct amount of tax, such tax shall be collected from the employer together with the penalties or additions to the tax otherwise applicable.
+
+
+
+18.2.	Review of records showed that as of December 31, 2020, the BulSU has accumulated taxes of ₱11,230,081.22 which were due for remittance in the ensuing month. 
+
+
+
+18.3.	Upon verification, we noted that in January 2021, the remittance of the University amounted only to ₱5,599,883.81 while the tax refunds made to the BulSU employees totaling to ₱3,151,293.15, leaving a balance of ₱2,478,904.26. 
+
+
+
+18.4.	Inquiry with the Accountant revealed that the above amount consists of prior years’ balances which are subject for reconciliation. The Accounting Unit admitted that it was difficult for them to trace back all the related past transactions to substantiate the Due to BIR account. 
+
+
+
+18.5.	The failure of the Accounting Office to regularly monitor and remit taxes in a timely manner could be attributed to the absence of subsidiary records in the previous years.
+
+
+
+18.6.	Meanwhile, the non-remittance of taxes within the prescribed timeframe is subject to payment of penalty and interest in favor of the BIR which, in turn, is prejudicial to the interest of the University. As such, it is but proper for the person found to be negligent of his duty to shoulder the cost of delay. 
+
+
+
+18.7.	We recommended that the University President:
+
+
+
+ (a) Direct the Accountant to establish the details of the balances of Due to BIR account and coordinate with the BIR for the proper disposition of the previous years’ unremitted balances; and 
+
+
+
+(b) Ensure that accurate amounts of taxes are remitted to the BIR in a timely manner.
+
+
+
+
+
+Compliance with Government Security and Insurance System Law
+
+
+
+19. 	As of December 31, 2020, the Due to GSIS account still included unremitted contributions from prior years amounting to ₱1,1354,019.16 contrary to Section 6 of Republic Act (R.A.) No. 8291, otherwise known as “The Government Service Insurance Act of 1997”.  
+
+
+
+19.1.	Section 6 of Republic Act (R.A.) No. 8291 or the Government Service Insurance Act of 1997 states that:
+
+
+
+(b) Each employer shall remit directly to the GSIS the employee’s and employer’s contributions within the first ten (10) days of the calendar month following the month to which the contributions apply. The remittance by the employer of the contribution to the GSIS shall take priority over and above the payment of any and all obligations, except salaries and wages of its employees.
+
+
+
+19.2.	The succeeding Section provides that:
+
+
+
+(7) Agencies which delay the remittance of any and all monies due to the GSIS shall be charged interests as may be prescribed by the Board but not less than two percent (2%) simple interest per month. Such interest shall be paid by the employee concerned.
+
+
+
+19.3.	Verification showed that the Government Service Insurance System (GSIS) contributions of the University due for remittance as at year-end amounted to ₱4,369,600.25.  Part of this amount is a sum of ₱1,354,019.16 which pertains to the contributions withheld from prior years. For not complying with the required remittance period, the withheld amount could be subjected to penalties and surcharges based on the foregoing GSIS regulations. On the part of the member-employees, it is possible that they cannot enjoy later their retirement and pension benefits, life insurance claims, loan privileges, and other benefits offered by the state pension fund due to continuous delay in the remittances thereof. 
+
+
+
+19.4.	To avoid such consequences, it is the duty of the employer to ensure the timely remittance of the premiums and contributions to the GSIS. For failure to do so, Section 52 (g) of the Act provides the penal provisions against violators; viz:
+
+
+
+(g) The heads of the offices of the national government, its political subdivisions, branches, agencies and instrumentalities, including government-owned or controlled corporations and government financial institutions, and the personnel of such offices who are involved in the collection of premium contributions, loan amortizations and other accounts due the GSIS who shall fail, refuse or delay the payment, turnover, remittance or delivery of such accounts to the GSIS within thirty (30) days from the time that the same shall have been due and demandable shall, upon conviction by final judgment, suffer the penalties of imprisonment of not less than one (1) year nor more than five (5) years and a fine of not less than Ten thousand pesos (P10,000.00) nor more than Twenty thousand pesos (P20,000.00), and in addition shall suffer absolute perpetual disqualification from holding public office and from practicing any profession or calling licensed by the government.
+
+
+
+19.5.	We recommended and management agreed to direct:
+
+
+
+(a) The Accounting Unit and the Human Resource (HR) Office to review and reconcile their records to establish the details of the unremitted GSIS contributions amounting to P1,1354,019.16; identify the contributors/member-employees concerned; and immediately remit the amount due to the GSIS to avoid further incurrence of penalties; and 
+
+
+
+(b)  Hold the officer/personnel in-charge of the remittances personally liable for his failure to remit such contributions within the prescribed period. 
+
+
+
+
+
+HDMF balance included unremitted premiums/contributions from prior years
+
+
+
+20. 	As of December 31, 2020, the Due to Pag-IBIG account still included unremitted premiums/contributions from prior years amounting to ₱480,407.80 contrary to the provisions of Republic Act (R.A.)  No.  9679 or the Home Development Mutual Fund (HDMF) Act.   
+
+
+
+20.1	Section 3 of Republic Act (R.A.) No. 9679 or the Home Development Mutual Fund (HDMF) Act provides that:
+
+
+
+a. All employers shall remit to the Fund their contributions and the contributions of their covered employees as well as the latter’s loan amortizations or payments to the Fund, as provided for under Section 2 of this Rule, when applicable, within fifteen (15) days from the date the same were collected unless another period is previously agreed upon between the employer and the Fund, or within such periods as the Fund may prescribe otherwise. xxx
+
+
+
+xxx
+
+e. No retroactive payment of contributions shall be allowed, except for unremitted collections that are paid by the employer which shall be applied retroactively upon presentation of proof that said contributions were previously collected or deducted from the employee. Without prejudice to the employer’s civil, criminal and administrative liabilities, the employer shall likewise be liable for all the applicable interests and penalties arising from the late remittance of contributions and loan amortizations or payments actually collected from the member, as well as the dividends which the contributions should have earned have it been remitted on time. xxx 
+
+
+
+20.2	Verification of the HDMF contributions of the University employees for the year 2020 showed an outstanding amount of ₱752.312.73 as at year-end.  No remittance was noted in the ensuing month. Further analysis of the details of the Due to Pag-IBIG account disclosed that a sum of ₱480,407.80 pertains to the contributions withheld in prior years. As such, the amounts withheld but still in the custody of the University were subjected to penalties and surcharges for delayed remittances. 
+
+
+
+20.3	In a Memorandum of Understanding (MOU) entered into by the BulSU, represented by its former President and the HDMF on September 6, 2011, the former was mandated to collect and remit Pag-IBIG contributions and loan amortizations of its Job Order (J.O.) personnel. In view hereof, the latter agreed that all those covered by the MOU shall enjoy the full benefits and existing programs of the HDMF. The BulSU has then assumed full responsibility in withholding the monthly contributions and loan amortizations from the salaries of said personnel. 
+
+
+
+20.4	It has come to our attention, however, that some of the J.O. personnel were not able to avail of the loan programs of Pag-IBIG during the pandemic in CY 2020. Meanwhile, several of them were also subjected to penalties for late remittances by the BulSU, although they were deducted the corresponding amounts due from their salaries as agreed upon.
+
+
+
+20.5	Since BulSU breached its obligations under the MOU, the J.O. personnel unnecessarily suffered for not enjoying the benefits under the Fund unless they have updated their contributions/loan repayments on a monthly basis. 
+
+
+
+20.6	Be that as it may, the Accounting Unit in-charge of the remittances shall be held liable for such negligence pursuant to Section G, HDMF Circular No. 275 dated January 22, 2010, quoted as follows:
+
+
+
+5. An employer who previously deducted contributions and/or amortization payments from employees but did not remit the same to the Fund shall be liable for the payment of said contributions and/or payments, including all applicable interests and penalties, as well as the dividends that the contributions could have earned had they been remitted on time.	
+
+
+
+20.7	Such practice of the Accounting Office may result in the forfeiture of the employees’ claims or benefits under the Fund. Likewise, for not fulfilling its obligations under the law, the BulSU hindered somehow the smooth flow of resources into the HDMF coffers, depriving the Government as a whole of the much-needed funds to support other members of the Fund.  
+
+
+
+20.8	In view of the foregoing, we recommended and Management agreed to:
+
+
+
+(a) 	Review and reconcile their records to establish the details of the unremitted HDMF contributions amounting to ₱752,312.73 withheld from their employees and immediately remit the same to Pag-IBIG to avoid further incurrence of penalties; and 
+
+
+
+(b) 	Hold liable the officer/personnel in-charge of the remittances for his failure to remit such contributions within the prescribed period.
+
+
+
+
+
+Status of Settlement of Audit Suspensions, Disallowances and Charges
+
+	 
+
+21.	Audit disallowances amounting to ₱38,359,030.18 remained unsettled as of year-end contrary to Sections 9.4 and 10.4 of the Rules and Regulations on Settlements of Accounts (RRSA) due to failure to locate the persons liable. The Notices of Disallowance (NDs) issued in CY 2020 totaling to ₱1,134,000.00 were appealed before the Office of the Regional Director, COA Regional Office No. III, City of San Fernando, Pampanga, the decision of which has not yet been finalized and issued as of this writing. 
+
+
+
+21.1.	 Section 7.1. of the Rules and Regulations on the Settlement of Accounts (RRSA) provides for the responsibilities of the Head of the Agency which includes:
+
+
+
+xxx
+
+
+
+(b) the settlement of disallowances and charges is made within the prescribed period…xxx
+
+
+
+21.2. 	As of December 31, 2020, the balance of unsettled disallowances totaled to ₱38,359,030.18, details of which are shown below:
+
+
+
+Notices
+
+Beginning Balance (As of January 1, 2020)
+
+This Period
+
+January 1, 2020 to December 31, 2020
+
+Ending Balance
+
+(December 31, 2020)
+
+Notice of Suspension
+
+₱ 0.00
+
+₱ 0.00
+
+₱ 0.00
+
+₱ 0.00
+
+Notice of Disallowance
+
+37,852,443.25
+
+1,134,000.00
+
+627,403.07
+
+38,359,040.18
+
+Notice of
+
+Charge
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Total
+
+₱37,852,443.25
+
+₱1,134,000.00
+
+₱ 627,403.07
+
+₱38,359,040.18
+
+		 
+
+		21.3. 	The Notices of Disallowance (NDs) issued in CY 2020 pertain to the Cultural and Athletic Activities Allowances granted to the regular faculty and personnel of BulSU in December 2019 which were disallowed in audit due to irregularity of payment. The NDs are under appeal at the Office of the Regional Director, COA Regional Office No. III, City of San Fernando, Pampanga. 
+
+	
+
+	21.4. 	Meanwhile, the ND of ₱37,852,433.25 refers to the incentive allowance paid in CY 2013 and cash gift granted to loyalty awardees in CY 2018 which were found excessive, hence, disallowed in audit. 
+
+	
+
+	21.5.  	We recommended and management agreed to require the persons liable to settle the foregoing audit disallowances. 
+
+
+
+
+
+27
+
+
+
+
+
+
+
+
+

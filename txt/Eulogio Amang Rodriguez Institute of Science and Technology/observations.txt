@@ -1,0 +1,9225 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+38 
+
+ 
+
+PART II - OBSERVATIONS AND RECOMMENDATIONS 
+
+ 
+ 
+
+FINANCIAL AUDIT 
+
+ 
+
+Misstatements of Financial Statements (FSs) 
+
+ 
+
+1. Various accounts under the Assets, Liabilities and Equity categories have 
+misstatements totaling P28,647,430.80, representing 2.65 percent of its total 
+
+Assets of P1,082,389,622.75 as at December 31, 2020. Due to the significant 
+
+impact of said misstatements on the reported balances of the affected accounts, 
+
+the accuracy, completeness and existence of the said accounts could not be 
+
+relied upon. 
+
+ 
+
+1.1. Section 27 of the International Public Sector Accounting Standards (IPSAS) 1 
+and Section 15, Chapter 2 of the Government Accounting Manual (GAM) for 
+
+National Government Agencies (NGAs), Volume I state that “The FSs shall 
+
+present fairly the financial position, financial performance and cash flows of 
+
+an entity. Fair presentation requires the faithful representation of the effects 
+
+of transactions, other events, and conditions in accordance with the 
+
+definitions and recognition criteria for assets, liabilities, revenue, and 
+
+expenses set out in PPSAS1.” 
+
+ 
+
+1.2. Moreover, Sections 111 and 112 of Presidential Decree (PD) No. 1445 require 
+agencies to keep the accounts in such detail as necessary to meet the needs of 
+
+the agency and at the same time be adequate to furnish the information needed 
+
+by fiscal or control agencies of the government; and that the highest standard 
+
+of honesty, objectivity and consistency shall be observed in the keeping of 
+
+accounts to safeguard against inaccurate or misleading information. Each 
+
+government agency shall record its financial transactions and operations 
+
+conformably with IPSAS and in accordance with pertinent laws and 
+
+regulations. 
+
+ 
+
+1.3. Our audit of the Eulogio “Amang” Rodriguez Institute of Science and 
+Technology’s (EARIST’s) FSs disclosed misstatements in several accounts 
+
+totaling P28,647,430.80, as shown below: 
+
+ 
+
+Table 1. Summary of Misstatements in FSs 
+
+Category/ 
+
+Classification 
+
+Misstatements 
+
+Errors/Audit 
+
+Observations 
+Amount 
+
+(in Pesos) 
+Accounts Affected 
+
+Under / (Over) 
+
+Statement 
+
+(in Pesos) 
+Cash and Cash 
+
+Equivalents  
+Unsupported 
+
+adjustments 
+3,665,447.13 Cash in Bank-LCSA 3,665,447.13 
+
+Accumulated 3,665,447.13 
+
+ 
+1 Renamed to International Public Sector Accounting Standards (IPSAS) with corresponding Philippine Application 
+
+Guidance, pursuant to COA Resolution  No. 2020-001 dated January 9, 2020  
+
+
+
+39 
+
+ 
+
+Category/ 
+
+Classification 
+
+Misstatements 
+
+Errors/Audit 
+
+Observations 
+Amount 
+
+(in Pesos) 
+Accounts Affected 
+
+Under / (Over) 
+
+Statement 
+
+(in Pesos) 
+Surplus/(Deficit)  
+
+Receivables Non-recording of 
+settlement of  
+Disallowance 
+
+713,000.00 Other Receivables-
+Disallowances and  
+Charges 
+
+(713,000.00) 
+
+Accumulated 
+
+Surplus/(Deficit) 
+713,000.00 
+
+Property, Plant 
+
+and Equipment  
+Errors in recording 
+
+of leased assets 
+22,500,000.00  Property, Plant and 
+
+Equipment  
+22,500,000.00 
+
+Accumulated 
+
+Depreciation 
+
+21,375,000.00 
+
+Prepaid Rent (7,450,000.00) 
+
+Lease Payable 15,050,000.00 
+
+Accumulated 
+
+Surplus/(Deficit)  
+
+(21,375,000.00) 
+
+Other Current 
+
+Assets 
+Non-recording of 
+
+Prepayments 
+1,321,240.67 
+
+  
+Prepaid Subscription 1,321,240.67   
+Subscription 
+
+Expenses 
+(1,321,240.67)  
+
+ Liabilities   Error in recording 
+unclaimed checks 
+
+447,743.00 Accounts Payable 447,743.00 
+Semi-Expendables 168,582.50 
+Expenses 279,160.50 
+
+Total Misstatements   P28,647,430.80 
+
+Percentage of Misstatements to Total Assets 
+
+(P28,647,430.80/P1,082,389,622.750) 
+
+2.65% 
+
+Total Expenses for the Year Ended  
+December 31, 2020 
+
+341,307,503.93 
+
+Materiality Threshold for Expense-Driven Entity 
+
+(1% of Expenses)  
+3,413,075.04 
+
+Excess of misstatements over materiality threshold  25,234,355.76 
+
+ 
+
+1.4. The concept of materiality is applied in evaluating the effect of identified 
+misstatement or omission in the FSs. The overall materiality threshold of 
+
+P3,413,075.04 was set to one per cent of the total expenses of 
+
+P341,307,503.93 per Statement of Financial Performance for the year ended 
+
+December 31, 2020. 
+
+ 
+
+1.5. In summary, total misstatements affecting asset, equity and expense accounts 
+which were not adjusted in the books of EARIST during the audit period 
+
+amounted to P28,647,430.80. This amount exceeded the established 
+
+materiality threshold of P3,413,075.04 or one percent of the Total Expenses 
+
+balance for an expense-driven entity. Due to the significant impact of such 
+
+errors and omissions on the accuracy, existence, classification and 
+
+completeness assertions in the reported balances of affected accounts, the 
+
+Audit Team rendered a qualified opinion on the FSs of the EARIST. 
+
+
+
+40 
+
+ 
+
+1.6. The detailed discussion of misstatements and corresponding recommendations 
+are shown on the below: 
+
+ 
+
+a.) Unsupported adjustments of Cash in Bank-Local Currency, Savings 
+Account understating both the Cash in Bank and Accumulated 
+
+Surplus/(Deficit) Accounts by P3,665,447.13 
+
+ 
+
+1.7. Audit of Cash in Bank-Local Currency, Savings Account revealed that 
+adjustments amounting to P3,665,447.13, which was the difference between 
+
+the book and bank records was credited to the Cash in Bank-Local Currency, 
+
+Savings Account, without proper documentation to reconcile the balances 
+
+between the two records. In the previous year’s audit observation, the Audit 
+
+Team identified the amount as accumulated errors caused by years of non-
+
+preparation of Bank Reconciliation Statements (BRS), in which the Audit 
+
+Team recommended to the Management to prepare and submit all the BRSs 
+
+for CYs 2017, 2018 and 2019, together with the necessary supporting 
+
+documents, and identify the errors so they can draw the necessary adjusting 
+
+entries. 
+
+ 
+
+1.8. We recognize the intention of the Management to reconcile their records, but 
+such action must be fully supported and documented. Aside from the BRS, 
+
+necessary reports and Bank Statements were not also submitted to the Audit 
+
+Team, thus we also have no basis to check the accuracy and validity of the 
+
+transactions and the adjusting entries made. 
+
+ 
+
+b.) Non-recording of previous year’s settlements of disallowances totaling 
+P713,000.00 overstated the Other Receivable-Disallowances and 
+Charges account and understated the Accumulated Surplus/(Deficit) 
+
+account by the same amount of  P713,000.00 
+ 
+
+1.9. Monitoring of the settlement of disallowances/charges showed that settlements 
+made in prior years totaling P713,000.00 were not taken up in the books or 
+
+deducted from their corresponding NDs, thereby understating the 
+
+Accumulated Surplus/(Deficit) account and overstating the Other Receivables-
+
+Disallowance and Charges account by the same amount. Details of unrecorded 
+
+settlements are shown in the following table: 
+
+ 
+
+Table 2. Unrecorded Settlements 
+Notice of Disallowance (ND) Settlement 
+
+No. Date Amount 
+
+(in Pesos) 
+
+OR No. Date Amount 
+
+(in Pesos) 
+
+2016-002-
+
+161(2010) 
+
+5/19/18 736,000.00 0743987 5/19/18 72,000.00 
+
+0746041 5/25/18 412,000.00 
+
+2014-005-
+
+161(2013) 
+
+4/10/14 1,050,000.00 0808270 1/6/20 20,000.00 
+
+0806811 11/29/19 4,000.00 
+
+0806665 11/28/19 4,000.00 
+
+0806402 11/26/19 4,000.00 
+
+0804421 10/29/19 3,000.00 
+
+
+
+41 
+
+ 
+
+Notice of Disallowance (ND) Settlement 
+
+No. Date Amount 
+
+(in Pesos) 
+
+OR No. Date Amount 
+
+(in Pesos) 
+
+0804316 10/25/19 3,000.00 
+
+0804131 10/23/19 3,000.00 
+
+0803925 10/21/19 5,000.00 
+
+0803683 10/17/19 5,000.00 
+
+0803258 10/11/19 10,000.00 
+
+0802968 10/7/19 3,000.00 
+
+0759366 9/11/18 20,000.00 
+
+0748646 6/6/18 15,000.00 
+
+0724528 3/14/18 20,000.00 
+
+0720460 2/1/18 10,000.00 
+
+0685504 8/14/17 10,000.00 
+
+0683521 7/17/17 10,000.00 
+
+0621413 2/21/17 20,000.00 
+
+0604734 11/21/16 20,000.00 
+
+0574235 9/28/16 8,000.00 
+
+0513830 3/28/16 8,000.00 
+
+0509208 3/15/16 8,000.00 
+
+0496379 1/20/16 16,000.00 
+
+Total Unrecorded Settlement Amount 713,000.00 
+
+ 
+
+c.) Errors in recording of leased assets understated the Leased Assets, 
+Accumulated Depreciation and Lease Payable accounts by 
+
+P22,500,000.00, P21,375,000.00 and P15,050,000.00, respectively, and 
+overstated Prepaid Rent and Accumulated Surplus/(Deficit) accounts 
+
+by P7,450,000.00 and P21,375,000.00, respectively. 
+ 
+
+1.10. Records of EARIST showed that no assets and liabilities were recognized on 
+the 3-year Lease Contract for the project “Rent to Own I.T. Equipment 
+
+amounting to P22,500,000.00 entered into by EARIST. Audit showed that 
+
+entries were only made upon payments, however, payments made amounting 
+
+to P7,450,000.00 were recognized in the books as Prepaid Rent. These errors 
+
+and misclassification understated the Leased Assets and Lease Payable 
+
+accounts by P22,500,000.00 and P15,050,000.00, respectively, while 
+
+overstated the reported Prepaid Rent account by P7,450,000.00.  Moreover, 
+
+the leased assets were not provided depreciation, understating and overstating 
+
+the Accumulated Depreciation and Accumulated Surplus/(Deficit) accounts by 
+
+P21,375,000.00. Details are as follows: 
+ 
+
+Table 3. Effects of Error-Under(Over) 
+
+Types of 
+
+Transaction 
+
+Assets (A) Liabilities (L) Equity (E) 
+
+Leased Assets, 
+
+Machinery and 
+
+Equipment 
+
+Accumulated 
+
+Depreciation 
+Prepaid Rent Lease Payable 
+
+Accumulated 
+
+Surplus / (Deficit) 
+
+(in Pesos) 
+
+a.) Inception of Lease   
+
+Recognition of 
+
+Lease Payable 
+22,500,000.00     22,500,000.00   
+
+b.) Payments     (7,450,000.00) (7,450,000.00)   
+
+
+
+42 
+
+ 
+
+Types of 
+
+Transaction 
+
+Assets (A) Liabilities (L) Equity (E) 
+
+Leased Assets, 
+
+Machinery and 
+
+Equipment 
+
+Accumulated 
+
+Depreciation 
+Prepaid Rent Lease Payable 
+
+Accumulated 
+
+Surplus / (Deficit) 
+
+(in Pesos) 
+
+c.) Depreciation  
+
+1st Year   7,125,000.00     (7,125,000.00) 
+
+2nd Year   7,125,000.00     (7,125,000.00) 
+
+3rd Year   7,125,000.00     (7,125,000.00) 
+
+Total Net 
+
+(Over)/ Under 
+22,500,000.00 21,375,000.00 (7,450,000.00) 15,050,000.00 (21,375,000.00) 
+
+ 
+
+d.) Recording of prepayments as outright expenses upon payment 
+understated the Prepayments account and overstated the Subscription 
+
+Expenses account, both by P1,321,240.67 
+ 
+
+1.11. Section 6, Chapter 1 of the GAM for NGAs, Volume I provides, among 
+others, that each entity shall recognize and present its financial transactions 
+
+and operations conformably to the accrual basis of accounting in accordance 
+
+with the IPSAS. 
+
+ 
+
+1.12. Accrual basis of accounting means a basis of accounting under which 
+transactions and other events are recognized when they occur (and not only 
+
+when cash or its equivalent is received or paid). Therefore, the transactions 
+
+and events are recognized in the accounting records and recognized in the 
+
+financial statements of the periods to which they relate. The elements 
+
+recognized under accrual accounting are assets, liabilities, net assets/equity, 
+
+revenue, and expenses. 
+
+ 
+
+1.13. Records show that for CY 2020, EARIST paid subscriptions and other 
+deferred items totaling P1,766,632.00 which was recorded as outright expense 
+
+at the time of payments. Of that amount, P445,391.34 was for used/consumed 
+
+subscriptions during the year, leaving an unexpired amount of P1,321,240.67.  
+
+No entries were drawn to adjust or recognize the unexpired portion as Prepaid 
+
+Assets, thus understated and overstated the Prepayments and Subscription 
+
+Expenses accounts, respectively, both by P1,321,240.67. Details are as 
+
+follows: 
+
+ 
+
+Table 4. Schedules on Subscriptions and Other Deferred Items 
+
+ Particulars 
+
+Period Covered 
+Amount 
+
+Expired/ 
+
+Consumed 
+
+Unexpired 
+
+From To 
+
+  (in Pesos) 
+
+Renewal of WEB Hosting 
+
+Services 
+05/23/20 05/23/21 15,900.00 9,275.00 6,625.00 
+
+Renewal of Domain 
+
+(EARIST.EDU.PH) for CY 
+
+2020 
+
+11/04/19 11/04/20 2,500.00 2,500.00 0.00 
+
+Renewal of DNS Hosting 
+
+Service, EDU.PH. For CT 
+08/28/20 08/28/21 1,700.00 566.67 1,133.33 
+
+
+
+43 
+
+ 
+
+ Particulars 
+
+Period Covered 
+Amount 
+
+Expired/ 
+
+Consumed 
+
+Unexpired 
+
+From To 
+
+  (in Pesos) 
+
+2020 
+
+Subscription of 1 lot of 
+
+Dedicated Cloud Server - 
+
+Business Package (annual 
+
+subscription) Domain-
+
+Education Level and Add 
+
+Ons Wildcard SSL 
+
+requested by the MIS 
+
+07/24/20 07/23/21 115,000.00 47,916.67 67,083.33 
+
+Subscription of E-Resources 
+
+for Library 
+10/01/20 09/03/21 512,167.00 
+
+128,041.75 384,125.25 
+
+Subscription of Fortinet 
+
+UTM Security Firewall 
+10/22/20 10/22/21 273,000.00 
+
+45,500.00 227,500.00 
+
+Payment for the Group 
+
+Student Personnel Accident 
+
+Insurance Premium of 
+
+13,02l enrolled students 
+
+10/05/20 10/05/21 846,365.00 211,591.25 634,773.75 
+
+Total   1,766,632.00 445,391.34 1,321,240.66 
+
+ 
+
+e.) Errors in recording of unclaimed checks understated the Accounts 
+Payable, Semi-expendables and Expenses accounts by P447,743.00, 
+P168,582.50 and P279,160.50, respectively 
+
+ 
+
+1.14. Section 56, Chapter 19 of the GAM for NGAs, Volume I provides that: 
+ 
+
+Adjustments for Unreleased Commercial Checks.  A Schedule of 
+
+Unreleased Commercial Checks shall be prepared by the Cashier for 
+
+submission to the Accounting Division/Unit.  All unreleased checks at 
+
+the end of the year shall be reverted back to the Cash accounts.  A JEV 
+
+shall be prepared to recognize the restoration of the cash equivalent to 
+
+the unreleased checks and the recognition of the appropriate 
+
+liability/payable account.   The accounting entry for the restoration of 
+
+the unreleased check to the Cash account shall be a debit to “Cash in 
+
+Bank-Local Currency, Current Account” with credit to the appropriate 
+
+liability account. There shall be no physical cancellation of the checks.  
+
+The JEV supporting such restoration shall form part of the supporting 
+
+document to the financial statements to be submitted to COA at yearend.  
+
+At the start of the ensuing year, another JEV shall be drawn to reverse 
+
+the previous entry made and recognize the availability of the checks for 
+
+release.  Xxx. 
+
+ 
+
+1.15. Restoration of the unclaimed check for the year ended December 31, 2020 
+under Fund 164 was recognized as credit to Expenses/Asset accounts instead 
+
+of Accounts Payable, thus understated the Accounts Payable, Semi-
+
+Expendables and Expenses accounts by P447,743.00, P168,582.50 and 
+
+P279,160.50, respectively, details are shown on the next page: 
+
+ 
+
+
+
+44 
+
+ 
+
+  Table 5. Summary of Entries 
+Date Check No. Amount 
+
+(in Pesos) 
+
+Accounts Credited 
+
+12/18/2020 401673 1,717.00 Representation Expenses 
+
+12/18/2020 401674 17,403.00 Representation Expenses 
+
+12/18/2020 401675 4,103.00 Representation Expenses 
+
+12/21/2020 401679 68,900.00 Semi-Expendable Furniture and 
+
+Fixtures 
+
+12/21/2020 
+
+ 
+
+401680 99,682.5 Semi-Expendable - Other 
+
+Machinery & Equipment 
+
+12/28/2020 401688 255,937.50 Internet Subscription Expenses 
+
+Total Amount 447,743.00  
+ 
+
+1.16. We recommended that   Management/Accountant prepare the necessary 
+adjusting journal entries to correct and adjust the above misstatements to 
+
+reflect the accurate balances of the affected accounts. 
+ 
+
+1.17. The Management commented that some adjustments will be reflected in the 
+first quarter FSs of CY 2021.  For other misstatements, they are still in the 
+
+process of reconciling their records and will submit the corresponding 
+
+adjusting entries once done. 
+ 
+
+Auditor’s Rejoinder 
+ 
+
+1.18. The Management should provide the Audit Team with the JEV, as evidence of 
+adjustments made in its first quarter FSs,  with corresponding supporting 
+
+documents. A clear plan of action on how to reconcile their records and a 
+
+specific timeline should also be submitted to the Audit Team for monitoring 
+
+purposes. 
+
+ 
+
+Accounting and Property Control Deficiencies 
+ 
+
+2. The aggregate balance of P1,250,457,612.16 of accounts Due from NGAs, 
+Receivables, Inventories, Advances, Property, Plant and Equipment and 
+
+Accumulated Surplus/(Deficit) as of December 31, 2020 is unreliable and of 
+
+doubtful validity due to accounting and property control deficiencies.  
+ 
+
+2.1 Section 4, Chapter 19 of the GAM for NGAs, Volume I, on Financial 
+Reporting, provides that the "Responsibility for the fair presentation and 
+
+reliability of financial statements rests with the management of the reporting 
+
+agency, particularly the head of finance/accounting office and the head of 
+
+entity or his authorized representative.” 
+ 
+
+2.2 Reliability means that reliable information is free from material error and bias, 
+and can be depended on by users to represent faithfully that which it purports 
+
+to represent or could reasonably be expected to represent; while, Faithful 
+
+representation means that for information to represent faithfully transactions 
+
+and other events, it should be presented in accordance with the substance of 
+
+
+
+45 
+
+ 
+
+the transactions and other events, and not merely their legal form. (Section 6, 
+
+Chapter 19, GAM for NGAs, Volume I) 
+
+ 
+
+2.3 Further, Section 122, PD No. 1445 also provides that: 
+ 
+
+Submission of reports. 1. Whenever deemed necessary in the exigencies 
+
+of the service, the Commission may under regulations issued by it 
+
+require the agency heads, chief accountants, budget officers, cashiers, 
+
+disbursing officers, administrative or personnel officers, and other 
+
+responsible officials of the various agencies to submit trial balances, 
+
+physical inventory reports, current plantilla of personnel, and such 
+
+other reports as may be necessary for the exercise of its functions.  
+ 
+
+Xxx 
+ 
+
+2.4 Audit of the various Assets accounts of the Institute disclosed the following 
+accounting and property control deficiencies: 
+
+ 
+
+Table 6. Summary of Accounting and Property Control Deficiencies 
+
+Accounts 
+Balance as at  
+
+December 31, 2020 
+
+(in Pesos) 
+Deficiencies 
+
+Due from NGAs 2,961,364.01 a) absence of periodic reconciliation of 
+records between the agency and 
+
+Department of Budget and 
+
+Management – Procurement Service 
+
+(DBM-PS); 
+ 
+
+b) deficiencies noted in the previous 
+years’ audit were not yet corrected; 
+
+ 
+
+c) crediting of P6,430,659.88 to Due from 
+NGAs account without proper 
+
+documentation and reconciliation to 
+
+reconcile the DBM-PS account;  
+Other Receivables 
+
+ 
+
+Allowance for 
+
+Impairment-Other 
+
+Receivables  
+
+16,924,976.37 
+
+ 
+
+(16,924,976.37) 
+
+d) absence of subsidiary records and non-
+submission of required supporting 
+
+documents, hence names of the 
+
+accountable persons and/or entity from 
+
+whom those receivables are to be 
+
+collected cannot be established and 
+
+identified;  
+ 
+
+e) lack of request to write-off dormant 
+accounts;  
+
+ 
+
+f) absence of clear-cut guidelines as the 
+basis of the recognition and 
+
+computation of the allowance for 
+
+impairment loss; 
+
+
+
+46 
+
+ 
+
+Accounts 
+Balance as at  
+
+December 31, 2020 
+
+(in Pesos) 
+Deficiencies 
+
+Inventories 24,762,810.55 g) error in recording of deliveries of 
+supplies and materials as outright 
+
+expense; 
+ 
+
+h) existence of semi-expendable 
+properties totaling P14,848,321.05 
+
+cannot be ascertained; 
+ 
+
+i) non-moving balance of Inventory sub-
+accounts carried in the books for 
+
+several years amounting to 
+
+P10,036,684.50; 
+ 
+
+j) non-maintenance and/or preparation of 
+records/forms and other reports as 
+
+required under the pertinent provisions 
+
+of GAM, Volume I; 
+  
+
+Advances 8,128,055.28 k) accumulation of unsettled/ unliquidated 
+cash advances balance at yearend 
+
+amounting to P8,128,055.28; 
+ 
+
+l) additional cash advances granted to 
+accountable officer (AO) despite non-
+
+liquidation of previous cash advances; 
+ 
+
+m) long outstanding/dormant cash 
+advances;  
+
+PPE [excluding 
+
+Construction in 
+
+Progress (CIP) 
+
+account] 
+
+365,651,264.00 n) failure to conduct a complete  physical 
+inventory-taking of PPEs; 
+ 
+
+o) non-recording of depreciation; and 
+ 
+
+p) no Accounting and Property records 
+Maintained for PPE. 
+
+Accumulated 
+
+Surplus/(Deficit) 
+
+848,954,118.32  
+
+ 
+
+q) non-restatement of Prior Year’s FSs and 
+Unsupported Prior Period Adjustments 
+
+totaling P79,406,536.60  
+ 
+
+Total Amount P  1,250,457,612.16  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+47 
+
+ 
+
+Details of Accounting and Property Control Deficiencies: 
+
+ 
+
+DUE FROM NATIONAL GOVERNMENT AGENCIES 
+
+ 
+
+a.)   Absence of periodic reconciliation of records between the agency and   
+DBM-PS 
+
+ 
+
+2.5 Sections 6 and 7 of COA Circular No. 2016-005 dated December 19, 2016 
+prescribe the rules and regulations on the monitoring and liquidation of fund 
+
+transfers, to wit: 
+
+ 
+
+Section 6.0 - General Guidelines  
+
+ 
+
+6.1 All government entities shall conduct regular monitoring and 
+analysis of receivable accounts to ensure that these are collected 
+
+when these become due and demandable and that cash advances and 
+
+fund transfers are liquidated within the prescribed period depending 
+
+upon their nature and purpose; 
+
+ 
+
+Section 7.0 - Specific Guidelines  
+
+ 
+
+7.1 Conduct regular and periodic verification, analysis, and validation 
+of the existence of the receivables, unliquidated cash advances, and 
+
+fund transfers, and determine the concerned debtors, accountable 
+
+officers (Regular and Special Disbursing Officers, Collecting 
+
+Officers, Cashiers) and the source and implementing government 
+
+entities concerned; 
+
+ 
+
+7.2 Reconcile the unliquidated fund transfers between the source and 
+implementing government entities, prepare the adjusting entries for 
+
+the reconciling items noted, and require liquidation of the balances; 
+
+ 
+
+7.3 Prepare aging of dormant receivables, unliquidated cash advances, 
+and fund transfers on a quarterly basis to support the request for 
+
+write-off, and indicate in the Remarks column the existence of the 
+
+applicable conditions, such as “absence of records or documents to 
+
+validate/support the claim and/or unreconciled reciprocal accounts. 
+
+ 
+
+2.6 Confirmation made with the DBM-PS disclosed that the EARIST has a 
+balance of ₱671,734.05 as of December 31, 2020 as against the EARIST’s 
+
+book balance of P2,961,364.01, thus resulting in a discrepancy of 
+
+₱2,289,629.96. 
+
+ 
+
+2.7 It was noted that the existence of discrepancy and accumulation of errors were 
+due to the absence of any action from the Management to reconcile their 
+
+records with the DBM Party Ledger card.  
+ 
+
+
+
+48 
+
+ 
+
+2.8 Analysis of fund transfers to DBM-PS and the result of the confirmation for 
+CYs 2015-2020 showed that throughout the years, EARIST and DBM-PS had 
+
+not reconciled the significant difference between their records,  with 
+
+discrepancy ranging from 35.56 to 77.32 percent, to wit: 
+
+ 
+
+Table 7. Comparison of EARIST and DBM-PS Records 
+
+Year 
+EARIST DBM-PS Difference Percentage of 
+
+Difference (in Pesos) 
+
+2015     6,109,649.10       3,057,422.42     3,052,226.68  49.96 
+
+2016     5,633,742.45       3,630,179.65     2,003,562.80  35.56 
+
+2017   11,059,123.73       5,780,966.78     5,278,156.95  47.73 
+
+2018   14,185,651.59       4,940,420.58     9,245,231.01  65.17 
+
+2019     9,481,139.00       2,146,110.82     7,335,028.18  77.36 
+
+2020     2,961,364.01          671,734.05      2,289,629.96  77.32 
+
+ 
+
+b.) Deficiencies noted in the previous years’ audit were not yet corrected  
+ 
+
+2.9 The unaccounted and unreconciled balance of the account Due from DBM-PS 
+had been brought to Management’s attention in the previous Annual Audit 
+
+Reports, with proposed reconciliation based on the errors found in audit for 
+
+transactions covering period CYs 2015-2017. 
+
+ 
+
+2.10 It was recommended to Management to review and verify those errors noted, 
+and draw adjustments to reflect the correct balance of Due from DBM-PS 
+
+account, but the same were not acted upon by the Management. 
+
+ 
+
+c.) Credited P6,430,659.88 to Due from NGAs account without proper 
+documentation and reconciliation  
+
+ 
+
+2.11 Meanwhile, review of the account showed that a credit of P6,430,659.88 to 
+Due from NGAs account was made without proper documentation and 
+
+reconciliation. Inquiry with the Management revealed that the intention is to 
+
+reconcile the balances between the Accounting and DBM-PS records based on 
+
+the records provided by the DBM-PS. 
+
+ 
+
+2.12 We recommended that Management: 
+ 
+
+a. reconcile Accounting records of EARIST with the DBM-PS Party 
+Ledger Card to ascertain the causes of the discrepancies and  
+
+communicate the same to the Accountant of the DBM-PS  for proper 
+
+adjustments of  the two records in order to reflect the  correct balance 
+
+of the advances of EARIST; and 
+
+ 
+
+b. provide all necessary supporting documents to the adjustments made 
+to Due from NGAs account amounting to P6,430,659.88, otherwise, 
+
+reverse previous entry made. 
+
+
+
+49 
+
+ 
+
+2.13 The Management commented that the current transactions were reconciled 
+with DBM-PS and they will exert all efforts to reconcile the discrepancies 
+
+pertaining to prior years’ transactions based on the available records they can 
+
+locate. However, due to the limited manpower and the Pandemic, they cannot 
+
+provide a timeline on when to complete the reconciliation. 
+ 
+
+Auditor’s Rejoinder 
+ 
+
+2.14 The Audit Team acknowledged the above-cited limitations and Management’s 
+intention to reconcile the discrepancies, however, such adjustments must be 
+
+carefully verified and corroborated with complete supporting documents to 
+
+fully identify the nature of discrepancies before adjustments are recorded.  
+
+ 
+
+OTHER RECEIVABLES ACCOUNT 
+ 
+
+d.) Absence of subsidiary records for Accounts Receivable 
+ 
+
+2.15 Section 4, Chapter 19 of the GAM for NGAs, Volume I, on Financial 
+Reporting, provides that the "Responsibility for the fair presentation and 
+
+reliability of financial statements rests with the management of the reporting 
+
+agency, particularly the head of finance/accounting office and the head of 
+
+entity or his authorized representative." 
+ 
+
+2.16 Review of the Institute’s Statement of Financial Position as of December 31, 
+2020 showed that the Institute’s Other Receivables account has an outstanding 
+
+balance of P621,850.16 and P16,303,126.21 for its Fund 101 and Fund 161, 
+
+respectively, or a total balance of P16,924,976.37. Per Notes to FS, the 
+
+account has a zero balance, in view of the provision of allowance for 
+
+impairment in the same amounts for Funds 101 and 161.  
+
+ 
+
+2.17 The Audit Team requested Management to submit subsidiary records or other 
+supporting documents/schedules pertaining to the accounts, but, instead, a 
+
+certification was issued stating that they cannot establish the details of the 
+
+account as it pertains to transactions that occurred more than 10 years ago and 
+
+that the source documents are no longer available.  
+
+ 
+
+2.18 With that, confirmation on the existence of the said account is unfeasible due 
+to the absence of subsidiary records and necessary supporting documents 
+
+showing the nature and names of the persons whom these receivables are to be 
+
+received/collected. The Audit Team, therefore, has no basis to ascertain the 
+
+accuracy of the amount reported in the financial statement. 
+ 
+
+e.) Lack of Request to Write-off Dormant Accounts Receivable 
+ 
+
+2.19 Based on the previous year’s audit report, it was recommended to the 
+Management to consider filing a request for write-off to derecognize these 
+
+accounts following the provisions in COA Circular No. 2016-005 dated 
+
+December 19, 2016. As of this writing, one request for write-off was returned 
+
+
+
+50 
+
+ 
+
+by the Audit Team to the Management for submission of additional required 
+
+documents. 
+
+ 
+
+f.) Absence of Clear-Cut Guidelines on Recognition and Computation of 
+the Allowance for Impairment Loss 
+
+ 
+
+2.20 Since collection and recovery is difficult, if not impossible given the 
+circumstances, it was also recommended to the Management to issue a 
+
+guideline on the recognition of Allowance for Impairment so that allowance 
+
+for Impairment to these receivables be provided as required under Section 10, 
+
+Chapter 7 of the GAM for NGAs, Volume I. 
+
+ 
+
+2.21 Financial reports submitted showed that Management recognized Allowance 
+for Impairment amounting to P16,924,976.37 or 100 percent of the receivables 
+
+reported, however, no clear-cut guidelines/policy were issued in setting the 
+
+procedures and manners on how these Allowance for Impairment be computed 
+
+and recognized. These guidelines will be the basis of the Audit Team to 
+
+evaluate if the Impairment provided is accurate and reasonable under given 
+
+circumstances. 
+
+ 
+
+2.22 Due to the above deficiencies, the Other Receivables account is doubtful and 
+unreliable. 
+
+ 
+
+2.23 We recommended that Management: 
+ 
+
+a. exert extra effort to provide subsidiary records and retrieve the 
+supporting documents pertaining to the accounts in order to establish 
+
+and identify the names of the accountable persons and/or entity from 
+
+whom those receivables are to be collected; 
+
+ 
+
+b. evaluate dormant accounts and comply with all the conditions and 
+requirements of COA Circular No. 2016-005 dated December 19, 2016 
+
+for the request for write off; and 
+
+ 
+
+c. issue guidelines/policy on the recognition of Allowance for 
+Impairment and review if the recognition previously made is aligned 
+
+with the policy, otherwise, reverse the entries made and recognize 
+
+Allowance for Impairment based on the set guidelines. 
+
+ 
+
+2.24 Management commented that they have issued a Memorandum on the 
+Guidelines on the Recognition of Allowance for Impairment in March 2021. 
+
+They are appealing for consideration on establishing and identifying the 
+
+names of the accountable persons and/or entities from whom the receivables 
+
+are to be collected since they can no longer locate the documents as those 
+
+accounts have been in their books since 1980 and retrieval of documents is no 
+
+longer possible. 
+
+
+
+51 
+
+ 
+
+INVENTORIES ACCOUNT 
+
+ 
+
+g.) Deliveries of supplies and materials were recorded as outright expense 
+ 
+
+2.25 As of December 31, 2020, Inventories account showed an outstanding balance 
+of P24,762,810.55. Review of Inventories account General Ledger (GL) and 
+
+other supporting documents showed that deliveries of supplies and materials 
+
+were not recorded as Inventories/Assets but, instead, recorded as outright 
+
+expenses, which is inconsistent with Section 6. b, Chapter 1 of the GAM for 
+
+NGAs, Volume I as regards accrual basis of accounting as one of the basic 
+
+Government Accounting and Budget Reporting Principles. Also, most of 
+
+Inventories sub-accounts were non-moving, same as reported last year. 
+
+ 
+
+2.26 Confirmation with the concerned personnel revealed that there were supplies 
+and materials left as at yearend in the stockroom but no entries were made to 
+
+adjust the account balance and recognize them, thus overstated the Supplies 
+
+and Materials Expenses account and understated the Inventories Account by 
+
+the value of the Inventories left in the stockroom. Report on the Physical 
+
+Count of Inventories (RPCI) was not submitted to the Audit Team so we have 
+
+no basis to determine the amount of misstatements. 
+
+ 
+
+h.) Existence of Semi-Expendable Properties totaling P14,848,321.05 
+cannot be ascertained 
+
+ 
+
+2.27 For CY 2020, EARIST reported Semi-Expendable Properties totaling 
+P14,848,321.05. Ocular inspection revealed that these reported semi-
+
+expendables were not present and not available in the stockroom. 
+
+Confirmation and verification with the concerned personnel showed that they 
+
+do not have these semi-expendables reported as they do not stock those items. 
+
+They only purchase semi-expendable items upon request and issued them to 
+
+the requesting office upon receipt as they have limited space in the stockroom. 
+
+It is possible that those items were already issued to the end-users but were not 
+
+credited in the Inventories account and recognized as Expense upon issuance. 
+
+ 
+
+2.28 Due to the absence of the Supplies Ledger Card (SLC) and other supporting 
+documents, the Audit Team cannot establish the amount of misstatements and 
+
+fully verify the accuracy and reliability of the reported amount. 
+
+ 
+
+i.) Non-moving balance of Inventory sub-accounts carried in the books for 
+several years amounting to P10,036,684.50 
+
+ 
+
+2.29 Review of the accounts showed that various sub-accounts totaling 
+P10,036,684.50 were non-moving and have been dormant from two to more 
+
+than 10 years. This was incorporated in the previous year’s findings and the 
+
+Management is amenable that the amounts reported in the books no longer 
+
+existed or were already issued/consumed but were not derecognized in the 
+
+
+
+52 
+
+ 
+
+book due to absence of regular reconciliation between the Accounting and 
+
+Property records. The amount is only being carried forward every year without 
+
+verification. 
+ 
+
+ 
+
+j.) Non-maintenance/preparation of records/forms and other reports as 
+required under pertinent provisions of GAM 
+
+ 
+
+2.30 Section 17, Chapter 8, Volume I of the GAM enumerated the Records, Forms 
+and Reports to be prepared and/or maintained.  
+
+ 
+
+2.31 Review of the reports submitted showed that Supplies Ledger Cards (SLC) 
+and Stock Cards (SC) were not maintained for each type of supplies to record 
+
+all receipts and issuances. The Accounting Unit and the Supply and/or 
+
+Property Unit did not conduct periodic reconciliation of the SLC and SC to 
+
+identify and adjust any discrepancy. 
+
+ 
+
+2.32 No RPCI was also submitted as there was no physical count conducted for 
+several years already. The Management did not conduct a physical count of 
+
+inventories to determine the existence of the recorded inventories and submit 
+
+the result thereof in the RPCI pursuant to Section 13, Chapter 8 of GAM for 
+
+NGAs, Volume I which provides that “Physical count/inventory, which is 
+
+required semi-annually, is an indispensable procedure for checking the 
+
+integrity of property custodianship.” 
+
+ 
+
+2.33 Other reports were submitted but were not properly filled up/signed as 
+instructed under GAM for NGAs, Volume II. 
+
+ 
+
+2.34 Due to the abovementioned observations, errors and misstatements, the 
+existence and accuracy of the balance of Inventories accounts totaling 
+
+P24,762,810.55 cannot be relied upon. 
+
+ 
+
+2.35 We recommended that Management thru the: 
+ 
+
+Accountant- 
+
+ 
+
+a. recognize and record in the books the Inventories upon purchase 
+or delivery thereof and record expenses upon distribution in 
+
+compliance with the accrual method of accounting to prevent 
+
+over/understatement of accounts; 
+
+ 
+
+b. review the non-moving balance of Inventory sub-accounts carried 
+in the books for several years and check for possible 
+
+derecognition/write-down within one month from receipt hereof; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+53 
+
+ 
+
+Property Officer- 
+ 
+
+c. conduct physical count of inventories and submit RPCI thereof to 
+the Audit Team within one month from receipt hereof to preclude 
+
+the withholding of salaries pursuant to Section 122 of PD No. 1445 
+
+and to ensure the accuracy of balance reported; 
+ 
+
+Accountant and Property Officer- 
+ 
+
+d. reconcile Accounting and Property records, account the semi-
+expendables properties reported and verify if those were already 
+
+issued as evidenced by RIS and ICS and adjust immediately all 
+
+discrepancies noted between the physical and book inventories 
+
+within one month from receipt hereof, otherwise, for all missing 
+
+inventories if not produced and accounted, the Property Officer 
+
+shall be liable for their money value and  for all losses, occasioned 
+
+by negligence in the keeping or use of the property,  pursuant to 
+
+Section 105 of PD No. 1445; and 
+ 
+
+e. maintain/prepare the records/forms and other documents as 
+required under pertinent provisions of GAM using the format and 
+
+instructions provided under GAM for NGAs, Volume II, within 
+
+one month from receipt hereof, to preclude the withholding of 
+
+salaries pursuant to Section 122 of PD No. 1445. 
+ 
+
+2.36 The Management commented that the PMS Chief is in close coordination with 
+the FMS Heads as far as valuation for inventories are concerned.  RSMI and 
+
+other reports using GAM format were also prepared and submitted. Now, 
+
+PMS is conducting physical inventory of the materials and supplies at the 
+
+stockroom and, at the same time, noting those items which were either slow- 
+
+moving or non-moving/dormant at all.  Items which have outgrown their 
+
+useful life were also noted as those will be a part of their reconciliation with 
+
+FMS.  Report will be prepared and submitted to the Audit Team as soon as 
+
+finalized. 
+
+ 
+
+2.37 FMS, on the other hand, in coordination with the Property Office, will review 
+the semi-expendable properties and non-moving inventories and check if 
+
+possible derecognition/ write-down is possible and provide adjustment as 
+
+necessary, once reconciliation has been made. 
+
+ 
+
+Auditor’s Rejoinder 
+
+ 
+
+2.38 The Audit Team recognized the efforts made by the concerned offices and 
+their compliance with the required submission of reports, however, inquiry 
+
+revealed that SCs and SLCs are still not maintained. Though the PMS is 
+
+compliant with the submission of RSMI, these were not used by the FMS in 
+
+recording their Supplies and Materials Expenses. 
+
+
+
+54 
+
+ 
+
+ADVANCES 
+
+ 
+
+k.) Accumulation of unsettled/unliquidated cash advance balance at year-
+end - P8,128,055.28 
+
+ 
+
+2.39 COA Circular No. 97-002 dated February 10, 1997 provides the rules and 
+regulations regarding the granting, utilization and liquidation of cash 
+
+advances. 
+
+ 
+
+2.40 The legal presumption against non-liquidation of cash advances is provided by 
+Articles 217 and 218 of the Revised Penal Code as quoted hereunder: 
+
+ 
+
+The failure of a public officer to have duly forthcoming any public funds 
+
+or property with which he is chargeable, upon demand by any duly 
+
+authorized officer, shall be prima facie evidence that he has put such 
+
+missing funds or property to personal use. 
+
+ 
+
+Any public officer, whether in the service or separated therefrom by 
+
+resignation or any other cause, who is required by law or regulation to 
+
+render account to the Insular Auditor, or to a provincial auditor and 
+
+who fails to do so for a period of two months after such accounts should 
+
+be rendered, shall be punished by prison correctional in its minimum 
+
+period, or by a fine ranging from 200 to 6,000 pesos, or both. (Emphasis 
+
+supplied) 
+
+ 
+
+2.41 The above-cited rules and regulations were formulated to provide clear and 
+extensive guidelines for an effective and efficient control in the granting, 
+
+utilization and liquidation of cash advances. However, these were not strictly 
+
+observed and implemented as can be gleaned from the reports and records 
+
+submitted by the Management.   
+
+ 
+
+2.42 The unliquidated Advances for Payroll, Advances to Special Disbursing 
+Officer and Advances to Officers and Employees accounts as reflected in the 
+
+FSs of EARIST as of December 31, 2020 amounted to P8,128,055.28, broken 
+
+down as follows:  
+
+ 
+
+Table 8. Breakdown of Unliquidated Cash Advances 
+
+Account Title 
+Fund 101 Fund 164 Fund 161 Total 
+
+(in Pesos) 
+
+Advances for Payroll   4,996,359.67  211,630.72                    -      5,207,990.39  
+
+Advances to Special 
+
+Disbursing Officer 
+     629,417.15       167,069.39    289,384.00    1,085,870.54  
+
+Advances to Officers 
+
+and Employees 
+     586,038.16       244,137.00   1,004,019.19    1,834,194.35  
+
+Total   6,211,814.98       622,837.11   1,293,403.19    8,128,055.28  
+
+ 
+
+
+
+55 
+
+ 
+
+2.43 It is the responsibility of the Head of the Agency to ensure the proper granting, 
+and utilization of all cash advances in accordance with the set rules and 
+
+regulations. To strengthen internal control and adherence to rules and 
+
+regulation in the grant, utilization, and liquidation of cash advances, 
+
+Management shall take appropriate action and exhaust all remedies and/or 
+
+demand for settlement thereof.  
+
+ 
+
+2.44 The non-liquidation by the concerned AOs of the unsettled accounts 
+overstated the Asset accounts and understated the Expense accounts as well. 
+
+ 
+
+l.) Additional Cash Advances Granted to AO Despite Non-liquidation 
+ 
+
+2.45 The limitation of cash advances is provided under Section 89 of PD No. 1445 
+as: 
+
+ 
+
+No cash advance shall be given unless for a legally authorized specific 
+
+purpose. A cash advance shall be reported on and liquidated as soon 
+
+as the purpose for which it was given has been served. No additional 
+
+cash advance shall be allowed to any official or employee unless the 
+
+previous cash advance given to him is first settled or a proper 
+
+accounting thereof is made.  
+
+ 
+
+2.46 Analysis of account disclosed that various AOs were granted as many as 20 
+times even if their previous cash advances have not yet been liquidated, details 
+
+are as follows: 
+
+ 
+
+Table 9. Accountable Persons with Unliquidated Cash Advances (UCA) 
+No. Name No. of UCA < 2 Years  3-10 Years   > 10 Years  
+
+1 Baesa, Jose 2 -       6,930.00  - 
+
+2 Bandoy, Lourdes 12 -    121,919.31  262,896.00  
+
+3 Cabrera, Noel 20 -    524,477.16  218,030.26  
+
+4 Corpuz, Ariston 3 - -   16,184.00  
+
+5 Ferraro, Jay M. 5 -    179,986.75  - 
+
+6 Guarino, Marjorie 2 -        1,760.00  - 
+
+7 Gubaton, Elizabeth 2 -      42,735.60  - 
+
+8 Kirong, Pedro Rommel 6 -      50,091.00    13,190.00  
+
+9 Palazo, Katherine Kay 2 -        1,388.00  - 
+
+10 Reyes, Violeta 5 - - 114,381.85  
+
+11 Robiso, Esteban 3 -      20,823.00  - 
+
+12 Robiso, Stephen Keith 3 -      23,560.00  - 
+
+13 Sabado, Paz D. 2 -      60,541.00  - 
+
+14 Sagum, Reinee rose 2 -      40,837.00  - 
+
+15 Sepidoza, Ramon 2 -        8,281.25  - 
+
+16 Sollano, Apolinario 3 -      33,101.00    
+
+17 Soriano, Elizabeth 4 -        4,794.00    26,383.00  
+
+Total Amount    1,121,225.07  651,065.11  
+
+ 
+
+ 
+
+ 
+
+
+
+56 
+
+ 
+
+m.) Long Outstanding/Dormant Cash Advances 
+ 
+
+2.47 COA Circular No. 2016-005 dated December 19, 2016 prescribes the 
+guidelines on the Write-off of Dormant Receivable Accounts, Unliquidated 
+
+Cash Advances and Fund Transfers of National Government Agencies 
+
+(NGAs), Local Government Units, (LGUs) and Government-Owned and/or -
+
+Controlled Corporations (GOCCs) for fair presentation of accounts on the 
+
+FSs. 
+
+ 
+
+2.48 Moreover, it provides procedures on the write-off of dormant accounts, the 
+required documents to support the same, threshold and approving authority to 
+
+grant the request for write-off, among others. 
+
+ 
+
+2.49 Further, Item 10 of COA Circular No. 97-001 dated February 05, 1997 
+prescribes the guidelines on the proper disposition/closure of dormant 
+
+accounts.  
+
+ 
+
+2.50 Review of the Aging Schedule revealed that the bulk of the unliquidated cash 
+advances totaling P2,815,323.75 or 35 percent out of the total cash advances 
+
+of P8,128,055.28 had been outstanding for three to more than 10 years, while 
+
+64 percent or P5,210,687.53 was aged less than one year and one percent or 
+
+P102,044.00 was one to two years old, details are summarized as follows: 
+
+ 
+
+Table 10. Aging of Cash Advances 
+
+Fund 
+Balance as 
+
+of 12.31.20 
+
+(in Pesos) 
+
+ AGING  
+
+< 1 Year 1 to 2 Years 3  to  > 10 Years 
+
+Fund 101 5,695,291.17  4,955,606.67  13,555.00       726,129.50  
+Fund 151 516,523.81  40,753.00  1,659.00       474,111.81  
+Fund 164   622,837.11  214,327.86  86,830.00       321,679.25  
+Fund 161 1,293,403.19   - -    1,293,403.19  
+Total 8,128,055.28  5,210,687.53  102,044.00    2,815,323.75  
+Percentage 100 64 1 35 
+
+ 
+
+2.51 It was noted that the balances of cash advances aged less than one year 
+reported in Funds 101 and 151 amounting to P4,955,606.67 and P40,753.00 
+
+respectively, represent payments for Collective Negotiation Agreement (CNA) 
+
+Incentives of EARIST casual and temporary employees, tax refund and tuition 
+
+fee refund for dropped subjects, while the balance reported in Fund 164 
+
+amounting to P214,327.86 represents payment for Honorarium of part-time 
+
+instructors and BOT members and allowance for student assistants. 
+
+ 
+
+2.52 On November 25, 2020, the Audit Team had issued 154 demand letters to 
+officers and employees concerned in compliance with COA Memorandum No. 
+
+2017-010 dated May 15, 2017 for purposes of taking appropriate action and/or 
+
+demanding settlement thereof.  
+
+ 
+
+
+
+57 
+
+ 
+
+2.53 For dormant accounts, Management is advised to file the appropriate request 
+for authority to write-off dormant accounts. However, as of this writing, only 
+
+one request to write-off dormant accounts of Mr. Cabrera amounting to 
+
+P788,316.42 was filed. However, this was returned to Management for 
+
+submission of additional required supporting documents. 
+
+ 
+
+2.54 The absence of regular monitoring of the liquidation/settlement of the cash 
+advances granted caused the accumulation of the balances and  casts  doubt on 
+
+the validity and accuracy of the reported balances, thus affecting the fair 
+
+presentation of the accounts in the Institute’s FSs. 
+
+ 
+
+2.55 We recommended that Management: 
+ 
+
+a. strictly comply with COA Circular No 97-002 dated February 10, 
+1997 in the granting and utilization of cash advances and refrain from 
+
+granting another cash advance unless previous cash advance/s had 
+
+been settled; 
+
+  
+
+b. impose the appropriate penalties/sanctions against the erring AOs and 
+employees with past due accounts; 
+
+ 
+
+c. suspend payment of salaries of the Officials and Employees concerned 
+for failure on their part to submit the documents and reports 
+
+mentioned herein within one month from receipt hereof or until they 
+
+shall have earlier complied with the requirements of the Commission 
+
+on Audit pursuant to the provision of Section 122 of PD No. 1445; and 
+
+ 
+
+d. thru the Accountant, conduct a final review, analysis and 
+reconciliation of all dormant cash advances pursuant to the 
+
+Guidelines on the Proper Disposition/Closure/Write-off of Dormant 
+
+funds and/or accounts as provided by COA Circular No.  97-001 dated 
+
+February 5, 1997 and COA Circular No. 2016-005 dated December 
+
+19, 2016. 
+
+ 
+
+2.56 The Management commented that they informed all the accountable persons 
+regarding the settlement/liquidation of all cash advances granted to them.  
+
+Those who are no longer connected with EARIST, especially the students,  
+
+were informed through registered mail.  Report on the updated schedule of 
+
+outstanding cash advances will be submitted to the Audit Team once the 
+
+situation under the ECQ improves.  
+
+ 
+
+2.57 The Audit Team acknowledged the actions taken by the Management and 
+required the Management to prepare and maintain monitoring sheet of actions 
+
+made and furnish a copy to them. If it appears that collection of balances is not 
+
+probable, they have to make a request for write-off. Further, they were advised 
+
+to comply within one month. 
+
+
+
+58 
+
+ 
+
+PROPERTY, PLANT AND EQUIPMENT 
+
+ 
+
+n.) Failure to conduct a complete physical inventory-taking of PPEs -
+P365,651,264.51 
+
+ 
+
+2.58 The Statement of Financial Position of the Institute as at December 31, 2020 
+shows that the Property, Plant and Equipment account has a net book value of 
+
+P365,651,264.51, broken down as follows: 
+
+ 
+
+Table 11. Schedule of PPE Balances (excluding CIP) 
+
+PPE Accounts 
+Cost 
+
+Accumulated 
+
+Depreciation 
+Book Value 
+
+(in Pesos) 
+
+Land  1,119,500.00                       -    1,119,500.00  
+
+Sewer Systems 8,895,188.14     422,521.44  8,472,666.70  
+
+Power Supply Systems 12,365,325.00   3,895,077.48  8,470,247.52  
+
+Buildings 31,956,817.22   6,852,872.40  25,103,944.82  
+
+School Buildings 335,550,104.89  157,589,388.65 177,960,716.24  
+
+Machinery 2,182,224.52     1,964,002.07  218,222.45  
+
+Office Equipment 56,261,975.71    40,455,744.59  15,806,231.12  
+
+Information and Communication 
+
+Technology Equipment 
+74,194,042.00  55,057,463.68  19,136,578.32  
+
+Communication Equipment 2,485,749.95      1,520,607.25  965,142.70  
+
+Disaster, Response & Rescue 
+
+Equipment 
+   1,489,000.36       902,124.32  586,876.04  
+
+Medical Equipment     598,320.00         355,849.20  242,470.80  
+
+Sports Equipment 386,000.00  122,760.00  263,240.00  
+
+Technical and Scientific 
+
+Equipment 
+227,745,536.80  162,568,264.58  65,177,272.22  
+
+Other Machineries and 
+
+Equipment 
+79,517,026.02  53,700,412.08  25,816,613.94  
+
+Motor Vehicles 15,156,760.22  4,686,977.64  10,469,782.58  
+
+Furniture and Fixtures 13,656,860.68  10,375,929.26  3,280,931.42  
+
+Books 7,110,410.83  4,549,583.19  2,560,827.64  
+
+Total Amount 870,670,842.34  505,019,577.83  365,651,264.51  
+
+ 
+
+2.59 Despite prior years’ observations, the Agency still did not conduct complete 
+physical inventory of all its properties as required under Section 38, Chapter 
+
+10 of the GAM for NGAS, Volume I, which provides that “The entity shall 
+
+have a periodic physical count of PPE, which shall be done annually and 
+
+presented on the Report on the Physical Count of Property, Plant and 
+
+Equipment (RPCPPE) (Appendix 71) as at December 31 of each year. This 
+
+shall be submitted to the Auditor concerned not later than January 31 of the 
+
+following year.” This provision was continuously not complied with by the 
+
+Agency.  
+
+ 
+
+2.60 Physical inventory-taking is necessary to check the existence and condition of 
+the PPE. The reliability of the ledger balance for the PPE accounts can only be 
+
+
+
+59 
+
+ 
+
+established after the actual inventory-taking and its reconciliation with 
+
+Property and Accounting records. Physical inventory-taking also attests to the 
+
+integrity of property custodianship and accountability.  
+
+ 
+
+2.61 Upon inquiry with the Chief of the Property Management Services, the failure 
+to conduct a complete inventory-taking is due to the limited manpower under 
+
+their Office. Considering the large volume of backlogs and the demand in the 
+
+reportorial requirements, sufficient number of staff properly equipped with 
+
+experience and competencies must be assigned in the Office. 
+
+ 
+
+2.62 The last submitted RPCPPE was for CY 2018, while to date, actual count of 
+inventory of PPE is ongoing for the succeeding years. 
+
+ 
+
+o.) Non-Recognition of Depreciation Expenses and Accumulated 
+Depreciation for PPE 
+
+ 
+
+2.63 Review of the submitted FSs for Fund 161 as of December 31, 2020 disclosed 
+that no accumulated depreciation and related depreciation expenses were 
+
+computed and recognized on the following PPE accounts: 
+
+ 
+
+Table 12. PPE with No Computed Accumulated Depreciation 
+
+PPE Accounts 
+Amount 
+
+(in Pesos) 
+
+Office Equipment      1,837,493.89  
+
+Communications Equipment              57,603.00  
+
+Other Equipment            325,627.66  
+
+Furniture and Fixtures            978,372.29  
+
+Total Amount         3,199,096.84  
+
+ 
+
+2.64 Section 27, Chapter 10 of the GAM for NGAs, Volume I states that: “Except 
+for land and not recognized heritage assets, all Property, Plant and 
+
+Equipment shall be depreciated, and that depreciation does not cease when 
+
+the asset becomes idle or is retired from active use and held for disposal 
+
+unless the asset is fully depreciated.” 
+
+ 
+
+2.65 The non-recognition of Accumulated Depreciation and Depreciation Expenses 
+for the above PPE accounts overstated the Institute’s PPE accounts disclosed 
+
+in the Statement of Financial Position while overstating the financial 
+
+performance for the period ended December 31, 2020, thereby the fair 
+
+presentation of the FSs was not achieved. 
+
+ 
+
+p.) No Accounting and Property Records Maintained for PPE 
+ 
+
+2.66 Section 42, Chapter 10 of the GAM for NGAs provides that: “The Chief 
+Accountant shall maintain the PPELC for each category of PPE including 
+
+work and other animals, livestock etc. The PPELC shall be kept to record 
+
+
+
+60 
+
+ 
+
+promptly the acquisition, description, custody, estimated useful life, 
+
+depreciation, impairment loss, disposal and other information about the asset. 
+
+For check and balance, the Property and Supply Office/Unit shall likewise 
+
+maintain PC for PPE in their custody to account for the receipt and 
+
+disposition of the same. The balance per PC shall be reconciled with PPELC 
+
+maintained by the Accounting Division/Unit. They shall also be reconciled 
+
+with other property records like PAR.” Moreover, it enumerates the 
+
+Accounting and Property records to be maintained to account for PPE. 
+
+ 
+
+2.67 As of this writing, Management did not regularly maintain Accounting and 
+Property records to account for PPE, i.e., PPELCs and PCs. Management 
+
+informed that they are planning to create a committee intended for the one-
+
+time cleansing of PPE accounts, however, due to the limited number of 
+
+personnel in the PMS and FMS, they are still looking for the personnel who 
+
+will compose the committee. 
+
+ 
+
+2.68 All the circumstances discussed above affected the accuracy and reliability of 
+the reported PPE balances and the fair presentation of the accounts in the FSs.  
+
+ 
+
+2.69 We recommended that Management: 
+ 
+
+a. assign PMS with sufficient number of staff properly equipped with 
+experience and competencies to comply with the reportorial 
+
+requirements; 
+
+ 
+
+b. thru the Accountant, record the Accumulated Depreciation and 
+Depreciation expenses for the above PPE accounts and submit the 
+
+JEV to the Audit Team; 
+
+ 
+
+c. comply with the pertinent provisions of GAM for NGAs on 
+recognition and reporting of PPE accounts; and 
+
+ 
+
+d. revisit COA Circular No. 2020-006 dated January 31, 2020 for the 
+guidelines and procedures for the conduct of physical count of PPE, 
+
+recognition of PPE items found at station, and disposition for non-
+
+existing/missing PPE items to aid the one-time cleansing of PPE 
+
+account balances. 
+
+ 
+
+2.70 Management commented that PPE additions for CYs 2019 and 2020 were 
+properly documented but due to absence of turnover from prior administration, 
+
+prior years’ depreciation expenses were computed based on the total amounts 
+
+only, as presented in prior years’ FSs, since they could not locate the itemized 
+
+listing of the balances. They acknowledged that further adjustment is needed 
+
+to have a reliable PPE amount to be presented in the FSs. 
+
+ 
+
+ 
+
+
+
+61 
+
+ 
+
+Auditor’s Rejoinder 
+ 
+
+2.71 The Audit Team recognized that the deficiencies noted were due to the lapses 
+in the prior year’ Property Management System and limited manpower, 
+
+however, the Management was encouraged to exert extra efforts to work back 
+
+and establish PPELCs and PCs, and reconcile both records to come up with an 
+
+accurate balance. Management must also address the issue on lack of 
+
+manpower by filling the vacant positions and assigning PMS and FMS with 
+
+qualified and sufficient number of staff. 
+
+ 
+
+ACCUMULATED SURPLUS/(DEFICIT) 
+ 
+
+q.) non-restatement of Prior Year’s FSs and Unsupported Prior Period 
+Adjustments totaling P79,406,536.60  
+
+ 
+
+2.72 Section 7, Chapter 19, of the GAM for NGAs, Volume I states that the 
+“Financial statements shall present fairly the financial position, financial 
+
+performance and cash flows of an entity.  Fair presentation requires the 
+
+faithful representation of the effects of transactions, other events, and 
+
+conditions in accordance with the definitions and recognition criteria for 
+
+assets, liabilities, revenue and expenses set out in PPSAS2.  The application of 
+
+PPSASs3, with additional disclosures when necessary, is presumed to result in 
+
+financial statements that achieve a fair presentation (Par. 27, PPSAS 1).  
+ 
+
+2.73 Paragraph 58 of the IPSAS 1 – Presentation of Financial Statements has 
+referred to IPSAS 3 which deals with the adjustments to comparative 
+
+information required when an entity changes an accounting policy or corrects 
+
+an error. 
+ 
+
+2.74 The IPSAS 3 - Accounting Policies, Changes in Accounting Estimates and 
+Errors provides the presentation and disclosure of Prior Period Errors, in 
+
+reference to Sections 42, 44, and 45, Chapter 19  of the GAM for NGAs, 
+
+Volume I, as follows: 
+ 
+
+a) Section 42 (b). An entity shall correct material prior period errors 
+retrospectively in the first set of financial statements authorized for 
+
+issue after their discovery by: (1) restating the comparative amounts 
+
+for prior period(s) presented in which the error occurred; or (2) if the 
+
+error occurred before the earliest prior period presented, restating the 
+
+opening balances of assets, liabilities and net assets/equity for the 
+
+earliest prior period presented; 
+ 
+
+b) Section 44. An entity shall disclose the following: (a) the nature of 
+the prior period error; (b) for each prior period presented, to the 
+
+extent practicable, the amount of the correction for each financial 
+
+ 
+2 See Note 1 
+3 See Note 1 
+
+
+
+62 
+
+ 
+
+statement line item affected; (c) the amount of the correction at the 
+
+beginning of the earliest prior period presented; and (d) if 
+
+retrospective restatement is impracticable for a particular prior period, 
+
+the circumstances that led to the existence of that condition and a 
+
+description of how and from when the error has been corrected; and 
+ 
+
+c) Section 45 illustrates the sample retrospective restatement of errors. 
+ 
+
+2.75 As defined in the GAM for NGAs, Volume I and paragraph 46 of IPSAS 3, 
+errors are those  arising in respect of the recognition, measurement, 
+
+presentation, or disclosure of elements of financial statements.  Financial 
+
+statements are deemed not compliant with IPSASs if they contain either 
+
+material errors, or immaterial errors made intentionally to achieve a particular 
+
+presentation of an entity’s financial position, financial performance, or cash 
+
+flows.  Thus, potential current period errors discovered in that period are 
+
+corrected before the financial statements are authorized for issue.  Material 
+
+errors are sometimes not discovered until a subsequent period, and these prior 
+
+period errors are corrected in the comparative information presented in the 
+
+financial statements for that subsequent period. 
+ 
+
+2.76 Paragraph 47 of the IPSAS 3 provides further that subject to the limitations of 
+retrospective adjustment, an entity shall correct material prior period errors 
+
+retrospectively in the first set of financial statements authorized for issue after 
+
+their discovery by: 
+ 
+
+a) Restating the comparative amounts for prior period(s) presented in which 
+the error occurred; or 
+ 
+
+b) If the error occurred before the earliest prior period presented, restating the 
+opening balances of assets, liabilities and net assets/equity for the earliest 
+
+prior period presented. 
+ 
+
+2.77 Review of the Statement of Changes in Net Assets/Equity for the Year Ended 
+December 31, 2020 submitted by the Management showed that the Prior 
+
+Period Adjustments were presented with the total amount of ₱79,406,536.60.  
+
+These were also disclosed in the accompanying Notes to Financial Statements, 
+
+of which Management identified them as transactions for previous years such 
+
+as salaries, correction of amounts, liquidation of cash advances, recording of 
+
+disallowances, recording of donations, depreciation of various assets which 
+
+were only taken up during the year. Details of PPAs as disclosed in the Notes 
+
+to FSs were as follows: 
+ 
+
+Particulars 
+Name of Accounts 
+
+Affected 
+
+ Amount 
+
+(Over)/Under  
+
+ Net Effect for 
+
+Accumulated 
+
+Surplus/(Deficit)  
+
+Fund 101 – General Fund 
+
+Unrecorded prior year 
+
+depreciation 
+
+Accumulated 
+
+Depreciation – PPE 
+
+541,060.38 (541,060.38) 
+
+
+
+63 
+
+ 
+
+Particulars 
+Name of Accounts 
+
+Affected 
+
+ Amount 
+
+(Over)/Under  
+
+ Net Effect for 
+
+Accumulated 
+
+Surplus/(Deficit)  
+
+Liquidation of prior 
+
+year’s cash advances 
+
+Advances to SDO 
+
+Advances to OE 
+
+(60,035.00) (60,035.00) 
+
+Unrecorded 
+
+Assistance from LGU 
+
+(2017-2019) 
+
+Assistance from 
+
+LGU 
+
+116,457,493.00 116,457,493.00 
+
+Unrecorded Expenses 
+
+related to Assistance 
+
+from LGU (2017-
+
+2019) 
+
+Various Expenses 
+
+Account 
+
+74,352,612.79 (74,352,612.79) 
+
+Unrecorded Donation 
+
+of PPE 
+
+Various PPE 
+
+Accounts 
+
+6,111,162.82 6,111,162.81 
+
+Unrecorded Deliveries 
+
+from DBM-PS 
+
+Due from NGA (6,430,659.88) (6,430,659.88) 
+
+Return to BTr of Cash 
+
+held by PS-DBM for 
+
+CY 2012 and below 
+
+balances of the 
+
+Institute 
+
+Due from NGA (760,849.16) (760,849.16) 
+
+Refund to DOST of 
+
+Fines and Penalties 
+
+deducted from a 
+
+DOST Funded Project 
+
+Fines and Penalties (12,300.00) (12,300.00) 
+
+Refund of Excess 
+
+Monetization of 
+
+Leave Credit 
+
+Other Personnel 
+
+Benefit 
+
+4,714.69 4,714.69 
+
+Adjustment to correct 
+
+errors in prior years’ 
+
+recording that affected 
+
+various Balance Sheet 
+
+Accounts 
+
+Advances to SDO 
+
+Advances to 
+
+Contractors 
+
+Accounts Payable 
+
+Cash in Bank 
+
+2,171,867.79 2,171,867.79 
+
+Subtotal   42,587,721.08 
+
+Fund 164 - Special Trust Fund 
+
+Liquidation of prior 
+
+year’s cash advances 
+
+Advances to SDO 
+
+Advances to OE 
+
+(148,267.53) (148,267.53) 
+
+Unrecorded prior 
+
+year’s Accounts 
+
+Payable 
+
+Accounts Payable 396,233.21 (396,233.21) 
+
+Recording of COA 
+
+Disallowances 
+
+Receivable-
+
+Disallowances 
+
+37,104,681.26 37,104,681.26 
+
+Excess obligation 
+
+from prior year 
+
+Accounts Payable (15,500.00) 15,500.00 
+
+Subtotal   36,575,680.52 
+
+Fund 161- Revolving Fund 
+
+Recording of COA 
+
+Disallowances 
+
+Receivable-
+
+Disallowances 
+
+243,135.00 243,135.00 
+
+Subtotal   243,135.00 
+
+Grand Total   79,406,536.60 
+
+
+
+64 
+
+ 
+
+2.78 The above material prior period errors were not properly supported by 
+documents and not corrected retrospectively as required under the pertinent 
+
+provisions of GAM for NGAs (NGAs), Volume I and the IPSAS. Records 
+
+showed that it was recorded as direct adjustments to the Accumulated 
+
+Surplus/(Deficit) Account, thus increasing the account by ₱79,406,536.60. 
+
+ 
+
+2.79 Inquiry with the Management disclosed that they failed to restate their FSs as 
+it would take time for them to collate all the necessary supporting documents 
+
+from their former office which was recently renovated and due to current 
+
+working situation brought about by the Pandemic. 
+
+ 
+
+2.80 Non-restatement of the material Prior Period Adjustments in the CY 2019 Financial 
+Statements amounting to ₱79,406,536.60 due to the absence of supporting 
+
+documents, adversely affected the fair presentation of the comparative FSs 
+
+contrary to the provisions of the GAM for NGAs, Volume I and the IPSAS. 
+
+ 
+
+2.81 We recommended that Management: 
+ 
+
+a. comply with the retrospective application of the Prior Period Adjustments 
+by restating the 2019 Financial Statements as stated in the IPSAS 1 and 3 
+
+in reference to Sections 42, 44 and 46, Chapter 19 of the GAM for NGAS, 
+
+Volume I; 
+
+ 
+
+b. use the prescribed format provided in Section 45, Chapter 19 of the GAM 
+for NGAs, Volume I for proper procedures and disclosures of 
+
+Retrospective Restatement of Errors; and 
+
+ 
+
+c. provide the supporting details of the Prior Period Adjustments showing 
+the specific accounts affected and present them in the Notes to Financial 
+
+Statements. 
+
+ 
+
+COMPLIANCE AUDIT 
+
+ 
+
+Special Trust Fund (STF) Allocation, Utilization and Disbursements 
+
+ 
+
+3. Allocation, utilization and disbursements of Special Trust Fund (STF) totaling 
+P162,570,545.91 were not in accordance with CHED Memorandum Order 
+
+(CMO) No. 20, series of 2011, and Section 4 (d) of Republic Act (RA) No. 8292, 
+
+due to: a) non-compliance with the prescribed percentage rate of allocation and 
+
+the limitation on adjustment/modification of the specific budget allocation; and 
+
+b) unallocated actual collections and minimal utilization of Fiduciary Funds, 
+
+thereby adversely affecting the effective and efficient delivery of programs, 
+
+projects and activities consistent with the trifocal functions of the EARIST, and 
+
+the accumulation of unutilized cash balances maintained in the authorized 
+
+government depository banks (AGDBs). 
+
+ 
+
+
+
+65 
+
+ 
+
+3.1 Section 4 (d) of RA No. 8292 or the Higher Education Modernization Act of 
+1997  provides in part that any income generated by the university or college 
+
+from tuition fees and other charges, as well as from the operation of auxiliary 
+
+services and land grants, shall be retained by the university or college, and 
+
+may be disbursed by the Board of Regents/Trustees (BOR/T) for instruction, 
+
+research, extension, or other programs/projects of the university or 
+
+college: Provided, that all fiduciary fees shall be disbursed for the specific 
+
+purposes for which they are collected.  
+
+ 
+
+3.2 The same Section also stated that if, for reason of control, the university or 
+college, shall not be able to pursue any project for which the funds have been 
+
+appropriated and allocated under its approved program of expenditures, the 
+
+Board of Regents/Trustees (BOR/T) may authorize the use of said funds for 
+
+any reasonable purpose which in its discretion, may be necessary and urgent 
+
+for the attainment of the objectives and goals of the universities or college. 
+
+ 
+
+3.3 CHED Memorandum Order (CMO) No. 20, Series of 2011 has been issued to 
+establish and institutionalize uniform fiscal policies that will serve as 
+
+guidelines on the use and disposition of all internally generated funds accruing 
+
+to the State University/College (SUC), as well as to integrate a system of 
+
+accountability for all fund administrators. It defines STF as referring to the 
+
+income of the SUC arising from collection of tuition fees, miscellaneous fees, 
+
+service and other income. 
+
+ 
+
+3.4 Section 24 thereof states that the budget authorized by the BOR shall be 
+implemented within the CY for which it was formulated. The inclusive 
+
+collection period and the Quarter for which the collection will be used shall be 
+
+clearly and specifically stated. The BOR regularly meets only once every 
+
+quarter, and is allowed to conduct special meetings whenever necessary. 
+
+Therefore, a reasonable scheme must be resorted to in order to abide by COA 
+
+Circular No. 2000-002 dated April 4, 2000, which requires board approval for 
+
+the use of income, while aligning the financial operations and transactions 
+
+with the financial cycle which abides by a January to December or the CY 
+
+period. 
+
+ 
+
+3.5 Consistent with Section 4(d) of RA No. 8292, the EARIST maintains the 
+Special Trust Fund (STF) or Fund 164 with the Land Bank of the Philippines 
+
+(LBP), Malacaňang Branch, to which collections of income are being 
+
+deposited.  
+
+ 
+
+3.6 On March 2, 2020, the BOT approved the EARIST’s Proposed Program of 
+Expenditures (PRE) for CY 2020 amounting to P105,627,297.92 for Personnel 
+
+Services (PS), Maintenance and Other Operating Expenses (MOOE), Capital 
+
+Outlays (CO), Fiduciary Fees, extension and research programs/activities. 
+
+However, there were realignments and additions in the budget totaling 
+
+P56,943,247.99, which consisted of collections for the 2nd Semester of 2020, 
+
+
+
+66 
+
+ 
+
+unprogrammed funds from 2019 collections and prior years’ balances. 
+
+EARIST’s total budget for CY 2020 amounted to P162,570,545.91. 
+
+ 
+
+3.7 An evaluation of the submitted approved PRE and the corresponding 
+utilization reports disclosed the following deficiencies: 
+
+ 
+
+a) Non-compliance with the prescribed percentage rates of allocation and 
+the limitation on adjustment/modification of the specific budget 
+
+allocation. 
+
+ 
+
+3.8 Sections 6 to 17 of CMO No. 20 set the specific budget allocations and the 
+corresponding limitations on the adjustment or modification of percentage 
+
+allocation on the thrusts, programs, and activities, as summarized in the 
+
+succeeding table: 
+
+ 
+
+Table 13. CMO No. 20 Budget Allocations and Limitations 
+Thrust/ 
+
+Program/ 
+
+Activity 
+
+Section Purpose 
+
+Specific 
+
+Budget 
+
+Allocation 
+
+Limitation on 
+
+Adjustment or 
+
+Modification 
+
+A. Instruction  Primary function of the SUC 50%  
+
+1. Faculty and 
+Staff 
+
+Development 
+
+6, 7 Overload pay (faculty member with 
+
+permanent status), trainings and 
+
+seminars, scholarship grants, 
+
+educational tours (assistance), in-house 
+
+training and evaluation, and other 
+
+similar activities for the enhancement 
+
+of the capabilities of the faculty 
+
+members. Supplies and materials, 
+
+maintenance and other operating 
+
+expenses shall be limited to the office 
+
+supplies used in administration of a 
+
+college or program. 
+
+12.50% May be adjusted in 
+
+accordance with the 
+
+expenditure trends 
+
+established in the 
+
+preceding year. 
+
+However, the 
+
+adjustment 
+
+resulting in the 
+
+reduction in the 
+
+allocation of one or 
+
+more components 
+
+shall not fall below 
+
+7.5%, in order not 
+
+to unduly curtail 
+
+developmental 
+
+goals and regular 
+
+operations therein. 
+
+2. Curriculum 
+Development 
+
+Honoraria of part-time faculty 
+
+members (with duly approved contract 
+
+of employment), subscription to 
+
+journals (trade journals), books, 
+
+reviewers, reproduction of instructional 
+
+materials, shop tools and other 
+
+instructional equipment, educational 
+
+field trip assistance, industry 
+
+immersions, seminar workshops, and 
+
+curriculum review and development, 
+
+and such other maintenance and 
+
+operating expenses as may be deemed 
+
+directly and indirectly related and 
+
+necessary to accomplish delivery of 
+
+curricular requirements. 
+
+12.50% 
+
+3. Student 
+Development 
+
+In-house trainings of student leaders or 
+
+officers, trainings sponsored by 
+
+accredited agencies, student labor 
+
+deployment and compensation, IT 
+
+equipment, medical and dental 
+
+12.50% 
+
+
+
+67 
+
+ 
+
+Thrust/ 
+
+Program/ 
+
+Activity 
+
+Section Purpose 
+
+Specific 
+
+Budget 
+
+Allocation 
+
+Limitation on 
+
+Adjustment or 
+
+Modification 
+
+services/programs, trainings, 
+
+orientation or seminar workshop for 
+
+student organization officers, 
+
+scholarship and incentive programs 
+
+designed to uplift and motivate student 
+
+achievers, and other similar activities, 
+
+in furtherance of the goal in support of 
+
+the welfare of the general student 
+
+population. 
+
+4. Facilities 
+Development 
+
+Audio-visual equipment, furniture and 
+
+fixtures, room maintenance or 
+
+enhancement, workshop enhancement 
+
+and/or upgrading, instructional shop 
+
+tools and equipment upgrading, school 
+
+buildings construction (if a portion of 
+
+this fund is accumulated to this end), 
+
+sports facilities and equipment 
+
+(buildings and other structures), 
+
+information technology and 
+
+communication system and 
+
+infrastructure, major and minor repair 
+
+and maintenance of plant and physical 
+
+facilities, and such other expenses that 
+
+would contribute to the delivery of 
+
+effective curricular and extra-curricular 
+
+services to the general student 
+
+population. 
+
+12.50% 
+
+B. Research 
+Services 
+
+8, 9 Second major function; Objects of 
+
+expenditure related to the formulation 
+
+or implementation of programs, 
+
+projects, and activities, such as, but not 
+
+limited to honoraria and incentives of 
+
+researchers, lecturers, or research 
+
+presenters, research assistants (with 
+
+contract of employment) and wages of 
+
+other personnel, office and IT 
+
+equipment, facilities, supplies and 
+
+materials, training and travel expenses, 
+
+in-house research review, research 
+
+presentation in appropriate forum and 
+
+other research activities undertaking 
+
+that is geared towards producing 
+
+research outputs that would be 
+
+beneficial for the development of the 
+
+community or locality where the SUC 
+
+is located. 
+
+10% Not allowed in 
+
+order to ensure the 
+
+accomplishment of 
+
+research activities 
+
+or undertaking that 
+
+is geared towards 
+
+producing research 
+
+outputs that would 
+
+be beneficial for the 
+
+development of the 
+
+community or 
+
+locality where the 
+
+SUC is located. 
+
+C. Extension 
+Services 
+
+10, 11 Third major function; Instructional 
+
+materials necessary for effective 
+
+technology transfer of research outputs 
+
+to the community, skills training in 
+
+livelihood relative to the research 
+
+output, honoraria of trainers 
+
+undertaking the technology transfer of 
+
+10% Not allowed to 
+
+ensure effective 
+
+delivery of 
+
+programs involving 
+
+technology transfer 
+
+of research outputs 
+
+to the community 
+
+
+
+68 
+
+ 
+
+Thrust/ 
+
+Program/ 
+
+Activity 
+
+Section Purpose 
+
+Specific 
+
+Budget 
+
+Allocation 
+
+Limitation on 
+
+Adjustment or 
+
+Modification 
+
+research outputs to the community, 
+
+travel, training and seminar of 
+
+extension services personnel, trainers’ 
+
+industry immersion program, wages of 
+
+contract of service personnel other 
+
+services (job order). 
+
+or locality in which 
+
+the SUC is located 
+
+D. Production 12, 13 Establishment of a project or income 
+generating activity, or for investment 
+
+outlay in the form of commercial 
+
+structures that would generate 
+
+additional revenues for the SUC. 
+
+10% Fixed at 10% to 
+
+ensure effective 
+
+delivery of 
+
+programs involving 
+
+the establishment of 
+
+an investment 
+
+outlay project or 
+
+income generating 
+
+project of the main 
+
+campus, satellite 
+
+branches or external 
+
+campuses of the 
+
+SUC to be funded 
+
+out of their 
+
+respective tuition 
+
+fee collections. 
+
+However, any 
+
+reduction in the 
+
+allocated 
+
+percentage must be 
+
+justified in writing 
+
+and approved by 
+
+the governing 
+
+boards. 
+
+E. Administrati
+ve Services 
+
+14, 15 Basic general administrative support 
+
+services which include the following: 
+
+administrative services which 
+
+personnel or human resource 
+
+management, cashiering, maintenance, 
+
+security, supply and property 
+
+management, and liaison to and from 
+
+other national government agencies 
+
+concerned with personnel benefits and 
+
+privileges; financial management 
+
+which includes accounting, budgeting, 
+
+and financial reporting; and 
+
+administration which cater to the needs 
+
+of executive officers’ maintenance and 
+
+operating expenses. Budget allocation 
+
+shall be used for personnel services, 
+
+staff development trainings and 
+
+seminars, travel expenses, office 
+
+supplies and materials, security and 
+
+maintenance services (job 
+
+order/contracts of service) and such 
+
+other maintenance and operating 
+
+expenses necessary for the effective 
+
+10% Not allowed. 
+
+
+
+69 
+
+ 
+
+Thrust/ 
+
+Program/ 
+
+Activity 
+
+Section Purpose 
+
+Specific 
+
+Budget 
+
+Allocation 
+
+Limitation on 
+
+Adjustment or 
+
+Modification 
+
+and efficient delivery of general 
+
+administrative support services as 
+
+contribution to the attainment of the 
+
+vision, mission, goals and objectives of 
+
+State College. 
+
+F. Mandatory 
+Reserve 
+
+16, 17 Contingency fund for any unexpected 
+
+event which may adversely affect the 
+
+institution and its operations. 
+
+10% May be modified to 
+
+suit the needs of the 
+
+SUC, provided such 
+
+modification was 
+
+approved by the 
+
+governing board. 
+
+ 
+
+3.9 The above allocation may be made by each responsible fund administrator 
+after deduction of the SUC-wide common fund establishment of benchmark 
+
+data to the different thrust, program or activity of the agency on Instruction, 
+
+Research Services, Extension Services, Administrative Services, Production 
+
+and Mandatory Reserves. 
+
+ 
+
+3.10 Analysis of the approved specific allocations for the thrusts, programs and 
+activities of the EARIST for CY 2020 revealed variances, which were not in 
+
+conformity with the prescribed allocations and specific limitations on 
+
+adjustment or modification of percentage allocation. A comparative table is 
+
+presented in the table below: 
+
+ 
+
+Table 14. Comparison of Approved Allocations between PRE and CMO No. 20 
+
+Particulars 
+
+Approved PRE %  
+
+Allocation 
+
+ per CMO  
+
+Equivalent 
+
+Amount 
+
+(in Pesos) 
+
+Variance on PRE vs. 
+
+CMO Limitation 
+
+Allocation 
+
+(in Pesos) 
+% 
+
+Amount 
+
+(in Pesos) 
+% 
+
+A. Instruction 44,506,086.44 47.94 50  46,417,934.18  (1,911,847.74) (2.06) 
+
+1. Faculty and Staff 
+Development 
+
+12,523,174.63 13.49 12.5    11,604,483.54          
+
+918,691.09  
+
+0.99 
+
+2. Curriculum 
+Development 
+
+14,253,250.44 15.35 12.5    11,604,483.54     2,648,766.90  2.85 
+
+3. Student Development 3,270,500.00 3.52 12.5    11,604,483.54  (8,333,983.54) (8.98) 
+
+4. Facilities Development 14,459,161.37 15.57 12.5 11,604,483.54  2,854,677.83  3.07 
+
+B. Research Services 2,754,692.00 2.97 10    9,283,586.84  (6,528,894.84) (7.03) 
+
+C. Extension Services 769,093.00 0.83 10    9,283,586.84  (8,514,493.84) (9.17) 
+
+D. Production  5,937,713.00 6.40 10    9,283,586.84  (3,345,873.84) (3.60) 
+
+E. Administrative Services 38,488,673.91 41.46 10    9,283,586.84   29,205,087.08  31.46 
+
+F. Mandatory Reserve 379,610.00 0.41 10    9,283,586.84  (8,903,976.84) (9.59) 
+
+Sub-Total 92,835,868.35 100.00 100 92,835,868.35                        -    0.00 
+
+SUC-wide Common Fund - - - - - - 
+
+Fiduciary Fund 69,734,677.56 - - 69,734,677.56  -  - 
+
+Total P162,570,545.91 100.00 100.00 P162,570,545.91 - - 
+
+ 
+
+3.11 Based on the foregoing table, the non-allocation or decreases in the allocation 
+of other thrusts/projects/activities were used to augment allocations for 
+
+Administrative Services, whose allocation comprised of 41.46 percent or 
+
+
+
+70 
+
+ 
+
+almost half of the allocation, thereby short-changing the other thrust areas of 
+
+the EARIST, especially in Research, Extension, and Production Services, 
+
+which allocations were fixed at 10 percent where no adjustments or 
+
+modifications shall be allowed. Hence, effective delivery of programs and 
+
+projects consistent with the trifocal functions of SUCs, as well as the 
+
+opportunities for additional revenues for the SUC from the supposed 
+
+allocation for Production, are adversely affected. 
+
+ 
+
+3.12 Budget for Administrative Services shall be fixed at 10 percent, where 
+modification resulting in reduction of the percentage allocation shall not be 
+
+allowed. Though, part of the increase in the allocation for Administrative 
+
+Services can be attributed to the non-provision of SUC-wide Common Fund 
+
+budget as its expenses were lodged in the Administrative Services Allocation, 
+
+the allocation is still way higher and unacceptable. These administrative costs 
+
+should be charged to the General Fund instead of Special Trust Fund.  
+
+ 
+
+3.13 Also, amount allocated for Instruction comprising of 47.94 percent of the 
+budget did not meet the 50 percent required allocation as provided in the 
+
+above MC. Also, the allocation of this amount to its components were not 
+
+done fairly, resulting in Student Development Budget falling below 7.5 
+
+percent, which is not in compliance with Section 7 of the MC and curtailing 
+
+its development goals and regular operations. 
+
+ 
+
+b) Unallocated Actual Collections and Minimal Utilization of Fiduciary 
+Funds  
+
+ 
+
+3.14 Fees assessed and collected from students intended for specific purpose such 
+as cultural fees, medical/dental fees, sports development fees, laboratory fees, 
+
+library fees, guidance fees, and IT fees accrue to the Fiduciary Fees. As 
+
+defined in the CMO, this fund shall be used solely for the purpose for which it 
+
+was authorized to be collected. The listing of what is classified as Fiduciary 
+
+Fund, as well as the college, office, or unit accountable for its utilization shall 
+
+be stated in the Report of Collections, which is submitted to the BOR for 
+
+approval. 
+
+ 
+
+3.15 For CY 2020, funds available for Fiduciary Fees totaled P191,806,234.23, 
+comprised of accumulated prior years’ unutilized balances and current year’s 
+
+collection. Breakdown is as follows: 
+
+ 
+
+Table 15. Collections of Fiduciary Fees 
+
+Particulars 
+As of CY 2019 For CY 2020 Total 
+
+(in Pesos) 
+
+Athletic Fee 2,450,917.00          901,050.00          3,351,967.00  
+
+Audio-Visual Fee 6,273,778.00          135,900.00          6,409,678.00  
+
+Cultural Fee 5,312,103.67          900,000.00          6,212,103.67  
+
+Computer Fee 26,982,731.40        4,728,909.00         31,711,640.40  
+
+
+
+71 
+
+ 
+
+Particulars 
+As of CY 2019 For CY 2020 Total 
+
+(in Pesos) 
+
+Energy Fee 65,131,093.62        1,318,944.00         66,450,037.62  
+
+Insurance Fee 974,340.00            81,588.00          1,055,928.00  
+
+Guidance Fee 5,321,678.32          539,760.00          5,861,438.32  
+
+Medical Dental Fee 24,003,522.24        2,380,536.00         26,384,058.24  
+
+Library Fee 8,188,132.98        1,800,300.00          9,988,432.98  
+
+Laboratory Fee 27,673,681.00        6,707,269.00         34,380,950.00  
+
+Total Amount 172,311,978.23   19,494,256.00    191,806,234.23  
+
+ 
+
+3.16 Out of the amount, approved budget totaled only P69,734,677.56. Having 
+been assessed and collected from the students, these Fiduciary Fees should 
+
+have been allocated and disbursed for their intended purpose. 
+
+  
+
+3.17 Of the approved budget totaling P69,734,677.56, only P34,041,948.00 or 
+48.82 percent was utilized, leaving P35,692,729.56 or 51.18 percent 
+
+unutilized. Details from the reports submitted to the Audit Team are as shown 
+
+on the below: 
+
+ 
+
+Table 16. Utilization of Fiduciary Fees 
+
+Particulars 
+
+Approved 
+
+Budget 
+
+(in Pesos) 
+
+Utilization  Unutilized  
+
+Amount 
+
+(in Pesos) % 
+
+ Amount 
+
+(in Pesos)   %  
+
+Athletic Fee 1,590,200.00 734,265.00 46.17 855,935.00 53.83 
+
+Audio-Visual Fee - - -                      -    -                    
+
+Cultural Fee 510,184.00  186,044.00  36.47 324,140.00  63.53 
+
+Computer Fee 29,671,579.00  4,513,269.00  15.21 25,158,310.00  84.79 
+
+Energy Fee  1,261,502.00  1,052,599.00  83.44 208,903.00  16.56 
+
+Insurance Fee 974,340.00  846,365.00  86.87 127,975.00  13.13 
+
+Guidance Fee 511,958.56  -    - 511,958.56  100.00 
+
+Medical Dental Fee 5,487,820.00  2,404,024.00  43.81 3,083,796.00  56.19 
+
+Library Fee 3,458,164.00  2,554,654.00  73.87 903,510.00  26.13 
+
+Laboratory Fee 26,268,930.00  21,750,728.00  82.80 4,518,202.00  17.20 
+
+Total Amount 69,734,677.56  34,041,948.00  48.82 35,692,729.56  51.18 
+
+ 
+
+3.18 The unutilized balance implies that the Management did not ensure effective 
+delivery of services to its students from collected Fiduciary Fees, hence 
+
+further resulting in huge amounts maintained in the AGDB due to the 
+
+accumulation of unutilized balances. This is in contravention of Section 24 of 
+
+CMO 20, series of 2011, which states that the budget authorized by the BOR 
+
+shall be implemented within the CY for which it was formulated. 
+
+ 
+
+ 
+
+ 
+
+
+
+72 
+
+ 
+
+3.19 We recommended that Management: 
+ 
+
+a. comply with the required percentage of allocation and/or limitations 
+on adjustment or modification as prescribed under CMO No. 20, 
+
+series of 2011 in the succeeding Academic Years (AYs), and submit 
+
+appropriate justification on the deviations from the approved 
+
+allotment on specific thrusts, programs or activities of the EARIST; 
+ 
+
+b. make a representation with the CHED on the proposed modification 
+of the said CMO pursuant to Section 35 thereof; 
+
+ 
+
+c. observe set timelines in the implementation and completion of 
+plans/programs and activities to ensure effective delivery of services 
+
+and to address the needs of the students and other stakeholders, as 
+
+required under Section 24 of the CMO; and 
+ 
+
+d. maximize the utilization of Fiduciary Fees, submit justification on the 
+non-allocation of actual collections of Fiduciary Fees, and consider 
+
+assessing possible reductions on Fiduciary Fees, where appropriate. 
+ 
+
+3.20 Management commented that Section 7 of CMO 20, series of 2011 states that 
+the percentage allocation for Instruction maybe adjusted in accordance with 
+
+the expenditure trends established in the preceding year and such adjustment 
+
+shall not fall below 7.5 percent for each of the component.   
+ 
+
+3.21 As for the area on Research Services,  the original allocation was 5.24 percent 
+considering that there was an increase in the  allocation provided for under the 
+
+CY 2020 GAA for Conduct of Research including rewards and incentives.  
+
+The Fund Administrator decided to limit this tuition fee share. 
+ 
+
+3.22 On the Extension Services area,  the absorptive capacity of the sector was 
+considered in determining the tuition fee share.  As observed by the 
+
+Management,  the sector, based on its performance in the previous years,  was 
+
+not able to fully utilize the funds alloted for their area.  Management asserted 
+
+that if they will continuously provide the sector with the prescribed percentage 
+
+and if they will not be able to use the allotted budget, other areas may be 
+
+deprived of the much needed funds. 
+ 
+
+3.23 Further, Management also took cognizance of Section 17 of CMO 20, series 
+of 2011, which states that “the suggested percentage allocation maybe 
+
+modified to suit the needs of the SUC provided that such modification was 
+
+approved by the governing board.” 
+ 
+
+3.24 Management will coordinate with the Philippine Association of State 
+Universities and Colleges (PASUC) regarding the proposed modification of 
+
+CMO 20, series of 2011,  considering that said CMO affects not only EARIST 
+
+but all the SUCs. 
+
+
+
+73 
+
+ 
+
+3.25 Management has reminded the different Fund Administrators on the status of 
+their Fiduciary Funds and reminded them that under Section 32 of CMO 20, 
+
+series of 2011,  unexpended balances, regardless of where the funds were  
+
+taken will form part of the common fund of the SUC,  which can be utilized 
+
+for other purposes as long as it is in furtherance of the goals and objectives of 
+
+the Institute. 
+
+ 
+
+Auditor’s Rejoinder 
+
+ 
+
+3.26 The existing laws give the CHED the power to issue memoranda in the 
+implementation and utilization of STF, which the governing boards of the 
+
+SUCs must implement, in the absence of any court declaration invalidating 
+
+such CMO. 
+
+ 
+
+3.27 It may be true that the suggested percentage allocation maybe modified to suit 
+the needs of the SUC provided that such modification was approved by the 
+
+governing board, but such modification has corresponding limitations that 
+
+must be complied with. Since several SUCs encounter difficulty in   
+
+complying with the STF percentage allocation, it is encouraged to have a 
+
+collective action thru PASUC to initiate amendment of the CMO.  
+
+ 
+
+Implementation of Tertiary Education Subsidy (TES) Program  
+
+ 
+
+4. From the funds released for Tertiary Education Subsidy (TES) program for 
+Academic Years (AYs) 2018-2019 and 2019-2020, which were P10,217,600.00 
+
+and P1,751,000.00, respectively, only P7,480,800.00 or 73.21 percent and 
+
+P1,180,000.00 or 67.39 percent, respectively, were utilized due to delay in 
+
+the release of funds which prevented the student-grantees from the timely 
+
+utilization thereof, thus defeating the purpose of the TES program. Moreover, 
+
+the: a) non-maintenance of separate Bank Account/ Subsidiary Ledger (SL); b) 
+
+non-submission of Mid-year and Annual Reports to UniFAST Board; and c) 
+
+non-disclosure of amounts received related to TES program in the Notes to the 
+
+FSs are all contrary to existing laws, rules, regulation and procedures. 
+
+ 
+
+4.1 The TES was established under RA No. 10931, also known as the Universal 
+Access to Quality Tertiary Education of 2017, to support the cost of tertiary 
+
+education or any part or portion thereof of poor but deserving Filipino students 
+
+who are enrolled in the 112 state universities and colleges (SUCs) and 78 local 
+
+universities and colleges (LUCs) in the Philippines and whose names appear 
+
+in the Listahanan 2.0 or the Pantawid Pamilyang Pilipino Program (4Ps) list of 
+
+the Department of Social Welfare and Development (DSWD).  
+
+ 
+
+4.2 The TES targets not necessarily those who are poor, but also those who have 
+no access to public university system. This grants-in-aid program is intended 
+
+to support the costs of college education, particularly use for books and other 
+
+
+
+74 
+
+ 
+
+education-related expenses such as transportation, supplies, room, lodging and 
+
+board fees. 
+
+ 
+
+4.3 Memorandum Circular No. 2018-004 dated October 15, 2018 was issued by 
+the Unified Student Financial Assistance System for Tertiary Education 
+
+(UniFAST) Governing Board as the implementing guidelines for the TES for 
+
+Filipino students. 
+ 
+
+Academic Year (AY) 2018-2019 
+ 
+
+4.4 EARIST received funding from the CHED-UNIFAST amounting to 
+P10,217,600.00 for the implementation of the TES program for the Academic 
+
+Years 2018-2019. The said budget included the payment of TES allowances to 
+
+qualified student beneficiaries providing them with a monthly stipend of 
+
+P3,500.00 and a book allowance of ₱2,500.00 every semester, or a total of 
+
+₱20,000.00 per semester or ₱40,000.00 annually and three percent (3%) 
+
+administrative costs, details as follows: 
+
+ 
+
+            Table 17. TES Grants from CHED-UniFAST AY 2018-2019 
+
+Program Semester 
+
+Number 
+
+of 
+
+Grantees 
+
+Benefits 
+Administrativ
+
+e Cost (3%) 
+Total Amount 
+
+(in Pesos) 
+
+AY 2018-2019 
+
+TES-List 1st and 2nd 18 2,760,000.00 82,800.00 2,842,800.00 
+
+TES-Listahan 2.0 1st and 2nd 11 440,000.00 13,200.00 453,200.00 
+
+TEs-NonListahan 
+
+2.0 
+
+1st and 2nd 4 160,000.00 4,800.00 164,800.00 
+
+TES-ESGP-PA 1st and 2nd 164 6,560,000.00 196,800.00 6,756,800.00 
+
+Total 9,920,000.00 297,600.00 10,217,600.00 
+
+ 
+
+4.5 Based in our audit of payrolls, schedules and disbursement vouchers (DVs), 
+the utilization of TES Grants from CHED-UNIFAST were as follows: 
+
+ 
+
+a. On December 18, 2019, EARIST received P2,842,800.00 from CHED, 
+which was intended for the payment of TES beneficiaries for AY 2018-
+
+2019. However, in their fund Utilization Report as of December 9, 2020, it 
+
+turned out that only P720,000.00 (P360,000.00/semester) or 18 grantees 
+
+were qualified for the said subsidy. The said utilized amount was very 
+
+minimal compared to the amount released by CHED, details are as 
+
+follows: 
+ 
+
+  Table 18. Fund Utilization Report for AY 2018- 2019 
+
+  TES Benefits 
+Administrative 
+
+Cost (3%) 
+Total 
+
+Allocated Budget   ₱2,760,000.00 ₱82,800.00 ₱2,842,800.00 
+
+Actual Utilization 720,000.00 20,800.00 740,800.00 
+
+Unutilized/(Over)   ₱2,040,000.00 ₱62,000.00 ₱2,102,000.00 
+
+Percentage 73.91% 74.88% 73.94% 
+
+
+
+75 
+
+ 
+
+b. Inquiry with the EARIST’s Budget Officer revealed that he was notified 
+about the amount granted, however, he was not provided with the list of 
+
+grantees which served as a basis for the amount transferred. Out of the 
+
+unexpended amount, P2,101,200.00 was refunded to CHED on February 
+
+07, 2020 under OR#5735529 per Check No. 378431 dated February 05, 
+
+2020. The remaining P800.00 is due for refund as requested by Office of 
+
+the Student Affairs (OSA) to date. 
+
+ 
+
+c. For AY 2018-2019, EARIST had granted a total amount of P6,756,800.00 
+for its 164 continuing ESGP-PA scholars. The amount of subsidy was 
+
+based on the guidelines set forth by the UniFAST Board and on the annual 
+
+budgetary appropriation for this purpose. However, out of the said amount, 
+
+only P6,300,000.00 was distributed. 
+
+ 
+
+d. Records showed that the student beneficiaries who were not included in 
+the payroll had to be dropped from the list because they had already 
+
+stopped, graduated or were currently receiving other scholarship 
+
+allowances. 
+
+ 
+
+4.6 Meanwhile, receipts from CHED amounting to P164,800.00 which were 
+already credited in 2020 to the Institute’s account intended for TES- 
+
+NonListahan 2.0 grantees for AY 2018-2019 are yet to be distributed. 
+
+ 
+
+4.7 The Institute utilization of TES Grants from CHED-UNIFAST for AY 2018-
+2019 showed that student beneficiaries were paid TES allowances amounting 
+
+to P7,460,000.00 while the Institute incurred administrative cost amounting to 
+
+P20,800.00, leaving an unexpended balance of 26.79 percent or 
+
+P2,736,800.00, summarized as follows: 
+
+ 
+      Table 19. Utilization of TES Grants from CHED-UniFAST for AY 2018-2019 
+
+Particulars TES Benefits 
+Administrative 
+
+Cost (3%) 
+Total 
+
+AY 2018-2019 
+
+Allocated Budget ₱9,920,000.00 ₱297,600.00 ₱10,217,600.00 
+
+Actual Utilization 7,460,000.00 20,800.00 7,480,800.00 
+
+Unutilized/(Over) ₱2,460,000.00 ₱276,800.00 ₱2,736,800.00 
+
+Percent 24.80% 93.01% 26.79% 
+
+ 
+
+AY 2019-2020 
+
+ 
+
+4.8 EARIST received funding from the CHED-UNIFAST amounting to 
+P1,751,000.00 for the implementation of the TES program for the Academic 
+
+Year 2019-2020, details are shown on the next page: 
+
+ 
+
+ 
+ 
+
+
+
+76 
+
+ 
+
+        Table 20. TES Grants from CHED-UniFAST AY 2019-2020 
+
+Program Semester 
+Number of 
+
+Grantees 
+
+Benefits 
+Administrativ
+
+e Cost (3%) 
+
+Total 
+
+Amount 
+
+(in Pesos) 
+
+TES-List 
+1st 21 420,000.00  12,600.00  432,600.00  
+
+2nd 21 420,000.00  12,600.00  432,600.00  
+
+TES-
+
+NonListahan 
+
+2.0 
+
+1st 1 20,000.00  600.00  20,600.00  
+
+2nd 1 20,000.00  600.00  20,600.00  
+
+1st and 2nd 1   40,000.00     1,200.00  41,200.00  
+
+TES-ESGP-
+
+PA 
+1st 39 780,000.00  23,400.00  803,400.00  
+
+Subtotal 1,700,000.00 51,000.00 1,751,000.00 
+
+ 
+
+4.9 The audit of payrolls, schedules and DVs disclosed  that the Institute received 
+the amount of P803,400.00 for the 39 qualified ESGP-PA grantees for the 1st 
+
+Semester of AY 2019-2020 but only P760,000.00 was distributed to 38 
+
+students recommended by OSA on January 27, 2021.  
+
+ 
+
+4.10 Receipts from CHED of  P515,000.00, which were already credited to the 
+Institute’s account intended for TES-List grantees,  are yet to be distributed, 
+
+details in Table 21: 
+
+ 
+
+Table 21. Distribution of Receipts from CHED 
+
+Program Semester 
+
+Qualified 
+
+Student 
+
+Grantees 
+
+ Benefits  
+
+ 
+
+Administr
+
+ative Cost 
+
+(3%) 
+
+Total   
+
+TES – List 2nd,19-20 21 ₱420,000.00  ₱12,600.00  ₱432,600.00  
+TES-Non 
+
+Listahan 2.0 
+
+1st ,19-20 1 20,000.00  600.00 20,600.00  
+
+2nd,19-20 1 20,000.00  600.00  20,600.00  
+
+1st&2nd, 19-20 1 40,000.00 1,200.00 41,200.00 
+
+Total     ₱500,000.00  ₱15,000.00  ₱515,000.00  
+
+ 
+
+4.11 Based on the submitted records, EARIST had distributed the amount of 
+P1,180,000.00 or 67.39 percent of the funds to the intended student 
+
+beneficiaries, leaving the amount of P571,000.00 or 32.61 percent of the total 
+
+amount undistributed, to wit: 
+
+ 
+
+Table 22. Utilization of TES Grants from CHED-UniFAST AY 2019-2020 
+
+Particulars TES Benefits 
+Administrative 
+
+Cost (3%) 
+Total 
+
+AY 2019-2020 
+
+Allocated Budget ₱1,700,000.00 ₱51,000.00 ₱1,751,000.00 
+
+Actual Utilization 1,180,000.00 0.00 1,180,000.00 
+
+Unutilized/(Over) ₱   520,000.00 ₱51,000.00 ₱  571,000.00 
+
+Percent 30.59% 100.00% 32.61% 
+
+ 
+
+4.12 Rule 6.1 of the Implementing Rules and Regulations (IRR) of the UniFAST 
+(RA 10687) on the Financial Management and Accountability states that: “All 
+
+
+
+77 
+
+ 
+
+funds allocated to the government StuFAPs for the tertiary educaton shall be 
+
+managed according to standard government accounting and auditing rules 
+
+and regulations. In addition, specialized processes and procedures shall be 
+
+developed to enhance transparency and accountability suitable to the 
+
+program or project for which the fund has been provided.” 
+
+ 
+
+4.13 Our verification of the Institute’s pro-forma entries in recording the receipt 
+and release of TES grants are as follows: 
+
+ 
+
+Account Title Account Code Debit Credit 
+
+Cash in Bank 10101010    XXXX   
+
+Trust Liability 40301020  XXXX 
+
+(To recognize receipt of subsidy/assistance from other government agencies) 
+
+Trust Liability                            40301020                            XXXX 
+
+Cash in Bank                              10101010                                                XXXX 
+
+(To record payment/distribution of TES grants to student beneficiaries) 
+
+ 
+
+4.14 The above  process of the Institute  in recording the fund received is  contrary 
+to Section 38 of the GAM for NGAs, Volume I, which provides the standards, 
+
+policies, guidelines and procedures in accounting for other receipts of NGAs 
+
+as follows: 
+
+ 
+
+j. Intra-agency and inter-agency fund transfers. Cash received from 
+
+Central Office/Regional Office/Operating Units of an entity and from 
+
+another entity for the purpose of implementing specific projects. 
+ 
+
+Account Title Account Code Debit Credit 
+ 
+
+Cash-Collecting Officers 10101010 XXXX   
+
+Due to NGAs 20201050  XXXX 
+
+(To recognize receipt of inter-entity fund transfer)  
+ 
+
+4.15 The account Due to NGAs is defined in Chapter III of the GAM for NGAs, 
+Volume III as the account used to recognize the receipt of funds for delivery 
+
+of goods/services as authorized by law, fund transfers from NGAs, other than 
+
+the BIR, for implementation of specific programs or projects and other inter-
+
+agency transactions and should be debited for delivery of goods /services, 
+
+liquidation of funds received and settlement of liabilities. 
+
+ 
+
+4.16 The balance of the account shall at all times be reconciled with the account 
+maintained in the other national government agency after settlement of inter-
+
+agency and/or inter-office transactions, to ascertain the accuracy and 
+
+completeness of recorded transactions.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+78 
+
+ 
+
+a) Non-maintenance of separate Bank Account/ SL 
+ 
+
+4.17 Section 111 on keeping of accounts as required by PD No. 1445, otherwise 
+known as the Government Auditing Code of the Philippines, states that: 
+
+ 
+
+(1) The accounts of an agency shall be kept in such detail as is 
+
+necessary to meet the needs of the agency and at the same time be 
+
+adequate to furnish the information needed by fiscal or control agencies 
+
+of the government. 
+
+ 
+
+(2) The highest standards of honesty, objectivity and consistency shall 
+
+be observed in the keeping of accounts to safeguard against inaccurate 
+
+or misleading information. 
+
+ 
+
+4.18 Further, Section 114 of the same Decree states that:  
+ 
+
+  i.The government accounting system shall be on a double entry  
+
+  basis with a general ledger in which all financial transactions  
+
+  are recorded; and 
+ 
+
+  ii. Subsidiary records shall be kept where necessary. 
+
+ 
+
+4.19 Further, Rule 6.2 of the IRR of the UniFAST states that: “A separate book of 
+accounts shall be kept by each implementing agency for the UniFAST StuFAP 
+
+funds. The book of accounts shall follow standard government rules and 
+
+regulation for accounting. xxxx” 
+ 
+
+4.20 Moreover, for proper implementation of the billing and disbursement 
+procedures and monitoring of the TES payments to public and private HEIs,  
+
+Joint Memorandum Circular (JMC) No. 04 s.2020 was issued to further set out 
+
+enhanced guidelines on the TES program. Section XII of the said JMC 
+
+specifically mentioned that Higher Education Institutions should: 
+ 
+
+(7.6.1) xxxx; 
+
+(7.6.2) Maintain a separate bank account with the Land Bank of the 
+
+Philippines, for proper management of TES; 
+
+(7.6.3) Provide bank account details for cheque received from the 
+
+CHED Regional Office, to the proper account maintained; 
+
+(7.6.4) xxxx; 
+
+(7.6.5) xxxx; 
+ 
+
+4.21 During our course of audit, we have noted that the EARIST did not maintain a 
+separate bank account for the amount received for the TES program. Instead, 
+
+the fund that it received from the CHED-UniFAST is being deposited in the 
+
+Institute’s Regular Trust Fund bank account contrary to Section XII, Item 7 of 
+
+the JMC No.004 s.2020. 
+
+ 
+
+
+
+79 
+
+ 
+
+b) Non- submission of mid-year and annual report to UniFAST Board 
+ 
+
+4.22 During our inquiry,  it was noted that Institute does not submit mid-year and 
+annual reports to the UniFAST Board contrary to Rule 6.2 of the 
+
+Implementing Rules and Regulations of the UniFAST, to wit: 
+
+ 
+
+Xxxxx. 
+
+A mid-year and annual report shall be provided by all implementing 
+
+agencies and  submitted to the Board. The report shall have two parts: 
+
+a financial statement and a report  of operations showing the 
+
+accomplishments of the fund. These reports, which  shall  be endorsed 
+
+by the Board and submitted to Congress and the Department of Budget 
+
+and  Management, shall be made accessible to interested parties 
+
+within reasonable  office hours.  Interested parties shall also have 
+
+access to the list of beneficiaries and the amount  of financial 
+
+asssistance received by them during reasonable office hours. 
+
+ 
+
+c) No Disclosures were made in the Notes to the FSs 
+ 
+
+4.23 During our audit of the Institute’s Notes to FSs for the year ended December 
+31, 2020,  it was observed that no proper dislosures have been made to reflect 
+
+the amount of funds received for the implementation of the TES program. 
+
+ 
+
+4.24 The purposes of Notes to FSs are provided in IPSAS 1, Paragraph 127, as 
+follows: 
+
+ 
+
+The notes shall:  
+ 
+
+(a) Present information about the basis of preparation of the financial 
+statements and the specific accounting policies used, in accordance 
+
+with paragraphs 132-139; 
+ 
+
+(b) Disclose the information required by IPSASs that is not presented on 
+the face of the statement of financial position, statement of financial 
+
+performance, statement of changes in net assets/equity, or cash flow 
+
+statement; and  
+ 
+
+(c) Provide additional information that is not presented on the face of 
+the statement of financial position, statement of financial 
+
+performance, statement of changes in net assets/equity, or cash flow 
+
+statement, but that is relevant to an understanding of any of them. 
+
+ 
+
+4.25 Further, Section 29, Chapter 2 of the GAM for NGAs, Volume I further states 
+that the Notes to FSs must contain information in addition to that presented in 
+
+the SFPos, SFPer, SCNA/E, SCF and SCBAA. Notes provide narrative 
+
+descriptions or disaggregation of items disclosed in those FSs and information 
+
+about items that do not qualify for recognition in those statements. The non-
+
+
+
+80 
+
+ 
+
+compliance of Management with IPSAS 1, paragraph 127 renders its Notes to 
+
+FSs incomplete and could be unreliable, and incomparable.  
+
+ 
+
+4.26 We recommended that EARIST Management: 
+ 
+
+a. maintain a separate bank account and SL for the TES fund for proper 
+account management; 
+
+ 
+
+b. return any unused fund and submit the liquidation report to CHED; 
+c. submit mid–year and annual reports as required under Rule 6.2 of the 
+
+IRR of the UniFAST ( RA No. 10687); 
+
+ 
+
+d. thru the Accountant: 
+ 
+
+• record the receipts and liquidations of the TES grants in 
+accordance with Section 38 of the GAM for NGAs, Volume I; and 
+
+ 
+
+• include the amount of funds received for the implementation of the 
+TES program in the Notes to FSs; and 
+
+ 
+
+e. thru the UniFAST Focal Person: 
+ 
+
+• closely monitor and strengthen the coordination with the 
+concerned office of CHED thru its representative on the release of 
+
+grants and its related documents to facilitate the timely release of 
+
+fund to student beneficiaries; and  
+
+ 
+
+• comply with stricter deadline in the submission of requirements to 
+avoid delay on stipend release. 
+
+ 
+
+4.27 The Management commented that they will coordinate with the Bureau of the 
+Treasury (BTr) on the opening of a separate bank account for TES fund and 
+
+will inform the Audit Team on the result of the coordination. 
+
+ 
+
+4.28 Amount granted for CY 2019 has been liquidated and for CY 2020, reports are 
+being prepared for submission. In coordination with the Budget Services, the 
+
+balances of various TES Program will be adjusted to Due to NGAs account 
+
+and will be reflected in CY 2021 FSs. The reconciliation for various subsidy 
+
+program is currently being prepared. Also, the funds that will be received by 
+
+the Institute will be presented in the Notes to FSs in CY 2021 and succeeding 
+
+years. 
+
+ 
+
+4.29 There is a close coordination between EARIST and CHED,  however,  
+EARIST does not have control as to when funds will be available; they are 
+
+doing their best to make sure that scholars will be able to get their stipends as 
+
+soon as funds are released. Delays are also brought about by the delay in the 
+
+
+
+81 
+
+ 
+
+downloading of funds, which is also the problem being encountered by the 
+
+other SUCs/LUCs. 
+
+ 
+
+Undeposited Interest Income  
+
+ 
+
+5. Interest income amounting to P757,433.97, earned in bank accounts of RTF, 
+were not remitted to the National Treasury (NT), inconsistent with the 
+
+provisions stated in Section 4 of General Appropriations Act (GAA) for Fiscal 
+
+Year 2020 or Republic Act (RA) No. 11465 and Section 65 of Presidential 
+
+Decree (PD) No. 1445. 
+
+ 
+
+5.1 Section 4 of the General Appropriations Act (GAA) for Fiscal Year 2020 or 
+Republic Act No. 11465 provides the following provisions for receipts or 
+
+revenues collected by the Agencies: 
+
+ 
+
+As a general rule, all fees, charges, assessments, and other receipts or 
+
+revenues collected by departments, bureaus, and offices of the National 
+
+Government, including Constitutional Offices enjoying fiscal autonomy 
+
+in the exercise of their mandated functions, at such rates as are now or 
+
+may be approved by the appropriate approving authority shall be 
+
+deposited to the National Treasury as income of the General Fund 
+
+pursuant to Section 44, Chapter 5, Book VI of E.O. No. 292 s. 1987 
+
+and Section 65 of P.D. No. 1445. (Emphasis supplied) 
+
+ 
+
+Exceptions to the foregoing are: (a) Receipts authorized by law to be 
+
+recorded as a Special Account in the General Fund, Trust Fund, or a 
+
+Fund other than the General Fund shall be established in accordance 
+
+with rules and regulations as may be issued by the Permanent 
+
+Committee (the “Permanent Committee”) created under Section 45, 
+
+Chapter 5, Book VI of EO No. 292.  The said special funds may be made 
+
+available for expenditure, subject to any special provision of the 
+
+agencies concerned; and (b) other instances authorized by law. 
+
+ 
+
+5.2 Section 4, Chapter 2 of the GAM for NGAs, Volume I states the same 
+provisions regarding “Fundamental Principles for Revenue.” All revenues 
+
+accruing to the NGAs shall be governed by the following fundamental 
+
+principles: 
+
+ 
+
+a) Unless otherwise specifically provided by law, all revenues accruing 
+to an entity by virtue of the provisions of existing law, orders and 
+
+regulations shall be deposited/remitted in the National Treasury 
+
+(NT) or in any duly authorized government depository, and shall 
+
+accrue to the General Fund (GF) of the NG. (Sec. 65(1), PD No. 
+
+1445) 
+
+ 
+
+
+
+82 
+
+ 
+
+b) Except as may otherwise be specifically provided by law or 
+competent authority, all moneys and property officially received by a 
+
+public officer in any capacity or upon any occasion must be 
+
+accounted for as government funds and government property. (Sec. 
+
+42, Chapter 7, Title I(B), Book V, EO No. 292) 
+
+ 
+
+c) Amounts received in trust and from business-type activities of 
+government may be separately recorded and disbursed in 
+
+accordance with such rules and regulations as may be determined 
+
+by a Permanent Committee composed of the Secretary of Finance as 
+
+Chairman, and the Secretary of Budget and Management and the 
+
+Chairman, COA, as members. (Sec. 65(2), PD No. 1445) 
+
+ 
+
+d) Receipts shall be recorded as revenue of Special, Fiduciary or Trust 
+Funds or Funds other than the GF, only when authorized by law as 
+
+implemented by rules and regulations issued by the Permanent 
+
+Committee. (Sec. 66, P.D. No. 1445) 
+
+ 
+
+5.3 Audit of EARIST records revealed that one out of many accounts maintained 
+in the LBP, used as depository account for its RTF, was earning interest 
+
+income. It was observed, however, that the interest income earned was 
+
+retained in the account and was not deposited with the National Treasury as 
+
+income of the General Fund pursuant to Section 44, Chapter 5, Book VI of EO 
+
+No. 292 s. 1987 and Section 65 of PD No. 1445. 
+
+ 
+
+5.4 The employee handling the account confirmed that it was the practice ever 
+since she assumed office. Also, no record was maintained to determine how 
+
+much was the accumulated interest income earned ever since the RTF account 
+
+was opened. 
+
+ 
+
+5.5 Due to lack of time and unavailability of documents, interest earned prior to 
+CY 2014 cannot be ascertained at the moment. Verification from the available 
+
+data, previous reports and submitted Bank Statements, however, showed that 
+
+from CYs 2014 to 2018, the RTF account of EARIST was able to earn a total 
+
+of P757,433.97 interest income, breakdown is as follows: 
+
+ 
+
+Table 23. CYs 2014 to 2020 RTF- Interest Income 
+
+Fund Year 
+Amount 
+
+(in Pesos) 
+
+RTF (Account  No. 1512-1010-
+
+18) 
+
+2014   92,728.41  
+
+2015      115,702.92  
+
+2016        142,146.17  
+
+2017        133,434.25  
+
+2018 88360.43 
+
+2019        100,296.58  
+
+2020          84,765.21  
+
+Total Amount   757,433.97  
+
+
+
+83 
+
+ 
+
+5.6 We understand that SUCs are explicitly allowed by laws and regulations to 
+accrue all revenue, income, receipts and collections, to be deposited in the 
+
+account of the Special Trust Fund and Revolving Fund.  In fact, all revenues 
+
+earned on the funds are governed by the following laws and regulations: 
+ 
+
+a. Special Trust Fund - COA Circular No. 2000-002 dated April 4, 2000 
+states that “Each University/College shall open a separate bank account 
+
+for the STF wherein all income collections shall be deposited. All interests 
+
+that shall accrue therefrom shall form part of the same Fund and shall 
+
+be reported as interest income.”; and 
+ 
+
+b. Revolving Fund - Section 9 of the General Provisions of the GAA for FY 
+2020 states that “Revolving funds shall be established and maintained only 
+
+if expressly created and authorized by law or this section.  Receipts 
+
+derived from the following may be constituted into a revolving fund and 
+
+made available for the purposes stated: (a) rentals for the use of buildings 
+
+and facilities or from fees imposed for board and lodging, by agencies to 
+
+be used for the MOOE or Capital Outlay requirements of said buildings 
+
+and facilities, subject to any guidelines issued by the agency concerned 
+
+and to budgeting, accounting and auditing rules and regulations; and (b) 
+
+other business-type activities of agencies, including sale of product, which 
+
+are authorized by law or by the Permanent Committee to be utilized for 
+
+the operational expenses of said business-type activity, subject to any 
+
+conditions prescribed under the special provision of the agency concerned 
+
+and the rules and regulations as may be prescribed by the Permanent 
+
+Committee.  Revolving funds shall be separately recorded and deposited in 
+
+an authorized government bank, and considered self-perpetuating and 
+
+self-liquidating.” (Emphasis supplied) 
+
+ 
+
+5.7 Only the Special Trust Fund and Revolving Fund are qualified as an exception 
+stated in Section 4 of the General Provisions of the GAA for FY 2020.  Other 
+
+than these funds, income earned in various bank accounts under Regular Fund 
+
+and RTF should be remitted to the National Treasury. 
+
+ 
+
+5.8 We recommended that Management provide a legal basis for the 
+retention and accumulation of the interest income earned in its RTF, 
+
+otherwise account for all the interest income earned since the opening of 
+
+the account and deposit the amount accrued to the National Treasury as 
+
+income of the General Fund pursuant to Section 44, Chapter 5, Book VI 
+
+of EO No. 292 s. 1987 and Section 65 of PD No. 1445. 
+
+ 
+
+5.9 Management commented that the interest income for CYs 2014-2020 
+amounting to P757,433.97 will be remitted to the National Treasury in April 
+
+2021. They will try to locate any available document to account for the 
+
+interest for CY 2013 and preceding years. They will also communicate with 
+
+the LBP if they can provide a report on the interest earned by the account 
+
+since its opening. 
+
+
+
+84 
+
+ 
+
+Accumulated Balance for Payroll Fund 
+
+ 
+
+6. The Cash in Bank – Local Currency, Savings Account (Payroll Fund) balance 
+as of December 31, 2020 amounting to P138,089.07 pertains to unclaimed 
+
+salaries and wages with no supporting documents and are outstanding for two 
+
+years and above, contrary to the rules on the Grant of Cash Advance for 
+
+Payroll in the GAM for NGAs, Volume I and Section 98 of the Presidential 
+
+Decree (PD) No. 1445 and Section 1 of Executive Order (EO) No. 87. 
+
+ 
+
+6.1 Section 15, Chapter 6 of GAM for NGAs, Volume III pertaining to Cash 
+Advances for Payroll requires the following: 
+
+ 
+
+Xxx It shall be equal to the net amount of the processed payroll 
+
+corresponding to the pay period. Liquidation of the advances shall be made 
+
+within five (5) days after the end of the pay period. Any unclaimed 
+
+salaries/allowances shall be refunded and issued official receipt to close 
+
+the account. 
+
+ 
+
+6.2 Section 98 of PD No. 1445 states that “The Commission upon notice to the 
+head of agency concerned, may revert to the unappropriated surplus 
+
+[Accumulated Surplus] of the general fund of the national government, any 
+
+unliquidated balance of accounts payable in the books of the national 
+
+government, which has been outstanding for two years or more and against 
+
+which no actual claim, administrative or judicial, has been filed or which is 
+
+not covered by perfected contract on record.” 
+
+ 
+
+6.3 Likewise, pursuant to EO No. 87 dated August 13, 2019, “all documented 
+accounts payable for fiscal year 2016 and years prior thereto shall be 
+
+reverted to the Accumulated Surplus or Deficit of the General Fund, or the 
+
+Cumulative Result of Operations of the National Government. Henceforth, all 
+
+documented accounts payable which remain outstanding for at least two 
+
+years, for which no actual administrative or judicial claim has been filed, 
+
+shall be subject to automatic reversion.” 
+
+ 
+
+6.4 EARIST maintains a Savings Account with the LBP, Malacañang Branch as 
+the Payroll Account of EARIST where fund transfers for payment of salaries, 
+
+wages and allowances are coursed through. 
+
+ 
+
+6.5 The payroll of EARIST employees are processed based on the report of 
+attendance of the employees for the month. The net pay accruing to EARIST 
+
+employees are then transferred to the Payroll Account through List of Due and 
+
+Demandable Accounts Payable with Advice to Debit Account (LDDAP-ADA) 
+
+from the Cash-Modified Disbursement System (MDS) account. 
+
+ 
+
+6.6 As of December 31, 2020, the Cash in Bank – Local Currency, Savings 
+Account (Payroll Fund) under the Payroll Fund has a balance reported in the 
+
+
+
+85 
+
+ 
+
+FSs of P138,089.07. Analysis of the account and the BRS disclosed that the 
+
+amount existed for more than two years and not supported with valid payees 
+
+to whom those amounts are to be paid. Verification with the Management also 
+
+revealed that they have no records maintained to identify the payees and the 
+
+reason of the existence of the amount in the Payroll Fund. 
+
+ 
+
+6.7 The accumulated Payroll Fund in the Cash in Bank – Local Currency, Savings 
+Account is contrary to the rules governing cash advances for payroll stated in 
+
+the GAM, which equally apply to the payment of salaries made through ATM 
+
+such that the amount credited to the Payroll Fund shall be equal to the net 
+
+amount of the processed payroll corresponding to the pay period. Liquidation 
+
+of the advances shall be made within five days after the end of the pay period. 
+
+This would mean that the amount that shall remain in the Payroll Fund after 
+
+the end of the pay period shall only be equal to the maintaining balance of 
+
+P10,000.00 as authorized by LBP for a Regular Checking/Savings Account of 
+
+Government Line Agencies. 
+
+ 
+
+6.8 Also, the existence of Due to Officers and Employees account representing 
+unclaimed salaries/allowances for two years and above is contrary to the 
+
+provisions of Section 98 of PD No. 1445 requiring reversion of the 
+
+unliquidated balances of Accounts Payable to the unappropriated surplus of 
+
+the general fund which has been outstanding for two years or more. 
+
+Corollarily, the same principles apply to fund sources other than the Fund. 
+
+ 
+
+6.9 We recommended that Management revert to the National Treasury the 
+balance of Payroll Fund which represents unclaimed salaries/allowances 
+
+which are not supported with valid payees and are outstanding for two 
+
+years or more in compliance with the above provisions. 
+
+ 
+
+6.10 The Management commented that they will revert to the National Treasury the 
+unclaimed salaries/allowances amounting to P138,089.07. 
+
+ 
+
+Compliance with RA No. 9184 and Other Pertinent Rules and Regulations 
+
+ 
+
+7. Procurement contracts entered into by the Institute for CY 2020 totaling 
+P37,065,955.83 were not fully compliant with the existing provisions of RA No. 
+
+9184 or the Government Procurement Reform Act, COA issuances and other 
+
+related procurement rules and regulations due to:   a) delayed and non-
+
+submission of procurement contracts; b) lacking and incomplete supporting 
+
+documents; and c) non-compliance with the posting requirements, which 
+
+precluded the Audit Team from the timely review of contracts, cast  doubt on 
+
+the validity of transactions   and defeated  the purpose of the law on 
+
+transparency, competitiveness and accountability. 
+
+ 
+
+7.1 COA Memorandum No. 2005-027 dated February 28, 2005 states that it is 
+essential that the review of contracts/transactions for the procurement of 
+
+
+
+86 
+
+ 
+
+government projects like infrastructure projects, goods and consulting services 
+
+be conducted including the evaluation of the technical aspect of such 
+
+contracts/transactions for post-audit purpose. Indeed, such review/evaluation 
+
+process could be better facilitated if all the necessary documents and 
+
+information are made available to the reviewer.  
+
+ 
+
+7.2 The submission of all perfected contracts, together with their supporting 
+documents within the prescribed period, was reiterated in COA Circular No. 
+
+2009-001 dated February 12, 2009, emphasizing thereof the necessity to 
+
+implement a systematic and effective contract review process to generate 
+
+timely and relevant audit results.  In fact, Section 3.1.3 of the aforementioned 
+
+Circular states that: 
+
+ 
+
+For technical review purposes, submission of contracts and their 
+
+supporting documents shall furthermore be guided by the specific 
+
+documentary requirements outlined in the attached checklist marked as 
+
+Annexes “A” to “T” of this circular. 
+
+ 
+
+7.3 The same COA Circular also prescribes the submission of contracts to the 
+Commission, which states that: 
+
+ 
+
+Within five (5) working days from the execution of a contract by the 
+
+government or any of its subdivisions, agencies or instrumentalities, 
+
+including government-owned and controlled corporations and their 
+
+subsidiaries, a copy of said contract and each of all the documents 
+
+forming part thereof by reference or incorporation shall be furnished to 
+
+the Auditor of the agency concerned. In case of agencies audited on an 
+
+engagement basis, submission of a copy of the contract and its 
+
+supporting documents shall be to the Auditor of the mother agency or 
+
+parent company, as the case may be. 
+
+ 
+
+Item 4.1 - Any unjustified failure of the officials and employees 
+
+concerned to comply with the requirements herein imposed shall be 
+
+subject to the administrative disciplinary action provided in (a) Section 
+
+127 of Presidential Decree No. 1445; (b) Section 55, Title I-B, Book V 
+
+of the Revised Administrative Code of 1987; and (c) Section 11 of 
+
+Republic Act No. 6713. xxx 
+
+ 
+
+7.4 The 2016 Revised IRR of RA No. 9184 or the Government Procurement Act 
+was also issued for the purpose of prescribing the necessary rules and 
+
+regulations for the modernization, standardization, and regulation of the 
+
+procurement activities of the Government of the Philippines (GoP). 
+
+ 
+
+7.5 For CY 2020, the EARIST entered into contracts with the various suppliers 
+with a total contract amount of P37,065,955.83. Details of the contracts are 
+
+presented on the next page: 
+ 
+
+
+
+87 
+
+ 
+
+Table 24. Contracts with the Various Suppliers 
+
+Contract 
+
+No. 
+
+Project/ 
+
+Program/ 
+
+Activity Name 
+
+Contractor/ 
+
+Supplier 
+
+Mode of 
+
+Procurement 
+
+Approved 
+
+Budget of the 
+
+Contract  
+
+Contract 
+
+Amount  
+
+2020-
+
+01 
+
+Service Contract 
+
+for Janitorial 
+
+Services (30 
+
+Personnel) with 
+
+Provision for 
+
+Supplies and 
+
+Equipment 
+
+Excellent General 
+
+Services Inc. 
+
+Public 
+
+Bidding 
+
+(PB) 
+
+P7,390,390.00  P7,374,445.80  
+
+2020-
+
+02 
+
+Private Security 
+
+Services for 
+
+EARIST  
+
+Hybrid 
+
+Watchmen 
+
+Security And 
+
+Investigation 
+
+Services, Inc. 
+
+PB 9,756,720.00  9,751,368.91  
+
+2020-
+
+03 
+
+Refurbishment of 
+
+TED-PRO 
+
+Laboratory at the 
+
+Ground Floor of 
+
+the Engineering 
+
+Bldg. 
+
+CFV ARAR 
+
+Contractors 
+
+Philippines Inc. 
+
+Small 
+
+Value 
+
+Procureme
+
+nt (SVP) 
+
+980,213.00  951,391.47  
+
+2020-
+
+04 
+
+Construction of 
+
+Comfort Rooms 
+
+and Stainless 
+
+Steel Gate of 
+
+SDPE at the roof 
+
+deck of CEAFA 
+
+Building 
+
+Wilfredo M. 
+
+David Builders & 
+
+Construction 
+
+SVP 994,953.00  955,562.50 
+
+2020-
+
+05 
+
+Repair/Rehabilita
+
+tion of the 
+
+Extension Office 
+
+of the College of 
+
+Public 
+
+Administration 
+
+and Criminology 
+
+JD Quiwa III 
+
+Construction 
+
+SVP 574,093.00  564,000.00  
+
+2020-
+
+06 
+
+Rehabilitation of 
+
+One Classroom 
+
+for Combined 
+
+OBE Laboratory 
+
+for COE, ECE & 
+
+EE Program 
+
+YBALAI 
+
+Builders 
+
+SVP 570,813.00  519,180.52  
+
+2020-
+
+07 
+
+Rehabilitation of 
+
+the Institute 
+
+Science 
+
+Laboratory Room 
+
+Including 
+
+Fixtures and 
+
+Equipment 
+
+Astran Marketing 
+
+& General 
+
+Contractors, Inc. 
+
+PB 3,246,991.00  2,789,309.25  
+
+2020-
+
+08 
+
+Rehabilitation of 
+
+the ECE 
+
+Classroom as 
+
+Review 
+
+Classroom 
+
+PB 1,876,122.00  1,567,713.00  
+
+
+
+88 
+
+ 
+
+Contract 
+
+No. 
+
+Project/ 
+
+Program/ 
+
+Activity Name 
+
+Contractor/ 
+
+Supplier 
+
+Mode of 
+
+Procurement 
+
+Approved 
+
+Budget of the 
+
+Contract  
+
+Contract 
+
+Amount  
+
+2020-
+
+09 
+
+Repair and 
+
+Rehabilitation of 
+
+Roofing and 
+
+Gutter of the 
+
+Administration 
+
+Building and 
+
+Adjoining Space 
+
+Wilfredo M. 
+
+David Builders & 
+
+Construction 
+
+PB 1,807,593.86  1,496,456.40  
+
+2020-
+
+10 
+
+Repair and 
+
+Rehabilitation of 
+
+Comfort Room of 
+
+Q.A Office 
+
+CFV ARAR 
+
+Contractors 
+
+Philippines Inc. 
+SVP 69,156.15  68,780.00  
+
+2020-
+
+11 
+
+Service Contract 
+
+for Electrical 
+
+Audit Works for 
+
+the 4 Buildings of 
+
+EARIST 
+
+E-Power Gear 
+
+Solutions 
+
+Incorporated SVP 971,152.00  950,040.00  
+
+2020-
+
+12 
+
+Repair/Rehabilita
+
+tion & Upward 
+
+Expansion of 
+
+EARIST Cavite 
+
+Campus 
+
+Perimeter Fence 
+
+CFV ARAR 
+
+Contractors 
+
+Philippines Inc. Public 
+
+Bidding 
+5,200,000.00  5,187,010.56  
+
+2020-
+
+13 
+
+Repair and 
+
+Rehabilitation of 
+
+the Office of the 
+
+Financial 
+
+Management 
+
+Services (FMS) 
+
+Wilfredo M. 
+
+David Builders & 
+
+Construction Public 
+
+Bidding 
+1,931,951.52  1,905,104.25  
+
+2020-
+
+14 
+
+Refurbishment of 
+
+Research Offices 
+
+of CAFA and 
+
+CEN 
+
+J.C. Inojales 
+
+Construction & 
+
+Development 
+
+Corp. 
+
+SVP 395,938.78  338,178.17  
+
+2020-
+
+15 
+
+Repair/Rehabilita
+
+tion of the 
+
+Existing Athletes 
+
+Dormitory  
+
+CFV ARAR 
+
+Contractors 
+
+Philippines Inc. 
+SVP 820,538.00  815,450.00  
+
+- 
+
+Software 
+
+Maintenance of 
+
+Enrolment 
+
+System 
+
+Prince 
+
+Technologies 
+
+Corporation 
+SVP 985,600.00  985,600.00  
+
+-  
+
+Group Personal 
+
+Accident 
+
+Insurance 
+
+Unified Property 
+
+and Accident 
+
+Insurance System 
+
+for Education 
+
+(UPRAISE, INC.) 
+
+SVP 974,340.00  846,365.00  
+
+Total Amount  P38,546,565.31  P37,065,955.83  
+
+ 
+
+7.6 The initial results of audit and contract review revealed deficiencies such as: 
+a) delay and non-submission of original/authenticated copies of contracts; b) 
+
+lack of required supporting documents and deficiencies in the submitted 
+
+
+
+89 
+
+ 
+
+documents; and c) non-compliance with the posting requirements, details are 
+
+discussed as follows: 
+
+ 
+
+a)  Delayed and non-submission of copies of procurement contracts 
+ 
+
+7.7 Evaluation of the EARIST’s compliance with the prescribed submission 
+period to COA of perfected contracts including supporting documents during 
+
+the year showed that it was not able to submit copies of the contracts and the 
+
+required supporting documents within five days after execution or issuance as 
+
+required under Section 3.1.1 of COA Circular No. 2009-001 dated February 
+
+12, 2009. 
+
+ 
+
+7.8 Out of 17 contracts executed for the Calendar Year 2020, only ten contracts 
+were submitted by the EARIST, which were delayed ranging from 11 to 90 
+
+calendar days, as summarized on the below: 
+
+ 
+Table 25. Contracts Executed for CY 2020 
+
+Contract 
+
+No. 
+Particulars 
+
+Date of 
+
+Contract 
+
+Date of 
+
+Submission 
+
+to the 
+
+Auditor 
+
+No of Days 
+
+Delayed 
+
+2020-03 
+
+Refurbishment of Ted-Pro 
+
+Laboratory at the Ground 
+
+Floor of the Engineering 
+
+Bldg. 
+
+07/14/2020 09/03/2020 43 
+
+2020-04 
+
+Construction of Comfort 
+
+Rooms & Stainless Steel Gate 
+
+of SDPE and the Roofdeck of 
+
+CEAFA Bldg. 
+
+07/14/2020 09/03/2020 43 
+
+2020-05 
+
+Repair/Rehabilitation of the 
+
+Extension Office of the 
+
+College of Public 
+
+Administration & 
+
+Criminology 
+
+08/04/2020 09/03/2020 22 
+
+2020-06 
+
+Rehabilitation of One 
+
+Classroom for Combined 
+
+Laboratory Program 
+
+08/18/2020 10/05/2020 40 
+
+2020-07 
+
+Rehabilitation of the ECE 
+
+Classroom as Review 
+
+Classroom 
+
+09/30/2020 01/06/2021 90 
+
+2020-08 
+
+Rehabilitation of the Institute 
+
+Science Laboratory Room 
+
+Including Fixtures and 
+
+Equipment 
+
+09/30/2020 01/05/2021 89 
+
+2020-09 
+
+Repair and Rehabilitation of 
+
+Roofing and Gutter of the 
+
+Administrative Building and 
+
+Adjoining Space 
+
+09/30/2020 11/18/2020 41 
+
+
+
+90 
+
+ 
+
+Contract 
+
+No. 
+Particulars 
+
+Date of 
+
+Contract 
+
+Date of 
+
+Submission 
+
+to the 
+
+Auditor 
+
+No of Days 
+
+Delayed 
+
+2020-10 
+
+Repair/Rehabilitation of 
+
+Comfort Room of Quality 
+
+Assurance Office 
+
+09/30/2020 10/19/2020 11 
+
+2020-15 
+Repair/Rehabilitation of the 
+
+Existing Athletes Dormitory 
+12/28/2020 01/25/2021 17 
+
+ 
+Group Personal Accident 
+
+Insurance 
+9/30/2020 10/29/2020 21 
+
+ 
+
+7.9 Meanwhile, seven contracts, mostly executed and procured by means of or 
+thru Public Bidding, with a total contract amount of P26,491,747.69 remained 
+
+unsubmitted despite verbal follow-up with the officials concerned to submit 
+
+the same as these were already due. Details of the unsubmitted contracts are as 
+
+follows: 
+
+ 
+
+   Table 26 List of Unsubmitted Contracts 
+
+Contract 
+
+No. 
+
+Project/ Program/ 
+
+Activity Name 
+
+Contractor/ 
+
+Supplier 
+
+Mode of 
+
+Procurement 
+
+Total Cost 
+
+Incurred to 
+
+Date 
+
+2020-01 
+
+Service Contract for 
+
+Janitorial Services (30 
+
+Personnel) with Provision 
+
+for Supplies and 
+
+Equipment 
+
+Excellent 
+
+General 
+
+Services Inc. 
+
+PB 
+P7,374,445.
+
+80  
+
+2020-02 
+Private Security Services 
+
+for EARIST  
+
+Hybrid 
+
+Watchmen 
+
+Security And 
+
+Investigation 
+
+Services, Inc. 
+
+PB 
+9,751,368.9
+
+1  
+
+2020-11 
+
+Service Contract for 
+
+Electrical Audit Works for 
+
+the 4 Buildings of EARIST 
+
+E-Power Gear 
+
+Solutions 
+
+Incorporated 
+
+SVP 950,040.00  
+
+2020-12 
+
+Repair/Rehabilitation & 
+
+Upward Expansion of 
+
+EARIST Cavite Campus 
+
+Perimeter Fence 
+
+CFV ARAR 
+
+Contractors 
+
+Philippines Inc. 
+
+PB 
+5,187,010.5
+
+6  
+
+2020-13 
+Repair and Rehabilitation 
+
+of the Office of the FMS 
+
+Wilfredo M. 
+
+David Builders 
+
+& Construction 
+
+PB 
+1,905,104.2
+
+5  
+
+2020-14 
+Refurbishment of Research 
+
+Offices of CAFA and CEN 
+
+J.C. Inojales 
+
+Construction 
+SVP 338,178.17  
+
+  
+Software Maintenance of 
+
+Enrollment System 
+
+Prince 
+
+Technologies 
+
+Corporation 
+
+SVP 985,600.00  
+
+Total P26,491,747.69  
+
+ 
+
+7.10 We also noted that the submitted contracts and their attachments procured thru 
+Small Value Procurement (SVP) were photocopies and not authenticated. The 
+
+
+
+91 
+
+ 
+
+general rule is that photocopies of documents are inadmissible. As held in 
+
+various judicial rulings, and the “Best Evidence Rule” under Section 3, Rule 
+
+130, Rules of Court-Rules of Admissibility, the documents submitted by the 
+
+EARIST have no probative value and are unacceptable as evidence. 
+
+ 
+
+7.11 Due to the delay/non-submission of the above contracts and their attachments, 
+the timely validation and complete evaluation of the Agency’s compliance and 
+
+observance with existing procurement laws, rules, and regulations could not 
+
+be completely undertaken. 
+
+ 
+
+b) Lack and/or incomplete supporting documents  
+ 
+
+7.12 Auditorial and legal review and evaluation of the submitted contracts revealed 
+lacking and/or incomplete supporting documents, while verification of the 
+
+submitted documents showed deficiencies/inconsistencies, enumerated as 
+
+follows: 
+
+ 
+Table 27. Lists of Lacking Documents and Other Deficiencies Noted 
+
+Name of Project Deficiencies Noted 
+
+2020-03 Refurbishment of Ted-Pro 
+
+Laboratory at the Ground Floor of 
+
+the Engineering Bldg. 
+
+Lacking Documents 
+
+1. Notice to Proceed 
+2. Certificate of Availability of Funds 
+3. BIR Certificate of Registration 
+
+2020-04 Construction of Comfort Rooms & 
+
+Stainless Steel Gate of SDPE at the 
+
+Roof Deck of Ceafa Bldg. 
+
+Lacking Documents 
+
+1. Notice to Proceed 
+2. Certificate of Availability of Funds 
+
+CA-
+
+2020-05 
+
+Repair/Rehabilitation of the 
+
+Extension Office of the College of 
+
+Public Administration & 
+
+Criminology 
+
+Lacking Documents and Deficiencies Noted  
+
+1. Notice to Proceed 
+2. Signed/Approved Program of Works 
+3. Certificate of Availability of Funds 
+4. Contract Agreement signed only by one 
+
+witness 
+
+5. Title of Project in the Bid Notice Abstract 
+posted in PhilGEPS is different from the 
+
+Name of the Project as indicated in their 
+
+APP and WFP 
+
+2020-07 Rehabilitation of the ECE 
+
+Classroom as Review Classroom 
+
+Lacking Documents 
+
+1. Valid PCAB License (submitted was 
+expired) 
+
+2. Post Qualification Report 
+3. Certificate of Availability of Funds 
+4. Proof of Receipt of Notice of Meeting 
+5. Proof of posting of NOA to PhilGEPs 
+
+2020-08 Rehabilitation of the Institute 
+
+Science Laboratory Room Including 
+
+Fixtures and Equipment 
+
+2020-09 Repair and Rehabilitation of 
+
+Roofing and Gutter of the 
+
+Administrative Building and 
+
+Adjoining Space 
+
+Lacking Documents and Deficiencies Noted  
+
+1. No proof of receipt of Notice of Meeting 
+2. Signed Bill of Quantities 
+3. Certificate of Availability of Funds 
+4. Post Qualification Report 
+5. Proof of Receipt of Notice of Meeting 
+6. Proof of posting of NOA to PhilGEPs 
+7. Signed only by one witness 
+8. Approved Budget for Contract in its BAC 
+
+
+
+92 
+
+ 
+
+Name of Project Deficiencies Noted 
+
+Resolution is different from the amount 
+
+indicated in the APP 
+
+2020-15 Repair/Rehabilitation of the Existing 
+
+Athletes Dormitory 
+
+Lacking Documents and Deficiency Noted  
+
+1. BAC Resolution approved by the HoPE 
+justifying and recommending the change in 
+
+the method of procurement from PB to NP-
+
+SVP 
+
+2. Signed by only one witness 
+
+ Group Personal Accident Insurance Lacking Documents and Deficiencies Noted  
+
+1. Certificate of availability of Funds 
+2. Contract was not signed by Contractor’s 
+
+Representative 
+
+3. Minor correction on the amount reflected in 
+BAC Resolution 
+
+ 
+
+7.13 It was also noted that for all contracts submitted, there were no attached 
+Certificates of Availability of Funds (CAF), contrary to Section 37, Chapter 2 
+
+of GAM for NGAs Volume I, which states that “no funds shall be disbursed, 
+
+and no expenditures or obligations chargeable to any department, office or 
+
+agency without first securing the certification of its Chief Accountant as to the 
+
+availability of funds and the allotment to which the expenditure or obligation 
+
+may be properly charged.”  
+
+ 
+
+7.14 Section 86 of PD No. 1145 also states that the CAF shall be attached to and 
+become an integral part of the proposed contract, and “the sum so certified 
+
+shall not thereafter be available for expenditure for any other purpose until 
+
+the obligation of the government agency concerned under the contract is fully 
+
+extinguished.” 
+
+ 
+
+7.15 The stamp in the letter of intent signed by the FMS Director on the availability 
+of funds pertains only to the allotment. The CAF is supposed to serve as a 
+
+confirmation that the agency is ready to undergo procurement. Signed by the 
+
+agency’s accountant, the CAF should show that cash allocation is available 
+
+and that the obligation incurred can be actually paid. 
+
+ 
+
+c) Non-compliance with the posting requirement as required under the IRR 
+of RA No. 9184 
+
+ 
+
+7.16 Section 21.2.1 of the IRR of RA No. 9184 on Advertising and Posting of the 
+Invitation to Bid/Request for Expression of Interest provides that: 
+
+ 
+
+21.2.1. Except as otherwise provided in Section 54.2 of this IRR and 
+
+for the procurement of common-use goods and supplies, the Invitation 
+
+to Bid/Request for Expression of Interest shall be: 
+
+ 
+
+a) Posted at any conspicuous place reserved for this purpose in the 
+premises of the Procuring Entity concerned for seven (7) calendar 
+
+
+
+93 
+
+ 
+
+days as certified by the head of the BAC Secretariat of the 
+
+Procuring Entity concerned. 
+
+ 
+
+b) Posted continuously in the PhilGEPS website, the website of the 
+Procuring Entity concerned, if available, and the website 
+
+prescribed by the foreign government/foreign or international 
+
+financing institution, if applicable, for seven (7) calendar days 
+
+starting on date of advertisement; and 
+ 
+
+c) Xxxx. 
+ 
+
+7.17 Section 54.2 provides that “Xxx. For the following modalities, however, the 
+BAC, through its Secretariat, shall post the invitation or request for 
+
+submission of price quotations/proposals in the PhilGEPS website, the website 
+
+of the Procuring Entity concerned, if available, and at any conspicuous place 
+
+reserved for this purpose in the premises of the Procuring Entity for a period 
+
+of at least three (3) calendar days.” 
+
+ 
+
+7.18 Review of the EARIST’s compliance with the above posting requirement 
+showed that though they were able to post all these procurements to the 
+
+PhilGEPs, these were not posted in the Agency’s website and at any 
+
+conspicuous place reserved for this purpose in the premises of the Procuring 
+
+Entity as required under the IRR. 
+ 
+
+7.19 Moreover, the EARIST did not submit the proof of posting of the Notice of 
+Award (NOA), Contract and Notice to Proceed (NTP) in the PhilGEPS 
+
+website, the website of the Procuring Entity concerned, if available, and at any 
+
+conspicuous place reserved for this purpose in the premises of the Procuring 
+
+Entity. 
+ 
+
+7.20 Inquiry with the Management revealed that they only post in the PhilGEPS the 
+NOA and NTP of procurements which were procured thru public bidding, 
+
+which proof of posting were not yet submitted to COA for verification. For 
+
+other modes of procurement, it is not their practice to post, contrary to Section 
+
+54.3 of the same IRR which provides that: 
+
+In all instances of alternative methods of procurement, the BAC, 
+
+through the Secretariat, shall post, for information purposes, the 
+
+notice of award, contract or purchase order, including notice to 
+
+proceed if necessary, in the PhilGEPS website, the website of the 
+
+Procuring Entity concerned, if available, and at any conspicuous place 
+
+reserved for this purpose in the premises of the Procuring Entity, 
+
+except for contracts with ABC of Fifty Thousand Pesos (₱50,000.00) 
+
+and below. 
+ 
+
+7.21 The non-compliance with the above posting requirements defeats the purpose 
+of the law on transparency, competitiveness and accountability. 
+
+ 
+
+
+
+94 
+
+ 
+
+7.22 We recommended that Management: 
+ 
+
+a. for succeeding contracts/agreements, make sure to submit 
+immediately the required contracts- original and/or authenticated 
+
+copies with the necessary supporting documents and annexes to COA 
+
+within five days after their execution and issuance to facilitate the 
+
+technical review thereof in compliance with COA Circular No. 2009-
+
+001; 
+
+ 
+
+b. address accordingly the deficiencies noted above and submit the 
+contracts listed in Table 26, and the lacking supporting documents in 
+
+Table 27 to avoid issuances of Notices of Suspension and/or 
+
+Disallowance on related disbursements; and 
+
+ 
+
+c. observe and comply with the posting requirements provided under the 
+IRR of RA No. 9184 to ensure transparency, competitiveness and 
+
+accountability to all procurement. 
+
+ 
+
+7.23 Management commented that the reason of delays in the submission of 
+contract is because Management has to wait for the notarized contract to be 
+
+returned by the contractor to the Procurement Services. They already 
+
+coordinated and submitted the lacking documents to the Audit Team. The 
+
+BAC Secretariat was also advised to strictly comply with the requirement in 
+
+terms of posting to the PhilGEPs website. 
+
+ 
+
+Delayed Submission of FSs, Reports and Supporting Documents 
+
+ 
+
+8. Substantial delay ranging from one to 318 days had been incurred in the 
+submission of the required financial/budgetary reports/statements within the 
+
+prescribed timeframe, contrary to COA Circulars and pertinent provisions of the 
+
+GAM for NGAs, Volume I which precluded the Audit Team from conducting 
+
+timely audit of the transactions and analysis/review of the Agency’s financial 
+
+records, thus the latter could not also institute immediately the necessary 
+
+adjustments/corrections and other remedial measures to avoid possible audit 
+
+suspensions/disallowances in post-audit. 
+
+ 
+
+8.1 The Head of the Agency, who is primarily responsible for all government 
+funds and property pertaining to his Office, shall ensure that the required 
+
+financial reports and statements are submitted by the concerned Agency 
+
+officials in such form and within the period prescribed by COA. 
+ 
+
+Table 28.Criteria for Submission of Reports 
+Report Title Deadline Basis 
+
+Report of Collections and Deposits 
+
+(RCD), Report of Cash 
+
+Disbursements (ROCD), Report of 
+
+Checks Issued (RCI), Liquidation 
+
+Every 10
+th
+ day after 
+
+the end of each month 
+Sec.7.2.1.a of the 
+
+Rules and 
+
+Regulations on the 
+
+Settlement of 
+
+
+
+95 
+
+ 
+
+Report Title Deadline Basis 
+
+Reports (LR),  Report of 
+
+Accountability for Accountable 
+
+Forms (RAAF) 
+
+Accounts (RRSA) as 
+
+prescribed under 
+
+COA Circular No. 
+
+2009-006 dated 
+
+September 15, 2009 
+Monthly Trial Balances and 
+
+Supporting Schedules (SSs) including 
+
+the Journal Entry Vouchers (JEVs) 
+
+10 days after the end 
+
+of the month 
+Section 60-c, 
+
+Chapter 19 of the 
+
+GAM for NGAs, 
+
+Volume I Quarterly Trial Balances,  FSs  and 
+Supporting Schedules 
+
+10 days after the end 
+
+of the quarter 
+Year-end Trial Balances, FSs and 
+
+Supporting Schedules (consolidated) 
+February 14 of the 
+
+following year 
+ BRS 20 days after  receipt 
+
+of monthly  BS  
+Section 7, Chapter 
+
+21 of the GAM for 
+
+NGAs, Volume I 
+Statement of Appropriations, 
+
+Allotments, Obligations, 
+
+Disbursements and Balances – FAR 
+
+No. 1 (SAAODB) 
+
+30 days after the end 
+
+of each quarter 
+
+Section 32-a, 
+
+Chapter 3 of the 
+
+GAM for NGAs, 
+
+Volume I 
+ 
+
+Summary of Appropriations, 
+
+Allotments, Obligations, 
+
+Disbursements and Balances by 
+
+Object of Expenditures – FAR No. 
+
+1.A (SAAODBOE) 
+
+30 days after the end 
+
+of each quarter 
+
+List of Allotments and Sub-
+
+Allotments – FAR No. 1.B (LASA) 
+30 days after the end 
+
+of each quarter 
+Statement of Approved Budget, 
+
+Utilizations, Disbursements and 
+
+Balances – FAR No. 2 (SABUDB) 
+
+30 days after the end 
+
+of each quarter 
+
+Summary of Approved Budget, 
+
+Utilizations, Disbursements and 
+
+Balances by Object of Expenditures – 
+
+FAR No. 2.A (SABUDBOE) 
+
+30 days after the end 
+
+of each quarter 
+
+Quarterly Report of Revenue and 
+
+Other Receipts –FAR No.5 
+(QRROR) 
+
+30 days after the end 
+
+of each quarter 
+
+Aging of Due and Demandable 
+
+Obligations – FAR No. 3 (ADDO) 
+On or before 30th day 
+
+following the end of 
+
+the year 
+
+Section 32-b, 
+
+Chapter 3 of the 
+
+GAM for NGAs, 
+
+Volume I 
+Monthly Report of Disbursements – 
+
+FAR No. 4 
+(MRD) 
+
+On or before 30th day 
+
+of the following 
+
+month covered 
+
+Section 32-c, 
+
+Chapter 3 of the 
+
+GAM for NGAs, 
+
+Volume I 
+Consolidated Statement of 
+
+Allotments, Obligations, and 
+
+Balances per Summary of 
+
+Appropriations under FCR under 
+
+GAA and SARO 
+
+On or before February 
+
+14 of the following 
+
+calendar year 
+
+Section 32-d, 
+
+Chapter 3 of the 
+
+GAM for NGAs, 
+
+Volume I 
+
+
+
+96 
+
+ 
+
+8.2 Based on our records, the Accountant did not submit the said financial 
+reports/statements within the required timelines, which hindered the timely 
+
+audit/verification of the transactions/accounts and correction of 
+
+errors/deficiencies, as shown below: 
+
+ 
+
+Table 29. Schedule of Submission of Reports and Delays Incurred 
+
+Reports 
+Last Month 
+
+Submitted 
+Days Delayed 
+
+Report of Collections and Deposits (RCD) 
+
+including Official Receipts and Deposits Slips 
+December 2020 one to 76 days 
+
+Report of Checks Issued (RCI) including DVs 
+
+and supporting documents 
+December 2020 one to 328 days 
+
+Authority to Debit Account (ADA) with 
+
+DVs/Payrolls 
+December 2020 one to 278 days 
+
+Liquidation Reports (LRs) including Official 
+
+Receipts and other  supporting documents 
+December 2020 one to 112 days 
+
+Bank Reconciliation Statements December 2020 one to 238 days 
+
+Report of Accountability for Accountable Forms 
+
+(RAAF) 
+December 2020 one to 76 days 
+
+Monthly Trial Balance December 2020 one to 246 days 
+
+Quarterly FSs 4
+th
+ quarter one to 88 days 
+
+Financial and Accountability Report 4
+th
+ quarter one to 347 days 
+
+ 
+
+8.3 Section 122, Chapter 3 of  PD No. 1445, otherwise known as the Government 
+Auditing Code of the Philippines, states that: 
+
+ 
+
+Submission of Reports – (1) Whenever deemed necessary in the 
+
+exigencies of the service, the Commission may under regulations issued 
+
+by it require the agency heads, chief accountants, budget officers, 
+
+cashiers, disbursing officers, administrative or personnel officers, and 
+
+other responsible officials of the various agencies to submit trial 
+
+balances, physical inventory reports, current plantilla of personnel, and 
+
+such other reports as may be necessary for the exercise of its functions. 
+
+ 
+
+(2) Failure on the part of the officials concerned to submit the 
+
+documents and reports mentioned herein shall automatically cause the 
+
+suspension of payment of their salaries until they shall have complied 
+
+with the requirements of the Commission.  
+
+ 
+
+(3) No appropriation authorized in the General Appropriations Act shall 
+
+be available to pay the salary of any official or employee who violates 
+
+the provisions of this section, without prejudice to any disciplinary 
+
+action that may be instituted against such official or employee. 
+
+ 
+
+8.4 Section 127, Chapter 4 of the same PD provides that “Xxx Repeated 
+unjustified failure to comply with the requirements imposed in this Code shall 
+
+
+
+97 
+
+ 
+
+be conclusive proof that the public officer concerned is notoriously 
+
+undesirable.” 
+
+ 
+
+8.5 The non-submission/delay in the submission of the financial reports and 
+documents precluded the timely verification/examination and analysis of the 
+
+related accounts. Hence, corrections of errors/deficiencies that may be found 
+
+in the course of audit, if any, could not be immediately undertaken. 
+
+ 
+
+8.6 We recommended that Management: 
+ 
+
+a. submit the reports within set deadlines and adhere strictly to the 
+provisions of the abovementioned laws, rules and regulations;  
+
+ 
+
+b. fast-track the preparation and submission of reports which are long 
+overdue; and 
+
+ 
+
+c. subject the officials and employees concerned to automatic suspension 
+of their salaries and/or administrative disciplinary action for any 
+
+unjustified failure to comply with the requirements on the submission 
+
+of financial transactions, statements and reports as provided in 
+
+Section 122 of PD No. 1445. 
+
+ 
+
+8.7 Management commented that as much as they want to adhere to the set 
+deadlines, the number of qualified personnel in the FMS vis-à-vis the volume 
+
+of transactions/reports the Institute is regularly handling is inadequate. This 
+
+problem was further exacerbated by the COVID-19 pandemic, thus they are 
+
+asking for understanding. 
+
+ 
+
+9. The regularity, validity, completeness and legality of the transactions with an 
+aggregate amount of P60,320,738.99 in CY  2020 cannot be ascertained due to 
+
+non-submission of DVs and other necessary/required documents, contrary to 
+
+Sections 4 and 122 of Presidential Decree (PD) No. 1445 and pertinent 
+
+provisions of the GAM for NGAs, Volume I. 
+
+ 
+
+9.1 Chapter 6, Volume 1 of the GAM provides the basic requirements applicable 
+to all classes of disbursements, to wit: 
+
+ 
+
+• Existence of lawful and sufficient allotment certified as available by the 
+Budget Officer; 
+
+• Existence of a valid obligation certified by the Chief Accountant/Head of 
+Accounting Unit; 
+
+• Legality of transactions and conformity with laws, rules and regulations; 
+
+• Approval of the expense by the Chief of Office or by his duly authorized 
+representative; and 
+
+• Submission of proper evidence to establish the claim. 
+ 
+
+
+
+98 
+
+ 
+
+9.2 Items 5 and 6 of Section 4 of PD No. 1445, which set forth the fundamental 
+principles that govern the financial transactions and operations of government 
+
+agencies, provide that: 
+
+ 
+
+(5) Disbursements or disposition of government funds or property shall 
+
+invariably bear the approval of the proper officials. 
+
+ 
+
+(6) Claims against government funds shall be supported with complete 
+
+documentation. 
+
+ 
+
+9.3 Section 122 of PD No. 1445 provides that unjustified failure on the part of the 
+official or employee concerned to submit the documents and reports 
+
+mentioned herein shall be considered a ground for the automatic suspension of 
+
+payment of salary until he shall have complied with the aforesaid 
+
+requirements, without prejudice to any disciplinary action that may be 
+
+instituted against him. 
+
+ 
+
+9.4 Section 4 of COA Circular No. 95-006 dated May 18, 1995 provides that the 
+official involved in the daily recording of transactions in the books of accounts 
+
+shall turn over the receipts and the disbursement records with all paid 
+
+vouchers and documents evidencing the transaction to the Auditor within ten 
+
+(10) days from date of receipt of said documents. 
+ 
+
+9.5 DVs and their related documents for payments made by the Institute under 
+Fund 101 and Fund 164 totaling to P60,320,738.99 (see Annex A for details) 
+
+were not submitted despite our continuous follow–ups: 
+ 
+
+Table 30. Unsubmitted DVs 
+Fund Month  Amount  
+
+Fund 101 
+June         P13,655,113.47  
+September           4,215,493.99  
+December         12,182,201.03  
+
+Fund 101 – LLDAP May         21,792,884.98  
+Fund 164 November           8,475,045.52  
+
+Total Amount         P60,320,738.99  
+
+ 
+
+9.6 Further, during our review of documents, copies of Budget Utilization Request 
+and Status (BURS) and JEVs attached to the submitted DVs did not bear the 
+
+signatures of the approving official, to wit: 
+ 
+
+Table 31. Unsigned Reports 
+
+Fund Month 
+ Name of 
+
+Official/Employee  
+
+ Nature of 
+
+Transactions  
+ Designation   Remarks  
+
+Reports of Check Issued   
+
+Fund 
+
+151 
+
+May Mary Antonette 
+
+Aquino 
+
+PhilHealth 
+
+Remittance 
+
+Budget Officer No signature on JEV  
+
+Fund 
+
+164 
+
+December Roberto Liwanag Payment of 
+
+Honorarium 
+
+Director, FMS 
+
+LLDAP   
+
+
+
+99 
+
+ 
+
+Fund Month 
+ Name of 
+
+Official/Employee  
+
+ Nature of 
+
+Transactions  
+ Designation   Remarks  
+
+Fund 
+
+101 
+
+April Mary Antonette 
+
+Aquino  
+
+Various Payments Budget Officer No signature on JEV 
+
+July Various Payments Budget Officer No signature on 
+
+BURS, JEV 
+
+August Various Payments Budget Officer No signature on JEV   
+November Remittance of Salary 
+
+Loan 
+
+Budget Officer 
+
+Fund 
+
+151 
+
+April Christylane 
+
+Bagabaldo 
+
+Payroll, 
+
+Honorarium 
+
+Chief, HRMS No signature on 
+
+Payroll Register May 
+
+ 
+
+9.7 The absence of the foregoing documents significantly hindered the timely 
+audit of the transactions, which impacts on the need to establish the regularity, 
+
+validity, completeness and legality of these transactions as recorded in the 
+
+Institute’s FSs. 
+
+ 
+
+9.8 We recommended that Management: 
+ 
+
+a. observe strictly the proper documentation of all transactions pursuant 
+to Sections 4 and 122 of PD No. 1445 and pertinent provisions of the 
+
+GAM for NGAs, Volume 1; and  
+
+b. submit the necessary DVs with complete supporting documents to 
+determine the regularity, validity, completeness and legality of the 
+
+transactions; otherwise, a corresponding Notice of Suspension shall be 
+
+issued covering the subject’s transactions for any unaccounted 
+
+/unsubmitted documents. 
+
+ 
+
+9.9 Management commented that they already submitted these reports. They also 
+explained that the unsigned BUR and JEV submitted to the Audit Team was 
+
+because at that time, signatory was on a Work-from-Home arrangement 
+
+considering that at time, the area where she lives was on a lockdown. 
+
+ 
+
+Auditor’s Rejoinder 
+
+ 
+
+9.10 The Audit Team reiterates the timely submission of DVs supported with 
+complete documentation within the prescribed timeline for post-
+
+audit/verification to avoid issuance of NS/ND. 
+
+ 
+
+OTHER COMPLIANCE ISSUES 
+
+ 
+
+Gender and Development (GAD) 
+
+ 
+
+10. EARIST allotted only P7,063,388.00 or 3.39 percent of the Institute’s total 
+budget appropriations authorized under the General Appropriations Act 
+
+(GAA) of P208,290,000.00 to support GAD plans and programs for CY 2020 in 
+
+compliance with Item 6.1 of PCW-NEDA-DBM Joint Circular No. 2012-01. 
+
+Out of the allotted amount, only 74.80 percent or P5,283,568.40 was utilized to 
+
+undertake all of the GAD projected activities included in the GAD Plan and 
+
+Budget (GPB), leaving a balance of P1,780,319.60 or 25.20 percent as unutilized 
+
+
+
+100 
+
+ 
+
+allotment, thus not fully compliant with the provisions of the foregoing Joint 
+
+Circular and may have defeated the purpose for which the unutilized allotment 
+
+could have benefited the GAD beneficiaries. 
+
+ 
+
+10.1 Under Section 1 of Executive Order (EO) No. 273, on the approval and 
+adoption of Philippine Plan for Gender-Responsive Development (PPGD) 
+
+1995-2025, all government agencies, bureaus, offices and instrumentalities, 
+
+including GOCCs, are mandated  to: (a) take appropriate steps to ensure the 
+
+full implementation of the policies/strategies and programs/projects outline in 
+
+the Plan; and (b) institutionalize GAD efforts in government by incorporating   
+
+GAD concerns as spelled out in the Plan  in their planning, programming and 
+
+budgeting processes. 
+
+ 
+
+10.2 The GAD Plan shall be integrated in the regular activities of the agencies, 
+which shall be at least five percent of their budgets. For this purpose, activities 
+
+currently being undertaken by agencies which relate to GAD or those that 
+
+contribute to poverty alleviation, economic empowerment especially of 
+
+marginalized women, protection, promotion and fulfillment of women’s 
+
+human rights, and practice of gender-responsive governance are considered 
+
+sufficient compliance with said requirement. Utilization of the GAD budget 
+
+shall be evaluated based on the GAD performance indicators identified by said 
+
+agencies. 
+
+ 
+
+10.3 Item 3.3 of Joint Circular No. 2012-01 issued by the Philippine Commission 
+for Women (PCW), National Economic and Development Authority (NEDA) 
+
+and Department of Budget and Management (DBM) provides further that 
+
+GAD planning and budgeting shall be conducted annually as part of all 
+
+programming and budgeting exercises of agencies. The Programs, Activities 
+
+and Projects (PAPs) in the GPB shall be included in the agency’s budget 
+
+proposal and they shall be reflected in the Annual Work and Financial Plan 
+
+(WFP) of concerned offices or units within the agency or department. 
+
+ 
+
+10.4 Item 6.1 of Joint Circular No. 2012-01 provides that at least five percent of the 
+total agency budget appropriations authorized under the annual GAA shall 
+
+correspond to activities supporting GAD plans and programs. The GAD 
+
+budget shall be drawn from the agency’s MOOE, CO and PS. It is understood 
+
+that the GAD budget does not constitute an additional budget over an agency’s 
+
+total budget appropriations. 
+
+ 
+
+10.5 In addition, Items 11.1 and 11.2 of Joint Circular No. 2012-01 state that:  
+ 
+
+Pursuant to Section 36 of the MCW, The Commission on Audit (COA) 
+
+shall conduct an annual audit on the use of the GAD budget for the 
+
+purpose of determining its judicious use and the efficiency and 
+
+effectiveness of interventions in addressing gender issues towards the 
+
+realization of the objectives of the country’s commitments, plans, and 
+
+
+
+101 
+
+ 
+
+policies on women’s empowerment, gender equality and GAD. Provided 
+
+further in Section 37 of the MCW-IRR, the COA shall conduct an annual 
+
+audit of GAD funds of all government agencies, offices, bureaus, SUCs, 
+
+GOCCs, all government instrumentalities and all others concerned. 
+
+ 
+
+10.6 For CY 2020, the EARIST total appropriation amounted to P208,290,000.00. 
+At least five percent of the said appropriation or P10,414,500 was to be 
+
+allocated for GAD programs and activities. Review of the Annual GAD 
+
+Accomplishment Report of EARIST showed actual cost or expenditure 
+
+amounting to P5,283,068.40 which was P1,780,319.40 or 25.20% lower than 
+
+the GAD budget of P7,603,388.00. Details are shown in the succeeding table: 
+
+ 
+
+Table 32. GAD Projected Activities and Budget 
+
+GAD Projected 
+
+Activities 
+GAD Budget 
+
+ 
+
+Actual cost/ 
+
+Expenditure 
+Percentage 
+
+Variance 
+
+Under/ (Over) 
+
+Expenditure 
+
+Client-focused 
+
+Conduct Seminar on 
+
+Health Awareness among 
+
+EARISTIANS 
+
+P30,000.00 P0.00 P0.00 P30,000.00 
+
+Conduct of 
+
+training/presentation in 
+
+undertaking gender 
+
+sensitive qualitative and 
+
+quantitative researches 
+
+60,000.00 0.00 0.00 60,000.00 
+
+Conduct activities for 
+
+freshmen students: GAD 
+
+Orientation 
+
+30,000.00 1,500.00 5.00 28,500.00 
+
+Conduct of activities that 
+
+promote awareness to end 
+
+VAW such as 
+
+symposium, film 
+
+showing, etc. 
+
+25,000.00 
+
+ 
+
+ 
+
+ 
+
+25,000.00 
+
+ 
+
+ 
+
+ 
+
+100 
+
+ 
+
+ 
+
+- 
+
+ 
+
+ 
+
+Conduct a sustainable 
+
+livelihood and 
+
+entrepreneurial training 
+
+activities to the 
+
+underprivileged women 
+
+among community 
+
+partners such as face 
+
+mask making, 
+
+dishwashing liquid 
+
+making, alcohol making 
+
+and food processing 
+
+400,000.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+75,000.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18.75 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+325,000.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Open a short course such 
+
+as baking, bartending, 
+
+housekeeping, computer 
+
+hardware and trouble 
+
+shooting 
+
+120,000.00 120,000.00 100.00 - 
+
+
+
+102 
+
+ 
+
+GAD Projected 
+
+Activities 
+GAD Budget 
+
+ 
+
+Actual cost/ 
+
+Expenditure 
+Percentage 
+
+Variance 
+
+Under/ (Over) 
+
+Expenditure 
+
+Conduct seminar on 
+
+Climate Change and eco-
+
+gender sensitivity and 
+
+disaster information 
+
+campaign 
+
+50,000.00 0.00 0.00 50,000.00 
+
+Conduct Orientation on 
+
+the Anti-Sexual 
+
+Harassment Act for 
+
+students who will 
+
+undergo On-the-Job 
+
+Training (OJT) 
+
+67,000.00 
+
+ 
+
+ 
+
+ 
+
+0.00 
+
+ 
+
+ 
+
+0.00 
+
+ 
+
+ 
+
+67,000.00 
+
+ 
+
+ 
+
+Conduct of Capability 
+
+Training on Gender 
+
+Response Disaster Risk 
+
+Reduction Management 
+
+for EARISTians and 
+
+adopted 
+
+communities/barangays 
+
+40,000.00 0.00 0.00 40,000.00 
+
+Organization-focused 
+
+Conduct Seminar/Forum 
+
+on Health Awareness 
+
+47,000.00 0.00 0.00 
+
+ 
+
+47,000.00 
+
+Send/Recommend the 
+
+attendance of GAD 
+
+advocates on seminars, 
+
+workshops, conferences, 
+
+forum and trainings 
+
+within and outside Metro 
+
+Manila 
+
+220,000.00 
+
+ 
+
+ 
+
+69,190.00 
+
+ 
+
+ 
+
+31.45 
+
+ 
+
+150,810.00 
+
+ 
+
+ 
+
+Send/Recommend the 
+
+attendance of GAD 
+
+advocates on paper/oral 
+
+presentation within and 
+
+outside Metro Manila on 
+
+GAD issues, concerns, 
+
+and best practices  
+
+150,000.00 68,000.00 45.33 82,000.00 
+
+Hire a dedicated staff to 
+
+manage the GAD Office 
+
+1,449,888.00 1,356,288.00 93.54 93,600.00 
+
+Purchase of the 
+
+devices/items and 
+
+protective materials to 
+
+combat Covid 19 
+
+2,633,500.00 2,249,000.00 85.40 384,500.00 
+
+Construction/rehabilitatio
+
+n of neutral comfort room 
+
+in the campus 
+
+1,500,000.00 1,078,090.40 71.87 421,910.00 
+
+Purchase of needed 
+
+equipment for the 
+
+efficient delivery and 
+
+241,000.00 241,000.00 100.00 - 
+
+
+
+103 
+
+ 
+
+GAD Projected 
+
+Activities 
+GAD Budget 
+
+ 
+
+Actual cost/ 
+
+Expenditure 
+Percentage 
+
+Variance 
+
+Under/ (Over) 
+
+Expenditure 
+
+documentation of GAD 
+
+activities, to wit: Laptop, 
+
+printer, digital camera, 
+
+multi-media projector, 
+
+floor polisher, UPS 
+
+Total P7,063,388.00 P5,283,068.40 P74.80 P1,780,319.60 
+
+ 
+
+10.7 For CY 2020, the Institute submitted the annual GAD Accomplishment 
+Report in accordance with the format prescribed under Annex B of Joint 
+
+Circular No. 2012-01, which includes columns for: a) GAD Activities 
+
+Submitted to the PCW and CHED;  b) EARIST Activity; c) Approved GAD 
+
+Budget; and d) Actual Cost/Expenditure per project/program/activity, 
+
+however, 6 out of the 16 projected activities were not accomplished for 
+
+reasons stated on the below:  
+
+ 
+
+Table 33. GAD Accomplishment Report 
+GAD Activities Submitted to 
+
+the PCW and CHED 
+
+Reason for Non-
+
+accomplishment 
+
+Approved 
+
+GAD Budget 
+
+Actual Cost/ 
+
+Expenditure 
+
+Client-Focused 
+
+1. Conduct Seminar on Health 
+Awareness among 
+
+EARISTIANS 
+
+Legal restrictions 
+
+imposed by the 
+
+government as stated in 
+
+the IATF resolutions on 
+
+the face-to-face 
+
+activities and the 
+
+implementing of the 
+
+Community Quarantine 
+
+from March 14, 2020 to 
+
+May 31, 2020 and 
+
+General Community 
+
+Quarantine from June 
+
+to October 2020 
+
+P30,000.00 P0.00 
+
+ 
+
+ 
+
+2. Conduct of 
+training/presentation in 
+
+undertaking gender sensitive 
+
+qualitative and quantitative 
+
+researches 
+
+60,000.00 
+
+ 
+
+ 
+
+0.00 
+
+ 
+
+ 
+
+ 
+
+3. Conduct seminar on 
+Climate Change and eco-
+
+gender sensitivity and 
+
+disaster information 
+
+campaign 
+
+50,000.00 0.00                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+
+4. Conduct Orientation on the 
+Anti-Sexual Harassment 
+
+Act for students who will 
+
+undergo On-the-Job 
+
+Training (OJT) 
+
+Due to no face-to-face 
+
+schooling and OJT of 
+
+the students were done 
+
+through attending 
+
+seminar and the 
+
+opening of classes was 
+
+scheduled on October 
+
+5, 2020 per EARIST 
+
+Advisory No. 12 on 
+
+Work Guidelines  
+
+67,000.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. Conduct of Capability 
+Training on Gender 
+
+Response Disaster Risk 
+
+Reduction Management for 
+
+Legal restrictions 
+
+imposed by the 
+
+government as stated in 
+
+the IATF resolutions 
+
+40,000.00 
+
+ 
+
+ 
+
+ 
+
+0.00 
+
+ 
+
+ 
+
+ 
+
+
+
+104 
+
+ 
+
+GAD Activities Submitted to 
+
+the PCW and CHED 
+
+Reason for Non-
+
+accomplishment 
+
+Approved 
+
+GAD Budget 
+
+Actual Cost/ 
+
+Expenditure 
+
+EARISTians and adopted 
+
+communities/ barangays 
+
+and the opening of 
+
+classes was scheduled 
+
+on October 5, 2020 per 
+
+EARIST Advisory No. 
+
+12 on Work 
+
+Guidelines. Likewise, 
+
+Faculty Coordinators 
+
+were opted to Work-
+
+from-Home 
+
+arrangement for the 
+
+entire SY 2020-2021 
+
+ 
+
+6. Conduct livelihood 
+programs that will assist the 
+
+senior citizens and PWD of 
+
+the adopted communities in 
+
+alleviating poverty 
+
+47,000.00 0.00 
+
+ 
+
+ 
+
+ 
+
+10.8 The Institute did not provide five percent of its annual budget for GAD’s 
+Plans and Targets as provided for in Item 6.1of PCW-NEDA-DBM Circular 
+
+No. 2012-01, which should have been P10,414,500.00 of the Institute’s 
+
+allotment per GAA of P208,290,000.00. They were able to prepare only plans 
+
+with budgeted amount of P7,063,388.00 or 3.39 percent of the total budget. 
+
+ 
+
+10.9 The Institute did not effectively prepare GAD plans and budget using only 
+P5,283,068.40 or 74.80 percent of the approved budget for GAD activities 
+
+amounting to P7,063,388.00, thus leaving a balance of P1,780,319.60 
+
+unutilized. 
+
+ 
+
+10.10 The reduced setting-up of budget allocation for GAD may indicate that 
+EARIST need to devise a well-prepared plan and activities with the 
+
+corresponding budget to achieve the intended purpose for the benefit of GAD 
+
+beneficiaries. 
+
+ 
+
+10.11 We recommend that Management, thru the GAD Focal Committee, 
+ 
+
+a. strictly comply with the requirements of PCW-NEDA-DBM Joint 
+Circular No. 2012-01 and fully attain the targeted activities;  
+
+ 
+
+b. develop well-thought GAD Plan and activities that will be more 
+responsive to the gender issues envisioned to promote gender equality 
+
+among employees and clients; and 
+
+ 
+
+c. monitor the implementation of the GAD Plan endorsed by PCW. 
+ 
+
+10.12 Management commented that the target was not met because of the legal 
+restrictions imposed by the government as stated in the IATF resolutions on 
+
+the face-to-face activities and the implementation of the Enhanced Community 
+
+Quarantine announced by Mayor Isko Moreno and Pres. Rodrigo Roa Duterte 
+
+from March 14, 2020 to May 31, 2020, as well as the General Community 
+
+Quarantine from June 2020 onwards. 
+
+
+
+105 
+
+ 
+
+ 
+
+10.13 To avoid the issuance of AOM in the future, the Office of Extension and 
+Community Services-Gender and Development will be embracing the 
+
+recommendations enunciated by the Audit Team to be able to address the 
+
+gender issues and concerns of the Institute and for the realization of the 
+
+objectives of the country’s commitments, plans, and policies on women’s 
+
+empowerment and gender equality. 
+
+ 
+
+Compliance with the Property Insurance Law 
+
+ 
+
+11. Insurable assets of the Institute with a carrying amount of P385,209,126.23 as 
+of December 31, 2020 were not insured with the General Insurance Fund (GIF) 
+
+of the Government Service Insurance System (GSIS), contrary to RA No. 656, 
+
+as amended, thus these properties are exposed to the risk of not being 
+
+indemnified for any damage to or loss due to fire, earthquake, storm or other 
+
+unforeseen events. Moreover, the EARIST did not submit Property Inventory 
+
+Form (PIF) as required under COA Circular No. 2018-002 dated May 31, 2018. 
+ 
+
+11.1 RA No. 656, or the Property Insurance Law was enacted to establish a 
+“Property Insurance Fund,” the administration of which was placed under the 
+
+GSIS. It was amended by PD No. 245 dated July 13, 1973, which requires all 
+
+government agencies to have their insurable properties, assets, and interests 
+
+insured with the GIF administered by the GSIS to ensure compensation of the 
+
+equivalent value thereof in case of loss thru fire, theft or any unforeseen 
+
+events. 
+ 
+
+11.2 The Office of the President and the COA, have been persistent in reminding 
+all National Government Agencies (NGAs) to enforce compliance with RA 
+
+No. 656, thus the following issuances have been issued: 
+
+ 
+
+a) Memorandum Circular No. 634 dated May 10, 1973 – requiring all 
+departments, bureaus, offices, agencies and instrumentalities of 
+
+government, all provincial, city and municipal governments and 
+
+government-owned and controlled corporations to insure their properties 
+
+and assets in accordance with the Property Insurance Law; 
+
+b) COA Circular Nos. 79-112 dated August 30, 1979 and 92-390 dated 
+November 17, 1992 – to assist the GSIS in implementing the Property 
+
+Insurance Law; 
+
+ 
+
+c) Administrative Order No. 33 series of 1987 – prescribing guidelines for 
+insurance of all properties, contracts, rights of action and other insurance 
+
+risks of the government, including those in which the government has an 
+
+insurable interest, with the General Insurance Fund (GIF) of the 
+
+Government Service Insurance System (GSIS); and 
+
+ 
+
+d) COA Circular No. 2018-002 dated May 31, 2018 – prescribing the 
+submission of the Property Inventory Form (GIF) as basis for the 
+
+
+
+106 
+
+ 
+
+assessment of  general insurance coverage over all insurable assets, 
+
+properties and interests of the government with the General GIF of the 
+
+GSIS. The Circular was issued to assist in the implementation of the 
+
+provisions of RA No. 656 on the insurance and bonding of risk on 
+
+insurable government assets and properties with the GIF. 
+ 
+
+11.3 Records of the Institute showed that its reported PPE as of December 31, 2020 
+totaled P385,209,126.23, net of accumulated depreciation. This amount, 
+
+however, does not reflect the accurate amount due to the non-maintenance by 
+
+Management of Property Cards and Property Ledger Cards. Breakdown of 
+
+properties is shown below: 
+ 
+
+ Table 34. Schedule of Insurable Assets of EARIST 
+
+PPE Account Cost 
+Accumulated 
+
+Depreciation 
+Net Book Value     
+
+Land P1,119,500.00   P1,119,500.00 
+
+Sewer Systems 8,895,188.14 P422,521.44 8,472,666.70 
+
+Power Supply Systems 12,365,325.00         3,895,077.48  8,470,247.52 
+
+Buildings 31,956,817.22 6,852,872.40 25,103,944.82 
+
+School Buildings 335,550,104.89 157,589,388.65 177,960,716.24 
+
+Machineries 2,182,224.52 1,964,002.07 218,222.45 
+
+Office Equipment 56,261,975.71 40,455,744.59 15,806,231.12 
+
+Information and 
+
+Communication 
+
+Technology Equipment 
+
+74,194,042.00 55,057,463.68 19,136,578.32 
+
+Communication 
+
+Equipment 
+
+2,485,749.95 1,520,607.25 965,142.70 
+
+Disaster Response and 
+
+Rescue Equipment 
+
+1,489,000.36 902,124.32 586,876.04 
+
+Medical Equipment 598,320.00 355,849.20 242,470.80 
+
+Sports Equipment 386,000.00            122,760.00  263,240.00 
+
+Technical and Scientific 
+
+Equipment 
+
+227,745,536.80 162,568,264.58 65,177,272.22 
+
+Other Machinery and 
+
+Equipment 
+
+79,517,026.02 53,700,412.08 25,816,613.94 
+
+Furniture and Fixtures  13,656,860.68 10,375,929.26 3,280,931.42 
+
+Books 7,110,410.83 4,549,583.19 2,560,827.64 
+
+Construction in Progress 
+
+– Buildings and 
+
+Structures 
+
+19,557,861.72 0.00 19,557,861.72 
+
+Sub-total 875,071,943.84 500,332,600.19 374,739,343.65 
+
+Motor Vehicles 15,156,760.22 4,686,977.64 10,469,782.58 
+
+Total P890,228,704.06 P505,019,577.83 P385,209,126.23 
+
+ 
+
+11.4 Evaluation of the Institute’s compliance with the Property Insurance Law 
+revealed that there was no allocation provided for the insurance premiums of 
+
+the insurable properties of EARIST for CY 2020, thus insurable properties 
+
+were uninsured under the GIF of the GSIS. For the year, they were able to pay 
+
+only the insurance premium of P3,410.96 for one Motor Vehicle. This has 
+
+been a yearly observation of COA and it was recommended and reiterated in 
+
+
+
+107 
+
+ 
+
+the prior years’ audit reports for them to provide budget for the payment of 
+
+insurance premium. 
+
+ 
+
+11.5 In the absence of an insurance coverage, the properties of the government are 
+not amply protected from the risk of non-indemnification in case these will 
+
+suffer any damage or loss due to fire, earthquake, storm or other fortuitous 
+
+events. By securing property insurance, the Agency mitigates the risks of non-
+
+indemnification in case of loss and ensures the protection of government 
+
+resources. 
+
+ 
+
+11.6 Section 5.3 of COA Circular No. 2018-002 dated May 31, 2018 provides that: 
+ 
+
+The head of the Agency, Accountant, Property Officer, Administrative 
+
+Officer, Cashier, Treasurer, or any government official of the National 
+
+Government Agencies/Local Government units/Government-Owned or 
+
+Controlled Corporation, who are responsible for the payment of the 
+
+premiums prescribed, who refuses or habitually neglects to comply 
+
+within the time prescribed, shall be held liable for the payment of said 
+
+premiums and shall pay GSIS a fine of two per centum (2%)  per month 
+
+of said premiums from their due dates until received by the GIF as 
+
+provided under Section (b) of RA No. 656. 
+
+ 
+
+11.7 Moreover, the EARIST did not prepare and submit the PIF to the Office of the 
+Auditor, contrary to the above Circular, which requires pertinent officials to 
+
+prepare the PIF listing all the insurable properties and other assets, showing 
+
+their latest appraised values/valuation, appraisal date, location and other 
+
+information as annexed thereto, and submit the same to the Supervising 
+
+Auditor or Audit Team Leader, and the GIF, GSIS, not later than April 30 of 
+
+each year. 
+
+ 
+
+11.8 Section 5.5 of the same Circular provides that: 
+ 
+
+Failure on the part of the agency officials concerned and the GSIS to 
+
+submit and receive, respectively, the documents and reports mentioned 
+
+therein, as well as the failure of the GSIS underwriting officials to 
+
+assess the premium due within the timeframe herein prescribed, shall 
+
+subsequently cause the suspension of the payment of their salaries until 
+
+they shall have complied with the requirements of RA No. 656 and its 
+
+IRR, as well as the provisions of this Circular. 
+
+ 
+
+11.9 We recommended that Management: 
+ 
+
+a. provide an annual budget for the payment of property insurance 
+premiums; 
+
+ 
+
+
+
+108 
+
+ 
+
+b. prepare and submit the required PIF containing accurate valuation of 
+the properties reported therein, and submit the same within the 
+
+prescribed timeline in compliance with COA Circular No. 2018-002 
+
+dated May 31, 2018; 
+
+ 
+
+c. immediately secure property insurance of its uninsured assets, in 
+compliance with the rules and regulations of RA No. 656, as amended 
+
+by PD No. 245, and record payment of insurance premiums as 
+
+prescribed; and 
+
+ 
+
+d. impose the sanctions provided on the concerned officials who did not 
+comply or caused the non-compliance with the above provisions. 
+
+ 
+
+11.10 Management commented that the Institute allocated a budget for its Property 
+Insurance Premium amounting to P9,383,511.93. This was included in the 
+
+CY 2021 BOT Approved Financial Plan for Special Trust Fund. Upon 
+
+request of the Property Management Service, EARIST could make the 
+
+obligation and subsequent disbursement related to the insurance premium 
+
+subject to the completeness of the submitted documents. 
+
+ 
+
+11.11 PMS is half-way with the CY 2018 Report on the Physical Count of 
+Property, Plant and Equipment (RPCPPE).  However,  they are yet to finalize 
+
+it since the PMS staff assigned to do the job has resigned and there is no 
+
+replacement yet.  For the meantime,  the PMS Chief will try to find time to 
+
+continue preparing the report including the review so the report can be 
+
+finalized.     
+
+ 
+
+11.12 Management also received list of requirements to secure property insurance 
+from GSIS, to wit: 
+
+ 
+
+a. Certificate of ownership of property – unable to secure since even the 
+Records Management Services Office  does  not have it; 
+
+ 
+
+b. Certificate of Occupancy -  no available record on file.  The 
+Administrative Services Director has coordinated with the City Engineers 
+
+Office of the Manila City Hall to secure said certificate; 
+
+ 
+
+c. Inventory List of Properties -  FMS has finalized their CY 2020 schedule 
+of PPE for Fund 164 and if authorities will allow,  this will be used as 
+
+basis for insurance coverage. As for Fund 101 and Fund 151,  the CY 2018 
+
+PPE report, which they are currently preparing, will be the basis; 
+
+ 
+
+d. Vicinity Map – IIPDO will be preparing the map as of this date;  
+ 
+
+e. Building Plans –As of date, only the as-built plans for the Amphitheater, 
+CIT Building, Main Building  and the Main Quadrangle are available;   
+
+
+
+109 
+
+ 
+
+ 
+
+f. Certificate of Availability of Funds -  FMS will provide; and 
+ 
+
+g. Letter request to GSIS for coverage – will be prepared once all 
+requirements have been completed. 
+
+ 
+
+11.13 The concerned personnel are trying their best effort to comply with audit 
+findings but there are circumstances that are beyond their control especially 
+
+during this time of pandemic, so they are appealing for the Audit Team’s 
+
+consideration on the matter. 
+
+ 
+
+Auditor’s Rejoinder 
+
+ 
+
+11.14 The Audit Team reminds the Management that since the fund used will be 
+sourced from STF, such use of fund must be compliant with the CHED 
+
+Memo on the use of income. Also, the Audit Team would like to emphasize 
+
+the necessity of insurance, thus we require the Management to exert extra 
+
+efforts and present a clear plan of action on how to complete and comply all 
+
+the necessary requirements to be submitted to GSIS. 
+
+ 
+
+Senior Citizens and Differently-Abled Persons 
+
+ 
+
+12. EARIST submitted its Comprehensive Plan and Budget formulated for the 
+implementation of Programs and Projects related to Senior Citizens and 
+
+Persons with Disabilities (PWD) for CY 2020, with an approved budget of 
+
+P2,107,821.43 or one percent of its total budget appropriation authorized 
+
+under RA No. 11465 or GAA for FY 2020 of P208,290,000.00, but only five 
+
+out of nine targeted activities were implemented, contrary to Section 32 of the 
+
+General Provisions thereof. 
+
+ 
+
+12.1 Section 32 of the General Provisions of RA No. 11465, otherwise known as 
+the GAA for FY 2020, requires all agencies of the government to formulate 
+
+plans, programs and projects intended to address the concerns of Senior 
+
+Citizens and PWD, insofar as these relate to their mandated functions, and 
+
+integrate the same in their regular activities. 
+
+ 
+
+12.2 Moreover, all government facilities, including infrastructure, non-
+infrastructure and civil works projects of the government, as well as office 
+
+buildings, streets and highways shall provide architectural features, designs or 
+
+facilities that will reasonably enhance the mobility, safety and welfare of 
+
+persons with disabilities pursuant to Batas Pambansa Blg. 344 (An Act to 
+
+Enhance the Mobility of Disabled Persons xxx) and RA No. 7277 (Magna 
+
+Carta for Disabled Persons and for Other Purposes) 
+
+ 
+
+
+
+110 
+
+ 
+
+12.3 For CY 2020, EARIST submitted its Comprehensive Plan and Budget 
+formulated for the implementation of Programs and Projects related to Senior 
+
+Citizen and PWDs with an approved budget of P2,107,821.43, as follows: 
+
+ 
+
+Table 35. Plans and Budget 
+Objectives Activity Agency Approved 
+
+Budget 
+
+(in Pesos) 
+
+1. To update the list of SC and PWD 
+members of the Institute 
+
+Survey of Senior Citizens and 
+
+PWD members 
+
+Using available 
+
+resources 
+
+2. To strengthen the knowledge and 
+understanding of the TWC on Section 
+
+35 of RA No. 10717 
+
+Attend Municipal/National 
+
+Meetings/Conferences/Semina
+
+rs 
+
+50,000.00 
+
+3. To give recognition to all SC retirees 
+and PWD during the Institute Faculty 
+
+and Employees Awarding Ceremonies 
+
+Recognition for 
+
+Retirees/Loyalty Awardees for 
+
+EARIST personnel 
+
+160,000.00 
+
+4. To provide livelihood opportunities for 
+SC and PWD of the adopted 
+
+communities 
+
+Livelihood activities for SC 
+
+and PWD: 
+
+a. Face Shield making 
+b. Dishwashing Liquid 
+
+making 
+
+c. Disinfectant Solution 
+d. Alcohol making 
+e. Processed Food 
+
+100,000.00 
+
+5. To provide opportunity in hiring PWD 
+as well as retired Faculty to work in the 
+
+Institute 
+
+Hire retired Faculties and 
+
+PWDs as staff in the different 
+
+offices 
+
+1,662,821.43 
+
+6. To provide learners with special 
+education needs with learning 
+
+opportunities in making their own 
+
+decisions and playtime for socialization 
+
+Extend the services to SPED 
+
+children of the affiliated SPED 
+
+schools of the Institute 
+
+60,000.00 
+
+7. To exhibit the essence of gift-giving to 
+the elderly and PWD 
+
+Gift-giving for elderly and 
+
+PWD 
+
+50,000.00 
+
+8. To give healthy data and information 
+through health forum 
+
+Health Forum 15,000.00 
+
+9. To exercise the lawful manifestation 
+through orientation on SC rights and 
+
+privileges 
+
+Orientation/Information on 
+
+Senior Citizen’s Rights and 
+
+Privileges 
+
+10,000.00 
+
+Total Amount  2,107,821.43 
+
+ 
+
+12.4 Based on the submitted Annual SC and PWD Accomplishment Report for CY 
+2020, we noted that five or 55.55% of its nine targeted activities were not 
+
+implemented and only P1,887,704.31 or 89.56 of the agency approved budget 
+
+was utilized, as shown in table below: 
+
+ 
+
+Table 36. Accomplishment Report 
+
+SC-PWD Activities 
+
+Submitted to the PCW 
+
+and CHED 
+
+Actual Result 
+
+(Output/ Outcome) 
+
+Approved 
+
+SC-PWD 
+
+Budget 
+
+Actual cost/ 
+
+Expenditure 
+
+Variance 
+
+(in Pesos) 
+
+1. Survey of Senior Collate and encode Used Used - 
+
+
+
+111 
+
+ 
+
+SC-PWD Activities 
+
+Submitted to the PCW 
+
+and CHED 
+
+Actual Result 
+
+(Output/ Outcome) 
+
+Approved 
+
+SC-PWD 
+
+Budget 
+
+Actual cost/ 
+
+Expenditure 
+
+Variance 
+
+(in Pesos) 
+
+Citizens and PWD 
+
+members 
+
+data and issues 
+
+gathered. 
+
+available  
+
+resources 
+
+available  
+
+resources 
+
+2. Attend 
+Municipal/National 
+
+Meetings/Conferences/
+
+Seminars 
+
+Not accomplished 50,000.00 
+
+ 
+
+ 
+
+0.00 50,000.00 
+
+ 
+
+3. Attend 
+Municipal/National 
+
+Meetings/Conferences/
+
+Seminars 
+
+Conducted 
+
+recognition program 
+
+for all Retirees as 
+
+well as to Loyalty 
+
+Awardees 
+
+160,000.00 149,882.88 10,117.12 
+
+4. To provide livelihood 
+opportunities for SC 
+
+and PWD of the 
+
+adopted communities 
+
+Livelihood activities 
+
+for SC and PWD 
+
+ 
+
+100,000.00 
+
+ 
+
+ 
+
+75,000.00 25,000.00 
+
+5. Hire retired Faculties 
+and PWDs as staff in 
+
+the different offices 
+
+Hired retired faculty 
+
+and PWDs as part-
+
+time faculties and 
+
+staff of the Institute 
+
+1,662,821.43 1,662,821.43 0.00 
+
+6. Extend the services to 
+SPED children of the 
+
+affiliated SPED schools 
+
+of the Institute 
+
+Not accomplished 60,000.00 0.00 60,000.00 
+
+7. Gift-giving for elderly 
+and PWD 
+
+Not Accomplished 50,000.00 0.00 50,000.00 
+
+8. Health Forum for 
+elderly and PWD 
+
+Not Accomplished 15,000.00 0.00 15,000.00 
+
+9. Orientation/Information 
+on Senior Citizen’s 
+
+Rights and Privileges 
+
+Not Accomplished 10,000.00 
+
+ 
+
+0.00 10,000.00 
+
+Total Amount 2,107,821.43 1,887,704.31 250,117.12 
+
+ 
+
+12.5 Based on our interview, we learned the reasons for non-implementation of 
+some planned activities, as follows: 
+
+ 
+
+a. due to legal restrictions imposed by the government as stated in the IATF 
+resolutions on the face to face activities; 
+
+ 
+
+b. the implementation of the Community Quarantine from March 14, 2020 to 
+May 31, 2020 and General Community Quarantine from June to October 
+
+2020; 
+
+c. no face-to-face schooling; and  
+ 
+
+d. re-scheduling of classes under EARIST Advisory No. 12 on Work 
+Guidelines. 
+
+ 
+
+12.6 It is safe to conclude that the reasons for non-implementation are justifiable, 
+considering that the beneficiaries of this program are the Senior Citizens and 
+
+
+
+112 
+
+ 
+
+Persons with Disabilities. However, the Institute must still have to implement 
+
+the separate programs or projects intended to address the concerns of senior 
+
+citizens and persons with disabilities, as this is required under Section 32 of 
+
+the General Provisions of RA No. 11465 (GAA for FY 2020), and monitor 
+
+their implementation. 
+ 
+
+12.7 We recommended that Management  
+ 
+
+a. devise a comprehensive plan for Senior Citizens and PWDs with 
+concrete targets, timelines and benchmarks, considering the allowable 
+
+percentage based on its total budget appropriations as authorized by 
+
+the GAA; and  
+ 
+
+b. continuously facilitate monitoring of the progress of its 
+implementation. 
+
+ 
+
+12.8 Management commented that the programs and projects for the Senior 
+Citizens and PWDs for CY 2020 was limited due to the legal restrictions 
+
+imposed by the government as stated in the IATF resolutions for the non-face-
+
+to-face activities.  Moreover,  implementation of the Community Quarantine 
+
+also hindered the conduct of the Institute’s program and projects for the SC 
+
+and PWDs. They will prepare a Comprehensive Plan with concrete target, 
+
+timeline and benchmarks to facilitate the monitoring of the progress of 
+
+implementtion to be able to address the concerns of the Senior Citizens and 
+
+PWDs.    
+
+ 
+
+Remittances to GSIS, BIR, PhilHealth and Pag-IBIG Fund 
+ 
+
+13. For the CY 2020, EARIST has faithfully deducted from the salaries of its 
+personnel the required taxes and premiums and remitted the same as well as 
+
+the government share within the prescribed period to the concerned 
+
+institutions or agencies as provided under pertinent rules and regulations. 
+
+Beginning balances, however, from previous years remained unaccounted and 
+
+unreconciled. 
+ 
+
+13.1 Section 7 of the BIR Revenue Regulations No. 1-2013 dated January 23, 
+2013 states that the due date for filing of tax returns withheld from suppliers 
+
+should be on or before the 10th day following the month in which 
+
+withholding was made, except for taxes withheld for the month of December 
+
+of each year, which shall be filed on or before January 15 of the succeeding 
+
+year. 
+
+13.2 Section 14.1, Rule III of RA No. 8291, the GSIS Act of 1997, requires that 
+each government agency shall remit directly to the GSIS the employees’ and 
+
+government agency’s contributions within the first ten days of the calendar 
+
+month following the month to which the contributions apply. The remittance 
+
+by the government agency of the contributions to the GSIS shall take priority 
+
+
+
+113 
+
+ 
+
+over and above the payment of any and all obligations, except salaries and 
+
+wages of its employees. 
+ 
+
+13.3 Section 3 (b and c), Rule VII of the IRR of RA No. 9679, the Home 
+Development Mutual Fund Law of 2009, states that: 
+
+ 
+
+b. Every employer required to set aside and remit such contributions 
+
+as prescribed under RA No. 9679 and these Rules shall be liable 
+
+for their payment, and non-payment thereof shall further subject 
+
+the employer to a penalty of three percent (3%) per month of the 
+
+amounts payable from the date the contributions fall due until 
+
+paid. Every employer who actually deducts from the salary of his 
+
+employee the latter’s loan amortization or payments to the Fund, 
+
+as provided for under these Rules, shall be liable for their 
+
+payment, and non-payment thereof shall likewise further subject 
+
+the employer to a penalty of three percent (3%) per month of the 
+
+amounts payable from the date the loan amortizations or 
+
+payments fall due until paid. 
+
+ 
+
+c. It shall be mandatory and compulsory for all government 
+
+instrumentalities, agencies, including government-owned and 
+
+controlled corporations, to provide the payment of contributions 
+
+in their annual appropriations. Penal sanctions shall be imposed 
+
+upon these employers who fail to include the payment of 
+
+contributions on time, or delay the remittance of the required 
+
+contributions to the Fund. The heads of offices and agencies shall 
+
+be administratively liable for non-remittance of the required 
+
+contributions to the Fund. 
+ 
+
+13.4 As of December 31, 2020, the amounts withheld and remitted by EARIST 
+are shown below: 
+
+ 
+
+Table 37. Schedule of Amount Withheld and Remitted 
+
+Area 
+Accounts 
+
+Affected 
+Status 
+
+Compliance 
+
+with Tax Laws 
+Due to 
+
+BIR 
+For CY 2020, EARIST collected/withheld the total 
+
+amount of P15,928,266.00 from the salaries and 
+
+purchase of goods and services from suppliers. Amounts 
+
+remitted during the year totaled P13,489,593.68, and the 
+
+balance was remitted in January 2021. However, there is 
+
+still an unaccounted balance of P601,600.19, which was 
+
+carried forward from the previous years’, due for 
+
+reconciliation.  
+
+
+
+114 
+
+ 
+
+Area 
+Accounts 
+
+Affected 
+Status 
+
+Deduction and 
+
+Remittance of 
+
+GSIS 
+
+Premiums 
+
+Due to 
+
+GSIS 
+For CY 2020, the EARIST has withheld appropriate 
+
+employees’ personal premium, loans amortizations and 
+
+government share in the total amount of P23,634,042.18. 
+
+The amount of P24,116,430.63 was remitted during the 
+
+year, of which P482,388.15 pertains to prior year. The 
+
+reported balance for CY 2020 amounting to 
+
+P1,207,373.51, are due for reconciliation. 
+Deduction and 
+
+Remittance of 
+
+PhilHealth 
+
+Premiums 
+
+Due to 
+
+PhilHealth 
+For CY 2020, the EARIST has withheld the total amount 
+
+of P3,792,731.45. The amount of P3,787,731.45 was 
+
+remitted in the same year, while the balance of 
+
+P5,662.00 together with the beginning balance of 
+
+P24,838.93, are due for reconciliation. 
+Deduction and 
+
+Remittance of 
+
+Pag-IBIG 
+
+Premiums 
+
+Due to 
+
+Pag-IBIG 
+For CY 2020, the EARIST has withheld appropriate 
+
+employees fund contributions, short-term loan 
+
+amortization and government share in the total amount 
+
+of P1,960,902.96. The amount of P1,975,572.70 was 
+
+remitted in the same year, of which P14,669.74 pertains 
+
+to prior year. Reported balance of P65,080.17 pertains to 
+
+previous years’ balance, due for reconciliation. 
+
+ 
+
+13.5 We recommended that Management reconcile and investigate the causes 
+of the unaccounted amounts and, accordingly, remit  the unremitted 
+
+balance, if any,  and  prepare the necessary adjusting entries to correct 
+
+the amount reported. 
+
+ 
+
+Status of Settlements of Audit Suspensions and Disallowances and Charges 
+
+ 
+
+14. The total audit suspensions and disallowances amounting to P70,645,620.07 
+and P118,191,367.79, respectively, remained unsettled as of December 31, 
+
+2020. Out of the total Disallowances, P41,721,608.41 was with issued Notice of 
+
+Finality of Decision (NFD) and COA Order of Execution (COE), of which 
+
+P972,787.67 or 2.33 percent has been settled as of December 31, 2020, 
+
+contrary to the provisions of COA Circular No. 2009-06 dated September 15, 
+
+2009, which prescribes the Rules and Regulations on Settlement of Accounts. 
+
+ 
+
+14.1 COA Circular No. 2009-006 dated September 15, 2009 prescribes the 2009 
+Revised Rules and Regulations on Settlement of Accounts (RRSA), which 
+
+provides, among others, that the Auditor shall issue a Notice of Disallowance 
+
+(ND)/Notice of Charge (NC) for differences/balances resulting from the 
+
+audit of the accounts. A Notice of Suspension (NS) may be issued pending 
+
+compliance with various requirements for transactions, which may result in 
+
+pecuniary loss to the government. The suspensions, disallowances and 
+
+charges shall continue to be monitored and enforced by COA. 
+
+ 
+
+14.2 Chapter II of COA Circular No. 2009-006 further states: 
+ 
+
+
+
+115 
+
+ 
+
+Section 7.1.1b The head of the agency who is primarily responsible for 
+
+all government funds and property pertaining to his agency, shall 
+
+ensure that the settlement of disallowances and charges is made within 
+
+the prescribed period. 
+
+ 
+
+Section7.1.3 He shall enforce the COE by requiring the withholding of 
+
+salaries or other compensation due to the person liable in satisfaction of 
+
+the disallowance or charge. 
+
+ 
+
+Section 7.1.4 He shall ensure that all employees who are retiring or 
+
+transferring to other agencies shall first settle the disallowances and 
+
+charges for which they are liable. 
+
+ 
+
+14.3 As of December 31, 2020, balances of NS and ND amounted to 
+P70,645,600.07 and P118,191,367.79, respectively. (Annex B) 
+
+ 
+
+14.4 For NSs, which the Management did not settle thru the submission of required 
+documents, or which submission is incomplete, NDs were issued to replace 
+
+the NSs. 
+
+ 
+
+14.5 For NDs, 24 NFDs and COEs were issued totaling P41,721,608.41. Out of the 
+amount, eight were with settlements with total amount settled of P972,787.67 
+
+or 2.33 percent, leaving P40,748,820.75 or 97.67 percent unsettled. Details are 
+
+shown below: 
+ 
+
+Table 38. ND/ NFD and COE 
+ND No. Amount 
+
+(in Pesos) 
+
+NFD 
+
+Date 
+
+COE 
+
+Date 
+
+Settlement 
+
+(in Pesos) 
+
+Balance 
+
+(in Pesos) 
+
+2017-003-101(12) 20,181.15 6/6/18 8/8/19 - 20,181.15 
+
+2017-002-164(2014) 763,125.00 6/6/18 8/8/19 - 763,125.00 
+
+2016-009-101(2010) 8,944.00 6/2/17 12/12/17 - 8,944.00 
+
+2016-008-161(2010) 11,598.00 6/2/17 12/12/17 - 11,598.00 
+
+2016-007-161(2010) 30,000.00 6/2/17 12/12/17 - 30,000.00 
+
+2016-006-161(2010) 184,500.00 6/2/17 12/12/17 - 184,500.00 
+
+2016-005-161(2010) 22,000.00 6/2/17 12/12/17 - 22,000.00 
+
+2016-004-161(2010) 21,598.00 6/2/17 12/12/17 - 21,598.00 
+
+2016-003-161(2010) 169,537.00 6/2/17 12/12/17 - 169,537.00 
+
+2016-002-164(2014) 736,000.00 6/2/17 12/12/17 484,000.00 252,000.00 
+
+2016-001-164(2014) 5,711,217.19 6/2/17 12/12/17 - 5,711,217.19 
+
+2015-002-164(2014) 10,000,000.00 5/21/18 5/28/18 - 10,000,000.00 
+
+2014-008-161(2014) 500,000.00 6/6/18 8/8/19 130,771.00 369,229.00 
+
+2014-007-161(2014) 300,000.00 6/6/18 8/8/19 - 300,000.00 
+
+2014-006-164(2013)A 20,000,000.00 5/821/18 5/28/18 - 20,000,000.00 
+
+2014-005-161(2013) 1,050,000.00 6/6/18 8/8/19 229,000.00 821,000.00 
+
+2014-003164(11) 466,201.82 6/2/17 12/12/17 - 466,201.82 
+
+2014-002-164(2011) 458,906.25 6/2/17 12/12/17 - 458,906.25 
+
+2014-001-164(2011) 461,250.00 6/2/17 12/12/17 - 461,250.00 
+
+2010-001-164(09) 102,000.00 6/6/18 6/6/20 15,000.00 87,000.00 
+
+10-001-164(08) 65,000.00 7/10/14 11/3/16 37,666.67 27,333.34 
+
+09-001-164(08) 232,600.00 6/6/18 6/6/20 45,500.00 187,100.00 
+
+
+
+116 
+
+ 
+
+ND No. Amount 
+
+(in Pesos) 
+
+NFD 
+
+Date 
+
+COE 
+
+Date 
+
+Settlement 
+
+(in Pesos) 
+
+Balance 
+
+(in Pesos) 
+
+09-001-164(07) 191,700.00 6/6/18 6/6/20 21,100.00 170,600.00 
+
+09-001-164(06) 215,250.00 6/6/18 6/6/20 9,750.00 205,500.00 
+
+Total Amount 41,721,608.41   972,787.67 40,748,820.75 
+
+ 
+
+14.6 We recommended that Management: 
+ 
+
+a. demand from the persons liable the immediate refund/settlement of 
+the disallowances/suspensions or require them to file an Appeal with 
+
+the Cluster Director for the disallowances within the prescriptive 
+
+period of six months from receipt of the ND, in accordance with the 
+
+RRSA; and 
+ 
+
+b. enforce the COA Order of Execution (COE) by requiring the 
+withholding of salaries or other compensation due the person liable on 
+
+satisfaction of the disallowance or charge, otherwise such payment to 
+
+them will be disallowed in audit. 
+
+ 
+
+14.7 Management commented that they already informed the persons liable to 
+refund/settle the disallowances/suspensions within the prescribed period.  
+
+They are also in the process of reconciling the data pertaining to all COE/NFD 
+
+and ND issued by the Audit Team, prior to the preparation of an updated 
+
+Summary/Matrix. 
+
+

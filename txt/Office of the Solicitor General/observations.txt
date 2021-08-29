@@ -1,0 +1,1216 @@
+PART II - OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+FINANCIAL AND COMPLIANCE AUDITS
+
+
+
+Overstated Cash-In-Bank, Local Currency-Current Account
+
+
+
+1)	The balance of the Cash in Bank, Local Currency, Current Account amounting to P52,086,192.00 as at year-end was not fairly presented due to the inclusion of stale checks totaling P211,360.95, contrary to Section 44 Chapter 6 of the Government Accounting Manual (GAM).
+
+
+
+	1)	Section 44 Chapter 6 Volume I of the GAM provides for Accounting for Cancelled Checks. Checks may be cancelled when they become stale, voided or spoiled. Checks issued under the account name of the Treasurer of the Philippines for MDS account of the agency lapsed in 3 months.
+
+
+
+	2)	A stale, voided or spoiled check shall be marked cancelled on its face and reported as follows:
+
+
+
+a)	Voided, spoiled or unclaimed stale checks with the Cashier shall be reported as cancelled in the List of Unreleased Checks that will be attached to the Report of Checks Issued (RCI).
+
+
+
+b)	New checks may be issued for the replacement of stale/spoiled checks in the hands of the payees or holders in due course, upon submission of the stale/spoiled checks to the Accounting Division/Unit. A certified copy of the previously paid DVs shall be attached to the request for replacement. A JEV shall be prepared to take up the cancellation. The replacement check shall be reported in the RCI.
+
+
+
+	3)	Verification of Bank Reconciliation Statements (BRS) disclosed that three outstanding checks amounting to P211,360.95 aged six months and above were not recognized and reverted to the Cash in Bank –Local Currency Current Account despite being stale and still formed part of the outstanding checks in the BRS for the month of December 2020 contrary to the above provision. Details of stale checks are as follows:
+
+
+
+Check No.
+
+Date
+
+Amount
+
+Remarks
+
+453324
+
+05/13/2020
+
+P  1,000.00
+
+Philippine Reclamation Authority - return of excess allowance
+
+453325
+
+06/10/2020
+
+1,350.00 
+
+	Phrincess Marloween Hermogeno-Honorarium
+
+453330
+
+06/19/2020
+
+209,010.95
+
+GSIS - premium contributions employee share.
+
+Total
+
+P211,360.95
+
+
+
+	4)	As a result of the foregoing deficiency, the balances of the Cash in Bank – Local Currency, Current Account and Due to Officers and Employees accounts were understated both by P211,360.95 .
+
+
+
+	5)	We recommended that Management direct the Cashier to cancel the stale checks and the Chief Accountant to prepare the necessary adjustments taking up the cancellation and replacement of stale checks.
+
+
+
+	6)	Management reverted back to the Cash in Bank – Local Currency, Current Account the subject stale checks by debiting Cash in Bank - Local Currency Current Account and crediting Due to Officers and Employees both amounting to  P211,360.95, under the following JEV Numbers;
+
+
+
+a)	2021-03-065    dated March 31, 2021   P209,020.95
+
+b)	2021-04-526A dated April 29, 2021           1,350.00
+
+c)	2021-04-526B dated March 31, 2021         1,000.00
+
+     TOTAL 	                                      P211,360.95
+
+
+
+Performance Bond
+
+
+
+2)	Performance bond/security deposit amounting to P140,000.00 was deposited to the local currency current account maintained with the depository bank instead of the account of the National Treasury contrary to Section 7 of the General Provisions of the General Appropriations Act (GAA) of FY 2020. Consequently, this resulted in the overstatement of the Cash in Bank – Local Currency Current Account and the understatement of the Cash – Treasury/Agency Deposit-Trust Account both by P140,000.00.   
+
+  
+
+2.1 	Section 7 of the General Provisions of the GAA for FY 2020, provides that the Performance bonds and deposits filed or posted by private persons or entities with departments, bureaus, offices, and instrumentalities of the National Government (NG), including Constitutional Offices enjoying  fiscal autonomy and SUCs shall be deposited with the NT and recorded as trust receipts in accordance with E.O No. 338, as implemented by COA-DBM-DOF J.C No. 1-97, and such other guidelines issued thereon. 
+
+	
+
+	Upon faithful performance of the undertaking or termination of the obligation for which the bond or deposit was required, any amount due shall be returned by the agency concerned to the filing party, withdrawable in accordance with accounting and auditing rules and regulations.
+
+
+
+	1)	Audit disclosed that receipt of performance bond from Advance Micro System amounting to P140,000.00 under Official Receipt (OR) No. 264810 dated 2 December 2020 was deposited to the Land Bank of the Philippines (LBP) LCCA No. 1802-1016-23 instead of the account of the National Treasury contrary to the afore-cited provisions. This deficiency resulted in the overstatement of the Cash in Bank –Local Currency Current Account and the understatement of the Cash – Treasury/Agency Deposit-Trust Account both by P140,000.00
+
+
+
+	2)	We recommended that Management direct the Cashier to deposit the amount of P140,000.00 to the account of the National Treasury pursuant to the provision of Section 7 of the General Provisions of GAA 2020 and instruct the Chief Accountant to take up the necessary adjustment in the books.
+
+      
+
+	3)	Management in a letter dated March 18, 2021 informed that they refunded to Advance Microsystem Corporation the performance bond of P140,000.00 under check No. 495703 dated February 23, 2021 as the obligation of the supplier in relation to the bond has been fulfilled, less one percent of P9,346,600.00 in the amount of P93,466.00 as security deposit not previously deducted on the same ICTE delivered by the same supplier to which the Performance bond appertain. 
+
+
+
+Auditor’s Rejoinder
+
+
+
+	4)	Although the amount of P140,000.00 was refunded in early CY 2021 to the supplier which rendered the recommendation moot and academic, it remains that the CY 2020 financial statements were misstated due to non-compliance by Management to the provisions of Section 7 of the General Provisions of GAA 2020.
+
+
+
+
+
+Misstated Inventories accounts
+
+
+
+3)	The balance of Inventories accounts aggregating P3,762,000.61 as at year-end was misstated due to: a) unrecorded deliveries amounting to P492,061.92; b) recognition of semi-expendable properties totaling P319,800.00 as Furniture and Fixtures and non-submission of the Report of Supplies and Materials Issued (RSMI) amounting to P97,600.00 to the Accounting Division. Furthermore, other deficiencies noted include: c) presence of impaired/ obsolete and non-moving office supplies inventories totaling P452,829.22; d) regular procurement of supplies amounting to P214,905.26 was not coursed through the inventory account but rather taken up as outright expense; and e) the Property Officer was not bonded contrary to Section 101 of PD No. 1445.
+
+
+
+a. 	Unrecorded deliveries in the books of accounts amounting to P492,061.92
+
+
+
+	1)	Section 15, Seq. No. 5, Chapter 8 Volume I of the GAM provides that the Property and/or Supply Division/Unit Property and/or Supply Custodian forwards Copy 3 of IAR and photocopy of PO and DR to the Accounting Division/Unit for recording the received/accepted goods and posting to the SLC, and Copy 4 of IAR and copy 2 of PO to the Stock Card Keeper for recording in the SCs.” (Underscoring supplied)
+
+
+
+	2)	Audit disclosed that deliveries amounting to P492,061.92 were not recorded in the books due to failure of the Property Division to forward the Inspection and Acceptance Report (IAR), photocopy of Purchase Order (PO) and Delivery Receipts (DR) to the Accounting Division (AD) as basis in recording received/accepted goods. Thus, understating the Office Supplies Inventory by P492,061.92  
+
+
+
+	3)	We recommended that Management instruct the Property Officer to promptly forward/transmit to the Accounting Division the Inspection and Acceptance Report and photocopy of Purchase Order and Delivery Receipt for timely recording of received/accepted goods.
+
+
+
+b. 	recognition of semi-expendable properties totaling P319,800.00 as Furniture and Fixtures
+
+
+
+	4)		Section 10 Chapter 8 of GAM Volume I on Semi-Expendable Property reads as follows: Tangible items below the capitalization threshold of P15,000 shall be accounted as semi-expendable property. The following policies apply as follows:
+
+
+
+a)	Semi-expendable properties which were recognized as PPE shall be reclassified to the affected accounts.
+
+
+
+b)	These tangible items shall be recognized as expenses upon issue to the end-user.
+
+
+
+	5)		Review of the General Ledger (GL) balances as of December 31, 2020, showed that the agency reported the total amount of Semi Expendable – Furniture and Fixtures at P501,570.00. We noted a difference in the comparison of balances of Semi Expendable – Furniture and Fixtures per books and per physical count as presented below.
+
+
+
+Particulars
+
+Per GL
+
+Per Inventory
+
+Difference
+
+Semi Expendable – Furniture and Fixture
+
+P501,570.00
+
+P723,770.00
+
+(P222,200.00)
+
+Semi-expendable Furniture and Fixture classified as PPE
+
+
+
+319,800.00
+
+
+
+-
+
+
+
+319,800.00
+
+Stock Card Keeper failed to forward RSMI to AD
+
+
+
+(97,600.00)
+
+
+
+-
+
+
+
+(97,600.00)
+
+Total
+
+P723,770.00
+
+	P723,770.00
+
+-
+
+
+
+	6)		Verification of the two records disclosed that semi-expendable properties totaling P319,800.00 each costing below the capitalization threshold of P15,000.00 were recorded as Furniture and Fixtures instead of semi-expendable property. Consequently, the failure to reclassify semi-expandable properties resulted in the overstatement of the Furniture and Fixtures account by P319,800.00 and the understatement of the Semi-Expendable Furniture and Fixtures by the same amount.
+
+
+
+3.7 	We further noted that the Stock Card Keeper (SCK) from the Property Office failed to forward the RSMI amounting to P97,600.00 to the Accounting Division as basis in preparing the JEV to record supplies and materials issued. Resultantly, the Semi-Expendable - Furniture and Fixtures expenses was understated by P97,600.00 while Semi-Expendable Furniture and Fixtures was overstated by the same amount.
+
+
+
+	1)	We recommended that Management instruct the:
+
+
+
+a)	Chief Accountant to prepare a JEV to adjust the PPE and Semi-Expendable accounts accordingly; and
+
+		
+
+b)	Stock Card Keeper to regularly submit the RSMI to the Accounting Division as basis in the preparation of JEV.
+
+
+
+	2)	Management in a letter dated March 22, 2021 explained that they corrected the noted deficiency under JEV No. 2021-002-0029 dated February 28, 2021, which the Audit Team validated.
+
+
+
+	3)	Further, we noted other deficiencies such as the following:
+
+
+
+c)	inclusion of impaired/obsolete and non-moving office supplies inventories totaling P452,829.22
+
+
+
+3.11 	Section 8 of the GAM, Volume I, provides:
+
+
+
+Impairment.  An asset is said to be impaired if the cost of inventories x x x held for distribution or consumption is higher than the current replacement cost.  The difference between the cost and net realizable value/current replacement cost shall be recognized as an expense in the financial statement.
+
+
+
+3.12 	A detailed audit of the inventory accounts disclosed that the reported balance of Office Supplies Inventory account amounting to P3,546,334.47 included non-moving or obsolete ink/toners amounting to P452,829.22.
+
+
+
+3.13 	Review of the Supplies Ledger Card (SLC) disclosed that since August 2018, these ink/toners have not been moving due to defective printers and repairing the same exceeded the cost of the printer. The agency started using Management Printing, where the supplier provides the free use of brand new printers in exchange of the agency’s exclusive purchase of ink/toners; hence, the reason for obsolescence of ink/toners as they are not compatible with the new printers.  
+
+
+
+3.14 	Accounting records disclosed that the obsolete inventories amounting to P452,829.22 were neither written down nor impaired contrary to Section 8 of GAM Volume I. 
+
+
+
+3.15	We recommended that Management: 
+
+
+
+							--	direct the Property Officer to regularly submit List of Obsolete/Non-Moving Supplies Inventories to the Financial and Management Services Accountant, copy furnished the Audit Team (AT); and
+
+
+
+							--	prepare Waste Material Reports for all obsolete items in the  Office Supplies Inventory account so that the same may be properly disposed of. 
+
+
+
+d)	recognition of procured supplies worth P214,905.26 as outright expense
+
+
+
+3.16 	Section 9, Chapter 8, GAM Volume I, Perpetual Inventory Method.  Supplies and materials purchased for inventory purpose shall be recorded using the perpetual inventory system, x  x  x. Regular purchases shall be coursed through the inventory account and issues thereof shall be recorded as they take place except for supplies and materials purchased out of PCF for immediate use or on emergency cases which shall be charged directly to the appropriate expense accounts.”
+
+
+
+3.17 	Audit disclosed that purchases of Office Supplies amounting to P214,905.26 were directly recorded as outright expenses instead of initially taking it up as Office Supplies Inventory; thus, considered accounting error and contrary to the above provision. These items were all issued as of December 31, 2020.
+
+
+
+3.18 	We recommended that Management direct the Chief Accountant to comply with the existing regulations and stop the practice of directly recording purchases as outright expense.
+
+	
+
+e)	Property Officer in charge of inventory not bonded 
+
+
+
+	1)	Section 101. Accountable officers (AO); bond requirements.
+
+
+
+a. 	Every officer of any government agency whose duties permit or require the possession or custody of government funds or property shall be accountable therefor and for the safekeeping thereof in conformity with law.
+
+
+
+b. 	Every AO shall be properly bonded in accordance with law.
+
+
+
+	1)	The Property Officer in charge of office supplies is not bonded, contrary to the above cited provisions. The amount of bond required is equivalent to 50 percent of the total value of the Office Supplies Inventory under her custody, pursuant to the Revised Schedule of Premium Rates issued by the BTr under Annex C of Treasury Circular No. 02-2009 dated August 6, 2009.
+
+
+
+	2)		We recommended that Management require the Property Officer to apply for fidelity bond with the Bureau of the Treasury to cover her accountability for inventories. 
+
+
+
+	3)	The Management in a letter dated March 8, 2021, instructed the: 1) Chief Accountant to prepare the necessary correcting entries, hence, JEV No. 2021-02-0030 dated February 28, 2021 was drawn to correct the error; and 2) Property Officer that henceforth, to promptly transmit IAR and photocopy of PO and DR to the Accounting Division/Unit for recording of received/accepted goods.
+
+
+
+Auditor’s Rejoinder:
+
+
+
+	4)	We maintain our position that the Property Officer should be bonded and a certified true copy of the approved bond be submitted to the Office of the Auditor. 
+
+
+
+
+
+Computer Software
+
+
+
+4)	The balance of the Computer Software account amounting to P12,658,124.44 as at December 31, 2020 was misstated due to erroneous recording of progress payment for project accomplishment amounting to P693,000.00 which resulted in the overstatement of the Computer Software and Advances to Contractor accounts both by P346,500.00 or a total of P693,000.00 and the understatement of the Development in Progress-Computer Software account by P693,000.00.
+
+ 
+
+	1)	Section 7, Chapter 19 of the GAM, Volume 1 provides for the Fair Presentation and Compliance with IPSAS.  The FSs shall present fairly the financial position, financial performance and cash flows of an entity.  Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in IPSAS. The application of IPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.
+
+
+
+Numbers 08 and 99 of GAM Volume III, state that;
+
+
+
+08 Intangible Assets
+
+99 Development in Progress-Computer Software   
+
+  
+
+Account Title 
+
+Account Code 
+
+Normal Balance 
+
+Description 
+
+Development in Progress-Computer Software 
+
+10899020 
+
+Debit 
+
+This account is debited to recognize the cost of coding, testing and other costs incurred during the development of computer software. Credit this account upon completion and transfer to computer software account, and when the asset is impaired. 
+
+
+
+	2)	In the review of the Computer Software account, it was noted that 1st  progress payment for 35 percent accomplishment amounting to P346,500.00 paid under LDDAP-ADA No.101101-04-172-2020 dated January 17, 2019 was debited to Computer Software while payment for 2nd  progress billing representing another 35 percent accomplishment amounting to P346,500.00 paid under LDDAP-ADA No.101101-01-132-2029 dated April 1, 2020 was debited to Advances to Contractor  instead of Development in Progress-Computer Software, contrary to the above provision. 
+
+
+
+4.3 	Consequently, the Computer Software and Advances to Contractor accounts were both overstated by P346,500, while the Development in Progress - Computer Software account was understated by P693,000.00.
+
+
+
+4.4 	We recommended that Management instruct the Chief Accountant to prepare a JEV necessary to correct/adjust the erroneous entries made and observe proper recording and usage of accounts in accordance with the GAM. 
+
+
+
+4.5	Management in a letter dated March 20, 2021, informed the Audit Team that they have corrected/adjusted the error under JEV Number 2021-02-0027 dated February 26, 2021, which was validated by the Audit Team. 
+
+
+
+Auditor’s Rejoinder
+
+
+
+4.6   We sustain our recommendation despite the adjustment made by Management on February 26, 2021 for reason that the same was not reflected in the financial statements for CY 2020.
+
+Audit of COVID 19 Funds
+
+
+
+1)	The required publication of documents relative to procurement of medical supplies totaling P1,492,988.01 in the Government Procurement Policy Board (GPPB) online portal, website of the procuring entity or at any conspicuous place pursuant to Section 4 of Republic Act No. 11494 or the Bayanihan to Heal as One Act was not complied with. Likewise, claims for said procurement were not supported with required documents contrary to Section 4(6) of Presidential Decree No. 1445. 
+
+  
+
+	1)		Section 4. COVID 19 Response and Recovery Interventions
+
+	x  x  x  x
+
+
+
+		(u)
+
+
+
+Procurement of the following as the need arises, in the most judicious, economical and expeditious manner, as exemptions from the provisions on bidding process required under Republic Act No. 9184 or the “Government Procurement Reform Act” (GPRA) and other relevant laws: Provided that the following information and documents related to the procurement shall be published in the Government Procurement Policy Board (GPPB) online portal, the website of the procuring entity concerned, if available, and at any conspicuous place reserved for the purpose in the premises of the procuring entity within seven (7) working days from the date of acceptance of the award:
+
+
+
+i)		Project name;
+
+ii)		Approved budget for contract;
+
+iii)		Contract period;
+
+iv)	Name of winning supplier, distributor, manufacturer,    contractor or consultant;
+
+v)		Amount of contract as awarded;
+
+vi)		Notice of award;
+
+vii)	   Date of award and acceptance;
+
+viii)	   Contract or purchase order; and
+
+ix)	A certification stating that the procuring entity exerted all efforts to secure the most advantageous price to the government based on existing priced data of the agency, the DTI or other relevant agencies or preliminary market scanning done by the agency showing prevailing market prices and practice.
+
+                 x   x   x   x
+
+
+
+Sub-paragraphs (1) and (2):
+
+
+
+1)	Goods, which may include PPE such as gloves, gowns, masks, goggles, and face shields; surgical equipment and supplies; laboratory equipment and its reagents; medical equipment and devices; etc.
+
+2)	Goods and services for social amelioration measures in favor of affected communities.
+
+
+
+	2)	Section 4 (6) of PD 1445 provides that Claims against government funds shall be supported with complete documentation.
+
+
+
+	3)		Post audit of disbursement vouchers for COVID 19 related expenses totaling P1,492,988.01 disclosed that the agency did not publish the procurement documents in the GPBB online portal, website of the procuring entity concerned and conspicuous place reserved for the purpose in the premises of the procuring entity within seven working days from the date of acceptance of the award as required under RA No. 11494 or the Bayanihan to Heal as One Act. Details of DVs are shown below:
+
+
+
+Supplier
+
+LDDAP-ADA
+
+Date
+
+Amount
+
+Remarks
+
+Natural Medical Aesthetics Management Co. Inc.
+
+101-07-303-2020
+
+07/30/2020
+
+P 150,000.00
+
+
+
+Various medical supplies
+
+
+
+
+
+101-09-381-2020
+
+09/11/2020
+
+149,999.70
+
+
+
+
+
+101-09-396-2020
+
+09/17/2020
+
+34,615.35
+
+
+
+
+
+101-12-582-2020
+
+12/04/2020
+
+209,134.41
+
+
+
+R & A Dental Supply Center
+
+101-09-427-2020
+
+09/30/2020
+
+423,948.25
+
+Service provider to conduct RT-PCR swab test on OSG employees
+
+
+
+101-10-454-2020
+
+10/13/2020
+
+525,290.30
+
+
+
+
+
+TOTAL
+
+P1,492,988.01
+
+
+
+
+
+	4)	Further verification disclosed that the documents enumerated in Section 4 of RA 11494 were not attached to the DVs as well as the document evidencing the required publication within seven working days from the date of acceptance of the award to comply with the regulation that claims should be supported with complete documentations.
+
+	
+
+	5)	We recommended that Management instruct the concerned:
+
+
+
+							a)	BAC Secretariat official/personnel to comply with the publication requirement of RA No. 11494 or the Bayanihan to Heal as One Act; and 
+
+
+
+							b)	Finance and Management Services Official to ensure completeness of supporting documents before processing of claims.
+
+ 
+
+5.6 	Management in a letter dated April 19, 2021 submitted hard copies of the on-line publications made in the GPPB online portal and copies of the related documents posted in the bulletin board of the OSG reserved for the purpose.
+
+
+
+Auditor’s Rejoinder
+
+
+
+5.7	The Audit Team is requesting the submission of a certification stating that the procuring entity exerted all efforts to secure the most advantageous price to the government based on existing priced data of the agency, the DTI or other relevant agencies or preliminary market scanning done by the agency showing prevailing market prices and practice. 
+
+
+
+
+
+Warranty/Security Deposit not collected/imposed
+
+
+
+6. 	Warranty Security/Deposit was not imposed and collected from supplier to guaranty performance of obligation in the procurement of goods amounting to P9,346,600.00, contrary to Section 62.1 of RA No. 9184. 
+
+		
+
+6.1 	Section 62.1 of RA No. 9184, provides, that;
+
+	
+
+For the procurement of Goods, in order to assure that manufacturing defects shall be corrected by the supplier, a warranty security shall be required from the contract awardee for a minimum period of three (3) months, in the case of Expendable Supplies, or a minimum period of one (1) year, in the case of Non-Expendable Supplies, after acceptance by the Procuring Entity of the delivered supplies.
+
+
+
+The obligation for the warranty shall be covered by either retention money in an amount equivalent to at least one percent (1%) of every progress payment, or a special bank guarantee equivalent to at least one percent (1%) of the total contract price. The said amounts shall only be released after the lapse of the warranty period or, in the case of Expendable Supplies, after consumption thereof: Provided, however, that the supplies delivered are free from patent and latent defects and all the conditions imposed under the contract have been fully met.
+
+
+
+6.2 	The agency failed to impose/collect post-warranty security from supplier for procurement of various ICTE with a contract price of P9,346,600.00. Details are as follows:
+
+
+
+Payee
+
+LDDAP-ADA No.
+
+Particular
+
+Amount
+
+ADVANCE MICROSYSTEMS CORP.
+
+101-08-350-2020
+
+Purchase of various ICT Equipment
+
+P9,346,600.00
+
+TOTAL
+
+P9,346,600.00
+
+
+
+6.3 	Thus, to guarantee that the contractor/supplier shall perform his/her responsibilities as prescribed in Section 62.1 of RA No. 9184, it shall be required to post-warranty security equivalent to one percent of the total contract price or P93,466.00.
+
+
+
+6.4 	The purchase of various ICTE was accepted by the Procuring Entity in August 2020 and will lapse on July 31, 2021; however, as of December 31, 2020, the account Warranty Security/Deposit was understated by P93,466.00 due to the non-imposition of warranty/security deposit by the agency.
+
+	
+
+6.5 	Verily, manufacturing defects found after the acceptance of goods would be guaranteed by the warranty security if it is imposed or collected.
+
+
+
+	1)		We recommended that Management direct the:
+
+
+
+							a)	Finance Management Services to collect/impose from supplier/contractor warranty security deposit equivalent to one percent of the contract price on every procurement of goods; and
+
+
+
+							b)	submit explanation why warranty/security deposit for subject procurement was not imposed or collected. 
+
+
+
+	2)	Management in a letter dated March 18, 2021 informed that the amount of P93,466.00, representing security deposit for said procurement, has been deducted from the performance bond of P140,000.00 refunded to the contractor/supplier under check No. 495703 dated February 23, 2021.
+
+
+
+Auditor’s Rejoinder
+
+
+
+	3)	The amount of P93,466.00 has been collected by OSG from the supplier which made the recommendation moot and academic.  However, despite collection of performance bond, the same was not reflected in the CY 2020 financial statements.
+
+ 
+
+
+
+Audit of Other Payables –OSGEA
+
+
+
+1)	Remittance of membership dues amounting to P1,583,394.14 to OSG Employees Association (OSGEA) was not supported with Official Receipt (OR) issued by the OSGEA contrary to Section 4, (6) of PD 1445.
+
+
+
+7.1 	Section 4 (6) of PD 1445 provides that Claims against government funds shall be supported with complete documentation.
+
+
+
+7.2 	Audit of Other Payables – OSG Employees Association disclosed that remittances of membership dues of OSG personnel was not supported with Official Receipt issued by the OSGEA contrary to the pertinent provisions of PD 1445. Details are shown below:
+
+
+
+LDDAP-ADA
+
+Date
+
+Amount
+
+Period
+
+Remarks
+
+101-12-615-2020
+
+December 14,2020
+
+1,330,232.13
+
+
+
+1% Agency Fee, 10% Assessment Fee for CY 2020
+
+101-12-572-2020
+
+December 4,2020
+
+21,144.28
+
+November 2020
+
+Membership Dues
+
+101-11-518-2020
+
+November 16, 2020
+
+68,258.56
+
+
+
+Remittance of Health Maintenance Organization Loan
+
+101-11-490-2020
+
+November 5,2020
+
+16,941.26
+
+October 2020
+
+Membership Dues
+
+101-09-419-2020
+
+September 30, 2020
+
+16,331.90
+
+September 2020
+
+
+
+101-09-408-2020
+
+September 25, 2020
+
+16,222.30
+
+June 2020
+
+
+
+101-08-355-2020
+
+August 27, 2020
+
+16,147.15
+
+August 2020
+
+
+
+101-07-300-2020
+
+July 29, 2020
+
+16,147.15
+
+July 2020
+
+
+
+101-05-195-2020
+
+May 6, 2020
+
+16,154.98
+
+May 2020
+
+
+
+101-05-195-2020
+
+May 6, 2020
+
+16,154.98
+
+April 2020
+
+
+
+101-04-177-2020
+
+April 1, 2020
+
+16,132.68
+
+March 2020
+
+
+
+101-03-147-2020
+
+March 11, 2020
+
+16,222.60
+
+February 2020
+
+
+
+101-02-057-2020
+
+February 3, 2020
+
+	17,304.17
+
+January 2020
+
+
+
+
+
+TOTAL
+
+P1,583,394.14
+
+
+
+
+
+
+
+7.3 	We recommended that Management direct the Finance and Management Services to require the OSGEA to issue Official Receipts to support the receipt of   membership dues of the OSG personnel.  
+
+
+
+
+
+Senior Citizen (SC) and the Differently-Abled Employees (DAE)
+
+
+
+2)	The Committee on Senior Citizen and Differently-Abled Employees failed to fully implement the programs, activities and projects amounting to P310,900.00 in the Work and Financial Plan for CY 2020 formulated in conformity with Section 32 of the GAA of 2020. 
+
+	
+
+	1)	Section 32 of the GAA of FY 2020, requires that:
+
+	
+
+Programs and Projects related to Senior Citizens and Persons with Disability. All agencies of the government shall formulate plans, programs and activities intended to address the concerns of senior citizens and persons with disability, insofar as it relates to their mandated functions, and integrate the same in their regular activities.
+
+
+
+Moreover, all government infrastructures and facilities shall provide architectural or structural features, designs or facilities that will reasonably enhance the mobility, safety and welfare of persons with disability pursuant to Batas Pambansa Blg. 344 and RA No. 7277 as amended.
+
+
+
+	2)	Verification of the Senior Citizen and Differently –Abled Employees Accomplishment Report showed actual expenses of P148,000.00 or a 47.60 percent fund utilization rate from the approved Work and Financial Plan of P310,900.00 for FY 2020, as shown below.  
+
+            
+
+PAP
+
+Purpose
+
+Budget
+
+Actual Accomplishment
+
+Actual Expense
+
+Committee Planning & Assessment
+
+1)	To plan activities for FY 2020 and assess implemented PAPs;
+
+2)	To Plan possible PAPs for 2021
+
+P   5,400.00
+
+Submitted the 2019 AR and 2020 WFP and PMPP
+
+P         0.00
+
+Enhancement of the mobility, safety and welfare of SCs and PWDs
+
+Building of structural features, design or facilities (ramps for PWDs in wheelchair)
+
+100,000.00
+
+Did not push through due to various community quarantines and COVID 10 IATF issuances
+
+0.00
+
+To recognize/ appreciate the contribution of the retires
+
+Salamat Paalam Program
+
+83,000.00
+
+Conducted 7 Salamat Paalam Program. (There was only 1 mandatory retiree in 2020 but 6 additional employees availed optional retirement because of the COVID 19 pandemic)
+
+148,000.00
+
+Non-formal educational program for older persons and PWDs
+
+SC and PWDs Enrichment and General Assembly
+
+57,000.00
+
+Did not push through due to various community quarantines and COVID 10 IATF issuances.
+
+0.00
+
+Celebration of Elderly Filipinos week
+
+Join the National celebration of NDPR and Elderly Filipinos Week
+
+64,500.00
+
+Did not push through due to various community quarantines and COVID 10 IATF issuances
+
+0.00
+
+Signages for SCs and PWDs priority lane
+
+Signages for SCs and PWDs priority lane in OSG frontline services
+
+1,000.00
+
+Did not push through due to various community quarantines and COVID 10 IATF issuances
+
+0.00
+
+
+
+TOTAL
+
+P310,900.00
+
+
+
+P148,000.00
+
+       
+
+	3)		Due to the COVID 19 pandemic, various planned PAPs were not implemented as a necessary precaution to ensure safety not only to the proponents but also to the targeted recipients.
+
+
+
+	4)		We recommended that Management immediately implement the construction of structural features, designs or facilities (ramps for PWDs in wheelchair) that will reasonably enhance the mobility, safety and welfare of persons with disabilities.  
+
+
+
+	5)		Management in a letter dated March 10, 2021 stated that the implementation of the construction of the facilities that will reasonably enhance the mobility, safety and welfare of PWD was not accomplished because of the nationwide community quarantine; thus, the sidelined initiatives were re-included in the CY 2021 WFP.
+
+
+
+
+
+Gender and Development
+
+
+
+3)	The Gender and Development Committee failed to implement the various programs, activities and projects (PAPs) amounting to P535,050.00 contained in the approved Work and Financial Plan (WFP) for CY 2020 formulated in conformity with Section 31 of the GAA of 2020. 
+
+	
+
+9.1 	Section 31 of the General Provisions of the GAA of FY 2020, requires that:
+
+	
+
+All agencies of the government shall formulate a GAD Plan designed to address gender issues within their concerned sectors or mandate and implement the applicable provisions under R.A. No. 9710 or the Magna Carta of Women, Convention on the Elimination of All Forms of Discrimination Against Women, the Beijing Platform for Action, the Philippine Plan for Gender-Responsive Development (1995-2005), and the Philippine Development Plan (2017-2022)
+
+
+
+The GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five percent (5%) of their budgets.  For this purpose, activities currently being undertaken by agencies which relate to GAD or those that contribute to poverty alleviation, economic empowerment especially of marginalized women, protection, promotion, and fulfillment of women’s human rights, and practice of gender-responsive governance are considered sufficient compliance with said requirement. Utilization of GAD budget shall be evaluated based on the GAD performance indicators identified by said agencies. X  x  x.
+
+
+
+9.2 	The agency allotted P40,611,500.00 or 3.82 percent from its total budget of P1,061,573,000.00 for GAD program, activities and projects.  
+
+
+
+9.3 	Verification of the GAD Accomplishment Report showed actual GAD expenses amounting to P3,790.40 or .7 percent utilization rate from the approved WFP for CY 2020 of P535,050.00 and Attributed Program Cost of P13,952,843.50, totaling P13,956,633.90, or 34.36 percent of the total allotted GAD budget.
+
+
+
+9.4 	The allotted budget of 3.82 percent of its total appropriations fell short by 1.18 percent while the actual utilization was short by 65.64 percent based on the minimum requirement of at least five percent of the total budget.
+
+         
+
+	1)	We recommended that Management direct the:	
+
+	
+
+a)	GAD Committee to explore and adopt possible alternative modes of accomplishing PAPs in view of the current situation, such as zoom meeting/virtual conferences and the like; and
+
+
+
+b)	Planning Section to promptly submit WFP which should be in congruent with the approved budget advice for GAD. 
+
+
+
+9.6	Management in a letter dated March 5, 2021 informed the Audit Team that the GAD Committee has started discussions with its partners like the University of the Philippines – Center for Women and Gender Studies to offer Gender Responsive webinars in light of the current situation. The GAD Committee will initially offer a Webinar on the Situation of Women in the Context of the COVID-19 Pandemic as part of the OSG's Celebration of Women's month. The GAD Committee will explore offering other gender related webinars. The GAD Committee also assured that WFP in congruent with the approved budget will be submitted promptly.
+
+
+
+
+
+10. 	Compliance with tax laws, GSIS, Pag-IBIG, and Philhealth 
+
+
+
+Agencies
+
+Beginning Balance January 1, 2020
+
+Tax withheld/ Premiums/Loans Payable during the Year
+
+Remittances during the Year
+
+Balance December 31, 2020
+
+BIR
+
+P 1,098,070.31
+
+P 153,823,926.65
+
+P150,583,851.19
+
+P 14,338,145.77
+
+GSIS
+
+1,985,059.94
+
+71,189,352.21
+
+64,946,348.30
+
+8,228,063.85
+
+Pag-IBIG
+
+3,637.30
+
+5,683,479.52
+
+4,945,349.39
+
+741,767.43
+
+Philhealth
+
+19,833.41
+
+6,011,816.41
+
+5,363,272.39
+
+668,377.43
+
+
+
+10.1	Management complied with the requirement of DOF-DBM-COA Joint Circular No. 1-2000 dated January 3, 2000 and Joint Circular (JC) No. 1-200A dated July 31, 2001, relative to the requirement of all taxes withheld on gross compensation income from officials and employees for the current year and on taxes withheld from private entities regarding government purchases and contracts for services.
+
+
+
+10.2	The balance at year-end of Due to BIR was remitted to BIR thru efps TRA Ref# 0012100039610795 dated 01/12/2021 in the amount of P13,954,915.33 for Compensation and efps TRA Ref#172100039533258 dated 01/09/2021 in the amount of P383,230.44 for Expanded/Final Tax.
+
+
+
+		10.3	The balance at year-end of Loans Payable and Premiums due to GSIS of P8,228,063.85 was remitted to GSIS under OR No. 003450098066 dated January 11, 2021.
+
+10.4	The balance of P741,767.43 for Pag-IBIG premiums and Loan amortizations was remitted to Home Development Mutual Fund (HDMF) under OR No. 7626374 on January 22, 2021.
+
+
+
+10.5	The balance of P668,377.43 for Philhealth premiums was remitted to Philhealth under OR No. P-90475600 dated January 20, 2021.
+
+
+
+
+
+11.	Insurance of PPE
+
+
+
+11.1 	For CY 2020, the OSG paid a total amount of P642,301.87 to GSIS for the insurance of its PPE.
+
+
+
+	Details as follows:
+
+	
+
+PPEs
+
+Premium
+
+Motor Vehicles
+
+P   246,071.61     
+
+Building and Other Insurable PPEs
+
+396,230.26
+
+Total
+
+P   642,301.87    
+
+
+
+
+
+12.	Status of Settlement of Audit Suspension, Disallowances and Charges (SASDC)
+
+
+
+12.1 	The total audit suspensions, disallowances and charges found in the audit of various transactions as of December 31, 2020, as reflected in the SASDC are summarized below:
+
+	
+
+Particulars
+
+Beginning Balance (As of December 31, 2019)
+
+This Period
+
+(Jan. 1 to Dec. 31,2020)
+
+Ending Balance (As of December 31, 2020)
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension
+
+ P                      0.00
+
+P 1,579,850.00
+
+P1,579,850.00
+
+P              0.00
+
+Notice of Disallowance
+
+43,140,888.03
+
+14,299,731.90
+
+0.00
+
+57,440,619.93
+
+Total
+
+P43,140,888.03
+
+P15,879,581.90
+
+P1,579,850.00
+
+P57,440,619.93
+
+
+
+
+
+13. 	Yolanda and Marawi Funds
+
+
+
+13.1 	Management in a Certification dated February 11, 2021 as verified by the Audit Team, certifies that the OSG did not receive any rehabilitation funds for Yolanda and Marawi for CY 2020.  
+
+
+
+				14. 	National Task Force to End Local Communist Armed Conflict Fund (NTF-
+
+				          	ELCAC Fund) 
+
+
+
+            14.1	Audit disclosed that the OSG did not receive NTF-ELCAC Funds for the    Audit Year 2020.
+
+57
+
+
+
+
+
+
+
+
+

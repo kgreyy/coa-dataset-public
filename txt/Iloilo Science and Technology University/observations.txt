@@ -1,0 +1,4120 @@
+
+
+	AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+	
+
+	
+
+	Financial and Compliance Audit
+
+
+
+1)		Non-preparation and non-reconciliation of the required reports by the Accountant and Property Officer as well as other deficiencies noted, resulted in a variance of P10.797 million between the General Ledger (GL) and Report on the Physical Count of Property, Plant and Equipment (RPCPPE), contrary to Section 111 of PD No. 1445 and the pertinent guidelines on the treatment of PPE in the Government Accounting Manual (GAM) for National Government Agencies (NGAs), thus affecting the existence, reliability and fairness of presentation of the Property, Plant, and Equipment  accounts in the Financial Statements as of December 31, 2020.
+
+	
+
+The provisions of PD No. 1445 state:
+
+
+
+“Section 111. Keeping of accounts.  (1) The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government. Xxx”
+
+
+
+Verification of the PPE records of the Iloilo Science and Technology University revealed the following deficiencies:
+
+
+
+a)	The balances reflected in the General Ledger (GL) and in the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) registered a P10.797 million net variance as of December 31, 2020 (details in Annex 1):
+
+
+
+Table 1 - Variance between the General Ledger and RPCPPE balances
+
+
+
+PPE
+
+Cost per GL
+
+Cost per RPCPPE & Physical Count
+
+Variance
+
+Land & Land Improvements
+
+29,362,938.04
+
+29,466,561.04
+
+(103,623.00)
+
+Buildings & Other Structures
+
+469,148,731.16
+
+473,962,721.86 
+
+(4,813,990.70) 
+
+Machinery and Equipment
+
+
+
+297,013,663.34
+
+
+
+282,294,220.61
+
+
+
+14,719,442.73 
+
+Transportation Equipment
+
+      30,483,603.66 
+
+      30,483,603.66 
+
+0.00
+
+Furniture, Fixtures and Books
+
+
+
+12,917,812.87
+
+
+
+13,154,389.59
+
+
+
+(236,576.72) 
+
+Construction in Progress - Buildings & Structures
+
+
+
+
+
+183,458,290.96 
+
+        181,882,804.57
+
+1,575,486.39 
+
+Other Property Plant & Equipment
+
+           16,800,491.33 
+
+            17,144,590.76     
+
+(344,099.43)
+
+Total
+
+
+
+1,039,185,531.36
+
+
+
+1,028,388,892.09
+
+
+
+10,796,639.27
+
+
+
+As observed in the details presented in Annex 1, PPE reported in the RPCPPE of the Lapaz, Barotac and Dumangas Campuses did not reconcile with the amounts recorded in the GL, showing a total net variance of P10.797 million. 
+
+
+
+b)	Property Cards (PC) and Property, Plant and Equipment Ledger Cards (PPELC) were not completely prepared, updated and reconciled by the Property Officers and the Accountant/Bookkeepers, thus, adequate and effective internal controls over PPE was not ensured.
+
+
+
+Section 42, Chapter 10, Volume I of the GAM, provides:
+
+
+
+“Sec. 42. Accounting and Property Records to be maintained for PPE. The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like PAR.”
+
+
+
+The PPELC shall be reconciled with the report on the physical count of the PPE, PC and the control accounts. Any discrepancies shall be immediately verified and adjusted.
+
+
+
+Review of property records in the Property and Accounting Units revealed the following:
+
+
+
+Table 2 – Status of Record Preparation of all University Campuses
+
+Forms
+
+Maintained by
+
+Status of Record Preparation
+
+
+
+
+
+Lapaz
+
+Miag-ao
+
+Leon
+
+Barotac
+
+Dumangas
+
+Property Card (PC)
+
+Supply Office
+
+prepared
+
+prepared
+
+prepared
+
+prepared
+
+prepared
+
+
+
+Property, Plant and Equipment Ledger Card (PPELC)
+
+
+
+Accounting Office
+
+Not prepared
+
+
+
+prepared
+
+
+
+prepared
+
+Not prepared
+
+Not prepared
+
+
+
+In was noted that the PPELCs were not prepared by the Accounting Offices of the Lapaz, Barotac and Dumangas Campuses. With this, reconciliation of both the PC and the PPELC could not be facilitated, thus, a complete and accurate recording system for the PPE was not ensured. Moreover, without the preparation of the PPELC, historical information for some PPEs, such as repairs, enhancements, and replacement of parts may not be readily obtained for decision making purposes.
+
+
+
+c)	On transactions taken as samples, deliveries of PPE in the Lapaz Campus totaling P137,750.00 were not included in the Physical Count and the Accountant’s record, thus understating both the RPCPPE and GL as of December 31, 2020, as shown in the following table (Annex 2):
+
+
+
+Table 3 – Deliveries of Property not reported to RPCPPE
+
+
+
+Inspection and Acceptance Report (IAR) No.
+
+Date of Delivery  per DR
+
+Amount
+
+PPE Account
+
+Payment ref. - DV No. & Check & Date
+
+2020-0295
+
+03/11/2020
+
+    28,900.00 
+
+Office Equipment
+
+101-2021-01-43 ck#68878027  15/01/2021
+
+2020-0349
+
+07/12/2020
+
+    69,755.00 
+
+Office Equipment
+
+101-2021-01-44 ck#68878028  15/01/2021
+
+2020-0277
+
+21/10/2020
+
+    39,095.00 
+
+Office Equipment
+
+101-2021-01-92 ck#68878076  02/02/2021
+
+
+
+Total
+
+137,750.00
+
+
+
+
+
+
+
+It was noted that PPE items were received as of December 31, 2020, thus already owned by the Agency but these were not included in the RPCPPE and the Accountant’s records as well. The current practice of management is that, items are not recorded in both the Supply Officer’s and the Accountant’s records unless payment has been made. This practice is contrary to Section 20, Chapter 10 of GAM, Volume I, which stipulates:
+
+
+
+“Section 20. Recording of Deliveries. Deliveries of PPE shall be recorded immediately in the Property Card (Appendix 69) maintained by the Supply and/or Property Division/Unit on the basis of the IAR and other supporting documents. The IAR and other supporting documents shall be forwarded to the Accounting Division/Unit for the recording of deliveries in the books of accounts through JEV and in the Property, Plant and Equipment Ledger Card (PPELC) (Appendix 70). Based on the IAR and other supporting documents, the Supply and/or Property Division/Unit shall prepare the DV and submit to the Accounting Division/Unit for the processing of payment xxxx.”
+
+
+
+d)	Twenty-nine (29) items costing P424,430.00 were lost, but immediate notification upon discovery of such loss were not made to the Office of the Auditor and the corresponding request for relief from property accountability was not filed within the reglementary period, contrary to COA guidelines.
+
+
+
+Several PPE items were not found during the conduct of actual physical count, as follows (Annex 3 for details):
+
+
+
+Table 4 – Lost Properties
+
+
+
+PPE
+
+Fund
+
+Request for relief from Accountability
+
+Total
+
+
+
+
+
+Qty
+
+Without
+
+Qty
+
+With
+
+
+
+Items reported in CY 2020 RPCPPE
+
+
+
+
+
+
+
+
+
+
+
+
+
+Communication Equipment 
+
+164
+
+1
+
+59,752.00
+
+
+
+
+
+
+
+Office Equipment
+
+164
+
+3
+
+151,260.00
+
+
+
+
+
+
+
+Office Equipment
+
+163
+
+2
+
+41,342.00
+
+
+
+
+
+
+
+ICT Equipment
+
+164
+
+1
+
+20,300.00
+
+
+
+
+
+
+
+Other Machineries & Equipment
+
+164
+
+2
+
+31,600.00
+
+
+
+
+
+
+
+total
+
+Sub total
+
+9
+
+304,254.00
+
+
+
+
+
+304,254.00
+
+Items reported in CY 2019 RPCPPE but not reported in CY 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other Structures (tools)
+
+101
+
+3
+
+13,719.00
+
+
+
+
+
+
+
+Communication Equipment
+
+164
+
+1
+
+3,256.00
+
+
+
+
+
+
+
+ICT Equipment
+
+101
+
+1
+
+3,400.00
+
+2
+
+84,224.00
+
+
+
+Office Equipment
+
+164
+
+6
+
+22,421.00
+
+
+
+
+
+
+
+Other Machineries and Equipment
+
+164
+
+5
+
+48,200.00
+
+
+
+
+
+
+
+Sports Equipment
+
+101
+
+4
+
+29,180.00
+
+
+
+
+
+
+
+
+
+total
+
+20
+
+120,176.00
+
+2
+
+84,224.00
+
+204,400.00
+
+
+
+Grand Total
+
+29
+
+424,430.00
+
+2
+
+84,224.00
+
+508,654.00
+
+
+
+The table showed that 29 items totaling P424,430.00 were lost and were not reported to the COA immediately after the discovery of the loss, neither a Request for Relief from Property Accountability was filed before the Office of the Auditor. It was also observed that previously reported lost items totaling P204,400.00 were no longer reported in the CY 2020 RPCPPE, thus affecting the completeness of the report.
+
+
+
+In cases of lost properties, the Auditor must be immediately notified after the discovery of the loss and a request for relief from property accountability must be filed by the proper accountable officer within 30 days from the occurrence of the loss as prescribed under COA Memorandum No. 92-751 dated February 24, 1992. It must be emphasized that credit to an accountable officer for lost properties shall only be allowed, whenever warranted by the evidence, provided that the requirements of COA guidelines are complied with. Non-compliance with the requirements of the COA memorandum will, therefore, hold the Officers and Employees, issued with the above properties, accountable for such loss.
+
+
+
+e)	Upon random checking, it was observed that the RPCPPE of Lapaz, Barotac and Dumangas Campuses included Semi-expendable properties below the capitalization threshold of P15,000.00, totaling P4.263 million, thus, affecting the accuracy of the report. (Annex 4)
+
+
+
+Pertinent guidelines of Chapter 10 of the Government Accounting Manual provide for capitalization threshold of PPE, as follows:
+
+
+
+“Sec. 3. Criteria for Recognition.  The cost of an item of PPE shall be recognized as assets if, and only if:
+
+a)	it is probable that the future economic benefits or service potential associated with the item will flow to the entity;  
+
+b)	the cost or fair value of the item can be measured reliably; 
+
+xxxx 
+
+c)	   it meets the capitalization threshold of P15,000.  
+
+
+
+ Xxxxxx
+
+
+
+Property, Plant and Equipment of ISAT U constitutes 57.71% of the total assets, therefore, assurance of their physical existence, completeness and accuracy of recording is of considerable importance.  
+
+
+
+Deficiencies noted in the recording of PPE and the non-preparation, non-updating and non-reconciliation of both the records of the Property Officer and the Accountant affected the reliability and fairness of presentation of PPE accounts totaling P10.797 million in the financial statements at year-end.
+
+	
+
+This observation had been brought to the attention of the management since 2013. According to the Accountants and Property Officers, due to voluminous work and lack of manpower in the previous years, the required reports and records were not given preferential attention. However, in an effort to resolve long and persisting audit issues, the agency’s Internal Audit Services had been visiting the five Campuses of ISAT U to assist the Accountants and the Property Officers in the recording and reconciliation of their records and to evaluate the progress of this activity. To date, the Miag-ao and Leon Campuses have reconciled their PPE records while the Lapaz, Dumangas and Barotac Campuses have yet to complete the preparation of PPELCs in order to start the reconciliation of their records.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Require the Supply Officers and the Accountants of Lapaz, Barotac and Dumangas Campuses to intensify efforts on the preparation and updating of the  Property Cards and Property Plant Equipment Ledger Cards and reconcile both records, in accordance with the pertinent provisions of the Government Accounting Manual for National Government Agencies;
+
+
+
+b)	Direct the Supply Officers and the Accountants to look into the noted discrepancies between the balance per General Ledger and the Report on the Physical Count of Property Plant and Equipment totaling P10.797 million in order to reconcile both records;
+
+
+
+c)	Require the Supply Officers and the Accountants to adhere to Section 20, Chapter 10 of the GAM in the proper recording of deliveries of Property, Plant and Equipment;
+
+
+
+d)	Instruct the Supply Officer and Accountant to observe strictly the guidelines on treating Semi-expendable Properties in accordance with Section 3 and 4, Chapter 10 of Government Accounting Manual; and
+
+
+
+e)	Require the Supply Officer and the Accountant of Lapaz Campus to conduct further investigation on the lost government properties, and to hold the persons accountable for these  properties as circumstances may warrant, unless a request for relief from property accountability is granted by the Commission on Audit, in accordance with COA Memorandum No. 92-751 dated February 24, 1992.
+
+	
+
+f)	Immediately prepare a workplan with timelines for the aforementioned updating and reconciliation activities and submit a copy to the Auditor for proper monitoring. 
+
+	
+
+
+
+2)		The Accountant and the Supply Officer were not able to prepare, update and reconcile the Supplies Ledger Cards (SLC) and Stock Cards (SC), respectively, resulting in a variance of P5.079 million in the General Ledger (GL) and Report on the Physical Count of Inventories (RPCI), contrary to the pertinent provisions of Chapter 8 of the Government Accounting Manual (GAM), thus, affecting the reliability and fairness of presentation of Inventory accounts as of December 31, 2020. 
+
+
+
+In accordance with the Section 17, Chapter 8 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), the following reports/forms shall be prepared, maintained and submitted:
+
+
+
+Particular
+
+Prepared/ Maintained by
+
+Deadline of Submission to COA
+
+Criteria 
+
+(GAM for NGAs)
+
+Report on the Physical Count of Inventories (RPCI)
+
+Inventory Committee
+
+July 31 of current year and January 31 of succeeding year (semi-annually)
+
+Appendix 66 (Instructions), Volume II
+
+Stock Cards (SC)
+
+Supply Unit
+
+Not required
+
+Appendix 58, (Instructions), Volume II
+
+Supplies Ledger Card (SLC)
+
+Accounting Unit
+
+Not required
+
+Appendix 57, (Instructions), Volume II
+
+Report of Supplies and Materials Issued (RSMI)
+
+Supply Unit
+
+10th day of the succeeding month together with the JEV
+
+Appendix 64, (Instructions), Volume II
+
+
+
+Pursuant to the above regulations, the agency shall conduct physical count of inventories every semester. The report shall be reconciled with the SLCs and SCs maintained by the Accounting Division/Unit, and Property and/or Supply Division/Unit, respectively. Any discrepancy shall be verified and/or adjusted accordingly. The semi-expendable properties wherein the issuances are covered by Inventory Custodian Slips (ICS) shall also be included in the RPCI.
+
+
+
+The Iloilo Science and Technology University Inventory accounts has a total balance of P54.501 million recorded in the General Ledger as of December 31, 2020, broken down as follows (details in Annex 5):
+
+
+
+Table 5 – General Ledger balances of Inventory Accounts
+
+
+
+Account Title
+
+Lapaz
+
+Miag-ao
+
+Barotac
+
+Leon
+
+Dumangas
+
+Grand Totals
+
+Inventory Held for Sale
+
+1,542,010.83
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+ 1,542,010.83
+
+Inventory Held for Consumption
+
+       11,476,008.08 
+
+     3,043,182.66 
+
+            1,210,547.40 
+
+      109,954.60 
+
+    61,622.95 
+
+15,901,315.69     
+
+Semi-Expendable Machinery and Equipment
+
+       12,804,454.69 
+
+                          0.00   
+
+               175,380.00 
+
+                       0.00
+
+                 0.00     
+
+12,979,834.69       
+
+Semi-Expendable Furniture, Fixtures and Books
+
+24,026,733.32 
+
+                          0.00   
+
+                 51,010.00 
+
+                       0.00   
+
+                   0.00   
+
+           24,077,743.32
+
+Totals
+
+49,849,206.92
+
+3,043,182.66 
+
+1,436,937.40 
+
+109,954.60 
+
+61,622.95 
+
+54,500,904.53
+
+
+
+
+
+Review and examination of above inventory accounts disclosed the following deficiencies:
+
+
+
+a)	The Report on the Physical Count of Inventories (RPCI) and the General Ledger Balances for Inventories held for Sale and Consumption and unissued Semi-expendable properties showed a net variance of P5.079 million as of December 31, 2020, arrived at as follows (Annex 6):
+
+		
+
+
+
+Table 6 – Comparison of GL and RPCI Balances
+
+
+
+Campus
+
+GL Balance (Accountant’s)
+
+RPCI balance (Supply Officer’s)
+
+Difference
+
+Inventories held for Sale and Consumption
+
+Lapaz
+
+ 13,018,018.91 
+
+    9,243,438.01 
+
+     3,774,580.90 
+
+Barotac 
+
+      1,210,547.40  
+
+     985,038.20
+
+225,509.20 
+
+Dumangas
+
+61,622.95        
+
+      54,120.95 
+
+7,502.00
+
+Unissued Semi-expendable properties
+
+Lapaz
+
+1,070,940.04
+
+0.00  
+
+1,070,940.04
+
+Dumangas
+
+226,390.00
+
+226,390.00
+
+0.00
+
+Total
+
+       15,587,519.30 
+
+       10,508,987.16 
+
+      5,078,532.10 
+
+	
+
+b)	Stock Cards and Supply Ledger Cards were not prepared and updated regularly, hence, precluding the reconciliation of both records by the Supply Officers and the Accountants of the Lapaz, Barotac and Dumangas Campuses, details are as follows: 
+
+
+
+Table 7 – Status of record preparation by the Supply Officers and Accountants
+
+
+
+	Forms
+
+Main
+
+Miag-ao
+
+Barotac
+
+Leon
+
+Dumangas
+
+Stock Card (SC)
+
+
+
+
+
+●
+
+
+
+
+
+Supply Ledger Card (SLC)
+
+
+
+
+
+●
+
+
+
+●
+
+             Legend: () prepared and updated; (●) ongoing preparation and updating; () not prepared at all
+
+
+
+Due to non-preparation, non-updating and non-reconciliation of the records of the Accountants and the Supply Officers of the Lapaz, Barotac and Dumangas Campuses, a net variance of P5.079 million was noted between the General Ledger and the Report of Physical Count of Inventories contrary to the pertinent provisions of the Government Accounting Manual, thus, affecting the reliability and fairness of presentation of the Inventory Accounts in the financial statements as of December 31, 2020.
+
+
+
+The following deficiencies were likewise observed:
+
+
+
+i)	In the Lapaz Campus, the Construction Materials Inventory account registered a net variance between the balance per GL and RPCI of P3.848 million caused by error in classification of inventories upon recording of purchases, as follows (Annex 6):
+
+
+
+Table 8 – Comparison of GL and RPCI balances
+
+
+
+
+
+Balance per GL
+
+Balance per RPCI
+
+Difference
+
+Construction Materials Inventory
+
+385,394.28 
+
+4,202,817.60 
+
+3,817,423.32
+
+Accountable Forms, Plates & Stickers Inventory
+
+(30,106.96)
+
+0.00
+
+30,106.96
+
+Total
+
+
+
+
+
+3,847,530.28
+
+
+
+
+
+
+
+
+
+
+
+ii)	Records of the Barotac Campus showed that three accounts for Semi-expendable Inventories registered variances between the balance per GL and the RPCI due to improper classification, as shown below (details in Annex 6):
+
+
+
+Table 9 – Comparison of GL and RPCI balances
+
+
+
+
+
+Per GL
+
+Per RPCI
+
+Difference
+
+Semi-Expendable Office Equipment
+
+10,000.00
+
+26,000.00
+
+16,000.00
+
+Semi-Expendable Other Machinery and Equipment
+
+58,225.00
+
+57,170.00
+
+1,055.00
+
+Semi-Expendable Furniture and Fixtures
+
+51,010.00
+
+36,062.00
+
+14,945.00
+
+Total 
+
+226,390.00
+
+226,390.00
+
+0.00
+
+
+
+iii)	Deliveries of supplies and materials for December 2020 were not recorded in the GL for sampled transactions totaling P378,950.56, thus, understating both the records of the Supply Officer and the Accountant. (Annex 7)
+
+
+
+iv)	Physical count of Inventories for issued Semi-expendable properties covered by Inventory Custodian Slip was not conducted by the Supply Officer of Dumangas Campus, while the Leon Campus had not submitted its report on the conduct of physical count, contrary to the above regulations, hence, information on the amounts and physical existence of such properties were not verified.
+
+
+
+The foregoing deficiencies affected the reliability and fairness of presentation of the balances of the Inventory Accounts as presented in the financial statements.
+
+
+
+This observation had been a pressing issue since 2014. According to the Accountants and Supply Officers, due to voluminous work and lack of manpower in the previous years, the required reports and records were not given preferential attention. However, the Management, thru its Internal Audit Services had been doing Campus-wide visitation in an effort to assist the Accountants and Supply Officers to resolve long and persisting audit issues. As a result of the concerted efforts of the Agency personnel, the variance had been significantly reduced from P29 million in 2018 to P5.079 million in the current year.
+
+
+
+We recommended and the Management agreed to direct the Accountants and Supply Officers of Lapaz, Barotac and Dumangas Campuses, to strictly comply with the preparation of the required reports, forms and records as well as intensify reconciliation of their records as prescribed in Chapter 8 of the GAM, Volume I, for proper inventory management in order to present a fair and reliable balances of Inventory Accounts in the financial statements.
+
+	
+
+	
+
+3)		Payments for the construction/repairs of Buildings and Other Structures totaling P81.500 million were supported with incomplete documentations contrary to Section 4(6) of Presidential Decree (PD) No. 1445, thus, propriety and validity of disbursements were not ensured. 
+
+
+
+Presidential Decree No. 1445 sets forth the governing fundamental principles on financial transactions and operations of any government agency, Section 4(6) of which states:
+
+
+
+“Claims against government funds shall be supported with complete documentation.”
+
+
+
+Likewise, Section 9.1.1 of COA Circular 2012-001 dated June 14, 2012 further prescribes the documentary requirements on payment of Infrastructure Projects. 
+
+
+
+Post-audit of payments on claims for advance payment to contractors, progress billing, and completion of construction projects revealed that the documents supporting the payment of buildings and other structures were either lacking or wanting of information to warrant propriety and validity of the Agency’s obligation.
+
+
+
+Out of P119.644 million sampled disbursements involving 47 transactions, P81.500 million or 68.12 percent showed incomplete supporting documents. The following table summarizes the deficiencies noted in transactions covering Advance Payment, Progress Payment, Final Payment on infrastructure projects of Iloilo Science and Technology University-Lapaz Campus (Annex 8 for details):
+
+
+
+Table 10 - Deficiencies in documents supporting the contractor’s progress payments
+
+
+
+
+
+
+
+
+
+Attribute No.
+
+Documentary Requirement
+
+Attachment to: Advance Payment (AP), Progress Payment (PP), Final Payment (FP), Release of Retention Money (RR)
+
+
+
+No. of transactions with deficiency
+
+
+
+
+
+
+
+Audit observations
+
+4
+
+Statement of Work Accomplished (SWA) or Progress Accomplishment prepared by the contractor
+
+PP, FP
+
+10
+
+
+
+Progress Accomplishments were not duly certified by the Contractors. Further, in some cases Project Accomplishments were not presented in such detail that will show specific and itemized works for validation by Agency Engineer.
+
+
+
+5
+
+Inspection Report by Agency’s Authorized Engineer
+
+PP, FP 
+
+10
+
+Information on whether the works were satisfactorily undertaken and on schedule were not indicated, to provide a basis for deduction of retention money for progress accomplishments beyond 50%.
+
+
+
+6
+
+Validated pictures during, before and after construction
+
+PP, FP 
+
+21
+
+Pictures attached were not labeled if taken before, during and after and without validation by the assigned Agency Engineer.
+
+
+
+16
+
+As-Built Plans
+
+FP
+
+6
+
+As-built Plans duly signed by the Contractor and Agency Officials were not submitted to provide a record of:
+
+a)	the actual works done  as it appears upon completion; and
+
+b)	changes undertaken in comparison to original plans and specification, if any.
+
+
+
+The above information on documents are control measures to establish evidence and validity of claims by the Contractors. Likewise, these documents are essential to ensure that projects were undertaken by the contractors in accordance with the specifications and timelines stipulated in the contract. According to the Management, the lack of proper training and unfamiliarity with the rules and regulations of the personnel assigned in the preparation and review of documents were the causes of the foregoing noted deficiencies.
+
+
+
+As a result of the above deficiencies, propriety and validity of disbursements were not ensured, contrary to Sec. 4(6) of Presidential Decree (PD) No. 1445 and Section 9.1.1 of COA Circular 2012-001.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+	a)	Direct the Accountant and the Planning Director to ensure completeness of information on  supporting documents before payment to Contractors  in accordance with Section 4(6) of PD No. 1445 and Section 9.1.1 of COA Circular 2012-001 dated June 14, 2012 so that propriety and validity of disbursements can be ensured; and
+
+
+
+	b)	Require the Accountant and Planning Director to submit the lacking As-built plans of the building projects for COA technical inspection.
+
+
+
+
+
+4)		The guidelines on the 10 percent Retention Money from progress payments to contractors of infrastructure projects were not strictly complied with, contrary to Items 6.1 and 6.2, Annex “E” of the 2016 Revised IRR of RA No. 9184, resulting in insufficient retention money amounting to P1.582 million thus, the agency’s interests were not adequately protected against uncorrected defects on projects undertaken and third party liabilities. 
+
+		
+
+Items 6.1 and 6.2, Annex “E” of the 2016 Revised Implementing Rules and Regulations (IRR) of the Republic Act (RA) No. 9184, entitled Contract Implementation Guidelines for the Procurement of Infrastructure Projects provides:
+
+
+
+“6.1 Progress payments are subject to retention of ten percent (10%) referred to as the "retention money." Such retention shall be based on the total amount due to the contractor prior to any deduction and shall be retained from every progress payment until fifty percent (50%) of the value of works, as determined by the procuring entity, are completed. If, after fifty percent (50%) completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the ten percent (10%) retention shall be imposed.” Emphasis ours
+
+
+
+6.2 Xxxxx. The contractor may, however, request the substitution of the retention money for each progress billing with irrevocable standby letters of credit of from a commercial bank, bank guarantees or surety bonds callable on demand, of amounts equivalent to the retention money substituted for and acceptable to Government, provided that the project is on schedule and is satisfactorily undertaken. Otherwise, the ten percent (10%) retention shall be made. Xxxxx.”
+
+
+
+		Audit of progress payments to various contractors in the Calendar Years 2018 to 2020 disclosed the following observations:
+
+		
+
+a)			Retention money deducted from progress payments to contractors were deficient by P1.582 million, contrary to Items 6.1,  Annex “E” of the Revised Implementing Rules and Regulations (IRR) of the Republic Act (RA) No. 9184.
+
+		
+
+		Upon perusal of the documents pertaining to progress payments made to the contractors, the Audit Team noted that two building projects with established negative slippage were not fully subjected to 10 percent Retention, while retention money deducted for the the completion of University Library with progress accomplishment of 53.18 percent was deficient.  Similarly, one project on the improvement of University Cafeteria with 100 percent accomplishment was not subjected to 10 percent retention. The data are presented in the following table with details shown in Annexes 9 to 12.
+
+		
+
+		Table 11 – Computation of 10 percent Retention Money
+
+		
+
+		WP Ref No/
+
+		 Infrastructure Project
+
+		% of Accomplish-ment
+
+		Contractor Amount
+
+		Progress Billing imposed with RM
+
+		10% Retention Money imposed
+
+		10% Retention Money per audit
+
+		Difference
+
+		Annex 9
+
+		(Improvement of University Cafeteria Kitchen – with final acceptance)
+
+		
+
+		100% (one-time billing)
+
+		2,230,800.56
+
+		2,230,800.56
+
+		0.00
+
+		111,540.03
+
+		111,540.03
+
+		Annex 10
+
+		(Construction of Student Services Bldg. Phase I; without final acceptance)
+
+		
+
+		100% 
+
+		(with negative slippage)
+
+		19,608,800.00
+
+		19,608,800
+
+		1,634,393.48
+
+		1,960,880.00
+
+		326,486.52
+
+		Annex 11
+
+		(Metal Works and Finishing Works for the Completion of the University Library)
+
+		
+
+		53.18% (2nd partial billing)
+
+		1,473,298.84
+
+		783,500.32
+
+		39,175.02
+
+		78,350.03
+
+		39,175.01
+
+		Annex 12
+
+		Completion of  Research Hub Building (With final acceptance)
+
+		100% (with negative slippage)
+
+		22,090,911.36
+
+		4,365,164.09
+
+		1,104,545.57
+
+		2,209,091.14
+
+		1,104,545.57
+
+		
+
+		
+
+		
+
+		Total
+
+		2,778,114.07
+
+		4,359,861.20
+
+		1,581,747.13
+
+			
+
+b)			The 10 percent Retention was not imposed, in the payment of one building project, neither was this substituted with irrevocable standby letter of credit from a commercial bank, bank guarantee or surety bond callable on demand, of equivalent value, contrary to item 6.2, Annex “E” of the Revised IRR of RA 9184.
+
+
+
+		As shown in Annex 9, a  building project with contract amount of P2.231 million was paid without deducting the 10 percent Retention Money, neither was this substituted with irrevocable standby letter of credit from a commercial bank, bank guarantee or surety bond callable on demand, of equivalent value, contrary to the above regulations.
+
+
+
+Interview with the personnel who processed the contractors’ claims on progress accomplishments disclosed the lack of information and familiarity, on their part, with the rules and regulations on accurate computations of retention money. It must be noted that, since some of the projects were fully paid, the agency can no longer enforce the retention money from the contractors. 
+
+ 
+
+		The above lapses resulted in deficiencies in the retention money withheld from payments to contractors amounting to P1.582 million thus, the agency’s interests were not adequately protected against uncorrected defects on projects undertaken and third-party liabilities contrary to the pertinent provisions of IRR of RA 9184.
+
+
+
+In a reply to the audit observations, the Management expressed their agreement with the deficiencies noted. 
+
+
+
+	We recommended and the Management agreed to, henceforth, strictly comply with the rules and regulations set forth under Items 6.1 and 6.2, Annex “E” of the Revised Implementing Rules and Regulations of Republic Act No. 9184 on Retention Money so that the agency’s interests will be adequately protected against uncorrected defects on projects undertaken and third-party liabilities. 
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+5)		The rules and regulations in the Direct Retail Purchase of airline tickets amounting to P0.779 million, as embodied in Section 53.14 of the 2016 Revised IRR of RA 9184 or the Government Procurement Reform Act (GPRA) were not strictly adhered to, thus, propriety, economy and efficiency in the procurement process was not ensured.
+
+	
+
+		The Government Procurement Policy Board confirmed, adopted, and approved the issuance of GPPB Resolution No. 24-2019 dated October 30, 2019, approving the inclusion of Section 53.14 on the direct retail purchase of airline tickets.
+
+		
+
+As a matter of policy, procurement of airline tickets shall be done through competitive bidding, except when the Procuring Entity has determined that Direct Retail Purchase is the best modality to be used, as may be warranted by circumstances.
+
+
+
+Annex H of the GPRA enumerates the conditions in using Direct Retail Purchase as mode of procurement, which states:
+
+		
+
+“Conditions. The procurement of xxxx airline tickets can be contracted by the end-user to identified direct suppliers or service providers under the following conditions: 
+
+
+
+i)	Xxxxx
+
+
+
+ii)	For airline tickets: 
+
+a)	Direct purchase of airline tickets required for official travels within the fiscal year, including provisions for foreseeable emergencies based on historical records, shall be reflected in the APP in its entirety including any amendment thereto which shall be reflected in the supplemental APP; 
+
+
+
+b)	Direct purchase must be made from any commercial airline at fairly reasonable rates, subject to flight availability at the time of booking, travel days, stopovers, routes, additional visa requirements and other reasonable considerations as determined by the end-user;
+
+
+
+c)	Payment may be made through cash advance, reimbursement or other allowable payment modalities subject to pertinent auditing and accounting rules; and 
+
+
+
+d)	Procurement of airline tickets must be in accordance with existing rules and regulations governing official local and foreign travels of government personnel and Executive Order No. 77, s. 2019.
+
+		
+
+Also, Item J of Annex H of the GPRA states that, the conduct of Direct Retail Purchase of airline tickets shall be delegated to specific officials, personnel, committee or office in the Procuring Entity, through a Resolution and Issuance for the purpose by the Bids and Awards Committee (BAC) and the Head of the Procuring Entity (HOPE), respectively, in order to efficiently and expeditiously deal with the pressing need sought to be addressed.
+
+
+
+Moreover, Section 7.2 of the same GPRA, provides: “Section 7.2. No procurement shall be undertaken unless it is in accordance with the approved APP, including approved changes thereto. The APP must be consistent with the duly approved yearly budget of the Procuring Entity and shall bear the approval of the HOPE or second-ranking official designated by the HOPE to act on his behalf.
+
+
+
+Perusal of records disclosed that the management of ISAT U – Systems was, basically, adopting the Direct Retail Purchase as mode of procurement for airline tickets. Verification of sampled disbursements on the payment of airfares on all campuses revealed the following (Annex 13):
+
+
+
+1)	Airline tickets of the officers and employees were procured from Travel Agencies, instead of direct purchase from commercial airlines, contrary to the above stated regulations, thus, efficiency and economy were not ensured.
+
+
+
+Of the sampled payments on airline tickets totaling P0.779 million for the period November 2019 to September 2020, P0.626 million or 80.37 percent were obtained from various travel agencies, as follows:
+
+
+
+    Table 12 – Amount of Airfare claims obtained from travel agencies
+
+
+
+Campus
+
+Amount
+
+Lapaz (Main) Campus
+
+570,848.29
+
+Leon Campus
+
+0.00
+
+Miag-ao Campus
+
+17,847.00
+
+Dumangas Campus
+
+30,818.00
+
+Barotac Nuevo Campus
+
+6,346.32
+
+Total
+
+625,859.61
+
+
+
+2)	Procurement of airfares through Negotiated Procurement - Direct Retail Purchase were not reflected in the Annual Procurement Plan (APP) contrary to Section 7.2 of the 2016 Revised IRR of RA 9184 or the Government Procurement Reform Act and the conditions stated in its Annex “H”, thus, the procurement and the method being adopted was without proper authority from the Head of Procuring Entity (HOPE) or authorized representative.
+
+
+
+The amount of sampled airfares procured for the period November 2019 to September 2020 for all campuses are shown in the table below:
+
+
+
+Table 13 – Amount of airfare claims not in APP
+
+
+
+Campus
+
+Amount
+
+Lapaz (Main) Campus
+
+691,218.25
+
+Leon Campus
+
+23,622.48
+
+Miag-ao Campus
+
+26,735.24
+
+Dumangas Campus
+
+30,818.00
+
+Barotac Nuevo Campus
+
+6,346.32
+
+Total
+
+778,740.29
+
+
+
+3)	Direct Retail Purchase of airline tickets were delegated to end-users without a Resolution or Issuance for the purpose by the BAC and the HOPE, respectively, contrary to Item J, Annex H of the 2016 Revised IRR of RA 9184.
+
+
+
+4)	Claims for airfare amounting to P201,504.88 were not supported with official receipts to confirm acknowledgment of payment by the supplier, thus, veracity of payment could not be made.
+
+
+
+In the perusal of the disbursement vouchers for travel claims, it was likewise gathered that the attached copies of the airline tickets were mostly electronically generated. In most cases, these e-tickets were purchased online and printed by the end-user without the corresponding Official Receipt (OR) issued by the supplier. A total of P201,504.88 claims for the payment of these e-tickets were not supported with Official Receipt as proof of veracity of the claim. In the absence of the OR the authenticity of the e-tickets generated online is difficult to determine. 
+
+
+
+Section 4 of PD No. 1445 or the Government Auditing Code of the Philippines, states:
+
+
+
+“Section 4. Fundamental principles. Financial transactions and operations of any government agency shall be governed by the fundamental principles set forth hereunder, to wit:
+
+
+
+   Xxxxxx
+
+
+
+(6) Claims against government funds shall be supported with complete documentation.
+
+(7) All laws and regulations applicable to financial transactions shall be faithfully adhered to.
+
+(8) Generally accepted principles and practices of accounting as well as of sound management and fiscal administration shall be observed, provided that they do not contravene existing laws and regulations.
+
+
+
+According to the Bids and Awards Committee, since the guideline was issued late in 2019 and due to the pandemic which started in the first quarter of 2020, the Annual Procurement Plan was not revised to include procurement of airfares. Likewise, the conditions in using Direct Retail Purchase modality were not given appropriate attention.
+
+
+
+With the foregoing noted deficiencies, propriety, economy and efficiency in the procurement of airline tickets were not ensured.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+	a)		Strictly follow the guidelines on the procurement of airline tickets in accordance with Section 53.14 and Annex “H” of the 2016 Revised IRR of 9184 or the Government Procurement Reform Act;
+
+	
+
+	b)		Procure directly from commercial airlines in order to obtain the most advantageous price for the government;
+
+
+
+	c)		Require the Bids and Awards Committee to issue a resolution authorizing the delegation of end-users, specific officials or personnel to procure airline tickets to be approved by the Head of the Procuring Entity.
+
+	
+
+	d)		Attach official receipts issued by the commercial airlines to support veracity of airfares stated in the e-tickets; and
+
+	
+
+	e)		Henceforth, include in the Annual Procurement Plan the procurement of airline tickets and the modality to be adopted for propriety and authority.
+
+
+
+
+
+6)		Posting requirements for Contracts/Purchase Orders totaling P0.910 million and Request for Quotations amounting to P0.538 million, for the procurement of goods thru Small Value Procurement method were not strictly followed contrary to section 54.3 and Annex H of the 2016 Revised IRR of RA 9184, thus, transparency, competitiveness and economy in the procurement process was not assured.
+
+	
+
+Section 54.3 of the 2016 Revised Implementing Rules and Regulations (IRR) of Republic Act 9184 or the Government Procurement Reform Act (GPRA) provides for the guidelines on the posting of Contracts/Purchase Orders for all instances of alternative methods of procurement which states:
+
+“54.3. In all instances of alternative methods of procurement, the BAC, through the Secretariat, shall post, for information purposes, the xxxx, contract or purchase order, xxxx, in the PhilGEPS website, the website of the Procuring Entity concerned, if available, and at any conspicuous place reserved for this purpose in the premises of the Procuring Entity, except for contracts with ABC of Fifty Thousand Pesos (₱50,000.00) and below”.
+
+		
+
+Moreover, Section IV-L of Annex H of the same GPRA, requires that the Contracts/ Purchase Orders shall be posted within ten (10) days from their issuance.
+
+
+
+The Request for Quotations (RFQ) with Approved Budget for the Contract (ABC) above Fifty Thousand Pesos (₱50,000.00) shall likewise be posted in similar manner for a period of three (3) calendar days in accordance with the Item D.8, Specific Guidelines on Small Value Procurement as provided in Annex H of the 2016 Revised IRR of RA 9184.
+
+
+
+Audit of sampled procurement transactions for CY 2020 of the Lapaz Campus revealed that Contracts/Purchase Orders totaling ₱0.910 million with Approved Budget for the Contracts above P50,000 were not posted in the PhilGEPS website, the website of the Procuring Entity concerned, and at the conspicuous place reserved for this purpose in the premises of the Procuring Entity within ten (10) days from issuance. (Details in Annex 14)
+
+
+
+In addition, RFQs with ABC amounting to P0.538 million for the procurement of Other Supplies and Materials were not similarly posted as required by regulations within three (3) calendar days.
+
+
+
+With the foregoing noted deficiencies, wide dissemination of bid opportunities was not facilitated, thus transparency, competitiveness and economy in the procurement process were not assured.
+
+
+
+The Management has expressed agreement on the deficiencies noted. According to them, the lack of proper training and familiarity, on their part, with the procurement processes caused the above noted lapses.
+
+
+
+
+
+We recommended and the Management agreed to require the Bids and Awards Committee to strictly comply with posting requirements as provided in Section 54.3 and Annex H of the 2016 Revised IRR of RA 9184 in adopting Small Value Procurement modality to ensure wide dissemination of bid opportunities thus promoting transparency and competitiveness in the procurement process.
+
+
+
+
+
+7)		The guidelines in the preparation of the Request for Quotation and the Evaluation and Award of Contract to responsive suppliers were not properly followed in the purchase of goods thru Small Value Procurement and Shopping with Approved Budget for the Contract totaling P1.089 million, contrary to the pertinent rules of the 2016 Revised IRR of RA 9184 or the Government Procurement Reform Act, thus, propriety, efficiency and economy were not promoted.
+
+	
+
+Section 31.1 of the 2016 Revised IRR of RA 9184 or the Government Procurement Reform Act states: “The ABC shall be the upper limit or ceiling for acceptable bid prices. If a bid price, as evaluated and calculated in accordance with this IRR, is higher than the ABC, the bidder submitting the same shall be automatically disqualified. There shall be no lower limit or floor on the amount of the award”.
+
+	
+
+In the Bid Evaluation for the procurement of goods, the Bids and Awards Committee shall conduct a detailed evaluation cognizant of Section 32.2.1.a of the IRR of the Government Procurement Reform Act, which states:
+
+
+
+“Section 32.2.1.a. Completeness of the bid. Unless the Instructions to Bidders specifically allow partial bids, bids not addressing or providing all of the required items in the Bidding Documents including, where applicable, bill of quantities, shall be considered non-responsive and, thus, automatically disqualified. In this regard, where a required item is provided, but no price is indicated, the same shall be considered as non-responsive, but specifying a zero (0) or a dash (-) for the said item would mean that it is being offered for free to the Government, except those required by law or regulations to be provided for”.
+
+
+
+In the preparation of the Request for Quotation, the Procuring Entity shall stipulate requirements specific to the circumstances of the Procuring Entity, such as the grouping and evaluation of lots that will apply to the bids, in accordance with BDS Clause 28.3.a, Section III Bid Data Sheet of the Philippine Bidding Documents, as follows:
+
+
+
+	Grouping and Evaluation of Lots –
+
+	Lots should be formed of similar items that are likely to attract the maximum competition. A lot is the quantity and number of items that will be included in a single contract. For example:
+
+	
+
+Option 1 – Each item to be evaluated and compared with other Bids separately and recommended for contract award separately.
+
+
+
+Option 2 - All items to be grouped together to form one complete Lot that will be awarded to one Bidder to form one complete contract.
+
+
+
+Option 3 - Similar items, to be grouped together to form several lots that shall be evaluated and awarded as separate contracts. 
+
+The above rules were further clarified under Non-Policy Matter Opinion (NPM) No. 086-2017 of the Government Procurement Policy Board (GPPB) dated December 12, 2017, on the issue of whether the award of contract under shopping and Small Value Procurement modality will be based on lowest per item and not on the total bid of the lowest bidder, the GPPB opined that: 
+
+“Accordingly, the PE may identify – each item to be evaluated and awarded separately under separate contracts; or, several items grouped together to form one complete lot to be awarded to a single bidder to form a singular complete contract; or, similar items to be grouped into several lots, and evaluated and awarded as separate contracts. In these wise, bids shall be evaluated by the Bids and Awards Committee depending on the packages, lots or items identified in the bidding document. Consequently, depending on the requirements provided for under Section 28.3 of the ITB, alongside specific instructions contained in BDS Clause 28.3 as to the manner for which a bidder should submit its bid: i) a bidder may be awarded a contract for an item; or, ii) a contract for a lot, or contracts for several lots; or, iii) a singular contract for all of the lots. 
+
+The same rule applies in Shopping and the Negotiated Modality under Small Value Procurement, the grouping of items/lots shall be based on what is provided in the Request for Quotations. Thus, a bidder may be awarded a contract for an item; or, a contract for a lot, or contracts for several lots; or, a singular contract for all of the lots.” (Underscoring supplied)
+
+In the Lapaz and Dumangas Campuses,  the Audit Team examined  Requests for Quotation (RFQs), and evaluation of bids and award of contract for sampled transactions involving the following procurement of Information and Communication Technology Equipment, Office Supplies, Other Supplies and Materials and Semi-expendable Machineries and Equipment, as follows  (Annexes 15-26 for details):
+
+
+
+Table 14 – Sampled Request for Quotations for procurement of Supplies, Machineries and Equipment
+
+
+
+
+
+Mode of Procurement
+
+Project Description
+
+Approved Budget for the Contract per RFQ
+
+Working Paper Reference
+
+Lapaz (Main) Campus
+
+
+
+
+
+
+
+1
+
+Shopping 52.1.A
+
+Purchase of Office Supplies
+
+19,400.00
+
+Annexes 15 - 16
+
+2
+
+Small Value Procurement
+
+Purchase of Other Supplies & Materials
+
+100,450.00
+
+Annexes 17 - 18
+
+3
+
+Small Value Procurement
+
+Purchase of I.T. Equipment (Computer Desktop)
+
+395,000.00
+
+Annexes 19
+
+4
+
+Small Value Procurement
+
+Purchase of and Other supplies and materials for PE Sports
+
+74,850.00
+
+Annexes 20 - 21
+
+
+
+
+
+Sub-Total
+
+589,700.00
+
+
+
+Dumangas Campus
+
+
+
+
+
+
+
+5
+
+Small Value Procurement
+
+Office Supplies, Other Supplies & Materials, Semi-expendable office equipment and furniture & fixtures
+
+499,646.50
+
+Annexes 22 to 26
+
+
+
+
+
+Grand Total
+
+1,089,346.50
+
+
+
+Results of the examination revealed the following deficiencies:
+
+
+
+a)	In three sampled RFQs for procurement under Shopping 52.1.A and Small Value Procurement with ABC totaling to P0.594 million, a lumped ABC for all the items was indicated, while the actual evaluation and award made by the BAC were on a per item basis, contrary to the rules and regulations on preparation of RFQ as prescribed by Section 28.3, Instruction to Bidders of the Philippine Bidding Documents.
+
+
+
+In the preparation of the Request for Quotation, the Procuring Entity shall stipulate the grouping and evaluation of lots that will apply to the bids, whether it is on a per item, several lots or all items grouped together as one lot (lumped).  Depending on the requirements provided for under Section 28.3 of the ITB, alongside specific instructions contained in Bid Data Sheet Clause 28.3 as to the manner for which a bidder should submit its bid: i) a bidder may be awarded a contract for an item; or, ii) a contract for a lot, or contracts for several lots; or, iii) a singular contract for all of the lots. This was further clarified in Non-Policy Matter Opinion (NPM) No. 086-2017 dated December 12, 2017 and NPM No. 130-2015 dated November 17, 2015.
+
+
+
+In the case of the procurement under audit totaling P593,896.50 for transaction numbers 1,4 and 5 as shown in Table 14, the RFQ was prepared with a lumped ABC for all of the items required and did not categorically state how the manner of evaluation and award will be done. Upon checking of the Abstract of Bids/RFQs prepared by the BAC, it was gleaned that the evaluation made by the BAC was made on a per item basis and items were awarded to different suppliers with the lowest quotation, despite the lumped ABC. (details are shown in Annexes 16, 20 and 22)
+
+
+
+Further examination showed that quotations for some of the items of the winning suppliers exceeded the unit cost per item or ABC indicated in the Purchase Request (PR), contrary to Section 31.1 of the 2016 Revised IRR of the Government Procurement Reform Act, thus, if evaluation was made on a per item basis, the quotation for the items which exceeded the ABC should have been declared non-responsive by the BAC. However, no ABC for each item was indicated in the RFQs, rather, there was only one ABC for the lot. The table below lists down these items:
+
+
+
+Table 15 – Supplier’s Quotations as compared with ABC per Purchase Request
+
+
+
+Ref.
+
+PR No.
+
+Item No.
+
+Particular
+
+Unit Cost per PR/ABC
+
+Winning bidder’s offer
+
+Difference
+
+Lapaz Campus
+
+
+
+
+
+
+
+
+
+Annex 16
+
+S-17
+
+2
+
+Binder Folder, 30 pcs
+
+230.00
+
+238.00
+
+8.00
+
+Annex 20
+
+SVP-45
+
+5
+
+Extension Cord with 4 gangs- universal – 5 pcs
+
+750.00
+
+820.00
+
+70.00
+
+Annex 20
+
+SVP-45
+
+6
+
+Portable extension outlet,  4 outlet portable station – 3 pcs
+
+5,500.00
+
+5,799.00
+
+299.00
+
+Dumangas Campus
+
+
+
+
+
+
+
+
+
+Annex 23
+
+PR No. 2020-045
+
+14
+
+Calculator, Scientific 11 digits
+
+250.00
+
+850.00
+
+600.00
+
+
+
+
+
+27
+
+Cutter, paper 18'x24"
+
+403.00
+
+2,500.00
+
+2,097.00
+
+
+
+
+
+38
+
+Fabric conditioner/ gallon
+
+280.00
+
+775.00
+
+495.00
+
+
+
+
+
+57
+
+Ink Epson M200/ bottle
+
+995.00
+
+1,950.00
+
+955.00
+
+
+
+
+
+75
+
+Parchment paper 100CS PCK, Short
+
+42.00
+
+418.00
+
+376.00
+
+
+
+
+
+84
+
+Ribbon Brother Ax10/AX15/AX20 - roll
+
+800.00
+
+1,200.00
+
+400.00
+
+
+
+
+
+91
+
+Sign pen 0.4, black, pilot G-Tech C4 PC/ dozen
+
+264.00
+
+900.00
+
+636.00
+
+
+
+
+
+92
+
+Sign pens 0.4 blue, PC/ dozen
+
+264.00
+
+900.00
+
+636.00
+
+
+
+b)	In two instances, the bids obtained by the Procuring Entity from suppliers, with ABC of P0.574 million, were incomplete, contrary to Section 32.2.1.a of the IRR of Government Procurement Reform Act.
+
+
+
+Section 32.2.1.a of the IRR of the Government Procurement Reform Act requires that the bid must be complete in order to be considered a responsive bid. Similarly, in Non-Policy Memorandum Matter Opinion (NPM) No.  130-2015 dated November 27, 2015, it was clarified that the Procuring Entity may group several items into a single lot and award the same as one contract. In such case, the sum of the respective budgets or ABCs for the items aggregated into one lot becomes the ABC for such lot.
+
+
+
+Since the Procuring Entity prepared the RFQ by aggregating all items into a single lot with lumped ABC, it must follow that the evaluation and award shall be done to form one complete contract.
+
+
+
+As in the case of the procurement of the Lapaz Campus involving ABC of P74,850.00,  out of three suppliers sent with RFQ, one had no offer, one had incomplete offer but still awarded with some selected items and one had complete offer and awarded with selected items, however, total quotation for all the items exceeded the ABC indicated in the RFQ. With these, all three suppliers’ quotations should have been declared non-responsive bids. (Annex 21 and 22)
+
+
+
+In the procurement with ABC amounting to P499,646.50 of the Dumangas Campus, all three suppliers who submitted their quotations had incomplete bids and did not indicate the total amount of bid, thus, determination if the bid did not exceed the ABC indicated in the RFQ for purposes of evaluation and award would be difficult to do. (Annex 24)
+
+
+
+c)	In the Lapaz Campus, the preparation of Request for Quotation (RFQ) for sampled procurement with ABC totaling P0.570 million showed the following deficiencies, contrary to pertinent rules and regulations of the IRR of RA 9184 and the Non-Policy Matter Opinion (NPM) No. 086-2017 dated December 12, 2017 and NPM No. 130-2015 dated November 17, 2015 of the GPPB. (Annex 17):
+
+
+
+	i)	The period within which to submit Mayor's Permit, PhilGEPS Registration Number, Omnibus Sworn Statement (for ABC above 50T), Income Tax Return (for ABC above 500T) were not indicated; and
+
+	ii)	The Manner of Award, whether per item, per lot or lump sum (packaged) was likewise not stipulated.
+
+
+
+d)	In the procurement thru Small Value Procurement with ABC amounting to P100,450.00 of the Lapaz Campus, only one supplier was sent with RFQ, contrary to the guidelines on Small Value Procurement under Item 8.b.ii, Annex H of the IRR of RA 9184. (Annex 18)
+
+
+
+Item 8.b.ii, Annex H of the IRR of RA 9184, states that, “The BAC shall prepare and send the RFQs/RFPs to at least three (3) suppliers, contractors or consultants of known qualifications. This, notwithstanding, those who responded through any of the required postings shall be allowed to participate. Receipt of at least one (1) quotation is sufficient to proceed with the evaluation thereof”.
+
+	
+
+e)	Two items offered by the suppliers which did not meet the technical specifications stipulated in the Request for Quotation (RFQ) were awarded to the supplier, contrary to the guidelines on procurement thru Shopping and Small Value Procurement provided in Annex H of the IRR of RA 9184.
+
+
+
+In the Lapaz Campus, review of the suppliers’ offer awarded with contract revealed that  item number 2 of Annex 16 and item number 2 of Annex 18, the goods delivered did not meet the technical specifications required by the Procuring Entity, thus, should have been treated  as non-responsive bids.
+
+
+
+f)	Items in the Request for Quotation (RFQ) provided to the suppliers were not grouped into similar category to form several lots to be evaluated and awarded as separate contracts, hence, maximum competition was not attained from qualified and certified suppliers. Further, prices obtained for the items might be uneconomical on the part of the government.
+
+It has been observed in the Dumangas Campus that the RFQs provided to the suppliers contained items of different categories such as office supplies, other supplies and materials, semi-expendable office equipment and semi-expendable furniture and fixtures. These items were aggregated into one lot with lumped Approved Budget for the Contract (ABC). While the rules on procurement allow preparation of RFQ in which all items may be grouped together to form one complete lot to be evaluated and awarded to form one complete contract, this manner of grouping may be practicable when the items are similar in nature and there exist several known suppliers in the market which can supply all items required by the Procuring Entity. On the other hand, items of different categories may be difficult to obtain from one supplier alone, thus, might likely limit the widest possible competition and would result in uneconomical procurement of the needed items. (Annex 25 for details)
+
+
+
+
+
+
+
+
+
+g)	Technical specifications of the needed items listed in the Purchase Request (PR) as well as the Request for Quotation (RFQ) were not precise and clear to permit a realistic and competitive response from the prospective suppliers on the requirements of the Procuring Entity, contrary to Section VII of the Philippine Bidding Documents.
+
+
+
+Review of the PR and RFQ of the Dumangas Campus revealed that some items lacked clear specifications on the requirements set by the procuring entity. As shown in Annexes 22 and 26, sampled items totaling P190,702.00 did not have proper descriptions as to measurements, volume and quality required by the procuring entity. In the context of competitive bidding, the specifications must be prepared in such a manner that will enable the widest possible competition and present a clear standard of materials required so that a reasonable and  competitive price may be obtained in comparison with the budget fixed for each of the items to be procured.
+
+
+
+As a result of the above deficiencies propriety, efficiency and economy in the procurement of goods thru Shopping and Small Value Procurement, were not ensured.
+
+The Management replied to the Audit Observation Memorandum indicating its agreement with the deficiencies noted. According to them, members of the Bids and Awards Committees (BACs) and Technical Working Group lacked sufficient training necessary for the proper and efficient performance of their procurement duties and functions, since most of them are faculties of the University who had core functions that were equally important in the attainment of the objectives of the University.
+
+
+
+We recommended and the Management agreed that the University President require the Bids and Awards Committee of the Lapaz (Main) and Dumangas Campuses to:
+
+
+
+a)	Strictly adhere to the pertinent guidelines of the 2016 Revised IRR of RA 9184 or the Government Procurement Reform Act and the Philippine Bidding Documents on the procurement of goods thru Shopping and Small Value Procurement.
+
+
+
+b)	Indicate in the RFQ the manner in which the evaluation and award shall be made, whether on a per item, several lots or all items grouped together, in accordance with Section 28.3, Instruction to Bidders of the Philippine Bidding Documents and NPM No. 086-2017 dated December 12, 2017 and NPM No. 130-2015 dated November 17, 2015 of the GPPB;
+
+
+
+c)	Ensure completeness of bid in the evaluation and award of contract as provided under Section 32.2.1.a of the IRR of Government Procurement Reform Act; and
+
+
+
+d)	Indicate in the Request for Quotation the period within which to submit the Mayor's Permit, PhilGEPS Registration Number, Omnibus Sworn statement (for ABC above 50T) and Income Tax Return (for ABC above 500T);
+
+
+
+e)	Group items to form lots of similar category that will likely attract the maximum competition from qualified and certified suppliers so that reasonable prices may be obtained by the procuring entity; and
+
+
+
+
+
+f)	Provide a clear and precise technical specification of the items to be procured to permit a realistic and competitive response from the prospective suppliers on the requirements of the Procuring Entity, in accordance with Section VII of the Philippine Bidding Documents.
+
+
+
+
+
+8)	Purchase of office supplies thru Small Value Procurement modality amounting to P497,449.65 were not in accordance with the pertinent guidelines prescribed by Section 53.9 of the 2016 Revised Implementing Rules and Regulations of R.A. 9184 or the Government Procurement Reform Act, thus, propriety, efficiency and validity of the procurement of goods were not ensured.
+
+
+
+Section 53.9 of the 2016 Revised Implementing Rules and Regulations (IRR) of Republic Act 9184 or the Government Procurement Reform Act (GPRA) provides for the guidelines on the procurement modality on Negotiated Procurement - Small Value Procurement which states:
+
+
+
+“53.9. Small Value Procurement. Procurement of Goods, Infrastructure Projects and Consulting Services, where the amount involved does not exceed the threshold prescribed in Annex "H" of this IRR: Provided, that in case of Goods, the procurement does not fall under shopping in Section 52 of this IRR.” Emphasis supplied.
+
+		
+
+Audit of the procurement of regular and ordinary Office Supplies amounting to ₱497,449.65 for November 2020 of the Dumangas Campus revealed the following deficiencies (Annex 27):
+
+
+
+				a)	The justifications stated in the BAC Resolution recommending Small Value Procurement modality did not fall within the conditions required by Section 53.9 of the GPRA to warrant the use of such modality, thus, propriety, efficiency and effectiveness of the procurement of office supplies were not attained.
+
+
+
+The BAC Resolution recommending the use of Small Value Procurement modality stated that the reasons for such use were due to unforeseen contingency and that the office supplies were not available in the DBM Procurement Service. However, these conditions apply to Shopping modality under Sections 52 of the GPRA, thus the mode of procurement employed by the Procuring Entity was not proper.
+
+
+
+				b)	Most of the items procured through Small Value Procurement were considered as readily available off-the-shelf goods or regular/ordinary office supplies and equipment, thus, the procurement method resorted to by the procuring entity was not in accordance with Section 53.9 of the Revised  IRR of RA 9184. (Annex 28)
+
+
+
+Section 53.9 provides that Small Value Procurement applies to Goods, among others, not exceeding 1Million provided that in case of Goods, the procurement does not fall under Shopping in Section 52 of the IRR of RA 9184. As stated in Section 52, Shopping method of procurement pertains to purchase of readily available off-the-shelf goods or regular/ordinary office supplies and equipment.
+
+
+
+				c)	Omnibus Sworn Statement to be required from the supplier, necessary in the award of contract was lacking, contrary to Appendix A, Annex H of the Revised IRR of RA 9184.
+
+
+
+				d)	The Notice of Award, Contracts/Purchase Orders were not posted in the PhilGEPS website, the website of the Procuring Entity, and at any conspicuous place reserved for the purpose in the premises of the Procuring Entity, contrary to Section 54.3 of the Revised IRR of RA 9184, thus, precluding dissemination of information to the stakeholders.
+
+
+
+For Small Value Procurement method, the notice of award and contract or purchase order shall be posted in the PhilGEPS website, the website of the Procuring Entity concerned, if available, and at any conspicuous place reserved for the purpose in the premises of the Procuring Entity, except for contracts with ABC of Fifty Thousand Pesos (₱50,000.00) and below, for information purposes.
+
+
+
+				e)	The related documents on the subject procurement of office supplies were not meticulously prepared as they showed inconsistencies as to amounts, procurement modality and occurrence of events, as follows:
+
+
+
+i)	The Purchase Order indicated Shopping as the method of procurement while the BAC Resolution approved by the HOPE and Request for Quotation posted in the PhilGEPS  stipulated Small Value Procurement modality.
+
+
+
+ii)	The Approved Budget for the Contract (ABC) in the Purchase Request amounted to P499,646.50 while in the Request for Quotation published in the PhilGEPS, it was P0.559 million.
+
+
+
+iii)	The invitation for submission of Request for Quotation was published on March 2, 2020, which is way ahead of the date in the Purchase Request which is on September 2, 2020 and signed by the requesting unit on October 5, 2020.
+
+
+
+As a result of the above deficiencies, the validity and propriety of disbursements related to the procurement of goods were doubtful.
+
+
+
+The Management has expressed agreement on the deficiencies noted. The reason to this, according to them, was the lack of proper training and familiarity with the procurement process of the officials and employees involved.
+
+
+
+We recommended and the Management agreed to require the Bids and Awards Committee to:
+
+
+
+	a)	Strictly adhere to the pertinent provisions of Section 53.9 of the 2016 Revised IRR of RA 9184 on the procurement of goods thru Small Value Procurement and ensure compliance with the required supporting documents; and
+
+
+
+	b)	Establish a review mechanism to ensure that information in procurement documents is accurately stated.
+
+
+
+	
+
+9)	The formulation and revision of the Project Procurement Management Plan (PPMP) and the Annual Procurement Plan (APP) of the Iloilo Science and Technology University (ISAT U) were not compliant with the provisions of Section 7, Rule II of the 2016 Revised Implementing Rules and Regulations of R.A. 9184 or the Government Procurement Reform Act, thus, defeating their usefulness as an effective tool to sustain a meticulous and judicious procurement planning. 
+
+
+
+The Annual Procurement Plan (APP) is a requisite document that the agency must prepare to reflect the necessary information on the entire procurement activities that it plans to undertake within the calendar year. On the other hand, the Project Procurement Management Plan (PPMP) contains the initial list of projects/requirements of each PMO/end-user unit and the corresponding estimated budgetary requirement. The APP is the document that consolidates the various (PPMPs) submitted by the Project Management Offices (PMOs) and end-user units within the Procuring Entity (PE). 
+
+
+
+Section 7, Rule II of the 2016 Revised Implementing Rules and Regulation of R.A. 9184 or the Government Procurement Reform Act, provides:
+
+
+
+	“7.1 Xxxxxxx
+
+
+
+	7.2.  No procurement shall be undertaken unless it is in accordance with the approved APP, including approved changes thereto. The APP must be consistent with the duly approved yearly budget of the Procuring Entity and shall bear the approval of the HOPE or second-ranking official designated by the HOPE to act on his behalf.
+
+
+
+	7.3. The APP shall be formulated and revised only in accordance with the following guidelines: 
+
+
+
+7.3.1. Xxxxx.
+
+
+
+7.3.2. In the preparation of the indicative APP, the end-user or implementing units of the Procuring Entity shall formulate their respective Project Procurement Management Plans (PPMPs) for their different programs, activities, and projects (PAPs). The PPMP shall include: 
+
+
+
+a)	Information on whether the  PAPs will be contracted out, implemented by administration in accordance with the guidelines issued by the GPPB, or consigned;
+
+b)	the type and objective of contract to be employed;
+
+c)	the extent/size of contract scopes/packages; 
+
+d)	the procurement methods to be adopted, and indicating if the procurement tasks are to be outsourced as provided in Section 7.3.3 of this IRR;
+
+e)	the time schedule for each procurement activity and for the contract implementation; and
+
+f)	the estimated budget for the general components of the contract.
+
+
+
+7.3.3 Xxxxxxx
+
+
+
+7.3.4. Xxxxx. For this purpose, the indicative APP shall include the following: 
+
+				a)	Name of Procurement Project; 
+
+				b)	Procurement Management Office (PMO)/end-user/implementing unit;
+
+				c)	Method of Procurement; 
+
+				d)	Schedule of identified procurement activities as reflected in the APP form approved by the GPPB; 
+
+				e)	Source of funds;
+
+				f)	Indicative ABC; and
+
+				g)	Other relevant descriptions of the project, if applicable. The indicative APP and budget proposal shall be simultaneously submitted to the HOPE and/or other oversight bodies for approval.”
+
+
+
+Review of the Project Procurement Management Plans (PPMPs) and Annual Procurement Plan (APP) of the Iloilo Science and Technology University – All Campuses revealed that the said documents were wanting of information and the required processes in its formulation and revision necessary to enable a meticulous and judicious planning were not observed. Below were the deficiencies noted:
+
+
+
+1)	The PPMP was not supported with a documented market research to be able to gather information on the prevailing market prices of the items required by the project/program/activity so that an informed choice can be made in obtaining the most advantageous price for the government.
+
+
+
+Interview with the personnel in charge revealed that no actual documentation was done in determining the estimated budget for some of the items required in the project/program/activity identified by the end-users. Prices set for some of the projects were culled out from previous offers of suppliers/contractors, thus, the prices set in the PPMP maybe disadvantageous on the part of the government.
+
+
+
+2)	The Schedule/ Milestone of Activities were not indicated in the PPMP, contrary to Section 7.3.4, Rule II of the 2016 Revised IRR of RA 9184, hence, timelines for carrying out each step in the procurement process up to award of the contract were not established to serve as a guide in monitoring the procurement activities so that an efficient and effective delivery of services can be ensured.
+
+
+
+3)	The mode of procurement in the approved APP, submitted to the GPPB, and the Purchase Orders/Contracts were not traceable to the PPMP, as the PPMPs prepared by the end-users did not indicate the mode of procurement to be adopted, contrary to Section 7.3.4, Rule II of the 2016 Revised IRR of RA 9184.
+
+
+
+In sampled procurement of goods and services and infrastructures projects totaling P14.547 million (Annex 29), the mode of procurement indicated in the APP and Purchase Orders/Contracts could not be traced to individual PPMPs as the PPMPs supporting the disbursements did not indicate the mode of procurement to be employed.
+
+
+
+4)	There was no specific method being adopted in the consolidation of PPMP into APP that would facilitate the establishment of a procurement strategy so that a cost-effective option can be made.
+
+
+
+Section 3 of the Generic Procurement Manual discusses on the strategies in consolidating PPMP into APP. Preparation of APP depends on the internal policy of the Procuring Entity. APP could be prepared by type such as making APP for goods, infrastructure, consulting services, CSE and Non-CSE or by mode of procurement, at the option of the PE. A well-planned consolidation of PPMP to APP allows for the merging of similar project requirements under one contract or the division of a requirement into several contract packages so that the best value for money can be obtained.
+
+
+
+5)	A change in the mode of procurement from the original mode specified in the APP were not covered with a BAC Resolution recommending and justifying the reason for such change. Moreover, such changes were not reflected in the APP, contrary to Section 48.3, Rule XVI and Section 7.2, Rule II of the 2016 Revised IRR of RA 9184.
+
+
+
+Section 48.3, Rule XVI of the 2016 Revised IRR of RA 9184, provides: “The method of procurement to be used shall be as indicated in the approved APP. If the original method of procurement recommended in the APP was competitive bidding but cannot be ultimately pursued, the BAC, through a resolution, shall justify and recommend the change in the method of procurement to be approved by the HOPE. Such changes must be reflected in the APP to be submitted to the GPPB, pursuant to Section 7.4 of this IRR.”
+
+
+
+Further, Section 7.2, Rule II of the same Government Procurement Reform Act, explicitly states: “No procurement shall be undertaken unless it is in accordance with the approved APP, including approved changes thereto. Xxxx.”
+
+
+
+Verification of sampled Purchase Orders/ Contracts revealed that a total of P7.806 million (Annex 30) were procured adopting a different mode of procurement from that originally stated in the APP. While, no mode of procurement was indicated in the PPMP. Without the covering BAC Resolution duly approved by the HOPE, recommending a change in the mode of procurement in the APP the use of a different procurement modality would not be properly authorized.
+
+
+
+6)	In the review of the data provided in the APP, we have observed the following:
+
+
+
+a)	Programs/Activities/Projects (PAPs) code was not indicated.
+
+b)	There was no information provided if the project is an Early Procurement Activity or not.
+
+c)	End-user units who will implement/utilize the procurement program/projects were not specified.
+
+d)	The specific period for each procurement activity was not indicated, such as the period for Submission/Opening of Bids, Notice of Award and Contract Signing.
+
+e)	Projects were not clearly described in the remark column.
+
+As a result of the above deficiencies, the usefulness of the Project Procurement Management Plan (PPMP) and the Annual Procurement Plan (APP) as effective tools in procurement planning was not maximized, thus, there was no assurance that the principles of economy and efficiency in the procurement process had been adhered to.
+
+
+
+In reply to the audit observations, the University President informed that orientation on the preparation of PPMP and APP will be conducted across campuses in order to rectify incorrect practices. One reason for the noted deficiencies was that the members of the BAC and the End-users lack the basic knowledge and training necessary for the proper and efficient performance of their functions. This is due to its members having also principal obligations as members of the academe and as full-time administrative personnel.
+
+We recommended and the Management agreed that:
+
+
+
+	a)	The End User Office and the BAC strictly adhere to the rules and regulations governing the formulation and revision of Project Procurement Management Plan (PPMP) and Annual Procurement Program (APP), in accordance with Section 7, Rule II of the 2016 Revised Implementing Rules of R.A. 9184 or the Government Procurement Reform Act and its Manual of Procedures, Volume 1;
+
+
+
+	b)	The End User Office and the BAC adopt the prescribed processes and forms in the preparation and revision of PPMP and APP, to include milestone of activities, mode of procurement, description of projects and other relevant information as mandated by R.A. 9184; 
+
+
+
+	c)	The University President seek authority from the Head of the Procuring Entity (Board of Trustees) to approve Supplemental Annual Procurement Plans and revisions of the procurement modality in the APP, and subsequently, the BAC to effect changes thereto, in compliance with the requirements of Section 48.3, Rule XVI and Section 7.2, Rule II of the 2016 Revised IRR of RA 9184, in cases where the original mode of procurement indicated in the APP cannot be ultimately pursued; and
+
+
+
+	d)	The BAC formulate a method to be employed in the consolidation of PPMP into the APP to facilitate the establishment of a procurement strategy that will provide a cost-effective option such as preparing the APP according to the types of goods or services to be procured or by mode of procurement, all at the option of the procuring entity.
+
+
+
+
+
+10)	Grant of COVID-19 Hazard Pay for all Campuses totaling P0.759 million was made despite absence of the necessary conditions set forth in DBM Budget Circular No. 2020-1 dated March 24, 2020, thus, validity and propriety of the expenditures were not ensured.
+
+
+
+DBM Circular No. 2020-1 dated March 24, 2020 sets the guidelines and conditions on the grant of COVID-19 hazard pay. Section 4.3 of which states, “The personnel/workers have been authorized to physically report for work at their respective offices or work stations on the prescribed official hours by the head of the agency/office during the period of implementation of Enhanced Community Quarantine/Quarantine measures in the area of such office or work station.” Emphasis supplied.
+
+
+
+It can be gleaned from the foregoing Circular that the three (3) requirements for the grant of COVID-19 hazard pay are as follows:
+
+
+
+
+
+1)	Authority to physically report to Office from the head of the agency;
+
+2)	Use of prescribed office hours; and
+
+3)	Reported to work during the implementation of Enhanced Community Quarantine (ECQ) measures in the area.
+
+
+
+The Agency granted its officials and employees COVID-19 Hazard Pay for the period March 16 to March 19, 2020 and May 18, 2020 totaling P2.857 million, broken down as follows:
+
+
+
+Table 16 – Total Covid-19 Hazard Pay for CY 2020
+
+
+
+Campus/ Address
+
+Gross Amount
+
+Lapaz (Main) , Lapaz, Iloilo City
+
+1,437,850.00
+
+Leon, Leon, Iloilo
+
+269,500.00
+
+Miag-ao, Miag-ao, Iloilo
+
+526,000.00
+
+Dumangas, Dumangas, Iloilo
+
+370,285.73
+
+Barotac Nuevo, Barotac Nuevo, Iloilo
+
+253,500.00
+
+Total
+
+2,857,135.73
+
+
+
+Post-audit of the COVID-19 Hazard Pay revealed that out of P2.857 million, a total of P759,285.73 was disbursed contrary to the above criteria, as discussed below:
+
+
+
+a)	Three hundred thirteen (313) Regular and Contract of Service personnel were granted the COVID-19 Hazard Pay equivalent to 896 days or a total of P446,813.59 from March 16 to 19, 2020 and May 18, 2020 at which dates Enhanced Community Quarantine was not yet declared in the area.
+
+
+
+The City of Iloilo issued an Executive Order No. 055, Series of 2020 dated March 19, 2020 which took effect on March 20, 2020 up to May 15, 2020, an order implementing Ordinance No. 2020-056, Series of 2020 in relation to the Practice of Enhanced Community Quarantine applicable to all commercial and business establishments, government offices and in residential areas and for other purposes. Likewise, the Province of Iloilo issued Executive Order No. 080, Series of 2020 which took effect on March 20, 2020 up to May 15, 2020 - An Order Enforcing an Enhanced Community Quarantine over the Entire Province of Iloilo for Stronger Protection Against the Corona Virus Disease 2019 (COVID-2019).  Hence, the grant of COVID-19 Hazard Pay on March 16 to 19, 2020 and May 18, 2020 has no legal basis and therefore constitutes an irregular expenditure.
+
+
+
+Employees of the Lapaz (Main) and four External Campuses were granted hazard pay before the declaration of ECQ, as follows (details in Annex 31):
+
+
+
+Table 17 – Covid-19 Hazard Pay granted before declaration of ECQ
+
+
+
+Campus
+
+No. of Employees
+
+Equivalent No. of Days
+
+Amount
+
+Lapaz (Main)
+
+160
+
+473
+
+236,500.00
+
+Leon
+
+14
+
+34
+
+17,000.00
+
+Barotac
+
+32
+
+84
+
+42,000.00
+
+Dumangas
+
+32
+
+91
+
+44,313.59
+
+Miag-ao
+
+75
+
+214
+
+107,000.00
+
+total
+
+313
+
+896
+
+446,813.59
+
+
+
+b)	Employees without approved request or had not reported for work were granted hazard pay equivalent to 540 days or a total of P270,000.00.
+
+
+
+Examination of employees’ Daily Time Records, Approved Requests to physically report to work and Human Resource Office’ official list of personnel entitled to receive such allowance revealed that a total of 540 days or equivalent to P270,000.00 hazard pay was unauthorized, as follows (Annex 32):
+
+
+
+                Table 18 – Claims for COVID-19 Hazard Pay without Approved Requests
+
+
+
+Campus
+
+No. of Employees
+
+Equivalent No. of Days
+
+Amount
+
+Leon
+
+38
+
+484
+
+242,000.00
+
+Barotac
+
+8
+
+37
+
+18,500.00
+
+Dumangas
+
+5
+
+9
+
+4,500.00
+
+Miag-ao
+
+3
+
+10
+
+5,000.00
+
+total
+
+54
+
+540
+
+270,000.00
+
+
+
+c)	In 14 instances, claims of hazard pay totaling P12,000.00 of employees who were on travel as indicated in the Daily Time Records (DTR) were without attached certificate of appearance as evidence of actual travel, as shown in the table below (Annex 33):
+
+
+
+Table 19 – Claims for COVID-19 Hazard Pay of employees on travel
+
+
+
+Campus
+
+No. of Employees
+
+No. of times
+
+Amount
+
+Leon
+
+4
+
+14
+
+7,000.00
+
+Barotac
+
+2
+
+2
+
+1,000.00
+
+Miag-ao
+
+3
+
+8
+
+4,000.00
+
+Total
+
+9
+
+24
+
+12,000.00
+
+
+
+d)	In the Miag-ao Campus, three employees who did not physically report for work during the period of ECQ were granted hazard pay equivalent to 11 days for a total of P5,500.00.
+
+
+
+e)	Employees with claims for regular hazard pay as public health worker were likewise granted COVID-19 Hazard Pay totaling P17,472.14, contrary to Section 4.5 of DBM Budget Circular No. 2020-1, which states that public health workers already entitled to receive Hazard Pay under existing laws shall be entitled to receive such benefit or COVID-19 Hazard Pay, whichever is higher. Thus, the amount of P17,472.14 received by the concerned employees was not allowed, as shown in the following table (Annex 34):
+
+
+
+            Table 20 – COVID-19 Hazard Pay granted to Public Health Workers
+
+
+
+Campus
+
+No. of Employees
+
+Amount
+
+Dumangas
+
+1
+
+3,972.14
+
+Miag-ao
+
+1
+
+13,500.00
+
+Total
+
+2
+
+17,472.14
+
+
+
+f)	In the Dumangas Campus claims for hazard pay of one employee during ECQ equivalent to 53 days was not supported with actual number of days he reported to work, with noted difference of 15 days or a total of P7,500.00.
+
+
+
+g)	For all Campuses, Daily Time Records (DTR) of 76 personnel in 757 instances did not indicate the time of in and out of office, as follows (Annex 35):
+
+
+
+Table 21 -  No. of Employees whose DTRs were not completely filled-in
+
+
+
+Campus
+
+No. of Employees
+
+No. of instances
+
+Lapaz (Main)
+
+14
+
+156
+
+Leon
+
+35
+
+427
+
+Barotac
+
+8
+
+87
+
+Dumangas
+
+4
+
+6
+
+Miag-ao
+
+15
+
+81
+
+total
+
+76
+
+757
+
+
+
+Further, in the Miag-ao Campus, two employees who reported for work during ECQ had no DTR attached to the disbursement.
+
+
+
+h)	Accomplishment Reports were not attached to the hazard pay claims of Leon and Barotac Campuses.
+
+While the guidelines on the grant of COVID-19 Hazard Pay do not specifically provide for the kind of work to be accomplished by the personnel physically reporting during ECQ or to produce accomplishment reports in that matter, it is imperative that only essential and urgently necessary functions of the University shall warrant the adoption of a strict skeletal work force to support the operations of the University, as directed in CHED COVID Advisory No. 5 dated March 17, 2020. Thus, the accomplishment reports would be able to substantiate the necessity of reporting to work by the agency’s personnel.
+
+With the foregoing deficiencies, the validity and propriety of granting COVID-19 Hazard Pay amounting to P759,285.73 was not ensured, contrary to DBM Budget Circular No. 2020-1 dated March 24, 2020.
+
+	
+
+Further, COA Circular 2012-003 dated October 29, 2012 on the Updated Guidelines for the Prevention and Disallowance of Irregular, Unnecessary, Excessive, Extravagant and Unconscionable Expenditures, provides:
+
+
+
+“Section 3.1 x x x The term “irregular expenditure” signifies an expenditure incurred without adhering to established rules, regulations, procedural guidelines, policies, procedures or practices that have gained recognition in laws. A transaction conducted in a manner that deviates or departs from, or which does not comply with standards set is deemed irregular”.
+
+
+
+The Management agreed with the noted observations and made assurance to carefully review the conditions on the grant of similar benefits in the future before payments are made.  
+
+
+
+
+
+We recommended and the Management agreed to:	
+
+
+
+a)	Submit the required supporting documents such as Accomplishment Reports, Approved Request to physically report for work and Certificate of Appearance of employees allegedly on travel to establish the veracity of the claims; and
+
+
+
+b)	Strictly comply and observe the provisions of DBM Budget Circular No. 2020-1 on the grant of COVID -19 Hazard Pay to government personnel and refrain from granting such allowance to employees beyond the scope of the Budget Circular to avoid irregular expenditures to be disallowed in the future as provided in Section 3.1 of COA Circular 2012-003 dated October 29, 2012.
+
+
+
+
+
+11)	Cash Advances granted to officers and employees totaling P1.584 million as of December 31, 2020 were not liquidated within the prescribed period, contrary to Commission on Audit Circular No. 97-002 dated February 10, 1997, thus, propriety and validity of expenses incurred could not be determined and the related expense accounts were not booked up timely.	
+
+
+
+Section 4 of COA Circular No. 97-002 dated February 10, 1997 provides for the guidelines on the granting and utilization of cash advances as follows:
+
+
+
+4.1.2   No additional cash advances shall be allowed to any official or employee unless the previous cash advance given to him is first settled or a proper accounting thereof is made. 
+
+	
+
+4.1.3   A cash advance shall be reported on as soon as the purpose for which it was given has been served.
+
+
+
+Likewise, Section 5 further provides the period of liquidation of cash advances, to wit:
+
+
+
+5.1.1   Salaries, Wages, etc. - within five (5) days after each fifteen (15) day/end of the month pay period.
+
+
+
+5.1.2   Petty Operating Expenses and Field Operating Expenses within -twenty (20) days after the end of the year; subject to replenishment as frequently as necessary during the year.
+
+
+
+5.1.3   Official Travel – within  sixty  (60) days after return to the  Philippines in the case of  foreign travel   or  within  thirty  (30) days  after  return to his  permanent official station in the case of local travel.
+
+
+
+Failure of  the  AO  to  liquidate  his cash  advance  within  the prescribed period shall constitute a valid cause for the withholding of  his salary at the instruction  of  other  sanctions  as  provided  for under  paragraph 9.2 and  9.3 hereof.
+
+5.7     When cash advance is no longer needed or has not been used for a period of two (2) months, it must be returned to or refunded immediately to the collecting officer.
+
+
+
+5.8     All cash advances shall be fully liquidated at the end of each year. Xxxxxx
+
+
+
+5.9    At  the start  of  an  ensuing  year,  a  new  cash  advance  may be granted,  provided that  a  list of  expenses  against  the  previous  cash  advance  is  submitted. However, when no liquidation of the previous cash advance is received on or before January 20,   the   Accountant   shall   cause   the withholding of the AOs salary.
+
+
+
+		Analysis of unliquidated cash advances as of December 31, 2020 for all funds totaling P1.584 million is shown in the following table (details in Annex 36):
+
+		
+
+		Table 22 – Aging of Cash Advances as of December 31, 2020
+
+
+
+Particular
+
+Outstanding Balance
+
+Not Due as of Dec.31, 2020
+
+Total Past due
+
+Age of Past Due Cash Advances
+
+
+
+
+
+
+
+
+
+1-30 days
+
+31-60 days
+
+61-365 days
+
+Over 1 year
+
+Advances for Payroll
+
+Lapaz (Main)
+
+945,932.88
+
+154,645.00
+
+791,287.88
+
+364,862.52
+
+405,000.00
+
+21,425.36
+
+0.00
+
+Dumangas
+
+61,414.00
+
+61,414.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+    Subtotal
+
+1,007,346.88
+
+216,059.00
+
+791,287.88
+
+364,862.52
+
+405,000.00
+
+21,425.36
+
+0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adv. To Officers and Employees
+
+Lapaz (Main)
+
+13,500.00
+
+0.00
+
+13,500.00
+
+0.00
+
+0.00
+
+0.00
+
+13,500
+
+   Subtotal
+
+13,500.00
+
+0.00
+
+13,500.00
+
+0.00
+
+0.00
+
+0.00
+
+13,500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adv. To Special Disbursing Officer
+
+Lapaz (Main)
+
+285,937.00
+
+285,937.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Dumangas
+
+277,285.00
+
+0.00
+
+277,285.00
+
+0.00
+
+0.00
+
+277,285.00
+
+0.00
+
+    Subtotal
+
+563,222.00
+
+285,937.00
+
+277,285.00
+
+0.00
+
+0.00
+
+277,285.00
+
+0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grand Total
+
+1,584,068.88
+
+501,996.00
+
+1,082,072.88
+
+364,862.52
+
+405,000.00
+
+298,710.36
+
+13,500
+
+Percent 
+
+100%
+
+31.69%
+
+68.31%
+
+23.03%
+
+25.57%
+
+18.86%
+
+0.85%
+
+
+
+		 Verification of the cash advance accounts disclosed the following deficiencies:
+
+
+
+a)	Of the total cash advances of P1.584 million, P1.082 million  or 68.31 percent were past due, while P0.502 million or 31.69 percent were current but should have been liquidated at the end of the year as required by the regulations.
+
+
+
+b)	Past due cash advances of P1.082 million consisted of P0.791 million which was drawn by the cashier for the payment of benefits of student-scholars and P277,285.00 was for special purpose cash advances. Moreover, records showed that past due cash advances of P364,862.52  or 23.03 percent were unliquidated for 1-30 days,  P405,000.00 or 25.57 percent were   31-60 days past due, P298,710.36 or 18.86 percent had not been liquidated for 61-365 days.
+
+
+
+c)	Records also showed that the cash advance of P13,500.00 was granted way back in CY 2004 to an employee who is no longer connected with the University, thus the possibility of settlement is remote.
+
+
+
+d)	Additional cash advances were granted to some officers and employees despite that the previous cash advances were not liquidated. Moreover, a certification by the Accountant that the accountable officer requesting cash advance had no previous cash advance was not attached to the disbursement. (Annex 37)
+
+
+
+		Since cash advances were not liquidated within the reglementary period, the propriety and validity of the expenses incurred by the accountable employee could not be ascertained and the related expenses were not booked up timely. 
+
+		
+
+		The same observation was brought to the attention of the Management in CY 2019. Nevertheless, it was noted that there was a significant decrease in the amount of unliquidated balance from P5.880 million in CY 2019 to P1.584 million in CY 2020. According to the Management, most of the unliquidated cash advances were for scholarship benefits of the students in which, some of the payees listed in the payroll were not able to claim the amounts due them, thus, the reason for non-liquidation of the cash advance. 
+
+		
+
+		We recommended and the Management agreed to:
+
+			
+
+	a)			Strictly comply with the rules and regulations on the grant, utilization and liquidation of cash advances provided under COA Circular No. 97-002 dated February 10, 1997 and direct all concerned Accountable Officers to immediately liquidate their outstanding cash advances otherwise the Accountant cause the withholding of his/her salary as provided under Section 5.1.3 of the COA Circular; and
+
+		
+
+	b)			Direct the Accountant of Lapaz Campus to refrain from granting additional cash advances to officers and employees with unliquidated cash advances. Further, a certification stating that the employee has no previous unliquidated cash advance must be attached to the disbursement voucher in compliance with COA Circular 2012-001 dated June 14, 2012.
+
+			
+
+
+
+12)	Audit Disallowances which became final and executory were not fully settled, contrary to pertinent provisions of the 2009 Rules and Regulations on Settlement of Accounts (RRSA) and Section 37 of Presidential Decree (PD) No. 1445, resulting in overdue receivables of P0.859 million as of December 31, 2020. 
+
+
+
+Pertinent provisions in the COA 2009 RRSA state that:
+
+
+
+	“7.1.1 The head of the agency, who is primarily responsible for all government funds and property pertaining to his agency shall ensure that: xxx (b) the settlement of disallowances and charges are made within the prescribed period; xxx.
+
+	
+
+	7.1.3 	He shall enforce the COA Order of Execution (COE) by requiring the withholding of salaries or other compensation due the person liable in satisfaction of the disallowance or charge. 
+
+
+
+	7.1.4	He shall ensure that all employees who are retiring or transferring to other agencies shall first settle the disallowances and charges for which they are liable.
+
+
+
+	10.4   The disallowance shall be settled within six (6) months from the date of receipt of the ND by the persons liable.
+
+
+
+	16.3   The liability of persons determined to be liable under an ND/NC shall be solidary and the Commission may go against any person liable without prejudice to the latter’s claim against the rest of the persons liable.”
+
+
+
+It is stated as instructions to the Agency Head, the Accountant and the persons liable in the Notice of Finality of Decision (NFD), that the persons liable shall pay the disallowed amount immediately to the Agency Cashier. Failure to pay the same shall authorize the Agency Cashier to withhold payment of salary and other money due to persons liable in accordance with the COA Order of Execution (COE) issued to the Agency Cashier.
+
+
+
+While in the COE, the Agency Head is instructed to withhold the payment of the salaries or any amount due to persons liable, for the settlement of their liabilities pursuant to the ND/Decision related thereto. Payment of salaries or any money due them in violation of this instruction will be disallowed in audit and the agency head will be held liable therefor.
+
+
+
+Verification of the settlement of the Notices of Disallowance (ND) which became final and executory showed that, out of the total disallowances of P4.854 million, P0.859 million or 17.69 percent remained unsettled as of December 31, 2020, as shown below (details in Annex 38):
+
+
+
+Table 23 – Status of disallowances and settlements as of December 31, 2020
+
+Particular
+
+No. of NDs
+
+Amount of ND
+
+Settlement
+
+Balance
+
+% Unsettled
+
+NDs fully settled
+
+24
+
+                          208,669.66 
+
+           208,669.66
+
+             0.00      
+
+ 
+
+
+
+ND with approved request for installment payment (portion of CY 2011 CNA)
+
+1
+
+2,426,173.04
+
+2,402,990.33
+
+23,182.71
+
+ 
+
+
+
+NDs partially settled without request for installment payment (includes portion of CY 2011 CNA amounting to P422,664.08)
+
+16
+
+                      2,219,085.39 
+
+1,383,601.61     
+
+           835,483.78 
+
+ 
+
+Total No. of NDs issued
+
+41
+
+                      4,853,928.09 
+
+      3,995,261.60 
+
+       858,666.49
+
+17.69%
+
+
+
+
+
+
+
+
+
+
+
+
+
+The foregoing data also showed that the unsettled balance of P0.835 million pertained to disallowances which were settled on installment basis despite absence of approved request to settle the same on installment contrary to COA rules and regulations. Pertinent COA regulations require for full and immediate settlement of all disallowances which have become final and executory, except those granted with authority to be paid on installment basis. 
+
+
+
+Further examination revealed that out of the unsettled disallowances of P0.859 million a total of P111,314.65 pertained to in-service personnel while the amount of P0.747 million belonged to officers and employees/ job hires who have transferred, retired, or separated from service and of former and current members of the Board of Regents (Annex 39). 
+
+
+
+The non-settlement of the disallowances which have become final and executory resulted in overdue Receivables-Disallowances/Charges amounting to P0.859 million as of December 31, 2020. 
+
+
+
+It should be emphasized that, Section 37 of PD No. 1445 provides that the non-settlement of the disallowance shall be a ground for administrative disciplinary action against the officer or employee concerned and retention of money due to persons liable for satisfaction of indebtedness to government. For persons liable who are already separated from service for whatever reason upon the issuance of COA Finality or COA Order of Execution, their liability shall be paid in full to the agency cashier as stated in COA Resolution 2017-021 dated November 3, 2017, otherwise their liability shall be collected from the persons who are jointly and severally liable for the disallowance. 
+
+
+
+This has been brought to the attention of the Management in the past audit reports.
+
+
+
+The Management has made extensive efforts by sending demand letters with those persons liable no longer connected with the University. Likewise, those persons liable who are still in active service with the University are continuously settling the disallowance thru payroll deduction.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Enforce the immediate settlement of the disallowances pursuant to the pertinent provisions of the 2009 RRSA and PD No. 1445;
+
+
+
+b)	Demand immediate settlement from those who are already separated from service, otherwise their liability shall be collected from the persons identified as jointly and severally liable in accordance with COA Resolution 2017-021 dated November 3, 2017; and
+
+
+
+c)	For disallowances to be settled on installment basis, make a written request in accordance with COA Resolution 2017-021 dated November 3, 2017.
+
+
+
+
+
+13)			The grant of honoraria to Officers and Employees involved in the implementation of Tertiary Education Subsidy (TES) for Filipino Students program, contrary to Unified Student Financial Assistance System for Tertiary Education (UniFAST) Memorandum Circular No. 2018-0004 and COA Circular 94-013, resulted in audit disallowance of P0.508 million.
+
+
+
+The Iloilo Science and Technology University paid honoraria to its Officers and Employees totaling P819,900.00, in connection with their involvement in the implementation of Tertiary Education Subsidy program, covered by the following reference documents and particulars:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 24 – Total TES Honoraria granted to Officers and Employees
+
+
+
+DV No. and Date
+
+Obligation Request & Status (ORS) and Date
+
+DBP Check No. & Date 
+
+Amount of Check
+
+RA8292-2019-01-113  1/15/2019
+
+
+
+2019-01-0096
+
+1/15/2019
+
+64556766
+
+ 1/16/2019
+
+552,600.00
+
+RA8292-2019-01-132  1/18/2019
+
+
+
+2019-01-0096
+
+1/15/2019
+
+64556785
+
+1/21/2019
+
+102,600.00
+
+RA8292-2019-02-355  2/23/2019
+
+
+
+2019-02-0288
+
+2/23/2019
+
+661572910
+
+ 2/26/2019
+
+81,900.00
+
+RA8292-2019-04-586  4/12/2019
+
+2019-04-0492
+
+4/12/2019
+
+661574470
+
+ 4/16/2019
+
+81,900.00
+
+
+
+
+
+Total
+
+819,000.00
+
+
+
+In brief, Tertiary Education Subsidy (TES) for Filipino Students program is essentially  a grant-in-aid program established to support the cost of tertiary education or any portion thereof, for all Filipino students who shall enroll in undergraduate post-secondary programs offered in State Universities and Colleges.
+
+
+
+The TES program shall be administered by Unified Student Financial Assistance System for Tertiary Education (UniFAST), an attached national government agency of the Commission on Higher Education, created under RA 10687. 
+
+
+
+The guidelines on the implementation of the TES program is embodied in UniFAST Memorandum Circular No. 2018-004 dated October 15, 2018 which provides, among others, the cost to support the administration of the program, which particularly state:
+
+
+
+“Section 10.1. An amount equivalent to not more than three percent (3%) of the TES and the student loan allocation provided under the Act may be used as administrative cost by the UniFAST to ensure the proper implementation of the TES, which shall include, but not limited to: advocacy and promotions, technical assistance, monitoring and evaluations and day-to-day operations.”
+
+
+
+In line with the efficient and effective implementation of TES program, the CHED, UniFAST Governing Board and the Iloilo Science and Technology University entered into a Memorandum of Agreement on June 13, 2018 to lay down the rules and regulations on the disbursements and administration of the funds, which states, among others, the responsibilities of ISAT U, as an implementing agency:
+
+
+
+“Item 1.4 of Section II: State Universities and Colleges (SUCs) xxxx
+
+
+
+d.7 Comply with the provisions of COA Circular No. 94-013 as may be warranted by the situation.” (underscoring supplied)
+
+
+
+Commission on Audit Circular No. 94-013 dated December 13, 1994, embodies the rules and regulations in the Grant, Utilization and Liquidation of Funds Transferred to Implementing Agencies.  Item 9 of the COA guideline sets the limitation in the use of the fund transfer, which states:
+
+
+
+“In no case shall the fund transferred be utilized for the payment of additional compensation to employees in the form of allowances, incentive pay, bonuses, honorarium, or other forms of additional compensation, except as may be authorized by law or existing regulations, nor shall it be used to create new positions, to augment salaries of regular personnel or in case of purchase motor vehicles without prior approval of the Office of the President.”
+
+
+
+In December 2018, the Iloilo Science and Technology received the amount of P56.856 million from CHED for the implementation of TES program for SY 2018 - 2019, as shown in the following table:
+
+
+
+Table 25 – Total Funds received for TES Program
+
+
+
+Purpose
+
+Amount
+
+TES Subsidy for student-beneficiaries - 1,380 students at P40,000.00
+
+55,200,000.00
+
+Administrative Cost (3% of 55,200,000.00)
+
+1,656,000.00
+
+Total TES funds for SY 2018-2019
+
+56,856,000.00
+
+
+
+Audit of the disbursements out of the Administrative Cost disclosed that the University paid honoraria to its officials and personnel purportedly involved in the implementation of TES program and other related activities, as follows:
+
+
+
+Total Honoraria (P4,500.00 x 10 months x 23 officials and personnel)
+
+1,035,000.00
+
+Less Tax
+
+216,000.00
+
+Net amount paid
+
+819,000.00
+
+
+
+Upon query on the legal basis of the payment of honoraria, the Management answered that the payment was anchored on Item 1.3 of UniFAST Memorandum Circular No. 2018-004 dated October 15, 2018 citing the provision of Section 15 of RA 10931, which states:
+
+
+
+“The amounts necessary to carry out the provisions of this Act, specifically Sections 4, 5, 7 and 8 shall be included in the annual General Appropriations Act (GAA) and shall be appropriated under SUCs, CHED and TESDA in accordance with the provisions of this Act: Provided that an amount equivalent to not more than three percent (3%) of the TES and student loan program for tertiary education provided under this Act may be used as administrative cost under the UniFAST.”
+
+
+
+The payment of honoraria to officials and personnel amounting to P0.819 million, taken from the administrative cost provided to implement the TES program, on the basis of Item 1.3 of UniFAST Memorandum Circular No. 2018-004 dated October 15, 2018 is without legal basis. As provided in Section 10.1 of Memorandum Circular No. 2018-004 dated October 15, 2018 issued by UniFAST, administrative cost shall be used, but not limited to: advocacy and promotions, technical assistance, monitoring and evaluations and day-to-day operations. (Emphasis supplied)
+
+
+
+The use of the Administrative Cost must not be interpreted to include payment of any form of personnel benefit such as honoraria, allowances or incentives, as payment thereof is not under the authority or discretion of UniFAST Board. On the other hand, any form of compensation to government personnel must be expressly provided by law, and other statutory authority, and the rules and regulations promulgated by competent authority.
+
+
+
+In the same manner, these claims on honoraria does not fall within the scope of DBM Budget Circular No. 2007-002, which sets the guidelines in the payment of honorarium on special projects because the related duties and responsibilities of the officials and personnel involved in the implementation of the TES program can be considered inherent in their official functions, thus, entitlement to honorarium is unwarranted.
+
+
+
+Further, it was explicitly stipulated in the tripartite Memorandum of Agreement by and between UniFAST, the Commission on Higher Education and the ISAT U, specifically item 1.4 (d7), that the ISAT U, as an Implementing Agency, must comply with the provisions of COA Circular No. 94-013 dated December 13, 1994 which, among others, sets limitation on the  payment of additional compensation to employees in the form of allowances, incentive pay, bonuses, honorarium, or other forms of additional compensation, except as may be authorized by law or existing regulations.
+
+
+
+An Audit Observation Memorandum No. 20-001-(19) dated February 3, 2020 was issued to call the attention of the management on the deficiencies of the disbursements.
+
+
+
+Consequently, some payees refunded the honoraria received, leaving a balance of P0.508 million, computed as follows (Annex 40):
+
+
+
+Total honoraria granted (net of tax)
+
+
+
+
+
+
+
+P 819,000.00
+
+Less refunds:
+
+
+
+
+
+
+
+311,250.00
+
+Amount Disallowed
+
+P 507,750.00
+
+
+
+The unrefunded honoraria granted to officers and employees amounting to P0.508 million was disallowed in audit because the subject disbursements were contrary to Section 10.1 of UniFAST Memorandum Circular No. 2018-004 dated October 15, 2018 and COA Circular No. 94-013 dated December 13, 1994, thus, irregular in nature. Notice of Disallowance Nos. 21-001-164-(19), 21-002-164-(19) and 21-003-164-(19) all dated January 22, 2021 were issued to disallow the transactions.
+
+
+
+We recommended and the Management agreed that the persons liable refund the total amount of P0.508 million and that henceforth, the Management should strictly comply with existing laws, rules and regulations applicable to similar expenditures.
+
+
+
+
+
+14)			Disbursement Vouchers for transactions totaling P9.036 million were not submitted to the Auditor’s Office, contrary to the pertinent provisions of Section 7 of COA Circular No. 2009-006 dated September 15, 2009 hence, regularity, validity and occurrence of transactions were not ascertained.
+
+			
+
+Section 7 of COA Circular No. 2009-006 dated September 15, 2009, or the Rules and Regulations on Settlement of Accounts, provides:
+
+
+
+“7.1 Responsibility of the Agency Head
+
+
+
+	7.1.1  The head of the agency, who is primarily responsible for all government funds and property pertaining to his agency, shall ensure that: (a) the required financial and other reports and statements are submitted by the concerned agency officials in such form and within the period prescribed by the Commission xxxxx.
+
+	
+
+	1)			 Responsibilities of the Agency Accountant
+
+		
+
+		7.2.1.a The Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that the reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month.”
+
+
+
+Verification of compliance on the submission of the Disbursement Vouchers (DVs) and their supporting documents of Iloilo Science Technology University- All Campuses for transactions covering the period CY 2015 to CY 2020 as at December 31, 2020 revealed that, out of the submitted Report of Checks Issued together with DVs and supporting documents from CY 2015 to 2020, a total of P9.036 million DVs were found to be lacking, hence, completeness, regularity, validity and occurrence of the recorded transactions could not be  ascertained, as shown below (details in Annex 41):
+
+
+
+Table 26 – Schedule of Unsubmitted DVs
+
+
+
+
+
+
+
+
+
+
+
+Period Covered
+
+Lapaz
+
+Barotac
+
+Dumangas
+
+Grand Total
+
+CY 2015
+
+
+
+
+
+39,012.88
+
+39,012.88
+
+CY 2016
+
+
+
+
+
+74,638.99
+
+74,638.99
+
+CY 2017
+
+98,174.68
+
+283,167.71
+
+28,898.15
+
+410,240.54
+
+CY 2018
+
+20,050.00
+
+
+
+109,704.59
+
+129,754.59
+
+CY 2019
+
+18,900.00
+
+
+
+498,789.09
+
+517,689.09
+
+CY 2020
+
+7,839,555.43
+
+8,265.00
+
+16,996.66
+
+7,864,817.09
+
+T o t a l
+
+7,976,680.11
+
+291,432.71
+
+768,040.36
+
+9,036,153.18
+
+			
+
+This observation was brought to the attention of the management in prior years’ reports. It can be gleaned from the Table 26 that the bulk of the unsubmitted DVs was from the current year and that lacking DVs from prior periods were minimal as a result of the intensified efforts of the Cashier and the Accountant to locate the lacking DVs.
+
+			
+
+The non-submission of the above Disbursement Vouchers (DVs) and their supporting documents prevented the verification of the regularity, validity and occurrence of recorded transactions totaling P9.036 million.
+
+
+
+The Management agreed with the noted observations and had already issued a memorandum to all campus cashiers and accountants to immediately locate the lacking DVs and submit these to the Office of the Auditor.
+
+
+
+We recommended and the Management agreed to:
+
+a)	Direct the Accountants to immediately submit the Disbursement Vouchers and supporting documents on the subject transactions totaling P9.036 million in compliance with the pertinent provision of Section 7 of COA Circular 2009-006, dated September 15, 2009, to ascertain regularity, validity and occurrence of the recorded transactions, otherwise the said transactions will be disallowed in audit; and
+
+
+
+b)	Cause the withholding of the salaries of the officials concerned, in case of unjustified failure on their part to submit documents and reports, pursuant to prescribed regulations under Section 7.01 of COA Circular No. 95-006 dated May 18, 1995 and Section 122 of PD No. 1445. 
+
+
+
+
+
+15)			Financial documents and reports were not submitted by the Accountant within the reglementary period contrary to Section 122 of PD No. 1445 and Sections 59 & 60 Chapter 19 of GAM for NGAs, thus timely review of accounts and documents could not be facilitated and further defeated the purpose of providing relevant financial information to the users thereof. 
+
+
+
+Section 122 of PD No.1445, requires that, “Whenever deemed necessary in the exigencies of the service, the Commission may under regulations issued by it require the agency heads, chief accountants, budget officers, cashiers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla of personnel, and such other reports as may be necessary for the exercise of its functions.”
+
+
+
+Sections 59 and 60, Chapter 19 of Government Accounting Manual for National Government Agencies set the timelines in the submission of the monthly and quarterly financial reports including the supporting documents and schedules.
+
+
+
+Likewise, Section 7.2.1a of COA Circular No. 2009-006 dated September 15, 2009 provides that the Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that the reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month.
+
+	
+
+We verified the submission of monthly and quarterly financial reports and documents for CY 2020 of Iloilo Science & Technology University as of February 24, 2021 and noted the following:
+
+
+
+1)	Reports were not submitted within the reglementary period with delays ranging from 1 to 291 calendar days as indicated below: (details in Annexes 42 - 43) 
+
+
+
+Table 27 – Data on the delayed submission of Financial Reports
+
+
+
+Report/ Documents
+
+Deadline of submission
+
+No. of Days delayed as of February 24, 2021
+
+
+
+
+
+Main
+
+Miag-ao
+
+Barotac Nuevo
+
+Leon
+
+Dumangas
+
+RCI/ DVs
+
+10days after end of month
+
+
+
+15-77
+
+7-17
+
+5-99
+
+4-36
+
+2-112
+
+RCD/ORs
+
+10days after end of month
+
+
+
+30-152
+
+
+
+
+
+2-62
+
+5-35
+
+Bank Reconciliation Statements
+
+10days after end of month
+
+
+
+1-291
+
+
+
+6-149
+
+4-36
+
+1-29
+
+Monthly Trial Balances (TB), SSs & SDs
+
+10days after end of month
+
+
+
+1-27
+
+
+
+4-99
+
+1-8
+
+
+
+Quarterly TBs, FS, SDs
+
+10 days after the end of the quarter
+
+
+
+14-24
+
+
+
+4-99
+
+1-8
+
+
+
+RPCPPE
+
+January 31, 2021
+
+
+
+
+
+
+
+
+
+
+
+RPCI June 30
+
+July 31, 2020
+
+
+
+
+
+
+
+
+
+
+
+RPCI Dec 31
+
+January 31, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)	In addition, the following CY 2020 reports were not submitted:
+
+
+
+Table 28 – Data on the Unsubmitted Financial Reports
+
+
+
+Report/ Documents
+
+Deadline of submission
+
+CY 2020 Reports Unsubmitted as of February 24, 2021
+
+
+
+
+
+Miag-ao
+
+Leon
+
+Dumangas
+
+RCI/ DVs
+
+10days after end of month
+
+Trust – Apr. 2020,
+
+N/A
+
+Aug. to Oct. 2020 – SMF, ETC, SHS
+
+
+
+
+
+IGP – Feb. to Aug. 2020
+
+
+
+PINEAPPLE – Jan. to Oct. & Dec. 2020
+
+RCD/ORs
+
+10days after end of month
+
+N/A
+
+N/A
+
+PINEAPPLE – Aug. to Sep. 2020; SHS – June 2020; IIRGP-May 2020
+
+Monthly Trial Balances, SSs & SDs
+
+10days after end of month
+
+N/A
+
+All  Funds – Jan. to Dec. 2020 
+
+
+
+
+
+The failure of the Accountant to prepare and submit the financial documents and reports within the reglementary period prevented the timely auditorial review of transactions and accounts, and further defeated the purpose of providing relevant financial information to the users thereof. 
+
+
+
+One reason on the delay of submission of the financial documents was the voluminous work in the Cashier’s and Accounting Offices and the lack of manpower to assist both the Cashiers and the Accountants of the Campuses in doing their functions.
+
+
+
+This is a reiteration of the prior year’s audit findings, however, it is noteworthy to mention that delays in the submission of reports have been significantly minimized. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Require the Internal Audit Services to re-evaluate the root cause of the problem on delayed submission of reports and recommend measures to address such; and
+
+
+
+b)	Direct the Accountants to strictly comply with the rules and regulations on the preparation and submission of required financial documents and reports within the reglementary period as prescribed in Sections 59 & 60, Chapter 19 of the Government Accounting Manual for National Government Agencies to facilitate timely audit of the transactions.
+
+		
+
+		
+
+Compliance with Tax Laws
+
+
+
+16)			Erroneous computation of withholding taxes from payments to Contractors of Infrastructure Projects resulted in under and over withheld taxes amounting to P59,181.34 and P24,887.38, respectively contrary to pertinent guidelines of Revenue Regulations No. 2-98, thus, accurate remittances to the Bureau of Internal Revenue were not facilitated.
+
+	
+
+Withholding Tax on Government Money Payments refers to tax withheld by government offices and instrumentalities, including government-owned or controlled corporations and local government units, before making any payments to private individuals, corporations, partnerships and/or associations.
+
+	
+
+Revenue Regulation (RR) No. 2-98 dated April 17, 1998, implementing Section 57 of RA 8424 provides:
+
+
+
+“Sec. 2.57.2 Income payments subject to creditable withholding tax and rates prescribed thereon. – Except as herein otherwise provided, there shall be withheld a creditable income tax at the rates herein specified for each class of payee from the following items of income payments to persons residing in the Philippines:
+
+
+
+  Xxxxxxx
+
+
+
+	(E) Income payments to certain contractors – On gross payments to the following contractors, whether individual or corporate – Two percent (2%)”
+
+
+
+Similarly, Section 22 of Revenue Regulations No. 4-2007, amending Section 4.114-2 of RR No. 16-2005, pursuant to the National Internal Revenue Code of 1997, states:
+
+
+
+“SEC. 4.114-2. Withholding of VAT on Government Money Payments and Payments to Non-Residents –
+
+
+
+a)	The Government or any of its political subdivisions, instrumentalities or agencies, including government-owned or controlled corporations (GOCCs) shall, before making payments on account of each purchase of goods and/ or services taxed at 12% VAT pursuant to Sections 106 and 108 of the Tax Code, deduct and withhold a final VAT due at the rate of five percent (5%) of the gross payment thereof. xxx”
+
+
+
+Audit of sampled transactions on payments to Contractors of Infrastructure Projects of ISAT U covering CY 2017-2020 showed that deductions on creditable withholding taxes on income and Value-added Tax (VAT) were erroneous, (details in Annex 44) as shown below:
+
+
+
+Table 29 -  Data on the erroneous computation of Withholding Taxes
+
+
+
+WP Ref No
+
+Infrastructure Project
+
+Progress payments applied with tax
+
+Applicable withholding tax (2% + 5%)
+
+Actual Tax Withheld 
+
+Difference
+
+
+
+
+
+
+
+
+
+
+
+Under withheld
+
+Over withheld
+
+1
+
+Construction of Access Route (41.27% paid up)
+
+
+
+
+
+6,173,813.42
+
+         385,863.34 
+
+   347,277.00 
+
+     38,586.34 
+
+ 
+
+2
+
+Rehabilitation & Improvement of SSEDMMO Office (100%)
+
+
+
+
+
+2,443,861.52
+
+         152,741.35 
+
+   164,707.11 
+
+
+
+      (11,965.76)
+
+4
+
+Improvement of University Cafeteria Kitchen (100%)
+
+
+
+
+
+2,230,800.56
+
+         139,425.03 
+
+   118,830.03 
+
+     20,595.00 
+
+ 
+
+5
+
+Rehabilitation of the Old Science Building (100%)
+
+
+
+2,067,459.99
+
+         129,216.25 
+
+   142,137.87 
+
+
+
+      (12,921.62)
+
+
+
+Total
+
+12,915,935.49
+
+
+
+
+
+59,181.34
+
+24,887.38
+
+
+
+
+
+
+
+Upon verification, we observed inconsistencies in the agency’s practices on the withholding of taxes from progress payments and release of retention money to contractors, as follows:
+
+
+
+1)	In two instances, over withheld taxes totaling P24,887.38 were due to deductions of creditable tax of 2 percent and VAT of 5 percent from retention money released to contractors, when such were already deducted from the gross progress billings, thus, incurring over withholding of taxes by the same amount. 
+
+
+
+2)	For one occurrence, the tax base used for the computation of applicable taxes of 2 percent and 5 percent was the amount of progress billing net of 10 percent retention, thus, incurring under withheld taxes of P38,586.34. It was also noted that the Project was only 41.27 percent paid up as of December 31, 2020, hence, rectifications could still be made.
+
+
+
+3)	In another case, taxes withheld of 2 percent and 5 percent were based on progress billing net of recouped advance payment, thus, incurring under withheld taxes of P20,595.00. Advance payments to contractors are normally not deducted with withholding taxes, hence, taxes shall be applied on gross progress billings of the contractors. Since the Project is 100 percent paid up, it is but proper that the Agency cause the refund of unwithheld taxes from the concerned contractor or consider deducting the amount from the retention money, if any.
+
+
+
+Discrepancies in the withholding of taxes resulted in inaccurate remittances to the Bureau of Internal Revenue.
+
+
+
+The Management admitted its error in interpretation of the rules and regulations on the computation of withholding taxes and assured to rectify the errors committed and follow the correct computation for the ensuing transactions.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Direct the Accountant to analyze and review  the computation of applicable taxes withheld from payments to Contractors of Infrastructure Projects in compliance with the pertinent guidelines of Revenue Regulations No. 2-98 to ensure that the correct taxes are withheld; and
+
+
+
+b)	Require the contractors to refund to the agency the amount of tax deficiencies or the agency accountant deduct from the retention money, if any, the applicable taxes and remit the same to the Bureau of Internal Revenue.
+
+
+
+	
+
+Status of Suspensions, Disallowances and Charges as of December 31, 2020
+
+
+
+Unsettled disallowances amounted to P3.743 million as of year-end, as shown in the details below:
+
+
+
+ 
+
+Beginning Balance as of December 31, 2019
+
+Issuance for the period January 1 to December 31, 2020
+
+Settlement for the period January 1 to December 31, 2020
+
+Ending Balance December 31, 2020
+
+Notice of Suspension
+
+0.00
+
+
+
+0.00
+
+0.00
+
+0.00
+
+Notice of Disallowance
+
+Main Campus
+
+4,044,211.37
+
+0.00
+
+492,336.52
+
+3,551,874.85
+
+Miag-ao
+
+190,734.81
+
+0.00
+
+0.00
+
+190,734.81
+
+Dumangas
+
+
+
+98,750.00
+
+98,750.00
+
+0.00
+
+Notice of Charge
+
+0.00 
+
+0.00 
+
+0.00 
+
+0.00
+
+Total
+
+P 4,234,946.18
+
+P 98,750.00
+
+P 591,086.52
+
+P 3,742,609.66
+
+
+
+39
+
+
+
+
+
+
+
+
+

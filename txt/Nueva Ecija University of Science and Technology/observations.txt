@@ -1,0 +1,3292 @@
+
+
+
+
+
+
+PART II – OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+	The audit of financial transactions and operations of the University for calendar year 2020 disclosed some observations that needed improvements and/or corrections.  Our observations with the corresponding recommendations are discussed in detail in the succeeding paragraphs.
+
+
+
+
+
+A)	FINANCIAL AUDIT
+
+
+
+Unrecorded Deposits-₱150,649,885.00
+
+
+
+
+
+1)	The duly receipted direct deposit of ₱150,649,885.00 made by the Commission on Higher Education (CHED) to the University’s Land Bank of the Philippines (LBP) Current Account No. 0022-1120-90 was not recognized in the books; thus, the bank transaction remained a reconciling item in the Bank Reconciliation Statement (BRS) contrary to Section 6, Chapter 21 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I. Consequently, the Cash Collecting Officer account was overstated while Cash in Bank, Local Currency Current Account (LCCA) was understated by that amount. 
+
+
+
+	1)				   Review of the Cash Collecting Officer account and the Bank Reconciliation Statement (BRS) for the month ended December 31, 2020 showed that the University received a Unified Financial Assistance System for Tertiary Education Act (UnifAST) Fund Transfer from the Commission on Higher Education (CHED) in the amount of ₱150,649,885.00 through online deposit with the Land Bank of the Philippines (LBP). The amount was directly credited to the University’s Local Currency Current Account (LCCA) No. 0022-1120-90 in December 2020.  The Cashier acknowledged said funds received from CHED by issuing an Official Receipt (O.R.); however, no corresponding journal entry was made showing that the amount was already deposited in the bank. The funds received appeared as a reconciling item in the Bank Reconciliation Statement (BRS) but this was overlooked and remained unrecognized/unadjusted in the books of accounts as required under Section 6, Chapter 21 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, quoted as follows: 
+
+
+
+	The Chief Accountant/Designated Staff shall prepare a JEV to recognize all reconciling items that require adjustment and correction in the books of accounts.
+
+
+
+	2)	The following are the journal entries supposedly recorded:
+
+
+
+Particulars
+
+Debit
+
+Credit
+
+a. Upon collection
+
+
+
+
+
+Cash Collecting Officer
+
+₱150,649,885.00
+
+
+
+Accounts Receivables-CHED
+
+
+
+₱150,649,885.00
+
+b. Upon deposit
+
+
+
+
+
+Cash in Bank, LCCA
+
+₱150,649,885.00
+
+
+
+Cash Collecting Officer
+
+
+
+₱150,649,885.00
+
+	
+
+1.3       Since the direct deposit was not recognized, the adjusting entry should be:
+
+ 	
+
+Particulars
+
+Debit
+
+Credit
+
+Cash in Bank, LCCA
+
+₱150,649,885.00
+
+
+
+Cash Collecting Officer
+
+
+
+₱150,649,885.00
+
+	
+
+	1)	As a consequence, Cash in Bank, LCCA was understated by ₱150,649,885.00. Inversely, the Cash Collecting Officer account was overstated by that amount. 
+
+
+
+	2)	We recommended and the University President agreed to require the Accountant to prepare the necessary journal entry voucher (JEV) to correct/adjust the Cash Collecting Officer and Cash in Bank-LCCA accounts in order to present them fairly in the year-end financial statements of the University. 
+
+
+
+	3)	During the exit conference with the Management, the University Accountant informed the Audit Team that the deposit was already recognized in January 2021.
+
+
+
+
+
+Non-maintenance of SLs for Cash-in Bank, LCCA -Trust Fund (TF)
+
+
+
+2)	The composition/breakdown of the Cash in Bank, Local Currency Current Accounts (LCCA)-Trust Fund (TF), with a General Ledger (GL) controlling account balance of  ₱253,819,842.74 as at year-end could not be determined and fully accounted for due to the absence of subsidiary ledgers (SLs) and delayed/non-submission of related Journal Entry Vouchers (JEVs) and financial reports, inconsistent with Section 111(1) of Presidential Decree (P.D.) No. 1445 and Section 12 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, thus, affecting the reliability of the recorded amount.
+
+
+
+	1)	Section 111(1) of Presidential Decree (P.D.) No. 1445 provides that the accounts of an agency shall be kept in such detail as necessary to meet the need of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+	2)	Section 12 of the Government Accounting Manual (GAM), Volume I, prescribes the maintenance of Subsidiary Ledger (SL) which is a ledger showing the details for each control account in the General Ledger (GL) maintained per account and fund cluster by the Accounting Division/Unit.  
+
+
+
+	3)	The University maintains Cash in Bank, LCCA-TF to take up miscellaneous fees collected from the students or remitted by CHED which are intended for any of the following purposes:
+
+
+
+
+
+Trust Receipts
+
+
+
+Library fee
+
+ID fee
+
+
+
+RLE- Community Health Nursing
+
+Charity
+
+
+
+Sports Development fee
+
+Athletic fee
+
+
+
+Socio-Cultural
+
+Internet fee
+
+
+
+Guidance fee
+
+NSTP
+
+
+
+Publication
+
+Research Journal
+
+
+
+	4)	The aforementioned fees collected are customarily held as trust receipts to defray expenditures relating thereto.  For instance, Library fee is for programs/projects/activities set for the University’s Library, ID fee is for students’ ID, and so on.  
+
+
+
+	5)	Considering that the Cash in Bank LCCA- TF account consists of several trust receipts of different nature, it is important that the details and breakdown of the account are disclosed, monitored, and kept updated to easily determine the balance available for use as of even date and the utilization thereof in accordance with the specific purposes for which these were created. 
+
+
+
+	6)	Verification disclosed, however, that the University Accountant continually failed to maintain SLs for the above account contrary to the foregoing regulations.   Notably, there was considerable delay in the submission of Journal Entry Vouchers (JEVs) and financial reports, adding greater burden to the Audit Team in the timely review of transactions.  
+
+
+
+	7)	Consequently, the balance of the individual trust receipt/fund under the Cash in Bank, Local Currency Current Accounts (LCCA)- TF totaling to ₱253,819,842.74 as of year-end could not be ascertained and fully accounted for, impairing the reliability of the account as presented in the financial statements. 
+
+   
+
+	8)	The University Accountant reasoned that no SL was turned over by her predecessor who is now the Finance Management Officer (FMO).  As such, control over the fund remains with the FMO even if he is no longer the Accountant.  Inquiry with the FMO disclosed that the SLs are in the process of updating by the Accounting Clerk, nonetheless, the same have not been forwarded to the Audit Team for verification.
+
+
+
+	9)	We recommended and the University President agreed to instruct the Finance Management Officer, thru the Accounting Clerk, to turn over to the University Accountant the complete set of SLs for Cash in Bank, LCCA- TF account to effectively monitor the movement of each trust receipt and ensure the reliability of the recorded cash in the books of the Trust Fund.  If no SLs are still maintained, instruct both the MFO and the University Accountant to coordinate in reconstructing the same which shall be tallied with the General Ledger (GL) controlling account balance every end of the accounting period in accordance with the provisions of Section 12 of GAM for NGAs, Volume I.
+
+
+
+	10)	During the exit conference, the University President directed the FMO and the latter committed to provide the Accounting Unit and the Audit Team with the GLs, Journals, JEVs and SLs of all funds covering CY 2017 and prior years on or before March 31, 2021. Submission will be made weekly per fund.  
+
+
+
+
+
+Erroneous records for Other Receivables- Special Trust Fund (STF)- ₱4,571,018.11
+
+
+
+3)	 The accuracy of the Other Receivables-Special Trust Fund (STF) account amounting to ₱4,571,018.11 at year-end was uncertain due to non-adjustment of errors committed in 1,091 computer-generated student ledgers/records, out of which a total of ₱3,076,776.21, aged three to 15 years, has doubtful collectability, thus, affecting the fairness of presentation of the account balance in the financial statements.
+
+
+
+	1)	Paragraphs 31-32 of the Framework for the Presentation of Financial Statements provide that one of the qualitative characteristics of the financial statements is Reliability, which means that the information reflected therein must be free of material error and bias, and not misleading. 
+
+
+
+	2)	Section 2.1, Chapter 2 of International Public Sector Accounting Standards (IPSASs), Volume 1 states that the objective of financial reporting by public sector entities are to provide information about the entity that is useful to users of General Purpose of Financial Reporting (GPFRs), and for accountability and decision-making purposes. 
+
+
+
+	3)	The Audit Team conducted verification of the account Other Receivables-Special Trust Fund (STF) which represents unpaid tuition/miscellaneous fees due from 1,520 students prior to the implementation of the free tuition fee policy under the Universal Access to Quality Tertiary Education Act or Republic Act (R.A.) No. 10931 of the Philippine Government in calendar year 2017. The account was initially recognized in the books of accounts based on the transactions processed and the reports generated thru the University Collection System (UCS). As of this writing, the balance of the Account reached to ₱6,150,016.11, with Impairment Loss of ₱307,500.91 or a net carrying value of              ₱5,842, 515.30. The account has remained inactive/dormant since the year 2017 or for a period of four years. (Refer to Appendix A for the details).
+
+
+
+	4)	Due to that condition, we sought the technical assistance of the Management Information System Office (MISO) of the University to undertake an evaluation of the system’s generated report for Other Receivables to ascertain its accuracy and reliability. 
+
+
+
+	5)	Based on the MISO Report submitted to the Audit Team (Appendix B), out of the total of 1,521 students listed in the Schedule of Unpaid Tuition/Miscellaneous Fees, 1091 or 71.73% of the individual student ledgers/records were extracted from the System to determine their details and status as of to date. The following findings were noted by the MISO based on the samples drawn:
+
+
+
+Finding/Description
+
+Total
+
+Amount Due
+
+Percentage
+
+1. Balance with no further registrations
+
+Students who enrolled but discontinued their studies in the University.
+
+
+
+ 641 
+
+
+
+₱2,558,600.97
+
+
+
+58.75%
+
+2.Beginning balance (record before system implementation)
+
+Students with unpaid fees before the implementation of the computerized system
+
+
+
+ 112 
+
+
+
+ 518,175.24 
+
+
+
+10.27%
+
+3. Not officially enrolled (Not validated or no payment)
+
+Students who were assessed but did not enrol in the University
+
+
+
+ 121 
+
+
+
+ 774,347.06 
+
+
+
+11.09%
+
+4. Balance tagged as graduate
+
+Graduated students with unpaid miscellaneous or graduation fees.
+
+
+
+ 165 
+
+
+
+ 513,438.92 
+
+
+
+15.12%
+
+5. No balance as of 2/5/21
+
+Students whose accounts have already been settled as of 2/5/2021
+
+
+
+ 43 
+
+
+
+ 176,568.92 
+
+
+
+3.94%
+
+6. Currently enrolled (1st and 2nd semesters of Academic Year 2020-2021)
+
+
+
+Currently enrolled students
+
+
+
+ 9 
+
+
+
+ 29,887.00 
+
+
+
+0.82%
+
+TOTAL
+
+1,091 
+
+₱4,571,018.11
+
+100.00%
+
+  
+
+	6)	Due to time constraints, the MISO was unable to undertake 100% verification of the student records. 
+
+
+
+	7)	We satisfied ourselves on the 1,091 sample student records provided by the MISO. In our own analysis, the receivables from 753 students (Category Nos. 1 and 2 in the table above) actually occurred three to 15 years ago; hence, the possibility of collection is remote. For Category 3, records proved that the students concerned were not officially enrolled in the University, thus, billing them for the tuition fees was improper.   In the case of Category 5, since the student’s records were not adjusted for the settlements/payments made by 26 students, the balance of the Other Receivables-STF account was, therefore, overstated as of December 31, 2020.  Based on the above samples, only 58 (Category Nos.  4 & 6) have the possibility of being collected considering that the students will still return to the University to request for their credentials.    
+
+
+
+	8)	In view of the foregoing lapses, the Other Receivables-STF account amounting to ₱4,571,018.11 was deemed unreliable, thus, affecting the fairness of presentation in the financial statements.  
+
+
+
+	9)	During the exit conference with the Management, the MFO said that he will coordinate with the MIS as regards the data needed by the Accounting Office for the adjustment of the books as well as the upgrading/improving of the University’s enrolment system so that it can produce reliable reports related to Other Receivables.  
+
+	10)	We recommended and the University President agreed to render the following courses of action:
+
+
+
+a)	Require the MISO to generate an updated/corrected report on the actual unpaid fees of students as of December 31, 2020 and furnish a copy thereof to the Audit Team and the Accountant; and 
+
+
+
+b)	Instruct the University Accountant to (i) draw a journal entry voucher (JEV) to (i.a) adjust erroneous set-up of receivables and incorrect balances of the accounts on the basis of the updated MISO report, including those identified as fully settled as indicated in the student ledgers; and (i.b) bring to a realistic level the amount of impairment allowance on the receivables with remote if not nil chance of recovery; and (ii) monitor the receivables and reconcile with the schedule generated by the University Collection System (UCS) regularly to ensure accurate financial reporting. 
+
+
+
+
+
+Inaccurate and unreliable Inventory accounts-₱25,717,084.59
+
+
+
+1)	Unsound internal control practices over the management of  inventories were observed such as (a)  non-maintenance  of  complete and updated  Stock Ledger Cards (SLCs) contrary to the  Perpetual Inventory Method; (b) recorded issuances of supplies/materials amounting to ₱20,298,578.80 without proper documentation; and (c) absence of Report of Supplies and Materials Issued (RSMI) to substantiate the consumption/issuances for every accounting period, which were all not in conformity with the guidelines and procedures prescribed  in Chapter 8 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, thus, rendering doubt on the accuracy of the year-end inventory account balances totalling to ₱25,717,084.59.
+
+
+
+	1)	The specific guidelines and procedures on acquisition, issue, disposal of inventories are clearly provided in Chapter 8 of the Government Accounting Manual (GAM), Volume I, as quoted below:
+
+
+
+Section 9 – provides that Supplies and materials purchased for inventory purpose shall be recorded using the perpetual inventory system, resulting in a more accurate inventory records and a running total for the cost of goods sold in each period. The system requires accounting records to show the amount of inventory on hand at all times through the maintenance of the Stock Ledger Cards (SLC) (Appendix 57) by the Accounting Division/Unit and Stock Card (SC) (Appendix 58) by the Supply and/or Property Division/Unit for each item in stock. Regular purchases shall be coursed through the inventory account and issues thereof shall be recorded as they take place except for supplies and materials purchased out of PCF for immediate use or on emergency cases which shall be charged directly to the appropriate expense accounts.
+
+
+
+Section 15 – provides the sequential Procedures in the Receipt, Inspection, Acceptance and Recording of Deliveries of Inventory Items wherein procedures 6, 7 and 8 thereon are read as follows:
+
+
+
+Area of Responsibility
+
+Seq. No.
+
+Activity
+
+Accounting
+
+Division/Unit 
+
+      Receiving/Releasing
+
+      Staff
+
+
+
+6
+
+Records in the logbook the receipt of Copy 3 IAR and photocopy of PO and DR and forwards to the Accounting staff concerned for the preparation of JEV
+
+
+
+Accounting Staff
+
+
+
+7
+
+Based on Copy 3 of the IAR and photocopy of PO and DR, prepares JEV to recognize the receipt of inventory items in the book of account (GL). Signs the “Prepared by” portion of the JEV and forwards the JEV and SDs to the Chief Accountant/Head of the Accounting Division/Unit for approval.
+
+Chief Accountant/ Head of
+
+         Accounting
+
+         Division/Unit
+
+
+
+8
+
+Review correctness of the journal entries and signs on “Certified Correct by” portion of the JEV. Forwards JEV and SDs to Designated Staff for recording in the GJ
+
+      
+
+Section 16 – Procedures in the Requisition and Issue of Inventory Items. 
+
+
+
+Area of Responsibility
+
+Seq. No.
+
+Activity
+
+Accounting Division/Unit
+
+Accounting Staff
+
+
+
+12
+
+
+
+Receives the original copy of RSMI and original RIS, Checks and verifies the completeness of information. Retrieves SLC from file and fills up the “To be filled up in the Accounting Division/Unit” portion of RSMI. Records the RSMI in the SLC and signs in the “Posted by/date” portion.
+
+
+
+13
+
+Prepares JEV in two (2) copies based on the RSMI to record the issue of stock.
+
+
+
+14
+
+Signs the “Prepared by” portion of the JEV and forwards JEV and SDs to the Chief Accountant/Head of the Accounting Division/Unit for review and approval.
+
+Chief Accountant/ Head of Accounting
+
+15
+
+Reviews correctness of the accounting entry and completeness of SDs. If in order, signs the “Certified Correct by” portion of the JEV and forwards Copies I and 2 of JEV to the Bookkeeper. If not in order, returns the JEV and SDs to the Accounting Staff concerned for correction.
+
+Accounting Staff
+
+17
+
+Receives JEV and SDs for correction of accounting entry. Returns the JEV and SDs to the Chief Accountant/Head of the Accounting Division/Unit for approval
+
+
+
+Section 17 - provides the Records, Forms and Reports to be prepared and/or maintained, among these are:
+
+
+
+	1)	Supplies Ledger Card (SLC) which shall be used to record materials received, issued and the balance both in quantity and amount at any time. It shall be maintained by the Accounting Division/Unit for each kind of supplies and materials. The IAR, RIS, RSMI, PO and DR serve as the original sources of information for making entries on the card.
+
+
+
+	2)	Report of Supplies and Materials Issued (RSMI) (Appendix 64) – shall be prepared by the Property and/or Supply Custodian based on the RIS and shall be used by the Accounting Division/Unit as basis in preparing the JEV to record the supplies and materials issued.
+
+
+
+	2)	Review of the University Inventory Accounting System disclosed several deficiencies, which did not conform with the aforementioned accounting policies, rules and regulations.
+
+
+
+a) Non-compliance with Perpetual Inventory System 
+
+
+
+	3)	Under the Cash Basis of Accounting, the goods will only be recognized upon payment. When the goods delivered are purchased on account, the inventory/asset accounts and the corresponding liability incurred thereof are not recognized in the books, thereby understating Inventory/Assets and the Accounts Payable/Liability accounts as of cut-off date.   As such, the cash basis of accounting can be misleading to the readers/users of the financial statements.  
+
+
+
+	4)	On the other hand, the Perpetual Inventory System is a system that continually tracks all additions to and deletions from inventory.  It is a system that requires accounting records to show the amount of inventory on hand at all times through the maintenance of the Supplies Ledger Card (SLC) by the Accounting Division/Unit and Stock Card (SC) by the Supply and/or Property Division/Unit for each item in stock. Regular purchases shall be coursed through the Inventory account and issues thereof shall be recorded as they take place except for supplies and materials purchased out of PCF for immediate use or on emergency cases which shall be charged directly to the appropriate expense accounts. 
+
+
+
+	5)		Review of accounting entries rendered by the Accounting Unit on goods purchased on account showed that Inventories are recognized only upon payment instead of upon receipt and acceptance of the goods purchased. Consequently, Accounts Payable is not being recognized, thus, understating the Liabilities account.  Such practice does not conform with the illustrative accounting entries in the recording of inventories prescribed in Section 18 of GAM for NGAs, Volume I, as follows:
+
+
+
+            Inventory Held for Consumption: 
+
+
+
+Account Title
+
+Code
+
+Debit
+
+Credit
+
+Office Supplies Inventory
+
+10404010
+
+₱ 600.00
+
+
+
+Accounts Payable
+
+      20101010
+
+
+
+₱ 600.00
+
+To recognize purchase of office supplies on account. 
+
+
+
+Account Title
+
+Code
+
+Debit
+
+Credit
+
+Office Supplies Expenses
+
+50203010
+
+₱ 400.00
+
+
+
+Office Supplies Inventory
+
+10404010
+
+
+
+₱ 400.00
+
+To recognize issue/consumption of office supplies.  
+
+
+
+ b) Stock Ledger Cards (SLCs) maintained not updated and complete 
+
+
+
+	6)	Stock Ledger Cards (SLC), which are required under the aforesaid regulation, shall be maintained as independent records by the Accounting Unit to record materials received and issued, and the balance both in quantity and amount at any time. It shall be maintained for each kind of supplies and materials. The Inspection and Acceptance Report (IAR), Request and Issue Slip (RIS), Report of Supplies and Materials Issued (RSMI), Purchase Order (PO) and Delivery Receipt (DR) serve as the original sources of information for making entries on the SLC.
+
+
+
+	7)	During the year, the Accounting Division started to establish the SLC but failed to complete the same due to lack of support staff and the resignation of three Accounting Clerks during the 3rd quarter. Due to absence of complete and properly maintained SLCs, the inventory account balances in the General Ledger (GL) were not counterchecked and the reconciliation process between the records of the Supply/Property Unit and the Accounting Unit could not be performed at the end of each month. 
+
+
+
+c) Recognition of inventory issuances not covered by Report of Supplies and Materials Issued (RSMI)    
+
+
+
+	8)	In practice, issued/consumed supplies and materials are recorded under the Inventory account based on the Inventory Report submitted by the Supply Officer. The affected Inventory account is either debited or credited to make the recorded balance equal with the said Report.  The existing system showed that there was no check and balance on the accuracy and completeness of the debits and credits to the Inventory account balances because the Accounting Unit relied merely on the Inventory Report being submitted by the Supply Office as the basis in updating the University’s financial records.  Such practice did not conform with the Procedures in the Requisition and Issue of Inventory Items as illustrated in Section 17 of GAM for NGAs, Volume I.  Moreover, the recorded supplies and materials issued/consumed or credited to the affected Inventory accounts in the total amount of ₱20,298,578.80 were undocumented or not supported with proper documentation.
+
+
+
+	9)	The foregoing lapses and errors rendered doubt on the accuracy and reliability of the year-end Inventory account balances of ₱25,717,084.59 as of December 31, 2020. 
+
+
+
+	10)	During the exit conference, the University Accountant commented that the Accounting Unit had already updated their records until June 30, 2020. Updating was, however, interrupted when the personnel in-charge transferred to another government agency.  The Audit Team was assured that the Accounting Office will do its best to update the SLCs following the Perpetual Inventory Method.
+
+
+
+	11)	We recommended and the University President agreed to require the University Accountant to strictly comply with the accounting policy and specific guidelines/procedures on the acquisition, issuance, and disposal   of inventory items as prescribed in Chapter 8 of GAM for NGAs, Volume I, specifically Sections 9, 15, 16 and 17 to establish the reliability of the recorded inventory balances and ensure the fairness of their presentation in the University’s financial statements.
+
+
+
+
+
+Doubtful and Unreconciled PPE
+
+
+
+5. 	The Property, Plant and Equipment (PPE) accounts with a reported carrying amount of ₱1,043,319,010.36 were doubtful as to existence, accuracy and completeness due to deviations from prescribed accounting policies and procedures of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I,  as manifested in the (a) continued  failure of the University to conduct physical inventory-taking of all properties; (b) non-reconciliation of the discrepancy of ₱854,514.37 between the records of the Accounting Division and those of the Supply/Property Unit; (c) non-maintenance of complete subsidiary records such as Property Cards (PCs), PPE Ledger Cards (PPELCs) and properly accomplished and updated Property Acknowledgement Receipts (PARs); (d) erroneous classification to PPE accounts of semi-expandable items; and e) inclusion as PPE of unserviceable  property costing ₱15,895,812.69, overstating the PPE accounts and the related Accumulated Depreciation by ₱15,895,812.69 and ₱15,106,622.06, respectively. Meanwhile, the related Impairment Loss- PPE was understated by ₱789,190.63.
+
+
+
+	1)			  The pertinent provisions/ rules and regulations governing the management and accounting of government property, plant and equipment are stated in Chapter 10 of the Government Accounting Manual (GAM) for NGAs, Volume I, specifically under Sections 4 (a) and (b), 38, 39 to 40 (c) and (d) and 42, as quoted below:
+
+
+
+	Section 4.   The capitalization threshold of ₱15,000 represents the minimum cost of an individual asset recognized as a PPE on the Statement of Financial Position, thus:
+
+
+
+ a)    Items with individual values below the threshold but which work together in the form of a group of network asset whose total value exceeds the threshold shall be recognized as part of the primary PPE. 
+
+
+
+	b)   This threshold shall be applied on an individual asset or per item basis. Each item within the bulk acquisition with aggregate or total value of PPE, such as library books, computer peripherals and small items of equipment, will need to meet the capitalization threshold to be recognized as PPE.
+
+
+
+Section 38.    The entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) as at December 31 of each year. This shall be submitted to the Auditor concerned not later than January 31 of the following year. Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division/Unit for proper accounting/recording.
+
+
+
+Section 39.  The derecognition which states that the cost of the PPE together with the related accumulated depreciation and accumulated impairment loss shall be removed from the accounts. The carrying amount of an item of PPE shall be derecognized on disposal or when no future economic benefits or service potential is expected from its use or disposal. 
+
+
+
+Section 40 (c) and (d), supra, states that:
+
+	c).   A PPE is said to be unserviceable if it is no longer capable of providing the entity with future economic benefits or service potential.
+
+
+
+	 d).  All unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP). PPE reported in the IIRUP shall be dropped from the books by debiting Impairment Loss-Property, Plant and Equipment (cost of the PPE less Accumulated Depreciation).	
+
+	   xxx…
+
+Section 42.   The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like PAR.
+
+	2)	 As has always been emphasized, physical count/inventory, which is required annually, is an indispensable procedure for checking the integrity of property custodianship. Assets, particularly property, plant and equipment can only be properly valued if its existence was validated and physically verified. Meanwhile, the accuracy of reports relating thereto can only be determined if underlying records are updated, complete and properly maintained.  
+
+
+
+	3)	During the year, it was observed how the Inventory Committee made an effort and showed willingness to finish the physical count of PPE to comply with the previous year’s audit recommendations.  But due to the unexpected occurrence of the COVID-19 pandemic, the movement of employees was restricted to comply with safety protocols. In this state, and with the displacement of some property due to the ongoing renovations/rehabilitation of the Administration Building, the Inventory Committee discontinued the physical count of PPE. As such, the Inventory Custodian/Property Unit prepared and submitted a PPE Inventory/List Report instead of the required RPCPPE.
+
+
+
+	4)	On the other hand, the review of PPE records kept and maintained by the Accounting Unit and the Property/Supply Section showed recurring deficiencies already noted in the previous year, and observed anew as follows: 
+
+
+
+--	Reconciliation between the records of the Property and the Accounting Unit was not fully completed and adjusted, thereby showing a discrepancy of ₱854,514.37 (Appendix C) as of December 31, 2020. 
+
+
+
+Thru the diligent effort of the Accounting and the Property/Supply Unit, the discrepancy in their records noted last year amounting to ₱145,681,989.14 was reduced to ₱854,514.37 as at year-end.
+
+
+
+--	The Property Acknowledgement Receipts (PARs) as well as the PPE Cards maintained by the Supply/Property Unit were not properly accomplished, renewed or updated while the Accounting Unit has just started establishing its PPELC;
+
+
+
+Had such records been properly and completely maintained, the reconciliation thereof at a regular basis could have been facilitated. 
+
+
+
+--	Items below the ₱15,000.00 threshold were not reclassified to the Semi-Expendable Property account as required under Section 4, Chapter 10 of GAM, Volume I; and
+
+
+
+--	Unserviceable property with a total gross amount of ₱15,895,812.69 (Appendix D) were not de-recognized/reclassified from the PPE accounts to the Impairment Loss-PPE account due to failure of the Property Custodian/Officer to identify in the PPE Inventory Report the unserviceable items covered by the IIRUP.  As such, unserviceable PPE items were still carried under the PPE accounts balances as of year-end resulting in an overstatement of PPE and the related accumulated depreciation accounts by ₱15,895,812.69 and ₱15,101,022.05, respectively, while understating the Impairment Loss-PPE account by ₱794,790.64.
+
+
+
+	5)	The non-conduct of physical inventory for several years now and the non-maintenance of basic records for PPE displayed non-conformity with the aforesaid regulations and indicated weak internal control over the management of PPE by the University. As such, there was no assurance that assets/properties of the University were adequately safeguarded against loss, theft and irregular use.
+
+
+
+	6)		   Relatively, due to the continuous disregard of the management to comply with previous year’s audit recommendations/pertinent rules and regulations governing the management and accounting of the government PPEs, particularly to the above cited regulations, the accuracy, completeness and existence of the subject PPE accounts, with carrying value of ₱1,043,319,010.36 at year-end were not ascertained, and therefore, remained doubtful and unreliable. 
+
+
+
+	7)		   The University Accountant vowed to exert more effort to further reduce the discrepancy noted and to reclassify PPE items below ₱15,000.00 to appropriate Semi-Expendable Property account and make necessary recognition /adjustments in the book. 
+
+
+
+	8)		We reiterated our recommendation and the University President agreed to undertake the following courses of action:
+
+
+
+a)	Require the Inventory Committee to conduct and complete the annual physical count of PPE and render a Report on the Physical Count of Property, Plant and Equipment (RPCPPE) as required pursuant to the pertinent provisions in Chapter 10 of GAM for NGAs, Volume 1; and
+
+
+
+b)	Direct the Accounting and the Property/Supply Units to (i) maintain and regularly update PPELCs and PCs, respectively, as prescribed in the GAM for NGAs, Volume 1; (ii) conduct regular reconciliation of their records to facilitate adjustments or make corrections, where applicable; (iii) reclassify PPE items costing below ₱15,000.00 to the appropriate Semi-Expendable Property account.  For current year issuances to end-users, debit the appropriate Semi-Expendable Expense account and the Accumulated Surplus/Deficit account for items issued in prior years; (iv) reclassify/derecognize unserviceable property from the related PPE account in accordance with Section 40 of the same Manual; and (v) observe complete and proper documentation of PPE account balances and other adjustments related thereto.
+
+
+
+
+
+Overstated Accounts Payable
+
+
+
+1)	Various errors/omissions in the recognition of the Accounts Payable resulted in the net overstatement of Assets, Liabilities and Equity accounts by ₱2,104,686.90, ₱3,491,986.68 and ₱1,387,299.58, respectively, contrary to pertinent accounting policies prescribed in the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume 1, and International Public Sector Accounting Standard (IPSAS) No.  17, thus, affecting the fairness of presentation of the accounts in the financial statements.     
+
+
+
+	1)	 Section 6, Chapter 2 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, provides the basic government accounting and budget reporting principles and requires that each entity shall recognize and present its financial transactions and operations conformably thereof. Among these principles is the   accrual basis of accounting in accordance with the International Public Sector Accounting Standards (IPSAS).  
+
+
+
+	2)		    IPSAS No. 17 prescribes the accounting treatment for Property, Plant and Equipment (PPE) accounts and states that this Standard shall be applied to an entity that prepares and presents financial statements under the accrual basis of accounting. Further, paragraph 14 hereof states that -the cost of an item of property, plant and equipment shall be recognized as an asset if, and only if:
+
+
+
+a)	It is probable that future economic benefits or service potential associated with the item will flow to the entity; and 
+
+
+
+   b)  The cost or fair value of the item can be measured reliably.
+
+
+
+	3)	Likewise, the accounting for PPE prescribed in Chapter 10 of the aforementioned Manual covers the policies on the recognition, measurement, and derecognition to ensure that all PPEs are properly valued and recorded, including the disclosure requirements in reporting PPE.  In Section 7 thereof, the different modes of acquiring PPEs are discussed, as quoted below:  
+
+
+
+Acquisition is the process through which one entity gains possession or takes over the ownership of a particular PPE. The different modes of acquiring PPE includes purchase, construction, exchange transaction, non-exchange transaction, transfer and finance lease. 
+
+
+
+	4)	Section 8 (b) of the same Chapter of the Manual likewise presents the different procedures and accounting treatment based on the manner of purchase of PPE, whether on cash basis, on account, or on installment basis, among others. As illustrated in the GAM, the purchase of PPE on account is to be recognized by debiting the related PPE account and crediting the Accounts Payable account.
+
+
+
+	5)	In addition, Item a, Section 2, Chapter 6, supra, defines Accounts Payable as a valid and legal obligations of NGAs/OUs for which goods/services/projects have been delivered/rendered/completed and accepted, regardless of the year when these obligations were incurred. 
+
+
+
+	6)	In our review of the items booked up under the Accounts Payable account with a year-end balance of ₱38,907,590.28, we noted that the total amount of ₱9,251,452.58 (Appendix E) was recognized as a liability even if the goods/services/projects were not yet delivered/rendered/completed and accepted as of year-end, contrary to the provisions under Section 2, Chapter 6 of GAM, Volume 1. As such, these items, enumerated hereunder, were obligated but not yet due and demandable; hence, the same should not be recognized along with Accounts Payable as of December 31, 2020. 
+
+
+
+Accounts
+
+Amount
+
+Construction in Progress
+
+₱    7,241,972.40
+
+Repairs and Maintenance- Buildings and Other Structures
+
+1,384,940.58
+
+Other Supplies and Materials Inventory
+
+             209,539.60 
+
+ICT Supplies Expense
+
+19,300.00
+
+Office Supplies and Material Expense
+
+395,700.00
+
+Total 
+
+₱    9,251,452.58
+
+
+
+	7)	On the contrary, items worth ₱5,759,466.10 which were already delivered and accepted by the Supply and Property Office although still unpaid as of December 31, 2020 (Appendix F), remained unrecorded in the books of accounts.  This was due to the University’s continual adoption of the Cash Basis Method in accounting for expenditures.   This policy resulted to the understatement of the year-end balance of the Accounts Payable accounts by that amount while the other accounts affected by the transaction were also understated as follows:
+
+
+
+Accounts
+
+Amount
+
+IT Equipment
+
+₱     838,541.60
+
+Furnitures and Fixtures
+
+480,700.00
+
+Hostel and Dormitories Equipment
+
+160,360.00
+
+ICT Equipment
+
+1,359,000.00
+
+Other Machinery and Equipment
+
+772,800.00
+
+ICT Supplies Inventory
+
+5,145.00
+
+Medical, Dental, and Laboratory Supplies Inventory
+
+520,550.00
+
+Office Supplies Inventory 
+
+361,458.00
+
+Other Supplies and Materials Inventory
+
+761,040.50
+
+Semi Expendable Inventory
+
+92,375.00
+
+Other Supplies and Materials Expense
+
+361,000.00
+
+Repairs and Maintenance- Office Equipment
+
+46,496.00
+
+Total 
+
+₱ 5,759,466.10
+
+
+
+	8)	Further, we observed that liabilities of ₱127,588.00 and ₱3,124.32 were erroneously classified to Accounts Payable instead of Due to GSIS and Due to Officers and Employees accounts, thus, overstating the account by ₱130,712.32. Inversely, the aforementioned two accounts were understated by ₱127,588.00 and ₱3,124.32, respectively. 
+
+
+
+	9)	With the foregoing errors and omissions in the recognition of the above financial transactions, various accounts were affected as summarized in the succeeding table.
+
+
+
+Accounts
+
+Understatement
+
+Overstatement
+
+Net Effect Understatement/ (Overstatement)
+
+Assets
+
+ 
+
+ 
+
+ 
+
+Inventories
+
+ 
+
+ 
+
+ 
+
+Medical, Dental and Laboratory Supplies Inventory
+
+₱520,550.00
+
+ 
+
+ 
+
+Other Supplies and Materials Inventory
+
+551,500.90
+
+ 
+
+ 
+
+Office Supplies Inventory
+
+361,458.00
+
+ 
+
+ 
+
+Sub-total 
+
+1,433,508.90
+
+ 
+
+ 
+
+Semi-Expandable Property
+
+ 
+
+ 
+
+ 
+
+Semi-Expandable Inventory
+
+92,375.00
+
+ 
+
+ 
+
+Sub-total 
+
+92,375.00
+
+ 
+
+ 
+
+Property, Plant and Equipment
+
+ 
+
+ 
+
+ 
+
+IT Equipment
+
+838,541.60
+
+ 
+
+ 
+
+Furniture and Fixtures
+
+480,700.00
+
+ 
+
+ 
+
+Hostel and Dormitory Equipment
+
+160,360.00
+
+ 
+
+ 
+
+ICT Equipment
+
+1,359,000.00
+
+ 
+
+ 
+
+Other Machinery and Equipment
+
+772,800.00
+
+ 
+
+ 
+
+Construction in Progress
+
+       
+
+7,241,972.40
+
+ 
+
+Sub-total 
+
+3,611,401.60
+
+7,241,972.40
+
+ 
+
+Total Assets
+
+5,137,285.50
+
+7,241,972.40
+
+-2,104,686.90
+
+Liabilities
+
+ 
+
+ 
+
+ 
+
+Due to Officers and Employees
+
+127,588.00
+
+ 
+
+ 
+
+Due to GSIS
+
+3,124.32
+
+ 
+
+ 
+
+Accounts Payable
+
+ 
+
+3,622,698.80
+
+ 
+
+Total Liabilities 
+
+130,712.12
+
+3,622,698.80
+
+-3,491,986.68
+
+Expenses
+
+ 
+
+ 
+
+ 
+
+Other Supplies and Materials Expenses
+
+
+
+361,000.00
+
+ 
+
+Repairs and Maintenance-Office Equipment
+
+
+
+46,496.00 
+
+ 
+
+Repairs and Maintenance-Buildings & Other Structures
+
+1,384,940.58
+
+ 
+
+ 
+
+Office Supplies Expenses
+
+395,700.00
+
+ 
+
+ 
+
+ICT Supplies Expenses
+
+14,155.00
+
+ 
+
+ 
+
+Total Expenses
+
+1,794,795.58
+
+407,496.00
+
+1,387,299.58
+
+Total 
+
+₱7,470,289.20
+
+₱11,272,167.20
+
+(₱4,209,374.00)
+
+
+
+	10)	In effect, the Asset accounts and the Liabilities accounts were overstated by a net amount of ₱2,104,686.90 and ₱3,491,986.68, respectively.  Meanwhile, in view of the net understatement of Expenses by ₱1,387,299.58, Equity was overstated by the same amount as at year-end.  
+
+
+
+	11)	During the exit conference with the Management, the University Accountant committed to draw the necessary adjusting entries to state the affected accounts in the correct balances.
+
+
+
+	6.12   	We recommended and the University President agreed to require the Accountant to (i) prepare the necessary journal entry voucher (JEV) to correct/adjust the errors/omissions in the recognition of the Accounts Payable and other affected accounts to ensure fairness of presentation in the Financial Statements; (ii) strictly comply with the basic government accounting procedures and principles, particularly the Accrual Basis as prescribed in GAM for NGAs, Volume 1 and IPSAS No. 17.  
+
+
+
+
+
+	
+
+	
+
+	
+
+	Delayed/ non-submission of financial reports/accounts
+
+
+
+2)	The University failed to submit the required financial reports and the corresponding supporting documents thereof within the prescribed period, with delays ranging from one to two months, despite prior recommendations to submit the same; thus, hindering the timely review of financial records and transactions.  As a consequence, the propriety and validity of the reported/recorded Disbursement Vouchers (DVs) and Official Receipts (ORs) in the books of accounts totalling to ₱206,260,717.40 and ₱2,492,749.23, respectively, could not be ascertained contrary to COA Circular Nos. 95-006 and 2009-006 dated May 18, 1995 and September 15, 2009, respectively.  
+
+
+
+	1)	Section 4, Chapter 19 of the Government Accounting Manual (GAM), Volume 1, states that the responsibility for the fair presentation and reliability of financial statements rests with the management of the reporting entity, particularly the head of finance/accounting office and the head of entity or his authorized representative. 
+
+
+
+	2)	Pursuant to Section 122 of Presidential Decree (P.D.) 1445, whenever deemed necessary in the exigencies of the service, the Commission may under regulations issued by it require the agency heads, chief accountant, xxx to submit trial balances to COA, and such other reports as may be necessary for the exercise of its functions.
+
+
+
+	3)	Relatedly, Sections 6.03, 6.04 and 6.05 of COA Circular No. 95-006 dated May 18, 1995 state that:
+
+
+
+Section 6.03 –Accountable Officers shall submit the records, receipts, disbursements, expenditures, operations, and all other transactions, together with the supporting documents to the Chief Accountant in the manner and within the timeframe prescribed in existing rules and regulations.
+
+
+
+Section 6.04 – Disbursing officers in particular shall faithfully comply with Section 100 of Presidential Decree No. 1445 which require them to render monthly reports of their transactions pursuant to existing auditing regulations not later than the fifth day of the ensuing month to the auditor concerned.
+
+
+
+Section 6.05 – The official involved in the daily recording of transactions in the books of accounts shall turn over the receipts and the disbursement records with all paid vouchers and documents evidencing the transaction to the Auditor within ten (10) days from date of receipt of said documents.  
+
+
+
+	4)	In COA Circular No. 2009-006 dated September 15, 2009, it was again emphasized that the Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that the reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month.
+
+
+
+Delayed submission of financial reports
+
+
+
+	5)	An examination of records showed that accounting and financial reports, such as Report of Checks Issued (RCI), Report of Disbursements (RD), Liquidation Reports (LRs), Journal Entry Vouchers (JEVs), Disbursement Vouchers (DVs), quarterly Trial Balance (TB), Financial Statements (FS), among others, and related supporting documents were not submitted to the Audit Team within the prescribed period with delays ranging from one to two months despite prior recommendations to submit the same.    Moreover, the books of accounts, such as journals and ledgers were still not available for verification even after one to two months that the recent quarterly TB or FS was submitted. Refer to Appendix G for the manner and schedule of submission of financial reports.
+
+
+
+	6)	The financial reports serve as a vital tool for management and the auditor in rendering and arriving at important decisions and audit actions. This is mainly the reason why existing laws, rules and regulations prescribe the time and mode of rendering reports. In order for the users to utilize the reports effectively, the same must be submitted on time. Timeliness in the submission of reports is a relevant factor in the effective analysis of financial transactions.  
+
+
+
+	7)	Since, the analysis and review of the University’s financial reports could not be performed on time, management assertions on the validity, correctness, and completeness of recorded transactions have not been undertaken in a timely manner. 
+
+
+
+Delayed/non-submission of monthly accounts
+
+
+
+	8)	As of January 31, 2021, records showed that reported paid DV and ORs, comprising the current year and previous years’ transactions, amounting to ₱206,260,717.40 and ₱2,492,749.23, respectively, remained unsubmitted to the Audit Team, summarized as follows:
+
+
+
+Year
+
+DVs
+
+ORs
+
+Total
+
+2020
+
+₱ 205,684,759.68
+
+₱ 2,492,749.23
+
+₱ 208,177,508.91
+
+2019
+
+253,675.98
+
+
+
+253,675.98
+
+2017
+
+45,044.60
+
+
+
+45,044.60
+
+2016
+
+174,097.90
+
+
+
+174,097.90
+
+2015
+
+15,400.00
+
+
+
+15,400.00
+
+2014
+
+19,976.22
+
+
+
+19,976.22
+
+2013
+
+67,763.02
+
+
+
+67,763.02
+
+Total 
+
+₱206,260,717.40
+
+₱ 2,492,749.23
+
+₱ 208,753,466.63 
+
+	
+
+	Refer to Appendices H and I for the details.
+
+
+
+	9)	The delayed/non-submission of the aforesaid accounts was a deviation from the abovementioned regulations and placed constraints to the Audit Team in the timely verification of the transactions. As a consequence, the propriety and validity of the unsubmitted paid disbursement vouchers and receipts amounting to ₱206,260,717.40 and ₱2,492,749.23, respectively, reflected in the financial statements as of year-end were not ascertained.
+
+
+
+	10)	This audit observation has been the subject of the previous year’s Audit Observation Memorandum (AOM) but insignificant improvement was noted.  
+
+
+
+	11)	In the earlier part of the year 2020, the Accounting Office has notably exerted effort in the submission of the monthly accounts and financial reports within the prescribed period. However, due to the pandemic and the resignation of three Accounting Clerks in the fourth quarter of the year, the usual delay in reporting and rendition of accounts was again observed.
+
+
+
+	12)		During the exit conference, the University Accountant told us that at present the amount of unsubmitted DVs was already reduced to ₱5.7M and the Accounting Unit has been continuously submitting the DVs to COA. We noted that some of the unsubmitted items pertained to unclaimed payments to suppliers. Also, she mentioned that one DV pertains to Universal Magazine Exchange Corp. which was prepaid but the delivery of the items has not pushed through until this time due to pandemic. The supplier is willing to refund to the University the amount corresponding to the undelivered goods.  Meanwhile, the University President instructed the Cashier to communicate with the suppliers for them to receive the payment.
+
+	
+
+7.13    We reiterated our recommendations and the University President agreed to (a) require the Accountant to closely monitor and supervise the submission of accounts, financial reports and the related supporting documents to meet prescribed deadlines; and (b) enforce the suspension of salaries of responsible officials and employees in case of their continuous failure to abide by the reporting requirements as provided for in Section 122 (2) of P.D. No. 1445. 
+
+
+
+
+
+Unnecessary/extravagant purchases of goods- ₱830,650.00
+
+
+
+3)		The procurement of various professional musical instruments intended for the “2020 Charter Day Battle of the Bands” and the materials for the installation or fixing of the band room in the amount of   ₱377,000.00 and   ₱453,650.00, respectively, was deemed unnecessary and extravagant in the purview of Sections 4 and 6 of COA Circular No. 2012-003 dated October 29, 2012. Likewise, the expenditure is deemed irrelevant to the mandate of the University as laid down in Sections 2 and 3 of Republic Act (R.A.) No. 8612. 
+
+
+
+	1)	Sections 4 and 6 of COA Circular No. 2012-003 dated October 29, 2012 defines Unnecessary and Extravagant expenditures as follows:
+
+
+
+Unnecessary expenditures are those not supportive of the implementation of the objectives and mission of the agency relative to the nature of its operation. This would also include incurrence of expenditure not dictated by the demands of good government, and those the utility of which cannot be ascertained at a specific time. An expenditure that is not essential or that which can be dispensed with without loss or damage to property is considered unnecessary. xxx..
+
+
+
+Extravagant expenditures exceed the bounds of propriety. These expenditures are immoderate, prodigal, lavish, luxurious, grossly excessive, and injudicious.
+
+
+
+	2)	Pursuant to Sections 2 and 3 of Republic Act (R.A.) No. 8612, the University has the following mandates; viz:
+
+
+
+Sec. 2.  The University shall primarily provide advanced instruction and professional training in arts, science and technology, education and other related fields, undertake research and extension services, and provide progressive leadership in these areas.Sec. 3. The University shall offer undergraduate, graduate and short-term technical courses within its areas of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives, particularly in order to meet the needs of the province and the region.
+
+
+
+	3)	In addition, Sections 7.1 and 7.2, Rule II of the Revised Implementing Rules and Regulations (RIRR) of Republic Act (R.A.) No. 9184 states that:
+
+
+
+Section 7.1.  All procurement shall be within the approved budget of the Procuring Entity and should be meticulously and judiciously planned by the Procuring Entity. Consistent with government fiscal discipline measures, only those considered crucial to the efficient discharge of governmental functions shall be included in the Annual Procurement Plan (APP). For purposes of this IRR, a procurement project shall be considered crucial to the efficient discharge of governmental functions if it is required for the day-to-day operations or is in pursuit of the principal mandate of the Procuring Entity concerned. The APP shall include provisions for foreseeable emergencies based on historical records. In the case of Infrastructure Projects, the APP shall consider the appropriate timing/phasing of related project activities, such as, engineering design and acquisition of right-of-way site or location, to reduce/lower project costs.
+
+
+
+Section 7.2. No procurement shall be undertaken unless it is in accordance with the approved APP, including approved changes thereto. The APP must be consistent with the duly approved yearly budget of the Procuring Entity and shall bear the approval of the HoPE or second-ranking official designated by the HoPE to act on his behalf.
+
+
+
+	4)	Review of several disbursements of the University showed that professional musical instruments plus some materials for the installation thereof and fixing of an existing room for the band were procured in the sum of ₱830,650.00 from Psalmist Music Center, itemized as follows:
+
+
+
+Particulars
+
+
+
+Qty.
+
+Unit Price 
+
+(Inc. of Taxes)
+
+
+
+Total Cost
+
+ DV No. 20020174/Check No. 2295431 dated 2/17/20
+
+
+
+
+
+Professional Bass Guitar 5 Strings Marcus Miller Sire V7 Vintage Ash 5 String
+
+1 pc.
+
+    ₱ 44,000.00 
+
+  ₱44,000.00 
+
+Professional Drum set - Electric Roland TD 17 KVX Pedal, Stick and Throne
+
+1 pc.
+
+135,000.00
+
+  135,000.00 
+
+Professional Electric Guitar Fender Strato Caster American Wood Natural
+
+1 pc.
+
+   128,000.00 
+
+  128,000.00 
+
+E-Drums Amplifier Roland
+
+1 pc.
+
+   35,000.00 
+
+    35,000.00 
+
+Drum Pedal HD DW 9000 Series
+
+1 pc.
+
+30,000.00
+
+30,000.00
+
+Drum Stick 5A VIC Firth (5 pairs)
+
+1 pc.
+
+5,000.00       
+
+5,000.00       
+
+Total Cost of Musical Instruments
+
+
+
+377,000.00
+
+DV No. 20060474/Check No. 2295736 dated 6/03/20
+
+
+
+
+
+Acoustic Foam Density 28 12 x 12
+
+450 pcs.
+
+165.00
+
+74,250.00
+
+Wood Plank
+
+2 pcs.
+
+1,500.00
+
+3,000.00
+
+Carpet ¼
+
+1 pc.
+
+9,500.00
+
+9,500.00
+
+Forming Foam ¼ w/ 9pcs free
+
+1 pc.
+
+6,500.00
+
+6,500.00
+
+Pro speaker (RCF) 315
+
+2 pcs.
+
+45,000.00
+
+90,000.00
+
+Subwoofer Pro 18”
+
+2 pcs.
+
+45,250.00
+
+90,500.00
+
+Mic cable HD
+
+1 roll 
+
+8000.00
+
+8,000.00
+
+XLR Connector M/F
+
+25 pairs
+
+420.00
+
+10,500.00
+
+Luminaries Par LED RGB Full Color
+
+6 pcs.
+
+4,900.00
+
+29,400.00
+
+Pro Mixer 16 Ch Digital Mixer
+
+1 pc.
+
+58,000.00
+
+58,000.00
+
+Pro Mic SM 58
+
+5 pcs.
+
+7,000.00
+
+35,000.00
+
+Boom Mic Stand HD
+
+5 pcs. 
+
+3,800.00
+
+19,000.00
+
+Labor for Installation of sub-proofing materials
+
+
+
+20,000.00
+
+20,000.00
+
+Total Installation Cost 
+
+
+
+
+
+453,650.00
+
+Grand Total
+
+
+
+
+
+₱830,650.00
+
+
+
+	5)	Verification revealed that the “Battle of the Bands” contest is a one-time event which neither redound to the benefit of the University nor considered relevant to the exercise of its mandated mission and vision as embodied in R.A. No. 8612. Moreover, even without the purchase of expensive musical instruments, the students can still participate in the contest since during the practice the chosen participants most likely brought and used their own personal musical instruments for convenience and familiarity. It is also worthy to mention that the University has no official Combo Musical Band.
+
+
+
+	6)		On the other hand, review of the accomplishments of the Literary, Culture, and the Arts Development Center (LCADC) for the Academic Years (AYs) 2018 to 2020 showed that the Combo Musical Band has been active for two events only. One was during the Culture and Arts Association of State Universities and Colleges (CAASUC) Regional Culture and the Arts Festival 2019 held on November 12 to 15, 2019 at Don Honorio Ventura State University (DHVSU), Bacolor, Pampanga, and the other one was during the recording of the Official March of the NEUST Charter Day 2020 on February 19, 2020. To our mind, the limited engagement of the Combo Musical Band on University activities may not warrant the need to purchase such professional musical instruments since based on the past experiences their performance was very seldom, depending on the nature of the program where its services may be required.
+
+	
+
+	7)		We conducted a survey in January 2021, and gathered that the band room fixtures were already dismantled due to infestation of termites. The Audit Team further learned that the location of the band room was usually watery when it rains. Since the said room has wooden fixtures, getting wet all the time attracted the termites to thrive in the place.  Please see Appendices J and K for the physical condition of the room before and after it was dismantled.
+
+	
+
+	8)		According to the Head - Combo Trainer, the band room was only used during the installation and set-up. Afterwards, nobody inspected the condition of the room and contents. In August 2020, or two months after acceptance/turnover of the band room to the University, termite treatment was applied, but the process was in vain considering that infestation had already spread.
+
+	
+
+	9)			As of to date, the aforementioned room was already abandoned and not functioning, resulting in loss of government funds and foregone opportunity to make use of the venue for other future performances of the Band.  In regard to the musical instruments, these were moved to a safer place and remained intact.
+
+		
+
+	10)			Meanwhile, a review of the NEUST Board Resolution No. 82a, s. 2019 dated December 5, 2019 or the Resolution approving the 2020 Program of Receipts and Expenditures (PRE), 2020 Annual Procurement Plan (APP), and 2020 Utilization of Income of the University showed that the abovementioned musical instruments were not among the list of items to be procured in the year 2020.
+
+		
+
+	11)			Considering the non-inclusion of the goods in the APP and the high cost involved, it could be deduced that the acquisition thereof was not a priority need of the University, thus, deemed unnecessary and extravagant in the light of Sections 4 and 6 of COA Circular No. 2012-003 dated October 29, 2012. The expenditure can be dispensed with without affecting the implementation of the mandate of the University. Similarly, as could be gleaned in the applicable provisions of Sections 2 and 3 of Republic Act (R.A.) No. 8612, such expenditure is not relevant to its mandate. 
+
+
+
+	12)		During the exit conference with the Management, the University President announced that the reply made by the end-user to this observation will be provided to the Audit Team. Further, the University Head said that she was not aware that the musical instruments are that expensive and asked for consideration that the incident will not happen again.
+
+
+
+	13)		We recommended and the Management agreed to (a) desist from purchasing unnecessary and costly equipment/materials  and pay more attention to or prioritize more important programs and activities of the University that are greatly beneficial in the implementation of its mandate; (b) ensure that all procurements are within the  University’s approved APP as provided  in Sections 7.1 and 7.2 of the RIRR of R.A. No. 9184; and (c) require the requisitioner to submit a written justification for the acquisition of high-end musical instruments for use in a one-time event that did not benefit the University at all. 
+
+
+
+
+
+Unsubstantiated Honoraria- ₱1,024,100.00
+
+
+
+4)		The payment of honoraria to the special project team and trainers was authorized despite incomplete documentation contrary to the pertinent guidelines on the Grant of Honoraria Due to Assignment in Government Special Projects set under DBM Budget Circular (BC) No. 2007-2 dated October 1, 2007; thus, the propriety and reasonableness of claims amounting to ₱1,024,100.00 were not ascertained. 
+
+
+
+	1)	Item 4.1 to 4.3 of BC No. 2007-2 states that:
+
+
+
+4.1 Government personnel who are on part-time assignment to a special project which entails rendition of work in addition to or over and above their regular workload may be entitled to honoraria.
+
+
+
+4.2 The amount of honoraria shall be based on the nature of their work assignments in a special project, the level of difficulty of the duties and responsibilities thereat, the extent of their productivity and quality of performance measured in terms of completed and accepted deliverables in accordance with the timeframes set per project component of a special project plan approved after the effectivity of this Circular.
+
+
+
+4.3 The special project plan shall be prepared in consultation with all personnel assigned to a project and approved by the department/agency/lead agency head. Such plan shall contain the following:
+
+
+
+--	title of the project;
+
+--	objectives of the project, including the benefits to be derived therefrom;
+
+--	outputs or deliverables per project component;
+
+--	project timetable;
+
+--	skills and expertise required;
+
+--	personnel assigned to the project and the duties and responsibilities of each; 
+
+--	expected deliverables per personnel assigned to the project per project component at specified timeframes; and 
+
+--	cost by project component, including the estimated cost of honoraria for each personnel based on man-hours to be spent in the project beyond the regular work hours; personnel efficiency should be a prime consideration in determining the man-hours required.
+
+
+
+	2)	Item 4 (4.5) of the same BC states that: 
+
+
+
+	 Payment of honorarium shall be made only upon completion and acceptance by the agency head of the deliverable per project component.
+
+	
+
+	3)	Upon partial review of the disbursements made out of the special project funded by DSWD titled “Sustainable Livelihood Program with Project Title: Community Based Skills Training on Dressmaking NC II and Shielded Arc Welding NC II”, the Audit Team  noted that the amount of ₱1,024,100.00 was paid to the Special Project Team and Trainers of Dressmaking and Shielded Metal Arc Welding (SMAW) as honoraria, transportation and meal allowances for the months of January 2020 to August 2020, detailed as follows: 
+
+
+
+DV/Check No.
+
+Date
+
+Payee
+
+Particulars
+
+Amount
+
+2001001/
+
+01994133 to 01994140
+
+Jan. 6, 2020
+
+Genelyn P. Castro, et.al.
+
+
+
+Honoraria for Trainers of Dressmaking & SMAW (May to Oct. 2019)
+
+₱342,000.00
+
+2006016/
+
+01994154 to 
+
+01994162
+
+Jun. 4, 2020
+
+Charlene V. Marcoso, et.al.
+
+Honoraria for Trainers of Dressmaking & SMAW (Aug. to Dec. 2019)
+
+273,600.00
+
+(CTF) 2009001/
+
+ 01994179
+
+Sept. 23, 2020
+
+Marivic N. Villegas
+
+Honoraria for the Special Project Team (Jan. 2019 to Aug. 2020)
+
+408,500.00
+
+
+
+
+
+
+
+Total
+
+₱1,024,100.00
+
+
+
+	4)	DV Nos. 2001001 and 2006016 were supported with Payrolls and Daily Time Records (DTRs) of the Trainers as well as the Memorandum of Agreement (MOA) with DSWD, Skills Training Proposal and Special Project Proposal prepared by one of the Component Leaders and approved by the University President. 
+
+
+
+	5)	DV No. 2009001, on the other hand, was supported with Payroll and Certification issued by the Vice President for Research, Extension and Training (VP-RET), which states the duties performed by each personnel relevant to the successful implementation of the project. Nevertheless, none of these documents indicate the following information supposedly reflected in the Special Project Plan as prescribed in Item 4(4.3) of the DBM Circular, to wit:
+
+
+
+--		list of personnel assigned to the project and the duties and responsibilities of each;
+
+--			skills and expertise required;
+
+--		expected deliverables per personnel assigned to the project per project component at specified timeframes; and 
+
+--		cost by project component, including the estimated cost of honoraria for each personnel based on man-hours to be spent in the project beyond the regular work hours; personnel efficiency should be a prime consideration in determining the man-hours required.  
+
+	
+
+	6)	Additionally, we found no Progress Report duly signed by the Project Leaders and approved by the University President and such other proof of accomplishment to signify that a component of the project has already been completed or accepted by the latter, in consistent with the aforesaid provisions under Item 4.5 of BC No. 2007-2.  
+
+
+
+	7)	Due to incomplete documentation and information submitted, we render doubt on the correctness/reasonableness of honoraria paid to trainers under the subject project in the total amount of ₱1,024,100.00 as of August 2020.
+
+
+
+	8)	During the exit conference with the Management, the Director for Extension Services promised to provide all the required supporting documents on March 1, 2021.
+
+
+
+	9)	In view of the foregoing, we recommended and the University President agreed to require the Special Project Team to undertake the following courses of action; viz:
+
+
+
+a)	Submit   the necessary planning documents, such as (i) copy of the Special Project Plan in accordance with the provisions of Item 4 (4.3) of DBM Circular No. 2007-2 dated October 1, 2007; (ii)Progress Report duly signed and approved by the University officials concerned in accordance with Item 4 (4.5) of the same BC; (iii) the basis and computation of the honoraria paid; and (iv) skills and expertise required in the special project.
+
+
+
+b)	Submit evidences of training documents such as (i) approved training program; (ii) performance evaluation plan; (iii) copy of registration/List of Participants; (iv) copy of attendance sheet; (v) photos and documentation during training; (vi) training evaluation from participants; and (vii) post-training monitoring report/Terminal Report duly signed by the Project and Component Leaders and approved by the University President; and
+
+
+
+c)	Daily Time Records of the Special Project Team for the rendition of work related to the Special Project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B)	COMPLIANCE AUDIT
+
+
+
+Non-Alignment of Course Offerings with CHED Memorandum
+
+
+
+5)	Out of the 23 Curriculum Programs offered by the University, only 14 were aligned with the priority courses under the Commission on Higher Education (CHED) Scholarship Programs (CSPs) for Academic Year (AY) 2019-2020 prescribed under CHED Memorandum Order No. 05, series of 2019 dated August 16, 2019. Moreover, 42% of the total number of students for the same period were enrolled in courses not included in the list of priority courses resulting to over population of enrollees in certain courses and minimal enrollees in other priority courses, which may interfere later with the supply and demand for employment. 
+
+
+
+	1)		Republic Act (R.A.) No. 8612 dated March 27, 1998 states that the primary objective of the University is to provide advanced instruction and professional training in arts, science and technology, education and other related fields, undertake research and extension services, and provide progressive leadership in these areas.  It offers undergraduate, graduate and short-term technical courses within its areas of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives, in order to meet the needs of the province and the region in particular.
+
+	
+
+	2)		CHED Memorandum Order (CMO) No. 5, series of 2019 dated August 16, 2019 specifically provides the Priority Courses for CHED Scholarship Programs (CSPs) for Academic Year 2019-2020.  The list of priority courses is shown in Appendix L. 
+
+	
+
+	3)		For Academic Year (AY) 2019-2020, the University offered 23 Curriculum Programs consisting of the following:
+
+
+
+BS in Business Administration
+
+Bachelor of Public Administration
+
+BS in Information Technology
+
+BS in Hotel & Restaurant Management
+
+BS in Civil Engineering
+
+BS in Chemistry
+
+Bachelor of Secondary Education
+
+BS in Industrial Education
+
+BS in Criminology
+
+BS in Hospitality Management
+
+Bachelor of Technology and Livelihood Education
+
+Bachelor of Elementary Education
+
+BS in Tourism
+
+BS in Industrial Technology
+
+BS in Architecture
+
+BS in Environmental Science Pollution Control and Waste Management
+
+BS in Mechanical Engineering
+
+BS in Nursing
+
+Electronics and Communications Engineering Technology
+
+BS in Electrical Engineering
+
+BS in Entrepreneurship
+
+Bachelor of Physical Education
+
+BS in Agriculture
+
+
+
+	4)	 We determined the University’s compliance with the aforementioned CMO which provides the list of priority courses to which the qualified beneficiaries of CHED Scholarship Programs (CSPs) shall be directed to enroll.  The Audit Team gathered that out of the total enrollees of 29,845 in AY 2019-2020, 52% or 15,447 students were enrolled in priority courses under various programs of Science, Technology, Engineering, Agri-Fisheries and Mathematics (STEAM) and 6% or 1,872 students were enrolled in other priority courses aligned with key growth areas as provided by CHED. The remaining 42% which is almost half of the total number of enrollees or 12,526 students is comprised of 10,705 student beneficiaries enrolled in courses under the field of Business Administration and Education (previously included in the priority courses under CHED Memorandum Order (CMO) No. 01 series of 2014 dated January 9, 2014) and 1,821 enrolled in courses, such as Nursing, Entrepreneurship and Public Administration not included in the list of priority courses identified by CHED. 
+
+
+
+	5)	In short, out of the 23 Curriculum Programs offered by the University, only 14 were aligned with the priority courses under the CSP for 2019-2020 prescribed under the CMO as follows:
+
+
+
+BS in Information Technology
+
+BS in Hotel & Restaurant Management
+
+BS in Civil Engineering
+
+BS in Chemistry
+
+BS in Criminology
+
+BS in Tourism
+
+BS in Hospitality Management
+
+BS in Industrial Technology
+
+Electronics & Communications Engineering Technology
+
+BS Architecture
+
+BS in Electrical Engineering
+
+BS in Mechanical Engineering
+
+BS in Agriculture
+
+BS in Environmental Science Pollution Control and Waste Management
+
+
+
+
+
+	6)	The following graph is presented for better appreciation of the comparison of enrollees in priority courses under CMO No. 5, series of 2019 and the curricular programs currently offered by the University. Details are provided in Appendix M.
+
+
+
+
+
+
+
+
+
+	7)	Evaluation of the enrollment procedures revealed that upon application for entrance examinations in college, prospective enrollees have to fill up application forms wherein their first and second preferred courses were indicated.  The Office of the Admission and Registration checks if the grades of the applicants passed the minimum grade requirements for their preferred courses.   If the grades in high school qualified for the first preferred course, then the students shall be enrolled in that course, otherwise they are recommended to enroll their second preferred course or the University recommends other courses suited to the average grades of the students/applicants.
+
+
+
+	8)	Consequently, management was not able to monitor excessive number of enrollees in certain courses such as those relating to Business Administration and Education, and the minimal enrollees in other priority courses recommended by CHED who should be the qualified beneficiaries of CSPs. This situation also resulted to oversupply of graduates from these two curriculum programs and a lesser number of graduates from other CHED priority courses which were also offered by the University.
+
+
+
+	9)	Presented below is the graphical analysis of the total enrollees for the last three Academic Years which shows that the number of enrollees in Business Administration abruptly increased in AY 2019-2020:
+
+
+
+
+
+
+
+
+
+	10)	 Since CHED Priority Courses may change after a period of time, an annual monitoring and review of the number of enrollees for each curriculum program should have been done by the University to be able to assess the total population of students for each program per academic year, and in addition, align the incoming freshmen students to priority courses as recommended by CHED.
+
+
+
+	11)	 Although there was a control or quota on the number of entrants, it seems that there was laxity in the implementation thereof.  As such, the learning environment and job opportunities were deranged due to oversupply of graduates from courses which are not in demand for job placement.  Meanwhile, a healthy competition conducive to learning was not promoted due to relatively few enrollees and prospective graduates.   
+
+
+
+	12)		We recommended and the University President agreed to instruct the Director of Admission and Registration to (i) conduct an annual monitoring and assessment of the population of students for each curriculum program; and (ii) align the incoming freshmen students to priority courses as recommended by CHED to avoid overpopulation of enrollees in certain courses and minimal enrollees in priority courses. 
+
+	
+
+Low Performance of Graduates in nine out of 12 Licensure Examinations
+
+6)	For the Academic Years 2016 to 2019, the general average passing rate of 37.15% obtained by the University was relatively lower by 9.05% as compared with the national average passing rate of 46.20% indicating the low performance of graduates in nine out of 12 courses with licensure examinations, thus, impinging on their job employability and may affect the status of the University from the national ranking of Higher Education Institutions (HEIs).   
+
+
+
+	1)	During CY 2020, the University spent ₱252,713,303.00 for salaries of faculty members under the Higher Education Program. Technical and Scientific Equipment and Other Instructional Materials were also purchased for the improvement of Laboratory Rooms in different curricular programs.  The equitable return of these expenditures can be measured in terms of the efficient performance of the faculty involved and the effective results of their performance in terms of successful graduates and high standing performances in licensure examinations given by the Professional Regulation Commission (PRC).
+
+
+
+	2)	In the evaluation of the University’s performance in 12 offered courses with licensure examinations covering the years 2016 to 2019, the Audit Team noted that the University attained a general average passing rate of 37.15% in all courses, although for Mechanical Engineering, Criminology and Chemical Technician Licensure, the University garnered an average passing rate of more than 50% for the past four years. 
+
+
+
+	3)	Below is the summary of the comparative analysis of the number of takers and passers as well as the passing rates of the University and the National Level covering the aforementioned period:
+
+
+
+ 
+
+ 
+
+Number
+
+% of Passers
+
+ 
+
+Licensure Examination
+
+Takers
+
+Passers
+
+University
+
+National
+
+Variance
+
+1
+
+Architecture Licensure Examination
+
+355 
+
+177 
+
+49.86%
+
+58.34%
+
+-8.48%
+
+2
+
+Civil Engineer Licensure Examination
+
+1,348 
+
+457 
+
+33.90%
+
+35.26%
+
+-1.36%
+
+3
+
+Mechanical Engineer Licensure Examination
+
+250 
+
+141 
+
+56.40%
+
+48.34%
+
+8.06%
+
+4
+
+Registered Electrical Engineer Licensure Examination
+
+393 
+
+162 
+
+41.22%
+
+47.21%
+
+-5.99%
+
+5
+
+Registered Master Electrician Licensure Examination
+
+299 
+
+148 
+
+49.50%
+
+63.52%
+
+-14.02%
+
+6
+
+Criminology Licensure Examination
+
+942 
+
+530 
+
+56.26%
+
+33.31%
+
+22.95%
+
+7
+
+Chemist Licensure Examination
+
+55 
+
+12 
+
+21.82%
+
+46.51%
+
+-24.69%
+
+8
+
+Chemical Technician Licensure Examination
+
+48 
+
+40 
+
+83.33%
+
+84.54%
+
+-1.21%
+
+9
+
+Agriculturist Licensure Examination
+
+156 
+
+28 
+
+17.95%
+
+35.98%
+
+-18.03%
+
+10
+
+L.E.T. Secondary Level
+
+6,042 
+
+1,952 
+
+32.31%
+
+33.48%
+
+-1.17%
+
+11
+
+L.E.T. Elementary Level
+
+3,254 
+
+1,197 
+
+36.79%
+
+25.68%
+
+11.10%
+
+12
+
+Nurse Licensure Examination
+
+370 
+
+176 
+
+47.57%
+
+42.24%
+
+5.33%
+
+ 
+
+GRAND TOTAL
+
+13,512 
+
+5,020 
+
+37.15%
+
+46.20%
+
+-9.05%
+
+
+
+	4)	As could be gleaned in the table above, the general average passing rate of the University in licensure examinations is lower by 9.05% as compared to the national average passing rate of 46.20%.  Noticeably, the graduates demonstrated low performance in nine out of 12 courses. Details are shown in Appendix N.    
+
+
+
+	5)	The general low average passing rates of graduates in the different licensure examinations may be attributed to the inadequacy of the stock knowledge acquired by the students through their college years, making them unprepared to take the national licensure examinations after graduation. Knowing that the University is weak on this aspect, there is a need to encourage faculty members to give their best performance and dedication as mentors, especially at this time of pandemic when all classes are being held remotely either on-line or through modular modality of learning. No matter what the situation is, every faculty member is challenged to develop a sense of creativity in order to effectively deliver or transfer knowledge to their students and make them competitive. 
+
+
+
+	6)	In addition, a retention policy shall be implemented by the University to be able to track and identify the students who are at risk in a particular course and have intervention strategies readily available to help them such as, offering them the option of switching course or suggest remedial classes. 
+
+
+
+	7)	The success of the University as an educational institution is not measured by the number of courses offered but by the quality of graduates produced who are capable of surpassing the test of their chosen fields, land in promising careers and gainful employment, and eventually contribute to nation building.  
+
+
+
+	8)	The CHED has a system of ranking and accreditation for all schools/universities of higher learning. The University may not be able to obtain or sustain the prestigious status accorded to universities which kept to the standards of CHED, if the same continually fails to enhance the contents and quality of ongoing curricular programs and improve the University passing rate in all licensure examinations.   
+
+
+
+	9)				 During the exit conference with the Management, the University President appreciated that this area is also being monitored by COA, and explained that the University’s ranking for first takers is actually improving compared to the previous years. For the repeaters, they are having a hard time to monitor their performance since they are no longer connected with the University for a couple of years already, nonetheless, the University is planning to offer online review, through the Alumni Affairs, for those who were not able to pass the board examinations.
+
+
+
+	10)		We recommended and the University President agreed to instruct:
+
+a)		The faculty members to exert their best performance in imparting knowledge to their students and pay more attention on their learning progress to make them fully equipped for the licensure examinations; and
+
+	
+
+b)		The Vice President for Academic Affairs (VPAA) to develop and implement strategies towards the development and excellence of the University in terms of improved performance of its graduates in licensure examinations.
+
+	
+
+	
+
+Gender and Development
+
+
+
+7)		The inadequacy of the Gender and Development (GAD) database and other planning tools used deterred the University from analyzing gender issues in relation to its mandate, resulting in the disapproval of various proposed Programs/Projects/Activities (PPAs) by the Philippine Commission on Women (PCW) and the reduction in budget from ₱23,321,500.00 or 5.63% of the Agency’s annual appropriation of ₱414,106,000.00 to barely 1.43% or ₱5,910,000.00. As such, taken as a whole, the overall GAD objectives were not achieved optimally contrary to the Philippine Commission on Women (PCW), National Economic Development Authority (NEDA), and Department of Budget and Management (DBM) Joint Circular No. 2012-01, which superseded the DBM-NEDA-NCRFW Joint Circular No. 2004-1 dated April 5, 2004, thus, depriving the intended program beneficiaries of the benefits that could have been derived therefrom. 
+
+
+
+	1)		The general guidelines in Gender and Development (GAD) Planning and Budgeting are explicitly provided in the Philippine Commission on Women (PCW), National Economic Development Authority (NEDA), and Department of Budget and Management (DBM) Joint Circular No. 2012-01 (published and took effect in the year 2013) which superseded the DBM-NEDA-NCRFW Joint Circular No. 2004-1 dated April 5, 2004. Among the said guidelines, Sections 3.1, 4.4 and 6.1 thereof state that:
+
+
+
+	Section 3.4 – xxx… To aid gender mainstreaming, agencies shall perform gender analysis using existing tools such as the Harmonized Gender and Development Guidelines (HGDG), to ensure that the different concerns of women and men are addressed equally and equitably in their PAPs. Activities to address these differential concerns through capacity development on GAD or GAD-focused activities shall be included in Agency GPBs.
+
+
+
+Section 4.4 – The agency shall develop or integrate in its existing database information to include gender statistics and sex-disaggregated data that have been systematically produced or gathered as inputs or bases for planning, budgeting, programming and policy formulation.
+
+
+
+Section 6.1 – At least five percent (5%) of the total agency budget appropriations authorized under the annual GAA shall correspond to activities supporting Gender and Development (GAD) plans and programs. The GAD budget shall be drawn from the agency’s maintenance and other operating expenses (MOOE), capital outlay, (CO), and personal services (PS). It is understood that the GAD budget does not constitute an additional budget over an agency’s total budget appropriations.
+
+
+
+	2)	In compliance with the aforesaid regulations,  the University  identified and integrated  various GAD plans/program/activities (PPAs) to address gender issues and concerns within the context of its mandate, such as the consideration of a) lack of knowledge, awareness and acceptance of the reality of girls and women, their different needs, and competencies that led to sex stereotyping and other forms of discrimination (i.e. sexist curricula and syllabi, textbooks, teaching materials, sexist language and interaction, sex stereotype guidance and counselling); b) gender imbalance in school employment and management; c) insufficient consideration of women’s working condition and health situation in the field of education;  and  d) their need of improved compatibility between work and family responsibilities.  Refer to Appendix O for the CY 2020 GAD Plan and Budget (GPB) submitted to the PCW for approval. 
+
+
+
+	3)	A review of the final GAD PPAs in calendar year 2020, duly approved by the PCW on September 9, 2020, showed an allocated appropriation of barely 1.43% or ₱5,910,000.00 out of its total GAA Budget of ₱414,106,000.00. The GAD objectives and the details of the approved GPB are presented in Appendix P. 
+
+
+
+	4)	The designated GAD Focal Point (GFP) Person explained that originally, the funds allocated for GAD was equal to 5.63% or ₱23,321,500.00 of the University’s total budget for the calendar year.  Incidentally, when the GPB was submitted to the PCW for approval, some activities were found non-related to GAD; thus, only the remaining activities comprising 25.34% of the original proposed budget of ₱23,321,500.00 or ₱5,910,000.00 were finally approved. Further, since the activities were implemented in the mid of the third and fourth quarters of the year due to the COVID-19 pandemic, no additional programs were pursued.  
+
+
+
+	5)	Further, in calendar year 2018, the GAD Database was already used for GAD planning. However, for this year, the system was unavailable and the required sex-disaggregation of data was not kept updated. Management asserted that the Harmonized Gender and Development Guidelines (HGDG) tool was applied to determine the gender responsiveness of the proposed programs. Despite the adoption of these mechanisms, the GPB did not meet the requirements of the PCW because of inclusion of non-GAD issues as follows:
+
+
+
+
+
+Budgeted Amount
+
+Project/Activities
+
+Proposed
+
+Approved
+
+Unapproved
+
+1)	Infrastructure- Construction of GAD Building
+
+
+
+₱10,000,000.00
+
+
+
+₱ 0.00
+
+
+
+₱10,000,000.00
+
+2)	Provide financial assistance to marginalized students, such that women under difficult situation, PWD, children of employees with special need to have their opportunity to pursue their studies through financial and emotional support (targets: 60 students/150 participants)
+
+
+
+
+
+
+
+
+
+1,000,000.00
+
+
+
+
+
+
+
+0.00
+
+
+
+
+
+
+
+1,000,000.00
+
+3)	Renovate comfort rooms to be utilized by students and other clients. 
+
+
+
+8,000,000.00
+
+
+
+1,800,000.00
+
+
+
+6,200,000.00
+
+4)	Create partnership with Local Government Units (LGUs) and NEUST and conduct extension activities relating to gender issues.
+
+
+
+200,000.00
+
+
+
+0.00
+
+
+
+200,000.00
+
+5)	Provide employees some Sanitation Kits and Personal Protective Equipment to battle COVID19
+
+
+
+2,000,000.00
+
+
+
+1,500,000.00
+
+
+
+500,000.00
+
+Total 
+
+₱21,200,000.00
+
+₱3,300,000.00
+
+₱17,900,000.00
+
+
+
+	6)	Meanwhile, out of the final budget of ₱5,910,000.00, about 91% or ₱5,395,859.52 was utilized in the implementation of GAD PPAs, thus, achieving its goals, more or less, with respect to the 12 approved programs.  However, an over and under spending was noted in the implementation of some programs, as illustrated below:
+
+
+
+
+
+
+
+
+
+GAD
+
+Issue
+
+GAD
+
+Activity
+
+Total Approved Agency Budget
+
+Actual Cost/ Expenditure
+
+(Over)/
+
+Under Spending
+
+Client-Focused Activities
+
+Observance of Women's Month in accordance with Proclamation Nos. 224 and 227, Series of 1988
+
+1
+
+Conduct We Make Change Work for Women Symposium and Awarding Ceremony for Inspiring Women of NEUST
+
+       ₱160,000.00 
+
+       ₱159,500.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+₱ 500.00
+
+Observance of the 18 day Campaign to End Violence Against Women (VAW)(Proclamation n no. 1172 series of 2006)
+
+2
+
+Conduct information drive and symposium on End the Violence Against Women and Children (VAWC)
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+195,000.00 
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+187,000.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8,000.00 
+
+Comfort rooms that cater to practical gender needs of clients are old and not fully functional and need to be renovated.
+
+3
+
+
+
+Renovate comfort rooms to be utilized by students and 
+
+other clients.
+
+     1,800,000.00 
+
+    1,265,378.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+534,622.00 
+
+Lack the awareness of NEUST students regarding the new information about gender and development concepts, sexual orientation, gender identity and expression (SOGIE), sexual harassment, human rights, HIV, protection of environment, etc.
+
+4
+
+Conduct Gender Sensitivity Training and other webinar, such as SOGIE, sexual harassment, VAWC, women leadership, HIV Awareness, Teenage Pregnancy etc.
+
+          35,000.00 
+
+         36,550.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(1,550.00) 
+
+Need to document GAD efforts within NEUST/Documentation of GAD accomplish-ments
+
+5
+
+Prompt Documentation of all GAD activities
+
+        140,000.00 
+
+       140,000.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.00 
+
+Organization Focused Activities
+
+GAD Focal Point System experience difficulty in planning, implementation and monitoring of GAD activities.
+
+6
+
+Conduct Gender Sensitivity and Gender Responsive seminar/training for GAD Focal Point System in local, regional, national and international conferences.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          20,000.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         20,300.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(300.00) 
+
+Limited Gender Responsive Research Program
+
+7
+
+Provide financial grants for employees to conduct GAD-related research publication and presentation that will contribute to national development
+
+        270,000.00 
+
+       257,500.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12,500.00 
+
+Practical needs for childminding and GAD Office operations
+
+8
+
+Hiring of four Staffs for three GAD Child Care Centers and GAD Office
+
+        400,000.00 
+
+       398,448.00 
+
+
+
+
+
+
+
+
+
+1,552.00 
+
+Practical needs for childminding and GAD Office operations
+
+9
+
+Rehabilitation and Termite treatment of GAD Child Development Center in Sumacab Campus
+
+     1,200,000.00 
+
+    1,178,328.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21,672.00 
+
+Lack of awareness of NEUST administrators and employees regarding the new information about gender and development concept and other related topics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+GAD Webinars for employees of NEUST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          25,000.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           8,905.52 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16,094.48 
+
+Lack of implementation of new GAD database facility as sources of GAD data collections
+
+11
+
+Project implementation for Online GAD Database System which includes the following Applications: Child Development Database Survey for Students and Employees Project Tracker Application for Financial Assistance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        165,000.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       165,300.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(300.00) 
+
+Practical needs to support employees and front liners in pandemic crises
+
+12
+
+Provide employees some Sanitation Kits and Personal Protective Equipment to battle COVID19
+
+  1,500,000.00 
+
+ 1,578,650.00 
+
+
+
+
+
+
+
+
+
+
+
+
+
+(78,650.00)
+
+
+
+ 
+
+Total
+
+     ₱5,910,000.00 
+
+    ₱5,395,859.52 
+
+
+
+₱ 514,140.48 
+
+
+
+	7)	Taking into account the inadequacy of budget and the GAD mechanisms applied, optimization of the GAD objectives to address gender issues and concerns in line with the University mandate was not achieved, thus, depriving the intended program beneficiaries of the benefits that could have been derived therefrom.
+
+
+
+	8)	During the exit conference, the University President said that a review will be done in the planning for upcoming years and should identify more projects that may be attributed to GAD.
+
+
+
+	9)	 We recommended  and the University President agreed to direct the  designated GAD Focal Point Person    to   (a)  prepare the Annual GAD Plan and Budget (GPB) based on proper identification of gender issues from sex-disaggregated data processed and analyzed in accordance with the guidelines prescribed in DBM/NEDA/PCW J.C. No. 2012-01 published in the year 2013 by PCW;  (b) update the GAD Database and apply the HGDG tool correctly in determining the appropriate Programs/Projects/Activities to address the gender issues in relation to the University Mandate; (c) limit expenditures to the extent of approved budget for specific program or activity; and d) ensure that GAD activities are implemented fully in accordance with the approved GAD Plan. 
+
+
+
+
+
+Compliance with Tax Laws
+
+
+
+8)	The University consistently complied with the BIR regulations with respect to the remittance of taxes withheld from the salaries and wages of its employees and claims of suppliers/contractors, leaving an unremitted amount of ₱1,772,979.64 which only pertained to taxes withheld in December 2020.
+
+
+
+	1)	  For calendar year 2020, the University withheld the total amount of ₱21,976,248.21 representing taxes from salaries/wages and of its suppliers/contractors and the amount of ₱20,203,268.57   was remitted to the Bureau of Internal Revenue through Tax Remittance Advices per Revenue Regulations No. 14-2002 dated September 9, 2002 and Revenue Memorandum Circular No. 5-2006 dated November 2, 2005. The unremitted amount of ₱2,823,937.18 as of December 31, 2019 was remitted in January 2020. (Appendix Q).  
+
+
+
+	2)	We commended the Management for the consistent compliance with the aforesaid revenue regulations. Likewise, we recommended that Management continue to comply with the revenue regulations particularly in the withholding and prompt remittance of taxes to the BIR, contributing to the revenue of the government.
+
+
+
+     
+
+	Compliance with RA No. 8291 or the GSIS Act of 1991
+
+	
+
+9)		GSIS premiums/contributions and loan amortizations deducted/withheld from salaries and wages of University personnel together with the employer’s share were fully remitted to the said agency in accordance with Section 6(b) of Republic Act (R.A.) No. 8291, otherwise known as the Government Service Insurance System (GSIS) Act of 1991.
+
+		
+
+	1)	Section 6, paragraph (b) of Republic Act (R.A.) 8291, dated May 30, 1997 otherwise known as the GSIS Act of 1997 states that each employer shall remit directly to the GSIS the employees’ and employers’ contribution within the first ten (10) days of the calendar month following the month to which the contributions apply. The remittance by the employer of the contributions to the GSIS shall take priority over and above the payment of any and all obligations except salaries and wages of its employees.
+
+
+
+	2)	Verification from the records of the Accounting Division showed that the GSIS premiums and loan amortizations deducted from the salaries of the University officials and employees as well as the corresponding premiums for Government Share totaling to ₱47,378,208.36 were in accordance with the rates and regulations imposed under R.A. No. 8291. The amount of ₱47,371,175.73 was remitted to the GSIS in accordance with the same Act; thus, leaving an unremitted amount of ₱3,124.32 (Appendix R).  This amount was part of the deducted premiums in the month of December 2019, which will be remitted in the ensuing month.
+
+
+
+	3)	We recommended and Management agreed to continue with its good practice of complying strictly with the provisions of R.A. No. 8291, prescribing the prompt remittance to the GSIS of premiums/contributions and loan amortizations withheld from personnel compensation.
+
+
+
+
+
+Compliance with Republic Act No. 9679 or the Pag-IBIG Fund Law 
+
+
+
+10)	 The University was substantially compliant with the provisions of Republic Act (R.A.) No. 9679 on the proper deduction and timely remittance of Pag-IBIG Fund contributions and loan amortizations of personnel.
+
+ 
+
+	1)	 During the year, the University was found compliant with the provisions of Republic Act (R.A.) No. 9679 wherein the deductions and the remittances of Pag-IBIG Fund contributions and short-term loan amortizations of personnel were in accordance with the said Act, as shown in the following table: 
+
+
+
+CY 2020
+
+TOTAL -ALL FUNDS
+
+BALANCE
+
+
+
+COLLECTIONS
+
+REMITTANCES
+
+
+
+Beginning balance, Jan. 01, 2020
+
+₱ 4,515.09 
+
+
+
+₱ 4,515.09 
+
+January
+
+ 505,699.31 
+
+310,784.28 
+
+ 199,430.12 
+
+February
+
+ 391,018.46 
+
+159,240.87 
+
+ 431,207.71 
+
+March
+
+ 333,340.91 
+
+569,601.05 
+
+ 194,947.57 
+
+April
+
+ 371,634.60 
+
+213,909.97 
+
+ 352,672.20 
+
+May
+
+ 346,170.46 
+
+374,976.51 
+
+ 323,866.15 
+
+June
+
+ 323,835.00 
+
+709,321.98 
+
+-61,620.83 
+
+July
+
+ 358,439.90 
+
+248,113.71 
+
+ 48,705.36 
+
+August
+
+ 355,964.02 
+
+377,314.88 
+
+ 27,354.50 
+
+September
+
+ 317,168.35 
+
+335,457.41 
+
+ 9,065.44 
+
+October
+
+ 350,701.93 
+
+341,376.25 
+
+ 18,391.12 
+
+November
+
+ 117,173.81 
+
+122,549.35 
+
+ 13,015.58 
+
+December
+
+ 141,764.60 
+
+133,883.86 
+
+ 20,896.32 
+
+Total
+
+ ₱3,917,426.44 
+
+₱ 3,896,530.12 
+
+₱ 20,896.32 
+
+Less: refund to Officers and employees (over deduction)
+
+-5,920.74 
+
+Adjusted Balance, December 31, 2020
+
+₱ 14,975.58
+
+
+
+	2)	The unremitted balance of ₱14,975.58 was remitted in the succeeding month. 
+
+	3)	We recommended and Management agreed to continuously withhold the appropriate amounts of contributions and loan amortizations from the salaries of the University personnel, and make prompt remittance of the amount withheld to the HDMF.
+
+
+
+
+
+Status of Suspensions, Disallowances and Charges
+
+
+
+16. 	As of December 31, 2020, the University had unsettled audit suspensions and disallowances of ₱1,260,772.19 and ₱19,360,207.26, respectively. No audit charges were issued during the year. 
+
+
+
+16.1	The status of audit suspensions, disallowances and charges based on the Notices of Suspension (NSs)/Notices of Disallowances (NDs), Notices of Charge (NCs) and Notices of Settlement of Suspensions and Disallowances/charges (NSSDCs) issued by this Commission as of December 31, 2020, is summarized as follows:
+
+
+
+Particulars
+
+
+
+Beginning Balance
+
+(As of January 1, 2020)
+
+This period
+
+January 1 to December 31, 2020
+
+
+
+Ending Balance
+
+(As of December 31, 2020)
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension
+
+₱                     0.00
+
+₱1,260,772.19
+
+₱         0.00
+
+₱    1,260,772.19
+
+Notice of Disallowance
+
+
+
+19,360,207.26
+
+
+
+0.00
+
+
+
+0.00
+
+
+
+19,360,207.26
+
+Notice of Charge
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Total
+
+₱     19,360,207.26
+
+₱1,260,772.19
+
+₱        0.00
+
+₱ 20,620,979.45
+
+
+
+16.2 The balance shown above of ₱19,360,207.26 pertains to the cumulative disallowances from calendar years (CYs) 2014 to 2019, comprising of the following:
+
+
+
+Particulars
+
+Amount
+
+Disallowances from various allowances/honoraria granted to University officials and employees in CYs 2014 and 2015.
+
+
+
+₱   15,599,490.91
+
+Disallowances from food and extraordinary and emergency expenses incurred in CY 2015.
+
+ 
+
+33,529.29 
+
+Disallowances from Suspensions that matured to disallowance for non-submission of corresponding disbursement vouchers and supporting documents, which matured to disallowance in accordance with Section 82 of P.D. No. 1445.
+
+
+
+
+
+
+
+   3,727,187.06
+
+TOTAL
+
+₱   19,360,207.26
+
+
+
+16.3	Of the above disallowances, a sum of ₱17,714,764.04 was affirmed or sustained when appealed at the level of the COA Regional Office (RO) No. III.  However, the amount of ₱17,097,264.04 was further appealed before the COA Commission Proper (CP) by the persons liable. Meanwhile, the balance of ₱617,500.00 was issued corresponding Notices of Finality of Decision (NFD) and COA Order of Execution (COE) by the COA RO III Regional Director.
+
+
+
+16.4 	During the exit conference, the Chief of Finance informed the Audit Team that partial settlement was already made on the issued NFD/COE although the approval by the  Prosecution and Litigation Office, Legal Services Sector, COA Central Office,  on their request for a staggered payment of the remaining unsettled balances has not yet been issued as of this writing.
+
+27
+
+
+
+
+
+
+
+
+

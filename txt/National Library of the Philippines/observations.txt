@@ -1,0 +1,4555 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+26 
+
+ 
+
+OBSERVATIONS AND RECOMMENDATIONS 
+
+ 
+ 
+
+A. Financial and Compliance Audit 
+
+Incorrect year-end account balance of Cash-Collecting Officer (Cash-CO) 
+
+ 
+
+1. The balance of the Cash-CO account of ₱4,354.13 as of December 31, 2020 is 
+understated due to an erroneous recording of collections totaling ₱13,239.01 as 
+
+deposited but were actually on-hand as of year-end; hence, overstating the 
+
+accounts Cash, Treasury/Agency Deposits, Regular by ₱2,239.01 and the Cash in 
+
+Bank, Local Currency, Current Account (LCCA) by ₱11,000.00. 
+
+ 
+
+Section 6, Chapter 19, Volume I of the Government Accounting Manual 
+
+(GAM) states that an entity shall present information including accounting policies in 
+
+a manner that meets qualitative characteristics such as reliability and faithful 
+
+representation, as described in IPSAS 1: 
+
+ 
+
+e. Reliability – reliable information is free from material error and 
+bias, and can be depended on by users to represent faithfully that 
+
+which it purports to represent or could reasonably be expected to 
+
+represent. 
+
+ 
+
+f. Faithful representation – information to represent faithfully 
+transactions and other events, it should be presented in 
+
+accordance with the substance of the transactions and other 
+
+events, and not merely their legal form 
+
+ 
+
+Further, Section 4 declares that the responsibility for the fair presentation and 
+
+reliability of financial statements rests with the management of the reporting entity, 
+
+particularly the head of finance/accounting office and the head of entity or his 
+
+authorized representative. 
+
+ 
+
+Verification of the Cash Receipts Journal (CRJ) disclosed that collections in 
+
+December 2020 totaling ₱13,239.01 were recorded as deposited when in fact, said 
+
+collections were still in the custody of the collecting officer at year end, to wit: 
+
+ 
+
+OR No. Amount 
+
+(₱) 
+
+Date Amount Deposited to 
+
+Collected Deposited Cash in 
+
+Bank, LCCA  
+
+Cash, Treasury/ 
+
+Agency Deposits 
+
+0456082 100.00 12/21/2020 1/05/2021  100.00 
+
+0456083 30.00 12/22/2020 1/05/2021  30.00 
+
+0456084 30.00 12/20/2020 1/05/2021  30.00 
+
+0449603 5,000.00 12/23/2020 1/05/2021 5,000.00  
+
+0449604 6,000.00 12/23/2020 1/05/2021 6,000.00  
+
+0445226 0.01 12/21/2020 1/05/2021  0.01 
+
+
+
+27 
+
+ 
+
+OR No. Amount 
+
+(₱) 
+
+Date Amount Deposited to 
+
+Collected Deposited Cash in 
+
+Bank, LCCA  
+
+Cash, Treasury/ 
+
+Agency Deposits 
+
+0445227 2,079.00 12/28/2020 1/05/2021  2,079.00 
+
+Total 11,000.00 2,239.01 
+
+ 
+
+The erroneous recording of the collections as deposited at year-end resulted in 
+
+the understatement of the Cash-CO account by ₱13,239.01 and overstatement of the 
+
+accounts Cash, Treasury/Agency Deposits, Regular by ₱2,239.01 and Cash in Bank, 
+
+LCCA by ₱11,000.00. 
+
+ 
+
+Further review of the CRJ and General Ledger (GL) showed that collections for 
+
+Bid Docs, Performance Security Deposits, Refund and Seminar Fees aggregating 
+
+₱105,035.13 were not posted in the GL, with the following details: 
+ 
+
+Particulars Amount (₱) 
+
+Cash Receipts Journal – Trust (Refund/NCCA)               2,079.51 
+
+Cash Receipts Journal – Trust (Bidders/Seminars/Others) 101,010.97 
+
+Cash Journal – NG Books 1,944.65 
+
+            Total 105,035.13 
+
+ 
+
+Although there is zero effect on the account balance of the Cash-CO at year-
+
+end, the non-posting to the GL did not conform to Section 114 of PD No. 1445 that 
+
+describes the GL as the book of final entry which summarizes all transactions recorded 
+
+in the General Journal (GJ) and special journals.  Section 48, Chapter 19, Volume I of 
+
+the GAM further explains that all the GL accounts and their balances at a given time 
+
+are listed in the Trial Balance (TB), and that the TB shows the equality of debit and 
+
+credit balances of all GL accounts as at a given period. 
+
+ 
+
+Financial statements do not comply with IPSASs when they contain either 
+
+material errors, or immaterial errors made intentionally to achieve a particular 
+
+presentation of an entity’s Statement of Financial Position, Statement of Financial 
+
+Performance, or Statement of Cash Flows. (Section 42, Chapter 19, Volume I, GAM) 
+ 
+
+It was further noted that the balance of ₱4,354.13 as of December 31, 2020 
+
+represents prior year’s collection, which remained unaccounted and undeposited. 
+
+ 
+
+We recommended and Management agreed to instruct the Accountant to: 
+
+ 
+
+a. prepare a Journal Entry Voucher (JEV) to reverse the erroneous entry of 
+deposit at year-end totaling ₱13,239.01, and subsequently record it on the 
+
+actual date of deposit; 
+
+ 
+
+b. exert extra effort to account and deposit the prior years’ balance of 
+₱4,354.13; 
+
+ 
+
+
+
+28 
+
+ 
+
+c. henceforth, summarize in the GL all transactions recorded in the GJ and 
+special journals, in conformity with accounting rules and regulations, and 
+
+disclose events after the reporting date in the Notes to FS instead of 
+
+erroneous inclusion in the current year. 
+
+ 
+
+ 
+ Unremitted balance of Cash in Bank, LCCA to BTr 
+
+ 
+
+2. The agency (a) did not remit to the Bureau of the Treasury (BTr) the year-end 
+balance of the account Cash in Bank, LCCA totaling ₱3,271,195.64 representing 
+
+the excess proceeds of receipts from sale of bid documents, registration/seminar 
+
+fees, and guaranty/security deposits, contrary to the GP of RA No. 11465 or the 
+
+GAA for FY 2020, depriving the government of funds that could have been used 
+
+for other necessary projects. Moreover, the Chief Accountant was (b) unable to 
+
+prepare and submit the bank reconciliation statements (BRS) on time, precluding 
+
+the timely verification and determination of reconciling items needing 
+
+adjustments, and (c) a prior year deposit of ₱262,863.89 was unaccounted due to 
+
+the absence of Credit Memos (CMs). 
+
+ 
+
+Section 7 of the GP of the GAA for FY 2020 provides that performance bonds 
+
+and deposits filed or posted by private persons or entities with government agencies 
+
+shall be deposited with the National Treasury and recorded as trust receipts, in 
+
+accordance with Executive Order (EO) No. 338 dated May 17, 1996. 
+
+ 
+
+Section 2 of  EO No. 338 provides that: 
+
+ 
+
+All existing balances of trust receipts deposited with authorized 
+
+government depository banks or any forthcoming trust receipt 
+
+which are intended to be deposited with authorized government 
+
+depository banks are hereby required to be deposited with the 
+
+National Treasury. 
+
+ 
+
+On the other hand, Section 12 of the GP authorizes government agencies which 
+
+conduct training programs in relation to their mandated functions to collect seminar, 
+
+conference, training and oath taking fees from government and private agency 
+
+participants. Such proceeds may be used for the conduct of said activities while any 
+
+excess proceeds shall be deposited with the National Treasury as income of the General 
+
+Fund. 
+
+       
+
+The same treatment is given to proceeds of sale of bid documents under 
+
+Paragraph 6.2 of DBM Budget Circular N o .  2004-5A dated October 7, 2005, to 
+
+wit: 
+
+ 
+
+Pursuant to DOF-DBM-COA Permanent Committee Resolution 
+
+No. 2005-2 dated June 2005, all agencies are authorized to treat 
+
+collections from proceeds of sale of bid documents as trust receipts 
+
+
+
+29 
+
+ 
+
+to be used exclusively for the payment of honoraria and overtime 
+
+pay herein authorized. Agencies may utilize up to one hundred 
+
+percent (100%) of the said collections for the payment of 
+
+honoraria and overtime pay xxx. Any excess in the amount 
+
+collected shall be remitted by NGAs to the Bureau of the Treasury. 
+
+xxx. 
+
+ 
+
+a) Non-remittance of receipts to BTr  
+ 
+
+Verification disclosed that contrary to the above-cited laws, rules and 
+
+regulations, the amount of ₱3,271,195.64 representing the excess proceeds at year-end 
+
+receipts from sale of bid documents, registration/seminar fees, and guaranty/security 
+
+deposits remained unremitted to the BTr as of December 31, 2020, depriving the 
+
+government of funds that could be used for other necessary projects.  The only detail 
+
+provided by the Accountant is as follows: 
+
+ 
+
+Particulars Amount (₱) 
+
+Beginning Balance 3,005,934.32 
+
+Add: CY 2020 Deposits  
+
+ Bid Docs, Performance/Bid Security                                  396,557.57  
+
+ Seminar Fee                                                                       52,000.00  
+
+Subtotal                                                                                             448,557.57  
+
+Less: CY 2020 Expenses                                                                             183,296.25  
+
+CY 2020 Balance  265,261.32 
+
+Balance as of December 31, 2020  3,271,195.64 
+
+ 
+
+b) Delayed preparation and submission of BRS 
+ 
+
+The preparation and submission of the BRS for the whole year was delayed, 
+
+thereby precluding the Audit Team from the timely verification and determination of 
+
+reconciling items needing adjustments, such as the agency’s failure to record in the 
+
+books the fund transfer from the National Commission on the Culture and the Arts 
+
+(NCCA) amounting to ₱900,000.00, understating the Due to NGAs account.  
+
+ 
+
+The BRS for January to October 2020 were submitted only on January 7, 2021, 
+
+while the BRS for November and December were in March 2021, in non-conformity 
+
+with  Sections 4 to 7, Chapter 21, Volume I of the GAM, which requires the Chief 
+
+Accountant/Designated Staff to: 
+
+ 
+
+1) prepare the monthly BRS for each of the bank accounts maintained by the 
+agency/entity within 10 days from receipt of the monthly Bank Statement (BS) 
+
+together with the paid checks, original copies of Debit Memoranda/Credit 
+
+Memoranda (CM) from the Government Servicing Bank; 
+
+2) reconcile the BS with the General Ledger; 
+3) prepare a Journal Entry Voucher (JEV) to recognize all reconciling items that 
+
+require adjustment and correction in the books of accounts; and 
+
+
+
+30 
+
+ 
+
+4) submit the BRS to the Audit Team  within 20 days after receipt of the BS. 
+ 
+
+c) a prior year deposits of ₱262,863.89 was unaccounted  
+ 
+
+Further verification of BRS disclosed a note “For Reconciliation (Prior Years)” 
+
+totaling ₱262,863.89 with no counterpart entry or corresponding match in the books.  
+
+Inquiry disclosed that the ₱262,863.89 pertained to prior year deposits, however, it was 
+
+unaccounted due to the absence of CMs.  
+
+ 
+
+We recommended and Management agreed to instruct the Accountant to: 
+
+ 
+
+a. classify the ₱3,271,195.64 receipts into: i) income of the general fund (sale of 
+bid documents and registration/seminar fees) and ii) trust receipts 
+
+(guaranty/security deposits) to be remitted to the BTr, in compliance with 
+
+Sections 7 and 12 GP of the GAA for FY 2020 and Paragraph 6.2 of DBM 
+
+Budget Circular 2004-5A; 
+
+ 
+
+b. prepare Journal Entry Voucher (JEV) to record the ₱900,000.00 fund 
+transfer from the NCCA under the account Due to NGAs; 
+
+ 
+
+c. account for the prior year deposit totaling ₱262,863.89 and prepare the 
+necessary adjusting entry; and 
+
+ 
+
+d. henceforth, strictly comply with the preparation and submission of the BRS 
+in compliance with  Sections 4 to 7, Chapter 21, Volume I of the GAM. 
+
+ 
+
+ 
+
+Unreliable Due from NGAs account balance 
+ 
+
+3. The variance of ₱22,945,433.59 between the accounting records and confirmation 
+replies rendered unreliable the balance of the account Due from NGAs totaling 
+
+₱26,856,990.57 as of December 31, 2020.  Moreover, discrepancy of ₱5,085.50 
+
+between the GL and the Subsidiary Ledger (SL), and unliquidated advances to 
+
+PS-DBM of ₱177,253.82 were noted. 
+
+ 
+
+a) discrepancy between the GL and SL 
+ 
+
+Section 114 of PD No. 1445 provides for a general ledger, to wit: 
+
+ 
+
+1. The government accounting system shall be on a double entry 
+basis with a general ledger in which all financial transactions 
+
+are recorded. 
+
+ 
+
+2. Subsidiary records shall be kept where necessary. 
+ 
+
+The SL stores the details or breakdown of the balance of the controlling account 
+
+appearing in the GL. The purpose of keeping subsidiary ledgers is for accuracy and 
+
+
+
+31 
+
+ 
+
+efficiency. The totals of the SL balances should be reconciled with their respective 
+
+control account regularly to ensure the accuracy of the two records.  
+
+ 
+
+Analysis of the four agencies comprising the account Due from NGAs with 
+
+balances aggregating ₱26,856,990.57 disclosed an unreconciled amount of ₱5,085.50 
+
+as of December 31, 2020, with details as follows: 
+
+ 
+
+Balance per book (GL) as of December 31, 2020 26,856,990.57 
+
+Balance per audit:  
+
+Name of 
+
+Contractor 
+
+Particulars Balance per 
+
+SL 
+
+ 
+
+1. Science and 
+Technology 
+
+Information 
+
+Institute (STII) 
+
+Establishment of 
+
+Infrastructure for Content 
+
+Development and 
+
+Digitization Component of 
+
+the Integrated Philippine 
+
+“e-Library (iPeL)” project 
+
+19,164,883.53 
+
+ 
+
+ 
+
+ 
+
+2. University of 
+the Philippines 
+
+System (UPS) 
+
+Enhancement of the 
+
+Philippine eLibrary Portal 
+
+including the Development 
+
+of an Integrated Library 
+
+System (ILS) and Content 
+
+Management System 
+
+(CMS) and Delivery of 
+
+Capacity Building and 
+
+Implementation Monitoring 
+
+Services of the Philippine 
+
+“Integrated Philippine 
+
+eLibrary (iPeL)” project. 
+
+7,358,919.24 
+
+3. Department of 
+Public Works 
+
+and Highways 
+
+(DPWH) 
+
+Fund Transfer for the 
+
+Construction of the Batanes 
+
+Provincial Library in Basco, 
+
+Batanes (Phase II) 
+
+150,848.48 
+
+4. PS-DBM Advances for common-
+used office supplies 
+
+177,253.82 
+
+Total 26,851,905.07 
+
+Discrepancy        5,085.50 
+
+ 
+
+A discrepancy between the SL and GL arise when error is committed during 
+
+posting in the GL or posting in the SL or due to unrecorded liquidations. The agency’s 
+
+Accountant, however, could not immediately pinpoint where the error lies because the 
+
+reconciliation of the ledgers is not yet completed. 
+
+ 
+
+b) Variance between accounting records and confirmation replies 
+
+
+
+32 
+
+ 
+
+ 
+
+Confirmations were sent to the four agencies with SL balances aggregating 
+
+₱26,851,905.07, three of which replied.  However, comparison of the confirmed 
+
+amount versus the SL balances showed a total discrepancy of ₱22,945,433.59. with the 
+
+following details 
+
+ 
+IA Date 
+
+Granted 
+
+Amount 
+
+Granted 
+
+Liquidation Balance per 
+
+SL  
+
+Balance per 
+
+Confirmation 
+
+Discrepancy 
+
+Amount (₱) 
+
+STII 06/02/2016 20,000,000.00 835,116.47 19,164,883.53 0.00 19,164,883.53 
+
+UPS 05/05/2016 7,358,919.24 0.00 7,358,919.24 3,620,595.63 3,738,323.61 
+
+DPWH 09/15/2015-
+Phase II 
+
+5,184,000.00 5,033,151.52 150,848.48 108,622.03 42,226.45 
+
+PS-DBM       177,253.82 No reply  
+
+Total    26,851,905.07  22,945,433.59 
+
+ 
+
+Confirmation replies from the three agencies showed the following: 
+
+ 
+
+1) The STII’s financial report showed an unexpended balance of ₱70,634.32, 
+
+which was refunded on May 3, 2019 per OR no. 0445109; thus, a zero balance 
+
+in its books. The project was completed in 2018. 
+
+ 
+
+2) The UPS reported a balance of ₱3,620,595.63.  A total of ₱3,738,323.61 from 
+
+the fund transfer of ₱7,358,919.24 had already been utilized and liquidated for 
+
+the intended project as of December 31, 2020. The project had been 
+
+substantially completed and is now being used by the end-users. 
+
+ 
+
+3) The DPWH’s financial record showed an unexpended balance of ₱108,622.03. 
+
+The intended project of the fund transfer was already completed, however, the 
+
+required Certificate of Completion as stated in the Memorandum of Agreement 
+
+(MOA) was not yet submitted to NLP. 
+
+ 
+
+The NLP failed to monitor the submission by the Implementing Agencies (IAs) 
+
+of RCIs, RDs and other supporting documents in compliance with COA Circular 94-
+
+013 and as stated in the MOA. It also did not regularly analyze its receivable accounts 
+
+to ensure that fund transfers are liquidated within the prescribed period; thus, rendered 
+
+the account’s balance unreliable. 
+ 
+
+Section 4.6 of COA Circular No. 94-013 - Rules and Regulations in the Grant, 
+
+Utilization and Liquidation of Funds Transferred to Implementing Agencies, dated 
+
+December 13, 1994 provides that: 
+ 
+
+Within ten days after the end of each month/end of the agreed 
+period for the project, the IA shall submit the Report of Checks 
+Issued (RCI) and the Report of Disbursement (RD) to report the 
+utilization of the funds.  Only actual project expenses shall be 
+reported.  The reports shall be approved by the Head of the IA. 
+
+
+
+33 
+
+ 
+
+ 
+
+While Section 5.4 provides that: 
+
+ 
+The SA shall require the IA to submit the reports and furnish the 
+IA with a copy of the journal voucher taking up the expenditures. 
+ 
+
+To ensure that fund transfers are liquidated within the prescribed period, 
+
+monitoring of IAs’ progress is necessary, including regular and periodic verification of 
+
+the reports being submitted by IAs.  Any unliquidated fund transfers is to be reconciled, 
+
+and all reconciling items noted is to be adjusted accordingly. The IA shall return to the 
+
+SA any unused balance upon completion of the project, in conformity with  Section 4.9 
+
+of the same COA Circular No. 94-013. 
+
+  
+
+c)  Undelivered advances to PS-DBM 
+ 
+
+Review of the SL for PS-DBM revealed that the ₱177,253.00 pertained to prior 
+
+years’ advances for the procurement of common-used office supplies, which remained 
+
+undelivered as of December 31, 2020, with details as follows: 
+
+ 
+
+Particulars   Advances   Deliveries   Amount (₱) 
+
+Beginning balance, 1/1/2019             369,002.98  
+
+CY 2019 68,080.53  220,606.44  (152,525.91)  
+
+CY 2020 41,822.50        81,045.75  (39,223.25)  
+
+Balance as of December 31, 2020             177,253.82  
+
+ 
+
+We recommended and Management agreed to require the Accountant to: 
+
+ 
+
+a. reconcile the discrepancy between the GL and the SL and prepare the 
+necessary adjusting entry; 
+
+ 
+
+b. coordinate closely with the IAs for the resolution of the discrepancies noted 
+between the SL balances and the confirmation results, and adjust the 
+
+affected accounts accordingly; 
+
+ 
+
+c. make representation with the IAs (DBM-PS, UPS and DPWH) for the 
+immediate refund of the unexpended balances; and 
+
+ 
+
+d. henceforth, monitor IAs’ progress to ensure that fund transfers are 
+liquidated within the prescribed period. 
+
+ 
+
+ 
+
+Unreliable Inventory Accounts 
+ 
+
+4. The balance of the inventory accounts totaling ₱8,662,843.47 as of December 31, 
+2020 is overstated by the (a) unrecorded materials and supplies issuances from 
+
+April to December 2020 with undetermined amount; (b) unrecorded issuances of 
+
+semi-expendable-books totaling ₱3,596,059.41; (c) misclassification as semi-
+
+
+
+34 
+
+ 
+
+expendable instead of intangible of e-Books amounting to ₱1,541,895.20, resulting 
+
+in unreconciled GL and Report of Physical Count of Inventories (RPCI) with a 
+
+variance of ₱8,318,785.17; thus, unreliable.  Moreover,  (d) no physical count was 
+
+conducted on semi-expendables, and (e) the Supply Ledger Cards (SLCs), which 
+
+is used to record receipt and issue of materials are not updated, aggravating the 
+
+inaccuracy of the inventory accounts. 
+  
+
+The inventory accounts with carrying amount of ₱8,662,843.47 as of December 
+
+31, 2020, is broken down below: 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Comparison between the RPCI and the inventory balances per books disclosed 
+
+a variance of ₱8,318,785.17 as of December 31, 2020, with the following details: 
+
+  
+
+Account Per GL (₱) Per RPCI (₱) Variance (₱) 
+
+Office Supplies Inventory 1,270,146.95 302,018.30 968,128.64 
+
+Other Supplies and 
+
+Materials Inventory 
+
+2,207,458.86 41,679.99 2,165,778.87 
+
+Semi-expendable ICT 
+
+Equipment 
+
+47,283.05 0.00 47,283.05 
+
+Semi-Expendable Books 5,137,954.61 0.00 5,137,954.61 
+Total 8,662,843.47 343,698.29 8,318,785.17 
+
+ 
+
+Further review of the Inventory accounts revealed that the variance noted was 
+
+a result of various deficiencies, resulting in overstatement of at least ₱5,137,954.61, 
+
+rendering the account unreliable. 
+
+ 
+
+a) Unrecorded materials and supplies issuances with undetermined amount 
+ 
+
+Only the issuances of office supplies for the period January to March 2020 were 
+
+recorded in the books, while the issuances for the months of April to December 2020 
+
+were not recorded and could not be accounted for due to non-submission by the 
+
+Property/Supply Officer of the Report of Supplies and Materials Issued (RSMI) 
+
+(Appendix 64), contrary to Section 17(g), Chapter 8, Volume I of the GAM, overstating 
+
+the Supplies Inventory and understating the Office Supplies Expenses.  The GAM 
+
+provides that the RSMI is prepared by the Property and/or Supply Custodian and shall 
+
+be used by the Accounting Division/Unit as basis in preparing the JEV to record the 
+
+supplies  and materials issued. 
+
+ 
+
+ 
+
+Accounts Amounts (₱) 
+Office Supplies Inventory 1,270,146.95 
+Other Supplies and Materials Inventory 2,207,458.86 
+Semi-expendable ICT Equipment      47,283.05 
+Semi-Expendable Books 5,137,954.61 
+
+Total 8,662,843. 47 
+
+
+
+35 
+
+ 
+
+b) Unrecorded issuances of semi-expendable-books 
+ 
+
+The semi-expendable books were immediately distributed to end-users 
+
+(Reading Room, Public Library Division and Reference Division) upon acquisition by 
+
+the Collection Development Division (CDD), however, no Inventory Custodian Slips 
+
+(ICSs) (Appendix 59) were prepared and submitted to the Accounting Section for 
+
+recording of their issuance, contrary to Section 17(l); thereby, overstating the Semi-
+
+Expendable-Books account and understating the Semi-Expendable-Books Expenses by 
+
+₱3,596,059.41 (₱5,137,954.61 minus ₱1,541,895.20). 
+
+ 
+
+c) Misclassification of  e-Books as semi-expendable instead of  intangible  
+ 
+
+Other Intangible Assets as described by the Revised Chart of Accounts, Volume 
+
+III of the GAM is used to recognize the cost of obtaining other identifiable non-
+
+monetary assets without physical substance xxx. This includes trademarks, marketing 
+
+rights, franchises, licenses, electronic copies (CD/DVD) of published materials, and 
+
+the like.  
+
+ 
+
+Verification disclosed that purchases of e-Books in years 2019 and 2020 
+
+aggregating ₱1,541,895.20 were recorded as semi-expendable instead of intangible, 
+
+which resulted in overstating the account Semi-Expandable-Books and understating the 
+
+account Other Intangible Assets and the related accumulated amortization. 
+ 
+d) No physical count of semi-expendables 
+
+ 
+
+Section 13 of the same Chapter emphasizes that physical count/inventory, 
+
+which is required semi-annually, is an indispensable procedure for checking the 
+
+integrity of property custodianship. The RPCI (Appendix 66) is described under Section 
+
+17(i) as the form used to report the physical count of supplies by type of inventory as 
+
+at a given date. These supplies include the semi-expendable property wherein the issue 
+
+is covered by ICS. 
+ 
+e) The SLCs are not updated 
+
+ 
+
+As provided in Section 17(c),  the SLC (Appendix 57) shall be used to record 
+
+materials received and issued, and their balances both in quantity and amount, at any 
+
+time. It shall be maintained by the Accounting Division/Unit for each kind of supplies 
+
+and materials. The maintenance of the SLC allows the verification of the amount of 
+
+inventory on hand at all times.  
+ 
+
+Review of the SLCs showed that the last transaction posted therein was in May 
+2017; thus, could not be relied upon to show accurate inventory balances both in 
+quantity and amount. 
+
+ 
+ 
+ 
+ 
+
+
+
+36 
+
+ 
+
+We recommended and Management agreed to: 
+ 
+
+a. require the Property/Supply Officer to prepare the RSMIs for the months 
+of April to December 2020 and submit these reports to the Accountant as 
+basis in preparing the JEV to record the supplies and materials issued; 
+ 
+
+b. instruct the CDD to coordinate with the Property/Supply Officer for the 
+preparation of ICS as basis in preparing the JEV to record the semi-
+expendable-books issued to end-users totaling ₱3,596,059.41; 
+
+ 
+c. instruct the Accountant to prepare JEV for the reclassification of the e-
+
+Books totaling ₱1,541,895.20 from Semi Expendable-Books to Other 
+Intangible Assets, and recognize the corresponding Accumulated 
+Amortization; 
+ 
+
+d. demand the Accountant to expedite the update of the SLCs; and 
+ 
+
+e. henceforth (i) require the Accountant and the Property/Supply Officer to 
+coordinate on the recording of receipts and issues of materials to ensure a 
+reconciled inventory records at any given time, and (ii) instruct the 
+Inventory Committee to include semi-expendables in the physical count of 
+inventories. 
+
+ 
+
+ 
+
+Unreliable PPE accounts balance 
+
+ 
+
+5. The reported PPE with total acquisition cost of ₱1,261,233,145.59 is not accurate 
+due to (a) unrecorded laptops that understated the account Information & 
+
+Communication Technology Equipment by ₱2,945,000.00; (b) erroneous 
+
+recording of e-Subscription that overstated the account Books by ₱989,030.00 and 
+
+understated the Subscription Expenses; (c) unrecorded PPE found at station with 
+
+undetermined cost ; (d) non-derecognition of transferred/disposed vehicles that 
+
+overstated the account Motor Vehicles by ₱2,574,020.00 and the corresponding 
+
+Accumulated Depreciation; (e) inclusion of semi-expendable items costing 
+
+₱145,565.00 in the PPE; and (f) non-inclusion of various PPE in the physical 
+
+count, aggravating the already material discrepancy of ₱961,898,378.84 between 
+
+the accounting records and RPCPPE.  Moreover, (g) the PPELCs and PCs are not 
+
+being maintained, and the PARs for some properties are not being issued. 
+
+  
+As of December 31, 2020, the PPE accounts of the NLP amounted to 
+
+₱1,261,233,145.59 with a total accumulated depreciation of ₱568,461,289.87.  
+ 
+Comparison of the GL balance of ₱1,261,233,145.59 against the Report on the 
+
+Physical Count of PPE (RPCPPE) reported balance of ₱458,220,460.07 disclosed a 
+discrepancy of ₱961,898,378.84, as shown on the next page: 
+
+ 
+
+
+
+37 
+
+ 
+
+PPE Accounts Per Accounting 
+
+Record 
+
+Per RPCPPE Variance 
+
+(₱) 
+
+Building and Other 
+
+Structures 
+
+285,298,273.27 329,435,572.68   44,137,299.41  
+
+Machinery 3,353,999.75 38,542,047.00   35,188,047.25  
+
+Office Equipment 21,605,307.30 9,152,005.50   12,453,301.80  
+
+Information & 
+
+Communication Technology 
+
+Equipment 
+
+160,738,727.06 64,901,911.93 95,836,815.13 
+
+Communication Equipment 1,779,829.32 1,068,980.00 710,849.32  
+
+Medical and Laboratory  and 
+
+Dental Equipment 
+
+0 117,500.00        117,500.00  
+
+Disaster Response and 
+
+Rescue Equipment 
+
+2,531,275.87 0.00     2,531,275.87  
+
+Other Machinery Equipment 16,406,397.75 4,099,620.26   12,306,777.49  
+
+Motor Vehicles 10,049,031.70 4,693,311.70     5,355,720.00  
+
+Furniture and Fixtures 14,381,560.91 6,209,511.00     8,172,049.91  
+
+Books 381,226,958.06 0.00 381,226,958.06  
+
+Construction In Progress 363,861,784.60 0.00 363,861,784.60  
+
+Total 1,261,233,145.59 458,220,460.07 961,898,378.84 
+
+ 
+
+Further review of the PPE accounts revealed that the variance noted was a result 
+
+of various uncorrected deficiencies and overstatement/understatement of PPE 
+
+accounts, rendering the said accounts unreliable. 
+ 
+
+a) unaccounted laptops understated the ICTE 
+ 
+
+Examination of pertinent documents revealed that purchases of e-Books (with 
+
+perpetual access) made during the current year totaling ₱5,567,149.09 were bundled 
+
+with 113 sets of laptops.  Further, the Audit Team noted errors in recording the 
+
+purchases, which resulted in overstatement/understatement of the affected accounts.  
+
+Details are as follows: 
+
+ 
+Particulars Amount (₱) Account 
+
+Charged 
+
+(Over)/Understatement (₱) 
+
+Books OSME ICTE Other 
+
+Intangible 
+
+Assets 
+
+Payment of e-Books 
+
+for Public Library 
+
+(Bundled with 48 
+
+sets of Laptops at 
+
+P27,500.00 each or 
+
+P1,320,000.00)- 
+
+perpetual access 
+
+2,767,149.09  Books (2,767,149.09)  1,320,000.00 1,447,149.09 
+
+
+
+38 
+
+ 
+
+Particulars Amount (₱) Account 
+
+Charged 
+
+(Over)/Understatement (₱) 
+
+Books OSME ICTE Other 
+
+Intangible 
+
+Assets 
+
+Purchase of e-Books 
+
+for Public Library 
+
+(Bundled with 65 
+
+sets of Laptops at 
+
+P25,000.00 each or 
+
+P1,625,000.00)- 
+
+perpetual access 
+
+2,800,000.00  Other 
+
+Supplies 
+
+and 
+
+Materials 
+
+Expenses 
+
+(OSME) 
+
+ (2,800,000.00) 1,625,000.00 1,175,000.00 
+
+Total 5,567,149.09  (2,767,149.09) (2,800,000.00) 2,945,000.00 2,622,149.09 
+
+ 
+
+The 113 sets of laptops that were bundled with the purchase of e-Books were 
+
+not recognized as PPE under the account ICTE, contrary to Section 4, Chapter 10, 
+
+Volume I of the GAM, which provides: 
+
+ 
+
+The capitalization threshold of P15,000 represents the minimum 
+cost of an individual asset recognized as PPE on the Statement of 
+Financial Position. 
+
+ 
+
+While the e-Books are considered intangible that should be recorded under the 
+
+account Other Intangible Assets. The erroneous recording of the purchase of e-Books 
+
+packaged with laptops resulted in the understatement of the accounts Other Intangible 
+
+Assets and ICTE by ₱2,622,149.09 and ₱2,945,000.00, respectively, and overstatement 
+
+of Books and Other Supplies and Materials Expenses by ₱2,767,149.09 and 
+
+₱2,800,000.00, respectively. 
+
+ 
+
+Further, the non-recording of the 113 laptops as ICTE, and their non-inclusion 
+
+in the RPCPPE expose said laptops to risk of loss or misuse. 
+
+ 
+
+Section 42(g) of the same Chapter of the GAM states the necessity of RPCPPE, 
+
+to wit: 
+
+ 
+
+Report on the Physical Count of Property, Plant and Equipment 
+(Appendix 73) – this form shall be used to report the physical count 
+and condition of PPE by type as at a given date, including those 
+which are unrecorded and those which could not be accounted for. 
+It shows the balance of PPE per property cards and per count and 
+the shortage/overage, if any. It shall be rendered by the Inventory 
+Committee, on its yearly physical count of properties owned by 
+the entity. 
+
+ 
+
+b) erroneous recording of e-Subscription 
+ 
+
+The 12-month subscription of NLP to “iGLibrary eBooks” starting January 23, 
+
+2020 in the total amount of ₱989,030.00 was recorded as PPE under the account Books 
+
+instead of Subscription Expenses; thus, overstating the latter and understating the 
+
+
+
+39 
+
+ 
+
+Subscription Expenses by the same amount. The subscribed “iGLibrary eBooks”, 
+
+which is not downloadable, automatically expires at the end of the subscription period 
+
+unless renewed. 
+
+ 
+
+Prior years audit observations that were not resolved by management during the 
+
+year are reviewed and updated, and reiterated in this report. The following deficiencies 
+
+have been discussed in the CY 2019 AAR: 
+
+ 
+
+c) unrecorded PPE found at station 
+
+Section 38 of the same Chapter of the GAM requires for the recording of assets 
+
+found at stations, as quoted below: 
+ 
+
+Equipment found at station and losses discovered during the 
+physical count shall be reported to the Accounting Division /Unit 
+for proper accounting/recording. 
+ 
+
+Enumerated below are 50 air-conditioning units and two sets of Body 
+
+Temperature Scanner that were found by the Audit Team installed in different 
+
+areas/offices of the NLP Building, during their inspection.  Verification disclosed that 
+
+these equipment were not recorded in the books of NLP: 
+ 
+
+Quantity Serial Nos. Location 
+
+Floor Mounted Air Conditioner, Carrier, Model No. CFE06-230-REM-CAR 
+
+4 units 0319-0025873 
+3418-0036141 
+4318-0373939 
+4219-8372903 
+
+Antonio Santos Hall, Ground 
+Floor 
+
+4 units 4318-8373930 
+4318-8373944 
+4318-0373918 
+4318-0373920 
+
+Main Lobby, Ground 
+Floor 
+
+9 units 0319-0025837 2nd Floor Reading Area 
+(Reference) 0319-0025833 
+
+0319-0025889 
+0319-0025828 
+0319-0025832 
+0319-0025876 
+0319-0025848 
+0319-0025829 
+0319-0025834 
+
+
+
+40 
+
+ 
+
+Quantity Serial Nos. Location 
+
+9 unit 0319-0025860 
+0319-0025868 
+0319-0025871 
+1819-0151412 
+0319-0025891 
+0319-8825892 
+1819-0015407 
+0319-0025853 
+0319-0025888 
+
+2nd Floor Mezzanine, 
+Reference 
+
+7 units 4318-0373928 
+0119-0008063 
+0019-0008058 
+4318-0373913 
+4318-0373925 
+4318-0373941 
+4318-0373915 
+
+3rd Floor Reading Area, 
+Filipiniana 
+
+9 units 4318-0373928 
+4318-0373935 
+4318-0373906 
+4318-0373908 
+4318-0373936 
+4318-0373940 
+4318-0373898 
+4318-0373942 
+4318-0373923 
+
+3rd Floor Mezzanine, 
+Filipiniana 
+
+Ceiling Cassette Inverter Air Conditioner, Carrier, Model No. ASCO6-230 
+3PH 
+4 units 1019-0090279 
+
+1019-0090278 
+1019-0090266 
+1019-0090284 
+
+Ground Floor Lobby 
+
+Floor Mounted Air Conditioner, Carrier, Model No. CFE06-230-REM-CAR 
+4 units  Auditorium 
+
+HIKVISION Walk-through Body Temperature Scanner with TV monitor & 
+camera 
+2 sets E49184193 
+
+E60440867 
+Main Lobby 
+Antonio A. Santos Lobby 
+
+ 
+The above air conditioning units were delivered and installed by the contractor 
+
+AC Tumang Construction, however, review of the itemized cost breakdown for the 
+
+related contract disclosed that there was no pay item for the provision of such 
+
+equipment. 
+ 
+
+On the other hand, the HIKVISION Walk-through Body Temperature Scanner 
+
+was alleged to be a donation, however, no documents are presented to the Audit Team 
+
+
+
+41 
+
+ 
+
+to validate the claim. 
+
+ 
+
+In addition, the following four sets of ICTE were found at the Batanes 
+
+Provincial Library during inspection by the Auditors in CY 2019: 
+
+ 
+
+Quantity Description Property No. Amount (₱) 
+
+1 set Computer Desktop (CPU, 
+
+Monitor, Keyboard and Mouse) 
+
+NL-2954  
+
+3 sets Computer Desktop NL-2955 1M to 2M 79,528.80 
+
+ 
+
+Per interview with the Property Officer, the set of ICTE with Property No. NL-
+
+2954 was one of the freebies or additional offer/package received by CDD from the 
+
+supplier of e-Books, while the three sets of ICTE were donated/transferred properties 
+
+from the Department of Information and Communication Technology (DICT) last July 
+
+11, 2018. 
+ 
+
+Further, the following items were also found at station: 
+ 
+
+  Description Quantity Unit price Total 
+
+ (₱) 
+
+Book scanner 2 1,200,000.00 2,400,000.00 
+
+Portable hard Drive 1 2,100,000.00 2,100,000.00 
+Portable hard Drive 1 525,000.00   525,000.00 
+
+Total   5,025,000.00 
+
+ 
+
+These equipment found at station were not accounted in the books nor in the 
+
+property records; thus, the PPE Ledger Card (PPELC) (Appendix 71) and Property Card 
+
+(PC) (Appendix 70) for the said properties to record the description, acquisition, 
+
+transfer, disposal, and other information about the PPE were not maintained. Also, no 
+
+Property Acknowledgement Receipt (PAR) (Appendix 72) to report the issuance of PPE 
+
+and the acknowledgement of the end-user was prepared yet for the air conditioning 
+
+units. 
+
+ 
+
+The Accountant explained that she has no basis in recording the equipment 
+
+since she was not furnished with copy of pertinent documents. Likewise, the Property 
+
+Officer could not prepare the PC and PAR due to lack of documents. 
+
+ 
+
+d) non-derecognition of transferred/disposed vehicles 
+
+Verification showed that four units of motor vehicles, Mazda T-2500 Chassis 
+
+CAB with Van, amounting to ₱2,200,000.00, that were already donated/transferred to 
+
+the affiliated public libraries on March 2019 were still carried in the books, with details 
+
+below: 
+ 
+Property No. Chassis No. Engine No. Recipient Amount (₱) 
+
+NL-1440-5 WE5AT- C3499 Samar Provincial 550,000.00 
+
+
+
+42 
+
+ 
+
+MFOO1383 Library 
+NL-1440-8 WE5AT- 
+
+MFOO1386 
+C3501 Iloilo Provincial 
+
+Library 
+550,000.00 
+
+NL-1440-9 WE5AT- 
+MFOO1387 
+
+C3502 Negros Occidental 
+Provincial 
+
+550,000.00 
+
+NL-1440-10 WE5AT- 
+MFOO1388 
+
+C3503 Zamboanga  del 
+Norte Library 
+
+550,000.00 
+
+Total 2,200,000.00 
+
+ 
+
+Moreover, the Inventory and Inspection Report of Unserviceable Property 
+
+(IIRUP) as of October 5, 2016, listed one unit of Mitsubishi L300 vehicle costing 
+
+₱374,020.0. This was subsequently disposed through sale in December 2016 but was 
+
+not derecognized in the books, in non-conformity with Sections 15 and 39 of Chapter 
+
+10, Volume I of the GAM, as quoted, respectively, below: 
+
+ 
+Transfer from one government entity to another shall be 
+recognized by recipient entity at net carrying value. The transferor 
+shall derecognize the PPE account upon transfer. 
+
+ 
+
+The carrying amount of an item of PPE shall be derecognized on 
+disposal or when no future economic benefits or service potential 
+is expected from its use or disposal. 
+
+ 
+
+Failure to drop from the books the cost of the transferred/disposed vehicles 
+
+overstated the Motor Vehicles account by ₱2,574,020.00, and the related Accumulated 
+
+Depreciation account. 
+
+ 
+
+e) inclusion of semi-expendable items in the PPE 
+ 
+
+The Furniture and Fixtures account included the following items costing 
+
+₱145,565.00, which should have been treated as semi-expendable considering that their 
+
+unit costs were below the capitalization threshold of ₱15,000.00, in accordance with 
+
+Section 3, Chapter 10, Volume I of the GAM on the Criteria for Recognition of PPE: 
+
+ 
+
+Quantity Description Unit Cost (₱) Unit Cost (₱) 
+
+5 pcs Self-reading carousel 14,663.00 73,315.00 
+
+10 pcs Office Chair 7,225.00 72,250.00 
+
+Total 145,565.00 
+
+ 
+
+The Revised Chart of Accounts, Volume III of the GAM prescribes the account 
+
+Semi-Expendable to recognize the cost/fair value of purchased/acquired item costing 
+
+less than ₱15,000.00 for the use in government operations. 
+
+ 
+
+f) non-inclusion of various PPE in the physical count 
+ 
+
+It was learned that no physical count of books was conducted since year 2014; 
+
+
+
+43 
+
+ 
+
+hence, the existence, condition and completeness of the recorded balance of the account 
+
+Books of ₱381,226,958.06 , which comprised 30.23 percent of the total PPE account 
+
+balance, was not established. 
+
+ 
+
+It was gathered that the NLP Catalog Division (CD) is the one responsible for 
+
+the receipt and issuance of the acquired library materials. Those books intended for the 
+
+affiliated public libraries are issued by the CD to the Public Library Division (PLD) for 
+
+eventual distribution to the public libraries. While those books which are to be used as 
+
+reference materials in the NLP Library are issued to the Reference Division (RD) and 
+
+Filipiniana Division (FD). 
+ 
+
+Though the Accountant is now being furnished with copy of Property Transfer 
+
+Report (PTR), he commented that he still could not record the transactions due to 
+
+incomplete information therein, such as the date when the books are acquired and the 
+
+corresponding acquisition cost; thus, there is a possibility that the reported balance of 
+
+the account Books still included the cost of books that were already distributed to 
+
+affiliated public libraries as well as those books with unit cost of below ₱15,000.00 that 
+
+should have already been reclassified to Semi-Expendable Books account upon the 
+
+implementation of the GAM. 
+
+ 
+
+Likewise, the Disaster Response and Rescue Equipment and the ongoing 
+
+construction projects of the NLP were not included in the physical inventory taking, as 
+
+can be gleaned from their zero balance under the column RPCPPE in the comparative 
+
+table shown in page 37. 
+
+ 
+
+g) non-maintenance of PPELC, PC and PAR 
+
+Further review showed that no PPELC and PC were prepared and maintained 
+
+by the Accounting Section and Property Section, respectively, for the books. Likewise, 
+
+no property accountability records, either PAR or ICS, were prepared and issued by the 
+
+Property Section to the custodian in the NLP Library of the reference books that were 
+
+acquired in previous years ; thus, accountability therefor could not be established. It 
+
+was only in CY 2019 that the Property Officer started the issuance of PAR or ICS to 
+
+concerned Section Heads of the RD and FD, who are the ones responsible for the 
+
+safekeeping and maintaining of the books. 
+ 
+
+Section 42 of the same Chapter of the GAM, states: 
+
+ 
+Accounting and Property Records to be maintained for PPE. The 
+Chief Accountant shall maintain the PPELC for each category of 
+PPE xxx. For check and balance, the Property and Supply 
+Office/Unit shall likewise maintain PC for PPE in their custody to 
+account for the receipt and disposition of the same. The balance 
+per PC shall be reconciled with PPELC maintained by the 
+Accounting Division/Unit. They shall also be reconciled with 
+other property records like PAR. 
+
+ 
+
+
+
+44 
+
+ 
+
+Considering the materiality of the amount of discrepancy, a thorough 
+
+examination of the accounting and property records and an extensive physical count of 
+
+all the agency’s properties should be conducted. 
+
+ 
+
+The above noted deficiencies casted doubt on the reliability of the reported PPE 
+
+accounts balance, affecting the fair presentation of the agency’s financial statements. 
+
+ 
+
+We recommended and Management agreed to require the: 
+
+ 
+
+a. Assistant Director to: 
+(i) develop a plan/strategy for the reconciliation of the PPE accounts, 
+
+detailing the activities to be undertaken, personnel to be assigned for 
+the activity, duration and corresponding deliverables; 
+
+ 
+(ii) oversee the proper implementation of the reconciliation plan/strategy 
+
+and monitor the progress of the reconciliation process; and 
+ 
+
+(iii) assess the capacities of all the personnel involved in the receipt, 
+disposition and management of the PPE, and accordingly conduct 
+capacity development and/or replace the personnel incapable of 
+performing the required function. 
+
+ 
+
+b. PLD to: 
+(i) furnish the Accounting Unit with pertinent records/documents on the 
+
+library materials that were distributed to affiliated public libraries in 
+
+prior years so that the same could be dropped from the books; and 
+
+(ii) provide relevant information in the PTR for easy cross-referencing in 
+the accounting records. 
+
+ 
+
+c. Property Office to: 
+(i) determine the fair value of properties found at station for recording in 
+
+the books; 
+
+(ii) issue applicable property accountability records for the PPE found at 
+station and for the reference books in the NLP Library; and  
+
+(iii) prepare and maintain PC for all PPE. 
+ 
+
+d. Accountant to: 
+(i) record the unaccounted laptops and all other freebies from the 
+
+purchase of e-books, journals and other reading materials and prepare 
+
+the necessary adjusting entries to correct the erroneous recording of 
+
+the affected accounts; 
+
+(ii) record in the books those PPE found at station; 
+ 
+
+(iii) drop from the books the cost of books already issued to public libraries 
+based on the report of the PLD as well as those transferred/disposed 
+
+PPE; 
+ 
+
+(iv) reclassify those books with unit cost below the capitalization threshold 
+to the proper account; and 
+
+ 
+
+
+
+45 
+
+ 
+
+(v) prepare and maintain PPELC for the library reference books with unit 
+cost of ₱15,000.00 and above; 
+
+ 
+
+e. Inventory Committee to: 
+(i) conduct an extensive physical count of all properties, including books, 
+
+Disaster Response and Rescue Equipment and Construction in 
+Progress (CIP) accounts; and 
+
+(ii) immediately reconcile the result of physical count with the accounting 
+and property records, for early detection and adjustment of 
+discrepancy. 
+
+ 
+
+ 
+
+Unreliable CIP account balance 
+ 
+
+6. The validity, reliability and propriety of the account balance of the CIP as of 
+December 31, 2020 amounting ₱363,861,784.60 could not be ascertained due to: 
+
+(a) the inadequacy of documentary requirements to support the claims for 
+
+payment in the DVs; (b) the lack of signatures/approval by duly authorized 
+
+officials on the DVs; and (c) the discrepancy of ₱158,217.99 between the GL and 
+
+the CIP breakdown, all in violation of pertinent laws and regulations.  Moreover, 
+
+(d) the delayed submission of contracts and supporting documents precluded the 
+
+Audit Team from timely review and from issuing corrective measures that would 
+
+prevent deficiencies to occur. 
+
+ 
+
+a) Inadequacy of documentary requirements to support claims 
+ 
+
+Section 4.6 of P.D No. 1445 provides that all claims against government funds 
+
+shall be supported with complete documentation. 
+
+ 
+
+Verification of the DVs for the payments made to A.C. Tumang Construction 
+
+for the “Structural Retrofitting of NLP including restoration of the affected areas Phase 
+
+V: Design and Build” disclosed that as of December 31, 2020, the contractor had 
+
+already claimed 97.91 percent work accomplishment from January 15, 2018 to July 17, 
+
+2020 amounting to ₱277,318,741.01, as shown below:    
+ 
+
+Check/ 
+
+LDDAP-ADA 
+
+No. 
+
+Date Particulars Period Covered % Work 
+
+Accom- 
+
+plishment 
+
+Amount (₱) 
+
+18-11-025 11-15-18 1st Progress billing 01/15/18 - 09/11/18 26.29 71,832,113.15 
+
+2370403 12-28-18 2nd Progress billing 09/12/18 - 12/04/18 3.75 34,848,675.93 
+
+19-06-031 06-20-19 3rd Progress billing 12/05/18 - 03/12/19 25.83 45,996,922.88 
+
+19-09-053 09-28-19 4th Progress billing 03/13/19 - 06/17/19 20.12 54,922,494.60 
+
+19-12-722 12-10-19  5th Progress billing 06/18/19 - 09/17/19 14.92 40,752,528.48 
+
+02381757 06-29-20  Variation W.O. Not indicated  10,331,922.11 
+
+20-12-455 12-06-20  6th Progress billing 09/18/19 - 07/17/20 6.79 18,564,083.86 
+
+Total  97.91 277,318,741.01 
+
+ 
+
+Examination of the supporting documents for the Progress billings payments 
+
+
+
+46 
+
+ 
+
+disclosed the absence of the following documentary requirements for infrastructure 
+
+project before any payment is made to contractor, as provided for in Section 9.1.1 of 
+
+COA Circular No. 2012-001: 
+
+  
+
+a. Program of Work and Detailed Estimates 
+b. Copy of the approved PERT/CPM Network Diagram and detailed 
+
+computations of contract time 
+
+c. Detailed Breakdown of the Contract Cost 
+
+• including the detailed breakdown estimates and/or unit cost 
+analysis/derivation for each work item expressed in volume/area/lump 
+
+sum/lot for the infrastructure project. 
+
+• Indicating costs and dates of acquisition of the equipment, quantities 
+and cost of materials, spare parts, and supplies furnished by the 
+
+contractor 
+
+d. Inspection Report by the Agency’s Authorized Engineer 
+e. Copy of complete set of approved plans/drawings and technical specifications 
+
+projects for infrastructure projects, complete technical description of 
+
+equipment and accessories, scope of work 
+
+f. Accurate Statement of Elapsed 
+g. Certificate of payment 
+h. Complete pictures of before, during and after construction of items of work 
+
+especially the embedded items 
+
+i. Contract Plans in accordance with guidelines and standards adopted by 
+procuring entity concerned, incorporating at least of the following: 
+
+• Site development plan 
+
+• Plans and profile sheet  
+
+• typical section and details 
+
+• Draining details where applicable 
+
+• Structural plans at appropriate scale indicating all details necessary in 
+order that the complete structure can be set out and constructed 
+
+ 
+
+Moreover, the required supporting documents for variation work order, as 
+
+enumerated in Annex B of COA Circular No. 2009-001, were not attached to the claim, 
+
+as follows: 
+
+ 
+
+1. Copy of approved change order (CO)/Extra Work Order (EWO) 
+2. Copy of the approved original plans indicating the affected portion(s) of the 
+
+project and duly revised plans and specifications, if applicable, indicating the 
+
+changes made which shall be color coded. 
+
+3. Copy of the agency’s report establishing the necessity/justification(s) for the 
+need of such CO and/or EWO which shall include: 
+
+a. The computation as to the quantities of the additional works involved 
+per item indicting the specific stations where such works are needed; 
+
+b. The date of inspection conducted and the results of such inspection; 
+c. A detailed estimate of the unit cost of such items of work for new unit 
+
+costs including those expressed in volume/area/lump-sum/lot. 
+
+
+
+47 
+
+ 
+
+4. Copy of the approved/revised PERT/CPM Network Diagram which shall be 
+color coded, reflecting the effect of additional/deductive time on the contract 
+
+period and the corresponding detailed computations for the additional/ 
+
+deductive time for the subject CO/EWO. 
+
+5. Copy of the approved detailed breakdown of contract cost for original 
+contract 
+
+6. Copy of the approved detailed breakdown of contract cost for the variation 
+order. 
+
+ 
+
+On July 17, 2020, the project had a work accomplishment amounting to 
+
+₱259,612,523.70 or equivalent to 95 percent of the total contract price of 
+
+₱273,276,340.74, however, the NLP failed to create an inspectorate team to make 
+
+preliminary inspection and submit a punch-list to the contractor in preparation for the 
+
+final turn-over of the project. 
+
+ 
+
+Lack of complete documentation by management for the implementation of the 
+
+projects undertaken by the contractor hindered proper validation on the existence and 
+
+extent of the project accomplishments, including evaluation of the reasonableness of 
+
+the expenditures incurred.  Likewise, review, evaluation and inspection by COA 
+
+Technical Audit Team could not be done. 
+
+ 
+
+Section 2 of PD No. 1445 states that “It is the declared policy of the State that 
+
+all resources of the government  shall be managed, expended or utilized in accordance 
+
+with law and regulations, and safeguarded against loss or  wastage through illegal or 
+
+improper disposition, with a view to ensuring efficiency, economy and effectiveness in 
+
+the operations of the government.  The responsibility to take care that such policy is 
+
+faithfully adhered to rests directly with the chief or head of the government agency 
+
+concerned.” 
+
+ 
+
+b) absence of signatures/approval by duly authorized officials 
+ 
+
+Section 4.5 of PD No. 1445 states that “Disbursements or disposition of 
+
+government funds or property shall invariably bear the approval of the proper officials.” 
+
+ 
+
+Verification of paid DVs and supporting documents for A.C. Tumang 
+
+Construction bear no complete signatures and certification of the duly authorized  
+
+officials. 
+
+ 
+LDDAP-
+
+ADA/Check No. 
+
+Date Particulars Amount (₱) Remarks 
+
+18-11-025 11-15-18 1st  Billing 71,832,113.15 No signature in Box A of DV as to  
+
+certification that the expenses/cash 
+
+advances are necessary, lawful and 
+
+incurred under his/her direct supervision 
+
+
+
+48 
+
+ 
+
+2370403 12-28-18 2nd Billing 34,848,675.93 No signatures on the following DV boxes  
+
+1. Box A, as to certification that the 
+expenses/cash advances necessary, 
+
+lawful and incurred under his/her 
+
+direct supervision. 
+
+2. Box C as to certification on: 
+
+• Cash available 
+
+• Subject to Authority to Debit 
+Account (when applicable)  
+
+• Supporting documents and 
+amount claimed proper 
+
+ 
+
+Paid vouchers with incomplete signatures by duly authorized officials indicate 
+
+inadequate control over disbursement of government funds.  This also signifies failure 
+
+of the key officials in performing their duties and responsibilities. 
+
+ 
+
+c) Discrepancy of ₱158,217.99 between the GL and the CIP details per contract 
+ 
+
+Analysis of the account CIP disclosed an unreconciled balance between the GL 
+
+and its details per contract of ₱158,217.99 as of December 31, 2020, details as follows: 
+ 
+
+Balance per book (General Ledger) as of December 31, 2020 363,861,784.60 
+
+Balance per audit of CIP breakdown:  
+
+Name of Contractor Particulars Amount (P)  
+
+1. DPWH – Phase I 
+          Phase II 
+
+Fund Transfer for the Construction 
+
+of the Batanes Provincial Library in 
+
+Basco, Batanes 
+
+8,978,177.67 
+
+4,874,933.33 
+
+ 
+
+2. A.C. Tumang 
+Construction 
+
+(Phase V) 
+
+Structural retrofitting of NLP 
+
+including restoration of the affected 
+
+areas Phase V: Design and Build 
+
+277,318,741.01 
+
+3. P.E.R.R.C 
+Construction and 
+
+Development Corp. 
+
+Design, Construction work, supply, 
+
+installation testing and 
+
+commissioning of Gas-based fire 
+
+detection, suppression and control 
+
+system of NLP 
+
+39,294,164.60 
+
+4. Dex International 
+Company 
+
+Supply, installation and 
+
+commissioning of passenger, cargo 
+
+and book elevator of NLP 
+
+33,237,550.00 
+
+Total 363,703,566.61 
+
+ Discrepancy 158,217.99 
+
+ 
+
+Among the reasons of the discrepancy was the non-maintenance of SL. 
+
+ 
+
+The SL stores the details or breakdown of the balance of the controlling account 
+
+appearing in the GL. The purpose of keeping SLs is for accuracy and efficiency. The 
+
+totals of the SL balances should be regularly reconciled to ensure the accuracy of the 
+
+two records. This is emphasized in Section 114 of PD No. 1445, which provides that 
+
+the government accounting system shall be on a double entry basis with a general 
+
+ledger in which all financial transactions are recorded, and that subsidiary records shall 
+
+be kept where necessary. 
+
+ 
+
+
+
+49 
+
+ 
+
+d) delayed submission of contracts and supporting documents for review  
+ 
+
+Section 3.1.1 of COA Circular 2009-001 states “that within five (5) working 
+
+days from the execution of a contract by the government or any of its subdivisions, 
+
+agencies or instrumentalities, including government-owned and controlled 
+
+corporations and their subsidiaries, a copy of said contract and each of all the 
+
+documents forming part thereof by reference or incorporation shall be furnished to the 
+
+Auditor of the Agency concerned xxx”. 
+
+ 
+
+The basic contract documents that are required to be submitted to the Auditor 
+
+are listed in Section 3.1.2 of said Circular. The same documents are enumerated under 
+
+RA No. 9184 that form part of infrastructure contract. 
+
+ 
+
+Record shows that the contract and supporting documents of the following 
+
+Infrastructure Projects of the NLP were not submitted to the Audit Team within five 
+
+working days from execution of a contract, contrary to Section 3.1.1 of COA Circular 
+
+2009-001. The contracts were only submitted to the Audit Team during the submission 
+
+of DVs for the payment of 15 percent Mobilization Fee, as follows: 
+ 
+
+Contractor Projects Contract Date Date Submitted  Remarks 
+
+A.C. Tumang 
+
+Construction 
+
+(Phase V) 
+
+Structural retrofitting 
+
+of NLP including 
+
+restoration of the 
+
+affected areas Phase V: 
+
+Design and Build 
+
+December 18, 
+
+2017 
+
+Upon submission 
+
+of the DV for 
+
+payment of 
+
+mobilization fee. 
+
+ 
+
+P.E.R.R.C 
+
+Construction 
+
+and 
+
+Development 
+
+Corp. 
+
+Design, Construction 
+
+work, supply, 
+
+installation testing and 
+
+commissioning of Gas-
+
+based fire detection, 
+
+suppression and 
+
+control system of NLP 
+
+February 3, 
+
+2020 
+
+Upon submission 
+
+of the DV for 
+
+payment of 
+
+mobilization fee. 
+
+Date of Notice 
+
+to proceed in 
+
+handwritten 
+
+and in pencil 
+
+only.  
+
+Dex 
+
+International 
+
+Company 
+
+Supply, installation 
+
+and commissioning of 
+
+passenger, cargo and 
+
+book elevator of NLP 
+
+February 3, 
+
+2020 
+
+Upon submission 
+
+of the DV for 
+
+payment of 
+
+mobilization fee. 
+
+Notice to 
+
+Proceed has 
+
+no date. 
+
+ 
+
+The delayed submission of the contract and supporting documents prevented 
+
+the Audit Team from conducting a timely review thereof; thus, measures to correct the 
+
+noted deficiencies were not immediately communicated.  
+
+ 
+
+We recommended and Management agreed to: 
+
+ 
+
+a. instruct the BAC to submit to the Audit Team: 
+i. the required documents to be forwarded to the COA Technical Audit 
+
+Team for review and evaluation; and 
+
+ii. henceforth, copies of contracts together with the complete supporting 
+documents within five working days from execution thereof as 
+
+
+
+50 
+
+ 
+
+provided in Section 3.1.2  of COA Circular 2009-001 and pertinent 
+
+provision of the 2016 Revised IRR of R.A. 9184. 
+
+ 
+
+b. instruct the Accountant to: 
+i. ensure that all DVs and supporting documents are complete and duly 
+
+signed by authorized officials; 
+
+ii. reconcile the discrepancy in the CIP account and prepare the necessary 
+adjusting entry; and 
+
+iii. prepare the SL of the CIP account pursuant to Section 114 of PD No. 
+1445. 
+
+ 
+
+ 
+
+Non-compliance with pertinent provisions of RA No. 9184. 
+
+ 
+
+7. The agency did not comply with pertinent provisions of Annex E, 2016 Revised 
+Implementing Rules and Regulations (RIRR) of RA No. 9184 on the Contact 
+
+Implementation Guidelines for the Procurement of Infrastructure Projects 
+
+ 
+
+1) Requests for time extension for Infrastructure Project were not supported 
+with proper documents, as required in Section 10 of Annex E; hence, the Audit 
+
+Team could not validate the reasons stated therein. 
+
+ 
+
+Section 10, Annex E states: 
+
+ 
+
+10.1 Should the amount of additional work of any kind or other 
+
+special circumstances of any kind whatsoever occur xxx, delivered 
+
+to the procuring entity notices in order that it could have 
+
+investigated them at that time.  Failure to provide such notice shall 
+
+constitute a waiver by the contractor of any claim. Upon receipt of 
+
+full and detailed particulars, the procuring entity shall examine the 
+
+facts and extent of the delay and shall extend the contract time 
+
+completing the contract work when, in the procuring entity's 
+
+opinion, the findings of facts justify an extension. 
+
+ 
+
+10.3 Extension of contract time may be granted only when the 
+
+affected activities fall within the critical path of the PERT/CPM 
+
+network. 
+
+ 
+
+10.4 No extension of contract time shall be granted when the 
+
+reason given to support the request for extension was already 
+
+considered in the determination of the original contract time 
+
+during the conduct of detailed engineering and in the preparation 
+
+of the contract documents as agreed upon by the parties before 
+
+contract perfection. 
+
+ 
+
+
+
+51 
+
+ 
+
+Verification disclosed that there were several requests for extension by A.C. 
+
+Tumang Construction for the project “Structural Retrofitting of NLP including 
+
+restoration of the affected areas Phase V: Design and Build”, as follows:   
+ 
+Date of Letter 
+
+request 
+
+Reasons No. of days of 
+
+extension 
+
+Remarks 
+
+11/16/2018 1. Clearing works left by the Global V 
+Const. from the start of AC Tumang 
+
+Construction up to present 
+
+2. General testing from reinforcing bars 
+of front extension left wing of NLP 
+
+3. Testing of MS plate and wide flanges 
+for all mezzanine floors 
+
+4. Multiple variations of work to meet 
+with the budget constraint of NLP is 
+
+also an effect 
+
+5. Working drawings or as-built which 
+have to be done in all possible areas 
+
+to be open to public as soon as 
+
+possible 
+
+6. Since NLP is operational while 
+design and build construction is 
+
+under taken, moving of furniture, 
+
+shelves and books have to be 
+
+transferred from one area to another 
+
+and absolutely taking our time 
+
+Not indicated 
+
+in the request 
+
+The  request was only 
+
+attached on 6th 
+
+progress billing under 
+
+SWA covering  
+
+09/18/19 - 07/17/20 
+
+05/27/2019 1. As work progresses, the 
+documents/office of NAP are still at 
+
+the building, that’s why we cannot 
+
+work on that area. 
+
+2. Important activities/events which are 
+held on the following dates which 
+
+hold some woks inside the library. 
+
+a. Celebration of Public Library 
+March 2019 
+
+b. Building inspection of DPWH 
+due to April 22, 2019 earthquake 
+
+As per 
+
+attached 
+
+schedule of 
+
+extension – 
+
+7/01/2019 to 
+
+12/15/2019 
+
+The request letter was 
+
+only submitted in 
+
+COA last February 5, 
+
+2021  
+
+11/11/2019 1. The man hours of A.C Tumang was 
+consumed for the transfer of shelves 
+
+and documents of National Archives 
+
+of the Philippines (NAP) at the 4th 
+
+floor left wing. 
+
+2. Installation of board to be used as 
+temporary storage of NAP 
+
+3. Installation of temporary lifer to be 
+used by NAP for transferring of their 
+
+documents. 
+
+4. As the work progresses, the 
+documents/office of NAP still at the 
+
+building that’s why we cannot work 
+
+on that area. 
+
+5. Important activities/events which are 
+held on the following dates which 
+
+hold some works inside the library. 
+
+a. August 2019 Foundation Day 
+
+As per 
+
+attached 
+
+schedule of 
+
+extension – 
+
+12/16/2019 to 
+
+4/15/2020   
+
+The  request was only 
+
+attached on 6th 
+
+progress billing under 
+
+SWA covering  
+
+09/18/19 - 07/17/20, 
+
+and also the attached 
+
+schedule of extension 
+
+is for 4 months 
+
+extension. 
+
+
+
+52 
+
+ 
+
+Date of Letter 
+
+request 
+
+Reasons No. of days of 
+
+extension 
+
+Remarks 
+
+b. Library Information Services 
+(LIS) Month – November 2019 
+
+ 
+
+We noted that the Head of the Agency had no communication/letter for 
+
+approving the number of days of extension of work, but instead the Director and 
+
+Assistant Director both signed beneath the Conforme portion of the letter request 
+
+submitted by the contractor. 
+
+ 
+
+In addition, a letter was sent to the NLP Director dated December 20, 2019 from 
+
+the NLP Assistant Director, proposing change order for the project in the amount 
+
+₱20,000,000.00, a 7.33 percent increase of the total contract price. The request was 
+
+approved by the Director by affixing his signature on the letter. The number of days to 
+
+complete the additional/change order was not stipulated in the letter and the supporting 
+
+documents, such as notices from the contractor for variation order, plans to effect the 
+
+adjustments, detailed estimates of the unit cost and justification for the need or for the 
+
+change order were not submitted to the Audit Team. 
+
+ 
+
+The reasons indicated above could not be validated due to the absence of the 
+
+Contract Plan, approve original and revised PERT/CPM Network, showing that the 
+
+affected activities fall within the critical path of the network and the supporting 
+
+documents for the change order. 
+
+ 
+
+2) Liquidated damages for non-completion of work within the specified contract 
+time was not imposed to AC Tumang Construction, in violation of Section 8.1, 
+
+Annex E, RIRR of RA No. 9184. 
+
+ 
+
+Section 8.1 of Annex E provides that where the contractor refuses or fails to 
+
+complete the work within the specified contract time, plus any time extension duly 
+
+granted and is hereby in default under the contract, the contractor shall pay the 
+
+procuring entity for liquidated damages, and not by way of penalty, an amount as 
+
+provided in the conditions of contract, equal to at least one tenth (1/10) of one percent 
+
+of the cost of the unperfomed portion of the work for every day of delay. 
+
+ 
+
+On the other hand, Volume 3 under Delays and Work Completion and 
+
+Liquidated Damages, of the Manual of Procedures for the  Procurement of 
+
+Infrastructure Projects (developed pursuant to RA No. 9184) provides “The Procuring 
+
+Entity may grant time extensions, at its discretion, if such extensions are meritorious, 
+
+with or without liquidated damages. Maximum allowable extension shall not exceed 
+
+the original construction period.” 
+
+ 
+
+As stipulated in the contract with a total contract price of ₱273,276,340.74, the 
+
+project  is to  be completed within  a maximum period of 360 calendar days (CDs) that 
+
+
+
+53 
+
+ 
+
+commenced on  January 29, 2018 from receipt of Notice to Proceed dated January 15, 
+
+2018. Aside from the above-mentioned extension letters and change order letters, no 
+
+additional documents were submitted to support the delay in the completion of the 
+
+project. 
+
+ 
+
+In addition, we noted that the submitted Statement of Elapsed and Work 
+
+Accomplishment (SEWA) was not accurate.  It showed a no negative slippage in the 
+
+work accomplishment despite of the delays incurred. Completion date in SEWA  varies 
+
+from 2nd billing, which is on January 29, 2019 to the 5th billing, which is on June 30, 
+
+2019. 
+
+ 
+
+Per original contract, the project must be completed on January 29, 2019.  But, 
+
+as of December 31, 2020, the construction is still on-going with no liquidated damages 
+
+being imposed by NLP. 
+
+ 
+
+Shown below are the number of days extension/incurred by A.C. Tumang 
+
+Construction: 
+
+  
+
+Period Covered No. of CD 
+
+January 29, 2018 to December 31, 2018 337 days 
+
+January 1 to December 31, 2019 365 days 
+
+January 1 to December 31, 2020 366 days 
+
+Total No. of days Incurred 
+
+No. of days as stipulated in the contract 
+
+1,068 days 
+
+360 days 
+
+Maximum number allowed for extension per RA 9184 360 days 
+
+No. of days extension/delayed 348 days 
+
+ 
+
+The non-imposition of liquidated damages was due to poor monitoring of status 
+
+of infrastructure projects by Management and lack of coordination with the Accounting 
+
+Unit by the Project-In-Charge; thus, the contractor was not penalized for his inefficient 
+
+performance.  
+
+ 
+
+We recommended and Management agreed to: 
+
+ 
+
+a. require the contractor to submit Contract Plan and original/revised 
+PERT/CPM, and additional documents to support the delay in the completion 
+
+of the project; 
+
+ 
+
+b.  require the contractor to immediately pay the estimated liquidated damages 
+and/or deduct the amount from the final payment; and 
+
+ 
+
+c. direct the Project-In-Charge in NLP to strictly monitor the status of 
+infrastructure projects and coordinate with the Accounting Section any delay 
+
+in project completion for proper computation of liquidated damages. 
+
+ 
+
+ 
+
+
+
+54 
+
+ 
+
+Unreliable Prepayments 
+
+ 
+8. The erroneous recording of the payment for subscription of e-books, journals and 
+
+other reading materials overstated the accounts Other Prepayments by 
+
+₱1,000,000.00 and Subscription Expenses/Accumulated Surplus by ₱2,464,657.58, 
+
+and understated the account Prepaid Subscription by ₱3,464,657.58; thus, 
+
+rendering said accounts unreliable.  Moreover, SLs for these accounts are not 
+
+being maintained. 
+
+ 
+
+Examination of pertinent documents revealed that advance payments of 
+
+subscriptions  of e-Books during the year amounting to ₱1,000,000.00 were incorrectly 
+
+recorded under the account Other Prepayments, and amounting to ₱2,464,657.58 were 
+
+recorded as outright subscription expenses, instead of the account Prepaid 
+
+Subscriptions, contrary to the Revised Chart of Accounts, Volume III of the GAM, 
+
+which describes the affected accounts as follows: 
+
+ 
+
+Account Name Description 
+
+Prepaid Subscription Used to recognize the amount advanced for the 
+
+subscription of ICT software, data center service, cloud 
+
+computing service, library and other reading materials, and 
+
+the like, used in government operations. This account is 
+
+credited for the expended amount, and/or adjustments. 
+
+Other Prepayments Used to recognize the amount of prepayments not falling 
+
+under any of the specific prepayment accounts. 
+
+Subscription Expenses Used to recognize the cost of subscriptions for ICT 
+
+software, data center service, cloud computing service, 
+
+library and other reading materials, and the like. 
+
+ 
+
+The above errors resulted in the overstatement of Other Prepayments and 
+
+Subscription Expenses/Accumulated Surplus by ₱1,000,000.00 and ₱2,464,657.58, 
+
+respectively, and understatement of Prepaid Subscriptions by ₱3,464,657.58. Details 
+
+are as follows: 
+
+  
+Particulars Amount (₱) Account 
+
+Charged 
+
+(Over)/Understatement (₱) 
+
+Subscription 
+
+Expenses 
+
+Other 
+
+Prepayments 
+
+Prepaid 
+
+Subscriptions 
+
+Advance payment 
+
+of subscriptions of 
+
+e-books, journals 
+
+and other reading 
+
+materials 
+
+1,000,000.00 Other 
+
+Prepayments 
+
+ (1,000,000.00) 1,000,000.00 
+
+Payments of e-
+
+Subscriptions of 
+
+Books (November 
+
+1, 2020 - October  
+
+31, 2021) - 
+
+2months used-up 
+
+800,099.00 Subscription 
+
+Expenses 
+
+(600,074.25)  600,074.25 
+
+
+
+55 
+
+ 
+
+Particulars Amount (₱) Account 
+
+Charged 
+
+(Over)/Understatement (₱) 
+
+Subscription 
+
+Expenses 
+
+Other 
+
+Prepayments 
+
+Prepaid 
+
+Subscriptions 
+
+Payments of e-
+
+Subscriptions of 
+
+Legal Knowledge 
+
+Services (12 mos 
+
+subscriptions) - 
+
+not started yet 
+
+600,000.00 Subscription 
+
+Expenses 
+
+(600,000.00)  600,000.00 
+
+Payments of e-
+
+Subscriptions of 
+
+Digital Library 
+
+Solutions (12 mos 
+
+subscriptions) -
+
+2months used up 
+
+   498,700.00  Subscription 
+
+Expenses 
+
+  (415,583.33)  415,583.33 
+
+Accounts Payable 
+
+for e-
+
+Subscriptions of 
+
+Online 
+
+Newspapers  and 
+
+Magazine (12 mos 
+
+subscriptions) - 
+
+not started yet 
+
+    849,000.00  Subscription 
+
+Expenses 
+
+  (849,000.00)      849,000.00 
+
+Totals 3,747,799.00  (2,464,657.58) (1,000,000.00) 3,464,657.58 
+
+ 
+
+Prepayments are expenses paid before they are incurred. At the end of the 
+
+accounting period, the expired portion shall be determined to recognize the expense 
+
+applicable to the period being reported and a corresponding JEV shall be prepared.  
+
+This is in conformity with the accrual basis of accounting prescribed under Section 
+
+2(a), Chapter 2, Volume I of the GAM 
+
+ 
+
+It is further noted that the Accounting Section did not maintain the necessary 
+
+SLs for the Other Prepayments account as required by Section 114 of PD No. 1445. 
+
+ 
+
+We recommended and Management agreed to instruct the Accountant to: 
+
+ 
+
+a. prepare the necessary adjusting entries to correct the account balances for 
+
+Other Prepayments, Prepaid Subscriptions and Subscription 
+
+Expenses/Accumulated Surplus; and 
+
+ 
+
+b. maintain SL for the affected accounts for monitoring and ensuring accuracy 
+
+of balances presented in the financial statements. 
+
+ 
+
+ 
+
+Unreliable Other Payables account balance 
+ 
+
+9. The balance of the Other Payables account as of December 31, 2020 totaling 
+₱6,987,091.03 could not be ascertained as to its accuracy and reliability due to the 
+
+absence of SL or schedule to support the recorded balance, thereby, affecting the 
+
+fair presentation of the accounts in the financial statements. 
+
+
+
+56 
+
+ 
+
+ 
+
+The SL stores the details or breakdown of the balance of the controlling account 
+
+appearing in the GL. The purpose of keeping subsidiary ledgers is for accuracy and 
+
+efficiency. The totals of the SL balances should be reconciled with their respective 
+
+control account regularly to ensure the accuracy of the two records. 
+
+ 
+
+Our review of the Other Payables’ transactions in CY 2020 disclosed cash 
+
+receipts from bidders and payable to Land Bank of the Philippines, National Library 
+
+Employees Association, National Library Employees Cooperative for loan repayments 
+
+deducted from salaries of employees. Further, it was noted the balance of the Other 
+
+Payables account in 2017 to 2020 had been increasing for more or less ₱1.0 million a 
+
+year, which could be presumed of excess or under remittance to the above mentioned 
+
+entities. However, we could not validate the year-end balance totalling ₱6,987,091.03 
+
+since there was no schedule to substantiate the recorded payables as the Accounting 
+
+Section did not maintain the required SL for the account; thus, precluded the Audit 
+
+Team from further review. 
+
+ 
+
+Further, inquiry with the Accountant disclosed that they are in the process of 
+
+locating the supporting documents and reconciling the account. He further explained 
+
+that there was no proper turnover to him  from the previous Accountant. 
+
+ 
+
+The unsubstantiated recorded payables, in addition to lack of SLs casts doubt 
+
+on the reliability of the reported balance of Other Payables account as of year-end. 
+
+ 
+
+We recommended and Management agreed to require the Accountant to 
+
+prepare a schedule of Other Payables to support the reported balance; and 
+
+maintain the required SL and reconcile with the GL regularly to ensure the 
+
+accuracy of the two records.   
+
+ 
+
+ 
+
+Overstatement of  Subsidy from NG 
+ 
+
+10. Erroneous recording of the receipt of NCA for Trust Fund totaling ₱1,072,520.00 
+as account Subsidy from NG instead of Cash-Treasury/Agency Deposit, Trust 
+
+account resulting in the overstatement of both accounts by the same amount. 
+
+ 
+
+Analysis of the Subsidy from NG disclosed that the receipt of NCA for Trust 
+
+Receipts Fund was erroneously credited to the account instead of Cash-
+
+Treasury/Agency Deposit, Trust, in non-conformity with the provided accounting 
+
+entries to recognize the receipt of NCA under Section 38(a), Chapter 5, Volume I of 
+
+the GAM.  
+
+ 
+
+The details of the NCAs for Trust Receipts Fund are shown below.  These are 
+
+the transfer funds received from the National Commission of the Culture and the Arts, 
+
+which were deposited to the Bureau of the Treasury and subsequently released to 
+
+implement the projects indicated in the table below.  
+
+
+
+57 
+
+ 
+
+ 
+Date NCA No. BMB-B Particulars Amount (₱) 
+
+11/18/2020 20-0013457 To cover funding requirements of “2020 
+
+Gawad Parangal sa Natatanging Propesyunal 
+
+na Tagapangasiwa at Tagapaglingkod ng 
+
+Pampublikong Aklatan”  
+
+86,250.00 
+
+12/03/2020 20-0014999 To cover funding requirements of “2020 
+
+Gawad Parangal sa Natatanging Propesyunal 
+
+na Tagapangasiwa at Tagapaglingkod ng 
+
+Pampublikong Aklatan” and 30th LIS Month 
+
+2020 
+
+986,250.00 
+
+ Total 1,072,520.00 
+
+ 
+
+The above mentioned deficiency resulted in the overstatement of accounts 
+
+Subsidy to NG and Cash-Treasury/Agency Deposit, Trust by ₱1,072,520.00. 
+
+ 
+
+We recommended and Management agreed to the Accountant to prepare 
+
+the necessary adjusting entry to reflect the correct balances of the affected 
+
+accounts. 
+
+ 
+
+ 
+
+Unreliable Due to BIR account balance 
+ 
+
+11. The validity, accuracy and reliability of the account Due to BIR totaling 
+₱4,279,599.87 could not be ascertained due to: (a) erroneous recording that 
+
+resulted in the understatement of the account by 795,119.34 and overstatement of 
+
+the accounts Due to GSIS and Accumulated Surplus/Deficit by ₱793,119.34 and 
+
+₱2,000.00, respectively; (b) non-submission of the necessary documents to validate 
+
+the taxes withheld and remitted to BIR. Moreover, penalties in the total amount 
+
+of ₱133,230.34 were incurred due late remittances of taxes withheld. 
+
+ 
+
+Analysis of the account Due to BIR disclosed the following deficiencies:  
+
+ 
+
+1) During the year, erroneous recording on the following transactions resulted in the 
+understatement of the account by ₱795,119.34 and overstatement of Due to GSIS 
+
+account and Accumulated Surplus/Deficit by ₱793,119,34 and ₱2,000.00, 
+
+respectively details as shown below: 
+
+ 
+
+Particulars Amount (₱) 
+
+1. Payment/remittance made to GSIS under Check No. 
+2381791 recorded/debited as Due to BIR instead of Due 
+
+to GSIS                                                                       
+
+793,119.34 
+
+2. Discrepancy of the amount posted to GL representing tax 
+withheld to Michael Nagas under Check No. 2372225 
+
+2,000.00 
+
+Total 795,119.34 
+
+
+
+58 
+
+ 
+
+ 
+ 
+
+2) We have also noted that payments/remittances of taxes withheld were not supported 
+by documentary requirements,  details are as follows: 
+
+ 
+
+Period 
+
+Covered 
+
+BIR Form 
+
+No. 
+
+TRA No. 
+
+0060332020 
+
+Amount (₱) Remarks 
+
+Mar. 2020 0619E 275561 
+
+ 
+
+48,611.08 The content in 
+
+Statement of Taxes 
+
+Withheld (STW) 
+
+submitted was the same 
+
+as the submitted STW 
+
+on April 2020 
+
+1600 275413 
+
+ 
+
+242,412.58 Copy of STW not 
+
+attached 
+
+April 2020 0619E 275561 
+
+ 
+
+48,611.08 The content in STW 
+
+was the same in March 
+
+2020 
+
+1600 275562 
+
+ 
+
+181,310.14 Copy of STW not 
+
+attached 
+
+May 2020 0619E 303401 28,731.87 Copy of TRA and STW 
+
+not attached 1601-C 303336 368,897.01 
+
+1600 303376 73,332.47 
+
+Aug. 2020 0619E 322297 37,185.28 Copy of STW not 
+
+attached 1600 322269 171,078.53 
+
+Nov. 2020 0619E 368131 
+
+ 
+
+50,741.97 Copy of STW not 
+
+attached 
+ 
+
+Due to the absence of STWs, verification as to the correctness of the amount 
+
+withheld and remitted to BIR could not be done.  The Audit Team verbally 
+
+requested the documents from the Accounting Section, however they reasoned out 
+
+that they were unable to retrieve the files from the flash drive and that there was no 
+
+back-up files being maintained. 
+
+ 
+
+3) Penalties amounting to ₱133,230.34 were incurred due to late remittances.  
+
+For late filing of Tax Returns with tax due to be paid, the National Internal 
+
+Revenue Code (NIRC) has rulings on penalties that would be imposed upon filing, 
+
+in addition to the tax due. 
+
+1. On Surcharge 
+
+Sec. 248 (a) of National Internal Revenue Code (NIRC). - Civil 
+
+Penalties, provides  There shall be imposed, in addition to the tax 
+
+required to be paid, a penalty equivalent to twenty-five percent 
+
+(25%) of the amount due, in the following cases: xxx 
+
+ 
+
+
+
+59 
+
+ 
+
+2. On Interest 
+
+Sec. 249 (a) of NIRC Interest, provides there shall be assessed and 
+
+collected on any unpaid amount of tax, interest at the rate of 
+
+twenty percent (20%) per annum, or such higher rate as may be 
+
+prescribed by rules and regulations, from the date prescribed for 
+
+payment until the amount is fully paid. 
+
+3. On Compromise 
+
+Sec. 255 of NIRC Failure to File Return, Supply Correct and 
+
+Accurate Information, Pay Tax Withhold and Remit Tax and 
+
+Refund Excess Taxes Withheld on Compensation. - Any person 
+
+required under this Code or by rules and regulations promulgated 
+
+thereunder to pay any tax make a return, keep any record, or 
+
+supply correct the accurate information, who willfully fails to pay 
+
+such tax, make such return, keep such record, or supply correct 
+
+and accurate information, or withhold or remit taxes withheld, or 
+
+refund excess taxes withheld on compensation, at the time or times 
+
+required by law or rules and regulations shall, in addition to other 
+
+penalties provided by law, upon conviction thereof, be punished 
+
+by a fine of not less than Ten Thousand Pesos (P10,000.00)  
+
+ In addition, Annex A of Revenue Memorandum Order (RMO) No. 7-
+
+2015 provides for the Revised Consolidated Schedule of Compromise Penalties for 
+
+Violations of the NIRC. 
+ 
+
+It was learned that the BIR issued several regulations on the extension of 
+
+statutory deadlines and timeliness for the submission and/or filing of several documents 
+
+and/or returns, as well as payment of several taxes specified in the Regulations.   The 
+
+BIR, in consideration of the extension of the Enhanced Community Quarantine (ECQ) 
+
+period until May 15, 2020 and implementation of Modified Enhanced Community 
+
+Quarantine in some areas until May 31, 2020, recognizes the importance of 
+
+accessibility of payment facilities to concerned tax payer; hence, issued Revenue 
+
+Memorandum Circular No. 48-2020 dated May 22, 2020, on the manner of accepting 
+
+payment of Internal Revenue Taxes until June 14, 2020. 
+
+    
+
+The Audit Team noted that the NLP incurred delays in the remittances of taxes 
+
+that resulted in the imposition of penalties totaling ₱133,230.34, despite the several 
+
+extensions issued by BIR, as follows: 
+
+ 
+Period 
+
+covered  
+
+(a) 
+
+BIR  
+
+Form 
+
+ (b) 
+
+ Due 
+
+ date  
+
+(c) 
+
+Date 
+
+Paid 
+
+(d) 
+
+Tax 
+
+withheld 
+
+(e) 
+
+Penalties Total 
+
+Payment  
+
+(e+j) 
+Surcharge       
+
+(f) 
+
+Interest   
+
+(g) 
+
+Compromise 
+
+(i) 
+Total (₱) 
+
+(j)  
+
+Mar. 2020 0619E Apr. 10 June 26 48,611.08 12,152.77  671.23 10,000 22,824.00 71,435.08 
+
+1600 181,310.14 45,327.23 774.91 15,000 61,102.14 242,412.58 
+
+   Apr. 2020 0619E Apr. 10 June 26 48,611.08 12,152.77 671.23 10,000 22,824.00 71,435.08 
+
+
+
+60 
+
+ 
+
+Period 
+
+covered  
+
+(a) 
+
+BIR  
+
+Form 
+
+ (b) 
+
+ Due 
+
+ date  
+
+(c) 
+
+Date 
+
+Paid 
+
+(d) 
+
+Tax 
+
+withheld 
+
+(e) 
+
+Penalties Total 
+
+Payment  
+
+(e+j) 
+Surcharge       
+
+(f) 
+
+Interest   
+
+(g) 
+
+Compromise 
+
+(i) 
+Total (₱) 
+
+(j)  
+
+1600 7,967.67   3,000.00 3,000.00 10,967.67 
+
+May 2020 0619E May 10 June 26 15,576.31   5,000.00 5,00.000 20,576.31 
+
+1600 33,393.80 8,348.45 131.75 10,000.00 18,480.20. 51,874.00 
+
+Total Penalties 133,230.34  
+
+    
+
+Under Section 3.5.1 of COA Joint Circular No. 1-2000 dated January 3, 2020,  
+
+the interest and other penalties resulting from non-submission or late submission to the 
+
+DBM of the request duly supported by the STW shall be the personal liability of the 
+
+heads of the agencies and the respective chief accountants in accordance with Section 
+
+272 of the NIRC as Implemented by Revenue Regulation (RR) No. 10-97. 
+
+ 
+
+We recommended and Management agreed to require the Accountant to 
+
+prepare the necessary adjusting entry to correct the balances of the affected 
+
+accounts and strictly observe timely submission of documents.  Likewise, institute 
+
+measures to avoid penalties in the future. 
+
+  
+
+ 
+
+Dormant Accounts 
+
+ 
+
+12. The Due from LGUs account has a dormant balance of ₱200,00.00, details shown 
+below: 
+
+ 
+ 
+
+Accounts 
+
+Nature of 
+
+Transactions 
+
+Total 
+
+Balance 
+
+Amount 
+
+(₱) 
+
+No. of 
+
+Years 
+
+Dormant 
+
+Reasons 
+
+for being 
+
+dormant 
+
+Actions 
+
+taken 
+
+by ATL 
+
+Due from 
+LGUs 
+
+FT intended for the 
+
+Construction of 
+
+Library Building 
+
+200,000.00 200,000.00 5 No building 
+was 
+constructed 
+
+Included 
+
+In the CY 
+
+2017AAR 
+
+ 
+
+ 
+B. Other Areas 
+
+Audit of Corona Virus Disease (COVID-19) related expenses 
+
+ 
+
+13. The Audit Team found no major deficiencies in the audit of the COVID-19 related expenses 
+as of December 31, 2020. The summary of COVID-19 expenses are as follows: 
+
+ 
+
+Nature of 
+
+Expenditure 
+
+Fund 
+
+Source 
+Purpose 
+
+ 
+
+Particulars Disbursements/ 
+
+Expenses (₱) 
+
+Other Supplies 
+
+and Materials 
+
+Expenses 
+
+MOOE COVID-19 
+
+expenses 
+
+Disinfection and 
+
+Cleaning Supplies,  
+
+PPEs Alcohol, Face 
+
+Shield, Face Mask, 
+
+Footbath Mat 
+
+459,490.75 
+
+
+
+61 
+
+ 
+
+Hazard Pay PS/MOOE Hazard Pay for 
+
+regular employees 
+
+19,500.00 
+
+  Total    478,990.75 
+
+ 
+
+Disbursements for the grant of COVID 19 Hazard Pay to regular employees and other 
+
+personnel amounting to ₱19,500.00 were supported with adequate documents which 
+
+established the recipients’ qualifications and compliance with conditions set under 
+
+the DBM Budget Circular No. 2020-1 dated March 24, 2020. 
+
+ 
+
+Procurement for COVID-19 supplies and materials during the year totaled 
+
+₱459,490.75. The amount of ₱140,974.00 were procured from PS-DBM. On the other 
+
+hand, the amount of ₱318,516.75 were procured from various suppliers/contractors 
+
+through cash advances and supported with complete documents as required under 
+
+COA Circular 2012-001dated June 14, 2012. 
+ 
+
+ 
+
+Audit of National Task Force to End Local Communist Armed Conflict (NTF-ELCAC) 
+
+ 
+
+14. The agency did not receive funds for NTF-ELCAC for CY 2020. 
+ 
+
+ 
+
+Gender and Development (GAD) 
+ 
+
+15. The NLP was able to accomplished eight activities out of 19 in the 2020 GAD Plan 
+with a total cost of ₱8,008,165.49 or 3.59 percent of its total appropriations of 
+
+₱222,794,000.00. 
+
+ 
+
+All agencies of the government shall formulate a GAD Plan  designed  to  
+
+address  gender  issues  within their concerned  sectors  or  mandate  and  implement 
+
+applicable provisions under R.A. 9170 or the Magna Carta of Women, Convention on 
+
+the Elimination of All Forms of Discrimination Against Women, the Beijing Platform  
+
+for  Action,  the  Millennium  Development Goals  (2000-2015),  the Philippine Plan 
+
+for Gender- Responsive Development, (1995-2025), and the Philippine Development 
+
+Plan. The GAD plan shall be integrated in the regular activities of the agencies, which 
+
+shall be at least five percent (5%) of their   respective   budgets. 
+
+ 
+
+For CY 2020, the NLP had allocated the sum of ₱7,140,500.00 for GAD 
+
+programs, projects and activities representing 3.20 percent of its total appropriations 
+
+of ₱222,794.000.00. Among the major GAD accomplishments of the agency for CY 
+
+2020 were presented on the next page: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+62 
+
+ 
+
+GAD Activity Actual Actual Cost (₱) Remarks 
+
+Conduct of training 
+
+on GAD among 
+
+frontline service 
+
+providers/ affiliated 
+
+public librarians. 
+
+17 training/webinars 
+
+were conducted. 
+
+Subscription to 
+
+webinar platform - 
+
+Male-900 
+
+Female-3493 
+
+932,773.54 Done 
+
+Acquisitions of 
+
+gender-related 
+
+library resources for 
+
+NLP and its 
+
+affiliated 
+
+public libraries. 
+
+ 
+
+For the Year 2020 
+
+Budget, NLP acquired 
+
+the following: 
+
+Filipiniana 
+
+247 titles / 763 vols. 
+
+₱533,603.0 
+
+Foreign 
+
+230 titles / 232 vols. 
+
+₱1,158,000.00 
+
+Public Libraries 
+
+433 title s/ 433 vols. 
+
+₱3,425,086.00 
+
+5,116,689.00 Done. 
+
+ 
+
+During the 
+
+Covid-19 
+
+Pandemic, e-
+
+books was 
+
+preferred than 
+
+the printed 
+
+materials for 
+
+foreign and 
+
+public 
+
+libraries. 
+
+Monitor / ocular 
+
+visit public libraries 
+
+with GAD corner. 
+
+Request for reports 
+
+of each public 
+
+libraries visited. 
+
+Conduct meeting 
+
+with GFPS to 
+
+discuss GAD- 
+
+related activities. 
+
+Technical 
+
+assistance sessions, 
+
+etc. 
+
+8 public libraries with 
+
+special GAD corner 
+
+were monitored 
+
+virtually and 2 face-to-
+
+face 
+
+Male-13 
+
+Female-29 
+
+ 
+
+39,005.00 Partially Done. 
+
+ 
+
+Transformed to 
+
+virtual 
+
+monitoring due 
+
+to pandemic.  
+
+ 
+
+Virtual 
+
+monitoring 
+
+started in 
+
+June 2020 
+
+onwards. 
+
+Set-up a month-
+
+long exhibit and 
+
+film showing 
+
+during 
+
+Women's Month. 
+
+ 
+
+Conducted an exhibit 
+
+regarding Women's 
+
+Month at 2nd floor 
+
+35,325.45 Partially Done. 
+
+ 
+
+Film 
+
+showing was 
+
+not done/ 
+
+accomplished 
+
+due to 
+
+pandemic. 
+
+Storytelling, Puppet 
+
+Show 
+
+Conducted 234 online 
+
+storytelling and puppet 
+
+360,000.00 Done 
+
+
+
+63 
+
+ 
+
+GAD Activity Actual Actual Cost (₱) Remarks 
+
+show sessions via 
+
+social media 
+
+Conduct training on 
+
+gender 
+
+mainstreaming to 
+
+NLP employees on 
+
+2020 
+
+ 
+
+NLP conducted 2-day 
+
+Virtual Capacity 
+
+Building 
+
+for NLP Employees 
+
+(permanent and job 
+
+orders) –  
+
+102 Females  
+
+78 Males 
+
+637,270.00 Done 
+
+Creation of subject 
+
+entries on gender 
+
+and development 
+
+100 entries gender 
+
+related created 
+
+187,632.00 Done 
+
+Attend to seminar/ 
+
+forums on: GAD 
+
+Planning and 
+
+Budgeting 
+
+harmonized gender 
+
+and development 
+
+guidelines 
+
+ 
+
+NLP-GFPS attended 
+
+online forum GAD 
+
+Planning and 
+
+Budgeting harmonized 
+
+gender and 
+
+development 
+
+guidelines and 
+
+orientation of PCW 
+
+GMMS Platform 
+
+6,881.50 Partially Done 
+
+Conduct of GAD-
+
+GFPS-TWG 
+
+meetings evaluation 
+
+and monitoring of 
+
+GAD Plans and 
+
+Programs 2020 
+
+GAD-FPS conducted 
+
+regular quarterly 
+
+meetings (4x a year) 
+
+39,128.00 Done 
+
+Preparation of 
+
+FY2021 GAD Plan 
+
+and Budget and FY 
+
+2019 GAD 
+
+Accomplishment 
+
+Report 
+
+NLP-GFPS prepared 
+
+and 
+
+endorsed GAD AR 
+
+2019 
+
+and GPB 2021 
+
+ 
+
+45,869.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Done 
+
+Participation in the 
+
+Women's Day 
+
+celebration on 
+
+March 1-31, 2020 
+
+ 
+
+18 NLP Employees 
+
+attended 3-day 
+
+Women's Month 
+
+Celebration at CCP 
+
+15 Female 
+
+3 Male 
+
+111,247.00 Partially Done 
+
+
+
+64 
+
+ 
+
+GAD Activity Actual Actual Cost (₱) Remarks 
+
+Participation on 
+
+18-Day End-
+
+VAWC campaign 
+
+and other GAD 
+
+advocacy activities 
+
+in November and 
+
+December 2020 
+
+11 NLP-GFPS 
+
+participated in 
+
+celebration of 18-Day 
+
+End-VAWC campaign 
+
+2 male 
+
+9 female 
+
+3,600.00 Partially Done 
+
+Establishment of 
+
+NLP Center for 
+
+Gender and 
+
+Development 
+
+Accessibility of 
+
+physical fitness 
+
+equipment located 
+
+at the 3/F of the 
+
+building for NLP 
+
+employees 
+
+393,120.00 Partially Done 
+
+Conduct gender 
+
+audit and analysis 
+
+on NLP clientele as 
+
+basis for Readers 
+
+database as to 
+
+gender, age, group, 
+
+school, location to 
+
+be developed by 
+
+reader's services 
+
+NLP clientele as basis 
+
+for readers database 
+
+9,314 Female 
+
+5,684 Male 
+
+99,625.00 Done 
+
+Total  8,008,165.49  
+
+ 
+
+We noted that only eight were fully implemented and six were partially 
+
+implemented out of 19 activities in the GAD Plan during the year. Due to COVID-19 
+
+pandemic, five activities were not implemented at all. 
+
+ 
+
+ 
+
+Programs and Projects Related to Senior Citizens and Persons with Disability 
+ 
+
+16. There was no report for CY 2020 on the activity implemented by Management to 
+address the required programs and projects for Senior Citizen and PWD. 
+
+ 
+
+Section 32 of the GP of RA No. 11465 or the GAA for FY 2020 provides the 
+
+Programs and Projects related to Senior Citizens and Persons with Disability.  All 
+
+agencies of the government shall formulate plans, programs and projects intended to 
+
+address the concerns of senior citizens and persons with disability, insofar as it relates 
+
+to their intended functions, and integrate the same in their regular activities. 
+
+  
+
+Inquiry disclosed that the personnel preparing the plans and programs for Senior 
+
+Citizens and PWDs have retired and there was no report prepared during the year.  
+
+Likewise, they informed that they cannot undertake other activities for senior citizens 
+
+
+
+65 
+
+ 
+
+due to pandemic. 
+
+ 
+
+We recommended and Management agreed to ensure that there are plans, 
+
+programs and projects beneficial to both Senior Citizens and PWD prepared and 
+
+implemented yearly in compliance with the GAA.  
+ 
+
+ 
+
+Compliance with Tax Laws and Regulations 
+ 
+
+17. For CY 2020, the agency withheld and remitted the amount ₱13,158,284.74 
+representing taxes from salaries and payments to suppliers/providers, while the balance 
+
+of ₱4,279,599.87 was remitted on January 08, 2021. However, the Audit Team noted 
+
+deficiencies as discussed in Observation No. 11. 
+ 
+
+ 
+
+Compliance with RA No. 8291, the GSIS Act of 1997 
+ 
+
+18. For CY 2020, the agency deducted and remitted to GSIS the amount of ₱7,772,350.44 
+within the prescribed period while the balance amounting to ₱1,896,785.02 was 
+
+remitted on January 8, 2021. 
+
+ 
+ 
+
+Compliance with RA No. 9679, Pag-IBIG Fund Law of 2009 
+ 
+
+19. The NLP complied with the requirement to deduct and remit amounts due to the Home 
+Development Mutual Fund (HDMF). The agency remitted a total of ₱1,458,213.41 as 
+
+of December 31, 2020 leaving a balance of ₱160,424.59 which was remitted on January 
+
+8, 2021. 
+
+ 
+
+ 
+
+Compliance with RA No.7875, Philhealth Law 
+
+ 
+
+20. The NLP complied with the requirement to deduct and remit amounts due to  
+Philhealth. The agency remitted a total of ₱ 620,677.42 as of December 31, 2020 
+
+leaving a balance of ₱ 37,609.31 which was remitted on January 8, 2021. 
+
+ 
+
+ 
+
+Property Insurance Law 
+ 
+
+21. The NLP insured its insurable properties totaling with the GSIS in compliance with 
+COA Circular No. 92-390 dated November 17, 1992 on the Inventory of Physical 
+
+Assets, Insurance and Bonding of Risks with the General Insurance Fund of the   
+
+GSIS as required under RA No. 656, otherwise known as the “Property Insurance 
+
+Law”, as amended by Presidential Decree No. 245 dated July 13, 1973. 
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+66 
+
+ 
+
+Disaster Risk Reduction and Climate Change Adaptation and Mitigation (Section 36, 
+
+GAA 2020) 
+ 
+
+22.  For CY 2020, NLP participated in the Metro Wide Earthquake Drill and the Manila Shake 
+Drill through the Duck, Cover and Hold. Fire extinguishers were installed in every office 
+
+of NLP. 
+
+ 
+
+Management also undertook efforts to integrate environmental sustainability in 
+
+their activities, systems and operations towards reducing carbon footprint, through 
+
+saving on paper and printing, minimizing the use of plastic and food waste and reducing 
+
+energy and water consumption. 
+
+ 
+ 
+
+Audit of Marawi and Yolanda funds 
+ 
+
+23. The agency did not receive funds for Marawi and Yolanda for this year. 
+
+ 
+ 
+
+Status of Audit Suspensions, Disallowances and Charges 
+ 
+
+24. As of December 31, 2020, Notice of Disallowance totaled ₱ 3,729,419.60 while Notice 
+of Suspensions amounted to ₱394,927.12, all were issued Notice of Settlement of 
+
+Suspensions, Disallowances and Charges (NSSDC) in March 4, 2021. 
+ 
+
+ 
+
+Fund Utilization 
+ 
+
+25. There was no noted project or program with low utilization rates below 75 percent for 
+CY 2020. 
+
+
+
+

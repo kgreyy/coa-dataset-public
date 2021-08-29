@@ -1,0 +1,4645 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+39 
+ 
+
+PART II - OBSERVATIONS AND RECOMMENDATIONS 
+ 
+ 
+A. FINANCIAL AUDIT 
+ 
+Accounting Errors and Omissions 
+ 
+1. The Agency’s Receivables, Financial Liabilities, Inter-Agency Payables and Service 
+
+Income accounts were misstated by an aggregate amount of P8,787,217.89 due to 
+accounting errors and omissions, hence resulting in the unreliability of its financial 
+statements (FSs) as at December 31, 2020. 
+
+ 
+1.1 Section 15, Chapter 2 of the Government Accounting Manual (GAM) for National 
+
+Government Agencies (NGAs), Volume I, states that “The FSs shall present fairly 
+the financial performance and cash flows of an entity. Fair presentation requires 
+the faithful representation of the effects of transactions, other events, and 
+conditions in accordance with the definitions and recognition criteria for assets, 
+liabilities, revenue, and expenses set out in Philippine Public Sector Accounting 
+Standards1 (PPSAS).” 
+
+ 
+1.2 Fair presentation of the FSs is likewise mentioned in Section 7, Chapter 19 of the 
+
+GAM for NGAs, Volume I. It further states that the application of PPSAS, with 
+additional disclosures when necessary, is presumed to result in FSs that achieve a 
+fair presentation. 
+
+ 
+1.3 Audit of accounts disclosed a total of uncorrected misstatements/errors amounting 
+
+to P8,787,217.89, which affected the accuracy, completeness, classification, 
+existence and rights and obligations of the year-end reported balances of 
+Receivables, Financial Liabilities, Inter-Agency Payables and Service Income 
+accounts in the FSs, as summarized in the table below:  
+
+ 
+Table 1. Summary of Misstatements 
+
+Category/ 
+Classification 
+
+Misstatements 
+
+Errors/Audit 
+Observations 
+
+Amount Accounts 
+Affected 
+
+Under/(Over) 
+Statement 
+(In Pesos) (In Pesos) 
+
+Receivables  
+
+a. Unrecorded Department 
+of Budget and 
+Management (DBM) - 
+Procurement Service 
+(PS) deliveries and 
+erroneous recording, 
+and unreconciled 2015 
+and prior years’ (PYs’) 
+discrepancies 
+
+   3,296,595.02  
+
+Due from NGAs  (3,296,595.02) 
+Computer 
+Software  3,215,650.15 
+
+Trust Liabilities (11,957.28) 
+Accumulated 
+Surplus/ (Deficit) (31,296.76) 
+
+Office Supplies 
+Expenses 37,690.83 
+
+                                                 
+1 Renamed to International Public Sector Accounting Standards (IPSAS) with corresponding Philippine Application 
+
+Guidance, pursuant to COA Resolution No. 2020-001 dated January 9, 2020 
+
+
+
+40 
+ 
+
+Category/ 
+Classification 
+
+Misstatements 
+
+Errors/Audit 
+Observations 
+
+Amount Accounts 
+Affected 
+
+Under/(Over) 
+Statement 
+(In Pesos) (In Pesos) 
+
+Financial 
+Liabilities  
+
+b. Non-recognition of 
+collected income for the 
+liquidated damages and 
+erroneous recording of 
+progress billings paid to 
+the contractor. 
+
+3,120,211.85 
+
+Accounts Payable (3,120,211.85) 
+
+Accumulated 
+Surplus/(Deficit) 3,120,211.85 
+
+Inter-Agency 
+Payables 
+
+c. Erroneous recording of 
+remittance of penalties 
+to the BIR. 
+
+       63,213.98  
+Due to BIR 63,213.98 
+
+Trust Liabilities (63,213.98) 
+
+Service 
+Income 
+
+d. Erroneous recording of 
+collections and income.    2,307,197.04  
+
+Accumulated 
+Surplus/(Deficit) 2,307,197.04 
+
+Processing Fee (2,311,458.73) 
+Interest Income 4,261.69 
+
+Total Misstatements 8,787,217.89     
+Percentage of Misstatements to Total Expenses 1.69% 
+Total Expenses for the Year Ended December 31, 2020 519,156,939.34 
+Materiality Threshold for Expenditure-Driven Entity 
+(0.5% of P519,156,939.34)  2,595,784.70 
+
+Excess of Misstatements over Materiality Threshold  6,191,433.19 
+ 
+
+1.4 Section 4, Chapter 19 of the GAM for NGAs, Volume I, on Financial Reporting 
+provides that the "Responsibility for the fair presentation and reliability of FS rests 
+with the management of the reporting agency, particularly the head of 
+finance/accounting office and the head of entity or his authorized representative." 
+
+ 
+1.5 Furthermore, Section 6 of the same Chapter and Manual, on Qualitative 
+
+Characteristics of Financial Reporting, states that “An entity shall present 
+information including accounting policies in a manner that meets the following 
+qualitative characteristics enumerated in PPSAS, 
+
+ 
+Xxxxx 
+ 
+e. Reliability – reliable information is free from material error and 
+bias, and can be depended on by users to represent faithfully that 
+which it purports to represent or could reasonably be expected to 
+represent.   
+ 
+f. Faithful representation – information to represent faithfully 
+transactions and other events, it should be presented in accordance 
+with the substance of the transactions and other events, and not 
+merely their legal form.” 
+
+ 
+
+
+
+41 
+ 
+
+1.6 Moreover, Section 112 of Presidential Decree (PD) No. 1445 provides that “Each 
+government agency shall record its financial transactions and operations 
+conformably with generally accepted accounting principles and in accordance 
+with pertinent laws and regulations.” 
+
+ 
+1.7 The details of the misstatements and related accounting deficiencies and the 
+
+corresponding specific recommendations are discussed further in the succeeding 
+paragraphs. 
+
+ 
+RECEIVABLES 
+ 
+a. Unrecorded DBM-PS deliveries, erroneous recording and unreconciled 2015 and 
+
+PYs’ discrepancies  
+  
+
+1.8 The reported balance of the account Due from NGAs (DBM-PS) as of 
+December 31, 2020 amounting to P6,512,833.92 is misstated by P3,296,595.02 
+due to unrecorded deliveries in CYs 2019 to 2020 amounting to P3,306,595.02 
+and correcting entry of P10,000 which was recorded twice.   
+
+ 
+1.9 Section 21 General Provisions of the FY 2020 GAA requires all agencies of the 
+
+government to purchase from the DBM-PS all common-use supplies as mandated 
+under Letter of Instructions No. 755 dated October 18, 1978, Executive Order No. 
+359, s. 1989, Administrative Order No. 17, s. 2011, and such other guidelines 
+issued thereon.  
+ 
+
+1.10 Chapter 3, on the Description of Accounts in the Revised Chart of Accounts 
+(RCA), of the GAM for NGAs, Volume III, prescribes the use of account Due from 
+NGAs to record advances for purchases of goods or services as authorized by law, 
+fund transfers to the NGAs for implementation of projects and other receivables 
+from NGAs. This account is credited upon receipt of goods/services, and 
+liquidation of fund transfers or receivables. 
+
+ 
+1.11 The balance of the account should be reconciled with the account maintained by 
+
+the NGAs where the advances or fund transfers were made to ensure accuracy of 
+recorded transactions. 
+
+ 
+1.12 The DBM-PS subsidiary ledger (SL) account under account Due from NGAs in 
+
+the POEA’s books includes advances/payments to and deliveries from that 
+Agency. Confirmation made by the Audit Team with DBM-PS on the POEA 
+account balance as of December 31, 2020 disclosed discrepancies amounting to 
+P5,702,118.49, wherein DBM-PS confirmed the balance of only P810,715.43, as 
+compared with the POEA book balance of P6,512,833.92. 
+
+ 
+1.13 Analysis and reconciliation made on the POEA SL with the DBM-PS confirmation 
+
+reply resulted in the following:   
+ 
+
+
+
+42 
+ 
+
+Table 2. Reconciliation of DBM-PS Account vis-à-vis Books 
+
+Particulars 
+Amount (In Pesos) 
+
+Per Books Per DBM-PS  Difference 
+Balance, Dec. 31, 2020 6,512,833.92  810,715.43  5,702,118.49  
+Add/(Deduct): 
+a. Unrecorded Deliveries (Calendar 
+
+Years (CYs) 2019 to 2020) (3,306,595.02) - (3,306,595.02) 
+b. Unrecorded advance payments (CYs 
+
+2017 to 2020) - 639,043.85 (639,043.85) 
+c. Unrecorded return of inventories 
+
+(CYs 2016 and PYs)  - 7,372.40 (7,372.40) 
+d. Double recording of correcting entry 10,000.00 - 10,000.00 
+e. Unreconciled PY discrepancies (on or 
+
+before CY 2015) (1,759,107.22) - (1,759,107.22) 
+Total Amount of Reconciling Items (5,055,702.24) 646,416.25 (5,702,118.49) 
+Balances After Reconciliation 1,457,131.68 1,457,131.68 - 
+
+ 
+1.14 Part of the discrepancies shown in the above matrix are PYs’ transactions and 
+
+errors/reconciling items which had not been addressed despite the PYs’ audit 
+recommendations. 
+
+ 
+1.15 The reconciling items include the following unrecorded deliveries totaling 
+
+P3,306,595.02, of which P44,128.04 and P3,262,466.98 were delivered in CYs 
+2019 and 2020, respectively, but remained unadjusted in the POEA books:  
+
+ 
+Table 3. Unrecorded Deliveries 
+
+Particulars Date Amount  
+(In Pesos) 
+
+NTD-19-004912 (M19-005093) 12/04/2019 5,379.96 
+NTD-19-004911(M19-005095) 12/04/2019 19,094.40 
+M19-016419 13/11/2019 6,822.40 
+M19-016450 13/11/2019 12,831.28 
+Subtotal  44,128.04 
+M20-005049 10/03/2020 3,215,650.15 
+M20-006372 10/05/2020 9,126.00 
+M20-006584 12/09/2020 37,690.83 
+Subtotal  3,262,466.98 
+Total   3,306,595.02 
+
+ 
+1.16 On the other hand, a correcting entry amounting to P10,000.00 for an erroneous 
+
+recorded transaction was recorded twice in the books. On September 23, 2020, an 
+erroneous entry was made to record the payment of service rendered in Continuing 
+Agency Education Program (CAEP) amounting to P10,000.00 by debiting Due 
+from NGAs instead of Trust Liabilities - CAEP. Consequently, a correcting entry 
+was made on September 30, 2020 to adjust the erroneous entry by debiting Trust 
+Liabilities account and crediting Due from NGAs account. However, a correcting 
+
+
+
+43 
+ 
+
+entry was recorded again on December 31, 2020 repeating the same entry made on 
+September 30, 2020. 
+
+ 
+1.17 In view of the mentioned discrepancies, the following affected accounts were 
+
+either overstated or understated: 
+ 
+
+Table 4. Overstatement/Understatement of Accounts 
+
+Particulars 
+Under/(Over) 
+
+Statement 
+(In Pesos) 
+
+Unrecorded Deliveries (2019 and 2020)  
+Due from NGAs (3,306,595.02) 
+Trust Liabilities (21,957.28) 
+Accumulated Surplus/(Deficit) (31,296.76) 
+Computer Software 3,215,650.15 
+Office Supplies Expenses 37,690.83 
+Double Recording of Correcting Entry   
+Due from NGAs 10,000.00 
+Trust Liabilities 10,000.00 
+
+ 
+1.18 The amount of P1,759,107.22, which appears in the POEA books as unreconciled 
+
+PY discrepancies, likewise cast doubts on the correctness of the account’s balance 
+at yearend and is discussed in the Other Accounting Deficiencies of the report.  
+ 
+
+1.19 Meanwhile, DBM-PS failed to record in its books the advance payments made by 
+POEA in CYs 2017 to 2020 for the purchase of the following supplies totaling 
+P639,043.85. These unrecorded advance payments in DBM-PS books represent 
+Agency Purchase Requests (APR) by POEA which were paid in advance thru 
+Advice to Debit Account from Cash – Modified Disbursement System (MDS), 
+Regular of POEA but were eventually canceled by DBM-PS due to shortage of 
+stock.  
+
+ 
+Table 5. Unrecorded Advance Payments in DBM-PS books (2017-2020) 
+
+Particulars Date Amount  (In Pesos) 
+Purchase of common supplies for the 3rd quarter CY 2017 07/31/2017 179,280.81 
+Purchase of inks and paper  07/31/2018 43,732.48 
+Purchase of inks and fax machine 07/31/2018 57,168.24 
+Purchase of inks, external hard drive, multicopy and 
+packaging tapes 08/31/2018 26,218.80 
+
+Purchase of common office supplies 11/21/2018 25,395.56 
+Purchase of various common supplies CY 2018 12/31/2018 232,739.29 
+Purchase of 3 pcs external hard drives and rubber band 07/11/2019 9,238.20 
+Purchase of 2 external hard drives, 60 pcs ball pen and 50 
+reams bond paper 09/12/2019 16,026.60 
+
+
+
+44 
+ 
+
+Particulars Date Amount  (In Pesos) 
+Purchase of 1 unit paper trimmer cutting Machine, 1 unit 
+Facsimile, 25 reams Multicopy paper and 3 pcs calculator 06/09/2020 20,244.15 
+
+Purchase of 1 unit paper trimming cutting machine, 1 unit 
+binding & punching machine,  and 2 boxes paper 
+parchment 
+
+06/09/2020 19,028.42 
+
+Purchase of 1 unit facsimile machine, and 5 pcs electric 
+fan, stand type 11/04/2020 9,971.30 
+
+ Total  639,043.85 
+ 
+
+1.20 Also, returned goods by POEA to DBM-PS totaling P7,372.40 in PYs remained 
+unrecorded in the DBM-PS record.  Thus, the foregoing deficiencies remained as 
+reconciling items in the DBM-PS books. This matter, however, was not given 
+preference by POEA Management to bring to the former’s attention for correction. 
+
+ 
+1.21 We recommended that the POEA Management require: 
+
+ 
+a. the Property Officer to forward to the Accounting Division promptly all 
+
+pertinent documents pertaining to receipt of goods and issuances made 
+thereto, particularly the deliveries made by DBM-PS, for proper 
+recording in the accounting books;  
+ 
+
+b. the Chief Accountant and Property Officer to reconcile at least quarterly 
+their respective records/reports to establish the correct balance of the 
+reported deliveries made by DBM-PS and adjust them accordingly; 
+ 
+
+c. the Chief Accountant to make adjustments in the books for the 
+unrecorded current and prior year DBM-PS deliveries to establish the 
+correct account balance; and 
+ 
+
+d. the Chief Accountant to reconcile the Accounting books with DBM-PS 
+books annually to establish the correct amounts of undelivered items and 
+remaining balances; and henceforth, to immediately bring to the DBM-PS 
+attention the reconciling items determined for correction in their books.  
+
+ 
+1.22 The Management commented that Journal Entry Vouchers (JEVs) were prepared 
+
+and posted in CY 2021 to the electronic National Government Accounting System 
+(e-NGAS) for the recording of unbooked deliveries. A JEV to adjust the double 
+recording made was also prepared and posted as well. 
+  
+
+1.23 POEA will also be requesting from DBM-PS the copies of remaining unrecorded 
+deliveries as of December 31, 2020 and will also include in the request that the 
+returned goods amounting to P7,372.40 be reflected in their statement. 
+
+ 
+1.24 Further, POEA already sent letter dated December 09, 2020 to the Chief 
+
+Accountant of the DBM-PS regarding the advance payments made but was not 
+
+
+
+45 
+ 
+
+reflected in the books of DBM-PS. The POEA will continue communicating with 
+DBM-PS for updates of these payments/deposits. 
+
+ 
+FINANCIAL LIABILITIES 
+ 
+b. Non-recognition of collected income for the liquidated damages and erroneous 
+
+recording of progress billings paid to the contractor  
+ 
+1.25 Accounts Payable paid in CY 2020 for the 5th to 8th Progress billings for the 
+
+renovation of the POEA Blas F. Ople (BFO) Building Ground Floor, 
+Mezzanine Floor, and Sixth Floor - Governing Board Room were erroneously 
+recorded net of liquidated damages (LDs), hence resulted in the 
+overstatement of the Accounts Payable by P3,120,211.85, and understatement 
+of Miscellaneous Income account balance by the same amount.  
+
+ 
+1.26 Analysis of the Accounts Payable account balance of P144,685,151.67 as of 
+
+December 31, 2020 disclosed errors in recording payments of two contracts on the 
+renovation of the POEA Building. 
+
+ 
+1.27 In CY 2018, the POEA awarded a contract to OCM Steel Corporation amounting 
+
+to P137,999,727.47 for POEA BFO Building Renovation of the Basement, Lower 
+Ground, Fifth and Sixth Floors. Likewise, in CY 2019, the POEA awarded a 
+contract to I.M. Bongar & Co., Inc. amounting to P5,999,999.99 for 
+Upgrading/Rehabilitation of Sewage Treatment Plant of the POEA Building. 
+
+ 
+1.28 In CY 2020, OCM Steel Corporation was declared to be in delay in the completion 
+
+of the contract. As a consequence, the contractor was charged and computed with 
+LDs.  
+
+ 
+1.29 The total LDs for the period January 1 to December 31, 2020 amounted to 
+
+P3,120,211.85. It was noted that there were no entries made to recognize the 
+revenue from the LDs deducted from the progress billings. The recording of 
+payment of progress billings and recognition of LDs are separate and distinct 
+transactions; therefore, cannot be offset with each other. However, for ease of 
+collection of the said damages, the POEA paid the contractor net of LDs as well 
+as other deductions for every billing made, as illustrated below: 
+
+ 
+Table 6. Illustrative Progress Billings 
+
+Date Particulars 
+Gross 
+
+Billings 
+Liquidated 
+Damages Recoupment Retention 
+
+Tax 
+Withheld Net Payment 
+
+(In Pesos) 
+
+03/21/20 Payment for Fifth Progress Billing 19,789,160.92 2,097,817.02 2,968,374.14 1,978,916.09 796,503.36 11,947,550.31 
+
+06/30/20 Payment for Sixth Progress Billing 10,984,778.31 454,826.57 1,647,716.75 1,098,477.83 486,484.82 7,297,272.34 
+
+12/01/20 Payment for Seventh Progress Billing 4,291,791.52 281,314.74 643,768.73 429,179.15 201,177.73 2,736,351.17 
+
+
+
+46 
+ 
+
+Date Particulars 
+Gross 
+
+Billings 
+Liquidated 
+Damages Recoupment Retention 
+
+Tax 
+Withheld Net Payment 
+
+(In Pesos) 
+
+12/28/20 Payment for Eighth Progress Billing 11,619,577.05 286,253.52 1,742,936.56 1,161,957.71 544,667.67 7,883,761.59 
+
+Total 46,685,307.80 3,120,211.85 7,002,796.18 4,668,530.78 2,028,833.58 29,864,935.41 
+ 
+
+1.30 However, review of accounting entries in relation to the above transactions 
+revealed that the amounts debited to Accounts Payable account under the name of 
+the contractor were Gross Billings net of LDs instead of the proper Gross Billings 
+corresponding to the contractor’s accomplishments. The entries made as compared 
+with the correct entries prescribed by GAM are illustrated below: 
+ 
+
+Table 7. Illustrative Accounting Entries for Progress Billings 
+Entries made to record the payment for the progress billings 
+Accounts Payable 43,565,095.95  
+         Cash-MDS, Regular          29,864,935.41 
+
+Advances to Contractors  7,002,796.18 
+Guaranty/Security Deposits Payable  4,668,530.78 
+Due to BIR  2,028,833.58 
+
+  
+Should be entries to record the payment for the progress billings 
+Accounts Payable 46,685,307.80  
+         Cash-MDS, Regular          29,864,935.41 
+
+Advances to Contractors  7,002,796.18 
+Guaranty/Security Deposits Payable  4,668,530.78 
+Due to BIR  2,028,833.58 
+Miscellaneous Income ( for the paid LDs)  3,120,211.85 
+
+ 
+1.31 In effect, the Accounts Payable account for OCM Steel Corporation was overstated 
+
+by P3,120,211.85 and the Miscellaneous Income was understated by the same 
+amount for the unrecognized income from LDs.  
+
+ 
+Table 8. Effect of Misstatements in the Accounts 
+
+Accounts 
+Overstatement Understatement 
+
+(In Pesos) 
+Accounts Payable 3,120,211.85   
+Miscellaneous Income   3,120,211.85 
+
+ 
+1.32 On December 29, 2020, the following adjusting entries were made through  
+
+JEV-2020-12-003535 and JEV-2020-12-003536 to correct above misstatements of 
+the affected accounts.   
+ 
+
+Table 9. Adjusting Entries 
+JEV-2020-12-003535     To correct Progress Billing No. 5 
+Accounts Payable 4,947,290.23  
+         Advances to Contractors      2,968,374.14 
+         Guaranty/Security Deposits Payable  1,978,916.09 
+
+
+
+47 
+ 
+
+JEV-2020-12-003536     To recognize liquidated damages for CY 2020 as income and to close 
+the corresponding accounts payable 
+Accounts Payable 3,120,211.85  
+         Accumulated Surplus/(Deficit)  3,120,211.85 
+
+ 
+1.33 However, LDs amounting to P3,120,211.85 for the period January 1 to  
+
+December 31, 2020 were credited to Accumulated Surplus/(Deficit) instead of 
+Miscellaneous Income, hence the LDs were not reflected as income during the 
+year.   
+
+ 
+1.34 We recommended that Management direct the Chief Accountant to: 
+
+ 
+a. observe the proper recording of the progress payments of contracts 
+
+previously set up as Accounts Payable following the prescribed entries in 
+the GAM for NGAs; and 
+ 
+
+b. make the necessary adjusting entries to correct the error in recognizing 
+income from LDs for CY 2020. 
+
+ 
+1.35 The Management commented that adjustment was already made on the 9th billing 
+
+of OCM Steel Corporation for the year 2021, in particular, liquidated damages 
+were already recorded as Miscellaneous Income. Succeeding payments for 
+progress billings of contractors will be recorded in the books using the prescribed 
+entries in the Government Accounting Manual. 
+
+ 
+INTER-AGENCY PAYABLES 
+ 
+c. Erroneous recording of remittance of penalties to the BIR 
+ 
+1.36 The accounting entries made to record the remittances of the penalties of 
+
+₱63,213.98 to the BIR were found erroneous, which reduced the balance of 
+the account Due to BIR and overstated the Trust Liabilities by such amount.  
+
+ 
+1.37 Review of the POEA adherence to tax laws, rules and regulation in relation to its 
+
+operation, showed that the Agency had complied with the BIR RRs on the 
+withholding and remittances of taxes during the year except for the months of 
+March, April and May 2020 causing penalties amounting to P300,965.48 due to 
+late filing despite the extension given in response to the COVID-19 pandemic as 
+provided in BIR RR No. 7-2020 dated March 27, 2020. The Accounting Division 
+explained that during the said months, there was limited work force because of the 
+imposed community quarantine. Hence, filing/remitting of taxes on or before the 
+prescribed period was not achieved. 
+
+ 
+1.38 Review of the accounting entries made to record the remittances of the penalties 
+
+of ₱63,213.98 to the BIR disclosed an erroneous entry which reduced the balance 
+of the account Due to BIR and overstated the Trust Liabilities by the same amount. 
+The Due to BIR account was debited instead of Trust Liabilities wherein 
+
+
+
+48 
+ 
+
+disbursements through checks were paid under Trust Fund. It is not appropriate 
+that the account Due to BIR be debited because there were no taxes withheld for 
+the said transactions.   
+
+ 
+Table 10. Illustrative Accounting Entries 
+
+Entries made to record the remittance of penalties to the BIR 
+Due to BIR 63,213.98  
+         Cash in Bank – Local Currency, Current Account   63,213.98 
+
+ 
+Should be entries to record the remittance of penalties to the BIR 
+Trust Liabilities 63,213.98  
+         Cash in Bank – Local Currency, Current Account   63,213.98 
+
+ 
+1.39 We recommended that Management direct the Chief Accountant to make the 
+
+necessary adjusting entries to correct the error in recording of remittances of 
+penalties to the BIR.  
+ 
+
+1.40 The Management commented that they will immediately effect the necessary 
+adjustments to correct the account balances. 
+
+ 
+REVENUE/INCOME  
+
+ 
+d. Erroneous recording of collections and income 
+ 
+1.41 The POEA income from Processing Fees for CY 2020 included prior year’s 
+
+collection from Philippine Overseas Labor Offices’ (POLO) Overseas 
+Employment Certificate (OEC) of P2,311,458.73, which were recorded only 
+in CY 2020, hence resulted in the overstatement of the reported income at 
+year-end. 
+
+ 
+1.42 Overseas Filipino Workers (OFWs) leaving for overseas employment are required 
+
+to secure an exit clearance in the form of OEC. These OECs may be issued at the 
+POEA Central Office, (Land-based Employment Center, Sea-based Employment 
+Accreditation and Processing Center, Government Placement Branch, Balik - 
+Manggagawa Processing Division (BMPD), POEA’s Regional Centers, Regional 
+Extension Units (REUs), Satellite Offices (SO), Licensed agencies participating in 
+the In-House Processing Program and at the POLOs. 
+
+ 
+1.43 POEA’s income is generated mostly from the issuance of Exit Clearance for OFWs 
+
+in the form of OEC which is issued through manual processing, or Electronic 
+Receipt (e-Receipt) issued for computerized processing. Processing fees in the 
+EGTF transactions are also recognized as income. Processing fees collected are 
+deposited in the POEA’s Authorized Government Depository Bank (AGDB) taken 
+up as Trust Liabilities and from which the same are eventually remitted to the BTr 
+and taken up as Income under the unappropriated surplus of the General Fund of 
+the Government.   
+
+ 
+
+
+
+49 
+ 
+
+1.44 As at December 31, 2020, the POEA collected Income from Processing Fee of 
+P116,524,952.02, which were remitted to the BTr, breakdown of which is shown 
+below: 
+
+ 
+Table 11. Processing Fee for CY 2020 
+
+Unit Income-Processing Fee Per GL  (In Pesos) 
+CO - Hilot      18,552,254.00  
+REU/Overseas Workers Welfare 
+Administration (OWWA) / Philippine Health 
+Insurance Corporation (PHIC) 
+
+   91,303,819.50  
+
+Employee Guarantee Trust Fund (EGTF)            40,868.00  
+POLO       6,628,010.52  
+Total   116,524,952.02  
+
+ 
+1.45 Review of the journal entries made by the Accounting Division related to POLO 
+
+Collection deposited in Development Bank of the Philippines (DBP) account 
+disclosed that an amount totaling P7,375.810.77 was remitted to the BTr and was 
+reported as CYs’ income despite inclusion of transactions which pertain to prior 
+years. The POLO OEC Collections deposited to Land Bank of the Philippines 
+(LBP) and DBP account for CY 2020 amounted to P2,809,247.97 and 
+P1,507,791.75 respectively. The journal entries made to record subsequent 
+remittances to BTr and recording of income as compared with the appropriate 
+amounts are shown below: 
+
+ 
+Table 12. Illustrative Accounting Entries 
+
+Particulars 
+
+Entries made Should be  Variances For Adjustment 
+
+LBP DBP LBP DBP LBP DBP 
+Proposed 
+
+AJE 
+Total 
+
+(In Pesos) 
+Trust Liabilities                      3,602,264.29 3,774,034.41 3,602,264.29 3,774,034.41    
+         CIB –LCCA                           3,602,264.29 3,774,034.41 3,602,264.29 3,774,034.41    
+        
+CTAD, Regular 3,602,264.29 3,773,546.48 3,605,832.42 3,774,240.04 3,568.13 693.56 4,261.69 
+         Processing 
+
+Fee 
+2,854,464.04 3,773,546.48        2,809,247.97     1,507,303.82  (45,216.07) (2,266,242.66)    (2,311,458.73) 
+
+         Interest 
+Income 
+
+20,460.43      24,028.56   693.56  3,568.13 
+ 
+
+   693.56 
+ 
+
+4,261.69 
+
+         Accumulated 
+Surplus/ 
+(Deficit) 
+
+727,339.82  772,555.89  2,266,242.66   45,216,07  2,266,242.66 2,311,458.73 
+
+ 
+1.46 Audit disclosed that based on the submitted report attached per Bank 
+
+Reconciliation Statement (BRS), POLO collections for CY 2020 amounted to 
+P4,316,551.79. Hence, POLO OEC recorded as processing fee for the current year 
+is overstated due to the inclusion of prior years’ transactions totaling 
+P2,311,458.73. Further, based on the submitted Bank Statement, interest income 
+earned on two depository accounts amounted to P24,722.12, while it was 
+P20,460.43 in the submitted FS, hence a total Interest Income understatement of 
+
+
+
+50 
+ 
+
+P4,261.69 was noted. The details of the variances and suggested adjusting journal 
+entries and amounts are shown in the foregoing table. 
+
+ 
+1.47 We recommended that the Management require the Chief Accountant to 
+
+make adjustments as necessary, to take up the misstatements in the recorded 
+Processing Fee and Accumulated Surplus/(Deficit) account and to also take 
+up the unrecorded interest income earned through the depository accounts 
+and remit the same to the BTr. 
+ 
+
+1.48 The Management commented that adjusting entries will be prepared to correct the 
+misstatement in the recording of receipts of POLO collections.  
+ 
+
+1.49 The Management also stated that the 4th Quarter interest of LBP was already 
+remitted thru a check dated January 13, 2021. Further, DBP automatically credits 
+to the account of the Bureau of the Treasury the quarterly interest earned since 
+March 28, 2018. 
+
+ 
+ 
+OTHER ACCOUNTING DEFICIENCIES 
+ 
+CASH  
+ 
+Unaccounted prior year balances of Cash-in-Bank, Local Currency Current Account 
+ 
+2. The Cash in Bank – Local Currency, Current Account (CIB – LCCA) account 
+
+balance as of December 31, 2020 includes unaccounted PYs balances amounting to 
+P23,098,743.94 recorded from CYs 2016 to 2020 for which there were no subsidiary 
+records nor necessary data/information to substantiate the beginning balance, hence 
+cast doubts on the propriety and reliability of the CIB-LCCA balance as at December 
+31, 2020. 
+
+ 
+2.1 Sound internal control on cash requires prompt and correct recording and reporting 
+
+of transactions to ensure that financial information is reliable, accurate and 
+reported within the given accounting period. 
+
+ 
+2.2 Section 74 of PD No. 1445 states that at the close of each month, depositories shall 
+
+report to the agency head, in such form as he may direct, the condition of the 
+agency account standing on their books. The head of the agency shall see to it that 
+a reconciliation is made between the balance shown in the reports and the balance 
+found in the books of the agency. 
+
+ 
+2.3 Appendix No. 6 of GAM for NGAs, Vol. II describes the SL as a ledger that shows 
+
+detail for each control account in the GL, which is maintained per account and 
+fund cluster by the Accounting Division/Unit. At the end of each month, after all 
+transactions in the journals have been posted, the debit and credit columns of each 
+
+
+
+51 
+ 
+
+account shall be footed in pencil and the balance indicated in ink. The totals of the 
+SL balances shall be reconciled with the corresponding GL controlling account. 
+
+ 
+2.4 The POEA CIB-LCCA consists of two (2) trust accounts maintained in AGDBs, 
+
+the DBP and LBP, for the following purposes: 
+ 
+
+Bank Account Purpose 
+DBP used to deposit POLO remittances from collections of BM 
+
+PF 
+LBP  used to deposit trust collections such as training/seminar 
+
+fee for EPS Korea, CAEP, and PLOS; Fund for EPS-
+TOPIK; EGTF and  also remittances of BM PF from 
+POLOs. 
+
+ 
+2.5 As at December 31, 2020, the CIB –LCCA balance of P34,220,408.34 represents 
+
+the total cash for the regular agency fund (RAF) and trust receipts (TR). While the 
+bank confirmed balances of LBP and DBP accounts amounted to P34,364,867,51. 
+A difference of P144,459.17 pertains to Outstanding Checks of the Agency for CY 
+2020 which has yet to be recognized by the bank. Details of the account balance is 
+summarized in the table below: 
+
+ 
+Table 13. Breakdown of CIB-LCCA Balance  
+
+Particulars Account Number 
+
+Balance as of 
+January 1, 
+
+2020 
+Debits Credits 
+
+Balance as of 
+December 31, 
+
+2020 
+(In Pesos) 
+
+Fund 01 (RAF ) LBP Account 17,720,607.11 - - 17,720,607.11 
+
+Fund 07 (TR) 
+LBP Account 16,998,247.93 18,853,947.01 19,526,897.02 16,325,297.50 
+DBP Account 2,440,745.97 1,507,791.75 3,774,034.41 174,503.31 
+
+Total 37,159,601.01 20,361,738.76 23,300,931.43 34,220,408.34 
+ 
+
+2.6 Analysis of the CIB – LCCA account disclosed that the year-end balance includes 
+unaccounted beginning balances amounting to P23,098,473.94 recorded per JEV-
+2016-04-000862 dated March 31, 2016, which refers to the set-up of beginning 
+balance recorded under the books of RAF.  According to the Accounting Division, 
+the Agency did not maintain separate books for RAF and TR before the migration 
+of the Agency to e-NGAS in CY 2016, so all amounts set up as beginning balances 
+were recorded initially under RAF in e-NGAS. Details of the CIB-LCCA balance 
+from years 2016 to 2020 are as follows: 
+
+ 
+Table 14. Balance of CIB-LCCA from 2016-2020 
+
+ Cash in Bank –LCCA 
+
+Year Beginning Balance Debits Credits 
+Ending 
+Balance 
+
+RAF (Fund 01) 
+2016 23,098,473.94 69,255.68 69,255.68 17,720,607.11 
+
+5,377,866.83 
+
+
+
+52 
+ 
+
+ Cash in Bank –LCCA 
+
+Year Beginning Balance Debits Credits 
+Ending 
+Balance 
+
+2017 17,720,607.11   17,720,607.11 
+2018 17,720,607.11 25,357.50 25,357.50 17,720,607.11 
+2019 17,720,607.11 0.00 0.00 17,720,607.11 
+2020 17,720,607.11 4,716,777.24 4,716,777.24 17,720,607.11 
+
+TR (Fund 07) 
+2016  73,760,609.85 65,015,088.61 8,745,521.24 
+2017 8,745,521.24 59,677,816.28 56,070,046.99 12,353,290.53 
+2018 12,353,290.53 67,755,521.25 58,042,160.86 22,066,650.92 
+2019 22,066,650.92 69,836,551.50 72,464,208.92 19,438,993.90 
+2020 19,438,993.90 20,361,738.76 23,300,931.43 16,499,801.23 
+
+ 
+2.7 There were no subsidiary records nor necessary data available to substantiate the 
+
+beginning CIB-LCCA balance recorded under RAF, hence casts doubt on the 
+propriety and reliability of the CIB-LCCA balance. It was also noted that except 
+for correcting entries, no other significant movement on the GF balances of the 
+said account happened from years 2017 to 2020. The Accounting Division said 
+they will reclassify the subsidiaries from RAF to TR once reconciliation of all the 
+SLs prior to set-up has been made.  
+
+ 
+2.8 We recommended that the Management require the Accountant to exhaust 
+
+efforts to locate the supporting documents to establish the propriety and 
+reliability of the prior years’ balances of the account CIB-LCCA, and to 
+reclassify the SLs to the appropriate fund source. 
+
+ 
+2.9 The Management commented that the Accounting Division is currently working 
+
+on the analysis of Trust Liabilities accounts and their corresponding Cash 
+accounts. Specific personnel were already assigned to do these tasks. 
+
+ 
+RECEIVABLES 
+ 
+Unreconciled difference of Due from NGAS (DBM-PS) account between POEA and DBM-PS 
+books 
+  
+3. The unreconciled 2015 and PYs’ discrepancies of P1,759,107.22 between the POEA 
+
+and the DBM-PS books cast doubt on the reliability of the Due from NGAs account 
+(DBM-PS) year-end balance of P6,512,833.92.   
+
+ 
+3.1 As previously discussed, Chapter 3, on the Description of Accounts in the Revised 
+
+Chart of Accounts (RCA), of the GAM for NGAs, Volume III, prescribes the use 
+of account Due from NGAs to record advances for purchases of goods or services 
+as authorized by law, fund transfers to the NGAs for implementation of projects 
+and other receivables from NGA. This account is credited upon receipt of 
+goods/services, and liquidation of fund transfers or receivables. 
+
+
+
+53 
+ 
+
+ 
+3.2 In the analysis and reconciliation made on the Due from NGAS - DBM-PS account 
+
+of the POEA, it was noted that the account includes unaccounted/undetermined 
+PYs’ accumulated variances/ discrepancies of P1,759,107.22, which existed since 
+CY 2015 and before, which particulars can no longer be accounted/traced in the 
+absence of records, thereby, casting doubts on the reliability of the recorded 
+balances of the said accounts. Such figures cannot be found in the DBM-PS 
+records. 
+
+ 
+3.3 We recommended that Management trace from previous records and reports 
+
+the source of the entry made on the said amount/s and analyze and make the 
+necessary adjustment in the POEA books.  Conduct periodic reconciliation 
+with DBM-PS to bring the two records in agreement. 
+
+ 
+INVENTORIES  
+ 
+Discrepancies between the Report on the Physical Count of Inventories (RPCI) and 
+Accounting records  
+ 
+4. Discrepancies of P1,412,065.77 were noted between RPCIs and Inventory Schedule 
+
+due to: a) unsupported prior year book balances and prior year entries in the 
+Inventories account of P367,377.31, for which no record can be traced for 
+reconciliation; b) physical count showed various Inventories counted amounting to 
+P354,067.83 but not recorded in the books, while some Inventories recorded in the 
+books but were not counted, and some inventories were undervalued; and c) absence 
+of Inventory Reports for the Accountable Forms, Plates and Stickers Inventory 
+account with a balance of P1,418,733.56, hence, casts doubt as to their existence, 
+thereby rendering the Inventories account balance unreliable. 
+
+ 
+4.1 Section 1, Chapter 8 of the GAM for NGAs, Volume I covers the definition, 
+
+recognition, measurement, cost formulas to be used and related disclosure 
+requirement in accordance with IPSAS 12 on Inventories. 
+
+ 
+4.2 Moreover, Section 17 of the same Chapter and Manual provides that RPCI shall 
+
+be used to report the physical count of supplies by type of inventory as at a given 
+date. 
+
+ 
+4.3 Further, Section 13 provides that physical count/inventory, which is required semi-
+
+annually, is an indispensable procedure for checking the integrity of property 
+custodianship. 
+
+ 
+4.4 As of December 31, 2020, POEA Accounting records showed Inventories totaling 
+
+P2,363,810.48, which consists of the following: 
+ 
+ 
+ 
+
+
+
+54 
+ 
+
+Table 15. Inventories account as of December 31, 2020 
+
+Account Title Account 
+Code 
+
+Balance 
+12/31/2020 
+
+ 
+(In Pesos) 
+
+Office Supplies Inventory  10404010  577,699.61  
+Accountable Forms, Plates and Stickers 
+Inventory 
+
+10404020  1,418,733.56  
+Other Supplies and Materials Inventory 10404990  367,377.31  
+Total Inventories   2,363,810.48  
+
+ 
+4.5 However, discrepancies of P1,412,065.77 were noted between the Accounting 
+
+records, Inventory Schedules and the RPCI, which render the Inventories account 
+balance unreliable due to the noted deficiencies stated in the table below: 
+
+ 
+Table 16. Summary of Discrepancies in Inventories Account 
+
+ 
+Discrepancies Amount  (In Pesos) 
+
+a) Unsupported prior year entries and book balances 
+carried forward as beginning balance Jan. 1, 2020  367,377.31  
+
+b) Undervaluation of Inventory (21,831.59) 
+ Counted but not recorded in the books (354,067.83) 
+ Inventory items not found as per count 1,854.32  
+c) No RPCI Submitted for Accountable Forms, Plates and 
+
+Stickers Inventory  1,418,733.56  
+
+ Total  1,412,065.77  
+ 
+
+a) Unsupported prior year entries and book balance 
+ 
+
+4.6 Analysis of various Accounting records and reports on recorded Inventories 
+disclosed unsupported/unreliable prior year book entries and book balance of the 
+following Inventory accounts: 
+
+ 
+Table 17. Unsupported/unreliable PY Book Entries 
+
+ Observations Amount (In Pesos) 
+1. Beginning balance of Other Supplies and Materials 
+
+Inventory account found   unsupported/ unreliable 
+362,087.31 
+
+2. Construction Materials for distribution, as per SL, found 
+non-existent  
+
+5,290.00 
+
+ Total unsupported/ unreliable Book Entries 367,377.31 
+ 
+
+4.7 The prior year unsupported/unreliable entries were recorded as part of beginning 
+balances of the Inventory accounts in the POEA books in CY 2006 upon transition 
+to e-NGAS. However, in the absence of records to trace from, no reconciliation of 
+the Accounting records and Property reports and records has been made to adjust 
+the same. Further, no physical count of inventories was submitted to show the 
+
+
+
+55 
+ 
+
+existence of the said prior year inventory balances. Hence, this necessitates further 
+analysis of the inventory entries and balances, and appropriate adjustments.  
+
+ 
+b) Various inventories were counted but no longer in the books, Inventories still 
+
+in the books but not counted, and undervaluation of inventory 
+ 
+
+4.8 The Office Supplies Inventory account showed a balance of P577,699.61 as at 
+December 31, 2020. However, the RPCI as at December 31, 2020 showed a 
+balance of P951,744.71, or a net variance of P374,045.10.  
+
+ 
+4.9 Analysis of the Inventory Schedule and the RPCI showed that the discrepancy of 
+
+P374,045.10 was due to the following: a) various Inventories were physically 
+counted but no longer recorded in the books; b) Inventory items still in the books 
+but not counted; and c) undervaluation of inventory in the books, to wit: 
+
+ 
+Table 18. Summary of Discrepancy between Inventory Schedule and RPCI 
+
+Particulars Amount (In Pesos) 
+a) Various Inventories were counted but no longer in the 
+books 354,067.83 
+
+b) Inventory items still in the books but not counted (1,854.32) 
+c) Undervaluation of inventory in the books 21,831.59 
+Total 374,045.10 
+
+ 
+c) Absence of RPCI for Accountable Forms, Plates and Stickers Inventory 
+
+account 
+ 
+
+4.10 As at yearend, Accountable Forms, Plates and Stickers Inventory account showed 
+a balance of P1,418,733.56. However, the existence and completeness of said 
+Accountable Forms cannot be ascertained due to the absence of RPCI as at 
+December 31, 2020 despite continuous communication and reminder to submit the 
+same, hence renders the whole balance unreliable.  
+
+ 
+4.11 We recommended that Management require:  
+
+  
+a) the Chief Accountant to: 
+ 
+
+ look into the propriety of the unsupported/unreliable prior year 
+entries and unreliable beginning book balances of the Inventory 
+accounts and adjust the errors, as necessary; and 
+
+ 
+
+ record to their appropriate Inventory account classification the 
+Inventories found existing as per physical count and the undervalued 
+Inventory items; 
+
+ 
+ 
+ 
+
+
+
+56 
+ 
+
+b) the Property Officer to:  
+ 
+ look into the whereabouts of the Inventory items which were still 
+
+existing in the books but not found at the time of physical count of 
+inventory; and 
+ 
+
+ submit the RPCI for Accountable Forms, Plates and Stickers 
+Inventory account as of December 31, 2020; and 
+
+ 
+c) both Accountant and Property Officer to conduct periodic reconciliation, 
+
+at least semi-annually, of the Inventories accounts to arrive at accurate 
+and reliable balances of their respective records. 
+
+ 
+4.12 The Management commented that the Accounting Division is continuously 
+
+working on analysis and reconciliation of various old accounts/e-NGAS beginning 
+balances, including Inventory accounts. The Accounting Division and GSPD will 
+reconcile their records taking into consideration the observation raised by COA.   
+ 
+
+4.13 The Management also submitted the copy of RPCI for accountable forms as of 
+December 31, 2020. 
+
+ 
+PROPERTY, PLANT AND EQUIPMENT (PPE)  
+ 
+Several PPE items not appropriately classified 
+ 
+5. Several PPE items were not appropriately recorded in their proper account 
+
+classification as prescribed under the RCA of the GAM for NGAs, Volume III, hence 
+either overstating or understating some items/classes of PPEs including their 
+respective accumulated depreciation in the aggregate amount of P7,197,226.62 in CY 
+2020. 
+
+ 
+5.1 The RCA as embodied in Volume III of the GAM provides for the classification 
+
+of different PPE to be recognized in the book of accounts of agencies and their 
+description. Amongst others are land, buildings, power supply systems, other 
+structures, machinery, office equipment, information and communication 
+technology equipment, communication equipment, disaster response and rescue 
+equipment, medical equipment, sports equipment, other machinery and equipment, 
+motor vehicles, furniture and fixtures, books, and other PPE. 
+
+ 
+5.2 Review of the PPE Ledger Card (PPELC) as of December 31, 2020 being 
+
+maintained by the Accounting Division disclosed that PPEs with net aggregate 
+value of P7,197,226.62 were not recorded to their proper account classification 
+prescribed in the RCA as provided by the GAM, e.g., some Other Machinery and 
+Equipment were recorded as Other Structures, Information and Communication 
+Technology Equipment were recorded as Communication Equipment, etc.   
+
+ 
+
+
+
+57 
+ 
+
+5.3 As a result, the following accounts were either overstated or understated in the 
+book of accounts of POEA:  
+
+ 
+Table 19. Summary of Under(Over)statement in PPE Accounts 
+
+Accounts 
+Overstated Understated 
+
+(In Pesos) 
+Other Structures 288,432.14  
+Accumulated Depreciation - Other Structures 152,912.90  
+Office Equipment  767,090.00 
+Accumulated Depreciation - Office Equipment  588,266.78 
+Information and Communication Technology  
+Equipment   3,439,828.00 
+
+Accumulated Depreciation - Information and 
+Communication Technology Equipment   1,960,696.80 
+
+Communication Equipment 3,439,828.00  
+Accumulated Depreciation - Communication 
+Equipment 1,960,696.80  
+
+Other Machinery and Equipment   288,432.14 
+Accumulated Depreciation - Other Machinery 
+and Equipment   152,912.90 
+
+Other Property, Plant and Equipment 767,090.00  
+Accumulated Depreciation - Other Property, 
+Plant and Equipment 588,266.78  
+
+Total 7,197,226.62 7,197,226.62 
+ 
+
+5.4 We recommended that Management direct the Chief Accountant to reclassify 
+the abovementioned PPEs to their proper accounts to correct the PPE 
+balances in the books of accounts.  
+
+ 
+5.5 The Management commented that adjusting entries will be prepared to correct the 
+
+recording of PPE accounts. They will be reviewing the original entries and collect 
+supporting documents of JEV preparation. 
+
+ 
+Discrepancies between the Accounting books and RPCPPE 
+ 
+6. Discrepancies of P63,598,694.12 were noted between the balances of the account PPE 
+
+as against the Report on the Physical Count of PPE (RPCPPE) due to: a) PPEs 
+physically counted but not recorded totaling  P11,249,081.03, b) recorded but not 
+existing valued at P27,676,284.99, and c) some recorded value/costs in the books 
+differ with the amounts in RPCPPEs by  P47,171,490.16, aside from the unidentified 
+items of Building, Other Equipment, and Other PPE recorded as part of beginning 
+balances in the POEA books in CY 2016 upon transition to e-NGAS and named as 
+‘For reconciliation’ with a net book value of P81,278,940.09,  hence cast doubt on the 
+existence and completeness of recorded PPE and rendered the year-end balances 
+unreliable. Furthermore, Property Cards (PCs) were not properly maintained for all 
+items of PPE.  
+
+ 
+
+
+
+58 
+ 
+
+6.1 Section 38, Chapter 10 of the GAM for NGAs, Volume I, on the Physical Count 
+of PPE, provides that: “The entity shall have a periodic physical count of PPE, 
+which shall be done annually and presented on the Report on the Physical Count 
+of Property, Plant and Equipment (RPCPPE) (Appendix 71) as at December 31 of 
+each year. This shall be submitted to the Auditor concerned not later than January 
+31 of the following year. Equipment found at station and losses discovered during 
+the physical count shall be reported to the Accounting Division/Unit for proper 
+accounting/recording.” 
+
+ 
+6.2 Likewise, Section 42 of the same Chapter and Manual, on the Accounting and 
+
+Property Records to be Maintained for PPE, states that “The Chief Accountant 
+shall maintain the PPELC for each category of PPE including work and other 
+animals, livestock, etc. The PPELC shall be kept to record promptly the 
+acquisition, description, custody, estimated useful life, depreciation, impairment 
+loss, disposal and other information about the asset. For check and balance, the 
+Property and Supply Office/Unit shall likewise maintain PC for PPE in their 
+custody to account for the receipt and disposition of the same. The balance per PC 
+shall be reconciled with PPELC maintained by the Accounting Division/Unit. They 
+shall also be reconciled with other property records like PAR.” 
+
+ 
+6.3 The PPE accounts of POEA as of December 31, 2020, excluding Construction in 
+
+Progress account, showed a total PPE balance of P315,529,861.15. However, the 
+RPCPPE as of December 31, 2020 showed a total PPE of P251,931,167.03, hence 
+presented a net discrepancy of P63,598,694.12 between the books and physical 
+count, to wit: 
+
+ 
+Table 20. Variance between Accounting Books and RPCPPE 
+
+Inventories/PPE Accounts 
+
+Balance as of December 31, 2020 
+
+Variance 
+Books 
+
+Physical 
+Inventory 
+
+Report 
+(In Pesos) 
+
+Land 8,000,000.00 8,000,000.00 - 
+Power Supply Systems 8,724,357.72 8,724,971.10 (613.38) 
+Buildings 171,820,663.52 130,769,922.02 41,050,741.50 
+Other Structures 2,983,535.39 5,427,503.25 (2,443,967.86) 
+Office Equipment 14,890,268.52 14,756,744.52 133,524.00 
+Information and Communication 
+Technology Equipment 45,101,847.27 40,447,391.19 4,654,456.08 
+
+Communication Equipment 3,600,828.00 3,600,828.00 - 
+Disaster Response and Rescue 
+Equipment 21,189,704.86 6,600,000.00 14,589,704.86 
+
+Sports Equipment 31,192.00 53,682.00 (22,490.00) 
+Other Machinery and Equipment 4,931,799.44 7,271,100.00 (2,339,300.56) 
+Motor Vehicles 25,474,315.95 25,474,315.95 - 
+Furniture and Fixtures 152,532.42 87,534.00 64,998.42 
+Other Property, Plant and 
+Equipment 8,628,816.06 717,175.00 7,911,641.06 
+
+Total PPE 315,529,861.15 251,931,167.03 63,598,694.12 
+
+
+
+59 
+ 
+
+6.4 Further analysis of the PPE book balances and the RPCPPE showed that the 
+discrepancy of P63,598,694.12 was due to the following: i.) PPEs totaling 
+P11,249,081.03 were counted but not recorded in the books; ii.) PPE items totaling 
+P27,676,284.99 were recorded in the books but not counted; iii.) variances totaling 
+P47,171,490.16 between the amount of the PPE items recorded per books and the 
+Property records, summarized as follows: 
+
+ 
+Table 21. Reconciliation Per Books and Per RCPPE 
+
+Particulars 
+Accounting 
+
+Records 
+Property 
+Records Variance 
+
+(In Pesos) 
+PPE account balance 315,529,861.15 251,931,167.03 63,598,694.12 
+Adjustments:    
+
+i. Counted but not recorded in the books: 
+ Other Structures 2,562,400.00 - 2,562,400.00 
+ Office Equipment 2,268,253.00 - 2,268,253.00 
+ ICT Equipment 3,348,304.03 - 3,348,304.03 
+ Sports Equipment 22,490.00 - 22,490.00 
+ Other Machinery and 
+
+Equipment 
+2,960,100.00 - 2,960,100.00 
+
+ Furniture and Fixtures 87,534.00 - 87,534.00 
+Subtotals 11,249,081.03 - 11,249,081.03 
+ii. Recorded in the books but not counted: 
+
+ Buildings - 3,238,879.10 (3,238,879.10) 
+ Other Structures - 288,432.14 (288,432.14) 
+ Office Equipment - 2,401,777.00 (2,401,777.00) 
+ ICT Equipment - 8,002,760.11 (8,002,760.11) 
+ Disaster Response and 
+
+Rescue Equipment 
+- 5,059,463.72 (5,059,463.72) 
+
+ Other Machinery and 
+Equipment 
+
+- 620,799.44 (620,799.44) 
+
+ Furniture and Fixtures - 152,532.42 (152,532.42) 
+ Other PPE - 7,911,641.06 (7,911,641.06) 
+
+Subtotal - 27,676,284.99 (27,676,284.99) 
+iii. Difference in amount per books and per count: 
+
+ Power Supply Systems 8,724,971.10 8,724,357.72 613.38 
+ Buildings 105,339,221.37 143,151,083.77 (37,811,862.40) 
+ Other Structures 1,700,000.00 1,530,000.00 170,000.00 
+ Disaster Response and 
+
+Rescue Equipment 
+6,600,000.00 16,130,241.14 (9,530,241.14) 
+
+Subtotals 122,364,192.47 169,535,682.63 (47,171,490.16) 
+Total Adjustments 133,613,273.50 197,211,967.62 -63,598,694.12 
+Reconciled PPE account balance 449,143,134.65 449,143,134.65 - 
+
+ 
+6.5 Further, included in the above PPE were items recorded in the books in lump-sum 
+
+totaling P152,824,528.83 and with a net book value of P81,278,940.09, to wit: 
+ 
+ 
+ 
+ 
+
+
+
+60 
+ 
+
+Table 22. Breakdown of Lump-sum Items in PPE Account 
+
+Description 
+Cost Accumulated Depreciation 
+
+Net Book 
+Value 
+
+(In Pesos) 
+Building - POEA CO 143,151,083.77 66,556,659.18 76,594,424.59 
+Other Equipment (Other SL) 3,790,000.00 - 3,790,000.00 
+Other PPE - Unidentified Balance 340,190.00 - 340,190.00 
+Other PPE - Fully depreciated 3,781,524.32 3,403,371.89 378,152.43 
+Other PPE - Unserviceable per RA-13-
+029 1,761,730.74 1,585,557.67 176,173.07 
+
+Total 152,824,528.83 71,545,588.74 81,278,940.09 
+ 
+
+6.6 The unidentified items of Building, Other Equipment, and Other PPE were 
+recorded as part of beginning balances in the POEA books in CY 2016 upon 
+transition to e-NGAS and named as ‘For reconciliation’. However, as of yearend, 
+no reconciliation has been made to reclassify each items into specific categories of 
+PPEs as required by the GAM. As a result, no depreciation of the said items of 
+PPE was recognized from CYs 2016 to 2020.    
+
+ 
+6.7 Furthermore, the Property Officer failed to properly maintain PCs prescribed under 
+
+Section 42, Chapter 10, of the GAM for NGAs, Volume I for all items of PPE to 
+monitor receipt, transfer and disposition of PPE. Some PPE have no PCs, hence 
+no record to reconcile the balance per PPELC maintained by the Accounting 
+Division.  
+
+ 
+6.8 We recommended that the Management require the: 
+
+ 
+a. Chief Accountant and Property Officer to conduct at least semestral 
+
+reconciliation of their respective Accounting records and Property 
+records and reports; 
+
+ 
+b. Chief Accountant to: 
+
+ 
+ maintain PPELC to present the details of the PPE per account 
+
+category instead of a lump sum basis, reconciled with the Property 
+records and reports to support the controlling PPE account book 
+balances;  
+ 
+
+ make adjusting entries to reflect the PPEs found existing but not 
+recorded in the books of accounts; 
+
+ 
+c. Property Officer to: 
+
+ 
+ maintain and update PCs to account for the receipt and disposition of 
+
+all items of PPE;  
+ 
+
+
+
+61 
+ 
+
+ come up with a strategic plan, which may involve support from other 
+personnel and the concerned respective offices/end-users, for the 
+conduct of complete annual physical count of all PPE, and submit the 
+corresponding RPCPPE to concerned agency officials; and 
+
+ 
+ look into the whereabouts of the PPEs which were recorded in the 
+
+books but not found at the time of PPE physical inventory.   
+ 
+
+6.9 The Management commented that the Accounting Division and GSPD are 
+gradually working on the reconciliation. 
+ 
+
+RECEIVABLES AND PAYABLES ACCOUNTS 
+ 
+Dormant Receivables and Liabilities accounts 
+ 
+7. Out of the total balance of P15,282,887.07, P10,905,722.71 or 71.36 percent remained 
+
+non-moving from six to 37 years in the following accounts; a) Accounts Receivable, 
+b.) Due from NGAs, c.) Advances to Officers and Employees, d.) Due to Government-
+Owned and Controlled Corporations (GOCCs); and e.) Due to NGAs. Likewise, the 
+receivables collectability is doubtful or nil due to absence of supporting records, 
+rendering the validity of the said accounts doubtful. Management failed to conduct 
+reconciliation and initiate request from the Commission on Audit to write-off the 
+dormant accounts under COA Circular No. 2016-005 dated December 9, 2016 and 
+COA Circular No. 97-001 dated February 5, 1997. 
+
+ 
+7.1 Section 111 of PD No. 1445 states that: 
+
+ 
+  “(1) The account of an agency shall be kept in such details as is 
+
+necessary to meet the needs of the agency and at the same time be 
+adequate to furnish the information needed by fiscal or control agencies 
+of the government 
+
+ 
+    (2) The highest standards of honesty, objectivity and consistency shall 
+
+be observed in the keeping of accounts to safeguard against inaccurate 
+or misleading information.” 
+
+ 
+7.2 COA Circular No. 97-001 dated February 5, 1997 defines dormant account as an 
+
+individual account or group of accounts which balances remained non-moving for 
+more than five years. Section III(B) of the same Circular also provides the 
+guidelines on these accounts, as follows: 
+
+ 
+ “a.  Dormant accounts in an active fund shall be reviewed, analyzed and 
+reconciled together with the other related accounts in the Trial Balance 
+(TB). 
+ 
+
+
+
+62 
+ 
+
+ b. After the review and validation of accounts, the following procedures 
+shall be followed:  
+
+b.1  Effect the adjusting entries and prepare the preliminary TB 
+b.2  Determine the proper disposition of reconciled and validated 
+
+accounts: 
+b.3 If there are cash accounts which will affect the books of the 
+
+National Treasury, furnish the BTr with the JV pertaining 
+thereto; and 
+
+b.4  If the analysis/review of the accounts/funds is not possible due 
+to absence of records and documents, the agency head 
+concerned should request for write-off and/or adjustment of 
+account balances from the COA, supported by: 
+b.4.1 List of available records and extent of validation made 
+
+on the accounts; and 
+b.4.2 Certifications and reasons why the books of 
+
+accounts/records, FSs/schedules and supporting 
+vouchers/documents cannot be located.” 
+
+ 
+7.3 COA Circular No. 2016-005 dated December 9, 2016 further defines Dormant 
+
+Receivable Accounts as accounts which balances remained inactive or non-
+moving in the books of accounts for 10 years or more and where 
+settlement/collectability could no longer be ascertained. 
+
+ 
+7.4 On the procedures to write-off dormant accounts, Section 8 of the same COA 
+
+Circular provides that: 
+ 
+
+“8.2 The head of the government entity shall file the request for authority to 
+write-off dormant receivable accounts, unliquidated cash advances, and fund 
+transfers to the COA Audit Team Leader (ATL) and/or Supervising Auditor 
+(SA). No filing fee is required. 
+
+ 
+8.3 The request shall be supported by the following documents: 
+
+a. Schedule of dormant accounts by accountable 
+officer/debtor/government entity and by account, certified by the 
+accountant and approved by the Head of the government entity; 
+ 
+
+b. Certified relevant documents validating the existence of the conditions, 
+as applicable, such as: 
+ 
+Xxx 
+
+  b.6 Proof of exhaustion of all remedied to collect the receivables 
+and demand to liquidate the cash advances and fund transfers, such 
+as but not limited to copies of served or returned demand letters: 
+
+   
+
+
+
+63 
+ 
+
+ b.7 Certification by the responsible officials of the entity to the 
+effect that there are no records/documents available to validate 
+claim: and  
+
+ 
+ b.8 Other justifications, like in the case of request for write-off due 
+
+to loss of documents, the circumstances of the loss should be stated 
+in the letter-request.” 
+
+ 
+7.5 The Trial Balance as of December 31, 2020 showed that the balances with dormant 
+
+accounts for the following Assets and Liabilities accounts of the POEA amount to 
+P15,282,887.07, details are as follows: 
+
+ 
+Table 23. Assets and Liabilities with Dormant Accounts 
+
+Account 
+Name 
+
+Account 
+Code 
+
+Beginning 
+Balance Debits Credits 
+
+Ending 
+Balance 
+
+(In Pesos) 
+ASSETS      
+
+Accounts 
+Receivable 10301010 3,566,051.25 705,868.00 665,000.00 3,606,919.25 
+
+Due from 
+NGAs 10303010 10,808,971.05 4,133,104.29 8,408,643.30 6,533,432.04  
+
+Advances to 
+Officers and 
+Employees 
+
+10303010 238,441.45 457,050.66 587,924.70 107,567.41 
+
+Subtotal  14,613,463.75 5,296,022.95 9,661,568.00 10,247,918.70 
+LIABILITIES      
+Due to NGAs 20201050 833,574.40 - - 833,574.40 
+Due to GOCCs 20201060 4,201,393.97 - - 4,201,393.97 
+Subtotal  5,034,968.37   5,034,968.37 
+Total  19,648,432.12 5,296,022.95 9,661,568.00 15,282,887.07 
+
+ 
+7.6 Of the total amount, P10,905,722.71 pertains to account balances that remained 
+
+dormant for several years ranging from five to more than 37 years, summarized in 
+the table below: 
+
+ 
+Table 24. List of Dormant Accounts 
+
+Accounts Particulars Age (years) 
+
+Last 
+Transaction  
+
+Date 
+
+No. of 
+Years 
+
+Dormant 
+
+Outstanding 
+Balance  
+
+ (In Pesos) 
+ASSETS           
+
+Accounts 
+Receivable 
+
+Unpaid Processing Fees for OFW 
+hired by foreign employers thru 
+Government Placement Branch. Of 
+the total amount, P1,175,269.00 was 
+already requested for write-off, 
+however, this was returned to the 
+concerned agency officials requiring 
+submission of additional documents, 
+which as of this writing has not been 
+
+10 to 
+more 
+
+than 20 
+years 
+
+2015 5   2,946,088.51  
+
+
+
+64 
+ 
+
+Accounts Particulars Age (years) 
+
+Last 
+Transaction  
+
+Date 
+
+No. of 
+Years 
+
+Dormant 
+
+Outstanding 
+Balance  
+
+ (In Pesos) 
+complied by the Management. This 
+was also included in the Annual 
+Audit Report (AAR) issued for CY 
+2019. 
+
+Due from NGAs 
+
+Forwarded balances to the POEA 
+books from the books of the defunct 
+OEDB,   NSB and BES in July 1982. 
+
+no data 
+available 1983 37      376,416.17  
+
+Represents funds transferred to the 
+Regional Offices of DOLE for the 
+Anti-Illegal Recruitment campaign. 
+
+no data 
+available 2002 18   1,320,869.92  
+
+Unliquidated cash advances of 
+DOLE officials. 
+
+no data 
+available 2002 18   1,119,812.33  
+
+Advances to 
+Officers and 
+Employees 
+
+Inclusion of P107,567.41 Revolving 
+Funds without supporting details. 
+
+no data 
+available 2014* 6      107,567.41  
+
+      Subtotal          5,870,754.34  
+
+Due to NGAs 
+
+Previously under the account 8-81-
+100 (OGAS), the amount is the 
+forwarded balance as of December 
+1994. 
+
+no data 
+available 1995 26 100,675.61 
+
+Salary deductions for the month of 
+December 2002 which were 
+remitted in January 2003 but were 
+not dropped from the books. 
+
+no data 
+available 2004 17 732,898.79 
+
+Due to GOCCs no data available no data available 2014* 6 4,201,393.97 
+
+      Subtotal          5,034,968.37  
+Total         10,905,722.71  
+
+*Based on available data 
+
+ 
+7.7 The dormant balances remained in the books as of December 31, 2020 despite the 
+
+recommendation of the Audit Team in the prior years’ AARs to reconcile those 
+balances with the records of the concerned government agencies, private 
+sponsoring organizations and creditors (for receivables and payables); and if 
+necessary, make a request to write-off the said account balances. However, the 
+Management still has not made any reconciliations nor made a formal request to 
+write-off balances of said accounts. Hence, the inclusion of the dormant accounts 
+of doubtful validity and remote or nil collectability affects the reliability of the 
+affected asset and liability accounts balances presented in the financial statements.  
+Actions taken by the Management were inadequate to address these deficiencies. 
+
+ 
+7.8 We reiterated our prior years’ audit recommendations and further 
+
+recommended that Management require the concerned agency officials to: 
+ 
+a. submit the required documents to facilitate the approval of the requested 
+
+write-off of dormant receivables amounting to P1,175,269.00 arising from 
+employers’ unpaid processing fees;  
+
+
+
+65 
+ 
+
+ 
+b. adopt alternative measures to enforce the collection of the remaining 
+
+dormant receivables including applicable legal action against the debtor 
+foreign employers in coordination with the Philippine foreign offices in 
+the countries of the employers;  
+
+ 
+c. exhaust efforts to locate the documents supporting the dormant unsettled 
+
+advances of P107,567.41 recorded as Revolving Funds but without 
+supporting details; 
+
+ 
+d. reconcile the dormant Receivables and Liabilities accounts with the   
+
+debtor/creditor government agencies to determine their validity; and 
+ 
+e. if after all efforts to collect and determine validity of the dormant accounts 
+
+prove futile, submit request for write-off of the accounts which became 
+dormant for more than 10 years supported by the required documents and 
+guided by the procedures in the write-off of dormant accounts as set forth 
+in COA Circular No. 2016-005 dated December 9, 2016. 
+
+ 
+7.9 The Management commented that the Accounting Division has exerted efforts to 
+
+retrieve/locate important papers pertaining to these dormant accounts but to no 
+avail as of now. The Division just transferred to their newly renovated office in 
+September 2020 and is still in the process of unboxing and organizing files in the 
+storage room. 
+ 
+
+7.10 The Management also commented that the Administration will explore other ways 
+to collect the receivables from foreign employers. The said AOM was endorsed to 
+the Legal Counsel as to priority of legal action taking into consideration and the 
+cost and age of receivables. 
+ 
+
+7.11 The Management further posited that it intends to pursue the request for write-off 
+of long outstanding accounts. 
+
+ 
+REVENUE/INCOME  
+
+ 
+Non-maintenance of updated subsidiary records and discrepancy of income recorded per 
+GL and CRJ 
+ 
+
+8. The failure by the Management to maintain updated subsidiary records resulted in 
+the differences of the recorded collected income per General Ledger (GL) from that 
+of the: a) Cash Receipts Journal (CRJ) of collections from OEC (COs and REUs by 
+P50,000.00; and b) SL balance pertaining to POLO OEC by P2,905,686.19, hence 
+cast doubt on the reliability of the reported income for CY 2021.  
+
+ 
+8.1. Among the books of accounts that are required to be maintained by NGAs as 
+
+prescribed in Section 12, Chapter 2 of the GAM for NGAs, Vol. I is the SL. The 
+
+
+
+66 
+ 
+
+SL is required to be maintained for each of the control account in the GL. The SL, 
+as shown in Appendix 6 of the GAM for NGAs, Vol. II, shows the details for each 
+control account in the GL which is maintained per account and fund cluster by the 
+Accounting Division/Unit. 
+
+ 
+8.2. Section 69(1) of PD No. 1445 provides that “Public officers authorized to receive 
+
+and collect moneys arising from taxes, revenues, or receipts of any kind shall remit 
+or deposit intact the full amounts so received and collected by them to the treasury 
+of the agency concerned and credited to the particular accounts to which the said 
+moneys belong. Xxxx” 
+ 
+
+8.3. Comparison made between the amount recorded per Processing Fee account and 
+the submitted RCD (CO and REUs) totaling P109,856,073.50 and 
+P109,806,073.50, respectively, showed a variance of P50,000.00, as follows: 
+ 
+
+Table 25. Discrepancy between GL and RCD/CRJ 
+Particulars Amount (In Pesos) 
+
+Per GL   109,856,073.50  
+Per RCD/CRJ   109,806,073.50  
+Difference           50,000.00 
+
+ 
+8.4. On the other hand, comparison of the submitted SLs of POLO OEC collections, 
+
+which is based on the RCD forwarded to the Management and RCD from the 
+POLO in ten countries for the months between March to December, showed an 
+unreconciled difference of P2,905,686.19 between the amount recorded per GL 
+Cash in Bank-LCCA account. Details of the unreconciled difference are as 
+follows: 
+
+ 
+Table 26. Unreconciled Difference per GL and SL 
+
+POLO OEC Collection 
+LBP DBP Total 
+
+(In Pesos) 
+Per SL 1,281,341.19  130,012.34   1,411,353.53  
+Per GL 2,809,247.97  1,507,791.75   4,317,039.72  
+Difference (1,527,906.78) (1,377,779.41) (2,905,686.19)  
+
+ 
+8.5. The said unreconciled differences between the balances in the controlling GL Cash 
+
+in Bank account and the subsidiary records maintained cast doubts on the 
+reliability of the Cash in Bank and corresponding Trust Liabilities account 
+balances reported as at year-end.  
+ 
+
+8.6. We recommended that the Management require the Chief Accountant to: 
+ 
+
+a. determine and verify the details of the discrepancy noted between the 
+CRJ and the amount recorded in the controlling GL account Income-
+Processing Fee, and to make adjustments as necessary to correct the 
+account balance; and 
+ 
+
+
+
+67 
+ 
+
+b. update monthly the subsidiary records of the POLO OEC collections and 
+to conduct periodic reconciliation of the subsidiary records with the 
+corresponding GL accounts Cash in Bank, Cash-Treasury Agency, 
+Deposit account, and Income-Processing Fee, and make appropriate 
+actions thereto to resolve the discrepancies.  
+
+ 
+8.7. The Management commented that the Accounting personnel in-charge of 
+
+recording collections and deposits is currently looking on the matter and 
+adjustments will be made as soon as the origin of discrepancy is determined. 
+Further, reconciliation of the accounts CIB, CTAD and Income-Processing Fee 
+will be done regularly. In addition, the SL and GL balances as of  
+December 31, 2020 of these accounts will be reviewed thoroughly and adjustment 
+will be effected if necessary. 
+
+ 
+ 
+B. COMPLIANCE AUDIT 
+ 
+Delays in the submission of required financial and accounting reports 
+ 
+9. Delays and non-submission of the required financial and accounting reports and 
+
+documents for CY 2020 within the prescribed period is not in accordance with 
+Section 60, Chapter 19 of the GAM for NGAs, Volume I, Sections 7.1 and 7.2 of the 
+2009 Rules and Regulations on the Settlement of Accounts (RRSA), and Section 32, 
+Chapter 3 of the GAM for NGAs, Volume I, thus prevented the timely audit, review 
+and evaluation of the Agency’s financial transactions and reporting of audit results 
+thereof. 
+
+ 
+9.1 Section 60, Chapter 19 of the GAM for NGAs, Volume I, on Financial Reporting, 
+
+states that: 
+ 
+
+“All NGAs shall prepare and submit the following financial statements and 
+schedules as follows, within the prescribed deadline: xxx” 
+ 
+c. Central/Head/Main Office 
+
+ 
+Entity/Office Statement/Report Deadline 
+
+Monthly TBs and Supporting Schedules 
+Ten (10) days after the end of the 
+month 
+
+Quarterly TB, FSs, SSs Ten days after the end of the quarter 
+
+Yearend TBs, FS, SSs February 14 of the following year 
+ 
+
+9.2 Moreover, Sections 7.1 and 7.2 of the RRSA, as prescribed under COA Circular 
+No. 2009-006 dated September 15, 2009, provide for the responsibilities of the 
+agency head and accountant for audit and settlement of accounts, pertinent portions 
+of which are quoted below: 
+
+ 
+
+
+
+68 
+ 
+
+“Section 7.1 Responsibility of the Agency Head 
+ 
+
+7.1.1 The head of the agency, who is primarily responsible for all 
+government funds and property pertaining to his agency, shall ensure that: 
+(a) the required financial and other reports and statements are submitted 
+by the concerned agency officials in such form and within the period 
+prescribed by the Commission; (b) the settlement of disallowances and 
+charges is made within the prescribed period; (c) the requirements of 
+transactions suspended in audit are complied with; and (d) appropriate 
+actions are taken on the deficiencies noted as contained in the NSs, NDs, 
+NCs and AOM. 
+
+ 
+Section 7.2 Responsibility of the Agency Accountant 
+
+ 
+7.2.1 The Chief Accountant. Bookkeeper or other authorized official 
+performing accounting and/or bookkeeping functions of the audited agency 
+shall ensure that: 
+ 
+
+a) the reports and supporting documents submitted by the accountable 
+officers are immediately recorded in the books of accounts and 
+submitted to the Auditor within the first ten (10) days of the ensuing 
+month; 
+
+ 
+b) the financial records are made accessible at reasonable hours to the 
+
+Auditor or his authorized representatives when needed;” 
+ 
+
+9.3 On the other hand, Section 32, Chapter 3 of the GAM for NGAs, Vol. I, which 
+prescribes the submission of budget and accountability reports, provides that: 
+
+ 
+“Section 32. All departments/agencies shall observe the following timelines in 
+submitting the required FARs to COA-GAS and DBM: 
+
+  
+a. Within thirty (30) days after the end of each quarter 
+
+- SAAODB FAR No. 1 
+- SAAODBOE  FAR No. 1.A 
+- List of Allotments/ Sub-Allotments  FAR No. 1.B 
+- SABUDB FAR No. 2 
+- SABUDBOE FAR No. 2.A 
+- QRROR FAR No. 5 
+
+b. On or before 30th day following the end of the year  
+- ADDO FAR No. 3 
+
+c. On or before 30th day of the following month covered  
+- MRD FAR No. 4 
+
+d. On or before February 14 of the 
+following calendar year 
+
+Consolidated Statement of 
+Allotments, Obligations, and 
+Balances per Summary of 
+Appropriations under FCR under 
+GAA, GARO, and SARO 
+
+ 
+
+
+
+69 
+ 
+
+9.4 Section 122 of PD No. 1445 also provides the following: 
+ 
+
+“Whenever deemed necessary in the exigencies of the service, the 
+Commission may under regulations issued by it require the agency heads, 
+chief accountants, budget officers, cashiers, disbursing officers, 
+administrative or personnel officers, and other responsible officials of the 
+various agencies to submit TBs, physical inventory reports, current 
+plantilla of personnel, and such other reports as may be necessary for the 
+exercise of its functions. 
+ 
+Failure on the part of the officials concerned to submit the documents and 
+reports mentioned herein shall automatically cause the suspension of 
+payment of their salaries until they shall have complied with the 
+requirements of the Commission. 
+ 
+No appropriation authorized in the General Appropriations Act shall be 
+available to pay the salary of any official or employee who violates the 
+provisions of this section, without prejudice to any disciplinary action that 
+may be instituted against such official or employee. 
+
+ 
+9.5 POEA adopted the use of e-NGAS, which facilitated the speedy generation of 
+
+various financial reports as well as the processing of the financial transactions. 
+Notwithstanding the principle behind the practice of e-NGAS, POEA failed to 
+properly benefit from its use and defeated the very purpose of it. 
+
+ 
+9.6 Review on the submission of various financial reports and FSs of POEA showed 
+
+that these were not submitted by the Accounting Division within the period 
+prescribed by the abovementioned rules and regulations.  
+
+ 
+9.7 As of January 18, 2021, inventory of the financial reports and documents, BRS, 
+
+Disbursement Vouchers (DVs) and various transactions with JEVs submitted by 
+the Accounting and Budget Divisions to the Audit Team show significant delays 
+up to 343 days summarized as follows: 
+
+ 
+Table 27. Computed Number of Days Delayed 
+
+Report 
+Number of Days Delayed 
+
+Submitted Unsubmitted Reports 
+Report of Checks Issued 
+(RCI), DVs for Gen Fund  -  
+
+243 to 262 days 
+(Jan. to Mar. 2020) 
+
+8 to 253 days 
+(Apr. to Dec.2020) 
+
+RCI, DVs for   MDS Trust   243 to 262 days (Jan. to Mar. 2020) 
+8 to 253 days 
+
+(Apr. to Dec.2020) 
+
+RCI, DVs-LBP TRUST 243 to 262 days (Jan. to Mar. 2020) 
+8 to 253 days 
+
+(Apr. to Dec.2020) 
+RCI, DVs-LBP  Accounts 
+Payable  
+
+8 to 343 days  
+( Jan. to Dec. 2020) 
+
+Report –List of Due and 
+Demandable Accounts 
+
+243 to 262 days 
+(Jan. to Mar. 2020) 
+
+8 to 253 days 
+(Apr. to Dec.2020) 
+
+
+
+70 
+ 
+
+Report 
+Number of Days Delayed 
+
+Submitted Unsubmitted Reports 
+Payable (LDDAP)/ 
+Automatic Debit Account 
+(ADA) 
+
+Report -LAD/ADA 243 to 262 days (Jan. to Mar. 2020) 
+8 to 253 days 
+
+(Apr. to Dec.2020) 
+
+Report - MDS/ADA  8 to 343 days  ( Jan. to Dec. 2020) 
+BRS- LBP Current Account 
+# 0552-1002.20 
+
+243 to 262 days 
+(Jan. to Mar. 2020) 
+
+8 to 253 days 
+(Apr. to Dec. 2020) 
+
+BRS- DBP Acct. No. 0505-
+018665-530 
+
+243 to 262 days 
+(Jan. to Mar. 2020) 
+
+8 to 253 days 
+(Apr. to Dec. 2020) 
+
+BRS-  MDS Acct No. LBP 
+2055-9009-35  
+
+8 to 343 days  
+( Jan. to Dec. 2020) 
+
+BRS- MDS Acct No. LBP 
+2055-9004-47 
+
+243 to 262 days 
+(Jan. to Mar. 2020) 
+
+8 to 253 days 
+(Apr. to Dec. 2020) 
+
+BRS- MDS Acct No. LBP 
+2055-9011-58 
+
+243 to 262 days 
+(Jan. to Mar. 2020) 
+
+8 to 253 days 
+(Apr. to Dec. 2020) 
+
+TB 243 to 262 days (Jan. to Mar. 2020) 
+8 to 253 days 
+
+(Apr. to Dec. 2020) 
+
+JEVs 243 to 262 days (Jan. to Mar. 2020) 
+8 to 253 days 
+
+(Apr. to Dec. 2020) 
+
+FSs - 8 to 283 days  (1st - 4th Qtr. 2020) 
+ 
+
+9.8 The Audit Team recognizes that due to COVID-19 Pandemic that caused major 
+disruption of work in CY 2020, the required financial reports and documents were 
+not submitted on time. However, submission of the required reports and documents 
+had been long overdue for audit, review, evaluation and the preparation of the 
+AAR of POEA for CY 2020 for the audit results. 
+
+ 
+9.9 Moreover, the delays on the submission of financial reports and other financial 
+
+documents, even before the COVID-19 Pandemic, had always been a consistent 
+observation of the Audit Team in previous years. The Management had always 
+justified that the major cause thereof was due to the lack of Accounting personnel 
+who could assist in the processing and encoding of the documents. Until now, the 
+Management has yet to address the issue of lack of Accounting personnel.  
+
+ 
+9.10 We reiterated the prior years’ audit recommendation that the Management 
+
+require the concerned Accounting and Budget officials and employees to: 
+ 
+
+a. submit the monthly, quarterly and yearly financial reports and the 
+pertinent supporting documents within the prescribed period to enable 
+the Audit Team ample time to review the reports, audit the related 
+transactions and to report the corresponding results of audit; and    
+
+ 
+
+
+
+71 
+ 
+
+b. be likewise reminded of their responsibilities in rendering financial 
+reports and the disciplinary action that may be instituted against official 
+or employee who have not complied with the requirements as provided in 
+Section 122 of PD No. 1445. 
+
+ 
+9.11 The Management commented that the COVID-19 Pandemic resulted in reduced 
+
+manpower and limited working hours in the Accounting Division. From March 16 
+to May 31, 2020, only 2 Accounting staff were able to come to POEA. As such, 
+they had to attend to more pressing daily matters. The extension of limited working 
+hours until now added to the delay in encoding and approving of transactions in e-
+NGAS. The Accounting Division is again, reminded of their responsibilities on the 
+submission of FSs.  
+
+ 
+9.12 Catch up strategies were being implemented to fast-track submission of reports. 
+
+These include assigning an Accountant III to focus on FS preparation. No 
+additional task is/will be assigned to her until we have completely submitted the 
+CY 2020 reports. Additional accounts are also assigned to assist in approving 
+posting in the e-NGAS. The personnel of Accounting Division are directed to 
+render overtime. 
+
+ 
+TRUST LIABILITIES  
+
+ 
+Unutilized funds under Trust Liabilities account not taken up as income 
+  
+10. The unutilized funds under Trust Liabilities amounting to P15,727,638.67 recorded 
+
+under the Cash in Bank (CIB) - Local Currency, Current Account (LCCA) intended 
+to cover expenditures for Employment Permit System (EPS) – Test of Proficiency in 
+Korean (TOPIK), EPS-Training Fees, CAEP and Pre-Licensing Orientation 
+Seminar (PLOS) remained unremitted to the Bureau of the Treasury (BTr) as at 
+December 31, 2020, contrary to the provisions provided in Sections 4 and 65 of PD 
+No. 1445 that resulted in unrealized and unrecognized Miscellaneous Income 
+accruing to the General Fund of the government.    
+ 
+10.1 Section 4 of PD No. 1445 states that “Trust Funds shall be available and may be 
+
+spent only for the specific purpose for which the trust was created or the funds 
+received." 
+
+ 
+10.2 Moreover, Section 65 of the same PD states that “Accrual of income to 
+
+unappropriated surplus of the General Fund. – (1) Unless otherwise specifically 
+provided by law, all income accruing to the agencies by virtue of the provisions of 
+the law, orders and regulations shall be deposited in the National Treasury or in 
+any duly authorized government depository, and shall accrue to the 
+unappropriated surplus of the General Fund of the Government.”  
+
+ 
+10.3 Skill tests and training/seminars are undertaken for the recruitment agency’s 
+
+recruitment education program under the following POEA programs: a) EPS-
+TOPIK; b) CAEP; and c) PLOS. Fees collected by the POEA are constituted as 
+
+
+
+72 
+ 
+
+trust funds deposited in a bank account to cover projected expenses for each 
+activity until its completion/conclusion in a given year and any balance shall be 
+deposited to the BTr as income at year-end and shall accrue to the unappropriated 
+surplus of the General Fund of the Government. 
+
+ 
+a) The EPS-TOPIK funds are intended to conduct specific skill tests to select 
+
+eligible Filipino job seekers who can then apply for jobs and get proper 
+working visa for Korea. While EPS-Training Fees are collected from selected 
+applicants for refresher course in preparation for deployment to their 
+employers in Korea. 
+ 
+
+b) CAEP funds are seminar fees from the officers and personnel of licensed 
+recruitment and manning agencies for the conduct of agency education 
+program aimed to be more responsive in providing quality information to have 
+a more compliant recruitment/manning agency with the POEA legal and 
+administrative procedure and processes. 
+ 
+
+c) PLOS funds are fees collected from agency owners for the seminar as a pre-
+qualification requirement for the issuance of a license that should be attended 
+by the applying agency’s Sole Proprietor/Proprietress, Managing Partner, 
+President, Chief Executive Officer, Operations Manager, Members of the 
+Board of Directors, and Branch Managers, to avoid incurring violations which 
+can result in suspension or other penalties imposed on the agency. 
+
+ 
+10.4 The illustrative accounting entries prescribed in the GAM for NGAs, Volume III, 
+
+which are applicable for the collection of fees, disbursement for each activity and 
+remittance of unutilized funds to the BTr from EPS – TOPIK, EPS – Training Fees, 
+CAEP and PLOS are as follows: 
+
+ 
+Table 28. Illustrative Accounting Entries 
+
+PARTICULARS DEBIT CREDIT 
+To recognize collection of fees 
+CIB - LCCA xxx  
+
+Trust Liabilities  xxx 
+To record disbursement for each activity 
+Trust Liabilities xxx  
+
+CIB - LCCA  xxx 
+To record remittance of unutilized funds to the BTr  
+Trust Liabilities  xxx  
+
+CIB - LCCA  xxx 
+Cash - TAD, Regular xxx  
+
+Miscellaneous Income  xxx 
+ 
+
+10.5 Analysis of the Trust Liabilities account balance of P243,940,604.02 as at 
+December 31, 2020 showed that there were unutilized funds of P15,727,638.67 
+deposited in the CIB – LCCA for EPS-TOPIK, EPS-Training Fees, CAEP and 
+PLOS that remained unremitted to the BTr at year-end, as follows:  
+ 
+
+
+
+73 
+ 
+
+Table 29. Balances as at December 31, 2020 
+Particulars Amount (In Pesos) 
+
+EPS-TOPIK 1,062,050.81 
+EPS- Training Fee 1,816,014.06 
+CAEP 11,691,201.10 
+PLOS 1,158,372.70 
+Total 15,727,638.67 
+
+ 
+10.6 In effect, the unutilized funds accumulated from the previous and current years 
+
+amounting to P15,727,638.67, which remained unremitted to the BTr as at 
+December 31, 2020, were not taken up as income but remained as trust liabilities, 
+hence overstated the Trust Liabilities account and understated the Miscellaneous 
+Income account balances by the same amount. Had the unutilized trust funds been 
+remitted to the BTr every end of the year, this could have reduced the CIB-LCCA 
+and the Trust Liabilities accounts to their proper balances and recognized the 
+Miscellaneous Income accruing to the General Fund of the government with the 
+following accounting entries:  
+
+ 
+Table 30. Illustrative Accounting Entries 
+
+To record remittance of unutilized funds to the BTr 
+Trust Fund 
+Trust Liabilities 15,727,638.67  
+
+CIB – LCCA  15,727,638.67 
+Regular Fund  
+Cash - TAD, Regular 15,727,638.67  
+
+Miscellaneous Income  15,727,638.67 
+ 
+
+10.7 We recommended that Management require:  
+ 
+
+a. the concerned Officers to remit promptly to the BTr all unutilized trust 
+funds for EPS-TOPIK, EPS-Training Fees, CAEP and PLOS and 
+henceforth, require strict adherence to the provisions stated in Section 65 
+of PD No. 1445; and 
+ 
+
+b. the Accountant to make the necessary entries to recognize the unutilized 
+funds as income upon remittance to the BTr. 
+
+ 
+10.8 The Management commented that the POEA programs (EPS-TOPIK, EPS-
+
+training, CAEP & PLOS), whose collections are constituted as trust funds, are 
+continuing in nature. As such, it is of utmost importance that cash/funds are readily 
+available when needed. 
+ 
+
+10.9 The Management further commented that the Accounting Division will determine 
+if indeed there are excess funds taking into consideration the plans and projects of 
+program implementors to be effected if necessary. 
+
+ 
+ 
+
+
+
+74 
+ 
+
+Service Agreement contracts not in accordance with DBM-CSC-COA Joint Circular 
+ 
+11. Forty (40) Service Agreement contracts with an aggregate budget of P3,517,819.73 
+
+entered into by the POEA contain provisions for the payment of 13th month pay, 
+service leave incentives and mandatory deductions, which is not in accordance with 
+DBM-Civil Service Commission (CSC)-COA Joint Circular No. 1 s. 2017, as 
+amended. Furthermore, audit of the submitted DVs totaling P3,137,220.36 disclosed 
+that no taxes were withheld from the payments of the monthly service fees of the Job 
+Orders/Contractors, nor supported with any document/s showing compliance with 
+the tax laws requirements. 
+
+ 
+11.1 DBM-CSC-COA Joint Circular No. 1 s. 2017, as amended, provides for the Rules 
+
+and Regulations Governing Contract of Service and Job Order Workers in the 
+Government. 
+
+ 
+11.2 Section 6.2.2 of the said Joint Circular states that “Engaging the services of 
+
+individual contractor shall be subject to pertinent provisions of RA No. 9184 and 
+its implementing guidelines, as applicable...” 
+
+ 
+11.3 Further, Section 7.4 of the same Joint Circular provides that “The services of the 
+
+contract of service and job order workers are not covered by Civil Service law and 
+rules thus, not creditable as government service. They do not enjoy the benefits 
+enjoyed by government employees, such as leave, PERA, RATA and thirteenth 
+month pay.” 
+
+ 
+11.4 Furthermore, the 3rd Paragraph of Section 8.0 of the said Joint Circular imposes 
+
+that “Individuals hired through contract of service have the option to enroll 
+themselves in social benefit programs thru the Social Security System (SSS), 
+PhilHealth and Pag-IBIG Fund as self-employed members.” 
+
+ 
+11.5 Moreover, Section 9.0 of the same Circular provides that “Individuals hired 
+
+through job order shall be paid wages equivalent to the daily wage/salary of 
+comparable positions in government and a premium of up to 20% of such 
+wage/salary.” 
+
+ 
+11.6 In CY 2020, the POEA entered into 40 individual Service Agreement contracts 
+
+with a total budget of P3,517,819.73. 
+ 
+
+11.7 Review of the Service Agreement contracts disclosed the following deficiencies: 
+ 
+
+a. Out of the 40 Service Agreement contracts, 36 of which contain similar 
+provision that provides for the breakdown of the monthly minimum service fee, 
+to wit: 
+
+ 
+ 
+ 
+
+
+
+75 
+ 
+
+Table 31. Breakdown of Monthly Minimum Service Fee 
+Particulars Amount (In Pesos) 
+
+Basic Salary 11,814.00 
+13th Month Pay 984.50 
+Service Leave Incentive 223.75 
+SSS and EC 970.00 
+PhilHealth 177.21/200.00 
+Pag-IBIG 100.00 
+
+ 
+b. The service contracts further provides that submission of receipts as proof of 
+
+payment for the mandatory premium contributions (SSS, EC, PhilHealth,  
+Pag-Ibig) are required for the subsequent processing of service fee. 
+ 
+
+c. The 13th Month Pay was paid on a monthly basis equivalent to 1/12 of the basic 
+salary. The Service Leave Incentive was fixed at the amount of P223.75 per 
+month. The inclusion and payout of 13th month pay and service leave incentive 
+to Job Order/Contractor violates Sections 7.4 and 8.0 of the  
+DBM-CSC-COA Joint Circular No. 1 s. 2017.  Hence, POEA is not obliged to 
+pay for the mandatory premium contributions since the option belongs to the 
+Job Order/Contractor as mentioned in the 3rd Paragraph of Section 8.0 of the 
+said Circular.   
+ 
+
+d. Disclosure in the Service Agreement of the mentioned items as basis in the 
+computations in arriving at total monthly service fees is no longer necessary 
+since the said Circular already provided the manner of computation of the wages 
+of Job Orders/Service contractor which is equivalent to the daily wage/salary of 
+comparable positions in government and a premium of up to 20% of such 
+wage/salary. 
+ 
+
+e. The project documents of the Service Agreements contracts provided only an 
+estimated monthly rate but failed to provide the basis of the said rates. The 
+project document should have provided the comparable position in the 
+government which the rate was based and adding a premium thereto to comply 
+with Section 9.0 of the abovementioned Circular. 
+
+ 
+11.8 Furthermore, audit of the submitted DVs totaling P3,137,220.36 disclosed that no 
+
+taxes were withheld from the payments of the monthly service fees of the Job 
+Orders/Contractors, and were not supported with any document/s showing 
+compliance with the tax laws requirements. Under the National Internal Revenue 
+Code, as amended, if the individual taxpayer’s gross receipts/income for a year 
+does not exceed P250,000.00, the Job Order/Contractor shall submit an Income 
+Payee’s Sworn Declaration of gross receipts/sales and the withholding agent shall 
+execute its own Income Payor/Withholding Agent’s Sworn declaration stating the 
+number of persons who shall not be subjected to withholding taxes as required by 
+BIR RR-11-2018. Hence, even if the service fee of each service contractor or Job 
+
+
+
+76 
+ 
+
+Order does not or will not exceed P250,000.00 in a given year, compliance with 
+the requirements of our tax laws is still mandatory. 
+
+ 
+11.9 We recommended that the Management direct all the concerned POEA 
+
+officials to:  
+ 
+
+a. revise the pro-forma Service Agreement Contract and provisions to 
+conform with DBM-CSC-COA Joint Circular No. 1 s. 2017, as amended; 
+ 
+
+b. comply with the withholding of taxes on Service Agreements/Job Orders 
+contracts in accordance with tax laws and regulations and the submission 
+of Sworn Declaration for persons who shall not be subjected to 
+withholding taxes as required by BIR RR-11-2018; and 
+ 
+
+c. support the Service Agreement contracts with duly revised project 
+documents with provisions on the basis of monthly rates of the Job 
+Orders/Contractors.  
+
+ 
+11.10 The Management commented that the Human Resources Development Division 
+
+revised the pro-forma contract for Job Order/Contractors effective March 2021 to 
+exclude the standard social benefits program and the 13th month pay. 
+ 
+
+11.11 Further, the Management also assured that the Accounting Division is compiling 
+the sworn statements, copy of contracts, and TIN ID of the JO/Service Contractors 
+for submission to BIR. 
+ 
+
+ 
+C. OTHER COMPLIANCE ISSUES 
+ 
+Budget Utilization 
+ 
+12. Out of the total allotment of P549,659,617.26 for Personal Services (PS), 
+
+Maintenance and Other Operating Expenses (MOOE) and Capital Outlays (CO) for 
+CY 2020, the amount of P534,646,257.05 was obligated, leaving P15,013,360.21 or 
+2.73 percent unutilized or savings generated due to cost-cutting measures and 
+reduced operating expenses, and cancellation/deferment of some programs/activities 
+because of the current Pandemic situation. 
+
+   
+12.1 Under the National Budget Circular (NBC) No. 580 dated April 22, 2020, 
+
+departments, bureaus and offices of the NGAs, as a general rule, shall spend what 
+is programmed in their respective appropriations. It highly encouraged, among 
+others, the full budget utilization of each agency and provides guidelines on the 
+release of the funds for Fiscal Year (FY) 2020 and the adoption of economy 
+measures in the government due to the emergency health situation.  The following 
+guidelines are provided: 
+ 
+ 
+
+
+
+77 
+ 
+
+1.2 General Guidelines 
+ 
+1.2.1  To partially generate the required amounts to implement the national 
+
+policy to address the COVID-19 situation, while observing the overall 
+expenditure program for FY 2020, government instrumentalities 
+concerned are advised that thirty-five percent (35%) of programmed 
+appropriations under the FY 2020 GAA shall no longer be made 
+available for release effective April 1, 2020. Likewise, at least ten 
+percent (10%) of the total released allotments to covered entities 
+under Sec. 2 hereof for Maintenance and Other Operating Expenses 
+(MOOE) and Capital Outlays (CO), shall no longer be available for 
+obligation. 
+
+ 
+12.2 Analysis of POEA’s budget utilization for CY 2020 as compared to CY 2019 
+
+showed a slight decrease of 0.94 percent in the unobligated allotment from the 
+previous year, as presented in the table: 
+
+ 
+Table 32. POEA’s Comparative Budget Utilization for CYs 2019 and 2020 
+
+Year 
+Total 
+
+Allotment 
+Total 
+
+Obligation 
+% of 
+
+Obligated 
+Allotment 
+
+Unobligated 
+Balance 
+
+% of 
+Unobligated 
+Allotment (In Pesos) (In Pesos) 
+
+2020 549,659,617.26 534,646,257.05 97.27 15,013,360.21 2.73 
+2019 529,624,970.19  510,199,445.32  96.33 19,425,524.87  3.67 
+
+ 
+12.3 The Statement of Appropriations, Allotments, Obligations, Disbursements and 
+
+Balances (SAAODB) as at December 31, 2020 showed a total allotment of 
+P549,659,617.26, of which P534,646,257.05 was obligated, resulting in unutilized 
+allotment of P15,013,360.21 or 2.73 percent, details of which are shown as 
+follows:   
+
+ 
+Table 33. Allotments, Obligations, and Balances as at December 31, 2020 
+
+Expense 
+Classification 
+
+Allotment 
+(In Pesos) 
+
+Obligation 
+(In Pesos) 
+
+% of 
+Utilization 
+
+Unobligated 
+Allotment 
+(In Pesos) 
+
+% of 
+Unobligated 
+Allotment 
+
+PS 346,423,053.00 346,403,596.53 99.99 19,456.47 0.01 
+MOOE 171,601,364.26 159,628,160.52 93.02 11,973,203.74 6.98 
+CO 31,635,200.00 28,614,500.00 90.45 3,020,700.00 9.55 
+Total 549,659,617.26 534,646,257.05 97.27 15,013,360.21 2.73 
+
+ 
+12.4 The total unobligated allotment of P15,013,360.21 was intended for the following 
+
+programs which were implemented at reduced operating costs or 
+cancelled/deferred due to the current Pandemic situation with the corresponding 
+Management justifications on the unutilized amounts provided by the Budget 
+Division: 
+
+ 
+ 
+ 
+ 
+
+
+
+78 
+ 
+
+Table 34. Summary of Unobligated Allotment 
+
+Program/ Project/ 
+Activity 
+
+Allotment 
+(In Pesos) 
+
+Unobligated 
+Amount 
+
+(In Pesos) 
+
+% of 
+Unobligated 
+Allotment 
+
+Justification/Explanation 
+
+A.  PROGRAMS  
+I. General 
+Administration and 
+Support (GAS) 
+
+153,714,200.00 3,730,316.74 2.43   
+
+a. General 
+Management and 
+Supervision 
+
+152,380,200.00 3,710,861.08 2.44   
+
+MOOE 83,707,584.00 3,710,861.08 4.43 
+
+The unutilized budget is mainly 
+attributable to the following:  
+a. Savings generated from different 
+
+activities which were conducted either 
+in the office or online instead of 
+outside office premises such as case 
+review project of the Administration 
+Office as well as Mid-Year 
+Performance Assessment (MYPA) 
+and Year-end Performance 
+Assessment (YEPA) of the Planning 
+Branch amounting to P0.45M; 
+
+b. Activities that did not push through 
+due to the Pandemic such as trainings 
+as required per ISO, Team 
+Building/General Assembly, and 
+POEA Anniversary celebration 
+amounting to P1.60M; and  
+
+c. Savings from utilities due to office 
+lockdown in compliance with the 
+mandatory community quarantine 
+amounting to P1.66M. 
+
+b. Administration of 
+Personnel Benefits 1,334,000.00 19,455.66 1.46   
+
+PS 1,334,000.00 19,455.66 1.46   
+III. Operations       
+
+Overseas Employment and Welfare Program 
+Overseas 
+Employment 
+Facilitation Services 
+
+116,816,100.00 3,151,691.56 2.70   
+
+MOOE 51,220,341.00 3,151,691.56 6.15 
+
+The unutilized amount is attributable to 
+the following: 
+a. Reduction of supplies expenses and 
+
+OEC accountable forms by P0.73M 
+due to implementation of online 
+systems; 
+
+b. Savings generated from 
+postage/courier budget by P1.32M 
+due to the Pandemic wherein lesser 
+documents were shipped from POEA 
+CO to Regional Offices/POLOs and 
+vice-versa; and 
+
+
+
+79 
+ 
+
+Program/ Project/ 
+Activity 
+
+Allotment 
+(In Pesos) 
+
+Unobligated 
+Amount 
+
+(In Pesos) 
+
+% of 
+Unobligated 
+Allotment 
+
+Justification/Explanation 
+
+c. Savings from the operating budget of 
+OSSCO's and Regional Offices by 
+P1.10M due to lesser OFWs 
+processing transactions  
+
+Worker's Welfare and 
+Government 
+Placement Services 
+
+85,325,400.00 4,267,406.88 5.00   
+
+MOOE 17,373,543.00 1,246,706.88 7.18 
+
+Savings generated from the following: 
+a. Lesser expenses on planned activities 
+
+affected by the Pandemic under 
+Government Placement Branch for 
+the conduct of the government-to-
+government (G-to-G) activities for 
+new markets such as Israel, China, 
+and Germany. However, hiring under 
+G-to-G arrangement resumed for 
+some markets in the 3rd and 4th 
+quarters of CY 2020; and 
+
+b. P0.35M excess in the budget allotted 
+for printing and publication of OFW 
+handbooks.   
+
+CO 31,635,200.00 3,020,700.00 9.55 
+
+a. Savings generated from the 
+procurement of elevator amounting to 
+P0.38M; and 
+
+b. Unobligated allotment for the 
+rehabilitation of Public CR due to 
+failed biddings amounting to P2.64M. 
+
+Subtotal, Program 1 202,141,500.00 7,419,098.44 3.67   
+
+Overseas Employment Regulatory Program 
+Licensing and 
+Regulation Services 
+including AIR 
+Activities 
+
+68,159,700.00 2,659,313.84 3.90   
+
+MOOE 18,061,732.00 2,659,313.84 14.72 
+
+The unutilized budget is mainly 
+attributable to the following:  
+a. Savings amounting to P1.67M 
+
+generated from travelling, hotel 
+accommodations and meal expenses 
+for the conduct of seminars and 
+creating MOUs with local 
+governments all over the country 
+focusing on AIR campaigns under 
+AIR Branch which were greatly 
+affected by the lockdown; and 
+
+b. Budget amounting to P0.99M allotted 
+for the conduct of Pre-Employment 
+Orientation Seminar, trainings, and 
+attendance to court hearing of regional 
+offices was unobligated as at yearend. 
+
+
+
+80 
+ 
+
+Program/ Project/ 
+Activity 
+
+Allotment 
+(In Pesos) 
+
+Unobligated 
+Amount 
+
+(In Pesos) 
+
+% of 
+Unobligated 
+Allotment 
+
+Justification/Explanation 
+
+Adjudication 
+Services 62,412,600.00 1,204,630.38 1.93   
+
+MOOE 6,458,600.00 1,204,630.38 18.65 
+
+Unutilized amount was mainly 
+attributable to the savings generated from 
+the adjustment of target outputs of the 
+lawyers due to the Pandemic and other 
+limiting factors that lead to lesser 
+expenses in Adjudication Office (AO). 
+Also, budget amounting to P0.5M 
+earmarked for digitization of AO records 
+was already bid in CY 2020 but not yet 
+obligated. 
+
+Subtotal, Program 2 130,572,300.00 3,863,944.22 2.96   
+
+Total GAA 486,428,000.00 15,013,359.40 3.09   
+Total Automatic 
+Appropriation 6,405,750.00 - -  
+
+Special Purpose Fund 51,646,303.00 0.81 -  
+Total Current 
+Appropriation 544,480,053.00 15,013,360.21 2.76  
+
+Total Continuing 
+Appropriation 5,179,564.26 - -  
+
+Grand Total 549,659,617.26 15,013,360.21 2.73  
+ 
+12.5 The details of unobligated balances in the allotments for CY 2020 can be traced to 
+
+the Financial Accountability Report No. 1-A SAAODB by Object of Expenditures, 
+as presented below: 
+
+ 
+Table 35. SAAODB by Object of Expenditure 
+
+FAR 1A - Unobligated Amount  Total (In Pesos) 
+ I. Agency Specific Budget   
+ Personnel Services   
+
+Terminal Leave Benefits - Civilian  19,455.66 
+ Maintenance and Other Operating Expenses   
+
+ Traveling Expenses - Local  477,930.29 
+ Training Expenses  1,372,578.69 
+ ICT Office Supplies  643,383.42 
+ Office Supplies Expenses  376,578.63 
+ Accountable Forms Expenses  211,171.43 
+ Drugs and Medicines Expenses  17,980.00 
+ Fuel, Oil and Lubricants Expenses  214,959.87 
+ Other Supplies and Materials Expenses  388,440.04 
+ Water Expenses  4,542.79 
+ Electricity Expenses  1,654,608.42 
+ Postage and Courier Services  2,706,025.50 
+ Mobile  91,901.59 
+ Landline  441,450.09 
+
+
+
+81 
+ 
+
+FAR 1A - Unobligated Amount  Total (In Pesos) 
+ Internet Subscription Expenses  176,313.75 
+ ICT Consultancy Services  29,063.74 
+ Janitorial Services  126,949.17 
+ Security Services  140,296.60 
+ Other General Services - ICT Services  95,458.81 
+ Other General Services  45,600.22 
+ Repairs and Maintenance - Buildings  6,403.39 
+ Repairs and Maintenance - Office Equipment  0.50 
+ Repairs and Maintenance - Motor Vehicles  53,600.00 
+ Taxes, Duties and Licenses  14,300.00 
+ Fidelity Bond Premiums  21,775.50 
+ Printing and Publication Expenses  514,649.60 
+ Representation Expenses  1,627,969.82 
+ Rents - Building and Structures  415,796.88 
+ Rents - ICT Machinery and Equipment  475.00 
+ Library & Other RM Subscription  27,000.00 
+ Other Maintenance and Operating Expenses  76,000.00 
+
+ Capital Outlay   
+ Buildings  2,635,200.00 
+ Other Transportation Equipment  385,500.00 
+
+ II. Special Purpose Fund   
+ Terminal Leave Benefits - Civilian  0.81 
+
+ Total  15,013,360.21 
+ 
+
+12.6 Notwithstanding the unutilized allotments, the POEA achieved most of its CY 
+2020 targets except for the target inspection and assessment of recruitment and 
+manning agencies under its Overseas Employment Regulatory Program wherein 
+only 47 percent was accomplished.   
+
+ 
+12.7 We commended the Management in its effort in implementing cost-cutting 
+
+measures and the reduction of related expenses showing an efficient 
+utilization of financial resources. However, in view of the effects of the 
+Pandemic brought about by COVID-19, we recommended that Management 
+continue to monitor activities affected by the Pandemic and to continue to 
+develop initiatives, such as the conduct of services/activities online or limit the 
+activities outside of POEA office premises, which would further enhance 
+prudent utilization of resources in the achievement of the target agency 
+performance on its mandated programs, projects and activities. 
+
+ 
+12.8 The Management commented that the Agency is continuously exercising prudence 
+
+and due diligence “as a good father of a family” in disbursing government funds 
+consistent with its intended purposes as identified in the approved GAA. 
+
+ 
+12.9 The Management also asserted that the outbreak of the Pandemic and the threat re-
+
+emerging infection continues to pose global health as well as economic concerns. 
+
+
+
+82 
+ 
+
+Thus, the POEA Management acknowledge this new living environment and has 
+introduced many new initiatives in order to cope up with the challenges and still 
+ensure non-stoppage of service delivery to its stakeholders. The ICT Branch has 
+launched various online services that cater to the needs of POEA clients in 
+compliance with health protocols. Also, conduct of activities outside of POEA 
+office premises is generally discouraged, that is why savings from travelling and 
+representation expenses were generated at the end of the year. 
+
+ 
+ 
+OTHER COMPLIANCE ISSUES 
+ 
+Compliance with Revenue Regulations 
+ 
+13. POEA Central Office (CO) complied with the Bureau of Internal Revenue (BIR) 
+
+Revenue Regulations (RR) pertaining to remittance of taxes withheld from suppliers, 
+compensation and judgement awards within the prescribed period except for the 
+months of March, April and May 2020, causing penalties amounting to P300,965.48 
+due to late filing despite the extension given in response to the  
+COVID-19 Pandemic as provided in BIR RR No. 7-2020 dated March 27, 2020. 
+Further, the Due to BIR account balance of ₱194,712.84 as of December 31, 2020, as 
+adjusted, remain unaccounted whether this pertain to unremitted taxes withheld or 
+balances subject to reconciliation that may result in adjustments. 
+
+ 
+13.1 Under Department of Finance (DOF)-DBM Joint Circular No. 1-2000A dated July 
+
+31, 2001, which prescribes the procedure for the remittance of all taxes withheld 
+by NGAs to the BIR, NGAs shall file before the BIR a Tax Remittance Advice 
+(TRA) supported by withholding tax returns on or before the 10th day of the 
+following month after the said taxes had been withheld. 
+
+ 
+13.2 BIR RR No. 10-2008 dated July 8, 2008 for compensation and Revenue 
+
+Memorandum Circular No. 23-007 dated March 23, 2007 expanded the coverage 
+for withholding of Income Tax on Compensation and Expanded VAT. 
+
+ 
+13.3 BIR RR No. 1-2013 dated January 23, 2013 further expands the coverage of 
+
+taxpayers required to file tax returns and pay taxes through the Electronic Filing 
+and Payment System (eFPS) and includes NGAs to mandatorily use the electronic 
+TRA. 
+
+ 
+13.4 BIR RR No. 7-2020 dated March 27, 2020 provides the extension of statutory 
+
+deadlines and timelines for the filing and submission of any documents and the 
+payment of taxes pursuant to Section 4 (z) of Republic Act (RA) No. 11469, 
+otherwise known as “Bayanihan to Heal As One Act,” declaring a state of national 
+emergency over the entire country.  
+
+ 
+13.5 For CY 2020, the taxes withheld from suppliers and compensation income of 
+
+employees including the beginning balance amounted to P52,139,527.22. Total 
+
+
+
+83 
+ 
+
+remittances amounted to P51,842,511.83, leaving a balance of P6,708,268.05 at 
+yearend. After considering the remittances of the December 2020 tax withheld 
+totaling ₱6,513,555.21, made through Bank Deposit and eFPS in January 2021, 
+the Due to BIR account showed an adjusted balance of ₱194,712.84. Details of 
+monthly tax withheld and remittance are shown in the table below: 
+
+ 
+Table 36. Taxes Withheld and Remitted 
+
+Month 
+
+ Credits (Taxes Withheld)  Total Debits 
+(Taxed 
+
+Remitted) 
+
+ Unremitted 
+Balance   From 
+
+Suppliers  
+ From 
+
+Compensation   Total  
+
+(In Pesos) 
+Beginning Balance 6,411,252.66  
+January 144,432.88  2,137,910.23 2,282,343.11  3,054,421.46  5,639,174.31  
+February 496,428.50  4,426,521.60 4,922,950.10  8,016,623.83  2,545,500.58  
+March 298,348.62  4,257,385.07 4,555,733.69  4,592,827.30  2,508,406.97  
+April 472,202.36  4,833,621.34 5,305,823.70  197,458.13  7,616,772.54  
+May 301,878.91  197,429.19 499,308.10  4,998,128.01  3,117,952.63  
+June 2,050,214.27  3,196,976.15 5,247,190.42  3,169,051.77  5,196,091.28  
+July 292,187.30  3,552,012.14 3,844,199.44  5,464,056.54  3,576,234.18  
+August 542,090.97  2,462,713.85 3,004,804.82  3,919,796.20  2,661,242.80  
+September 386,203.10  2,372,680.59 2,758,883.69  3,000,620.14  2,419,506.35  
+October 854,349.85  2,291,508.82 3,145,858.67  2,723,449.40  2,841,915.62  
+November 914,455.47  5,653,755.65 6,568,211.12  3,213,870.89  6,196,255.85  
+December 2,032,998.64  7,971,221.72 10,004,220.36  9,492,208.16  6,708,268.05  
+Total 8,785,790.87  43,353,736.35 52,139,527.22  51,842,511.83  6,708,268.05  
+Less: Remittances  
+Withheld Taxes in CY 2020 (Fund 01) remitted in January 2021  
+CO  6,228,834.89    
+POEA Luzon  67,006.00    
+POEA Visayas 40,171.35    
+POEA Mindanao 160,349.66    
+Withheld Taxes in CY 2020 (Fund 07) remitted in January 2021 
+CO  17,193.31  6,513,555.21  
+Adjusted Balance   194,712.84  
+
+ 
+13.6 The Due to BIR account balance of ₱194,712.84 as at December 31, 2020, as 
+
+adjusted, however, remained unaccounted, whether this pertains to unremitted 
+taxes withheld or amount balances subject to reconciliation that will result in 
+adjustments that are yet to be effected. 
+
+ 
+13.7 We recommended that Management direct the Chief Accountant to: 
+
+ 
+a. analyze/determine the causes of the remaining balance of Due to BIR as 
+
+at yearend amounting to ₱194,712.84 and account for unremitted tax 
+collections and remit the same to the BIR, or make the adjustments, as 
+necessary, to correct the account balance; and 
+ 
+
+
+
+84 
+ 
+
+b. develop measures to ensure that tax deadlines are met despite the office 
+work limitations brought about by the Pandemic as COVID-19 is foreseen 
+to be still prevalent in the near future.  
+
+ 
+13.8 The Management commented that an Accounting staff was already assigned to 
+
+analyze and reconcile the transactions posted in Due to BIR account. Some 
+reconciling items were, in fact, already identified. However, further checking and 
+preparation of supporting dcouments have to be done before adjustments can be 
+made. Accounting Division will update the Audit Team on the reconciliation and 
+adjustments.  
+ 
+
+13.9 The Management further said that remittance of taxes withheld had been made on 
+time despite the imposition of the different types of community quarantines since 
+July 2020. Personnel from Accounting Division are always made aware of the due 
+dates of reports (including remittance of tax withheld), which unfortunately almost 
+all fall on the 10th day of the following month. Work schedules and task 
+assignments are organized in such a way that allows ample time for the preparation 
+and signing of reports. Succession plan is also in place and can be implemented 
+anytime, if necessary. 
+
+ 
+14. Taxes totaling P898,007.55 were not properly withheld from the contractor’s billings 
+
+due to erroneous tax base used in the computation of the taxes due as prescribed by 
+BIR Revenue Regulations. 
+
+ 
+14.1 The tax base used in computing the taxes withheld was gross billings net of 
+
+recoupment, retention fees and LDs instead of the gross billings less recoupment, 
+retention fees only which represent the amount actually or constructively received 
+by the contractors subject to Value Added Tax (VAT). The proper tax to be 
+withheld should have been as follows:  
+
+ 
+Table 37. Computation of Proper Withholding Tax 
+
+Date Billings 
+Tax Withheld 
+
+Per Books 
+
+Tax to be 
+Withheld 
+Per Audit 
+
+Remaining 
+Taxes Due 
+
+Not Withheld 
+(In Pesos) 
+
+OCM Steel Construction 
+
+03/21/2020 Payment for Fifth Progress Billing 796,503.36 1,236,822.56 440,319.20 
+
+06/30/2020 Payment for Sixth Progress Billing 486,484.82 686,548.65 200,063.83 
+
+12/01/2020 Payment for Seventh Progress Billing 201,177.73 268,236.97 67,059.24 
+
+12/28/2020 Payment for Eighth Progress Billing 544,667.67 726,223.57 181,555.90 
+
+Subtotal 2,028,833.58 2,917,831.75 888,998.17 
+I.M. Bongar & Co., Inc. 
+06/30/2020 Advance Payment 56,250.00 -  -56,250.00 
+
+06/30/2020 Payment for First Progress Billing 160,368.75 213,825.00 53,456.25 
+
+
+
+85 
+ 
+
+Date Billings 
+Tax Withheld 
+
+Per Books 
+
+Tax to be 
+Withheld 
+Per Audit 
+
+Remaining 
+Taxes Due 
+
+Not Withheld 
+(In Pesos) 
+
+12/01/2020 Payment for Second Progress Billing 35,409.37 47,212.50 11,803.13 
+
+Subtotal 252,028.12 261,037.50 9,009.38 
+Total 2,280,861.70 3,178,869.25 898,007.55 
+
+ 
+14.2 Based on the above table, the taxes withheld from progress payments of the two 
+
+contractors were short by P898,007.55 for CY 2020.  
+ 
+
+14.3 We recommended that Management direct the Chief Accountant to withhold 
+the unpaid taxes of the contractors OCM Steel Construction and I.M. Bongar 
+& Co., Inc from their next progress payments and, henceforth, use the proper 
+gross tax base in the computation of taxes due on their billings. 
+
+ 
+14.4 The Management commented that the recomputed unwithheld taxes will be 
+
+deducted in their next billing. Further, the proper gross tax base will be used in 
+computation of tax withheld in the succeeding progress billings of contractors. 
+
+ 
+Compliance with the withholding and remittance of Government Service Insurance System 
+(GSIS) contributions and loan repayments 
+ 
+15. For year 2020, the POEA has faithfully complied with the Government Service 
+
+Insurance System (GSIS) regulations on the withholding of GSIS contributions and 
+repayment of loans from its employees and the remittance thereof within the 
+prescribed period pursuant to the provisions of RA No. 8291, otherwise known as the 
+“Revised Government Service Insurance Act of 1997.” However, the year-end 
+balance of the Due to GSIS account totaling P379,170.85 pertains to the prior years’ 
+and CY balances with no details or breakdown, making the account balance 
+unreliable. 
+
+ 
+15.1 Section 6 of RA No. 8291, an Act amending PD No. 1146, as Amended, 
+
+Expanding and Increasing the Coverage and Benefits of the GSIS, Instituting 
+Reforms therein and for Other Purposes, provides the following provisions: 
+
+ 
+“Collection and Remittance of Contributions: 
+
+ 
+(a) The employer shall report to the GSIS the names of all its employees, their 
+
+corresponding employment status, positions, salaries and such other pertinent 
+information, including subsequent changes therein, if any, as may be required 
+by the GSIS; the employer shall deduct each month from the monthly salary 
+or compensation of each employee the contribution payable by him in 
+accordance with the schedule prescribed in the rules and regulations 
+implementing this Act. 
+ 
+
+
+
+86 
+ 
+
+(b) Each employer shall remit directly to the GSIS the employees’ and employers’ 
+contributions within the first ten (10) days of the calendar month following 
+the month to which the contributions apply. The remittance by the employer 
+of the contributions to the GSIS shall take priority over and above the payment 
+of any and all obligations, except salaries and wages of its employees.” 
+
+ 
+15.2 As at December 31, 2020, the Due to GSIS account showed the following balance: 
+
+ 
+Table 38. Due to GSIS Account Balance 
+
+Particulars Amount  
+(In Pesos) 
+
+Beginning Balance 9,445.65 
+Additions/Amount Withheld 41,260,637.03 
+Deductions/Amount Remitted (33,956,041.75) 
+Refund to employees due to GSIS Loan Moratorium (6,934,870.08) 
+Balance, December 31, 2020 379,170.85 
+
+ 
+15.3 For CY 2020, the POEA deducted from the salaries of its officials and employees 
+
+the employees’ GSIS contributions and payments of loans totaling 
+₱41,260,637.03. However, refund to employees amounting to P6,934,870.08 was 
+done due to the GSIS loan moratorium program for members to provide relief to 
+government employees whose families are having financial difficulties because of 
+the COVID-19 continuing crisis and quarantine measures. The loan moratorium 
+shall mean deferment of payment of loan amortization wherein payment/deduction 
+of loan amortization shall resume in 2021. On the other hand, the withheld monthly 
+GSIS deductions, including the government share, were verified remitted within 
+the prescribed period which is on the 10th day of the succeeding month. During the 
+year, monthly remittance of withheld contributions and deductions totaled 
+₱33,956,041.75, leaving a balance of ₱379,170.85 as at yearend. Details of 
+monthly GSIS premium and loan deductions and remittance thereof are shown 
+below: 
+
+ 
+Table 39. Monthly GSIS Premium, Loan Deductions and Remittances 
+
+Year / 
+Month 
+
+Life/Retirement Premium Employees 
+Compensation 
+Government 
+
+Share 
+
+Employee 
+Loans/ 
+
+Repayments 
+Amortization 
+
+Total Amounts Remitted Refund 
+Unremitted 
+
+Balance  Employee 
+Share  
+
+ Government 
+Share  
+
+(In Pesos) 
+Beginning 
+Balance     9,445.65   9,445.65 
+
+January 1,555,273.30 2,024,577.24 34,600.00 1,001,998.43 4,616,448.97 4,568,357.18 5,600.93 51,936.51 
+February 1,524,080.01 280,387.04 6,800.00 1,016,515.06 2,827,782.11 290,713.33 11,301.00 2,577,704.29 
+March 1,660,625.67 2,120,834.75 37,900.00 1,009,544.71 4,828,905.13 4,747,062.16 14,071.48 2,645,475.78 
+April 3,163,961.26 140,176.34 3,400.00 2,043,121.91 5,350,659.51 143,576.34 3,036,801.67 4,815,757.28 
+May 15,591.95 84,829.68 3,600.00 - 104,021.63 91,955.97  4,827,822.94 
+June 1,577,624.75 2,107,024.08 110,700.00 1,028,408.86 4,823,757.69 6,762,479.99 1,022,671.95 1,866,428.69 
+July 1,565,132.98 6,090.84 3,700.00 1,456,070.12 3,030,993.94 4,606,463.62  290,959.01 
+August 1,563,062.58 5,746.68 2,900.00 1,438,287.32 3,009,996.58 10,805.14 700.00 3,289,450.45 
+September 1,557,559.51 24,258.51 78,000.00 1,438,353.59 3,098,171.61 6,111,330.56 1,000.00 275,291.50 
+October 1,574,181.19 - 39,600.00 1,422,026.10 3,035,807.29 3,050,652.34 25,708.30 234,738.15 
+
+
+
+87 
+ 
+
+Year / 
+Month 
+
+Life/Retirement Premium Employees 
+Compensation 
+Government 
+
+Share 
+
+Employee 
+Loans/ 
+
+Repayments 
+Amortization 
+
+Total Amounts Remitted Refund 
+Unremitted 
+
+Balance  Employee 
+Share  
+
+ Government 
+Share  
+
+(In Pesos) 
+November 1,624,509.91 54,322.80 5,700.00 1,410,229.72 3,094,762.43 62,181.26 1,408,943.49 1,858,375.83 
+December 1,663,183.27 215,875.61 152,200.00 1,408,071.26 3,439,330.14 3,510,463.86 1,408,071.26 379,170.85 
+Total 19,044,786.38 7,064,123.57 479,100.00 14,672,627.08 41,270,082.68 33,956,041.75 6,934,870.08 379,170.85 
+
+ 
+15.4 The unremitted balance of the Due to GSIS account of ₱379,170.85 is attributed 
+
+to the prior years’ and CY balances that remained unaccounted, whether these 
+pertain to unremitted contributions/repayment of loans or balances which should 
+be subjected to reconciliation and may result in adjustments. 
+
+ 
+15.5 We recommended that Management require the Chief Accountant to 
+
+analyze/determine the causes of the remaining balance of Due to GSIS as at 
+year-end and account for unremitted contributions/repayment of loans and 
+remit the same to GSIS, or make the adjustments, as necessary, to correct the 
+account balance. 
+
+ 
+15.6 The Management commented that the Accounting Division is simultaneously 
+
+preparing analysis of the accounts for mandatory deductions (GSIS, HDMF, 
+PHIC) from basic salary in coordination with HRDD which is in-charge of the 
+payroll system. The reported problems/errors with the online GSIS system that 
+started February 2020 until April 2020 wherein all remittances transactions were 
+brought back to old system of GSIS is one that is being covered in the 
+reconciliation because the basis of salaries was different already from the old  
+vis-a-vis the new system. The Management will give an update once reconciliation 
+is completed. 
+
+ 
+Compliance with Philippine Health Insurance Corporation (PhilHealth) Insurance Act 
+ 
+16. For CY 2020, POEA complied with the required PhilHealth Premium share of 
+
+employees and Government Share in accordance with the provisions of  
+RA No. 7875. However, the Due to PhilHealth account balance of P80,559.87 as of 
+December 31, 2020 includes PYs’ unaccounted balances, erroneous CY 2020 entries 
+and adjustments recognized in the account, thus rendering the year-end account 
+balance unreliable. 
+
+  
+16.1 Implementing Rules and Regulations (IRR) of the National Health Insurance Act 
+
+of 2013 or RA No. 7875 provides the following: 
+ 
+
+“Section 18. Payment of Premium Contributions 
+ 
+
+a. The member’s monthly contribution shall be deducted and withheld 
+automatically by the employer from the former’s salary, wage or earnings. The 
+premium contributed shall be divided equally between the employer and the 
+
+
+
+88 
+ 
+
+employed. The employer’s counterpart shall not, in any manner, be charged to 
+the employee.  
+
+ 
+b. The monthly premium contribution of employed members shall be remitted by 
+
+the employer on or before the date prescribed by the Corporation.”   
+ 
+
+16.2 Pursuant to RA No. 7875, POEA withheld from the employees’ salaries the 
+mandatory PhilHealth contributions for CY 2020 and promptly remitted the same 
+to the PhilHealth. The employees’ withheld contributions of P2,569,369.66, 
+employer’ share of ₱2,803,713.71, and the preceding year beginning unremitted 
+balance which totaled to ₱5,450,383.22 were remitted during the year. The details 
+of the monthly withholding and remittances to PhilHealth are shown below: 
+ 
+
+Table 40. Monthly Withholding and Remittances to PhilHealth 
+
+Month 
+
+ Withheld 
+ Remittance Unremitted Balance Employee 
+
+Share 
+Government 
+
+Share Total 
+
+(In Pesos) 
+Beg. Balance     77,299.85 
+January 207,546.82 232,344.87 439,891.69 454,101.01 (14,209.32) 
+February 207,398.42 227,878.58 435,277.00 434,640.36 636.64 
+March 226,763.85 21,571.48 248,335.33 235,422.82 12,912.51 
+April 212,737.42 199,392.53 412,129.95 409,020.48 3,109.47 
+May 213,704.90 22,630.87 236,335.77 234,721.10 1,614.67 
+June 212,863.51 231,987.99 444,851.50 441,505.77 3,345.73 
+July 211,802.49 443,536.70 655,339.19 653,394.74 1,944.45 
+August 211,468.69 241,736.31 453,205.00 459,889.39 (6,684.39) 
+September 210,740.90 441,830.92 652,571.82 651,513.04 1,058.78 
+October 212,709.23 237,522.74 450,231.97 450,527.92 (295.95) 
+November 220,181.99 31,120.60 251,302.59 243,591.29 7,711.30 
+December 221,451.44 472,160.12 693,611.56 701,495.43 (7,883.87) 
+Total 2,569,369.66 2,803,713.71 5,373,083.37 5,369,823.55 80,559.87 
+
+ 
+16.3 The Due to PhilHealth account has a balance of P80,559.87 as of  
+
+December 31, 2020, which is attributed to the unremitted CY 2020 contributions 
+and the PYs’ unaccounted balances carried forward as beginning balance in 
+January 2020. The CY 2020 transactions recorded under the account are 
+summarized as follows: 
+
+ 
+Table 41. Due to PhilHealth Account Balance 
+
+Particulars Amount (In Pesos) 
+Beginning Balance, 2020 77,299.85 
+Credits/Amount Withheld 5,373,083.37 
+Debits/Amount Remitted (5,369,823.35) 
+Balance, December 31, 2020 80,559.87 
+
+ 
+16.4 Analysis of the year-end balance as of December 31, 2020 showed adjustments to 
+
+the prior year balance and erroneous entries in 2020: 
+ 
+
+
+
+89 
+ 
+
+Table 42. Analysis of Due to PhilHealth Account Balance 
+
+Particulars Amount (In Pesos) 
+Unremitted/Unaccounted Beginning Balance , January 1, 2020 77,299.85 
+PY Remittance recorded in CY 2020 (18,699.67) 
+PY Contributions recorded in CY 2020 2,135.21 
+Erroneous recording of remittance for Pag-IBIG (1,000.00) 
+Short payment of salary of casual employees for the month of 
+March 2020 due to double deduction of GSIS, HDMF, PHIC 
+premium due to computer error.  
+
+(1,952.80) 
+
+Excess remittance over contributions CY 2020 (457.04) 
+Unremitted PhilHealth contributions CY 2020 23,234.32 
+Unremitted/Unaccounted Balance as of December 31, 2020 80,559.87 
+
+ 
+16.5 Due to aforementioned deficiencies, the accuracy of the reported Due to PhilHealth 
+
+account balance of ₱80,559.87 as of December 31, 2020 could not be relied upon. 
+ 
+
+16.6 We recommended that Management require the Chief Accountant to 
+trace/analyze the details of the prior years’ balance of the Due to PhilHealth 
+account and thereafter remit immediately or make the necessary adjustments 
+as necessary to correct the account balance. 
+
+ 
+16.7 The Management commented that the Accounting Division has already analyzed 
+
+the Due to PhilHealth account for 2020 and JEVs were already prepared for those 
+items confirmed to be for adjustment and with complete supporting documents. 
+More so, the analysis of transactions for CYs 2016 to 2019 is still ongoing and the 
+Accounting Division will submit an updated analysis of account. 
+
+ 
+Compliance with RA No. 9679, Strengthening the Home Development Mutual fund (Pag-
+IBIG)  
+ 
+17. POEA Management complied with the required withholding deductions and 
+
+remittance of Pag-IBIG Premium share of employees, Government Share, and 
+Employee Loans Repayment/ Amortization in accordance with the provisions of RA 
+No. 9679.  Moreover, the account balance as of December 31, 2020 of P10,791.97 is 
+mostly attributed to the PYs unaccounted balances, and erroneous recording of CY 
+2020 transactions, thus rendering the Due to Pag-IBIG account balance unreliable. 
+Also, a difference of P220,561.58 was noted between the amount withheld as recorded 
+per books and per schedule of contributions and remittances submitted by the 
+Accounting Division. 
+
+ 
+17.1 Rule VII of the IRR of RA No. 9679, An Act Further Strengthening the Home 
+
+Development Mutual Fund (HDMF) and for Other Purposes dated July 21, 2009 
+provides the following: 
+
+ 
+“Section 2. Method of Collection and Payment 
+
+
+
+90 
+ 
+
+ 
+Monthly contributions of members to the Fund shall be collected 
+through payroll deductions by their respective employers, who for 
+this purpose shall act as agent both of the Fund and the member. 
+xxx 
+
+ 
+Section 3(a). Remittance of Collections.  
+
+ 
+All employers shall remit to the Fund their contributions and the 
+contributions of their covered employees as well as the latter’s loan 
+amortizations or payments to the Fund, as provided for under 
+Section 2 of this Rule, when applicable, within fifteen (15) days 
+from the date the same were collected unless another period is 
+previously agreed upon between the employer and the Fund, or 
+within such periods as the Fund may prescribe otherwise.” 
+
+ 
+17.2 Pursuant to RA No. 9679, POEA deducted the Pag-IBIG contributions and short-
+
+term loan amortization from the salaries of employees, and remitted the same 
+within the prescribed period. In CY 2020, total amount of ₱2,817,969.64 
+representing HDMF contributions was withheld from the salaries of officials and 
+employees, loan payments including government share. Remittances totaling 
+₱2,814,869.64, which include part of beginning balance, were made in CY 2020 
+thereby leaving an unremitted balance of P10,791.97. Details of the monthly 
+deductions and the remittances including the employer’s share are shown in the 
+table below; 
+
+ 
+Table 43. Due to Pag-IBIG Monthly Deductions and Remittances Including 
+
+the Employer’s Share 
+
+Month 
+
+ HDMF Contribution   Employee 
+Loans/ 
+
+Repayments 
+Amortization  
+
+Total Amount Remitted 
+Unremitted 
+
+Balance  Employee 
+Share  
+
+Government 
+Share (GS) 
+
+(In Pesos) 
+Beg. Balance      7,691.97 
+January 58,660.00 34,700.00 169,609.03 262,969.03 262,069.03 900.00 
+February 58,460.00 43,900.00 173,854.78 276,214.78 277,914.78 (1,700.00) 
+March 58,260.00 100.00 168,463.69 226,823.69 228,023.69 (1,200.00) 
+April 58,960.00 4,300.00 3,317.10 66,577.10 66,577.10 - 
+May 58,860.00 37,400.00 - 96,260.00 95,660.00 600.00 
+June 58,360.00 41,300.00 164,819.33 264,479.33 263,879.33 600.00 
+July 59,060.00 74,100.00 163,781.22 296,941.22 296,041.22 900.00 
+August 59,810.00 39,300.00 154,413.66 253,523.66 254,023.66 (500.00) 
+September 58,410.00 41,100.00 154,413.66 253,923.66 253,923.66 - 
+October 58,410.00 45,500.00 158,301.05 262,211.05 262,011.05 200.00 
+November 60,810.00 83,200.00 157,861.58 301,871.58 300,871.58 1,000.00 
+December 62,610.00 37,500.00 156,064.54 256,174.54 253,874.54 2,300.00 
+Total 710,670.00 482,400.00 1,624,899.64 2,817,969.64 2,814,869.64 10,791.97 
+
+  
+
+
+
+91 
+ 
+
+17.3 The Due to Pag-IBIG account balance of P10,791.97 as of December 31, 2020 is 
+attributed to the unremitted CY 2020 contributions and the PYs’ unaccounted 
+balances carried forward as beginning balance in January 2020. The CY 2020 
+transactions recorded under the account are summarized as follows: 
+
+ 
+Table 44. Due to Pag-IBIG Account Balance 
+
+Particulars Amount (In Pesos) 
+Beginning Balance, January 1, 2020 7,691.97 
+Additions/Amount Withheld 2,817,969.64 
+Deductions/Amount Remitted 2,814,869.64 
+Balance, December 31, 2020 10,791.97 
+
+ 
+17.4 The unaccounted/unreconciled/unremitted balance as of December 31, 2020 is 
+
+summarized below: 
+ 
+
+Table 45. Analysis of Due to Pag-IBIG Account Balance 
+Particulars Amount (In Pesos) 
+
+Unremitted/ unaccounted (Beginning Balance, January 1, 2020) 7,691.97 
+Remittance in PYs recorded in CY 2020 (1,800.00) 
+Unremitted Pag-IBIG Contributions from PYs  900.00 
+Adjustment made in March 2020 due to short payment of salary of 
+casual employees for the month of March 2020 caused by double 
+deduction of GSIS, HDMF, PHIC premium due to computer error 
+
+(1,400.00) 
+
+Unremitted Pag-IBIG Contributions CY 2020 5,400.00 
+Unremitted/Unaccounted Balance as of December 31, 2020 10,791.97 
+
+ 
+17.5 Also, comparison made on the submitted schedule by the Accounting Division and 
+
+the GL balance recorded per books amounting to P2,597,508.06 and 
+P2,817,969.64, respectively, disclosed a difference of P220,461.58. Verification 
+showed that the noted variance was due to the exclusion of Pag-IBIG Contributions 
+- GS of P62,600.00 of REU and Employee Loans/Amortizations amounting to 
+P157,861.58 in the balance reflected in the submitted schedule.  
+
+ 
+17.6 Due to aforementioned deficiencies, the balance of the Due to Pag-IBIG account 
+
+of ₱10,791.97 as of December 31, 2020 could not be relied upon. 
+ 
+
+17.7 We recommended that Management require the Chief Accountant to: 
+ 
+
+a. trace/analyze the details of the prior years’ balance of the Due to  
+Pag-IBIG account and thereafter remit immediately or make the 
+necessary adjustments as necessary to correct the account balance; and 
+ 
+
+b. ensure that the balances reported in the submitted Schedules of 
+Contributions and Remittances - Pag-IBIG is reconciled with the balance 
+recorded per books/GL and to accordingly update/reconcile the variance 
+noted. 
+
+
+
+92 
+ 
+
+17.8 The Management commented that the Accounting Division has already analyzed 
+the Due to Pag-IBIG account for CYs 2016 to 2020. The analysis of the account 
+showed that the reconciling items has to be adjusted or remitted. JEVs were already 
+prepared for those items confirmed to be for adjustment and with complete 
+supporting documents. The Management will update COA on the progress of 
+analysis as we further work back on this account. 
+ 
+
+17.9 The Management also ensured that the schedule of contribution and remittances 
+attached to DVs are reconciled to the figures in the books/GL. It was during the 
+consolidation in the annual report when some of the figures were missed. The 
+Management assured that the Annual Schedule will be reconciled with the GL 
+before submission. 
+
+ 
+Gender and Development (GAD) 
+ 
+18. The POEA formulated its GAD Plan and Budget (GPB) designed to address gender 
+
+issues related to its mandate on overseas employment and services and allocated a 
+GAD budget of P66,114,558.26 or 12.96 percent of its appropriations which met the 
+minimum five percent allocation required in Section 31 of the General Provisions of 
+the GAA for FY 2020. However, only 13 out of 20 target GAD outputs were 
+accomplished due to the Pandemic wherein expenditures of P42,606,908.39 or 64 
+percent were incurred out of its GAD Budget. 
+
+ 
+18.1 Section 31 of the General Provisions of the FY 2020 GAA provides that all 
+
+agencies of the government shall formulate a GAD Plan designed to address 
+gender issues within their concerned sectors or mandate and implement the 
+applicable provisions under RA No. 9710 or the Magna Carta of Women, 
+Convention on the Elimination of All Forms of Discrimination Against Women, 
+the Beijing Platform for Action, the Philippine Plan for Gender-Responsive 
+Development (1995-2025), and the Philippine Development Plan (2017-2022).   
+
+ 
+18.2 The GAD Plan shall be integrated in the regular activities of the agencies, which 
+
+shall be at least five percent (5%) of their budgets. For this purpose, activities 
+currently being undertaken by agencies which relate to GAD or those that 
+contribute to poverty alleviation, economic empowerment especially of 
+marginalized women, protection, promotion, and fulfillment of women’s human 
+rights, and practice of gender-responsive governance, are considered sufficient 
+compliance with said requirement. Utilization of the GAD budget shall be 
+evaluated based on the GAD performance indicators identified by said agencies. 
+The preparation and submission of the annual GAD Plan and annual GAD 
+Accomplishment Report shall be subject to the guidelines issued by the agencies 
+concerned. 
+
+ 
+18.3 Review of the PCW-endorsed POEA GPB to address gender issues/concerns for 
+
+CY 2020 disclosed that the proposed budget amounting to P59,503,433.26 was 
+11.67 percent of the P510,051,000.00 total appropriations of POEA for FY 2020, 
+
+
+
+93 
+ 
+
+which complied with the minimum requirement of five percent allocation 
+attributed to Agency programs and activities.  
+
+ 
+18.4 However, review of GAD Accomplishment Report of POEA for CY2020 
+
+disclosed that two additional GAD activities with a budget of P6,611,125.00 were 
+included in its program, thus raising the GPB to P66,114,558.26 or 12.96 percent 
+of its appropriations. 
+
+ 
+18.5 Despite the Pandemic, the Agency was able to accomplish 13 out of the 20 GAD 
+
+planned activities as identified in their GPB while expending only P42,606,908.39 
+or 64.44 percent of the total GAD Budget, as illustrated below: 
+
+ 
+Table 46. POEA GAD Accomplishment Report for CY 2020 
+
+Gender Issue Outputs/Outcome 
+GAD Budget Actual Cost/ Expenditure 
+
+(In Pesos) 
+A. Client-Focused 
+1. Limited access of 
+
+women job 
+seekers/migrant 
+workers on relevant 
+information on overseas 
+employment and 
+services available, 
+especially in grassroots 
+areas 
+
+Twenty-four (24) Anti-
+Illegal Recruitment/ 
+Trafficking in Persons 
+(AIR/TIP) seminars 
+conducted 
+
+4,649,684.91 486,056.61 
+
+2. Limited access to 
+relevant information 
+especially in grassroots 
+areas 
+
+343,394 participants of 
+Pre-Employment 
+Orientation Seminar 
+(PEOS) sex 
+disaggregated: 
+223,383 = Male 
+119,670 = Female 
+
+2,801,048.00 378,982.80 
+
+3. Limited access of 
+women job 
+seekers/migrant 
+workers on relevant 
+information on overseas 
+employment and 
+services available, 
+especially in grassroots 
+areas 
+
+100% of women callers at 
+the 24/7 POEA 
+Information and 
+Assistance Center and 
+walk-in clients assisted: 
+10.059 - woman walk-in 
+client 
+22,355 - woman callers 
+
+3,455,407.56 9,623,050.10 
+
+4. Lack of awareness 
+among women overseas 
+job seekers about 
+existing job orders per 
+licensed agency that can 
+help them in making 
+informed decisions 
+
+14,154 of female job 
+seekers provided with 
+information on existing 
+job orders per licensed 
+agency during job fairs 
+
+10,688,445.45 337,804.77 
+
+
+
+94 
+ 
+
+Gender Issue Outputs/Outcome 
+GAD Budget Actual Cost/ Expenditure 
+
+(In Pesos) 
+5. Lack of facility in the 
+
+POEA for clients with 
+special concerns, like 
+HSWs, pregnant 
+women, senior citizens 
+and persons with 
+disability 
+
+HSWs - 10381 
+PWD - 5 
+Pregnant - 11 
+Senior Citizens - 123 
+ 
+100% of clients with 
+special concerns, like 
+HSWs, pregnant women, 
+senior citizens and 
+persons with disability 
+attended 
+ 
+One (1) elevator assigned 
+to assist clients with 
+special concerns, like 
+HSWs, pregnant women, 
+senior citizens and 
+persons with disability. 
+
+1,260,024.00 1,209,024.00 
+
+6. There are women clients 
+with sensitive gender 
+based cases requesting 
+for conciliation services 
+
+1,795 of women clients 
+provided with conciliation 
+services - 100% women 
+clients provided with 
+conciliation services 
+
+1,767,980.00 1,405,844.52 
+
+7. Limited HR designated 
+for welfare assistance 
+services affecting 
+prompt services to 
+increasing number of 
+distressed OFWs and 
+their families 
+
+No. of cases evaluated/ 
+disposed: 
+Feb. and Aug. 2020: 
+Repatriated of OFWS-  
+1,156;  
+OFWs who opted to 
+continue working/ issue 
+settled - 529; 
+OFWs with pending case 
+- 139;  
+Request for endorsement 
+to OWWA - 20; 
+Recommended 
+documentary suspension 
+of the deploying Agency 
+- 467;  
+Cases evaluated for father 
+monitoring - 1,401 
+
+373,253.36 2,472,694.76 
+
+
+
+95 
+ 
+
+Gender Issue Outputs/Outcome 
+GAD Budget Actual Cost/ Expenditure 
+
+(In Pesos) 
+8. Majority of Victims of 
+
+harassment (sexual, 
+physical, emotional) are 
+women workers 
+especially household 
+service workers 
+
+Reviewed 19 bilateral/ 
+regional and multilateral 
+agreements with due 
+consideration of gender 
+aspects of overseas 
+employment 
+ 
+Assistance in the 
+assessment of bilateral 
+labor agreements 
+implemented through 
+Joint Committee 
+Meetings (JCMs) / 
+research 
+
+6,500,390.00 5,008,695.53 
+
+9. Limited access to 
+female hearing officers 
+
+1710 female 
+complainants; 
+2 additional hearing 
+officers; and 
+10 existing female hearing 
+officers 
+
+5,767,282.40 5,033,542.56 
+
+10. Lack of awareness 
+among prospective 
+overseas job seekers 
+about the realities and 
+the different legal 
+processes of overseas 
+employment that can 
+help them in making 
+informed decisions 
+
+Production of OFW 
+Handbook: 
+ 
+200,000 pcs English 
+version 
+200,000 pcs Filipino 
+version 
+
+15,000,000.00 7,979,056.40 
+
+11. Limited access of 
+women job 
+seekers/migrant 
+workers on relevant 
+information on overseas 
+employment and 
+services available, 
+especially in grassroots 
+areas 
+
+PEOS ONLINE = 
+343,394 
+Male - 119,670 
+Female - 223,383 
+Unspecified-               341 
+
+130,000.00 2,061,031.34 
+
+Organization-Focused   52,393,515.68 35,995,783.39 
+12. Lack of facility 
+
+(dedicated elevator) in 
+the POEA for women 
+building 
+occupants/employees/ 
+clients transacting with 
+the POEA 
+
+One (1) dedicated elevator 
+for women building 
+occupants/employees/ 
+clients transacting with 
+POEA 
+
+6,206,125.00 6,206,125.00 
+
+
+
+96 
+ 
+
+Gender Issue Outputs/Outcome 
+GAD Budget Actual Cost/ Expenditure 
+
+(In Pesos) 
+13. Limited ICT Equipment Nine (9) units of ICT 
+
+equipment for female 
+hearing officers 
+
+405,000.00 405,000.00 
+
+14. Lack of awareness and 
+unfamiliarity of officials 
+and employees on issues 
+and concerns relative to 
+the Magna Carta of 
+Women - RA No. 9710 
+
+Due to Pandemic and in 
+compliance with the 
+provisions of DBM NBC 
+No. 580 dated April 22, 
+2020 on Adoption of 
+Economic measures in the 
+Government Due to the 
+Emergency Health 
+Situation, GAD Activities 
+under Organization 
+Focused were not 
+implemented. Relative 
+thereto, the 2020 GAD 
+Activities - Organization 
+Focused will be adapted 
+for implementation in CY 
+2021 
+
+1,147,183.52   
+
+15. Lack of standard GAD 
+modules, tailored-fit to 
+POEA in handling 
+
+674,193.82   
+
+16. Lack of Focal/In-House 
+GAD Resource Persons 
+
+1,660,581.45   
+
+17. Frontline Officers 
+attended a minimum of 
+50 clients a day which 
+include experiences in 
+handling distressed and 
+exceptional or difficult 
+clients 
+ 
+There is no debriefing 
+session and 
+psychosocial 
+interventions for 
+distressed Frontline 
+workers 
+ 
+Women cope by sharing 
+concerns to colleague or 
+reacting with 
+transparency to clients  
+while men find it 
+difficult to discuss 
+issues and sometimes 
+become indifferent in 
+the process 
+
+    
+
+
+
+97 
+ 
+
+Gender Issue Outputs/Outcome 
+GAD Budget Actual Cost/ Expenditure 
+
+(In Pesos) 
+18. Proposed New Structure 
+
+of the POEA GFPS 
+requires the 
+reconstitution of the 
+new members to ensure 
+holistic response of the 
+gender issues of Central 
+and Regional Offices 
+(internal and external 
+clients) 
+ 
+There is uneven level of 
+understanding and GAD 
+competence among 
+GFPS members 
+
+2,263,979.39   
+
+19. Need to raise awareness 
+for the appreciation on 
+the importance of 
+Women's Month 
+Celebration 
+
+1,067,183.52   
+
+20. Need to raise awareness 
+on Gender- based 
+violence and support for 
+collective actions in 
+ending GBV 
+
+296,795.88   
+
+Total   66,114,558.26 42,606,908.39 
+ 
+
+18.6 As commented by the Management in their GAD Accomplishment Report, the 
+non-implementation of the seven GAD activities was due to the Pandemic and in 
+compliance with the provisions of DBM NBC No. 580 dated April 22, 2020 on 
+Adoption of Economic Measures in the Government Due to the Emergency Health 
+Situation. Relative thereto, the remaining seven 2020 GAD Activities - 
+Organization Focused will be adopted for implementation in CY 2021. 
+
+ 
+18.7 We recommended that Management continue developing and implementing 
+
+more GAD-related programs, projects and activities that promote gender 
+equality.  
+
+ 
+18.8 The Management commented that with the foregoing events for the FY 2021 and 
+
+Government’s regulation and implementation of quarantine protocols that still 
+continue to prohibit face-to-face transactions, the Administration had foreseen that 
+some PPAs under its GPB 2021 will still be affected by this regulation. However, 
+the Management posited that POEA will continue to adhere to its mandate and 
+implement PPAs related to GAD for the protection and welfare of their clients, 
+most especially the OFWs. 
+
+
+
+98 
+ 
+
+Senior Citizens and Persons with Disabilities 
+ 
+19. For CY 2020, the POEA implemented programs and activities for the senior citizen 
+
+employees, in compliance with Section 32 of the General Provisions of the GAA for FY 
+2020, among which are the following: 
+ 
+
+a. Provided healthcard benefits wherein they were given full coverage despite 
+being senior citizens. All existing illnesses/diseases were being waived of; 
+
+b. Conducted Health and Wellness Program; and 
+c. Conducted program for retirees. 
+
+ 
+19.1 The following facilities and structures intended for the differently-abled 
+
+employees and clients were considered as “one-time construction type,” thus 
+only the maintenance costs were charged against the budget allocated for the 
+Program. 
+
+ 
+a. service elevators with voice prompt for the vision-impaired clients and 
+
+lower location of control systems for persons in wheelchair. 
+b. service elevator with grab bars and control system in Braille 
+c. BM lobby/corridor with ramp for wheelchairs and grab bars on both 
+
+sides of the hallway. 
+d. Public comfort rooms (CR) with the following features: 
+
+ Male CR with grab bars on urinals and closets 
+ Female/Male CR with a standard size for cubicle for person in 
+
+wheelchair with grab bars  
+ 
+Compliance with Property Insurance Law 
+ 
+20. The Management complied with the provisions of RA No. 656, as amended by  
+
+PD No. 245, series of 1973 requiring insurance of government assets from any damage 
+to or loss of, due to fire, earthquake, storm or other casualties. Properties of the agency 
+were insured with the GSIS under Policy No. FI-NM-GSISHO-0035309 covering the 
+period January 1, 2020 to December 31, 2020.  
+
+ 
+Status of Settlement of Audit Suspensions, Disallowances and Charges 
+ 
+21. Suspensions and disallowances amounting to P15,000.00 and P10,130,407.39, 
+
+respectively, remained unsettled at year-end.  
+ 
+
+21.1 Section 7.1 of the COA Circular No. 2009-005 dated September 15, 2009 which 
+prescribes the Rules and Regulations on the Settlement of Accounts (RRSA) 
+issued by COA requires that the head of the Agency ensure that the settlement 
+of the disallowances and charges shall be made within the prescribed period and 
+the requirements of transactions suspended in audit are complied with.  
+Furthermore, Section 7.2 of the same rules provides that the Chief Accountant, 
+Bookkeeper or other authorized official performing accounting and/or 
+
+
+
+99 
+ 
+
+bookkeeping functions of the audited agency shall ensure that the audit 
+suspensions, disallowances and charges including their settlements are properly 
+monitored and reconciled with the SASDC issued by the Auditor. 
+ 
+
+21.2 The total unsettled audit suspensions, disallowances and charges as of December 
+31, 2020 are as follows: 
+
+ 
+Table 47. Summary of Audit Suspensions and Disallowances  
+
+Particulars 
+
+Beginning 
+Balance, 
+
+January 1, 2020 
+
+Issuances 
+During the 
+
+Year 
+
+Settlements 
+During the 
+
+Year 
+
+Ending Balance, 
+December 31, 
+
+2020 
+(In Pesos) 
+
+Notice of 
+Suspension (NS) 15,000.00 
+
+- - 15,000.00 
+
+Notice of 
+Disallowance (ND) 10,130,407.39 - - 10,130,407.39 
+
+Total 10,145,407.39 - - 10,145,407.39 
+ 
+
+21.3 The ending balance of NS represents disbursements relative to the cash advance 
+for expenses incurred in the 84th DOLE Anniversary Celebration while the 
+ending balance of ND is composed of various disallowances pertaining to the 
+unauthorized grant of Rice Allowance, CNA Incentives, overpayment of salaries 
+and other benefits and reimbursement of transportation expenses. 
+ 
+
+21.4 We recommended that Management continuously enforce settlement of 
+suspensions and disallowances as required in the 2009 RRSA. 
+
+
+
+

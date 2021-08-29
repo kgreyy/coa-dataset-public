@@ -1,0 +1,2330 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+26 
+
+OBSERVATIONS AND RECOMMENDATIONS 
+
+ 
+
+ 
+
+A. Financial and Compliance Audit 
+ 
+
+Non-maintenance of Subsidiary Ledger (SL) 
+
+  
+
+1. Non-maintenance of SLs to supplement the details of the controlling accounts 
+appearing in the general ledgers (GL) prevented the timely reconciliation of 
+
+relevant records, which is not in accord with Section 49, Chapter 19, Volume I 
+
+of the GAM.  
+
+ 
+
+Section 49, Chapter 19, Volume I of GAM requires that the Trial Balance shall be 
+
+supported with the schedule of SL balances of the controlling accounts.  
+
+ 
+
+We observed that the SLs intended to support the accounting balances of the assets 
+
+of the agency (Supplies Ledger Cards, PPE Ledger Cards) have not been updated 
+
+for years despite the previous audit recommendations to update the same. Thus, the 
+
+Team reviewed all existing SLs to confirm the compliance by the Accounting 
+
+Section, and noted the following: 
+
+ 
+
+Account Title 
+Account 
+
+No. 
+
+With 
+
+SL?  
+Remarks 
+
+Cash-Collecting Officers 10101010 ✘   
+
+Petty Cash Fund 10101020 ✘   
+
+Cash in Bank-Local Currency, Current Account 10102020 ✘   
+
+Cash in Bank-Local Currency, Savings Account 10102030 ✘   
+
+Cash-Treasury/Agency Deposit, Regular 10104010 ✘   
+
+Cash-Treasury/Agency Deposit, Trust 10104030 ✘   
+
+Due from NGAs 10303010 ✘   
+
+Receivables-Disallowances/Charges 10305010 ✘   
+
+Office Supplies Inventory 10404010 ✘ Not updated 
+
+Accountable Forms, Plates and Stickers Inventory 10404020 ✘ Not updated 
+
+Land 10601010 ✘   
+
+Buildings 10604010 ✘   
+
+Accumulated Depreciation-Buildings 10604011 ✘   
+
+Office Equipment 10605020 ✘ Not updated 
+
+Accumulated Depreciation-Office Equipment 10605021 ✘   
+
+Information and Communications Technology Equipment 10605030 ✘ Not updated 
+
+Accumulated Depreciation- Information and 
+
+Communications Technology Equipment 
+10605031 ✘   
+
+Communication Equipment 10605070 ✘ Not updated 
+
+Accumulated Depreciation-Communication Equipment 10605071 ✘   
+
+Technical and Scientific Equipment 10605140 ✘ Not updated 
+
+Accumulated Depreciation-Technical and Scientific 
+
+Equipment 
+10605141 ✘   
+
+
+
+27 
+
+Account Title 
+Account 
+
+No. 
+
+With 
+
+SL?  
+Remarks 
+
+Other Machinery and Equipment 10605990 ✘ Not updated 
+
+Accumulated Depreciation-Other Machinery and 
+
+Equipment 
+10605991 ✘   
+
+Motor Vehicles 10606010 ✘   
+
+Accumulated Depreciation-Motor Vehicles 10606011 ✘   
+
+Furniture and Fixtures 10607010 ✘ Not updated 
+
+Accumulated Depreciation-Furniture and Fixtures 10607011 ✘   
+
+Construction in Progress 10601030 ✘   
+
+Computer Software 10801020 ✘   
+
+Accumulated Amortization-Computer Software 10801021 ✘   
+
+Other Intangible Assets 10801980 ✘   
+
+Advances to Special Disbursing Officer 19901030 ✘   
+
+Advances to Contractors 19902010 ✘   
+
+Prepaid Insurance 19902050 ✘   
+
+Guaranty Deposits 19903020 ✘   
+
+Other Deposits  19903990 ✘   
+
+Due to BIR 20201010 ✘   
+
+Due to GSIS 20201020 ✘   
+
+Due to Pag-IBIG 20201030 ✘   
+
+Due to PhilHealth  20201040 ✘   
+
+Due to NGAs 20201050 ✘   
+
+Guaranty/Security Deposits Payable 20401040 ✘   
+
+Other Deferred Credits 20501990 ✘   
+
+Other Payables 29999990 ✘   
+
+Accumulated Surplus/(Deficit) 30101010 ✘   
+
+ 
+
+According to the Accountant III, the SLs were not prepared due to lack of 
+
+manpower who will also monitor the movement of the related accounts. Whenever 
+
+he encounters any un-reconciled balance, he reviews the related journal entry to 
+
+trace the discrepancy. 
+
+ 
+
+We emphasize that the said process is only helpful in detecting recent accounting 
+
+errors, while the maintenance of SL minimizes errors and increases efficiency in the 
+
+reconciliation of records, which is necessary in keeping accurate records. 
+
+ 
+
+We recommended and Management agreed to require the Accountant III to 
+
+maintain SL for each controlling account. 
+ 
+
+ 
+
+Outputs/deliverables and payment schedules were not indicated in the TOR 
+
+  
+
+2. The timeline for the submission of outputs/deliverables and the payment 
+schedules were not indicated in the TOR for consultants; hence, the monthly 
+
+payments to the consultants may not correspond to the outputs delivered.  
+
+
+
+28 
+
+ 
+
+The agency hired consultants to fill the gap on the lack of expertise in the field of 
+
+Archeology, Electronic Records Management, Infrastructure Projects, Spanish 
+
+Language, and others. The TOR for consulting services sets the background/ 
+
+objectives/duration of the project, professional requirements, required outputs/ 
+
+deliverables, milestones that will trigger contract payments, and others.  
+
+ 
+
+Our review of the Term of Reference for the consultants showed that the timeline 
+
+for the submission of outputs/deliverables, and the payment schedules were not 
+
+indicated therein, instead the payments to the consultants were made equally per 
+
+month. 
+
+ 
+Name of 
+
+Consultants 
+Purpose Duration 
+
+Contract 
+
+Cost (₱) 
+Audit Remarks 
+
+Michael Armand 
+
+Canilao 
+
+Consultant for the 
+
+revalidation of the 
+
+Archaeological 
+
+Impact Assessment 
+
+Nov. 22, 2019 
+
+to May 21, 2020 
+₱206,893.68  
+
+or 
+
+₱34,482.28/month 
+
+The required outputs 
+
+were not delivered on-
+
+time. 
+
+Elaine Darlucio Consultant on 
+
+Electronic Records 
+
+Management and 
+
+Policy Researcher 
+
+1st contract: 
+
+Jan. 2, 2020 to 
+
+June 30, 2020 
+
+ 
+
+New contract: 
+
+July 1, 2020 to 
+
+Dec. 31, 2020 
+
+₱206,893.68  
+
+or 
+
+₱34,482.28/month 
+
+The payment during the 
+
+end of contract was not 
+
+supported with an 
+
+Approved Final Report. 
+
+ 
+
+The contract was 
+
+renewed for the same 
+
+outputs. 
+
+Maria Rita G. 
+
+Habalo 
+
+Consultant for the 
+
+NAP Infrastructure 
+
+Projects 
+
+1st contract: 
+
+Nov. 4, 2019 to 
+
+Apr. 30, 2020 
+
+ 
+
+New contract: 
+
+May 2, 2020 to 
+
+Oct. 31, 2020 
+
+₱344,827.56  
+
+or 
+
+₱57,471.26/month 
+
+The payment during the 
+
+end of contract was not 
+
+supported with an 
+
+Approved Final Report. 
+
+ 
+
+The contract was 
+
+renewed for the same 
+
+outputs. 
+
+Teresita R. 
+
+Ignacio 
+
+Spanish Language 
+
+Consultant 
+1st contract: 
+
+Jan. 2, 2020 to 
+
+June 30, 2020 
+
+ 
+
+New contract: 
+
+July 1, 2020 to 
+
+Dec. 31, 2020 
+
+₱206,893.68  
+
+or 
+
+₱34,482.28/month 
+
+The payment during the 
+
+end of contract was not 
+
+supported with an 
+
+Approved Final Report. 
+
+ 
+
+The contract was 
+
+renewed for the same 
+
+outputs. 
+
+ 
+
+Since the hiring of consultants is to address the gap on the lack of experts and that 
+
+their services are cost-prohibitive, their services in the agency should result in 
+
+clearly defined outputs at a certain period of time. Thus, it is of importance that the 
+
+timeline for the submission of outputs/deliverables and the payment schedules 
+
+should be indicated in the TOR. 
+
+ 
+
+We recommended and Management agreed to require the members of the 
+
+Bids and Awards Committee to indicate in the TOR the timeline for the 
+
+submission of outputs/deliverables and the payment schedules in hiring 
+
+consultants. 
+
+
+
+29 
+
+ 
+
+Management Comment: 
+
+ 
+
+The Management commented that there was no timeline for the submission of 
+
+outputs/deliverables for said consultants. The underlying factors such as 
+
+management’s activities, schedules meetings with other stakeholders and other 
+
+government agencies and to some degree, specific instructions were considered in 
+
+the delivery of outputs/deliverables. Some outputs/deliverables were dependent 
+
+upon these factors and were vital in performing their works. In addition, the 
+
+pandemic, which started in early 2020 disrupted the NAP’s schedules and targets. 
+
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+The Audit Team maintained the need to specify in the TOR the required 
+
+outputs/deliverables, and the timeline of submission that will trigger the payment to 
+
+the consultants. Said underlying factors should have been considered during the 
+
+preparation of the TOR so that required outputs are clearly defined and time-
+
+bounded. 
+
+ 
+
+ 
+
+Incomplete supporting documents 
+
+  
+
+3. The payments to consultants, appraiser and security provider totaling 
+₱3,246,362.31 were not adequately supported with necessary documents such 
+
+as accomplishment and appraiser reports, approved final report and daily 
+
+time records, in violation of Section 4 (6) of PD No. 1445; hence, propriety of 
+
+transactions was not completely ascertained. 
+
+ 
+
+Section 4 (6) of PD No. 1445 requires that claims against government funds shall 
+
+be supported with complete documentation. 
+
+ 
+
+Our review of the disbursement vouchers noted the lacking documents, as follows: 
+
+ 
+Date 
+
+(2020) 
+JEV No. Payee Payment for Amount (₱) Lacking documents 
+
+Apr-02 20-04-178 Elaine Darlucio compensation for Mar. 2020 34,482.76 Accomplishment Report 
+
+Apr-17 20-04-184 Elaine Darlucio compensation for Apr. 2020 34,482.76 Accomplishment Report 
+
+Jun-17 20-06-211 Elaine Darlucio compensation for May 2020 34,482.76 Accomplishment Report 
+
+Jul-23 20-07-250 Elaine Darlucio compensation for June 2020 34,482.76 Approved Final Report 
+
+(end of contract) 
+
+Apr-17 20-04-184 Maria Rita Habalo compensation for Apr. 2020 57,471.26 Approved Final Report 
+
+(end of contract), 
+
+Accomplishment Report 
+
+Apr-02 20-04-178 Teresita Ignacio compensation for Mar. 2020 34,482.76 Accomplishment Report 
+
+Apr-17 20-04-184 Teresita Ignacio compensation for Apr. 2020 34,482.76 Accomplishment Report 
+
+Jun-17 20-06-211 Teresita Ignacio compensation for May 2020 34,482.76 Accomplishment Report 
+
+Jul-21 20-07-248 Teresita Ignacio compensation for June 2020 34,482.76 Approved Final Report 
+
+(end of contract) 
+
+Jul-27 20-07-264 Development Bank appraisal of property for 88,000.00 Appraisal report, 
+
+
+
+30 
+
+Date 
+
+(2020) 
+JEV No. Payee Payment for Amount (₱) Lacking documents 
+
+of the Philippines RAN Davao Certificate of Acceptance 
+
+Jul-27 20-07-264 Development Bank 
+
+of the Philippines 
+
+appraisal of property for 
+
+RAN Davao 
+
+88,000.00 Appraisal report, 
+
+Certificate of Acceptance 
+
+Apr-17 20-04-181 Arm Corporate 
+
+Security Services 
+
+20 security guards 
+
+(Mar. 16 to 31, 2020) 
+
+319,970.62 DTR & Accomplishment 
+
+Reports (Cebu & Davao) 
+
+May-
+
+07 
+
+20-05-196 Arm Corporate 
+
+Security Services 
+
+20 security guards 
+
+(Apr. 1 to 15, 2020) 
+
+463,317.54 DTR & Accomplishment 
+
+Reports (Cebu & Davao) 
+
+May-
+
+07 
+
+20-05-196 Arm Corporate 
+
+Security Services 
+
+20 security guards 
+
+(Apr. 16 to 30, 2020) 
+
+391,644.08 DTR & Accomplishment 
+
+Reports (Cebu & Davao) 
+
+Jun-05 20-06-208 Arm Corporate 
+
+Security Services 
+
+20 security guards 
+
+(May 1 to 15, 2020) 
+
+391,644.08 DTR & Accomplishment 
+
+Reports (Cebu & Davao) 
+
+Jun-25 20-06-215 Arm Corporate 
+
+Security Services 
+
+20 security guards 
+
+(May 16 to 31, 2020) 
+
+387,164.49 DTR & Accomplishment 
+
+Reports (Cebu & Davao) 
+
+Jul-23 20-07-249 Arm Corporate 
+
+Security Services 
+
+20 security guards 
+
+(June 16 to 30, 2020) 
+
+391,644.08 DTR & Accomplishment 
+
+Reports (Davao) 
+
+Aug-
+
+27 
+
+20-08-292 Arm Corporate 
+
+Security Services 
+
+20 security guards 
+
+(July 1 to 15, 2020) 
+
+391,644.08 DTR & Accomplishment 
+
+Reports (Cebu & Davao) 
+
+     Total 3,246,362.31  
+
+ 
+
+The noted deficiency indicated lapses in the Accounting Section during the 
+
+lockdown as they failed to check the completeness of the supporting documents and 
+
+propriety of transactions before payment. The Accomplishment Reports are 
+
+necessary in verifying whether the outputs/services required from them have 
+
+actually been done or achieved in a particular period. The absence of the required 
+
+documents casts doubts on the validity and propriety of the expenses. 
+
+ 
+
+We recommended and Management agreed to require the concerned payees 
+
+and agency personnel to submit the lacking documents to the Audit Team. 
+
+ 
+
+Management Comment: 
+
+ 
+
+The Management explained that limited transportation and logistics caused by the 
+
+community quarantine contributed to the deficiency, however, it will submit the 
+
+required documents. 
+
+ 
+
+ 
+
+Payment of salaries of contractual personnel through cash advances (CAs) 
+
+  
+
+4. Payment of salaries for contractual personnel totaling ₱2,943,483.43 was made 
+through CAs, inconsistent with DBM Circular Letter No. 2013-16. 
+
+ 
+
+DBM Circular Letter No. 2013-016 dated December 23, 2013 requires that, starting 
+
+January 1, 2014, Accounts Payable due to creditors/payees of all national 
+
+government agencies, which included employees of the department/agency, shall be 
+
+settled thru Expanded Modified Disbursement System, a payment procedure 
+
+whereby Government Servicing Banks shall pay the creditor/payees listed in the 
+
+List of Due and Demandable Accounts Payable with Advice to Debit Account 
+
+(ADA) through direct credit to the payee’s current/savings/Automated Teller 
+
+
+
+31 
+
+Machine (ATM) account. Said requirement was reiterated in the updated guidelines 
+
+under DBM Circular Letter No. 2018-14 dated December 28, 2018. 
+
+ 
+
+The Audit Team noted that CAs were granted to Special Disbursing Officers 
+
+(SDOs) for the payment of the salaries of contractual personnel, as follows: 
+
+ 
+Date JEV No. Name of SDO Amount (₱) 
+
+Salary of contractual personnel assigned in Metro Manila 
+
+20-Jan 20-01-024 Consuelo R. Ortiz 207,334.07  
+
+31-Jan 20-01-046 Consuelo R. Ortiz 115,920.60  
+
+11-Feb 20-02-089 Consuelo R. Ortiz 167,678.96  
+
+27-Feb 20-02-110 Consuelo R. Ortiz 146,500.00  
+
+27-Feb 20-02-111 Consuelo R. Ortiz 235,045.88  
+
+13-Mar 20-03-162 Consuelo R. Ortiz 163,840.02  
+
+29-Jul 20-07-279 Consuelo R. Ortiz 255,649.32  
+
+29-Jul 20-07-280 Consuelo R. Ortiz 157,664.78  
+
+29-Jul 20-07-281 Consuelo R. Ortiz 264,957.04  
+
+29-Jul 20-07-282 Consuelo R. Ortiz 189,795.10  
+
+29-Jul 20-07-283 Consuelo R. Ortiz 181,157.25  
+
+29-Jul 20-07-284 Consuelo R. Ortiz 218,380.94  
+
+29-Jul 20-07-285 Consuelo R. Ortiz 185,260.30  
+
+3-Aug 20-08-301 Consuelo R. Ortiz 198,592.98  
+
+16-Sep 20-09-337 Consuelo R. Ortiz 79,260.95  
+
+16-Sep 20-09-338 Consuelo R. Ortiz 28,355.51  
+
+16-Sep 20-09-339 Consuelo R. Ortiz 28,913.27  
+
+Salary of contractual personnel assigned in Cebu 
+
+30-Jun 20-06-227 Neil C. Desamparado 42,000.00  
+
+Salary of contractual personnel assigned in Davao 
+
+7-Jul 20-07-241 Rosalia C. Astudillo 36,000.00  
+
+29-Dec 20-12-524 Rosalia C. Astudillo 41,176.46  
+
+     Total 2,943,483.43 
+
+ 
+
+Cash payment runs counter with the DBM issuances and does not promote sound 
+
+internal control system in cash management. The payment through CA has 
+
+drawbacks, such as increased cash accountability on the part of the disbursing 
+
+officer, risk of loss or misuse of funds, inconvenience on the part of the payees as 
+
+they still need to personally get their salaries from the disbursing officer, and loss 
+
+of man-hours due to physical distribution of cash. 
+
+ 
+
+We recommended and Management agreed to require the Chief, Finance and 
+
+Administrative Division (FAD) to strictly comply with the DBM Circular in 
+
+the payment of salaries. 
+
+ 
+
+Management Comment: 
+
+ 
+
+The Management commented that normally it pays the contractual personnel 
+
+through the NAP payroll account, from which the respective salaries are directly 
+
+
+
+32 
+
+credited to their bank accounts. It prompted to pay their salaries through CA mainly 
+
+due to the community quarantines, which disrupted transportation and logistics. 
+
+The accomplishment reports and daily time records could not be delivered on-time 
+
+and newly hired personnel had no bank accounts and could hardly enroll/open bank 
+
+accounts because of the pandemic. In this manner, they were able to get their pay in 
+
+due time amid the difficulties and in times of adversity. 
+
+ 
+
+ 
+
+Overpayment in security services 
+
+  
+
+5. The agency paid the security provider twice for the same man-hours rendered 
+by the same security guards, resulting in overpayment of ₱6,672.22. 
+
+ 
+
+The recorded transactions in the account Security Services amounted to 
+
+₱9,698,179.67 representing billings by Arm Corporate Security Services, Inc. to the 
+
+agency for the security services that were rendered in CY 2020. 
+
+ 
+
+The payment arrangement is bi-monthly basis and more or less consistently applied 
+
+during the year. There was a distinct payment in July 2020 in the amount of 
+
+₱95,876.92 for the services rendered from November 8-30, 2019 and January 1 to 
+
+March 15, 2020 to escort the transfer of Spanish documents. We noted an 
+
+overpayment of ₱6,672.22 since this payment included billings by the security 
+
+provider for the same man-hours rendered by the same security guards, as follows: 
+
+ 
+Name of Security 
+
+Guard 
+Date of Duty Man-hours Area 
+
+1st Payment 
+
+Reference 
+
+Amount 
+
+(₱) 
+
+Rosero, Louie Feb. 1, 2020 5:18am to 6:01pm PPL Building ADA No. 9919000283 1,344.64 
+
+Fuentes, Rolando Feb. 8, 2020 5:37am to 6:03pm Intendencia 
+
+Building 
+
+ADA No. 9920000283 1,327.65 
+
+Gomez, Eddie Jan. 13, 2020 4:52am to 6:00pm NAP-Kalaw ADA No. 9920000258 1,327.65 
+
+Eclarinal, Rolando Jan. 25, 2020 5:39am to 6:10pm PPL Building ADA No. 9920000258 1,327.65 
+
+Eclarinal, Rolando Feb. 25, 2020 5:26am to 6:00pm PPL Building ADA No. 9920000367 1,344.63 
+
+     Total     6,672.22 
+
+ 
+
+We recommended and Management agreed to instruct the Accountant III to 
+
+deduct from the subsequent billing of the security provider the overpayment of 
+
+₱6,672.22. 
+
+ 
+
+Management Comment: 
+
+ 
+
+The Management already informed the security service provider of this error and 
+
+requested them to deduct the overpayment from the incoming billing. 
+
+ 
+
+ 
+
+Lack of accountability 
+
+  
+
+6. Recurring audit observations that remained unresolved for years such as (a) 
+non-submission of Bank Reconciliation Statements (BRS), (b) cash balances 
+
+
+
+33 
+
+were not reverted to the General Fund (GF), and non-reconciliation of 
+
+property records manifest lack of accountability among the concerned officers 
+
+and employees. 
+
+ 
+
+The Philippine Constitution emphasizes the importance of accountability in the 
+
+government. Section 1 of Article XI reminds every Filipino that: 
+
+  
+
+“Public office is a public trust. Public officers and employees must, 
+
+at all times, be accountable to the people, serve them with utmost 
+
+responsibility, integrity, loyalty, and efficiency . . .” 
+
+  
+
+As part of its responsibility to monitor and ensure accountability in government 
+
+operations, COA prepares the AAR and is issued to report on the results of audit on 
+
+the operations and transactions of an agency during the year. 
+
+ 
+
+We reviewed the AARs of NAP from CYs 2017 to 2019 and noted that the 
+
+following audit observations were recurring, and that the concerned agency officers 
+
+and employees continuously failed to implement the audit recommendations: 
+
+ 
+
+a) non-submission of BRS 
+ 
+
+Section 7, Chapter 21, Volume I of the GAM requires that the Chief Accountant 
+
+shall submit to the Audit Team the BRS within 20 days after receipt of the monthly 
+
+Bank Statement. 
+
+ 
+
+In CY 2018, the Accountant III incurred delays in the submission of the BRS, while 
+
+in CY 2019 it failed to recognize the valid reconciling items in the books of 
+
+accounts immediately after the preparation of the BRS. While for CY 2020, the 
+
+Accountant III did not submit any BRS during the year; thus, the cash in bank 
+
+balance totaling ₱142,217.12 as of December 31, 2020 could not be verified. 
+
+ 
+
+b) cash balances were not reverted 
+ 
+
+Since CY 2017, the Audit Team has recommended to the NAP Management to 
+
+revert to the General Fund (GF) the following balances as required in Section 98 of 
+
+PD No. 1445 and Section 6 of DBM Circular No. 2004-5A: 
+
+ 
+Year Description Amount (₱) AAR Reference 
+
+Cash-Treasury/Agency Deposit, Trust Account 
+
+2005 to 2009 Cash bid bonds of various suppliers 32,980.00 CYs 2017 to 2019 
+
+2005 to 2009 
+
+Proceeds from sale of bid documents to 
+
+various suppliers 
+
+1,500.00 CYs 2017 to 2019 
+
+2013 76,000.00 CYs 2017 to 2019 
+
+2014 1,000.00 CYs 2017 to 2019 
+
+2016 5,000.00 CYs 2017 to 2019 
+
+2017 10,000.00 CYs 2017 to 2019 
+
+2019 65,000.00 CY 2019 
+
+2020 81,000.00 - 
+
+          Total 272,480.00  
+
+
+
+34 
+
+ 
+
+The Accountant III commented that the above amounts are still for reconciliation. 
+
+We disagreed at is remained unreconciled until today and that this observation has 
+
+been recurring each year. 
+
+ 
+
+c) non-reconciliation of property records 
+ 
+
+Physical count/inventory, which is required semi-annually for Inventories and 
+
+annually for PPE is an indispensable procedure for checking the integrity of 
+
+property custodianship. 
+
+ 
+
+For each category of asset, the Accounting Section shall maintain ledger cards 
+
+(Supplies Ledger Cards, PPE Ledger Cards), while the Property and Supply Section 
+
+shall maintain property records (Stock Cards, Property Cards). The balances per 
+
+ledger card and property record shall be reconciled on a regular basis. They shall 
+
+also be reconciled with other property records, such as the report on physical count, 
+
+property acknowledgement receipts and others. 
+
+ 
+
+We noted that since CY 2017, both the Accounting Section and Property and 
+
+Supply Section were not able to reconcile their records as they continuously failed 
+
+to update the ledger cards and the property records. 
+
+ 
+
+On one hand, the Inventory Committee did not complete the physical count of 
+
+inventories that would report the physical count and condition of Inventories and 
+
+PPE in CY 2020. We were informed that the different Heads of the NAP Divisions 
+
+composed the Inventory Committee to aid in the conduct of the physical count. We 
+
+noted that the last physical count for inventories was in CY 2019, where the 
+
+reported balance differed by ₱187,830.12 against the book balance. In the case of 
+
+PPE, the complete physical count was conducted for CY 2017 but there was a 
+
+material difference of ₱21,533,216.66 when it was compared with the book balance. 
+ 
+
+The non-completion of physical count and non-reconciliation of the property 
+
+records cast doubt on the validity of the reported balances of the agency’s assets. 
+
+  
+
+We recommended and Management agreed to require the: 
+
+ 
+
+a) Accountant III to: 
+ 
+
+i. submit at once the BRS for CY 2020; and 
+ii. prepare JEV to take up the reversion of unused funds to the General 
+
+Fund; 
+
+ 
+
+b) Accountant III and the Property and Supply Officer to update their 
+records, to facilitate the reconciliation with the physical count; and 
+
+ 
+
+
+
+35 
+
+c) Inventory Committee to prioritize in CY 2021 the conduct of physical 
+count of all the assets of the agency. 
+
+ 
+
+Moreover, we recommended and the Executive Director agreed to investigate 
+
+and as warranted, hold officers and employees accountable for continually 
+
+failing to act on the reported observations. 
+
+ 
+ 
+
+Annual target of 15 government offices with approved/updated RDS is too few 
+
+  
+
+7. The agency’s annual target of 15 government offices with approved/updated 
+RDS is deemed too few considering that 409 agencies still have no RDS, 
+
+resulting in the absence of guidelines for the retention and disposition of their 
+
+substantive records. 
+
+ 
+
+Section 16 of RA No. 9470 dated May 31, 2007 states that all government offices, 
+
+including Government-Owned and Controlled Corporations shall prepare and 
+
+submit RDS in the prescribed form, which upon approval by the Executive Director 
+
+shall govern the disposition of all the records of that government office. 
+
+ 
+
+In addition, Section 17 of the same Act provides that the NAP shall develop a 
+
+general records disposition schedule (GRDS) that shall prescribe the disposal of 
+
+public records common to all government offices. 
+
+ 
+
+Our verification disclosed that based on the latest Matrix of Government Agencies 
+
+with or without RDS on December 19, 2020, 552 agencies have already an 
+
+approved RDS, while 409 agencies still have no RDS. 
+
+ 
+
+Our inquiry disclosed that each Records Management Analyst has specific 
+
+assignments for technical assistance on the establishment/revision of RDS. Since 
+
+2018, the Records Management Services Division (RMSD) has a target of 15 
+
+government offices with approved/updated RDS every year. Hence, with the current 
+
+annual target, it will take about three decades to attain the requirement of the law 
+
+that all government agencies must have its own RDS (409 agencies / 15 annual 
+
+target = 27.30 years). Further, it takes about a year to establish and approve an RDS 
+
+due to several coordination between the NAP and its client-agencies. 
+
+ 
+
+We were informed that the smaller/attached agencies without RDS can utilize the 
+
+GRDS and the approved RDS of the bigger/parent-Department, for the management 
+
+and disposal of the common records. The RMSD, however, did not receive any 
+
+request for disposal of valueless common records from any attached agencies. This 
+
+facility could not be utilized in disposing the substantive records, or those records 
+
+created internally because of different agency functions; hence, the need for the 
+
+establishment of the agency RDS. 
+
+ 
+
+
+
+36 
+
+We recommended and Management agreed to require the Chief, RMSD to 
+
+continue making representation with the heads of government agencies with no 
+
+RDS and to set a considerable increment of yearly target of agencies. 
+
+ 
+
+Management Comment: 
+
+ 
+
+The Management invited all the different departments for a consultative meeting 
+
+held on February 17, 2021 where part of the agenda is to set-up/update RDS. 
+
+Likewise, an RDS drive on a rotating regional basis for local government units will 
+
+be launched in 2021. 
+
+ 
+
+ 
+
+Records management audit every five years not conducted 
+
+  
+
+8. Absence of operational guidelines prevented the Inventory and Scheduling 
+Section (ISS) to conduct the records management audit every five years, which 
+
+is not in accord with Section 29 of RA No. 9470 of 2007, resulting in non-
+
+determination of the adherence by government agencies to policies on records 
+
+management. 
+
+ 
+
+Section 29 of RA No. 9470 provides that the Executive Director shall conduct a 
+
+periodic inspection of the records holdings of the NAP and of other government 
+
+offices, whether national or local. In relation to this, the NAP Standard Operating 
+
+Procedures Manual provides that the ISS of the RMSD shall conduct records 
+
+management audit every five (5) years to determine whether government agencies 
+
+are complying with the records keeping requirements of the government, and 
+
+monitor the adherence of government agencies to policies, rules and regulations on 
+
+records management. 
+
+ 
+
+Our inquiry with the Chief, RMSD disclosed that the records management audit has 
+
+not been conducted due to the sudden change of administration and its priorities. It 
+
+was also mentioned that the said audit is a very broad process, which includes all 
+
+the aspects of records and archives management of all government agencies in the 
+
+entire country and should not be interpreted as a regular function of the ISS. 
+
+ 
+
+Records management audit is a huge task, which will be very impossible for ISS to 
+
+implement and to monitor apart from the regular functions of the RMSD. Presently, 
+
+the RMSD conducts files audit but is limited only to the appraisal and 
+
+recommendation of records for disposal of government agencies, identification and 
+
+classification of records, which is included in NAP Form No. 1 (Inventory and 
+
+Appraisal Form), being one of the requirements for the establishment/revision of 
+
+agency RDS. They also assist government agencies to comply with the 
+
+requirements stipulated in NAP General Circular No. 1, such as the establishment 
+
+of File Classification Guide and policies related to filing, and the Creation of 
+
+Records Management Improvement Committee, which will serve as the decision 
+
+
+
+37 
+
+making and advisory body for the records management programs of each 
+
+government agency. 
+
+ 
+
+The Audit Team recognizes the above-mentioned activities (e.g., files audit, 
+
+identification/classification of records), but such actions are the regular functions of 
+
+the RMSD. The records management audit is an oversight function by the NAP to 
+
+determine the compliance with the prescribed records management and 
+
+administration of their client-agencies and to recommend improvement 
+
+opportunities, if necessary. The problem is that the ISS could not conduct the audit 
+
+in the absence of operational guidelines, which should have been established from 
+
+the promulgation of RA No. 9470. Said guidelines should set the objectives, scope, 
+
+timeline, audit procedures, selection criteria, audit risk prioritization and others. 
+
+ 
+
+We recommended and the Executive Director agreed to create an audit 
+
+committee to formulate the operational guidelines for the records management 
+
+audit that shall be conducted by the ISS. 
+ 
+
+Management Comment: 
+
+ 
+
+The Management commented that on top of the establishment of RDS of different 
+
+agencies, they will come up with the audit guidelines within this year to 
+
+operationalize the records management audit. 
+
+ 
+
+ 
+
+Records not sorted out for disposition 
+
+  
+
+9. The lack of concrete transfer and disposal plan in the Records Center Division 
+(RCD) resulted in accumulation of (a) permanent records that should have 
+
+been transferred to the Archives Collection and Access Division (ACAD) for 
+
+their preservation, (b) records from abolished/defunct agencies for re-
+
+appraisal, and (c) records for safekeeping and/or with referrals which could 
+
+not be disposed of. 
+
+ 
+
+The RCD serves as the central repository of inactive/non-current public records of 
+
+different government agencies, including abolished ones, that provides economical 
+
+and efficient storage, timely retrieval, facility security, document processing, and 
+
+proper documentation of potential archives materials. The Pre-Archivage Section of 
+
+RCD is tasked to do the following: 
+
+ 
+
+1) screening, segregating of non-current public records for retention, disposal, 
+or transfer to the ACAD for permanent preservation; and 
+
+ 
+
+2) determination and recommendation for disposal of records that passed the 
+prescribed retention period for agency’s concurrence and approval of the 
+
+Executive Director. 
+
+ 
+
+
+
+38 
+
+We noted in the records holdings of RCD as of November 30, 2020 that there are 
+
+permanent records not yet transferred to ACAD, huge inventory of records from 
+
+abolished agencies for re-appraisal, and accumulation of records for safekeeping 
+
+and/or with referrals. 
+
+ 
+
+a) permanent records not transferred to ACAD for preservation 
+ 
+
+The GRDS and RDS identify permanent records for preservation and temporary 
+
+records, which could be disposed after the retention period. As of November 30, 
+
+2020, there are permanent records, which are overdue for transfer to ACAD. 
+
+Inquiry from concerned personnel of ACAD revealed that said permanent records 
+
+could not be accommodated due to lack of storage space. 
+
+ 
+
+We emphasized that the main objective for the transfer is to preserve the permanent 
+
+records; hence, further delay may increase the risk of possible loss, damage and/or 
+
+deterioration of historically valuable records. Both the RCD and ACAD should 
+
+have earlier planned for the transfer. 
+
+ 
+
+b) huge inventory of records from abolished agencies 
+ 
+
+There are 48 accession records from abolished/defunct agencies that occupy about 
+
+73.70 cu. m. in the RCD storage area. We were informed that in most cases, the 
+
+abolished/defunct agencies do not have RDS that sets the retention and disposition 
+
+period of the records. However, the NAP’s RDS, which was approved on March 1, 
+
+2019 already incorporated said records of abolished/defunct agencies. The 
+
+authorized retention period is 15 years; thus, after the retention period, the RCD can 
+
+recommend the disposal of said records after re-appraisal and have no referrals. 
+
+ 
+
+We noted that there were also permanent records that are still to be transferred to 
+
+ACAD. Likewise, since RCD is undermanned, further appraisal and re-appraisal 
+
+could not be done for a lot of records. Some Archivists were detailed to other 
+
+Divisions, newly hired Records Management Analysts and Archivists still need 
+
+proper monitoring and guidance before they can appraise records, especially the 
+
+201 files of personnel and accounting records. 
+
+ 
+
+c) accumulation of records for safekeeping and/or with referrals 
+ 
+
+There are 48 accession records from existing agencies that occupy about 78.12 cu. 
+
+m. in the RCD storage area. We noted from the records holdings that they were 
+
+labelled as for safekeeping and/or with referrals; hence, the RCD was restricted to 
+
+recommend it to be disposed even after the retention period. Also, the owner-
+
+agency did not issue its concurrence to dispose the records since they still need or 
+
+refer to some of the document. 
+
+ 
+
+The policy that owner-agency needs to concur to dispose its records stands. Hence, 
+
+the RCD must come up with supplemental policy for the records for safekeeping 
+
+
+
+39 
+
+and/or with referrals (e.g., final retention period in the storage area and immediate 
+
+removal of records from the storage area) to avoid accumulation of records. 
+
+Presently, the storage area in RCD is limited, resulting in reduced number of 
+
+accessions every year. 
+
+ 
+
+The RCD serves government agencies with limited storage capacity. But with the 
+
+existing conditions as discussed in the preceding paragraphs, the RCD could not 
+
+likewise provide enough storage for them. 
+
+ 
+
+We recommended and Management agreed to: 
+
+ 
+
+a) instruct the Chief, RCD to: 
+ 
+
+i. immediately transfer the permanent records to ACAD; 
+ii. prepare an action plan that includes the timeline and 
+
+prioritization of appraisal activities of all records from 
+
+abolished/defunct agencies; and 
+
+iii. propose a supplemental policy on records for safekeeping and/or 
+with referrals (e.g., final retention period in the storage area and 
+
+immediate removal of records from the storage area), for the 
+
+approval of the Executive Director; and 
+
+ 
+
+b) require the Chief, ACAD to augment the existing storage area for 
+permanent records from the RCD. 
+
+ 
+
+Management Comment: 
+
+ 
+
+The Chief, RCD commented that additional personnel is needed to carry out the 
+
+appraisal of the records holdings. While the Chief, ACAD magnified the existing 
+
+limitation in their storage area since it currently houses 121,490 bundles of notarial, 
+
+civil, and other agency records and additional repository of 107,232 bundles. She 
+
+suggested to acquire/rent an off-site storage facility to accommodate the records 
+
+since the existing storage facilities are no longer capable of accepting additional 
+
+records, and the newly-acquired property at the Otis Building is yet to be retrofitted. 
+
+Further, both the Chiefs, RCD and ACAD will prepare the plan of action to 
+
+expedite the transfer and/or disposal of the records from various government 
+
+agencies. 
+
+ 
+
+The Executive Director explained that by law, all notarial records must be 
+
+transferred to NAP since they are considered permanent records. Hence, a plan to 
+
+change the legislation on notarial records such as allowing disposal after a certain 
+
+period. Also, they need to target more warehouses for RCD and ACAD. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+40 
+
+Auditor’s Rejoinder: 
+
+ 
+
+The Audit Team recognized the limitations in RCD (manpower, storage area) and 
+
+ACAD (storage area), however, we believe that at this time, both should have 
+
+already identified their priority activities and the schedule of implementation in 
+
+order that they will be able to effectively carry out one of their core functions, i.e., 
+
+proper disposition of government records. 
+
+ 
+
+ 
+
+B. Other Areas 
+ 
+
+Coronavirus Disease (COVID-19)-related expenses 
+
+ 
+
+10. NAP was able to strategize to control the outbreak and slow the transmission of 
+COVID-19 in its workplace. The agency incurred the following expenditures for 
+
+CY 2020: 
+
+ 
+
+Nature of 
+
+Expenditure 
+
+Fund 
+
+Source 
+
+Purpose Particulars Disbursements/ 
+
+Expenses (₱) 
+
+Office Supplies 
+
+Expense 
+
+ MOOE  COVID-19 
+
+expenses 
+
+ Disinfection and 
+
+cleaning supplies, 
+
+medical supplies 
+
+328,723.50 
+
+Other General 
+
+Services 
+
+MOOE COVID-19 
+
+expenses 
+
+Medical supplies 14,391.00 
+
+Hazard and 
+
+Overtime pay 
+
+PS  COVID-19 
+
+expenses 
+
+ Hazard and 
+
+overtime pay for 
+
+regular employees 
+
+292,671.33 
+
+Travelling 
+
+Expenses - Local 
+
+MOOE COVID-19 
+
+expenses 
+
+Travelling 
+
+Allowance 
+
+25,500.00 
+
+Total       661,285.83 
+
+ 
+
+Disbursements for Office Supplies Expense, Other General Services and Travelling 
+
+Expenses during the year were supported with complete documents as required 
+
+under COA Circular No. 2012-001 dated June 14, 2012. 
+
+On the other hand, disbursements for the grant of Overtime pay amounting to 
+
+₱98,392.70 were supported with adequate documents that established the recipients’ 
+
+qualifications and compliance with conditions set under the DBM Budget Circular 
+
+No. 2020-01 dated March 24, 2020. However, the amount of ₱194,278.63 was 
+
+disallowed in audit due to the following deficiencies: 
+
+1) Overtime pay for services rendered during the ECQ period within the 
+regular 8 hours during weekdays were granted when nothing in AO No. 26 
+
+authorized the payment of said remuneration/benefit for services rendered 
+
+during such period, except for the grant of hazard pay; 
+
+ 
+
+
+
+41 
+
+2) The overtime pay during workdays was computed at 1.5 of HR, instead of 
+the prescribed 1.25 of HR; 
+
+ 
+
+3) Overtime services beyond the regular 8 hours during workdays were paid 
+even if the condition on the rendition of at least 2 hours under  Par. 10.1 of 
+
+the CSC-DBM JC No. 1 S. 2015 dated November 25, 2015 was not met. 
+
+ 
+
+ 
+
+National Task Force to End Local Communist Armed Conflict (NTF-ELCAC) 
+
+ 
+
+11. The agency did not receive funds related to the NTF-ELCAC in CY 2020. 
+ 
+
+ 
+
+Dormant Accounts 
+
+ 
+
+12. The summary of NAP’s dormant accounts of five years and above as of December 
+31, 2020 is shown below: 
+
+ 
+Account Amount  No. of years 
+
+Dormant 
+
+Reason for being 
+
+dormant  
+
+Action Taken 
+
+by the Audit 
+
+Team 
+
+Action Taken 
+
+by 
+
+Management 
+
+Advances to 
+
+Contractors 
+
+279,542.50 More than 10 
+
+years 
+
+Details cannot be 
+
+ascertained due to non-
+
+availability of records 
+
+Requested for 
+
+the pertinent 
+
+records from the 
+
+Management; 
+
+Included in the 
+
+CY 2019 AAR. 
+
+In the process 
+
+of locating the 
+
+pertinent 
+
+records. Due to NGAs 55,188.71 17 years Unaccounted balance 
+
+from year 2002 and below 
+
+Guaranty 
+
+Deposits 
+
+13,000.00 More than 10 
+
+years 
+
+Details cannot be 
+
+ascertained due to non-
+
+availability of records 
+
+Other Deferred 
+
+Credits 
+
+105,950.50 More than 10 
+
+years 
+
+Unaccounted balance 
+
+from prior year accounts  
+
+Requested for 
+
+the pertinent 
+
+records from the 
+
+Management. 
+
+In the process 
+
+of locating the 
+
+pertinent 
+
+records. Due to GSIS 447,094.24 More than 10 
+
+years 
+
+Unaccounted balance 
+
+from prior year accounts 
+
+ 
+
+ 
+
+Gender and Development (GAD) Plans and Programs 
+
+ 
+
+13. The agency maximized the use of its approved budget by fully implementing its 
+Program/Activity/Project in CY 2020 to address gender issues, and reported 
+
+expenditures in the total amount of ₱30,315,649.12. 
+
+ 
+
+Section 31 of the General Provisions (GP) of 2020 General Appropriations Act 
+
+(GAA) GAA (RA No. 11465) requires that: 
+
+ 
+
+
+
+42 
+
+All agencies of the government shall formulate a GAD Plan  
+
+designed  to  address  gender  issues  within their concerned  
+
+sectors  or  mandate  and  implement applicable provisions under 
+
+R.A. 9170 or the Magna Carta of Women, Convention on the 
+
+Elimination of All Forms of Discrimination Against Women, the 
+
+Beijing Platform  for  Action,  the  Millennium  Development 
+
+Goals  (2000-2015),  the Philippine Plan for Gender- Responsive 
+
+Development, (1995-2025), and the Philippine Development Plan. 
+
+The GAD plan shall be integrated in the regular activities of the 
+
+agencies, which shall be at least five percent (5%) of their   
+
+respective   budgets.   For   this   purpose.   xxx activities that 
+
+contribute to poverty alleviation, economic empowerment xxx are 
+
+considered sufficient compliance with said requirement.  
+
+Utilization of the GAD budget shall be evaluated based on the 
+
+GAD performance indicators identified by the said agency. 
+
+ 
+
+The agency’s GAD Plan and Budget for CY 2020 and the actual cost to implement 
+
+the major activities are shown below: 
+
+ 
+
+Seq Program/Activity/Project Accomplishment Amount (₱) 
+
+1 Conduct of exhibits featuring 
+
+historical gender issues 
+
+ 
+
+Conducted virtual exhibit 
+
+featuring NAP’s Women 
+
+Chiefs and their noteworthy 
+
+contributions to the 
+
+agency’s development 
+
+84,701.91 
+
+2 Reproduction/dissemination of 
+
+IEC materials on GAD for 
+
+external clients such as leaflets, 
+
+pamphlets, posters, audio visual 
+
+materials 
+
+Distributed 1,000 copies of 
+
+IEC materials provided by 
+
+PCW 
+
+0.00 
+
+3 Conduct in-house activities in 
+
+observance of celebration of 
+
+Women’s month (i.e., Forums, 
+
+Contest etc.) and sending NAP 
+
+employees to invitations of 
+
+other Government Agencies in 
+
+their Women’s month house 
+
+activities, lecture film showing, 
+
+etc. 
+
+- participated in Zumba 
+
+hosted by NHCP during 
+
+celebration of Women’s 
+
+month (16 female and 5 
+
+male) 
+
+ 
+
+- conducted a kick off 
+
+activity for 162 NAP 
+
+permanent and contractual 
+
+employees (87 female and 
+
+75 male) 
+
+154,054.77 
+
+4 Participation to the 18-day 
+
+Campaign to end Violence 
+
+against Women through the 
+
+conduct of various activities 
+
+such as: contest, distribution of 
+
+Conducted a kick off 
+
+activity and participated by 
+
+121 employees (73 female 
+
+and 48 male) 
+
+132,293.64 
+
+
+
+43 
+
+Seq Program/Activity/Project Accomplishment Amount (₱) 
+
+advocacy materials, attending 
+
+PCW-organized activities, 
+
+among others 
+
+5 Planning and Assessment 
+
+Workshop of 2021 GAD 
+
+Plan and Budget and 2020 
+
+Accomplishment Report 
+
+Conducted workshop and 
+
+drafted the CY 2020 
+
+Accomplishment Report 
+
+and CY 2021 GAD Plan 
+
+(22 female and 10 male) 
+
+89,238.05 
+
+6 Development of GAD-related 
+
+information for NAP GAD 
+
+Website 
+
+Uploaded two updates in 
+
+NAP Website 
+
+46,791.00 
+
+7 Conduct of GFPS Meeting to 
+
+plan, monitor and evaluate 
+
+GAD activities 
+
+Conducted two meetings 
+
+for 12 GFPS members (8 
+
+female and 4 male) 
+
+23,463.66 
+
+8 Orientation and updating of 
+
+Execom members on NAP 
+
+GAD Commitment and 
+
+activities 
+
+Conducted Execom 
+
+meeting and GAD was one 
+
+of the agendas 
+
+195,375.64 
+
+9 Incorporation of GAD in 
+
+regular planning of different 
+
+divisions (Planning agenda) 
+
+Conducted two planning 
+
+activities (73 female and 48 
+
+male) 
+
+120,764.46 
+
+10 Conduct Sensitivity Training 
+
+for NAP personnel 
+
+ 
+
+-  attended training on 
+
+“Introduction to GAD 
+
+Concepts and SOGIESC” 
+
+(7 female and 5 male) 
+
+13,562.34 
+
+Attributed Programs 
+
+11 Government Archives Administration Program 14,224,552.54 
+
+12 Government Records Management Program 15,230,851.11 
+
+     Total 30,315,649.12 
+ 
+
+ 
+
+ 
+
+Programs for Senior-Citizens and Persons with Disability 
+
+ 
+
+14. The agency was able to implement the following programs intended for senior 
+citizens and differently-abled persons in accordance with Section 32 of the GP of 
+
+2020 GAA (RA No. 11465): 
+
+ 
+
+Seq Program/Activity/Project Amount (₱) 
+
+1 Provision of water and coffee in the public area which 
+
+most of the clients are senior citizen 
+
+4,928.05 
+
+2 Provision of Senior Citizen Priority Lane 102,240.00 
+
+3 Sending Senior Citizen NAP Employees for pre-
+
+retirement seminar thru online GSIS 
+
+23,434.23 
+
+     Total 130,602.28 
+
+ 
+
+ 
+
+ 
+
+
+
+44 
+
+Disaster Risk Reduction and Management 
+
+ 
+
+15. The agency incorporated in the conduct of training on records and archives 
+management the following module to address concerns on business continuity in 
+
+case of disaster, in compliance with Section 36 of the GP of 2020 GAA (RA No. 
+
+11465): 
+
+ 
+
+1) Regional Seminar Workshop on Records Counter Disaster Preparedness and 
+Business Continuity; and 
+
+2) Seminar and Workshop on Records Recovery and Disaster Preparedness 
+ 
+
+ 
+
+Tax Laws, Rules and Regulations 
+
+ 
+
+16. The agency remitted the total amount of ₱17,511,594.53 to the BIR representing the 
+taxes withheld on compensation, value-added tax, other percentage taxes, creditable 
+
+income taxes (expanded), and documentary stamp tax for CY 2020. 
+
+ 
+
+ 
+
+General Insurance of Government Properties (RA No. 656) 
+
+ 
+
+17. The agency insured its properties with the General Insurance Fund (GIF) of the 
+Government Service Insurance System (GSIS) as required under COA Circular No. 
+
+92-390 dated November 17, 1992.  
+
+ 
+
+ 
+
+GSIS Premium Deductions and Remittances (RA No. 8291) 
+
+ 
+
+18. The agency withheld and remitted the amount of ₱6,867,765.90 and ₱6,790,558.51, 
+respectively to GSIS in compliance with the GP of RA No. 11465, or the GAA for 
+
+FY 2020, leaving a balance of ₱549,239.29 which is subject for reconciliation. 
+
+ 
+
+ 
+
+Pag-IBIG Fund Law (RA No. 9679) 
+ 
+
+19. The agency withheld and remitted the amount of ₱1,280,181.06 and ₱1,275,933.32, 
+respectively to the HDMF for the loans and contributions of NAP officials and 
+
+employees for CY 2020 in compliance with RA No. 9679 dated July 21, 2009, 
+
+leaving a balance of ₱9,956.28 which was remitted in January 2021. 
+
+ 
+
+ 
+
+PhilHealth Law (RA No. 7875) 
+
+ 
+
+20. The agency withheld and remitted the amount of ₱644,990.01 and ₱643,529.74, 
+respectively to PhilHealth the contributions of NAP officials and employees in 
+
+
+
+45 
+
+compliance with RA No. 11223 dated July 23, 2018, leaving a balance of 
+
+₱2,484.87 which is subject for reconciliation. 
+
+ 
+
+ 
+
+Status of Audit Suspensions, Disallowances and Charges 
+
+ 
+
+21. There was no Notice of Suspension nor Notice of Charge issued in CY 2020. 
+Disallowances of ₱34,714,112.80 with Notice of Finality remained unsettled as of 
+
+audit date, while there was a Notice of Disallowance issued in November 18, 2020 
+
+totaling ₱194,278.63. 
+
+ 
+
+The balance of the Receivables-Disallowances/Charges account also includes long 
+
+overdue disallowance amounting to ₱1,255,295.57, which remained unsettled as of 
+
+year-end. The Accounting Section deducted from the salaries of active employees 
+
+and deducted from the retirement gratuity of retired employees who were liable in 
+
+the audit disallowance a total of ₱294,604.62 during the year. 
+
+ 
+
+ 
+
+Fund Utilization 
+
+ 
+
+22. Out of the total allotments of ₱339,826,546.95 in CY 2020, ₱297,462,883.87 or 88 
+percent was obligated and ₱ 216,459,814.73 or 64 percent was disbursed. 
+
+
+
+

@@ -1,0 +1,9466 @@
+
+
+
+
+PART II
+
+
+
+
+
+OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+Financial and Compliance –
+
+
+
+
+
+Unreliable year-end balance of Cash in Bank-Local Currency, Current Account 
+
+
+
+1)		The year-end balance of the Cash in Bank-Local Currency, Current Account of P154,437,468.72 is not accurately presented in the financial statements because of (a) the discrepancy of P154,946,043.45 between the General Ledger (GL) balance and the bank confirmation due to reconciling items which have not been taken up; (b) the non-preparation of Bank Reconciliation Statements (BRS) of San Juan Campus covering Calendar Years (CYs) 2009 to 2015; and (c) stale checks totaling P516,264.09 of Main, Bontoc and Tomas Oppus Campuses which are still reported as outstanding checks, thus affecting the fair presentation of the financial statements.
+
+
+
+	1)		Sections 74 and 111 of Presidential Decree (PD) No. 1445, provide:
+
+
+
+SECTION 74. Monthly reports of depositories to agency head. - At the close of each month, depositories shall report to the agency head in such form as he may direct, the condition of the agency account on their books. The head of the agency shall see to it that a reconciliation is made between the balance shown in the reports and the balance found in the books of the agency.
+
+
+
+SECTION 111. Keeping of accounts. – (1) The accounts of the agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+			
+
+		(2) The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	1.2	Paragraph 29 of PPSAS No. 1 states:
+
+
+
+	29.	In  virtually  all  circumstances,  a fair presentation is achieved by compliance with applicable IPSASs.  A fair presentation also requires an entity:
+
+	
+
+a)	X x x
+
+
+
+b)	To present information, including accounting policies, in manner that provides relevant, reliable, comparable and understandable information.
+
+	
+
+	1.3	Likewise, Chapter 21 of the Government Accounting Manual  (GAM) for National Government Agencies (NGAs), Volume I, enumerates the importance of preparing the bank reconciliation statements,  stating thus:
+
+			
+
+Sec. 3. Objectives. The Bank Reconciliation Statement (BRS) shall be prepared in order to: 
+
+			
+
+	a.	check correctness of both the bank’s and agency’s/entity’s records, 
+
+			
+
+	b.	serve as a deterrent to fraud, and 
+
+			
+
+	c.	enable the agency/entity or bank to take up charges or credits recognized by the bank or agency/entity but not yet known to the agency/entity or bank. 
+
+			
+
+			This shall be used in the reconcilation of bank and treasury accounts maintained with Government Servicing Bank (GSB).
+
+			
+
+	1.4	Moreover, Sections  6 and 7 of Chapter 21, GAM for NGAs, Volume 1, provide:
+
+
+
+Sec. 6.	Recognition of Adjustments. The Chief Accountant/Designated Staff shall prepare a JEV to recognize all reconciling items that require adjustment and correction in the books of accounts.
+
+
+
+Sec. 7.	Reporting.  The Chief Accountant shall submit the BRS within twenty days after receipt of the monthly BS to the following:
+
+
+
+	Original	–	COA Auditor (with all the supporting documents and JEVs)
+
+		Copy 2	–	Head of Agency/Entity
+
+		Copy 3	–	Accounting Division/Unit file
+
+		Copy 4	–	Bank, if necessary
+
+
+
+	1.5	Section 44 of Chapter 6, GAM for NGAs, Volume I, provides:
+
+	
+
+Sec. 44. Accounting for Cancelled Checks. - Checks may be   cancelled when they become stale, voided or spoiled. The depository bank considers a check stale, if it has been outstanding for over six months from the date of issue or as prescribed.  
+
+  
+
+A stale, voided or spoiled check shall be marked cancelled on its face and reported as follows:
+
+
+
+a)		Voided, spoiled or unclaimed stale checks with the Cashier shall be reported as cancelled in the List of Unreleased Checks that will be attached to the RCI.
+
+
+
+b)		New checks may be issued for the replacement of stale/spoiled checks in the hands of the payees or holders in due course, upon submission of the stale/spoiled checks to the Accounting Division Unit. A certified copy of the previously paid DV’s shall be attached to the request for replacement. A JEV shall be prepared to take up the cancellation. The replacement check shall be reported in the RCI.
+
+	
+
+	1.6	As of December 31, 2020 the Cash in Bank – Local Currency, Current Account of  Southern Leyte State University maintained in Land Bank of the Philippines (LBP), Sogod and San Juan Branches reflected a balance of P154,437,468.72,  composed of the following:
+
+	
+
+	 Table 1.  Year-end balances of Cash in Bank-Local Currency, Current Account
+
+Campus
+
+Regular Agency Fund (RAF)
+
+Internally Generated Fund (IGF)
+
+Trust Fund/
+
+Inter- Agency Trust Fund (IATF)
+
+Business Related Fund (BRF)
+
+
+
+
+
+Total
+
+
+
+Main
+
+P                0.00
+
+P  58,458,084.50
+
+P22,998,188.90
+
+P2,388,100.69
+
+P  83,844,374.09
+
+Bontoc
+
+7,109.06
+
+2,538,519.70
+
+5,832,573.29
+
+0.00
+
+8,378,202.05
+
+Tomas Oppus
+
+819,324.19
+
+23,194,499.26
+
+2,284,290.59
+
+356,624.97
+
+26,654,739.01
+
+San Juan
+
+7,369,400.30
+
+19,108,589.85
+
+70,220.38
+
+1,071,792.20
+
+27,620,002.73
+
+Hinunangan
+
+2,647,854.73
+
+1,723,336.14
+
+3,568,959.97
+
+0.00
+
+7,940,150.84
+
+Total
+
+P10,843,688.28
+
+P105,023,029.45
+
+P34,754,233.13
+
+P3,816,517.86
+
+P154,437,468.72
+
+
+
+	1.7	Audit of the account revealed the following deficiencies:
+
+
+
+a)		The discrepancy of P154,946,043.45 between the GL balance and the bank confirmation due to reconciling items which have not been taken up
+
+
+
+	1)		The year-end balance of the Cash in Bank-Local Currency, Current Account has various unreconciled variances totaling P154,946,043.45 between the GL balances and the bank confirmation statements, the details of which are shown in Table 2:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 Table 2.  Comparison of GL balances and the bank confirmation statements
+
+Fund/Campus
+
+Account No. (LBP)
+
+Amount
+
+
+
+
+
+Per GL
+
+Per Bank
+
+Difference
+
+RAF
+
+Bontoc
+
+3322-1019-36
+
+P       7,109.06
+
+P 7,995,960.19
+
+P 7,988,851.13
+
+Tomas Oppus
+
+3322-1037-18
+
+819,324.19
+
+11,316,929.21
+
+10,497,605.02
+
+San Juan
+
+4182-1002-80
+
+2,983,839.03
+
+8,482,681.02
+
+5,498,841.99
+
+
+
+3322-1019-10
+
+4,385,561.27
+
+0.00
+
+4,385,561.27
+
+Hinunangan
+
+4182-1009-49
+
+2,647,854.73
+
+2,785,119.40
+
+137,264.67
+
+Sub-total
+
+P 10,843,688.28
+
+P 30,580,689.82
+
+P 28,508,124.08
+
+IGF
+
+Main
+
+3322-1003-95
+
+P 58,458,084.50
+
+P 67,427,368.73
+
+P   8,969,284.23
+
+Bontoc
+
+3322-1021-18
+
+2,538,519.70
+
+3,053,992.02
+
+515,472.32
+
+Tomas Oppus
+
+3322-1030-41
+
+23,194,499.26
+
+24,296,786.85
+
+1,102,287.59
+
+San Juan
+
+4182-1003-02
+
+17,842,365.33
+
+24,953,310.73
+
+7,110,945.40
+
+
+
+3322-1024-28
+
+1,266,224.52
+
+0.00
+
+1,266,224.52
+
+Hinunangan
+
+4182-1009-57
+
+1,723,336.14
+
+3,588,681.97
+
+1,865,345.83
+
+Sub-total
+
+P105,023,029.45
+
+P123,320,140.30
+
+P 20,829,559.89
+
+IATF
+
+Main
+
+3322-1095-03
+
+P 22,998,188.90
+
+P124,458,445.88
+
+P101,460,256.98
+
+Bontoc
+
+3322-1097-75
+
+5,832,573.29
+
+6,214,462.49
+
+381,889.20
+
+Tomas Oppus
+
+3322-1095-11
+
+2,284,290.59
+
+3,815,428.12
+
+1,531,137.53
+
+San Juan
+
+3321-1226-54
+
+2,220.38
+
+167,511.95
+
+165,291.57
+
+
+
+4182-1003-10
+
+68,000.00
+
+0.00
+
+68,000.00
+
+Hinunangan
+
+4182-1009-65
+
+3,568,959.97
+
+1,780,600.34
+
+1,788,359.63
+
+Sub-total
+
+P 34,754,233.13
+
+P136,436,448.78
+
+P105,394,934.91
+
+BRF
+
+Main
+
+3322-1048-20
+
+P2,388,100.69
+
+P 2,419,249.18
+
+P      31,148.49
+
+Tomas Oppus
+
+3322-1046-33
+
+356,624.97
+
+347,450.49
+
+9,174.48
+
+San Juan
+
+4182-1002-99
+
+1,071,792.20
+
+898,690.60
+
+173,101.60
+
+Sub-total
+
+P 3,816,517.86
+
+P 3,665,390.27
+
+P    213,424.57
+
+TOTAL
+
+P154,437,468.72
+
+P294,002,669.17
+
+P154,946,043.45
+
+
+
+	2)		San Juan Campus had GL balances reported for its RAF, IGF and IATF amounting to P4,385,561.27; P1,266,224.52 and P68,000.00, respectively, but verification of the bank records showed that these funds had zero balances.
+
+	
+
+	3)		These discrepancies reported in the balances between the book and the bank records could have been corrected had the Accountants prepared the bank reconciliation statements regularly, and as such made the necessary adjustments in their books for the errors detected. 
+
+	
+
+	4)		A further verification also revealed the existence of several reconciling items which needed adjustments in the books and in the bank records totaling P96,999,909.37 and P100,866,278.28, respectively, summarized as follows:
+
+
+
+Table 3.  List of reconciling items in the bank and in the books
+
+LBP Account No.
+
+Particulars
+
+Books
+
+Bank
+
+Consolidated Balances as of December 31, 2020
+
+P154,437,468.72
+
+P294,002,669.17
+
+
+
+Add/(Less):
+
+Main Campus
+
+2332-9000-16
+
+Lapsed NCA
+
+
+
+P(37,040,612.95)
+
+
+
+Outstanding Checks
+
+
+
+(23,998,867.92)
+
+3322-1003-95
+
+Outstanding Checks
+
+
+
+(9,729,549.56)
+
+3322-1095-03
+
+Outstanding Checks
+
+
+
+(3,051,804.29)
+
+
+
+CM-11/25/2020
+
+P 70,000.00
+
+
+
+
+
+CM-12/2/2020 CHED release for TES 3A for 8 grantees
+
+247,200.00
+
+
+
+
+
+CM-12/10/2020-CHED release for ESGP-PA 
+
+82,400.00
+
+
+
+
+
+CM-12/10/2020-CHED release for PHED subsidy Semester 1-AY 2020-2021 
+
+47,946,581.00
+
+
+
+
+
+
+
+CM-12/10/2020-CHED release for TES AY 2019-2020 
+
+49,295,800.00
+
+
+
+
+
+CM- 12/22/2020- Reimbursement from CHED for the registration fee of Dr. Yepes to a seminar/workshop
+
+132,592.59
+
+
+
+
+
+3322-1048-20
+
+Outstanding Checks
+
+
+
+(60,926.77)
+
+Sub-total
+
+P97,774,573.59
+
+P(73,881,761.49)
+
+Bontoc Campus
+
+3322-1019-36
+
+Outstanding Checks
+
+
+
+P(7,991,094.58)
+
+
+
+Unrecorded interest income (net of tax)
+
+P1,239.01 
+
+
+
+3322-1021-18
+
+Outstanding Checks
+
+
+
+   (544,537.10)
+
+3322-1097-75
+
+Outstanding Checks
+
+
+
+(272,771.78)
+
+Sub-total
+
+P1,239.01
+
+P(8,808,403.46)
+
+Hinunangan Campus
+
+4182-1009-49
+
+Outstanding Checks
+
+
+
+P(137,264.67)
+
+4182-1009-65
+
+Outstanding Checks
+
+
+
+(7,722.00)
+
+
+
+Unrecorded Deposit- CHED-TDP
+
+P12,000.00
+
+
+
+4182-1009-57
+
+Outstanding Checks
+
+
+
+(57,254.20)
+
+
+
+Understatement of the recorded unreleased checks
+
+10.00
+
+
+
+Sub-total
+
+P12,010.00
+
+P(202,240.87)
+
+San Juan Campus
+
+4182-1002-80
+
+Adjustment of beginning balance tentatively used in January 2016 BRS to reconcile with the ledger balances of Cash in Bank-Local Currency, Current Account as of December 31, 2015
+
+
+
+P(1,654,913.59)
+
+
+
+Outstanding Checks
+
+
+
+(3,085,764.23)
+
+
+
+Recognition of cancelled stale checks as of Dec. 31, 2020 
+
+P200.00
+
+
+
+
+
+4182-1003-02
+
+Adjustment of beginning balance   tentatively used in January 2016 BRS to reconcile with the ledger balances of Cash in Bank – Local Currency, Current Account as of December 31, 2015 
+
+
+
+3,580,454.28
+
+
+
+Outstanding Checks
+
+
+
+(1,654,040.76)
+
+
+
+Recognition of cancelled stale checks as of Dec. 31, 2020 
+
+26,882.44
+
+
+
+4182-1003-10
+
+Outstanding Checks
+
+
+
+(77,004.45)
+
+
+
+Sub-total
+
+P27,082.44
+
+P(2,891,268.75)
+
+
+
+Tomas Oppus Campus
+
+
+
+
+
+3222-1030-41
+
+Outstanding Checks
+
+
+
+P(3,198,128.33)
+
+3322-1037-18
+
+Outstanding Checks
+
+
+
+(11,316,929.21)
+
+
+
+For Reconciliation
+
+P(814,995.67)
+
+
+
+3322-1095-11
+
+Outstanding Checks
+
+
+
+(564,127.19)
+
+3322-1046-33
+
+Outstanding Checks
+
+
+
+(3,418.98)
+
+Sub-total
+
+  P (814,995.67)
+
+P (15,082,603.71)
+
+Total
+
+P96,999,909.37  
+
+P(100,866,278.28)
+
+Adjusted Balance as of December 31, 2020
+
+P 251,437,378.09
+
+P 193,136,390.89
+
+Unreconciled Variance
+
+P58,300,987.20
+
+
+
+	5)		The table above shows various reconciling items which have yet to be recorded in the books by the respective Accountants.  Despite the identified adjustments for both the bank and the book balances at year end,  there is still a substantial unreconciled variance of P58,300,987.20 between the two records.  The table also shows reconciling items of Tomas Oppus Campus amounting to P814,995.67 which have yet to be identified and recorded.
+
+
+
+b)		The non-preparation of BRS of San Juan Campus covering CYs 2009 to 2015 
+
+	
+
+	6)		To date, the Accountant of San Juan Campus has not prepared and submitted the BRS covering CYs 2009 to 2015.  The Accountant used the ending balance per bank as of December 31, 2015 as the beginning balance as of January 1, 2016 for both the bank and the books for the BRS for CY 2016.  For CY 2017, the Accountant used zero as the beginning balances for both the bank and the book balances as of January 1, 2017, without taking into consideration the actual book and the bank balances.
+
+	
+
+	7)		The details on the submission of the CY 2020 BRSs are shown in the table below:
+
+
+
+Table 4.  Details on the submission of the CY 2020 BRSs
+
+Campus
+
+LBP  Account No.
+
+Period Covered
+
+Date Submitted
+
+Tomas Oppus
+
+3322-1037-18
+
+3322-1030-41
+
+3322-1046-33
+
+3322-1095-11
+
+January-December2020
+
+March 12, 2021
+
+San Juan
+
+4182-1002-99
+
+4182-1003-10
+
+4182-1002-80
+
+4182-1003-02
+
+January to April 2020
+
+May 18, 2020
+
+
+
+
+
+May 2020
+
+June 3, 2020
+
+
+
+
+
+June 2020
+
+July 21, 2020
+
+
+
+
+
+July 2020
+
+August 6, 2020
+
+
+
+
+
+August 2020 and September 2020
+
+November 17, 2020
+
+
+
+
+
+October 2020
+
+December 2, 2020
+
+
+
+
+
+November 2020
+
+December 17, 2020
+
+
+
+
+
+December 2020
+
+January 14, 2021
+
+Hinunangan
+
+3322-1025-84
+
+3322-1097-32
+
+4182-1009-57
+
+January 2020
+
+February 18, 2020
+
+
+
+
+
+February 2020
+
+June 3, 2020
+
+
+
+
+
+March to May 2020
+
+July 16, 2020
+
+
+
+
+
+June 2020
+
+August 6, 2020
+
+
+
+
+
+July 2020 and August 2020
+
+October 7, 2020
+
+
+
+
+
+September 2020
+
+October 20, 2020
+
+
+
+
+
+October 2020
+
+November 17, 2020
+
+
+
+
+
+November 2020
+
+December 16, 2020
+
+
+
+
+
+December 2020
+
+January 28, 2021
+
+Bontoc
+
+3322-1097-75
+
+3322-1019-36
+
+January to July 2020
+
+August 20, 2020
+
+
+
+
+
+August 2020
+
+September 24, 2020
+
+
+
+
+
+September and October 2020
+
+November 17, 2020
+
+
+
+
+
+November and December 2020
+
+February 26, 2021
+
+
+
+3322-1048-18
+
+January to October 2020
+
+December 1, 2020
+
+
+
+
+
+November and December 2020
+
+February 26, 2021
+
+Main
+
+3322-1003-95
+
+3322-1048-20
+
+3322-1095-03
+
+2332-9000-16
+
+January 2020
+
+May 18, 2020
+
+
+
+
+
+February 2020
+
+May 19, 2020
+
+
+
+
+
+March and April 2020
+
+June 11, 2020
+
+
+
+
+
+May and June 2020
+
+August 18, 2020
+
+
+
+
+
+July 2020
+
+September 4, 2020
+
+
+
+
+
+August 2020
+
+October 6, 2020
+
+
+
+
+
+September 2020
+
+October 27, 2020
+
+
+
+
+
+October 2020
+
+November 17, 2020
+
+
+
+
+
+November 2020
+
+January 26, 2021
+
+
+
+
+
+December 2020
+
+February 18, 2021
+
+	
+
+	8)		The non-preparation and the non-submission of the bank reconciliation statements made the variances between both records even more difficult to reconcile.
+
+
+
+c)	Stale checks and other reconciling items totaling P 516,264.09 have yet to be recorded in the books.
+
+
+
+	9)		Review of the bank reconciliation statements also revealed that various bank checks issued by Main, Bontoc and Tomas Oppus Campuses totaling P516,264.09 have become stale but no corresponding adjustments were made in the books to record their reversion.  In fact, these checks are still reported as outstanding checks in the BRSs, as follows:
+
+
+
+	Table 5.  Schedule of stale checks still recorded as outstanding checks
+
+	LBP Account No.
+
+	Date
+
+	Check No.
+
+	Amount
+
+	Bontoc Campus
+
+	3322-1021-18
+
+	 February 11, 2020
+
+	      1092792
+
+	P   4,684.82
+
+	
+
+	 February 11, 2020
+
+		      1092800
+
+	607.05
+
+	
+
+	 March 17, 2020
+
+	      1092839
+
+	13,420.80
+
+	
+
+			 March 17, 2020
+
+	      1092840
+
+	3,881.78
+
+	
+
+	 March 17, 2020
+
+	1092845
+
+	991.80
+
+	
+
+	 April 13, 2020
+
+	1092871
+
+	6,246.43
+
+	
+
+	 May 28, 2020
+
+	1365712
+
+	4,477.44
+
+	
+
+	 May 28, 2020
+
+	1365713
+
+	4,416.00
+
+	Sub-total
+
+	
+
+	
+
+	P 38,726.12
+
+			Main Campus
+
+	3322-1095-03
+
+	 June 3, 2020
+
+	1354672
+
+	P   3.600.00
+
+	2332-9000-16
+
+	 February 6, 2020
+
+	       65346
+
+	3,000.00
+
+	
+
+	 March 26, 2020
+
+	       66246
+
+	87,119.58
+
+	
+
+	 March 26, 2020
+
+	       66247
+
+	4,000.00
+
+	
+
+	 March 26, 2020
+
+	       66248
+
+	12,664.44
+
+	
+
+	 April 21, 2020
+
+	       66264
+
+	49,168.44
+
+	Sub-total
+
+	
+
+	
+
+	P159,552.46
+
+	
+
+	Tomas Oppus Campus
+
+	3322-1095-11
+
+	October 25, 2019
+
+	1192589
+
+	P163,310.17
+
+	
+
+	November 29, 2019
+
+	1192598
+
+	42,000.00
+
+	
+
+	March 12, 2020
+
+	1192647
+
+	40,000.00
+
+	
+
+	March 12, 2020
+
+	1415426
+
+	20,000.00
+
+	33221037-18
+
+	November 7, 2018
+
+	1302645
+
+	14,070.98
+
+	
+
+	December 21, 2018
+
+	1302858
+
+	139.48
+
+	
+
+	December 21, 2018
+
+	1302860
+
+	260.26
+
+	
+
+	December 28, 2018
+
+	1302909
+
+	913.17
+
+	
+
+	December 28, 2018
+
+	1302913
+
+	722.09
+
+	
+
+	March 21, 2019
+
+	1303057
+
+	14,944.11
+
+	
+
+	April 26, 2019
+
+	1303172
+
+	803.57
+
+	
+
+	June 17, 2019
+
+	1341083
+
+	           46.97
+
+	
+
+	June 17, 2019
+
+	1341084
+
+	75.15
+
+	
+
+	June 17, 2019
+
+	1341086
+
+	55.89
+
+	
+
+	June 17, 2019
+
+	1341087
+
+	46.97
+
+	
+
+	June 17, 2019
+
+	1341088
+
+	49.79
+
+	
+
+	December 6, 2019
+
+	1415358
+
+	85.33
+
+	
+
+	December 6, 2019
+
+	1415360
+
+	25.84
+
+	
+
+	December 20, 2019
+
+	1414965
+
+	768.00
+
+	
+
+	December 20, 2019
+
+	1414968
+
+	2.200.32
+
+	
+
+	December 20, 2019
+
+	1415039
+
+	4,845.00
+
+	
+
+	March 12, 2020
+
+	1451175
+
+	1,354.25
+
+	
+
+	May 6, 2020
+
+	1415260
+
+	273.37
+
+	3322-1030-41
+
+	December 6, 2019
+
+	1340572
+
+	5,000.00
+
+	
+
+	December 17, 2019
+
+	1340628
+
+	278.40
+
+	
+
+	December 27, 2019
+
+	134709
+
+	3,716.40
+
+	
+
+	March 12, 2020
+
+	1340929
+
+	2,000.00
+
+	 Sub-total
+
+	
+
+	
+
+	P317,985.51
+
+	Total
+
+	
+
+	
+
+	  P516,264.09
+
+	
+
+	10)		The importance of reconciling the Cash in Bank-Local Currency, Current Account per books with the bank records cannot be over-emphasized.  The BRS provides a venue for the early detection of variances to be corrected.  Reconciling items found as a consequence of the reconciliation of the bank and the book records should be recorded in the General Journal (GJ) based on the approved Journal Entry Vouchers (JEVs) to arrive at the accurate and reliable balances in the books.
+
+	
+
+	11)		Until these reconciling items and discrepancies in balances are verified and the necessary corrections/adjustments made in both the bank and in the University’s records to come up with the correct and reconciled balances, the balance of the Cash in Bank-Local Currency, Current Account cannot be fairly presented in the year-end financial statements.
+
+
+
+	12)		We recommended that the University President require the:
+
+
+
+a)	Accountants of all campuses to review and reconcile their records and make the necessary adjustments at the time the errors are detected to come up with correct and reliable balances of their Cash in Bank-Local Currency, Current Account;
+
+	
+
+b)		Accountants of all campuses to account for the P154,946,043.45 unreconciled balance;
+
+	
+
+c)	Accountant of San Juan Campus to: 
+
+
+
+1)	review and trace the entries appearing in the Subsidiary Ledger under the RAF, IGF and IATF accounts and make the necessary adjustments; and 
+
+
+
+2)	prepare and submit the bank reconciliation statements for CYs 2009 to 2015 and make the necessary adjustments in the books for errors/reconciling items detected to come up with correct and reliable balance of their Cash in Bank-Local Currency, Current Account; and
+
+
+
+d)		Accountants of Main, Bontoc and Tomas Oppus Campuses to make the necessary adjustments to take up the stale checks and all other reconciling items affecting the cash balance per books and consequently, record them in the GJ. 
+
+	
+
+	13)		For Bontoc Campus, the unreconciled variance of P7,991,094.58; P544,537.10 and P17,881.12 under the RAF, IGF and IATF, respectively, were already reconciled in February 2021.  Adjustments were also made for the stale checks of P39,415.82.
+
+	
+
+	14)		For Hinunangan Campus, necessary adjustments were taken up in the current year and management assured us that they will make periodic review of the records so that necessary adjustments can be made for errors detected.
+
+	
+
+	15)		For San Juan Campus, management submitted the BRSs for RAF for January 2009 to March 2013 on April 13, 2021.  However, they are still in the process of checking and verifying the documents pertaining to cash transactions covering CYs 2009 to 2015 for IGF and IATF and for RAF for the period April 2013 to December 2015.
+
+	
+
+	16)		For the Main Campus, adjustments were already made in January 2021 per JEV No. IATF 2101001 dated January 31, 2021.
+
+	
+
+	17)		For Tomas Oppus Campus, management explained that the unreconciled amount of P814,995.67 is still for verification and the replacement for stale checks is still in process, while adjusting entries for unclaimed checks are to be reflected in April 2021.
+
+
+
+
+
+Unreliable year-end balance of Accounts Receivable 
+
+
+
+2)		The balance of the Accounts Receivable account reported at P18,725,831.48 as of December 31, 2020 is unreliable due to (a) the existence of negative balances totaling P6,651,684.74 from unrecorded transactions; and (b) unreconciled discrepancies in the balances between the GL of the Main Campus and the SLs of External Campuses amounting to P225,363.00, thus affecting the fair presentation of the account in the financial statements.
+
+	
+
+	1)		Sections 111 and 112 of PD No. 1445, state:
+
+
+
+SECTION 111. Keeping of accounts. – (1) The accounts of the agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+			
+
+		(2) The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+		
+
+			SECTION 112.  Recording of financial transactions. - Each government agency shall record its financial transactions and operations conformably with generally accepted accounting principles and in accordance with pertinent laws and regulations. 
+
+
+
+	2)		Likewise, Section 6 of Chapter 19 of the GAM for NGAs, Volume 1, provides:
+
+
+
+Sec. 6.	Qualitative Characteristics of Financial Reporting.  An entity shall present information including accounting policies in a manner that meets the following qualitative characteristics enumerated in PPSAS I:
+
+	
+
+	X x x
+
+	
+
+c)	Materiality – the relevance of information is affected by its nature and materiality.  Information is material if its omission or mistatement could influence the decisions of users or assessments made on the basis of the financial statements.  Materiality depends on the nature or size of the item or error, judged in the particular circumstances of its omission or misstatement.
+
+
+
+X x x
+
+	
+
+a)	Reliability – reliable information is free from material error and bias, and can be depended on by users to represent faithfully that which it purports to represent or could reasonably be expected to represent.
+
+	
+
+b)		Faithful representation – information to represent faithfully transactions and other events, it should be presented in accordance with the substance of the transactions and other events, and not merely their legal form.
+
+	
+
+	3)		Section 6 of Chapter 21, GAM for NGAs, Volume 1, states:
+
+
+
+Sec. 6.	Recognition of Adjustments. The Chief Accountant/Designated Staff shall prepare a JEV to recognize all reconciling items that require adjustment and correction in the books of accounts.
+
+
+
+	4)		Paragraph 29 (b) of the International Public Sector Accounting Standards (IPSASs) 1  states:
+
+
+
+	1)	In virtually all circumstances, a fair presentation is achieved by compliance with applicable IPSASs. A fair presentation also requires an entity:
+
+
+
+X x x
+
+
+
+a)	To present information, including accounting policies, in a manner that provides relevant, reliable, comparable, and understandable information.  
+
+
+
+	5)		The year-end balance of the Accounts Receivable account of the University amounting to P18,725,831.48 is broken down as follows:
+
+	
+
+Table 6. Schedule of Accounts Receivable balances reported per campus
+
+Fund
+
+Campus
+
+Total
+
+
+
+Main
+
+Tomas Oppus
+
+San Juan
+
+Hinunangan
+
+Bontoc
+
+
+
+IGF
+
+P4,050,677.39 
+
+P (6,308,848.24 )
+
+P  18,172,515.82 
+
+P1,512,366.80 
+
+P 926,906.21 
+
+P18,353,617.98 
+
+BRF
+
+449,600.00 
+
+73,066.00 
+
+41,775.00 
+
+0.00 
+
+0.00 
+
+564,441.00 
+
+Trust Fund
+
+0.00 
+
+(200.00)
+
+150,609.00
+
+(233,114.50)
+
+(109,522.00)
+
+(192,227.50) 
+
+Total
+
+P4,500,277.39 
+
+P (6,235,982.24) 
+
+P18,364,899.82 
+
+P1,279,252.30 
+
+P 817,384.21 
+
+P18,725,831.48 
+
+
+
+	6)		Audit of these balances disclosed the existence of negative balances totaling P6,651,684.74, thus reducing the account balance at year end, viz:
+
+
+
+               Table 7. Receivable accounts with negative balances
+
+Campus
+
+Fund
+
+Particulars
+
+Amount
+
+Tomas Oppus 
+
+IGF
+
+Unrecorded Accounts Receivable from Tuition Fees for Academic Year 2019-2020
+
+P(6,308,848.24)
+
+
+
+Trust
+
+For reconciliation
+
+(200.00)
+
+Hinunangan
+
+Trust
+
+Unrecorded Accounts Receivable from Tuition Fees for School Years 2018-2020
+
+(233,114.50)
+
+
+
+Bontoc
+
+Trust
+
+Unrecorded School Fees for 1st Academic Year 2019-2020
+
+(109,522.00)
+
+Total
+
+
+
+
+
+P(6,651,684.74)
+
+
+
+	7)		The negative balances in the report are abnormalities and should be investigated and 
+
+reconciled immediately so that these accounts are accurately presented.
+
+	8)	Comparison of the balances between the records maintained by the Main Campus with those of the External Campuses disclosed a total variance of P225,363.00 as of December 31, 2020, detailed as follows:
+
+
+
+Table 8. Comparison of GL balances with the SL balances
+
+Fund
+
+Campus
+
+Amount
+
+
+
+
+
+Per General
+
+Ledger
+
+Per Subsidiary
+
+Ledger
+
+
+
+Difference
+
+IGF
+
+Main
+
+P  4,050,677.39
+
+P  4,050,677.39
+
+P         0.00
+
+
+
+Tomas Oppus
+
+(6,308,848.24)
+
+(6,308,848.24)
+
+0.00
+
+
+
+San Juan
+
+18,172,515.82
+
+18,172,515.82
+
+0.00
+
+
+
+Hinunangan
+
+1,512,366.80
+
+1,512,366.80
+
+0.00
+
+
+
+Bontoc
+
+926,906.21
+
+927,706.21
+
+800.00
+
+
+
+Total
+
+P18,353,617.98
+
+P18,354,417.98
+
+  P      800.00          
+
+BRF
+
+Main
+
+P     449,600.00
+
+P     449,600.00
+
+P          0.00
+
+
+
+Tomas Oppus
+
+73,066.00
+
+0.00
+
+73,066.00
+
+
+
+San Juan
+
+41,775.00
+
+0.00
+
+41,775.00
+
+
+
+Hinunangan
+
+0.00
+
+0.00
+
+0.00
+
+
+
+Bontoc
+
+0.00
+
+0.00
+
+0.00
+
+
+
+Total
+
+P     564,441.00
+
+P      449,600.00
+
+P114,841.00
+
+Trust
+
+Main
+
+P                0.00
+
+P                 0.00
+
+P           0.00
+
+
+
+Tomas Oppus
+
+(200.00)
+
+0.00
+
+200.00
+
+
+
+San Juan
+
+150,609.00
+
+150,609.00
+
+0.00
+
+
+
+Hinunangan
+
+(233,114.50)
+
+(233,114.50)
+
+0.00
+
+
+
+Bontoc
+
+(109,522.00)
+
+0.00
+
+109,522.00
+
+
+
+Total
+
+P  (192,227.50)
+
+P    (82,505.50)
+
+P109,722.00
+
+TOTAL
+
+P18,725,831.48
+
+P18,721,512.48
+
+P225,363.00
+
+
+
+	9)	The failure of the Accountants of the Main and External Campuses to reconcile their records resulted in the non-detection of errors and the accumulation of reconciling items, thus the importance of regular reconciliation of the records is emphasized so that errors are detected early and corrected immediately.
+
+	
+
+	10)	These undetected differences and the unrecorded transactions do not fairly present the Accounts Receivable account in the financial statements.
+
+
+
+	11)	We recommended that the President require the Accountants to reconcile records of the SLSU-Main Campus with those of the External Campuses to detect reconciling items early and thereafter, effect the necessary adjustments; and to conduct periodic reconciliation to ensure correctness of the reported receivables as of a given date. 
+
+	
+
+	12)	The Main Campus took note of the observation,  and instructed the  Accountants of the External Campuses to reconcile their records with those in the Main Campus since there are still unresolved discrepancies.  
+
+ 
+
+	1)		For Hinunangan Campus, the Accountant committed to book up the necessary adjustments.
+
+	
+
+	2)		San Juan Campus noted the recommendation and committed to comply with it. 
+
+	
+
+	3)		For the Tomas Oppus Campus,  adjustments were already made in February 2021 for the AY 2019-2020 Tuition Fees which were received late,  while a reconciliation of other accounts with abnormal/negative balances is still ongoing. 
+
+	
+
+	4)		For Bontoc Campus, the Accoutant already made all the necessary adjustments in March 2021.
+
+
+
+
+
+Unreliable year-end balance of Inventory accounts  
+
+
+
+3)		The year-end balance of the Inventory accounts amounting to P13,678,114.88 cannot be relied upon because of the following deficiencies: (a) absence of reconciliation between the Accounting and the Supply Offices records for all campuses resulting in a discrepancy of P9,872,995.96 between the records;           (b) the non-moving accounts totaling P2,582,252.23;  and (c) the existence of negative balances of P190,935.47, thus affecting the fair presentation of the accounts in the financial statements.
+
+	
+
+	3.1	Section 58, Chapter 2 of PD No. 1445, provides:
+
+
+
+SECTION 58. Audit of Assets. The examination and audit of assets shall be performed with a view to ascertaining their existence, ownership, valuation and encumbrances as well as the propriety of items composing the respective asset accounts, determining their agreement with records; proving the accuracy of such records; ascertaining if the assets were utilized economically, efficiently and effectively, and evaluating the adequacy of controls over the accounts.
+
+
+
+3.2	Section 6, Chapter 19 of the GAM for NGAs, Volume I, provides:
+
+
+
+	Sec. 6. Qualitative Characteristics of Financial Reporting. An entity shall present information including accounting policies in a manner that meets the following qualitative characteristics enumerated in PPSAS 1:
+
+
+
+X x x
+
+
+
+e. Reliability – reliable information is free from material error and bias, and can be depended on by users to represent faithfully that which it purports to represent or could reasonably be expected to represent.
+
+
+
+f. Faithful Representation – information to represent faithfully transactions and other events, it should be presented in accordance with the substance of the transactions and other events, and not merely their legal form.
+
+
+
+3.3	Sections 13 and 17, Chapter 8 of the GAM for NGAs, Volume I, provide:
+
+	
+
+Sec. 13. Inventory Accounting System. The Inventory Accounting System consists of the system of monitoring, controlling and recording of acquisition and disposal of inventory.  The system starts with the receipt of the purchased inventory items. xxx.
+
+X x x
+
+Physical count/inventory, which is required semi-annually, is an indispensable procedure for checking the integrity of property custodianship.
+
+
+
+	Sec. 17. Records, Forms and Reports to be prepared and/or maintained.  The following records, forms and reports are prescribed for use:
+
+	
+
+X x x
+
+
+
+		i)	Report on Physical Count of Inventories (RPCI) (Appendix 66)- shall be used to report the physical count of supplies by type of inventory as at a given date.  It shows the balance of inventory items per card and per count and shortage/overage, if any.  These include the semi-expendable property wherein the issue is covered by ICS.
+
+
+
+3.4	Appendix 66 of the GAM for NGAs, Volume II, provides the instructions on how to accomplish the Report on the Physical Count of Inventories, as follows:
+
+
+
+REPORT ON THE PHYSICAL COUNT OF INVENTORIES
+
+(RPCI)
+
+
+
+INSTRUCTIONS
+
+
+
+A)	The RPCI is a form used to report the physical count of inventory items by type such as Office Supplies Inventory; Accountable Forms Inventory; Medical, Dental and Laboratory Supplies Inventory; Food Supplies Inventory, etc. which are owned by the agency/entity. It shall be prepared semi-annually by the Inventory Committee and by fund cluster.
+
+
+
+B)	This form shall be accomplished as follows:
+
+
+
+1)			Type of Inventory Item – inventory account name such as Office Supplies Inventory, Accountable Forms Inventory, Medical, Dental and Laboratory Supplies Inventory, Food Supplies Inventory, etc.
+
+2)			As at __________ – date of the report
+
+3)			Fund Cluster – fund cluster name/code in accordance with the UACS
+
+4)			Name of Accountable Officer – name of the accountable officer or Supply and/or Property Custodian
+
+5)			Official Designation – official designation of the accountable officer
+
+6)			Entity Name – branch or office where the accountable officer is assigned
+
+7)			Date of Assumption – first day of assumption of the duties and responsibilities as accountable officer
+
+8)			Article – type of item or article (e.g., folder, bond paper, ball pen)
+
+9)			Description – brief description of the article (e.g., file tag board for legal size, 210 mm x 297 mm (A4) min. of 70 gms, fine point black)
+
+10)			Stock Number – assigned stock number by the Supply and/or Property Division/Unit
+
+11)			Unit of Measurement – unit of measurement of the property, goods or supplies e.g., piece, ream, box, etc.
+
+12)			Unit Value – cost per unit
+
+13)			Balance per Card – quantity of item/s or article/s appearing in the SLCs
+
+14)			On Hand per Count – quantity of item/s or article/s per physical count
+
+15)			Shortage/Overage – excess of the quantity and total value of item/s or article/s per SLCs over that of the physical count (Shortage) or vice versa (Overage)
+
+16)			Remarks – whereabouts, conditions and other relevant information on the inventories noted during the physical count
+
+
+
+C)	The report shall be reconciled with the SLCs and SCs maintained by the Accounting Division/Unit, and Property and/or Supply Division/Unit, respectively. Any discrepancy shall be verified and/or adjusted accordingly.
+
+
+
+D)	The reports shall be prepared in four (4) copies and certified correct by the Inventory Committee, approved by the Head of Agency or his/her authorized representative, and verified by the COA Auditor. This shall be distributed as follows:
+
+
+
+Original
+
+–
+
+COA Auditor, through the Accounting Division/Unit
+
+Copy 2
+
+–
+
+Supply and/or Property Division/Unit
+
+Copy 3
+
+–
+
+Inventory Officer/Committee
+
+Copy 4
+
+–
+
+Accounting Division/Unit
+
+
+
+E)	The report shall be submitted to the COA Auditor concerned not later than July 31 and January 31 of each year for the first and second semesters, respectively.
+
+		
+
+3.6	Audit of the Inventory accounts of SLSU showed that the account is reported at  P13,678,114.88 as of December 31, 2020, broken down as follows:
+
+	
+
+Table 9. Year-end balances of the Inventory accounts
+
+Inventory Accounts
+
+Balancesper FS
+
+General Ledger Per Campus
+
+
+
+
+
+Sogod
+
+Tomas Oppus
+
+San Juan
+
+Hinunangan
+
+Bontoc
+
+Merchandise Inventory
+
+P1,954,539.10
+
+P1,150,662.15
+
+P124,744.45
+
+P679,132.50
+
+P0.00
+
+P0.00
+
+Raw Materials Inventory
+
+5,435.00
+
+0.00
+
+5,435.00
+
+0.00
+
+0.00
+
+0.00
+
+Office Supplies Inventory
+
+4,868,851.35
+
+1,238,466.86
+
+523,818.37
+
+2,528,243.90
+
+560,592.97
+
+17,729.25
+
+Accountable Forms, Plates and Stickers Inventory
+
+153,199.39
+
+0.00
+
+(47,987.50)
+
+191,186.89
+
+0.00
+
+10,000.00
+
+Animal/Zoological Supplies Inventory
+
+47,315.80
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+47,315.80
+
+Drugs and Medicines Inventory
+
+212,318.72
+
+0.00
+
+200,083.72
+
+0.00
+
+0.00
+
+12,235.00
+
+Medical, Dental and Laboratory Supplies Inventory
+
+17,975.00
+
+0.00
+
+17,975.00
+
+0.00
+
+0.00
+
+0.00
+
+Fuel, Oil and Lubricants Inventory
+
+67,463.13
+
+0.00
+
+61,103.13
+
+0.00
+
+6,360.00
+
+0.00
+
+Textbooks and Instructional Materials Laboratory
+
+748,282.82
+
+0.00
+
+657,066.72
+
+82,418.10
+
+6,563.00
+
+2,235.00
+
+Construction Materials Inventory
+
+475,003.03
+
+
+
+0.00
+
+0.00
+
+214,974.00
+
+83,838.77
+
+176,190.26
+
+Other Supplies and Materials Inventory
+
+1,367,792.17
+
+402,742.31
+
+943,343.74
+
+(81,822.97)
+
+21,644.99
+
+81,884.10
+
+Semi-Expendable Machinery
+
+684,305.00
+
+0.00
+
+0.00
+
+634,405.00
+
+49,900.00
+
+0.00
+
+Semi-Expendable Office Equipment
+
+100,716.00
+
+0.00
+
+0.00
+
+100,716.00
+
+0.00
+
+0.00
+
+Semi-Expendable ICT Equipment
+
+336,746.35
+
+0.00
+
+131,905.00
+
+165,351.35
+
+39,490.00
+
+0.00
+
+Semi-Expendable Communication Equipment
+
+(4,240.00)
+
+0.00
+
+(4,240.00)
+
+0.00
+
+0.00
+
+0.00
+
+Semi-Expendable Medical Equipment
+
+45,478.57
+
+0.00
+
+0.00
+
+45,478.57
+
+0.00
+
+0.00
+
+Semi-Expendable Sports Equipment
+
+581,039.45
+
+0.00
+
+0.00
+
+147,000.00
+
+332,429.45
+
+101,610.00
+
+Semi-Expendable Techinical and Scientific Equipment
+
+40,910.00
+
+0.00
+
+0.00
+
+40,910.00
+
+0.00
+
+0.00
+
+Semi-Expendable Other Machinery and  Equipment
+
+449,811.50
+
+0.00
+
+142,396.50
+
+280,140.00
+
+14,800.00
+
+12,475.00
+
+Semi-Expendable Furniture and Fixtures
+
+1,043,994.00
+
+67,065.00
+
+1,033,814.00
+
+(56,885.00)
+
+0.00
+
+0.00
+
+Semi-Expendable Books
+
+481,178.50
+
+0.00
+
+0.00
+
+278,681.50
+
+202,497.00
+
+0.00
+
+TOTAL
+
+P13,678,114.88
+
+P2,858,936.32
+
+P3,789,458.13
+
+P5,249,929.84
+
+P1,318,116.18
+
+P461,674.41
+
+
+
+3.7	The following deficiencies for the account were noted: 
+
+
+
+a)		Absence of reconciliation of the accounting and the supply records of all campuses which resulted in difference of P9,872,995.06, summarized in Table 10:
+
+
+
+
+
+
+
+              Table 10.  Comparison of balances of the Inventory accounts between the FS and the submitted RPCI 
+
+Accounts
+
+FS Balance 
+
+Per Submitted RPCI
+
+
+
+Difference
+
+Inventory Held for Sale
+
+Merchandise Inventory
+
+P1,954,539.10
+
+-
+
+P1,954,539.10
+
+Inventory Held for Manufacturing
+
+Raw Materials Inventory
+
+5,435.00
+
+-
+
+5,435.00
+
+Inventory Held for Consumption
+
+ 
+
+
+
+
+
+Office Supplies Inventory
+
+4,868,851.35
+
+2,262,871.68
+
+2,605,979.67
+
+Accountable Forms, Plates and Stickers Inventory
+
+153,199.39
+
+-
+
+153,199.39
+
+Animal/Zoological Supplies Inventory
+
+47,315.80
+
+-
+
+47,315.80
+
+Drugs and Medicines Inventory
+
+212,318.72
+
+-
+
+212,318.72
+
+Medical, Dental and Laboratory Supplies Inventory
+
+17,975.00
+
+1,295.00
+
+16,680
+
+Fuel, Oil and Lubricants Inventory
+
+67,463.13
+
+23,044.90
+
+44,418.23
+
+Textbooks and Instructional Materials Inventory
+
+748,282.82
+
+-
+
+748,282.82
+
+Construction Materials Inventory
+
+475,003.03
+
+-
+
+475,003.03
+
+Other Supplies and Materials Inventory
+
+1,367,792.17
+
+947,719.35
+
+420,072.82
+
+Semi-Expendable Machinery and Equipment
+
+Semi-Expendable Machinery
+
+687,305.00
+
+-
+
+687,305.00
+
+Semi-Expendable Office Equipment
+
+100,716.00
+
+-
+
+100,716.00
+
+Semi-Expendable Information and Communications Technology Equipment
+
+336,746.35
+
+573,188.89
+
+(236,442.54)
+
+Semi-Expendable Communication Equipment
+
+(4,240.00)
+
+-
+
+(4,240.00)
+
+Semi-Expendable Medical Equipment
+
+45,478.57
+
+-
+
+45,478.57
+
+Semi-Expendable Sports Equipment
+
+581,039.45
+
+-
+
+581,039.45
+
+Semi-Expendable Technical and Scientific Equipment
+
+40,910.00
+
+-
+
+40,910.00
+
+Semi-Expendable Other Machinery and Equipment
+
+449,811.50
+
+-
+
+449,811.50
+
+Semi-Expendable Furniture, Fixtures and Books
+
+Semi-Expendable Furniture and Fixtures
+
+1,043,994.00
+
+-
+
+1,043,994.00
+
+Semi-Expendable Books
+
+481,178.50
+
+-
+
+481,178.50
+
+Total
+
+P13,678,114.88
+
+P3,808,119.82
+
+P9,872,995.06
+
+
+
+3.8	Verification of the accounting records of all campuses disclosed that San Juan Campus did not maintain ledger cards for the inventory accounts, while for the Bontoc and Hinunangan Campuses,  ledger cards were maintained but were not updated.  
+
+
+
+3.9	Except for the Tomas Oppus Campus, property officers failed to prepare and submit complete RPCIs for all the inventory items so their records did not reconcile with those of the Accounting Section.  Meanwhile, the Bontoc Campus did not conduct an inventory of its items and did not prepare and submit the RPCIs.
+
+
+
+3.10	The conduct of physical count of inventories and the preparation of RPCI are necessary to validate the accuracy of both the supply and the accounting records to avoid misstatements in the reported financial statements balances.
+
+
+
+3.11 	Moreover, the assets in the inventory should be fairly valued.  A physcial inventory assures management of the actual physical existence of these assets, and the condition of the items.
+
+
+
+	b)	Non-moving accounts totaling P2,582,252.23 constitute 18.88% of the year-end balances of the affected accounts
+
+
+
+3.12	Audit also revealed the existence of non-moving inventory accounts totaling P2,582,252.23, detailed as follows:
+
+
+
+               Table 11.  Non-moving inventory accounts per campus as of December 31, 2020
+
+Inventory Accounts
+
+Campus
+
+       Total
+
+
+
+Tomas Oppus
+
+San Juan
+
+Hinunangan
+
+Bontoc
+
+
+
+Raw Materials Inventory
+
+P5,435.00
+
+P0.00
+
+P0.00
+
+P0.00
+
+P5,435.00
+
+Office Supplies Inventory
+
+0.00
+
+0.00
+
+0.00
+
+3,390.30
+
+3,390.30
+
+Accountable Forms, Plates and Stickers Inventory
+
+(49,640.00)
+
+192,839.39
+
+0.00
+
+10,000.00
+
+153,199.39
+
+Animal/Zoological Supplies   Inventory
+
+0.00
+
+0.00
+
+0.00
+
+47,315.80
+
+47,315.80
+
+Drugs and Medicines Inventory
+
+0.00
+
+0.00
+
+0.00
+
+12,235.00
+
+12,235.00
+
+Textbooks and Instructional   Materials Inventory
+
+95,634.00
+
+82,418.10
+
+6,563.00
+
+2,235.00
+
+186,850.10
+
+Construction Materials Inventory
+
+0.00
+
+214,974.00
+
+68,255.06
+
+176,190.26
+
+459,419.32
+
+Other Supplies and Materials Inventory
+
+(459.00)
+
+(17,686.28)
+
+0.00
+
+81,884.10
+
+63,738.82
+
+Semi-Expendable Machinery
+
+0.00
+
+634,405.00
+
+49,900.00
+
+0.00
+
+684,305.00
+
+Semi-Expendable Information and Communications Technology Equipment
+
+0.00
+
+39,490.00
+
+0.00
+
+0.00
+
+39,490.00
+
+Semi-Expendable Communication Equipment
+
+(4,240.00)
+
+0.00
+
+0.00
+
+0.00
+
+(4,240.00)
+
+Semi-Expendable Sports Equipment
+
+0.00
+
+0.00
+
+101,610.00
+
+0.00
+
+101,610.00
+
+Semi-Expendable Technical and Scientific Equipment
+
+0.00
+
+40,910.00
+
+0.00
+
+0.00
+
+40,910.00
+
+Semi-Expendable Other Machinery and Equipment
+
+0.00
+
+280,140.00
+
+14,800.00
+
+12,475.00
+
+307,415.00
+
+Semi-Expendable Books
+
+0.00
+
+278,681.50
+
+202,497.00
+
+0.00
+
+481,178.50
+
+Total
+
+P46,730.00
+
+P1,746,171.71
+
+P443,625.06
+
+P345,725.46
+
+P2,582,252.23
+
+
+
+3.13	These accounts make up 18.88% of the year-end balances of the Inventory accounts and cannot be properly reconciled with the records at the Supply Offices because no inventory was conducted.
+
+
+
+	c)	Existence of Negative Balance
+
+
+
+3.14	Some campuses reported negative balances in their Inventory accounts such as those for San Juan and Tomas Oppus Campuses whose records showed negative balances of P138,707.97 and P52,227.50, respectively: 
+
+
+
+               Table 12.  Inventory accounts with negative balances
+
+Campus
+
+Inventory Account
+
+Amount 
+
+Remarks
+
+San Juan
+
+Other Supplies and Materials Inventory
+
+P(81,822.97)
+
+For verification
+
+
+
+Semi-Expendable Furniture and Fixtures
+
+(56,885.00)
+
+Error in recording
+
+Tomas Oppus
+
+Accountable Forms, Plates and Stickers Inventory
+
+(47,987.50)
+
+For verification
+
+
+
+Semi-Expendable Furniture and Fixtures
+
+(4,240.00)
+
+Error in recording 
+
+
+
+Total
+
+P(190,935.47)
+
+
+
+
+
+3.15	These abnormalities have reduced the account balance at year end by P190,935.47. 
+
+
+
+3.16	We recommended that the President require the:
+
+
+
+a)	Supply Officers of the different campuses to conduct a complete physical inventory of all their inventory items,  and to submit the RPCI immediately to the Accounting Office for reconciliation; and
+
+
+
+b)	Accountants in the various campuses to make the adjustments, where necessary, so that more accurate account balances are reported. 
+
+	
+
+	1)		For the Bontoc Campus, management committed to submit the required RPCI to the Accounting Office on or before May 15, 2021.  Necessary adjustments will also be made to reconcile and  update the inventory accounts.
+
+	
+
+	2)		For the Hinunangan Campus, management stated that they will make the necessary reconciliation to arrive at the accurate inventory balance, and further adjustments  will be made, where necessary.   
+
+
+
+	3)		For the Tomas Oppus Campus, the Campus Accountant already reviewed their records with those of the Main Campus, and various adjustments were already made.  However, further reconciliation will be made for the Raw Materials and Accountable Forms Inventory accounts.  
+
+
+
+	4)		For the San Juan Campus, the reconciliation of the inventory accounts is on-going.    
+
+
+
+	5)		For the Main Campus, the Supply Office submitted to the Accounting Office a copy of the RPCI for Office Supplies and Other Supplies Inventory as of December 31, 2020 on January 28, 2021.  Hence, the balances of the two inventory accounts were already reviewed and reconciled with the Accounting Office.
+
+	
+
+	The balance of Semi-Expendable-Furniture and Fixtures in the amount of P67,065.00 was no longer included in December 2020 RPCI since these inventories were already issued in November 2020.  However, the Report of Supplies and Materials Issued, which is the basis of recording, was only submitted in January 2021.
+
+	
+
+		
+
+	Unreliable Property, Plant and Equipment (PPE) account balance 
+
+
+
+4)	The University’s assertions of existence, ownership and accuracy of the PPE account reported at a net value of P555,898,789.43 as of year end cannot be relied upon due to: (a) the discrepancies in PPE balances carried in the CY 2020 financial statements and in the Report of Physical Count of PPE (RPCPPE) of several campuses totaling P81,784,932.34;  (b) the failure to conduct an inventory of all PPE items by Main and Bontoc Campuses;  (c) the existence of unreconciled balances between the accounting records of Main Campus and those of the External Campuses totaling P40,921,910.13; and (d) unserviceable properties totaling P3,928,804.14 which are still carried in the books.
+
+
+
+4.1	Sections 58 and 122 of PD No. 1445 provide:
+
+
+
+SECTION 58. Audit of Assets. - The examination and audit of assets shall be performed with a view to ascertaining their existence, ownership, valuation and encumbrances as well as the propriety of items composing the respective asset accounts; determining their agreement with records; proving the accuracy of such records; ascertaining if the assets were utilized economically, efficiently and effectively; and evaluating the adequacy of controls over the accounts.
+
+
+
+X x x
+
+
+
+SECTION 122. Submission of Reports. - Whenever deemed necessary in the exigencies of the service, the Commission may under regulations issued by it require the agency heads, chief accountants, budget officers, cashiers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla of personnel, and such other reports as may be necessary for the exercise of its functions.
+
+
+
+X x x
+
+
+
+	1)		Whereas, pertinent sections of Chapter 10 of the GAM for NGAS, Volume I, provide:
+
+	
+
+X x x
+
+
+
+	Sec. 38.	Physical Count of PPE. The entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 73) as at December 31 of each year.  This shall be submitted to the Auditor concerned not later than January 31 of the following year.  Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division/Unit for proper accounting/recording.
+
+
+
+X x x
+
+
+
+Sec. 40.  Idle, Unserviceable and Fully Depreciated PPE.  The following are the policies on idle, unserviceable and fully depreciated PPE:
+
+
+
+X x x
+
+
+
+	c.	A PPE is said to be unserviceable if it is no longer capable of providing the entity with future economic benefits or service potential.
+
+
+
+	d.	All unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) (Appendix 74).  PPE reported in the IIRUP shall be dropped from the books by debiting Impairment Loss-Property, Plant and Equipment (cost of the PPE less Accumulated Depreciation). 
+
+
+
+	X x x
+
+
+
+	Sec. 42.	Accounting and Property Records to be maintained for PPE. The Chief Accountant shall maintain the Property, Plant and Equipment Ledger Card (PPELC) for each category of PPE including work and other animals, livestock etc.  The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset.  For check and balance, the Property and Supply Office/Unit shall likewise maintain Property Card (PC) for PPE in their custody to account for the receipt and disposition of the same.  The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit.  They shall also be reconciled with other property records like the PAR.
+
+
+
+The following are among the forms/reports necessary to account for PPE:
+
+
+
+X x x
+
+
+
+a)	Property Card (Appendix 70) – this card shall be used by the Supply and/or Property Division/Unit to record description, acquisition, transfer, disposal and other information about the PPE.  It shall be kept for each class of PPE.
+
+
+
+b)	Property, Plant and Equipment Ledger Card (Appendix 71) – this card shall be used for each class of PPE to record the acquisition, description, custody, estimated life, depreciation, impairment, disposal, transfer/adjustment, repair history and other information about the property.  It shall be kept and maintained by the Accounting Office/Unit.
+
+
+
+X x x
+
+
+
+c)	Report on the Physical Count of Property, Plant and Equipment (Appendix 73) – this form shall be used to report the physical count and condition of PPE by type as at a given date, including those which are unrecorded and those which could not be accounted for.  It shows the balance of PPE per property cards and per count and the shortage/overage, if any.  It shall be rendered by the Inventory Committee, on its yearly physical count of properties owned by the entity.
+
+
+
+X x x
+
+
+
+	2)		The consolidated year-end book balance of the PPE accounts of the University amounted to P555,898,789.43 broken down as follows:
+
+
+
+Table 13. Schedule of the PPE accounts reported in the financial statements as of December 31, 2020
+
+PPE
+
+Per Campus
+
+Total
+
+
+
+Main
+
+Tomas Oppus
+
+San Juan
+
+Hinunangan
+
+Bontoc
+
+
+
+Land 
+
+P  2,438,164.36 
+
+P  746,168.00 
+
+P   779,795.31 
+
+P 3,189,271.63 
+
+P    109,386.95 
+
+P  7,262,786.25 
+
+Land Improvements
+
+7,216,496.06
+
+1,310,969.76
+
+622,447.23
+
+4,578,433.21
+
+203,420.40
+
+13,931,766.66
+
+Infrastructure Assets
+
+107,256.81
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+107,256.81
+
+Buildings and Other Structures
+
+174,275,761.19
+
+46,946,934.41
+
+24,499,206.90
+
+21,370,906.58
+
+46,175,994.74
+
+313,268,803.82
+
+Machinery and Equipment
+
+60,265,126.80
+
+15,244,843.30
+
+15,659,608.47
+
+11,724,168.33
+
+20,854,569.73
+
+123,748,316.63
+
+Transportation Equipment
+
+4,382,600.27
+
+192,427.32
+
+799,379.04
+
+1,126,617.80
+
+166,985.44
+
+6,668,009.87
+
+Furniture, Fixtures and Books
+
+12,708,190.23
+
+2,545,873.17
+
+1,245,339.06
+
+1,040,838.81
+
+1,475,202.04
+
+19,015,443.31
+
+Other PPE
+
+8,157.65
+
+0.00
+
+(8,040.00)
+
+1,000.00
+
+0.00
+
+1,117.65
+
+Construction in Progress
+
+53,064,716.41
+
+18,521,874.18
+
+0.00
+
+308,697.84
+
+0.00
+
+71,895,288.43
+
+Total
+
+P314,466,469.78
+
+P85,509,090.14
+
+P43,597,736.01
+
+P43,339,934.20
+
+P68,985,559.30
+
+P555,898,789.43
+
+
+
+
+
+	3)		Verification these accounts revealed the following deficiencies: 
+
+
+
+a)	Existence of discrepancies in the balances between the financial statements and the RPCPPEs totaling P81,784,932.34
+
+
+
+	4)		A comparison of the balances reported in the financial statements, and those of the RPCPPEs submitted by the Tomas Oppus, San Juan and Hinunangan Campuses as of December 31, 2020 showed several discrepancies totaling P81,784,932.34, the details of these are shown below:
+
+	
+
+Table 14.  Comparison of financial statements balances and the balances reported in the RPCPPEs
+
+
+
+PPE
+
+Per FS
+
+(Book Balance)
+
+Per RPCPPE
+
+(Book Balance)
+
+
+
+Difference
+
+Tomas Oppus Campus
+
+Land 
+
+P       746,168.00
+
+P    1,292,418.00
+
+P     546,250.00
+
+Land Improvements
+
+5,417,803.86
+
+2,363,357.58
+
+3,054,446.28
+
+Buildings and Other Structures
+
+72,151,695.60
+
+76,370,967.20
+
+     4,219,271.60
+
+Machinery and Equipment
+
+36,586,089.15
+
+18,392,291.00
+
+18,193,798.15
+
+Transportation Equipment
+
+1,842,845.00
+
+1,025,000.00
+
+817,845.00
+
+Furniture, Fixtures and Books
+
+7,646,402.71
+
+1,349,964.31
+
+6,296,438.40
+
+Construction in Progress
+
+18,521,874.18
+
+0.00
+
+18,521,874.18
+
+Sub-total
+
+P142,912,878.50
+
+P100,793,998.09
+
+P 51,644,923.61
+
+San Juan Campus
+
+Land 
+
+ P       779,795.31
+
+P       779,795.31
+
+P                0.00
+
+Land Improvements
+
+1,645,145.96
+
+1,645,145.96
+
+0.00
+
+Buildings and Other Structures
+
+36,777,989.17
+
+33,237,391.80
+
+3,540,597.37
+
+Machinery and Equipment
+
+30,743,260.55
+
+9,074,340.00
+
+21,668,920.55
+
+Transportation Equipment
+
+1,673,920.00
+
+1,673,920.00
+
+0.00
+
+Furniture, Fixtures and Books
+
+2,368,221.41
+
+2,160,300.00
+
+207,921.41
+
+Other PPE
+
+3,000.00
+
+0.00
+
+3,000.00
+
+Sub-total
+
+P  73,991,332.40
+
+P  48,570,893.07
+
+P25,420,439.33
+
+Hinunangan Campus
+
+Land 
+
+P    3,189,271.63
+
+P    3,078,223.64
+
+P     111,047.99
+
+Land Improvements
+
+8,559,847.46
+
+7,925,891.97
+
+633,955.49
+
+Buildings and Other Structures
+
+28,492,547.44
+
+28,566,147.83
+
+73,600.39
+
+Machinery and Equipment
+
+22,199,816.55
+
+20,794,360.05
+
+1,405,456.50
+
+Transportation Equipment
+
+1,974,743.14
+
+1,929,743.14
+
+45,000.00
+
+Furniture, Fixtures and Books
+
+2,489,211.19
+
+348,400.00
+
+2,140,811.19
+
+Other PPE
+
+1,000.00
+
+0.00
+
+1,000.00
+
+Construction in Progress
+
+308,697.84
+
+0.00
+
+308,697.84
+
+Sub-total
+
+P   67,215,135.25
+
+P  62,642,766.63
+
+P  4,719,569.40
+
+Total
+
+P 284,119,346.15
+
+P212,007,657.79
+
+P81,784,932.34
+
+
+
+	5)		For the San Juan Campus, the ledger cards for the PPE items acquired before CY 2017 were not updated due to absence of source documents, while for the Bontoc Campus, PPELCs for CYs 2019 and 2020 were not updated at all.
+
+	
+
+	6)		The maintenance of updated PPELCs and PCs serves as a control mechanism over property custodianship, and failure to update these records will result in the difficulty of monitoring the existence and condition of government property.  Moreover, the RPCPPE shall be reconciled with the PPELCs and PCs every year, and any discrepancies should be investigated immediately, and adjusted where necessary. 
+
+	
+
+	7)		In property management, it is required that after the physical inventory-taking, the Inventory Committee reconciles the results of the count with the property and the accounting records.  All noted discrepancies of inventories between the books and the RPCPPE must be investigated, cleared and reconciled immediately.
+
+
+
+b)	Failure to conduct physical inventory of all PPE items and to submit RPCPPEs of Main and Bontoc Campuses
+
+
+
+	8)		Audit also disclosed that Main and Bontoc Campuses failed to submit the RPCPPEs for the PPE accounts, detailed in Table 15:
+
+
+
+
+
+
+
+
+
+
+
+Table 15.  Book balances reported at the Main and Bontoc Campuses without RPCPPEs 
+
+
+
+PPE
+
+Main Campus
+
+(Book Balance)
+
+Bontoc Campus
+
+(Book Balance)
+
+
+
+Total
+
+Land 
+
+P    2,438,164.36       
+
+P     109,386.95    
+
+P    2,547,551.31      
+
+Land Improvements
+
+15,160,705.73
+
+1,137,315.43
+
+16,298,021.16
+
+Infrastructure Assets
+
+1,186,237.40
+
+0.00
+
+1,186,237.40
+
+Buildings and Other Structures
+
+227,068,875.20
+
+58,050,825.92
+
+285,119,701.12
+
+Machinery and Equipment
+
+144,189,227.65
+
+32,740,768.46
+
+176,929,996.11
+
+Transportation Equipment
+
+8,478,525.37
+
+1,077,283.75
+
+9,555,809.12
+
+Furniture, Fixtures and Books
+
+23,144,219.42
+
+2,792,772.70
+
+25,936,992.12
+
+Other PPE
+
+81,576.50
+
+0.00
+
+81,576.50
+
+Construction in Progress
+
+53,064,716.41
+
+0.00
+
+53,064,716.41
+
+Total
+
+P474,812,248.04
+
+P95,908,353.21
+
+P570,720,601.25
+
+  
+
+	9)		Records show that the Main and Bontoc Campuses failed to complete their conduct of physical inventory of all PPEs thus, they were not able to submit the year-end RPCPPEs.
+
+	
+
+	10)		Moreover, property cards were not updated in Main and Bontoc Campuses so that there is no way of knowing if the year-end balances of the PPEs were accurately reported.
+
+	
+
+c)	Unreconciled balances between the accounting records of the Main Campus and those of the External Campuses 
+
+
+
+	11)		A comparative analysis of balances between the records of the Main Campus and those of External Campuses has revealed a variance of P37,937,990.13, as shown below:
+
+
+
+Table 16.  Comparative balances between the Main and the External Campuses
+
+
+
+
+
+PPE
+
+
+
+Per Main Campus
+
+(Book Balance)
+
+Per External Campus
+
+(Book Balance)
+
+
+
+
+
+Difference
+
+Tomas Oppus Campus
+
+Land 
+
+P     746,168.00
+
+P   1,292,418.00
+
+P      546,250.00
+
+Land Improvements
+
+1,310,969.76
+
+1,015,260.03
+
+295,709.73
+
+Buildings and Other Structures
+
+46,946,934.41
+
+50,996,555.69
+
+4,049,621.28
+
+Machinery and Equipment
+
+15,244,843.30
+
+11,051,888.50
+
+4,192,954.80
+
+Transportation Equipment
+
+192,427.32
+
+102,500.00
+
+89,927.32
+
+Furniture, Fixtures and Books
+
+2,545,873.17
+
+803,605.09
+
+1,742,268.08
+
+Construction in Progress
+
+18,521,874.18
+
+10,648,315.29
+
+7,873,558.89
+
+Sub-total
+
+P85,509,090.14
+
+P75,910,542.60
+
+P18,790,290.10
+
+San Juan Campus
+
+Land 
+
+ P      779,795.31
+
+P       779,795.31
+
+P                0.00
+
+Land Improvements
+
+622,447.23
+
+622,447.23
+
+0.00
+
+Buildings and Other Structures
+
+24,499,206.90
+
+24,499,206.89
+
+0.01
+
+Machinery and Equipment
+
+15,659,608.47
+
+15,638,369.38
+
+21,239.09
+
+Transportation Equipment
+
+799,379.04
+
+799,379.34
+
+0.30
+
+Furniture, Fixtures and Books
+
+1,245,339.06
+
+1,155,180.21
+
+90,158.85
+
+Other PPE
+
+(8,040.00)
+
+0.00
+
+8,040.00
+
+Sub-total
+
+P  43,597,736.01
+
+P  43,494,378.36
+
+P     119,438.25
+
+Hinunangan Campus
+
+Land 
+
+P    3,189,271.63
+
+P    3,189,271.63
+
+P                0.00
+
+Land Improvements
+
+4,578,433.21
+
+4,578,433.11
+
+0.10
+
+Buildings and Other Structures
+
+21,370,906.58
+
+21,337,983.42
+
+32,923.16
+
+Machinery and Equipment
+
+11,724,168.33
+
+11,914,476.77
+
+190,308.44
+
+Transportation Equipment
+
+1,126,617.80
+
+1,128,653.52
+
+          2,035.72
+
+Furniture, Fixtures and Books
+
+1,040,838.81
+
+1,070,869.72
+
+30,030.91
+
+Other PPE
+
+1,000.00
+
+1,000.00
+
+0.00
+
+Construction in Progress
+
+308,697.84
+
+74,227.84
+
+234,470.00
+
+Sub-total
+
+P  43,339,934.20
+
+P  43,294,916.01
+
+P      489,768.33
+
+Bontoc Campus
+
+Land 
+
+P       109,386.95
+
+P       109,386.95
+
+0.00
+
+Land Improvements
+
+203,420.40
+
+48,803.95
+
+154,616.45
+
+Buildings and Other Structures
+
+46,175,994.74
+
+29,617,346.82
+
+16,558,647.92
+
+Machinery and Equipment
+
+20,854,569.73
+
+19,834,800.99
+
+1,019,768.74
+
+Transportation Equipment
+
+166,985.44
+
+51,164.19
+
+115,821.25
+
+Furniture, Fixtures and Books
+
+1,475,202.04
+
+785,562.95
+
+689,639.09
+
+Sub-total
+
+P  68,985,559.30
+
+P  50,447,065.85
+
+P 18,538,493.45
+
+Total
+
+P241,432,319.65
+
+P213,146,902.82
+
+P 37,937,990.13
+
+	
+
+	12)		The non-reconciliation of the balances between the accounting records of the Main Campus and the External Campuses resulted in variances between the financial statements of the Main Campus and the records of the External Campuses amounting to P37,937,990.13.  Also noted was the existence of a negative balance for these asset accounts reported by the Main Campus for the Other PPE account of the San Juan Campus. 
+
+
+
+	13)		Some discrepancies are quite substantial which require immediate reconciliation efforts  between records to update these balances so that they are fairly presented in the financial statements.
+
+	
+
+d)	Unserviceable properties totaling P3,928,804.14 are still reported in the books. 
+
+
+
+	14)		Audit during the year also disclosed that several unserviceable items totaling P3,928,804.14 are still carried in the books, detailed as follows:
+
+	
+
+	Table 17.  List of unserviceable items still carried in the books
+
+Quantity
+
+Property No.
+
+Property Description
+
+Amount
+
+Main Campus
+
+1
+
+
+
+Toyota Tamaraw
+
+P    490,000.00
+
+1
+
+
+
+Mitsubishi L300 Versa Van
+
+594,500.00
+
+1
+
+MV-0007
+
+Proton Wira
+
+180,520.00
+
+                                                   Sub-total
+
+P1,265,020.00
+
+Tomas Oppus Campus
+
+1
+
+98-00390
+
+Alternator 25kw
+
+P     30,800.00
+
+1
+
+99-00434
+
+Air conditioner, National brand 1HP
+
+15,970.00
+
+1
+
+03-00823
+
+Water dispenser Iceberg
+
+35,000.00
+
+1
+
+06-01289
+
+CPU
+
+20,201.00
+
+1
+
+06-01300
+
+Laser Printer
+
+30,000.00
+
+1
+
+08-01452
+
+Pressure tank
+
+16,800.00
+
+1
+
+09-01532
+
+Projector
+
+26,949.00
+
+1
+
+12-01773
+
+Projector Acer, XII6IP2700 ANSI 
+
+25,900.00
+
+1
+
+12-01783
+
+Projector Acer, XII40A
+
+29,480.00
+
+1
+
+12-01801
+
+Laptop, Dell, Inspiron  4050
+
+26,585.00
+
+1
+
+13-01852
+
+Projector, ACER LCD
+
+21,500.00
+
+1
+
+14-01985
+
+Projector, Infocus, Multimedia LED
+
+18,375.00
+
+1
+
+14-02013
+
+Projector, Infocus, LCD
+
+22,000.00
+
+1
+
+15-02095
+
+TV, Samsung 50”, Full HD LED
+
+44,910.00
+
+1
+
+15-02096
+
+TV, Samsung 50”, Full HD LED
+
+44,910.00
+
+1
+
+15-02188
+
+Projector, Infocus, LCD
+
+18,000.00
+
+1
+
+15-02189
+
+Projector, Infocus, LCD
+
+18,000.00
+
+1
+
+15-02190
+
+Projector, Infocus, LCD
+
+18,000.00
+
+1
+
+16-02466
+
+TV, Philips 50”, LED
+
+37,100.00
+
+                                                   Sub-total
+
+P  500,480.00
+
+Hinunangan Campus
+
+1
+
+OE-003
+
+Olivette 27” Carriage Typewriter
+
+P    25,000.00
+
+1
+
+OE-004
+
+Olympia 18” Typewriter
+
+19,000.00
+
+1
+
+OE-020
+
+Photocopier DC 2050, Mita Copier
+
+98,000.00
+
+1
+
+OE-024
+
+E-181, Toshiba, Photocopier
+
+85,000.00
+
+2
+
+98-002-003
+
+Computer, Pulsar Intel Pentium
+
+87,120.00
+
+1
+
+01-005
+
+Computer, Pentium III 700
+
+43,750.00
+
+3
+
+01-006-008
+
+Computer, Pentium III 730
+
+131,250.00
+
+1
+
+02-011
+
+Portable Handheld Radio
+
+17,000.00
+
+1
+
+02-012
+
+TV with VHS player, sharp brand
+
+16,913.00
+
+2
+
+05-039-040
+
+AMD Sempron 2600 (CPU)
+
+37,948.00
+
+1
+
+97-381
+
+Radio Communication
+
+25,000.00
+
+1
+
+
+
+Fuso, Canter Jeep
+
+223,010.14
+
+1
+
+
+
+Nissan Sentra Plate # SDA-257
+
+110,213.00
+
+1
+
+ME-91-005
+
+Gestetner brand Duplicating machine
+
+83,600.00
+
+1
+
+ME-91-006
+
+Tractor turtle type
+
+63,500.00
+
+1
+
+ME-91-007
+
+Farm tractor, Iseki brand, Model TL3200F
+
+950,000.00
+
+1
+
+ME-91-009
+
+Ricoh Photocopier Aficio 1113
+
+62,000.00
+
+1
+
+11-018
+
+Photocopier E-181 Toshiba
+
+85,000.00
+
+                                                   Sub-total
+
+P 2,163,304.14
+
+                                                   Total
+
+P 3,928,804.14
+
+
+
+	15)		In the CY 2020 RPCPPE, the Supply Officer of the Tomas Oppus Campus stated that the Inventory Committee already recommended for the disposal of some of their unserviceable items.  Since these properties are no longer capable of providing future economic benefits or service potential to the University, then their immediate disposal should be facilitated so that they can be dropped from the records.
+
+
+
+	16)		These deficiencies rendered the accuracy and reliability of the balance of the PPE accounts and the existence of the PPE items (Table 15) doubtful, thereby affecting the fair presentation of the accounts in the financial statements. 
+
+
+
+	17)		We recommended that the President require:
+
+
+
+a)	the Supply Officers and the Inventory Committees of the various campuses to conduct an inventory of all PPEs and render a report thereon using the correct format and within the prescribed period in conformity with the pertinent provisions in the GAM for NGAs, Volume I;
+
+
+
+b)	the Inventory Committees of the Main and Bontoc Campuses to prepare and to submit the RPCPPEs within the reglementary period pursuant to Section 38, Chapter 10 of the GAM for NGAs, Volume I;
+
+
+
+c)	the Supply Officers and Accountants of the various campuses to update their Property Ledger Cards and records, and to investigate the discrepancies in balances of their PPE items and make the necessary reconciliation of their records to come up with correct and reconciled balances; and
+
+
+
+d)	the Inventory Committees of all the campuses to undertake disposal proceedings and subsequently, to submit duly accomplished Inventory and Inspection Report of Unserviceable Property (IIRUP) to the Accounting Office for the latter to drop the unserviceable items from the SLSU books, in compliance with Section 40, Chapter 10 of the GAM for NGAs, Volume I.  
+
+	
+
+	18)		For the Main Campus, the updating of the Property Ledger Cards of the Accounting Office is on-going for the CY 2020 transactions.  To date, the following accounts are already updated:  School Buildings; Other Land Improvements; and Books for both RAF and IGF.
+
+	
+
+	19)		For the Tomas Oppus Campus, management already conducted an inventory for CY 2020 and submitted the inventory report, however, they  still need to reconcile the records of the Accounting Office and those of the Supply Office.
+
+
+
+	4.21  The variance on the Construction-in-Progress (CIP) amounting to P7,873,558.89. represented unrecorded amounts of the CIP-Human Kinetics Building and Other Structures.  For the other accounts, the Campus Accountant failed to conduct reconciliation of their records with those of the Main Campus due to the current pandemic – COVID-19.
+
+	
+
+	4.22     For the San Juan Campus, reconciliation is on-going.  The Accounting Office is having difficulty in conducting reconciliation on the affected accounts due to insufficient records from the prior years.
+
+
+
+	4.23     For the Hinunangan Campus, they are still in the process of reconciling the balances of the PPE accounts between their records and those of the Main Campus. 
+
+
+
+	1)		For Bontoc Campus, the Inventory Committee already conducted  inventory of all PPE. However, the Supply Officer and the Accountant are currently updating the property cards and ledger cards, respectively, for the preparation of necessary adjustments.  
+
+	
+
+	
+
+Biological Assets account not ascertained
+
+
+
+5)		The valuation and correctness of the Biological Assets account totaling P606,773.50 could not be ascertained due to the following deficiencies: (a) non-recording of any transaction in the account since CY 2014;  (b) failure to update property cards; (c) absence of inventory records at the Bontoc Campus; and (d) the non-submission of Quarterly Report of Biological Assets (QRBA) from all campuses, thereby affecting the fair presentation of the account in the financial statements.
+
+	
+
+	5.1	Section 112 of PD No. 1445 states: 
+
+	
+
+	SECTION 112. Recording of financial transactions. Each government agency shall record its financial transactions and operations conformably with generally accepted accounting principles and in accordance with pertinent laws and regulations.
+
+
+
+5.2	Likewise,  Section 7 of Chapter 19, GAM for NGAS, Volume 1, provides:
+
+
+
+Sec. 7. Fair Presentation and Compliance with PPSAS. Financial statements shall present fairly the financial position, financial performance and cash flows of an entity.  Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue and expenses set out in PPSASs. The application of PPSASs, with additional disclosures when necessary, is presumed to result in financial statements that achieve a fair presentation. (Par. 27, PPSAS 1). 
+
+
+
+X x x
+
+
+
+5.3	Section 58 of PD No. 1445 provides:
+
+		
+
+SECTION 58. Audit of Assets. The examination and audit of assets shall be performed with a view to ascertaining their existence, ownership, valuation and encumbrances as well as the propriety of items composing the respective asset accounts, determining their agreement with records; proving the accuracy of such records; ascertaining if the assets were utilized economically, efficiently and effectively, and evaluating the adequacy of controls over the accounts.
+
+
+
+5.4	Likewise, Sections 5 and 11 of  Chapter 11, GAM for NGAs, Volume 1, state:
+
+
+
+Sec. 5. Biological Transformation.   Biological transformation results in the following types of outcomes:
+
+			
+
+a)		Asset changes through:
+
+				
+
+1)		Growth (an increase in quantity or improvement in quality of an animal or plant),
+
+2)		Degeneration (a decrease in the quantity or deterioration  in quality of an animal or plant), or
+
+3)		Procreation (creation of additional living animals or  plants);
+
+		
+
+b)			Production of agricultural produce such as latex, tea leaf, wool, and milk.
+
+		
+
+Sec. 11. Narrative Procedures.  The procedures of the acquisition and recognition of biological assets are as follows:
+
+		
+
+X x x
+
+		
+
+a)			Recognition of gain or loss due to physical change
+
+		
+
+		Area of
+
+		Responsibility
+
+		Seq.
+
+		No.
+
+		Activity
+
+		   
+
+		                     Biological                     1        Prepare Quarterly Report of Biological Assets
+
+		                                                      Caretaker/Responsible                (QRBA)  (Appendix 79)  containing,     among
+
+		                                Person                                    others,  the  balances  at  the  beginning  of the
+
+		                                                                             quarter  and  the  changes  in  fair  value of the 
+
+		                                                                             biological  assets due to physical changes such
+
+		                                                                             as:  a) growth, b) degeneration,  c)  production,
+
+		                                                                             and d) procreation.
+
+		
+
+		                                                                   2        Submit    the    QRBA    to     the    Accounting
+
+		                                                                             Division/Unit
+
+		
+
+		                                Accounting Division/       3        Prepare JEV to recognize the gain or loss on fair
+
+		                                Unit/Accountant/                      value  of  the  biological  asset  due  to  physical
+
+		                                Bookkeeper                             Changes.
+
+		
+
+			                                                        4        Post  appropriate  accounts  in  the  GJ,  GL and 
+
+		                                                                            SL for biological assets.
+
+		
+
+X x x 
+
+			
+
+5.5	Audit of the Biological Assets accounts of SLSU showed a balance of P606,773.50 as of December 31, 2020, broken down as follows:
+
+
+
+Table 18. Composition of the Biological Assets accounts of the SLSU Campuses
+
+		Biological Assets
+
+		Campus
+
+		Total
+
+		
+
+		Hinunangan
+
+		Bontoc
+
+		
+
+		Breeding Stocks
+
+P569,000.00
+
+P13,875.00
+
+P582,875.00
+
+		Livestock Held for Consumption/Sale Distribution
+
+		0.00
+
+23,898.50
+
+23,898.50
+
+		Total
+
+P569,000.00
+
+P37,773.50
+
+P606,773.50
+
+		
+
+5.6	Examination of the Statement of Financial Position showed that for the seven-year period, from CY 2014 to CY 2020, the reported balance for the Biological Assets of P606,773.50 has remained the same.  This situation is unusual because the asset account is made up of living animals or plants and biological transformation (paragraph 9, PPSAS 27) is inevitable.  This simply means that these assets undergo the processes of growth, degeneration, production and procreation that cause qualitative or quantitative changes during the year.  These changes are not only reported on, but shall be fully disclosed in the financial statements in accordance with Section 10, GAM for NGAs, Volume 1.
+
+		
+
+5.7	The Accounting Unit did not maintain subsidiary ledgers for Biological Assets of the Hinunangan Campus.  The Supply Officer maintained property cards for Breeding Stocks for the same campus but they were not updated as shown in the table below: 
+
+		 
+
+Table 20.  Property Cards maintained at the Supply Office of the Hinunangan Campus
+
+		Biological Assets  (Breeding Stocks)
+
+		Description
+
+		Quantity
+
+		Date Acquired
+
+		Amount
+
+		American Murrah Buffalo
+
+		Bull
+
+		2
+
+		3/8/1999
+
+		P0.00
+
+		American Murrah Buffalo
+
+		Female
+
+		8
+
+		3/8/1999
+
+		0.00
+
+		Goat 
+
+		Buck (Breeder)
+
+		5
+
+		6/30/2012
+
+		0.00
+
+		Sheep
+
+		Buck
+
+		2
+
+		7/25/2017
+
+		0.00
+
+		Chick
+
+		Broiler
+
+		150
+
+		2/13/2019
+
+		6,900.00
+
+		
+
+		
+
+		200
+
+		4/25/2019
+
+		8,000.00
+
+		Duck
+
+		Ready to lay
+
+		250
+
+		4/29/2019
+
+		44,625.00
+
+		Pig
+
+		Native
+
+		15
+
+		6/3/2019
+
+		30,900.00
+
+		Total
+
+		P90,425.00
+
+		
+
+5.8	Based on Table 18, the records for these biological assets (breeding stocks) have not been updated since CY 1999 to CY 2019.  A comparison of the subsidiary ledgers maintained by Main Campus and the property cards maintained by Hinunangan Campus revealed that the subsidiary ledgers reported the assets at P569,000.00 and the property cards, at P90,425.00, thereby leaving a balance of P478,575.00.
+
+
+
+5.9	Both the Hinunangan and Bontoc Campuses failed to conduct a regular physical count of their inventory, and the caretakers did not prepare and submit the QRBA thus, an updated valuation of these assets could not be undertaken. 
+
+		
+
+5.10	These deficiencies combined, contributed to the non-reliability of the accuracy, existence and valuation of the Biological Assets account presented in the financial statements.
+
+		
+
+5.11	We recommended that the President require:
+
+
+
+a)	the respective caretakers of the campuses to prepare and submit the QRBA to the Accounting Unit;
+
+
+
+b)	the Supply Officers of the Hinunangan and Bontoc Campuses to conduct a physical inventory of the biological assets, and to maintain updated property cards for each of the assets; and
+
+
+
+c)	the Accounting Unit to prepare journal entry vouchers to recognize the gain or loss of the biological assets due to physical changes.
+
+
+
+	1)		The Hinunangan Campus admitted to the difficulty in the accounting of the biological assets since it involves fair valuation.  However, management promised that it will make the necessary adjustments to institutionalize the valuation and the inventory of the assets through submission of the QRBA.  Moreover, they will update the property cards and will record any adjustments thereof. 
+
+
+
+	2)		For the Bontoc Campus, management noted the observation.  In compliance thereof, the project managers and caretakers of the biological assets are working on the preparation and submission of the QRBA.  Physical inventory of biological assets was already conducted and necessary journal entries will be prepared by the Accounitng Office to recognize gain or loss.
+
+	 
+
+
+
+Unreconciled year-end balances of the reciprocal accounts, Due from Other Funds and Due to Other Funds.
+
+
+
+6)	The reported year-end balances of the reciprocal accounts, Due from Other Funds and Due to Other Funds amounting to P25,081,708.17 and P4,170488.38, respectively, have remained unreconciled.
+
+
+
+6.1	Section 112 of PD No. 1445 states that: 
+
+
+
+	SECTION 112. Recording of financial transactions. Each government agency shall record its financial transactions and operations conformably with generally accepted accounting principles and in accordance with pertinent laws and regulations.
+
+
+
+6.2	Likewise, Section 7 of Chapter 19, GAM for NGAS, Volume 1, provides:
+
+
+
+Sec. 7. Fair Presentation and Compliance with PPSAS. Financial statements shall present fairly the financial position, financial performance and cash flows of the entity.  Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in PPSASs. The application of PPSASs, with additional disclosures when necessary, is presumed to result in financial statements that achieve a fair presentation. (Par. 27, PPSAS 1) X x x
+
+
+
+6.3	Furthermore, COA Circular No. 2020-001 dated January 08, 2020 prescribing Volume III- Revised Chart of Accounts (RCA) (Updated 2019) of the GAM for NGAs defines the following accounts:
+
+
+
+Account Title 		Due from Other Funds
+
+Account Number	10304050
+
+Normal Balance	Debit
+
+Description	This account is debited to recognize transfers to other funds and/or receivables from other funds of the agency. This account is credited for receipt of payment, liquidation, write-off, and/or adjustments.
+
+
+
+Account Title 		Due to Other Funds 
+
+Account Number	20301050
+
+Normal Balance	Credit
+
+Description	This account is credited to recognize transfers from other funds and/or payables to other funds. This account is debited for the return of the fund to the source fund, and/or adjustments.
+
+
+
+Account Title 		Due from Operating/Field Units
+
+Account Number	10304040
+
+Normal Balance	Credit
+
+Description	This account is debited to recognize transfer of non-budgetary funds to the Operating/Field Units with complete set of books from the Central/Regional Office/Bureaus of NGAs or other Operating/Field Units. It also includes fund transfers to an Operating/Field Unit from another Operating/Field Unit of the same agency. This account is credited for receipt of payment, liquidation, write-off, and/or adjustments.
+
+
+
+Account Title 		Due to Operating Units 
+
+Account Number	20301040
+
+Normal Balance	Credit
+
+Description	This account is credited to recognize the receipt of funds not covered by allotment from an Operating Unit by the Central/Regional Offices/Bureaus or another Operating Unit of the same agency for the implementation of specific program or project subject to liquidation and other intra-agency transactions. This account is debited for liquidation of funds received, settlement of liabilities, and/or adjustments.
+
+	
+
+	6.4	Reciprocal accounts are maintained to monitor the recording of inter- and intra-fund transactions for convenience in setting up and offsetting internal transactions.  As such,  these accounts should always have equal balances. 
+
+	
+
+6.5	The University maintains four funds, namely: Regular Agency Fund (RAF), Internally Generated Fund (IGF), Business Related Fund (BRF) and Trust Receipts/Inter-Agency Trust Fund (TR/IATF).
+
+
+
+6.6	Review of the financial statements and the schedules of the intra-agency accounts, Due from Other Funds and Due to Other Funds, showed unreconciled balances with a total variance of P 20,911,219.79, as summarized in Table 21:
+
+
+
+              Table 21.  Breakdown of year-end balances of Intra-Agency accounts
+
+Accounts
+
+Fund
+
+Total
+
+
+
+RAF
+
+IGF
+
+BRF
+
+IATF
+
+
+
+Due from Other Funds
+
+P           0.00
+
+P23,006,898.11
+
+P195,182.51
+
+P1,879,627.55
+
+P 25,081,708.17
+
+Due to Other Funds
+
+467,889.44
+
+3,006,663.06
+
+0.00
+
+695,935.88
+
+4,170,488.38
+
+Difference
+
+P467,889.44 
+
+ P20,000,235.05 
+
+ P195,182.51
+
+P1,183,691.67
+
+P20,911,219.79
+
+
+
+              Table 22.  Per Campus Year-end Balances of Due from Other Funds
+
+Fund
+
+Campus
+
+
+
+
+
+Main
+
+San Juan
+
+Bontoc
+
+Total
+
+IGF
+
+P23,099,403.59          
+
+P     89,256.78
+
+P(181,762.26)
+
+P23,006,898.11 
+
+BRF
+
+195,182.51
+
+0.00
+
+0.00
+
+195,182.51
+
+Trust
+
+0.00
+
+1,769,085.55
+
+110,542.00
+
+1,879,627.55
+
+Total
+
+P23,294,586.10 
+
+ P1,858,342.33
+
+P(71,220.26)
+
+P25,081,708.17
+
+
+
+              Table 23.  Per Campus Year-end Balances of Due to Other Funds
+
+Fund
+
+Campus
+
+
+
+
+
+Main
+
+San Juan
+
+Bontoc
+
+Total
+
+RAF
+
+P           0.00          
+
+P              0.00
+
+P467,889.44
+
+P   467,889.44 
+
+IGF
+
+195,182.51
+
+2,700,938.55
+
+110,542.00
+
+3,006,663.06
+
+Trust
+
+20,000.00
+
+681,301.05
+
+(5,365.17)
+
+695,935.88
+
+Total
+
+P215,182.51 
+
+ P3,382,239.60
+
+P573,066.27
+
+P4,170,488.38
+
+
+
+	6.7	Verification of these discrepancies revealed the following circumstances:
+
+
+
+Table 24. Details of transactions recorded as Due From/To Other Funds
+
+Fund
+
+Date
+
+Particulars
+
+Amount
+
+Remarks
+
+
+
+
+
+
+
+Due From Other Funds
+
+Due to Other Funds
+
+
+
+Main Campus
+
+IGF
+
+October 2020
+
+Receivable from Trust Receipts for CHED subsidy on the registration fee of Pres. Yepes for the 2020 ASEAN Leaders Programme
+
+P132,592.59
+
+
+
+Account closed due to receipt of funds from Trust Receipts in January 2021
+
+
+
+December 2020
+
+Receivable from Trust Receipts for CHED Free Higher Education Subsidy for Semester 1, Academic Year 2021-2022
+
+22,966,811.00
+
+
+
+Account closed due to receipt of funds from Trust Receipts in January 2021
+
+BRF
+
+December 2020
+
+Receivable from IGF for error in the check issuance of transactions that were to be charged against IGF but were issued with BRF checks
+
+195,182.51
+
+
+
+Account closed due to receipt of funds from IGF in January 2021
+
+IGF
+
+December 2020
+
+Payable to BRF for error in the check issuance of transactions that were to be charged against IGF but were issued with BRF checks
+
+
+
+P195,182.51
+
+Account closed due to receipt of funds from IGF in January 2021
+
+Trust
+
+December 2020
+
+Online collections for IGF that were deposited to Trust Receipts
+
+
+
+20,000.00
+
+Account closed due to transfer of funds to IGF in February 2021
+
+Ending balance
+
+P23,294,586.10
+
+P215,182.51
+
+
+
+San Juan Campus
+
+IGF
+
+February 2020
+
+Travelling Expenses
+
+P1,060.00
+
+
+
+Error in posting (Already adjusted in Sept. 2020)
+
+
+
+May 2020
+
+Tax payments for December 2019, January and February 2020
+
+6,879.82
+
+
+
+Due from BRF for tax payments made by IGF
+
+
+
+June 2020
+
+Wages for Job Order Workers
+
+(175,555.93)
+
+
+
+Due from IATF
+
+
+
+
+
+Tax payments for January and October 2019
+
+21,207.73
+
+
+
+Due from BRF for tax payments made by IGF
+
+
+
+
+
+TES administrative costs
+
+175,555.93
+
+
+
+Replenishment from IATF for administrative costs shouldered by IGF
+
+
+
+July 2020
+
+Administrative costs
+
+(2,357.00)
+
+
+
+Payment for IATF shouldered by IGF
+
+
+
+
+
+Tax payments
+
+(28,087.55)
+
+
+
+Tax payments for BRF shouldered by IGF
+
+
+
+December 2020
+
+TES administrative costs
+
+(7,890.99)
+
+
+
+Due from IATF payment shouldered by IGF
+
+
+
+
+
+TES administrative costs
+
+7,890.99
+
+
+
+Replenishment from IATF
+
+
+
+
+
+Correcting entry to reconcile Due to NGAs-DOST account
+
+24,835.00
+
+
+
+Receipt of funds was recorded in the Trust account, while encashment was made through IGF account 
+
+
+
+
+
+Correcting entry to reconcile Due to NGAs-DOLE account
+
+84,968.00
+
+
+
+Receipt of funds was recorded in the Trust account, while encashment was made through IGF account
+
+
+
+
+
+Stale checks
+
+(19,249.22)
+
+
+
+Cancelled checks
+
+Trust
+
+November 2020
+
+Receipt of funds
+
+1,769,085.55
+
+
+
+Trust liabilities received by IGF
+
+Ending balance
+
+P1,858,342.33
+
+
+
+
+
+IGF
+
+January 2020
+
+Beginning balance
+
+
+
+P(346,500.00)
+
+
+
+
+
+September 2020
+
+Correcting entry
+
+
+
+(2,357.00)
+
+Error in posting
+
+
+
+
+
+Correcting entry
+
+
+
+1,060.00
+
+Error in posting (Already adjusted in Sept. 2020)
+
+
+
+November 2020
+
+Trust liabilities
+
+
+
+572,225.00
+
+SY 2019-2020 2nd sem. funds held in trust, collected from CHED
+
+
+
+
+
+Receipt of funds
+
+
+
+1,769,085.55
+
+Trust liabilities received by IGF
+
+
+
+
+
+Trust liabilities
+
+
+
+706,895.00
+
+To set up accounts receivable for SY 2020-2021- 1st semester
+
+
+
+December 2020
+
+Trust liabilities
+
+
+
+530.00
+
+Funds held in trust, collected from students
+
+Ending balance
+
+
+
+P2,700,938.55
+
+
+
+Trust
+
+January 2020
+
+Beginning balance
+
+
+
+P571,498.05
+
+
+
+
+
+December 2020
+
+Correcting entry to reconcile Due to NGAs-DOST account
+
+
+
+24,835.00
+
+Receipt of funds was recorded in the Trust account, while encashment was made through IGF account
+
+
+
+
+
+Correcting entry to reconcile Due to NGAs-DOLE account
+
+
+
+84,968.00
+
+Receipt of funds was recorded in the Trust account, while encashment was made through IGF account
+
+Ending balance
+
+
+
+P681,301.05
+
+
+
+Bontoc Campus
+
+IGF
+
+January 2020
+
+Beginning balance
+
+P2,732,170.00
+
+
+
+
+
+
+
+September 2020
+
+Collection of AR for FHE
+
+(2,732,170.00)
+
+
+
+Fund transfer of collection
+
+
+
+
+
+Tax remittance
+
+(174,719.00)
+
+
+
+Trust account paid thru IGF account
+
+
+
+December 2020
+
+Not found in record
+
+(7,043.26)
+
+
+
+For verification
+
+Ending balance
+
+P(181,762.26)
+
+
+
+
+
+Trust
+
+September 2020
+
+AR collection for FHE
+
+P950,000.00
+
+
+
+Fund transfer to IGF account
+
+
+
+
+
+AR collection for FHE
+
+(950,000.00)
+
+
+
+Fund transfer to Trust account
+
+
+
+November 2020
+
+CHED release
+
+110,542.00
+
+
+
+Trust account deposited in IGF 
+
+Ending balance
+
+P110,542.00
+
+
+
+
+
+IGF
+
+January 2020
+
+Beginning balance
+
+
+
+P165,904.00
+
+
+
+
+
+
+
+Fund from DA-ACEF
+
+
+
+(165,904.00)
+
+Collection of fund received from DA
+
+
+
+July 2020
+
+TES subsidy
+
+
+
+2,987,000.00
+
+For fund transfer to Trust account
+
+
+
+September 2020
+
+TES subsidy
+
+
+
+(2,987,000.00)
+
+Fund transfer to Trust account
+
+
+
+
+
+FHE billing
+
+
+
+950,000.00
+
+Fund transfer to IGF account
+
+
+
+
+
+FHE billing
+
+
+
+(950,000.00)
+
+Return of fund to Trust account
+
+
+
+November 2020
+
+CHED release
+
+
+
+110,542.00
+
+For fund transfer to Trust account
+
+Ending balance
+
+
+
+P110,542.00
+
+
+
+Trust
+
+January 2020
+
+Beginning balance
+
+
+
+P(96,737.60)
+
+
+
+
+
+September 2020
+
+Tax remittance
+
+
+
+(174,719.00)
+
+Online tax payments for CY 2019 paid through IGF account
+
+
+
+November 2020
+
+Due to IGF account
+
+
+
+266,091.43
+
+To set up amount due to IGF account for January 2019 to November 2020
+
+Ending balance
+
+
+
+P(5,365.17)
+
+
+
+
+
+6.8	Analysis of the deficiencies noted in Table 24 revealed some adjusting entries as suggested in the table below: 
+
+
+
+Table 25.  Suggested adjusting entries
+
+Fund
+
+Particulars
+
+Amount
+
+Audit Notes
+
+
+
+
+
+Due From Other Funds
+
+Due to Other Funds
+
+
+
+Main Campus
+
+IGF
+
+Receivable from Trust Receipts for CHED 
+
+P132,592.59
+
+
+
+Ideally, the Due to Other Funds should be booked up in the Trust Receipts Fund as a counterpart for the Due from Other Funds recorded in the IGF.  However, in this case, the amount of P23,099,403.59 was recorded as a credit to Due to NGAs in the Trust Receipts Fund instead of Due to Other Funds because the fund was received from CHED.
+
+
+
+Receivable from Trust Receipts for CHED 
+
+22,966,811.00
+
+
+
+
+
+Trust
+
+Online collections for IGF that were deposited to Trust Receipts
+
+
+
+P20,000.00
+
+An entry in the IGF should have been recorded to recognize the receipt of income, notwithstanding the fact that it was deposited in the Trust Receipts.
+
+
+
+The correct entry in IGF should have been:
+
+
+
+Due from Other Funds   20,000.00
+
+      Other Service Income                 20,000.00
+
+                             
+
+       However, since the transfer of funds was already done in February 2021 from Trust Receipts to IGF, it is no longer necessary to record the correct entry because the transfer rendered the account as closed.  Nevertheless, for future transactions, the Accountant is reminded to prepare a corresponding entry in the books of account whenever a Due to/from Other Funds is recorded to properly recognize the transactions
+
+San Juan Campus
+
+IGF
+
+
+
+Stale checks
+
+P(19,249.22)
+
+
+
+Unrecorded in the Trust Receipts account -
+
+
+
+Should be recorded as:
+
+Due to Other Funds    19,249.22
+
+       Trust Liabilities                      19,249.22
+
+
+
+Beginning balance
+
+
+
+P(346,500.00)
+
+For further verification as these consist of CY 2017 & prior year transactions
+
+
+
+SY 2019-2020 2nd sem. funds held in trust, collected from CHED
+
+
+
+572,225.00
+
+Unrecorded in the Trust Receipts account -
+
+
+
+Should be recorded as:
+
+Due from Other Funds    572,225.00
+
+       Trust Liabilities                          572,225.00
+
+
+
+To set up accounts receivable for SY 2020-2021- 1st semester
+
+
+
+706,895.00
+
+Unrecorded in the Trust Receipts account -
+
+
+
+Should be recorded as:
+
+Due from Other Funds    706,895.00
+
+       Trust Liabilities                          706,895.00
+
+
+
+Funds held in trust, collected from students
+
+
+
+530.00
+
+Unrecorded in the Trust Receipts account -
+
+
+
+Should be recorded as:
+
+Due from Other Funds    530.00
+
+       Trust Liabilities                        530.00
+
+Trust
+
+Beginning balance
+
+
+
+571,498.05
+
+For further verification as this includes CY 2017 and/or prior year transactions
+
+Bontoc Campus
+
+IGF
+
+Record not found
+
+P(7,043.26)
+
+
+
+For further verification as there are no records available
+
+Trust
+
+Beginning balance
+
+
+
+P(96,737.60)
+
+For further verification  because this balance includes CY 2018 and/or prior year transactions
+
+
+
+Online tax remittance paid through IGF
+
+
+
+266,091.43
+
+Unrecorded in the IGF account –
+
+
+
+Should be recorded as:
+
+Due from Other Funds  266,091.43
+
+       Due to BIR (Compensation)       44,329.57
+
+       Due to BIR (VAT)                     151,958.25
+
+       Due to BIR (IT)                           69,803.61
+
+
+
+6.9	Under the GAM for NGAs, Volume III, the Due from Other Funds and Due to Other Funds accounts are used to recognize transfers to and from other funds of the agency while the Due from Operating/Field Units and Due to Operating Units accounts are used to recognize fund transfers to an Operating/Field Unit from another Operating/Field Unit of the same agency for the implementation of specific program or project subject to liquidation and other intra-agency transactions.  
+
+
+
+6.10	The SLSU External Campuses are not required to maintain a complete set of books.  They only prepare monthly financial reports including trial balances  which they submit to the Main Campus for consolidation. 
+
+
+
+6.11	An effective internal control involves the presence of appraisal or review of the transactions to ensure adherence to prescribed policies and procedures.  The recording of transactions should then be subject to review and cross-checking so that errors are immediately corrected as soon as they are discovered. 
+
+
+
+6.12	The existence of such variances only shows that transactions are not properly reviewed and reconciled.  As such, these misstatements affect the fair presentation of the accounts in the financial statements. 
+
+
+
+6.13	We recommended that the President require the Accountants concerned to reconcile the reciprocal accounts of Due from Other Funds and Due to Other Funds by tracing the discrepancies and effecting their immediate adjustments in the books.  Thereafter, the Accountants should closely monitor the recording of all transactions, and effect the periodic reconciliation of the accounts to ensure the accuracy of the account balances in the financial statements.
+
+
+
+6.14   The Main Campus noted the observation.  The five transactions of the Main Campus involving the reciprocal accounts, Due from Other Funds and Due to Other Funds, were already reconciled in January and February 2021.  The balances were already closed as the transfer of funds were made to correct the errors detected.  Moreover, the recommendations were duly noted with the objective that all of these discrepancies will be reconciled in order to come up with a fair presentation of the  financial statements.  
+
+
+
+6.15    For the San Juan Campus, the necessary adjusting entries were noted and were already included in the General Journal for April 2021.  Further,  the Campus has committed to continually conduct a periodic reconciliation of the records to ensure reliability of the account balances.
+
+
+
+6.16   The Bontoc Campus noted the observation,  and the  Campus Accountant already recorded the suggested adjusting entry in April 2021.  For the two items, the Campus Accountant committed to verify the previous years’ transactions and records to reconcile the reciprocal accounts and to trace the discrepancies to effect the adjustments in the books.
+
+
+
+
+
+
+
+
+
+
+
+Abnormal GL and SL balances, P17,403,176.87
+
+
+
+7)	Several GL and SL balances, totaling P17,403,176.87, reported abnormal negative balances as of year end.
+
+
+
+		7.1	Sections 111 and 112 of PD No. 1445 state:
+
+
+
+	SECTION 111. Keeping of accounts. – (1) The accounts of the agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+			
+
+		(2) The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+		
+
+			SECTION 112.  Recording of financial transactions. - Each government agency shall record its financial transactions and operations conformably with generally accepted accounting principles and in accordance with pertinent laws and regulations. 
+
+
+
+		7.2	Likewise, Sections 15 and 16 of Chapter 2, GAM for NGAs, Volume 1, state:
+
+
+
+		Sec. 15. Fair Presentation. The FSs shall present fairly the financial position, financial performance and cash flows of an entity.  Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in PPSAS.  The application of PPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS. 
+
+		
+
+		Sec. 16. Compliance with PPSASs.  An entity whose financial statements comply with PPSASs shall make an explicit and  unreserved statement of such compliance in the notes. Financial statements shall not be described as complying with PPSASs unless they comply with all the requirements of PPSASs. Inappropriate accounting policies that do not comply with PPSAS are not rectified either by disclosure of the accounting policies used, or by notes or explanatory material. 
+
+
+
+		7.3	Audit of the financial reports and accounting records maintained in the Main Campus for the various external campuses revealed that there were various accounts in the GL and in the SLs that reported abnormal/negative balances totaling P17,403,176.87, itemized in Table 26:
+
+
+
+
+
+Table 26.  General and Subsidiary Ledger accounts with abnormal/negative Balances
+
+Campus
+
+Fund
+
+Account
+
+Amount
+
+Sogod
+
+
+
+RAF
+
+ 
+
+
+
+Due to GSIS – EL, Educational Loan & HELP
+
+P(216.67)
+
+
+
+
+
+Due to Pag-IBIG – EE & ER
+
+(2,152.00)
+
+
+
+
+
+Due to PhilHealth – EE & ER
+
+(31,031.68)
+
+
+
+
+
+Due to Officers & Employees
+
+(7,512.27)
+
+
+
+
+
+Sub-total
+
+P(40,912.62)
+
+Tomas Oppus
+
+IGF
+
+Cash-Collecting Officer
+
+P(1.00)
+
+
+
+
+
+Cash in Bank – Foreign Currency, Current Account
+
+(175,879.00)
+
+
+
+
+
+Accounts Receivable
+
+(6,308,848.24)
+
+
+
+
+
+Advances to Contractors
+
+(658,466.28)
+
+
+
+
+
+Due to BIR-PS
+
+(39,804.15)
+
+
+
+RAF
+
+CIP-Building & Other Structures (GS Building)
+
+(4,139,785.10)
+
+
+
+
+
+Due to GSIS-ECC
+
+(9,434.56)
+
+
+
+
+
+Due to GSIS- Consolidated Loan & Eplus
+
+(16,947.41)
+
+
+
+
+
+Due to GSIS-EL, Educational Loan & HELP
+
+(635.56)
+
+
+
+
+
+Due to GSIS – Policy Loan
+
+(4,050.50)
+
+
+
+
+
+Due to Philhealth-EE and ER
+
+(1,947.24)
+
+
+
+
+
+Accountable Forms, Plates and Stickers Inventory
+
+(50,000.00)
+
+
+
+
+
+Semi-Expendable Communication Equipment
+
+(4,240.00)
+
+
+
+Trust
+
+Accounts Receivable
+
+(200.00)
+
+
+
+
+
+Due to NGAs-CHED (Research Fund)
+
+(8,780.00)
+
+
+
+
+
+Due to NGAs-CHED (TES)
+
+(2,680.00)
+
+
+
+
+
+Due to NGAs-CHED (FA for Graduation)
+
+(5,000.00)
+
+
+
+
+
+Due to NGAs-LGU Scholars
+
+(4,500.00)
+
+
+
+
+
+Trust Liabilities-CWTS
+
+(311,676.73)
+
+
+
+
+
+Trust Liabilities-Student Insurance
+
+(25,655.00)
+
+
+
+
+
+Trust Liabilities-SSC
+
+(262,009.79)
+
+
+
+
+
+Other Supplies and Materials Inventory
+
+(459.00)
+
+
+
+
+
+Sub-total
+
+P(12,030,999.56)
+
+San Juan
+
+IGF
+
+Other Supplies and Materials Inventory
+
+P(17,686.28)
+
+
+
+
+
+Semi-Expendable Furniture and Fixtures
+
+(149,125.00)
+
+
+
+
+
+Advances to Contractors
+
+(15,135.30)
+
+
+
+
+
+Due to BIR-PS
+
+(23,857.36)
+
+
+
+
+
+Due to BIR-EWT
+
+(57,457.47)
+
+
+
+
+
+Due to GSIS
+
+(3,446.25)
+
+
+
+
+
+Due to Philhealth
+
+(187.50)
+
+
+
+
+
+Due to NGAs – CHED Tulong Dunong
+
+(14,500.00)
+
+
+
+
+
+Due to NGAs-Buling Scholars
+
+(81,370.00)
+
+
+
+
+
+Trust Liabilities-SSC
+
+(8,593.60)
+
+
+
+
+
+Trust Liabilities-Buling Scholars
+
+(104,375.00)
+
+
+
+RAF
+
+
+
+CIP-Building & Other Structures
+
+(1,000.00)
+
+
+
+
+
+Due to GSIS-OLI and UOLI
+
+(393.54)
+
+
+
+
+
+Due to GSIS-UOLI Loan
+
+(300.00)
+
+
+
+
+
+Due to PAG-IBIG-EE and ER
+
+(23,721.33)
+
+
+
+
+
+Due from Officers and Employees
+
+(14,149.35)
+
+
+
+
+
+Other Supplies and Materials Inventory
+
+(64,136.69)
+
+
+
+
+
+Due to Officers and Employees
+
+(27,565.00)
+
+
+
+
+
+Due to GOCCs
+
+(1,563.71)
+
+
+
+
+
+Trust Liabilities
+
+(115,810.00)
+
+
+
+
+
+Guaranty/Security Deposits Payable
+
+(788,401.71)
+
+
+
+
+
+Other Payables
+
+(3,690.59)
+
+
+
+Trust
+
+
+
+Due to NGAs-CHED ESGP-PA (Old)
+
+(41,200.00)
+
+
+
+
+
+Due to NGAs-CHED ESGP-PA (New)
+
+(21,475.00)
+
+
+
+
+
+Trust Liabilities-Others
+
+(1,727,867.34)
+
+
+
+
+
+Sub-total
+
+P(3,307,008.02)
+
+Hinunangan
+
+RAF
+
+Due to GSIS-EE and ER
+
+P(18,805.49)
+
+
+
+
+
+Due to GSIS-OLI and UOLI
+
+(1,338.16)
+
+
+
+
+
+Due to GSIS-ECC
+
+(389.41)
+
+
+
+
+
+Due to GSIS-Consolidated Loans and Eplus
+
+(7,733.52)
+
+
+
+
+
+Due to GSIS-EL, Educational Loans and HELP
+
+(29,223.22)
+
+
+
+
+
+Due to GSIS-Policy Loan
+
+(0.10)
+
+
+
+
+
+Due to PAG-IBIG-MPL
+
+(4,412.19)
+
+
+
+Trust
+
+Accounts Receivable
+
+(233,114.50)
+
+
+
+
+
+Trust Liabilities-Students” ID
+
+(31,483.46)
+
+
+
+
+
+Sub-total
+
+P(326,500.05)
+
+Bontoc
+
+IGF
+
+Due from Other Funds
+
+P(180,702.26)
+
+
+
+
+
+Receivable-Disallowances/Charges
+
+(2,000.00)
+
+
+
+
+
+Accounts Payable
+
+(356,788.99)
+
+
+
+
+
+Due to BIR-PS
+
+(28,492.54)
+
+
+
+
+
+Due to BIR-VAT
+
+(46,662.13)
+
+
+
+
+
+Due to BIR-EWT
+
+(44,643.12)
+
+
+
+
+
+Due to GSIS
+
+(0.90)
+
+
+
+
+
+Due to NGAs-Techno Gabay
+
+(312.00) 
+
+
+
+
+
+Trust Liabilities-SSC 
+
+(41,728.00)
+
+
+
+
+
+Trust Liabilities-Others
+
+(10,520.99)
+
+
+
+RAF
+
+Advances to Contractors
+
+(138,000.00)
+
+
+
+
+
+Due to Officers and Employees
+
+(10,277.12)
+
+
+
+
+
+Other Payables
+
+(34,219.91)
+
+
+
+Trust
+
+Accounts Receivable
+
+(109,522.00)
+
+
+
+
+
+Due to BIR-PS
+
+(17,593.02)
+
+
+
+
+
+Due to NGAs-DA ATI (Organic Agriculture)
+
+(907.00)
+
+
+
+
+
+Trust Liabilities-CWTS
+
+(162,193.87)
+
+
+
+
+
+Trust Liabilities-Students’ Insurance
+
+(5,410.00)
+
+
+
+
+
+Trust Liabilities-Others
+
+(309,191.65)
+
+
+
+
+
+Trust Liabilities-Sale of Bid Forms
+
+(6,479.00)
+
+
+
+
+
+Advances to Contractors
+
+(186,746.95)
+
+
+
+
+
+Due to Other Funds
+
+(5,365.17)
+
+
+
+
+
+Sub-total
+
+P(1,697,756.62)
+
+
+
+
+
+TOTAL
+
+P(17,403,176.87)
+
+
+
+7.4	Such negative balances are abnormal.  For example for the Main Campus, the Due To accounts’ negative balances mean that there have been overpayments or overremittances to these agencies, or accountable officers.  For the Tomas Oppus Campus, the reporting of a negative Accounts Receivable at  P6,308,848.24 is alarming because the account is an asset account and should be reported at a positive balance.
+
+
+
+7.5	Analysis also disclosed that of these abnormal balances totaling P17,403,176.87, the amount of P17,362,264.25, or 99.76%, pertained to the accounts of the external campuses. 
+
+
+
+7.6	The lack of periodic reconciliation of the records of the external campuses with those of the main campus has caused the accumulation of negative balances, thereby substantially misstating these accounts in the financial statements.
+
+
+
+		7.7	We recommended that the President require the Accountants of all campuses to:
+
+
+
+1)	review the recording of transactions in their individual records with reference to the pertinent source documents and trace the cause of the errors and record the corrections immediately so that these accounts are accurately presented; and
+
+
+
+2)	conduct periodic reconciliations of their records so that errors are immediately corrected and accounts are fairly presented in the financial statements in accordance with Sections 111 and 112 of PD No. 1445 and pertinent provisions of the GAM for NGAs, Volume 1.
+
+		
+
+		7.8	The Hinunangan Campus too note of the observation of their accounts with abnormal balances,  and committed to make the necessary review of the accounts as well as make the corresponding adjustments the soonest possible time.
+
+		
+
+		7.9       For the San Juan Campus, the Accountant explained that necessary adjusting entries were already made for some accounts.  However, items pertaining to prior years still need further verification.  
+
+		
+
+		7.10     For the Main Campus, the Accountant already complied with the observation.
+
+		
+
+	7.11   For the Bontoc Campus, the Accountant committed to review the recording of the transactions with reference to pertinent source documents.  Should there be errors and corrections discovered,  these will be corrected immediately and reconciliation will be conducted.  
+
+		
+
+7.10     For Tomas Oppus Campus, the Accountant already made adjustments on the affected accounts.
+
+
+
+
+
+Financial assistance through cash advances for the Commission on Higher Education (CHED) Tertiary Education Subsidy (TES) and for the Tulong Dunong scholars
+
+
+
+8)	Payments of financial assistance for the CHED TES and for the CHED Tulong Dunong scholars totaling P3,490,000.00 were made through cash advances granted to the Cashiers of Bontoc, Hinunangan and San Juan Campuses, resulting in the late receipt of the financial assistance by the scholars and in the delayed liquidation of the cash advances.
+
+
+
+8.1	The pertinent provisions of DBM Circular Letter No. 2013-16 dated December 23, 2013 requiring for the Implementation of the Expanded Modified Direct Payment Scheme (ExMDPS) for Accounts Payable (A/Ps) Due Creditors/Payees of all National Government Agencies (NGAs), are as follows:
+
+
+
+	3.0	Coverage  
+
+
+
+All NGAs/OUs relative to the payment of their due and demandable A/Ps including pension benefits
+
+
+
+X x x
+
+
+
+	5.0	Definition of terms
+
+
+
+X x x
+
+
+
+	5.4.1	Internal creditors/payees, enumerated but not limited to the following:
+
+
+
+X x x
+
+
+
+			1)		Others, such as:
+
+--		Government Scholars;
+
+	
+
+X x x 
+
+
+
+X x x
+
+
+
+				                         5.9   Expanded Modified Direct Payment Scheme (ExMDPS)- refers to the payment procedure whereby the MDS-GSB shall pay the creditors/payees listed in the LDDAP-ADA not later than 48 hours but not earlier than 24 hours upon receipt of the said document from NGA/OU, thru:
+
+
+
+	5.9.1   Direct credit to the creditor’s current /savings/ATM account (CA/SA/ATM) maintained with the MDS-GSB; or
+
+
+
+	5.9.2  Bank transfer, if creditor’s account is maintained outside the agency’s MDS-GSB, where corresponding bank charges shall be borne/paid by the creditor/payee concerned.
+
+
+
+	6.0    General Guidelines
+
+		
+
+X x x
+
+		
+
+				                           6.4  To facilitate the use of the ExMDPS, all NGAs/OUs, shall encourage or advise their creditors/payees to open a Current or Savings Account (CA/SA) with any branch of their authorized MDS-GSB. For creditors/payees, where opening of a CA/SA with MDS-GSBs is not feasible or difficult due to company policy, they shall be advised to open an account with any of the banks included in the List of Participating Banks in the Electronic Pesos Clearing System (EPCS) as shown in Annex B.
+
+			
+
+X x x
+
+
+
+8.3	In the examination of the cash and accounts of the Cashiers of Bontoc, Hinunangan and San Juan Campuses, the accountable officers were granted cash advances totaling P3,490,000.00, detailed as follows:
+
+
+
+Table 27.  Cash advances granted to Cashiers
+
+Campus
+
+Check
+
+Purpose
+
+Amount
+
+
+
+Number
+
+Date
+
+
+
+Total
+
+Disbursed
+
+Balance
+
+Bontoc
+
+129876
+
+10/16/20
+
+Financal assistance for CHED TES scholars for the 1st semester of Academic Year 2019-2020
+
+P1,360,000.00
+
+P1,160,000.00
+
+P200,000.00
+
+Hinunangan
+
+15001
+
+3/4/20
+
+Financial assistance for CHED TES scholars for the 1st and 2nd semesters of Academic Year 2018-2019
+
+1,920,000.00
+
+1,920,000.00
+
+0.00
+
+
+
+15016
+
+9/3/20
+
+Financial assistance for CHED Tulong Dunong scholars for the 1st and 2nd semesters of Academic Year 2019-2020
+
+90,000.00
+
+90,000.00
+
+0.00
+
+San Juan
+
+11657
+
+9/15/20
+
+Financial assistance for CHED Tulong Dunong scholars for the 1st and 2nd semesters of Academic Year 2019-2020
+
+120,000.00
+
+96,000.00
+
+24,000.00
+
+Total
+
+P3,490,000.00
+
+P3,266,000.00
+
+P224,000.00
+
+
+
+8.4	This practice is contrary to the Expanded Modified Direct Payment Scheme (ExMDPS) per DBM Circular Letter No. 2013-16 dated December 23, 2013, which requires the settlement of current year and prior years’ A/Ps due all creditors/payees including government scholars through direct credit to the creditors’ savings/current accounts maintained in the agency’s MDS-GBS or Land Bank of the Philippines (LBP).
+
+
+
+8.5	The Cashiers had difficulty in liquidating the said cash advances promptly as some of the scholars usually claimed their benefits late despite the notice through text messages sent to their registered mobile contact numbers and the notice posted in front of the Cashier’s Office. 
+
+
+
+8.6	Consequently, the manner of granting financial assistance to the scholars concerned did not contribute to improving the existing cash management system of the University. 
+
+
+
+8.7	We recommended that the President direct the Cashiers of Bontoc, Hinunangan and San Juan Campuses to implement fully the Expanded Modified Direct Payment Scheme for Accounts Payable due its creditors/payees, particularly its government scholars, in compliance with DBM Circular Letter No. 2013-16 to expedite timely release of financial assistance to the grantee-scholars.
+
+
+
+8.8	For the Hinunangan Campus, the Campus Director explained that they did not use the ExMDPS since CHED requires that the liquidation reports should bear the signatures of the scholars.
+
+
+
+8.9	For  the San Juan Campus,  the Campus Director reasoned out that CHED Tulong Dunong subsidy  was made thru cash advance due to the request of the Scholarship Office for the consideration that the previous releases of the grant were done through check payments wherein the grantees experienced difficulty in the encashment of checks.
+
+
+
+8.10	For Bontoc Campus, management promised to implement the recommendation in CY 2021.
+
+ 
+
+
+
+Failure of the suppliers to indicate dates of receipt in the Purchase Orders (POs)
+
+
+
+9)	Purchase Orders for goods totaling P3,066,031.97 did not indicate the dates of receipt by the suppliers, hence, the Audit Team could not determine whether these goods were delivered according to the contract.
+
+
+
+9.1	Appendix 61, GAM for NGAs, Volume II, provides the instructions for accomplishing the Purchase Order, as follows: 
+
+
+
+A)			The PO is a form/document used by the agency/entity, addressed to a supplier, to deliver specific quantities of supplies/goods/property subject to the terms and conditions contained in the PO.
+
+
+
+B)			This form shall be accomplished as follows:
+
+
+
+X x x
+
+
+
+6. Place/Date of Delivery – place of delivery and definite date/s of delivery; if not stated, the date of delivery shall mean seven (7) calendar days after the receipt of the PO by the supplier
+
+
+
+ X x x
+
+
+
+9.2	Likewise, Annex D of the 2016 Revised Implementing Rules and Regulations of RA No. 9184 provides:
+
+
+
+ANNEX “D”
+
+
+
+	CONTRACT IMPLMENTATION GUIDELINES FOR THE PROCUREMENT OF GOODS,  SUPPLIES  AND  MATERIALS
+
+
+
+X x x 
+
+
+
+3.   Liquidated Damages 
+
+
+
+3.1.  When the supplier fails to satisfactorily deliver goods under the contract within the specified delivery schedule, inclusive of duly granted time extensions, if any, the supplier shall be liable for damages for the delay and shall pay the procuring entity liquidated damages, not by way of penalty, an amount equal to one-tenth (1/10) of one percent (1%) of the cost of the delayed goods scheduled for delivery for every day of delay until such goods are finally delivered and accepted by the procuring entity concerned. 
+
+
+
+3.2.   The procuring entity need not prove that it has incurred actual damages to be entitled to liquidated damages.  Such amount shall be deducted from any money due or which may become due to the supplier, or collected from any securities or warranties posted by the supplier, whichever is convenient to the procuring entity concerned.  In no case shall the total sum of liquidated damages exceed ten percent (10%) of the total contract price, in which event the procuring entity concerned may rescind the contract and impose appropriate sanctions over and above the liquidated damages to be paid.  
+
+
+
+9.3	Review of the purchase orders (POs) submitted by the San Juan and Hinunangan Campuses relative to the procurement of goods totaling P3,066,031.97 showed that the POs did not indicate the dates when the Suppliers (named in Table 28) acknowledged the receipt of the POs:
+
+
+
+
+
+
+
+              Table 28.  POs which did not indicate the dates when the suppliers acknowledged the receipt
+
+Date of PO 
+
+Date Received by COA
+
+PO Number
+
+Name  of the Supplier
+
+ Amount 
+
+San Juan Campus
+
+1/6/20
+
+2/24/20
+
+20-01-0001
+
+Lugawan ni Baste
+
+P         4,000.00
+
+1/6/20
+
+2/24/20
+
+20-01-0002
+
+John Bert Minoza
+
+2,745.00
+
+1/6/20
+
+2/24/20
+
+20-01-0003
+
+John Bert Minoza
+
+480.00
+
+1/15/20
+
+3/11/20
+
+20-01-0004
+
+Robinsons Appliance Corporation
+
+6,500.00
+
+1/20/20
+
+2/24/20
+
+20-01-0005
+
+JKO Uniform Solutions Incorporated
+
+42,000.00
+
+1/29/20
+
+2/24/20
+
+20-01-0007
+
+Kisbone Cove
+
+9,300.00
+
+1/16/20
+
+5/18/20
+
+20-01-0008
+
+Raul Castil
+
+5,500.00
+
+2/5/20
+
+3/11/20
+
+20-02-0009
+
+John Bert Minoza
+
+3,000.00
+
+2/12/20
+
+3/11/20
+
+20-02-0011
+
+Procurement Services
+
+4,563.08
+
+2/12/20
+
+5/18/20
+
+20-02-0012
+
+Dunkees Enterprises
+
+15,000.00
+
+2/12/20
+
+3/11/20
+
+20.02-0013
+
+Brodeth Marketing
+
+29,514.00
+
+2/13/20
+
+3/11/20
+
+20-02-0014
+
+JM Tech Marketing 
+
+12,495.00
+
+2/13/20
+
+3/11/20
+
+20-02-0015
+
+Shift Tech Trading
+
+14,695.00
+
+2/13/20
+
+3/11/20
+
+20-02-0018
+
+Brodeth Marketing
+
+2,387.60
+
+2/19/20
+
+3/11/20
+
+20-02-0025
+
+Terra Tech Marketing
+
+910.00
+
+2/21/20
+
+3/11/20
+
+20-02.0028
+
+Brodeth Marketing
+
+18,112.90
+
+2/21/20
+
+5/18/20
+
+20-02-0029
+
+Dunkees Enterprises
+
+10,290.00
+
+2/21/20
+
+5/18/20
+
+20-02-0030
+
+Tophome Builders
+
+1,080.00
+
+2/28/20
+
+5/18/20
+
+20-02-0031
+
+Ramila Giganto
+
+12,500.00
+
+2/28/20
+
+5/18/20
+
+20-02-0033
+
+Ranier Enterprises
+
+2,755.00
+
+3/02/20
+
+5/18/20
+
+20-03-0034
+
+John Bert Minoza
+
+9,000.00
+
+3/05/20
+
+5/18/20
+
+20-03-0036
+
+AC3J Corporation
+
+8,180.00
+
+3/06/20
+
+6/04/20
+
+20-03-0038
+
+Shift Tech Trading
+
+39,850.00         
+
+3/04/20
+
+5/18/20
+
+20-03-0039
+
+Maricel Monton
+
+7,000.00
+
+3/11/20
+
+6/4/20
+
+20-03-0040
+
+Electronics City & Service Center
+
+23,800.00           
+
+3/12/20
+
+6/4/20
+
+20-03-0047
+
+RL Appliance Center
+
+30,195.00         
+
+3/12/20
+
+6/4/20
+
+20-03-0048
+
+Sheerwood Educational Supply
+
+3,188.88             
+
+3/12/20
+
+6/4/20
+
+20-03-0049
+
+AC3J Corporation
+
+1,350.00            
+
+3/12/20
+
+6/4/20
+
+20-03-0050
+
+JP Marketing and Auto Supply
+
+16,500.00           
+
+3/12/20
+
+6/4/20
+
+20-03-0052
+
+Tophome Builders
+
+10,462.00         
+
+3/12/20
+
+6/4/20
+
+20-03-0053
+
+Rufina Nantes
+
+6,015.00           
+
+3/12/20
+
+6/4/20
+
+20-03-0054
+
+Tophome Builders
+
+2,805.00           
+
+3/12/20
+
+6/4/20
+
+20-03-0055
+
+Brodeth Marketing
+
+3,815.33
+
+3/13/20
+
+5/18/20
+
+20-03-0056
+
+Trueworks Hardware  
+
+15,500.00
+
+3/19/20
+
+6/4/20
+
+20-03-0064
+
+M & K Merhandising
+
+30,170.00
+
+3/19/20
+
+6/4/20
+
+20-03-0065
+
+Yamsuns General Merchandise
+
+1,975.00
+
+3/20/20
+
+5/18/20
+
+20-03-0066
+
+John Bert Minosa
+
+1,490.00
+
+4/24/20
+
+6/4/20
+
+20-04-0069
+
+Guido Somosa
+
+4,900.00
+
+4/24/20
+
+6/4/20
+
+20-04-0070
+
+Hi Five Enterprises
+
+760.00
+
+4/27/20
+
+6/4/20
+
+20-04-0071
+
+Rufina Nantes
+
+3,155.00
+
+4/37/20
+
+6/4/20
+
+20-04-0072
+
+Roel Castil
+
+1,200.00
+
+5/13/20
+
+6/4/20
+
+20-05-0073
+
+Brodeth Marketing
+
+6,755.00
+
+5/13/20
+
+6/18/20
+
+20-05-0074
+
+Brodeth Marketing
+
+31,551.50
+
+5/13/20
+
+6/4/20
+
+20-05-0076
+
+Dunkeen Enterprises
+
+4,114.00
+
+5/14/20
+
+6/4/20
+
+20-05-0077
+
+Global ACJJJ Corporation
+
+1,961.00
+
+5/14/20
+
+6/4/20
+
+20-05-0078
+
+Ranier Enterprises
+
+909.50
+
+5/14/20
+
+6/4/20
+
+20-05-0081
+
+M & K Merchandise
+
+1,900.00
+
+5/19/20
+
+8/18/20
+
+20-05-0083
+
+Dunkees Enterprises
+
+10,800.00
+
+6/4/20
+
+7/21/20
+
+20-06-0095
+
+ACJ Corporation
+
+4,513.20
+
+6/15/20
+
+9/2/20
+
+20-06-0098
+
+RL Appliance Center
+
+9,895.00
+
+6/16/20
+
+7/21/20
+
+20-06-0100
+
+Nantes Store
+
+2,370.00
+
+6/19/20
+
+7/21/20
+
+20-06-0101
+
+Arlen Odarbe
+
+35,250.00
+
+6/19/20
+
+7/21/20
+
+20-06-0102
+
+John Bert Minoza
+
+1,335.00
+
+7/2/20
+
+7/31/20
+
+20-06-0106
+
+Brodeth Marketing
+
+4,661.25
+
+7/9/20
+
+8/18/20
+
+20-07-0113
+
+Brodeth Marketing
+
+908.00
+
+7/20/20
+
+7/30/20
+
+20-07-0114
+
+Dunkees Enterprises
+
+47,080.00
+
+7/27/20
+
+11/5/20
+
+20-07-0117
+
+Greenware
+
+38,310.00
+
+7/27/20
+
+8/18/20
+
+20-07-0119
+
+Johnbert Minoza
+
+2,268.00
+
+8/4/20
+
+9/2/20
+
+20-08-0120
+
+Ethelgiva Maamo
+
+2,950.00
+
+8/4/20
+
+9/2/20
+
+20-08-0121
+
+Greenware
+
+28,660.00
+
+8/4/20
+
+9/2/20
+
+20-08-0122
+
+Shift Tech Trading
+
+12,195.00
+
+8/10/20
+
+9/2/20
+
+20-08-0123
+
+RAMS Electronic
+
+46,885.00
+
+8/18/20
+
+9/2/20
+
+20-08-0137
+
+Dunkees Enterprises
+
+27,798.00
+
+8/18/20
+
+10/7/20
+
+20-08-0138
+
+Tophome Builders
+
+33,856.15
+
+8/19/20
+
+10/7/20
+
+20-08-0141
+
+Brodeth Marketing
+
+31,824.50
+
+9/2/20
+
+10/7/20
+
+20-09-0144
+
+Nantes Store
+
+6,325.00
+
+9/2/20
+
+10/7/20
+
+20-09-0145
+
+Rhoderez Store
+
+1,472.00
+
+9/2/20
+
+10/7/20
+
+20-09-0146
+
+M & K Merchandise
+
+6,668.00
+
+9/2/20
+
+10/7/20
+
+20-09-0147
+
+Yamsuns General Merchandise
+
+12,060.00
+
+9/15/20
+
+11/5/20
+
+20-09-0150
+
+Shift Tech Trading, Incorporated
+
+3,080.00
+
+9/15/20
+
+11/5/20
+
+20-09-0151
+
+Rhodyris Store
+
+1,813.00
+
+9/22/20
+
+11/5/20
+
+20-09-0156
+
+Trueworks Hardware Corporation
+
+16,500.00
+
+9/22/20
+
+11/5/20
+
+20-09-0157
+
+M & K Merchandising
+
+2,600.00
+
+9/28/20
+
+11/5/20
+
+20-09-0160
+
+Sheft Tech Trading, Incorporated
+
+26,100.00
+
+9/29/20
+
+11/5/20
+
+20-09-0162
+
+Trueworks Hardware Corporation
+
+21,450.00
+
+10/20/20
+
+12/17/20
+
+20-10-0174
+
+Home Options, Incorporated
+
+10,144.50
+
+10/21/20
+
+12/17/20
+
+20-10-0176
+
+Maxcor Publishing House
+
+45,380.00
+
+10/26/20
+
+12/17/20
+
+20-10-0182
+
+SL Ruiz Furniture
+
+15,385.00
+
+11/4/20
+
+2/10/21
+
+20-11-0192
+
+Dunkees Enterprises
+
+8,130.00
+
+11/16/20
+
+12/17/20
+
+20-11-0201
+
+SL Ruiz Furnitures
+
+9,590.00
+
+10/21/20
+
+12/17/20
+
+20-10-0203
+
+Danilo Vero
+
+2,800.00
+
+11/20/20
+
+2/10/21
+
+20-11-0207
+
+Adels White Plates
+
+5,000.00
+
+11/20/20
+
+12/17/20
+
+20-11-0210
+
+Bokyot Designs and Prints
+
+1,800.00
+
+12/11/20
+
+2/10/21
+
+20-12-0227
+
+M & K Merchandising
+
+840.00
+
+12/14/20
+
+3/11/21
+
+20-12-0232
+
+Rhodirez Store
+
+7,965.00
+
+12/14/20
+
+3/11/21
+
+20-12-0235
+
+MandaueFoam Industries
+
+27,626.00
+
+12/16/20
+
+3/11/21
+
+20-12-0243
+
+Mandaue Foam Industries
+
+104,958.00
+
+12/16/20
+
+3/11/21
+
+20-12-0246
+
+JP Marketing and Auto Supply
+
+7,800.00
+
+12/17/20
+
+3/11/21
+
+20-12-0248
+
+Trueworks Hardware Corporation
+
+231,980.00
+
+12/17/20
+
+2/10/21
+
+20-12-0249
+
+Sheft Tech Trading
+
+43,600.00
+
+12/23/20
+
+3/11/21
+
+20-12-0250
+
+M & K Merchandise
+
+2,720.00
+
+11/13/20
+
+2/10/21
+
+20-11-0251
+
+Adels White Plates
+
+46,200.00
+
+12/28/20
+
+2/10/21
+
+20-12-0253
+
+Yamsuns General Merchandise
+
+48,600.00
+
+12/28/20
+
+2/10/21
+
+20-12-0257
+
+Shift Tech Incorporated
+
+1,620.00
+
+12/28/20
+
+2/10/21
+
+20-12-0260
+
+Cymmer Sari-sari Store
+
+1,500.00
+
+                                                      Sub-total
+
+P  1,529,595.39
+
+Hinunangan Campus
+
+2/17/20
+
+10/23/20
+
+20-02-030A
+
+Chester Enterprises, Incorporated
+
+P     301,050.00
+
+6/2/20
+
+7/22/20
+
+20-06-071
+
+Pacifica Agrivet Supply
+
+31,927.00
+
+6/2/20
+
+7/22/20
+
+20-06-071A
+
+RJL Enterprises
+
+9,750.00
+
+6/3/20
+
+7/22/20
+
+20-06-072
+
+Hinunangan Enterprises
+
+9,578.00
+
+6/3/20
+
+7/22/20
+
+20-06-072A
+
+Campuspec Sales & Services
+
+32,260.00
+
+6/8/20
+
+7/22/20
+
+20-06-073
+
+Pacifica Agrivet Supply
+
+12,367.00
+
+6/8/20
+
+7/22/20
+
+20-06-073A
+
+Aljon Malot
+
+7,500.00
+
+6/18/20
+
+7/22/20
+
+20-06-074
+
+SRC East Hardware
+
+22,100.00
+
+6/18/20
+
+7/22/20
+
+20-06-075
+
+Compuspec Sales & Services
+
+9,800.00
+
+6/18/20
+
+7/22/20
+
+20-06-076
+
+Pacifica Agrivet Supply
+
+25,595.00
+
+6/18/20
+
+7/22/20
+
+20-06-076A
+
+Lourdes Eatery
+
+1,200.00
+
+6/23/20
+
+7/22/20
+
+20-06-077
+
+JR Grocery Store
+
+3,306.00
+
+6/23/20
+
+7/22/20
+
+20-06-079
+
+Lourdes Eatery
+
+1,800.00
+
+6/24/20
+
+7/22/20
+
+20-06-080
+
+Terra Tech Marketing
+
+8,000.00
+
+7/3/20
+
+7/22/20
+
+20-07-081
+
+Pacifica Agrivet Supply
+
+37,242.00
+
+7/3/20
+
+7/22/20
+
+20-07-082
+
+Hinunangan Gasoline Station
+
+1,500.00
+
+7/3/20
+
+7/22/20
+
+20-07-082A
+
+Floy Rits General Merchandise
+
+1,352.00
+
+7/9/20
+
+10/23/20
+
+20-07-083
+
+Procurement Service
+
+18,850.96
+
+7/10/20
+
+10/23/20
+
+20-07-084
+
+Hinunangan Gasoline Station
+
+1,927.20
+
+7/10/20
+
+10/23/20
+
+20-07-084A
+
+Lourdez Eatery
+
+5,600.00
+
+7/14/20
+
+10/23/20
+
+20-07-085
+
+Pacifica Agrivet Supply
+
+17,800.00
+
+7/17/20
+
+10/23/20
+
+20-07-087
+
+SRC Enterprises
+
+18,350.00
+
+7/21/20
+
+10/23/20
+
+20-07-088
+
+Compuspec Sales & Services
+
+480,560.00
+
+7/21/20
+
+10/23/20
+
+20-07-089
+
+Hinunangan Gasoline Station
+
+9,206.00
+
+7/24/20
+
+10/23/20
+
+20-07-091
+
+VIS Marketing
+
+11,960.00
+
+7/24/20
+
+10/23/20
+
+20-07-091A
+
+Roberto Mansueto
+
+18,000.00
+
+8/4/20
+
+10/23/20
+
+20-08-093
+
+Pacifica Agrivet Supply
+
+19,445.00
+
+8/5/20
+
+10/23/20
+
+20-08-094
+
+Hinunangan Gasoline Station
+
+1,857.60
+
+8/17/20
+
+10/23/20
+
+20-08-096
+
+Hinunangan Gasoline Station
+
+9,288.00
+
+8/18/20
+
+10/23/20
+
+20-08-098
+
+Pacifica Agrivet Supply
+
+9,681.00
+
+8/18/20
+
+10/23/20
+
+20-08-099
+
+Hinunangan Gasoline Station
+
+5,814.24
+
+8/24/20
+
+10/23/20
+
+20-08-101A
+
+Hinunangan Gasoline Station
+
+2,208.00
+
+8/26/20
+
+10/23/20
+
+20-08-102
+
+Compuspec Sales & Services
+
+76,550.00
+
+8/26/20
+
+10/23/20
+
+20-08-102A
+
+Quadcube Technologies, Inc.
+
+183,740.00
+
+9/1/20
+
+10/23/20
+
+20-09-104
+
+Pacifica Agrivet Supply
+
+47,450.00
+
+9/1/20
+
+10/23/20
+
+20-09-105
+
+Eight2Eight Gen, Mdse
+
+33,955.00
+
+9/1/20
+
+10/23/20
+
+20-09-106
+
+Jabes Builders and Trading
+
+8,025.00
+
+9/2/20
+
+10/23/20
+
+20-09-107
+
+Hinunangan Gasoline Station
+
+1,187.20
+
+9/2/20
+
+10/23/20
+
+20-09-109
+
+Pacifica Agrivet Supply
+
+1,298.00
+
+9/14/20
+
+10/23/20
+
+20-09-113
+
+JR Grocery Store
+
+4,056.00
+
+9/17/20
+
+10/23/20
+
+20-09-115
+
+Pacifica Agrivet Supply
+
+14,475.00
+
+9/17/20
+
+10/23/20
+
+20-09-116
+
+Hinunangan Gasoline Station
+
+1,417.38
+
+9/23/20
+
+10/23/20
+
+20-09-118
+
+Hinunangan Gasoline Station
+
+8,988.00
+
+9/23/20
+
+10/23/20
+
+20-09-119
+
+Compuspec Sales & Services
+
+6,800.00
+
+9/23/20
+
+10/23/20
+
+20-09-122
+
+Yeyet Printing and Services
+
+1,620.00
+
+                                                                                 Sub-total
+
+P 1,536,436.58
+
+                                                                                 TOTAL
+
+P 3,066,031.97
+
+
+
+9.4	Examination of these POs revealed that the dates of delivery and the dates the Suppliers received the POs were not indicated therein.  The date of receipt by the Suppliers is a vital information that should be indicated in the PO because this document serves as the contract between the University and the Supplier for the delivery of specified items within an agreed time.
+
+
+
+9.5	This deficiency renders the POs incomplete as they lack the information as to the schedule for the Supplier for the faithful performance and compliance with the terms and conditions of the contract to deliver the goods, which is prejudicial to the interest of the government as it cannot impose the appropriate liquidated damages for late or non-delivery.
+
+
+
+9.6	We recommended that the President require the Supply Officers of San Juan and Hinunangan Campuses to ensure that all POs issued to the suppliers are acknowledged by them by indicating therein the date of actual receipt; likewise, to ensure that these forms are filled out with the necessary information/data in accordance with Appendix 61 of the GAM for NGAs, Volume II.
+
+
+
+9.10	Hinunangan and San Juan Campuses noted the observation and committed to ensure that all POs issued to the suppliers are acknowledged by them by indicating therein the date of actual receipt.
+
+ 
+
+
+
+	Gender and Development Plan and Budget (GPB) not endorsed by Philippine Commission on Women (PCW); utilization rate at 36.72%; failure to use the Harmonized Gender and Development Guidelines (HGDG) Tool
+
+
+
+10)		Only 36.72% of the allocation for Gender and Development (GAD) Programs, Activities and Projects (PAPs) identified in the GPB amounting to P20,111,284.32 was utilized.  The University’s GPB was not endorsed by the PCW; further, the University failed to use the HGDG Tool in attributing costs of its major programs. 
+
+
+
+10.1	Pertinent provisions of the PCW-National Economic Development Authority (NEDA)-Department of Budget and Management (DBM) Joint Circular (JC) No. 2012-01, state:
+
+	
+
+3.0	GENERAL GUIDELINES IN GAD PLANNING AND BUDGETING
+
+
+
+X x x
+
+
+
+3.4	Mainstreaming gender perspectives in agency PAPs to attain the desired outcomes for GAD shall be a priority in GAD planning and budgeting. Using the 5% GAD budget for gender mainstreaming is a way for agencies to influence the entire agency program, plan and budget.  To aid gender mainstreaming, agencies shall perform gender analysis using existing tools, such as the HGDG, to ensure that the different concerns of women and men are addressed equally and equitably in their PAPs. Activities to address these differential concerns through capacity development on GAD or GAD-focused activities shall be included in agency GPBs.
+
+
+
+X x x
+
+
+
+4.0	ESSENTIAL ELEMENTS IN GAD PLANNING AND BUDGETING 
+
+
+
+X x x 
+
+
+
+4.4	Institutionalizing GAD Database/Sex-disaggregated Data: The agency shall develop or integrate in its existing database GAD information to include gender statistics and sex-disaggregated data that have been systematically produced or gathered as inputs or bases for planning, budgeting, programming, and policy formulation.
+
+
+
+6.0	COSTING AND ALLOCATION OF THE GAD BUDGET
+
+
+
+6.1	At least five percent (5%) of the total agency budget appropriations authorized under the annual GAA shall correspond to activities supporting GAD plans and programs. The GAD budget shall be drawn from the agency’s maintenance and other operating expenses (MOOE), capital outlay (CO), and personal services (PS). It is understood that the GAD budget does not constitute an additional budget over an agency’s total budget appropriations. 
+
+
+
+X x x
+
+
+
+6.4    Attributing  agency major programs to the GAD  Budget.
+
+Attribution to the GAD budget of a portion or the whole of the budget of an agency’s major programs is a means toward gradually increasing the gender responsiveness of government programs and budgets.
+
+
+
+6.4.1	If an agency intends to attribute a portion or the whole budget of major programs during the GAD planning and budgeting phase, it may subject the program to gender analysis using the HGDG tool.  If the agency is not yet trained on the use of the tool, it may include said training in its GPB and may seek the assistance of an expert on gender analysis using the HGDG.
+
+
+
+6.4.2	The use of the HGDG will yield a maximum score of 20 points for each program or project.  Depending on the score of the HGDG, a percentage of the budget of the agency’s existing and proposed major program may be attributed to the GAD budget as follows:
+
+
+
+
+
+HGDG Score
+
+
+
+Description
+
+Corresponding budget for the year of the program that may be attributed to the GAD budget
+
+Below 4.0
+
+GAD is invisible
+
+0% or no amount of the program budget for the year may be attributed to the GAD budget
+
+4.0-7.9
+
+Promising GAD prospects (conditional pass)
+
+25% of the budget for the year of the program may be attributed to the GAD budget
+
+8.0-14.9
+
+Gender sensitive
+
+50% of the budget for the year of the program nay be attributed to the GAD budget
+
+15.0-19.9
+
+Gender responsive
+
+75% of the budget for the year of the program may be attributed to the GAD budget
+
+20.0
+
+Fully gender- responsive
+
+100% of the budget for the year of the program may be attributed to the GAD budget
+
+
+
+X x x
+
+
+
+6.4.4	 During the preparation of its GAD AR, the agency will again administer the HGDG test to determine the extent that the targeted HGDG score is attained.  The score will be the basis in determining actual expenditure that can be attributed to the GAD budget. (Emphasis supplied)
+
+
+
+10.	PREPARATION AND SUBMISSION OF GAD ACCOMPLISHMENT REPORTS
+
+
+
+10.1	Attached agencies, bureaus, regional offices, constituent units and all others concerned shall submit their GAD ARs to their central offices. The agency GFPS shall prepare the annual GAD AR based on the PCW-endorsed GPB or the GPB adjusted to the approved GAA following the form prescribed in Annex B. Activities completed until the end of the year may be included in the final GAD AR of agency submitted to PCW in January.
+
+
+
+10.2	In case an agency attributes a portion or the whole of the budget of its major program to the GAD budget, it shall subject the same to the HGDG test to determine the actual expenditures that may be attributed to the GAD budget. Xxx.
+
+
+
+X x x
+
+
+
+10.4	The annual GAD AR shall be accompanied by the following: (1) brief summary of the reported program or project; (2) copies of reported policy issuances; (3) results of HGDG tests, if any; and (4) actions taken by the agency on the COA audit findings and recommendations, if any.
+
+
+
+10.2	The Guide in Completing the GPB provided in Annex A of PCW-NEDA-DBM JC No. 2012-01, particularly for Column 7 (Template A) is as follows:
+
+
+
+Column 7: GAD Budget
+
+
+
+X x x
+
+
+
+Examples of expenses that cannot be charged to the GAD budget:
+
+
+
+1)	PAPs that are not in the agency’s PCW-endorsed GAD plan;
+
+
+
+X x x
+
+
+
+10.3	The submission of the GPB and GAD Accomplishment Report (AR) for CY 2020 either to CHED ROVIII or PCW has deadlines as follows:
+
+
+
+Table 29.  Deadlines for submission of GPB and GAD AR
+
+Particulars
+
+Deadline
+
+For the review of
+
+Criteria
+
+2020 GPB
+
+September 9, 2019
+
+CHED RO VIII
+
+PCW MC No. 2019-02 dated 8/1/19
+
+
+
+July 1, 2020
+
+PCW
+
+PCW MC No. 2020-03 dated 4/27/20
+
+2020 GAD AR
+
+February 26, 2021
+
+CHED RO VIII
+
+PCW MC No. 2021-01 dated 1/20/21
+
+
+
+10.4	Audit of the University’s GPB for CY 2020 revealed that a total amount of P20,111,284.32 was planned and budgeted for GAD-related PAPs, summarized as follows:
+
+
+
+Table 30.  GPB for GAD-related PAPs
+
+GAD P/A/Ps
+
+GAD Budget
+
+1)	Conduct livelihood training for women/conduct training on how to make PPEs which are economical and with materials available at the local community
+
+
+
+
+
+        P 114,570.00
+
+2.   Find pathways for international partnership for GAD P/A/Ps
+
+4,914,397.22               
+
+3. Conduct webinar on risk management strategies to address risk due COVID-19 pandemic
+
+
+
+271,350.00
+
+4.   Implement the extension Project- Promoting Gender Equality in COVID-19 Response and Recovery to: A) Employees B) Students
+
+
+
+4,914,397.22
+
+5.  Conduct extension activity to SLSU children and parents via online
+
+912,825.00
+
+6. Integrate gender-sensitivity issues during meetings related to the formulation of modules
+
+
+
+4,914,397.22
+
+7.   Conduct of orientation forum to include GAD issues
+
+812,057.17
+
+8.  Construct gender responsive comfort room. Presently the ratio of the existing comfort room  is 1:12
+
+
+
+912,825.00
+
+ 9. Send GAD focal team to training-workshop on gender mainstreaming/issues identification in local/national levels                                   
+
+
+
+892,559.22
+
+10.   Implement RI PPAs with GAD related component
+
+239,422.50
+
+11.   Attendance to Research  Capacity Building
+
+239,422.50
+
+12.   Designate faculty members to implement, manage and monitor GAD Plan of the University
+
+
+
+973,061.27
+
+Total
+
+	P20,111,284.32
+
+
+
+10.5	Review of the submitted Annual GAD AR for CY 2020 revealed that of the total GAD budget, only 36.72% or P7,384,329.89 was utilized for the implementation of the University’s GAD P/A/Ps, reported in Table 31:
+
+
+
+  Table 31.  Accomplishment related to GAD  
+
+GAD P/A/Ps
+
+Accomplishment
+
+Actual Cost/ Expenditure
+
+CLIENT- FOCUSED ACTIVITIES
+
+1)	Conduct livelihhod training for women/conduct training on how to make PPEs which are economical and with materials available of the local community
+
+Conducted a project using Protein-Energy Rich Foods for Disaster Relief and Community Sustainability in Southern Leyte, Sanitation, Health, Education, Livelihood and Socio-Civic (SHELS) Program
+
+Community training on Home-Made liquid hand soap making
+
+P615,220.00
+
+2)	Find pathways to international partnerships for GAD PPAs
+
+2 MOA signed  
+
+ 1 activity conducted (Orientaton on Internalization)
+
+41,000.00
+
+3)	Conduct webinar on Risk Management Strategies to address risk due to COVID-19 pandemic
+
+a) Webinar conducted on Production of Online Students-on-Boarding and Orientation Program b) Webinar on a Positive Mindset in Times of Crises c) Webinar on College Adjustment in the New Normal for AY 2020-2021
+
+17,750.00           
+
+4)	Implement the Extension Project: Promoting Gender Equality in COVID-19 Response and Recovery to: A) Employees B) Students
+
+Establishment of a program called Mobility and Accomodation Support to the Men and Women of SLSU  a COVID-19 response
+
+
+
+2,430,734.40
+
+5)	Conduct extension activity to SLSU children and parents via online
+
+Conducted webinar on Protecting SLSU Kids and Students from Online Sexual Abuse (177 females and 106 males participated in this activity)
+
+ 25,748.80 
+
+
+
+
+
+            
+
+6)	Conduct of advocacy activities in observance of the 18 –
+
+Day Campaign to End Violence Against Women (VAW)
+
+Conducted 9 simultaneous events across the 6 campuses
+
+200,000.00
+
+ORGANIZATION-FOCUSED ACTIVITIES
+
+7)	Integrate gender-sensitivity issues during meetings related to the formulation of modules
+
+Presentation of the new BSFT Curriculum to Stakeholders
+
+P5,000.00
+
+8)	Conduct of orientation forum to include GAD issues
+
+Conducted series of Orientation on Anti-Sexual Harassment Act (R.A. 7877), Comprehensive Dangerous Drugs Act, Anti-Bullying Act, Anti-Hazing Act, and 
+
+Orientation cum Writeshop on the Development of Learning Modules and Training on the Applicatuon of Learning Management System (LMS) 
+
+132,500.00
+
+9)	Construct gender responsive comfort room. Presently, the ratio of the existing comfort room is 1:12
+
+On-going construction of comfort rooms
+
+1,221,128.21
+
+10)	Send GAD Focal team to training workshop on Gender Mainstreaming/issues identification in local/national levels
+
+Conducted webinar on GAD Planning and Budgeting from GPB to GAD Fund Audit 
+
+(Day 1- participated by 22 females and 9 males Day 2- 17 females and 6 males)
+
+90,120.80
+
+
+
+11)	Implement RI PPAs with GAD related component
+
+Patent Search, Drafting, and Prosecution Worshop for ITSO Personnel
+
+109,339.28
+
+12)	Attendance to Research Capacity Building
+
+Conducted the 2020 Technology Development and Invention Workshop
+
+1,283,282.00
+
+13)	Designate faculty members to implement, manage and monitor GAD Plan of the University
+
+GAD Heads every Campus – 
+
+GAD Coordinators every College/Department 
+
+Job Order-Clerk
+
+
+
+1,212,506.40
+
+TOTAL
+
+
+
+₱7,384,329.89
+
+
+
+10.6	Further review of the submitted Annual GAD AR for CY 2020 revealed that the amount of P7,384,329.89 was reported as GAD accomplishments without using the HGDG test to determine if these accomplishments reported in the AR were actually GAD attributions, to ensure that the different concerns of women and men were addressed equally and equitably.
+
+	
+
+10.7	Audit also disclosed that the GPB for CY 2020 of the University was not duly endorsed/approved by the PCW-CHED as required under Section 8.1.2 of PCW-NEDA-DBM JC No 2012-01.
+
+
+
+10.8	Verification of the Gender Mainstreaming Monitoring System showed that  the University’s GPB for CY 2020 was submitted to CHED RO 8 on August 30, 2019. CHED RO 8 forwarded the GPB to PCW on October 16, 2019.  The PCW reviewed the GPB and returned the same on October 31, 2020 for revision.  However, the GAD Focal Point System of the University failed to submit the revised GPB to PCW.
+
+	
+
+10.9	With the failure of the University to submit the revised GPB to PCW, it follows that they did not receive the PCW-endorsed GPB, thus, all the P/A/Ps listed could not be validly charged to the GAD Budget.  
+
+
+
+10.10	We recommended that the President require the GAD Focal Point System and other personnel concerned to strictly follow the provisions of PCW-NEDA-DBM JC No. 2012-01 in the determination of actual expenditures that can be attributed to the GAD budget, and that which can be reported in the GAD Accomplishment Report with the use of the HGDG Tool.
+
+
+
+10.11	We also recommended that the President require the GAD Focal Person to ensure that the GPB is reviewed and endorsed by PCW before its implementation, and a copy of the approved plan be submitted to the Audit Team within the prescribed period. 
+
+
+
+	10.12	The GAD Focal Person explained that the GPB was first submitted on September 9, 2019 to CHED RO VIII by the former GAD Focal Person, Dr. Nelfa C. Gil.  It was then forwarded by CHED to PCW on October 16, 2019 for review.  Then the PCW returned the GPB on March 4, 2020 for revision, but it was not revised due to several reasons:  (a) Dr. Nelfa C. Gil resigned from being the GAD Head, and was replaced by Rose Sugar S. Callano, who lacks knowledge about GAD;  (b) the work from home scheme which started on March 18, 2020; and (c) the Gender Mainstreaming Monitoring System had encountered technical problem since March 2020.  In addition, the HGDG Checklist was not used due to lack of knowledge in using the tool.
+
+	 
+
+	
+
+Late submission of transaction documents and BRS of Tomas Oppus Campus
+
+
+
+11)	Disbursement vouchers and their supporting documents, and accounting reports were not submitted within the reglementary period, precluding the prompt audit of accounts and financial transactions, early detection and correction of errors/deficiencies and timely reporting of the audit results to management. 
+
+
+
+11.1	Section 122 of PD No. 1445 states:
+
+
+
+SECTION 122. Submission of Reports. - Whenever deemed necessary in the exigencies of the service, the Commission may under regulations issued by it require the agency heads, chief accountants, budget officers, cashiers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla of personnel, and such other reports as may be necessary for the exercise of its functions.
+
+
+
+(2)  Failure on the part of the officials concerned to submit the documents and reports mentioned herein shall automatically cause the suspension of payment of their salaries until they shall have complied with the requirements of the Commission.
+
+
+
+                       X x x
+
+
+
+11.2	Further,  Section 7.2.1 (a) of  COA Circular No. 2009-006 dated September 15, 2009, reads:
+
+
+
+	 Section 7.2   Responsibility of the Agency Accountant 
+
+	
+
+	                               7.2.1 The Chief Accountant, Bookkeeper or other authorized officials performing accounting and/or bookkeeping functions of the audited agency shall ensure that:
+
+
+
+a)	the reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month;
+
+
+
+	                                                        X x x 
+
+            
+
+11.3	Finally, Section 7, Chapter 21 of the GAM for NGAs, Volume 1, provides:
+
+	
+
+Sec. 7. Reporting.  The Chief Accountant shall submit the Bank Reconciliation Statements within twenty days after the receipt of the monthly BS to the following:
+
+	
+
+Original    -    COA Auditor (with all the supporting documents and JEVs)
+
+Copy 2      -    Head of the Agency/Entity
+
+Copy 3      -    Accounting Division/Unit file
+
+Copy 4      -    Bank, if necessary
+
+
+
+11.4	Records show that the SLSU Tomas Oppus Campus incurred delays in the submission of the CY 2020 transaction documents and accounting reports for audit contrary to the above-cited regulations.  Validation of the status of submission of the accounts and reports by the Tomas Oppus Campus shows the following:
+
+
+
+A)	Collection and Disbursement Accounts/Reports
+
+
+
+Table 32.  Submission of transaction documents and accounting reports
+
+Period Covered
+
+Date Submitted to COA
+
+No. of Days Delayed
+
+January 2020
+
+August 14, 2020
+
+185
+
+February 2020
+
+August 14, 2020
+
+156
+
+March 2020
+
+August 14, 2020
+
+125
+
+April 2020
+
+February 1, 2021
+
+266
+
+May 2020
+
+February 1, 2021
+
+235
+
+June 2020
+
+February 1, 2021
+
+205
+
+July 2020
+
+February 1, 2021
+
+174
+
+August 2020
+
+February 1, 2021
+
+143
+
+September 2020
+
+February 1, 2021
+
+113
+
+October 2020
+
+February 1, 2021
+
+82
+
+November 2020
+
+Not yet submitted
+
+
+
+December 2020
+
+Not yet submitted
+
+
+
+
+
+B)	Bank Reconciliation Statements (BRS)
+
+
+
+Table 33.  Submission of BRS
+
+Depository Bank
+
+Account Number
+
+Latest BRS Submitted
+
+Land Bank of the Phils.
+
+2332-1037-18
+
+December 2019
+
+Land Bank of the Phils.
+
+3322-1030-41
+
+December 2019
+
+Land Bank of the Phils.
+
+3322-1046-33
+
+December 2019
+
+Land Bank of the Phils.
+
+3322-1095-11
+
+December 2019
+
+
+
+11.5	The delay in the submission of reports and transaction documents would prevent the timely conduct of post-audit.  Consequently, management’s assertions of occurrence, accuracy, validity and completeness of the transactions cannot be established, and at the same time, errors and deficiencies cannot be immediately detected and corrected, thereby, defeating the purpose of providing timely and significant data to the users of the financial reports.  
+
+
+
+11.6	We recommended that the President require the Accountant of Tomas Oppus Campus to:
+
+
+
+1)	Submit immediately the CY 2020 financial reports, and the related transaction documents to COA within the schedules enumerated under Section 122 of PD No. 1445; Section 7.2.1 (a) of COA Circular No. 2009-006; and Section 7 of Chapter 21 of GAM for NGAs, Volume 1; and
+
+
+
+2)	Undertake the appropriate action against the accountable officers concerned for their failure to comply with the provisions of the aforementioned law, rules and regulations.
+
+
+
+11.7	The Accountant of Tomas Oppus Campus reasoned out that late submission of collection/disbursement accounts and other reports was due to incomplete supporting documents as a result of work from home arrangement.  However, he acknowledged the full responsibility for the timely submission all all financial reports to COA and he promised to consider the submission of accounts and other reports as the top priority among his functions.
+
+
+
+
+
+Compliance with Tax Laws
+
+
+
+12)	Total taxes withheld during the year was P27,119,818.77, while total amount remitted to BIR was P30,503,844.58, detailed as follows:
+
+
+
+   Table 34.  BIR Withholding Taxes and Remittances
+
+Fund
+
+Balance, 1/1/20
+
+Withheld
+
+Remitted
+
+Balance, 12/31/20
+
+RAF
+
+P 1,153,048.73
+
+P 21,982,148.00
+
+P 25,327,553.77
+
+P 4,498,454.50
+
+IGF
+
+1,545,613.41
+
+4,369,678.10
+
+4,564,501.14
+
+1,740,436.45
+
+BRF
+
+53,406.65
+
+130,017.28
+
+98,356.24
+
+21,745.61
+
+Trust
+
+252,765.95
+
+637,975.39
+
+513,433.43
+
+128,223.99
+
+Total
+
+P 3,004,834.74
+
+P 27,119,818.77
+
+P 30,503,844.58
+
+           P6,388,860.55
+
+
+
+
+
+
+
+
+
+
+
+Compliance with GSIS Act of 1997
+
+
+
+13)	The University complied with the provisions of RA No. 8291 by deducting GSIS premiums from the salaries of all employees as well as providing employer’s contributions which were remitted to GSIS within the first (10) days of the calendar month following the period to which the contributions apply.  For CY 2020, employees’ and employer’s contributions totalled ₱46,581,688.43, while remittances made amounted to ₱43,378,405.85, detailed as follows:
+
+
+
+Table 35.  GSIS Contributions and Remittances
+
+Particulars
+
+Amount
+
+Beginning Balance, 1/1/20
+
+P    (254,228.32
+
+Withheld in CY 2020
+
+46,581,688.43
+
+Remittance in CY 2020
+
+43,378,405.85
+
+Ending Balance, 12/31/20
+
+P  2,949,054.26
+
+
+
+
+
+Compliance with PhilHealth Contributions
+
+
+
+14)	PhilHealth contributions and remittances were substantially complied with by the University per RA No. 10606 as follows:  
+
+
+
+Table 36.  PhilHealth Contributions and Remittances
+
+Particulars
+
+Amount
+
+Beginning Balance, 1/1/20
+
+P   (26,229.31)
+
+Withheld in CY 2020
+
+5,467,578.18
+
+Remittance in CY 2020
+
+5,365,984.44
+
+Ending Balance, 12/31/20
+
+P     75,364.43
+
+
+
+
+
+Compliance with HDMF Contributions
+
+
+
+15)	The SLSU complied with the provisions of RA No. 9679. Personal contributions and employer’s counterpart were remitted on or before the 10th day of the month following the period covered, detailed as follows:
+
+
+
+Table 37.  HDMF Contributions and Remittances
+
+Particulars
+
+Amount
+
+Beginning Balance, 1/1/20
+
+P       7,368.47
+
+Withheld in CY 2020
+
+3,211,202.27
+
+Remittance in CY 2020
+
+3,196,144.78
+
+Ending Balance, 12/31/20
+
+P     22,425.96
+
+
+
+
+
+
+
+
+
+
+
+Status of Settlements of Audit Suspensions, Disallowances and Charges
+
+
+
+16)	Shown below are the balances of Suspensions and Disallowances as of December 31, 2020 amounting to P904,430.82 and P27,427,198.32, respectively:
+
+
+
+        Table 38.  Balances of Suspensions and Disallowances 
+
+Campus
+
+Suspensions
+
+Disallowances
+
+Main
+
+P           0.00
+
+P11,294,515.52
+
+San Juan
+
+ 904,430.82
+
+9,263,788.12
+
+Hinunangan
+
+0.00
+
+634,000.00
+
+Bontoc
+
+0.00
+
+260,000.00
+
+Tomas Oppus
+
+0.00
+
+5,974,894.68
+
+Total
+
+P904,430.82
+
+P27,427,198.32
+
+
+
+
+
+
+
+38
+
+
+
+
+
+
+
+
+

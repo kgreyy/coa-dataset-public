@@ -1,0 +1,5364 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+26 
+
+ 
+
+ 
+
+OBSERVATIONS AND RECOMMENDATIONS 
+ 
+
+A. Financial Audit 
+ 
+
+Unreliable cash balances and overstatement of ICTE - ₱4,967,040.00 
+
+ 
+
+1. The recorded irregularly processed payment of undelivered equipment 
+resulted in the overstatement of the accounts Information and Communication 
+
+Technology Equipment (ICTE) and Accumulated Surplus/(Deficit) by 
+
+₱4,967,040.00 and exposed the agency to possible misuse of funds. Likewise, 
+
+the non-submission of Bank Reconciliation Statements (BRSs) and the 
+
+corresponding bank statements precluded the Audit Team from ensuring the 
+
+correctness of cash balances and the detection of errors. 
+
+ 
+
+Audit of the cash transactions of the PCUP disclosed the following 
+
+deficiencies: 
+
+ 
+
+(a) Recording of undelivered equipment and irregular processing of its payment 
+ 
+
+Sound internal control dictates that payment shall be processed and made out 
+
+of government funds only when goods are delivered, and services are rendered or 
+
+when there is a valid claim. Moreover, assets are recorded only upon actual delivery 
+
+and full acceptance and inspection by the procuring entity, not when the contract is 
+
+perfected. 
+
+ 
+
+Sections 3 (c) and (d), Chapter 10, Volume I of the GAM for NGAs provides 
+
+that “the cost of an item of PPE shall be recognized as assets if, and only if 
+
+beneficial ownership and control clearly rest with the government; and the asset is 
+
+used to achieve government objectives.” 
+
+ 
+
+In December 2020, the PCUP entered into a contract with Accent Micro 
+
+Technologies Inc. for the delivery of laptops with total costs of ₱4,967,040.00. The 
+
+contract and its supporting documents were not submitted to the Audit Team for 
+
+review; hence, its perfection and details were not confirmed nor validated. 
+
+ 
+
+The Accountant narrated that the payment was processed, and a Check No. 
+
+230954 was prepared with the assumption that the supplier will deliver these 
+
+equipment as scheduled. Corresponding entry was made to record the laptops and 
+
+the processed check by a debit to account ICTE and a credit to account Cash, 
+
+Modified Disbursement System (MDS) – Regular for ₱4,700,948.57 (net of 
+
+withholding tax). However, the supplier failed to deliver, and consequently, the 
+
+contract was terminated. As a result, the said check became part of the unreleased 
+
+checks and later on cancelled. 
+
+ 
+
+
+
+27 
+
+ 
+
+ 
+
+Review of the BRS (submitted in March 2021) and the report of cancelled 
+
+checks established that Check No. 230954 was processed and subsequently 
+
+cancelled in February 2021. 
+
+ 
+
+Although aware of this deficiency, the Accountant did not correct/reverse the 
+
+erroneous entry made. Instead, the supposed purchase of the ICTE was only 
+
+disclosed on the face of the financial statements. As an effect, the reversal of Cash, 
+
+MDS – Regular year-end balance to the Subsidy Income from National Government 
+
+to record the reversion of unutilized Notice of Cash Allocation was short of the 
+
+same amount. Consequently, the ICTE and Accumulated Surplus/(Deficit) accounts 
+
+were overstated by ₱4,967,040.00. 
+
+ 
+
+This practice of processing payments before the procured item or service is 
+
+delivered/rendered exposed the Agency to possible misuse of funds. 
+
+ 
+
+(b) Non-submission of BRS and the corresponding Bank Statements  
+ 
+
+Pertinent provisions on Bank Reconciliation under Chapter 21, Volume I of 
+
+GAM for NGAs are as follows, among others: 
+
+ 
+
+Sec. 3. Objectives. The BRS shall be prepared in order to: 
+
+ 
+
+a. Check correctness of both the bank’s and 
+agency’s/entity’s records, 
+
+b. Serve as a deterrent to fraud, and 
+c. Enable the agency/entity or bank to take up charges or 
+
+credits recognized by the bank or agency/entity but not 
+
+yet known to the agency/entity or bank. xxx 
+
+ 
+
+Sec. 7. Reporting. The Chief Accountant shall submit the BRS 
+
+within twenty days after receipt of the monthly bank statement 
+
+to the following: 
+
+ 
+
+Original – COA Auditor (with all the supporting documents 
+
+and JEVs) xxx 
+
+ 
+
+Review of the cash accounts and transactions of the PCUP revealed the 
+
+following unsubmitted BRS for the four LBP accounts maintained by the Agency: 
+
+ 
+LBP Account 
+
+No. 
+
+Fund Type Particulars Unsubmitted BRS 
+
+2069-9001-11 Regular Fund MDS, Regular November to December 2020 
+
+2151-9010-96 Trust Fund MDS, Trust  Per record, no BRS was submitted 
+
+since July 2017 up to audit date 
+
+0691-1200-66 Regular Fund Used for online 
+
+remittances of 
+
+contributions to Pag-IBIG 
+
+January to December 2020  
+
+(Per record, no BRS for CY 2019 
+
+was submitted) 
+
+2151-9008-63  MDS, reported as inactive No BRS was submitted for CY 2020 
+
+
+
+28 
+
+ 
+
+ 
+
+ 
+
+Management explained that the delay in preparing and submitting the BRSs 
+
+was due to the late receipt of bank statements from the bank, particularly on LBP 
+
+Account No. 2069-9001-11 or the PCUP’s MDS Regular, in which the BRS for 
+
+November and December 2020 were not yet submitted as at the date of audit. While 
+
+the LBP Account No. 0691-1200-66 is used for remittances to Pag-IBIG via the 
+
+online facility of LBP. However, despite the ability to print the monthly bank 
+
+statement through online, the Agency did not prepare nor submit BRS. 
+
+ 
+
+Moreover, LBP Account No. 2151-9010-96 is used for the Agency’s trust 
+
+receipts from the Department of Transportation (DOT), Department of Interior and 
+
+Local Government (DILG), and National Housing Authority (NHA) for various 
+
+programs/projects. From the time the account was created, the Agency never 
+
+submitted BRS. This lapse was further intensified by the delayed submission of 
+
+Disbursement Vouchers (DVs) - June 2019 to September 2020 DVs were only 
+
+submitted on December 29, 2020; and October to December 2020 were only 
+
+received by the Audit Team on March 16, 2021.  
+
+ 
+
+The non-submission of BRS and its corresponding Bank Statements, 
+
+especially for Account No. 2151-9010-96, which transactions/DVs were submitted 
+
+belatedly, precluded the Audit Team from ensuring the correctness of cash 
+
+balances, and any misuse of funds could not be readily detected. 
+
+ 
+
+In view of the preceding deficiencies, the faithful representation of the balance 
+
+of the Cash and Cash Equivalents account as of December 31, 2020, in the amount 
+
+of ₱1,067,447.47 was not established, and resulted in the overstatement of the ICTE 
+
+and the Accumulated Surplus/(Deficit) accounts by ₱4,967,040.00. 
+
+ 
+
+We recommended that Management require the: 
+
+ 
+
+a. Administrative and Finance Division (AFD) to avoid the practice of 
+processing payment before the goods are received by the Agency; 
+
+ 
+
+b. Accounting Unit to prepare the necessary adjusting entry to correct the 
+irregular recording of the ICTE items and its payments amounting to 
+
+₱4,967,040.00 by debiting the Accumulated Surplus/(Deficit) and crediting 
+
+the ICTE account; and 
+
+ 
+
+c.    Accounting Unit to prepare and submit BRSs together with all the required 
+schedules and supporting documents within the prescribed deadline to 
+
+allow timely verification thereof. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+29 
+
+ 
+
+ 
+
+Management Comment: 
+
+ 
+
+On recording of undelivered equipment and irregular processing of its payment: 
+
+ 
+
+ The payment/check was prepared given the anticipated limited personnel in 
+December 2020 and that the pertinent funds will be returned to the Treasury if 
+
+not disbursed in 2020; 
+
+ No payment was made and the recording of undelivered laptops is not 
+permanent; 
+
+ The check was cancelled accordingly; and 
+ The necessary adjusting entry to correct the recording of payment and of the 
+
+ICTE will be done in line with the recommendation 
+
+ 
+
+On non-submission of Bank Reconciliation Statement and the corresponding Bank 
+
+Statement: 
+
+ 
+
+ The delayed submission was primarily due to delayed receipt of Bank 
+Statements. 
+
+ The Accounting Unit has limited personnel because it maintains only a skeletal 
+force due to the 2019 pandemic. 
+
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+The Audit Team maintain its stand that the Agency should observe regular 
+
+processing of payment, that is, payment should only be processed when the items 
+
+purchased are received. The same goes with the transaction recording; assets should 
+
+only be recorded when delivered and duly received by the Agency. 
+
+ 
+
+As this is a reiteration of prior years’ observation, this deficiency already 
+
+existed before the pandemic. Also, of the four (4) existing bank accounts of the 
+
+Agency, only one BRS was prepared and submitted during the audit period. 
+
+ 
+
+ 
+
+Misstatements in Inventory and PPEs and control deficiencies - ₱3,216,572.67 
+
+ 
+
+2. Misstatements in the Inventory accounts caused by the (a) non-recognition of 
+issued Semi-Expendable Properties (SEPs) with an aggregate amount of 
+
+₱3,216,572.67 and (b) non-recording of issued Office Supplies Inventory (OSI). 
+
+Likewise, there were lapses in the control of accountability of the PPE and 
+
+Inventory items such as the (c) non-issuance of PAR for issued ICTE and 
+
+Office Equipment (OE) totaling ₱4,161,251.01 and (d) non-submission of RPCI 
+
+and RPCPPE and incomplete PPELC data that resulted in the non-
+
+establishment of accountabilities and the exposure of the PPEs and inventories 
+
+to the risk of being stolen, lost or misused. 
+
+ 
+
+ 
+
+
+
+30 
+
+ 
+
+ 
+
+(a) Non-recognition of issued SEPs - ₱3,216,572.67  
+ 
+
+Pertinent provisions on SEPs under Chapter 8, Volume I of the GAM for 
+
+NGAs are as follows: 
+
+ 
+
+Sec. 10. b. These tangible assets shall be recognized as 
+
+expenses upon issue to the end-user. 
+
+ 
+
+Sec. 11. Accountability over Semi-Expendable Property. 
+
+Inventory Custodian Slip (ICS) (Appendix 59) shall be issued 
+
+to end-user of Semi-Expendable Property to establish 
+
+accountability over them. xxx 
+
+ 
+
+The detailed statement of financial position of the PCUP as at December 31, 
+
+2020, showed the following balances of SEPs: 
+
+ 
+
+Account CY 2020 CY 2019 
+Increase/ 
+
+(Decrease) 
+
+Semi-Expendable Office 
+
+Equipment (SEOE) 
+
+ 444,648.00   405,346.00   39,302.00  
+
+Semi-Expendable ICT Equipment 
+
+(SEICTE) 
+
+ 2,287,884.60  2,274,433.10   13,451.50  
+
+Semi-Expendable Communications 
+
+Equipment (SECE) 
+
+ 109,009.75   109,009.75   -    
+
+Semi-Expendable Other Machinery 
+
+and Equipment (SEOME) 
+
+ 15,689.75   13,239.75   2,450.00  
+
+Semi-Expendable Furniture and 
+
+Fixtures (SEFF) 
+
+ 359,340.57   359,340.57   -    
+
+Total SEPs  3,216,572.67   3,161,369.17   55,203.50  
+
+ 
+
+While the related expenses were reported at the Agency’s detailed statement 
+
+of financial performance as at December 31, 2020, as follows: 
+
+ 
+
+Account 
+CY 2020 
+
+Amount 
+Remarks 
+
+Semi-Expendable 
+
+Machinery & Equipment – 
+
+OE 
+
+5,309.75 The amount pertains to issuances/incurred 
+
+expenses by Field Operations Division for 
+
+Mindanao (FOD-Mindanao) and no 
+
+expenses were reported for  the Central 
+
+Office 
+
+Semi-Expendable 
+
+Machinery & Equipment – 
+
+ICTE 
+
+81,572.50 The amount pertains to issuances/incurred 
+
+expenses by FOD for Visayas (FOD-
+
+Visayas) & FOD-Mindanao and no 
+
+expenses were reported for  the Central 
+
+Office 
+
+Semi-Expendable 
+
+Machinery & Equipment – 
+
+- 
+
+ 
+
+No reported issuance in CY 2020 
+
+
+
+31 
+
+ 
+
+ 
+
+Account 
+CY 2020 
+
+Amount 
+Remarks 
+
+Communications Equipment 
+
+Semi-Expendable 
+
+Machinery & Eqpt – Other 
+
+Machinery 
+
+- No reported issuance in CY 2020 
+
+Semi-Expendable Furniture 
+
+& Fixtures & Books 
+
+- No reported issuance in CY 2020 
+
+Total SEP Expenses 86,882.25  
+
+  
+
+From the tables above, it appeared that the PCUP Central Office did not issue 
+
+SEPs for CY 2020 and the CY 2019 balances were not reduced for issuances. 
+
+However, inquiry with the concerned Supply, Property and General Services Unit 
+
+(SPGSU) personnel of the physical existence of these SEPs disclosed that SPGSU 
+
+no longer holds a single stock of SEP as at year-end. The Audit Team was informed 
+
+that SEPs were issued in the period that these were acquired; hence, no physical 
+
+item is in their position. 
+
+ 
+
+Moreover, there were 43 Inventory Custodian Slips (ICS) in the possession of 
+
+the SPGSU, which were not yet submitted to the Accounting Unit for posting. 
+
+These ICSs pertain to issuances for CY 2020 but were unrecorded as at December 
+
+31, 2020. Details are as follows: 
+
+ 
+
+No. of ICS Particulars Amount (₱) 
+
+6 SEOE – seven (7) calculators 2,427.95 
+
+3 SEFF – three (3) office tables with drawers 22,900.00 
+
+34 
+SEICTE – 33 Epson L5190 printer and one TP-
+
+Link Wireless USB 
+
+418,992.81 
+
+Total 444,320.76 
+
+ 
+
+Further, as there was no remaining stock for SEP at year-end, it can be 
+
+inferred that there were issuances that were not issued with ICS. As a result, 
+
+accountabilities over these properties were not established, which may lead to the 
+
+risk of being stolen or lost or misused, and the related SEPs accounts in the 
+
+financial statements are overstated by ₱3,216,572.67. 
+
+ 
+
+(b) Non-recognition of issued Office Supplies Inventory 
+ 
+
+Relevant provisions related to inventory under Chapter 8, Volume I of the 
+
+GAM for NGAs are as follows: 
+
+ 
+
+Sec. 7. Recognition as an Expense. When inventories are sold, 
+
+exchanged, or distributed, their carrying amount shall be 
+
+recognized as an expense in the period in which the related 
+
+revenue is recognized. If there is no related revenue, the 
+
+
+
+32 
+
+ 
+
+ 
+
+expense is recognized when the goods are distributed or the 
+
+related service is rendered. 
+
+ 
+
+Sec. 17.g. Report of Supplies and Materials Issued (RSMI) 
+
+(Appendix 64) shall be prepared by the Property and/or Supply 
+
+Custodian based on the RIS and shall be used by the 
+
+Accounting Division/Unit as basis in preparing the JEV to 
+
+record the supplies and materials issued. 
+
+ 
+
+Accounting records showed that PCUP only recognized the issued Office 
+
+Supplies for January 2020. Issuances from February to December 2020 were not 
+
+recorded as the SPGSU failed to submit to the Accounting Unit the 85 RSMIs 
+
+comprising the issuances of office supplies for those periods, as follows: 
+
+ 
+
+Month RSMI No. 
+Count of 
+
+RSMI 
+RIS No. Amount 
+
+February 2020 2020-02-027 to 043 18 2020-02-057 to 102  Not indicated  
+
+March 2020 2020-03-044 to 054 11 2020-03-103 to 132  Not indicated  
+
+May 2020 2020-05-055 to 060 6 2020-05-133 to 143  Not indicated  
+
+June 2020 2020-06-061 to 063 3 2020-06-144 to 157  Not indicated  
+
+July 2020 2020-07-064 to 066 3 2020-07-158 to 174  Not indicated  
+
+August 2020 2020-08-067 to 069 3 2020-08-175 to 191  Not indicated  
+
+September 2020 2020-09-070 to 071 2 2020-09-192 to 205  Not indicated  
+
+October 2020 2020-10-072 to 084 13 2020-10-206 to 241  Not indicated  
+
+November 2020 2020-11-085 to 097 13 2020-11-241 to 265  Not indicated  
+
+December 2020 2020-12-098 to 110 13 2020-12-265 to 310  Not indicated  
+
+   
+
+As these RSMIs were not submitted to Accounting Unit, the related supplies’ 
+
+actual costs cannot be determined. Hence, the ₱1,936,294.40 Office Supplies 
+
+Inventory as at year-end is overstated by an undetermined amount. 
+
+ 
+
+(c) Non-issuance of PAR for issued ICTE and OE - ₱4,161,251.01 
+
+ 
+
+Section 21, Chapter 10, of the same volume of the GAM provides that “xxx 
+
+the Supply and/or Property Custodian shall prepare Property Acknowledgment 
+
+Receipt (PAR) (Appendix 71) to support the issue of property to end-user. The PAR 
+
+shall be renewed at least every three years or every time there is a change in 
+
+accountability or custodianship of the property.” 
+
+ 
+
+While Section 42 (f) describes PAR as the form “to be used by the Supply 
+
+and/or Property Division/Unit to report the issuance of PPE and the 
+
+acknowledgement of the end-user.” 
+
+ 
+
+Inspection of the Property Cards (PCs) and PARs maintained by the SPGSU 
+
+showed that properties issued to end-users were not supported with PAR. Based on 
+
+sampled ICTEs and OEs, 109 properties costing ₱4,161,251.01 were found to be 
+
+
+
+33 
+
+ 
+
+ 
+
+assigned to end-users as per the PCs, but PARs evidencing the acknowledgment of 
+
+accountabilities were non-existent. Details are as follows: 
+
+ 
+
+Particulars Qty Amount (₱) 
+
+ICTE: 
+
+Laptops/Notebooks 34  1,066,254.00  
+
+Desktop Computers 38  969,101.81  
+
+Printers 2  38,752.35  
+
+Projectors 2  57,035.00  
+
+IPAD 1  24,995.00  
+
+Total 77  2,156,138.16  
+
+OE: 
+
+Air Conditioner 15  917,533.85  
+
+Digital Camera 9  344,729.00  
+
+Digital Duplicator/Risograph 1  367,887.00  
+
+Sharp Digital Laser 1  238,663.00  
+
+Type Writer (Manual and Electric) 5  108,800.00  
+
+Check Writer 1  27,500.00  
+
+Total 32  2,005,112.85  
+
+Grand Total 109 4,161,251.01 
+
+ 
+
+Moreover, some PARs were unsigned or not acknowledged by the recipients. 
+
+Hence, accountabilities of these properties were not established and are exposed to 
+
+the risk of being stolen, lost or misused. 
+
+ 
+
+(d) Non-submission of RPCI and RPCPPE, and incomplete PPELC data 
+ 
+
+Sections 13 and 17 (i), Chapter 8 provide that physical count/inventory, which 
+
+is required semi-annually, is an indispensable procedure for checking the integrity 
+
+of property custodianship. Report on the Physical Count of Inventories (RPCI) 
+
+(Appendix 66) shall be used to report the physical count of supplies by type of 
+
+inventory and the instructions in Appendix 66 states that it shall be submitted to the 
+
+COA Auditor not later than July 31 and January 31 of each year. 
+
+ 
+
+Section 38, Chapter 10 provides that entity shall have a periodic physical 
+
+count of PPE, which shall be done annually and presented on the Report on the 
+
+Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 71) as at 
+
+December 31 each year. This shall be submitted to the Auditor concerned not later 
+
+than January 31 of the following year.” 
+
+ 
+
+In February 2021, the PCUP invited the Audit Team to witness the physical 
+
+count of inventories. However, as at the date of writing, no RPCI was submitted. 
+
+Also, the Agency was not able to conduct a physical count of the PPEs; hence, no 
+
+RPCPPE. Moreover, the Accounting Unit’s PPELC does not include the properties 
+
+assigned/distributed to FOD-Visayas and FOD-Mindanao. 
+
+ 
+
+
+
+34 
+
+ 
+
+ 
+
+As a result, the existence and accuracy of the reported balances of PPEs and 
+
+Inventories in the financial statements as at year-end could not be accurately 
+
+established. 
+
+ 
+
+We recommended and Management agreed to require the: 
+
+ 
+
+a. SPGSU to - 
+ 
+
+i.   immediately prepare the ICS and RSMIs for the prior issued SEPs 
+and office supplies and submit them to the Accounting Unit; 
+
+ 
+
+ii.   periodically submit accomplished ICS to the Accounting Unit for 
+timely posting/recording and ensure that duly-accomplished ICS 
+
+should accompany every issuance of SEPs to establish 
+
+accountabilities on them; 
+
+ 
+
+iii.   ascertain that all issuances of inventories are supported with 
+Requisition and Issue Slip (RIS), summarized in a monthly RSMIs, 
+
+and periodically submit them to Accounting Unit for recording; 
+
+ 
+
+iv.   ensure that accountabilities over the PPEs are established and all 
+issued properties are duly supported by PAR; 
+
+ 
+
+b. SPGSU and Accounting Unit to coordinate and conduct periodic 
+reconciliation of balances and records of properties and inventories; 
+
+ 
+
+c. Accounting Unit to - 
+ 
+
+i.   include all the property of the Agency, regardless of location, in the 
+PPELC; and 
+
+ 
+
+ii.   adjust the affected accounts in the books upon receipt of the ICS and 
+RSMIs from the SPGSU; and 
+
+ 
+
+d. Inventory Committee to ensure the periodic conduct of physical count of 
+inventories and PPEs, and prepare and submit the RPCI and RPCPPE as 
+
+prescribed by GAM for NGAs. 
+ 
+
+ 
+
+Misstatements and Accounting Deficiencies on Expenses 
+
+ 
+
+3. The erroneous recording in CY 2020 of prior period disbursements totaling 
+₱558,985.24 resulted in the overstatement of expenses and accumulated 
+
+surplus/deficit by the same amount.  Moreover, travelling, other professional 
+
+services and consultancy expenses of ₱101,540.00 was misclassified as training 
+
+expenses, and disbursements aggregating ₱4,344,254.69 were paid without 
+
+
+
+35 
+
+ 
+
+ 
+
+complete documentation necessary to determine its validity and regularity, and 
+
+accuracy, as required under Section 4.6 of PD No. 1445, and service contracts 
+
+were not notarized/improperly notarized and were submitted late. 
+
+ 
+
+(a) Prior period expenses recognized as expenses for CY 2020 - ₱558,985.24 
+ 
+
+Section 6 (b), Chapter 2, Volume I of the GAM provides that each 
+
+government entity shall recognize and present its financial transactions and 
+
+operations conformably to the accrual basis of accounting in accordance with the 
+
+International Public Sector Accounting Standards (IPSAS). 
+
+ 
+
+While Section 2 (a) defines accrual basis as a basis of accounting under which 
+
+transactions and other events are recognized when they occur (and not only when 
+
+cash or its equivalent is received or paid). Therefore, the transactions and events are 
+
+recognized in the accounting records and recognized in the financial statements of 
+
+the periods to which they relate.  
+
+ 
+
+Post-audit of DVs showed that CY 2019 disbursements totaling ₱558,985.24 
+
+were recorded as CY 2020 expenses, contrary to the accrual basis of accounting 
+
+under the aforecited Sections, 2 (a) and 6 (b). As a result, the said expenses 
+
+accounts and accumulated surplus/deficit were overstated by the same amount, as 
+
+shown below: 
+
+ 
+
+Date DV No. Particulars Account 
+
+Charged 
+
+Amount 
+
+(₱) 
+
+1/24/2020 101-20-01-
+
+0047 
+
+Payment for seminar on 
+
+proposal making & 
+
+cooperative development for 
+
+the urban poor last December 
+
+19, 2019 at Brgy. Dalig 
+
+Teresa, Rizal. 
+
+Training 
+
+Expenses 
+
+125,000.00 
+
+2/21/2020 101-20-02-
+
+0165 
+
+Reimbursement of expenses 
+
+made for FOD-Luzon Caravan 
+
+2019 Convergence of 
+
+Government Services for the 
+
+Urban Poor in San Narciso, 
+
+Zambales. 
+
+Training 
+
+Expenses 
+
+2,175.24 
+
+3/25/2020 101-20-03-
+
+0451 
+
+Payment for the incurred 
+
+during the En Banc Meeting 
+
+on December 9, 2019. 
+
+Training 
+
+Expenses 
+
+28,750.00 
+
+11/25/2020 101-20-11-
+
+1111 
+
+Payment-food, function hall,  
+
+room accommodation for 
+
+event entitled “Roll Out 
+
+Orientation on Proposed Bill-
+
+National Commission for the 
+
+Urban Poor on October 23, 
+
+Training 
+
+Expenses 
+
+71,600.00 
+
+
+
+36 
+
+ 
+
+ 
+
+Date DV No. Particulars Account 
+
+Charged 
+
+Amount 
+
+(₱) 
+
+2019. 
+
+Total CY 2019 Training Expenses 227,525.24 
+
+1/17/2020 
+
+ 
+
+101-20-01-
+
+0038 
+
+ 
+
+Reimbursement of travel 
+
+expenses for the travel to San 
+
+Jose, Antique on December 
+
+17-20, 2019. 
+
+Travelling 
+
+Expenses – 
+
+Local 
+
+               
+
+1,420.00  
+
+ 
+
+1/21/2020 101-20-01-
+
+0041 
+
+ 
+
+Reimbursement of travel 
+
+expenses to San Jose, Antique 
+
+Caravan at EBJ Covered Court 
+
+Binirayan Hills, Antique on 
+
+Dec. 17-20, 2019. 
+
+Travelling 
+
+Expenses – 
+
+Local 
+
+               
+
+1,270.00  
+
+ 
+
+1/21/2020 101-20-01-
+
+0042 
+
+ 
+
+Reimbursement of travel 
+
+expenses to San Jose, Antique 
+
+Caravan at EBJ Covered Court 
+
+Binirayan Hills, Antique on 
+
+Dec. 17-20, 2019. 
+
+Travelling 
+
+Expenses – 
+
+Local 
+
+               
+
+1,270.00  
+
+ 
+
+Total CY 2019 Travelling Expenses 3,960.00 
+
+2/5/2020 101-20-01-
+
+0095 
+
+ 
+
+Payment for Gratuity Pay for 
+
+FY 2019. 
+
+Other 
+
+Professional 
+
+Services 
+
+1,500.00 
+
+2/5/2020 101-20-01-
+
+0083 
+
+ 
+
+Payment for Gratuity Pay for 
+
+FY 2019. 
+
+Other 
+
+Professional 
+
+Services 
+
+            
+
+324,500.00  
+
+2/6/2020 101-20-01-
+
+0044 
+
+ 
+
+Payment for Gratuity Pay for 
+
+FY 2019. 
+
+Other 
+
+Professional 
+
+Services 
+
+1,500.00 
+
+Total CY 2019 Other Professional Services 327,500.00 
+
+Total CY 2019 expenses recorded in CY 2020 558,985.24 
+
+ 
+
+(b) Misclassified Expenses - ₱101,540.00 
+  
+
+The 2019 Revised Chart of Accounts (RCA), Volume III of the GAM 
+
+describes the following accounts: 
+
+ 
+
+Account Name Description 
+
+Training Expenses This account is used to recognize the costs incurred for 
+
+the participation/attendance in and conduct of 
+
+trainings, conventions and seminars/workshops. It 
+
+includes training fees, honoraria of lecturers, cost of 
+
+handouts, supplies and materials, meals, snacks, 
+
+transportation expenses of participants/training 
+
+management team, and all other related training 
+
+expenses. 
+
+
+
+37 
+
+ 
+
+ 
+
+Account Name Description 
+
+Traveling Expenses – 
+
+Local 
+
+This account is used to recognize the costs incurred in 
+
+the movement/transport of government officers and 
+
+employees within the country. This includes amount 
+
+paid/incurred for fare/transportation, travel per diems, 
+
+and all other related expenses. 
+
+Consultancy Services This account is used to recognize the cost of services 
+
+rendered by consultants contracted to perform 
+
+particular outputs or services primarily advisory in 
+
+nature and requiring highly specialized or technical 
+
+expertise which cannot be provided by the regular staff 
+
+of the Agency. 
+
+Other Professional 
+
+Services 
+
+This account is used to recognize the cost of other 
+
+professional services contracted by the Agency not 
+
+otherwise classified under any of the specific 
+
+professional services accounts. 
+
+ 
+
+For CY 2020, disbursements totaling ₱101,540.00 were erroneously recorded 
+
+as training expenses, as shown below: 
+
+ 
+
+Particulars Should be Account Amount (₱) 
+
+Per diem per Office Order (OO) No. 031.2020 
+
+attended OCOMM2019 Assessment & 
+
+Evaluation cum Strategic Planning for CY 2020 
+
+on Feb 11-13, 2020 at Venus Hotel Baguio City. 
+
+Travelling Expenses – 
+
+Local 
+
+1,080.00 
+
+ 
+
+Per diem per OO No. 031.2020 attended 
+
+OCOMM2019 Assessment & Evaluation cum 
+
+Strategic Planning for CY 2020 on Feb. 11-13, 
+
+2020 at Venus Hotel Baguio City. 
+
+Travelling Expenses – 
+
+Local 
+
+1,080.00 
+
+ 
+
+Per diem per OO No. 031.2020 attended 
+
+OCOMM2019 Assessment & Evaluation cum 
+
+Strategic Planning for CY 2020 on Feb. 11-13, 
+
+2020 at Venus Hotel Baguio City. 
+
+Travelling Expenses – 
+
+Local 
+
+1,080.00 
+
+ 
+
+Reimbursement of travel expenses dated Feb. 
+
+5& 6, 2020 in Laguna. 
+
+Travelling Expenses – 
+
+Local 
+
+3,300.00 
+
+ 
+
+Sub-total  6,540.00 
+
+Payment of Salary of Data Encoder for the 
+
+completion of 33 percent of the target UPO 
+
+Profiles for Encoding  
+
+Other Professional 
+
+Services 
+
+15,000.00 
+
+ 
+
+Payment of Salary of Data Encoder for the 
+
+completion of 33 percent of the target UPO 
+
+Profiles for Encoding  
+
+Other Professional 
+
+Services 
+
+15,000.00 
+
+ 
+
+Payment of Salary of Data Encoder for the 
+
+completion of 33 percent of the target UPO 
+
+Profiles for Encoding 
+
+Other Professional 
+
+Services 
+
+15,000.00 
+
+ 
+
+Sub-total  45,000.00 
+
+
+
+38 
+
+ 
+
+ 
+
+Particulars Should be Account Amount (₱) 
+
+Payment for the 4th tranche consultancy services 
+
+provided for the project “Development & 
+
+Implementation of Quality Management System 
+
+of PCUP Certifiable to ISO 9001:2015.” 
+
+Consultancy Services 50,000.00 
+
+ 
+
+Total  101,540.00 
+
+ 
+
+Misclassification of various accounts affected the reliability and faithful 
+
+presentation of the accounts in the financial statements contrary to Section 7, 
+
+Chapter 19, Volume I of the GAM, which provides that the Financial Statements 
+
+shall present fairly the financial position, financial performance, and cash flows of 
+
+an entity.  Fair presentation requires the faithful presentation of the effects of 
+
+transactions, other events, and conditions in accordance with the definitions and 
+
+recognition criteria for assets, liabilities, revenue, and expenses set out in IPSASs. 
+
+ 
+
+(c) Unsupported claims against government funds - ₱4,344,254.69 
+ 
+
+Section 4 (6) of PD No. 1445 sets forth the fundamental principles that govern 
+
+any government agency’s financial transactions and operations, which provides that 
+
+claims against government funds shall be supported with complete documentation, 
+
+while COA Circular No. 2012-001 requires pertinent documentary requirements for 
+
+common government transactions. 
+ 
+
+Review of the documentary requirements on the payment of training 
+
+expenses, traveling expenses – local and other professional services aggregating 
+
+₱4,344,254.69 were not observed, as some of the claims, if not all, were not 
+
+supported with the following documents (see Annex B for details): 
+
+ 
+
+Training Expenses: 
+
+ 1. Official Receipts 
+2. Notice of Meeting 
+3. Minutes of Meeting 
+4. Purchase Request 
+5. Purchase Order 
+6. Certificate of Emergency Purchase 
+7. Inspection and Acceptance Report 
+8. Abstract of Canvass 
+
+ 
+
+Traveling Expenses: 
+
+ 9. Office Order/Travel Order approved (Sec. 3 of EO No. 298); 
+10. Duly approved itinerary of travel; 
+11. Certificate of appearance/attendance; 
+12. Certificate of Travel Completed; and 
+13. Receipts/Certificate of Expenses Not Requiring Receipts (CENRR) 
+
+to support the valid claims of transportation allowances  
+ 
+
+ 
+
+ 
+
+
+
+39 
+
+ 
+
+ 
+
+Other Professional Services: 
+
+ 14. Daily Time Record 
+15. Accomplishment Report 
+
+ 
+
+Likewise, review of the service contracts showed the following deficiencies: 
+
+ 
+
+1. There were contracts of the contract of service/job order personnel 
+(COSs/JOs), which were not notarized or were notarized beyond the 
+
+stipulated commencement or assumption date of the COS/JO; and  
+
+ 
+
+2. In submitting the contracts of COS/JOs, Management incurred delays 
+ranging from four to 165 days, contrary to COA Circular 2009-001 dated 
+
+February 12, 2009. The Circular requires that within five (5) working days 
+
+from the execution of a contract by the government or any of its 
+
+subdivisions, agencies or instrumentalities, a copy of said contract and its 
+
+supporting documents shall be furnished to the Auditor. 
+
+ 
+
+The above deficiencies resulted from the Accountant’s failure to closely 
+
+monitor and review the DVs as to their completeness of documentary requirements 
+
+in compliance with pertinent rules and regulations; thus affecting the transactions’ 
+
+validity and regularity. 
+
+ 
+
+We recommended and Management agreed to: 
+
+ 
+
+a. require the Chief Accountant to: 
+ 
+
+i. prepare adjusting entries to correct the affected accounts, and 
+henceforth, to strictly conform to the accrual basis of accounting in 
+
+accordance with the IPSAS. 
+
+ 
+
+ii. ensure that transactions are recorded in the correct accounts; and 
+ 
+
+iii. refrain from processing claims with incomplete documentation in 
+compliance with Section 4(6) of PD 1445 and the prescribed 
+
+documentary requirements under COA Circular No. 2012-001; and 
+
+ 
+
+b. ensure that contracts of the COS/JOs are submitted within the prescribed 
+period in conformity with the provisions of COA Circular 2009-001, while 
+
+ascertaining that all contracts are notarized before the stipulated 
+
+commencement of the COS/JO’s service. 
+ 
+
+ 
+
+Non-preparation of Financial Statements for Trust Receipts 
+
+ 
+
+4. PCUP did not prepare nor submit separate financial statements for its Trust 
+Receipts/Inter-Agency Transferred Funds, totaling ₱429,422,011.52, contrary 
+
+
+
+40 
+
+ 
+
+ 
+
+to the provisions of COA Circular No. 2015-002 and the GAM for NGAs, and 
+
+adversely affecting the fair presentation of the Agency’s financial statements. 
+
+ 
+
+COA Circular No. 2015-002 dated March 9, 2015 (updated by COA 
+
+Resolution 2020-001), provides the following provisions related to NGAs’ 
+
+preparation and submission of financial statements: 
+ 
+
+4.1. The components of financial statements, pursuant to 
+PPSAS 1, are as follows: 
+
+  
+a. Statement of Financial Position 
+b. Statement of Financial Performance 
+c. Statement of Cash Flows 
+d. Statement of Changes in Net Assets/Equity 
+e. Statement of Comparison of Budget and Actual 
+
+Amounts 
+
+f. Notes to the Financial Statements comprising a 
+summary of significant accounting policies and other 
+
+explanatory notes. 
+ 
+
+4.2. xxx, all NGAs shall submit to the COA Auditors and the 
+Government Accountancy Sector, COA, the detailed 
+
+financial statements and trial balances consolidated by 
+
+fund cluster as follows: 
+ 
+
+a. Regular Agency Fund 
+b. Foreign Assisted Projects Fund 
+c. Special Accounts – Locally Funded/Domestic Grants 
+
+Fund 
+
+d. Special Accounts – Foreign Assisted/Foreign Grants 
+Fund 
+
+e. Internally Generated Funds 
+f. Business Related Funds 
+g. Trust Receipts/Inter-Agency Transferred Funds (IATF) 
+
+ 
+
+5.1. All NGAs shall prepare and submit one set of financial 
+statements for all funds (combined all funds) as 
+
+enumerated in paragraph 4.1 as their general purpose 
+
+financial statements. 
+
+ 
+
+Pertinent provisions of Chapter 2, Volume I of the GAM for NGAs state the 
+
+following: 
+ 
+
+Sec. 8. Financial Reporting System for the National 
+
+Government. xxx 
+
+ 
+
+
+
+41 
+
+ 
+
+ 
+
+a. Each entity of the National Government (NG) maintains 
+complete set of accounting books by fund cluster which is 
+
+reconciled with the records of cash transactions maintained 
+
+by the BTr. 
+
+ 
+
+Sec. 13. Fund Accounting. The books of accounts shall be 
+
+maintained by fund cluster as follows: 
+ 
+
+Code Description 
+01 Regular Agency Fund 
+
+02 Foreign Assisted Projects Fund 
+
+03 Special Account-Locally Funded/Domestic Grants Fund 
+
+04 Special Account-Foreign Assisted/Foreign Grants Fund 
+
+05 Internally Generated Funds 
+
+06 Business Related Funds 
+
+07 Trust Receipts 
+
+  
+
+PCUP has been maintaining a trust account for the fund transfers from the 
+
+DILG, Department of Transportation (DOTr), and National Housing Authority 
+
+(NHA) for various projects and programs. It has been submitting to the Audit Team, 
+
+although belatedly, the following reports and documents related to these trust 
+
+receipts: 
+  
+
+a. Trial Balance 
+b. Reports of Checks Issued 
+c. Reports of ADA Issued 
+d. Disbursement Vouchers and Obligation 
+
+Request and Status and attachments 
+
+e. Journal Entry Voucher 
+f. Other liquidation reports 
+
+ 
+
+For CY 2020 and in prior years, the Agency did not submit financial 
+
+statements for the Trust Receipts/IATF. The Accounting Unit was only submitting 
+
+financial statements for the Regular Agency Fund or General Fund. 
+
+ 
+
+It was determined from the review of the above-submitted reports that these 
+
+unreported transactions in the Agency’s financial statements amounted to 
+
+₱429,422,011.52. 
+
+ 
+
+This non-compliance with the above provisions of the COA Circular No. 
+
+2015-002 and the GAM for NGAs or non-reporting of account balances related to 
+
+the trust receipts transactions affects the fair presentation of financial statements.  
+
+  
+
+We recommended and the Accountant agreed to prepare and submit: 
+
+ 
+
+a. complete set of financial statements by fund cluster in accordance with 
+Section 4.2 of COA Circular No. 2015-002 and Sections 8 and 13 of the 
+
+GAM for NGAs; and 
+
+
+
+42 
+
+ 
+
+ 
+
+ 
+
+b. One set of financial statements for all funds (combined) in conformity with 
+Section 5.1 of COA Circular No. 2015-002. 
+
+ 
+
+ 
+
+B. Compliance Audit 
+ 
+
+Control Weaknesses in the Grant, Utilization and Liquidation of Cash Advances (CAs) 
+
+to Special Disbursement Officers (SDOs) 
+
+ 
+
+5. The inadequate controls in the grant, utilization, liquidation, and monitor of 
+CAs to various SDOs aggregating ₱2,924,568.43 resulted in (a) the delays in 
+
+liquidation ranging from six to 411 days; (b) incomplete supporting documents 
+
+of liquidation reports of expenditures amounting to ₱746,301.18; (c) grant of 
+
+CAs in excess of maximum cash accountability (MCA) and Agency’s 
+
+authorized CA amount; (d) unnecessary expenditures amounting to 
+
+₱90,234.19; and (e) other noted deficiencies exposed the government funds to 
+
+risk of loss and misappropriation or misuse. 
+
+ 
+
+COA Circular No. 97-002 dated February 10, 1997 provides, among others, 
+
+the following: 
+ 
+
+Sec. 4.1.2. No additional cash advances shall be allowed to any 
+
+official or employee unless the previous cash advance given to 
+
+him is first settled or a proper accounting thereof is made. 
+
+ 
+
+Sec. 4.1.3. A cash advance shall be reported on as soon as the 
+
+purpose for which it was given has been served. 
+
+ 
+
+Sec. 5.8. All cash advances shall be fully liquidated at the end of 
+
+each year. Except for petty cash fund, the AO shall refund any 
+
+unexpended balance to the Cashier/Collecting Officer who will 
+
+issue the necessary official receipt. 
+
+ 
+
+Section 1.0 of COA Circular No. 2012-004 dated November 28, 2012, 
+
+provides that “CAs for special purpose and time-bound activities must be liquidated 
+
+within 20 days from accomplishment of the purpose.”   
+
+ 
+
+Also, CSC Resolution No. 1900929 dated August 13, 2019, amending the 
+
+Rule V of CSC Resolution No. 04-0676 dated June 17, 2004, provides: 
+ 
+
+Section 8. The failure of an Accountable Officer to render an 
+
+account in full within the periods prescribed and after formal 
+
+demand shall constitute the administrative office of Gross 
+
+Neglect of Duty punishable by dismissal from the service for 
+
+the first offense. Full liquidation/settlement/payment of the 
+
+subject cash advance outside the given periods shall constitute 
+
+
+
+43 
+
+ 
+
+ 
+
+the offense of Simple Neglect of Duty punishable by 
+
+suspension from the service for one (1) month and one (1) day 
+
+to six (6) months for the first offense, and dismissal from the 
+
+service for the second offense. 
+
+ 
+
+Review of the account Advances to SDOs with book balance of 
+
+₱3,110,351.70 disclosed that CAs amounting to ₱2,924,568.43 were overdue for 14 
+
+days to over three years already, with details as follows: 
+
+ 
+
+SDO Amount (₱) Age of CAs 
+Employment 
+
+Status 
+
+Terry Ridon 10,000.00 1,157 days or 3 yrs 
+
+& 3 mos 
+
+No longer 
+
+connected with 
+
+the Agency Abdulrashid 
+
+Ladayo, Jr 
+
+250,000.00 761 days 
+
+Rhinelan Lachica 105,710.54 426 days Active 
+
+Crispulo Calicdan 844,974.50 396 days Active 
+
+Rosario Nenita 
+
+Mancile 
+
+630,356.71 30 to 148 days Active 
+
+Robert Bonifacio 204,251.08 9 to 80 days Active 
+
+Elsie Aradanas 390,469.97 27 to 80 days Active 
+
+Olympia Micor 488,805.63 14 to 43 days Active 
+
+Total 2,924,568.43   
+
+ 
+
+It is worth noting that the then PCUP Audit Team Leader had sent SDO 
+
+Rhinelan Lachica a demand letter in March 2019; however, as of date, his 
+
+outstanding CAs remained unliquidated. This inaction is considered as gross neglect 
+
+of duty as provided under Section 5.4.(a) of CSC Memorandum Circular No. 23, 
+
+s.2019, to wit: 
+
+ 
+
+5.4 An Accountable Office shall be held liable for Gross 
+
+Neglect of Duty and imposed the penalty of dismissal from the 
+
+service for the first offense in any of the following instances: 
+
+ 
+
+a. the Accountable Officer who, after formal demand by the 
+State Auditor or Audit Team Leader, fails to make any 
+
+liquidation, whether partial or full, of the cash advances 
+
+within the prescribed period stated in the formal demand 
+
+letter; xxx 
+
+ 
+
+The non-liquidation of CAs within the prescribed deadlines deprived the 
+
+Agency of the benefits of timely accounting and auditing of disbursements and 
+
+exposed the government funds in the hands of the SDOs to risk of loss and possible 
+
+misappropriation. 
+
+ 
+
+
+
+44 
+
+ 
+
+ 
+
+The following are the noted causes of the long outstanding cash advances: 
+
+ 
+
+(a) Delays from six to 411 days in the liquidation of CAs 
+ 
+
+Audit of the liquidation reports disclosed that five SDOs incurred settlement 
+
+delays ranging from 6 to 411 days, as provided below: 
+
+ 
+
+SDO Amount of CAs Frequency of 
+
+Delay 
+
+No. of Days 
+
+Delay 
+
+Elsie Aradanas 646,300.00 20 7 to 411 
+
+Rosario Nenita Mancile 405,100.00 4 23 to 222 
+
+Olympia Micor 840,950.00 4 24 to 217 
+
+Robert Bonifacio 607,300.00 24 6 to 179 
+
+Daniel Ramirez 174,671.20 3 18 to 99 
+
+Total 2,674,321.20   
+
+ 
+
+Moreover, included in the above table were unutilized CAs that remained idle 
+
+for 169 to 182 days in the hands of the SDOs: 
+
+ 
+
+SDO Amount 
+
+of CAs (₱) 
+
+No. of 
+
+CAs 
+
+No. of Days 
+
+Funds are Idle 
+
+Remarks 
+
+Robert Bonifacio 250,000.00 10 169 to 179 days CAs granted before the 
+
+COVID-19 lockdown or in 
+
+March 2020 for activities 
+
+that did not push through, 
+
+however, the CAs were not 
+
+refunded as soon as the 
+
+lockdown was lifted.  
+
+Elsie Aradanas 180,000.00 1 182 days 
+
+Total 430,000.00  
+
+ 
+
+Due to the observed frequency of delay in liquidation, it appears that this is a 
+
+normal practice of these SDOs. Late settlement and accounting of CAs expose the 
+
+government fund to possible loss and misuse. 
+
+ 
+
+(b) Incomplete supporting documents of expenditures amounting to ₱746,301.18 
+ 
+
+Section 4 (6) of the Presidential Decree (PD) No. 1445 provides that “claims 
+
+against government funds shall be supported with complete documentation.” 
+
+ 
+
+Evaluation of the liquidation reports revealed that the following expenses 
+
+amounting to ₱746,301.18 lacked the necessary documents to establish their 
+
+validity and propriety: 
+
+ 
+
+Liquidation 
+
+Report No. 
+
+Transaction Type/ 
+
+Purpose 
+
+Amount (₱) Lacking Documents 
+
+SDO: Olympia Micor 
+
+101-20-10-017 Meals for pre and post 
+
+activities 
+
+13,570.00 Accomplishment reports 
+
+(AR). The only attachment 
+
+
+
+45 
+
+ 
+
+ 
+
+Liquidation 
+
+Report No. 
+
+Transaction Type/ 
+
+Purpose 
+
+Amount (₱) Lacking Documents 
+
+was an attendance sheet. 
+
+Procurement of 
+
+beverages 
+
+14,304.00 Quotations from three (3) 
+
+suppliers 
+
+101-20-12-048 Disseminated facemasks, 
+
+face shields, and alcohol 
+
+167,790.87 Acknowledgment receipts 
+
+101-20-12-049 Disseminated facemasks, 
+
+face shields, and alcohol 
+
+117,700.72 Acknowledgment receipts 
+
+Payment of honorarium 
+
+for the development of 
+
+AVP and printed IEC 
+
+30,000.00 Canvass Sheets/ Request for 
+
+Quotations (RFQs) from at 
+
+least three suppliers 
+
+101-20-12-050 Disseminated facemasks, 
+
+face shields, and alcohol 
+
+199,677.9 Acknowledgment receipts 
+
+SDO: Rosario N. Mancile 
+
+101-20-12-071 Conduct of Urban 
+
+Gardening for 
+
+November 2020. 
+
+16,678.57 Attendance or equivalent 
+
+proof (such as screenshots or 
+
+photos) that the activity was 
+
+performed and that resource 
+
+person who was paid ₱3,000 
+
+actually delivered service 
+
+101-20-06-014 PCUP Caravan on 
+
+November 22, 2019 at 
+
+Brgy. Addition Hills, 
+
+Mandaluyong City 
+
+164,118.00  AR as required under the 
+PCUP Memorandum 457-
+
+19 dated June 18, 2019; 
+
+ Procurement of beverages 
+amounting to 22,461.12 has 
+
+no quotations from 3 
+
+suppliers. Justification was 
+
+provided that the previous 
+
+Accounting did not require 
+
+quotation before relative to 
+
+the procurement of 
+
+beverages/drinks 
+
+101-20-08-015 Procurement of 
+
+beverages 
+
+22,461.12 Canvass Sheets/RFQs from 
+
+at least three (3) suppliers 
+
+Total 746,301.18  
+
+ 
+
+The non-submission/completion of the necessary documents affected the 
+
+disbursements’ validity and propriety, and an indication of weakness in the internal 
+
+control over disbursements of funds. 
+
+ 
+
+(c) Grant of CAs in excess of the MCA and Agency’s authorized CA amount 
+ 
+
+Section 7.1 of COA Circular No. 2006-005, dated July 13, 2006, states that 
+
+“each accountable officer whose total cash accountability is not less than ₱5,000 
+
+shall be bonded. The amount of bond shall depend on the officer’s total 
+
+accountability as fixed by the Head of the Agency and shall be in accordance with 
+
+the Schedule issued by the Bureau of Treasury (BTr).” 
+
+  
+
+
+
+46 
+
+ 
+
+ 
+
+Treasury Circular (TC) No. 02-2009, dated August 6, 2009, provides the 
+
+revised Schedule of premium rates, which includes the covered cash accountability 
+
+corresponding to a bond premium.  
+
+ 
+
+In CY 2020, the PCUP had issued Special Orders (SOs) authorizing each 
+
+SDO to hold a certain amount of CAs for a particular purpose. In the same year, the 
+
+Agency subscribed fidelity bonds for its AOs. However, audit disclosed that there 
+
+were three SDOs whose CAs exceeded the MCA per subscribed fidelity bond under 
+
+TC 02-2009 and the Agency’s authorized CA amount, as shown below: 
+
+ 
+SDO Outstanding 
+
+Balance (₱) 
+
+MCA per 
+
+Subscribed Fidelity 
+
+Bond (TC 02-2009) 
+
+Authorized 
+
+Amount per 
+
+PCUP SOs 
+
+Remarks 
+
+Crispulo 
+
+Calicdan 
+
+844,974.50 500,000.00 200,000.00 CA exceeds BTr MCA 
+
+and PCUP Authorized 
+
+Amount 
+
+Olympia Micor 488,805.63 500,000.00 300,000.00 CA exceeds PCUP 
+
+Authorized Amount 
+
+Rosario Nenita 
+
+Mancile 
+
+630,356.71 500,000.00 300,000.00 CA exceeds BTr Max 
+
+CA and PCUP 
+
+Authorized Amount 
+
+Total 1,964,136.84    
+
+ 
+
+This occurrence is just one of the many effects of the above lapses in the 
+
+grant, liquidation, and monitor of CAs. Had there been a mechanism to prevent the 
+
+(a) grant of additional CAs on top of unliquidated existing balances and (b) delayed 
+
+settlements of CAs, the total accountability determined by the Agency and the 
+
+amount covered by the fidelity bond could have been adequate. These lapses 
+
+exposed government funds in the hands of SDOs to risk of irrecoverable loss. 
+
+ 
+
+(d) Unnecessary expenditures amounting to ₱90,234.19 
+  
+
+Audit showed that expenses out of the CAs were not in accordance with the 
+
+intended purpose and were unauthorized. Scrutiny of the liquidation reports (LRs) 
+
+of two SDOs revealed the following observations: 
+
+ 
+LR No. Purpose of the CA Amount (₱) Observations 
+
+SDO Rosario N. Mancile 
+
+101-20-11-
+
+029 
+
+Conduct of Blended 
+
+Urban Gardening 
+
+for October 2020. 
+
+22,265.62 The amount was spent on procuring alcohol, 
+
+face shields, face masks, ballpen and printer 
+
+ink or supplies that are not related to the 
+
+activity, which is an online Urban Gardening 
+
+seminar. It is claimed that these were 
+
+disseminated to the participants, however, 
+
+said expenditures are not justifiable as the 
+
+activity was not conducted face-to-face. 
+
+101-20-12-
+
+071 
+
+Conduct of Urban 
+
+Gardening for 
+
+November 2020. 
+
+8,468.57 The activity was authorized to be conducted 
+
+in a webinar method per PCUP Special 
+
+Order No. 259-2020 for Urban Gardening, 
+
+of which ₱8,468.57 of the budget were spent 
+
+
+
+47 
+
+ 
+
+ 
+
+LR No. Purpose of the CA Amount (₱) Observations 
+
+for face shields, face masks, and other 
+
+supplies not related to the activity, which is 
+
+an online Urban Gardening seminar. Said 
+
+expenditures are not justifiable as the 
+
+activity was not conducted face-to-face. 
+
+101-20-06-
+
+014 
+
+PCUP Caravan on 
+
+November 22, 2019 
+
+at Brgy. Addition 
+
+Hills, Mandaluyong 
+
+City 
+
+20,000.00 Hotels for 15 persons costing ₱20,000 (gross 
+
+of withholding tax) was incurred despite the 
+
+PCUP Chairman’s directive through 
+
+Memorandum No. 457-19 dated June 18, 
+
+2019, that only 5 participants from Field 
+
+Operations Division (FOD) were to attend 
+
+the Caravan and five helpers from the area 
+
+were to be hired. 
+
+101-20-08-
+
+015 
+
+PCUP Caravan on 
+
+December 6, 2019 at 
+
+Brgy. Aguho, 
+
+Pateros, Metro 
+
+Manila 
+
+20,000.00 Hotels for 20 persons costing ₱20,000 (gross 
+
+of withholding tax) was incurred despite the 
+
+directive of the PCUP Chairman through the 
+
+Memorandum 457-19 dated June 18, 2019, 
+
+that only 5 participants from FOD are to 
+
+attend the Caravan 
+
+SDO Olympia Micor 
+
+101-20-10-
+
+017 
+
+PCUP NCR 
+
+Caravan in Eusebio 
+
+Bliss, Brgy. 
+
+Manggahan, Pasig 
+
+City on March 6, 
+
+2020. 
+
+19,500.00 Cost for Accommodation for 21 persons 
+
+costing ₱19,500 (gross of withholding tax) 
+
+was incurred despite the directive of the 
+
+PCUP Chairman through the Memorandum 
+
+457-19 dated June 18, 2019, that only 5 
+
+participants from FOD are to attend the 
+
+Caravan and 5 helpers from the area are to 
+
+be hired. 
+
+Total 90,234.19  
+
+ 
+
+(e) Other deficiencies in the grant, utilization, liquidation, and monitor of CAs 
+ 
+
+The Audit Team noted other deficiencies on the grant, utilization, liquidation, 
+
+and monitor of CAs, as detailed below: 
+
+ 
+
+Deficiency Details Amount 
+
+(₱) 
+
+Violated Rules 
+
+and Regulations 
+
+Multiple 
+
+grants of CAs 
+
+SDOs were granted multiple and 
+
+additional CAs even with existing 
+
+balance. This practice has been 
+
+repeatedly communicated in prior 
+
+years’ audit observation memoranda, 
+
+which still exists up to this date. 
+
+Various 
+
+CAs and 
+
+amounts 
+
+Sec. 4.1.2, COA 
+
+Circular No. 97-
+
+002 
+
+Payment of 
+
+goods/services 
+
+The total purchases of supplies 
+
+through CAs amounts to 
+
+₱936,402.53. This practice is not 
+
+cost-efficient, and the Agency might 
+
+have saved government money had it 
+
+procured these thru the PS-DBM or 
+
+at a negotiated price. 
+
+936,402.53 Section 2.2, 
+
+COA Circular 
+
+No. 97-002  
+
+
+
+48 
+
+ 
+
+ 
+
+Deficiency Details Amount 
+
+(₱) 
+
+Violated Rules 
+
+and Regulations 
+
+Discrepancies 
+
+in posting of 
+
+liquidations or 
+
+refunds 
+
+The records of the Accounting Unit 
+
+were inaccurate due to erroneous 
+
+postings in the accounts of three (3) 
+
+SDOs 
+
+10,919.50 Section 111(1) of 
+
+PD 1445 
+
+Negative 
+
+balances 
+
+Three (3) SDOs have negative 
+
+balances 
+
+1,332.23 Section 111(1) of 
+
+PD 1445 
+
+ 
+
+The foregoing findings on CAs were frequently highlighted in the Agency’s 
+
+Annual Audit Reports, yet, non-compliance with pertinent rules persisted.  
+
+ 
+
+The inadequate controls on cash accountabilities and the procedural lapses in 
+
+the grant, utilization, recording, and liquidation of CAs exposed the government 
+
+funds to risk of loss and possible misuse. 
+
+ 
+
+We recommended that Management: 
+
+ 
+
+a. require all concerned SDOs to: 
+ 
+
+i. justify their failure to observe timely settlements of CAs and the 
+incurrence of unnecessary expenditures amounting to ₱90,234.19; and 
+
+ 
+
+ii. submit liquidation reports with complete documentary requirements 
+to settle their unliquidated CAs as soon as the purpose for which these 
+
+were given have been served; 
+
+ 
+
+b. impose sanctions as provided under the CSC Memorandum Circular No. 
+23, s. 2019 and CSC Resolution No. 1900929 to erring officials and 
+
+employees who failed to liquidate their CAs within the prescribed period 
+
+and upon demand; 
+
+ 
+
+c. intensify the monitoring of controls on CAs by directing the Accountant 
+to: 
+
+ 
+
+i. strictly monitor CAs and regularly remind/require the liquidation of a 
+previous CAs, or the proper accounting thereof, before another CA is 
+
+granted to an SDO; 
+
+ 
+
+ii. ensure that the grant and liquidation of CAs are supported with 
+complete documentation and should not accept liquidation reports 
+
+that are not adequately documented; 
+
+ 
+
+iii. ascertain that SDOs are not granted additional CAs beyond the MCA 
+and the authorized amount of CA by the Agency; 
+
+ 
+
+
+
+49 
+
+ 
+
+ 
+
+iv. stop the practice of paying cash on purchases that should be 
+appropriately paid thru checks; and 
+
+ 
+
+d. require the Accountant to review/correct discrepancies on book postings 
+and negative balances in the subsidiary ledger (SL). 
+
+ 
+
+Management Comment: 
+
+ 
+
+Management justified that the delays in liquidation were brought about by the 
+
+simultaneous activities of the SDOs and the fact that the Agency had to operate on a 
+
+skeleton workforce basis. 
+
+ 
+
+Management had submitted the lacking supporting documents and the 
+
+justifications of the SDOs on their late liquidations of CAs. 
+
+ 
+
+As regards the erring officials and employees who failed to liquidate their 
+
+CAs within the prescribed period and upon demand, Management is under the 
+
+process of reviewing the imposition of sanctions as provided under the CSC 
+
+Memorandum Circular No. 23, s. 2019 and CSC Resolution No. 1900929. 
+
+ 
+
+The Chief Accountant committed to intensify the monitoring of controls on 
+
+CAs as recommended under letter (c.) The Accountant also committed to 
+
+review/correct the discrepancies on book postings and negative balances in the SL. 
+
+  
+
+Auditor’s Rejoinder: 
+
+ 
+
+The Audit Team cannot sufficiently verify the veracity of the belatedly 
+
+submitted supporting documents. In this respect, the Audit Team recommend that 
+
+the SDOs should submit or file the necessary supporting documents in time with 
+
+their liquidations to fend off suspicions on its credibility. 
+
+ 
+
+Moreover, the Audit Team reiterates that Management should strengthen its 
+
+controls over the CAs of the SDOs and observe the rules and regulations governing 
+
+the same. 
+
+ 
+
+ 
+
+Non-compliance with the MOA between DILG and PCUP 
+
+ 
+
+6. PCUP spent administrative costs of ₱8,861,858.85, which was more than the 
+budgeted amount, resulting in approximate excess costs of ₱7,083,024.57 with 
+
+an accomplishment rate of only 17.79 percent or 2,022 paid Informal Settler 
+
+Families (ISFs) out of 11,367 targeted ISFs. Moreover, the agency incurred 11 
+
+to 711 days of delay in its submission of liquidation report, contrary to the 
+
+provision of the IRR of the MOA between the Agency and the DILG, and 
+
+Section 4.6 of COA Circular No. 94-013. 
+
+ 
+
+
+
+50 
+
+ 
+
+ 
+
+In 2016, PCUP and the Department of Interior and Local Government (DILG) 
+
+entered into an agreement to facilitate the disbursement or distribution of the 
+
+Interim Shelter Fund. The Interim Shelter Fund (Fund) is the amount allotted in 
+
+favor of the DILG, which shall be distributed among Informal Settler Families 
+
+(ISFs) or beneficiaries residing on top or within the three-meter easement of 
+
+waterways, in the form of financial assistance amounting to ₱18,000.00 for each 
+
+eligible claimant/family. 
+
+ 
+
+Audit of the utilization of the Fund disclosed the following: 
+
+ 
+
+(a) Administrative costs of ₱8,861,858.85 more than the budgeted amount 
+ 
+
+The MOA executed between the PCUP and DILG and its IRR on the 
+
+disbursement of the Fund define PCUP and DILG’s roles and responsibilities. 
+
+Among others, these roles and responsibilities are the following: 
+
+ 
+1) DILG shall transfer to PCUP the amount of ₱204,606,000.00 for 11,367 qualified 
+
+beneficiaries and ₱10,000,000.00 to be allotted for social preparation, mobility, 
+
+and Monitoring & Evaluation Expenses – referred herein as administrative cost 
+
+(Item 2.1.1 of the MOA); 
+
+ 
+
+2) PCUP shall treat the Fund as a trust liability and ensure that the releases of DILG 
+are properly utilized for their intended purpose, subject to the applicable 
+
+accounting and auditing rules and regulations (Item 2.2.4 of the MOA); and 
+
+ 
+
+3) PCUP shall submit the required physical and financial reports to DILG relative to 
+the utilization and liquidation of the funds (Item 2.2.9 of the MOA); 
+
+ 
+
+The Fund was received by PCUP in two (2) tranches, the ₱95 Million on July 
+
+18, 2017 and the ₱119.6 Million on March 31, 2019. Consistent with the MOA, 
+
+these amounts are to finance the following: 
+
+ 
+Particulars Amount 
+
+Financial Assistance to ISFs (11,367 x ₱18,000.00) 204,606,000.00 
+
+Administrative Cost 10,000,000.00 
+
+Total 214,606,000.00 
+Note: Based on approved work and financial plan 
+
+ 
+
+Review of the accounting records and DVs for the years 2017 to 2019 and up 
+
+to September 2020, disclosed that the PCUP disbursed the Fund for various social 
+
+preparation and incurred substantial administrative costs, details of which are 
+
+presented below: 
+
+ 
+
+Year 
+Target No. 
+
+of ISF  
+
+No. of Paid 
+
+ISF 
+
+Budgeted Admin Cost 
+
+@ *₱879.74 per ISF 
+
+Admin Costs 
+
+Incurred 
+
+Excess 
+
+Amount % 
+
+(a) (b) (c) (d = c x ₱879.74) (e) (f = e – d) (f/d) 
+
+2017 11,367 66 58,062.84 440,294.43 382,231.59 658 
+
+
+
+51 
+
+ 
+
+ 
+
+Year 
+Target No. 
+
+of ISF  
+
+No. of Paid 
+
+ISF 
+
+Budgeted Admin Cost 
+
+@ *₱879.74 per ISF 
+
+Admin Costs 
+
+Incurred 
+
+Excess 
+
+Amount % 
+
+(a) (b) (c) (d = c x ₱879.74) (e) (f = e – d) (f/d) 
+
+2018 666 585,906.84 1,017,605.72 431,698.88 74 
+
+2019 1,053 926,366.22 4,982,540.45 4,056,174.23 438 
+
+2020 237 208,498.38 2,421,418.25 2,212,919.87 1,061 
+
+Total 2,022 1,778,834.28 8,861,858.85 7,083,024.57 398% 
+
+Note:  
+
+1. Budgeted Admin Cost per ISF of ₱879.74* = ₱10 Million/11,367 target ISF; 
+2. No. of paid ISF were taken from PCUP Acctg Reports; and  
+3. CY 2020 figures are as at September 30, 2020. The DVs and supporting documents from October to 
+
+December 2020 were not received by the Audit Team during the compliance audit date. 
+
+ 
+
+It can be deduced from the table above that as early as CY 2017, the PCUP 
+
+had already expended/incurred administrative costs more than the budgeted cost of 
+
+₱879.74 per ISF at an excess rate of 658 percent. As at September 30, 2020, the 
+
+excess rate averaged at 398 percent. 
+
+ 
+
+Although the Agency may not have exhausted yet the ₱10 Million, the 
+
+spending trend compared to the number of paid ISFs could already be inferred that 
+
+the Agency is exceeding its budgeted administrative cost. 
+
+ 
+
+Further review of records, particularly the approved work and financial plan 
+and the actual administrative costs incurred, disclosed that the bulk of expenditures 
+
+was in the salary of personnel. At 2,022 paid ISFs or 17.79 percent 
+
+accomplishment, the PCUP already exceeded its personnel budget of ₱3,960,000.00 
+
+by ₱4,031,651.07. The comparison of the budget and administrative costs is 
+
+provided below:  
+ 
+
+Particulars Budget Actual 
+
+Cost* 
+
+Balance 
+
+(Excess) 
+
+Personnel 3,960,000.00 7,991,651.07 (4,031,651.07) 
+
+Equipment 132,200.00 192,242.56 (60,042.56) 
+
+Activities 3,721,720.00 
+
+677,965.22 5,229,834.78 
+
+Supplies and Materials 227,057.00 
+
+Room Rental + Utilities 
+
+(40K/month@24) 
+
+960,000.00 
+
+Gas 145,000.00 
+
+Contingency 854,023.00 
+
+Total 10,000,000.00 8,861,858.85 1,138,141.15 
+Note: Actual Cost as at September 30, 2020 
+
+ 
+
+Interview with concerned Official and personnel disclosed that the Agency 
+
+had already communicated to DILG its requests for additional administrative costs. 
+
+The Audit Team was provided with the Agency’s written request to DILG dated 
+
+November 6, 2020. The said request contained a disbursement plan detailing the 
+
+
+
+52 
+
+ 
+
+ 
+
+activities, adjusted targets, and an additional ₱11,335,647.00 administrative cost to 
+
+be disbursed from CY 2021 to CY 2023 for the remaining unpaid ISFs. 
+
+ 
+
+Although the Agency had continuously requested additional funds from the 
+
+DILG, the original Fund of ₱10 Million in the MOA remains not amended, and, to 
+
+date, no supplemental agreement to the MOA was made. 
+
+ 
+
+Based on the preceding, the Agency was not compliant with the provisions of 
+
+the MOA and its IRR and may not have been efficient in disbursing the Interim 
+
+Shelter Fund. 
+
+ 
+
+(b) Delay in the liquidation of the Fund 
+
+ 
+
+Section 14 of the IRR of the MOA between PCUP and DILG states that “the 
+
+PCUP shall submit liquidation reports to Informal Settler Families – Program 
+
+Management Office (ISF-PMO) of DILG, particularly the Reports of Disbursement 
+
+within the first week of the succeeding month.” 
+
+ 
+
+Section 4.6 of COA Circular No. 94-013 dated December 13, 1994, provides 
+
+that “within ten (10) days after the end of each month/end of the agreed period for 
+
+the Project, the Implementing Agency shall submit the Report of Checks Issued and 
+
+the Report of Disbursement to report the utilization of the funds.” 
+
+ 
+
+Review of the reports submitted by the PCUP Accounting Unit to the DILG 
+
+disclosed that the Agency had incurred delays in their submission of liquidation 
+
+reports, as detailed in the following table: 
+ 
+
+Year 
+Covered Monthly 
+
+Report 
+Date Submitted 
+
+No. of Days 
+
+Delayed 
+
+2017 September to December 03/16/2018 65 to 157 days 
+
+2018 May to December 03/04/2019 53 to 267 days  
+
+2019 None was submitted to the DILG 377 to 711 days 
+
+2020 None was submitted to the DILG 11 to 346 days 
+Note: Data are as at September 30, 2020 
+
+ 
+
+Additionally, the DVs related to the Fund covering transactions from June 
+
+2019 to September 2020 were only submitted to the Audit Team on December 29, 
+
+2020. 
+
+ 
+
+According to the Accountant, PCUP had emailed liquidation reports up to 
+
+October 2020 to the DILG. These submissions were not however verified by the 
+
+Audit Team. The Accountant also mentioned that the lack of personnel and the 
+
+current skeletal work arrangement had caused the late submission of reports and 
+
+records especially for CY 2020. Presently, the Accounting Unit is comprised only 
+
+of four plantilla positions and two COS/JOs. 
+
+ 
+
+
+
+53 
+
+ 
+
+ 
+
+This delay in submitting reports and documents precluded the auditor from 
+
+conducting timely review and audit of the said transactions and resulted in the 
+
+Agency’s non-compliance with the provision of the MOA and its IRR. 
+
+Consequently, the Agency was also denied the benefit of immediate and proper 
+
+accounting and reporting of fund utilization. 
+
+ 
+
+We recommended that Management: 
+
+ 
+
+a. confer with the DILG the correct projection for the Fund’s administrative 
+cost as well as the appropriate mechanisms for its efficient disbursement, 
+
+and the need to amend or supplement the MOA and its IRR, if necessary; 
+
+ 
+
+b. ensure that the Agency is compliant with the provisions of the MOA and 
+its IRR for the benefit of the intended beneficiaries; 
+
+ 
+
+c. require the Accounting personnel to exert more effort in the immediate 
+liquidation of the Fund to ensure that it is appropriately disbursed, 
+
+accounted for, and used only for its intended purpose, and to adhere with 
+
+Section 14 of the IRR of the MOA and Section 4.6 of COA Circular No. 
+
+94-013; and 
+
+ 
+
+d. consider setting performance targets per personnel and study the need for 
+manpower reassignment or augmentation. 
+
+ 
+
+Management Comment: 
+
+ 
+
+The needed amendments to the IRR were delayed because the PCUP changed 
+
+leadership three times from CY 2017 to CY 2018, which inevitably affected the 
+
+timeline of continuity of plans and programs. It recognized and acknowledged the 
+
+costs incurred and the need to pursue more effective ways to undertake the 
+
+disbursement, which also entailed improvements in the program’s MOA and IRR. 
+
+ 
+
+In addition, the PCUP had an executive meeting with the DILG on January 
+
+20, 2021, wherein the former agreed to pursue fund sourcing to provide the 
+
+additional administrative cost of ₱11,335,647.00; and expedite the process at the 
+
+cost of ₱1,308.00 (₱11,335,647.00/8,600 ISFs) per beneficiary. 
+
+ 
+
+The Chief Accountant relayed that the delay in the submission of liquidation 
+
+reports was due to the lack of personnel as the Accounting Unit was not 
+
+complemented with additional personnel for the Interim Shelter Fund report 
+
+preparation. He further commented that the Accounting Unit would exert extra 
+
+effort in the immediate liquidation of the Fund while coordinating with the 
+
+Management for the possible manpower reassignment or augmentation to ensure 
+
+that targets set by the Accounting Unit for its personnel are complied with. 
+
+ 
+
+ 
+
+
+
+54 
+
+ 
+
+ 
+
+Payment of hazard pay without legal basis; erroneous use of account 
+
+ 
+
+7. PCUP granted hazard pay without legal basis amounting to ₱20,121.93, 
+contrary to Section 52 of the General Provisions (GP) of the General 
+
+Appropriation Act (GAA) for Fiscal Year (FY) 2020. Moreover, various 
+
+payments of hazard pay totaling ₱310,121.93 were erroneously recorded as 
+
+Salaries and Wages expenses contradicting the revised RCA, Volume III of the 
+
+GAM. 
+
+ 
+
+Section 52 of the GP of the GAA for FY 2020 provides that “hazard pay shall 
+
+be granted only to government personnel who are actually assigned to, and 
+
+performing their duties in, strife-torn or embattled areas as may be determined and 
+
+certified by the Secretary of National Defense and for the duration of such 
+
+assignment.” 
+
+ 
+
+The revised RCA, Volume III of the GA describes Hazard Pay as used to 
+
+recognize the payment to government officials/employees assigned in difficult/ 
+
+dangerous/strife-torn/embattled areas as certified by appropriate government body 
+
+and to those whose lives are directly exposed to work conditions which may cause 
+
+them injury/sickness/death/harmful change. 
+ 
+
+Review of DV No. 101-20-02-0142 showed that PCUP granted hazard pay to 
+
+a high-ranking official amounting to ₱20,121.93 without a legal basis. This was also 
+
+an observation contained in CY 2019 Annual Audit Report where the disbursement 
+
+lacked legal basis or supporting documentation that would show the validity of the 
+
+claim, such as the certification from the Secretary of National Defense. The CY 
+
+2019 observation was issued Notice of Disallowance (ND) No. 2020-001-
+
+101(2019) in November 2020. 
+
+ 
+
+Moreover, there were payments for hazard pay to employees who reported to 
+
+work during the ECQ and MECQ period totaling ₱310,121.93, which were 
+
+erroneously recorded under Salaries and Wages accounts. Of the ₱310,121.93, 
+
+₱283,621.93 were charged to Salaries and Wages – Regular, while the remaining 
+
+₱26,500.00 were charged to Salaries and Wages- Casual/Contractual. 
+
+ 
+
+The Audit Team would like to emphasize that the recording of transactions 
+
+should comply with the provisions of the International Public Sector Accounting 
+
+Standards (IPSAS) and the GAM.  The validity and regularity of disbursements are 
+
+based on the DBM rules and other pertinent laws, rules, and regulations. 
+
+ 
+
+We reiterated our prior year’s recommendation that Management 
+
+require the: 
+
+ 
+
+a. Accounting Unit and the AFD to ensure that all grants of hazard pay are 
+supported with complete documentation; 
+
+ 
+
+
+
+55 
+
+ 
+
+ 
+
+b. concerned Official to submit the certification from the Secretary of 
+National Defense, otherwise, refund the amount of ₱20,121.93; and  
+
+ 
+
+c. Accounting Unit to ensure that hazard pay transactions are recorded in 
+the account Hazard Pay under the Other Compensation of the Personnel 
+
+Services in accordance with the revised RCA. 
+ 
+
+Management Comment: 
+
+ 
+
+Management is in the process of discussing the matter on granting hazard pay 
+
+with the concerned official and that related ND is under appeal. 
+
+ 
+
+The Accountant committed to correct the erroneous recording of payments of 
+
+hazard pay and ensure recording the same in the Hazard Pay account. 
+
+ 
+
+ 
+
+Non-Compliance with pertinent Rules on Terminal Leave Benefits and Monetization of 
+
+Leave Credits 
+
+ 
+
+8. Leave monetization of ₱1,814,045.69 and terminal leave benefit of 
+₱3,683,696.99 were processed and paid without adherence to the Omnibus 
+
+Rules on Leave and without complete documentation necessary to determine 
+
+the validity and regularity of the transactions as required under Section 4.6 of 
+
+PD No. 1445. 
+
+ 
+
+Section 22 of Rule XVI of the Omnibus Rules on Leave provides that 
+
+“monetization of leave credits shall be allowed to Officials and employees who 
+
+have accumulated 15 days of vacation leave credits. Provided that at least five (5) 
+
+days is retained after monetization.” 
+
+ 
+
+While Section 23 provides that “monetization of fifty percent (50%) or more 
+
+of the accumulated leave credits may be allowed for valid and justifiable reasons 
+
+such as health, medical and hospital needs, financial aid brought about by force 
+
+majeure, educational needs of the employee and the immediate members of his/her 
+
+family.” 
+
+ 
+
+For CY 2020, PCUP paid terminal leave benefits and leave monetization of 
+
+₱3,683,696.99 and ₱1,814,045.69, respectively, with deficiencies, as follows: 
+
+ 
+
+(a) Non-observance of the 15-days accumulated vacation leave (VL) pre-requisite 
+in the monetization of leave credits 
+
+ 
+
+Evaluation of the payment for monetization of leave credits of PCUP 
+
+employees for CY 2020 revealed that the following employees were allowed 
+
+monetization despite having not met the 15-days accumulated VL balance: 
+
+ 
+
+
+
+56 
+
+ 
+
+ 
+
+Employee 
+VL Before 
+
+Monetization 
+
+Monetized 
+
+Leave Credits 
+
+VL After 
+
+Monetization 
+
+Employee 1 10.93 25 (14.07) 
+
+Employee 2 14.66 22 (7.34) 
+
+Employee 3 11.25 10 1.25 
+
+Employee 4 11.25 11 0.25 
+
+Employee 5 11.25 10 1.25 
+
+Employee 6 10.18 10 0.18 
+
+Employee 7 10.91 15 (4.09) 
+
+Employee 8 11.25 10 1.25 
+
+Employee 9 14.09 21 (6.91) 
+
+  
+
+As a result, the five (5) days retention was also not met, and the unapplied 
+
+monetized leave credits were charged to the employees’ sick leave (SL) credits, as 
+
+discussed in the succeeding paragraphs. 
+
+ 
+
+(b) Unjustified/erroneous granting of monetization of SL credits 
+ 
+
+In light of Section 22, CSC Resolution No. 0034 dated January 5, 2000 
+
+resolves that SL credits may be monetized if an employee has no available VL 
+
+credits, in accordance with the general rule under Section 23 of the Omnibus Rules 
+
+on Leave. 
+
+ 
+
+The same CSC Resolution provides that what is allowed to be monetized as a 
+
+general rule is the accumulated VL credits. Section 23, on the other hand, is an 
+
+extraordinary measure to relieve an employee from financial difficulties that may be 
+
+allowed only for valid and justifiable reasons subject to the discretion of the agency 
+
+head and the availability of funds. Hence, Section 23 should be construed as an 
+
+exception to the general rule. 
+
+ 
+
+Further verification disclosed that 29 officials and employees, including the 
+
+nine (9) employees in the preceding Table, were allowed to monetize more than 
+
+their available VL credits, with the following details: 
+
+ 
+
+Employee  
+SL Balance Before 
+
+Monetization 
+
+VL Balance Before 
+
+Monetization 
+
+Monetized 
+
+Leave 
+
+VL After 
+
+Monetization 
+
+Employee 1 17.75 20.09 18 2.09 
+
+Employee 2 108.46 21.32 30 (8.68) 
+
+Employee 3 33.50 22.53 28 (5.47) 
+
+Employee 4 16.25 16.25 20 (3.75) 
+
+Employee 5 26.50 16.50 15 1.50 
+
+Employee 6 40.25 24.45 30 (5.55) 
+
+Employee 7 45.035 10.93 25 (14.07) 
+
+Employee 8 28.75 20.29 20 0.29 
+
+Employee 9 50.09 23.79 30 (6.21) 
+
+Employee 10 30.026 14.66 22 (7.34) 
+
+
+
+57 
+
+ 
+
+ 
+
+Employee  
+SL Balance Before 
+
+Monetization 
+
+VL Balance Before 
+
+Monetization 
+
+Monetized 
+
+Leave 
+
+VL After 
+
+Monetization 
+
+Employee 11 11.25 11.25 10 1.25 
+
+Employee 12 51.96 18.84 30 (11.16) 
+
+Employee 13 11.25 11.25 11 0.25 
+
+Employee 14 36.213 22.21 29 (6.79) 
+
+Employee 15 27.5 22.50 20 2.50 
+
+Employee 16 11.25 11.25 10 1.25 
+
+Employee 17 20.296 10.18 10 0.18 
+
+Employee 18 50.78 23.22 30 (6.78) 
+
+Employee 19 37.5 27.50 30 (2.50) 
+
+Employee 20 124 17.70 30 (12.30) 
+
+Employee 21 69.209 21.46 30 (8.54) 
+
+Employee 22 28.778 10.91 15 (4.09) 
+
+Employee 23 33.50 21.51 20 1.51 
+
+Employee 24 50.25 21.24 30 (8.76) 
+
+Employee 25 11.25 11.25 10 1.25 
+
+Employee 26 30.00 20.48 25 (4.52) 
+
+Employee 27 28.00 20.82 24 (3.18) 
+
+Employee 28 28.86 17.48 23 (5.52) 
+
+Employee 29 28.5 14.09 21 (6.91) 
+
+ 
+
+It can be construed that the monetized leave credits were applied to SL as the 
+
+VL balance is not enough to cover the monetized leave. Examination of the leave 
+
+cards confirmed that a portion of the monetized leaves were deducted from sick 
+
+leave credits to maintain the required retention minimum of five (5) days VL and 
+
+cover the remaining monetized leaves. 
+
+ 
+
+However, the DV did not have the justification for the availment of the SL 
+
+credits’ monetary value as required under Section 23, Rule XVI of the Omnibus 
+
+Rules on Leave. 
+
+ 
+
+(c) Incomplete supporting documents for monetization and terminal leave benefit 
+claims 
+
+ 
+
+Section 4.6 of PD No. 1445, and echoed under Section 5, Chapter 2, Volume I 
+
+of the GAM, provides that “claims against government funds shall be supported 
+
+with complete documentation.” 
+
+ 
+
+Pertinent provisions of COA Circular No. 2012-001 dated June 14, 2012, 
+
+concerning documentary requirements for payment of terminal leave benefits and 
+
+monetization provide, among others, the following: 
+
+ 
+
+5.13 Terminal Leave Benefits 
+xxx 
+
+
+
+58 
+
+ 
+
+ 
+
+ Certified photocopy of employees leave card as at last 
+date of service duly audited by the Personnel Division 
+
+and COA/Certificate of leave credits issued by the 
+
+Admin/Human Resource Management Office (HRMO) 
+
+xxx 
+
+ Computation of terminal leave benefits duly 
+signed/certified by the accountant 
+
+xxx 
+
+ 
+
+5.14 Monetization 
+ Approved leave application (ten days) with leave credit 
+
+balance certified by the Human Resource Office; and 
+
+ Request for leave covering more than ten days duly 
+approved by the Head of the Agency 
+
+xxx 
+
+ 
+
+Post audit of related DVs showed that payment for monetization and terminal 
+
+leave benefits claims lacked the necessary supporting documents, as follows: 
+
+ 
+Particulars DV No. Amount (₱) Lacking Documents 
+
+Payment for 
+
+Terminal Leave Pay 
+
+of retiring/retired 
+
+employees 
+
+101-20-03-0403       385,729.00   Computation of terminal leave 
+benefits duly signed/certified by 
+
+the accountant. 
+
+101-20-06-0577    2,422,491.14   Computation of terminal leave 
+benefits duly signed/certified by 
+
+the accountant. 
+
+101-20-11-1153       329,578.36   Computation of terminal leave 
+benefits duly signed/certified by 
+
+the accountant. 
+
+101-20-12-1263       545,898.49   Certified photocopy of employees 
+leave card as at last date of service 
+
+duly audited by the Personnel 
+
+Division and COA/Certificate of 
+
+leave credits issued by the 
+
+Admin/Human Resource Mgmt 
+
+Office (HRMO); and 
+
+ Computation of terminal leave 
+benefits duly signed/certified by 
+
+the accountant. 
+
+Sub-total 3,683,696.99  
+
+Payment for 
+
+monetization of 
+
+leave credits of 
+
+various PCUP 
+
+Officials and 
+
+employees 
+
+101-20-12-1243 1,814,045.69  Approved leave application (ten 
+days) with credit leave balance 
+
+certified by the HRMO; 
+
+ Request for leave covering more 
+than ten days duly approved by the 
+
+Head of the Agency 
+
+Total 5,497,742.68  
+
+ 
+
+Thus, resulting in claims against government funds, which could not be 
+
+validated and not supported with complete documentation. 
+
+
+
+59 
+
+ 
+
+ 
+
+We recommended that Management require: 
+
+ 
+
+a. concerned personnel to submit the lacking documents as required under 
+Items 5.13 and 5.14 of the COA Circular No. 2012-001 to establish the 
+
+validity of the payment; 
+
+ 
+
+b. Head of HRMU to regularly monitor/update the leave cards of officers 
+and employees and recommend payment of monetization only to those 
+
+with sufficient VL balances and justified SL balances; 
+
+ 
+
+c. Head of HRMU and Accountant to refrain from processing/approving 
+claims with incomplete documentation; and 
+
+ 
+
+d. henceforth, to strengthen its internal control in the processing of claims 
+such that claims shall not be processed and paid without the complete 
+
+supporting documents to establish the validity thereof. 
+
+ 
+
+Management Comment: 
+
+ 
+
+The Chief Accountant relayed that Management paid the monetization of 
+
+leave credits of the subject employees who have not met the 15-days accumulated 
+
+VL pre-requisite in the monetization of leave credits based on Sec. 23 of Rule XVI 
+
+of the Omnibus Rules on Leave and the CSC Resolution No. 0034. These bases 
+
+provide the exceptions to the general rule under Section 22 of the Omnibus for 
+
+cases with justifiable reasons such as health, medical and hospital needs, financial 
+
+aid brought about by force majeure, educational needs of the employee and the 
+
+immediate members of his/her family. 
+
+ 
+
+Relative to the above, the Management submitted the application for leave 
+
+monetization of the employees concerned, containing their justification for the 
+
+monetization of fifty percent or more of their accumulated leave credits duly 
+
+approved by the Head of the Agency. 
+
+ 
+
+Moreover, the PCUP also submitted the lacking supporting documents for the 
+
+payment of Terminal Leave Pay of retiring/retired employees. 
+
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+Management is informed that every disbursement of government funds should 
+
+be supported with complete documentation as provided under Section 4 (6) of the 
+
+PD No. 1445 for the Auditor to determine the validity and propriety thereof. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+60 
+
+ 
+
+ 
+
+Inaccurate Employees’ Leave Credit Balances at PCUP-FODM 
+ 
+
+9. The unclear policies on employee work hours and alternative work 
+arrangement (AWA) had caused errors in the calculation of employees’ 
+
+tardiness and undertime, affecting the accuracy and reliability of employees’ 
+
+leave records and credit balances. 
+
+ 
+
+Civil Service Form No. 48 or DTR requires the certification of the employee 
+
+on the actual hours of work, which states that:  
+
+ 
+
+I certify on my honor that the above is a true and correct report 
+
+of the hours of work performed, record of which was made 
+
+daily at the time of arrival and departure. 
+
+ 
+
+The DTR records the employee’s daily logs in and out and likewise provides 
+
+information relevant to performance appraisal and man-hours lost.  
+
+ 
+
+Review of the submitted monthly DTR’s for the period January 1, 2020 to 
+
+September 30, 2020 showed that two of six employees designated as in-place 
+
+coordinators had some discrepancies in the computation of their undertimes, as 
+
+follows: 
+
+  
+
+No.  Name Per DTR Per Recalculation and 
+
+Verification 
+
+Discrepancies 
+
+Total  
+
+Hours:Mins. 
+
+Total  
+
+Hours:Mins. 
+
+Total  
+
+Hours:Mins. 
+
+1 Catedrilla, Carl C. 0:35 3:53 3:18 
+
+2 Fernandez, Sitinissa Y. 2:40 4:57 2:17 
+
+  Total 3:15 8:50 5:35 
+
+ 
+
+Upon inquiry with the Administrative Officer, we found that the original 
+
+office work hours schedule for in-place area coordinators is 8:00 AM to 5:00 PM. 
+
+However, the head of the Agency changed their schedule sometime in January 
+
+2020. He allegedly told them, verbally, that the work hours schedule of in-place 
+
+area coordinators will be changed to flexi-time of 9:00 AM to 6:00 PM.   
+
+ 
+
+However, CSC MC No. 5, s.1997 emphasizes the promulgation of the 
+
+Agency’s own internal rules and regulations on attendance and punctuality. Hence, 
+
+policies made orally is not a reliable basis to establish employees’ work hours. 
+
+ 
+
+Consequently, the verbal change of work hours schedule affected the 
+
+computed vacation leave (VL) credits of the two (2) in-place area coordinators as 
+
+of September 30, 2020, to wit:  
+
+ 
+
+ 
+
+ 
+
+
+
+61 
+
+ 
+
+ 
+
+ 
+
+Name 
+
+VL Balance 
+
+as of 12/31/ 
+
+2019 
+ 
+
+(1) 
+
+VL Balance per Record VL Balance per Validation 
+
+Diff. 
+ 
+
+(3-5) 
+
+Jan to Sept 
+
+2020 
+ 
+
+(2) 
+
+As of 
+
+9/30/2020 
+ 
+
+(3) 
+
+Jan to Sept 
+
+2020  
+ 
+
+(4) 
+
+As of 
+
+9/30/2020 
+ 
+
+(5) 
+
+Catedrilla, Carl 
+
+C. 
+6.467 9.185 15.652 8.765 15.232 0.420 
+
+Fernandez, 
+
+Sitinissa Y. 
+8.352 10.856 19.208 10.631 18.983 0.225 
+
+Total          0.645 
+
+ 
+
+Moreover, recalculation of the leave balances of 29 employees showed 
+
+inaccuracies on five employees’ leave credit records and balances as of September 
+
+30, 2020, as detailed below: 
+
+ 
+
+A. Vacation Leave Balances 
+ 
+
+No.  Name 
+
+VL Balance per Record VL Balance per Verification 
+
+Diff. As of 
+
+12/31/2019 
+
+Jan - Sept 
+
+2020 Earned 
+
+As of 
+
+9/30/2020 
+
+As of 
+
+12/31/2019 
+
+Jan- Sept 
+
+2020 Earned 
+
+As of 
+
+9/30/2020 
+
+1 Atanoza, Jose Homer A. 22.219 13.292 30.979 22.219 9.208 31.427 -0.448 
+
+2 Batoctoy, Jean Care M. 22.015 2.863 24.878 22.015 3.223 25.238 -0.360 
+
+3 Cruzada, Jamie F. 11.408 7.778 19.186 11.408 9.028 20.436 -1.250 
+
+4 Layan, Janet Mae E. 6.25 9.865 16.115 6.25 11.115 17.365 -1.250 
+
+5 Tolibas, Tomas B. 7.875 -2.75 5.175 7.875 -2.75 5.125 0.050 
+
+ 
+
+B. Sick Leave (SL) Balances 
+ 
+
+No.  Name 
+
+SL Balance per Record SL Balance per Verification 
+
+Diff. As of 
+
+12/31/2019 
+
+Jan - Sept 
+
+2020 Earned 
+
+As of 
+
+9/30/2020 
+
+As of 
+
+12/31/2019 
+
+Jan- Sept 
+
+2020 Earned 
+
+As of 
+
+9/30/2020 
+
+1 Layan, Janet Mae E. 12.5 10 22.5 12.5 11.25 23.75 -1.25 
+
+ 
+
+The Agency adopted the combination of “work from home” and “skeleton 
+
+workforce” AWA plan wherein each personnel shall comply with the 3-day per 
+
+week reporting, in compliance with the Office Memorandum Loc No. 22-2020 
+
+dated May 15, 2020.  
+
+ 
+
+In the original policy on work hours, the Regional Office has a flexi-time 
+
+schedule of 9:00 AM to 6:00 PM. However, during the 3-day work duty of the 
+
+personnel, some employees timed-in beyond 9:00 AM and timed-out not earlier 
+
+than 3:30 PM and no computation of tardy/undertime was recorded in the DTR and 
+
+Leave Cards. Also, the memorandum did not specify the reporting hours or 
+
+shortened work duration of the employees.  
+
+ 
+
+The unclear policies on work hours and AWA had caused the discrepancies in 
+
+the employees’ leave credit balances; thus records are inaccurate and unreliable. 
+
+ 
+
+ 
+
+ 
+
+
+
+62 
+
+ 
+
+ 
+
+We recommended and Management agreed to: 
+
+ 
+
+a. establish clear-cut guidelines on the work hours of in-place area 
+coordinators and in the alternative work arrangement plan; 
+
+ 
+
+b. direct the Personnel-in-Charge to immediately adjust the leave credits of 
+the personnel concerned in order to reflect the accurate balance; and 
+
+ 
+
+c. direct the Administrative Officer to exercise her review function over the 
+Personnel-In-Charge’s work to ensure accurate reporting of the number 
+
+of work hours performed by the employees, including the number of hours 
+
+or minutes of tardiness, undertimes, and absences. 
+ 
+
+ 
+
+C. Other Areas 
+ 
+
+National Task Force to End Local Communist Armed Conflict (NTF-ELCAC) 
+
+ 
+
+10. During the year, the PCUP did not receive funds for NTF-ELCAC or utilize any of 
+its funds for the purpose. 
+
+ 
+
+ 
+
+COVID-19 Releases and Utilization 
+
+ 
+
+11. PCUP was not a recipient of the COVID-19 fund; however, the PCUP-Central 
+Office incurred a total of ₱1,231,869.61 for hazard pay, COVID-related trainings, 
+
+supplies and fuel/gas consumption, while PCUP-FOD Mindanao expended Hazard 
+
+Pay amounting to ₱38,000.00. 
+
+ 
+
+(a) PCUP-Central Office 
+ 
+
+The Audit Team found no deficiencies in the PCUP-Central Office 
+
+expenditure of ₱1,231,869.61 except for the incorrect use of account, for Hazard 
+
+Pay, which was communicated to Management through an AOM.  The details of the 
+
+₱1,231,869.61 are as follows: 
+ 
+
+Fund Source Nature of Expense Accounts Used Amount 
+
+Regular Fund 
+
+under PS 
+
+Payment of Hazard Pay to 
+
+regular/permanent employees 
+
+Salaries and Wages – 
+
+Regular* 
+
+258,000.00 
+
+ Payment of Hazard Pay to 
+
+casual employees 
+
+Salaries and Wages - 
+
+Casual/Contractual* 
+
+32,000.00 
+
+Regular Fund 
+
+under MOOE 
+
+Payment of Hazard Pay Other Professional Services 43,000.00 
+
+COVID-19-related trainings 
+
+provided to the Urban Poor 
+
+communities 
+
+Training Expenses 584,531.09 
+
+Fuel and Gas consumption 
+
+during the quarantine period – 
+
+used to fetch employees 
+
+Fuel, Oil and Lubricants 
+
+Expenses 
+
+88,001.52 
+
+
+
+63 
+
+ 
+
+ 
+
+Fund Source Nature of Expense Accounts Used Amount 
+
+Toll fees incurred in picking-up 
+
+employees at home 
+
+Other General Services 57,262.00 
+
+Procurement of COVID-19-
+
+related Supplies  
+
+Office Supplies Expense 169,075.00 
+
+Total 1,231,869.61 
+
+ 
+
+(b) PCUP-FOD Mindanao 
+ 
+
+COVID-19 Hazard Pay amounting to ₱38,000.00 were paid to personnel who 
+
+were not authorized to physically report for work during the period of ECQ, in 
+
+violation of DBM-BC No. 2020-1 dated March 24, 2020; thus, payments were 
+
+considered invalid. 
+
+ 
+
+Section 4 of DBM Budget Circular (BC) No. 2020-1 dated March 24, 2020 on 
+
+the Guidelines on the Grant of the COVID-19 Hazard Pay provides that: 
+
+ 
+
+The heads of government agencies may grant the COVID-19 
+
+Hazard Pay to their personnel/workers without the need for 
+
+further approval by the Department of Budget and Management 
+
+(DBM), subject to the following guidelines and conditions: 
+
+ 
+
+xxx 
+
+4.3. The personnel/workers have been authorized to physically 
+report for work at their respective offices or work stations 
+
+on the prescribed official working hours by the head of 
+
+agency/office during the period of implementation of 
+
+Enhanced Community Quarantine measures in the area of 
+
+such office or work station. 
+
+ 
+
+During the period of ECQ, the Agency granted COVID-19 Hazard Pay to its 
+
+personnel. However, upon reviewing the DVs, we found that a total amount of 
+
+₱38,000.00 was paid to personnel who were not authorized to report for work 
+
+physically. Details of payment are as follows: 
+
+ 
+Check DV/Payroll No. Nature of Payment 
+
+ 
+
+Amount (₱) 
+
+No. Date 
+
+2802899 7/16/2020 2020-07-339 Hazard Pay for physically 
+
+reporting on duty during ECQ 
+
+1,500.00 
+
+2802898 7/16/2020 2020-07-338 Hazard Pay for physically 
+
+reporting on duty during ECQ 
+1,000.00 
+
+2802897 7/16/2020 2020-07-337 Hazard Pay for physically 
+
+reporting on duty during ECQ 
+6,000.00 
+
+2802896 7/17/2020 2020-07-336 Hazard Pay for physically 
+
+reporting on duty during ECQ 
+29,500.00 
+
+ Total 38,000.00 
+
+ 
+
+
+
+64 
+
+ 
+
+ 
+
+The payment of COVID-19 Hazard Pay to the regular and job order 
+
+employees was invalid due to the lack of authority to physically report for work – 
+
+this being one of the requirements for the grant of said hazard pay per Section 4.3 of 
+
+DBM BC No. 2020-1 
+
+ 
+
+Per inquiry, the Administrative Officer was not aware of this requirement. 
+
+However, they have attached the following supporting documents for the claim of 
+
+COVID-19 Hazard Pay, to wit:  
+
+ 
+
+ Daily Time Records (DTRs);  
+
+ Executive Orders; 
+
+ Alternative Work Arrangement (AWA) and Grant of Hazard Duty Pay 
+Memoranda; 
+
+ Certificate of Appearance; and  
+
+ Certification in securing Work Quarantine Pass. 
+ 
+
+The authority to physically report for work is one of the requirements in the 
+
+grant of COVID-19 Hazard Pay to personnel. The payments made despite lack of 
+
+authority does not conform with government guidelines.  
+
+ 
+
+We recommended that Management immediately submit a written 
+
+justification on the payment of COVID-19 Hazard Pay to unauthorized 
+
+personnel, otherwise demand the refund of the amount received by them. 
+ 
+
+Management Comment: 
+
+ 
+
+Management justified that the Alternative Working Arrangement (AWA) 
+
+Memorandum and the working pass certification are the documents they made to 
+
+support the hazard duty pay claims since they have not read the DBM-BC No. 
+
+2020-1 dated March 24, 2020.  
+
+ 
+
+Moreover, Management also justified that the employees were needed in the 
+
+office and that the work from home arrangement was not possible due to the 
+
+limitations of their PC’s and because most of their work are done manually.  
+
+ 
+
+The Management assured the audit team of their full compliance with the 
+
+audit recommendation. 
+
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+The Audit Team emphasizes that the rationale behind the authorization given 
+
+to employees during the ECQ to work in the office physically is to prevent the 
+
+transmission of COVID19. Moreover, this is also in compliance with the IATF 
+
+guidelines.  
+
+ 
+
+
+
+65 
+
+ 
+
+ 
+
+Since Management justified that the employees who claimed the hazard pay 
+
+were indeed needed in the office physically, we recommended that they submit the 
+
+authority to work to support this justification. 
+
+ 
+
+ 
+
+Dormant Accounts  
+
+ 
+
+12. The ₱317,910.25 balance of the Other Receivable account had been inactive for 
+over 10 years. Of the amount, ₱313,960.25 pertains to unliquidated cash advances 
+
+from 28 separated and deceased Officers and employees. Management had already 
+
+sent demand letters but was unsuccessful. These advances had been outstanding 
+
+from 6 to over 31 years and may be deemed unrecoverable by the Agency.  
+
+ 
+
+ 
+
+Gender and Development Program (GAD) 
+
+ 
+
+13. PCUP had not endorsed nor submitted its CY 2020 GAD Plan and Budget 
+(GPB) and its Accomplishment Report (AR) to the Philippine Commission on 
+
+Women (PCW) and DBM pursuant to Sections 8.2 and 8.7 of the PCW-NEDA-
+
+DBM Joint Circular No. 2012-01. Moreover, the GAD Budget is below the five 
+
+percent requirement embodied in Section 31 of the GP of RA No. 11465 or the 
+
+GAA for the FY 2020. 
+
+ 
+
+Section 31 of the GP of RA No. 11465 states that “all agencies of the 
+
+government shall formulate a GAD Plan designed to address gender issues within 
+
+their concerned sectors or mandate and implement the applicable provisions under 
+
+R.A. No. 9710 or the Magna Carta of Women. The GAD Plan shall be integrated 
+
+into the agencies’ regular activities, which shall be at least five percent (5%) of their 
+
+budgets. For this purpose, activities currently being undertaken by agencies which 
+
+relates to GAD or those that contribute to poverty alleviation, economic 
+
+empowerment especially of marginalized women, protection, promotion, and 
+
+fulfilment of women’s human rights, and practice of gender-responsive governance 
+
+are considered sufficient compliance with said requirement.” 
+
+ 
+
+Related provisions of PCW-NEDA-DBM Joint Circular No. 2012-01 are as 
+
+follows: 
+
+ 
+
+8.2   xxx. The GFPS shall then submit the final GPBs and the 
+
+corresponding GAD ARs to PCW for review and 
+
+endorsement to DBM. 
+
+ 
+
+8.7   Agencies shall submit their PCW-endorsed GPB to DBM 
+
+along with their annual GAD AR for the previous year in 
+
+accordance with the budget call. 
+
+ 
+
+
+
+66 
+
+ 
+
+ 
+
+In April 2021, PCUP submitted the advance copies of its CY 2020 GPB and 
+
+GAD AR. These reports were not approved by the Head of the Agency and, 
+
+accordingly, not endorsed/submitted to PCW and DBM. Evaluation of these reports 
+
+showed the following: 
+
+ 
+Particulars GPB GAD AR Audit Team Evaluation 
+
+No. of Activities 14 12 2 activities not reported in AR 
+
+Budgeted/Allotted 
+
+Amount 
+
+8,560,000.00 26,524,200.00  Difference of ₱17,694,200.00; and 
+
+ The ₱8.56 Million is only 4.8 
+percent of the PCUP’s CY 2020 
+
+total new appropriations of 
+
+₱178,388,000.00 
+
+Incurred Amount  2,219,028.20 26% of the GPB was utilized or 
+
+1.24% of the CY 2020 total new 
+
+appropriations of ₱178,388,000.00 
+
+ 
+
+Verification of the disbursements disclosed that PCUP incurred GAD-related 
+
+expenses totaling only ₱33,090.00 or 0.019 percent of the total appropriations of 
+
+₱178,388,000.00, which is less than 5 percent of the CY 2020 total budget of the 
+
+Agency.  
+
+ 
+
+As a result, PCUP had not been compliant with the provisions or rules related 
+
+to GAD planning, implementation, and reporting. Moreover, the late submission of 
+
+the GPB and GAD AR precluded the Audit Team from conducting timely 
+
+evaluation/verification and audit of GAD funds and activities. 
+
+ 
+
+We reiterated our previous recommendations and Management agreed 
+
+to: 
+
+ 
+
+a. ensure compliance with the requirements of the PCW-NEDA-DBM Joint 
+Circular No. 2012-01, which prescribes the endorsement and submission 
+
+of the GPBs and GAD ARs to PCW and DBM; and 
+
+ 
+
+b. allocate an amount of at least five percent of the Agency’s total 
+appropriation for the implementation of GAD plans, in accordance with 
+
+the GP of the GAA. 
+
+ 
+
+ 
+
+Programs for Senior Citizen and Persons with Disability 
+
+ 
+
+14. For CY 2020, PCUP had allotted ₱357,070.80 for its plans and activities related to 
+Senior Citizens (SCs) and Persons with Disability (PWDs) in compliance with 
+
+Section 32 of the GP of RA No. 11465, as shown below: 
+
+ 
+
+Programs/Activities Budget 
+
+Coordination meetings with National Government Agencies, Civil 
+
+Society Organizations and Practitioners 
+7,000.00 
+
+Webinars, trainings of PWDs, parents of PWDs and professionals 128,000.00 
+
+
+
+67 
+
+ 
+
+ 
+
+Programs/Activities Budget 
+
+on skills pertaining to new approaches under the “new normal” 
+
+Meetings related to PWDs under new normal 6,500.00 
+
+Conduct of Regular Meetings for PWDs 2,000.00 
+
+Strategic Planning Activity for 2021 108,000.00 
+
+Capacity Building on PWDs and SCs 95,570.80 
+
+PWD Affairs Committee 10,000.00 
+
+Total 357,070.80 
+
+ 
+
+Due to the pandemic, the above activities were not carried out, nor has the 
+
+Agency submitted its Accomplishment Reports for the same. 
+
+ 
+
+ 
+
+Disaster Risk Reduction and Management (DRRM) and Climate Change Adaptation 
+
+and Mitigation (CCAM) 
+
+ 
+
+15. PCUP had planned activities and set aside funds for its risk reduction, climate 
+change adaptation, and mitigation measures in compliance with Section 36 of the 
+
+GP of the GAA of FY 2020, as follows: 
+
+ 
+
+Programs/Activities Budget 
+
+DRRM and Climate Change capacity building 467,600.00 
+
+Production of CCAM-DRRM AVP materials for PCUP online training 30,000.00 
+
+Production of IEC materials on COVID-19 pandemic 30,000.00 
+
+DRRM Formation of PCUP Quick Response Team 20,000.00 
+
+Conduct of PCUP online CBP Trainings for the urban poor sector 30,000.00 
+
+Online Orientation on COVID-19 Updates with the Medical Experts 
+
+(Filipinos and Nationalism during the COVID-19 Pandemic) 
+
+20,000.00 
+
+Climate Change Adaptation and Mitigation Committee 10,000.00 
+
+Total 607,600.00 
+
+ 
+
+However, due to the pandemic, most of the above activities were not carried 
+
+out, and the Agency has not submitted its Accomplishment Reports for the same. 
+
+ 
+
+ 
+
+Compliance with Tax Laws, RA No. 8291 (GSIS), RA No. 9679 (Pag-IBIG), RA No. 
+9241 (PhilHealth) 
+ 
+
+16. PCUP had an aggregate ₱393,373.39 unaccounted and unremitted balance 
+from Due to BIR, Due to GSIS, Due to Pag-IBIG, and Due to PhilHealth.  
+
+Moreover, the agency failed to withhold taxes on various payments totaling 
+
+₱242,230.00 
+
+ 
+
+(a) Existence of unaccounted and unremitted withheld taxes, contributions and loan 
+payments aggregating ₱393,373.39 
+
+ 
+
+
+
+68 
+
+ 
+
+ 
+
+Analysis of the PCUP’s inter-agency payable accounts as of December 31, 
+
+2020 disclosed the following unaccounted and unremitted balances: 
+
+ 
+
+Particulars 
+Balance as of 
+
+01/01/2020 
+
+CY 2020 Balance as of 
+
+12/31/2020 
+
+January 
+
+2021 
+
+Remittance 
+
+Unaccounted
+
+/ Unremitted 
+
+Balances Withheld Remittance 
+
+Due to BIR 1,231,051.41 8,466,796.52 8,063,472.85 1,634,375.08 1,288,808.82 345,566.26 
+
+Due to GSIS 42,834.51 13,194,226.90 12,902,874.58 334,186.83 307,656.32 26,530.51 
+
+Due to Pag-IBIG 3,792.95 2,758,015.48 2,717,617.60 44,190.83 33,900.00 10,290.83 
+
+Due to PhilHealth 4,346.59 886,706.13 836,806.53 54,246.19 43,260.40 10,985.79 
+
+Total Unaccounted/ Unremitted Balances 393,373.39 
+
+ 
+
+Comparison of the CY 2020 and CY 2019 unaccounted balances disclosed 
+
+that there were inter-agency payables that increased instead of being reconciled or 
+
+reduced as shown below: 
+
+ 
+
+Particulars CY 2020 CY 2019 Increase/ (Decrease) 
+
+Amount % 
+
+Due to BIR 345,566.26 188,566.68 156,999.58 83.26 
+
+Due to GSIS 26,530.51 30,980.47 (4,449.96) (14.36) 
+
+Due to Pag-IBIG 10,290.83 3,792.95 6,497.88 171.31 
+
+Due to PhilHealth 10,985.79 4,346.59 6,639.20 152.75 
+
+Total 393,373.39 227,686.69 165,686.70 72.77 
+Note: CY 2020 and 2019 balances are net of remittances made in January 2021 and January 2020, respectively. 
+
+ 
+
+Among the audit recommendations contained in the CY 2019 AAR was for 
+
+the Management to require the Chief Accountant to monitor and reconcile the 
+
+deductions and remittances to avoid under remittances. However, except for Due to 
+
+GSIS, instead of reducing the amounts of unaccounted and unremitted balances, 
+
+these increased by 83 to 171.3 percent. 
+
+ 
+
+(b) failure to withhold taxes on various payments totaling ₱242,230.00 
+ 
+
+Post-audit of various DVs showed that payments for honoraria of resource 
+
+speakers, consultancy services and catering services were not deducted withholding 
+
+taxes, as shown below: 
+
+ 
+Date DV No. Payee Particulars Amount (₱) 
+
+25-Mar-20 101-20-03-
+
+0451 
+
+Benilda E. 
+
+Reyes Catering 
+
+Services 
+
+Food during the En Banc Meeting 
+
+on December 9, 2019. 
+
+28,750.00 
+
+17-Sep-20 101-20-08-
+
+0804 
+
+Julliano 
+
+Fernando A. 
+
+Guiang 
+
+Services for PCUP Audio Visual 
+
+Presentation & IEC materials for 
+
+Climate Change Adaptation and 
+
+Mitigation & Disaster Risk 
+
+Reduction Management. 
+
+30,000.00 
+
+17-Sep-20 101-20-08-
+
+0817 
+
+Francoise Rey 
+
+B. Tercero 
+
+Services provided in the production 
+
+of FODL Audio-Visual Presentation 
+
+held July-August 2020. 
+
+30,000.00 
+
+
+
+69 
+
+ 
+
+ 
+
+Date DV No. Payee Particulars Amount (₱) 
+
+24-Sep-20 101-20-08-
+
+0794 
+
+Errickson G. 
+
+Abad 
+
+Honorarium of the Artist in the 
+
+creation of AVP and IEC materials 
+
+for Module 1: All about PCUP. 
+
+30,000.00 
+
+18-Nov-20 101-20-11-
+
+1131 
+
+Nomer Anthony 
+
+Madridejo 
+
+Honorarium for the creation of 
+
+PCUP Hymn (PCUP-UPO National 
+
+Conference 2020). 
+
+30,000.00 
+
+03-Nov-20 101-11-
+
+075-2020 
+
+Maria Vida 
+
+Caparas 
+
+Honorarium as resource speaker 
+
+relative to FODL Staff 
+
+Development-Integrity & 
+
+Accountability in the Workplace on 
+
+October 2020. (Oct 12-14, 19-21, 
+
+2020 max 4hrs per day) 20 pax 
+
+FOD-Luzon 
+
+63,480.00 
+
+28-Dec-20 101-20-12-
+
+1476 
+
+Xanthe Alyssa 
+
+Legazpi 
+
+Salary of data encoder for the 
+
+completion of 33% of the target 
+
+UPO Profiles for Encoding (FODL 
+
+Database of Accredited Urban Poor 
+
+Organization) 
+
+15,000.00 
+
+28-Dec-20 101-20-12-
+
+1475 
+
+Michael Angelo 
+
+Gam 
+
+Salary of Data Encoder for the 
+
+completion of 33% of the target 
+
+UPO Profiles for Encoding (FODL 
+
+Database of Accredited Urban Poor 
+
+Organization) 
+
+15,000.00 
+
+Total 242,230.00 
+
+ 
+
+ Section 4.114-2 (a) of Revenue Regulations (RR) No. 13-2018 provides that 
+
+“the Government or any of its political subdivisions, instrumentalities or agencies 
+
+shall, before making payment on account of each purchase of goods and services 
+
+which are subject to the value-added tax, deduct and withhold a final value-added 
+
+tax at the rate of five percent (5%) of the gross payment thereof.” 
+
+ 
+
+The application of the preceding provision of RR No. 13-2018 should be 
+
+synchronized with the provisions of RR No. 11-2018, on the withholding of income 
+
+tax of one percent on purchase of goods and two percent on purchase of services. 
+
+ 
+
+While payment for professional fees or management and technical 
+
+consultancy fees paid to individual payees shall be withheld a creditable income tax 
+
+of five percent or 10 percent as provided under Section 2.57.2 (A) of RR No. 2018. 
+
+ 
+
+Based on the foregoing, the PCUP had not been compliant with the provisions 
+
+of the above-mentioned laws, rules and regulations on withholding and remittance 
+
+of taxes, premiums and loan payments. The Agency is also exposed to the risk of 
+
+being penalized for non-compliance. 
+
+ 
+
+We recommended and Management agreed to require the Chief 
+
+Accountant to: 
+
+ 
+
+
+
+70 
+
+ 
+
+ 
+
+a. facilitate the verification and reconciliation of the unaccounted/unremitted 
+balances of the inter-agency payable accounts and cause its immediate 
+
+adjustment/remittance to BIR, GSIS, Pag-IBIG and PhilHealth; and 
+
+ 
+
+b. ensure compliance with the provisions of the DOF, DBM and COA Joint 
+Circular No. 1-2000, RA No. 8291, RA No. 9679, IRR of RA No. 9241, and 
+
+RR No. 11-2018 to avoid sanctions exposure. 
+
+ 
+
+The Chief Accountant committed to issue an office memorandum indicating 
+
+the appropriate withholding taxes to the end user units for the information of the 
+
+same. 
+
+ 
+
+ 
+
+Compliance with Property Insurance Law (RA No. 656) 
+
+ 
+
+17. In compliance with Section 5 of RA No. 656, except for its various office 
+equipment, furniture and fixtures, and ICT Equipment that had an unrenewed 
+
+insurance policy, the Agency had insured its assets, as presented below: 
+
+ 
+Insured Property Policy No. Sum Insured Cost of the 
+
+Property 
+
+Remarks 
+
+Various OE, ICTE, Comm 
+
+Equipment, Furnitures & 
+
+Fixtures 
+
+FI-NM-GSISHO-
+
+0032707 
+
+13,463,871.01 14,331,381.17 Expired on 
+
+12/31/2019, not 
+
+renewed 
+
+2008 Toyota Innova J 2.0L Gas 
+
+MT 
+
+MV-PC-GSISHO-
+
+0150619 
+
+616,004.35 789,000.00  
+
+Toyota Innova J 2.0L Gas MT MV-PC-GSISHO-
+
+0150617 
+
+1,315,500.00 995,000.00  
+
+2007 Mitsubishi Lancer GLX 
+
+1.6L GAS 
+
+MV-PC-GSISHO-
+
+0155132 
+
+476,748.68 688,300.00  
+
+2013 Toyota Innova J 2.5L DSL 
+
+MT 
+
+MV-PC-GSISHO-
+
+0155128 
+
+844,444.26 866,500.00  
+
+2017 Hyundai Grand Starex 
+
+2.5L TCL MT 
+
+MV-PC-GSISHO-
+
+0156523 
+
+1,376,242.00 1,298,000.00  
+
+2016 Foton View Traveller 2.8L 
+
+MT 
+
+MV-PC-GSISHO-
+
+0162684 
+
+1,582,273.90 1,299,000.00  
+
+2015 Suzuki APV GA 1.6L MT MV-PC-GSISHO-
+
+0150627 
+
+731,330.50 564,999.00  
+
+2012 Isuzu Crosswind XUV SE 
+
+DSL MT 
+
+MV-PC-GSISHO-
+
+0513154 
+
+810,696.50 1,042,000.00  
+
+2020 Toyota Avanza 1.5 G MT MV-PC-GSISHO-
+
+0164030 
+
+1,419,300.00 999,300.00  
+
+2014 Toyota Innova 2.5 DSL 
+
+MT 
+
+MV-PC-GSISHO-
+
+0165636 
+
+835,514.00 884,000.00  
+
+2014 Hi-Ace Commuter 2.5L 
+
+DSL MT 
+
+MV-PC-GSISHO-
+
+0165639 
+
+1,171,209.98 1,263,000.00  
+
+ 
+
+According to the Chief Accountant, the insurance policy of the equipment and 
+
+furniture and fixtures were not renewed in CY 2020 due to the absence of RPCPPE 
+
+or the basis for the amount to be insured. However, the Chief Accountant 
+
+committed to having these properties covered with adequate insurance in CY 2021. 
+
+ 
+
+
+
+71 
+
+ 
+
+ 
+
+Status of Audit Suspensions, Disallowances and Charges 
+
+ 
+
+18. In CY 2020, three Notices of Disallowance and three Notices of Suspension totaling 
+₱500,061.61 and ₱84,500,937.34, respectively, were issued to PCUP. 
+
+ 
+
+Details of audit disallowances and suspensions as at December 31, 2020, are 
+
+as follows: 
+
+ 
+
+Particulars 
+Beginning 
+
+Balance 
+
+CY 2020 Ending 
+
+Balance Issuances Settlements 
+
+Notice of Disallowance 7,287,433.40 500,061.61 - 7,787,495.01 
+
+Notice of Suspension - 84,500,937.34 - 84,500,937.34 
+
+Total 7,287,433.40 85,000,998.95 - 92,288,432.35 
+
+ 
+
+Of the ₱84,500,937.34 NS balance, ₱84,476,467.44 were settled in January 
+
+2021, and the balance of ₱24,469.90 matured into disallowance in February 2021. 
+
+Whereas the CY 2020 ND of ₱500,061.61 are pending appeal. 
+
+ 
+
+
+
+

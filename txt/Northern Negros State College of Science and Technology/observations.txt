@@ -1,0 +1,1332 @@
+				
+
+PART II – OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+A)	 Financial and Compliance Audit
+
+
+
+
+
+	1)	Real Time Gross Settlement (RTGS) collections amounting to ₱123,384,352.68 and ₱123,326,054.00 were erroneously recorded and belatedly receipted, respectively, contrary to Section 68 of Presidential Decree No. 1445, thus affecting the fairness of presentation of the financial statements at year-end.
+
+	
+
+		Section 68 of R.A. No. 1445 provides as follows:
+
+	
+
+	“No payment of any nature shall be received by a collecting officer without immediately issuing an official receipt in acknowledgment thereof.  The receipt may be in the form of postage, internal revenue or documentary stamps and the like, or officially numbered receipts, subject to proper custody, accountability, and audit.” (Underscoring Ours)
+
+	
+
+		In our post-audit of collections for CY 2020, we noted that the College uses the Real Time Gross Settlement (RTGS) system in which both processing and final settlement of fund transfer instructions can take place continuously (i.e., in real time).  As it is a gross settlement system, transfers are settled individually, i.e., without netting debits against credits.  An RTGS system can, thus be characterized as a fund transfer system that is able to provide continuous intraday finality for individual transfers provided that a sending bank has sufficient covering balances or credit. (Bangko Sentral Review, 2003)
+
+		
+
+		The Audit Team reviewed the transaction flow pertaining to the RTGS and noted that the collections through RTGS are from CHED and Land Bank LinkBizPortal remittances.  The CHED remittances include payment of tuition fees and other school fees for the Free Higher Education and Tertiary Education Subsidy (TES).  The College is made aware of these remittances in following instances:
+
+	
+
+1)		When the Director of Finance calls up the Land Bank of the Philippines (LBP) to inquire whether there are remittances credited to the College’s bank accounts: 
+
+	
+
+2)		When the personnel from Student Affairs and Services (SAS) follow up the billing status of Tuition and Other School Fees and TES with the Commission on Higher Education (CHED); and
+
+
+
+3)		Upon the preparation of the bank reconciliation statements by the Director of Finance.  
+
+	
+
+	
+
+	
+
+		Once the remittance is confirmed, the SAS personnel requests from CHED’s Cashier a copy of the LDDAP for the details of the remittances such as the purpose, check number and amount.  The Collecting Officer then issues an official receipt to acknowledge the remittances.  
+
+	
+
+		On the other hand, the LinkBizPortal, a Land Bank of the Philippines’ e-payment facility which was used by the College effective September 29, 2020, are for remittances from Graduate School tuition fees and Related Learning Experience fee of nursing students.  The Director of Finance monitors daily the transactions through the portal and informs the Collecting Officer of the remittances so that the latter can issue an official receipt accordingly.  
+
+	
+
+		At the end of the month, the Collecting Officer prepares the Report of Collections and Deposits (RCD) for all her collections and deposits during the month, including the RTGS collections.  The RCD is then submitted to the Accountant who records the RTGS Collections in the Cash Receipts Journal by debiting the Cash Collecting Officer and crediting the appropriate credit accounts.  
+
+		
+
+		In CY 2020, the total collections remitted by CHED and from students to the LBP bank account of NONESCOST amounted to ₱123,891,902.68 (see Annex A for details) broken down as follows:
+
+	
+
+CHED’s Remittances
+
+₱ 123,774,344.00
+
+Collections through Link.BizPortal
+
+117,558.68
+
+Total RTGS Collections
+
+₱ 123,891,902.68
+
+	
+
+		Out of that amount remitted to the bank, only ₱123,384,352.68 was receipted during the year, as follows:
+
+	
+
+CHED’s Remittances
+
+
+
+₱ 123,287,244.00
+
+Collections through Link.BizPortal
+
+     Receipted on Time
+
+
+
+58,298.68
+
+
+
+     Receipted Delayed
+
+38,810.00
+
+97,108.68
+
+Total Amount Receipted
+
+
+
+₱ 123,384,352.68
+
+	
+
+		The Audit Team also noted that the College Accountant recorded the RTGS collections totaling P123,384,352.68 as debits to the Cash Collecting Officer account and credited to appropriate credit accounts with a corollary entry debiting the Cash in Bank and crediting the Cash Collecting Officer accounts.
+
+	
+
+	
+
+	
+
+	
+
+		According to the Accountant, the above-mentioned entries were made because the Collecting Officer issued the official receipts required by the CHED and in compliance with regulation. However, since the collections were not actually received by the Collecting Officer, the entry should not have been a debit to the Cash Collecting Officer account but to the Cash in Bank account and a credit to the appropriate income or liability accounts.  The Cash Collecting Officer account is only used to recognize collections with the collecting officer which in the case of the RTGS collections is not applicable because these were directly deposited to the book without passing through the collecting officer.
+
+	
+
+		Furthermore, post-audit of the Report of Collections and Deposits in CY 2020 revealed that there was delay in the issuance of Official Receipts (ORs) on RTGS collections as follows:
+
+	
+
+Particulars
+
+Amount
+
+Delay 
+
+(Range in Days as of 12/31/2020)
+
+CHED Subsidy
+
+₱ 123,287,244.00
+
+1 to 318
+
+Collections through LinkBizPortal
+
+38,810.00
+
+1 to 8
+
+
+
+Total RTGS Collections
+
+
+
+₱ 123,326,054.00
+
+
+
+
+
+
+
+
+
+	 		The total collections deposited/remitted directly to the bank during the year was ₱123,892,052.68.  However, the Audit Team noted that of the said amount, the P58,298.68 was immediately receipted while the ₱123,326,054.00 was receipted delayed ranging from 1 to 318 days.  
+
+	
+
+		Moreover, the CHED’s remittances and collections through the Land Bank LinkBizPortal amounting to ₱487,100.00 and ₱20,450.00, respectively or a total of P507,550.00 (see Annex A for details) were not duly receipted at year-end and corresponding official receipts were only issued in the first quarter of CY 2021. These collections were already credited to the bank account of the College but the collections and deposits were not recorded in the books during the year, thereby understating the Cash in Bank account as of December 31, 2020.
+
+	
+
+		The Special Collecting Officer explained to the Audit Team that the issuance of Official Receipts was delayed because she would only know the remittances upon the notification of the personnel from Student Affairs and Services (SAS) to her that there were deposits made by CHED.  According to the SAS personnel, the CHED was always delayed in furnishing their Office copies of documents pertaining to their remittances.  
+
+	
+
+	The immediate issuance of ORs upon receipt of any collections is vital to properly account all the funds received by the College.  The delayed issuance of ORs resulted to the understatement of the Cash in Bank account and the corresponding income and liability accounts, thus affecting the fairness of presentation of the financial statements at year-end.
+
+	We recommended and Management, thru the College President, agreed to require the Cashier to regularly monitor the collections in the RTGS and LBP LinkBizPortal so that the Official Receipts can be issued on a timely basis and report these in the RCD properly. He should also direct the Accountant to, henceforth, record the RTGS collections by debiting Cash in Bank and crediting the appropriate Income/ Grants and Donation accounts.
+
+
+
+
+
+	2)	Receivables from students’ tuition fees totaling P7,517,460.58 were not recorded in the books of the College contrary to COA Circular Letter No. 2004-002, resulting to understatement of the Accounts Receivables and Other Deferred Credits accounts, thus affecting the fairness of presentation of the financial statements at year-end.
+
+
+
+	COA Circular Letter No. 2004-002, dated September 30, 2004, provides uniform accounting guidelines and procedures on the proper recording of income from tuition fees in State Universities and Colleges.  Items 2.1 and 2.2 states that:
+
+	
+
+	"2.1 The accrual method of accounting shall be used in recording income from tuition fees and it shall be recorded in the Regular Agency (RA) Book. Based on the final assessment of students upon enrollment, the Accounting unit shall record the Accounts Receivable with the corresponding credit to income account Tuition Fees."
+
+	
+
+		"2.2 At the end of the year, the amount corresponding to income of the ensuing year shall be adjusted to Other Deferred Credits. This adjustment shall be reversed immediately on the first working day of the ensuing year."
+
+	
+
+	Moreover, Section 6(b), Chapter 2 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs) provides that each entity shall recognize and present its financial transactions and operations conformably to the accrual basis of accounting in accordance with PPSAS.  The same Manual defines accrual as: 
+
+	
+
+“a basis of accounting under which transactions and other events are recognized when they occur (and not only when cash or its equivalent is received or paid). Therefore, the transactions and events are recognized in the accounting records and recognized in the financial statements of the periods to which they relate. The elements recognized under accrual accounting are assets, liabilities, net assets/equity, revenue, and expenses.
+
+	
+
+	
+
+	
+
+	
+
+	Financial Statements of the College at year-end showed that the Receivable accounts were broken down as follows:
+
+	
+
+	Account
+
+	Amount
+
+	Due from Officers and Employees Disallowances
+
+	P  2,753,989.64
+
+	Other Receivables
+
+	4,791,181.26
+
+	Total
+
+	P  7,545,170.90
+
+	
+
+	However, the Audit Team noted that the College did not record the accounts receivables from students for unpaid tuition fees totaling P7,517,460.58 (see Annex B for details) as of December 31, 2020, which are recorded in the Students Information and Accounting System (SIAS).  The SIAS, which was installed in CY 2011, is the system being used by the NONESCOST to set up the students’ data including their tuition fees and payments.  
+
+	
+
+	The amount of P7,517,460.58 pertains to the accounts of students enrolled from the period covered CY 2011 to CY 2020.  The said amount, however, did not include the accounts of students in the NONESCOST Cadiz Campus since SIAS was only set up in the main campus. Those accounts not incorporated in the SIAS were manually maintained using the Record Payment Form.  Once these are merged in SIAS, the unrecorded Accounts Receivable balances could be even more that P7,517,460.58 .   
+
+	
+
+The College Accountant explained that she failed to apply the accrual method of accounting in recording income from tuition fees, hence, an Accounts Receivable was not set-up based on the final assessment of students upon enrolment.  The entry to record the income from tuition fees was made only upon the receipt of cash payment from students by debiting “Cash in Bank’ and crediting “Tuition Fees”.  She also said that she just followed this practice from the time she assumed as Accountant in CY 2007.  
+
+	
+
+As a result of the foregoing practice, the accounts receivables from students’ tuition were not recognized, resulting to the understatement of the Accounts Receivables and Other Deferred Credits accounts, thus affecting the fairness of presentation of the financial statements at year-end.
+
+   
+
+	We recommended and Management, thru the College President, agreed to require the Accountant to record the accounts receivable and income from tuition fees in accordance with COA Circular Letter No. 2004-002 dated September 30, 2004 to ensure fair presentation of the said accounts in the financial statements. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	3)	The outstanding balance of the Student Assistance Fund for Education (SAFE) loan program amounting to P 1,484,000.00 has remained uncollected at year-end because the College was not able to strictly monitor the repayments of the student-borrowers contrary to CHED Memorandum Circular No. 25 series of 2008 dated June 3, 2008 nor did it provide as Allowance for Impairment contrary to Section 10, Chapter 7 of the Government Accounting Manual (GAM) for National Government Agencies, Volume I, thus these accounts are not fairly presented at year-end.
+
+
+
+Anchored on its Constitutional mandate to establish and maintain a system of scholarship grants and student loan programs, the Commission on Higher Education (CHED) provides assistance through scholarship loan programs to financially needy students.  CHED Memorandum Order Nos. 25 and 26, both series of 2008 were issued as guidelines for the implementation of the Student Assistance Fund for Education (SAFE) for Loan and Scholarship, respectively.  The guidelines under the SAFE Loan Program which are contained in CHED Memorandum Order No. 25 include, among others, the following:
+
+
+
+1)	Qualified loan grantees can borrow as much as Eight Thousand Pesos (P8,000.00), depending on individual circumstances and requirements.
+
+
+
+2)	Funds transferred from the CHED Regional Office is treated as a Revolving Fund to expand the number of beneficiaries of the SAFE Loan Program.
+
+
+
+3)	The participating Higher Education Institutions shall draw correspondingly duly notarized promissory note for repayment within 2 to 5 years after graduation, duly signed by the student borrower when grant of loan is awarded.
+
+
+
+In CY 2008 the NONESCOST received the amount of P5,000,000.00 from CHED, Regional Office No. VI, Iloilo City for the implementation of SAFE programs, broken down as follows:
+
+
+
+SAFE Program
+
+Check
+
+Amount
+
+Total
+
+
+
+Date
+
+Number
+
+
+
+
+
+Scholarship
+
+7/5/2008
+
+96525
+
+P  3,000,000.00
+
+P  3,500,000.00
+
+
+
+7/16/2008
+
+96518
+
+500,000.00
+
+
+
+Loan
+
+7/2/2008
+
+96493
+
+1,000,000.00
+
+1,500,000.00
+
+
+
+7/16/2008
+
+96518
+
+500,000.00
+
+
+
+Total
+
+
+
+
+
+
+
+P  5,000,000.00
+
+
+
+The receipt of funds for SAFE Scholarship and Loan was recorded in the books as debit to Cash In Bank and credit to Subsidy from National Government and Due to NGAs, respectively.  On the other hand, the entry to record the disbursement was a debit to Scholarship Grants/Expenses and Other Receivables for the SAFE Scholarship and SAFE Loan, respectively and credit to Cash In Bank.
+
+
+
+The corresponding disbursements for the foregoing funds transfer were released to student grantees and borrowers in CYs 2008 to 2011, as shown below (See Annexes C and D for details):
+
+
+
+Purpose
+
+Amount
+
+Scholarship
+
+P  3,195,000.00
+
+Loan
+
+1,500,000.00
+
+Total
+
+P  4,695,000.00
+
+	
+
+Priority for the SAFE Loan Program was given to the graduating students of the NONESCOST.  The first and second releases were granted in School Year (SY) 2008-2009 and SY 2010-2011 amounting to P1,352,000.00 and P148,000.00, respectively or a total amount of P1,500,000.00.  Based on the guidelines, the loan should have been already paid in SY 2015-2016, which was 2-5 years from graduation.
+
+
+
+However, review of the repayments for the SAFE Loan Program as of December 31, 2020 disclosed that although the loans were already due for collection in the year 2017, only two student-borrowers had fully paid up their loan totaling P16,000.00.  The amount paid represents 1.07% repayment rate only leaving an unpaid balance of P1,484,000.00 (See Annex E for the details).  
+
+
+
+On the other hand, we also noted that out of the funds received from CHED for the SAFE-Scholarship amounting to P3,500,000.00, only P3,195,000.00 was disbursed as of December 31, 2020 leaving an unutilized balance of P305,000.00.  
+
+
+
+Moreover, the low percentage of loan repayment deprived other financially needy students who could have enjoyed the same benefits.  Thus, the objective of the SAFE Scholarship and Loan programs which is to expand the number of beneficiaries was not realized.  
+
+
+
+The Director of Student Affairs and Services (SAS) explained to the Audit Team that he consistently reminded some of the SAFE Loan student-borrowers of their loan payment obligations through Facebook Messenger, but to no avail.  He also added that he brought up this matter to the then College President to refer this to the College’s Legal Counsel on what collections strategy to adopt.  
+
+
+
+Furthermore, the Director of SAS said that he even discussed the matter during one Administrative Council meeting but the College still did not take any action like sending demand letter to students-borrowers.  However, he said that the NONESCOST will exhaust all possible means to collect the SAFE-Loan from student borrowers for CY 2021.    
+
+
+
+
+
+
+
+
+
+We also noted that the year-end balance of the Other Receivables account amounting to P4,790,681.26 includes SAFE Loan and Scholarship amounting to P3,327,000.00, as follows: 
+
+
+
+Particulars
+
+Amount
+
+SAFE Scholarship 
+
+P  3,195,000.00
+
+SAFE Loan 
+
+148,000.00
+
+Payment of SAFE Loan 
+
+(16,000.00)
+
+Balance, 12/31/2020
+
+P  3,327,000.00
+
+
+
+We also noted that the SAFE –Scholarship amounting to P3,195,000.00 should not have been recorded in the Other Receivables accounts since this was a grant and not a loan. It should have been recorded instead to the Scholarship Grants/Expenses account.  The Accountant explained that she overlooked the nature of the disbursements totaling P3,195,000.00 and inadvertently recorded it in the Other Receivables account.
+
+
+
+Moreover, scrutiny of the Subsidiary Ledger – Other Receivables and records maintained by the SAS Director pertaining to the SAFE – Loan Program showed that the balance should have been P1,484,000.00 (See Annex E for the details) and not P3,327,000.00, because out of the P1,500,000.00 total amount received, same amount was disbursed to student borrowers and only P16,000.00 was paid up.   Further verification of the said account disclosed that only the disbursement for the SAFE Loan with check number 449370 dated 3/31/2011 amounting to P148,000.00 and payment thereof in CYs 2013 and 2014 totaling P16,000.00 were recorded.
+
+
+
+Records kept by the SAS Office also showed that there were three SAFE loan program disbursements for CYs 2008 and 2009 not included in the Other Receivables account, as follows:
+
+
+
+Check
+
+Amount
+
+Date
+
+Number
+
+
+
+12/19/2008
+
+374921
+
+    P      208,000.00
+
+2/23/2009
+
+375167
+
+572,000.00
+
+3/20/2009
+
+375326
+
+572,000.00
+
+Total
+
+
+
+P      1,352,000.00
+
+
+
+However, the Audit Team could not verify the foregoing data because the disbursement vouchers and related accounting records for CYs 2008 and 2009 are no longer available.  The Accountant also admitted that she could not identify what accounts were used in recording the total amount of P1,352,000.00 because the Accounting books were manually maintained during that time and these can no longer be located.
+
+
+
+	The SAS records also showed that some student-borrowers were granted more than P8,000.00 which was contrary to the aforementioned memorandum.  The Director of SAS admitted that he misunderstood the guidelines specifically the amount allowable to be borrowed by the qualified loan grantees. 
+
+Finally, we also noted that Allowance for Impairment was not provided, contrary to Section 10, Chapter 7 of Government Accounting Manual (GAM) Volume I that states: 
+
+
+
+“An entity shall assess at the end of each reporting period whether there is any objective evidence that a financial asset or group of financial assets is impaired.   xxx”
+
+
+
+“In case of Accounts Receivable, the Allowance for Impairment shall be provided in an amount based on collectibility of receivable balances and evaluation of such factors as aging of accounts, collection experiences of the agency, expected loss experiences and identified doubtful accounts.” (Underscoring Ours)
+
+
+
+The lack of strict monitoring of repayments made by the student-borrowers to the relatively low collections on the outstanding SAFE loan balances and the non-provision of the Allowance for Impairment has also affected the fairness of presentation of these accounts at year-end.
+
+	
+
+We recommended and Management, thru the College President, agreed to instruct the College Accountant and the Director of Student Affairs and Services (SAS) to verify the outstanding balance of the SAFE loans receivable and to send demand letters to the student-borrowers to repay their SAFE loan outstanding balance.  Henceforth, the Campus Accountant and SAS Director should maintain permanent records on scholarship and loan programs and strictly monitor the same in accordance with established guidelines and provide Allowance for Impairment pursuant to the instructions in the GAM for NGAs, Volume I.
+
+
+
+
+
+	4)	Dormant Advances to Officers and Employees amounting to P379,240.69, aged 10 years and above were not requested for write-off contrary to COA Circular 2016-005 dated December 19, 2016, thus affecting the fairness of presentation of the related receivable and equity account balances in the financial statements.
+
+
+
+COA Circular 2016-005 provides guidelines and procedures on the write-off of dormant receivable accounts, unliquidated cash advances, and fund transfers of National Government Agencies.
+
+
+
+Items 5.4 and 5.5 define dormant Receivable Accounts and Unliquidated Cash Advances as follows:
+
+
+
+“5.4 Dormant Receivable Accounts - accounts which balances remained inactive or non-moving in the books of accounts for ten (10) years or more and where settlement/collectability could no longer be ascertained.”
+
+
+
+“5.5 Dormant Unliquidated Cash Advances - advances granted to disbursing] officers, agency ~officers and employees which remained non-moving for ten (10) years or more and where settlement/collectability could no longer be ascertained.”
+
+
+
+Our review of the Accounts Receivables of the College and scrutiny of the details in the Schedules of Accounts Receivables as of December 31, 2020, showed that the amount of P379,240.69  (please see Annex F for details) were included in the Advances to Officers and Employees, respectively, which had been dormant for more than 10 years  and with remote possibility of collection.  This pertain to the accounts of persons who were already separated from the service due to retirement, reassignment or even death.
+
+
+
+Interview with the Director of Finance disclosed that in CY 2020, she already started collating the documentary requirements to support the request for write-off of the dormant accounts.  She further said that the request will be submitted to the Audit Team this CY 2021 as soon all the documents are complete. 
+
+		
+
+Considering that the foregoing accounts are already dormant pursuant to COA Circular 2016-005, continuously carrying these in the books may affect the fairness of presentation of the related receivable and equity account balances in the financial statements. Thus, after exerting diligent efforts and management has sufficient proof that the possibility of collection is indeed already nil, they may request from the Commission on Audit (COA) for authority to write-off these dormant accounts in accordance with the guidelines prescribed in the said COA Circular.
+
+
+
+We recommended and Management, thru the College President, agreed to require the Accountant, after showing proof that all means to collect has been exhausted to no avail, to request for authority from the Commission on Audit to write-off the dormant accounts in accordance with the guidelines prescribed in COA Circular No. 2016-005.
+
+
+
+
+
+	5)	Honoraria paid to faculty and employees were not withheld the correct amount of taxes contrary to  Bureau of Internal Revenue (BIR) Revenue Regulation (RR) No. 11- 2018 dated January 31, 2018 resulting to total overpayments amounting to ₱558,921.86 and depriving the government of additional income taxes for its budgetary needs.
+
+
+
+Section 6(B) of BIR RR No. 11-2018 provides that thirteenth month pay and other benefits paid or accrued during the year is exempt from withholding tax on compensation, provided that the total amount shall not exceed ninety thousand pesos (₱90,000.00) while Section 2(A) provides that if the recipient of the professional fees is an employee of the lone income payor, such fees or payments shall be considered supplemental compensation subject to the withholding tax on compensation.
+
+		
+
+		Moreover, Section 7(A) of the same Revenue Regulation also states that:
+
+			
+
+		 “(A) Requirement of Withholding. - Every employer must withhold from compensation paid an amount computed in accordance with these Regulations, whether the employee is a citizen or an alien, except non-resident alien not engaged in trade or business. Provided, that no withholding of tax shall be required on the Statutory Minimum Wage (SMW), including holiday pay, overtime pay, night shift differential and hazard pay of Minimum Wage Earners (MWEs) in the private/public sectors as defined in these Regulations.”
+
+		
+
+Section 2(A) of BIR RR No. 11-2018 imposes withholding tax of 5% on the gross amount of the remuneration for the individual payee rendering professional services if his or her gross income does not exceed ₱3M otherwise, the withholding tax imposed is 10%. Said provision states that, among others, “fees of directors who are not employees of the company paying such fees, whose duties are confined to attendance at and participation in the meetings of the board of directors” are subject to the said withholding tax.
+
+
+
+			Our post-audit of the disbursements made for the payment of honoraria to faculty for their overload disclosed that it was initially subjected to 8% withholding tax on its gross amount.  However, in the last quarter of CY 2020, the Director of Finance, instructed the Accountant to treat the honorarium as part of the employees’ compensation and the Accountant imposed the income tax pursuant to applicable graduated tax rates provided under Section 24(A)(2)(a) of the National Internal Revenue Code (NIRC) and Section 6(B) of BIR RR No. 11-2018.  Though the Accountant performed corrective action by applying the prior tax deficiencies to subsequent payment of honoraria, the amounts withheld were still inadequate.
+
+		
+
+			Moreover, the honoraria paid to College employees for attendance to Board of Trustees (BOT) meetings, Bids and Awards Committee bidding and participation in the Search Committee for the Presidency and Preliminary Investigation Committee were not subjected to income tax.  
+
+		
+
+			Further verification of the disbursements revealed that payment of the CY 2018 Productivity Based Bonus (PBB) which was granted in CY 2020 was not also subjected to tax.  In addition, some of the faculty and employees receiving a monthly salary of more than P90,000.00 were even granted midyear bonus tax free and while adjustments were made for income tax on the succeeding benefits received by them, the amount of tax withheld was also not enough.
+
+		
+
+			The Accountant explained that she did not withhold income tax on the PBB because she believed that it was a reward and not a benefit subject to income tax.  However, we maintain that pursuant to Section 6 (B) (11b) of BIR RR No. 11-2018, PBB is one form of employee’s benefits and considered as supplemental compensation subject to the withholding tax on compensation.  
+
+			She also said that she realized the implications of not withholding the tax on the mid-year bonus upon the grant.  Therefore, the CY 2021 midyear bonus of those faculty and employees receiving more than P90,000.00 was granted already net of income tax.
+
+		 
+
+			Due to the foregoing erroneous tax computation for honoraria and PBB, the College incurred a tax deficiency of P528,446.86 (please see Annex G for the details) depriving the government  of additional income taxes for its budgetary needs.
+
+		
+
+			Moreover, we also noted that payment of honoraria to individuals not employed by the College amounting to ₱609,500.00 was not subjected to withholding tax totaling P30,475.00 (see Annex H for details), contrary to the BIR regulation requiring it to be subjected to 5% withholding tax.  The said honoraria was paid as professional fees and remuneration of their participation in the Search Committee for the Presidency and Preliminary Investigation Committee, and for the attendance during the BOT’s meetings.  
+
+
+
+We wish to remind Management to strictly abide by the aforecited provisions since Section 247 (b) of the NIRC of 1997 of the Philippines provides that the “withholding agent is the Government or any of its agencies… the employee thereof responsible for the withholding and remittance of the tax shall be personally liable for the additions to the tax prescribed herein.”
+
+		
+
+			Furthermore, Section 272 of the NIRC also imposes a corresponding penalty upon conviction on the failure of a government employee charged with the duty to deduct and withhold any internal revenue tax and to remit the same to withhold the proper amount of tax pursuant to the provisions of this Code.
+
+
+
+			We recommended that the College President to require the persons concerned to refund the overpayment of the honoraria and benefits and instruct the Accountant to remit the same to the BIR upon collection thereof. Henceforth, he should also require the Accountant to withhold the correct amount of tax on honorarium and all benefits received by faculty and employees that exceed the P90,000.00 pursuant to BIR RR No. 11-2018 and Section 2(A) of BIR RR No. 11-2018.
+
+		
+
+The Management’s reply on our aforementioned audit observation was as follows: 
+
+
+
+“We would like to request for consideration in the computation of taxes pertaining to the salary differential of the promoted personnel under NBC 461.  Although their promotion was effective July 1, 2019 the funds for differential were downloaded by DBM only in the year 2020 which is beyond the control of the employees.  Initially, this was taxed using their current tax rate, yet the concerned personnel appealed if the said differential would be taxed as part of the 2019 compensation income should they have received the amount in such year.  This was because some of them would be subjected to a higher tax bracket if it would be treated as an additional compensation in 2020 as compared to including it in the 2019 compensation  since the services rendered was indeed in 2019 and their salary during half of the year is still lower compared to the salary of their current position.”
+
+Auditor’s Rejoinder:
+
+
+
+	While the Audit Team appreciates Management’s explanation, we also wish to point out Section 44, Chapter VIII of National Internal Revenue Code of 1997 provides that “The amount of all items of gross income shall be included in the gross income for the taxable year in which received by the taxpayer, unless, under methods of accounting permitted under Section 43, any such amounts are to be properly accounted for as of a different period.” (Underscoring Ours).
+
+
+
+	Moreover, in the Supreme Court’s Decision with G.R. No. 167679  dated July 22, 2015 emphasized that “the obligation of the payor/employer to deduct and withhold the related withholding tax arises at the time the income was paid or accrued or recorded as an expense in the payor’s/employer’s books, whichever comes first.”  
+
+		
+
+
+
+	6)	Expenses related to COVID-19 in the amount of ₱1,187,150.00 were charged against the Special Trust Fund (STF) contrary to Section 4(d) of Republic Act No. 8292 known as the “Higher Education Modernization Act of 1997”, Section 18(d) of CHED Memorandum Circular No. 3, series of 2001, the Implementing Rules and Regulations (IRR) for R.A. No. 8292 and Article III of CHED Memorandum Order No. 20 series of 2011. 
+
+
+
+Section 4(d) of R.A. No. 8292 provides that:  “…any income generated by the university or college from tuition fees and other charges, as well from the operation of auxiliary services and land grants, shall be retained by the university or college, and may be disbursed by the Board of Regents/Trustees for instruction, research, extension, or other programs/projects of the university or college:  Provided, That all fiduciary fees shall be disbursed for the specific purposes for which they are collected.” (Emphasis ours)
+
+
+
+The foregoing provision is also reiterated in Section 18(d) of CHED Memorandum Circular No. 3, series of 2001, the IRR for R.A. No. 8292. 
+
+
+
+Moreover, Sections 6, 8, 10, 12, 14 and 16 of Article III of CHED Memorandum Order No. 20, series of 2011 provides the Specific Budgetary Allocation of the Special Trust Fund (STF), as follows:
+
+
+
+1.  Faculty and Staff Development
+
+	2.  Curriculum Development
+
+	3.  Student Development
+
+	4.  Facilities Development
+
+	5.  Research Services
+
+	6.  Extension Services
+
+	7.  Production
+
+	8.  Administrative Services
+
+	9.  Reserve
+
+Our audit of transactions for CY 2020 disclosed that expenses for COVID-19 in the total amount of ₱1,187,150.00 were charged against the Special Trust Fund, as follows:
+
+
+
+Particulars
+
+Amount
+
+Drugs and Medicines:
+
+₱253,150.00
+
+1)	Medicines
+
+2)	Vitamins
+
+93,650.00
+
+159,500.00
+
+
+
+Medical, Dental and Laboratory Supplies Expenses:
+
+₱49,452.63
+
+1.  PPEs
+
+2.  Disinfectants
+
+3.  Sprayers
+
+4.  Disinfecting Supplies
+
+3.  Thermal Scanners
+
+4.  Others:
+
+     a.  Face Mask
+
+     b.  Alcohol  
+
+     c.  Surgical Gloves
+
+      d.  Face Shields
+
+30,000.00
+
+266,800.00
+
+80,150.00
+
+40,550.00
+
+16,000.00
+
+
+
+172,000.00
+
+133,000.00
+
+19,950.00
+
+38,850.00
+
+
+
+Medical Equipment:
+
+₱136,700.00
+
+1)	Hands-free Dispenser
+
+2)	Shoe Cover
+
+3)	Foot Mat with Disinfecting Solution
+
+4)	PVC Sani Step
+
+5)	UV Disinfecting Lamp
+
+6)	UVC Sterilization Disinfection Box
+
+89,100.00
+
+2,100.00
+
+10,500.00
+
+23,000.00
+
+7,200.00
+
+4,800.00
+
+
+
+Total
+
+₱1,187,150.00
+
+
+
+However, it is clear from the aforecited regulations that the STF can be disbursed only for specific programs/projects of the College and the expenses utilized for COVID-19 do not belong to any of these and is contrary to the above-cited law and memoranda.
+
+
+
+The College Accountant explained that the expenses for COVID-19 such as disinfectants were charged to the STF because these were already included in the Agency Procurement Plan (APP) to be used for their normal operations.   The drugs and medicines, PPEs, thermal scanners, sprayers, disinfecting supplies and medical equipment on the other hand, were charged to the STF even though these were not part of the APP because these were necessary to effectively respond to the pandemic.
+
+
+
+It bears stressing that the fiduciary fund should be disbursed only for the specific purpose for which it was collected and the STF is intended only for instruction, research, extension, or other program/projects of the College which are necessary for the attainment of the College’s goals and objectives to provide quality education.
+
+The expenses for disinfectants and Personal Protective Equipment (PPEs) incurred by the College in response to the COVID-19 pandemic should have been charged to its regular agency budget or better still to the Disaster Risk Reduction and Management Fund (DRRMF) which the agency is allowed to provide as mandated in the General Appropriations Act in order for it to be properly prepared and appropriately respond to impending calamities.
+
+
+
+We recommended and Management, thru the College President, agrred to  instruct the Accountant to  discontinue charging unrelated expenses to the Special Trust Fund and instead utilize it only in accordance with  Section 4(d) of Republic Act No. 8292 known as the “Higher Education Modernization Act of 1997”, Section 18(d) of CHED Memorandum Circular No. 3, series of 2001, the Implementing Rules and Regulations (IRR) for R.A. No. 8292 and Article III of CHED Memorandum Order No. 20 series of 2011. 
+
+
+
+
+
+	7)	The College did not set aside a portion of their CY 2020 regular appropriations for projects and activities designed for Disaster Risk Reduction and Management (DRRM) as required under Section 1, Rule 19 of the Implementing Rules and Regulations of Republic Act No. 10121 known as the “Philippine Disaster Risk Reduction and Management Act of 2010”, Section 36 of FY 2020 General Appropriations Act (GAA) and Item III.c of COA Circular No. 2014-002 dated April 15, 2014, thus it was not financially prepared to respond to the needs of the COVID-19 pandemic.
+
+
+
+Section 1, Rule 19 of the Implementing Rules and Regulations of RA 10121 provides that the  “NDRRMF is appropriated in the annual GAA which shall be used for disaster risk reduction or mitigation, prevention and preparedness activities such as, but not limited to training of personnel, procurement of equipment and capital expenditures.  It can also be utilized for relief, recovery, reconstruction and other work or services in connection with natural or human-induced calamities which may occur during the budget year or those that occurred in the past two (2) years from the budget year.”
+
+
+
+COA Circular No. 2014-002 dated April 15, 2014 also provides the accounting and reporting guidelines on the Disaster Risk Reduction and Management (DRRM) Fund which includes the funds sourced from the agency regular budget for the DRRM program.  Item III.c thereof provides that;
+
+
+
+ “All departments, bureaus, offices and agencies of the government are hereby authorized to use a portion of their appropriations to implement projects designed to address DRRM activities in accordance with the guidelines to be issued by the NDRRMC in coordination with the Department of Budget and Management (DBM).”
+
+
+
+Finally, Section 36 of the General Provisions of the General Appropriations Act of 2020 or R.A. No. 11465 echoes the foregoing provision stating that:
+
+
+
+ “All agencies of the government shall plan and implement programs and projects, taking into consideration measures for climate change adaptation and mitigation, and disaster risk reduction, based on climate and disaster risk assessments.  x x x.”
+
+
+
+In our verification of the College’s annual budget for CY 2020, we found out that there was no provision made for disaster risk reduction management and climate change adaptation activities.  The Budget Officer informed us that there was no allocation provided for DRRM because the budget preparation and planning started in October 2019 and she was not able to include allocation for the COVID related expenses considering that it was an unforeseen event.  She added that the funds intended for the medical, dental and laboratory had been used to address the concerns of COVID-19 expenses.
+
+
+
+R.A. 10121 or the “Philippine Disaster Risk Reduction and Management Act of 2010” was enacted into law to demonstrate the importance given by the Government to mainstream Disaster Risk Reduction and Management (DRRM) in the development processes to better prepare for and lessen the impact of deadly and costly natural and man-made hazards/disasters with the goal of promoting sustainable socio-economic growth.
+
+
+
+During the year, due to the COVID-19 pandemic which struck not just the country in particular but the whole world in general, Philippine President Rodrigo Roa Duterte issued the following:
+
+
+
+1)	Proclamation No. 922 dated March 8, 2020 declaring a state of public health  emergency throughout the Philippines due to the outbreak of COVID-19 and the confirmation by the Secretary of Health of local transmission of the Corona Virus Disease in the Philippines;
+
+
+
+2)	Proclamation No. 929 dated March 16, 2020 declaring a state of calamity throughout the Philippines due to COVID-19 for a period of six (6) months effective March 16, 2020; and
+
+
+
+3)	Proclamation No. 1021 extending the period of the state of calamity throughout the Philippines due to COVID-19 for a period of one (1) year, effective 13 September 2020 to 12 September 2021, unless earlier lifted or extended as circumstances may warrant.
+
+
+
+
+
+
+
+
+
+
+
+The foregoing declarations capacitated all government agencies and LGUs to immediately act to prevent the loss of life and utilize appropriate resources to implement urgent and critical measures to contain and/or prevent the spread of COVID-19, mitigate its effects and impacts to the community as well as prevent the serious disruption of basic government services.  The National Government as well as LGUs were given ample latitude to utilize appropriate funds, including the Quick Response Fund, in their disaster preparedness and response efforts to contain the spread of COVID-19 and continue providing basic services to the affected population.
+
+
+
+However, because the College did not set aside a portion of its regular agency budget in CY 2020 for DRRM activities, its response to the effects of the pandemic were limited to only the purchase of basic disinfectants such as alcohol and bleach already included in their annual procurement plan amounting to ₱41,150.00 (see Annex I for details).  In fact, considering that the regular appropriations from the General Appropriations Act (GAA) were not significant and there was still a need to procure personal protective equipment (PPEs), thermal scanners and more disinfectants, a portion of the Special Trust Fund (STF) amounting to ₱1,187,150.00 (see Annex I  for details) was utilized, which is the subject of another audit observation considering that the STF being a trust fund, was to be used only for the specific purpose for which fiduciary fees lodged therein were collected.
+
+
+
+Therefore, had the College allocated a portion of their regular budget for DRRM programs and activities, it could have used appropriate funds for immediate response and critical measures to contain and prevent the spread of COVID-19 or any disaster for that matter, and mitigate its impact to the community.
+
+
+
+
+
+We recommended and Management, thru the College President, agreed to  instruct the Budget Officer to comply with the provisions of R.A. 10121 and related guidelines regarding the formulation and implementation of plans, programs, projects and activities related to Disaster Risk Reduction Management and Climate Change so that appropriate funds can be utilized to better prepare for and lessen the impact of the on-going COVID-19 pandemic and other future disasters and calamities. 
+
+
+
+
+
+	8)	The fidelity bonds of the Campus Cashier and Designated Special Colleting Officers were not sufficient to cover their total accountability for the period covered by their respective bonds, contrary to Items 5.1, 7.3 and 7.3.2 of Treasury Circular No. 02-009 dated August 6, 2009, thus, the existing bond may not be enough to secure possible losses.   
+
+
+
+Treasury Circular No. 02-2009 dated August 6, 2009 provides the rules and   regulations governing the fidelity bonding of accountable public officers.
+
+
+
+
+
+  Item 5.1 thereof requires that:
+
+
+
+“The amount of bond shall be based on the total accountability (cash, property and accountable forms) of the accountable public officer as determined by the Head of Agency. Provided, the individual maximum accountability of each accountable public officer shall not exceed One Hundred Million Pesos (P100M).xxx.” 
+
+
+
+Furthermore, Items 7.3 and 7.3.2 of the same circular provide guidelines upon occurrence of subsequent increase in accountability, as follows:
+
+
+
+Item 7.3-
+
+
+
+“Any increase in the amount of accountability, resulting to an increase in the amount of bond shall be subject to increase in premium” 
+
+
+
+Item 7.3.2- 
+
+
+
+“The amount of bond premium shall be computed based on the increased amount of bond. The bond shall take effect upon the time of payment of premium on the new bond application”
+
+
+
+
+
+We verified the fidelity bond details of the concerned Cashier and Collecting Officers of the Sagay and Cadiz Campuses and noted the following:  
+
+
+
+Name of Accountable Officer/ Designation
+
+Risk No.
+
+Effective Date
+
+Approved amount of Bond
+
+Maximum Cash Accountability
+
+Rodelyn D. Baloco/ Special Collecting Officer
+
+ 42-19-4250N 
+
+ November 19, 2019 to November 19, 2020 
+
+P 45,000.00
+
+P 60,000.00
+
+ Ruperto P. Bayawa, Jr./Cashier
+
+ 42-19-3688N 
+
+ October 12, 2019 to October 12, 2020 
+
+100,000.00
+
+250,000.00
+
+ Helen P. Mondejar/Special Collecting Officer 
+
+ 42-19-3689N 
+
+ October 12, 2019 to October 12, 2020 
+
+45,000.00
+
+60,000.00
+
+
+
+Our examination of the subsidiary ledgers pertaining to the concerned accountable officers’ collections and disbursements revealed that their total average accountability within the effective period covered by their fidelity bond exceeded the maximum cash accountability of their approved bond, shown as follows:
+
+
+
+
+
+
+
+
+
+
+
+Accountable Officer
+
+Position/
+
+Approved Bond
+
+Per Audit
+
+
+
+
+
+Amount 
+
+Cash Accounta-bility
+
+Average Accountabili-ty per Month
+
+Amount of Bond
+
+Rodelyn D. Baloco 
+
+Admin. Aide III
+
+₱45,000.00
+
+₱50,001.00 to ₱60,000.00
+
+₱8,197,153.78
+
+₱3,500,000.00
+
+Ruperto P. Bayawa, Jr. 
+
+Admin. Officer V
+
+100,000.00
+
+100,001.00 to 250,000.00
+
+4,657,984.17
+
+1,500,000.00
+
+Helen P. Mondejar 
+
+Admin. Assistant II
+
+45,000.00
+
+50,001.00 to 60,000.00
+
+613,317.75
+
+350,250.00
+
+
+
+We noted that there is no change on the approved bond effective 2019 to 2020 from the prior year’s bond effective 2018 to 2019.  The Cashier said that the amount of bond applied for approval is determined by the accountable officers depending on the amount of the cash advances and collections of the cashier and collecting officers, respectively. He furthered that in case the current approved amount of bond is insufficient, its corresponding increase will be effected upon renewal in CY 2021.
+
+
+
+ As provided in Item 4.8 of the aforementioned treasury circular, the Fidelity Fund shall be available for the purpose of replacing defalcations, shortages, unrelieved losses in the accounts of bonded public officers, for the payment of fees and cost incident to civil proceedings brought against them to recover sums paid on their account from said Fund.  Thus, insufficient bond coverage places the government at a disadvantage in the unlikely event that the aforementioned conditions arise because the existing bond of the accountable officer may not be enough to replace any possible losses.
+
+
+
+We recommended and Management, thru the College President, agreed to increase the bond of the Campus Cashier and Collecting Officers to cover their average maximum cash accountability and to henceforth ensure that they are always properly bonded in accordance with Items 5.1, 7.3 and 7.3.2 of Treasury Circular No. 02-2009 dated August 6, 2009.
+
+
+
+
+
+	9)	Required Reports on fuel consumption were not regularly prepared and properly accomplished contrary to COA Circular No. 77-61 dated September 26, 1977, resulting to difficulty in ascertaining the reasonableness of fuel consumption amounting to P593,786.99 for CY 2020.
+
+
+
+COA Circular No. 77-61 dated September 26, 1977 prescribes the use of the Manual on Audit for Fuel Consumption of the Government Motor Vehicles.  The manual requires the preparation and submission of the following reports to the Auditor for verification: 
+
+
+
+
+
+“Monthly Report of Official Travels – At the end of the month, a Monthly Report of Official Travels shall be prepared by the driver concerned summarizing in chronological order his trips for the month.  For each vehicle, one report shall be prepared monthly.  The report shall be certified by the driver and approved by the Administrative Officer.  
+
+
+
+It shall be prepared in three copies to be distributed as follows:
+
+
+
+Original	Auditor (thru Chief Accountant)
+
+Duplicate	Administrative Officer or equivalent
+
+Triplicate	File
+
+
+
+Report of Fuel Consumption – Monthly, a report of fuel consumption shall be prepared and submitted by the Agency personnel concerned to the Auditor for verification purposes.  The report shall show among others, the different types of motor vehicles utilized by the agency during the month, total distance traveled, total fuel used and the normal fuel consumption foe each vehicle.  The report to be prepared in three copies by the Agency personnel concerned, shall be verified by the Auditor.  Copies shall be distributed as follows:
+
+
+
+Original	COA Regional Director
+
+Duplicate	Auditor for audit purposes
+
+Triplicate	Agency file”
+
+
+
+For CY 2020, total gasoline expenses of the NONESCOST amounted to P593,786.99.  Our post audit of the disbursement vouchers showed that only the Driver’s Trip Tickets and Requisition and Issue Slip were all attached thereto.  However, the Report of Fuel Consumption, as well as the Monthly Report of Official Travels were not prepared and submitted monthly to the Auditor for verification.   
+
+
+
+COA Circular No. 77-61 also mandates that in order to properly control and regulate the use of government vehicles, a Driver’s Trip Ticket should be properly accomplished and duly approved.  However, in our review of the Driver’s Trip Tickets, we have observed that these were not properly filled up.  For instance, Driver’s Trip Ticket Nos. 000709, 000832, 000923 dated January 7, 2020, February 17, 2020 and March 12, 2020, respectively had no written information about the time, place and odometer reading both of its departure and arrival.  Furthermore, the Drivers did not filled up the data about the fuel consumption and balance in tank at the end of the trips.  The Audit Team also noted that there were no signature of passengers in the trip tickets.  The College’s Drivers admittedly said that they were not able to fill up all the data in the trip tickets because of their busy schedules. 
+
+
+
+
+
+The foregoing deficiencies noted resulted to difficulty in ascertaining the reasonableness of the College’s fuel consumption in the total amount of P593,786.99 during the year.
+
+
+
+NONESCOST personnel said that they were unaware that the above mentioned reports should be prepared and submitted monthly to the Audit Team or that the Driver’s Trip Tickets should be properly accomplished but promised the Audit Team to do so starting CY 2021.
+
+
+
+We recommended and Management, thru the College President, agreed to direct the authorized drivers and person in charge to prepare and submit the Monthly Report of Official Travels and Report of Fuel Consumption to the Auditor pursuant to COA Circular 77-61 and to henceforth, require the persons concerned to properly accomplish the same.   
+
+
+
+
+
+	10)	The Special Collecting Officer of the College collected alumni fees for the NONESCOST Alumni Association, a private organization, contrary to Sec. 67 of the Government Accounting and Auditing Manual (GAAM), Vol. I.
+
+
+
+Section 67 of GAAM, Vol I prohibits government cashiers from holding other positions as follows:
+
+
+
+“Government cashiers are prohibited holding positions as cashiers or treasurers of savings and loans association or any other association or organization (GAO Gen. Cir. 25, April 20, 1953: EO No. 250, s. 1930.”
+
+
+
+In the cash examination conducted by the audit team on the cash and accounts of the Special Collecting Officer assigned in the Main Campus of NONESCOST on October 10, 2019, we noted that she had in her possession a passbook with the following details:
+
+
+
+Cooperative  Name
+
+Account Name
+
+Balance as of December 31, 2020
+
+
+
+NONESCOST Multi- Purpose Cooperative
+
+
+
+NONESCOST Alumni Association
+
+
+
+P 286,141.15
+
+ 
+
+The Special Collecting Officer explained that on November 16, 2017, she was directed and designated by the Alumni Association, pursuant to the authorization signed by the Alumni Association’s President and Officers, to collect the alumni fee to ease the collection because the Treasurer of the association was not habitually present in the campus.  
+
+
+
+She further said that there was no corresponding authorization from the NONESCOST officials on her arrangement with the Alumni Association contending that NONESCOST is not privy to the said arrangement.  Moreover, she negates any knowledge of the aforementioned prohibition on government cashiers. 
+
+
+
+Although the collections of the alumni fees were not recorded in the books of the College, the fact that the same person, in this case the Special Collecting Officer, was handling cash accountability for both the Alumni Association and the NONESCOST, is contrary to the aforementioned regulations and also constitutes breakdown in the internal control. 
+
+
+
+Cash is most susceptible to theft and misappropriation among the assets of the government.  Thus, adequate cash management mechanisms and controls must be in place to safeguard against its loss.
+
+
+
+We recommended and Management, thru the College President, agreed to instruct the Special Collecting Officer to immediately stop collecting alumni fees for the NONESCOST Alumni Association and henceforth, refrain from performing functions that are not authorized by the College Administrators in connection with her official duties and responsibilities.  
+
+
+
+
+
+A)	OTHER MATTERS
+
+
+
+We have audited the infrastructure projects of the College, totaling P89,209,301.94, as follows, however, we have not yet obtained sufficient evidence on the matter to warrant the inclusion of an audit observation in the report.
+
+
+
+Project Name
+
+Contract Cost
+
+Actual Date Construction Started
+
+Est. Date of Completion
+
+1)		Ground Development Works- Escalante Campus
+
+P2,089,119.90
+
+9/4/2019
+
+11/21/2019
+
+2)		Completion of Science and Technology Academic Building- +Escalante Campus
+
+19,385,000.09
+
+6/24/2019
+
+2/17/2020
+
+3)		Completion of Science and Technology Academic Building- Sagay Campus (Phase 3)
+
+48,415,160.56
+
+7/1/2019
+
+9/18/2020
+
+4)		College of Education (CoEd) Academic and Laboratory Building-Sagay New Campus (Phase- I)
+
+19,320,021.39
+
+3/31/2020
+
+3/17/2021
+
+	Total
+
+P89,209,301.94
+
+
+
+
+
+
+
+
+
+B)	COMPLIANCE WITH TAX LAWS
+
+
+
+	NONESTCOST complied with tax laws on the withhold the 5% Final Value-Added Tax, Percentage Tax and Creditable Withholding Tax (CWT) on purchases of goods and services.  However, the income taxes on faculty and employees’ honorarium benefits as well as individuals not employed with the College were not correctly withheld, thus corresponding audit observations were included on this report. 
+
+
+
+
+
+C)	COMPLIANCE WITH GSIS, HDMF AND PHILHEALTH REGULATIONS
+
+
+
+The College withheld during the year premiums accruing to GSIS, HDMF and Philhealth and were all remitted in accordance with the pertinent regulations of GSIS, HDMF and Philhelath.
+
+
+
+
+
+D)	SUSPENSIONS, DISALLOWANCES AND CHARGES
+
+
+
+The status of suspensions and disallowances as of December 31, 2020 is shown as follows:
+
+
+
+
+
+Beginning Balance 01/01/2020
+
+Issued & Settled
+
+During the Year 2020
+
+Ending Balance 12/31/2020
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Disallowance
+
+
+
+₱ 4,219,321.24
+
+
+
+₱                -
+
+
+
+₱               -
+
+
+
+₱ 4,219,321.24
+
+Notice of Suspension
+
+1,898,713.02
+
+
+
+
+
+1,898,713.02
+
+Notice of Charge
+
+₱                     -
+
+₱                -
+
+₱               -
+
+₱                    -
+
+
+
+The NONESCOST appealed the Notice of Disallowances (NDs) issued by the Audit Team.  However, NDs that became final and executory are being paid by the persons liable through salary deduction.  
+
+
+
+	
+
+
+
+
+
+45
+
+
+
+
+
+
+
+
+

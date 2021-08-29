@@ -1,0 +1,3952 @@
+PART II - AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+A)	Financial and Compliance Audit
+
+
+
+Unreliable Balance of Cash in Bank – Local Currency, Current Account
+
+
+
+1)	The accuracy and validity of year-end balance of Cash in Bank – Local Currency, Current Account of ₱511,538,271.75 cannot be relied upon due to: (a) existence of dormant accounts and abnormal credit balance amounting to ₱1,072,095.86 and ₱613,520.46, respectively; (b) reconciling items reported as additions and deductions totaling ₱10,966,088.70 and ₱7,237,077.90, respectively, remained unadjusted at year-end; (c) stale checks totaling ₱748,676.18 remained unadjusted in the books of accounts; and (d) non-preparation of bank reconciliation statements; all contrary to Section 74 of PD 1445, pertinent provisions of GAM for National Government Agencies (NGAs), Volume I and paragraph 29(b) of IPSAS 1, thus, affecting the fair presentation of the accounts in the financial statements.
+
+
+
+	1)	Section 58 of PD 1445 provides that: “Audit of assets. The examination and audit of assets shall be performed with a view to ascertaining their existence ownership, valuation and encumbrances as well as the propriety of items composing the respective asset accounts, determining their agreement with records, proving the accuracy of such records; ascertaining if the assets were utilized economically, efficiently and effectively; and evaluating the adequacy of controls over the accounts.”
+
+
+
+	2)	Section 74 of the same states that, “At the close of each month, depositories shall report to the agency head, in such form as he may direct, the condition of the agency account standing on their books. The head of the agency shall see to it that a reconciliation is made between the balance shown in the reports and the balance found in the books of the agency.”	
+
+
+
+	3)	Paragraph 29(b) of the International Public Sector Accounting Standards (IPSAS) 1 states that:
+
+
+
+A fair presentation of financial statements is achieved when an entity presents information, including accounting policies, in a manner that provides relevant, reliable, comparable, and understandable information. An information is reliable when it is free from material error and bias, and can be depended on by users to represent or could reasonably be expected to represent. An information is material if its omission or misstatement could influence the decisions of users or assessments made on the basis of the financial statements.
+
+
+
+	4)	Section 15, Chapter 2 of the GAM for NGAs, Volume I, provides that “The FS shall present fairly the financial position, financial performance and cash flows of an entity. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in IPSAS. The application of IPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.”
+
+
+
+	5)	Sections 3 to 7, Chapter 21 of the same manual provides guidelines on the preparation of the Bank Reconciliation Statement (BRS) and explains that:
+
+
+
+Sec. 3. Objectives. The Bank Reconciliation Statement (BRS) shall be prepared in order to:
+
+
+
+a)	Check correctness of both the banks’ and agency’s/entity’s records;
+
+b)	Serve as deterrent to fraud; and
+
+c)	Enable the agency/entity or bank to take up charges or credits recognized by the bank or agency/entity but not yet known to the agency/entity or bank.
+
+	
+
+This shall be used in the reconciliation of bank and treasury accounts maintained with Government Servicing Bank (GSB).
+
+
+
+Sec. 4. Method of Bank Reconciliation. The monthly BRS shall be prepared by the Chief Accountant/designated staff for each of the bank accounts maintained by the agency/entity using the Adjusted Balance Method. Under this method, the book balance and the bank balance are brought to an adjusted cash balance that must appear on the Statement of Financial Position.
+
+
+
+Sec. 5. Preparation of the Bank Reconciliation Statement. The Chief Accountant/Designated Staff shall within ten days from receipt of the monthly Bank Statement (BS) together with the paid checks, original copies of Debit Memoranda (DM)/Credit Memoranda (CM) from the GSB, reconcile the BS with the GL and prepare the BRS in four copies. 
+
+
+
+Sec. 6. Recognition of Adjustments. The Chief Accountant/Designated Staff shall prepare a JEV to recognize all reconciling items that require adjustment and correction in the books of accounts. 
+
+Sec. 7. Reporting. The Chief Accountant shall submit the BRS within twenty days after receipt of the monthly BS to the following: 
+
+
+
+Original – COA Auditor (with all the supporting documents and JEVs) 
+
+Copy 2 	– Head of Agency/Entity
+
+Copy 3 – Accounting Division/Unit file
+
+Copy 4 – Bank, if necessary
+
+
+
+	6)	Section 44, Chapter 6 of the said Manual provides:
+
+
+
+Section 44. Accounting for Cancelled Checks. - Checks may be cancelled when they become stale, voided or spoiled. The depository bank considers a check stale, if it has been outstanding for over six months from the date of issue or as prescribed.  
+
+ 
+
+A stale, voided or unclaimed stale check shall be marked cancelled on its face and reported as follows:
+
+
+
+a)	Voided, spoiled or unclaimed stale checks with the Cashier shall be reported as cancelled in the List of unreleased Checks that will be attached to the RCI.
+
+
+
+b)	New checks may be issued for the replacement of stale spoiled checks in the hands of the payees or holders in due course, upon submission of the stale /spoiled checks to the accounting division Unit. A certified copy of the previously paid DV’s shall be attached to the request for replacement. A JEV shall be prepared to take up the cancellation. The replacement check shall be reported in the RCI.
+
+
+
+	7)	As of December 31, 2020, the University’s Cash in Bank – Local Currency, Current Account (CIB-LCCA) reflected a consolidated balance of ₱511,538,271.75. However, verification of the accuracy and validity of the amount showed that the balance reported in the consolidated financial statements cannot be relied upon due to the following errors:
+
+
+
+a)		The lack of verification procedures resulted in errors in the computation of total summation and typographical errors of CIB-LCCA 
+
+	
+
+	8)	On February 15, 2021, the University submitted their year-end consolidated financial statements as of December 31, 2020. The report reflected a Cash in Bank – Local Currency, Current Account (CIB-LCCA) balance of ₱507,169,081.79. However, evaluation of the correctness of the amount showed the following errors:
+
+
+
+Campus
+
+Amount per Consolidated FS
+
+Amount per Campus Books of Accounts
+
+Difference
+
+Tandag Main
+
+385,002,760.62
+
+385,002,760.62
+
+0.00
+
+Cantilan
+
+93,879,887.21
+
+75,367,600.07
+
+(18,512,287.14)
+
+Lianga
+
+23,021,858.92
+
+23,021,858.92
+
+0.00
+
+Tagbina
+
+22,939,947.14
+
+12,560,658.08
+
+(10,379,289.06)
+
+Cagwait
+
+8,408,950.47
+
+8,418,950.47
+
+10,000.00
+
+San Miguel
+
+4,369,189.96
+
+4,369,189.96
+
+0.00
+
+Bislig
+
+2,797,253.63
+
+2,797,253.63
+
+0.00
+
+Total summation per Audit
+
+540,419,847.95
+
+511,538,271.75
+
+(28,881,576.20)
+
+Total summation per Consolidated FS (unadjusted)
+
+507,169,081.79
+
+507,169,081.79
+
+
+
+Difference
+
+33,250,766.16
+
+4,369,189.96
+
+
+
+
+
+	9)	Audit disclosed that the above variances were due to error in the computation of the total summation and typographical errors which could have been avoided had the Accountant install checking or verification procedures. Likewise, the failure to reconcile the records of the consolidated FS and external campuses resulted in non-detection of errors.
+
+
+
+	10)	One of the common control policies and measures for an effective internal control system of an agency is Verification. This refers to the review of transactions to check the propriety and reliability of documentation, costing or mathematical computation. The verification procedures should be      built-in in every transaction. This is an internal checking procedure to avoid errors or fraud.----footnote1----
+
+ 
+
+	11)	Inquiry with the person in-charge of the consolidation disclosed that the difference of ₱4,369,189.96 pertained to the CIB-LCCA balance of San Miguel Campus which was inadvertently taken up as Cash-Collecting Officer upon consolidation. 
+
+
+
+	12)	Had the Accounting Unit properly adopted verification procedures by checking the propriety and reliability of reports before finalization and submission to COA, the errors could have been avoided. 
+
+
+
+	13)	On March 8, 2021, the Management submitted the revised consolidated financial statements reflecting a CIB-LCCA balance of ₱511,538,271.75.
+
+
+
+b)	Existence of dormant accounts and abnormal balance of ₱1,072,095.86 and ₱613,520.46, respectively
+
+
+
+	14)	Item III (10) of COA Circular No. 97-001, re: Guidelines on the Proper Disposition/Closure of Dormant Funds and/or Accounts of National Government Agencies provides that if the analysis/review of the accounts/funds is not possible due to absence of records and documents, the agency head concerned should request for write-off and/or adjustment of account balances from the COA, supported by: 
+
+
+
+a)	List of available records and extent of validation made on the accounts; and 
+
+
+
+b)	Certification and reasons why the books of accounts/records, financial statements/schedules and supporting vouchers/ documents cannot be located. 
+
+
+
+	15)	Records showed that as of December 31, 2020, the following Campuses had dormant accounts and abnormal balance, to wit:
+
+
+
+Campus
+
+Account No.
+
+Balance per Books
+
+Remarks
+
+Cagwait
+
+STUFAP-0792-0159-30
+
+90,630.00
+
+Became dormant in 2020
+
+
+
+SHS-VP-0792-0213-60
+
+88,750.00
+
+
+
+Cantilan
+
+SHS-VP-0792-0211-23
+
+892,715.86
+
+Became dormant in 2020
+
+Total Dormant Accounts
+
+₱1,072,095.86
+
+
+
+Main
+
+STF-0792-0116-83
+
+(₱613,520.46)
+
+Unreconciled balance since 2009
+
+
+
+	16)	The STUFAP account was created for the financial assistance given to students while the SHS-VP account was created to account the financial assistance received from the Department of Education for the tuition fees of qualified Grade 10 competers. The Bookkeepers of Cagwait and Cantilan Campus explained that the subject accounts became dormant since the transactions for the above accounts were dependent upon the number of beneficiaries or qualified students of the program. For CY 2019 and                       CY 2020 there was no additional release of financial aid from CHED while senior high school program of the SDSSU Cagwait and Cantilan Campuses was discontinued in 2019, hence accounts became dormant as of                      December 31, 2020.
+
+
+
+	17)	Likewise, inquiry with the person in-charge in the preparation of financial statements of the Main Campus revealed that the abnormal balance of ₱613,520.46 was an unreconciled balance in the financial statement since 2009 due to absence of records and documents which impeded the reconciliation and verification of the said account.
+
+
+
+c)	Reconciling items remained unadjusted at year-end - ₱3,729,010.80
+
+
+
+	18)	Verification of the accuracy of the cash balances and verification of bank reconciliation statements of Bislig, Cantilan, Cagwait, Tagbina and Tandag City Campus disclosed that the balance of Cash in Bank account reported in the financial statements did not present the actual cash balance as of period end as shown below:
+
+
+
+Account Name
+
+Account Number
+
+Balance per GL
+
+Adjusted Cash Balance per BRS
+
+(Over) / Under
+
+Bislig Campus
+
+STF
+
+2162-1071-97
+
+2,797,253.63
+
+2,706,312.71
+
+(90,940.92)
+
+Cantilan Campus
+
+STF
+
+0792-0117-13
+
+57,476,183.49
+
+57,746,218.06
+
+270,034.57
+
+IGP
+
+0792-0134-65
+
+4,894,700.93
+
+4,894,681.73
+
+(19.20)
+
+Cagwait
+
+STF
+
+0792-0115-86
+
+8,239,570.47
+
+8,223,670.47
+
+(15,900.00)
+
+Tagbina Campus
+
+IGP
+
+0792-1206-00
+
+689,780.28
+
+660,874.90
+
+(28,905.38)
+
+Tandag City Main Campus
+
+STF
+
+0792-0116-83
+
+193,647,455.05
+
+195,489,452.52
+
+1,841,997.47
+
+STUFAP/SAFE	
+
+0792-0157-27
+
+197,323.20
+
+203,543.85
+
+6,220.65
+
+SHS-VP
+
+0792-0213-60
+
+25,225.60
+
+1,420,850.60
+
+1,395,625.00
+
+LIAP
+
+0792-0158-40
+
+22,079,269.25
+
+22,015,747.62
+
+(63,521.63)
+
+IGP
+
+0792-0158-24
+
+9,864,320.45
+
+10,278,740.69
+
+414,420.24
+
+Net, Overstatement
+
+74,097,488.80
+
+74,097,488.80
+
+(3,729,010.80)
+
+
+
+	19)	The above differences were book’s reconciling items which remained unadjusted at year-end due to delayed preparation of bank reconciliation statements as summarized below and presented in details in Annex A: 
+
+
+
+Particulars
+
+	Additions
+
+	Deductions
+
+	Net Amount
+
+Bislig Campus
+
+	  52,522.90 
+
+	143,463.82
+
+	(90,940.92)
+
+Cantilan Campus
+
+	271,000.80
+
+985.43
+
+270,015.37
+
+Cagwait Campus
+
+	
+
+15,900.00
+
+(15,900.00)
+
+Tagbina Campus
+
+	
+
+28,905.38
+
+(28,905.38)
+
+Tandag City Main Campus
+
+	10,642,565.00
+
+7,047,823.27
+
+
+
+3,594,741.73
+
+
+
+Total
+
+	10,966,088.70
+
+7,237,077.90
+
+3,729,010.80
+
+
+
+d)	Stale checks remained unrecorded in the books of accounts - ₱748,676.18
+
+
+
+	20)	Review of bank reconciliation statements disclosed that various checks issued 	on 2011 to 1st quarter of CY 2020 by the Main Campus and five external campuses totaling ₱748,676.18 became stale but no corresponding adjustments were made in the books to cancel them.  These checks were still part of the reported outstanding checks in the BRS.  The summary of staled checks is in the succeeding table and shown in detail in Annex B:   
+
+
+
+Campus
+
+Qty
+
+Amount
+
+Tandag City Main
+
+10
+
+536,739.54
+
+Cagwait 
+
+4
+
+34,594.35
+
+Cantilan
+
+3
+
+3,950.00
+
+Lianga
+
+13
+
+102,938.09
+
+Tagbina
+
+4
+
+46,935.74
+
+San Miguel
+
+4
+
+23,518.46
+
+Total
+
+38
+
+748,676.18
+
+
+
+e)	The bank reconciliation statements for various accounts not submitted
+
+
+
+	21)	Records showed that bank reconciliation statements (BRS) of the Main Campus and external campuses were not submitted to the Audit Team as of report writing, as follows:
+
+		
+
+	Campus
+
+	Account Name
+
+	Account No.
+
+	Period Covered
+
+	Main
+
+	MDS
+
+	2079-9000-81
+
+	October to December 2020
+
+	
+
+	STF
+
+	0792-0116-83
+
+	July to December 2020
+
+	
+
+	STUFAP
+
+	0792-0157-27
+
+	July to December 2020
+
+	
+
+	STF (code-0002)
+
+	0792-0116-83
+
+	July to December 2020
+
+	
+
+	SHS-VP
+
+	0792-0213-60
+
+	July to December 2020
+
+	
+
+	LIAP
+
+	0792-0158-40
+
+	July to December 2020
+
+	
+
+	IGP
+
+	0792-0158-24
+
+	July to December 2020
+
+	
+
+	Trust Fund
+
+	0792-0157-19
+
+	October to December 2020
+
+	
+
+	TES
+
+	0792-0236-90
+
+	October to December 2020
+
+	
+
+	SSPC
+
+	2079-9002-60
+
+	January to December 2020
+
+	Cantilan
+
+	SHS-VP
+
+	0792-0211-23
+
+	January to December 2020
+
+	Lianga
+
+	STF
+
+	0972-1215-17
+
+	October to December 2020
+
+	
+
+	SHS
+
+	0792-1279-73
+
+	July to December 2020
+
+	
+
+	IGP
+
+	0792-1215-76
+
+	October to December 2020
+
+	
+
+	LIAP
+
+	0792-1215-68
+
+	October to December 2020
+
+	Cagwait
+
+	STF
+
+	0792-1062-40
+
+	January to December 2020
+
+	
+
+	STUFAP
+
+	0972-120-600
+
+	January to December 2020
+
+	
+
+	SHS-VP
+
+	0792-0213-60
+
+	January to December 2020
+
+	San Miguel
+
+	MDS
+
+	0792-0165-88
+
+	September to December 2020
+
+	
+
+	STF
+
+	0792-0117-30
+
+	September to December 2020
+
+	
+
+	IGP-Research
+
+	0792-0116-40
+
+	September to December 2020
+
+	
+
+	IGP-Philrice
+
+	0792-0116-59
+
+	September to December 2020
+
+	
+
+	Trust Fund
+
+	0792-0206-90
+
+	September to December 2020
+
+	
+
+	SHS-VP
+
+	0792-0220-73
+
+	September to December 2020
+
+	
+
+	22)	The reconciliation of Cash in Bank – LCCA balances with bank records provides a periodic determination of the validity and accuracy of cash accounts as appearing in the general ledger and the prompt detection of errors in either record. Thus, the non-preparation of BRS renders the correctness of the CIB-LCCA balance doubtful.
+
+	23)	Bank confirmation was sent to the University and Campuses’ depository bank (Land Bank of the Philippines) on January 7, 2021, however, to date we have not yet received the bank’s confirmation reply.
+
+
+
+	24)	Until those dormant accounts, abnormal balances, reconciling items and stale checks are analyzed, reviewed and recognized, and the necessary corrections are made in the books of accounts to come up with the correct and reconciled balance with reference to the bank reconciliation statements, the balance of Cash in Bank – LCCA cannot be relied upon, thus affecting the presentation of the account in the consolidated financial statements.
+
+
+
+	25)	We recommended that Management:
+
+
+
+--	Direct the Accountant to strengthen the effectiveness of the Accounting’s internal control system by installing verification procedures in every transaction to avoid errors. Review, analyze and investigate the causes of the noted discrepancies and effect the necessary adjustments to establish correct and reliable balance of Cash in Bank – LCCA;
+
+
+
+--	Instruct the Accountant to conduct thorough review and exert extra effort to determine the details of the dormant accounts and abnormal balance to facilitate corrections/adjustments of the same. Ensure that prior to closure of a dormant bank account, reconciliation is made between book and bank balances in accordance with Section 58 and 74 of PD 1445;
+
+
+
+--	Follow-up in writing to the depository bank their request for the details of the debit and credit memoranda transactions for the preparation of journal entry voucher and to effect the necessary adjustments in the books of accounts. Ensure that all reconciling items are thoroughly reviewed and adjusted immediately to present an accurate and reliable cash balances in the financial statements; 
+
+
+
+--	Instruct the concerned Accountants and Bookkeepers to make the necessary adjustments to take up the stale checks and all other reconciling items affecting the cash balance per books and consequently record them in the General Journal; and
+
+
+
+--	Require the Accountant and Bookkeepers of concerned Campuses to submit immediately the overdue Bank Reconciliation Statements pursuant to Chapter 21 of GAM Volume I to prove the correctness of the CIB-LCCA balance reported in the financial statements.
+
+	
+
+	Management comment(s)
+
+	
+
+	26)	The Management commented that they had instructed the Head of the Accounting Unit/Director of Finance to conduct a meeting together with all the accounting personnel of the respective campuses to discuss and strategize on how to strengthen the effectiveness of the Accounting's internal control system, verify the details of the dormant accounts and abnormal balances, and to make the necessary adjustments to take up in the books of accounts the stale checks and all other reconciling items affecting cash balances. Moreover, they commit to submit immediately the overdue Bank Reconciliation Statements to prove the correctness of the CIB-LCCA balance reported in the financial statements.
+
+	
+
+	
+
+Non-moving Due from NGAs 
+
+
+
+2)	Due from NGAs amounting to ₱438,232.64 remained non-moving for over 12 years in the University’s books, and neither was there any disclosure of facts and/or details in the Notes to Financial Statements pertaining thereto nor any evidence ascertaining the efforts of the Accounting Unit to verify, analyze and validate the existence of this receivable account, contrary to Section 58 of P.D. No. 1445 and COA Circular No. 2016-005, thereby affecting fair presentation of receivables in the financial statements due to inclusion of an account with doubtful existence. 
+
+
+
+	1)	Section 58 of P.D. No. 1445 provides that the existence, ownership, valuation and encumbrances as well as the propriety of items composing the respective asset accounts shall be ascertained, their agreement with records shall be determined; the accuracy of such records shall be proven; assets shall be utilized economically, efficiently and effectively; and the adequacy of controls over the accounts shall be evaluated.
+
+
+
+	2)	COA Circular No. 2016-005 dated December 19, 2016 provides that all government entities shall conduct regular monitoring and analysis of receivable accounts to ensure that these are collected when these become due and demandable and that cash advances and fund transfers are liquidated within the prescribed period depending upon their nature and purpose. Further, the Accountant shall conduct regular and periodic verification, analysis and validation of the existence of the receivables, unliquidated cash advances and fund transfers, and determine the concerned debtors, accountable officers and the source and implementing government entities concerned.   
+
+
+
+	3)	This is a reiteration of previous year’s audit observation. Review revealed that this Due from NGAs account with a balance of ₱438,232.64 was non-moving for over 12 years as of December 31, 2020. The exact age of the said receivable could not be determined by reasons of: (a) absence of any disclosure in the notes to financial statements and non-maintenance of subsidiary ledgers providing the details relative to the said account; and (b) time constraints and difficulty in locating the reports and documents earlier than CY 2008. Based on the examination of these reports, the yearly balance of the said account remained unchanged and there was no other information available relative thereto except that the balance of the account had been carried forward every year. 
+
+
+
+	4)	Moreover, verification of the account revealed that there was no evidence ascertaining the efforts exerted by the Accounting Unit to conduct verification, analysis and validation of the existence of this account during the year. The concerned accounting personnel commented that the non-moving account already existed prior to their assumption to office. 
+
+
+
+	5)	Due to the existence of the above receivable account in the financial statements with doubtful existence, fair presentation thereof was affected.
+
+	
+
+	6)		We reiterated our recommendation that Management direct the Head of the Accounting Unit to review, analyze and validate the existence of the said account. If pertinent information had been successfully gathered such as the name of the government agencies from which the University has receivables, confirmation letters/letters of inquiry may be sent to these government agencies to gather information related to the accounts (i.e. exact amounts, other details). The exact age of the receivable shall likewise be ascertained if possible. Adequate documentation of the actions taken thereon shall be made. 
+
+	
+
+	7)		If after thorough analysis and verification, and considering that all efforts/remedies to enforce collection had already been exhausted yet still failed, and/or the necessary pertinent documents could no longer be located in spite of exhausting all reasonable efforts to do so, a request for a write-off to the COA of the subject accounts may be made in accordance with the guidelines provided in the above-cited COA Circular and support the letter of request with the documentary requirements enumerated therein.
+
+	
+
+	Management comment(s)
+
+	
+
+	8)		The Management commented that the foregoing account consist of the unreleased amount of continuing appropriation for the year 2001 for the repair and rehabilitation of school buildings in various campuses and the Accounting Unit was already instructed to review all the necessary information regarding the existence of the said account. 
+
+	
+
+	9)		The Accounting Unit has sent letters for account verification of various Agencies it had transacted with and replies were received, stating that such account does not exist in their books. The Management through the Accountant III is in the process of requesting the write-off of such account.
+
+	
+
+	
+
+	Books with unit cost below ₱15,000.00 and Semi-expendable properties already issued to end users erroneously recorded as Property, Plant and Equipment
+
+	
+
+3)	Procurement of various books for Cantilan, Lianga and Tagbina Campus libraries with unit cost below the capitalization threshold of ₱15,000.00 was erroneously recorded as Property, Plant and Equipment (PPE) account under the account of “Books” with cost totaling ₱5,658,814.34. Moreover, semi-expandable properties of Tandag City Main Campuses which were already issued to end-users were still carried under PPE account with cost totaling ₱1,942,444.25 contrary to Section 10, Chapter 8 of GAM Volume I, thus, overstating the PPE and understating expense accounts.
+
+
+
+	1)	Section 10, Chapter 8 of the GAM for NGAs, Volume I, provides that tangible items below the capitalization threshold of ₱15,000.00 shall be accounted for as semi-expendable property. The following policies shall be applied as follows:
+
+	
+
+a)	Semi-expendable property which were recognized as PPE shall be reclassified to the affected appropriate accounts (if not yet issued to end-user), expense accounts (if issued within the year), or accumulated surplus/(deficit)/retained earnings accounts (if issued in the prior years).
+
+
+
+b)		These tangible items shall be recognized as expenses upon issue to the end-user. 
+
+	
+
+	2)		Specifically, Chapter 3, Vol. III of the same manual provides the following account description:
+
+	
+
+	Account Title 		Semi-Expendable Books
+
+	Account Number 	1040620
+
+	Normal Balance	Debit
+
+Description	This account is used to recognize the cost/fair value of the purchased/acquired books and other reference materials including those in electronic copies (in CD/DVD) for use in government operations that costs less than ₱15,000.00. Credit this account for issuance, transfers, loss or other disposal and adjustments. 
+
+	3)	Section 11 of the manual provides that an Inventory Custodian Slip (ICS) (Appendix 59) shall be issued to end-user of Semi-expendable Property to establish accountability over them. Accountability shall be extinguished upon return of the item to the Property and Supply Division/Unit or in case of loss, upon approval of the relief from property accountability. 
+
+
+
+	4)	Audit disclosed that several items with cost below the capitalization threshold of ₱15,000.00 are still recorded under Property, Plant and Equipment account of Cantilan, Lianga Campus, Tagbina Campus and Tandag City Campus as at year end and summarized as follows:
+
+
+
+Campus
+
+PPE Account Debited
+
+Acquisition Cost
+
+Unit Price of Item in ₱ (Range)
+
+Cantilan
+
+Books
+
+4,527,494.34
+
+42.00 to 14,900.00
+
+Lianga
+
+Books
+
+    355,185.00 
+
+180.00 to 7,695.00
+
+Tagbina
+
+Books
+
+  776,135.00
+
+225.00 to 10,790.00
+
+
+
+Sub-total
+
+5,658,814.34
+
+
+
+Tandag City Campus
+
+Furniture and Fixtures
+
+    268,887.55 
+
+1,500.00 to 13,000.00
+
+
+
+Office Equipment
+
+   515,332.50 
+
+1,207.00 to 14,634.00
+
+
+
+Information and Communication Technology
+
+1,143,474.20 
+
+197.00 to 14,940.00
+
+
+
+Other Equipment
+
+14,750.00 
+
+6,350 to 8,400.00
+
+
+
+Sub-total
+
+1,942,444.25
+
+
+
+Total
+
+7,601,258.59
+
+
+
+
+
+	5)	As provided in Section 10, Chapter 8 of GAM Volume I, semi-expendable properties below the capitalization threshold of ₱15,000.00 which were not yet issued to end-user must be reclassified to the appropriate semi-expandable inventory accounts. While for semi-expandable items already issued to end users within the year, it should be reclassified to the appropriate expense accounts or retained earnings/(deficit), if issued in prior years. Moreover, for monitoring purposes, the ICS shall be issued to end users to establish accountability of the issued semi-expendable items.
+
+
+
+	6)	The Accountant of Tandag City Campus explained that they were still in the process of reconciling the Property, Plant and Equipment records, hence those semi-expendable properties were not yet reclassified. Likewise, the Bookkeepers of Cantilan, Lianga and Tagbina Campuses conveyed that the error was due to misconception that all books which are included in the purchase order  aggregating to more than ₱15,000.00 should be debited to the “Books” account regardless of the cost per unit.
+
+
+
+	7)	Consequently, the inclusion of semi-expendable items as PPE and the non-recognition of the same as expenses upon issuance to end-users resulted in the overstatement of the affected PPE account and understatement of semi-expendable expense account by ₱7,601,258.59. 
+
+
+
+	8)	We recommended that Management:
+
+
+
+--	Direct the Accountant and concerned Bookkeepers to draw the necessary adjusting Journal Entry Voucher (JEV) to reclassify the books and other semi-expendable items erroneously recorded under PPE account as Inventory and recognized the same as expense upon issuance to end-users based on the Report of Supplies and Materials Issued (RSMI) and Requisition and Issue Slip (RIS). And thereafter to observe the ₱15,000.00 capitalization threshold when classifying/recording a tangible item as PPE; and
+
+
+
+--	Instruct the Property/Supply Officer to prepare and submit the RSMI supported with RIS to the Accounting Unit and issue the corresponding ICS to establish accountability over the tangible items already issued to the end-users.
+
+
+
+	Management comment(s)
+
+
+
+	9)	The Management committed to comply with the audit recommendations and instructed the Accounting Unit of the different campuses to effect the necessary adjusting entries to reclassify the PPE to its proper inventory and/or expense account, and thereafter to observe the ₱15,000.00 capitalization threshold when classifying or recording a tangible item as PPE. Also, the Supply Officer was instructed to issue the corresponding ICS to end-users.
+
+
+
+
+
+	Unreliable Property, Plant and Equipment
+
+	
+
+4)	The reported balances of various PPE accounts of the SDSSU Tandag Main, Lianga, Cagwait, San Miguel and Cantilan Campuses aggregating ₱917,022,316.97 were unreliable due to unreconciled difference of ₱426,713,175.87 resulting from absence of periodic reconciliation and non-maintenance of PPELC, contrary to Par. 29(b) of IPSAS 1 and Section 42, Chapter 10 of the GAM for NGAs, Vol. I, thus, the validity, existence and reasonableness of the affected PPE accounts were rendered doubtful, and these government properties were exposed to risks of loss and/or misuse due to absence of monitoring.
+
+	
+
+	1)		Paragraph 29(b) of IPSAS 1 states that “Fair presentation requires an entity to present information, including accounting policies, in a manner that provides relevant, reliable, comparable and understandable information. Appendix A of IPSAS 1 provides that reliable information is where such information is free from material error and bias and can be depended on by users to represent faithfully that which it purports to represent or could reasonably be expected to represent.”
+
+	2)		Section 42, Chapter 10 of the GAM for NGAs, Volume I, provides that “The Chief Accountant shall maintain the Property, Plant and Equipment Ledger Card (PPELC) for each category of PPE including work and other animals, livestock etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain Property Card (PC) for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with the other property records like Property Acknowledgement Receipt (PAR).”
+
+	
+
+	3)		Appendix 70, Volume II of the same Manual provides for the instructions in maintaining PPELC where it shall be kept in the Accounting Division/Unit for each class of PPE. The Accounting Staff in charge in maintaining the PPELC shall record promptly the acquisition, description, custody, estimated life, depreciation, impairment, issue/ transfers/ disposal, repair history, and other information about the property. It shall be maintained by fund cluster. The PPELC shall be reconciled with the Report on Physical Count of PPE, PC and the control accounts. Any discrepancies shall be immediately verified and adjusted.
+
+	
+
+	4)		Likewise, Appendix 73, Volume II of the GAM for NGAs provides for the instructions in the preparation of RPCPPE, the form used to report on the physical count of PPE by type such as land, land improvements, infrastructure, buildings and other structures, machinery and equipment, transportation equipment, furniture, fixtures and books, etc. which are owned by the agency. It shall be prepared yearly by fund cluster.
+
+	
+
+	5)	Verification, however, revealed that a disparity of ₱426,713,175.87 existed between the acquisition cost of the following PPE accounts as reported in the Statement of Financial Position versus the balances of the said accounts as embodied in the RPCPPE, as summarized in the table below: 
+
+	
+
+Account
+
+Cost per Books 
+
+Cost per RCPPE
+
+Variance
+
+Remarks
+
+Land
+
+       7,246,425.00 
+
+12,104,219.54
+
+4,857,794.54
+
+Negative
+
+Other Land Improvements
+
+     21,632,263.66 
+
+9,153,646.86
+
+12,478,616.80
+
+
+
+Road Networks
+
+       2,321,805.46 
+
+0.00
+
+2,321,805.46
+
+
+
+Water Supply Systems
+
+          134,982.30 
+
+0.00
+
+134,982.30
+
+
+
+Power Supply Systems
+
+       2,636,812.41 
+
+579,808.00
+
+2,057,004.41
+
+
+
+Parks, Plazas and Monuments
+
+       3,497,214.71 
+
+0.00
+
+3,497,214.71
+
+
+
+Buildings
+
+   209,962,520.61 
+
+1,722,986.00
+
+208,239,534.61
+
+
+
+School Buildings 
+
+   441,099,644.04 
+
+323,984,892.68
+
+117,114,751.36
+
+
+
+Other Structures
+
+       9,249,923.97 
+
+3,204,465.26
+
+6,045,458.71
+
+
+
+ Machinery
+
+       9,782,119.65 
+
+6,311,047.25
+
+3,471,072.40
+
+
+
+Office Equipment
+
+     36,038,385.65 
+
+27,572,606.07
+
+8,465,779.58
+
+
+
+Information and Communication Technology Equipment 
+
+     71,359,370.17 
+
+56,356,733.89
+
+15,002,636.28
+
+
+
+IT Equipment and Software
+
+                    0.00
+
+6,001,961.63
+
+6,001,961.63
+
+Negative
+
+Agricultural and Forestry Equipment
+
+          966,050.19 
+
+1,770,870.20
+
+804,820.01
+
+Negative
+
+Marine and Fishery Equipment
+
+            33,000.00 
+
+0.00
+
+33,000.00
+
+
+
+Communication Equipment
+
+          911,159.02 
+
+321,861.00
+
+589,298.02
+
+
+
+Disaster Response and Rescue Equipment
+
+          529,283.40 
+
+0.00
+
+529,283.40
+
+
+
+Medical Equipment
+
+       3,284,878.70 
+
+600,978.00
+
+2,683,900.70
+
+
+
+Printing Equipment
+
+          888,000.00 
+
+888,000.00
+
+0.00
+
+
+
+Sports Equipment
+
+       2,259,279.85 
+
+1,496,000.00
+
+763,279.85
+
+
+
+Utensils and Equipment
+
+0.00 
+
+98,620.00
+
+98,620.00
+
+Negative
+
+Technical and Scientific Equipment 
+
+38,512,075.88
+
+25,758,463.54
+
+12,753,612.34
+
+
+
+Other Machinery and Equipment 
+
+       9,918,288.93 
+
+8,992,488.10
+
+925,800.83
+
+
+
+Artesia Well Reservoirs
+
+0.00 
+
+52,864.00
+
+52,864.00
+
+Negative
+
+Artesian Reservoirs, etc. Equipment 
+
+0.00 
+
+233,200.00
+
+233,200.00
+
+Negative
+
+Motor Vehicles
+
+     11,254,766.74 
+
+11,669,500.00
+
+414,733.26
+
+Negative
+
+Watercrafts
+
+            89,350.00 
+
+0.00
+
+89,350.00
+
+
+
+Furniture and Fixtures 
+
+     14,415,065.12 
+
+3,908,784.71
+
+10,506,280.41
+
+
+
+Books 
+
+     13,904,984.41 
+
+8,171,949.10
+
+5,733,035.31
+
+
+
+Other Leased Assets Improvements
+
+            11,164.80 
+
+0.00
+
+11,164.80
+
+
+
+Work/Zoo Animals
+
+          113,000.00 
+
+0.00
+
+113,000.00
+
+
+
+Other Property, Plant and Equipment
+
+       4,970,502.30 
+
+5,659,822.45
+
+689,320.15
+
+Negative
+
+Total Variance in Absolute Value
+
+   917,022,316.97 
+
+516,615,768.28
+
+426,713,175.87
+
+
+
+	
+
+	6)		It was noted that the above discrepancies were accumulated due to absence of periodic reconciliation of PPE balances by both the accounting and the property units.  The factors that were contributory to the non-reconciliation of the said records are the following:
+
+	
+
+a)		Non-maintenance of PPELC by the accounting units, which precluded the reconciliation process as no accounting records were available to validate the amounts reflected in the property cards maintained by the property units. 
+
+	
+
+It has to be emphasized that to ensure that government properties are utilized economically, efficiently, and effectively, it is indispensable for Management to adopt adequate controls to ensure that the use of these property lead to full advantage. Likewise, to minimize the possibility of misuse of such property, proper monitoring and accounting should be strictly implemented. Maintenance of property ledger cards by the accounting unit is one of the necessary controls to effectively justify such cause. The property ledger cards shall be periodically reconciled with the property cards maintained by the property unit. 
+
+	
+
+b)	While the accounting unit had already adopted the Revised Chart of Accounts, the property unit had not, the PPE account titles in the financial statements differed from those PPE account titles maintained by the latter as it still used some of the old account titles under the New Government Accounting System (NGAS). The differences in the categorization of PPE, as well as the use of different account titles by either of the accounting and the property units rendered it difficult to reconcile individual PPE accounts maintained by both units. 
+
+	
+
+	7)		As a result of the foregoing deficiencies, the validity, existence and reasonableness of the PPE accounts were rendered doubtful. In addition, the absence of proper monitoring of PPE as required exposed government property to risks of loss and/or misuse. 
+
+	
+
+	8)		We recommended that Management:
+
+
+
+		--	Require the Property Unit to use the Revised Chart of Accounts for the PPE account titles and thereafter both the Accounting and Property units to conduct reconciliation of their records relative to the affected PPE account balances and submit to the Office of the Auditor a report reconciling the discrepancies indicated above, including the itemization of all the PPE items and indicating the reason/s of the discrepancies noted therein; and
+
+	
+
+		--	Direct the Accountant and the Bookkeepers of the different campuses to maintain PPELC for all items under PPE and conduct reconciliation of records to avoid any misstatement in the quantity and amount of property reflected therein.
+
+
+
+	Management comment(s)
+
+
+
+	9)	The Management acknowledged the foregoing observation and committed to implement the audit recommendations.
+
+
+
+
+
+	Purchase of inventories taken up as outright expenses
+
+	
+
+5)	Purchase of various supplies and materials amounting to ₱192,979.25 of Bislig Campus were taken up in the books of accounts as outright expense instead of recording the same under Inventory account contrary to Sections 7 and 13, Chapter 8 of GAM Volume I. Moreover, supplies ledger cards and stock cards to monitor and account the receipts and issuances of inventories were not maintained by the Accounting and Supply Units, respectively, thus impeded the reconciliation and verification of records.
+
+
+
+	1)	Chapter 8 of the Government Accounting Manual Volume I provides the guidelines and procedures recognition, measurement, cost formulas to be used and related disclosure requirement in accordance with IPSAS 12 on Inventories. Section 7 states that “When inventories are sold, exchanged, or distributed, their carrying amount shall be recognized as an expense in the period in which the related revenue is recognized. If there is no related revenue, the expense is recognized when the goods are distributed or the related service is rendered.”
+
+
+
+	2)	Section 9 of the same states that “Supplies and materials purchased for inventory purpose shall be recorded using the perpetual inventory system, resulting in a more accurate inventory records and a running total for the cost of goods sold in each period. The system requires accounting records to show the amount of inventory on hand at all times through the maintenance of the Supplies Ledger Card (SLC - Appendix 57) by the Accounting Division/Unit and Stock Card (SC - Appendix 58) by the Supply and/or Property Division/Unit for each item in stock. Regular purchases shall be coursed through the inventory account and issues thereof shall be recorded as they take place except for supplies and materials purchased out of PCF for immediate use or on emergency cases which shall be charged directly to the appropriate expense accounts.” 
+
+
+
+	3)	Further, GAM Volume III defines the following inventory accounts:
+
+
+
+Account No.
+
+Account Title
+
+Description
+
+10402990
+
+Other Supplies and Materials for Distribution
+
+This account is used to recognize the cost of purchased/acquired inventories not falling under any of the specific inventory accounts held for distribution. Credit this account for issuance to end-users or transfers. 
+
+10404010
+
+Office Supplies Inventory
+
+
+
+This account is used to recognize the cost or value of purchased/acquired office supplies such as bond papers, inks, and small tangible items like staple wire removers, punchers, staplers and other similar items for government operations. Credit this account for issuance to end-users, transfers, loss or other disposal. 
+
+10404080
+
+Fuel, Oil and Lubricants Inventory
+
+
+
+This account is used to recognize the cost of fuel and oil in government depots and lubricants for use in government vehicles and other equipment in connection with government operations/projects. Credit this account for issuance to end-users, transfers, loss or other disposal. 
+
+10404090
+
+
+
+Agricultural and Marine Supplies Inventory
+
+
+
+This account is used to recognize the cost of fertilizers, pesticides and other marine and agricultural supplies for use in government operations. This includes supplies for aquaculture researches, environment protection/ preservations and the like. Credit this account for issuance to end-users, transfers, loss or other disposal. 
+
+10404130
+
+Construction Materials Inventory
+
+
+
+This account is used to recognize cost of construction materials purchased/acquired for stock and later issuance for the construction, fabrication, repair and rehabilitation of government facilities undertaken by administration. Credit this account for issuance to projects, transfers, loss or other disposal. 
+
+10404990
+
+Other Supplies and Materials Inventory
+
+This account is used to recognize the cost of purchased/acquired supplies and materials not falling under any of the specific inventory accounts held for consumption. Credit this account for issuance, transfers, loss or other disposal. 
+
+
+
+	4)	Review of disbursement transactions of Bislig City Campus for CY 2020 showed that purchase of supplies and materials totaling ₱192,979.25 were directly accounted for as expense instead of recognizing the same as inventory (Annex C). 
+
+
+
+	5)	Furthermore, examination of the related transactions disclosed that neither the Requisition and Issue Slip (RIS) nor Report of Supplies and Materials Issued (RSMI) was attached to the disbursement which should have been the basis for the recording of the supplies and materials as expense. Moreover, supplies ledger cards and stock cards to monitor and account the receipts and issuances of inventories were not maintained by the Accounting and Supply Units, respectively, thus impeded the reconciliation and verification of records.
+
+
+
+	6)	Inquiry with the concerned Accounting personnel revealed that purchase of supplies and materials were recorded as outright expenses since the items were directly issued and distributed to the end users upon delivery and inspection. Moreover, most of the supplies and materials were procured and delivered on June to August 2020 but their claims were processed and paid only on October and December 2020. Thus, upon payment the items were recorded as expenses.
+
+
+
+	7)	The existing practice is a departure from the afore-cited accounting procedures and indicates weakness in the internal control system of the Campus particularly on the custodianship and management of inventory which may result in unmonitored and unauthorized issuances of supplies and materials. Likewise, the absence of RIS, RSMI and distribution list as basis for the recording of the supplies and materials as expenses casted doubt on the regularity, validity and propriety of the transactions.
+
+
+
+
+
+
+
+
+
+	8)	We recommended that Management direct the:
+
+
+
+a)	Accountant
+
+
+
+--	Record in the appropriate inventory account all purchases of supplies and materials upon acceptance of the delivered items, except purchased out of the petty cash fund, in accordance with the perpetual inventory system of accounting;
+
+
+
+--	Maintain the appropriate Supplies Ledger Card (SLC) for each item of stock/inventory based on the copy of purchase order, inspection and acceptance report and delivery receipt;
+
+
+
+--	Credit the inventory account only upon receipt of the Report of Supplies and Materials Issued (RSMI) and Requisition and Issue Slip (RIS) from the Supply Unit; and
+
+
+
+--	Reconcile supplies ledger cards with the stock cards and report of physical count on inventories of the Supply Unit.
+
+
+
+b)	Supply Officer
+
+
+
+--		Maintain the appropriate Stock Cards (SC) for each item of stock/inventory and regularly prepare the RSMI based on the approved RIS and submit to the Accounting Unit for the proper recording in the books of accounts; and
+
+	
+
+--		Effect regular reconciliation of the balances of SC with the SLC of the Accounting Unit.
+
+	
+
+	Management comment(s)
+
+	
+
+	9)	The Management acknowledged the foregoing observation and committed to implement the audit recommendations.
+
+
+
+
+
+Prior year’s expenses inadvertently recorded as current year expenses 
+
+
+
+6)	Prior year’s expenses of Tagbina Campus were inadvertently recorded as current year’s expenses aggregating ₱1,660,267.22, contrary to Section 61 and 119 of PD No. 1445 and Section 6, Chapter 2 of the GAM Volume I, thus resulted in the overstatement of the affected expenses accounts and understatement of the accumulated surplus for the current period.
+
+
+
+
+
+	1)	Section 61 of P.D. No. 1445 provides that “All expenses incurred should have been duly authorized, adequately funded and documented; properly recorded; and all recorded expenses should have been actually incurred; and the classification of expenses are appropriate and have been consistently followed.”
+
+
+
+	2)	Further, Section 119 of the same P.D. states that “All lawful expenditures and obligations incurred during the year shall be taken up in the accounts of that year.”
+
+
+
+	3)	Section 6, Chapter 2 of the GAM for NGAs, Volume I, provides that each entity shall recognize and present its financial transactions and operations conformably to the accrual basis of accounting in accordance with the International Public Sector Accounting Standards (IPSAS). Accrual basis, as defined in Section 2(a) thereof, means a basis of accounting under which transactions and other events are recognized when they occur (and not only when cash or its equivalent is received or paid). Therefore, the transactions and events are recognized in the accounting records and recognized in the financial statements of the periods to which they relate.
+
+
+
+	4)	Audit disclosed that expenses incurred in CY 2019 amounting to ₱1,660,267.22 under the Special Trust Fund (STF) were erroneously recorded in the books of accounts as expenses for CY 2020 (Annex D). Summary of the subject expenditures are as follows:
+
+
+
+Recorded as
+
+Should be
+
+Amount
+
+Electricity Expenses
+
+Accumulated Surplus
+
+69,004.47
+
+School Fees
+
+Accumulated Surplus
+
+265,586.75
+
+Awards/Rewards Expenses
+
+Accumulated Surplus
+
+110,000.00
+
+Repairs & Maintenance – Transportation Equipment
+
+Accumulated Surplus
+
+28,000.00
+
+Repairs & Maintenance – School Buildings & Other Structures
+
+Accumulated Surplus
+
+188,676.00
+
+Other Personnel Benefits
+
+Accumulated Surplus
+
+57,000.00
+
+Scholarship Expenses
+
+Accumulated Surplus
+
+942,000.00
+
+Total
+
+1,660,267.22
+
+
+
+	5)	Verification of the transactions showed that the Budget Utilization Requests and Status (BURS) and Disbursements Vouchers for January and February 2020 transactions were prepared in December 2019. Further, as of December 31, 2019 the Accounts Payable (AP) balance of the Campus for STF totaled ₱4,104,677.51,  however the lack of any duly approved journal entry voucher for the recording of the said expenditures as AP, non-submission of general journals for CY 2019 and the absence of schedule for accounts payable as of December 31, 2019 impeded us to verify whether the subjects transactions were included as accounts payable in 2019. Likewise, upon payment on CY 2020, the Bookkeeper recorded these prior year’s expenses as current year’s expenses based on their check disbursement journals.
+
+
+
+	6)	Interview with the Bookkeeper disclosed that those expenses were all charged to current year’s expenses without reference to the period the transaction relates or year the expenses were actually incurred. Further, she conveyed that there was no record of the schedule of accounts payable and general journal turned over by the previous Bookkeeper in their office as of December 31, 2019, hence she assumed that all prior year’s expenses were not yet taken up as accounts payable on that period which caused her to record those expenditures as current year’s expenses.
+
+
+
+	7)	The above deficiencies were due to inadvertent charging and erroneous recording of transactions in the books of accounts. As a result, expenses accounts for the current year is overstated by ₱1,660,267.22, and the accumulated surplus is understated by the same amount. Moreover, if records of the general journal or schedule for accounts payable as of December 31, 2019 would show that those expenses were already taken up in the books of accounts in CY 2019, it would mean that the affected expense accounts and accounts payable in the current year were overstated by ₱1,660,267.22.
+
+
+
+	8)	We recommended that Management:
+
+
+
+--	Direct the Bookkeeper to stop the practice of charging prior year’s expenses to current year’s accounts and immediately adopt accrual basis of accounting by recognizing and recording effects of transactions and other events in the periods to which they relate to; and
+
+
+
+--	Secure copy of the Schedule of Accounts Payable and/or General Journal as of December 31, 2019 and trace whether the subject transactions were already taken up in the books of accounts for that period. Make the necessary journal entry to adjust the erroneous charging of CY 2019 expenses to current year expense accounts for a fair presentation of accounts in the financial statements.
+
+
+
+	Management comment(s)
+
+
+
+	9)	The Management acknowledged the foregoing observation and committed to implement the audit recommendations. 
+
+Weak Internal Control System over the Receipts of Collections Sent through Bayad Center
+
+
+
+7)	Inadequate internal control over the receipt of collections of school fees paid through Bayad Center Pera Padala resulted in unmonitored and uncontrolled receipts of funds totaling ₱110,800.00. Likewise, completeness and propriety of the amount cannot be established due to absence of check and balance contrary to Section 123 of PD No. 1445 and Chapter 3 of the National Guidelines on Internal Control Systems.
+
+	
+
+	1)		Section 123 of PD No. 1445 states that “Internal control is the plan of organization and all the coordinate methods and measures adopted within an organization or agency to safeguard its asset, check the accuracy and reliability of the accounting data and encourage adherence to prescribed management policies.”
+
+	
+
+	2)		Sound internal control system requires the segregation of incompatible duties to different people to reduce the risk of error or fraud. It includes separating the assignment of responsibilities for processing, reviewing, recording, custody and approval/authorization of certain transactions----footnote2----.
+
+
+
+	3)		Moreover, Control Policies and Measures, Chapter III, Components of Internal Control of National Guidelines on Internal Control (NGICs), provides the following:
+
+	
+
+	“Delegation of authority and supervision. This requires a written policy which must be well understood by the employees concerned. The authority has to be clear in terms of the particular transactions which could be acted upon by a delegatee, the limitations in the authority, and the particular purposes for which said authority may be used.
+
+	
+
+	Delegation of authority is followed by supervision. Competent supervision helps ensure that internal control objectives are achieved. Assigning, reviewing, and approving an employee’s work encompasses:
+
+		
+
+--		clearly communicating the duties, responsibilities, and accountabilities assigned to each staff member;
+
+	
+
+--		systematically reviewing each personnel or staff member’s work to the extent necessary; and
+
+	
+
+--		approving work at critical points to ensure that it flows as intended.
+
+		
+
+		xxx
+
+		
+
+			Access over resources, assets and facilities. Office policies on physical controls over vulnerable resources or assets are needed to secure and safeguard them from theft, loss and misuse. These include security for and limited access to such assets as cash, inventories of facilities, supplies and equipment, data or records, and information. Office policies must be clear on the responsible staff or employee authorized to have access to these resources or assets and the processes in safeguarding and maintaining such resources or assets. Periodic physical count and inspection of assets and facilities should be made and compared with the records to address the risk of error, fraud, misuse or unauthorized alteration.”
+
+		
+
+	4)		Review of the online enrolment flow of the of the University for Academic Year 2020-2021 disclosed that due to COVID-19 pandemic, a new payment platform was adopted by the University. Both the old and new students can now pay through any Bayad Center such as Palawan and ML Padala to be sent directly to the name of the Cashier or Cash Clerk. Copy of the certification issued by the President allowing the Cashier and Cash Clerk to claim Palawan sent payments is hereby attached as Annex E and F.
+
+	
+
+	5)		Based on the enrolment flow, student/enroller shall only proceed to payment through Bayad Center once the enrolment form is submitted and approved by the dean. In case of the Graduate School, the University will inform the enroller through email that his/her enrolment form was approved and then can proceed to the payment of school fees which can be done through Palawan Express Pera Padala.
+
+
+
+	6)		However, there were students who already paid the school fees even though their enrolment form was not yet approved. This practice became possible because the name and mobile number of the authorized receiver for the remittance were indicated in the posted enrolment flow in the website of the University, thus resulted in receiving unsolicited payment of school fees. Moreover, in this payment scheme, the Cash Clerk or Cashier has the sole knowledge of the name and number of the sender/student and the amount paid for school fees, hence, risk of error and omission may occur.
+
+
+
+	7)		In a normal face to face enrolment, the students are required to present his/her approved enrolment form to the cashier upon payment. When the University shifted to a full online enrolment scheme due to the COVID-19 pandemic, the Cashier/Cash Clerk no longer require the said document before claiming the remittance of the students/enrollers sent thru Bayad Center. 
+
+
+
+	8)		Based on the foregoing discussions, the audit team noted the following deficiencies in the internal control system, to wit:
+
+	
+
+a)	Unclear delegation of authority and inadequate supervision with regard to the collection of payments sent through Bayad Center.
+
+	 
+
+	9)		The Cash Clerk was acting as an alternate to the Cashier to claim such remittances without any written authority. The certification issued by the President was only on January 18, 2021 yet the Cash Clerk already started claiming remittance from August to December 2020. Moreover, since it is the first time that the University adopted this payment scheme, there should be a close supervision on its initial implementation to ensure that the controls and procedures set will be strictly followed. Had there been a close supervision, the management could have easily discovered that the Cash Clerk/Cashier is no longer referring to the approved enrolment form when claiming the remittances. Moreover, they will also be aware that some students are paying the school fees even if their enrolment form was not yet approved. Thus, all remittances regardless of the enrolment status were claimed by the Cashier or Cash Clerk. This practice resulted in the accumulation of unreceipted and undeposited collections because the Cash Clerk or Cashier cannot yet post the said collections into the system since information reflected in the approved enrolment form is required. 
+
+	
+
+b)		Inadequate security and safeguard over remittances claimed from Palawan Express Pera Padala. 
+
+		
+
+	10)		The present enrolment flow of the University lacks the necessary control to ensure that the Cashier or Cash Clerk can only claim the remittances made by the enroller/students who successfully completed the necessary documents/requirements for enrolment. An Official Receipt should have been issued immediately upon receipt of remittances and deposit the same to the depository bank. However, actual practice showed that the Cashier or Cash Clerk can claim all the remittances regardless of the enrolment status because all the transaction codes are directly sent to their office’s mobile number. This made it difficult for the University to account and determine the total amount of remittances claimed which exposed public funds to possible loss or misuse.  
+
+	
+
+	11)		Sound internal control dictates that a system of check and balance should be set to ensure that the Cashier/Cash Clerk can only claim those remittances from senders whose enrolment have been approved by the dean for payment. An example of control that could have been installed is instructing the enroller/student to send the details of the transaction code of the remittance/payment to a unit or department which is independent from the Cashiering Unit. It could be the mobile/contact number of the Graduate or Law School Office that will be shown in the enrolment flow and at the end of the day, the said office shall prepare a list of enrollees with approved enrolment form together with the transaction code and the amount paid. This list shall be forwarded to the Cashier or Cash Clerk who were assigned to claim the said remittances. This will ensure that all remittances claimed by them are accounted for and pertained only to the approved enrolment forms. Hence, they cannot claim the remittances sent by enrollees whose enrolment were not yet approved by the dean or program coordinator since the transaction codes are not sent directly to them.
+
+	
+
+	12)		The principle of segregation of duties is based on key duties and responsibilities necessitating division or segregation among different people to reduce the risk of error or fraud. Without this separation in key processes, fraud and error risks may go undetected and government resources may not be safeguarded against loss/misuse. 
+
+
+
+	13)		The lack of proper segregation of duties reduces the effectiveness of the agency’s internal control system. This condition, if not addressed appropriately, may encourage concealment of erroneous and inappropriate actions by public officers/employees.
+
+	
+
+	14)		We recommended that Management:
+
+	
+
+--	Create a committee which will be tasked to ensure the all remittances sent thru Bayad Center for the year 2020 have been accounted for and furnish COA copy of the result of confirmation/verification;
+
+
+
+--	Ensure that a written authority will be issued for the assignment of the Cash Clerk to specifically define the terms of the particular transactions which could be acted upon by a delegatee, the limitations in the authority, and the particular purposes for which said authority may be used; and
+
+
+
+--	Install adequate control measures on the online enrolment system to ensure that receipts from whatever payment platform employed will be adequately secured and safeguarded against loss/misuse.
+
+	
+
+	Management comment(s)
+
+
+
+	15)		The Management acknowledged the foregoing observation and committed to implement the audit recommendations. Accordingly, a meeting was scheduled with the concerned department heads to discuss remedies to be adopted to strengthen the University’s internal control system over the receipt of school fees sent by enrollers through Bayad Center.
+
+	
+
+	Unreceipted, Undeposited and Unrecorded Collections 
+
+	
+
+8)	Non-issuance of official receipts for collections received from enrolment fees of students by the Cash Clerk resulted in the accumulation of unreceipted, undeposited and unrecorded collections totaling ₱110,800.00, thus, exposed public funds to possible loss/misuse and consequently understated the Cash-Collecting Officer and School Fees accounts.
+
+
+
+	1)	Section 68 (1) of Presidential Decree 1445 states that “No payment of any nature shall be received by a collecting officer without immediately issuing an official receipt in acknowledgment thereof. The receipt may be in the form of postage, internal revenue or documentary stamp and the like, officially numbered receipts, subject to proper custody, accountability, and audit.”
+
+
+
+	2)	COA – DBM Joint Circular No. 1-81 dated January 1, 1981 provides guidelines on the frequency of depositing national collections direct to the National Treasury or through any of the authorized government deposit banks (AGDB) as follows:
+
+
+
+Distance
+
+(Office to BTr / AGDB)
+
+Travel Time
+
+(To and From Office to BTr / AGDB – Ordinary transportation)
+
+Accumulated Collections
+
+Frequency Deposits
+
+Less than 15 km
+
+Less than 1 day
+
+a.1 ₱500.00 or more
+
+a.2 Less than ₱500.00
+
+a.1 Daily
+
+a.2 Weekly or as soon as collections reach ₱500.00
+
+15 – 30 km
+
+a)	Less than 1 day
+
+a.1 ₱2,000.00 or more
+
+a.2 Less than ₱2,000.00
+
+a.1 Daily
+
+a.2 Weekly or as soon as collections reach ₱2,000.00
+
+
+
+b)	A day or more
+
+b.1 ₱2,000.00 or more
+
+b.2 Less than ₱2,000.00
+
+b.1 Weekly
+
+b.2 Twice a month or as soon collections reach ₱2,000.00
+
+More than 30 km
+
+a)	Less than 1 day
+
+a.1 More than ₱5,000.00
+
+a.2 Less than ₱2,000.00 
+
+a.1 Daily
+
+a.2 Weekly or as soon as collections reach ₱2,000.00
+
+
+
+b)	A day or more
+
+b.1 ₱2,000.00 or more
+
+b.2 ₱2,000.00 - ₱5,000.00
+
+b.3 Less than ₱2,000.00
+
+b.1 Twice a week
+
+b.2 Weekly
+
+b. 3 Monthly or as soon as collections reach ₱2,000.00
+
+
+
+	3)	Cash examination on the cash and accounts of the Cash Clerk disclosed that collections pertaining to payments of enrolment fees by the graduate and law school students sent through Palawan Express amounting to ₱110,800.00 remained unreceipted and undeposited as of                   December 16, 2020. 
+
+	4)	Details of the transactions are presented in the table below:
+
+ 
+
+Date Claimed
+
+Transaction Code
+
+Sender
+
+Amount
+
+08 06 2020
+
+CLK-9-67832-EGQ
+
+Jelian Laranjo
+
+    1,000.00 
+
+08 11 2020
+
+BSN-11-43626-EKW
+
+Venus Lumapac
+
+    1,000.00 
+
+08 13 2020
+
+CQL-9-84970-EKW
+
+Edgar B. Eslier
+
+       800.00 
+
+08 25 2020
+
+TAZ-8-47591-DJQ
+
+Anabelle Lina
+
+    1,000.00 
+
+08 27 2020
+
+BUF-10-11130-CLK
+
+Anna Grace Samblingo
+
+    1,000.00 
+
+08 28 2020
+
+BUL-10-46490-DJQ
+
+Kathryn Erika D. Paradero
+
+    1,000.00 
+
+08 31 2020
+
+DLR-9-17832-CLK
+
+Jonel Rañon
+
+    1,000.00 
+
+08 31 2020
+
+CFI-9-90959-CLK
+
+Thelma C. Magno
+
+    1,000.00 
+
+09 13 2020
+
+BTK-11-58757-EGQ
+
+Guardalupe T. Ramirez
+
+    1,000.00 
+
+11 27 2020
+
+RPN-8-32649-CLK
+
+Juliet Villar
+
+  10,000.00 
+
+12 01 2020
+
+CFI-10-357-BUL
+
+Porcelito Escobal Jr
+
+  10,000.00 
+
+12 01 2020
+
+CEG-12-377723-BUL
+
+Noel M. Piong
+
+  10,000.00 
+
+12 01 2020
+
+BVT-10-82378-BUL
+
+Reyna Mae R. Rubi
+
+  10,000.00 
+
+12 05 2020
+
+CLK-9-80000-DJQ
+
+Delmar Ramos
+
+  10,000.00 
+
+12 05 2020
+
+DJQ-9-82402-DJQ
+
+Lieu Gee Keeshia C. Guillen
+
+  10,000.00 
+
+12 14 2020
+
+BUD-10-74529-EKW
+
+Lakiesha Mae S. Ravelo
+
+    2,000.00 
+
+12 14 2020
+
+BSO-10-78983-EKW
+
+Jennifer Pantas
+
+  10,000.00 
+
+12 14 2020
+
+BUL-10-59319-EKW
+
+Michelle Borja
+
+  10,000.00 
+
+12 14 2020
+
+EPL-9-6411-EKW
+
+Florelyn C. Tajonera
+
+  10,000.00 
+
+12 14 2020
+
+CFI-10-246-EKW
+
+Marvin O. Azarcon
+
+  10,000.00 
+
+Total
+
+110,800.00 
+
+		
+
+	5)	Remittances claimed for the months of August and September 2020 pertained to enrolment fees for the first semester of AY 2020-2021 while those received on the months of November and December 2020 were for the second semester of AY 2020-2021. 
+
+
+
+	6)	Interview with the concerned Cash Clerk revealed that due to health protocols and travel restrictions related to COVID-19 pandemic, the University started to receive payments sent through Palawan Express Pera Padala and authorized the Cash Clerk and the Cashier to claim such remittances. These payments were sent by students/enrollers for the purpose of slot reservation even if the they have not yet received their ID number and submitted their online enrolment form. She explained that the issuance of official receipt was not yet made upon receipt of payments from Bayad Center because they were awaiting for the ID number and enrolment forms to be processed completely and successfully to be recognized as school fees and post the same to the payment records of the student as required in their collection system. Nevertheless, all collections not yet issued with official receipts were kept inside the vault.
+
+
+
+
+
+	7)	Review of the online enrolment procedural flow of the University, students/enrollers can only proceed to payment through Bayad Center once the ID number is already generated for new students and the enrolment form is accomplished, submitted and approved by the Program Coordinator. Hence, the cash clerk or cashier should have claimed only the remittances/deposits of those who have already complied with the said enrolment procedures and immediately issue an official receipt in acknowledgement thereof. Needless to say, if all remittances were claimed, official receipts shall be immediately issued as mandated by Sec. 68(1) of PD 1445.  However, because the name and mobile number of the authorized receivers of school fees sent through Bayad Center were published online, students/enrollers can pay directly without duly accomplishing the enrolment form and the cash clerk or cashier can claim remittances of enrollers regardless of their enrolment status. 
+
+
+
+	8)	Due to inadequate internal control over the receipts of payments through Bayad Center, collections totaling ₱110,800.00 remained unreceipted, thus the same were undeposited and unrecorded in the books of accounts ranging from  2 to 94 calendar days as of December 16, 2020 in violation of Section 68(1) of PD No. 1445 and COA-DBM Joint Circular No. 1-81 which exposed funds to possible loss or misuse and consequently understated in the Cash Collecting Officer and School Fees accounts.
+
+
+
+	9)	We recommended that Management advise the Cash Clerk and Cashier to:
+
+	
+
+--	Immediately issue official receipts for the ₱110,800.00 collections received through Palawan Express, then deposit promptly to the authorized government depository bank and submit the corresponding Report of Collections and Deposits to the Accounting Unit for the proper recording of the same.; and
+
+
+
+--	Ensure that no payment of any nature shall be received by a collecting officer without immediately issuing an official receipt in acknowledgment thereof. 
+
+
+
+	Management comment(s)
+
+
+
+	10)	The Cashier commented that they already issued official receipts for the unreceipted collections last January 2021 and committed to implement the audit recommendations.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Bayanihan Program Implementation 
+
+
+
+9)	The adequacy and effectiveness of the internal controls over disbursements were deemed insufficient as expenses incurred for the University’s COVID mitigation initiatives totaling ₱264,012.50 were not supported with complete documentation, contrary to Sections 4(6) and 124 of P.D. No. 1445 and COA Circular No. 2012-001, thus validity and propriety of the disbursements could not be ascertained. 
+
+
+
+	1)	Section 4(6) of the P.D. No. 1445 provides that “Claims against government funds shall be supported with complete documentation.”
+
+
+
+	2)	Moreover, Section 124 of the same P.D. states that “It shall be the primary responsibility of the head of agency to install, implement and monitor an adequate system of internal control.”
+
+
+
+	3)	COA Circular No. 2012-001 dated June 14, 2012 provides the general requirements for all types of disbursements, to wit:
+
+		
+
+--				Certificate of availability of funds by the Chief Accountant
+
+--				Existence of lawful and sufficient allotment as certified by authorized officials
+
+--				Legality of transactions and conformity with laws, rules or regulations
+
+--				Approval of expenditures by Head of Office or his authorized representative
+
+--				Sufficient and relevant documents to established validity of claims
+
+	
+
+	4)			Records showed that on CY 2020, the University and its Campuses initiated various initiatives in response to the Bayanihan to Heal as One Act to help those in need, the front liners and the extension beneficiaries in the midst of COVID-19 pandemic uncertainties and distress. And as part of their corporate social responsibility, the Main Campus and Cantilan Campus launched Food Share Project and Creating a Healthy Environment towards Healthy People against the War of Covid-19 Pandemic Project, respectively, with the following details, to wit: 
+
+		
+
+		Project Name
+
+		University’s Food Share Project
+
+		Cantilan Campus: Creating a Healthy Environment towards Healthy People against the War of Covid-19 Pandemic Project
+
+		Target Beneficiaries
+
+		Eleven adopted barangays targeting 550 persons and 100 front liners
+
+		100 unemployed/underemployed and displaced workers of the different partner barangays of SDSSU Cantilan Campus as determined by the Barangay Captain of the area
+
+		Objectives
+
+--	Distribute food packs to SDSSU extension beneficiaries and front liners;
+
+--	Protect human health and nutritional support during the pandemic; and
+
+--	Show appreciation for those on the front liners amid the rapidly spreading coronavirus disease.
+
+		
+
+--	Reduce poverty during pandemic by giving financial assistance in return to home disinfection/ sanitation and vegetable gardening to underemployed/ unemployed and displaced marginal workforce from different partner barangays;
+
+--	Help mitigate the spread of COVID-19 through home/surrounding disinfection/sanitation;
+
+--	Produce vegetables for family consumption
+
+--	Establish herbal garden that could be utilized for many purposes
+
+--	Provide sanitizing device to reduce the risk of infection
+
+--	Demonstrate the University’s social responsibilities
+
+		Budget
+
+		₱224,000.00
+
+		₱148,400.00
+
+		Actual Expenses
+
+		₱115,682.50
+
+		₱148,330.00
+
+		Nature of Expense
+
+		Purchase of rice and grocery items
+
+		Cash assistance of ₱1,400.00 per participants and extensionists
+
+		
+
+	5)			Review of the transactions revealed several deficiencies summarized as follows:
+
+		
+
+		Main Campus
+
+		Cantilan Campus
+
+--	Names of the eleven adopted barangays were not specifically mentioned in the project proposal;
+
+
+
+--	No distribution sheet/list was attached for the food packs given to 650 beneficiaries;
+
+
+
+--	There are few attendance sheets but have no complete information as to the date and venue of the distribution. Some names in the attendance sheets had no signature, contact number and address; and
+
+
+
+--	The 650 intended beneficiaries of the project cannot be accounted for as there was no distribution list attached while the attendance sheets showed only 145 participants during the distribution.
+
+--			Only the project proposal and attendance sheets were attached to the cash advances claims. The payroll with the names of the intended recipients were not attached, hence, reasonableness of the amount granted cannot be determined;
+
+		
+
+--			Some recipients in the attendance sheets just indicate their name in the form while their nature of work, address and contact number were left blank; and
+
+
+
+--			Certificate from the Barangay Captain was not secured to attest that the identified beneficiaries were bonafide underemployed / unemployed and displaced marginal workers in the area.
+
+	6)			Interview with the project proponent of the Main Campus disclosed that they resorted to taking pictures to account for the distribution of food packs considering that some beneficiaries/recipients are academically challenged. Likewise, the project coordinator of Cantilan Campus conveyed that the project beneficiaries were all endorsed and identified by the Barangay Captains of the particular area, yet, they failed to secure certification nor any proof that those individuals belonged to underemployed/unemployed and displaced marginal workers.
+
+		
+
+	7)			The University’s initiative in helping the community alleviate the burden and difficulties encountered due to COVID-19 pandemic through food and cash assistance is commendable and noteworthy. However, the validity and propriety of the transactions could not be ascertained due to lack of clear criteria or pre-determined guidelines on the selection process of recipient barangays, absence of duly signed distribution sheets and the incomplete information contained in the attendance. 
+
+		
+
+	8)			Consequently, whether the University’s target to distribute the food packs to 650 beneficiaries was fully attained cannot be established and the lack of any proof that the identified beneficiaries belonged to underemployed/ unemployed and displaced marginal workers of the community casted doubt on the impartiality of the selection process.
+
+
+
+	9)			The foregoing deficiencies indicated weak internal controls over disbursements considering that expenses were processed and paid even without complete, valid and proper documentation, thus the validity and propriety of transactions is doubtful.
+
+
+
+	10)			We recommended that Management:
+
+
+
+--	Advise the concerned Project Coordinators to improve the existing guidelines on the selection process of program recipients so as to preclude suspicion of favoritism, bias and irregularities in the process; 
+
+
+
+--	Instruct the Accountant of the Main Campus and Bookkeeper of Cantilan Campus to process only claims with complete supporting documents to establish the validity of transaction; 
+
+
+
+--	Likewise, submit the following documents to enable the audit team to make a decision in audit:
+
+
+
+a)	The name of 11 approved adopted barangays as well as the complete list of the intended beneficiaries;
+
+
+
+b)	Distribution sheets of the 650 food packs with complete information of the recipient’s nature of work, address, contact number, signature;
+
+
+
+c)	Attendance sheets with complete information; and
+
+
+
+d)	Certificate from the Barangay Captain to attest that the identified beneficiaries were bonafide underemployed/ unemployed and displaced marginal workers in the area
+
+	
+
+	Management comment(s)
+
+
+
+	11)			The Management of Cantilan Campus committed to implement the audit recommendations. 
+
+		
+
+	12)			Likewise, the Management of Main Campus enlisted 17 areas where they had distributed the food packs to front-liners and disadvantage families. They conveyed the following and we quote:
+
+		
+
+	“Many of our recipients are academically challenged and without work; thus, we resolved to have pictures as our evidence of the Food Share Project distribution of food packs. Rest assured that the undersigned will strictly put into action the recommendations of your good office for the efficiency and transparency if the extension activities of the University.”
+
+	
+
+	Auditor’s rejoinder
+
+	
+
+	13)			While the Audit team acknowledged the validity of the pictures submitted, it should be noted that the pictures alone are insufficient to account for the 650 target-beneficiaries/recipients of the project. Hence, adequate documentation and distribution list should be duly accomplished to established propriety of claims, otherwise the said transactions will be suspended / disallowed in audit, if warranted.
+
+		
+
+
+
+Non-preparation of Journal Entry Vouchers 
+
+
+
+10)	Accuracy and propriety in the recording of transactions of Tagbina and Bislig Campus totaling ₱25,200,760.80 cannot be ascertained due to absence of journal entry vouchers attached to each disbursement voucher, contrary to Section 111 of PD No. 1445, thus impeded the Audit Team from determining the propriety of the recorded transactions and affected the reliability of the financial statements.
+
+
+
+	1)	Section 111 of the Presidential Decree No. 1445 provides that “The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.” 
+
+
+
+	2)	Appendix 36 of the Government Accounting Manual (GAM) for NGAs, Volume II prescribed the use of Journal Entry Voucher (JEV) to record all transactions of the NGAs, whether cash receipts, cash disbursements or non-cash transactions. Accounting journal entries shall be reflected therein and it shall serve as the basis for recording in the books of accounts.
+
+
+
+	3)		The books of accounts of the National Government consist of General Journal (GJ), Cash Receipt Journal (CRJ), Cash Disbursement Journal (CDJ) and Check Disbursement Journal (CkDJ). The basis for the recording of transactions in the journals is the duly approved JEVs.
+
+
+
+	4)	Examination disclosed that all disbursement transactions of Tagbina and Bislig Campuses totaling ₱25,200,760.80 were not supported with JEVs, summarized as follows:
+
+
+
+Campus
+
+Period
+
+Amount
+
+Bislig 
+
+January to September 2020
+
+1,645,778.41
+
+Tagbina
+
+January to December 2020
+
+23,554,982.39
+
+Total
+
+25,200,760.80
+
+ 
+
+	5)	The Bookkeeper of Tagbina Campus explained that she was not aware that JEV should be prepared for every disbursement transaction since she just assumed office last January of 2020. The Bookkeeper conveyed that no journal entry voucher was prepared for each disbursement, however journal entries were reflected in the monthly check disbursement journals attached to the disbursement vouchers.
+
+
+
+	6)	Moreover, interview with the concerned Accounting personnel revealed that journal entries was prepared for every disbursement transaction as reflected in “Box B” of the disbursement vouchers. However, no journal entry vouchers were prepared separately to be attached to each disbursement voucher.
+
+
+
+	7)	The preparation of JEV is a basic key document in the recording of accounts subject for review and approval of the Head of the Accounting Unit. It is a prerequisite document before a transaction is recorded in the general journal, cash receipt journal, cash disbursement journal or check disbursement journal. Hence, recording of transactions in the books of accounts or journals without the duly approved JEV may imply that the classification and accounting treatment of transactions were not properly reviewed and authorized to be recognized in the books of accounts. 
+
+
+
+	8)	It is to be emphasized that journal entry vouchers are the basis of recording in the books of accounts or in the journals to the books of final entry and to the preparation of financial statements. Non-preparation of JEV for every disbursement made signifies that the validity and correctness of the journal entries reflected in the check disbursement journal cannot be established. Preparation of journal entry voucher is crucial in the determination of the propriety of the recorded transactions and the reliability of the financial statements.
+
+
+
+	9)	Consequently, the non-preparation of journal entry voucher for each disbursement transaction impeded the verification of the propriety of the recorded transactions in the journals which affected the fairness of the presentation of the account balances in the financial statements.
+
+
+
+	10)	We recommended that Management of Tagbina and Bislig Campus require their Bookkeepers to prepare a Journal Entry Voucher for each transaction as basis of recording in the General Journal, Cash Receipt Journal, Cash Disbursement Journal and Check Disbursement Journal. All disbursement vouchers together with its supporting documents should be accompanied with an approved Journal Entry Voucher which shall be the key document of the Bookkeeper in recording, classifying and summarizing transactions in the books of accounts.
+
+
+
+	Management comment(s)
+
+
+
+	11)	The Management of the concerned campuses assured that the foregoing observation will be acted and complied with immediately. 
+
+
+
+
+
+Implementation of Modified Direct Payment Scheme
+
+
+
+11)	The University did not fully implement the Modified Direct Payment Scheme (MDPS) for payment of accounts payable due to creditors/payees totaling ₱165,700,708.14 contrary to DBM Circular No. 2013-16 and 2018-14, thus defeated the purpose of MDPS in promoting a more efficient payment system.
+
+
+
+	1)	DBM Circular Letter No. 2013 – 16 dated December 23, 2013 prescribed the implementation of the Expanded Modified Direct Payment Scheme (ExMDPS) for accounts payable due to creditors / payees of all National Government Agencies (NGA). It defined ExMDPS as the payment procedure whereby the MDS-GSB shall pay the creditors listed in the LDDAP – ADA not later than 48 hours but not earlier that 24 hours upon receipt of the said document from the NGA thru direct credit to the creditor’s current/ savings/ATM account maintained with the MDS – GSB or bank transfer if outside the agency’s MDS – GSB account.
+
+	2)	DBM Circular Letter No. 2018-14 dated December 28, 2018 provides for the updated guidelines in the implementation of the Modified Direct Payment Schemes (MDPS) Due to Creditors/Payees of All National Government Agencies (NGAs) and requires NGAs in Section 3.1 to use the existing List of Due and Demandable Accounts Payables - Advice to Debit Account (LLDAP-ADA) and Summary of LDDAP-ADAs Issued and Invalidated ADA Entries  (SLIIE) to settle all A/Ps to creditors/payees including utility companies and social insurance corporations except GSIS (until such time that GSIS is equipped to accept direct payment scheme). The only exception was provided under Section 3.4 which states that creditors/suppliers who cannot be conveniently nor practicably be paid using the ADA as determined by the Agency Head, may continue to be paid thru issuance of MDS checks or cash. These accounts include:
+
+	
+
+a)		Small value creditors/payees with claims during the year costing P10,000 and below, e.g., government scholars, recipients of DOLE's Special Program for the Employment of Students (SPES).
+
+	
+
+b)		Creditor/payee of the agency with non-regular transaction or one time transaction during the year, e.g., Right-of-Way claimants, relocation expenses for informal settlers and others. 
+
+c)		Companies which are not authorized, per their internal policy, to open current accounts in addition to their existing accounts.
+
+	
+
+	3)		Further, Section 3.8 of the same circular reminded NGAs to require their creditors to issue Official Receipts (ORs) or Sales Invoice as evidence of receipt of payment through LLDAP-ADA and SLLIE or MDS check. It further provides the following:
+
+
+
+--	In case the supplier/contractor failed to submit OR or sales invoice, the list of bank-validated ADA shall be attached to the DV as proof of payment.
+
+
+
+--	In the case of supplier/contractor maintaining accounts outside the agency's MDS-GSB where corresponding bank charges are paid by the supplier/contractor as remitter (as deduction from the amounts transferred to their accounts), the OR or Sales Invoice to be issued by the creditor concerned shall correspond to the gross amount.
+
+	
+
+--	Non-issuance of OR or Sales Invoice by the contractor/supplier shall be reported to the BIR as violation of regulations. 
+
+	
+
+	4)	The MDPS has contributed to the substantial reduction of agencies’ due and demandable A/Ps and has minimized the volume of outstanding checks. In addition, said scheme has addressed cash programming concerns relative to resource predictability requirements by providing specific schedule of payments. 
+
+
+
+	5)	Verification of the disbursement documents disclosed that the University’s accounts payable totaling ₱165,700,708.14 chargeable against the NCA were paid through the issuance of MDS checks instead of ADA as summarized below:
+
+
+
+Campus
+
+No. of Transactions
+
+Amount
+
+Main
+
+79
+
+48,541,225.99
+
+Tagbina
+
+40
+
+20,585,681.33
+
+San Miguel
+
+21
+
+21,565,103.67
+
+Cagwait
+
+34
+
+8,931,588.36
+
+Cantilan
+
+40
+
+52,670,538.73
+
+Lianga
+
+39
+
+13,406,570.06
+
+Total
+
+253
+
+165,700,708.14
+
+
+
+	6)	It has been observed that MDS checks were also used to pay obligations to some government agencies such as DBM-PS, Bureau of Treasury, GSIS, SSS and PhilHealth. Moreover, some claims of the University’s personnel were also paid thru MDS checks even when those employees have a payroll account with the government depository bank. 
+
+
+
+	7)	The Cashiering Unit explained that it has been the practice of the agency to issue MDS checks for those transactions. As for SURSECO, they admitted that in the past they are paying through ADA but stopped when they started to incur penalties due to the two (2) banking days crediting to the account of SURSECO. Furthermore, for some suppliers, they experienced difficulty in collecting the official receipts (ORs) when payments are made through ADA. 
+
+
+
+	8)		As provided for under Sections 3.1 and 3.4 of DBM Circular Letter No. 2018-14, except on creditors/suppliers who cannot be conveniently nor practicably be paid using the ADA and falls under the circumstances mentioned above, all the University’s payment of accounts payable due to  creditors/payees such as remittances of premium contributions to government corporations,  payment of utilities and payment of personnel benefits due to officers and employees should be generally settled through the use of LDDAP-ADA. 
+
+
+
+	9)	Likewise, the issue on the difficulty of collecting official receipts from suppliers when payments are made through ADA was already addressed in Section 3.8 of the same circular which states that in the event that the supplier failed to issue an official receipt despite demand from the Agency, the list of bank-validated ADA shall be attached to the DV as proof of payment and the erring supplier shall be reported to the BIR for violation of such regulations.
+
+
+
+	10)	The continuous payment of the University’s obligations chargeable against the NCA through MDA checks is contrary to the afore-cited DBM provisions which defeated the purpose of the MDPS to facilitate the immediate settlement of the University’s obligations and to minimize the volume of outstanding checks. 
+
+
+
+	11)	We recommended that Management require the Cashier to limit the issuance of MDS checks to the barest minimum and to fully implement the use of Modified Direct Payment Scheme (MDPS) in paying obligations due to creditors/payees.
+
+
+
+	Management comment(s)
+
+
+
+	12)	The Management acknowledged the foregoing observation and committed to implement the audit recommendations.
+
+
+
+
+
+Non-preparation of Appropriate Records
+
+
+
+12)	Checks and ADA Disbursement Records (CkADADRec), Cash Disbursement Record (CDRec), Report of Cash Disbursements (RCDisb) and Report of Accountability for Accountable Forms (RAAF) were not prepared and maintained by the Cashier of Tagbina Campus from CY 2016 to CY 2020 contrary to the provisions of the Government Accounting Manual (GAM) and the Revised Cash Examination Manual, thus, causing difficulty in determining the cash accountabilities at any given time.
+
+	
+
+	1)	Section 10 and 17, Chapter 6 of GAM Volume I and Appendix 34 and 40 of Volume II states that:
+
+ 
+
+Sec. 10. Accounting Books, Records, Forms and Reports to be Prepared and Maintained. All checks drawn during the day, whether released or unreleased including cancelled checks shall be recorded chronologically in the Checks and ADA Disbursements Record (CkADADRec) (Appendix 34) maintained by the Cash/Treasury Unit. The dates the checks were actually released shall be indicated in the appropriate column provided for in the CkADADRec.
+
+
+
+
+
+
+
+Appendix 34. The CkADADRec shall be maintained by each Disbursing/Accountable Officer, by fund cluster, to record/monitor all checks drawn (MDS or Commercial) and ADAs issued by him/her during the day. Whether released or unreleased, checks/ADAs shall be recorded immediately and the NCA/Bank balance shall be extracted.
+
+
+
+Sec. 17. Accounting Books, Records, Forms and Reports to be Prepared and Maintained. The Disbursing Officer shall maintain the Cash Disbursements Record (CDRec) (Appendix 40) to monitor the cash advances/payroll, current operating expenses, and special purpose/time-bound undertakings and prepare the Report of Cash Disbursements (RCDisb) (Appendix 41) to report its utilization. 
+
+
+
+	Appendix 40. Cash Disbursement Record (CDRec). This record shall be maintained by each Disbursing/Accountable Officer to monitor the cash advance balance. All transactions for the day shall be recorded immediately. It shall be maintained by fund cluster.
+
+
+
+	2)	Section 17(k), Chapter 8 of GAM Volume I provides that “Report of Accountability for Accountable Forms (RAAF) (Appendix 67) shall be prepared by the Accountable Officer to report on the movement and status of accountable forms in his/her possession. The accountable forms include those with or without face value.”
+
+
+
+	3)	Likewise, Chapter II, Item 7 of the Revised Cash Examination Manual provides, among others, “The responsibility of the Accountable Officer to maintain his/her cashbooks/CRR/ CDRec/CkDR and such other records or their equivalent as may be prescribed by the agency’s operating procedures, and reconcile with the accounting records at least quarterly, unless the agency requires a more frequent reconciliation.”
+
+
+
+	4)	In the conduct of cash examination on the cash and accounts of the Cashier of SDSSU Tagbina Campus on December 10, 2020, it was disclosed that various records of transactions or cashbooks were not presented for audit by the concerned accountable officer. Checks and ADA Disbursements Record (CkADADRec) was not prepared and maintained to account all checks drawn and ADAs issued during the day. Checks issuances are only reported and recorded in the Reports of Checks Issued (RCI) for submission to the Accounting Unit as basis for the preparation of JEV. 
+
+
+
+	5)	Further, Cash Disbursements Record (CDRec) was also not prepared and maintained to record the grant and utilization of cash advances of the Cashier. Also, the Report of Accountability for Accountable Forms (RAAF) that monitors the movement and status of accountable forms in her possession was not prepared and maintained monthly.
+
+	6)	It should be noted that in compliance with the Government Accounting Manual, the cashbooks were replaced by Cash Receipt Record (CRRec), Cash Disbursement Record (CDRec), Check and ADA Disbursement Record (CkADADRec) and Petty Cash Fund Record (PCRec). However, audit showed that neither cashbooks nor the GAM prescribed records were prepared and maintained by the Cashier.
+
+
+
+	7)	Interview with the concerned Cashier disclosed that she was unaware that CDRec and CkADADRec should be prepared and maintained daily in lieu of cashbooks. She thought that the above records were only for MDS transactions. And since the Campus has no MDS fund, only special trust fund and income generating projects, she assumed that those records were not relevant/required. Moreover, for RAAF, the report was prepared monthly but only for accountable form 51 or official receipts. No record for the receipt and issuance of checks was reflected in the RAAF.
+
+
+
+	8)	The preparation and maintenance of appropriate records, specifically the CRRec, CDRec, CkADARec, PCFRec, is important and beneficial for the accountable officer to monitor her daily accountabilities, determine the running cash balances and identify paid claimants for easy references. Moreover, these records should have been reconciled to the records of the Accounting Unit at least quarterly for check and balance purposes, and to establish the accuracy and completeness of the records.
+
+
+
+	9)	During our cash examination, the audit team reminded the Cashier to prepare and maintain the necessary records. However, to date the records were yet to be prepared.
+
+
+
+	10)	The Cashier’s non-preparation and maintenance of Cash Disbursement Records (CDRec) and Check and ADA Disbursement Record (CkADARec), and the incomplete data in the Report of Accountability for Accountable Forms (RAAF) had caused difficulty in determining her cash accountabilities. Further, it hindered proper review and verification on the accuracy of records, and reconciliation of records between the Cashier and Accounting Unit was not facilitated since 2016.
+
+
+
+	11)	We recommended that Management require the Cashier to prepare and maintain the Checks and ADA Disbursement Records (CkADADRec), Cash Disbursement Record (CDRec), Report of Cash Disbursements (RCDisb) and Report of Accountability for Accountable Forms (RAAF) for CY 2016 to CY 2020 in prescribed format pursuant to the provisions of the Government Accounting Manual (GAM) and the Revised Cash Examination Manual.
+
+	
+
+	
+
+	
+
+	Management comment(s)
+
+
+
+	12)	The Management committed to implement the audit recommendations and ordered the DO/Cashier to immediately prepare the appropriate records from CY 2016 up to present and conform to the prescribed GAM format.
+
+
+
+
+
+Delayed Submission of Financial Reports
+
+
+
+13)		The monthly trial balance, quarterly financial statements as well as the monthly bank reconciliation statements of the University were not submitted to the Office of the Auditor in a timely manner as required under Section 122 of P.D. 1445, Section 60, Chapter 19 and Section 7, Chapter 21 of the GAM, Volume I, precluding the timely conduct of audit on the said accounts and errors, if any, could not be detected and corrected immediately.
+
+
+
+	1)	Section 122 of Presidential Decree (P.D.) No. 1445 states that, “The Commission on Audit may require the agency heads, chief accountants, budget officers, cashiers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, and such other reports as may be necessary for the exercise of its function.”
+
+
+
+	2)	Meanwhile, Section 60, Chapter 19 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, provides among others the deadlines on the submission of financial reports, to wit:
+
+
+
+Sec. 60. Deadline on Submission of Reports. All NGAs shall prepare and submit the following financial statements and schedules as follows, within the prescribed deadline:		
+
+	a)	xxx
+
+a)	xxx
+
+b)	Central/Head Main Offices
+
+
+
+Entity/Office
+
+Statement/Report
+
+Deadline
+
+Submit to:
+
+Monthly 
+
+TBs and SSs 
+
+Ten days after the end of the month 
+
+Auditor, DBM, Management 
+
+Quarterly 
+
+TBs, FSs, SSs 
+
+Ten days after the end of the quarter 
+
+Auditor, DBM, Management 
+
+Year-end 
+
+TBs, FS, SSs (combined CO, ROs and OUs) 
+
+February 14 of the following year 
+
+COA Auditor, DBM, COA-GAS 
+
+ 	Legend: TB – Trial Balance
+
+	  		 FS – Financial Statement
+
+			SS – Supporting Schedule
+
+	3)	In addition, Section 7, Chapter 21 of the same GAM provides that the Chief Accountant shall submit the BRS within 20 days after receipt of the monthly bank statement to the COA Auditor, Head of Agency and Bank.
+
+
+
+	4)	Monitoring on the University’s submission of financial reports for CY 2020 disclosed that trial balances were not submitted monthly or a delay ranging from  21 to 325 calendar days while quarterly financial statements for all funds were not submitted to the Office of the Auditor in a timely manner or a delay of 38 to 82 days, as shown in the table below: 
+
+
+
+Period Covered
+
+Deadline for Submission
+
+Date Submitted
+
+No. of Days Delayed
+
+Monthly Trial Balance
+
+January 2020
+
+2/10/2020
+
+x
+
+*325
+
+February 2020
+
+3/10/2020
+
+x
+
+*296
+
+March 2020
+
+4/10/2020
+
+06/15/2020
+
+66
+
+April 2020
+
+5/10/2020
+
+x
+
+*235
+
+May 2020
+
+6/10/2020
+
+x
+
+*204
+
+June 2020
+
+7/10/2020
+
+08/17/2020
+
+38
+
+July 2020
+
+8/10/2020
+
+x
+
+*143
+
+August 2020
+
+9/10/2020
+
+x
+
+*112
+
+September 2020
+
+10/10/2020
+
+x
+
+*82
+
+October 2020
+
+11/10/2020
+
+x
+
+*51
+
+November 2020
+
+12/10/2020
+
+x
+
+*21
+
+December 2020
+
+1/10/2021
+
+x
+
+
+
+Quarterly Financial Statements
+
+1st Quarter 
+
+04/10/2020
+
+06/15/2020
+
+66
+
+2nd Quarter 
+
+07/10/2020
+
+08/17/2020
+
+38
+
+3rd Quarter 
+
+10/10/2020
+
+2/16/2021
+
+129
+
+4th Quarter;
+
+Year-end FS
+
+01/10/2021
+
+2/14/2021
+
+2/16/2021
+
+ 37
+
+*As of 12/31/2020
+
+
+
+
+
+
+
+
+
+
+
+	5)	Likewise, the monthly Bank Reconciliation Statements (BRS) and supporting documents were also not submitted to COA as follows:
+
+
+
+Fund
+
+Period of BRS not yet Submitted
+
+GAA
+
+October to December 2020
+
+STF
+
+July to December 2020
+
+IGP
+
+July to December 2020
+
+TF
+
+October to December 2020
+
+TES
+
+October to December 2020
+
+LIAP
+
+July to December 2020
+
+STF SHS VP
+
+July to December 2020
+
+STUFAP / SAFE
+
+July to December 2020
+
+SSPC
+
+January to December 2020
+
+
+
+	6)		The Audit Team had requested for the submission of reports last January 11, 2021 specifically the financial statements.  The Accounting Unit partially complied with our request, however, as of January 29, 2021, the reports were not yet completely submitted. 
+
+
+
+	7)	During interview, the concerned Accounting personnel disclosed that delayed submission for the 1st and 2nd quarters financial statements were due to the delayed submission of disbursement vouchers by the Cashiering Unit to the Accounting Unit which hindered the timely preparation of journal entry vouchers. Moreover, they explained that the Accounting’s electronic reporting system broke down last November 2020 and was restored only on December 2020 which contributed further to more report backlogs. Likewise, delay in the preparation of bank reconciliation statements was due to the delay releases of bank statements by the depository bank, especially during the COVID-19 pandemic.
+
+
+
+	8)	The University’s depository bank is Landbank of the Philippines, however, inquiry revealed that the University and its Campuses were not yet enrolled in the Landbank’s weAccess internet banking facility which allows clients to make selected banking transactions online such as but not limited to: inquire and view available account, view current and previous transactions based on a selected transaction type, amount and date range and print or download account statement for the current and previous months’ transactions.
+
+
+
+	9)	Had the University enroll in the Landbank’s weAccess facility, bank reconciliation statements could have been prepared and submitted on time thereby ensuring reconciliation and accuracy of cash balances reported in the financial statements. 
+
+
+
+	10)	The delay in the submission of quarterly financial reports as well as the bank reconciliation statements to the Office of the Auditor was a departure from the foregoing rules and regulations, thus, review of the reports was delayed and errors in the financial statements and account balances, if any, could not be detected and corrected immediately. Likewise, it defeated the purpose of providing timely and relevant information to the intended users of the reports in making decisions.
+
+
+
+	11)	We recommended that Management:
+
+
+
+--	Require the Accountant to strictly comply with Section 122 of PD No. 1445, Section 60, Chapter 19 and Section 7, Chapter 21 of the GAM, Volume I, in the submission of the financial reports to the Commission to facilitate the timely audit of the account balance; and
+
+
+
+--	Coordinate with the University’s Landbank depository branch and comply with the required enrollment forms and other documentary requirements for the enrollment in LANDBANK weAccess facility.
+
+
+
+	Management comment(s)
+
+
+
+	12)	During the exit conference, the Management committed to submit immediately the overdue financial statements and bank reconciliation statements. Likewise, the Accountant was directed to comply with the legal deadlines of submission of reports.
+
+
+
+
+
+Delayed Submission of Disbursement Vouchers
+
+	
+
+14)	Disbursement vouchers (DVs) and duplicate copy of official receipts (ORs) together with its supporting documents were not submitted to the Office of the Auditor within the prescribed period as required contrary to Section 7 of COA Circular No. 94-001, and Section 7.2.1(a), Chapter I of the 2009 RRSA, casting doubts on the validity and propriety of the transactions and precluding the Audit Team from the timely audit and review of the transactions and communication of audit results.
+
+
+
+	1)	Section 7 of COA Circular No. 94-001 dated January 20, 1994 mandates for accountable officers to submit within five days after the end of each month, reports of collections and/or DVs and other required reports to the Chief accountant, bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency for recording in the books of accounts. 
+
+
+
+	2)	On the other hand, Section 7.2.1(a), Chapter I of the 2009 RRSA states that “The reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the auditor within the first 10 days of the ensuing month.”
+
+
+
+	3)	Monitoring on the submission of reports of the University revealed that disbursement vouchers were not submitted to the Audit Team in a timely manner or a delay ranging from 48 to 102 days (Annex H).
+
+
+
+	4)	Moreover, the following transaction documents aggregating ₱287,881,283.72 remained unsubmitted, to wit:
+
+
+
+Fund
+
+Period DVs Not Yet Submitted
+
+ADA Disbursements
+
+Check Disbursements
+
+Total
+
+General Fund (MDS)
+
+ 
+
+September to December 2020
+
+131,892,432.95
+
+90,235,883.42
+
+222,128,316.37
+
+Special Trust Fund (STF)
+
+ 
+
+November to December 2020
+
+10,176,043.41
+
+9,625,254.68
+
+19,801,298.09
+
+Trust Fund (TF)
+
+ 
+
+ 
+
+September to December 2020
+
+939,268.91
+
+7,461,318.57
+
+8,400,587.48
+
+Income Generating Projects (IGP)
+
+December 2020
+
+226,845.11
+
+28,326.73
+
+255,171.84
+
+Tertiary Education Subsidy (TES)
+
+August to December 2020
+
+563,332.77
+
+36,732,577.17
+
+37,295,909.94
+
+Total
+
+143,797,923.15
+
+144,083,360.57
+
+287,881,283.72
+
+
+
+	5)	Likewise, duplicate copy of official receipts, and validated deposit slips together with the monthly Report of Collections and Deposits (RCD) were also not submitted to the Auditor totaling ₱1,073,522.75:
+
+
+
+Fund
+
+Period ORs Not Yet Submitted
+
+Official Receipts
+
+
+
+
+
+Quantity
+
+Amount
+
+GAA/MDS
+
+September to December 2020
+
+8
+
+₱  227,234.75
+
+STF
+
+December 2020
+
+276
+
+548,259.08 
+
+IGP
+
+December 2020
+
+22
+
+20,200.00 
+
+TF
+
+November to December 2020
+
+1
+
+39,288.00
+
+TES 
+
+November to December 2020
+
+5
+
+800,000.00
+
+STUFAP
+
+December 2020
+
+1
+
+1,000.00
+
+Auxiliary
+
+December 2020
+
+2
+
+6,000.00
+
+Total
+
+
+
+₱1,073,522.75
+
+
+
+	6)	Interview with the concerned Accountant revealed that the reason for the backlogs and delayed submission of the required reports was due to COVID-19 pandemic health protocols and travel restrictions of which the University had adopted work from home and skeletal workforce as  alternative work arrangement in compliance with the Inter-Agency Task Force (IATF) and Civil Service Commission (CSC) that only a maximum of fifty-percent (50%) operational capacity was allowed during the implementation of the enhanced community quarantine.
+
+
+
+	7)	The delay in the submission of the above-mentioned reports to the Office of the Auditor was a departure from the foregoing rules and regulations, thus, casting doubts on the validity and propriety of the transactions and precluding the Audit Team from the timely audit and review of the transactions and communication of audit results.
+
+
+
+
+
+	8)	We recommended that Management:
+
+
+
+--	Direct the concerned Cashier to submit within five days after the end of each month the DVs together with its supporting documents, to the Accountant. Accordingly, the Accountant shall immediately record the submitted reports and documents in the books of accounts and submit the same to the Auditor within the first 10 days of the ensuing month; and 
+
+
+
+--	Submit immediately all DVs and ORs for the covering period as listed in the above table, together with its supporting documents for the conduct of auditorial review.
+
+
+
+	Management comment(s)
+
+
+
+	9)	The Management acknowledged the foregoing observation and committed to implement the audit recommendations.
+
+
+
+
+
+Gender and Development 
+
+
+
+15)	For CY 2020, the University had total appropriations of ₱438,019,000.00 as indicated in its FY 2020 GAA. Of the total appropriations, ₱166,855,700.00 or 38.09 percent was allotted for GAD programs, projects, and activities to address identified gender issues, as incorporated in their GAD Plan and Budget (GPB) for CY 2020. Moreover, the GAD Accomplishment Report (AR) of the University, which was still under the review by the CHED Regional Office No. XIII when the GAD AR was submitted to the Office of the Auditor, showed that only ₱143,041,796.53 or 85.73 percent of the total amount allotted was utilized as shown below:
+
+		
+
+	Total Appropriations
+
+	₱       438,019,000.00
+
+	Approved GAD Budget per GPB
+
+	₱       166,855,700.00
+
+	Percentage to Total Appropriations
+
+	38.09%
+
+	Actual Expenditures per GAD AR
+
+	₱      143,041,796.53
+
+	Percentage of Utilization to Approved GAD Budget
+
+	85.73%
+
+	Percentage of Utilization to Total Appropriations
+
+	32.66%
+
+
+
+16)	Further comparison of the GAD PB vis-à-vis GAD AR revealed the following:
+
+
+
+Attributions
+
+No. of GAD Activities
+
+GAD Expenditures
+
+
+
+Planned
+
+Conducted
+
+Not Conducted
+
+Budgeted
+
+Actual Expenditures
+
+Underutilization
+
+Activities
+
+Client Focused
+
+7
+
+4
+
+3
+
+163,500,000.00
+
+142,636,553.53
+
+20,863,446.47
+
+Organization Focused
+
+11
+
+6
+
+5
+
+3,355,700.00
+
+405,243.00
+
+2,950,457.00
+
+Total
+
+18
+
+10
+
+8
+
+166,855,700.00
+
+143,041,796.53
+
+23,813,903.47
+
+Percentage to Budgeted
+
+100%
+
+55.56%
+
+44.44%
+
+100%
+
+85.73%
+
+14.27%
+
+
+
+17)	As shown in the foregoing table, the University was only able to conduct 10 of the 18 planned GAD Client and Organization Focused Activities resulting in actual expenditures of only ₱143,041,796.53 or 85.73 percent of the budgeted amount. 
+
+
+
+18)	Management commented that most of the activities were cancelled due to the restrictions caused by the COVID-19 pandemic. As a result, the College could not fully utilize the budget since most activities/sessions were conducted on an in-house or online setup, thereby translating to less expenditures.
+
+
+
+
+
+B)	Value for Money Audit
+
+
+
+Uneconomical Purchase of Plane Tickets 
+
+	
+
+19)	Due to lack of adequate planning, airline tickets were purchased on or before the actual date of travels of the University’s officials and employees of which airfares were more expensive than those purchased days or weeks before the activity, thus, resulted in inefficient and uneconomic usage of government funds. Moreover, purchase of the same from a travel agency was priced higher by ₱1,229.40 to ₱8,833.44 or an average of 36.53 percent compared when purchasing directly from airline companies, thus not advantageous to the government.
+
+
+
+	1)	Section 2 of the Presidential Decree No. 1445 provides that “It is the declared policy of the State that all resources of the government shall be managed, expended or utilized in accordance with law and regulations, and safeguarded against loss or wastage through illegal or improper disposition, with a view to ensuring efficiency, economy and effectiveness in the operations of government. The responsibility to take care that such policy is faithfully adhered to rests directly with the chief or head of the government agency concerned.”
+
+
+
+	2)	Section 7 of the Implementing Rules and Regulations (IRR) of Republic Act No, 9184 prescribed the rules and regulations for all procurement activities of the government and states that all procurement should be within the approved budget of the procuring entity and should be meticulously and judiciously planned by the procuring entity concerned. 
+
+
+
+	3)	Section 3 of the Executive Order No. 77 dated March 15, 2019 prescribed the rules and regulations of local and foreign travels of government personnel states that all officials authorized to approve local or overseas travels are required, as far as practicable, to minimize travel cost. Hence, all forms of communications, such as, but not limited to teleconferencing and videoconference or submission of briefs and position papers, as alternative to travel, must be explored, provided, these do not compromise national security and confidentiality of official communications.
+
+
+
+	4)	Audit revealed that from January to April 2020, the University paid plane tickets to a travel agency for domestic travels of its officials, employees, consultants and resource speakers totaling ₱512,432.80. Evaluation of the transactions disclosed that these airfare tickets were mostly booked/purchased on or before their actual date of travel; hence, prices were relatively high (Appendix I).
+
+
+
+	5)	Scrutiny of the supporting documents disclosed that the purchase request and booking dates were close to the actual date of activity. Further, verification on the dates of the approval/issuance of authority to travel by the Agency Head to the concerned personnel showed that all travel orders (TO) were not dated. Thus, whether TO was approved early on or issued delayed, which may affect the timeframe for the procurement for the airline tickets, cannot be established.
+
+
+
+	6)	Moreover, the audit team conducted initial online verification of the paid itinerary receipts of personnel’s plane tickets using the booking reference and passenger’s last name. Results of confirmation disclosed that the plane tickets were much higher that the ticket prices stated in the itinerary receipts generated online under the Cebu Pacific’s (CEB) website with a mark-up of ₱1,229.40 to ₱8,833.44 or an average of 36.53%, derived as follows:
+
+
+
+Plane Fares of Travel Agency vs CEB Website
+
+Check/ADA Date
+
+Check/ADA No.
+
+Booking No.
+
+ Amount of Plane Fares per Travel Agency (A) 
+
+ Actual Amount per Cebu Pacific Website ( B ) 
+
+Difference (A-B)
+
+Percentage
+
+1/22/2020
+
+ADA-20-1-005
+
+DJKLTK
+
+11,833.00
+
+8,326.48
+
+3,506.52
+
+42.11%
+
+
+
+
+
+GE8CPM
+
+11,833.00
+
+7,903.12
+
+3,929.88
+
+49.73%
+
+
+
+
+
+FLKS7R
+
+11,833.00
+
+8,474.32
+
+3,358.68
+
+39.63%
+
+
+
+
+
+SCRS4C
+
+11,833.00
+
+8,251.44
+
+3,581.56
+
+43.41%
+
+
+
+
+
+CD247M
+
+11,833.00
+
+8,474.32
+
+3,358.68
+
+39.63%
+
+
+
+
+
+GLP7NE
+
+11,833.00
+
+8,698.32
+
+3,134.68
+
+36.04%
+
+
+
+
+
+IB4WJV
+
+11,833.00
+
+8,698.32
+
+3,134.68
+
+36.04%
+
+
+
+
+
+DEVSRJ
+
+11,833.00
+
+9,819.44
+
+2,013.56
+
+20.51%
+
+1/22/2020
+
+ADA-20-1-005
+
+ZDHVRS
+
+9,560.00
+
+8,430.60
+
+1,129.40
+
+13.40%
+
+2/6/2020
+
+ADA-20-2-007
+
+D9SBMY
+
+16,980.00
+
+13,904.68
+
+3,075.32
+
+22.12%
+
+
+
+
+
+KMLIKR
+
+16,980.00
+
+13,904.68
+
+3,075.32
+
+22.12%
+
+
+
+
+
+I9DEFL
+
+5,860.00
+
+3,643.40
+
+2,216.60
+
+60.84%
+
+
+
+
+
+JI4ZFA
+
+14,577.80
+
+11,731.88
+
+2,845.92
+
+24.26%
+
+2/6/2020
+
+ADA-2-025
+
+UGUC6T
+
+27,560.00
+
+18,726.56
+
+8,833.44
+
+47.17%
+
+2/10/2020
+
+ADA-20-2-035
+
+YJ7LTQ
+
+6,503.00
+
+4,253.72
+
+2,249.28
+
+52.88%
+
+4/7/2020
+
+ADA-20-4-092
+
+NB65VY
+
+8,960.00
+
+6,657.16
+
+2,302.84
+
+34.59%
+
+Average
+
+51,746.36
+
+36.53%
+
+
+
+	7)	The above confirmed plane tickets pertained only to those purchased from Cebu Pacific since booking information of passengers are not available in other airline websites. Therefore, the difference may probably be higher if plane tickets from other airlines are accounted for.
+
+
+
+	8)	Inquiry with Management disclosed that most of the travels were urgent in nature and some activities were rescheduled due to circumstances beyond their control which resulted in purchasing airfare tickets on or before their actual travel dates or activities. 
+
+
+
+	9)	As can be gleaned in Annex I, purposes of travels were mainly to conduct post qualification of the lowest calculated bidder, submit documents, confer legal matters, attend trainings and airfares of lecturers/consultant/resource speakers. The said activities may not be deemed considered as urgent in nature as these needs adequate planning including the approval of budget, activity design and the determination of appropriate personnel to travel. Accordingly, had adequate planning been done, airfares could have been acquired earlier at a lower price and the best price for the government could have been availed of. 
+
+
+
+	10)	Due to lack of adequate planning, airline tickets were purchased on or before actual date of activity of which airfares were more expensive than those purchased days or weeks before actual travel of the University’s officials and employees, thus, resulted to inefficient and uneconomic usage of government funds. Moreover, purchase of the same from a travel agency was priced higher by ₱1,229.40 to ₱8,833.44 or an average of 36.53 percent compared when purchasing directly from airline companies, thus not advantageous to the government.
+
+
+
+	11)	We recommended that Management:
+
+
+
+--	Direct the personnel in-charged to develop or strengthen measures over the planning and budgeting so that airline tickets are acquired days or weeks before the actual activity to obtain the most advantageous price for the government and minimize travel cost; 
+
+
+
+--	Provide complete information in the Travel Orders such as date and control number and any other relevant information; and
+
+--	Consider purchasing airfares for official travels directly from the airline companies instead of engaging the services of travel agencies to save on travel cost and generate savings for the government.
+
+	
+
+	Management comment(s)
+
+
+
+	12)	The Management committed to implement the audit recommendations and assured that purchase of plane tickets will be made directly to the airline companies.
+
+
+
+
+
+C)	Other Audit Areas
+
+
+
+Compliance with Tax Laws
+
+
+
+20)	The University has only partly complied with existing tax laws and revenue regulations of the Bureau of Internal Revenue (BIR). There were several delays in the remittance of taxes to the BIR during the year. Taxes withheld and remitted during the year is summarized below: 
+
+
+
+Balance, January 1, 2020 
+
+
+
+
+
+10,657,519.71 
+
+Add (Deduct): 
+
+
+
+
+
+
+
+
+
+Withheld 
+
+
+
+
+
+
+
+
+
+
+
+Income Taxes Withheld on Compensation 
+
+21,846,358.81 
+
+
+
+
+
+
+
+
+
+Creditable Income Taxes Withheld (Expanded) 
+
+4,486,800.80 
+
+
+
+
+
+
+
+
+
+Value Added Taxes and Other Percentage Taxes 
+
+13,376,251.21 
+
+
+
+
+
+
+
+
+
+Documentary Stamp Tax 
+
+0.00 
+
+
+
+39,709,410.82 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remitted 
+
+
+
+
+
+
+
+
+
+
+
+Income Taxes Withheld on Compensation
+
+23,270,480.97 
+
+
+
+
+
+
+
+
+
+Creditable Income Taxes Withheld (Expanded)
+
+4,743,877.42 
+
+
+
+
+
+
+
+
+
+Value Added Taxes and Other Percentage Taxes
+
+14,717,767.29 
+
+
+
+
+
+
+
+
+
+Documentary Stamp Tax
+
+0.00 
+
+ 
+
+  (42,732,125.68)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Balance, December 31, 2020 
+
+
+
+
+
+7,634,804.85 
+
+
+
+21)	Of the balance, ₱6,187,136.03 was remitted to the BIR on January 2021 while the remaining balance of ₱1,447,668.82 is still to be remitted.
+
+
+
+
+
+
+
+
+
+
+
+Mandatory Remittances to GSIS, HDMF, and PhilHealth 
+
+
+
+22)	During the year, the amount withheld from the salaries of the officers and employees for their premium contributions and loans repayment as well as the amount remitted thereof to the respective agencies were as follows: 
+
+
+
+
+
+Due to GSIS
+
+Due to Pag-IBIG
+
+Due to PhilHealth
+
+Balance, January 1, 2020 
+
+  1,251,676.57 
+
+           143,721.04 
+
+ (22,067.51)
+
+Withheld
+
+26,884,071.47 
+
+        4,785,407.37 
+
+2,439,100.08 
+
+Remitted
+
+27,382,213.84 
+
+        4,880,422.39 
+
+  2,479,490.52 
+
+Balance, December 31,2020 
+
+     753,534.20 
+
+             48,706.02 
+
+     (62,457.95)
+
+
+
+23)	The year-end balance of the Due to GSIS and Pag-IBIG accounts as well as the abnormal balance of the account Due to PhilHealth were errors from prior years which are still subject for reconciliation by the Accounting Unit.
+
+
+
+
+
+Official Development Assistance (ODA) Loans
+
+
+
+22.	The University was not a recipient of ODA loan in CY 2020 as shown in the certification of the Accountant attached herein as Annex J. 
+
+
+
+
+
+Disbursement Acceleration Program (DAP) / Priority Development Assistance Fund (PDAF) 
+
+
+
+23.	The University did not receive any DAP/PDAF funding during the year as shown in the certification of the Accountant attached herein as Annex K.
+
+
+
+Senior Citizen/Differently-abled Programs/Projects 
+
+
+
+24.	The University had substantially complied with Section 32 of the General Provisions of the General Appropriations Act for Fiscal Year 2020 as most buildings constructed in CY 2020 incorporated structural features and designs that reasonably enhanced the mobility, safety, and welfare of senior citizens and persons with disability. 
+
+
+
+
+
+Status of Notice of Suspensions, Disallowances and Charges
+
+
+
+25.	The table below shows the total disallowances issued to the six SDSSU campuses as of December 31, 2020:
+
+
+
+Campus
+
+Amount
+
+Tandag Main Campus
+
+₱    2,158,591.52
+
+Cantilan Campus
+
+1,094,478.28
+
+Lianga Campus
+
+310,600.00
+
+Tagbina Campus
+
+42,000.00
+
+San Miguel Campus
+
+146,200.00
+
+Cagwait Campus
+
+17,800.00
+
+TOTAL
+
+₱    3,769,669.80
+
+
+
+25.	Likewise, there was no unsettled balance of audit suspension and charge as of              December 31, 2020. Likewise, there was also no Notice of Suspension and Notice of Charge issued during the year.
+
+
+
+
+
+41
+
+
+
+
+
+
+
+
+
+
+
+footnote1)	
+
+ Page 28, National Government Internal Control System
+
+footnote2)	
+
+Page 27, Chapter 3:Components of Internal Control, National Guidelines on Internal Control Systems (NGICS)
+
+
+

@@ -1,0 +1,3571 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+39 
+
+ 
+
+OBSERVATIONS AND RECOMMENDATIONS 
+ 
+
+ 
+
+A. Financial and Compliance Audit 
+ 
+
+Unreliable cash in bank account balances  
+
+ 
+
+1. The account Cash in Bank-Local Currency, Current Account (LCCA) balance 
+of ₱749,782,640.24 was understated by ₱2,557,147.82 due to (a) ₱1,340,527.16 
+
+unadjusted net of book reconciling items from CYs 2014 to 2020, and (b) 
+
+₱1,216,620.66 stale checks that were not cancelled and reverted back to the 
+
+cash account and correspondingly, the appropriate liability account was not 
+
+recognized affecting the fair presentation of the accounts Cash in Bank–LCCA 
+
+and the Accounts Payable. 
+
+ 
+
+Section 7, Chapter 19, Volume I of the GAM state that financial statements 
+
+shall present fairly the financial position of an entity. Fair presentation requires the 
+
+faithful representation of the effects of transactions, other events, and conditions in 
+
+accordance with the definitions and recognition criteria of assets, liabilities, 
+
+revenue, and expenses set out in International Public Sector Accounting Standards 
+
+(IPSAS). 
+
+ 
+
+a) Book reconciling items not recorded 
+ 
+
+Section 6, Chapter 21, Volume I of the GAM requires the Chief 
+
+Accountant/Designated Staff to prepare a Journal Entry Voucher (JEV) to recognize 
+
+all reconciling items that require adjustment and correction in the books of accounts.  
+
+ 
+
+Verification of the Bank Reconciliation Statements (BRSs) revealed 
+
+unadjusted net   reconciling items of ₱1,340,527.16 from CYs 2014 to 2020 
+
+affecting four bank accounts, which remain unrecognized in the books of PSC as of 
+
+December 31, 2020, as summarized below: 
+
+ 
+
+Particulars Total (₱) 
+
+Credit memos (April 2014 to March 2017) 3,619,977.39 
+
+Unrecorded receipts (May 2017 to December 2020) 7,517,355.16 
+
+Intraoffice (IOATS-intra bank transfer) (11/17/2017) 3,000.00 
+
+Cash deposit (no date) 2,500.00 
+
+Unrecorded collections (2015 to 2018) 3,134,787.28 
+
+     Understatement 14,277,619.83 
+
+Debit memos (June 2014 to March 2017)   (2,990,530.44) 
+
+Unrecorded disbursements (June 2017 to November 2020) (2,109,841.37) 
+
+Unrecorded transfer to other account   (5,500,000.00) 
+
+Letter of Credits (LCs) in November 2016 to August 2017       (65,754.77) 
+
+Intra Office GL Deduction        (34,756.12) 
+
+Debit account against GL intra (2018)          (3,630.47) 
+
+
+
+40 
+
+Particulars Total (₱) 
+
+Over the counter (OTC) bill payment (LCs in 2019 to 2020) (2,229,663.00) 
+
+Bank/service charges          (2,916.50) 
+
+     Overstatement (12,937,092.67) 
+
+Net understatement     1,340,527.16  
+
+ 
+
+Inquiry disclosed that there were already adjustments that recorded 
+
+reconciling items, except for the above transactions due to the absence of documents 
+
+from the banks to support said debit and credit memos. Several official 
+
+communications were sent to the banks requesting for the submission of the 
+
+supporting documents; however, the agency was informed that these transactions 
+
+originated from different branches. Thus, it was advised to directly send the requests 
+
+to the originating bank branches. 
+
+ 
+
+Similarly, remaining documents pertaining to the Letter of Credits from 
+
+2016 to 2017 were not yet submitted by the Procurement Office to the Accounting 
+
+Division. While the Legal Affairs Office is currently locating the whereabouts of the 
+
+relevant documents for the LCs from 2019 to 2020. 
+
+ 
+
+b) Non-cancellation of stale checks 
+ 
+
+Section 44, Chapter 6, Volume I of the GAM provides that checks may be 
+
+cancelled when they become stale, voided or spoiled. The depository bank considers 
+
+a check stale, if it has been outstanding for over six months from date of issue or as 
+
+prescribed. 
+
+ 
+
+Review of the BRS for LBP Account No. 1772103243 revealed that stale 
+
+checks totaling ₱1,216,620.66, as summarized below, were still included as 
+
+outstanding checks and were not cancelled and/or restored to the Cash in Bank-
+
+LCCA account: 
+
+ 
+Check date Check no. Payee  Amount (₱) 
+
+08/04/2016 348856 Mark Escarlote            7,000.00  
+
+06/03/2017 369680 Warren Velasco          26,880.00  
+
+09/13/2017 371234 Mark Griffin          60,000.00  
+
+10/01/2018 385940 PLDT, Inc.            4,290.72  
+
+10/01/2018 385941 PLDT, Inc.            7,875.00  
+
+12/13/2018 410996 Manila Water Company, Inc.        126,856.65  
+
+01/28/2019 411430 Celia H. Kiram          19,869.79  
+
+07/30/2019 415779 Princess Jewel Dolar            7,702.50  
+
+08/15/2019 416115 Rhodalyn Martinez               189.50  
+
+08/15/2019 416118 Maria Clarissa Bañares               144.00  
+
+08/30/2019 416380 Stephen Suazo          18,095.00  
+
+12/17/2019 429837 Monica Estelle Chernoff          15,000.00  
+
+12/17/2019 429843 Nadian Paquin          15,000.00  
+
+12/17/2019 430113 Nakano Keisei          60,000.00  
+
+01/07/2020 436684 Reuben Ezra Terreado            2,000.00  
+
+
+
+41 
+
+Check date Check no. Payee  Amount (₱) 
+
+01/17/2020 437088 Mary Jane Paaño               750.00  
+
+02/18/2020 437097 Okay Arpa          89,250.00  
+
+02/19/2020 437106 Kaiwen Gao        126,526.00  
+
+02/19/2020 437147 Kaiwen Gao        187,608.75  
+
+02/19/2020 437148 Julius Irvin        187,608.75  
+
+02/20/2020 437170 Ana Margarita Gordovez            3,750.00  
+
+03/09/2020 437498 Joyce Gail Reboton          29,355.00  
+
+03/09/2020 438034 Kugimiya Munehiro        220,869.00  
+
+Total     1,216,620.66  
+
+ 
+
+The Accounting personnel commented that some of the payees are already 
+
+based in other countries; hence, they must have forgotten to encash their claimed 
+
+checks. Inquiry with the Cashier also claimed that they are having difficulty 
+
+communicating with the payees due to unavailability of contact numbers. 
+
+ 
+
+The non-adjustment of the book reconciling items of ₱1,340,527.16 and 
+
+the non-restoration to the cash account of stale checks worth ₱1,216,620.66 
+
+understated the account Cash in Bank–LCCA by ₱2,557,147.82 and the Accounts 
+
+Payable by ₱1,216,620.66, affecting the fair presentation of the accounts Cash in 
+
+Bank-LCCA and the Accounts Payable. 
+
+ 
+
+We recommended and Management agreed to require the Accounting Division 
+
+to: 
+
+ 
+
+a. request from the respective bank branches the pertinent documents to 
+support the credit and debit memos; 
+
+ 
+
+b. prepare and provide the Procurement Office and Legal Affairs Office a 
+summary/list of the unrecorded LCs to facilitate their tracing of the 
+
+relevant documents; hence, be able to submit to the Accounting Division 
+
+and 
+
+ 
+
+c.       prepare the necessary adjusting journal entries to record the fully 
+supported reconciling items, and restore to the cash account and payables 
+
+the stale checks. 
+
+ 
+
+ 
+
+Unreliable Due from National Government Agencies (NGAs) account 
+
+ 
+
+2. The year-end balance of the account Due from NGAs totaling ₱242,338,574.99 
+is unreliable due to a difference of ₱208,315,146.25 between the agency’s Due 
+
+from NGAs (PS-DBM) of ₱241,026,422.85 and the PS-DBM’s confirmation 
+
+amount of ₱32,711,276.60. Moreover, a total of ₱452,152.14 from prior years 
+
+was not supported with SL, precluding review of its validity. 
+
+
+
+42 
+
+Section 6, Chapter 19, Volume I of the GAM enumerates the qualitative 
+
+characteristics of financial reporting, where Section 6(e) states “Reliability - reliable 
+
+information is free from material error and bias, and can be depended on by users to 
+
+represent faithfully that which it purports to represent or could reasonably be 
+
+expected to represent.” 
+
+The account Due from NGAs totaled ₱242,338,574.99, as follows: 
+
+ 
+
+Particulars Amount (₱) 
+
+Due from PS DBM  241,026,422.85 
+
+Department of Education (DepEd) 560,000.00 
+
+AFP Finance Center 300,000.00 
+
+Unsupported (prior year) 452,152.14 
+
+Total 242,338,574.99 
+
+ 
+
+a) Difference between agency’s Due from NGAs-PS-DBM and the PS-DBM’s 
+confirmation amount 
+
+ 
+
+Comparison of the Due from NGAs balance per accounting records with 
+
+the confirmation reply from the PS-DBM showed a difference of ₱208,315,146.25, 
+
+as shown below: 
+
+ 
+No. of 
+
+checks 
+
+Year 
+
+issued 
+Particulars  Amount (₱)  
+
+15 2016 Microsoft license, computers, ink cartridge, 
+
+cleaning supplies 
+
+1,557,808.82 
+
+10 2017 Cleaning supplies, airline tickets, computer, 24,460,751.49 
+
+4 2018 Various office supplies for property stocking, 
+
+airline tickets 
+
+19,356,175.11 
+
+15 2019 Various office supplies for Batang Pinoy and 
+
+SEA Games, airline tickets 
+
+193,391,776.15 
+
+3 2020 Microsoft license, face shields 2,259,941.28 
+
+Balance per Accounting Division 241,026,422.85 
+
+Less: Balance per PS-DBM   32,711,276.60  
+
+Difference 208,315,146.25  
+
+ 
+
+The discrepancy casts doubt on the reliability and accuracy of the account 
+
+Due from NGAs as of report date. 
+
+ 
+
+Management explained that there was a delay in the reconciliation due to 
+
+the COVID-19 pandemic wherein skeletal workforce was being observed. Also, 
+
+there were instances that some personnel were on quarantine. 
+
+ 
+
+Meanwhile, the DepEd - Region XI responded on February 12, 2020 to the 
+
+Audit Team’s demand letter on the liquidation of the transferred ₱560,000.00 under 
+
+Check No. 411150 dated January 7, 2019. The DepEd - Region XI claimed that the 
+
+
+
+43 
+
+whole amount was fully utilized on May 14, 2019, however, the liquidation reports 
+
+were not yet submitted to PSC Accounting Division. 
+
+ 
+
+b) Unsupported balance of ₱452,152.14 
+ 
+
+The General Ledger (GL) is the book of final entry containing the totals of 
+
+special journals (journals designed to record transactions which are repetitive in 
+
+nature) and individual entries that are directly posted in the account. On the other 
+
+hand, the Subsidiary Ledger (SL) is the book of final entry containing the details or 
+
+breakdown of the balance of the controlling account appearing in the GL. The totals 
+
+of the SL balances shall be reconciled with their respective control account regularly 
+
+or at the end of each month. 
+
+ 
+
+Verification revealed that a total of ₱452,152.14 from prior years could not 
+
+be accounted for due to the unavailability of SL, precluding review of its validity.  
+
+ 
+
+We recommended and Management agreed to require the: 
+
+ 
+
+a. Acting Chief Accountant and the Supply Officer to coordinate with the 
+PS-DBM for the reconciliation of the two records, and make the necessary 
+
+adjusting entries; and 
+
+ 
+
+b. Acting Chief Accountant to: 
+ 
+
+i. Demand from the DepEd - Region XI the submission of the liquidation 
+reports to settle the fund transfer of ₱560,000.00; and 
+
+ 
+
+ii. exert effort in locating and identifying the composition of the 
+unsupported prior year amount of ₱452,152.14 to be able to demand 
+
+settlement. 
+
+ 
+
+Management Comment: 
+
+ 
+
+The Acting Chief Accountant explained, during the exit conference, that they are in 
+
+constant coordination with both the Property and Supply Office and the Travel 
+
+Office for the submission of pertinent documents showing delivery of procured 
+
+items; hence, will be the basis for necessary adjustment in the books of accounts. 
+
+Immediate coordination with the DepEd - Region XI to submit the liquidation 
+
+report is also in process. 
+
+  
+
+ 
+
+Unreliable Due from Non-Government Organizations/Civil Society Organizations 
+
+(NGOs/CSOs) account 
+
+ 
+
+3. Errors in recording the liquidations of financial assistance (FA) resulted in the 
+understatement of the account Due from NGOs/CSOs by ₱3,597,763.53, and 
+
+
+
+44 
+
+crediting ₱1,198,528.52 to unrelated FA as of December 31, 2020. Moreover, a 
+
+huge amount aggregating ₱1,669,996,955.59 or 88.2 percent of the account’s 
+
+balance of ₱1,892,613,107.30 has long been outstanding, contrary to PSC 
+
+Board Resolution No. 316-2010 and Section 5.1 of COA Circular No. 2007-001, 
+
+casting doubt on the reliability of the account. 
+
+ 
+
+Financial reports should have reliable information that is free from material 
+
+error and bias, and can be depended on by users to represent faithfully that which it 
+
+purports to represent or could reasonably be expected to represent. (Section 6(e), 
+
+Chapter 19, Volume I of the GAM) 
+
+ 
+
+a) Errors in the recording of liquidations 
+ 
+
+Verification disclosed that the Due from NGOs/CSOs account showed a 
+
+balance of ₱1,892,613,107.30 as at December 31, 2020.  However, the subsidiary 
+
+ledgers (SLs) of NGOs showed errors in the recording of liquidations/refunds of the 
+
+FA understating the account by ₱3,597,763.53, and crediting a total of 
+
+₱1,198,528.52 to unrelated FA, with details shown below: 
+
+ 
+Payee (NGO) Liquidation/Refund 
+
+Date Reference Remarks Amount 
+
+Understatement Different FA 
+
+Amateur Softball Association 
+
+of the Philippines  
+
+02/06/2013 Ck No. 305881 Check/Refund 
+
+credited twice 
+
+  (1,609,761.62)   
+
+Dance Sport Council of the 
+
+Philippines Inc.   
+
+02/26/2015 OR No. 7392764 Excessive refund       (235,081.83)   
+
+Ernest John Obiena (Philippine 
+
+Amateur Track and Field 
+Association) 
+
+12/31/2020 JEV No. 20-12-
+
+2271 
+
+Other Receivables      (676,595.43)   
+
+Gymnastics Association of the 
+
+Philippines 
+
+06/30/2014 Ck No. 125901 Unrelated liquidation        (62,580.14)   
+
+Gymnastics Association of the 
+
+Philippines 
+
+02/21/2017 OR No. 7396866 Check/Refund 
+
+credited twice 
+
+       (10,422.00)   
+
+Phil Sea Games Organizational 
+
+Committee Foundation, Inc. 
+
+(PHISGOC) 
+
+12/02/2020 OR No.  3584702 Credited to different 
+
+FA within the 
+
+account 
+
+   (60,027.00) 
+
+PHISGOC 12/02/2020 OR No. 3584702 Credited to different 
+FA within the 
+
+account 
+
+ 
+ (20,512.66) 
+
+PHISGOC 05/20/2020 Ck No. 539069 Excessive liquidation       (420,192.60)   
+
+PHISGOC 05/20/2020 Ck No. 539080 Excessive liquidation         (66,528.00)   
+
+PHISGOC 08/27/2020 Ck No. 539948 Check/Refund 
+credited twice 
+
+       (80,000.00)   
+
+PHISGOC 09/02/2020 Ck No. 539972 Excessive liquidation                  (0.01)   
+
+Philippine Canoe Kayak 
+
+Federation  
+
+05/29/2019 Ck No. 414869 Excessive refund              (321.70)   
+
+Philippine Handball 
+Federation, Inc.  
+
+08/01/2012 Ck No. 287117 Unrelated liquidation          (2,820.31)   
+
+Philippine Sailing Association 08/00/2015 JEV No. 15-08-
+
+2239 
+
+Credited to different 
+
+FA within the 
+
+account 
+
+  (1,096,199.37) 
+
+Philippine Sailing Association 04/30/2015 OR No. 7392802 Credited to different 
+
+FA within the 
+
+account 
+
+ 
+     (15,000.63) 
+
+
+
+45 
+
+Payee (NGO) Liquidation/Refund 
+
+Date Reference Remarks Amount 
+
+Understatement Different FA 
+
+Philippine Sports Association. 
+
+for the Differently Abled 
+(PHILSPADA)-NPC 
+
+Philippines, Inc. 
+
+10/30/2012 Ck No. 287750 Unrelated liquidation      (156,651.00)   
+
+Philippine Squash Academy 
+
+Inc.  
+
+10/11/2018 JEV No. 19-05-
+
+1772 
+
+Reversal difference             (336.14)   
+
+Philippine Swimming Inc.  05/24/2012 Ck No. 286727 Unrelated liquidation        (82,831.75)   
+
+Philippine Tennis Association  02/26/2015 CRJ-NSA Excessive refund         (33,641.00)   
+
+Philippine Weightlifting 
+
+Association 
+
+10/31/2012 Ck No. 287760 Unrelated liquidation        (10,000.00)   
+
+Philippine Weightlifting 
+
+Association 
+
+10/20/2015 OR No. 7393900 Credited to different 
+
+FA within the 
+account 
+
+ 
+       (6,788.86) 
+
+Zamboanga City State 
+
+Polytechnic College 
+
+09/29/2020 Ck No. 3589467 Excessive refund       (150,000.00)   
+
+Total         (3,597,763.53) (1,198,528.52) 
+
+ 
+
+It is worth mentioning that a total of ₱4,347,701.15 has been adjusted in 
+
+March 2021. 
+
+ 
+
+b) Huge and long outstanding balances 
+ 
+
+PSC Board Resolution No. 316-2010 dated September 28, 2010 requires 
+
+that FA shall be liquidated within 30 days after completion of the purpose for which 
+
+it was given. This 30-day liquidation requirement is underpinned in the Affidavit of 
+
+Undertaking being signed by the President/Secretary General of the recipient NGO. 
+
+ 
+
+While Section 5.1 of COA Circular No. 2007-001 requires that NGOs shall 
+
+submit the required financial reports to the government organization as agreed upon 
+
+in a Memorandum of Agreement. 
+
+ 
+
+Review of the account showed that of the balance of ₱1,892,613,107.30 as 
+
+of December 31, 2020, a total of ₱1,669,996,955.59 or 88.2 per cent were already 
+
+due for liquidation, as summarized below:  
+
+ 
+Particulars  30 to 60 
+
+days   
+
+ < 1 year   1 to 5 years   6 to 9 years   10 years and 
+
+above  
+
+ Total 
+
+ (₱) 
+
+SEA Games 
+
+related FAs 
+
+                   -    1,346,734,145.69  167,030,609.03                     -                         -    1,513,764,754.72  
+
+Other FAs 8,325,200.00  8,506,509.80  87,936,137.49  4,263,949.48  47,200,404.10  156,232,200.87  
+
+     Total 8,325,200.00  1,355,240,655.49  254,966,746.52  4,263,949.48  47,200,404.10  1,669,996,955.59  
+
+ 
+
+As gleaned from the preceding Table, a total of ₱1,513,764,754.72 was for 
+
+the hosting of the 2019 SEA Games, but which displayed a significant decrease 
+
+compared to the outstanding balance of ₱2,161,698,182.14 as of December 31, 
+
+2019. 
+
+ 
+
+The Accounting personnel in-charge explained that they are currently 
+
+having difficulties in monitoring the FA and experiencing unavoidable delays in 
+
+
+
+46 
+
+processing the liquidation documents due to the skeletal workforce during the 
+
+community quarantines. They have been exerting utmost efforts in making follow 
+
+ups with the concerned NGOs for the submission of the required supporting 
+
+documents. Likewise, they are coordinating with the Legal Affairs Office for 
+
+appropriate legal action. 
+
+ 
+
+To determine the existence and accuracy of the account, confirmation 
+
+letters were sent out in March 2021.  Based on the replies, most of the outstanding 
+
+balances were recognized by the NGOs as pending liquidation or for refund, and 
+
+cited that they are still trying to complete the necessary documents despite the 
+
+community quarantines and claimed that the documents are being kept by the 
+
+athletes and coaches who are based abroad. 
+
+ 
+
+The rest of the confirmation replies, however, cited the following negative 
+
+responses:  
+
+ 
+No. of 
+
+Checks 
+
+Year issued Amount (₱) Responses 
+
+2 2004 & 2005 821,652.00 FAs were not recognized since 
+
+these were granted to the old 
+
+organization 
+
+1 2019      893,888.47  The outstanding balances were 
+
+different from their records 1 2018      451,000.00  
+
+1 2019   1,244,200.00  
+
+1 2019   1,101,117.00  
+
+3 2019   1,159,285.20  For refund 
+
+1 2016      391,242.31  Under litigation 
+
+22 2010; 2014; 
+
+2019 
+
+24,887,972.62 Already liquidated 
+
+ 
+
+We communicated said responses to the Accounting Division and they 
+
+explained, with no further details provided, that the liquidation documents submitted 
+
+by the National Sports Associations (NSAs) may still be subject for review. 
+
+ 
+
+The Audit Team believed that the processing of the liquidation documents 
+
+should have been prioritized since the FA were granted way back in CY 2010 to CY 
+
+2019. Also, those NGOs with refundable amounts should have already directly 
+
+deposited them to the bank account of the PSC; hence, could be used to support its 
+
+other programs. 
+
+ 
+
+The non-settlement by the NGOs of the FA within the deadline, in addition 
+
+to the delay of the Accounting Division in the processing of liquidation reports, 
+
+resulted in huge and long outstanding balances at year-end. Consequently, the PSC, 
+
+as well as the Audit Team, could not readily ascertain whether FA were utilized for 
+
+their intended purpose, in particular the SEA Games activities in CY 2019. 
+
+ 
+
+
+
+47 
+
+We recommended and Management agreed to require the: 
+
+ 
+
+a. pertinent NGOs to: 
+ 
+
+i. submit immediately the liquidation documents to the Accounting 
+Division; and 
+
+ 
+
+ii. refund the unutilized FA directly to the bank account of PSC or to the 
+Cashier’s Office, furnishing the Accounting Division a copy of the 
+
+deposit slip or Official Receipt thereof. 
+
+ 
+
+b. Accounting Division to: 
+ 
+
+i. immediately analyze the errors in the recording of the liquidations of 
+FA and prepare the necessary journal entries to correct the 
+
+misstatements; 
+
+ 
+
+ii. closely monitor the status of FA, and immediately process the 
+liquidation documents that were already in their possession;  
+
+ 
+
+iii. investigate the difference between the balances per accounting and 
+NGOs’ records; 
+
+ 
+
+iv. evaluate the NGOs’ reasons/justifications for their non-liquidation, 
+especially those outstanding for more than one year and those 
+
+dormant accounts; 
+
+ 
+
+v. examine other courses of action that maximize effort on the possible 
+settlement of dormant accounts; and 
+
+ 
+
+vi. if the remedies proved futile, request from COA for authority to 
+write-off dormant accounts, strictly in accordance with COA Circular 
+
+2016-005. 
+
+ 
+
+ 
+
+Unreliable Other Receivables account 
+
+ 
+
+4. Negative balances appearing in the SL of the account Other Receivables 
+totaling ₱13,996,193.24 is inconsistent with Section 112 of PD No. 1445, and 
+
+rendered the account, with a balance of ₱116,769,548.12 as at December 31, 
+
+2020, unreliable. 
+
+ 
+
+Section 112 of PD No. 1445 provides that each government agency shall 
+
+record its financial transactions and operations in conformity with generally 
+
+accepted accounting principles and in accordance with pertinent laws and 
+
+regulations.  
+
+
+
+48 
+
+ 
+
+Relatedly, sound accounting practice dictates that the normal balance of 
+
+asset and expense accounts should be debit, and the liabilities, equity and income 
+
+accounts should be credit. 
+
+ 
+
+Verification of the SL of the account Other Receivables as of December 
+
+31, 2020 disclosed abnormal balances totaling ₱13,996,193.24. 
+
+ 
+
+Interview with the Acting Chief Accountant revealed that said abnormal 
+
+balances pertained to prior years’ transactions, but which records were not available 
+
+for review since they could not locate where these were filed; hence, the necessary 
+
+adjusting entries could not be made. The details of the ₱13,996,193.24 follows: 
+
+ 
+
+Name of Debtor Particulars Amount (₱) 
+
+Philippine Sports 
+
+Commission 
+
+An interfund transfer which is 
+
+still for adjustment (Philippine 
+
+Southeast Asian Games 
+
+Organizing Committee payables 
+
+in CY 2007) 
+
+12,793,193.24 
+
+Philippine Sports 
+
+Commission 
+
+Purchase of one unit Hyundai 
+
+Starex Van 
+
+1,203,000.00 
+
+     Total 13,996,193.24 
+
+ 
+
+We recommended and Management agreed to require the Acting Chief 
+
+Accountant to assign a dedicated staff to locate the documents pertaining to 
+
+the abnormal balances; hence, necessary adjustment could be made, if 
+
+warranted. 
+
+ 
+
+The Accounting Division already made the necessary entry in CY 2021 to adjust 
+
+several abnormal balances under JEV No. 01-2021-01-043A. 
+
+ 
+
+ 
+
+Unreliable Inventory account balances 
+
+ 
+
+5. The existence, completeness and accuracy of the carrying amount of Inventory 
+accounts of ₱166,957,092.30 is doubtful due to a discrepancy between the GL 
+
+and the RPCI of ₱132,058,986.51, which reconciliation could not be done since 
+
+the SLCs were not updated. 
+
+ 
+
+Appendix 57, Volume II of the GAM describes the SLC as a form used by 
+
+the Accounting Division/Unit for each type of supplies to record all receipts and 
+
+issues made. The RPCI shall be reconciled with the SLCs and the controlling 
+
+accounts. Any discrepancies shall be immediately verified and adjusted. 
+
+ 
+
+
+
+49 
+
+Inquiry revealed that due to the implementation of skeletal work force, and 
+
+a change of personnel handling the SLCs, the same were not updated. Consequently, 
+
+the reconciliation between the SLCs and the RPCI was not done. 
+
+ 
+
+The maintenance of appropriate records such as SLCs and the subsequent 
+
+reconciliation of accounting and property records are all vital internal controls to 
+
+ensure the existence and reliability of inventories and its balances. Their absence 
+
+thereof resulted in the difficulty of ascertaining the completeness and accuracy of 
+
+the reported balances in the financial statements. 
+
+ 
+
+Comparison between the GL and RPCI disclosed a discrepancy of 
+
+₱132,058,986.51, which remained unreconciled at year-end, as follows: 
+
+ 
+Account Name Per GL (₱) Per RPCI (₱) Discrepancy (₱) 
+
+Office Supplies Inventory 7,680,310.66 2,236,763.32 5,443,547.34 
+
+Other Supplies and Materials 
+
+Inventory 
+
+159,276,781.64 32,661,342.47 126,615,439.17 
+
+     Total 166,957,092.30 34,898,105.79 132,058,986.51 
+
+ 
+
+The discrepancy casted doubt on the reported balances of Inventory accounts. 
+
+ 
+
+We recommended and Management agreed to require the concerned staff to 
+
+update the SLCs and reconcile said records with the RPCI prepared by the 
+
+Inventory Committee. 
+
+ 
+
+Management Comment: 
+
+ 
+
+Due to multiple lockdowns implemented by the Government and PSC, the periodic 
+
+reconciliations between the Accounting Division and Property and Supply Office 
+
+were delayed. In addition, several supplies issuances in CYs 2019 and 2020 were 
+
+just submitted to the Accounting Division in CY 2021, further causing the late 
+
+recording of adjustments.  
+
+ 
+
+ 
+
+Unreliable PPE account balances 
+
+ 
+
+6. The reported PPE accounts balances with a total cost of ₱4,336,530,531.36 as 
+at December 31, 2020 are unreliable due to discrepancies between the GL and 
+
+the RPCPPE totaling ₱833,065,288.53, which causes of the variance are subject 
+
+of reconciliation. 
+
+ 
+
+Appendices 69 and 70, Volume II of the GAM provide that the RPCPPE 
+
+shall be reconciled with the Property Cards (PCs), PPE Ledger Cards (PPELCs) and 
+
+the control accounts every year.  
+
+ 
+
+The RCPPE is the form used to report the physical count of PPE by 
+
+classification such as land, land improvements, infrastructure, buildings and other 
+
+
+
+50 
+
+structures, machinery and equipment, transportation equipment, furniture, fixtures 
+
+and book, etc. which are owned by the agency. The report is indispensable in the 
+
+reconciliation of balances between the accounting and property records to validate 
+
+the recorded accountabilities in both records. 
+
+ 
+
+Comparison between the results of the physical count of PPE and the 
+
+balances per books disclosed a discrepancy totaling ₱833,065,288.53, which 
+
+remained unreconciled as at December 31, 2020, with details as follows: 
+
+ 
+
+PPE Account 
+Per GL Per RPCPPE Discrepancy 
+
+(₱) 
+
+Power Supply  660,682.79  - 660,682.79 
+
+Buildings 154,026,432.97 154,026,432.97 - 
+
+Other Structures 1,422,095,620.48 959,819,758.08 462,275,862.40 
+
+Office Equipment 18,089,100.72 15,475,947.03 2,613,153.69 
+
+ICT Equipment 117,287,796.93 97,742,045.48 19,545,751.45 
+
+Communication Equipment 3,454,213.76 2,915,957.76 538,256.00 
+
+Medical Equipment 137,433,232.24 54,313,329.46 83,119,902.78 
+
+Sports Equipment 202,328,870.63 232,213,288.87 29,884,418.24 
+
+Motor Vehicles 30,480,936.00 30,781,896.00 300,960.00 
+
+Furniture and Fixtures 42,599,366.96 9,217,109.70 33,382,257.26 
+
+Books 981,665.97 296,982.76 684,683.21 
+
+Other PPE 172,164,547.51 61,601,121.98 110,563,425.53 
+
+Construction in Progress 2,034,928,064.40 1,945,432,129.22 89,495,935.18 
+
+     Total 4,336,530,531.36 3,563,835,999.31 833,065,288.53 
+
+ 
+
+Inquiry disclosed that due to the implementation of skeletal work force, the 
+
+reconciliation of records has been delayed. The discrepancies may be attributable to 
+
+the following: 
+
+ 
+
+PPE Account Discrepancy 
+
+Power Supply The fully depreciated generator was still not included 
+
+in the RPCPPE 
+Other Structures The PPELCs listed 130 structures versus the 138 
+
+structures in the RPCPPE 
+Office Equipment Newly purchased equipment was not included in the 
+
+RPCPPE (printer and photocopiers costing 
+
+₱976,500.00 and ₱201,715.20, respectively) 
+ICT Equipment The PPELCs listed 1,062 HP laptop computers 
+
+versus the 1,022 units in the RPCPPE. Also, semi-
+
+expendable items (239 pcs. mobile phones) worth 
+
+₱1,604,072.40 were capitalized 
+Communication Equipment Fully depreciated mobile phones (purchased from 
+
+2003 to 2008) were still reported in the PPELCs 
+Medical Equipment Newly acquired medical equipment totaling 
+
+₱71,831,547.00 were not counted 
+Sports Equipment Newly acquired sports equipment from Crayon 
+
+
+
+51 
+
+Sporting Goods were not counted 
+Motor Vehicles Acquisition cost of the Hyundai Grand Starex TCI 
+
+Ambulance per GL was ₱1,495,000.00 versus 
+
+₱1,876,960.00 in the RPCPPE. Also, one motorcycle 
+
+costing ₱81,000.00 was not counted 
+Furniture and Fixtures Purchases in CY 2020 totaling ₱25,445,390.80 were 
+
+not counted 
+Books The fully depreciated encyclopedia, software books, 
+
+sports medicine books and educational, medical and 
+
+sports books worth ₱666,759.25 were not reported in 
+
+the RPCPPE 
+Other PPE 387 units of newly acquired refrigerators were not 
+
+counted 
+Construction in Progress The construction cost per Engineering and 
+
+Maintenance Unit (EMU) was not updated on the 
+
+increase of percentage of completion (e.g., 
+
+percentage of completion for the Rehabilitation of 
+
+North and South Dormitories with project cost of 
+
+₱13,072,780.00 was already 86.55% completed or 
+
+₱11,314,491.09, but the amount per EMU was only 
+
+₱8,979,490.86 or 68.69% completed). Likewise, 
+
+there were differences in the cost of the on-going 
+
+projects per EMU against the Accounting Division 
+
+ 
+
+Likewise, PCs have yet to be updated by the PSO; thus, further verification 
+
+could not be done. 
+
+ 
+
+We recommended and Management agreed to: 
+
+ 
+
+a. require the Acting Chief Accountant and the Heads of PSO and EMU to 
+expedite the reconciliation of their records; and 
+
+ 
+
+b. instruct the Head, PSO to assign a dedicated staff to update the PCs. 
+ 
+
+ 
+
+Overstated Accounts Payable 
+
+ 
+
+7. Inter-agency and other payables amounting to ₱107,601,695.15 were 
+recognized as Accounts Payable contrary to COA Circular No. 2020-001 
+
+prescribing the updated RCA, thus overstating the Accounts Payable account 
+
+by 39.18 per cent of its ₱274,588,007.75 year-end balance.  
+
+ 
+
+To establish uniformity in the recording and reporting of financial 
+
+transactions of all government agencies, the COA prescribed the updated Revised 
+
+Chart of Accounts through COA Circular No. 2020-001 dated January 8, 2020.  
+
+ 
+
+
+
+52 
+
+Review and analysis of the account disclosed that 17 transactions totaling 
+
+₱107,601,695.15 were misclassified as Accounts Payable, which is described as the 
+
+account to use for receipt of goods or services on account in the normal course of 
+
+trade and business operation.  The 17 transactions are as follows: 
+
+ 
+No. Payee Particulars Amount (₱) Should be 
+
+classified 
+
+as 
+
+Account Description 
+
+(RCA) 
+
+1 Ramon 
+
+Fernandez 
+
+Reimbursement of expenses as 
+
+Deputy Chef De Mission in the 30th 
+
+SEA Games to monitor the POLO 
+
+Games last November 24, 2019 in 
+
+Calatagan, Batangas. 
+
+       19,450.00  Due to 
+
+Officers and 
+
+Employees 
+
+Incurrence of liability 
+
+to officers and 
+
+employees for salaries, 
+
+benefits and other 
+
+emoluments including 
+
+authorized expenses 
+
+advanced by the 
+
+officers and employees 
+
+2 Lilian Nieva For the online conduct of National 
+
+Sports Coaching Certification Course 
+
+held from August to November 2020 
+
+     128,400.00  Due to 
+
+Officers and 
+
+Employees 
+
+3 GSIS Share of Mr. Paul Ycasas for the 
+
+month of September 2020 
+
+           100.00  Due to 
+
+GSIS 
+
+Withholding of 
+
+employees’ premiums 
+
+and other payables for 
+
+remittance to GSIS, 
+
+HDMF and Philippine 
+
+Health Insurance 
+
+Corporation (PHIC) 
+
+4 GSIS Share of Mr. Epifanio Cordero, Jr. for 
+
+the month of December 2020 
+
+           100.00  Due to 
+
+GSIS 
+
+5 HDMF Share of Mr. Epifanio Cordero, Jr. for 
+
+the month of December 2020 
+
+           100.00  Due to 
+
+Pag-IBIG 
+
+6 PHIC Share of Mr. Epifanio Cordero, Jr. for 
+
+the month of December 2020 
+
+           687.24  Due to 
+
+PhilHealth 
+
+7 Philippine Sports 
+
+Commission 
+
+Funding of account for the payment 
+
+of taxes to the BIR for the month of 
+
+December 2020 
+
+  5,500,000.00  Due to 
+
+Other 
+
+Funds 
+
+Transfers from other 
+
+funds and/or payables 
+
+to other funds 
+
+8 DBM-
+
+Procurement 
+
+Service 
+
+Purchase of 150 pcs faceshields of PSC 
+
+employees on duty and walk in clients 
+
+at RMSC & PhilSports Complex 
+
+       18,720.00  Other 
+
+Payables  
+
+Other liabilities not 
+
+falling under any of the 
+
+specific payable 
+
+accounts. 9 Samahang 
+
+Kickboxing ng 
+
+Pilipinas 
+
+FA to further the knowledge and keep 
+
+the momentum alive for all aspiring 
+
+Kickboxers/trainers for the 2021 SEAG 
+
+in Hanoi, Vietnam and 2021 Asian 
+
+Indoor & Martial Arts Games in 
+
+Bangkok, Thailand, BR No. 1275-2020 
+
+  2,983,000.00  Other 
+
+Payables  
+
+10 Dance Sport 
+
+Team Cebu 
+
+International 
+
+FA for their 12th Cebu Open Dance 
+
+sport Online Competition held last 
+
+October 10-11, 2020 in Cebu City, 
+
+BR No. 988-2020 
+
+       50,000.00  Other 
+
+Payables 
+
+11 PHISGOC FA for transportation services during 
+
+the hosting of the 30th SEAG, BR no. 
+
+12892020, PHISGOC BR No. 12-
+
+166-2019 
+
+98,510,637.86 Other 
+
+Payables 
+
+12 Rhina Palacio 
+
+Bravo 
+
+Medical and funeral assistance (MFA) 
+
+for the bereaved family of Football 
+
+Athlete Celestina Beatrice Bravo Luna 
+
+       30,000.00  Other 
+
+Payables 
+
+13 Mary Angeli 
+
+Dofitas-Montero 
+
+Medical assistance (MA) to her 
+
+father, Reynaldo Dofitas, Football 
+
+Coach for expenses due to Squamor 
+
+cell Carcinoma, a type of skin cancer 
+
+       20,000.00  Other 
+
+Payables 
+
+14 Mark Ramirez MA as Wheelchair Basketball Para 
+
+Athlete due to uremia and chronic 
+
+kidney problem, BR No. 1199-2020 
+
+     100, 500.05  Other 
+
+Payables 
+
+15 Tabloids 
+
+Organization in 
+
+Philippine Sports 
+
+Inc. 
+
+Sponsorship assistance of their weekly 
+
+sports public forum "Usapang Sports" 
+
+every Thursday through Sports on Air 
+
+via Zoom, BR No. 1281-2020 
+
+     200,000.00  Other 
+
+Payables 
+
+
+
+53 
+
+No. Payee Particulars Amount (₱) Should be 
+
+classified 
+
+as 
+
+Account Description 
+
+(RCA) 
+
+16 Mazier 
+
+Ambutong 
+
+Mukarram 
+
+MA as former athletes for the month 
+
+of December 2020, BR No. 2087-
+
+2017, 194-2017 
+
+       10,000.00  Other 
+
+Payables 
+
+17 Rhina Palacio 
+
+Bravo 
+
+MFA for the bereaved family of 
+
+Football Athlete from Baguio City 
+
+Celestina Beatrice Bravo Luna 
+
+       30,000.00  Other 
+
+Payables 
+
+     Total 107,601,695.15 
+ 
+
+ 
+
+ 
+
+Due to the misclassification, the Accounts Payable was overstated by 
+
+₱107,601,695.15, while the following accounts were understated with aggregate of 
+
+the same amount: 
+
+ 
+
+   Account Name    Amount (₱) 
+
+Due to Officers and Employees 147,850.00 
+
+Due to GSIS 200.00 
+
+Due to Pag-IBIG 100.00 
+
+Due to PhilHealth 687.24 
+
+Due to Other Funds 5,500,000.00 
+
+Other Payables 101,952,857.91 
+
+     Total 107,601,695.15 
+
+ 
+
+We recommended and Management agreed to require the Acting Chief 
+
+Accountant to make the necessary adjusting entries to reflect the correct 
+
+balances of the payable accounts. 
+
+ 
+
+ 
+
+Understated depreciation and amortization expenses  
+
+ 
+
+8. The reported depreciation expenses and the corresponding accumulated 
+depreciation were both understated by ₱1,090,057.92 while the reported 
+
+amortization expenses and the corresponding accumulated amortization were 
+
+both understated by ₱185,250.00, due to the incorrect computation by the 
+
+Accounting Division, contrary to the policy provided in the GAM. 
+
+ 
+
+Section 27, Chapter 10, Volume I of the GAM provides that depreciation 
+
+of PPE begins when it is available for use such as when it is in the location and 
+
+condition necessary for it to be capable of operating in the manner intended by 
+
+management.   
+
+ 
+
+While Section 9, Chapter 12 provides that the depreciable amount of an 
+
+intangible asset with a finite useful life shall be allocated on a systematic basis over 
+
+its useful life. As a guideline, the finite useful life of intangible assets shall be 2 to 
+
+10 years. Amortization shall begin when the asset is available for use. 
+
+ 
+
+
+
+54 
+
+Review of the depreciation expenses of PPE for CY 2020 revealed that the 
+
+Accounting Division started computing for the depreciation expenses only at the 
+
+time of payment, instead of at the time when such PPE were available for use. As a 
+
+result, the various Depreciation Expenses and the corresponding Accumulated 
+
+Depreciation accounts were both understated by ₱1,090,057.92 since there were 
+
+time lags from the utilization of the PPE to the payment. Details are as follows: 
+
+ 
+
+JEV No./ Date 
+Name of Account / 
+
+Particulars 
+
+As Recorded Depreciation Should be Depreciation 
+Difference (₱) 
+
+Months Amount (₱) Months Amount (₱) 
+
+05-2020-05-
+
+1073 
+
+ 
+
+May 28, 2020 
+
+Sports Equipment: 
+
+Payment for the supply 
+
+and delivery of Sports 
+
+Performance Testing 
+
+Equipment 
+
+June- 
+
+December 
+
+2020 
+
+1,873,240.72 March- 
+
+December 
+
+2020 
+
+ 2,676,058.17  802,817.45 
+
+05-2020-05-
+
+1073 
+
+ 
+
+May 28, 2020 
+
+Other PPE: Payment 
+
+for the supply and 
+
+delivery of Sports 
+
+Performance Testing 
+
+Equipment 
+
+June- 
+
+December 
+
+2020 
+
+531,140.54 March- 
+
+December 
+
+2020 
+
+ 758,772.20  227,631.66 
+
+05-2020-02-
+
+604 
+
+ 
+
+February 24, 
+
+2020 
+
+Office Equipment: 
+
+Payment for the 
+
+purchase of Digital 
+
+Multi-function copier 
+
+with archiving system 
+
+March- 
+
+December 
+
+2020 
+
+290,168.00 February- 
+
+December 
+
+2020 
+
+ 319,184.80  29,016.80 
+
+05-2020-03-
+
+950 
+
+ 
+
+March 31, 2020 
+
+Furniture and 
+
+Fixtures: Payment for 
+
+the supply and delivery 
+
+of various appliances 
+
+and equipment for the 
+
+guest rooms in Dorm F, 
+
+PhilSports Complex 
+
+April- 
+
+December 
+
+2020 
+
+96,829.29 March- 
+
+December 
+
+2020 
+
+ 107,588.10  10,758.81 
+
+05-2020-03-
+
+950 
+
+ 
+
+March 31, 2020 
+
+Other PPE: Payment 
+
+for the supply and 
+
+delivery of various 
+
+appliances and 
+
+equipment for the guest 
+
+rooms in Dorm F, 
+
+PhilSports Complex 
+
+April- 
+
+December 
+
+2020 
+
+109,284.96 March- 
+
+December 
+
+2020 
+
+ 121,427.73  12,142.77 
+
+05-2020-06-
+
+1123 
+
+ 
+
+June 2, 2020 
+
+ICT Equipment: 
+
+Purchase of seven units 
+
+Apple iPad Pro Space 
+
+Grey Tablet 
+
+March- 
+
+December 
+
+2020 
+
+89,721.80 February- 
+
+December 
+
+2020 
+
+ 97,412.24  7,690.44 
+
+     Total 2,990,385.31  4,080,443.23 1,090,057.92 
+
+ 
+
+On the other hand, the Accounting Division failed to record in CY 2020 
+
+the amortization expenses in the amount of ₱185,250.00 ([2,340,000.00 x 95% / 10] 
+
+x 10/12). Said amount was the amortization expense for the Management and 
+
+Inventory System amounting to ₱2,340,000.00 that was procured on March 10, 
+
+2020 recorded under the account Computer Software. 
+
+ 
+
+In view thereof, the accounts Amortization-Computer Software and the 
+
+Accumulated Amortization-Computer Software were both understated by 
+
+₱185,250.00. 
+
+ 
+
+
+
+55 
+
+We recommended and Management agreed to require the Acting Chief 
+
+Accountant to draw a Journal Entry Voucher to correct the error in the books 
+
+of accounts, and henceforth, strictly observe the proper computation of the 
+
+depreciation and amortization expenses. 
+
+ 
+
+ 
+
+Padded athletes and coaches allowances  
+
+ 
+
+9. The weak internal control payroll administration system resulted in padded 
+athletes’ and coaches’ allowances totaling ₱3,026,700.00 that were credited to 
+
+the bank accounts of three COS employees, and allowances involving the 
+
+amount of ₱2,178,186.67 were still given to the athletes and coaches despite 
+
+several deficiencies, resulting in loss of government funds. 
+
+ 
+
+The existing PSC Implementing Guidelines for granting of allowances to 
+
+national coaches and local coaches including the Procedure and Work Instruction 
+
+Manual (PAWIM) and Citizen’s Charter Handbook of PSC and COA fiscal policies 
+
+provide the following duties of the relevant PSC Offices in charge of the payroll of 
+
+athletes and coaches: 
+
+ 
+
+a) National Sports Association Affairs Office (NSAAO) – evaluates requests for 
+inclusion, replacement, reclassification, dropping and retroactive allowances of 
+
+athletes and coaches in the National Training Pool based on approved quota 
+
+and implementing policies of the PSC; 
+
+ 
+
+b) Assistance and Coordination Division (ACD) – provides report of attendance 
+to athletes and coaches as proof in the processing of their allowance, checks 
+
+the total training days present and number of absences as well as the signatures 
+
+of athletes and coaches, and incorporates all approved Board Resolutions for 
+
+implementation (dropping, inclusion, revised line-up, approved/disapproved 
+
+request for retroactive allowance); and 
+
+ 
+
+c) Accounting Division – verifies the completeness of the supporting documents 
+and that the amount claimed is proper. 
+
+ 
+
+Likewise, the following fiscal policies are provided in PD No. 1445: 
+
+ 
+
+Section 2. It is the declared policy of the State that all resources of 
+
+the government shall be managed, expended or utilized in 
+
+accordance with law and regulations, and safeguard against loss or 
+
+wastage through illegal or improper disposition, with a view to 
+
+ensuring efficiency, economy and effectiveness in the operations of 
+
+government. The responsibility to take care that such policy is 
+
+faithfully adhered to rests directly with the chief or head of the 
+
+government agency concerned. 
+
+ 
+
+
+
+56 
+
+Section 4. Financial transactions and operations of any government 
+
+agency shall be governed by the fundamental principles set forth 
+
+hereunder, to wit: 
+
+ 
+
+- Fiscal responsibility shall, to the greatest extent, be shared by 
+all those exercising authority over the financial affairs, 
+
+transactions, and operations of the government agency 
+
+ 
+
+- Claims against government funds shall be supported with 
+complete documentation 
+
+ 
+
+Detailed audit of the pertinent disbursement vouchers (DVs) on the 
+
+allowances to athletes and coaches for the period January 01 to June 30, 2019 
+
+disclosed padded allowances in the total amount of ₱3,026,700.00. Said amount was 
+
+illegally credited to the bank accounts of three COS employees, as follows: 
+
+ 
+
+Name of COS Bank Account No.  Padded Amount (₱) 
+
+1. Paul Michael Ignacio 1777-0795-10 1,877,200.00 
+
+2. Lymuel Seguilla 1777-0454-62 584,500.00 
+
+3. Michaelle Jone Velarde 1777-0795-02 565,000.00 
+
+     Total 3,026,700.00 
+
+ 
+
+Likewise, we noted the following deficiencies: 
+
+ 
+
+Audit Remarks Amount Involved (₱) 
+
+a. Dropped per Master List but still given allowances 1,039,080.00 
+
+b. Not in the Master List but still given allowances 641,146.67 
+
+c. Absences were not deducted 261,860.00 
+
+d. Double/overpayment 139,100.00 
+
+e. No attendance sheet 97,000.00 
+
+     Total 2,178,186.67 
+
+ 
+
+It was noted in the 2019 audit report the loose internal control on the 
+
+processing of allowances, such that one COS employee was completely in control of 
+
+the preparation of the payroll report and the uploading in the LBP’s payroll system. 
+
+Likewise, the certifying officers (ACD Head, and the Acting Chief Accountant) 
+
+failed to observe due diligence in counterchecking, reviewing the information, 
+
+including the bank account numbers contained in the payroll report. As a 
+
+consequence, the ₱3,026,700.00 was illegally credited by the COS to his bank 
+
+account number and to two other COS’ account numbers, and was not detected as 
+
+fraudulent transactions. 
+
+ 
+
+Moreover, the PSC has not yet submitted the validated bank accounts of 
+
+the national athletes and coaches who received the questionable allowances of 
+
+₱2,178,186.67, for us to determine whether said allowances were actually credited 
+
+to their bank accounts.  
+
+
+
+57 
+
+ 
+
+The Management informed the Audit Team that a criminal case has been 
+
+filed against the three COS. The PSC Fact-Finding Committee conducted the 
+
+internal investigation, however, the administrative proceeding against the persons 
+
+recommended to be charged in their investigation report is still ongoing. As of audit 
+
+date, segregation of duties was in place. The payroll is prepared by the Personnel 
+
+Office, and the uploading of the payroll to the LBP’s payroll system is prepared by 
+
+the Accounting Division. 
+
+ 
+
+We recommended and the PSC Board of Commissioners agreed to expedite 
+
+the implementation of the recommendations in the investigation report of the 
+
+Fact-Finding Committee, particularly the recovery of the illegally disbursed 
+
+fund through padded allowances, and the imposition of administrative 
+
+penalties against those persons who failed to exercise due diligence. 
+
+ 
+
+Likewise, we recommended and Management agreed to require the: 
+
+ 
+
+a. Head, NSAAO to submit the related Board Resolutions to support the 
+allowances given to the athletes and coaches despite being dropped or 
+
+excluded in the Master List, and the validated list of bank accounts of all 
+
+athletes and coaches; 
+
+ 
+
+b. Acting Chief Accountant to recover the excessive allowances (i.e., 
+absences that were not deducted, double/overpayment) from the athletes 
+
+and coaches by issuing demand letter and/or implementing allowance 
+
+deduction; and 
+
+ 
+
+c. Head, ACD to submit the supporting attendance sheet of the disbursed 
+₱97,000.00. 
+
+ 
+
+Management Comment: 
+
+ 
+
+Here is an update on the status of the payroll padding case. On July 15, 2020, the 
+
+PSC, through the assistance of the National Bureau of Investigation (NBI) filed a 
+
+complaint before the Department of Justice (DOJ) against Mr. Paul Michael 
+
+Ignacio for qualified theft, attempted qualified theft and violation of RA No. 10175 
+
+(Cybercrime Prevention Act of 2012). Later on, upon determination of their 
+
+involvement in the payroll padding scheme, similar complaints were filed against 
+
+Mr. Lymuel Seguilla and Mr. Michaelle Jones Velarde. On January 13, 2021, PSC 
+
+received the Resolution by the DOJ finding probable cause and recommending 
+
+charging the crimes of qualified theft and attempted qualified theft under the 
+
+Revised Penal Code (RPC) and Cyber-Related Forgery and Computer-Related 
+
+Fraud under Section 4(b) of RA No. 10175 against respondents Ignacio, Velarde 
+
+and Seguilla. On February 16, 2021, the undersigned received the Order from the 
+
+Regional Trial Court of Imus City, Cavite relative to Criminal Case Nos. 23492-21 
+
+to 523501-21 for Computer-Related Forgery under RA No. 10175 filed against 
+
+
+
+58 
+
+accused Ignacio, setting the case for arraignment and pre-trial on March 3, 2021. 
+
+Said Order also directed the transfer of custody of accused Ignacio from the NBI-
+
+Main Jail Facility to the Bureau of Jail Management and Penology (BJMP) of Imus 
+
+City, Cavite. However, the NBI was previously directed by the DOJ in its Order 
+
+dated July 15, 2020 to release then respondent Ignacio from NBI custody for the 
+
+conduct of regular preliminary investigation. The RTC of Imus City already has a 
+
+copy of said DOJ Order, and will issue a warrant of arrest for the detention of 
+
+accused Ignacio in the BJMP of Imus City. They are now waiting for the filing of 
+
+information on the other cases recommended to be filed by the DOJ in Imus City 
+
+and Manila. 
+
+ 
+
+The PSC continues to coordinate with the Office of the Solicitor General (OSG) 
+
+and the Anti-Money Laundering Council (AMLC) for the filing of appropriate 
+
+actions for the recovery of the money illegally taken from the government. It 
+
+proposes to the OSG to integrate the filing of the civil aspect along with the 
+
+criminal case currently filed. 
+
+ 
+
+ 
+
+Unliquidated 2019 SEA Games accounts 
+
+ 
+
+10. A total of ₱1,678,404,073.02 remained unliquidated beyond the prescribed 
+period to report the utilization of funds by several athletes, coaches and 
+
+organizations out of the ₱7,312,987,378.07 funds allotted for the preparation, 
+
+hosting, training and participation for the 2019 SEA Games. This condition 
+
+ran counter to the existing COA rules and the PSC Board Resolution, and 
+
+which precluded the timely and holistic audit, to report on the accountability 
+
+of public funds relative to the operations of the biennial regional multi-sport 
+
+event.  
+
+ 
+
+Section 6 of COA Circular No. 94-013 requires that within 10 days after 
+
+the end of each month/end of the agreed period for the project, the Implementing 
+
+Agency shall submit the Report of Checks Issued and the Report of Disbursement to 
+
+the Source Agency (SA) to report the utilization of the funds. Any unused fund shall 
+
+be refunded to the SA upon completion of the project. 
+
+ 
+
+While Section 5.4 of COA Circular No. 2007-001 requires that within 60 
+
+days after the completion of the project, the NGO/PO shall submit the fund 
+
+utilization report certified by its Accountant and approved by its President/Chairman 
+
+to the government organization. In relation to this, PSC Board Resolution No. 316-
+
+2010 dated September 28, 2010 requires that FA shall be liquidated within 30 days 
+
+after completion of the purpose for which it was given. 
+
+ 
+
+  The updated utilization report prepared by the Accounting Division 
+
+disclosed that PSC disbursed an amount totaling ₱7,312,987,378.07 to fund the 
+
+SEA Games events in 2019, as follows: 
+
+ 
+
+
+
+59 
+
+ 
+ Particulars General Fund NSDF Total 
+
+Releases to PHISGOC 1,361,137,617.90 750,578,765.83 2,111,716,383.73 
+
+Releases to POC 454,793,043.39 87,121,560.55 541,914,603.94 
+
+Releases to PS-DBM 3,023,323,519.28 - 3,023,323,519.28 
+
+Financial assistance to City of Tagaytay 30,000,000.00 - 30,000,000.00  
+
+Releases to PTV4 for broadcast sports 
+
+coverage 
+
+- 11,600,000.00 11,600,000.00  
+
+Payments for hotel accommodation 378,600,076.84 152,890,459.41 531,490,536.25 
+
+Directly procured sports equipment 169,853,397.08 - 169,853,397.08  
+
+Direct payments to PSC suppliers and 
+
+other releases to PSC personnel such as 
+
+cash advances, traveling allowances, etc. 
+
+421,914,981.10 161,378,919.35 583,293,900.45 
+
+Financial assistance to different NSAs - 309,795,037.34 309,795,037.34 
+
+     Total 5,839,622,635.59 1,473,364,742.48 7,312,987,378.07 
+
+ 
+
+Review of the subsidiary records disclosed that funds released by PSC for 
+
+the SEA Games events in 2019 remained unliquidated as of December 31, 2020 
+
+despite the demand letters sent by the agency and the Audit Team. The summary of 
+
+the outstanding accounts are as follows: 
+
+ 
+Accountable 
+
+Persons/Organizations 
+Particulars Amount (₱) 
+
+Account 
+
+Name 
+
+DBM-Procurement Service Payment for various items (IT 
+
+equipment, Office Equipment, 
+
+supplies, others) 
+
+159,282,412.30 Due from 
+
+NGAs 
+
+City Government of Tagaytay Balance of the transferred fund 
+
+for the construction of sports 
+
+facilities 
+
+2,995,000.00 Due from 
+
+LGUs 
+
+PHISGOC Various FA for preparatory 
+
+activities and hosting of SEA 
+
+Games events 
+
+811,362,476.83 Due from 
+
+NGOs/POs 
+
+Philippine Olympic Committee 
+
+(POC) 
+
+FA for the expenses of 
+
+Philippine delegation, 
+
+procurement of competition 
+
+equipment/tables, flame 
+
+handover, and improvement of 
+
+firing range shooting 
+
+535,413,045.56 Due from 
+
+NGOs/POs 
+
+National Sports Associations 
+
+(NSAs) 
+
+FA to 40 different NSAs for 
+
+preparatory training, 
+
+participation to different sports 
+
+competitions including the 2019 
+
+SEA Games, procurement of 
+
+sports equipment/uniforms, etc. 
+
+and others 
+
+166,989,232.33 Due from 
+
+NGOs/POs 
+
+Furukawa Rena, Matsumura 
+
+Shin, Salinas Ryoko, Takajashi 
+
+Mariya, Carl Dave Aseneta, 
+
+Lloyd Dennis Catipon, 
+
+Jackielou Escarpe, Al Rolan 
+
+Llamas, Ma. Jeanalane Lopez, 
+
+Jenielou Mosqueda, Khrizzie 
+
+Pabulayan, Jed Mark Pumay, 
+
+Daryl John Mercado, Bryan 
+
+FA of 14 athletes of Philippine 
+
+Judo Federation, Inc. for their 
+
+training in Tokyo, Japan in 2019 
+
+1,900,980.00 Other 
+
+Receivables 
+
+
+
+60 
+
+Accountable 
+
+Persons/Organizations 
+Particulars Amount (₱) 
+
+Account 
+
+Name 
+
+Quillotes 
+
+Gilbert Ramirez & Rick Jayson 
+
+Senales, Coaches-Judo 
+
+FA for the training in Tokyo, 
+
+Japan in 2019 
+
+340,926.00 Other 
+
+Receivables 
+
+Venerando Garcia 
+
+Coach-Modern Pentathlon 
+
+FA for the 2-weeks intensive 
+
+training in Subic, Zambales 
+
+120,000.00 Other 
+
+Receivables 
+
+     Total 1,678,404,073.02  
+
+ 
+
+ Of the liquidated amount of ₱1,922,115,682.29 by PHISGOC, the Audit 
+
+Team has audited the total amount of ₱1,313,193,480.94, which result shall be 
+
+collaborated with the balance of ₱608,922,201.35 not audited yet since the 
+
+liquidation reports were only submitted and processed in 2021. We noted that in 
+
+most cases, PHISGOC sought quotations from at least three business establishments 
+
+and awarded the purchase agreements to those with the lowest offers. The deliveries 
+
+were mostly inspected by the concerned staff from the Property and Supply Office 
+
+(PSO) of PSC. There were exceptional cases such as without quotation or deliveries 
+
+were not inspected by PSO staff, the concerned PHISGOC officer then issued a 
+
+narrative justification to explain why. Our audit included payments for the rental of 
+
+competition venues totaling ₱168,462,9403.35 which were already pre-selected as 
+
+the venue to conduct the sports competitions. While the liquidation reports of POC 
+
+were only submitted and processed in 2021, thus, the Audit Team is yet to conduct 
+
+the audit. 
+
+ 
+
+The PSC has transferred to PS-DBM an amount totaling 
+
+₱3,023,323,519.28 in 2019 and deliveries have been made and inspected by the 
+
+concerned PSO staff. The PSC also transfers PTV4 an amount of ₱11,600,000.00 
+
+for the broadcast sports coverage, while the fund transfer to City of Tagaytay of 
+
+₱30,000,000.00 pertained to the construction and completion of the BMX, Cycling 
+
+and Skate Parks. All fund transfers were supported by Memorandum of 
+
+Agreements. The detailed audit of the hotel accommodations is yet to be conducted 
+
+since the pertinent vouchers and the supporting documents are voluminous.  
+
+ 
+
+We were informed that the outstanding accounts of the PS-DBM is under 
+
+reconciliation by both the Accounting Division and the Property and Supply Office, 
+
+while the balance of the City Government of Tagaytay pertains to the 10 percent 
+
+retention money, which remained unliquidated despite repeated demands. 
+
+ 
+
+The Accounting Division had also sent demand letters requiring the 
+
+athletes and coaches to submit the liquidation reports of the FA, to no avail. 
+
+According to PHISGOC and POC, their submission of the liquidation documents 
+
+was delayed due to the implementation of community quarantines because of the 
+
+pandemic. Further, PHISGOC requested extension of its submission since the 
+
+financial audit of their operation is yet to be completed by their private auditor. 
+
+ 
+
+Timely and complete reporting and accounting of public funds are essential 
+
+aspect of good governance where stakeholders like the PSC officers and the 
+
+oversight agencies and other interested public are provided with necessary 
+
+
+
+61 
+
+information on the fund utilization; hence, the existence of outstanding accounts 
+
+casts doubts on its validity thereof. 
+
+ 
+
+ We recommended and Management agreed to require the: 
+
+ 
+
+a. Accounting Division and Property and Supply Office to continue to 
+reconcile their records with the PS-DBM; and 
+
+ 
+
+b. Accountable persons and organizations to immediately submit the 
+liquidation report together with the supporting documents for each 
+
+outstanding FA and/or refund the balance of the transferred fund; and 
+
+ 
+
+Likewise, we recommended and the PSC Board of Commissioners agreed to 
+
+require the PHISGOC to submit the: 
+
+ 
+
+a. final fund utilization report covering all the FA and expenditures 
+pertaining to the SEA Games events; 
+
+ 
+
+b. audited financial reports for CY 2020 transactions pertaining to PSC 
+funds, and subsequent periods; 
+
+ 
+
+c. collection reports disclosing all the revenues/receipts derived from all the 
+SEA Games events including all donations/sponsorships from private 
+
+institutions, duly supported by Official Receipts and contracts; and 
+
+ 
+
+d. bank statements for funds received from PSC, country-
+participants/delegations and others. 
+
+ 
+
+Management Comment: 
+
+ 
+
+The PSC already coordinated with these organizations, NSAs and individuals to 
+
+submit their liquidation reports. The following is a report showing the latest 
+
+balances as of May 31, 2021: 
+
+ 
+Accountable 
+
+Persons/Organizations 
+
+Balance as of 
+
+12/31/2020 
+
+Balance as of 
+
+05/31/2021 
+
+Remarks 
+
+DBM-Procurement 
+
+Service 
+
+159,282,412.30 159,282,412.30 The liquidation totaling 
+
+₱147,506,547.77 will be posted in June 
+
+2021, while several items are still for 
+
+reconciliation. 
+
+City Government of 
+
+Tagaytay 
+
+2,995,000.00 2,995,000.00 The liquidation report of ₱2,995,000.00 
+
+was just recently submitted and for 
+
+posting in June 2021. 
+
+PHISGOC 811,362,476.83 752,929,962.98 The liquidation reports totaling 
+
+₱58,352,513.85 and refund of 
+
+₱80,000.00 were already posted in 2021, 
+
+while the liquidation reports totaling 
+
+₱608,713,827.25 were returned for 
+
+completion of necessary documents. 
+
+
+
+62 
+
+Accountable 
+
+Persons/Organizations 
+
+Balance as of 
+
+12/31/2020 
+
+Balance as of 
+
+05/31/2021 
+
+Remarks 
+
+ 
+
+Demand Letter was already sent to 
+
+PHISGOC and will remind them again 
+
+to submit the required reports. A Board 
+
+meeting will also be conducted to 
+
+discuss the issue on the sharing of 
+
+revenues. 
+
+POC 535,413,045.56 420,581,609.92 The liquidation reports totaling 
+
+₱114,831,435.64 were already posted in 
+
+2021, while the liquidation reports 
+
+totaling ₱236,906,418.21 were returned 
+
+for completion of necessary documents. 
+
+NSAs 166,989,232.33 119,980,868.35 The liquidation reports totaling 
+
+₱40,611,704.37 and refunds of 
+
+₱6,396,659.61 were already posted in 
+
+2021. 
+
+14 Athletes and 3 
+
+Coaches 
+
+2,361,906.00 2,361,906.00 Demand letters were sent by the 
+
+Accounting Division. 
+
+     Total 1,678,404,073.02 1,458,131,759.55  
+
+ 
+
+ 
+
+B. Others 
+ 
+
+Coronavirus Disease (COVID-19) related expenses 
+
+ 
+
+1. The agency incurred the following expenditures in CY 2020 in connection with the 
+COVID-19 pandemic: 
+
+ 
+Nature of 
+
+Expenditure 
+
+Fund 
+
+Source 
+
+Purpose Particulars Disbursements/ 
+
+Expenses (₱) 
+
+Medical, Dental & 
+
+Laboratory Supplies 
+
+Expenses 
+
+MOOE COVID-19 
+
+expenses 
+
+RT-PCR, Rapid Test, medical assistance 
+
+and other operational requirements 
+
+relative to Enhanced Community 
+
+Quarantine 
+
+2,739,461.24 
+
+Other Maintenance 
+
+and Operating 
+
+Expenses 
+
+MOOE COVID-19 
+
+expenses 
+
+Reimbursement of expenses, purchase of 
+
+surgical masks and COVID-19 test 
+
+package for PSC Front liners 
+
+2,359,926.81 
+
+Other Professional 
+
+Services 
+
+MOOE COVID-19 
+
+expenses 
+
+Hazard Pay for the Contract of Service 
+
+personnel 
+
+1,529,500.00 
+
+Travelling Expenses MOOE COVID-19 
+
+expenses 
+
+Purchase of airline tickets of athletes and 
+
+coaches 
+
+202,330.00 
+
+Hazard pay PS COVID-19 
+
+expenses 
+
+Hazard Pay for Skeletal Work Force 
+
+employees 
+
+502,500.00 
+
+Electricity Expenses MOOE COVID-19 
+
+expenses 
+
+Electricity consumption of the Ninoy 
+
+Aquino Stadium as temporary COVID-
+
+19 Health Facility 
+
+1,161,407.51 
+
+Donations MOOE COVID-19 
+
+expenses 
+
+Medical assistance to employee 650,000.00 
+
+     Total 9,145,125.56 
+
+ 
+
+
+
+63 
+
+Disbursements for the foregoing expenses during the year were supported with 
+
+complete documents as required under COA Circular No. 2012-001 dated June 14, 
+
+2012. Out of the total disbursements of ₱9,163,845.56, a total of ₱4,289,762.05 and 
+
+₱577,100.00 were paid through cash advances and reimbursements, respectively. 
+
+ 
+
+Disbursements for the grant of hazard pay totaling ₱2,032,000.00 (₱1,529,500.00 
+
+and ₱502,500.00) were supported with adequate documents that established the 
+
+recipients’ qualifications based on the conditions set under the DBM Budget 
+
+Circular No. 2020-01 dated March 24, 2020. 
+
+ 
+
+In addition, an amount totaling one hundred eighty million pesos 
+
+(₱180,000,000.00) was appropriated under Section 10 (p) of RA No. 11494, or the 
+
+Bayanihan to Recover as One Act (Bayanihan II) to finance the allowances of the 
+
+National Athletes and Coaches whose allowances were reduced due to the 
+
+pandemic. 
+
+ 
+
+Review of the Report on Disbursements and pertinent vouchers and documents 
+
+revealed that the agency distributed to the national athletes and coaches through 
+
+their respective bank accounts an amount totaling ₱173,792,860.01 as of year-end, 
+
+leaving a balance of ₱6,207,139.99 to be distributed in CY 2021. 
+ 
+
+ 
+
+National Task Force to End Local Communist Armed Conflict (NTF-ELCAC) 
+
+ 
+
+2. The agency did not receive funds related to the NTF-ELCAC in CY 2020. 
+ 
+
+ 
+
+Dormant Accounts 
+
+ 
+
+3. The table below shows the summary of PSC’s dormant accounts of five years and 
+above as of December 31, 2020. 
+
+ 
+Account Amount (₱) No. of years 
+
+Dormant 
+
+Reason for being 
+
+dormant  
+
+Action 
+
+Taken by 
+
+ATL 
+
+Action Taken 
+
+by Management 
+
+1 Operating 
+
+Lease 
+
+Receivable 
+
+28,907,827.62 5 to 29 years Failure to closely 
+
+monitor the 
+
+settlement of 
+
+receivables by the 
+
+former Chief 
+
+Accountant 
+
+Issued 
+
+AOM in 
+
+CY 2017 
+
+Under 
+
+verification; 
+
+coordinated with 
+
+OSG for the 
+
+filing of 
+
+appropriate cases 
+
+2 Due from 
+
+NGOs/POs 
+
+52,924,797.34 5 to 24 years Documents can no 
+
+longer be located; 
+
+other NSAs are 
+
+already inactive 
+
+Issued 
+
+AOMs; 
+
+Issued 
+
+Demand 
+
+letters 
+
+Issued Demand 
+
+Letters; dormant 
+
+accounts will be 
+
+requested to be 
+
+written off 
+
+ 
+
+ 
+
+
+
+64 
+
+Gender and Development (GAD) Plans and Programs 
+
+ 
+
+4. The PSC spent a total of ₱10,373,237.08 for its GAD-related activities for CY 
+2020. 
+
+ 
+
+Section 31 of the General Provisions (GP) of 2020 General Appropriations Act 
+
+(GAA) requires that: 
+
+ 
+
+All agencies of the government shall formulate a GAD Plan 
+
+designed to address gender issues within their concerned sectors or 
+
+mandate and implement applicable provisions under R.A. 9170 or 
+
+the Magna Carta of Women, Convention on the Elimination of All 
+
+Forms of Discrimination Against Women, the Beijing Platform for 
+
+Action, the Millennium Development Goals (2000-2015), the 
+
+Philippine Plan for Gender- Responsive Development, (1995-
+
+2025), and the Philippine Development Plan. The GAD plan shall 
+
+be integrated in the regular activities of the agencies, which shall be 
+
+at least five percent (5%) of their   respective   budgets.   For   this   
+
+purpose.   xxx activities that contribute to poverty alleviation, 
+
+economic empowerment xxx are considered sufficient compliance 
+
+with said requirement.  Utilization of the GAD budget shall be 
+
+evaluated based on the GAD performance indicators identified by 
+
+the said agency. 
+
+ 
+
+The PSC’s GAD accomplishments are shown below: 
+
+ 
+
+Seq Programs Accomplishment Amount (₱) 
+
+1 Women and Girls in 
+
+Sports 
+
+Held last February 6-9, 2020 in Sariaya, 
+
+Quezon where about 600 participants 
+
+attended the event. 
+
+1,000,717.75 
+
+2 Women’s Leadership 
+
+Training and 
+
+Coaching Webinar 
+
+Held last November 3-5, 2020, as part of 
+
+the Women in Sports Initiative which had 
+
+the overall goal of gender equality, 
+
+women empowerment and gender 
+
+sensitivity. 
+
+  
+
+The webinar was hosted through the 
+
+Zoom online platform and featured 449 
+
+registered participants, of which 414 
+
+were female coaches across the country. 
+
+271,007.00 
+
+3 Rise Up! Shape Up! 
+
+Series 
+
+A campaign that featured weekly 
+
+webisodes from October 28 to December 
+
+23, 2020 and targeted women and girls to 
+
+rebound from the pains of pandemic 
+
+through sports. The series aired eight 
+
+episodes on the PSC’s Facebook Live 
+
+802,000.00 
+
+
+
+65 
+
+Seq Programs Accomplishment Amount (₱) 
+
+page platform as well as in YouTube. 
+
+About 1,878 views were recorded to date. 
+
+4 Gender Sensitivity 
+
+Training and SOGIE 
+
+Webinar 
+
+An online program held last December 
+
+17-18, 2020 where it promoted gender 
+
+sensitive environment in the agency and 
+
+heightened awareness in gender 
+
+sensitivity and gender equality. 
+
+52,041.00 
+
+     Total 2,125,765.75 
+
+ 
+
+ 
+
+Programs/Projects Related to Senior Citizens and Persons with Disability (PWDs) 
+
+ 
+
+5. Management continued to advocate activities in support of the Senior Citizens and 
+the PWDs. 
+
+ 
+
+Section 32 of the GP of the GAA of FY 2020 (RA No. 11465) provides that all 
+
+agencies of the government shall formulate plans, programs and projects intended 
+
+to address the concerns of senior citizens and persons with disability, insofar as it 
+
+relates to their mandated functions, and integrate the same in their regular activities. 
+
+The following are the projects of PSC in support Senior Citizens and the PWDs, 
+
+including a forum for Indigenous Peoples (IPs): 
+
+Seq Programs Accomplishment 
+
+1 FA to 
+
+PHILSPADA 
+
+FAs totaling ₱81,014,533.65 were given to PHILSPADA to 
+
+fund the various trainings and participation to local and 
+
+international tournaments. 
+
+2 Indigenous 
+
+Peoples (IP) 
+
+Forum 
+
+The Webinar on Preservation of Culture and Heritage through 
+
+Indigenous Sports and Games was held on October 31, 2020, 
+
+which focused on the importance of conduct of the IPs Games 
+
+program for the realization of the preservation, promotion, and 
+
+propagation of the traditional sports and games of the IPs. It 
+
+was hosted across two online platforms (Zoom and Facebook 
+
+Live) where 282 participants joined the event. 
+
+ 
+
+ 
+
+Compliance with Disaster Risk Reduction and Management and Climate Change 
+
+Adaptation and Mitigation 
+
+ 
+
+6. In compliance with Section 36 of the GP of the GAA of FY 2020 (RA No. 11465), 
+which requires that all agencies of the government shall plan and implement 
+
+programs and projects, taking into consideration measures for climate change 
+
+adaptation and mitigation, and disaster risk reduction, based on climate and disaster 
+
+risk assessment, the reported activities of the PSC are the following: 
+
+ 
+
+1) Use of PSC facilities as overflow venues to house COVID-19 patients 
+
+
+
+66 
+
+ 
+
+The PSC, in coordination with the Department of Health and Department of 
+
+Public Works and Highways (DPWH), offered the use of its venues within the 
+
+Rizal Memorial Sports Complex (RMSC) in Manila and the PhilSports Arena 
+
+in Pasig as quarantine facilities for COVID-19 patients. 
+
+ 
+
+In RMSC, the Rizal Memorial Coliseum was converted to a 100-bed facility to 
+
+house suspected COVID-19 patients with an emergency medical team from the 
+
+AFP Health Service Command composed of four military doctors, nine 
+
+military nurses, and 17 medical aides manning the quarantine facility. While in 
+
+Ninoy Aquino Stadium, 112 beds were installed and used to quarantine 
+
+COVID-19 positive patients who are asymptomatic or experiencing mild 
+
+symptoms. In PhilSports Arena, 132 beds as well as two nursing stations were 
+
+installed. 
+ 
+
+Other venues that were used as DOH quarantine facilities are the Football 
+
+Stadium, Track Oval, Baseball Grounds, two buildings within RMSC for the 
+
+sleeping quarters of the front liners. 
+
+ 
+
+2) Safety and well-being of Employees during the pandemic 
+ 
+
+As the RMSC and PhilSports Complex were used as COVID-19 quarantine 
+
+facilities, the PSC management ensured the safety and well-being of all its 
+
+employees, while continuing with the operations. The PSC adopted the work-
+
+from-home arrangement for most of its employees it adopted the skeletal 
+
+workforce in each office. 
+
+ 
+
+Regular COVID-19 testing of employees who reported for work as part of 
+
+skeletal workforce was also institutionalized. All reporting PSC employees 
+
+were also required to answer an online Health Declaration Form, and were 
+
+submitted to the Medical and Scientific Athletes Services (MSAS) at least 2-3 
+
+days before entering/re-entering the PSC. Health Declaration Forms were also 
+
+found in the PSC entrance and those answered will be evaluated first by an 
+
+MSAS nurse before entry. 
+
+ 
+
+3) Availability of the following 
+ 
+
+a) three ambulance units to cater to emergency cases during sports activities 
+b) information materials on earthquake readiness and emergency evacuation 
+
+plans (per office/floor) are posted in conspicuous places in the PSC offices 
+
+c) fire extinguishers are installed in noticeable area per office and with 
+appropriate markers 
+
+d) smoke detectors and provision for fire suppression system in some sports 
+venues 
+
+e) supplies and equipment for flood control  
+f) survival kit for employees in case of disaster/calamity 
+
+ 
+
+
+
+67 
+
+4) Trained PSC drivers on driving and operating ambulance car on February 8, 
+2021, in coordination with PSC-MSAS and Philippine National Red Cross 
+
+ 
+
+5) Initiatives and measures for Climate Change Mitigation and Adaptation 
+ 
+
+a) practices energy efficiency in all offices and facilities to reduce unnecessary 
+consumption of electricity and avoid the increase of pollutant emissions 
+
+b) use of bicycle for employees reporting for work is supported by providing 
+specified parking area inside the PSC premises 
+
+c) landscaped areas inside the RMSC, PhilSports area and Baguio Training 
+Camp where plants and flowers are being maintained 
+
+ 
+
+ 
+
+Compliance with the Property Insurance Law (RA No. 656) 
+
+ 
+
+7. The agency insured its properties with the General Insurance Fund (GIF) of the 
+GSIS as required under COA Circular No. 92-390 dated November 17, 1992. 
+
+ 
+
+ 
+
+Compliance with Tax Laws 
+
+ 
+
+8. For CY 2020, the agency withheld and remitted the amount of ₱110,843,684.21 and                 
+₱139,395,957.29, respectively to the BIR for the taxes withheld on compensation, 
+
+value-added tax, other percentage taxes, and creditable income taxes (expanded). 
+
+ 
+
+ 
+
+Compliance with GSIS Premium Deductions and Remittances (RA No. 8291) 
+
+ 
+
+9. The agency withheld and remitted the amount of ₱6,216,628.37 and ₱6,275,507.73, 
+respectively to GSIS, leaving a balance of (₱51,367.96) which is subject for 
+
+reconciliation. 
+
+ 
+
+ 
+
+Compliance with Pag-IBIG Fund Contributions (RA No. 9679) 
+
+ 
+
+10. The agency withheld and remitted the amount of ₱1,570,675.52 and ₱1,562,795.63, 
+respectively to the HDMF for the contributions and loan amortizations of PSC 
+
+officials and employees for CY 2020 in compliance with RA No. 9679 dated July 
+
+21, 2009, leaving a balance of ₱121,206.98, of which the amount of ₱7,879.89 was 
+
+remitted in January 2021 while the amount of ₱113,327.09 is subject for 
+
+reconciliation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+68 
+
+Compliance with PhilHealth Contributions (RA No. 7875) 
+
+  
+
+11. The agency withheld and remitted the amount of ₱457,982.42 and ₱458,197.09, 
+respectively to PhilHealth the contributions of PSC officials and employees in 
+
+compliance with RA No. 11223 dated July 23, 2018, leaving a balance of 
+
+₱23,695.26 which was remitted in January 2021. 
+
+ 
+
+ 
+
+Status of Audit Suspensions/Disallowances and Charges 
+
+ 
+
+12. As of December 31, 2020, unsettled suspension and disallowances totaled 
+₱2,629,724,612.79 and ₱114,374,381.07, respectively, as follows: 
+
+  
+Audit Decision Jan. 1, 2020 (₱) Issued (₱) Settled (₱) Dec. 31, 2020 (₱) 
+
+Notice of Suspension 39,281,979.61 2,618,228,539.90 27,785,906.72 2,629,724,612.79 
+
+Notice of Disallowance 112,696,630.04 4,122,175.03 2,444,424.00 114,374,381.07 
+
+ 
+
+ 
+
+Fund Utilization 
+
+ 
+
+13. Out of the total allotments of ₱717,420,003.16 in CY 2020, ₱695,138,455.00 or 
+96.89 percent was obligated and ₱689,335,769.05 or 96.09 percent was disbursed. 
+
+
+
+

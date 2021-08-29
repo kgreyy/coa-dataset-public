@@ -1,0 +1,4638 @@
+PART II – AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+I)	FINANCIAL AND COMPLIANCE AUDIT
+
+
+
+Inaccurate and unreliable balance of Property, Plant and Equipment (PPE) accounts
+
+
+
+1. 	The reported balances of the Property, Plant, and Equipment (PPE) accounts aggregating to ₱1,537,825,333.85 as of year-end were inaccurate and unreliable due to the (a) unreconciled discrepancy of ₱228,036,773.15 between the accounting records and Report on the Physical Count of Property, Plant and Equipment (RPCPPE); (b) unrecorded deliveries of PPE totaling to ₱570,800.00; (c) inclusion of unserviceable, defective, and undisposed properties both in the books and in the RPCPPE aggregating to ₱2,445,753.92; (d) unreconciled discrepancy of ₱66,607,275.80 between the accounting records and the Report on Projects/Programs/Activities (RPPAs); and (e) unsubstantiated balances affecting the Construction in Progress-Buildings and Other Structures account in the net amount of ₱13,598,281.55, which are inconsistent with COA Circular No. 2020-006 dated January 31, 2020, pertinent provisions of Presidential Decree (P.D.) No. 1445, and the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I. 
+
+
+
+(a)	Unreconciled discrepancies between the accounting records and inventory report- ₱228,036,773.15 and unreconciled balances in the PPE Schedule- ₱231,633,027.88
+
+
+
+1.1 	Despite the previous years’ audit recommendation, the University failed anew to conduct an actual and complete physical count of all property, plant and equipment (PPE).  The Property Officer commented that meetings and planning were conducted by the property officers of each campus to carry out University-wide inventory of PPEs. Also, PPE Ledger Cards (PPELCs) were being prepared progressively and efforts were exerted to complete said records retroactively. Moreover, Property Cards (PCs) were maintained by the Property Office and, together with the Accounting Office, reconciliation of records was done. Nevertheless, the balances of the accounting and property records have never put into agreement up to this time; hence, this reiteration of the audit observation.   
+
+
+
+1.2 	Verification of the Statement of Financial Position (SFPos) of the University as of December 31, 2020 showed PPEs with a net carrying amount of ₱1,021,417,761.79, representing 76.54% of the total assets of ₱1,334,527,745.43.  Comparison of the PPEs costing ₱1,309,804,829.77 as per accounting records (excluding Construction in Progress (CIP) accounts) with the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) submitted by the Property Office totaling to ₱1,081,768,056.62, disclosed a huge discrepancy of ₱228,036,773.15, as detailed below:
+
+
+
+PPE Account
+
+Balance per accounting records
+
+Balance per RPCPPE
+
+Difference 
+
+Land
+
+₱19,000,000.00 
+
+₱19,350,000.00 
+
+₱ (350,000.00)
+
+Land Improvements, Aquaculture Structures 
+
+43,400.00 
+
+0.00
+
+43,400.00 
+
+Other Land Improvements
+
+22,827,983.06 
+
+3,704,179.22 
+
+19,123,803.84 
+
+Water Supply Systems
+
+        14,943,683.78 
+
+       12,447,964.78 
+
+          2,495,719.00 
+
+Power Supply Systems
+
+        26,820,032.28 
+
+         7,812,531.64 
+
+        19,007,500.64 
+
+Communication Networks
+
+             338,650.00 
+
+0.00
+
+             338,650.00 
+
+Buildings
+
+        94,822,683.26 
+
+     170,077,429.10 
+
+       (75,254,745.84)
+
+School Buildings 
+
+       587,812,111.99 
+
+     514,664,451.66 
+
+        73,147,660.33 
+
+Hostels and Dormitories
+
+        27,181,991.32 
+
+       18,165,691.84 
+
+          9,016,299.48 
+
+Other Structures 
+
+        87,137,763.84 
+
+       13,030,174.32 
+
+        74,107,589.52 
+
+Machinery
+
+        38,292,343.88 
+
+       33,824,952.81 
+
+          4,467,391.07 
+
+Office Equipment 
+
+        59,079,180.51 
+
+       29,645,187.69 
+
+        29,433,992.82 
+
+Information and Communication Technology Equipment
+
+       119,244,691.46 
+
+       68,082,763.91 
+
+        51,161,927.55 
+
+Agricultural and Forestry Equipment
+
+          4,890,820.71 
+
+         3,746,499.00 
+
+          1,144,321.71 
+
+Marine and Fishery Equipment
+
+             298,200.00 
+
+         1,321,242.00 
+
+         (1,023,042.00)
+
+Communication Equipment
+
+          3,601,002.76 
+
+           260,180.00 
+
+          3,340,822.76 
+
+Disaster Response and Rescue Equipment
+
+             156,758.35 
+
+           420,340.00 
+
+            (263,581.65)
+
+Medical Equipment 
+
+          9,842,717.79 
+
+         3,635,071.94 
+
+          6,207,645.85 
+
+Sports Equipment
+
+          1,047,549.00 
+
+         1,125,495.00 
+
+             (77,946.00)
+
+Technical and Scientific Equipment
+
+        45,427,103.01 
+
+       31,267,143.64 
+
+        14,159,959.37 
+
+Other Machineries and Equipment
+
+        58,678,898.73 
+
+       15,961,154.23 
+
+        42,717,744.50 
+
+Motor Vehicles
+
+        18,352,025.00 
+
+       15,619,425.00 
+
+          2,732,600.00 
+
+Furniture and Fixtures
+
+        64,535,791.59 
+
+     116,976,432.84 
+
+       (52,440,641.25)
+
+Books
+
+             654,661.70 
+
+           629,746.00 
+
+               24,915.70 
+
+Other Property, Plant, and Equipment
+
+          4,774,785.75 
+
+0.00   
+
+          4,774,785.75 
+
+TOTAL
+
+₱1,309,804,829.77  
+
+₱1,081,768,056.62 
+
+₱228,036,773.15 
+
+
+
+1.3 	For the calendar year 2020, the Inventory Committee of each campus conducted physical count of PPE as mandated by Section 38, Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, which states that the entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report of the Physical Count of Property, Plant, and Equipment (RPCPPE) as of December 31 of each year xxx.  Notwithstanding, the Audit Team noted that there was difficulty in the reconciliation between the RPCPPE and the accounting records due to the incomplete PPE Ledger Cards (PPELCs) and Property Cards (PCs) maintained by the Accounting Unit and the Property Office, respectively, owing to inadequacy of records and information especially for those acquisitions in previous years. Moreover, the PPE Schedule maintained by the Accounting Unit contained “for reconciliation balance” or with incomplete or no records and information at all aggregating to ₱231,633,027.88, consisting of the following:
+
+
+
+PPE Account
+
+Amount
+
+Other Land Improvements
+
+₱1,426,646.21
+
+Power Supply Systems
+
+6,125,086.15
+
+Buildings
+
+12,690,199.15
+
+School Buildings 
+
+89,471,405.62
+
+Other Structures 
+
+55,441,272.39
+
+Office Equipment 
+
+ 15,591,767.19 
+
+Information and Communication Technology Equipment
+
+ 25,226,139.08 
+
+Agricultural and Forestry Equipment
+
+ 248,794.00 
+
+Other Machineries and Equipment
+
+ 3,473,892.00 
+
+Motor Vehicles
+
+ 1,108,300.00 
+
+Furniture and Fixtures
+
+ 20,829,526.09 
+
+TOTAL
+
+₱231,633,027.88
+
+
+
+1.4 	Scrutiny of the submitted RPCPPE disclosed that some unit values of the property inventoried were not indicated in the report although the same was prepared in the prescribed format. The Property Officer averred that there was already a plan to undertake an appraisal of these PPEs to determine their values. Likewise, the classification of the two PPE accounts totaling to ₱23,124,482.68 in the submitted RPCPPE was not aligned with the account titles reported by the Accounting Unit. This deficiency was already mentioned in the previous year’s audit observation, but the same error appeared again in the current report as follows:
+
+
+
+RPCPPE Classification
+
+Amount----footnote1----
+
+Road Network 
+
+₱21,157,078.99
+
+Perimeter Fence
+
+1,967,403.69
+
+TOTAL
+
+₱23,124,482.68
+
+
+
+1.5 	To assist the government agencies, including the State Universities and Colleges, in coming up with reliable PPE balances, COA Circular 2020-006 dated January 31, 2020 was issued and shall take effect immediately. This Circular prescribes the guidelines and procedures on (1) inventory-taking; (2) recognition of those found at the station; and (3) disposition for non-existing/missing PPE items for the one-time cleansing of PPE accounts. With this intention, the guidelines and procedures as prescribed by the said Circular were not carried out by the University as of December 31, 2020, thus, defeating the purpose of the Circular, which is to establish the PPE balances that are verifiable as to the existence, condition, and accountability. 
+
+
+
+	(b)	Unrecorded deliveries of PPE – ₱570,800.00 
+
+
+
+1.6 	Section 119 of Presidential Decree (P.D.) No. 1445 or the “Government Auditing Code of the Philippines” provides the accounting policy for obligations and expenditures, emphasizing among others that all lawful expenditures and obligations incurred during the year shall be taken up in the accounts of that year.
+
+
+
+1.7 	Moreover, Section 6, Chapter 2 of the GAM, Volume I, prescribes that each entity shall recognize and present its financial transactions and operations conformably to accrual basis of accounting in accordance with the International Public Sector Accounting Standards (IPSAS). Accrual basis, as defined in Section 2(a) thereof, means a basis of accounting under which transactions and other events are recognized when they occur (and not only when cash or its equivalent is received or paid). Therefore, the transactions and events are recognized in the accounting records and recognized in the financial statements of the periods to which they relate.
+
+
+
+1.8 	Likewise, Section 3, Chapter 10 of the same Manual, mentions about the criteria for recognition of PPE and states that the cost of an item of PPE shall be recognized as assets if, and only if (a) it is probable that the future economic benefits or service potential associated with the item will flow to the entity; (b) the cost or fair value of the item can be measured reliably; (c) beneficial ownership and control clearly rest with the government; (d) the asset is used to achieve government objectives; and (e) it meets the capitalization threshold of P15,000. (emphasis added)
+
+
+
+1.9 	To perform cut-off tests to check whether deliveries near year-end were recognized as of December 31, 2020, the Audit Team requested copies of Inspection and Acceptance Report (IAR) and Property Acknowledgment Receipt (PAR) from the Property Office of each campus. Review of the IARs, PARs and the PPE schedule from the Accounting Unit revealed that the deliveries totaling to ₱570,800.00, as summarized below, were not recorded in the accounting records as of December 31, 2020.
+
+
+
+Account Title
+
+Amount
+
+Office Equipment
+
+₱ 55,000.00
+
+Information and Communication Technology Equipment
+
+285,582.00
+
+Medical Equipment
+
+20,500.00
+
+Technical and Scientific Equipment
+
+141,398.00
+
+Furniture and Fixtures
+
+68,320.00
+
+TOTAL
+
+₱570,800.00
+
+
+
+1.10 	We noted that the said delivered PPE items were already included in the RPCPPE and reported as delivered and accepted by the Property Office, although still unpaid as of December 31, 2020. Consequently, the PPE account balances were understated by ₱570,800.00. Similarly, there was an understatement of such amount under the Liabilities account.  Moreover, the deviation from the accrual basis of accounting and the recognition policy for assets is not in keeping with Section 119 of P.D. No. 1445 and the afore-cited sections of the GAM for NGAs, Volume I.
+
+
+
+	(c)	Inclusion of unserviceable, defective, and undisposed properties both in the books and in the RPCPPE – ₱2,445,753.92 
+
+
+
+1.11 	Section 79 of P.D. No. 1445 provides that when government property has become unserviceable for any cause, or is no longer needed, it shall, upon application of the officer accountable therefore, be inspected by the head of the agency or his duly authorized representative in the presence of the auditor concerned and, if found to be valueless or unsalable, it may be destroyed in their presence. If found to be valuable, it may be sold at public auction to the highest bidder under the supervision of the proper committee on the award or similar body in the presence of the auditor concerned or other duly authorized representatives of the Commission. 
+
+
+
+1.12 	Also, Section 40 (d), Chapter 10 of the same Manual states that all unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) (Appendix 74). As mentioned by the said Appendix, the IIRUP is a report prepared by the Supply and/or Property Unit to record dropping from the books the unserviceable properties carried in the PPE accounts. It was instructed that a copy should be submitted to COA – Technical Service Office (TSO) for inspection of PPE that requires evaluation by experts. 
+
+
+
+1.13 	A review of the RPCPPE as of December 31, 2020 showed the inclusion of unserviceable properties totaling to at least ₱2,445,753.92, which were still undisposed as of year-end. Details are summarized in the table below:
+
+
+
+PPE Account
+
+Amount----footnote2----
+
+Machinery
+
+₱0.00
+
+Office Equipment 
+
+422,699.00
+
+Information and Communication Technology Equipment
+
+1,691,020.00
+
+Communication Equipment
+
+0.00
+
+Medical Equipment 
+
+32,239.92
+
+Sports Equipment
+
+10,425.00
+
+Other Machineries and Equipment
+
+0.00
+
+	Motor Vehicles
+
+285,000.00
+
+	Furniture and Fixtures
+
+4,370.00
+
+TOTAL
+
+₱2,445,753.92
+
+
+
+1.14 	The non-disposal of the said unserviceable properties may result in further deterioration and loss of opportunity to earn additional earnings from scrap value had disposal been carried out immediately. 
+
+
+
+(d) Unreconciled discrepancies between the accounting records and Report on PPAs for Construction in Progress (CIP) account -₱66,607,275.80
+
+
+
+1.15 	The Construction in Progress (CIP) accounts had a total balance of ₱228,020,504.08 as of December 31, 2020. Comparison of the CIP account balance per books with the amount in the Report on Projects/Programs/Activities (PPAs) submitted by the Office of the Physical Plant and Engineering Services (OPPES) disclosed a material discrepancy of ₱66,607,275.80. Details are shown below:
+
+
+
+Account Title
+
+Balance per accounting records
+
+Balance per Report on PPAs
+
+Difference
+
+Construction in Progress – Land Improvements
+
+₱14,406,698.35 
+
+₱13,429,386.16
+
+₱977,312.19
+
+Construction in Progress – Infrastructure Assets 
+
+14,453,862.28 
+
+14,740,050.04
+
+(286,187.76)
+
+Construction in Progress – Buildings and Other Structures
+
+199,159,943.45 
+
+133,243,792.08
+
+65,916,151.37
+
+TOTAL
+
+₱228,020,504.08
+
+₱161,413,228.28
+
+₱66,607,275.80
+
+
+
+1.16 	Our audit revealed that one infrastructure project titled “Construction of Four-Storey College of Technology (CT) Building” still appeared under the CIP-Buildings and Other Structures for ₱64,117,380.00. The project was reported as completed in February 2018 in the Report on PPAs for the quarter ending March 31, 2018 but the same was not transferred to School Buildings account as required under Section 8 (g), Chapter 10 of GAM for NGAs, Volume I.
+
+
+
+1.17 	Section 8, supra, contains the rules in the acquisition of PPE and Item g provides that during the construction period, all expenses incurred in relation to the construction of the PPE shall be taken up in the books as Construction in Progress (CIP) with the appropriate asset classification. As soon as the construction is completed, the “Construction in Progress” account shall be reclassified to the proper asset account. (emphasis added)
+
+
+
+1.18 	Likewise, projects included both in the Construction in Progress Ledger Card (CIPLC) and the Report on PPAs disclosed discrepancies totaling to ₱11,108,385.75 (Refer to Appendix A for the details). Inquiry with the Accountant and the Engineer who prepared the Report on PPAs revealed that the amounts shown in the said report included the gross amount obligated for every progress billing and the 15% mobilization fees; thus, the total discrepancy refers to the total amount equivalent to the unrecouped advances of each project.
+
+
+
+1.19 	In addition, the Audit Team noted that the CIP-Buildings and Other Structures Schedule maintained by the Accounting Unit had a “for reconciliation” balance or with incomplete or no records and information amounting to ₱22,394,535.53. Further analysis of the CIPLC also revealed the presence of unknown projects totaling to a negative figure of ₱8,796,252.96 as follows:
+
+
+
+Name of Project
+
+Amount
+
+Construction in Progress – Land Improvements
+
+
+
+Construction of East Gate
+
+            ₱   349,200.00 
+
+Façade and Landscaping of East Gate
+
+         1,783,899.54 
+
+Sub-total
+
+2,133,099.54
+
+Construction in Progress – Buildings and Other Structures
+
+
+
+Concreting of Road near covered court and ladies’ dorm
+
+        957,215.03 
+
+Construction of East Gate
+
+       (1,510,513.35)
+
+Construction of Female Dormitory
+
+            208,481.61 
+
+Façade and Landscaping of East Gate
+
+          (152,639.20)
+
+Renovation of High School Building
+
+         2,269,651.13 
+
+Construction of Multi-Purpose building
+
+          574,323.26 
+
+Construction of Science and Technology
+
+       (6,378,169.14)
+
+Construction of Science and Technology
+
+       3,151,565.92 
+
+Additional Work on Organic Agriculture, Research and Development Facility - Abucay
+
+            220,795.24 
+
+
+
+Construction of E-Library
+
+     (13,421,483.00)
+
+Construction of E-Library
+
+       2,853,500.00 
+
+Rehabilitation and Construction of Graduate Study Building to Arts and Science Building II - Main
+
+            297,920.00 
+
+Sub-total
+
+(10,929,352.50)
+
+TOTAL
+
+₱ (8,796,252.96)
+
+
+
+1.20 	Lastly, the following errors, although minimal in amount, were incurred in the transfer of completed projects to their respective PPE accounts:
+
+
+
+ Name of Project
+
+Amount
+
+Construction in Progress – Buildings and Other Structures
+
+
+
+Construction of Animal Welfare, Research and Development Center
+
+            (₱ 0.01)
+
+Construction of College of Nursing and Midwifery Building Phase I
+
+(1.00)
+
+Construction of Water Refilling Station
+
+(0.01)
+
+TOTAL
+
+(₱ 1.02)
+
+
+
+1.21 	The failure to resolve the above difference of ₱66,607,275.80 in the CIP accounts based on accounting records and the submitted Report on PPAs caused adverse impact on the accuracy and reliability of the account balances in the year-end financial statements.  
+
+
+
+1.22 	We recommended and the University President agreed to consider the following corrective measures:
+
+
+
+a)	initiate the implementation of University-wide conduct of physical count of all properties in compliance with the call for one-time cleansing of PPE as prescribed under COA Circular No. 2020-006; 
+
+
+
+b)	require the Property Officer to (i) submit a report on the delivered and accepted items as of year-end together with the corresponding copy of purchase order, sales invoice, delivery receipts, and inspection and acceptance report to the Accounting Unit to facilitate recognition in the books of accounts; (ii) coordinate with all campuses in the preparation of the Inventory and Inspection Report of Unserviceable Property (IIRUP) for inspection and appraisal by management in compliance with Section 40 (d), Chapter 10 of the GAM for NGAs, Volume I; (iii) create a disposal committee for the disposition of all unserviceable properties pursuant to Section 79 of P.D. No. 1445; and (iv) require the disposal committee to submit to the Accounting Division the proofs of disposal of unserviceable property for derecognition in the books of accounts; 
+
+
+
+c)	require the University Accountant to (i) coordinate with the Property Officer for the reconciliation of the variance of  ₱228,036,773.15 between accounting records and the RPCPPE; (ii) recognize delivered PPE items of ₱570,800.00  based on the delivery receipts and acceptance reports from the Property Office; (iii) transfer the completed infrastructure projects amounting to ₱64,117,380.00 to correct the balances of Construction in Progress and School Buildings account; and (iv) trace the source of the “for reconciliation balance”, unknown projects, and recording errors amounting to ₱22,394,535.53, (₱8,796,252.96), and (₱1.02), respectively, and effect the corresponding adjustments to the CIP-Buildings and Other Structures account, if warranted; and
+
+
+
+d)	require the Director of the Office of the Physical Plant and Engineering Services (OPPES) to (i) reconcile regularly the CIPLC and the Report on PPAs; and (ii) ensure that the costs of the individual projects under construction as indicated in the Report on PPAs are based on the percentage of completion and not on the gross amounts obligated for every progress billing plus 15% mobilization fees, if any, as had been the practice. The status of project accomplishment as shown in that Report will serve as a guide for the University Accountant in the timely recognition of accounting events affecting the CIP account. 
+
+
+
+
+
+Doubtful accuracy of Due to National Government Agencies (NGAs) account balance
+
+
+
+2. 	The accuracy of the year-end balance of the Due to NGAs account amounting to ₱99,919,061.06 was doubtful due to (a) unreconciled discrepancy of ₱6,820,559.22 between the accounting records and status report of externally funded projects; (b) undetermined status of scholarship funds released aggregating to ₱6,118,955.00; (c) existence of unsubstantiated accounts totaling to ₱385,657.50; (d) erroneous recording of fund transfer amounting to ₱4,243,600.00 to the Retained Income Fund (RIF); and (e) non-maintenance of subsidiary records on fund transfers in the sum of ₱38,004,877.33 which are all not compliant with the pertinent provisions of Presidential Decree (P.D.) No. 1445, and the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I.
+
+
+
+2.1 	The Due to National Government Agencies (NGAs) account pertains to the funds transferred to the University by other NGAs, which are subject for liquidation and intended for the implementation of research and development projects, extension projects, and scholarship programs as indicated in the respective Memorandum of Agreement (MOAs) between the said NGAs and the University.  As of December 31, 2020, the balance of the Due to NGAs account per Statement of Financial Position (SFP) amounted to ₱99,919,061.06 which accounts for 41.84% of the total liabilities of ₱238,796,828.85. Analysis of the accounts and verification of subsidiary records disclosed the following deficiencies:
+
+
+
+a)	Discrepancy between the accounting records and status report of externally funded projects – ₱6,820,559.22
+
+
+
+2.2 	To verify the funds received by the University for externally-funded projects, the Audit Team requested a copy of the status report from the Research & Development Office (RDO) and compared the same with the subsidiary records of the Accounting Unit. The subsidiary ledgers (SLs) showed that the total receipts under the Due to NGAs account amounted to ₱51,165,971.23 while the aforementioned status report reflected a bigger amount of ₱57,986,530.45, showing a discrepancy of ₱6,820,559.22, as detailed in Appendix B.  
+
+
+
+2.3 	Scrutiny of the discrepancies disclosed that the Accounting Unit recorded the funds received, net of bank charge of ₱1,468.00; thus, the amount was not recognized as part of the funds received. Moreover, part of the discrepancy pertains to the five projects with no separate subsidiary records from the Accounting Unit totaling to ₱6,719,977.50. Portion of the funds received from the Cavite State University (CvSU) amounting to ₱386,305.60 was also not included in the subsidiary records. On the other hand, the unexpended balance on the first tranche of the project titled Sustainable Mango Production through Science and Technology Innovations and Support Mechanisms for Capacity Development in Central Luzon from the Commission on Higher Education (CHED) Discovery-Applied Research and Extension for Trans/Inter-disciplinary Opportunities (DARE TO) amounting to ₱14.12 was not included in its separate subsidiary record. Said amount has not yet been refunded notwithstanding its receipt of the second tranche. Also, the unexpended balance of ₱287,206.00 on the project titled Development of Farmer's Rice Doctor Kiosk for Increased Production was included in the subsidiary records of another project. This project was already liquidated to the Department of Science and Technology (DOST); however, the said amount pertains to the PPE purchased as part of its MOA. According to the RDO staff, the Office is waiting for the deed of donation from the DOST before submitting to the Accounting Unit for the recording of the PPE and full liquidation of the said project.
+
+
+
+b)	Undetermined status of scholarship funds released – ₱6,118,955.00 
+
+
+
+2.4 	Included in the fund transfers received by the University are the scholarship funds given to the students. As of December 31, 2020, the subsidiary records from the Accounting Unit showed scholarship funds of ₱6,118,955.00 received from various sources as follows:
+
+
+
+Particulars
+
+Balances
+
+Technical Education and Skills Development Authority (TESDA) Technical-Vocational Education and Training (TVET) Program
+
+₱        2,267,603.25 
+
+Universal Access to Quality Tertiary Education Act (UAQTEA) Scholarship Program
+
+764,381.75 
+
+CHED Student Financial Assistance Programs (StuFAPs)
+
+3,575.00 
+
+CHED Tulong Dunong Program
+
+ (1,950,000.00)
+
+Tertiary Education Subsidy (TES) Program
+
+           4,633,600.00 
+
+Department of Health (DOH) Scholarship Program
+
+399,795.00 
+
+Total
+
+₱        6,118,955.00
+
+
+
+2.5 	As can be gleaned from the table above, the subsidiary record of CHED Tulong Dunong Program had a negative/debit balance as at year-end. Since the Due to NGAs normally carries a credit balance being a liability account, the said subsidiary record with negative/debit balance shall be regarded as receivable or overpayment based on existing accounting policy which would be financially prejudicial on the part of the University. Non-adjustment of the credit balance may affect the reliability of the account. 
+
+
+
+2.6	To verify the disposition of the funds received, the Audit Team requested a copy of the status report of scholarship funds released, together with the liquidating documents such as, but not limited to, the signed payroll of the students and acknowledgment receipt from the Source Agency (SA) to the personnel concerned. However, no report yet was submitted; thus, the status of the fund transfers cannot be ascertained as of this writing.
+
+
+
+2.7 	Section 122 (2) of Presidential Decree (P.D.) No. 1445 provides that failure on the part of the officials concerned to submit the documents and reports mentioned shall automatically cause the suspension of payment of their salaries until they shall have complied with the requirements of the Commission. 
+
+
+
+c)	Existence of unsubstantiated accounts – ₱385,657.50 
+
+
+
+2.8 	Although subsidiary records were partially maintained by the Accounting Unit, the following records of three SAs did not provide sufficient information as to the purpose of the fund transfer and the date of grant. 
+
+
+
+Particulars
+
+Balances
+
+Philippine Coconut Authority (PCA)
+
+₱ 328,618.50 
+
+Department of Trade and Industry (DTI)
+
+18,000.00 
+
+Citizen Satisfaction Index System (CSIS) - DILG
+
+39,039.00 
+
+Total
+
+₱ 385,657.50
+
+
+
+2.9 	The above deficiency could be attributed to the failure of the Accounting Unit to fully substantiate the account with the necessary records and detailed information especially those funds received in the previous years. Consequently, further evaluation of the recorded balances and confirmation with the fund sources could not be undertaken. 
+
+
+
+d)	Erroneous recording of fund transfer to Retained Income Fund (RIF) – ₱4,243,600.00
+
+
+
+2.10 	Section 1.1.3 of the Unified Accounts Code Structure (UACS) Manual accompanying the Commission on Audit (COA) - Department of Budget and Management (DBM) - Department of Finance (DOF) Joint Circular (JC) No. 2013-1 dated August 6, 2013 defines Custodial Funds as the receipts or cash received by any government agency—whether from a private source or another government agency—to fulfill a specific purpose.
+
+
+
+2.11 	Also, Sections 6(g) and 13, Chapter 2 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, mention that each entity shall recognize and present its financial transactions and operations conformably to fund cluster accounting and that the books of accounts shall be maintained by fund clusters.
+
+
+
+2.12 	Verifications of the transactions of Due to NGAs account for the current year revealed that the collection of stipend and administrative cost under Tertiary Education Subsidy (TES) Expanded Students' Grants-in-Aid Program for Poverty Alleviation (ESGP-PA) of Universal Access to Quality Tertiary Education Act (UAQTEA), which was received on November 28, 2020 from the CHED, was recorded under the Retained Income Fund (RIF). Based on the fund cluster accounting requirements, we noted that the recognition of the above transaction under the said Fund was erroneous. According to the University Accountant, CHED deposited the fund transfer to the bank account of RIF, so they just followed it in the recording. However, as of to date, no adjustment was made to transfer the amount to the Custodial Fund (CF) which is the appropriate account for trust receipts.
+
+
+
+e)	Non-maintenance of subsidiary records on fund transfers – ₱38,004,877.33
+
+
+
+2.13 	Section 63, Chapter 6, Volume I of the same Manual mentions about the accounting policies for the transfer of funds and Item e states that a separate subsidiary record for each account shall be maintained by the IA whether or not a separate bank account is opened.
+
+
+
+2.14 	Corollary to this, Section 111 of P.D. No. 1445 provides that the accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government. The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information. 
+
+
+
+2.15 	Analysis of the subsidiary records revealed that a sum of ₱38,004,877.33 or 38.04% of the total reported balance of ₱99,919,061.06 was not supported by separate subsidiary records. This amount was lumped under “Unreconciled balance” which was a forwarded balance from the electronic New Government Accounting System (e-NGAS) of the Accounting Unit, broken by fund as follows: 
+
+
+
+Fund
+
+Balances
+
+General Fund (GF)
+
+(₱      24,000.00)
+
+Retained Income Fund (RIF)
+
+24,011,748.00
+
+Revolving Fund (RF)
+
+(354,673.53)
+
+Custodial Fund (CF)
+
+14,371,802.86
+
+Total
+
+₱ 38,004,877.33
+
+
+
+2.16 	Again, the above deficiency was due to the failure of the Accounting Unit to fully substantiate the account with the necessary records and detailed information especially for those funds transferred to the Agency in the previous years.  Such practice is not in conformity with Section 63 (e), Chapter 6, supra, and Section 111 of P.D. No. 1445. Had the Accounting Unit cautiously kept track of the transfer, liquidation, and non-movement of the funds, the unused balances could have been returned promptly to the SAs giving them the opportunity to spend the same in other productive activities and purposes. 
+
+
+
+2.17 	Overall, the above unresolved accounting deficiencies affected the accuracy and reliability of the Due to NGAs account amounting to ₱99,919,061.06 as of year-end. 
+
+
+
+2.18 	We recommended and the University President agreed to consider the following corrective measures:
+
+
+
+a)	Require the Accountant to (i) analyze the discrepancy of ₱6,820,559.22 and adjust errors noted, if warranted; (ii)  draw a journal entry voucher (JEV) adjusting the Due to NGAs and Accumulated Surplus/Deficit accounts for the bank charge of ₱1,468.00, and henceforth include the bank charges in recognizing the funds received by the University in the ensuing years; (iii) complete the subsidiary records on the eight projects, including the funds received from Cavite State University (CvSU), Commission on Higher Education (CHED) Discovery-Applied Research and Extension for Trans/Inter-disciplinary Opportunities (DARE TO), and Department of Science and Technology (DOST) totaling to ₱6,719,977.50, ₱386,305.60, ₱14.12, and ₱287,206.00, respectively; (iv) review and analyze the unsubstantiated accounts amounting to ₱385,657.50 to determine their details and nature and the office responsible for the funds received so that the Audit Team could readily confirm the fund status; (v) adjust the recording of the funds received from the Retained Income Fund (RIF) to Custodial Fund (CF) in the amount of ₱4,243,600.00, and subsequently recognize the CF for similar fund receipts in the ensuing years in consonance with the GAM and UACS requirement; (vi) review and analyze prior years’ transactions to obtain the details and nature of the “unreconciled balance” aggregating to ₱38,004,877.33 and prepare a separate subsidiary record, if warranted, in compliance with Section 63 (e), Chapter 6 of the GAM for NGAs, Volume I and Section 111 of P.D. 1445;
+
+
+
+b)	Instruct the Scholarship Officer to (i) submit to the Audit Team the status report of scholarship funds released together with the supporting documents such as, but not limited to, signed payroll of the students and acknowledgment receipt from the Source Agency (SA). Otherwise, if the releases could not be properly substantiated, initiate appropriate action against the personnel concerned in accordance with Section 122 (2) of P.D. No. 1445; (ii) regularly reconcile the status report of scholarship funds released with the subsidiary records maintained by the Accounting Unit; and (iii) ensure that all scholarship funds are recognized, released to the appropriate recipients/beneficiaries, and any unexpended balance is fully remitted to the SA; and 
+
+
+
+c)	Advise the Director of the Research & Development Office (RDO) to (i) regularly reconcile the status report of externally funded projects with the accounting records; and (ii) ensure that all funds received are accounted for and properly recognized in the books of accounts and fully and immediately liquidated upon completion of the projects while any unexpended balance is fully remitted to the SA.
+
+
+
+
+
+Prior year transactions inadvertently recorded in the current year 
+
+
+
+1)	Payments in the sum of ₱7,612,368.32 for 2019 claims of suppliers and employees of the University were inadvertently recognized in the current year contrary to the provisions of Section 119 of P.D. No. 1445 and Section 6, Chapter 2 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I on accrual basis of accounting, thus, resulting in the overstatement of the affected Assets, Expenses and Accumulated Surplus/Deficit accounts by ₱39,710.00, ₱7,209,368.32, and ₱7,249,078.32, respectively. 
+
+
+
+3.1	Scrutiny of current year’s disbursement claims of the University amounting to ₱7,612,368.32 (see Appendix C) under the Internally Generated Income (Retained Income Fund), Business Type Income (Revolving Fund), and Trust Receipts (Custodial Fund) showed incurrence of expenses and acquisition of assets pertaining to CY 2019, summarized as follows:
+
+
+
+Particulars
+
+Total Amount
+
+Office Equipment
+
+₱ 273,000.00 
+
+Furniture and Fixtures
+
+     130,000.00 
+
+Subsistence Allowance
+
+         1,275.00 
+
+Laundry Allowance
+
+         1,275.00 
+
+Honoraria
+
+ 2,010,738.15 
+
+Hazard Pay
+
+     423,906.00 
+
+Overtime and Night Pay
+
+       12,514.59 
+
+Traveling Expenses-Local
+
+       55,851.80 
+
+Traveling Expenses-Foreign
+
+       24,839.68 
+
+Training Expenses
+
+ 1,275,097.00 
+
+Office Supplies Expenses
+
+     306,199.50 
+
+Drugs and Medicines Expenses
+
+     271,644.00 
+
+Agricultural and Marine Supplies Expenses
+
+     142,500.00 
+
+Semi-Expendable Machinery and Equipment Expenses
+
+     317,950.00 
+
+Semi-Expendable Furniture, Fixtures and Books Expenses
+
+     140,827.00 
+
+Other Supplies and Materials Expenses
+
+     262,496.75 
+
+Other Professional Services
+
+     579,731.87 
+
+Repairs and Maintenance-Buildings and Other Structures
+
+       47,155.08 
+
+Repairs and Maintenance-Machinery and Equipment
+
+     189,000.00 
+
+Repairs and Maintenance-Transportation Equipment
+
+       21,520.00 
+
+Labor and Wages
+
+       30,349.46 
+
+Printing and Publication Expenses
+
+         6,840.00 
+
+Representation Expenses
+
+     982,684.44 
+
+Rent/Lease Expenses
+
+       76,500.00 
+
+Subscription Expenses
+
+         5,973.00 
+
+Other Maintenance and Operating Expenses
+
+       22,500.00 
+
+Total
+
+₱ 7,612,368.32
+
+
+
+3.2	The above transactions were not recognized in the proper accounting period and no set-up of Liabilities was made as at year-end under the Accounts Payable or Due to Officers and Employees accounts, as the case may be.   
+
+
+
+3.3	The aforementioned Office Equipment and Furniture and Fixtures were already delivered and accepted by the University in the previous year; however, it has been the practice of the University to recognize the assets only upon actual payment. As such, depreciation of ₱39,710.00 was likewise not provided in CY 2019, as illustrated below:
+
+
+
+JEV
+
+JEV Date
+
+Date of IAR
+
+Account
+
+Useful Life
+
+Cost
+
+Annual Depreciation
+
+Depreciation that should be recognized in CY 2019
+
+JEV-2020-01-000009
+
+1/10/2020
+
+10/21/2019
+
+Office Equipment
+
+5
+
+₱ 72,000.00 
+
+₱ 13,680.00 
+
+₱ 27,360.00 
+
+JEV-2020-01-000323
+
+1/10/2020
+
+12/16/2019
+
+Office Equipment
+
+5
+
+201,000.00 
+
+8,190.00 
+
+0.00  
+
+JEV-2020-01-000053
+
+1/10/2020
+
+12/12/2019
+
+Furniture and Fixtures
+
+10
+
+130,000.00 
+
+12,350.00 
+
+12,350.00 
+
+Total
+
+
+
+
+
+
+
+
+
+₱403,000.00
+
+
+
+₱ 39,710.00
+
+
+
+3.4	The afore-cited practices are not in keeping with Section 119 of Presidential Decree (P.D.) No. 1445 or the “Government Auditing Code of the Philippines” which provides the accounting policy for obligations and expenditures, emphasizing among others that all lawful expenditures and obligations incurred during the year shall be taken up in the accounts of that year.
+
+
+
+3.5	Moreover, Section 6, Chapter 2 of the Government Accounting Manual (GAM), Volume I, provides that each entity shall recognize and present its financial transactions and operations conformably to accrual basis of accounting in accordance with the International Public Sector Accounting Standards (IPSAS). Accrual basis, as defined on Section 2(a) thereof, means a basis of accounting under which transactions and other events are recognized when they occur (and not only when cash or its equivalent is received or paid). Therefore, the transactions and events are recognized in the accounting records and recognized in the financial statements of the periods to which they relate.
+
+
+
+3.6	In view of the late recording of Office Equipment and Furniture and Fixtures, the corresponding Accumulated Depreciation account was understated while the Accumulated Surplus/(Deficit) was overstated by ₱39,710.00. Meanwhile, the affected Expenses and Accumulated Surplus/(Deficit) accounts were overstated by an aggregate amount of ₱7,209,368.32, thus, affecting the fairness of presentation of such accounts in the financial statements.  
+
+
+
+3.7	We recommended and the University President agreed to require the Accountant to:
+
+i)	prepare the necessary journal entries to correct/adjust errors in recording by debiting Accumulated Surplus/(Deficit) amounting to ₱7,249,078.32 and crediting Accumulated Depreciation totaling to ₱39,710.00 and the different Expenses accounts aggregating to ₱7,209,368.32;
+
+
+
+ii)	recognize the assets/expenses in the year the transactions actually occurred following the accrual basis of accounting to ensure proper matching of expenses with income for the accounting period; and 
+
+
+
+iii)	set up the corresponding Accounts Payable or Due to Officers and Employees account at the end of the year for goods and services already delivered/rendered but payments thereto could not be made yet. 
+
+
+
+
+
+Unadjusted negative/abnormal account balances
+
+
+
+2)	Negative/abnormal balances of different Assets and Liabilities accounts remained unadjusted and were continually carried in the books as of December 31, 2020, contrary to Section 15, Chapter 1 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, thus, significantly affecting the accuracy and reliability of the financial information in the financial statements of the University.  
+
+
+
+4.1 	A similar audit observation was brought to the attention of management in the CY 2019 Annual Audit Report (AAR), wherein the Audit Team identified several accounts with negative/abnormal balances on a fund cluster level. This observation was still noted in the current year, which is an indication that the efforts done were not adequate to correct the deficiencies reported. Considering the significant effects of these accounts in the consolidated financial statements, the finding is hereby reiterated. 
+
+
+
+4.2 	Our review of the accounts under the Regular Agency Fund (previously known as General Fund), Internally Generated Income (Retained Income Fund), Business Type Income (Revolving Fund), and Trust Receipts (Custodial Fund) still disclosed negative/abnormal balances at year-end, details of which are as follows:
+
+
+
+Asset Accounts with Credit Balances
+
+Account Title
+
+Regular Agency Fund
+
+Internally Generated Income
+
+Business Type Income
+
+Trust Receipts
+
+Total
+
+Cash-Collecting Officer
+
+₱5,067,822.51 
+
+₱ (951,935.44)
+
+(₱57,233.15)
+
+(₱3,652,416.40)
+
+₱406,237.52 
+
+Other Receivables
+
+1,040.36 
+
+12,417,549.00 
+
+0.00   
+
+ (250.00)
+
+12,418,339.36 
+
+Office Supplies Inventory
+
+7,949,635.94 
+
+2,943,716.45 
+
+ (96,370.42)
+
+ (467,703.99)
+
+10,329,277.98 
+
+Medical, Dental & Laboratory Supplies Inventory
+
+479,624.00 
+
+1,875,546.69 
+
+1,754.30 
+
+ (3,320.00)
+
+2,353,604.99 
+
+Construction Materials Inventory
+
+748,194.94 
+
+412,199.17 
+
+ (44,980.38)
+
+ (124,078.56)
+
+991,335.17 
+
+Construction in Progress – Buildings & Other Structures
+
+202,178,665.15 
+
+(13,597,913.23)
+
+0.00   
+
+10,579,191.53 
+
+199,159,943.45 
+
+Advances for Payroll
+
+ (1,323,810.24)
+
+ (878,152.92)
+
+(102,550.00)
+
+1,685,058.15 
+
+ (619,455.01)
+
+Advances to Special Disbursing Officer
+
+413,476.67 
+
+ (69,968.66)
+
+13,924.05 
+
+ (112,141.00)
+
+245,291.06 
+
+Advances to Contractors
+
+22,172,115.61 
+
+  (5,096,487.86)
+
+0.00   
+
+0.00   
+
+17,075,627.75 
+
+
+
+Liability Accounts with Debit Balances----footnote3----
+
+Account Title
+
+Regular Agency Fund
+
+Internally Generated Income
+
+Business Type Income
+
+Trust Receipts
+
+Total
+
+Accounts Payable
+
+(₱3,644,857.68)
+
+₱20,076,577.19 
+
+₱1,054,968.16 
+
+₱4,706,273.74 
+
+₱22,192,961.41 
+
+Due to BIR
+
+ (6,335,500.21)
+
+7,024,927.19 
+
+1,985,177.12 
+
+2,193,005.12 
+
+4,867,609.22 
+
+Due to GSIS
+
+823,618.06 
+
+741,960.99 
+
+2,001,255.85 
+
+-   
+
+3,566,834.90 
+
+Due to Pag-IBIG
+
+ (609,548.78)
+
+477,180.01 
+
+415,705.56 
+
+3,000.00 
+
+286,336.79 
+
+Due to PhilHealth
+
+20,268.69 
+
+391,380.48 
+
+157,467.22 
+
+0.00   
+
+569,116.39 
+
+Due to GOCCs
+
+0.00
+
+2,986,318.35 
+
+0.00   
+
+ (90,180.00)
+
+2,896,138.35 
+
+Due to LGUs
+
+0.00   
+
+8,385,312.89 
+
+232,500.00 
+
+(1,885,790.09)
+
+6,732,022.80 
+
+Due to Other Funds 
+
+ (1,077,783.66)
+
+9,341,593.28 
+
+472,432.24 
+
+11,397,223.03 
+
+20,133,464.89 
+
+Trust Liabilities
+
+ (97,200.00)
+
+35,323,199.68 
+
+5,210,853.54 
+
+37,321,475.01 
+
+77,758,328.23 
+
+Other Payables
+
+3,730,766.56 
+
+1,694,137.67 
+
+1,744,476.78 
+
+(1,965,571.49)
+
+5,203,809.52 
+
+
+
+4.3 	As can be gleaned from the tables above, except for Advances for Payroll, the accounts with negative/abnormal balances did not appear in the consolidated financial statements because the amounts were set-off or absorbed by the positive balances in the other fund clusters. Inquiry with the University Accountant disclosed that the negative/abnormal balances accumulated as a result of the fund restructuring of the University, followed by the implementation of the Philippine Public Sector Accounting Standards (PPSAS), and adoption of the Revised Chart of Accounts (RCA) in CY 2015. Likewise, inappropriate entries from one fund cluster to another were noted as mentioned in the observations from the previous years. As of this writing, the same remained unreconciled and unadjusted. The Audit Team noted that the absence of complete subsidiary records, especially those pertaining to previous transactions, posed difficulty to the Accounting Unit in tracing the origin of the negative balance per account.
+
+
+
+4.4 	The Unified Accounts Code Structure (UACS) as specified under Commission on Audit (COA) – Department of Budget and Management (DBM) – Department of Finance (DOF) Joint Circular (JC) No. 2013-1 dated August 6, 2013 established the accounts and codes needed in reporting the financial transactions of the National Government and defines the different funding source clusters of which four were maintained by the University, as follows: 
+
+
+
+Fund 
+
+Definition*
+
+General Fund (GF)/ 
+
+Regular Agency Fund
+
+General Funds are funds available for any purpose that Congress may choose to apply and is composed of all receipts or revenues that do not otherwise accrue to other funds. (Section 1.1.1)
+
+Retained Income Fund (RIF)/ 
+
+Internally Generated Income
+
+Retained Income Funds are collections that are authorized by law to be used directly by agencies for their operation or specific purposes. These include but are not limited to receipts from State Universities and Colleges (SUCS) - tuition and matriculation fees and other internally generated receipts (Section 1.2.6)
+
+Revolving Fund (RF)/ 
+
+Business Type Income
+
+Revolving Funds are receipts derived from business-type activities of departments/agencies as authorized by law, and which are deposited in an authorized government depository bank. These funds shall be self-liquidating. All obligations and expenditures incurred because of these business type activities shall be charged against the Revolving Fund. (Section 1.2.7)
+
+Custodial Fund (CF)/ 
+
+Trust Receipt
+
+Custodial Funds refer to receipts or cash received by any government agency—whether from a private source or another government agency—to fulfill a specific purpose. (Section 1.1.3)
+
+
+
+4.5 	Also, Section 6(g) and 13, Chapter 2, Volume I of the GAM for NGAs provide that each entity shall recognize and present its financial transactions and operations conformably to fund cluster accounting and that the books of accounts shall be maintained by fund clusters. 
+
+
+
+4.6 	On the other hand, Section 15, Chapter 1 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I prescribes that the financial statements shall present fairly the financial position, financial performance, and cash flows of an entity. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in Philippine Public Sector Accounting Standards (PPSAS). xxx
+
+4.7 	Financial information is reliable when the quality of information assures users that such is free from bias and errors/misstatements and faithfully represents what it purports to represent. An asset account with a negative balance would mean financial obligation, while a liability with a negative balance would be regarded as receivable or overpayment. The existence of abnormal/negative balances contradicts the fund cluster accounting requirements, which enable harmonized budgetary and accounting classification codes and facilitate accurate financial reporting. Non-adjustment of such balances will affect the accuracy and reliability of the financial information presented in the financial statements of the University. 
+
+
+
+4.8 	We reiterated and the University President agreed to require the Accountant to (a) prioritize the review and reconciliation of the negative/abnormal asset and liability account balances and prepare the necessary adjustments; (b) supervise closely the Accounting Staff responsible for the preparation of journal entry vouchers (JEV) to ensure the correctness of accounting entries; and (c) comply with the separate fund cluster accounting system as mentioned in Section 6(g) and 13, Chapter 2 of the GAM for NGAs, Volume I to prevent the accumulation of errors in recording.
+
+
+
+
+
+Delayed submission of financial records and reports
+
+
+
+3)	Submission of the financial records and reports was delayed by at least 5 to 146 calendar days which is not in consonance with Section 7.1.1 (a) of COA Circular No. 2009-006; thus, the Audit Team was prevented from conducting a timely review and evaluation of the transactions for the immediate communication of any reportable deficiencies and/or observations that may be noted therein. 
+
+
+
+5.1	Section 7.1 of the Revised Rules and Regulations on the Settlement of Accounts (RRSA), as prescribed under COA Circular No. 2009-006 dated September 15, 2009, provides the responsibilities of the agency head for the audit and settlement of accounts, pertinent portion of which are quoted as follows: 
+
+
+
+	Section 7.1 	Responsibility of the Agency Head 
+
+	
+
+	7.1.1 The head of the agency, who is primarily responsible for all government funds and property pertaining to his agency, shall ensure that: (a) the required financial and other reports and statements are submitted by the concerned agency officials in such form and within the period prescribed by the Commission. xxx
+
+
+
+5.2	Also, pertinent COA and DBM issuances and the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I set the deadlines on the submission of various financial records and reports, as stated below:
+
+
+
+Report Title
+
+Prescribed Period
+
+Basis
+
+Report of Accountability for Accountable Forms (RAAF),
+
+Report of Collections and Deposits (RCD) and official receipts,
+
+Report of Disbursements (ROD),
+
+Report of Checks Issued (RCI),
+
+Report of Advice to Debit Account Issued (RADAI), 
+
+Liquidation Reports (LRs), and 
+
+Journal Entry Vouchers (JEVs) with supporting documents (including disbursement vouchers, payrolls, and replenishment reports)
+
+Within the first ten (10) days of the ensuing month
+
+Section 7.2.1 of RRSA as prescribed under COA Circular No. 2009-006
+
+Monthly trial balances and supporting schedules
+
+Ten (10) days after the end of the month
+
+Section 60c, Chapter 19, Volume I, GAM for NGAs
+
+Quarterly trial balances, financial statements and supporting schedules
+
+Ten (10) days after the end of the quarter
+
+
+
+Yearend trial balances, financial statements and supporting schedules 
+
+February 14 of the following year
+
+
+
+Bank Reconciliation Statements (BRS) with all the supporting documents (such as snapshots and schedule of outstanding checks if there is any)
+
+Within 20 days after receipt of the monthly bank statement 
+
+Section 7, Chapter 21, Volume I, GAM for NGAs
+
+BAR No. 1 – Quarterly Physical Report of Operation (QPRO),
+
+FAR No. 1 – Statement of Appropriations, Allotments, Obligations, Disbursements and Balances (SAAODB),
+
+FAR No. 1-A – Summary of Appropriations, Allotments, Obligations, Disbursements and Balances by Object of Expenditures (SAAODBOE)
+
+FAR No. 1-B – List of Allotments and Sub-Allotments (LASA),
+
+FAR No. 2 – Statement of Approved Budget, Utilizations, Disbursements and Balances (SABUDB),
+
+FAR No. 2-A – Summary of Approved Budget, Utilizations, Disbursements and Balances by Object of Expenditures (SABUDBOE), and
+
+FAR No. 5 – Quarterly Report of Revenue and Other Receipts (QRROR)
+
+Within 30 days after the end of each quarter
+
+Section 4.3 of COA-DBM Joint Circular No. 2019-1 and Section 32a, Chapter 3, Volume I, GAM for NGAs
+
+FAR No. 3 – Aging of Due and Demandable Obligations (ADDO)
+
+On or before 30th day following the end of the year
+
+Section 4.3 of COA-DBM Joint Circular No. 2019-1 and Section 32b, Chapter 3, Volume I, GAM for NGAs
+
+FAR No. 4 – Monthly Report of Disbursements
+
+On or before the 10th day of the month following the last month of the covered reporting period
+
+Section 4.3 of COA-DBM Joint Circular No. 2019-1
+
+
+
+5.3	Likewise, Section 122 of Presidential Decree (P.D.) No. 1445 provides that whenever deemed necessary in the exigencies of the service, the Commission may under regulations issued by it require the agency heads, chief accountants, budget officers, cashiers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla of personnel, and such other reports as may be necessary for the exercise of its functions. Failure on the part of officials concerned to submit the documents and reports mentioned herein shall automatically cause the suspension of payment of their salaries until they shall have complied with the requirements of the Commission. (emphasis added)
+
+
+
+5.4	Review of the status of submission of the Finance Unit to the Audit Team disclosed that most of the financial records and reports were submitted beyond the prescribed period which is not in consonance with the abovementioned issuances. Details of the said financial records and reports and the number of days delayed in the submission thereof as of December 31, 2020 are as follows:
+
+
+
+Months
+
+Deadline
+
+JEV with supporting documents, DVs, payrolls, replenishment reports,
+
+RCD and ORs,
+
+ROD, RCI, RADAI, and
+
+liquidation reports
+
+Monthly Trial Balance and supporting schedules
+
+Bank Reconciliation Statements (BRS) with all the supporting documents
+
+
+
+
+
+Date submitted
+
+Days Delayed
+
+Date submitted
+
+Days Delayed
+
+Date submitted
+
+Days Delayed
+
+January
+
+2/10/2020
+
+9/18/2020
+
+144*
+
+9/15/2020
+
+141*
+
+9/15/2020
+
+141*
+
+February
+
+3/10/2020
+
+10/1/2020
+
+128*
+
+9/28/2020
+
+125*
+
+9/30/2020
+
+127*
+
+March 
+
+4/10/2020
+
+10/14/2020
+
+110*
+
+10/12/2020
+
+108*
+
+10/13/2020
+
+109*
+
+April
+
+5/10/2020
+
+10/20/2020
+
+86*
+
+10/15/2020
+
+81*
+
+10/15/2020
+
+81*
+
+May 
+
+6/10/2020
+
+11/5/2020
+
+148
+
+10/27/2020
+
+139
+
+11/3/2020
+
+146
+
+June
+
+7/10/2020
+
+11/9/2020
+
+122
+
+11/3/2020
+
+116
+
+11/18/2020
+
+131
+
+July
+
+8/10/2020
+
+11/27/2020
+
+109
+
+11/18/2020
+
+100
+
+11/18/2020
+
+100
+
+August
+
+9/10/2020
+
+12/16/2020
+
+97
+
+11/27/2020
+
+78
+
+12/15/2020
+
+96
+
+September
+
+10/10/2020
+
+12/16/2020
+
+67
+
+12/16/2020
+
+67
+
+12/16/2020
+
+67
+
+October
+
+11/10/2020
+
+**
+
+
+
+12/23/2020
+
+43
+
+**
+
+
+
+November
+
+12/10/2020
+
+**
+
+
+
+**
+
+
+
+**
+
+
+
+December
+
+1/10/2021
+
+**
+
+
+
+**
+
+
+
+**
+
+
+
+
+
+Months
+
+Deadline
+
+FAR No. 4 – Monthly Report of Disbursements
+
+
+
+
+
+Date submitted
+
+Days Delayed
+
+January
+
+2/10/2020
+
+8/19/2020
+
+114*
+
+February
+
+3/10/2020
+
+8/19/2020
+
+85*
+
+March 
+
+4/10/2020
+
+8/19/2020
+
+54*
+
+April
+
+5/10/2020
+
+8/19/2020
+
+24*
+
+May 
+
+6/10/2020
+
+8/19/2020
+
+70
+
+June
+
+7/10/2020
+
+8/19/2020
+
+40
+
+July
+
+8/10/2020
+
+8/19/2020
+
+9
+
+August
+
+9/10/2020
+
+9/15/2020
+
+5
+
+September
+
+10/10/2020
+
+10/15/2020
+
+5
+
+October
+
+11/10/2020
+
+11/19/2020
+
+9
+
+November
+
+12/10/2020
+
+12/15/2020
+
+5
+
+December
+
+1/10/2021
+
+**
+
+
+
+
+
+
+
+Deadline
+
+BAR No. 1, FAR No. 1, 1-A, 1-B, 2, 2-A, and 5 
+
+ 
+
+
+
+Date submitted
+
+Days Delayed
+
+1st Quarter
+
+4/30/2020
+
+8/19/2020
+
+34*
+
+2nd Quarter
+
+7/30/2020
+
+8/19/2020
+
+20
+
+3rd Quarter
+
+10/30/2020
+
+10/15/2020
+
+0
+
+4th Quarter
+
+1/30/2021
+
+**
+
+
+
+*The computation of the number of days delayed did not include the number of days the Province of Bataan was under Enhanced Community Quarantine (ECQ) from March 16 to May 15, 2020 (61 days) and Modified ECQ (MECQ) from May 16 to 31, 2020 (16 days).
+
+**No submission yet as of December 31, 2020.
+
+
+
+5.5	In addition, the Audit Team, in its letter to the University President, Accountant, and Budget Officer dated August 12, 2020 and received August 13, 2020, requested the submission of the said reports for the current year since nothing has been submitted as of that date. In response thereto, the Accountant requested for an extension due to office suspension for a long period as a result of the ECQ and MECQ declared. Likewise, she committed to submit the financial records and reports covering the period from January 1 to May 31, 2020 before the end of October 2020.  
+
+
+
+5.6	Although the Accounting Unit was able to meet the committed dates, it is a must that existing regulations be strictly complied with to ensure prompt and regular submission of financial reports. It is worth mentioning though that the Electronic National Government Accounting System (e-NGAS) was implemented in August 2019 which automatically generates financial reports and comprehensive subsidiaries for accounts. In spite of this, however, submission of the said financial records and reports did not improve. Such lapses and inefficiencies in processing, recording, and reporting of the financial transactions by the Accounting Unit have been perennially observed in audit, yet the necessary sanction against erring officials/personnel was not imposed.
+
+
+
+5.7	In turn, the Audit Team encountered delays in the review and evaluation of the transactions while any deficiencies that may be noted in audit were not immediately conveyed to management for prompt action. 
+
+
+
+5.8	We recommended that the University President require the Finance Unit to strictly comply with the COA and DBM issuances on the prescribed period of the submission of financial records and reports to the Audit Team to avoid automatic suspension of payment of salaries until compliance with the requirements of the Commission as mandated in Section 112 (2) of Presidential Decree No. 1445.
+
+
+
+5.9 	The University President in his letter dated January 25, 2021 asked for the Audit Team’s consideration regarding the suspension of salaries of personnel contributing to the delay of the financial reports, and we quote:
+
+
+
+Suspension of salaries of concerned employees who are already working so hard to achieve targets despite the fear of getting infected and not enjoying the safe work environment under a work-from-home scheme as other employees are, and even extend working on Saturdays and Sundays without being paid for their overtime services, is not anymore needed. We are hoping for your understanding, because we believe, in the spirit of “bayanihan” which this government and we, as public servants, are portraying to all Filipinos under a global crisis, that everyone deserves to be understood as we pass through these difficult times.
+
+
+
+5.10	The Audit Team is much aware of the difficulties brought about by this global pandemic to our auditees, but the present times also require Management to strengthen its monitoring network to avoid prolonged lapses and unnecessary delays in the submission of the financial reports. For us, this proactive action is Management’s share in the promotion of the “Bayanihan” spirit called for by the entire Bureaucracy during this time of pandemic.  
+
+
+
+
+
+Insufficient documentation in the procurement of civil works
+
+
+
+4)	The BPSU’s procurement of civil works for calendar year 2020 with a total contract cost of ₱248,603,664.74 lacked essential documents and approval of the University President as required in various provisions of the Revised Implementing Rules and Regulations (RIRR) of Republic Act (R.A.) No. 9184, thus, raising doubt on the regularity of the procurement process. 
+
+
+
+6.1	Review of contracts was undertaken on selected procurement of civil works by the University of which 11 out of 15 projects are still ongoing as of December 31, 2020, as enumerated below:
+
+ 
+
+Name of Contract/Project
+
+Contract Amount
+
+--	Completion of OSA Building Phase 2 at Main Campus (Design and Build)
+
+₱19,478,897.40
+
+--	Completion of 3rd Floor of Library at BPSU Main Campus (Design and Build)
+
+12,471,348.31
+
+--	Rehabilitation of Hostel at BPSU Orani Campus
+
+980,125.67
+
+--	Completion of Loof (Concreting of 2 km Road Network) with Street Lighting, Abucay Campus (Design and Build)
+
+19,978,847.78
+
+--	Upgrading of Electrical System, Abucay Campus (Design and Build)
+
+4,970,580.00
+
+--	Rehabilitation of Water System at BPSU Main Campus (Design and Build)
+
+11,391,200.70
+
+--	Upgrading of Electrical System at BPSU Orani Campus (Design and Build)
+
+1,494,300.00
+
+--	Rehabilitation of Academic Building (inclusive of laboratory equipment, furniture and fixtures) at BPSU, Dinalupihan, Bataan 
+
+6,948,994.89
+
+--	Repair of ICT Building with Equipment and Fixtures at BPSU Dinalupihan Campus
+
+7,095,817.07
+
+--	Rehabilitation of Old Engineering Building (inclusive of furniture and fixtures) at BPSU Abucay Campus (Design and Build)
+
+42,897,836.34
+
+--	Rehabilitation of University Hostel (inclusive of furniture and fixtures) at BPSU Main Campus (Design and Build)
+
+36,876,088.15
+
+--	Construction of Two-Storey Dormitory for Students (inclusive of furniture and fixtures) at BPSU Orani Campus
+
+12,555,665.38
+
+--	Rehabilitation of BSA/BTVTE Building (inclusive of furniture and fixtures) at BPSU Abucay Campus (Design and Build)
+
+31,488,289.42
+
+--	Completion of Multipurpose Gym (P.E. Building and Covered Court) inclusive of furniture and fixtures at BPSU Dinalupihan Campus
+
+7,526,222.72
+
+--	Rehabilitation and Construction of Graduate Studies Building to Arts and Sciences Building II (inclusive of equipment, furniture and fixtures (Design and Build)
+
+32,449,450.91
+
+                                                                  Total
+
+₱248,603,664.74
+
+
+
+6.2	The Audit Team noted that majority of the above-mentioned projects with Design and Build Scheme lacked the documents required in the procurement of civil works. Details of the deficiencies are presented in Appendix D and summarized as follows:   
+
+
+
+--	Absence of Technical Specifications by the winning bidder/contractor approved by the HOPE; instead, Terms of Reference (TOR) prepared by the BPSU Physical Plant and Engineering Services (PPES) was attached; 
+
+--	No Program of Works (POW) and Detailed Engineering Investigation and Surveys prepared by the winning bidder/contractor and approved by the HOPE; 
+
+--	The Detailed Quantity and Cost Estimates as well as PERT CPM prepared by the winning bidder/contractor were not approved by the HOPE.
+
+
+
+6.3	The contract agreements of some projects covering Design and Build Scheme were supported by documents prepared by the winning bidder/contractor such as but not limited to Detailed Engineering like Design Plans, Technical Specifications, Detailed Quantity and Cost Estimates, Construction Schedule-methods/procedures, Cash Flow by quarter, Payment schedule and the like, but were not properly approved by the University President.
+
+
+
+6.4	The afore-cited lapses contravened the ruling under Section 7, Annex “G” of the RIRR of R.A. No. 9184 which provides that No bidding and award of design and build contracts shall be made unless the required preliminary design and construction studies have been sufficiently carried out and duly approved by the Head of the Procuring Entity that shall include, among others, the following: i. Project Description; ii. Conceptual Design; iii. Performance Specifications and Parameters; iv. Preliminary Survey and Mapping; v. Preliminary Investigations; vi. Utility Locations; vii. Approved Budget for the Contract; viii. Proposed Design and Construction Schedule; xxx (emphasis added)
+
+
+
+6.5	The same provisions are enshrined in Sections 8.1, 8.2 and 8.3 of the said RIRR, quoted as follows:
+
+
+
+--	Sections 8.1, 8.2 and 8.3 – Annex “G” RIRR, RA 9184 – Detailed Engineering Requirements
+
+
+
+8.1 Upon award of the design and build contract, the winning bidder shall be responsible for the preparation and submission of all necessary detailed engineering investigations, surveys and designs in accordance with the provisions of Annex “A” of this IRR (with the exception of the Bidding Documents and the ABC).  (emphasis added)
+
+
+
+8.2   The procuring entity shall ensure that all the necessary schedules with regard to the submission, confirmation and approval of the detailed engineering design and the details of the construction methods and procedures shall be included in the contract documents. (emphasis added)
+
+
+
+8.3 The procuring entity shall review, order rectification, and approve or disapprove – for implementation only – the submitted plans within these schedules. xxx. The design and build contractor shall be solely responsible for the integrity of the detailed engineering design and the performance of the structure irrespective of the approval/confirmation by the procuring entity. (emphasis added)
+
+
+
+6.6	Similarly, for regular projects which are not covered by Design and Build scheme, we observed that Technical Specifications were not supported to the contracts. In lieu thereof, TOR was prepared by the PPES but without the approval of the HOPE. Also, approved Detailed Quantity and Cost Estimates as well as Program of Works were not among the attachments to the contract. 
+
+
+
+6.7	Likewise, the University failed to prepare the Approved Budget for the Contract (ABC) in standard form. The contracts bear only the Parametric Cost without the name/signature of the preparer and the approval of the HOPE. In addition, PERT/CPM was not done by the BPSU PPES.
+
+	
+
+6.8	The foregoing deficiencies are not in consonance with the various provisions of the 2016 RIRR of R.A. No. 9184, partly quoted as follows:
+
+
+
+Sections 2 (f) (g) and (h) of the RIRR, specifically Annex A thereof, state that: 
+
+
+
+A schedule of detailed engineering activities shall include the following:
+
+
+
+f) Preparation of Technical Specifications
+
+g) Preparation of Quantity and Cost Estimates
+
+h) Preparation of Program of Work
+
+
+
+--	Section 3 (g) (i) (j) of RIRR - Annex “A”
+
+g) Approved Budget for the Contract – the ABC to be bid shall be prepared by official(s) duly designated by the Head of the Procuring Entity concerned or by his duly authorized official. It shall be approved by the Head of the Procuring Entity or his duly designated official.  xxx
+
+
+
+i)		Program of Work – Before prosecuting any project, the necessary program of work shall be prepared and submitted for approval. In no case shall construction funds be remitted to field offices or construction work on a project be started before the program of work is approved, in accordance with existing laws. xxx
+
+
+
+j) Contract Time or Duration – In the preparation of the Bidding Documents, the agency shall make an estimate of the actual number of working days required to complete the project through PERT/CPM analysis of the project activities and corrected for holidays and weekends. xxx (emphasis added)
+
+
+
+--	Section 37.2.3(f)
+
+
+
+37.2.3. The following documents shall form part of the contract: xxx
+
+
+
+f)	Other contract documents that may be required by existing laws and/or the Procuring Entity concerned in the Bidding Documents, such as the construction schedule and S-curve, manpower schedule, construction methods, equipment utilization schedule, construction safety and health program approved by the Department of Labor and Employment, and PERT/CPM or other acceptable tools of project scheduling for infrastructure projects. (emphasis added)
+
+
+
+6.9	Moreover, the Technical Working Group (TWG) Report on the Detailed Bid Evaluation, supposedly the basis for the determination of the bidder with Lowest Calculated Bid (LCB), was not prepared. As such, the same was not subjected to review by the Bids and Award Committee (BAC).  This is not in consonance with Section 32.2.1 of the 2016 Revised IRR which provides that The BAC shall immediately conduct a detailed evaluation of all bids using non-discretionary criteria in considering the following: a) Completeness of the bid xxx; and   b) Arithmetical corrections xxx.
+
+
+
+6.10	Furthermore, the Post-Qualification Evaluation Reports by the BPSU PPES Technical Working Group (TWG) were incomplete and did not contain/specify the verification and validation made on the documents submitted by the bidder with the Lowest Calculated Bid based on Section 34.3 of the same IRR which requires that:
+
+
+
+	The post-qualification shall verify, validate, and ascertain all statements made and documents submitted by the bidder with the Lowest Calculated Bid/Highest Rated Bid, using non-discretionary criteria, as stated in the Bidding Documents. These criteria shall consider, but shall not be limited to, the following: 
+
+	
+
+a) Legal Requirements. To verify, validate, and ascertain licenses, certificates, permits, and agreements submitted by the bidder, and the fact that it is not included in any “blacklist” as provided in Section 25.3 of this IRR. For this purpose, the GPPB shall maintain a consolidated file of all “blacklisted” suppliers, contractors, and consultants.
+
+	
+
+	b) Technical Requirements. To determine compliance of the goods, infrastructure projects, or consulting services offered with the requirements specified in the Bidding Documents, including, where applicable: 
+
+	
+
+	i)Verification and validation of the bidder’s stated competence and experience, and the competence and experience of the bidder’s key personnel to be assigned to the project, for the procurement of Infrastructure Projects and Consulting Services; 
+
+	
+
+ii) Verification of availability and commitment, and/or inspection and testing for the required capacities and operating conditions, of equipment units to be owned/leased/under purchase by the bidder for use in the contract under bidding, as well as checking the performance of the bidder in its ongoing government and private contracts, if any of these ongoing contracts shows: 
+
+
+
+a)	Negative slippage of at least fifteen percent (15%) in any one project or a negative slippage of at least ten percent (10%) in each of two (2) or more contracts; 
+
+	
+
+b)		Failure of the contractor to commence repair works on ongoing contracts within seven (7) calendar days and to complete them within thirty (30) calendar days after receipt of the Procuring Entity's notice of defects and deficiencies;
+
+	
+
+c)		Failure of the contractor to commence repair works on contracts with pending certificates of acceptance within thirty (30) calendar days and complete them within ninety (90) days after receipt of the Procuring Entity's notice of defects and failures; or 
+
+	
+
+d)		Substandard quality of work as per contract plans and specifications, or unsatisfactory performance of the contractor’s obligations as per contract terms and conditions, at the time of inspection.
+
+	
+
+
+
+6.11	Lastly, as shown in Appendix E, scrutiny of the Performance Security posted indicates that it is valid only for one year which is not in accordance with Section 39.4 of the RIRR of R.A. No. 9184 which provides that The performance security shall remain valid until issuance by the Procuring Entity of the Certificate of Final Acceptance.
+
+
+
+6.12	From that provision of law, it could be deduced that the final acceptance of the project shall be one year from date of completion to anticipate for any defects that may arise. This defects liability period is supposed to be the coverage of the performance security. If the validity period of the performance security is shorter/earlier than the date of final acceptance, there is a risk that the University may not be indemnified by the contractor in case of any damages or structural flaws noted on the project before its final acceptance.
+
+
+
+6.13	The aforementioned practices were not in harmony with the RIRR of R.A. No. 9184, thus, casting doubt on the regularity of the procurement process as well as the validity and propriety of the transactions.
+
+ 
+
+6.14	We recommended and the University President agreed to adopt the following courses of action: 
+
+
+
+a)	ensure that all project documents are thoroughly reviewed, approved and signed by the required certifying and approving officials before approving any contract; require the Accountant to verify the completeness of documents thru a checklist prior to the payment of claims; and submit duly approved documents for evaluation of the Audit Team, as enumerated below:  
+
+
+
+--	For Projects Covered by Design and Build Scheme 
+
+
+
+i)	Plans and Drawings prepared by the winning bidder or contractor;
+
+ii)	Detailed Quantity and Cost Estimates prepared by the winning bidder;
+
+iii)	Construction Schedule and Construction Method prepared by the winning bidder or contractor;
+
+iv)	Cash Flow by Quarter and Payment Schedule prepared by the winning bidder or contractor;
+
+v)	Technical Specifications prepared by the winning bidder/contractor; and
+
+vi)	Parametric Cost.
+
+
+
+b)	advise/instruct the Bid and Awards Committee (BAC) and the Physical Plant and Engineering Services (PPES) to submit complete documents, accomplished at their level, such as but not limited to the following:
+
+
+
+--	Projects covered by Design and Build Scheme
+
+
+
+i)	Technical Specifications prepared by winning bidder/contractor;
+
+ii)	Program of Works prepared by the winning bidder/contractor;
+
+iii)	Detailed Engineering Investigation and Surveys prepared by the winning bidder/contractor and approved by HOPE;
+
+iv)	Approved PERT-CPM prepared by the PPES;
+
+v)	TWG Report on the detailed bid evaluation for determination of bidder with Lowest Calculated Bid (LCB) reviewed by BAC; and
+
+vi)	Complete details of the Post-Qualification Evaluation Report by the TWG.
+
+
+
+--	Regular Projects not covered by Design and Build Scheme
+
+
+
+i)	Technical Specifications prepared by PPES;
+
+ii)	Detailed Quantity and Cost Estimates;
+
+iii)	Program of Works prepared by the PPES;
+
+iv)	Approved Budget for the Contract in standard form prepared by the PPES; noted by the University Budget Officer and University Accountant; recommending approval of the Vice President for Finance and Administration and approved by the University President;
+
+v)	Approved PERT- CPM prepared by the PPES;
+
+vi)	TWG Report on the detailed bid evaluation for determination of bidder with Lowest Calculated Bid (LCB) reviewed by the BAC; and
+
+vii)	Complete details of the Post-qualification Evaluation Report by the TWG. 
+
+
+
+c)	Discuss with participating bidders the requirement of Section 39.4 of the RIRR of R.A. No. 9184 as regards the posting of Performance Security and the required scope or coverage.  For winning bidders/contractors whose contracts have not yet been issued Certificates of Final Acceptance, require them to extend the validity period of the performance bond to protect the interest of the government.   
+
+
+
+
+
+Compliance with Gender and Development (GAD) Regulations
+
+
+
+5)	The University substantially complied with the required budget allocation for Gender and Development (GAD) estimated at more than 5% of its annual appropriation as prescribed under Section 6.1 of the Philippine Commission on Women (PCW)-National Economic Development Authority (NEDA)-Department of Budget and Management (DBM) Joint Circular (JC) No. 2012-01. Likewise, out of the 29 programs, activities, and projects (PAPs), 15 were fully implemented during the year utilizing ₱45,151,357.29 or 85.66% of the approved GAD Budget of ₱52,712,248.00; five were partially accomplished for ₱266,057.17; and the remaining nine were not implemented at all. Meanwhile, GAD database was not yet fully operational as of year-end as required under Section 4.4 of the same Joint Circular. 
+
+
+
+7.1	Section 6.1 of the Philippine Commission on Women (PCW) - National Economic Development Authority (NEDA) - Department of Budget and Management (DBM) Joint Circular (JC) No. 2012-01 or the Guidelines for the Preparation of Annual Gender and Development (GAD) Plans and Budgets and Accomplishment Reports to Implement the Magna Carta of Women states that at least five percent (5%) of the total agency budget appropriations authorized under the annual GAA shall correspond to activities supporting GAD plans and programs. The GAD budget shall be drawn from the agency’s maintenance and other operating expenses (MOOE), capital outlay (CO), and personal services (PS). It is understood that the GAD budget does not constitute an additional budget over an agency’s total budget appropriations.
+
+
+
+7.2	For FY 2020, the University through the GAD Focal Point System (GFPS) was able to prepare and submit the GAD Plan and Budget (GPB) duly reviewed and endorsed by the Philippine Commission on Women (PCW) to the Audit Team. Review of the submitted GPB showed that the University appropriated a total of ₱42,381,748.00 or 6.53% of the total annual budget of ₱649,064,000.00.  However, the total appropriations of the University under the General Appropriations Act (GAA) for FY 2020 amounted to ₱627,017,000.00 only; thus, the budget attributed to GAD was adjusted to 6.76%. The erroneous use of the first amount was due to the two-year timeframe of developing and approving the GPB of the University. Nevertheless, the final amount appropriated still satisfied the 5% minimum requirement under Section 6.1 of the PCW-NEDA-DBM Joint Circular No. 2012-01. 
+
+
+
+7.3	Meanwhile, Section V of COA Circular No. 2014-001 dated March 18, 2014 provides that a copy of the corresponding GAD AR shall be furnished to the Audit Team within five (5) working days from the end of January of the preceding year. The University through the GFPS submitted their annual GAD Accomplishment Report (GAD AR) for FY 2020 on January 28, 2021, which is within the prescribed period under the afore-cited COA Circular, although the said report is still for review and yet to be endorsed by the PCW. 
+
+
+
+7.4	Verification of the submitted GPB vis-à-vis its GAD AR disclosed that out of the 29 planned GAD activities, 15 GAD activities were performed and reported as fully accomplished as shown below:
+
+
+
+GAD Activity
+
+Actual Result
+
+Budget
+
+Actual Cost
+
+Unutilized
+
+Client-Focused Activities
+
+1)	Review and revision of career orientation content per program 9
+
+Enhanced career orientation programs that play up breaking gender stereotypes in 38% of academic programs
+
+₱150,000.00
+
+₱49,241.86
+
+₱ 100,758.14
+
+2)	Focus Group Discussions (FGDs) with students, and consultation /life sessions with students' parents/guardians, and community members 
+
+One survey conducted among parents and guardians with 1,333 respondents (900 females and 433 males)
+
+150,000.00
+
+48,380.48
+
+101,619.52 
+
+3)	Implementation of Board-approved policy on gender-inclusive school attire for students through campus orientation and discussions
+
+Conducted one orientation among students via NSTP
+
+100,000.00
+
+28,639.23
+
+71,360.77 
+
+Organization-Focused Activities
+
+4)	Conduct of campus activities based on theme to be determined by PCW
+
+Conducted a University wide webinar on VAW, Sexual Harassment and Child Protection Laws and campus online advocacy campaigns in partnership with the Student Affairs and Services
+
+Group
+
+128,000.00
+
+23,000.00
+
+105,000.00 
+
+5)	Gender Sensitivity Training (GST) for Non-Teaching Employees
+
+91% of non-teaching employees have completed GST (92% of females, 89% of males)
+
+70,000.00
+
+35,364.87
+
+34,635.13 
+
+6)	Leveling and brainstorming sessions with identified offices
+
+26% of offices has GAD targets in the OPCR/ DPCR beginning 2021; 10% of employees include GAD targets in the IPCRs beginning 2021 (of this number, 76% are females and 24% are males)
+
+30,000.00
+
+30,109.77
+
+ (109.77)
+
+7)	GST for faculty members who have not yet completed GST
+
+89% of teaching employees have completed the GST (92% of females, 84% of
+
+males)
+
+72,900.00
+
+45,708.30
+
+27,191.70 
+
+8)	Training on Gender-Fair Language
+
+One webinar on Gender Fair Language conducted/ attended by 39 employees (31 females and 8 males)
+
+224,000.00
+
+94,975.01
+
+129,024.99 
+
+9)	Write Shop on RET Intake Forms and Gender Indicators Harmonization
+
+All RET intake forms reviewed and revised as output of Write Shop on RET Intake Forms and Gender Indicators Harmonization which was attended by 14 RET officials and staff (9 females and 5 males)
+
+70,000.00
+
+49,270.54
+
+20,729.46 
+
+10)	Conduct of session on the provisions of pertinent laws for employees belonging to marginalized sectors as part of the annual employees’ orientation and development and distribution of reference guides to employees
+
+Adjusted indicator and target to "Number of sessions conducted-At least one session conducted" due to limitations of the COVID-19 pandemic Actual Result: Conducted one session attended by 28 new employees (16 females and 12 males)
+
+350,000.00
+
+32,962.82
+
+317,037.18 
+
+11)	Conduct of regular FGDs on gender-based biases and challenges experienced by employees belonging to marginalized sectors to serve as inputs to strengthen institutional GAD Model Programs for them
+
+Conducted one survey among 458 employees including the marginalized sectors (302 females and 156 males) as bases for interventions in the light of the COVID-19 pandemic
+
+150,000.00
+
+71,738.48
+
+78,261.52 
+
+Attributed Program
+
+12)	Rehabilitation of University Hostel (Female and Male) at Main Campus
+
+
+
+26,086,148.00
+
+23,503,672.34
+
+2,582,475.66 
+
+13)	Completion of Loop (Concreting of 2KM Road Network) with Streetlighting at Abucay Campus
+
+
+
+11,670,000.00
+
+11,025,526.04
+
+644,473.96 
+
+Sub-total
+
+
+
+39,251,048.00
+
+35,038,589.74
+
+4,212,458.26
+
+
+
+Additional Programs Charged to the Unutilized Balance 
+
+Organization-Focused Activities
+
+14)	Webinar on how to design and conduct online GAD session and training
+
+Conducted the webinar on handling online GAD training, with 28 participants (21 females and 7 males)
+
+78,000.00
+
+75,085.74
+
+ 2,914.26
+
+Attributed Program
+
+15)	Construction of Two-Storey Dormitory for Students at Orani Campus
+
+
+
+10,252,500.00
+
+9,771,624.64
+
+101,619.52 
+
+Sub-total
+
+
+
+10,330,500.00
+
+9,846,710.38
+
+483,789.62
+
+Total 
+
+
+
+₱49,581,548.00
+
+₱44,885,300.12
+
+₱4,696,247.88
+
+
+
+7.5	It is worthy to mention that the University used the Harmonized Gender and Development Guidelines (HGDG) tool in attributing a portion of its major program/s or project/s to the remaining GAD Budget.   
+
+
+
+7.6	On the other hand, five GAD activities were partially completed and nine were not carried out as shown in Appendix F. Those activities that were not performed were deleted as targets because of the adjustment of the GPB per PCW Memorandum Circular No. 2020-03. The said Memorandum was issued to provide guidance on the revision and/or implementation of the FY 2020 GPB to implement GAD PAPs that address gender issues and concerns related to the Coronavirus Disease 2019 (COVID-19) situation. 
+
+
+
+7.7	In summary, the University has an adjusted budget of ₱52,712,248.00, of which ₱45,151,357.29 or 85.66% were utilized for GAD PAPs, leaving an unexpended balance of ₱7,560,890.71 or 14.34% at year-end. 
+
+
+
+
+
+Budget
+
+Actual Cost
+
+Unutilized
+
+Fully accomplished (15)
+
+₱ 49,581,548.00
+
+₱ 44,885,300.12
+
+₱ 4,696,247.88
+
+Partially accomplished (5)
+
+1,338,000.00 
+
+266,057.17 
+
+    1,071,942.83 
+
+Not accomplished (9)
+
+1,792,700.00 
+
+-   
+
+    1,792,700.00 
+
+Total (29)
+
+₱ 52,712,248.00 
+
+₱ 45,151,357.29 
+
+ ₱ 7,560,890.71 
+
+
+
+7.8	Meanwhile, Section 4.4 of the same Joint Circular suggests the Institutionalization of GAD Database/Sex-disaggregated data and states that the agency shall develop or integrate in its existing database GAD information to include gender statistics and sex-disaggregated data that have been systematically produced or gathered as inputs or bases for planning, budgeting, programming, and policy formulation.
+
+
+
+7.9	One of the GAD activities in the GPB FY 2020 is the issuance of an enabling policy on the establishment of GAD database. Based on the GAD AR, the full operationalization of the GAD database was partially implemented as of year-end. To commence the establishment of GAD database, University Memo 355 dated August 17, 2020 was issued which requires all offices to accomplish a form about the baseline information of each office. Likewise, one consultation was conducted and participated by 43 offices across the campuses prior to and during the database design and development. The University also conducted one multisectoral gender analysis activity using gender statistics submitted by various offices of the University. However, due to the pandemic, the second phase of the establishment of GAD database is targeted to be conducted in 2021, which will include (a) collection and analysis of data and information from offices; (b) conduct of consultative sessions with offices to identify aspects of office operations that need to be considered in the design and development of the GAD database; (c) performance of technical work; (d) crafting of the guidelines for end-users and conduct of end-user orientation; and (e) dry-run and preparation of the initial findings as basis for enhancement and issuance of the enabling policy for employees prior to full operation of the GAD database.
+
+
+
+7.10	Notwithstanding the foregoing observations, the GFPS Center for Human Rights Education (GFPS CHRE) of the University is commended for attributing other PAPs, particularly the rehabilitation of the University Hostel, completion of loop with streetlighting, and construction of dormitory for students, and for being able to comply with the audit recommendations in the previous year such as the submission of GAD AR within the prescribed period; increased utilization rate of GAD budget; and commencement of GAD database establishment and operationalization. 
+
+
+
+7.11	We recommended that the University President through the GFPS Center for Human Rights Education (GFPS CHRE) to: (a) fully implement all partially and unimplemented programs/activities/projects in the ensuing year;  (b) institutionalize the GAD database as an effective tool in identifying the gender issues among clients and within the organization; and (c) instruct the GAD Focal Point System to consider during the planning phase the proper prioritization of PAPs to address the identified gender issues with the use of the Harmonized Gender and Development Guidelines (HGDG) tool, thus, ensuring full implementation of the GAD Plan. 
+
+
+
+7.12 	The GAD Focal Person (FP) commented that in support of the national government’s COVID efforts, and in compliance with NBC 580 and PCW MC 2020-03, the GFPS-CHRE analyzed the PCW-endorsed BPSU GPB 2020 and adjusted the said GPB by deleting, postponing, modifying, and adding PPAs. The adjusted GPB was submitted and approved by the University President on May 29, 2020. The same day, a letter request was sent to PCW to open the GMMS for BPSU to facilitate the online encoding, submission, review, and reindorsement of the adjusted GPB 2020. Said letter was acknowledged by the PCW Office on June 1, 2020. Reportedly, follow-ups were done; however, no response was given. 
+
+
+
+7.13 	GAD FP added that despite this, the University implemented the adjusted PPAs and successfully executed all the target PPAs based on the adjusted GPB 2020. As such, referring to deleted and modified PPAs as “not implemented at all” and “partially implemented” is quite misleading and unjustly implies irresponsibility on the part of the University, for it does not capture our efforts to comply with the circulars of the DBM and PCW, or does it acknowledge the response made by the University to the challenges and struggles experienced by government agencies and stakeholders during the pandemic.
+
+
+
+7.14 	Relatedly, the Audit Team considered the GAD FP’s justification as to the GAD activities that were deleted as targets because of the adjustment made in the GPB 2020 despite its non-endorsement from the PCW. The reason given by Management was duly acknowledged and actually already mentioned on the fourth page of the AOM. The AOM did not and will not intend to mislead and imply irresponsibility on the part of the University. In fact, the figures mentioned in the observation were based on Management’s submitted GPB and GAD AR. The Audit Team cannot delete real facts that the GPB contained 27 programs, excluding the additional two attributed programs, and emphasized 15 fully implemented programs. To be fair with Management, the Audit Team even added that those five partially and nine non-implemented programs were deleted as targets in compliance with PCW MC 2020-03.
+
+
+
+7.15 	Be that as it may, the Audit Team still recommended the full implementation of all these partially and not implemented PPAs in the ensuing year in consonance with the Agency mandate.
+
+
+
+
+
+Compliance with Tax Laws 
+
+
+
+6)	Taxes withheld were not remitted in full and within the prescribed period resulting in huge balances every month that may be subjected to fines and penalties by the Bureau of Internal Revenue (BIR) pursuant to Revenue Regulations (RR) No. 2-98, Section 272 of the National Internal Revenue Code (NIRC) and subsequent BIR issuances, which is prejudicial to the interest of the University.  Moreover, the accuracy and reliability of the Due to BIR account with a year-end balance of ₱4,867,609.22 were not established due to unreconciled amount of ₱1,105,950.94 and absence of subsidiary records prior to July 2019, inconsistent with Sections 111 (1) and 114 (2) of P.D. No. 1445 and Section 60, Chapter 6 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I. 
+
+
+
+8.1	Based on accounting records, the Due to BIR account had a beginning balance of   ₱8,110,801.63 as of January 1, 2020.  During the year, the University withheld a total of ₱60,801,106.45, which were in the form of taxes from compensation of employees, creditable value-added taxes and expanded withholding taxes deducted from the claims of contractors/suppliers.  The audit showed total remittances to the Bureau of Internal Revenue (BIR) of ₱63,688,873.60; however, we noted that huge balances remained for each remittance period. As of December 31, 2020, unremitted taxes reached to ₱4,867,609.22 as presented in the table below:
+
+
+
+Month
+
+Amount Withheld
+
+Amount Remitted
+
+Other Adjustments
+
+Unremitted Balance
+
+Beginning Balance
+
+
+
+
+
+
+
+₱8,110,801.63 
+
+January
+
+₱ 3,374,364.00 
+
+₱ 2,944,213.36 
+
+₱      11,784.35 
+
+8,529,167.92 
+
+February
+
+4,505,004.61 
+
+5,098,806.94 
+
+60,369.83 
+
+7,874,995.76 
+
+March
+
+3,706,578.67 
+
+3,080,431.99 
+
+0.00
+
+8,501,142.44 
+
+April
+
+3,512,840.19 
+
+3,117,152.84 
+
+0.00
+
+8,896,829.79 
+
+May
+
+3,686,668.22 
+
+4,657,429.12 
+
+0.00
+
+    7,926,068.89 
+
+June
+
+7,225,915.57 
+
+5,765,973.91 
+
+0.00
+
+9,386,010.55 
+
+July
+
+3,110,819.67 
+
+3,474,490.59 
+
+0.00
+
+9,022,339.63 
+
+August
+
+5,346,556.69 
+
+5,718,375.08 
+
+0.00
+
+8,650,521.24 
+
+September
+
+2,448,144.82 
+
+2,915,677.86 
+
+0.00
+
+8,182,988.20 
+
+October
+
+4,135,855.29 
+
+4,536,083.34 
+
+15,967.49 
+
+7,766,792.66 
+
+November
+
+7,771,305.26 
+
+5,403,643.15 
+
+3,411.32 
+
+10,131,043.45 
+
+December
+
+11,977,053.46 
+
+16,976,595.42 
+
+263,892.27 
+
+4,867,609.22 
+
+Total
+
+₱60,801,106.45 
+
+₱63,688,873.60 
+
+₱     355,425.26 
+
+
+
+	
+
+8.2	The failure to remit fully the taxes withheld is not compliant with the following BIR regulations; viz:
+
+
+
+a)	Revenue Regulations (RR) No. 2-98 dated April 17, 1998 – Monthly withholding taxes on compensation shall be remitted to the BIR on or before the tenth day of the following month except for taxes withheld from the last compensation of the year (December) which shall be filed not later than January 25 of the succeeding year. (emphasis added)
+
+
+
+b)	Revenue Memorandum Circular (RMC) No. 23-2007 dated March 20, 2007 – Monthly Remittance Return of Value Added Tax and Other Percentage Taxes Withheld (BIR Form 1600) shall be filed on or before the 10th day of the month following the month in which the withholding was made. (emphasis added)
+
+
+
+c)	Revenue Memorandum Circular (RMC) No. 23-2012 dated February 14, 2012 – The responsible officials and employees, as withholding agents, should see to it that taxes withheld are accordingly remitted on or before their due dates using the prescribed monthly/quarterly withholding tax returns, together with attachments, where applicable.
+
+
+
+8.3	Likewise, Section 272 of the National Internal Revenue Code (NIRC) states that:
+
+
+
+	Section 272. Violation of Withholding Tax Provision – Every officer or employee of the Government of the Republic of the Philippines or any of its agencies and instrumentalities, its political subdivisions, as well as government-owned and controlled corporations, including Bangko Sentral ng Pilipinas (BSP), who is under the provisions of this Code or rules and regulations promulgated thereunder, is charged with the duty to deduct and withhold any internal revenue tax and to remit the same in accordance with the provisions of this Code and other laws is guilty of any offense herein below specified shall, upon conviction for each act or omission be punished by a fine of not  less than Five thousand pesos (5,000) but not more than Fifty thousand pesos (50,000) or suffer imprisonment of not less than (6) months and one (1) day but not more than two (2) years, or both; (emphasis added)
+
+
+
+a)	Failing or causing the failure to deduct and withhold any internal revenue tax under any of the withholding tax laws and implementing rules and regulations;
+
+
+
+b)	Failing or causing the failure to remit taxes deducted and withheld within the time prescribed by law and implementing rules and regulations. (emphasis added)
+
+
+
+8.4	Relatedly, verification revealed that out of the total balance of ₱4,867,609.22 as of year-end, there was an unreconciled amount of ₱1,105,950.94 due to the absence of subsidiary records prior to July 2019, thus, precluding the Audit Team from evaluating the reliability of such unreconciled balance.
+
+
+
+8.5	The above-mentioned deficiencies are not in accordance with Sections 111 (1) and 114 (2) of P.D. No. 1445, and Section 60, Chapter 6, Volume 1 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), quoted as follows:
+
+
+
+Section 111. Keeping of accounts.
+
+
+
+1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government. xxx
+
+
+
+	Section 114. The general ledger. – xxx
+
+
+
+2)	Subsidiary record shall be kept where necessary.”
+
+ 
+
+Section 60. Disbursements through Tax Remittance Advice. xxx
+
+
+
+The Accounting Division/Unit shall maintain SL to monitor remittances of taxes withheld from individual employees, suppliers and contractors.
+
+
+
+8.7	The continual failure to remit fully the taxes withheld may result to imposition of fines/penalties by the BIR which is a disadvantage on the part of the University. Furthermore, the non-preparation and maintenance of the subsidiary ledger (SL) for the said account for previous years’ transactions resulted to the difficulty in tracing the details thereof which can be used in the reconciliation with the BIR. 
+
+
+
+8.8	We recommended and the University President agreed to direct and require the Accounting Office to: (a) trace the prior years’ unreconciled amount of ₱1,105,950.94 and coordinate with the BIR for reconciliation and proper disposition thereof; and (b) remit fully the corresponding taxes from compensation of their personnel and all payments to suppliers/contractors within the prescribed period in compliance with BIR rules and regulations to avoid fines/penalties.  
+
+
+
+
+
+Compliance with Government Service Insurance System law
+
+
+
+7)	The University failed to remit in full and within the prescribed period the premium contributions and other amounts, including government shares, due to the Government Service Insurance System (GSIS), resulting in unremitted balances every end of the month under the Due to GSIS account contrary to Section 6(a) and (b) of Republic Act (R.A.) No. 8291 or the GSIS law. Such practice is detrimental to the interest of the employees who may be deprived of the payment of benefits under the System in view of long outstanding remittances.   Similarly, due to the absence of subsidiary records, which is not in accordance with Sections 111 (1) and 114 (2) of Presidential Decree (P.D.) No. 1445, the accuracy and reliability of the account balances of ₱3,788,935.52 prior to July 2019 could not be established.
+
+
+
+9.1 	Sections 6(a) and 6(b) of Republic Act (R.A.) No. 8291, An Act Amending Presidential Decree No. 1146, As Amended, Expanding and Increasing the Coverage and Benefits of the Government Service Insurance System, Instituting Reforms Therein and for Other Purposes provide that:
+
+
+
+a)	The employer shall report to the GSIS the names of all its employees, their corresponding employment status, positions, salaries, and such other pertinent information, including subsequent changes therein, if any, as may be required by the GSIS; the employer shall deduct each month from the monthly salary or compensation of each employee the contribution payable by him in accordance with the schedule prescribed in the rules and regulations implementing this Act.
+
+
+
+b)	Each employer shall remit directly to the GSIS the employee’s and employer’s contributions within the first ten (10) days of the calendar month following the month to which the contributions apply. The remittance by the employer of the contribution to the GSIS shall take priority over and above the payment of any and all obligations, except salaries and wages of its employees. (emphasis supplied)
+
+
+
+9.2 	Verification showed that the University substantially complied with the GSIS law on the deduction/withholding of GSIS premiums from the salaries of employees, but full remittance thereof was not made as required.
+
+
+
+9.3 	The schedule of GSIS premiums and other contributions withheld, remitted and other adjustments made for the year 2020 is presented below:
+
+
+
+Month
+
+Amount Withheld
+
+Amount Remitted
+
+Other Adjustments
+
+Unremitted Balance
+
+Beginning Balance
+
+
+
+
+
+
+
+₱1,961,995.73 
+
+January
+
+₱ 6,762,480.16 
+
+₱ 2,556,779.59 
+
+₱             0.00
+
+6,167,696.30 
+
+February
+
+7,170,831.80 
+
+7,361,298.91 
+
+15,829.75 
+
+5,961,399.44 
+
+March
+
+7,603,244.36 
+
+8,251,959.10 
+
+1,611.12 
+
+5,311,073.58 
+
+April
+
+7,296,335.47 
+
+830,740.61 
+
+2,053,053.11 
+
+9,723,615.33 
+
+May
+
+4,634,040.93 
+
+7,090,034.02 
+
+639,320.71 
+
+6,628,301.53 
+
+June
+
+7,238,937.06 
+
+1,859,622.67 
+
+2,030,226.17 
+
+9,977,389.75 
+
+July
+
+5,218,815.31 
+
+225,617.62 
+
+300.00 
+
+14,970,287.44 
+
+August
+
+5,099,033.92 
+
+3,501,535.62 
+
+36,617.17 
+
+16,531,168.57 
+
+September
+
+5,189,174.25 
+
+1,359,818.73 
+
+0.00   
+
+20,360,524.09 
+
+October
+
+5,174,910.34 
+
+1,996,012.37 
+
+0.00   
+
+23,539,422.06 
+
+November
+
+2,779,524.27 
+
+3,497,255.39 
+
+17,203.53 
+
+22,804,487.41 
+
+December
+
+2,638,828.59 
+
+21,869,869.88 
+
+6,611.22 
+
+3,566,834.90 
+
+Total
+
+₱66,806,156.46 
+
+₱60,400,544.51 
+
+₱4,800,772.78 
+
+
+
+
+
+9.4	Moreover, Section 16 of R.A. 8291 relates that:
+
+
+
+Section 16 – Effects of Non-Remittance of Contributions and Other Amounts on the Eligibility to Benefits of Members
+
+
+
+	16.1 All loan privileges of all the members of the affected agencies will be suspended and they shall be disqualified to receive the yearly dividends.
+
+
+
+16.2 Any unremitted premiums contributions and loan amortizations and other amounts due the GSIS shall be deducted from the proceeds of the loans and claims that will be due the member.
+
+
+
+9.5 	Verification revealed that out of the remaining balance of ₱3,566,834.90 as at year-end, a sum of ₱222,100.62 was analyzed as a proper deduction from the recorded balance.  Meanwhile, an amount of ₱3,788,935.52 was not supported by subsidiary records, thus, precluding the Audit Team from obtaining the details/breakdown and nature of the transactions involved. Consider the following data:
+
+
+
+Type of Fund
+
+Amount
+
+Total
+
+
+
+Reconciled
+
+Unreconciled
+
+
+
+General Fund
+
+₱         672.20
+
+₱    822,945.86
+
+₱              823,618.06
+
+Retained Income Fund
+
+(264,423.13)
+
+1,006,384.12
+
+741,960.99
+
+Revolving Fund
+
+41,450.31
+
+1,959,605.54
+
+2,001,255.85
+
+Custodial Fund
+
+0.00
+
+0.00
+
+
+
+ Total
+
+        (₱222,100.62)
+
+₱ 3,788,935.52
+
+₱          3,566,834.90
+
+
+
+9.6	Inquiry disclosed that prior to July 2019, the Accounting Office was on a manual system but failed to maintain subsidiary ledgers (SLs) for the Due to GSIS account. When the University adopted the electronic New Government Accounting System (e-NGAS), the above amount of ₱3,566,834.90 was carried forward as the beginning balance of the computerized records effective July of 2019.  No reconciliation/adjustment was made thereafter. 
+
+
+
+9.7	The above-mentioned deficiencies are not in accordance with Sections 111 (1) and 114 (2) of P.D. No. 1445; viz:
+
+
+
+Section 111. Keeping of accounts.
+
+
+
+(1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government. xxx”
+
+
+
+Section 114. The general ledger. – xxx
+
+
+
+1)	Subsidiary record shall be kept where necessary.
+
+
+
+9.8	The Accounting Office reasoned that the under remittance was due to the updating of University personnel information and salary differential by the Human Resource Office (HRMO) which had impact on the GSIS deductions. Moreover, there is a need to trace the related records and documents to support the questionable amount of ₱3,788,935.52 to facilitate the reconciliation with the GSIS.
+
+
+
+9.9 	If the reconciliation effort does not work effectively and the practice of incomplete remittance still persists, the interest of the employees concerned is put at stake.
+
+
+
+9.10	We recommended and the University President agreed to direct and require the Accounting Office to (a) closely coordinate with the Human Resource Office (HRO) for the immediate updating of personnel information and salary differential to ensure correct premium deductions; (b) trace the prior years’ unreconciled amount of ₱3,788,935.52 and coordinate with the GSIS for reconciliation and proper disposition thereof; and (c) remit fully the GSIS premiums within the prescribed period in accordance with the provisions of R.A. No. 8291 to ensure the entitlement of benefits by the employees. 
+
+
+
+
+
+Compliance with Home Development Mutual Fund (HDMF) Law 
+
+			
+
+8)	The University substantially complied with the withholding of Pag-IBIG contributions and loan amortizations from officials/employees pursuant to Republic Act (R.A.) No. 9679. Nonetheless, required monthly remittances thereof were not made in full, thus, may result to imposition of penalties as provided in Sections 23 and 25 of the said Act, which practice could be disadvantageous to the University. In addition, the year-end balance of ₱286,336.79 included an amount of ₱264,951.72 which could not be accounted for due to the absence of subsidiary records, inconsistent with Sections 111 (1) and 114 (2) of Presidential Decree (P.D.) No. 1445.
+
+
+
+	1)	Section 23 of the Republic Act (R.A.) No. 9679 partly states that: (a) It shall be the duty of every employer, private or public, to set aside and remit the contributions required under this Act in accordance with a mechanism determined by the Board of Trustees; (b) Every employer required to set aside and remit such contributions as prescribed under this Act shall be liable for their payment and non-payment shall further subject the employer to a penalty of three percent (3%) per month of the amounts payable from the date the contributions fall due until paid; and (c) It shall be mandatory and compulsory for all government instrumentalities, agencies, including government-owned and controlled corporations, to provide the payment of contributions in their annual appropriations. Penal sanctions shall be imposed upon these employers who fail to include the payment of contributions on time or delay the remittance of the required contributions to the Fund. The heads of offices and agencies shall be administratively liable for non-remittance of the required contributions to the Fund. xxx (emphasis added)
+
+	
+
+	2)	Likewise, Section 25. Penal Provisions of the same R.A. provides that: Refusal or failure without lawful cause or with fraudulent intent to comply with the provisions of this Act, as well as the implementing rules and regulations adopted by the Board of Trustees, particularly with respect to registration of employees, collection and remittance of employee-savings as well as the employer counterparts, or the correct amount due, within the time set in the implementing rules and regulations or specific call or extension made by the Fund management shall constitute an offense punishable by xxx. In case of government instrumentalities, agencies or corporations, the treasurer, finance officer, cashier, disbursing officer, budget officer or other official or employee who fails to include in the annual budget the amount corresponding to the employers’ contributions, or who fails or refuses or delays by more than thirty (30) days from the time such amount becomes due and demandable  or to deduct the monthly contributions of the employee shall, upon conviction by final judgment, suffer the penalties of imprisonment of not more than six (6) years, and  a fine of not less than, but not more than twice, the amount involved. 
+
+
+
+	3)	Verification showed that the University deducted Pag-IBIG premiums and loan amortizations from the salaries of its officials/employees, but amounts withheld were not fully remitted for a given month to the Home Development Mutual Fund (HDMF) in violation of the above provisions.
+
+
+
+	4)	The schedule below shows the monthly fund contributions, loan amortizations withheld and remittances/adjustments to the Due to Pag-IBIG account for the calendar year 2020; to wit;
+
+
+
+Month
+
+Amount Withheld
+
+Amount Remitted
+
+Other Adjustments
+
+Unremitted Balance
+
+Beginning Balance
+
+
+
+
+
+
+
+₱288,289.38 
+
+January
+
+₱   601,023.71 
+
+₱         2,000.00 
+
+₱         2,314.39 
+
+884,998.70 
+
+February
+
+595,574.65 
+
+607,841.28 
+
+3,763.25 
+
+868,968.82 
+
+March
+
+588,234.92 
+
+605,444.03 
+
+4,559.50 
+
+847,200.21 
+
+April
+
+592,553.94 
+
+561,385.24 
+
+0.00   
+
+878,368.91 
+
+May
+
+590,632.12 
+
+591,153.94 
+
+0.00   
+
+877,847.09 
+
+June
+
+601,123.09 
+
+1,202,426.37 
+
+0.00   
+
+276,543.81 
+
+July
+
+602,169.39 
+
+0.00  
+
+1,913.70 
+
+876,799.50 
+
+August
+
+588,576.61 
+
+603,487.46 
+
+2,353.16 
+
+859,535.49 
+
+September
+
+568,323.77 
+
+1,168,226.15 
+
+0.00  
+
+259,633.11 
+
+October
+
+559,467.02 
+
+0.00
+
+2,929.83 
+
+816,170.30 
+
+November
+
+610,713.09 
+
+565,314.61 
+
+4,069.24 
+
+857,499.54 
+
+December
+
+586,693.93 
+
+1,156,195.03 
+
+1,661.65 
+
+286,336.79 
+
+Total
+
+₱7,085,086.24 
+
+₱7,063,474.11 
+
+₱23,564.72 
+
+
+
+				
+
+10.5	Likewise, verification revealed that out of the running balance of ₱286,336.79, a sum of ₱264,951.72 could not be accounted for due to absence of subsidiary records prior to July 2019, thus, precluding the Audit Team from ascertaining the reliability of the account as at December 31, 2020. 
+
+
+
+10.6	Based on our inquiry, the Accounting Office failed to establish the correct beginning balance of the Due to Pag-IBIG account when the University shifted from manual based accounting to computerized system under the electronic New Government Accounting System (e-NGAS) effective July 2019. 
+
+
+
+10.7	The above-mentioned deficiencies are not in accordance with Sections 111 (1) and 114 (2) of P.D. No. 1445 viz:
+
+
+
+Section 111. Keeping of accounts.
+
+
+
+(1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government. xxx”
+
+
+
+Section 114. The general ledger. – xxx
+
+
+
+1)	Subsidiary record shall be kept where necessary.
+
+
+
+10.8	The Accounting Office explained that the University personnel information and data on salary differential need updating by the Human Resource Office (HRO) to correct under remittances of premiums/contributions/loan amortizations. Incidentally, the HRO has not turned over yet the updated information as basis for the appropriate deductions from the personnel. 
+
+
+
+10.9 	Further, the unreconciled amount of ₱264,951.72 rendered the recorded balance of the Due to Pag-IBIG account unreliable. On the other hand, the practice of remitting partial amounts as discussed above may result to imposition of penalties to the detriment of the University. 
+
+
+
+10.10	Similarly, the failure to prepare and maintain the subsidiary ledger (SLs) to support prior years’ balances delayed the required reconciliation with the HDMF, thus, affecting the accuracy of the individual accounts of member employees.
+
+
+
+10.11	We recommended and the University President agreed to direct and require the Accounting Office to (a) closely coordinate with the Human Resource Office for the immediate updating of personnel information and data on salary differential to correct the amounts of deductions and corresponding remittances of Pag-IBIG contributions/premiums; (b) trace the details of prior years’ unreconciled amount of ₱264,951.72 and  coordinate with the HDMF for reconciliation and proper disposition thereof; and (c) remit fully the withheld amount of Pag-IBIG fund contributions and repayments of loan amortizations together with the employer’s share within the prescribed period in accordance with the provisions of R.A. No. 9679 to avoid imposition of penalties by the HDMF. 
+
+
+
+
+
+Compliance of the curricular programs to the CHED policies, standards, and guidelines
+
+ 
+
+9)	Out of the 30 curricular programs offered by the University, 23 were aligned with the mandate explicitly mentioned in Section 2 of Republic Act (R.A.) No. 9403; 17 were included in the listed priority courses as identified in the Commission on Higher Education (CHED) Memorandum Order (CMO) No. 05, series of 2019; one has no Certificate of Program Compliance (COPC) as mandated under CMO No. 14, series of 2019; and 13 have yet to undergo the required independent accreditation under CMO No. 01, series of 2005; thus, raising doubt on the capacity of the University to institutionalize its mandate of spearheading socio-economic development in the locality by producing job-ready graduates from specialized/relevant programs. 
+
+
+
+11.1	The general mandate of the University as mentioned in Section 2 of the governing charter of the University or the Republic Act (R.A.) No. 9403, which was approved on March 22, 2007, is to primarily provide advanced instruction and professional training in education, engineering, science and technology, arts and humanities, computer and forestry, and other relevant fields of study. It shall also undertake research, extension services and production activities in support of the socioeconomic development of Bataan and provide leadership in its areas of specialization.
+
+
+
+11.2	The graph below presents the curricular programs which are the fields of concentration pursuant to the above mandate of the University. 
+
+
+
+
+
+
+
+11.3	Pursuant to R.A. No. 9403, particularly under Section 3, the University is authorized to offer undergraduate and graduate courses as the Board of Regents may deem necessary to carry out its objectives and in order to meet the needs of the Province of Bataan and Region III. Relatedly, additional programs were opened such as Bachelor of Science in (BS) Hospitality Management and BS Tourism Management as a commitment given by the University to the Provincial Government of Bataan in support to the emerging industries in the Province of Bataan. On the other hand, BS Accountancy, BS Business Administration, BS Nursing, and BS Midwifery were already in place even prior to its conversion of the School into a State College in 1998. The same programs were carried over when the same was converted into a State University in 2007. In the case of Bachelor of Public Administration, a master’s degree is being offered in the graduate school; thus, there is a need to have a strong foundation program along that line. 
+
+
+
+11.4	Verification showed that out of the 30 curriculum programs for the Undergraduate School in AY 2019-2020 and AY 2020-2021, only 23 or 77% were properly aligned with the requirements of the University mandate.
+
+
+
+11.5	Also, Commission on Higher Education (CHED) Memorandum Order (CMO) No. 05 series of 2019, dated August 16, 2019 provides the priority courses for CHED Scholarship Programs (CSPs) for Academic Year (AY) 2019-2020. There was no issuance from CHED updating the list of priority courses for AY 2020-2021. 
+
+
+
+11.6	Similarly, comparison of the offered curricular programs of the University with the priority courses listed on CMO No. 05 series of 2019 revealed that 13 curricular programs under various platforms of Science, Technology, Engineering, Agri-fisheries, and Mathematics (STEAM) were included in the priority courses listed by CHED. Likewise, four curricular programs were included in other priority courses aligned in key growth areas such as Business Administration and Tourism. The other ten curricular programs in the field of teacher education, social and behavioral sciences, and communication were included in the previously issued priority courses under CMO No. 01 series of 2014; however, these were already excluded from the recently issued priority courses for CHED Scholarship Programs (CSPs). The remaining three curricular programs, namely BS Nursing, BS Midwifery, and Bachelor of Public Administration were still excluded in the listed priority courses by CHED. Presented in Appendix G is the list of undergraduate curricular programs offered by the University and its alignment with the university mandate and the priority courses pursuant to CMO No. 05, series of 2019. 
+
+
+
+11.7	The following graphical presentation shows the alignment of the priority courses pursuant to the foregoing CMO; however, 13 program offerings or 43% were found misaligned, such as teacher education, social and behavioral sciences, communication, and those still not listed. 
+
+
+
+
+
+
+
+11.8	According to the Vice President for Academic Affairs (VPAA), the intent of CMO No. 05 s. 2019 was to encourage incoming college students to take up priority courses for them to avail of financial assistance from CHED and be gainfully employed later in in-demand jobs that could spur the national economic growth. While the statement may be true, however, the University should have reviewed the existing admission policies and utilize the review outputs to promote the CHED-identified priority programs. Instead, the University could have encouraged financially challenged yet academically motivated students to enroll in priority courses to avail of the CSPs. Students who are enrolled in any of the priority courses listed in the CMO may avail of the benefits under the CSPs which shall be in the form of free tuition and stipend. It is worthy to mention that the priority courses identified by CHED were offshoots of the studies and deliberations conducted in line with the national development plan on manpower demands; thus, non-adherence to the prescribed list of courses might lead to over/undersupply of graduates ultimately resulting to a lower chance of employability based on the law of supply and demand. 
+
+
+
+11.9	On the other hand, RA No. 10931 or the Universal Access to Quality Tertiary Education Act (UAQTEA), which was approved on August 3, 2017, was enacted to provide free tuition and other school fees in State Universities and Colleges (SUCs), Local Universities and Colleges (LUCs) and state-run Technical-Vocational Institutions (TVIs); establish the tertiary education subsidy and student loan program; and strengthen the unified student financial assistance system for tertiary education. To ensure the quality of higher education with its implementation, CHED issued CMO No. 14, series of 2019 dated November 13, 2019, which provides the policies and guidelines in securing Certificate of Program Compliance (COPC) to SUCs and LUCs. COPC, as defined in the CMO, is a recognition that the specific degree programs being offered by SUCs/LUCs are fully compliant with the policies, standards, and guidelines of CHED. It also ensures that the existing programs of the SUCs/LUCs are quality-assured. 
+
+
+
+11.10	Verification revealed that only one program, which is Bachelor of Science in Industrial Engineering (BSIE), has an application for the corresponding COPC. The University applied as early as December 17, 2017, even prior to the commencement of the BSIE Program. The Program was then visited by the Regional Quality Assessment Team (RQAT) on January 17, 2018 but as of this writing, the RQAT recommendations were still pending in spite of the follow-up letter sent to CHED on January 18, 2020.
+
+
+
+11.11	In the meantime, CMO No. 01, series of 2005, dated February 15, 2005, otherwise known as the Revised Policies and Guidelines on Voluntary Accreditation in Aid of Quality and Excellence in Higher Education, emphasizes the encouragement of the use of voluntary non-governmental accreditation systems. Accreditation, as defined in Article II of the CMO, is a process for assessing and upgrading the educational quality of higher education institutions and programs through self-evaluation and peer judgment. It leads to the grant of accredited status by an accredited agency and provides public recognition and information on educational quality. Accordingly, the Accrediting Agency of Chartered Colleges and Universities in the Philippines (AACCUP), being one of the accrediting agencies that caters the accreditation of curricular programs, was commissioned by the University. The accreditation level of the University will be used by the CHED and the Department of Budget and Management (DBM) in recommending budgetary allocation as stated on Item B, Article V of the said CMO.
+
+
+
+11.12	Currently, the AACCUP has awarded three ‘Level III re-accredited status’ on curricular programs in the Main and Balanga Campuses of the University, 13 ‘Level II re-accredited status’ in the Main, Balanga, Abucay, and Orani Campuses, and four ‘Level I accredited status’ in Balanga, Orani, and Dinalupihan Campuses. Details are shown in Appendix H. 
+
+
+
+11.13	For higher educational institutions (HEIs), the biggest single index of quality-assured academic programs is their accreditation status and commitment to sustain and upgrade the same. Nonetheless, 18 out of the 20 noted accreditation statuses of the University had already lapsed several months prior to December 31, 2020. The Director for Quality Assurance mentioned that the SUCs may be allowed a grace period or an extension of one year if the University failed to have these programs accredited due to justifiable grounds. In their case, a grace period is allowed because of the community quarantine brought by COVID-19. Notwithstanding, nine of those 18 accreditation statuses that had already lapsed were already visited by the AACCUP team and the University is just waiting for the results. 
+
+
+
+11.14	Meanwhile, 13 curricular programs of the University have yet to undergo independent accreditation from the AACCUP, as follows:
+
+
+
+Curricular Programs
+
+Campus
+
+1)	Bachelor of Science in Hospitality Management
+
+Main
+
+2)	Bachelor of Early Childhood Education
+
+Dinalupihan
+
+3)	Bachelor of Elementary Education
+
+Bagac
+
+4)	Bachelor of Science in Industrial Technology 
+
+--	Major in Welding and Fabrication Technology
+
+--	Major in Electrical Technology
+
+Bagac
+
+5)	Bachelor of Physical Education
+
+Orani
+
+6)	Bachelor of Science in Exercises and Sports Sciences
+
+Orani
+
+7)	Bachelor of Technology and Livelihood Education
+
+Orani
+
+8)	Bachelor of Technical-Vocational Teacher Education
+
+Main, Abucay, and Orani
+
+9)	Bachelor of Science in Midwifery
+
+Main
+
+10)	Bachelor of Science in Entertainment and Multimedia Computing
+
+Main
+
+11)	Bachelor of Science in Industrial Engineering
+
+Main
+
+12)	Bachelor of Arts in Communication
+
+Main
+
+13)	Bachelor of Public Administration
+
+Balanga
+
+
+
+11.15	The Director for Quality Assurance informed the Audit Team that BS Hospitality Management and Bachelor of Early Childhood Education were the new nomenclatures of BS Hotel and Restaurant Management and Bachelor in Elementary Education major in Pre-Elementary Education, respectively. The accreditation level of the previous nomenclature shall be carried over to its new nomenclatures once it is confirmed by the AACCUP. Meanwhile, all curricular programs offered in Bagac Campus were Extension Programs of Dinalupihan and Main Campuses. Only the first three years of the Programs are being offered in Bagac Campus while the final year will be spent in Dinalupihan and Main Campuses; thus, the accreditation level are carried to the last campus attended. The remaining nine programs are relatively new programs which are not qualified for AACCUP accreditation since it is a requisite that the aforementioned produce graduates first. 
+
+
+
+11.16	Quality and excellence in higher education cannot be measured alone by the learning outputs of the students as these are not the only indicators of the status of an HEI. The proper interplay of inputs such as quality of teaching, curricular revisions, infrastructures, facilities, and support services is necessary to constantly assess and upgrade existing programs as against the quality standards in order for HEIs to keep abreast of the latest demands of the country. 
+
+
+
+11.17	Confronted with the unresolved gaps between the currently offered curricular programs and the list of priority courses of CHED and its accreditation requirements, efforts towards educational reforms may be inadequate to institutionalize the mandate of the University in spearheading socio-economic development in the locality of Bataan by producing quality graduates of relevant academic courses and professional degrees. 
+
+
+
+11.18	We recommended and the University President agreed to (a) require the Vice President for Academic Affairs (VPAA) to: (i) consider the latest priority courses in advising students during registration and enrollment to take up priority courses for them to avail of the CSPs; and (ii) continue to follow up the status of RQAT recommendations for the immediate issuance of COPC to the BS Industrial Engineering program and inform the Audit Team of its issuance; and (b) direct the Director for Quality Assurance to (i) monitor closely the lapsed accreditation statuses of different programs for updating or upgrading on or before the end of the grace period; and (ii) ascertain that all curricular programs are subjected to AACCUP accreditation as soon as graduates are produced in order to enjoy the benefits thereon. 
+
+
+
+Performance in licensure examinations and employability of the graduates
+
+
+
+10)	The University Passing Rates (UPRs) obtained by the Bataan Peninsula State University (BPSU) on 11 out of 18 licensure examinations given during the years 2016 to 2020 were mostly below the National Passing Rate (NPR), thus, casting doubt on the capability of the University to produce professionals from among its graduates, especially in the fields of Engineering, Education, Nursing, and Accounting. On the other hand, based on the latest monitoring done by the different Offices of the Dean, out of 3,028 graduates in CY 2018 about 1,006 were employed, 685 were unemployed while the status of the remaining 1,337 were unknown in view of unreliable tool in the gathering and consolidation of data. Nonetheless, the number of unemployed, which constitutes 22.62% of the graduates in the same batch, is quite alarming, creating a negative impact on the realization of its mandate to produce competitive and empowered individuals.  
+
+
+
+12.1	Pursuant to Republic Act (R.A.) No. 9403, from a former state college, the Bataan Peninsula State University (BPSU) acquired the status of a state university on March 22, 2007. As its mandate, BPSU commits to develop competitive graduates and empowered community members by providing relevant, innovative, and transformative knowledge, research, extension and production programs and services through progressive enhancement of its human resource capabilities and institutional mechanisms. 
+
+
+
+12.2	To ensure that the State Universities and Colleges (SUCs) could keep up with the top universities here in the Philippines and other countries, the Department of Budget and Management (DBM) – Commission on Higher Education (CHED) Joint Circular (JC) No. 1 series of 2016 dated April 13, 2016 provides the leveling instrument for SUCs and the standard to measure their institutional performance. The SUCs leveling shall be undertaken every three years. There shall be five levels with Level V as the highest which is described as a level comparable to the best universities or colleges in Asia. At present, the University holds SUC Level III status per CHED Memorandum Order (CMO) No. 09, series of 2019, dated September 11, 2019. One of the Key Result Areas (KRAs) that measures the stages of development and institutional performance of the respective SUCs is the quality and relevance of instructions and two of its sub-indicators are the performance in licensure/board examination and the employability of its graduates. 
+
+
+
+12.3	The University has 14 curricular programs that undergo 18 professional licensure examination administered by the Professional Regulations Commission (PRC).  The Audit Team conducted a review of the performance of the University graduates in the licensure examinations for the five-year period covering 2016 to 2020 and gathered that the University Passing Rate (UPR) on 11 out of 18 licensure examinations taken by its graduates were mostly below the National Passing Rate (NPR). Details are presented in Appendix I and summarized as follows: 
+
+
+
+Licensure Examination----footnote4----
+
+2016
+
+2017
+
+2018
+
+2019
+
+
+
+UPR2
+
+NPR
+
+UPR2
+
+NPR
+
+UPR2
+
+NPR
+
+UPR----footnote5----
+
+NPR
+
+1)	Agricultural Engineering (2016 to 2018)
+
+Agricultural and Biosystems Engineering (2019 onwards)
+
+11.11%
+
+39.52%
+
+44.83%
+
+48.31%
+
+24.59%
+
+56.66%
+
+17.33%
+
+37.70%
+
+2)	Agriculturists
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a)	First semester
+
+
+
+
+
+20.00%
+
+31.55%
+
+37.50%
+
+38.35%
+
+
+
+
+
+b)	Second semester
+
+23.53%
+
+30.89%
+
+32.00%
+
+38.25%
+
+
+
+
+
+41.38%
+
+41.05%
+
+3)	Architects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a)	First semester
+
+50.00%
+
+55.66%
+
+50.00%
+
+57.62%
+
+60.00%
+
+57.60%
+
+75.86%
+
+56.28%
+
+-20203
+
+
+
+
+
+
+
+
+
+
+
+
+
+72.92%
+
+55.72%
+
+b)	Second semester
+
+52.38%
+
+55.89%
+
+48.84%
+
+55.62%
+
+55.32%
+
+55.96%
+
+55.00%
+
+66.33%
+
+4)	Certified Public Accountants
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a)	First semester
+
+42.11%
+
+42.84%
+
+41.57%
+
+35.14%
+
+21.01%
+
+28.92%
+
+10.17%
+
+16.46%
+
+b)	Second semester
+
+21.56%
+
+36.48%
+
+15.44%
+
+30.45%
+
+11.97%
+
+25.18%
+
+6.73%
+
+14.32%
+
+5)	Civil Engineers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a)	First semester
+
+22.22%
+
+38.17%
+
+27.27%
+
+35.92%
+
+30.56%
+
+36.03%
+
+30.91%
+
+38.25%
+
+b)	Second semester
+
+30.34%
+
+45.90%
+
+36.02%
+
+48.81%
+
+25.79%
+
+45.11%
+
+34.52%
+
+43.18%
+
+6)	Electronics Engineers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a)	First semester
+
+25.93%
+
+36.95%
+
+40.00%
+
+41.27%
+
+39.62%
+
+45.36%
+
+29.82%
+
+48.92%
+
+b)	Second semester
+
+26.32%
+
+40.36%
+
+20.00%
+
+46.72%
+
+37.21%
+
+49.49%
+
+45.65%
+
+49.43%
+
+7)	Electronics Technicians
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a)	First semester
+
+85.71%
+
+36.95%
+
+40.00%
+
+41.27%
+
+65.52%
+
+76.94%
+
+90.24%
+
+81.11%
+
+b)	Second semester
+
+57.33%
+
+74.74%
+
+86.54%
+
+89.50%
+
+73.68%
+
+81.66%
+
+75.00%
+
+68.58%
+
+8)	Mechanical Engineers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a)	First semester
+
+43.75%
+
+55.32%
+
+43.18%
+
+56.88%
+
+26.92%
+
+47.05%
+
+33.79%
+
+50.49%
+
+-2020----footnote6----
+
+
+
+
+
+
+
+
+
+
+
+
+
+40.29%
+
+38.45%
+
+b)	Second semester
+
+64.35%
+
+69.01%
+
+35.65%
+
+68.99%
+
+38.94%
+
+60.82%
+
+60.99%
+
+70.65%
+
+9)	Nurses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a)	First semester
+
+54.55%
+
+43.59%
+
+22.92%
+
+34.74%
+
+25.00%
+
+43.82%
+
+44.44%
+
+52.20%
+
+b)	Second semester
+
+39.06%
+
+47.73%
+
+60.24%
+
+45.65%
+
+35.63%
+
+39.99%
+
+54.39%
+
+55.20%
+
+10)	Psychometricians
+
+49.02%
+
+50.46%
+
+51.02%
+
+56.97%
+
+44.44%
+
+47.73%
+
+53.70%
+
+63.73%
+
+11)	Registered Electrical Engineers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a)	First semester
+
+14.29%
+
+41.29%
+
+28.13%
+
+44.92%
+
+61.29%
+
+52.12%
+
+74.53%
+
+62.79%
+
+b)	Second semester
+
+67.92%
+
+68.46%
+
+9.52%
+
+62.94%
+
+31.11%
+
+66.74%
+
+42.31%
+
+67.16%
+
+
+
+12.4	Based on the explanation given by the Vice President for Academic Affairs (VPAA) and the Deans of Colleges concerned, one factor for the consistent low UPR was the open admission policy implemented during the past administration in which non-qualified freshmen were admitted to enroll in a program despite an existing selection procedure. Other causes are overpopulated classes and poor study habits among students. 
+
+
+
+12.5	With the less than satisfactory overall performance of the University in the licensure examinations, the tendency is low production of professionals. Since it failed to surpass the NPR in various fields, there is a need for the University to enhance strategies, reinforce more quality program instructions, and improve the learning environment, such as infrastructures and facilities.  
+
+
+
+12.6	According to the VPAA, the University has already initiated interventions to address the said observation, such as the implementation of a strict retention policy of the University. In this case, battery examination is being eyed to be its sifting mechanism. Also, a quota system is to be implemented to normalize the number of students per class and get more qualified students for the program. Not to mention, the curriculum was revised in CY 2018 in the advent of the new policies, standards, and guidelines of curricular programs, in which the University included the Competency Enhancement Course which aims to intensify the knowledge, skills, and attitude gained by the students in the program before their graduation. This will prepare students intending to take up the licensure examination and even prior to entering the private review centers. Lastly, the University eyes for the provision of in-house review for their graduates particularly those that are not covered by the new curriculum to prepare the graduates for the licensure examination. 
+
+
+
+12.7	On a favorable note, despite the low UPR, 11 examinees managed to occupy high ranks in their respective licensure examination as enumerated below:
+
+
+
+Names of Graduates
+
+Licensure Examination
+
+Date of Examination
+
+Rank
+
+1)	Gianna Kalilah T. Roman
+
+Nurse
+
+June 2016
+
+2
+
+2)	Jesse G. Ladines
+
+Registered Master Electrician
+
+September 2017
+
+8
+
+3)	Jan Carlo S. Muñoz
+
+Registered Master Electrician
+
+September 2017
+
+8
+
+4)	Jon Francis C. Pagador
+
+Registered Master Electrician
+
+September 2017
+
+9
+
+5)	Vince Harold S. Ebuen
+
+Nurse
+
+November 2017
+
+10
+
+6)	Chrisela M. Arangel
+
+Agricultural and Biosystems Engineer 
+
+August 2018
+
+9
+
+7)	Wilson D. Lazarte
+
+Registered Master Electrician 
+
+Registered Electrical Engineer
+
+September 2018 
+
+April 2019
+
+5
+
+8
+
+8)	Paul Jensens I. Mariano
+
+Registered Master Electrician
+
+September 2018
+
+5
+
+9)	Nikki Bryce C. Roque
+
+Fisheries Technologist
+
+October 2018
+
+8
+
+10)	Hans Martin C. Schofisch
+
+Nurse
+
+November 2018
+
+11
+
+11)	Joseph F. Pangilinan
+
+Registered Master Electrician
+
+September 2019
+
+5
+
+
+
+12.8	As regards the employment status of the graduates, it has been the policy of the Job Placement Office (JPO) to conduct annual monitoring of the graduates two years after graduation. For the current year 2020, said Office called every individual graduate of CY 2018 to inquire about their employment information such as their company, date hired, position, and status, among others. However, inquiry with the staff of the said Office disclosed that they cannot get in touch with most of the graduates until the end of the year. For this reason, they consolidated instead the employment data and tracer studies submitted by the Offices of the College Dean to comply with the letter request sent by the Audit Team. The consolidated data given is presented in Appendix J and summarized in the table below:
+
+
+
+College
+
+Employed----footnote7----
+
+Unemployed
+
+Unknown
+
+No. of Graduates
+
+1)	College of Agricultural and Fisheries
+
+
+
+
+
+
+
+
+
+a)	Abucay Campus
+
+169
+
+54
+
+54
+
+277
+
+b)	Orani Campus
+
+15
+
+0
+
+27
+
+42
+
+Subtotal
+
+184
+
+54
+
+81
+
+319
+
+2)	College of Education
+
+
+
+
+
+
+
+
+
+a)	Bagac Campus*
+
+21
+
+11
+
+2
+
+34
+
+b)	Balanga Campus
+
+152
+
+12
+
+28
+
+192
+
+c)	Dinalupihan Campus*
+
+51
+
+421
+
+0
+
+472
+
+d)	Orani Campus
+
+14
+
+28
+
+25
+
+67
+
+Subtotal
+
+238
+
+472
+
+55
+
+765
+
+3)	College of Business and Accountancy
+
+
+
+
+
+
+
+
+
+a)	Balanga Campus
+
+204
+
+21
+
+182
+
+407
+
+b)	Main Campus*
+
+66
+
+33
+
+87
+
+186
+
+Subtotal
+
+270
+
+54
+
+269
+
+593
+
+4)	College of Social and Behavioral Sciences (Balanga Campus)
+
+35
+
+1
+
+58
+
+94
+
+5)	College of Engineering and Architecture (Main Campus)*
+
+138
+
+104
+
+424
+
+666
+
+6)	College of Information and Communication Technology (Main Campus)
+
+66
+
+0
+
+168
+
+234
+
+7)	College of Nursing and Midwifery 
+
+(Main Campus)
+
+43
+
+0
+
+0
+
+43
+
+8)	College of Technology 
+
+(Main Campus)
+
+32
+
+0
+
+282
+
+314
+
+TOTAL
+
+1,006
+
+685
+
+1,337
+
+3,028
+
+Percentage
+
+33.22%
+
+22.62%
+
+44.15%
+
+100.00%
+
+
+
+12.9	The above table shows that out of the 3,028 graduates of CY 2018, 1,006 or 33.22% were employed while 685 or 22.62% were still unemployed. The remaining 1,337 or 44.15% were unknown or undetermined. Based on the copy of employment data submitted to the Audit Team, the bigger percentage represents graduates who did not respond to the notice given by the Offices of College Dean while others were not willing to disclose their employment information. Also, for purposes of the tracer studies, respondents of the questionnaires were limited to selected samples or representatives of all graduates.
+
+
+
+12.10	Conversely, the Audit Team obtained eight tracer studies for the CY 2018 graduates who disclosed the following reasons for their non-employment; viz:
+
+
+
+College
+
+Challenges encountered by the graduates
+
+1)	College of Education (Dinalupihan Campus)
+
+The graduates waited for the result of their licensure examination to be released before they seek for employment; however, the pandemic brought by COVID-19 reduced their chance to find a job.
+
+2)	College of Business and Accountancy (Main Campus – BS Hotel and Restaurant Management)
+
+Some graduates encountered family problem and opted not to find a job in the meantime. Others decided to undertake further studies. 
+
+3)	College of Engineering and Architecture (Main Campus) [five tracer studies for five programs]
+
+The respondents mentioned that they are pursing master’s degree. Others are still applying for a job while some are reviewing and preparing for their respective licensure examinations. Three respondents planned to start a business. 
+
+Note: For the College of Education – Bagac Campus, only the employment status of the graduates was traced and identified whether their present jobs are related or not to their finished degree. 
+
+
+
+12.11	On the other hand, inquiry revealed that the Office of Operations, Planning and Development (OOPD) undertakes a consolidation of the employment data submitted by the Offices of the College Deans. The consolidated report is being used in their Quarterly Physical Report of Operation (QPRO) or Budget Accomplishment Report (BAR) No. 1 which reflects the actual physical accomplishments of the University as of a given quarter. On the contrary, the report did not tally with the data maintained by the JPO. 
+
+
+
+12.12	Meanwhile, the Director for Student Affairs and Services, together with the Chairperson for Students Welfare, launched programs, such as job fairs, pre-employment orientation seminar and linkages with private companies and government agencies, to support the graduating students with their employment application process after graduation and licensure examinations. Likewise, duly organized activities, including referrals to local and overseas recruitment activities, job vacancy postings in the University official website and social media platforms, are spearheaded by the Office concerned. The accomplishment report given by the Office of Student Affairs and Services, which are applicable to the graduates of CY 2018, are summarized in Appendix K. Actually, the said programs had facilitated the application process of the graduates on the job opportunities related to their respective programs, thus, helping them land in promising jobs which will boost the image of the University in return. 
+
+
+
+12.13	We commend the University, particularly the Director for Student Affairs and Services and Office of Chairperson for the Students Welfare, for conducting programs to support the graduating students. 
+
+
+
+12.14	Notwithstanding, there are areas still wanting of improvement especially on how to upgrade the level of competitiveness among University graduates in all national licensure examinations and be at the top in every job opportunity locally and abroad.
+
+
+
+12.15	We recommended and the University President agreed to require the Vice President for Academic Affairs (VPAA) to: (a) take a serious study on the causes identified for the low performance in the licensure examinations, especially for degrees with in-demand jobs such as Engineering, Accounting, Education and Nursing; (b) adopt applicable interventions to raise the UPR  and make the University at par with other reputable learning institutions locally and in other countries to level up with the CHED standard for SUCs; (c) assign one specific office that will monitor and consolidate the report on the employability of the graduates which can be used effectively by the offices concerned for planning purposes and development of enhanced strategies; and (d) encourage all program deans to conduct in-depth studies of the employability of their respective graduates and submit the same to the Office in charge of consolidation. The study will provide valuable inputs to the Job Placement Office on the proper matching of skills/competence with job opportunities at hand. Accordingly, the percentage of employment of graduates will increase.  
+
+	
+
+Status of Audit Suspensions, Disallowances and Charges
+
+
+
+11)	Audit disallowances totaling to ₱7,037,679.62 remained unsettled as at year-end. Of this amount, Notices of Disallowance (NDs) for ₱6,316,250.68 and ₱167,200.00 were under appeal at the Regional and Central Offices, respectively. Moreover, COA Order of Execution (COE) was also issued in the total amount of ₱334,902.37.
+
+
+
+	1)		The status of suspensions, disallowances, and charges as of year-end is as follows:
+
+	
+
+Notices
+
+Beginning Balance (As of December 31, 2019)
+
+Issued
+
+Settlement
+
+Ending Balance (As of December 31, 2020)
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension
+
+₱              0.00
+
+₱               0.00                
+
+₱               0.00                
+
+₱               0.00                
+
+Notice of Disallowance
+
+7,380,470.76
+
+0.00
+
+342,791.14
+
+7,037,679.62
+
+Notice of Charge
+
+91,700.00
+
+0.00
+
+91,700.00
+
+0.00
+
+Total
+
+₱7,472,170.76
+
+₱               0.00                
+
+₱   434,491.14
+
+₱7,037,679.62
+
+
+
+13.2	Notice of Disallowance (ND) No. 2019-001-CF-(12-13) dated March 8, 2019 amounting to ₱6,316,250.68 (net of tax) was issued in place of Notice of Suspension (NS) No. 14-001-(2013). The NS, which pertained to the payment of construction of two-storey dormitory at Abucay Campus, matured into disallowance because the persons named responsible failed to submit the documentary requirements within the 90-day                      reglementary period. On the other hand, said disallowance was appealed on October 04, 2019 at the regional level and to date, decision thereto is still pending at the COA Regional Office No. III.
+
+
+
+13.3	Likewise, ND No. 2015-002 (2013-2014) dated June 5, 2015 (re: disallowed payments of honoraria to the Office of the Solicitor General (OSG) for the period August 1, 2013 to May 31, 2014 for ₱167,200.00) was also appealed at the regional level. Under Regional Office (RO) Decision No. 2019-238 dated November 12, 2019, which was received by our Office on December 4, 2019, the appeal was denied at the regional level. We were informed by management that the appeal was elevated to the COA Central Office on December 13, 2019.
+
+ 
+
+13.4	Moreover, the Notice of Charge (NC) No. 2018-001 (2016-2017) dated August 22, 2018 amounted to ₱971,700.00. This was issued due to under deposit of collections resulting from unauthorized alterations in the database management system of Official Receipts (ORs), Report of Collections and Deposits (RCD) and students’ subsidiary ledgers (SLs). The NC was fully settled as of December 31, 2020.
+
+
+
+13.5	Similarly, COA Order of Execution (COE) dated February 05, 2020 in the amount of ₱334,902.37 was issued by the COA Regional Office No. III in view of the non-settlement of the Notices of Finality of Decision (NFDs) for NDs issued due to irregular payment of overtime services.
+
+
+
+	13.6	We commended management for the full settlement of the Notice of Charge. We further recommended and the University President agreed to require persons liable to immediately settle all outstanding disallowances in their names. 
+
+	
+
+
+
+
+
+78
+
+
+
+
+
+
+
+footnote1)	
+
+ The amounts are excluded from the comparison of balances per books and per RPCPPE.
+
+footnote2)	
+
+ The RPCPPE was not completely filled out as to unit value of the property.
+
+footnote3)	
+
+ Aside from the accounts mentioned in the table, Due to NGAs account also had negative/abnormal balances as reported in separate audit observations.
+
+footnote4)	
+
+ Percentages highlighted refer to UPRs higher than the NPRs.
+
+footnote5)	
+
+ Included examinees who graduated from Bataan Polytechnic State College (BPSC) and Bataan National School of Arts and Trades (BNSAT), former names of BPSU, but still registered in the PRC records as such.
+
+footnote6)	
+
+ Due to government-imposed restrictions and other unforeseeable circumstances due to community quarantine all over the country, the conduct of the licensure examinations from March to December 2020 was postponed; thus, only three licensure examinations, namely Architects, Master Plumbers, and Mechanical Engineers were taken by the University graduates for A.Y. 2020.
+
+footnote7)	
+
+ Generally, the figures above are supported with employment data obtained by the Office of the College Dean. Those marked with “*” are backed up by both employment data and tracer study, a copy of which was also provided by the Job Placement Office to the Audit Team.
+
+
+

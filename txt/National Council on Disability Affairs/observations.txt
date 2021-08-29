@@ -1,0 +1,3006 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+25 
+ 
+
+PART II – OBSERVATIONS AND RECOMMENDATIONS 
+ 
+Financial Audit 
+ 
+Accounting Errors 
+ 
+1. Various accounts of the National Council on Disability Affairs (NCDA) under 
+the Assets, Liabilities, and Equity were misstated by P319,809.60, P33,163.12, and 
+P248,386.48, which represents 0.90 percent, 1.61 percent, and 0.74 percent of its total 
+Assets, Liabilities, and Equity, respectively, due to various accounting 
+errors/deficiencies amounting to P14,680,994.85 or 41.25 percent of its total assets. 
+The misstatements and deficiencies had significant impact on the balances of the 
+affected accounts; thus, the accuracy of the balances, completeness and existence of 
+the said accounts could not be relied upon. 
+
+ 
+2. Paragraph 27 of the International Public Sector Accounting Standards (IPSAS) 1 
+and Section 15, Chapter 2 of the Government Accounting Manual (GAM) for National 
+Government Agencies (NGAs), Volume I, provides that: “the financial statements shall 
+present fairly the financial position, financial performance and cash flows of an entity. 
+Fair presentation requires the faithful representation of the effects of transactions, other 
+events, and conditions in accordance with the definitions and recognition criteria for 
+assets, liabilities, revenue, and expenses set out in IPSAS. The application of IPSAS, with 
+additional disclosures when necessary, is presented to result in financial statements that 
+achieved a fair presentation.” 
+
+ 
+3. Moreover, Section 111 and 112 of Presidential Decree (PD) No. 1445 requires the 
+agencies to keep the accounts in such detail as necessary to meet the needs of the agency 
+and at the same time be adequate to furnish the information needed by fiscal or control 
+agencies of the government; and that the highest standard of honesty, objectivity and 
+consistency shall be observed in the keeping of accounts to safeguard against inaccurate or 
+misleading information.  Each government agency shall record its financial transactions 
+and operations conformably with IPSAS and in accordance with pertinent laws and 
+regulations. 
+ 
+4. Volume III of the GAM for NGAs provides the Revised Chart of Accounts (RCA) 
+to be used by NGAs in recording transactions.   
+
+ 
+
+5. Verification of the Disbursement Vouchers (DVs), Journal Entry Vouchers (JEVs), 
+General Ledgers (GLs), Subsidiary Ledgers (SLs), Purchase Orders (POs), and Inventory 
+and Property records, disclosed accounting errors/omissions; thereby, affecting the 
+accuracy and reliability of the account balances as shown in the following Table 1: 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+26 
+ 
+
+Table 1. Summary of Accounting Errors and Omissions 
+ 
+
+Errors/Omissions 
+
+Amount in PhP (over)/understatement 
+
+Criteria/ 
+Standards 
+
+Assets 
+
+Liabilities  
+
+Net 
+Assets/Equity 
+
+(including 
+Income and 
+Expenses) 
+
+Cash 
+Accounts 
+
+Receivable 
+
+Office 
+Supplies 
+Inventory 
+
+PPE 
+
+Erroneous recording of transaction 
+
+a. Unreplenished petty 
+cash fund expenses 
+
+(33,163.12) - - - (33,163.12) - 
+
+Section 54, 
+Chapter 19 of 
+the GAM, 
+Volume I 
+
+b. Error in the recording of 
+undelivered items 
+
+- 19,130.00 (19,130.00) - - - 
+
+Sections 17 (j) 
+and 15, 
+Chapter 8 of 
+the GAM, 
+Volume I 
+
+c. Capitalization of tangible 
+items below the 
+threshold of P15,000.00 
+
+- - - (248,386.48) - (248,386.48) 
+
+Sections 3 and 
+4, Chapter 10 
+of the GAM, 
+Volume I 
+
+NET OF MISSTATEMENTS (33,163.12) 19,130.00 (19,130.00) (248,386.48) (33,163.12) (248,386.48)  
+
+A = L + E (281,549.60) (33,163.12) (248,386.48)  
+
+TOTAL ACCOUNTING 
+ERRORS/OMISSIONS PER 
+ACCOUNT TITLE IN 
+ABSOLUTE AMOUNT  
+
+33,163.12 19,130.00 19,130.00 248,386.48 
+33,163.12 248,386.48 
+
+ 
+
+319,809.60 
+ 
+
+FINANCIAL STATEMENT 
+BALANCES 
+
+35,590,781.11 2,063,302.33 33,527,478.78 
+ 
+
+PERCENTAGE OF 
+ERRORS/OMISSIONS 
+
+0.90% 1.61% 0.74% 
+ 
+
+ 
+
+Erroneous recording of Transactions  
+ 
+a. Unreplenished Petty Cash Fund Expenses 
+
+ 
+
+6. Section 54, Chapter 19 of the Government Accounting Manual (GAM) , Volume I 
+requires the Petty Cash Fund (PCF) adjustment, to wit: 
+ 
+7. “At the end of the year, all unreplenished Petty Cash Fund expenses shall be 
+reported and supporting papers submitted to the Accounting Division/Unit, to recognize 
+the expenses incurred to the period to which they relate. In case no replenishment could 
+be made for lack of fund, a JEV shall be prepared to recognize all the expenses paid under 
+the Petty Cash with a credit to the account “Petty Cash”. If replenishment is made, the 
+credit shall be the appropriate cash account.” (Underscore ours) 
+ 
+8. Review of the General Ledger of the Accounts Payable account revealed that it 
+included unreplenished PCF expenses totaling P33,163.12 as per JEV Nos. 2020-12-GJ123 
+and 2020-12-GJ125 both dated December 31, 2020, with breakdown as follows: 
+ 
+
+
+
+27 
+ 
+
+Table 2. Breakdown of unreplenished PCF expenses 
+ 
+
+Reference Amount 
+
+JEV No. 2020-12-GJ124 19,596.06 
+
+JEV No. 2020-12-GJ123 13,567.06 
+
+Total 33,163.12 
+
+ 
+9. These expenses have been paid out of the PCF, however, it was recorded as a credit 
+to the Accounts Payable account contrary to the provisions of Section 54, Chapter 19 of 
+the GAM for NGAs, Volume I which resulted to the overstatement of accounts Petty Cash 
+and Account Payable. 
+  
+10. We recommended and Management agreed to require the Accountant to: (i) 
+draw a JEV to correct the entry made to record the unreplenished PCF expenses by 
+debiting the Accounts Payable account and crediting the Petty Cash account; and (ii) 
+strictly comply with Section 54, Chapter 19 of the GAM, Volume I. 
+ 
+11. Management commented that since these expenses have already been paid and the 
+Accounts Payable has been cancelled in January 2021, there is no need to draw a separate 
+Journal Entry Voucher to correct the entry as the previous entries have been counter-
+balanced. 
+ 
+b. Error in the recording of undelivered items 
+ 
+12. Non-compliance with the procedures in the Receipt, Inspection, Acceptance 
+and Recording of Deliveries of Inventory Items, contrary to Chapter 8 of the GAM, 
+Volume I, which resulted in recording of undelivered items. 
+ 
+13. Section 17(j), Chapter 8 of the GAM, Volume I requires the Inspection and 
+Acceptance Report (IAR) to be prepared and maintained by the Supply Custodian, which 
+shall be used for inspection and acceptance of purchased and delivered property, supplies 
+and materials. 
+
+ 
+14. Likewise, Section 15 of the same GAM Chapter provides the procedures in the 
+Receipt, Inspection, Acceptance and Recording of Deliveries of Inventory Items, among 
+others, as follows: 
+ 
+
+Table 3. Accounting procedures of Inventory items 
+ 
+
+Area of Responsibility Seq. No. Activity 
+
+Supply Custodian 1 Signs “Received” portion of the original and Copy 2 of the Delivery 
+Receipt (DR). Files the original and returns Copy 2 of the DR to 
+the Supplier/Procurement Service. 
+
+2 Prepares Inspection and Acceptance Report (IAR) (Appendix 62) 
+in four (4) copies. Forwards Copies 1-4 of IAR, original of DR, and 
+Copy 2 of approved PO to the Property Inspector for inspection of 
+deliveires. 
+
+Inspection Committee 
+Property Inspector 
+
+3 Inspects and verifies items as to quantity and conformity to 
+specifications based on the DR and approved PO. If delivery is not 
+in conformity to the specifications or delivery is incomplete, 
+
+
+
+28 
+ 
+
+Area of Responsibility Seq. No. Activity 
+
+indicates notation on the IAR that the deliveries are not in 
+conformity to specifications and/or terms agreed under the 
+approved PO and returns the Copies 1-4 of IAR, original of DR, 
+and Copy 2 of approved PO to the Property and/or Supply 
+Division/Unit. If delivery is in order, indicates the date of inspection, 
+places “√” in the box for “Inspected, verified and found in order as 
+to quantity and specifications”, and signs the “Inspection” portion 
+of the IAR. Retains Copy 2 of IAR and forwards Copies 1,3 and 4 
+of IAR, original of DR and Copy 2 of PO to the Property and/or 
+Supply Custodain for acceptance of goods delivered. 
+
+Supply Custodian 4 For deliveries not conforming to specification and/or terms of the 
+PO, receives Copies 1-4 of IAR, original of DR and Copy 2 of PO. 
+Returns the items to the supplier and requires the latter to comply 
+with the agreed specifications and/or terms of the PO. Xxx 
+(Emphasis ours) 
+
+ 
+15. Review of the Office Supplies Inventory account disclosed discrepancies in the 
+quantity of the delivered items as against the IAR totaling P19,130.00, details as follows: 
+ 
+
+Table 4. Discrepancies between delivered items and IAR 
+ 
+
+Check 
+No. 
+
+Item 
+No. of 
+items 
+
+delivered 
+
+No. of 
+items 
+
+inspected 
+Variance Price 
+
+Total 
+Variance 
+
+679735 
+Extension Cord 10 6 4 300.00  1,200.00 
+
+Garden Host 4 0 4 2,400.00 9,600.00 
+
+679772 
+
+Bleach 20 8 12 200.00 2,400.00 
+
+Furniture Polish 20 14 6 100.00 600.00 
+
+Window Glass 
+Wiper 
+
+10 4 6 280.00 1,680.00 
+
+Glass Cleaner 20 0 20 120.00 2,400.00 
+
+Ceiling Broom 5 0 5 250.00 1,250.00 
+
+Total 19,130.00 
+
+ 
+16. Audit revealed that the incomplete items delivered were accepted by the Supply 
+Custodian without any notation on the discrepancy in the quantity delivered to serve as 
+basis for payment, thus, payments were made including the undelivered items which is not 
+in accordance with Section 15, Chapter 8 of the GAM, Volume I.  The delivered items 
+should have been returned by the Supply/Property Unit to the supplier in compliance with 
+the terms of the PO, as provided in sequence no. 4 of Table 3. 
+ 
+17. Lapses in the acceptance of the delivered items posed risk on the reliability and 
+effectiveness of the internal controls. 
+
+ 
+18. We recommended and Management agreed to strengthen its internal controls 
+to mitigate risks on the Receipt, Inspection, Acceptance and Recording of Deliveries 
+of Inventory Items. 
+
+ 
+19. We likewise recommended and Management agreed to require: 
+
+ 
+
+
+
+29 
+ 
+
+a. The Supply Custodian to: (i) require the supplier to deliver the undelivered 
+items and submit to COA the IAR on the deliveries to be made; and (ii) 
+submit justification on why the deliveries were accepted despite non-
+conformance with the PO; (iii) return to the Supplier the items delivered 
+with report on the discrepancy noted which should have been in 
+compliance with the terms and conditions stated in the PO; and (iv) 
+scrutinize well the items delivered before accepting them and ensure that 
+the delivered items are in accordance with the specifications, quantities, 
+etc. stated in the PO. 
+
+ 
+b. The Accountant to draw a JEV to adjust the payment made with the 
+
+supplier reflecting receivables for the undelivered inventory items; and 
+ 
+c. The Accounting and Supply Units to conduct regular reconciliation of their 
+
+records/reports to ensure that all deliveries and issuances are fully 
+accounted for. 
+
+ 
+20. Management commented that the items were actually delivered completely; 
+however, there was an error in the Inspection and Acceptance Report wherein not all 
+quantity received were recorded.  The Inspection and Acceptance Report was under-
+reported. 
+ 
+Auditor’s Rejoinder: 
+ 
+21. No additional IAR was submitted to COA to support their claim of complete 
+delivery. 
+
+ 
+c. Capitalization of tangible items below the threshold of P15,000.00 
+
+ 
+22. Section 3, Chapter 10 of the GAM, Volume I provides the criteria for recognizing 
+an item of PPE as Assets, as follows: 
+
+ 
+a. if it is probable that the future economic benefits or service potential 
+
+associated with the item will flow to the entity; 
+b. if the cost or fair value of the item can be measured reliably; 
+c. if it is beneficial ownership and control clearly rest with the government; 
+d. if the asset is used to achieve government objectives; and 
+e. if it meets the capitalization threshold of P15,000.00. 
+
+ 
+23. Section 4 of the same Chapter states that, the capitalization threshold of P15,000.00 
+represents the minimum cost of an individual asset recognized as a PPE on the Statement 
+of Financial Position. This threshold shall be applied on an individual asset or per item 
+basis. Each item within the bulk acquisition with aggregate or total value of PPE, such as 
+library books, computer peripherals and small items of equipment, will need to meet the 
+capitalization threshold to be recognized as PPE. (Underscore ours) 
+ 
+
+
+
+30 
+ 
+
+24. Likewise, Section 10, Chapter 8 of the GAM, Volume I requires tangible items 
+below the capitalization threshold of P15,000.00 to be accounted as semi-expendable 
+property. The following policies apply as follows: 
+ 
+
+a. Semi-expendable property which were recognized as PPE shall be 
+reclassified to the affected accounts. 
+
+b. These tangible items shall be recognized as expenses upon issue to the end-
+user. 
+ 
+
+25. Review of the General Ledger revealed that the disbursements made to purchase 
+window blinds totaling P260,780.74 for the Disability Resource and Development Center 
+(DRDC) Building was capitalized and debited to the Furniture and Fixtures account. 
+Details as follows: 
+
+ 
+Table 5. Disbursement for the purchase of Window Blinds 
+
+ 
+
+Check 
+No. 
+
+Date Cost 
+Depreciation 
+
+Expense 
+recognized 
+
+Carrying 
+Value 
+
+Remarks 
+
+667292 5/20/2020 223,655.74 12,394.26  211,261.48 This amount pertains to 
+65 sets of venetian 
+blinds @ P3,440.86 
+
+681343 12/11/2020 37,125.00 0.00 37,125.00 This amount pertains to 
+15 sets of venetian 
+blinds @ P2,475.00. 
+
+Total 260,780.74 12,394.26  248,386.48  
+
+ 
+
+26. Computation of the cost per item of these window blinds appeared that it did not 
+meet the capitalization threshold of P15,000.00 as prescribed in Sections 3 and 4, Chapter 
+10 of the GAM, Volume I. These should have been recognized as semi-expendable 
+properties in accordance with Section 10, Chapter 8 of the GAM, Volume I. As a result, 
+Furniture and Fixtures account was overstated by P248,386.48. 
+
+ 
+27. We recommended and Management agreed to require the Accountant to: (i) 
+draw a JEV to reclassify the window blinds to Semi-expendable properties in 
+accordance with Section 10, Chapter 8 of the GAM, Volume I; and (ii) strictly comply 
+with the capitalization threshold as prescribed in Sections 3 and 4, Chapter 10 of the 
+GAM, Volume I in the recognition of PPE assets. 
+ 
+Accounting Deficiencies 
+
+ 
+28. Various accounting deficiencies totaling P14,680,994.85 were also noted in 
+recording the transactions of Receivables, Office Supplies Inventory and Property, Plant 
+and Equipment accounts that have impact on the fairness of presentation of the balances of 
+the accounts in the FSs as discussed in Table 6. 
+ 
+ 
+
+
+
+31 
+ 
+
+Table 6. Accounting Deficiencies 
+ 
+
+Observation Amount Criteria Cause/s Effect Recommendation 
+
+a) Dormant account balances as follows: 
+
+i. Due from NGAs - 
+pertains to Funds 
+transferred to the 
+DSWD Field Offices 
+(FOs) VI and VIII in 
+CY 2001 and to the 
+National Anti-Poverty 
+Commission (NAPC) 
+in CY 2003 for training 
+purposes that 
+remained dormant for 
+15 to 17 years due to 
+no liquidation 
+documents submitted 
+
+70,000.00 Pertinent 
+provisions 
+prescribed in 
+COA Circular 
+No. 97-001 
+dated 
+February 5, 
+1997; and 
+ 
+COA Circular 
+No. 2016-005 
+dated 
+December 
+19, 2016 
+
+Absence and/or 
+lack of 
+supporting 
+records/ 
+documents 
+ 
+No proper 
+turnover or 
+endorsement of 
+documents 
+when the 
+Accountant 
+assumed office 
+in 2012 
+
+Validity and 
+reliability of the 
+accounts could 
+not be 
+established 
+
+We recommended 
+and Management 
+agreed to require 
+the Accountant to: 
+
+a.  consider the 
+application for 
+write-off of the 
+dormant 
+receivables as 
+provided in COA 
+Circular No. 2016-
+005 dated 
+December 19, 
+2016; and  
+
+b. prepare the 
+Schedule of 
+Dormant 
+Accounts as 
+basis for the 
+request for write-
+off supported 
+with the 
+documents 
+required in 
+Section 8.3 of 
+COA Circular No. 
+2016-005 dated 
+December 19, 
+2016. 
+
+ 
+
+ii. Due from LGUs - 
+pertains to Grants to 
+the Provincial 
+Government of Nueva 
+Vizcaya in CY 1997 
+used for the training of 
+persons with 
+disabilities that 
+remained dormant for 
+23 years. 
+
+49,306.00 
+
+iii. Due from NGOs/POs 
+- Livelihood 
+assistance granted to 
+nine (9) Non-
+Government 
+Organizations/ 
+People’s 
+Organizations 
+(NGOs/POs) in CYs 
+1999, 2002, 2003 and 
+2011 which became 
+dormant for 9 to 20 
+years. 
+
+730,550.46 
+
+iv. Receivables – 
+Disallowances/ 
+Charges - Includes 
+2011 disallowances, 
+telephone charges 
+collectible from 
+employees, and 
+disallowances in 2004 
+of employees who 
+either resigned or 
+retires before the 
+disallowance was 
+decided with finality 
+
+83,233.67 
+
+
+
+32 
+ 
+
+Observation Amount Criteria Cause/s Effect Recommendation 
+
+v. Other Receivables - 
+Unaccounted 
+balances from prior 
+years collectible from 
+various suppliers and 
+officers and 
+employees of the 
+Council 
+ 
+
+12,410.00 
+
+b) Unreconciled Office 
+Supplies Inventory 
+account 
+
+131,875.26 GAM Volume 
+I, Chapter 8, 
+Sections 5, 6 
+and 17 
+ 
+GAM Volume 
+II, Appendix 
+64 
+
+Non-
+reconciliation of 
+the balances of 
+the Accounting 
+and Supply 
+Units 
+ 
+Non-
+maintenance of 
+Stock Ledger 
+Cards (SLCs) by 
+the Accounting 
+Unit 
+ 
+Costing method 
+used in the 
+Inventory and 
+Disposal 
+System 
+procured was 
+not in 
+accordance with 
+the weighted 
+average method 
+ 
+Non-filling up by 
+the Accounting 
+Unit of the unit 
+cost, amount 
+and 
+recapitulation in 
+the Report of 
+Supplies and 
+Materials Issued 
+(RSMI) 
+ 
+ 
+ 
+
+Increased 
+variance 
+between the GL 
+and Report on 
+the Physical 
+Count of 
+Inventory (RPCI) 
+balances to 
+P131,875.26 
+ 
+Not in keeping 
+with the sound 
+internal control 
+of check and 
+balance. 
+ 
+ 
+ 
+
+We recommended 
+and Management 
+agreed to require 
+the: 
+ 
+a. Accounting and 
+
+Supply Units to: 
+(i) reconcile the 
+variance noted 
+to ensure 
+correct balance 
+of the Office 
+Supplies 
+Inventory 
+account; and (ii) 
+comply with 
+Appendixes 57-
+58 of the GAM, 
+Volume II in the 
+maintenance of 
+SLC and SC, 
+respectively; 
+ 
+
+b. Bids and Awards 
+Committee 
+(BAC) to 
+communicate 
+with the supplier 
+to reprogram the 
+system to 
+conform with the 
+costing of the 
+weighted 
+average method 
+as prescribed in 
+Sections 5 and 6, 
+Chapter 8, 
+Volume I of the 
+GAM; and 
+
+ 
+c. Accountant to: 
+
+(i) maintain and 
+update the SLCs 
+in accordance 
+with the 
+
+
+
+33 
+ 
+
+Observation Amount Criteria Cause/s Effect Recommendation 
+
+weighted 
+average method 
+to monitor the 
+count and 
+costing of the 
+inventory items 
+generated by the 
+system for 
+check and 
+balance 
+purposes; and 
+(ii) comply with 
+Appendix 64, 
+Volume II of the 
+GAM to fill up the 
+unit cost of the 
+supplies in the 
+RSMI; and 
+
+ 
+
+c) Unreconciled PPE 
+accounts 
+
+10,488,879.77 GAM Volume 
+I, Chapter 10, 
+Sections 20 
+and 42 
+
+Non-
+maintenance of 
+Property Cards 
+(PCs) and 
+Property, Plant 
+and Equipment 
+Ledger Cards 
+(PPELCs) 
+
+ 
+Non-
+reconciliation of 
+balances 
+between 
+Property and 
+Accounting 
+Sections 
+
+ 
+Lack of 
+manpower due 
+to retirement of 
+key personnel 
+
+The accuracy, 
+completeness 
+and existence of 
+the recorded 
+PPE accounts 
+cannot be 
+ascertained. 
+
+ 
+Increased 
+variance 
+between the GL 
+and Report on 
+Physical Count 
+of Property, 
+Plant and 
+Equipment 
+(RPCPPE) 
+balances to 
+P10,488,879.77 
+
+ 
+ 
+
+We recommended 
+and Management 
+agreed to require:  
+ 
+
+ 
+a. the Chief 
+
+Accountant and 
+the Property 
+Custodian to: (i) 
+prepare the 
+PPELC and the 
+PC, respectively 
+in accordance 
+with the GAM; 
+and (ii) regularly 
+reconcile any 
+difference from 
+the RPCPPE and 
+GL and adjust 
+both the 
+property and 
+accounting 
+records, if 
+necessary; and 
+
+ 
+
+b. the HR Officer 
+
+to fast track the 
+
+hiring of the 
+
+Property Officer 
+
+to prepare the 
+
+PC and submit 
+
+the same to the 
+
+Audit Team for 
+
+validation 
+
+
+
+34 
+ 
+
+Observation Amount Criteria Cause/s Effect Recommendation 
+
+within the 
+
+prescribed 
+
+period. 
+
+ 
+
+d) Unlocated Information 
+and Communication 
+(ICT) Equipment 
+
+136,032.09 GAM Volume 
+I, Chapter 10, 
+Section 41 
+
+Management 
+failed to 
+establish and 
+report the lost 
+equipment 
+
+ 
+Monitoring 
+controls are not 
+in placed 
+
+ 
+ 
+
+Missing ICT 
+equipment with a 
+total acquisition 
+cost of 
+P136,032.09 
+
+ 
+Affected the 
+accuracy and 
+reliability of the 
+reported balance 
+of the ICT 
+Equipment 
+account 
+
+We recommended 
+and Management 
+agreed to require:  
+ 
+a. The Property 
+
+section to locate 
+the missing ICT 
+Equipment and 
+establish 
+accountability 
+thereof and 
+submit the report 
+to the accounting 
+unit for 
+derecognition; 
+
+ 
+b. The Accountable 
+
+officers to 
+prepare Report of 
+Lost, Stolen, 
+Damaged, 
+Destroyed 
+Property 
+(RLSDDP); 
+
+ 
+c. The Accounting 
+
+unit to 
+derecognize lost 
+property based 
+on the RLSDDP 
+with the required 
+supporting 
+documents; and 
+
+ 
+d. The concerned 
+
+officers (i) to 
+strictly abide by 
+the pertinent 
+provisions of 
+Chapter 10 of the 
+GAM, Volume I 
+pertaining to 
+procedures of 
+reporting loss of 
+property; and (ii) 
+
+
+
+35 
+ 
+
+Observation Amount Criteria Cause/s Effect Recommendation 
+
+to fast-track the 
+hiring of Property 
+Officer who will be 
+in charge in 
+monitoring and 
+control of the ICT 
+equipment. 
+
+ 
+
+e. Non-disposal of 
+Unserviceable 
+Properties 
+
+2,978,707.60 PD 1445, 
+Section 79 
+ 
+GAM Volume 
+I, Chapter 10, 
+Section 40 
+
+Non-submission 
+of Inventory and 
+Inspection 
+Report of 
+Unserviceable 
+Property (IIRUP) 
+by the Property 
+Custodian 
+
+The 
+unserviceable 
+PPE items may 
+result in their 
+further 
+deterioration and 
+deprive the 
+Agency of a 
+higher return if 
+these properties 
+have not been 
+immediately 
+disposed 
+through sale or 
+negotiation. 
+Moreover, 
+spaces occupied 
+by these 
+unserviceable 
+PPE items which 
+remained idle in 
+the storeroom 
+was not 
+maximized. 
+ 
+
+We recommended 
+and Management 
+agreed to require: 
+
+ 
+a. The Property 
+
+section to 
+prepare IIRUP to 
+facilitate 
+disposal of the 
+unserviceable 
+properties 
+pursuant to 
+Section 79 of PD 
+1445; ensure 
+that procedures 
+in the 
+accomplishment 
+and approval of 
+IIRUP as stated 
+in Appendix 74 
+of GAM, Volume 
+II are strictly 
+observed and 
+submit the said 
+report to the 
+Accounting Unit; 
+and 
+
+  
+b. The Accounting 
+
+Unit to 
+derecognize 
+unserviceable 
+property based 
+on the IIRUP 
+upon completion 
+of the disposal 
+activity. 
+
+ 
+
+Total 14,680,994.85     
+
+ 
+29. Non-compliance by Management with the pertinent provisions on the above-
+mentioned accounts affected the accuracy of its balances. 
+ 
+30. In summary, due to the significant impact on the financial statements of the 
+total misstatements of ₱319,809.60, P33,163.12 and P248,386.48 which represent 0.90 
+
+
+
+36 
+ 
+
+percent, 1.61 percent and 0.74 percent of its total assets, liabilities and net 
+assets/equity, respectively, and with total deficiencies of P14,680,994.85 or 41.25 
+percent of its total assets, we rendered a Qualified Opinion on the financial statements 
+of the NCDA as at year-end. 
+ 
+Compliance Audit 
+ 
+Non-compliance with the perpetual inventory system 
+ 
+31. Non-preparation of the Report of Supplies and Materials Issued (RSMI) on the 
+inventories issued for the period, under the perpetual inventory system, is contrary to 
+Section 17, Chapter 8 of the GAM, Volume I that resulted in the unavailability of the 
+real time information on the actual balance of the Office Supplies Inventory account.  
+ 
+32. Section 9, Chapter 8 of the Government Accounting Manual (GAM), Volume I, 
+provides the guidelines for the Perpetual Inventory Method, to wit: 
+
+ 
+“Supplies and materials purchased for inventory purpose shall be recorded using 
+the perpetual inventory system, resulting in a more accurate inventory records xxx. 
+Regular purchases shall be coursed through the inventory account and issues 
+thereof shall be recorded as they take place except for supplies and materials 
+purchases out of PCF for immediate use or an emergency cases which shall be 
+charged directly to the appropriate expense account.” (Emphasis ours) 
+
+ 
+33. Audit of the GL and the RPCI on the Office Supplies Inventory account with 
+balances of P646,733.92 and P778,609.18, respectively, showed a variance of P131,875.26. 
+To establish the reliability of the quantities and amounts recorded in the RPCI, we 
+conducted a physical count of the inventories on February 16, 2021 and discrepancies were 
+noted in the quantities of supplies as reported in the RPCI and as per audit. 
+ 
+34. Analysis of accounts Office Supplies Inventory and Office Supplies Expense 
+revealed that issuances of supplies for the months of January to December 2020, totaling 
+P509,759.58, were recorded in the books only on December 31, 2020.   The Accountant 
+disclosed that this is due to the late submission of the RSMI by the Supply Custodian as a 
+basis for the preparation of the JEV; thus, not in keeping with the principles of the perpetual 
+inventory method in which inventories should have been recorded as its issuances took 
+place to ensure the availability of the real time information on the actual balance of the 
+Office Supplies Inventory.  
+
+ 
+35. Inquiry disclosed that the Supply Custodian belatedly submitted the RSMIs due to 
+voluminous work at hand, resulting in the non-recording of the supplies issued for the 
+period and the unavailability of the real time information on the actual balance of the Office 
+Supplies Inventory account. The Supply Unit is manned by only one staff who also serves 
+as BAC Secretariat and is also in charge of the technical issues of the Office Equipment 
+whenever a malfunction arises. It is worthy to note that the Supply Officer position has 
+been vacant since February 2019.  
+
+
+
+37 
+ 
+
+ 
+36. We recommended and Management agreed to require: 
+ 
+
+a. The Supply Custodian to regularly prepare and submit the RSMI in 
+compliance with Section 17, Chapter 8 of the GAM, Volume I; 
+
+ 
+b. The Accountant to strictly observe the Perpetual Inventory Method in 
+
+recording purchases and issuances as they take place; and 
+ 
+c. The HR Officer to fast-track the hiring of a Supply Officer for a more 
+
+effective execution of their duties and responsibilities. 
+ 
+
+37. Management commented that the Supply Section is undermanned, therefore, there 
+were the usual delays in the submission of reports.  The Personnel Section, however, has 
+started with its publication of vacancies hoping to fill up the Supply Officer position 
+vacated in 2019. 
+ 
+38. For the year 2020, all issuances of supplies for the year have been reported and 
+recorded in the books within the year unlike in the past. 
+ 
+Lapses in the procurement process 
+ 
+39. The procurement of the Inventory and Disposal System by the NCDA in CY 
+2019 for P449,000.00 was non-compliant with the provisions of the Revised 
+Implementing Rules and Regulations (RIRR) of RA 9184 due to lapses in the 
+procurement process. 
+ 
+40. Item V.D.8.b, Annex H of the RIRR of RA 9184 provides the procurement 
+procedures through Small Value Procurement (SVP), to wit: 
+
+ 
+i. The End-User shall submit a request for SVP to the BAC, which indicates the 
+
+technical specifications, scope of work, terms of reference, ABC and other terms 
+and conditions. 
+
+ 
+ii. The BAC shall prepare and send the RFQs/RFPs to at least three (3) suppliers, 
+
+contractors or consultants of known qualifications. This, notwithstanding, those 
+who responded through any of the required postings shall be allowed to 
+participate. Receipt of at least one (1) quotation is sufficient to proceed with the 
+evaluation thereof. 
+
+ 
+iii. Except for those with ABCs equal to Fifty Thousand Pesos (P50,000.00) and 
+
+below, RFQs shall be posted for a period of three (3) calendar days in the 
+PhilGEPS website, website of the Procuring Entity, if available, and at any 
+conspicuous place reserved for this purpose in the premises of the Procuring 
+Entity. 
+
+ 
+
+
+
+38 
+ 
+
+iv. Pre-bid conference may be conducted at the discretion of the BAC, in order to 
+clarify and/or explain any of the requirements, terms, conditions, and 
+specifications stipulated in the RFQ/RFP. 
+
+ 
+v. After the deadline for submission of quotations/proposals, an Abstract of 
+
+Quotations/Ratings shall be prepared setting forth the names of those who 
+responded to the RFQ/RFP, their corresponding price quotations/ratings. 
+
+ 
+vi. The BAC shall recommend to the HOPE the award of contract in favor of the 
+
+supplier or contractor with the Single or Lowest Calculated and Responsive 
+Quotation (for goods or infrastructure projects), or consultant with the Single 
+or Highest Rated and Responsive Proposal (for consulting services). In case of 
+approval, the HOPE shall immediately enter into contract with the said 
+supplier, contractor or consultant. (Underscore ours) 
+
+ 
+41. On December 4, 2019, the NCDA entered into a contract with Afield Consulting 
+Inc., the supplier for the procurement of the Inventory and Disposal System for 
+P449,000.00. 
+ 
+42. The Inventory and Disposal System which is a web-based system that can be 
+accessed through browser, was part of the Information Systems Strategic Plan 2018-2020 
+(ISSP) approved by the Department of Information and Communications Technology 
+(DICT) on May 27, 2019. It was described as a stand-alone system that will manage the 
+ordering, storing, deployment and disposing of the agency’s supply, materials, equipment, 
+fixed assets and other items. 
+ 
+43. On December 13, 2019, the NCDA issued the Notice to Proceed to the supplier and 
+the system was inspected and accepted by the Agency on December 17, 2019 as shown in  
+the Inspection and Acceptance Report (IAR).  
+
+ 
+44. Audit of the disbursement voucher (DV) and its supporting documents, such as the 
+Purchase Order (PO), Purchase Request, product brochure, Request for 
+Quotations/Proposals, Abstract of Quotations, posting made to PhilGEPS, Notice of 
+Award, Notice to Proceed and other documents relative to the procurement, revealed the 
+end-user’s non-submission of the other essential documents for the procurement activity 
+like the technical specifications, scope of work and terms of reference that resulted in the 
+non-determination of the date of delivery, delivery terms and the payment terms. The only 
+description included in the PO were the following: 
+
+ 
+a. Software License PLUS Master Data Management and Security (Role based 
+
+access control and Audit Trail) 
+b. Inventory and Disposal Management System 
+c. Data Migration Support 
+d. User and Admin Training 
+e. System Documentation 
+f. Twelve (12) Months: Fixing of Bugs and Issues Minor Changes 5 hr. service 
+
+per month upgrade of browser, software updates, remote back up restoration 
+
+
+
+39 
+ 
+
+ 
+45. Based on the above-cited description, the procurement of the computer system did 
+not have technical specifications, thus, inspection and acceptance of the system had no 
+criteria to be compared with. 
+
+ 
+46. Verification of the output of the system revealed that it was non-compliant with 
+what was prescribed in the GAM.  For example, the method used in costing the inventories 
+is the specific identification method instead of the weighted average method as prescribed 
+in Sections 5 and 6, Chapter 8 of the GAM, Volume I resulting in misstatement of the 
+account balances.  The method used in the system was to create a new item if the unit cost 
+differs from their previously acquired inventory even though the items are identical in 
+nature.  
+ 
+47. Inquiry with Management revealed that the requesting party merely submitted the 
+Purchase Request without indicating the technical specifications of the system needed. A 
+member of the BAC, however, informed us that since the contract price was small, they did 
+not require the technical specifications.  The Accountant also informed us that the supplier 
+of the System also made the same system in other agencies, hence, they relied only on the 
+product brochure.  Since the PO did not indicate the technical specifications of the system, 
+the Agency cannot hold the supplier accountable for the non-conformity of the system with 
+the prescribed costing method. Thus, amending/updating/reprogramming the system will 
+require additional cost to the Agency which will result in wastage of government funds. 
+ 
+48. Management’s non-adherence to the provisions in the RIRR, entering into a contract 
+without indicating the technical specifications is a manifestation of a control weakness of 
+the agency’s procurement system. 
+
+ 
+49. We recommended and Management agreed to require the BAC to: (i) submit 
+a justification why the contract was entered into without indicating technical 
+specifications; and (ii)  strictly observe procurement laws, rules and regulations 
+provided in RA 9184 and RIRR of 2016 and the Government Procurement Manual 
+issued by the GPPB for the proper conduct of Government Procurement. 
+ 
+50. Management commented that there was a technical specification in the proposed 
+brochure submitted by the supplier specific to the requirements of the NCDA. 
+ 
+51. It was a small value procurement where all the BAC members signed the Abstract 
+of Quotations approving the award of the contract.  There was no separate BAC resolution 
+made for the award of the contract like in public bidding. 
+ 
+52. Hence, the BAC committed to submit a separate explanation within the month. 
+ 
+Non-inclusion in the Annual Procurement Plan (APP) 
+
+53. The procurement of the Inventory and Disposal System was not included in the 
+agency’s annual procurement plan (APP) for CY 2019, contrary to the provisions 
+
+
+
+40 
+ 
+
+under Section 7, Rule II of RA 9184, and showed weaknesses in the agency’s efficient 
+and effective procurement system. 
+  
+54. Item 7.2, Section 7, Rule II of RA 9184 provides that, no procurement shall be 
+undertaken unless it is in accordance with the approved APP, including approved changes 
+thereto. The APP must be consistent with the duly approved yearly budget of the Procuring 
+Entity and shall bear the approval of the HoPE or second-ranking official designated by 
+the HopE to act on his behalf. (Underscore ours) 
+ 
+55. Likewise, item 7.4 of the same Section states that, changes to the individual PPMPs 
+and the consolidated APP may be undertaken every six (6) months or as often as may be 
+required by the HoPE. The respective end-user or implementing units of the Procuring 
+Entity shall be responsible for the changes to the PPMPs, while the BAC Secretariat shall 
+be responsible for the consolidation of these PPMPs into an APP, which shall be subject to 
+the approval of the HoPE. Changes in the APP, if any, for the budget year shall be submitted 
+to the GPPB in July of the current budget year, and in January of the following budget year. 
+ 
+56. Item 9.2 of COA Circular No. 2012-001 dated June 14, 2012 requires, among others, 
+the documentary requirements for procurement through Alternative Mode-SVP, as follows: 
+ 
+
+BAC Resolution recommending and justifying to the Head of Procuring Entity (HOPE) 
+the use of alternative mode of procurement and approval by the HOPE of the BAC 
+Resolution recommending award of contract.  (Underscore ours) 
+
+ 
+57. Review of the APP of the NCDA revealed that the procurement of the Inventory 
+and Disposal System was not included in the agency’s procurement plan for CY 2019, 
+contrary to Section 7, Rule II of RA 9184.   
+ 
+58. This procurement was part of the ISSP and the budget was already earmarked for 
+this, however, upon the approval of the ISSP on May 27, 2019, no supplemental APP was 
+prepared/done. 
+ 
+59. Interview with the BAC Secretariat revealed that the staff in charge of preparing the 
+supplemental APP was on maternity leave, resulting in the non-preparation and non-
+submission of the same. 
+
+ 
+60. Further, the BAC Resolution recommending the award of the contract was not 
+submitted to the Audit Team, contrary to Item 9.2 of COA Circular No. 2012-001 dated 
+June 14, 2012. 
+ 
+61. We recommended and Management agreed to require the BAC to: (i) ensure 
+that all goods and services to be procured shall be included in the APP and that the 
+APP should be implemented as approved; (ii) submit the BAC Resolution 
+recommending the award of contract; and (iii) strictly comply with the provisions of 
+RA 9184 and COA Circular No. 2012-001. 
+
+ 
+
+
+
+41 
+ 
+
+62. Management commented that there was a separate Information System Strategic 
+Plan (ISSP) for the purchase of this Inventory System, which was not integrated in the 
+overall APP. 
+ 
+Auditor’s Rejoinder: 
+ 
+63. Although the budget has already been earmarked for the IISP, the purchase of the 
+Inventory System should still be part of the approved APP in conformity with Item 7.2, 
+Section 7, Rule II of RA 9184 that no procurement shall be undertaken unless it is in 
+accordance with the approved APP. 
+ 
+Non-issuance of procured ICT Equipment to end-user 
+ 
+64. Fourteen (14) sets of desktop computers totaling P593,465.60 delivered on 
+August 26, 2020, as part of NCDA’s Information System Strategic Plan (ISSP) 
+Program remained in the stockroom and not yet issued to the end-users, thus, casting 
+doubt on the necessity of the procured Information and Communications Technology 
+(ICT) equipment, for the efficient discharge of the agency’s day-to-day operations. 
+ 
+65. Section 7.1 of the Revised IRR of RA 9184 provides that, all procurement shall be 
+within the approved budget of the Procuring Entity and should be meticulously and 
+judiciously planned by the Procuring Entity. Consistent with government fiscal discipline 
+measures, only those considered crucial to the efficient discharge of governmental 
+functions shall be included in the Annual Procurement Plan (APP). For purposes of this 
+IRR, a procurement project shall be considered crucial to the efficient discharge of 
+governmental functions if it is required for the day-to-day operations or is in pursuit of the 
+principal mandate of the Procuring Entity concerned. The APP shall include provisions 
+for foreseeable emergencies based on historical records. In the case of Infrastructure 
+Projects, the APP shall consider the appropriate timing/phasing of related project 
+activities, such as, engineering design and acquisition of right-of-way site or location, to 
+reduce/lower project costs. (Underscore ours) 
+ 
+66. Physical count revealed that 14 sets of desktop computers totaling P593,465.60 
+delivered on August 26, 2020, as part of NCDA’s ISSP Program, remained in the 
+stockroom and not yet issued to the end-users. The non-issuance of the procured equipment 
+cast doubt on the necessity of procured ICT equipment in the efficient discharge of the 
+agency’s day-to-day operations. 
+ 
+67. Moreover, for CY 2021 there are proposals to procure additional ICT equipment 
+specifically desktop computers and laptops with Operating System (OS) and Microsoft 
+Office for the implementation of ISSP 2021 amounting to P1,152,000.00 as included in 
+their APP, which may not be necessary as evidenced by the non-issuance of the same ICT 
+equipment procured in CY 2020.  
+ 
+68. The procurement of additional ICT equipment for CY 2021 that may not be issued 
+to the end-users immediately is not advisable since these items become obsolete/degraded/ 
+
+
+
+42 
+ 
+
+outdated every day because their functionality change over time with the invention of 
+upgraded products that make technology changes quickly. 
+ 
+69. We recommended and Management agreed to: 
+
+ 
+a. issue the existing ICT equipment to the end-users to maximize its use 
+
+according to its purpose; and 
+ 
+
+b. revisit the APP on the need to procure additional ICT equipment in the 
+future to prevent unnecessary spending of government funds. 
+
+ 
+70. Management commented that there is a pending project of the Disability Resource 
+and Development Center where the desktops are intended. The said equipment shall be 
+issued once the project becomes operational. 
+
+ 
+Auditor’s Rejoinder: 
+ 
+71. Since the project is not yet operational, the purchase of ICT Equipment at this time 
+may not be cost-efficient/effective as technology is constantly advancing. Meanwhile, the 
+already procured equipment may be issued to/utilized by other offices that have requested 
+for similar ICT equipment. 
+ 
+Delayed submission of Contract of Agreement with Incomplete Documentary 
+Requirements 
+ 
+72.        Non-/delayed submission of supporting documents in the contract of 
+agreement with a security services corporation and in the liquidation/replenishment 
+of cash advances (CAs) or Petty Cash Fund (PCF) granted to accountable officers 
+(AOs) affected the timely review and evaluation thereof by the Audit Team and cast 
+doubts on the reliability and validity of the transactions.  
+ 
+
+Table 7. Transaction with Corresponding Audit Criteria Violated 
+ 
+
+Transaction Criteria Violated 
+
+Contract of Agreement of NCDA with 
+Centara Security Services Corporation 
+
+Paragraphs 3.1.1, 3.1.2 and 3.1.3, COA Circular No. 
+2009-001 dated February 12, 2009; paragraph 
+9.1.3.2 of COA Circular No. 2012-001 dated June 
+14, 2012; and Section 17, RA 9184 
+
+Petty Cash Fund 
+ 
+
+COA Circular No. 2017-001 dated June 19, 2017; 
+Items 1.2.2 and 1.2.4.1 of COA Circular No. 2012-
+001 dated June 14, 2012  
+
+Section 36, Chapter 6 of the GAM for NGAs, Volume 
+I 
+
+ 
+a. Contract of Agreement with Centara Security Services Corporation 
+ 
+73. Paragraph 3.1.1, COA Circular No. 2009-001 dated February 12, 2009, states that 
+“Within five (5) working days from the execution of a contract by the government or any 
+
+
+
+43 
+ 
+
+of its subdivisions, agencies or instrumentalities, including government-owned and 
+controlled corporations and their subsidiaries, a copy of said contract and each of all the 
+documents forming part thereof by reference or incorporation shall be furnished to the 
+Auditor of the agency concerned. In case of agencies audited on an engagement basis, 
+submission of a copy of the contract and its supporting documents shall be to the Auditor 
+of the mother agency or parent company, as the case may be.” 
+ 
+74.  Under paragraph 3.1.2 of the same Circular – The copies of documents required to 
+be submitted shall include, but not limited, to the following: 
+ 
+
+Table 8. Management Compliance as per Paragraph 3.1.2 of COA Circular No. 2009-001  
+1)  
+
+ 
+Particulars Submitted 
+
+Not 
+Submitted 
+
+Remarks 
+
+A Invitation to Apply for Eligibility and to Bid √  12/20/19 
+
+B Letter of Intent  √ Only Baguio Investigation & 
+Security Agency, Inc. was 
+attached in the contract 
+
+C Eligibility Documents and Eligibility Data Sheet  √  
+
+D Eligibility Requirements  √ R.A. 9184., Section 17 
+
+E Results of Eligibility Check/Screening √  Checklist 
+
+F Bidding Documents (Sec. 17.1, IRR-A, RA 
+9184) 
+
+ √  
+
+G Minutes of Pre-bid Conference, if applicable √  11/6/19 
+
+H Agenda and/or Supplemental Bid Bulletins, if 
+any 
+
+  N.A. 
+
+I Bidders Technical and Financial Proposals √  Signatory – Mark Anthony 
+Estrellado 
+
+J  Minutes of Bid Opening  √  
+
+K Abstract of Bids √  P1,882,000.00 (3 bidders) 
+
+L Post Qualification Report of Technical Working 
+Group 
+
+√  Crime Hunters and Baguio 
+Investigation did not met 
+the 10% agency fee as per 
+Sec. 11 of Dept. Order 174 
+series of 2017 
+
+M BAC Resolution declaring winning bidder √   
+
+N Notice of Post Qualification √   
+
+O BAC Resolution recommending approval √   
+
+P Notice of Award √   
+
+Q Contract Agreement √  Perfected on 1/2/20, valid 
+for 12 months in the amount 
+of P1,666,550.64 
+
+R Performance Security  √  
+
+S Program of Work and Detailed Estimates  √ Only Crime Hunters and 
+Baguio’s Cost distribution 
+per month per Guard, 12 
+hrs of duty are attached in 
+the contract. 
+
+T Certificate of Availability of Funds, Obligation 
+Request 
+
+ √  
+
+U Notice to Proceed √  1/3/20 
+
+V Such other documents peculiar to the contract 
+and/or to the 
+
+   
+
+
+
+44 
+ 
+
+ 
+Particulars Submitted 
+
+Not 
+Submitted 
+
+Remarks 
+
+mode of procurement and considered 
+necessary in the 
+auditorial review and in the technical evaluation 
+thereof 
+
+ 
+75. Paragraph 3.1.3 of the same Circular states that “For technical review purposes, 
+submission of contracts and their supporting documents shall furthermore be guided by 
+the specific documentary requirements outlined in the attached checklist marked as 
+Annexes “A” to “T” of this circular” 
+
+ 
+76. Paragraph 9.1.3.2 of COA Circular No. 2012-001 dated June 14, 2012, – General 
+Support Services (Janitorial, Security, Maintenance, Garbage Collection and Disposal and 
+similar services) provides additional documents under Annexes I of COA Memorandum 
+No. 2005-027 dated February 28, 2005, that are required to be submitted to the Auditor’s 
+Office within five days (5) from the execution of the contract: 
+
+ For Janitorial/Security/Maintenance Services, 
+ 
+
+a. Appropriate approved documents indicating the following: 
+ 
+
+i. The number of personnel involved and their corresponding 
+rates/salary 
+ 
+
+ii. Schedule of work and places of assignment or station/visits 
+indicating among others, the number of hours per visit 
+ 
+
+iii. The type and number of equipment to be served (in case of visitorial 
+maintenance service) 
+ 
+
+b. The scaled floor plans of the building and other areas covered by the 
+service contract (for janitorial services) 
+
+ 
+c. The group classification of personnel to determine the Equivalent 
+
+Equipment Monthly Statutory Minimum Wage Rate in accordance with 
+the applicable Rules Implementing R.A. No. 6727 
+
+ 
+d. Approved documents indicating the minimum requirements of the agency 
+
+on the number of security personnel to be involved in the project (for 
+security service contract) 
+
+ 
+e. The population of the agency where the services are rendered (for security 
+
+service controls) 
+ 
+
+f. Detailed description of the maintenance services to be rendered or 
+activities to be performed (for maintenance service contracts) 
+
+
+
+45 
+ 
+
+77. Section 17, RA 9184 provides the “Form and Contents of Bidding Documents, 
+Paragraph 17.1. The Bidding Documents shall be prepared by the Procuring Entity 
+following the standard forms and manuals prescribed by the GPPB. The Bidding 
+Documents shall include the following: 
+ 
+
+Table 9. Management Compliance as per Section 17.1 of RA 9184   
+ 
+
+ 
+Particulars Submitted 
+
+Not 
+Submitted 
+
+Remarks 
+
+A ABC  √  
+
+B Invitation to Bid/Request for Expression of Interest  √  
+
+C Eligibility Requirements  √  
+
+D Instructions to Bidders, including scope of bid, 
+documents comprising the bid, 
+criteria for eligibility, bid evaluation methodology/criteria 
+in accordance with 
+the Act, and post-qualification, as well as the date, time 
+and place of the pre-bid conference (where applicable), 
+submission of bids and opening of bids 
+
+√  Bid Data Sheet 
+
+E Terms of Reference, for Consulting Services   N.A. 
+
+F Scope of work, where applicable  √  
+
+G Plans/Drawings and Technical Specifications   N.A. 
+
+H Form of Bid, Price Form, and List of Goods or Bill of 
+Quantities 
+
+ √  
+
+I Delivery Time or Completion Schedule  √  
+
+J Form, Amount, and Validity Period of Bid Security  √  
+
+K Form, Amount, and Validity of Performance Security and 
+Warranty 
+
+ √  
+
+L Form of Contract and General and Special Conditions of 
+Contract 
+
+ √  
+
+ 
+78. On January 2, 2020, the NCDA entered into a Contract of Agreement with Centara 
+Security Services Corporation (CSSC), with contract amount of P1,666,550.28 for four (4) 
+security guards rendering 12 hours duty per day, seven (7) days a week for a period of 
+twelve (12) months, with payments made in full as follows: 
+
+ 
+Table 10. Payments by NCDA to CSSC for the 12 month-period 
+
+ 
+
+Date Check 
+No. 
+
+Amount BIR  Net Amount Month Applied 
+
+3/9/20 677211 138,879.19 874.24 138,004.95 January 2020 
+
+4/20/20 677278 138,879.19 874.24 138,004.95 February 2020 
+
+4/20/20 677277 138,879.19 874.24 138,004.95 March 2020 
+
+4/20/20 677276 138,879.19 874.24 138,004.95 April 2020 
+
+8/12/20 677461 416,637.57 2,622.72 414,014.85 May, June, July 
+2020 
+
+10/20/20 679727 138,879.19 874.24 138,004.95 August 2020 
+
+10/28/20 679792 138,879.19 874.24 138,004.95 September 2020 
+
+11/24/20 681272 138,879.19 874.24 138,004.95 October 2020 
+
+12/31/20  138,879.19 874.24 138,004.95 November 2020 
+
+12/31/29  138,879.19 874.24 138,004.95 December 2020 
+
+TOTAL  1,666,550.28 10,490.88 1,656,059.40  
+
+
+
+46 
+ 
+
+ 
+79. Review and evaluation of the Contract of Agreement and its supporting documents, 
+however, revealed that the said contract was perfected on January 2, 2020, and was 
+received only on February 18, 2020 by the Audit Team, i.e., with 41 days delay, contrary 
+to Paragraph 3.1.1 of COA Circular No. 2009-001. 
+ 
+80. Moreover, supporting documents necessary for the review and evaluation as 
+required under the above-cited provisions were not complete. The lacking documents, as 
+shown in Tables 8 and 9, are summarized below: 
+
+ 
+a. Letter of Intent 
+b. Eligibility Documents and Eligibility Data Sheet 
+c. Eligibility Requirements 
+d. Minutes of Bid Opening 
+e. Performance Security 
+f. Program of Work and Detailed Estimates 
+g. Certificate of Availability of Funds, Obligation Request 
+h. Approved Budget for the Contract (ABC) 
+i. Invitation to Bid/Request for Expression of Interest 
+j. Scope of work, where applicable 
+k. Form of Bid, Price Form, and List of Goods or Bill of Quantities 
+l. Delivery Time or Completion Schedule 
+m. Form, Amount, and Validity Period of Bid Security 
+n. Form, Amount, and Validity of Performance Security and Warranty 
+o. Form of Contract and General and Special Conditions of Contract 
+   
+
+81. Management’s non-compliance with the afore-cited regulations pertaining to the 
+timely submission of the contract with CSSC and its complete supporting documents as 
+provided in Paragraphs 3.1.1 and 3.1.2 of COA Circular No. 2009-001 prevented the Audit 
+Team from conducting a systematic and efficient review of the documents with the end 
+view of generating timely and relevant audit results which will be useful for Management 
+decision-making. 
+ 
+b. Liquidation/replenishment of Cash Advances or Petty Cash Fund (PCF) granted to 
+
+Accountable Officers  
+ 
+82. Item 1.2.2 of COA Circular No. 2012-001 dated June 14, 2012, provides among 
+others the documentary requirements for the liquidation of PCF as follows: 
+ 
+
+a. Approved purchase request with certificate of Emergency Purchase, if 
+necessary 
+
+b. Bills, receipts, sales invoices 
+c. Certificate of inspection and acceptance 
+d. Approved trip ticket, for gasoline expenses 
+e. Canvass from at least three suppliers for purchases involving P1,000.00 and 
+
+above 
+
+
+
+47 
+ 
+
+f. Summary/Abstract of Canvass 
+g. Petty Cash Vouchers duly accomplished and signed 
+h. For reimbursement of toll receipts.  
+i. Toll Receipts 
+j. Trip tickets 
+k. Post-inspection reports, in case of repair and maintenance of equipment 
+
+ 
+83. Likewise, Item 1.2.4.1 of the same Circular provides the documentary requirements 
+for local travel, among others, as follows: 
+ 
+
+a. Certificate of Appearance/attendance 
+b. Copy of previously approved itinerary of travel 
+c. Revised or supplemental Office Order or any proof supporting the change of 
+
+schedule 
+d. Revised Itinerary of Travel, if the previous approved itinerary was not followed 
+e. Certificate of Travel Completed 
+
+ 
+84. Item 3.3.1 of COA Circular No. 2004-006 dated September 9, 2004 provides 
+guidelines on the paper-based evidence of receipt of payment in the form of 
+Reimbursement Expense Receipt (RER). “The RER shall be acceptable for disbursements 
+where the payee is not a business entity required by the Bureau of Internal Revenue to issue 
+Official Receipts (ORs) and the money is advanced by the official concerned and the 
+expense is authorized to be reimbursed by the government agency concerned.” 
+ 
+85. Section 36, Chapter 6 of the GAM for NGAs, Volume I provides the documentary 
+requirements for the PCF and under the liquidation of PCF, it states “Canvass from at least 
+three suppliers for purchases involving P1,000 and above, except for purchases made while 
+on official travel." 
+ 
+83 Item 1.2.2 of COA Circular No. 2012-001 dated June 14, 2012 – Revised 
+Guidelines and Documentary Requirements for Common Government Transactions, 
+“requires an approved purchase request with certificate of Emergency Purchase, if 
+necessary.” 
+ 
+84. With regard to the liquidation/replenishment of PCF/CAs granted to AOs, the 
+provision on the RER was superseded by the issuance of COA Circular No. 2017-001 dated 
+June 19, 2017, which provides that expenses amounting to P300.00 or less incurred by 
+government officials and employees in the discharge of their official functions need not be 
+supported by official receipts; however, the official/employee concerned shall be required 
+to submit a certification as supporting document, except for the following: 
+
+ 
+a. Payment of fares in public utility vehicles issuing receipts such as bus, train, 
+
+vessel/ship; and 
+ 
+b. Purchases in business establishments issuing receipts. 
+
+ 
+
+
+
+48 
+ 
+
+85. In our examination of the supporting documents of the liquidations and/or 
+replenishments, we have noted that disbursements totaling P98,331.91 were liquidated 
+without complete supporting documents. Details as follows:  
+
+ 
+Table 11. Disbursements without complete documentary requirements 
+
+ 
+
+Lacking documents Amount Remarks 
+
+Official Receipt/Allowed proof of payment 
+and/or Inspection and Acceptance Report 
+and/or Canvasses and Summary/Abstract of 
+Canvass 
+
+ 26,419.93 Disbursements were supported only with 
+either photocopy of the Official Receipt 
+(OR) or a piece of paper showing payment 
+made, or with no proof at all. 
+
+Inspection and Acceptance Report, 
+Canvasses and/or Abstract of Canvass 
+
+51,905.08 Disbursed mostly for meals during 
+meetings 
+ Inspection and Acceptance Report only 18,446.90 
+
+Office Order/Personnel Locator Slip 1,560.00 Disbursements for transportation 
+expenses 
+
+TOTAL  98,331.91  
+
+ 
+86. Audit of the replenishments/liquidations revealed that expenses totaling P26,419.93 
+were supported only with either a photocopy of the ORs or a piece of paper showing 
+payments made, or with no proof at all. PCF used for payment of bank charges was 
+disbursed and replenished without any proof of payment. The said amount also included 
+stipend for the priest amounting to P2,000.00 each, i.e., for the conduct of NCDA 
+Teambuilding and for Honoring the retirees, from the AO’s cash advances, which were 
+supported with Certification of Expenses not requiring receipts (CENR), contrary to COA 
+Circular No. 2017-001, which only requires CENR for expenses amounting to P300.00 or 
+less. 
+ 
+87. Moreover, disbursements incurred amounting to P300.00 and below, without ORs, 
+such as payment of transportation expenses when riding jeepneys and tricycles, and 
+payment to postal office which were supported only with a piece of paper showing the 
+summary of the disbursements, is not compliant with COA Circular No. 2017-001 dated 
+June 19, 2017, which requires CENR as supporting document.  
+ 
+88. The bulk of transactions without complete documentary requirements amounting 
+to P51,905.08 pertained to disbursement for meals during meetings of the staff involving 
+P1,000.00 and above; however, no Inspection and Acceptance Reports (IAR) and/or 
+canvasses were made and subsequently, no Summary/Abstract of Canvass were prepared 
+for these particular transactions, contrary to COA Circular No. 2012-001.  
+ 
+89. Furthermore, disbursements totaling P1,560.00 pertained to payment of 
+transportation expenses of the board members and the personal assistant of one of the board 
+members who is a Person with Disability (PWD). The transportation expenses were only 
+supported with GRAB receipts and CENR. However, there was no Office Order issued to 
+support the travelling expenses as required under Item 1.2.4 of COA Circular No. 2012-
+001 for local travel. 
+ 
+
+
+
+49 
+ 
+
+90. Non-compliance with the prescribed documentary requirements is an internal 
+control deficiency, thus, validity of the disbursements cannot be assured. Likewise, 
+government funds are not safeguarded against possible loss/misappropriation. 
+ 
+91. In addition, upon examination of the Petty Cash Fund Record of the Special 
+Disbursing Officer (SDO), it showed that some purchases amounting to P1,000.00 and 
+more were not supported by canvass from at least three suppliers. For some purchases in 
+Table 12, the SDO just attached his certification in a feedback report that the particular 
+item was purchased: 
+ 
+
+Table 12. Disbursements at P1,000.00 and above, without Canvass/Quotation 
+from at least 3 Suppliers 
+
+ 
+
+Date Particulars Nature Amount 
+
+11/28/19 NCL Miller P Valve/Camber alignment   2,500.00 
+
+1/10/20 Dexter Guevarra Emergency Repair of CCTV, with 
+cert of emergency purchase 
+
+5,000.00 
+
+1/30/20 Wash Wish Laundry 
+Plus 
+
+Laundry of tablecloth 1,495.00 
+
+2/29/20 
+Cable structuring of 
+PABX 
+
+Labor and Materials 
+ 
+
+            
+2,000.00  
+
+ 
+
+6/19/20 Wilcon Depot Foot Disinfectant Mat 1,480.00 
+
+7/14/20 Global Multi Sales 
+Corp. 
+
+Battery for Elevator’s UPS 
+With cert. of emerg. purchase 
+
+1,400.00 
+
+10/7/20 CW Home Depot Toilet Bowl & Labor for 
+installation with justification of 
+emergency purchase 
+
+8,750.00 
+
+TOTAL 22,625.00 
+
+ 
+
+92. On the other hand, there were also expenses that cost P1,000.00 and above that 
+were paid out of PCF for the repair and maintenance of the service vehicle of NCDA. The 
+disbursements were made without securing canvass or quotations from at least three (3) 
+suppliers or authority and justification from the Head of Administrative Service. Interview 
+with the SDO revealed that he was instructed by the Executive Director to have the repair 
+and maintenance of their vehicles done in a service center wherein they cater/serve that 
+particular brand of vehicle. In addition, registration and other expenses relative to the 
+service vehicle were also charged to the PCF. Details for car Repair and Maintenance 
+without canvass are shown in Table 13: 
+
+ 
+Table 13. Car Repair and Maintenance w/o Canvass 
+
+ 
+
+Date Particulars Nature Amount 
+
+8/29/19 Toyota Commonwealth Repair of Toyota Commuter P  3,123.05 
+
+10/08/19 Mindanao Ave. Service Change Oil commuter/L300     1,650.00  
+
+10/31/19 Honda TPL        1,705.00 
+
+1/31/20 LTO Registration of Nissan Cargo        2,509.06  
+
+2/13/20 LTO Registration of Toyota Innova        2,319.06 
+
+6/19/20 LTO Registration of Toyota 
+Commuter 
+
+       2,889.06  
+
+
+
+50 
+ 
+
+Date Particulars Nature Amount 
+
+8/27/20 LTO L300 Mitsubishi Registration    2,419.06  
+
+10/29/20 Honda Maintenance and Check up 5,340.47 
+
+TOTAL P21,954.76 
+
+  
+93. Moreover, there were also expenses for labor that were charged against the PCF 
+that cost P1,000,00 and above, wherein no certification from the Head of Agency or 
+authorized representative that the item for disbursement was necessary for petty operating 
+expenses of the agency as shown in Table 14, which is not a good internal control. 
+ 
+
+Table 14. Disbursements for Labor 
+ 
+
+Date Particulars Nature Amount 
+
+9/14/19 Benson Vega Cleaning of Water Tank  2,000.00 
+
+9/16/19 Remont/Benson Vega Installation of Exhaust Fan 
+ 
+
+        1,128.00  
+ 
+
+9/17/19 Remont/Benson Vega Repair of CR - Labor & Materials          1,492.75 
+
+2/22/20 Ritchie Reforma Labor and Materials          2,180.00 
+
+3/14/20 Jay R. Bigtas Cleaning of Water Tank          1,600.00 
+
+8/23/20 Dee Hwa Electric Corp.  Labor and Materials          1,550.00 
+
+8/24/20 CW Home Depot Labor/door knobs          4,499.75  
+
+9/16/20 Jay R. Bigtas Cleaning of Water Tank          1,500.00 
+
+10/28/20 Ace Hardware Lamps & Labor          2,359.00 
+
+ 
+94. We recommended and Management agreed to: 
+
+ 
+a. require the concerned officials to submit the lacking documents as 
+
+identified above as well as the submission of the Contract of Agreement as 
+prescribed in the above-cited provisions; otherwise, we shall be constrained 
+to suspend in audit the transactions pertaining thereto;  
+
+ 
+b. strictly comply with COA Circular No. 2017-001 on the proper usage of 
+
+CENR which is only for expenses amounting to P300.00 or less and issue 
+RER for expenses worth more than P300.00 in compliance with Item 3.3.1 
+of COA Circular No. 2004-006 dated September 9, 2004;  
+
+ 
+c. ensure that purchases involving P1,000.00 and above be supported by 
+
+canvasses from at least three (3) suppliers and strictly comply with Section 
+36, Chapter 6 of the GAM for NGAs, Volume I; 
+
+ 
+d. secure certification/justification from the Head of Agency or his 
+
+authorized representative that purchases involving P1,000.00 and above 
+are emergency in nature; and 
+
+ 
+e. use the PCF only for petty operating expenses. 
+
+ 
+
+
+
+51 
+ 
+
+95. Management commented that the BAC Secretariat shall ensure that an advance 
+copy of the contract, together with other bidding documentation, shall be furnished to the 
+Auditor as required.   
+ 
+96. Likewise, Management committed to submit the original copy of the ORs for some 
+expenses totaling P26,419.93 that was left in the custody of the Accounting Unit since the 
+copies for the Accounting Unit and the COA were unintentionally mixed-up. Management 
+further commented that some items like notarization of documents are also unreceipted 
+since the notary public is not issuing ORs. In some instances, the bank charges on deposits 
+made are machine-validated only in the deposit slip itself without an OR. 
+ 
+97. The Supply Section is now providing Abstract of Quotations and Inspection 
+Reports to the Petty Cash Fund expenses amounting to P1,000.00 and above. 
+ 
+98. The RER and Certification shall be used for the purposes intended, as 
+recommended. 
+ 
+99. As to the observation on purchases like meals made out of the PCF that must have 
+canvasses and abstract of canvass, the purchases are usually immediate in nature and no 
+actual canvass was made, however, we will comply with the requirement for our 
+succeeding transactions. 
+ 
+100. As to the absence of IAR for the items bought under PCF because in some instances, 
+the member of the Inspection Committee just affixes his/her signature on the OR as an 
+evidence of inspection. However, prospectively, we will practice the submission of a 
+separate IAR for this purpose. 
+ 
+101. With regard to the non-submission of the Office Order for the official travel of the 
+Board Member, the Administration Office usually prepares an Office Order or Travel 
+Order for employees and job order workers of the Council only. Those who do not belong 
+to its plantilla or contracted personnel are not issued Office Order. 
+ 
+Auditor’s Rejoinder: 
+ 
+102. It is emphasized that disbursements, as provided under COA Circular No. 2017-
+001 dated June 19, 2017, be attached with the CENR to support expenses amounting only 
+to P300.00 or less, and RER for expenses more than P300.00 as provided under COA 
+Circular No. 2004-006 dated September 9, 2004. 
+ 
+103. We reiterated our recommendation that an Office Order be secured to support travel 
+expenses of the board members.  Since an Office Order is issued only to officials and 
+employees employed under the Council, we recommend that the Office Order be secured 
+from the employer of the board member to substantiate or support the travelling expenses 
+incurred as required under Item 1.2.4 of COA Circular No. 2012-001 dated June 14, 2012. 
+ 
+
+
+
+52 
+ 
+
+104. We interpose no objection to the repair of NCDA service vehicles done in a service 
+center of a particular brand of vehicle, like the repair of a Toyota Commuter, which was 
+directly negotiated with the Toyota service center, provided that there should be a 
+certification/justification from the Head of Agency or his authorized representative that a 
+negotiated procurement will be undertaken for the repair of a particular vehicle. 
+ 
+105. Management commented that most often than not, the items purchased out of the 
+PCF are immediate or urgent in nature. However, for other items falling under repairs, they 
+will comply with the requirement of obtaining three quotations from different suppliers, if 
+the cost involves P1,000 and above. 
+ 
+Other Compliance Audit 
+ 
+Gender and Development (GAD) 
+ 
+106. The NCDA has not fully achieved some of the Gender and Development (GAD) 
+initiatives due to non-allocation of at least five percent of the Agency’s budget in the 
+implementation of GAD activities. 
+ 
+107. Section 31 of RA 11465, also known as the General Appropriations Act (GAA) for 
+FY 2020, states that: 
+
+ 
+“Section 31. Programs and Projects Related to Gender and Development. All 
+agencies of the government shall formulate a Gender and Development (GAD) 
+Plan designed to address gender issues within their concerned sectors or mandate 
+and implement the applicable provisions under R.A. No. 9710 or the Magna Carta 
+of Women, Convention as the Elimination of all Forms of Discrimination Against 
+Women, the Beijing Platform for Action, the Philippine Plan for Gender-
+Responsive Development (1995-2025) and the Philippines Development Plan 
+(2017-2022).  
+ 
+The GAD Plan shall be integrated in the regular activities of the agencies, which 
+shall be at least five percent (5%) of their budgets, for this purpose, activities 
+currently being undertaken by agencies which relate to GAD or those that 
+contribute to poverty alleviation, economic empowerment especially of 
+marginalized women, protection, promotion, and fulfillment of women’s human 
+rights, and practice of gender-responsive governance are considered sufficient 
+compliance with said requirement. Utilization of the GAD budget shall be 
+evaluated based on the GAD performance indicators identified by said agencies.” 
+ 
+The preparations and submission of the annual GAD Plan and annual GAD 
+Accomplishment Report shall be subject to the guidelines issued by the agencies 
+concerned.” 
+ 
+
+108. Likewise, Sections 4.2 and 4.5 of the Philippine Commission on Women (PCW) 
+Memorandum Circular No. 2011-01 requires, to wit: 
+
+
+
+53 
+ 
+
+ 
+Section 4.2 Agencies with existing GAD Focal Point System (GFPSP) or similar 
+mechanisms shall reconstitute and   strengthen said mechanisms based on the 
+provisions of R.A. 9710, its IRR and this Memorandum Circular. 
+ 
+Xxx 
+Section 4.5 Agencies shall conduct periodic monitoring and evaluation of their 
+GFPS and shall undertake measures to address possible issues hindering the 
+performance of their functions in accordance with the MCW and other GAD-
+related laws, policies and plans. 
+ 
+
+109. Section 4.4 of Department of Budget and Management (DBM)/National Economic 
+and Development Authority (NEDA)/National Commission on the Role of Filipino 
+Women (NCFRW) Joint Circular No. 2004 – 1 requires that “GAD planning and 
+budgeting shall be observed annually and incorporated in all programs and budget 
+exercises of agencies. The GAD activities in the plan and budget must be included in the 
+agency budget proposal in accordance with the budget call. Agencies shall ensure that the 
+cost of implementing the GAD activities is part of their approved budget. At least five 
+percent (5%) of the total agency budget appropriations as authorized under the annual 
+General Appropriations Act shall correspond to activities supporting GAD. Agency heads 
+shall be responsible for ensuring that GAD activities are provided with adequate 
+resources.” 
+ 
+110. Section 6.1 of GAD-PCW-NEDA-DBM Joint Circular-2012-016 states that “At 
+least five percent (5%) of the total agency budget appropriations authorized under the 
+annual GAA shall correspond to activities supporting GAD plans and programs. The GAD 
+budget shall be drawn from the agency’s Maintenance and Other Operating Expenses 
+(MOOE), Capital Outlay (CO), and Personal Services (PS). It is understood that the GAD 
+budget does not constitute an additional budget over an agency’s total budget 
+appropriations. 
+ 
+
+Table 15. Appropriations per General Appropriations Act of 2020 
+ 
+
+PPA PS MOOE CO Total 
+
+General Administration and 
+Support 
+
+11,375,000 11,506,000  4,399,000  27,280,000 
+
+Operations 6,042,000 76,073,000 8,776,000 90,891,000 
+
+Total New Appropriation  17,417,000  87,579,000  13,175,000  118,171,000 
+
+ 
+Table 16. The GAD Plans/Programs/Activities vis-à-vis GAD accomplishment report for CY 2020 as 
+
+shown below: 
+ 
+
+GAD Programs/ 
+Projects/Activity 
+
+Amount 
+Remarks 
+
+Budget Actual Variance 
+
+Client Focused 
+
+Conduct of various events on children 
+
+
+
+54 
+ 
+
+GAD Programs/ 
+Projects/Activity 
+
+Amount 
+Remarks 
+
+Budget Actual Variance 
+
+1. Access to reproductive health 
+care and services/Section 17 
+at of RA 9710, Women with 
+disabilities’ right to 
+reproductive health 
+
+ 11,000.00 15,000.00  (4,000.00)  
+
+2. Gender inequality among 
+women and girls with 
+disabilities as regards access 
+to basic and development 
+support/Access to information 
+on and actual support services 
+accorded by various 
+stakeholders. *Section 17 of 
+RA 9710, Women with 
+Disabilities’ Right to Health 
+
+1,000,000.00 676,100.60 323,899.40  
+
+Sub-Total 1,011,000.00 691,100.60 319,899.40  
+
+3. Equal exercise of rights of 
+women with disabilities on 
+access to justice 
+
+80,000.00 20,501.98 59,498.02 Budget utilization is 
+low due to shift to 
+Webinars or via 
+zoom platforms 
+
+4. Equal participation of women 
+in training employment and 
+livelihood  
+
+250,000.00 124,903.00 125,097.00 Actual training and 
+competitions were 
+not undertaken due 
+to pandemic. 
+
+5. Equal participation of women 
+with disabilities in plans and 
+programs on disability 
+inclusive DRRM 
+
+300,000.00 5,000.00 295,000.00 Actual cost of 
+expenditures is low 
+due to shift to online 
+conduct 
+
+Sub-Total 630,000.00 150,404.98 479,595.02  
+
+6. Women with disabilities have 
+limited access to employment 
+due to transportation barriers 
+and availability of open 
+employment opportunities 
+
+313,000.00 24,569.21 288,430.79 Only preparatory 
+activities were 
+executed due to 
+COVID 19 
+Pandemic 
+
+7. Women with disabilities are 
+often invisible in the programs 
+of those promoting the rights of 
+persons with disabilities, and 
+those promoting gender 
+equality and the advancement 
+of women. Special measures 
+are needed at all levels, to 
+integrate them into the 
+mainstream of development. It 
+is vital that gender equality 
+
+562,000.00 47,817.90 514,182.10 Only preparatory 
+activities were 
+executed due to 
+COVID-19 
+pandemic 
+
+
+
+55 
+ 
+
+GAD Programs/ 
+Projects/Activity 
+
+Amount 
+Remarks 
+
+Budget Actual Variance 
+
+should be recognized as a 
+discrete issue and the gender 
+dimensions of the disability 
+inclusive development should 
+be addressed. To mobilize 
+persons with disabilities 
+especially women and girls 
+with disabilities to take the 
+challenge and responsibility to 
+make their presence felt. As 
+effective advocates of their 
+rights. Increase awareness of 
+the rights and the situation of 
+women and disabilities to the 
+country. 
+
+8. Assessment of the 
+implementation of Beijing 
+Platform for Action in relation 
+to the rights of women with 
+disabilities/ Section 26, RA 
+9710 Right to information. 
+
+450,000.00 78,025.84 371,974.16 Only preparatory 
+activities were 
+executed due to 
+COVID-19 
+pandemic 
+
+Sub-Total 1,325,000.00 150,412.95 1,174,587.05  
+
+9. Provision of training to 
+capacitate women with 
+disability to achieve equal 
+access to opportunities with 
+men with disabilities. 
+
+500,000.00 58,000.00 442,000.00 Budget utilized is 
+low due to 
+Proclamation No. 
+922 – Declaring a 
+State of Public 
+Health Emergency 
+Throughout the 
+Philippines due to 
+COVID 19 
+Pandemic (No 
+travels and 
+transportation 
+expenses were 
+incurred, no face to 
+face meetings. All 
+activities were 
+conducted via online 
+or virtual/zoom 
+platforms. 
+
+10. Role of women with 
+disabilities are not recognized 
+in maternal role, participation 
+in decision making process 
+and their contribution in 
+nation building. 
+
+50,000.00 16,500.00 33,500.00 Only preparatory 
+activities/meetings 
+were undertaken by 
+the National 
+Working Committee 
+and the NCDA 
+
+
+
+56 
+ 
+
+GAD Programs/ 
+Projects/Activity 
+
+Amount 
+Remarks 
+
+Budget Actual Variance 
+
+Secretariat. No 
+implementation of 
+the activities were 
+conducted due to 
+declaration of the 
+State of Public 
+Health Emergency 
+on March 15, 2020. 
+
+11. Parents prioritized boys with 
+disabilities over girls with 
+disabilities. 
+
+100,000.00 49,500.00 50,500.00  
+
+Sub-Total 650,000.00 124,000.00 526,000.00  
+
+12. Promoting the Ease of Doing 
+Business and Efficient 
+Delivery of Government 
+Services 
+
+205,200.00 202,822.00 2,378.00  
+
+Sub-Total 205,200.00 202,822.00 2,378.00  
+
+Grand Total 3,821,200.00 1,318,740.53 2,502,459.47  
+
+ 
+111. Records as presented in Table 15 and Table 16 revealed that NCDA provided a 
+total amount of P3,821,200.00 for its GPB which represents only 3.23% of its CY 2020 
+appropriations of P118,171,000.00. However, AR disclosed that a total amount of 
+P1,318,740.53, which represents only 1.12% of the total appropriation had been utilized 
+for GAD PPAs integrating gender perspective in the operations of the Agency. 
+ 
+112. In addition, Table 16 revealed that all of the accomplished PPAs were directed 
+towards the prioritization of vulnerable women with disability. However, the accomplished 
+PPAs have not met its planned budget and had utilized a lesser amount because of the 
+constraints of COVID-19 protocols that prevented them to push through with the activities 
+face to face, wherein only preparatory activities were executed and webinars/virtual/zoom 
+platforms were done.  
+ 
+113. The non-allocation of the mandatory requirement of at least five percent (5%) of 
+the total appropriations and thereby, not being able to maximize the use of the allowed 
+GAD budget, the appropriate program/projects/activities related to GAD were not 
+undertaken to address gender issues. 
+ 
+114. We recommended and Management agreed to strictly adhere to pertinent 
+laws, rules and regulations relative to the preparation of the GPB and the AR. 
+ 
+115. Management commented that the 5% budget is lodged or mainstreamed to the 
+general programs of the Council.  No specific budget is available. 
+ 
+ 
+
+
+
+57 
+ 
+
+Delayed submission to COA of the PCW endorsed GAD Plan and Budget   
+ 
+116. Delayed submission to COA of the Philippine Commission on Women (PCW) 
+endorsed GAD Plan and Budget (GPB) and Accomplishment Report (AR) which 
+should adhere to the procedures identified in Section 7.0 of PCW-NEDA-DBM Joint 
+Circular No. 2012-01 and Section V of COA Circular No. 2014-001. 
+ 
+117. Section V of COA Circular No. 2014-001 dated March 18, 2014 provides that:  
+
+ 
+“The Audited agency shall submit a copy of the Annual GAD Plan and Budget 
+(GPB) to the COA Audit Team assigned to the agency within five (5) working days 
+from receipt of the approved plan from the PCW or their mother or central offices, 
+as the case maybe.  Likewise, a copy of the corresponding Accomplishment Report 
+shall be furnished the said Audit Team within five (5) working days from the end 
+of January of the preceding year.” 
+ 
+
+118. Section 7.0 of PCW-NEDA-DBM Joint Circular No. 2012-01 - SCHEDULE TO 
+BE OBSERVED IN GAD PLANNING AND BUDGETING  
+
+ 
+i. September (2 years before budget year)-PCW issues notification letters to all line 
+
+departments or central offices for the submission of their annual GPB and GAD ARs 
+to PCW. (Note: GPB for the following year must be accompanied by the GAD AR of 
+the preceding year)  
+
+ 
+ii. September-October - Line departments or central offices issue notification letters to 
+
+all their attached agencies, bureaus and regional offices for the deadline of submission 
+of their annual GPBs and ARs to the central office. Agencies formulate their annual 
+GAD plans and budgets. 
+
+ 
+iii.  November - Attached agencies, bureaus and regional offices submit their annual 
+
+GPBs and ARs to their respective line departments or central offices’ GFPS.  
+ 
+iv.  November-December - Line departments or central offices with attached agencies, 
+
+bureaus and regional and field offices review all GPBs and GAD ARs and transmit 
+comments as needed. 
+
+ 
+v. January (1 year before budget year)-Submission of reviewed GPBs and ARs to PCW. 
+vi.  January-February - PCW reviews all submitted GPBs vis-àvis GAD ARs and 
+
+transmits its comments and recommendations to line departments or central offices. 
+Comments or recommendations from the PCW shall be communicated to the agencies 
+for the needed adjustments within the six-week period. 
+
+ 
+PCW starts consolidating the GAD Accomplishment Reports. 
+ 
+vii. March-Line departments or central offices submit revised GPBs to PCW. PCW 
+
+approves and endorses all revised GPBs and returns them to the concerned offices for 
+submission to DBM in time for the budget submission to DBM in time for the budget 
+submission. xxx 
+
+ 
+
+
+
+58 
+ 
+
+119. The NCDA failed to submit on time to COA the PCW-endorsed Annual GPB and 
+AR for CY 2020, as prescribed under Section V of COA Circular No. 2014-001 dated 
+March 18, 2014. The GPB and AR were only submitted to the Audit Team last March 24, 
+2021, contrary to what was prescribed under Section 7.0 of PCW-NEDA-DBM Joint 
+Circular No. 2012-01 on the Schedule to be observed in GAD Planning and Budgeting.  
+ 
+120. Interview/verification with the GAD TWG Secretariat, the GPB for CY 2020 was 
+submitted to the PCW but was returned with comments/corrections.  The revised GPB was 
+sent back to PCW as instructed, but as of this report, it has not yet been returned to the 
+NCDA. Despite the non-receipt of the GPB as approved by the PCW, the GAD Focal Point 
+Management Committee implemented the planned programs/projects/activities (PPAs) 
+because the financial aspect, time spent and efforts exerted will be put to waste and the 
+supposed intended beneficiaries will not receive the benefits that will be derived from said 
+PPAs, especially that these are gender-related and gender-sensitive. 
+ 
+121. Hence, it is the responsibility of Management to submit to the COA Audit Team, a 
+copy of the GPB and AR within five (5) working days from receipt of the approved plan 
+from PCW or their mother or central office. Thus, the non-submission of approved plan 
+and the Accomplishment Report within the timeframe specified prevented the conduct of 
+a timely audit, review and validation of activities undertaken, as to: (i) compliance with 
+applicable rules and regulations; and (ii) legality and completeness of information and 
+documentation, among others. 
+ 
+122. We recommended and Management agreed to require the GAD Focal Point 
+Person to:  
+
+ 
+a. endorse directly to PCW the GPB for review and approval, so that if there 
+
+is any comment/recommendation/revision, it shall immediately be acted 
+upon.  Likewise, to make follow-ups with the PCW on the status of the 
+revised GPB submitted; 
+
+ 
+b. submit on time, copy of the approved GPB and AR as endorsed by the 
+
+PCW to the concerned offices for reference, including the COA office, so 
+that timely review and audit of GPB will be conducted.  
+
+ 
+123. Management commented that the 2020 GAD Plan was endorsed to the PCW but no 
+approval was received from them. Since there was no comment or approval received from 
+the PCW, the proponent deemed it approved. 
+ 
+124. Moreover, the GAD Focal Person is retiring soon but we will ensure that proper 
+turnover will be made on this matter and that the GAD Plan will be approved accordingly. 
+ 
+
+Senior Citizens (SCs) and Persons with Disability (PWDs) 
+
+ 
+125. The NCDA has substantially complied with the requirements of Section 32 of the 
+General Provisions of the General Appropriations Act, FY 2020. The Agency provided 
+
+
+
+59 
+ 
+
+assistive devices such as wheelchairs and white canes, medical, educational and technical 
+assistance to SCs and PWDs, and improving and maintaining the pathways and lifter 
+located at the NCDA. 
+ 
+Compliance with other Mandatory Accounts 
+
+ 
+126. For CY 2020, Management faithfully complied with the withholding and 
+remittance of deductions from the salaries of its personnel, the required taxes, premiums 
+and loan installments, as well as the government share, and remitted the same within the 
+prescribed period to the concerned institutions or agencies, in compliance with pertinent 
+laws, rules, and regulations, as summarized in Table 17. 
+
+ 
+
+Table 17. Summary Status of Remittances to Concerned Institutions 
+
+Area 
+Accounts 
+Affected 
+
+Legal Basis Status of Remittances 
+
+Compliance with 
+Tax Laws 
+
+Due to BIR BIR Revenue 
+Regulation No. 2-98 
+dated April 17, 1998 as 
+amended by BIR 
+Revenue Regulation 
+No. 6-2001 dated July 
+31, 2001 
+
+The Agency withheld the amount of 
+P2,560,600.66 from employees’ 
+salaries and wages, contractors and 
+suppliers, with a corresponding 
+remittance of P2,560,600.66 to the 
+BIR.  
+
+Deduction and 
+Remittance of 
+GSIS premiums 
+
+Due to GSIS Section 14 of the 
+Implementing Rules 
+and Regulations (IRR) 
+of R.A. No. 8291 
+
+The Agency withheld the amount of 
+P2,338,254.14 from salaries and 
+wages with a corresponding 
+remittance of P2,338,254.14 to the 
+GSIS.  
+
+Deduction and 
+Remittance of 
+PhilHealth 
+premiums 
+
+Due to PhilHealth Section 19, Rule III of 
+the Revised 
+Implementing Rules 
+and Regulations 
+(RIRR) of R.A. No. 
+7875 
+
+The Agency withheld the amount of 
+P229,437.29 from salaries and wages, 
+with a corresponding remittance of 
+P229,437.29 to the PhilHealth. 
+
+Deduction and 
+remittance of Pag-
+IBIG premiums 
+
+Due to Pag-IBIG Section 3, Rule VII of 
+the IRR of R.A. No. 
+9679 
+
+The Agency withheld the amount of 
+P885,663.12 from salaries and wages 
+with a corresponding remittance of 
+P885,663.12 to the Pag-IBIG.  
+
+ 
+127. However, there were instances when the taxes withheld for the month were not 
+remitted in full or there were over/under remittances, which could cause possible payment 
+of penalties in the succeeding year which is considered disadvantageous to the government 
+because additional/unnecessary expenses might be incurred.  
+ 
+128. Interview with the Accountant revealed that under/over-remittances for CY 2020 
+were due to the constraints brought about by COVID-19 protocols that made it impossible 
+for her to report for work in the office or had a limited time to do it. According to her, the 
+payroll for April and May 2020 were prepared in advance, as instructed by Management 
+in anticipation of a stricter lockdown after March.  Therefore, the taxes recorded or 
+withheld for March were significantly higher than the actual remittances for the 
+month.  Moreover, since the Accountant was not able to report to the office to account for 
+
+
+
+60 
+ 
+
+the actual taxes withheld during the Enhanced Community Quarantine from March to May, 
+the Council only made partial remittances of taxes for fixed expenses such as payments for 
+security services, to comply with the BIR reporting requirements.   
+ 
+129. On a separate note, the taxes from the initial salary of the newly appointed 
+Executive Director were reported to BIR as early as July 2020 but actual withholding of 
+tax was made only in August when his salaries were finally released. 
+ 
+130. It is worthy to note, however, that the Bureau of Internal Revenue (BIR) has given 
+all government and private entities an extension for the filing of taxes during the period of 
+the Enhanced Community Quarantine; thus, no penalties might be incurred during the 
+period. 
+ 
+131. We recommended and Management agreed to require the Accountant to: 
+
+ 
+a. religiously remit to the BIR all taxes withheld every month within the 
+
+prescribed period set by the BIR; and 
+ 
+b. strictly follow the BIR regulations to avoid the imminent incurrence of 
+
+penalties. 
+ 
+131. Management commented that the failure to remit in full the taxes withheld 
+transpired during the sudden implementation of the Enhanced Community 
+Quarantine/Modified Enhance Community Quarantine/General Community Quarantine 
+from March to July 2020 wherein there were limited or absence of transportation services 
+around Manila.  Although there was a delay in the payment of these taxes, it was justified 
+under Revenue Regulations 11-2020 dated April 30, 2020 by the Bureau of Internal 
+Revenue extending the deadline of payment of these taxes without penalties until June 09, 
+2020.  Therefore, there was actually no violation committed.  The Accountant only made 
+partial payments to BIR attributable to fixed expenses, such as security services, during 
+these periods and she remitted in full the taxes due thereon when she reported back to office 
+in June 2020 as the extension of deadline for filing of taxes became due. 
+ 
+Hiring and payment of Job Order Personnel 
+
+ 
+132. In CY 2020, under a Memorandum of Agreement, the Agency hired three (3) 
+additional Job Order personnel composed of two (2) drivers and one (1) utility personnel 
+equivalent to seven percent (7%) of the 41 regular plantilla employees, charged against the 
+Maintenance and Other Operating Expenses (MOOE) account. 
+ 
+Enforcement of Audit Suspensions, Disallowances and Charges 
+
+ 
+133. The 2009 Rules and Regulations on the Settlement of Accounts (RRSA) requires 
+the settlement of suspensions within ninety (90) calendar days from receipt of the Notice 
+of Suspension (NS); otherwise, the transaction covered by it shall be disallowed/charged 
+after the Auditor shall have satisfied himself that such action is appropriate. Consequently, 
+
+
+
+61 
+ 
+
+the Auditor shall issue the corresponding Notice of Disallowance (ND). The disallowance 
+shall be settled within six (6) months from receipt of the ND by the persons liable. 
+ 
+134. Audit disallowances found in the audit of various transactions of the NCDA as at 
+December 31, 2020 amounted to P83,233.67 based on the Notice of Disallowance issued 
+by this Commission as shown in Table 18: 
+ 
+
+Table 18. Receivables-Disallowance as at December 31, 2020 
+
+Particulars 
+Beg. Balance 
+
+(As at 12/31/2019) 
+
+This period 
+January 1 to December 31, 2020 
+
+End. Balance 
+(As at 12/31/2020) 
+
+NS/ND/NC  NSSDC  
+
+NS - - - - 
+
+ND 83,233.67 -  -  83,233.67 
+
+NC - - - - 
+
+TOTAL 83,233.67 - -  83,233.67 
+
+ 
+135. Of this amount, a total of P64,999.96 was issued in CY 2004 prior to the issuance 
+of COA Circular No. 2009-006 dated September 15, 2009 re: Rules and Regulations on 
+Settlement of Accounts (RRSA).  The Agency paid each official and employee their 
+Performance Bonus totaling P520,800.00, which was disallowed in audit. As at December 
+31, 2008, the amount of P455,800.04 was settled, thereby leaving the unsettled balance of 
+P64,999.96. No settlement was made for the succeeding years. The officials and employees 
+with unsettled amounts are either deceased or resigned, with no clearance secured from the 
+Agency. 
+ 
+136. The status of the NSs and NDs issued, but not yet recorded in the books as at 
+December 31, 2020, is shown in Table 19. 
+ 
+
+Table 19. Status of NSs and NDs 
+
+Particulars 
+Balances as at  
+
+December 31, 2020 Status 
+Date Ref. Number NS ND 
+
+10/31/2013 13-001-101 (13) -  28,125.00 With NGS-6 Decision No. 2014-010 for 
+automatic review by the Commission Proper 
+pursuant to Section 7 Rule V of the 2009 
+Revised Rules of Procedures of the COA. 
+
+07/12/2018 18-001(2017) - 134,099.10 With Petition for Review by the Commission 
+Proper 
+
+Total  - 162,224.10  
+
+ 
+137. We recommended and Management agreed to enforce the prompt settlement 
+of all audit disallowances, pursuant to COA Circular No. 2009-006 dated September 
+15, 2009, on the prescribed use of the RRSA. 
+  
+
+
+
+

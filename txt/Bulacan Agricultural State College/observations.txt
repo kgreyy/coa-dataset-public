@@ -1,0 +1,3278 @@
+	PART II - AUDIT OBSERVATIONS AND RECOMMENDATIONS   
+
+
+
+The audit of the accounts and financial transactions of the Bulacan Agricultural State College (BASC) for calendar year 2020 disclosed observations that needed corrections and/or improvements.  Our observations with the corresponding recommendations are discussed in detail in the succeeding paragraphs:
+
+
+
+
+
+I)	FINANCIAL AUDIT
+
+
+
+Overstatement of the reported Cash in Bank accounts – ₱544,085.65
+
+
+
+1)				The reported Cash in Bank account balance of ₱59,450,818.94 as of year-end was overstated by a net amount of ₱544,085.65 due to the erroneous recording of outstanding checks amounting to ₱661,839.42 and non-reversion of stale and cancelled checks of ₱117,753.77 to Cash in Bank account inconsistent with Sections 2 to 4 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume 1.
+
+	
+
+1)	Section 2, Chapter 21 of the Government Audit Manual (GAM) for National Government Agencies (NGAs), Volume I, defines Bank Reconciliation as the settlement of differences contained in the bank statement and the cash account in the agency’s/entity’s books of accounts. 
+
+	
+
+2)	Section 3 of the same Manual states the objectives in preparing a Bank Reconciliation Statement (BRS); to wit:
+
+	
+
+	a)	check the correctness of both the bank’s and agency’s/entity’s records; 
+
+	b)	serve as a deterrent to fraud; and
+
+	c)	enable the agency/entity or bank to take up charges or credits recognized by the bank or agency/entity but not yet known to the agency/entity or bank.
+
+	
+
+3)	As part of the analysis of the Cash in Bank account, we verified the BRS using the Adjusted Balance Method (Section 4 of the GAM), and the following observations were arrived at: 
+
+	
+
+a)	Erroneous recognition of outstanding checks
+
+	
+
+4)	The cash balance per books under DBP Account No. 5650-0352-2030 was found to be overstated due to the failure to correct erroneous recording of outstanding checks totaling to ₱661,839.42.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+b)	Non-reversion of stale and cancelled checks back to Cash in Bank account
+
+
+
+5)	On the other hand, an aggregate amount of ₱117,753.77 should have been reverted to the Agency’s Cash in Bank account in view of the stale and cancelled checks as presented below:
+
+
+
+Bank Account
+
+Check No.
+
+Date
+
+Amount
+
+Cancelled Checks
+
+LBP 2412-9000-09
+
+1259
+
+7/8/2020
+
+₱ 13,560.00
+
+
+
+1344
+
+
+
+15,648.07
+
+
+
+1346
+
+
+
+50,145.95
+
+Sub-total 
+
+
+
+
+
+79,354.02
+
+Stale Checks
+
+
+
+
+
+
+
+DBP 565003522030
+
+53832929
+
+10/29/2016
+
+20,935.00
+
+
+
+57241810
+
+7/04/2017
+
+        457.50 
+
+
+
+5724181
+
+
+
+622.50
+
+
+
+57241896
+
+8/08/2017
+
+        635.00 
+
+
+
+57242371
+
+3/07/2018
+
+322.00
+
+
+
+61963505
+
+10/09/2018
+
+8,000.00
+
+
+
+61963639
+
+11/22/2018
+
+4,000.00
+
+
+
+67891409
+
+2/05/2020
+
+3,000.00
+
+LBP SI-4122-3-1000-79
+
+104110
+
+6/21/2018
+
+427.75
+
+Sub-total
+
+
+
+
+
+38,399.75
+
+GRAND TOTAL
+
+
+
+
+
+₱117,753.77
+
+
+
+6)	As shown in the table above, duly-cancelled checks in the amount of ₱79,354.02 were not reverted to the ending balance of LBP Account No. 2412-9000-09, when in fact these were already replaced and negotiated with the Bank. As such, the Cash in Bank account was credited twice, understating the year-end balance by that amount. 
+
+
+
+7)	Similarly, non-adjustment of nine stale checks in the sum of ₱38,399.75, of which some checks were issued way back in June 2016, understated the balance per books of the College.
+
+	
+
+8)	Overall, the reported Cash in Bank presented in the Statement of Financial Condition as of December 31, 2020 was overstated by a net amount of ₱544,085.65.
+
+	
+
+9)	We recommended and the College President agreed to instruct the Accountant to (a) adopt the Adjusted Balance Method in the preparation of the monthly BRS to properly identify the source and nature of errors; and (b) draw the appropriate journal entry to take up all the identified reconciling items that require adjustment in the books of the College.
+
+
+
+
+
+Unreliable balance of Receivable Account – ₱5,193,035.16   
+
+
+
+2)	Recorded Receivables with a carrying value of ₱5,193,035.16 as at year-end included long outstanding accounts from students’ unpaid loans and tuition fees totaling to ₱4,933,035.16 due to the failure of Management to institute effective measures of collection.  
+
+
+
+1)	As of December 31, 2020, the Receivables account had a reported carrying value of ₱5,193,035.16, composed of:
+
+	
+
+Details
+
+Balance as of December 31, 2020
+
+Accounts Receivable
+
+
+
+
+
+Receivable from Students – Tuition Fees
+
+₱    242,191.37
+
+
+
+Receivable from Farmers – Organic Fertilizer
+
+19,950.00
+
+
+
+Less: Allowance for Impairment 
+
+(14,909.91)
+
+
+
+Net Value – Accounts Receivable 
+
+247,231.46
+
+Loans Receivable 
+
+
+
+
+
+Loans Receivable – Others
+
+2,993,900.00
+
+
+
+Less: Allowance for Impairment 
+
+(165,140.49)
+
+
+
+Net Value – Loans Receivable – Others
+
+2,828,759.51
+
+Receivables – Disallowances and Charges 
+
+2,117,044.19
+
+TOTAL ACCOUNTS AND LOANS RECEIVABLES
+
+₱ 5,193,035.16
+
+
+
+Discussed below are the observations of the Audit Team in the audit of the different Receivables accounts, viz:
+
+
+
+a)	Uncollected Tuition Fees – ₱242,191.37
+
+
+
+2)	Of the recorded Accounts Receivable totaling to ₱262,141.37 as of year-end, a sum of ₱19,950.00 pertains to the uncollected value of organic fertilizers loaned to farmers while the remaining balance of ₱242,191.37 represents unpaid tuition fees of the students enrolled in the College in various academic years. The ageing schedule of the amount due from students who eventually graduated is presented below:
+
+
+
+Year of Transaction
+
+5 years and below
+
+Over 6 years
+
+Over 7 years
+
+8 years and above
+
+Amount
+
+2nd sem 2012-2013
+
+
+
+
+
+
+
+₱ 25,050.00
+
+₱   25,050.00
+
+2nd sem 2013-2014
+
+
+
+
+
+₱108,011.10
+
+
+
+108,011.10
+
+2nd sem 2014-2015
+
+
+
+₱56,087.50
+
+
+
+
+
+56,087.50
+
+2nd sem 2015-2016
+
+₱ 53,042.77
+
+
+
+
+
+
+
+53,042.77
+
+TOTAL
+
+₱ 53,042.77
+
+₱56,087.50
+
+₱108,011.10
+
+₱ 25,050.00
+
+₱ 242,191.37
+
+
+
+3)	BASC admitted that it was difficult for them to locate the current whereabouts of the persons liable since there might be changes in their names as a result of marriage and 
+
+due to relocation and change of residential addresses.
+
+
+
+4)	Had the College been vigilant in determining first the outstanding payables of students prior to giving them clearance to graduate or to transfer to other universities, the amount due from them could have been settled already. 
+
+
+
+2.5.	As a result, BASC was deprived of the income which could have been productively used in performing its mandate and improving its operations. 
+
+
+
+	Uncollected Loans Receivable from students – ₱2,574,500.00 
+
+
+
+2.6.	Commission on Higher Education (CHED) Memorandum Order No. 4, series of 2008 was issued to address the existing problems of senior students dropping off due to financial problems accelerated over the years. The Student Financial Assistance Program (StuFAP) aimed to provide easily accessible interest-free student loan programs to financially needy 3rd, 4th, and graduating students. 
+
+
+
+2.7.	Under the Program, qualified student-borrowers may be allowed to borrow a maximum of ₱8,000.00 per semester and shall not be charged any interest in their loan fund. Loans below ₱4,000.00 are payable within five years, while those above ₱4,001.00 are payable within ten years.  
+
+
+
+2.8.	Loans Receivables amounting to ₱531,500.00, which pertains to the loan assistance granted to 266 students of BASC in SY 2004-2005 under the StuFAP, remained uncollected as of year-end. Since the maximum allowable period for the payment of student loans for this category is ten years, the amount due from the student borrowers are overdue for six years. 
+
+ 
+
+2.9.	Meanwhile, in Calendar Year (CY) 2008, the Student Assistance Fund for Education for Loan (SAFE Loan) Program was launched by the CHED in order to cater the financial needs of deserving students who are not covered by existing scholarships and student loan programs of the Commission. The guidelines for the implementation of which were embodied in CHED Memorandum Order No. 25, series of 2008.
+
+
+
+2.10.	Under the SAFE loan program of CHED, qualified loan grantees can borrow as much as ₱8,000.00, depending on individual circumstances and requirements. It was noted that the part of loans receivables amounting to ₱2,043,000.00, aged more than ten years, refers to the SAFE loan granted to 491 students in SY 2008-2009, which remained uncollected as of year-end. 
+
+
+
+2.11.	Due to Management’s failure to compel borrowers to pay and impose sanction against defaulting ones, the overdue loans granted to students under the CHED-sponsored programs remained unpaid. As a result, the government was deprived anew of the benefits from the use of the funds had these been collected.   
+
+
+
+b)	Uncollected Loans Receivables from Farmers – ₱439,350.00
+
+	
+
+2.12.	BASC, in collaboration with the Department of Agriculture (DA) and the Philippine Research Institute (PhilRice), implemented a project entitled “Palayamanan in the Community” which aimed to increase production and income of farmers in Region 3 through loan programs. The loans extended to farmers are subject to one percent interest per month and the proceeds shall be used to purchase rice and vegetable seeds and fertilizers. 
+
+
+
+2.13.	As of year-end, due and demandable receivables from farmers amounting to ₱439,500.00 remained uncollected, details of which are presented below:
+
+
+
+Year Granted
+
+Less than 1 year
+
+Over 1 year
+
+Over 2 years
+
+3 years and above
+
+TOTAL
+
+2009
+
+
+
+
+
+
+
+₱19,950.00
+
+₱ 19,950.00
+
+2016
+
+
+
+
+
+
+
+36,600.00
+
+   36,600.00
+
+2018
+
+
+
+
+
+₱ 70,000.00
+
+
+
+    70,000.00
+
+2019
+
+
+
+₱52,800.00
+
+
+
+
+
+    52,800.00
+
+2020
+
+₱260,000.00
+
+
+
+
+
+
+
+  260,000.00
+
+
+
+₱260,000.00
+
+₱52,800.00
+
+₱70,000.00
+
+₱56,550.00
+
+₱439,350.00
+
+
+
+2.14.	Due to the pandemic and typhoon which caused the destruction of their plantation, the farmers were not able to pay their loans. 
+
+
+
+2.15.	Nonetheless, the government was again deprived of the funds that could have been channeled to other beneficial programs and projects.
+
+
+
+2.16.	In view of the foregoing, we reiterated the previous year’s recommendations and the College President agreed to exert more diligent effort in collecting receivables and loans from defaulting students, farmers as well as from their co-makers without prejudice to imposing sanctions against them.
+
+
+
+
+
+Unreliable Biological Assets Account Balance – ₱1,120,980.00
+
+
+
+3)	The non-maintenance of Biological Assets Property Cards (BAPC) and non-submission of the Quarterly Report of Biological Assets (QRBA), showing the periodic data on the birth of offspring and/or deaths and distribution of the biological assets resulted in the (a) net overstatement of 70 heads of reported number of breeder stocks compared to the actual physical count; and (b) non-recognition of different livestocks totaling to ₱62,160.00 contrary to the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume  III.
+
+
+
+1)	Included under the Biological Asset accounts are the accounts Breeding Stocks and Livestock, which are specifically described in Chapter 3 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume III as follows:
+
+	
+
+			07	Biological Assets
+
+					01	Bearer Biological Assets
+
+		
+
+		Account Title		Breeding Stocks
+
+		Account Code		10701010
+
+		Normal Balance	Debit
+
+		Description	This account is debited to recognize the fair value less cost to sell, or the cost, if the fair value cannot be measured reliably, of breeding stocks when they relate to agricultural activity. It includes cattle, horse, swine, and other animals that produced offsprings. It also includes offsprings intended for breeding, and those intended for sale/distribution/consumption at the point of harvest. This account is credited upon sale, transfers, loss, death, and/or adjustments.
+
+
+
+		Account Title		Livestock
+
+		Account Code		10701020
+
+		Normal Balance	Debit
+
+		Description	This account is debited to recognize the fair value less cost to sell, or the cost, if the fair value cannot be measured reliably, of livestock when they relate to agricultural activity. It includes carabao, cow, goat, chicken, sheep and other animals that produced milk, eggs, wools, and the like. This account is debited upon sale, transfers, loss, and/or adjustments.
+
+
+
+2)	As of December 31, 2020, records of the BASC showed Breeding stocks amounting to ₱1,120,980.00, the composition of which are as follows: 
+
+	
+
+Particulars
+
+Inventory Count per Record
+
+Amount
+
+Goat
+
+			96
+
+			₱    500,390.00 
+
+Carabao
+
+35
+
+512,000.00
+
+Cattle
+
+4
+
+65,000.00
+
+Rabbit
+
+87
+
+43,500.00
+
+Total
+
+
+
+₱ 1,120,890.00
+
+
+
+3)	The reported inventory balances of carabaos and cattle totaling to 35 and four heads, respectively, pertained to the inventory count way back in Calendar Year (CY) 2016. On the other hand, the total number of goats as of previous inventory on December 31, 2016 was 98. 
+
+
+
+4)	There were no changes in the inventory of goats, carabaos and cattle after CY 2016 due to non-submission of report by the Project Leader. 
+
+
+
+5)	However, in CY 2020, an additional of 87 breeder stocks of rabbit amounting to ₱43,500.00 were included in the Biological Assets account.
+
+
+
+6)	Nonetheless, the Audit Team conducted an inventory count of the Biological Assets on January 27, 2021 at the new site and the Palayamanan Showcase Building. Sample photographs of the animals inspected and counted are shown in Appendix A and the results of our physical count and audit are shown below:
+
+
+
+a)	Nonexistent Biological Assets – net of 70 heads of various Breeding Stocks
+
+
+
+Particulars
+
+Inventory
+
+Difference
+
+Under (Over)
+
+	
+
+per Accounting Record
+
+per Actual Physical Count
+
+
+
+Goat
+
+96
+
+25
+
+71
+
+Carabao
+
+35
+
+24
+
+11
+
+Cattle
+
+4
+
+6
+
+(2)
+
+Rabbit
+
+87
+
+97
+
+(10)
+
+Total
+
+222
+
+152
+
+70
+
+
+
+7)	As observed, the credits on the account due to deaths or sale of breeding stocks from prior years’ transactions were not recorded resulting to overstatement of accounting records totaling to 71 and 11 on goats and carabaos, respectively, versus actual physical count. 
+
+
+
+8)	On the other hand, the inventory records of cattle and rabbits were not updated for the additions of units brought about by births of offspring, thus, resulting in an understatement of two and ten units of cattle and rabbits, respectively. 
+
+
+
+b)	Unrecognized Breeding Stocks and Livestock – ₱62,160.00
+
+
+
+9)	In addition to Observation (a) above, six heads of goats purchased at ₱24,000.00 were not included in the total amount of goat inventory presented above. Moreover, the Livestock Inventory account was not recognized for the inventories actually traced from the Palayamanan consisting of 24 ducks, 40 free range chickens and 55 geese as shown in the table below: 
+
+
+
+Particulars
+
+Inventory Count
+
+Unit Cost
+
+Amount
+
+Breeding Stocks
+
+Goats
+
+6
+
+₱   4,000.00
+
+₱   24,000.00
+
+Livestock
+
+Pigs
+
+4
+
+No data
+
+No data
+
+Geese (Itik)
+
+40
+
+424.00
+
+16,960.00
+
+Free Range Chickens
+
+50
+
+424.00
+
+21,200.00
+
+Ducks
+
+24
+
+No data
+
+No data
+
+TOTAL
+
+
+
+
+
+₱   62,160.00
+
+
+
+10)	Details of the aforesaid increase in breeding stocks and livestock, which remained unrecognized as of December 31, 2020, are presented in the next page:
+
+
+
+Date
+
+Check No.
+
+Payee
+
+Particulars
+
+Amount
+
+7/10/2020
+
+41564
+
+Goats R Us
+
+Purchase of Goats, one breeder and five   females @ ₱4,000 per head 
+
+₱24,000.00
+
+11/23/2020
+
+67891645
+
+Vet Serve Mktg
+
+Purchase of 40 ready to lay Free Range Chickens and 50 ready to lay geese @ 424.00 per piece for the Palayamanan Showcase   Project 
+
+38,160.00
+
+  Total  
+
+ 
+
+ 
+
+ 
+
+₱62,160.00
+
+
+
+11)	The deficiencies discussed in Observations (a) and (b) resulted from the non-preparation of reports for the Biological Assets Property Card (BAPC) by the previous caretaker and custodian of the breeding stocks and livestock.   
+
+
+
+12)	The GAM for NGAs, Volume II states that Biological Assets Property Card, (BAPC) shall be kept by the Biological Asset/s Caretaker or Officer-in-charge for each class or type of biological asset to record promptly the acquisition, description, custody, transfer, disposal and other information about the property.
+
+
+
+13)	Also, Appendix 79, Volume II of the same Manual provides that a Quarterly Report of Biological Assets (QRBA) shall be submitted. The form is used to report the biological asset/s on a quarterly basis by the Biological Asset/s Caretaker or Officer-in-charge for each type of biological asset. It shall be prepared quarterly by fund cluster. 
+
+
+
+14)	Due to the non-preparation of the BAPC and the QRBA per class or type of biological asset, the Breeding Stock and Livestock Inventories were not appropriately recognized in the books of accounts. As such, the reliability of the Biological Assets account of the College as of December 31, 2020 was not ascertained.
+
+
+
+15)	In view of the foregoing, we recommended and the College President agreed to direct the:
+
+
+
+a)	Officer-in-Charge/Caretakers for each type of biological assets to (i) prepare/maintain and update regularly the Biological Assets Property Card (BAPC); and (ii) regularly submit the QRBA to the Accounting Office in accordance with the GAM for NGAs, Volume III; and 
+
+
+
+b)	Accountant to (i) record the Livestock inventories from the Palayamanan showcase amounting to ₱62,160.00; and (ii) update from time to time the movement of Biological Assets account, specifically the Breeding Stocks and Livestock accounts upon receipt of QRBA from the Officer-in-Charge/Caretakers.  
+
+Unreliable balance of Inventories Account – ₱27,175,979.13
+
+
+
+4)	The accuracy of the account balances of Inventories as of December 31, 2020 amounting to ₱27,175,979.13 remained doubtful due to (a) unreconciled difference of ₱703,905.83 between the accounting and property records; (b) incomplete inventory-taking; and (c) non-maintenance of Supplies Ledger Card (SLC) by the Accounting Unit contrary to pertinent sections of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volumes I and II. 
+
+
+
+1)	To establish the reliability of the balances of Inventories reported in the Statement of Financial Position, the Audit Team compared the Report on Physical Count of Inventories (RPCI) submitted by the Property Unit with the Accounting records and a difference of ₱703,905.83 was noted, broken down as follows:
+
+
+
+Inventories
+
+Per Accounting Records
+
+Per RPCI
+
+Difference
+
+Inventory Held for Consumption
+
+Office Supplies Inventory
+
+₱     637,501.76
+
+₱               0.00
+
+₱   637,501.76
+
+Textbooks and Instructional Materials Inventory
+
+1,856,136.80
+
+1,831,900.85
+
+24,235.95
+
+Other Supplies & Materials Inventory
+
+2,122,010.99
+
+2,224,903.88
+
+(102,892.89)
+
+Semi-Expendable Items
+
+Machinery
+
+9,600.00
+
+9,600.00
+
+0.00
+
+Office Equipment
+
+1,849,725.44
+
+1,859,120.93
+
+(9,395.49)
+
+Information & Communications Technology Equipment
+
+3,616,777.59
+
+3,622,662.59
+
+(5,885.00)
+
+Agricultural & Forestry Equipment
+
+1,325,037.53
+
+1,306,840.03
+
+18,197.50
+
+Communications Equipment
+
+1,216,337.67
+
+1,216,337.67
+
+0.00
+
+Disaster Response and Rescue Equipment
+
+79,847.00
+
+79,847.00
+
+0.00
+
+Medical Equipment
+
+102,779.50
+
+102,779.50
+
+0.00
+
+Sports Equipment
+
+814,283.50
+
+777,403.50
+
+36,880.00
+
+Technical & Scientific Equipment
+
+755,740.77
+
+729,740.77
+
+26,000.00
+
+Other Machinery and Equipment
+
+453,221.65
+
+463,971.65
+
+(10,750.00)
+
+Furniture and Fixtures
+
+8,262,809.52
+
+8,172,795.52
+
+90,014.00
+
+Books
+
+4,074,169.41
+
+4,074,169.41
+
+0.00
+
+Total Inventories
+
+₱ 27,175,979.13
+
+₱ 26,472,073.30
+
+    ₱   703,905.83
+
+
+
+2)	The Accountant informed the Audit Team that there is an ongoing reconciliation on the discrepancies between the accounting and property records. 
+
+
+
+3)	Further, it was noted that the Accounting Unit omitted the preparation of the Supplies Ledger Cards (SLCs) which is a requirement under Section 17, Chapter 8 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, viz:
+
+
+
+Supplies Ledger Card (SLC) (Appendix 57) – shall be used to record materials received, issued and the balance of both in quantity and amount at any time. It shall be maintained by the Accounting Division/Unit for each kind of supplies and materials. The IAR. RIS, RSMI, PO and DR serve as the original sources of information for making entries on the card.
+
+
+
+4)	The instructions for accomplishing the ledger cards are provided in Appendix 57, GAM for NGAs, Volume II. Eventually, the balances of SLCs serve as controlling measures in determining the propriety of balances reflected in the RPCI as stated specifically in Item D, Appendix 57 of the said Manual, Volume II, which are quoted below:
+
+
+
+The agency shall conduct physical count of inventories every semester. The physical inventory of supplies shall be reconciled with the SLCs and controlling accounts of Supply and/or Property records. Any discrepancies shall be immediately verified and adjusted.
+
+
+
+5)	Due to the absence of SLCs, the Accounting Unit failed to monitor the materials purchased and issued by the Property Unit to the end-users and determine the balance of inventories as of a given time. The Accountant commented that no personnel was available to take charge of the preparation of the required ledger cards for inventories. 
+
+
+
+6)	Meanwhile, scrutiny of the RPCI further showed that the office supplies were not physically inventoried. The Property Unit confirmed that they were unaware of such requirement. Item A, Appendix 66, GAM for NGAs, Volume II, provides the importance of RPCI as cited below:
+
+
+
+	The RPCI is a form used to report the physical count of inventory items by type such as Office Supplies Inventory; Accountable Forms Inventory; Medical, Dental and Laboratory Supplies Inventory; Food Supplies Inventory, etc. which are owned by the agency/entity. It shall be prepared semi-annually by the Inventory Committee and by fund cluster. 
+
+
+
+7)	Furthermore, Item C of the instructions mentions that:
+
+
+
+The report shall be reconciled with the SLCs and SCs maintained by the Accounting Division/Unit, and Property and/or Supply Division/Unit, respectively. Any discrepancy shall be verified and/or adjusted accordingly.
+
+
+
+8)	The inadequacy of documentation and incomplete inventory-taking of the inventories hindered the Audit Team from performing an independent validation of the accuracy of the results of the physical count per RPCI and the balances of the Inventories account reflected in the Financial Statements presented for audit.
+
+
+
+9)	In view of the foregoing, we recommended and the College President agreed to undertake the following courses of action: 
+
+
+
+a)	Direct the Accounting and Supply Units to facilitate the reconciliation of their records and adjust the books of accounts and property records, as warranted, once the results of inventory have been established;
+
+
+
+b)	Require the Committee on Inventory to conduct a complete physical count of inventories owned by the College; and 
+
+
+
+c)	Instruct the Accountant to prepare SLCs for each kind of supplies and materials as required under Section 17, Chapter 8 of GAM for NGAs, Volume I.
+
+
+
+
+
+Doubtful accuracy and existence of the PPE Account – ₱467,578,191.74
+
+
+
+5)	The reliability of the reported balances of Property, Plant and Equipment (PPE) accounts totaling to ₱467,578,191.74  as of December 31, 2020 was not ascertained due to (a) inclusion of semi-expendable items amounting to ₱1,911,353.33 with unit value below the capitalization threshold of ₱15,000.00; (b) unrecorded parcels of land of undetermined amount measuring 5,341,901 square meters (sqm); (c) non-derecognition of unserviceable PPEs aggregating to ₱399,075.41; (d) non-maintenance of PPE Ledger Cards (PPELCs) by the Accounting Unit; and (e) unfinished physical count of PPEs contrary to the provisions of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I. 
+
+
+
+1)	As of December 31, 2020, the recorded Property, Plant and Equipment (PPE) accounts with carrying amount of ₱467,578,191.74 reconciled with the Report on Physical Count of Property, Plant and Equipment (RPCPPE) submitted by the Property Unit, composed of the following:
+
+
+
+PPE Account
+
+Balance as of 
+
+December 31, 2020
+
+Land
+
+          ₱        16,020.13 
+
+Other Land Improvements
+
+        21,044,173.31 
+
+Buildings
+
+        45,036,877.69 
+
+School Buildings
+
+      241,821,125.58 
+
+Other Structures
+
+        68,421,422.02 
+
+Office Equipment 
+
+          9,445,570.72 
+
+Furnitures and Fixtures
+
+          7,237,053.62 
+
+ICT Equipment 
+
+        24,321,462.98 
+
+Library Books 
+
+             192,355.00 
+
+Machineries
+
+             262,915.00 
+
+Agricultural and Forestry Equipment 
+
+          5,748,957.14 
+
+Communication Equipment
+
+          5,925,118.03 
+
+Medical Equipment 
+
+             285,950.00 
+
+Military, Police and Security Equipment
+
+              22,000.00 
+
+Sports Equipment 
+
+             100,660.00 
+
+Technical and Scientific Equipment 
+
+        11,110,798.59 
+
+Other Machinery and Equipment 
+
+        10,697,810.65 
+
+Motor Vehicles
+
+        12,227,590.40 
+
+Other Transportation Equipment 
+
+              26,500.00 
+
+Other PPE
+
+          1,027,812.88 
+
+Power Supply System 
+
+          2,455,718.00 
+
+Water Supply Systems
+
+             150,300.00 
+
+Total
+
+₱   467,578,191.74
+
+
+
+2)	Discussed below are the observations of the Audit Team in the audit of the different PPE accounts; viz:
+
+
+
+a)	Inclusion of semi-expendable items with value below the capitalization threshold of ₱15,000.00 – ₱1,911,353.33
+
+
+
+3)	Analysis of the RPCPPE of the BASC revealed that there were several PPEs totaling to ₱1,911,353.33 whose unit costs were below the capitalization threshold of ₱15,000.00. As shown in Appendix B, these were not reclassified as semi-expendable properties contrary to Section 10, Chapter 8 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, which clearly states that:
+
+
+
+	Sec. 10. Semi-expendable Property. Tangible items below the capitalization threshold of ₱15,000 shall be accounted as semi-expendable property. The following policies apply as follows:
+
+
+
+			a.	Semi-expendable property which were recognized as PPE shall be reclassified to the affected accounts.
+
+		
+
+			b.	These tangible items shall be recognized as expenses upon issue to the end-user.
+
+
+
+4)	The non-reclassification of those semi-expendable items resulted in the overstatement of the PPE account balances reported in the FS and understatement of the Accumulated Surplus account. 
+
+
+
+b)	Unrecorded land of undetermined amount with an area of 5,341,901 square meters
+
+
+
+5)	The Audit Team noted that as of December 31, 2020, the Land account was reported at a minimal amount of ₱16,020.13 which represents the cost of surveying the parcels of land, measuring 921,605 square meters (sqm.), awarded to BASC through Proclamation No. 16 dated June 8, 1955. Out of this area, only a total of 223,918.71 sqms. were occupied by BASC, and the rest became a domicile for squatters. 
+
+
+
+6)	By virtue of Proclamation No. 114 dated May 25, 1963, the late President Diosdado Macapagal awarded to BASC another 4,420,296 sqm. of land situated in Akle, San Ildefonso, Bulacan, which was totally unoccupied by the College as of December 31, 2020.
+
+
+
+7)	To date, available data showed that the parcels of land acquired by BASC through the abovementioned proclamations by previous presidents have not been recognized in its books of accounts resulting to the understatement of both PPE and Accumulated Surplus accounts, inconsistent with Section 12, Chapter 10 of the GAM for NGAs, Volume I, which states that: 
+
+
+
+	Sec. 12. Donation without Condition. Cost of PPE acquired through donation shall be taken up at its fair value at the date it is acquired. All expenses incurred in connection with the donated asset, such as delivery and installation cost, shall be included in the amount recognized as asset. The fair value of the PPE shall be recognized as “Income from Grants and Donations in Kind.
+
+
+
+8)	To determine the fair market value of these parcels of land, the management may obtain copies of their Tax Declaration of Real Property from the Municipal Assessor’s Office (MAO) of the municipality where these lots are located.
+
+
+
+9)	The parcels of land reserved to BASC were intended for the development of the College in line with its mandate to provide higher professional, technical, and special instructions for special purposes and promote research and extension services and advanced studies in agriculture arts and programs. Further verification revealed that the parcels of land were not covered with titles registered in the name of BASC, thus, weakening the College’s right over the property in case of third-party claim. 
+
+
+
+10)	Management should have facilitated the immediate titling of these lots in the name of the College to document ownership over the property and avoid the payment of unnecessary penalties that may be imposed by regulatory bodies. Ownership of land and land rights are established on the basis of genuine TCT in the Land Registration Authority - Registry of Deeds (LRA-RD), free from any liens/encumbrances.
+
+
+
+
+
+
+
+c)	Non-derecognition of unserviceable properties due to lack of effective disposal program – ₱399,075.41
+
+
+
+11)	Section 79 of Presidential Decree (P.D.) No. 1445 provides that property which has become unserviceable for any cause, or is no longer needed, shall, upon application of the officer accountable therefore, be inspected by the head of the agency or his authorized representative in the presence of the auditor concerned and it may be destroyed, if found valueless or unsalable. 
+
+
+
+12)	Further, the Manual on Disposal of Government Property embodied under NBC No. 425 dated January 28, 1992 was issued to guide agencies in their disposal undertakings. Part I (A) thereof provides, among others, that disposal occurs when a piece of equipment or property can no longer provide efficient service or, though still working, has been rendered useless due to obsolescence. 
+
+
+
+13)	Likewise, Section 40, Chapter 10 of the GAM for NGAs, Volume I, provides that PPE is said to be unserviceable if it is no longer capable of providing the entity with future economic benefits or service potential and shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) for dropping from the books by debiting Impairment Loss – Property, Plant and Equipment (Cost of the PPE less Accumulated Depreciation). 
+
+
+
+14)	As of December 31, 2020, there were unserviceable PPEs with a carrying amount of ₱399,075.41, details of which are presented in Appendix C. Since the same no longer qualify as assets either due to obsolescence, serious damage or natural wear and tear, the PPE accounts were overstated by that amount. In addition, the College was deprived of the additional income that could have been earned had these properties been promptly disposed thru sale or negotiation.
+
+
+
+d)	Property, Plant and Equipment Ledger Cards (PPELCs) not maintained  
+
+	
+
+15)	The audit revealed that the Accounting Unit did not maintain PPELC as required under Section 42, Chapter 10 of the GAM for NGAs, Volume I:
+
+
+
+	Sec. 42. Accounting and Property Records to be maintained for PPE. The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with the PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like PAR.
+
+
+
+16)	The inadequacy of documentation hindered the Audit Team from performing an independent validation of the accuracy of the results of inventory- taking per RPCPPE and the PPE balances reflected in the Financial Statements presented for audit. In view hereof, we find it important to emphasize the related provisions of Section 111 of P.D. No. 1445, which states that:
+
+
+
+The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+e)	Incomplete inventory-taking of properties
+
+
+
+17)	The importance of physical count is highlighted in Section 43, Chapter 10 of the afore-cited Manual which prescribes that Physical count/inventory, which is required annually, is an indispensable procedure for checking the integrity of property custodianship. 
+
+
+
+18)	Confirmation with the Property Unit revealed that the physical count of PPE was not completed due to pandemic which affected the schedule of those in-charge with the inventory; thus, the existence of PPEs included in the accounting and property records cannot be established which indicates inadequacy of control by the College in monitoring its PPEs. 
+
+
+
+19)	In view of the foregoing, we recommended and the College President agreed to undertake the following courses of action:
+
+
+
+a)	instruct the Accountant and the Supply Unit to reclassify PPEs recorded below the capitalization threshold of ₱15,000.00 to semi-expendable properties to reflect the correct balances of the PPE accounts; 
+
+
+
+b)	determine the fair market value of the unrecorded parcels of land and thereafter recognize these tracts of land in the books of accounts;
+
+
+
+c)	require the Accountant to derecognize the unserviceable PPEs as prescribed under Section 40, Chapter 10 of the GAM for NGAs, Volume I, and immediately dispose of the unserviceable properties to prevent further deterioration and/or reduction in value;
+
+
+
+d)	strictly follow the instructions of the GAM in accomplishing the PPELC to ensure that the balances of the PPE presented in the reports submitted by the Accountant are correct; and
+
+
+
+e)	undertake proper planning to facilitate the completion of the physical count of all PPEs owned by the College.
+
+
+
+
+
+Doubtful existence, correctness, and classification of Other Payables Account – ₱6,633,148.92
+
+
+
+6)	The correctness of the reported balance of Other Payables account amounting to ₱6,633,148.92 as of December 31, 2020 cannot be fully verified in the absence of complete schedule/subsidiary ledgers comprising the account as prescribed by Section 111 of Presidential Decree (P.D.) No. 1445. Also, the year-end balance of the account included inappropriate credits of  ₱1,831,953.99 due to (a) misclassification of various receipts amounting to  ₱1,694,755.64 from selling activities of the different  projects of the College, such as table egg and swine production, plant nursery and other  projects; (b) misclassification of the reservation/rent deposit amounting to ₱95,597.27 and  bidders’ bonds of ₱41,601.08 contrary to the account definitions stated in the Revised Chart of Accounts and provisions of Chapter 2 of the Government Accounting Manual (GAM) for National Government Agencies, Volume I.
+
+
+
+1)	The audit of the liabilities accounts of the Bulacan Agricultural State College (BASC) disclosed outstanding Other Payables amounting to ₱6,633,149.02 composed of:
+
+
+
+Fund
+
+Amount
+
+Fund 164
+
+Student Tuition Fees 
+
+ ₱   1,501,197.54 
+
+Miscellaneous
+
+      3,588,659.79 
+
+Sub-total
+
+   5,089,857.33          
+
+Fund 161
+
+Other Payables
+
+           1,543,291.59 
+
+Total
+
+₱    6,633,148.92
+
+
+
+2)	Student Tuition Fees (STF) includes, among others, receipts/fees from ID, research journal, Skills Development Fund, and speech laboratory student handbook while Miscellaneous pertains to receipts from IGS Graduate Journal and IGS Membership Fee Payable.  On the other hand, Fund 161 includes receipts from other present and previous projects, such as Palayamanan Model Farm, plant nursery, broiler, swine production, table egg production and others. 
+
+
+
+3)	Interviews revealed that the Accounting Unit did not maintain schedules/subsidiary ledgers (SLs) for each line item. As such, the origin of the transactions and ages of the accounts could not be determined and contravened the requirement on the keeping of accounts prescribed under Section 111 of the Presidential Decree (P.D.) No. 1445, or the Government Auditing Code of the Philippines, viz:
+
+
+
+Section 111. Keeping of accounts. 
+
+
+
+		1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+		2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+4)	Further scrutiny of the lists furnished by Accounting Office showed that receipts from the sale of various items totaling to ₱1,694,755.64 were erroneously recognized as Other Payables and not as income /revenue of the College, as enumerated below: 
+
+
+
+Particulars
+
+Amount
+
+Fund 164
+
+Cattle/Carabao/Caracow
+
+₱   349,500.00
+
+Male Goat
+
+2,500.00
+
+Sub-total
+
+352,000.00
+
+Fund 161
+
+Table Egg 
+
+438,357.05
+
+Swine Production
+
+376,300.40
+
+Broiler
+
+380,804.49
+
+Photo Copier
+
+50,888.50
+
+Goat Project
+
+30,982.00
+
+Cattle Production
+
+24,550.00
+
+Food Processing
+
+40,873.20
+
+Sub-total
+
+1,342,755.64
+
+Grand Total
+
+₱1,694,755.64
+
+
+
+5)	The above practice is not consistent with the definition and use of the Other Payables account as mentioned in the Revised Chart of Accounts (RCA) for National Government Agencies (NGAs), Volume III, which states that the account is credited to recognize other liabilities not falling under any of the specific payable accounts.
+
+
+
+6)	The incorrect recognition of the income receipts was also inconsistent with the definition of “revenue” stated in Section 2, Chapter 2 of the Government Accounting Manual (GAM) for NGAs, Volume I; to wit:
+
+
+
+Revenue – is the gross inflow of economic benefits or service potential during the reporting period when those inflows result in an increase in net assets/equity, other than increases relating to contributions from owners.
+
+
+
+	6.7	Letter of Instruction No. 872, s. 1979 signed by then President Marcos on June 8, 1979 states that All state universities and colleges and national agricultural schools with suitable agricultural land areas shall prepare a food production plan with particular emphasis on protein sources and legumes…  cattle, hogs, poultry, goats, and other food sources; xxx
+
+	
+
+a)		 Only income from sale of commodities generated under this program shall be recorded as income of the Revolving Fund and all expenses incurred in such effort shall be charged to this Fund.  
+
+6.8	Under this LOI, the DBM issued Fund Codes 161 and 163 to be used for the purpose under Special Trust Funds to be deposited in authorized government depository banks (AGDB).  
+
+	
+
+6.9	Further verification of the account showed misclassification of transactions that should have been credited to Customer’s Deposits Payable and Guarantee/Security Deposit Payable as follows:
+
+
+
+Particulars
+
+Amount
+
+Customer’s Deposits Payable
+
+Reservation/Rent Deposit – F164
+
+₱   95,597.27
+
+Guarantee/Security Deposit Payable
+
+Bidders’ Bond – F161
+
+15,900.00
+
+Warranty Bond – F164
+
+25,701.08
+
+Grand Total
+
+₱ 137,198.35
+
+
+
+	1)	The foregoing errors overstated Other Payables account by a sum of ₱1,831,953.99 rendering doubt on the accuracy and reliability of the reported balance of the account in the financial statements as at year-end.
+
+
+
+	1)	We recommended and the College President agreed to require the Accountant to:
+
+
+
+a)	conduct a review and analysis of all items included in the Other Payables account and thereafter prepare and maintain subsidiary ledgers comprising the account; and
+
+
+
+b)	draw adjusting entries to reclassify all misclassified transactions to the appropriate accounts.
+
+
+
+
+
+Due to National Government Agencies (NGAs) account - ₱26,149,362.03
+
+
+
+7. 	Of the reported balance of the Due to National Government Agencies (NGAs) account totaling to ₱26,149,362.03 as of December 31, 2020,  a sum of ₱427,486.82 of which pertained to income from donations and sales from income-generating projects that were erroneously recognized in the account inconsistent with the Revised Chart of Accounts (RCA) for NGAs; while ₱697,212.99 appertained to the remaining balances of inter-agency fund transfers awaiting liquidation and refund to its various agencies following the completion of the projects as prescribed by Section 4.9 of COA Circular No. 94-013 dated December 13, 1994.
+
+
+
+1)	The Revised Chart of Accounts (RCA) for National Government Agencies (NGAs), describes the account Due to NGAs as the account credited to recognize the receipt of funds for delivery of goods/services as authorized by law, fund transfers from NGAs, other than the BIR, for implementation of specific programs or projects and other inter-agency transactions. This account is debited for delivery of goods/services, liquidation of funds received and settlement of liabilities, and/or adjustments. 
+
+
+
+2)	The balance of Due to NGAs as of December 31, 2020 amounted to ₱26,149,362.03. The account consists of fund transfers from the Commission on Higher Education (CHED) for scholarship and educational programs; donations received from various groups and private individuals; and funds received from other NGAs to support several projects of BASC. 
+
+
+
+3)	Discussed below are the observations of the Audit Team in the audit of the Due to NGAs account, viz:
+
+
+
+a)	Erroneous recognition of donations and income as Due to NGAs – ₱427,486.82
+
+	
+
+4)	The Audit Team noted that donations to the College were credited to the Due to NGAs account as enumerated below:
+
+
+
+Particulars
+
+Amount
+
+Donations
+
+Bahay Alumni
+
+₱     5,000.00
+
+Dr. Gill Villacorte Donation
+
+1,511.74
+
+Donation – Natividad 
+
+10,000.00
+
+Donation – Verdillo
+
+3,377.48
+
+Donation – Emelita Trinidad 
+
+5,000.00
+
+Batch 1995-1999
+
+4,700.00
+
+Batch 1987-1989
+
+10,000.00
+
+Sub-Total
+
+39,589.22
+
+Sale of Carabaos
+
+387,897.60
+
+Grand Total
+
+₱ 427,486.82
+
+
+
+5)	It is evident that the above donations from the alumni of the College, who are private individuals and groups, totaling to ₱39,589.22 should have been credited to the Income from Grants and Donations in Cash, instead of Due to NGAs, as prescribed in the RCA for NGAs; viz:
+
+
+
+This account is used to recognize all grants and donations in cash received from other levels of government, private sectors or international institutions with or without conditions. Grants and Donations in Cash which are not treated as receipts automatically appropriated shall be closed to Revenue and Expense Summary account.
+
+	
+
+6)	It was likewise observed that the sale of carabaos and caracows totaling to ₱387,897.60 was erroneously recognized as liability in the Due to NGAs account instead of the appropriate Income account. 
+
+
+
+7)	The erroneous recognition of the abovementioned transactions overstated the liability account and simultaneously understated the Accumulated Surplus account by ₱427,486.82 as of December 31, 2020. 
+
+ 
+
+b)	Unsettled inter-agency fund transfers for completed projects – ₱697,212.99
+
+
+
+8)	Section 4.9 of COA Circular No. 94-013 dated December 13, 1994, which prescribes the rules in the grant, utilization and liquidation of funds transferred to implementing agencies, dictates that the Implementing Agency shall return to the source agency any unused balance upon completion of the project.
+
+
+
+9)	Scrutiny of the accounts revealed that there were projects already completed but the remaining funds thereof aggregating to ₱697,212.99 were not returned to the respective source agencies. Per inquiry with the Accountant, the following projects were completed as of December 31, 2020:
+
+
+
+Project
+
+Amount to be Refunded
+
+GSR Lines
+
+                     ₱ 7,427.97
+
+DENR – Evaluation of the ENGP
+
+33,440.00
+
+NIA Project – 2019 Farmer Satisfaction
+
+15,291.75
+
+NIA Project – 2017 Farmer Satisfaction
+
+0.85
+
+DA BAR - TIUP
+
+5.21
+
+Rabbit Project
+
+0.87
+
+GAD Livelihood
+
+16,320.00
+
+IRRI
+
+1,403.33
+
+NCT
+
+418.00
+
+PRRI
+
+1,496.50
+
+Research HVCC
+
+1,595.89
+
+RET DA
+
+81.95
+
+OA Validation
+
+41.00
+
+Organic Fertilizer 
+
+224,687.00
+
+Goat Upgrading Project 
+
+120,923.00
+
+Aerobic Rice Project for Region III
+
+6,753.71
+
+Coffee Production
+
+14,100.00
+
+Bamboo First Year Operation
+
+26,785.83
+
+Metharizium Anisoplae – Rice Black Bug
+
+8,325.81
+
+DA BAR – Bio Organic Fertilizer
+
+6,993.50
+
+CHED Aerobic Seed Production
+
+75,906.00
+
+CHED – Aerobic 
+
+7,790.20
+
+Combined Tillage 
+
+3,500.00
+
+DA – Intensified Aerobic Rice Production (2M) 
+
+67,786.50
+
+Flood Prone Areas 
+
+37,696.00
+
+METS – Hybred
+
+7,175.00
+
+METS – Inbred
+
+11,267.12
+
+Total
+
+                    ₱ 697,212.99
+
+10)	When asked whether BASC can still identify the source agencies of these projects, the Accountant answered in the affirmative. However, there is a need to locate the Memoranda of Agreement (MOA) executed with the source agencies to determine the timeframe of the settlement of the projects and requirements for liquidation. Nevertheless, the unreturned amount to the source agencies deprived other NGAs of the funds that could have been used for other beneficial undertakings. 
+
+
+
+11)	In view of the foregoing, we recommended and the College President agreed to instruct the Accountant to:
+
+
+
+a)	make the necessary adjustments in the books of accounts for the Due to NGAs and Accumulated Surplus accounts; and
+
+
+
+b)	initiate the immediate liquidation and return of funds of the completed projects to the source agencies. 
+
+
+
+
+
+II)	COMPLIANCE AUDIT
+
+
+
+Unnecessary procurement of computer equipment - ₱2,204,300.80
+
+
+
+8. 	A total of 52 units of computer equipment amounting to ₱2,204,300.80 remained idle since October 2020 and unutilized as of year-end, thus, exposing them to deterioration and depreciation contrary to COA Circular No. 2012-003 dated October 29, 2012, prescribing the prevention of unnecessary expenditures. (Observation No. 8)
+
+
+
+1)	Verification showed that in Calendar Year (CY) 2020, a total of 52 units of computers were delivered to the Bulacan Agricultural State College (BASC), covered by the following documents:
+
+
+
+Disbursement Voucher 
+
+101-20-10-233
+
+Check No.
+
+2429
+
+Payee
+
+Procurement Service, DBM Manila 
+
+Particulars 
+
+To payment for the purchase of computer equipment for 3-Storey Education Building Phase 2
+
+Amount Paid
+
+₱2,204,300.80
+
+
+
+2)	On January 27, 2021, the Audit Team conducted an inventory count of the 52 units computer equipment which were found stocked in a building in BASC.
+
+
+
+3)	Management averred that the computers were intended for use by the College of Education in BASC. However, based on our ocular inspection on February 10, 2021, we noted that the three-story building for the College of Education has not yet been completed as shown in Appendix D. 
+
+4)	Since there was no actual need yet of the 52 units of computers in CY 2020, the procurement is considered unnecessary at that time pursuant to Item 4 of COA Circular No. 2012-003 dated October 29, 2012; to wit:
+
+
+
+xxx The term pertains to expenditures which could not pass the test of prudence or the diligence of a good father of a family, thereby denoting non-responsiveness to the exigencies of the service. Unnecessary expenditures are those not supportive of the implementation of the objectives and mission of the agency relative to the nature of its operation. This would also include incurrence of expenditure not dictated by the demand of government and those utility of which cannot be ascertained at a specific time. xxx (Emphasis supplied)
+
+
+
+5)	The overstocking of computers resulted to unnecessary exposure of the equipment to deterioration and depreciation in value which may result to wastage of government funds.  
+
+
+
+6)	Such wastage could have been prevented had there been proper coordination with the offices involved in procurement planning and execution. 
+
+
+
+7)	In view of the foregoing, we recommended and the College President agreed to render a written justification for the acquisition of the computer units in CY 2020 when there was no specific need for the equipment yet.
+
+
+
+
+
+Non-withholding of retention money from progress payments to contractor and non-compliance with the terms of contract for the infrastructure project
+
+  
+
+9. 	The Bulacan Agricultural State College (BASC) failed to deduct the 10% Retention Money equivalent to ₱1,022,286.02 from the progress payments to the contractor for the Construction of Three-Storey Education Building (Phase 2) contrary to pertinent sections of Annex E of the Revised Implementing Rules and Regulations (RIRR) of the Republic Act (R.A.) No. 9184. Also, deficiencies were noted in the implementation of the construction project to the disadvantage of the College and inconsistent with the general conditions of the infrastructure contract.
+
+
+
+1)	Section 6, Annex E of the Revised Implementing Rules and Regulations (RIRR) of Republic Act (R.A.) No. 9184 states that:
+
+
+
+1)	RETENTION MONEY
+
+
+
+1)	Progress payments are subject to retention of ten percent (10%) referred to as the “retention money”. Such retention shall be based on the total amount due to the contractor prior to any deduction and shall be retained from every progress payment until fifty percent (50%) of the value works, as determined by the procuring entity, are completed. If, after fifty percent (50%) completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the ten percent (10%) retention shall be imposed.
+
+
+
+2)	The total “retention money” shall be due for release upon final acceptance of the works. The contractor may, however, request the substitution of the retention money for each progress billing with irrevocable standby letters of credit from a commercial bank, bank guarantees or surety bonds callable on demand, of amounts equivalent to the retention money substituted for and acceptable to Government, provided that the project is on schedule and is satisfactorily undertaken. Otherwise, the ten percent (10%) retention shall be made. Said irrevocable standby letters of credit, bank guarantees and/or surety bonds, to be posted in favor of the Government shall be valid for a duration to be determined by the concerned implementing office/agency or procuring entity and will answer for the purpose for which the ten percent (10%) retention is intended, i.e., to cover uncorrected discovered defects and third-party liabilities.
+
+	
+
+2)	Further, Section 5.3 of the same Annex is hereby quoted as follows:
+
+	
+
+1)	The procuring entity shall deduct the following from the certified gross amounts to be paid to the contractor as progress payment:
+
+
+
+a)	Cumulative value of the work previously certified and paid for.
+
+b)	Portion of the advance payment to be recouped for the month. 
+
+c)	Retention money in accordance with the condition of the contract.
+
+d)	xxx
+
+
+
+3)	On June 19, 2020, the Bulacan Agricultural State College (BASC) entered into a contract with LMAC Construction and Supply for the Construction of Three-Storey Education Building (Phase 2) with a contract price of ₱34,536,690.00 to be completed in 300 calendar days. 
+
+
+
+4)	Vouching of the related Disbursement Vouchers (DVs) showed that BASC deducted withholding taxes and recouped advance payment previously paid to the contractor but failed to deduct the required percentage of retention fee from the progress payments, as detailed in Appendix E. 
+
+
+
+5)	In Calendar Year (CY) 2020, the contractor billed BASC for progressive physical accomplishments as follows:
+
+
+
+
+
+
+
+Date
+
+Accomplishment
+
+Previous Billing
+
+Progress Billing
+
+
+
+Percentage
+
+in Contract Price
+
+
+
+
+
+09/02/2020
+
+5.00%
+
+₱ 1,726,834.50
+
+₱0.00
+
+₱ 1,726,834.50
+
+10/28/2020
+
+20.00%
+
+6,907,338.00
+
+1,726,834.50
+
+5,180,503.50
+
+12/18/2020
+
+29.60%
+
+10,222,860.24
+
+6,907,338.00
+
+3,315,522.24
+
+
+
+Total 
+
+₱18,857,032.74
+
+₱8,634,172.50
+
+₱10,222,860.24
+
+
+
+6)	As shown in the table above, BASC should have retained an amount of ₱1,022,286.02 or 10% of the gross billings as retention fee.  
+
+
+
+7)	Likewise, we observed that the contractor did not post an irrevocable standby letter of credit from a commercial bank, bank guarantees or surety bond callable on demand in lieu of the retention money for each progress billing as required under the aforementioned provision of the RIRR of R.A. No. 9184. 
+
+
+
+8)	The retention money will serve as BASC’s assurance that the contractor shall undertake repair works, at his own expense, in case of any damage to the infrastructure prior to the final acceptance. As such, the non-withholding of the required 10% retention fee from the progress payments relieved/exempted the contractor from its accountability and responsibility for unsatisfactory performance on the infrastructure project to the disadvantage of the College. 
+
+	
+
+9)	Meanwhile, we also noted that BASC paid the contractor for its 1st progress billing despite a minimal percentage of accomplishment at 5% inconsistent with Section 40.4 of the General Conditions of the Contract which states that the first progress payment may be paid by the Procuring Entity to the Contractor provided that at least twenty percent (20%) of the works has been accomplished as certified by the Procuring Entity’s Representative. (Underscoring supplied)
+
+
+
+10)	Moreover, review of the contract disclosed absence of a stipulation regarding the water and electricity consumption that will be charged to the contractor for the duration of work; thus, the utilities incurred for this project were shouldered solely by BASC. 
+
+
+
+11)	In view of the foregoing, we recommended and the College President agreed to undertake the following courses of action:
+
+
+
+a)	ensure that the required 10% retention fee is deducted from the progress payments to be made to the contractor;
+
+
+
+b)	strictly adhere to the terms and conditions of the contract without prejudice to the provisions of R.A. No. 9184 and its RIRR in the implementation of the infrastructure project; and
+
+
+
+c)	formulate a standard procedure for determining the utilities consumed for this infrastructure project and appropriately bill the contractor. 
+
+
+
+Insufficient documentations on procurement of civil works and non-imposition of liquidated damages
+
+
+
+10.	Procurement from a lone contractor of 11 civil works amounting to ₱4,573,109.27 lacked complete documentations prescribed by the Revised Implementing Rules and Regulations of R.A. No. 9184 and Section 4 (6) of P.D. No. 1445, thus, raising doubt on the regularity of the procurement processes and on the validity and propriety of the payments made. Also, liquidated damages were not imposed by the College in spite of the noted delays on the completion of the ten infrastructure projects ranging from five to 52 days inconsistent with Section 8, Annex E of the RIRR of R.A. No. 9184, thus, depriving the College of the immediate use of the facilities while concomitantly relieving the delinquent contractor from penalties.
+
+
+
+1)	Records showed that BASC entered into a contract agreement through Small Value Procurement (SVP) with LMAC Construction and Supply to undertake eleven separate projects. Details of the project are tabulated below:
+
+
+
+Project Name
+
+Contract Duration
+
+Start Date
+
+Contract Cost
+
+Construction of Broiler House
+
+45 calendar days (CDs)
+
+August 3, 2020
+
+₱ 664,050.00
+
+Construction of Basketball Court Perimeter Fence
+
+30 CDs
+
+October 28, 2020
+
+353,525.00
+
+Construction of study area and plant box in the IT Laboratory Building
+
+30 CDs
+
+December 11, 2019
+
+764,812.27
+
+Tiling of the Institute of Engineering and Applied Technology (IEAT) Building
+
+15 CDs
+
+August 3, 2020
+
+120,650.00
+
+Repair of Business Center Room No. 1
+
+15 CDs
+
+August 3, 2020
+
+75,050.00
+
+Repair/Conversion of Extension and Training Office to "One-Stop-Shop"
+
+15 CDs
+
+August 3, 2020
+
+71,250.00
+
+Repair in the Research, Extension, Production and Development (REPD) Building for the Production and Development Office
+
+30 CDs
+
+August 3, 2020
+
+342,000.00
+
+Improvement of Old Library
+
+21 CDs
+
+October 28, 2020
+
+204,750.00
+
+Construction of Drainage along the Road near Oval – Phase 1
+
+30 CDs
+
+October 28, 2020
+
+265,200.00
+
+Repair of BASC Dormitory Roofing
+
+60 CDs
+
+October 28, 2020
+
+892,125.00
+
+Repair of Layer Poultry House
+
+45 CDs
+
+October 28, 2020
+
+819,697.00
+
+TOTAL
+
+
+
+
+
+₱ 4,573,109.27
+
+
+
+2)	Scrutiny of the related Disbursement Vouchers (DVs) supporting the payments to the contractor revealed that most often than not, the following documents were not attached to the claims:
+
+
+
+--	Mayor’s/Business Permit;
+
+--	Philippine Government Electronic Procurement System (PhilGEPS) Registration Number;
+
+--	Philippine Contractors Accreditation Board (PCAB) License;
+
+--	Income/Business Tax Return; and
+
+--	Omnibus Sworn Statement. 
+
+
+
+3)	In the absence of abovementioned documents, we were unable to validate the eligibility of LMAC Construction and Supply as the Lowest Calculated and Responsive Quotation for the afore-cited projects.
+
+
+
+4)	Furthermore, it was also noted that the contractor did not post a Performance Security (PS) contrary to Item M, Annex H of the Revised Implementing Rules and Regulations (RIRR) of R.A. No. 9184 which states that for Infrastructure Projects, PS is required.
+
+
+
+5)	It may be recalled, however, that the Government Procurement Policy Board Resolution No. 09-2020 dated May 7, 2020 allowed submission of Performance Securing Declaration (PSD) in lieu of performance security to guarantee the winning bidder’s faithful performance of obligations under the contract, subject to some terms and conditions explicitly stated in the said Resolution.
+
+
+
+6)	Contrary to the aforementioned requirement, the contractor did not undertake a PSD in place of the performance security. As such, the College was placed in a disadvantageous position and that faithful performance on the infrastructure projects by the contractor was not assured.
+
+7)	Nevertheless, the insufficient documentation on the payment to contractor grossly violates one of the fundamental principles governing government financial transactions stated in the P.D. No. 1445, viz:
+
+
+
+Claims against government funds shall be supported with complete documentation.
+
+
+
+8)	Meanwhile, further review of contracts covering the eleven infrastructure projects revealed that BASC failed to include the provision of liquidated damages to be imposed when the contractor incurs delay.
+
+
+
+9)	The absence of such provision contravenes Section 8.1, Annex E of the same RIRR; to wit:
+
+
+
+1)	Where the contractor refuses or fails to satisfactorily complete the work within the specified contract time, plus any extension duly granted and is hereby in default under the contract, and the contractor shall pay the procuring entity for liquidated damages, and not by way of penalty, an amount as provided in the conditions of the contract, equal to at least one tenth (1/10) of one (1) percent of the cost of unperformed portion of the works for every day of delay. (Underscoring supplied)
+
+
+
+10)	Nonetheless, per verification of the Certificates of Completion issued by the Planning and Development Office (PDO) of the BASC, ten of the eleven infrastructure projects were completed beyond schedule as tabulated below:
+
+
+
+Project Name
+
+Number of days of delay
+
+Construction of Broiler House
+
+37 CDs
+
+Construction of Basketball Court Perimeter Fence
+
+19 CDs
+
+Construction of study area and plant box in the IT Laboratory Building
+
+27 CDs
+
+Tiling of the Institute of Engineering and Applied Technology (IEAT) Building
+
+37 CDs
+
+Repair of Business Center Room No. 1
+
+37 CDs
+
+Repair/Conversion of Extension and Training Office to "One-Stop-Shop"
+
+37 CDs
+
+Repair in the Research, Extension, Production and Development (REPD) Building for the Production and Development Office
+
+52 CDs
+
+Improvement of Old Library
+
+10 CDs
+
+Construction of Drainage along the Road near Oval – Phase 1
+
+5 CDs
+
+Repair of Layer Poultry House
+
+12 CDs
+
+
+
+11)	Moreover, it was also observed that Statements of Time Elapsed and Work Accomplished were not available. The said document is a useful tool/guide in determining the negative/positive slippage of the projects as of a given date. Accordingly, the cost of the unperformed portion of the works, which is the basis for the computation of liquidated damages, cannot be determined in the absence of the said documents.
+
+
+
+12)	It has to be underscored that the College was deprived of the immediate use of the facilities due to the delays in the completion of infrastructure projects. Moreover, non-imposition of liquidated damages from the contractor was a loss on the part of the College because no disciplinary action was made against the delinquent contractor. 
+
+
+
+13)	In view of the foregoing lapses, we recommended and the College President agreed to undertake the following courses of action:
+
+
+
+a)	direct the Accountant to prepare a checklist of the required documents and verify the completeness/correctness of the same before processing of claim/payment;
+
+
+
+b)	ensure that contracts entered into contain the necessary provisions on liquidated damages; 
+
+
+
+c)	require the submission of the Statements of Time Elapsed to compute the liquidated damages and thereafter hold the contractor liable therefor; and
+
+
+
+d)	strictly adhere to the provisions of R.A. No. 9184 and its IRR in the implementation of the contracts for infrastructure. 
+
+
+
+
+
+Compliance with Gender and Development (GAD) Regulations
+
+
+
+11.	The College has provided   annual budget for Gender and Development (GAD) Programs, Projects and Activities (PAPs) amounting  ₱9,963,182.00 or 4.995% of the total appropriation of ₱199,425,000.00 for CY 2020 pursuant to Section 6.1 of undated Philippine Commission on Women-National Economic Development Authority-Department of Budget and Management (PCW-NEDA-DBM) Joint Memo Circular (JMC) No. 2012-001;  however, the utilization was minimal amounting to  ₱2,408,986.24 only or  24.18% which may be  due to the inadequate knowledge by the officials concerned on the process of attribution and use of the Harmonized Gender and Development Guidelines (HGDG) tool to identify and address real gender issues.
+
+	
+
+1)	Section 6.1 of undated Philippine Commission on Women-National Economic Development Authority-Department of Budget and Management (PCW-NEDA-DBM) Joint Memo Circular (JMC) No. 2012-001, provides the guidelines on Gender and Development (GAD) Budgetary and Planning requirements, as quoted below:
+
+	
+
+	1)	At least five percent (5%) of the total agency budget appropriations authorized under the annual GAA shall correspond to activities supporting GAD plans and programs. The GAD budget shall be drawn from the agency’s maintenance and other operating expenses (MOOE), capital outlay (CO), and personal services (PS). It is understood that the GAD budget does not constitute an additional budget over an agency’s total budget appropriations.
+
+
+
+11.2	Similarly, the same JMC provides, among others, the tools which the agency may use in the crafting of the GAD Plan and Budget (GPB) and on reporting GAD accomplishments. 
+
+
+
+11.3 	In CY 2020, BASC provided a budget for GAD in the amount of ₱ 9,963,182.00, including attributions, which was 4.995% of the College’s Annual Appropriations. The budget provided was in accordance with the JMC 2012-001. 
+
+
+
+11.4	Scrutiny of the submitted GAD Accomplishment Report (AR) vis-à-vis the GPB showed 24 Programs/Projects/Activities (PPAs) and one project with cost attribution to GAD, as summarized below:
+
+
+
+PROGRAMS/ ACTIVITIES/ PROJECTS
+
+GPB
+
+AR
+
+Unutilized 
+
+Client Focused 
+
+₱ 1,233,894.00
+
+₱    331,533.75
+
+₱     902,360.25
+
+Organization Focused 
+
+ 1,920,000.00
+
+ 2,077,452.49 
+
+(157,452.49) 
+
+Infrastructure Projects
+
+
+
+
+
+
+
+Construction of Education Building with equipment - Phase 2 
+
+6,680,000.00
+
+     0.00                
+
+6,680,000.00
+
+GRAND TOTAL 
+
+₱ 9,833,894.00
+
+₱ 2,408,986.24
+
+₱ 7,424,907.76
+
+
+
+11.5	As presented in the table above, the College reported GAD-related PAPs amounting to a meager amount of ₱2,408,986.24, equivalent to 25% of the total GAD budget of ₱9,833,894.00.
+
+
+
+11.6	Records disclosed further that for CY 2020, five PPAs were fully implemented, six were partially accomplished while 13 were not implemented at all. On the other hand, the infrastructure project attributed to GAD, particularly the construction of the Education Building, has been ongoing as of year-end.  
+
+
+
+11.7	The Management averred that one of the reasons for the low utilization rate was the sudden occurrence of the pandemic (COVID-19) in which face-to-face contact and business activities were minimized.   Another reason, according to Management, was the lack of knowledge and awareness among management officials in the attribution of the regular projects or activities or the use of the Harmonized Gender and Development Guidelines (HGDG) to identify and address gender issues.
+
+11.8	Accordingly, with the underutilization of the GAD fund and low attribution rate, the required gender mainstreaming was not actually carried out in CY 2020 defeating the ultimate goal of the PCW-DBM-NEDA JC No. 2012-001. 
+
+
+
+11.9	We recommended and the College President agreed to require the GAD Focal Person to:
+
+
+
+a)	consistently carry out the advocacy and commitment of the PCW-DBM-NEDA Joint Circular No. 2012-001 on gender and development through substantial implementation of GAD-responsive Programs/Activities/Projects under the approved Agency GAD Plan and Budget;
+
+
+
+b)	carefully plan activities that are implementable and doable even in times of the present pandemic and other forthcoming calamities; and
+
+
+
+c)	enhance the capability of concerned officials in the use and application of the Harmonized Gender and Development Guidelines (HGDG) and other available tools to effectively attribute to GAD the regular funds of the University for relevant PAPs. 
+
+	
+
+
+
+State Universities and Colleges (SUCs) Leveling
+
+
+
+12. 	The Bulacan Agricultural State College (BASC) obtained College Passing Rates (CPRs) higher than the National Passing Rates (NPRs) in the licensure examinations for Agriculture and Professional Teachers, both in Elementary and Secondary Education; nevertheless, the number of unsuccessful examinees significantly outnumbered the passers in the identified programs for the last five years, casting doubt on the capability of the College to produce professionals in the aforementioned fields. In addition, BASC has yet to obtain a Center of Excellence and/or Center of Development status from the Commission on Higher Education (CHED) for any of its programs since the university performance has been inadequate in the areas of instruction, research and publication, extension and linkages and institutional qualifications.
+
+
+
+1)	By virtue of Republic Act (R.A.) No. 8548, the former Bulacan National Agricultural State School (BNASS) was converted into a chartered college to be known as the Bulacan National Agricultural State College (BNASC), which was also later renamed as the Bulacan Agricultural State College (BASC) on February 19, 2004 through R.A. No. 9249. The College was mandated to provide higher professional, technical, and special instructions for special purposes and promote research and extension services and advanced studies in agriculture arts and science programs and other allied courses. 
+
+
+
+2)	In order to determine the current status of State Universities and Colleges (SUCs) and to level the playing field with private higher educational institutions (HEIs) in the Philippines, the Department of Budget and Management (DBM) and Commission on Higher Education (CHED) Joint Circular (JC) No. 1, series of 2016, dated April 13, 2016  was issued, providing the levelling instrument for state universities and colleges, which aims to categorize different types of institutions from Level I to Level V, with the latter being the highest, in terms of institutional performance. 
+
+
+
+3)	The levelling criteria in the above-mentioned JC includes the performance in the licensure/board examination as an indicator of quality and relevance of instruction, one of the Key Results Areas (KRAs).  Per CHED Memorandum Order (CMO) No. 9, series of 2019, BASC was ranked as SUC on a Level III status. 
+
+
+
+4)	The Audit Team conducted a review of the performance of the graduates of the College in the professional licensure examinations of five curricular programs for the five-year period covering 2015 to 2019. Most of the College Passing Rates (CPRs) obtained by BASC are higher than the National Passing Rates (NPRs). Details are tabulated below:    
+
+
+
+Program 
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+
+
+CPR
+
+NPR
+
+CPR
+
+NPR
+
+CPR
+
+NPR
+
+CPR
+
+NPR
+
+CPR
+
+NPR
+
+1
+
+Professional Teachers (Elementary)
+
+1st semester
+
+48.33%
+
+27.42%
+
+24.07%
+
+28.39%
+
+4.35%
+
+10.39%
+
+38.81%
+
+23.62%
+
+41.05%
+
+27.29%
+
+
+
+
+
+2nd semester
+
+36.17%
+
+31.36%
+
+41.35%
+
+30.18%
+
+40.82%
+
+26.33%
+
+33.33%
+
+20.29%
+
+55.32%
+
+31.34%
+
+2
+
+Professional Teachers (Secondary)
+
+1st semester
+
+19.40%
+
+31.64%
+
+33.96%
+
+35.43%
+
+21.62%
+
+25.46%
+
+38.36%
+
+29.91%
+
+24.24%
+
+25.95%
+
+
+
+
+
+2nd semester
+
+47.83%
+
+41.75%
+
+36.45%
+
+33.78%
+
+54.55%
+
+46.37%
+
+45.45%
+
+48.03%
+
+43.48%
+
+39.69%
+
+3
+
+Agriculturist
+
+13.33%
+
+31.05%
+
+54.17%
+
+30.89%
+
+46.67%
+
+31.55%
+
+33.33%
+
+38.14%
+
+40.52%
+
+41.05%
+
+4
+
+Agricultural Engineers
+
+62.50%
+
+40.43%
+
+85.71%
+
+39.52%
+
+69.23%
+
+48.31%
+
+72.73%
+
+56.66%
+
+52.38%
+
+37.70%
+
+5
+
+Geodetic Engineers
+
+0.00%
+
+35.10%
+
+0.00%
+
+41.80%
+
+0.00%
+
+49.60%
+
+57.14%
+
+53.25%
+
+66.67%
+
+54.85%
+
+
+
+Note: Due to government-imposed restrictions and other unforeseeable circumstances due to community quarantine all over the country, the conduct of the licensure examinations from March to December 2020 was postponed. 
+
+
+
+5)	Based from the data above, most of the programs of the College surpassed the NPRs for licensure examinations taken by its graduates during the last five years. 
+
+
+
+6)	However, records showed that in three programs of the College, the number of those who failed in the licensure examinations were significantly higher than the passers for the last five years. These are the licensure examinations for Professional teachers, both in the elementary and secondary education, and Agriculturist, as shown in the charts in the succeeding page. 
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+7)	The Audit Team noted that the identified programs above failed to obtain at least 50% CPR for the last five years. The considerable number of graduates who failed in the licensure examinations caused alarm and raised doubt on the capability of the College to produce professionals in the fields of education and agriculture. As such, for the last five years, BASC has struggled much to produce successful graduates in terms of adequacy of knowledge, skills, competence and moral values to be more competitive. The continuous development in the aforementioned fields will create a wider room for improvement in the next five years. 
+
+
+
+8)	Another performance indicator in the SUC levelling instrument is the number of programs offered by the University with Center of Excellence (COE) and/or Center of Development (COD) status. 
+
+
+
+9)	The Center of Excellence and Development program is provided under Section 8 (f) of R.A. No. 7722, otherwise known as the “Higher Education Act of 1994” which mandated CHED to identify, support and develop potential centers of excellence in program areas needed for the development of world-class scholarship, nation building and national development.
+
+
+
+10)	Center of Excellence is granted to a department within a higher education institution, which continuously demonstrates excellent performance in the areas of instruction, research and publication, extension and linkages and institutional qualifications. On the other hand, the Center of Development is given to those departments which demonstrate the potential to become a Center of Excellence in the future. 
+
+
+
+11)	Inquiry with the Office of the Vice President for Academic Affairs (VPAA) revealed that BASC has never submitted an application to CHED for a COD and/or COE status in any of its programs. The CHED evaluation, using the SUC levelling instrument, plays a pivotal role to raise the College to a higher status towards excellence.
+
+
+
+12)	In view of the foregoing, we recommended and the College President agreed to undertake the following courses of action: 
+
+
+
+a)	require the Vice President for Academic Affairs to revisit the programs with very low CPRs for the last five years and identify the causes of the poor performance in licensure examinations of its graduates, particularly in the field of education and agriculture; and
+
+
+
+b)	conduct an evaluation on the programs offered by the University on its performance in the areas of instruction, research and publication, extension and linkages and institutional qualifications which are the general criteria of CHED for the grant of COE and COD status. 
+
+
+
+
+
+
+
+Compliance with Tax Laws
+
+
+
+13. 	For Calendar Year (CY) 2020, the College substantially complied with the proper withholding of taxes and the timely remittance thereof to the Bureau of Internal Revenue (BIR) as required under Revenue Regulations (RR) No. 2-98 dated April 17, 1998.
+
+		
+
+1)	Revenue Regulations No. 2-98 dated April 17, 1998 provides that all government agencies as tax withholding agents are required to remit all taxes withheld by them on or before the 10th day of the succeeding month. 
+
+		
+
+2)	Our audit of the Fund 101 and Fund 164 for Calendar Year (CY) 2020 showed that the College substantially complied with the regulations on the withholding of taxes from the compensation of personnel and claims of suppliers/contractors.
+
+
+
+3)	Amounts withheld were duly remitted to the Bureau of Internal Revenue within the prescribed period, although in certain periods remittances were not made in full contrary to Revenue Regulations (RR) No. 2-98 dated April 17, 1998.
+
+
+
+4)	The Due to BIR account shows the following amounts withheld and remitted by the Colleges; to wit:
+
+	
+
+Months
+
+Beginning Balance 
+
+Taxes Withheld 
+
+Taxes Remitted 
+
+Ending Balance
+
+Trust Fund (164)
+
+January
+
+₱141,215.86
+
+₱20,650.84
+
+₱141,215.86
+
+₱20,650.84
+
+February
+
+ 
+
+300,789.29
+
+19,200.84
+
+302,239.29
+
+March
+
+ 
+
+11,506.80
+
+300,789.29
+
+12,956.80
+
+April
+
+ 
+
+18,295.00
+
+67,926.33
+
+-36,674.53
+
+May
+
+ 
+
+1,970.00
+
+10,978.00
+
+-45,682.53
+
+June
+
+ 
+
+14,320.47
+
+1,183.00
+
+-32,545.06
+
+July
+
+ 
+
+11,694.25
+
+11,200.71
+
+-32,051.52
+
+August
+
+ 
+
+10,205.37
+
+8,781.77
+
+-30,627.92
+
+September
+
+ 
+
+32,046.96
+
+7,975.08
+
+-6,556.04
+
+October
+
+ 
+
+157,969.33
+
+25,928.26
+
+125,485.03
+
+November
+
+ 
+
+27,552.63
+
+121,452.88
+
+31,584.78
+
+December
+
+ 
+
+410,949.08
+
+31,584.78
+
+410,949.08
+
+TOTAL
+
+₱141,215.86
+
+₱1,017,950.02
+
+₱748,216.80
+
+₱410,949.08
+
+General Fund (101)
+
+January
+
+₱2,043,630.52
+
+₱595,304.87
+
+₱2,043,630.52
+
+₱595,304.87
+
+February
+
+
+
+922,770.92
+
+595,304.87
+
+922,770.92
+
+March
+
+ 
+
+870,901.35
+
+922,770.92
+
+870,901.35
+
+April
+
+ 
+
+600,685.87
+
+870,901.35
+
+600,685.87
+
+May
+
+ 
+
+1,161,837.18
+
+597,740.45
+
+1,164,782.60
+
+June
+
+ 
+
+977,177.57
+
+1,118,518.10
+
+1,023,442.07
+
+July
+
+ 
+
+1,063,024.51
+
+1,023,442.07
+
+1,063,024.51
+
+August
+
+ 
+
+614,852.41
+
+1,063,024.51
+
+614,852.41
+
+September
+
+ 
+
+970,732.63
+
+614,852.41
+
+970,732.63
+
+October
+
+ 
+
+931,832.63
+
+989,595.61
+
+912,969.65
+
+November
+
+ 
+
+1,496,866.57
+
+914,559.14
+
+1,495,277.08
+
+December
+
+ 
+
+1,514,031.21
+
+1,504,015.15
+
+1,505,293.14
+
+Total
+
+₱2,043,630.52
+
+₱11,720,017.72
+
+₱12,258,355.10
+
+₱1,505,293.14
+
+	
+
+5)	The year-end balance of ₱1,505,293.14 represents taxes withheld on account of goods and services and compensation taxes unremitted for the month of December 2020. On the other hand, the balance under Fund 164 amounting to ₱410,949.08 represents expanded withholding taxes from operating transactions and other percentage tax withheld.
+
+
+
+6)	The aggregate amount of ₱1,916,242.42 was debited by the Land Bank of the Philippines (LBP) to the bank account of the College through the LBP Electronic Tax Payment System on January 8, 2021, detailed as follows:
+
+		
+
+		Date
+
+		LBP e-TPS Confirmation Receipt No.
+
+		Amount
+
+		1/8/2021
+
+		172000039502987
+
+		    ₱ 297,447.78
+
+		
+
+		432000039503578
+
+		113,501.30
+
+		
+
+		TRA 525B2021383509
+
+		608,894.48
+
+		
+
+		525B22021383532
+
+		670,953.97
+
+		
+
+		525B2021383553
+
+		225,444.89
+
+		TOTAL
+
+		
+
+		₱1,916,242.42
+
+				
+
+13.7	We commended the Management for its compliance with tax laws, rules and regulations and recommended to continue the good practice of withholding the correct amount of taxes due and the prompt remittance thereof to the BIR. 
+
+
+
+
+
+Compliance with GSIS Regulations
+
+
+
+14. 	The withholding and remittance of premiums/contributions, including government share, to the Government Service Insurance System (GSIS) were done in conformity with Republic Act (R.A.) No. 8291 or the GSIS Law, although there were periods that remittances were not made in full, resulting in unremitted balances at the end of a given month.
+
+	
+
+	
+
+	
+
+1)	Republic Act (R.A.) No. 8291 or the GSIS law, states that:
+
+
+
+a)	Section 6 - The employer shall report to the GSIS the names of all its employees, their corresponding employment status, positions, salaries and such other pertinent information, including subsequent changes therein, if any, as may be required by the GSIS; the employer shall deduct each month from the monthly salary or compensation of each employee the contribution payable by him in accordance with the schedule prescribed in the rules and regulations implementing this Act.
+
+
+
+b)	Each employer shall remit directly to the GSIS the employees' and employers' contributions within the first ten (10) days of the calendar month following the month to which the contributions apply. The remittance by the employer of the contributions to the GSIS shall take priority over and above the payment of any and all obligations, except salaries and wages of its employees.
+
+
+
+2)	At the start of the year 2020, the Due to GSIS account of the General Fund had no outstanding balance. The monthly contributions withheld by the College reached to ₱13,887,625.87 and the same were remitted in full during the year, as shown in the table below:
+
+	
+
+Period Covered
+
+Beginning Balance
+
+Collection Withheld 
+
+Remittance 
+
+Ending Balance
+
+2020
+
+
+
+ 
+
+ 
+
+ 
+
+January
+
+₱ 0.00
+
+ ₱1,394,383.18 
+
+  ₱1,400,958.40 
+
+(₱6,575.22)
+
+February
+
+ 
+
+     1,425,995.56 
+
+    1,411,870.15 
+
+7,550.19
+
+March
+
+ 
+
+     1,526,944.35 
+
+    1,523,277.38 
+
+11,217.16
+
+April
+
+ 
+
+     1,478,872.78 
+
+    1,488,558.18 
+
+1,531.76
+
+May
+
+ 
+
+        882,275.09 
+
+       620,254.52 
+
+263,552.33
+
+June
+
+ 
+
+        741,429.94 
+
+         28,865.88 
+
+976,116.39
+
+July
+
+ 
+
+        711,508.18 
+
+    1,407,275.89 
+
+280,348.68
+
+August
+
+ 
+
+     1,481,120.61 
+
+                  0.00   
+
+1,761,469.29
+
+September
+
+ 
+
+     1,485,422.84 
+
+    3,146,810.70 
+
+100,081.43
+
+October
+
+ 
+
+     1,546,668.78 
+
+    1,549,652.16 
+
+97,098.05
+
+November
+
+ 
+
+        600,731.70 
+
+       602,797.40 
+
+95,032.35
+
+December
+
+ 
+
+        612,272.86 
+
+       707,305.21 
+
+0.00
+
+TOTAL
+
+₱ 0.00
+
+₱ 13,887,625.87
+
+₱ 13,887,625.87
+
+₱ 0.00
+
+	
+
+3)	The withholding/deduction of the GSIS premiums was regularly done; however, for the period covering May to November 2020, the remittances were not made in full and at times delayed due to the limitations/effect of lockdown brought about by COVID-19.
+
+
+
+4)	At the close of the year, the account had a zero balance. We commended the Accounting and Human Resource (HR) Sections for their diligent effort to substantially comply with the above-cited regulations, despite certain months of neglect to remit contributions on time due to the pandemic.
+
+
+
+5)	We recommended and the College President agreed to direct the Accountant and the Human Resource to continually comply with the GSIS law, particularly the remittance of amounts due to the System within the prescribed period. 
+
+
+
+
+
+Status of Settlement of Audit Suspensions, Disallowances and Charges
+
+	
+
+15. 	Disallowances of the BASC amounting to ₱2,117,944.19 were still outstanding as of December 31, 2020 contrary to Section 10.4 of the Rules and Regulations on Settlements of Accounts (RRSA). 
+
+
+
+1)	Section 10.4 of the Rules and Regulations on Settlements of Accounts as embodied in COA Circular No. 2009-006 dated September 15, 2009 states that the disallowance shall be settled within six (6) months from the receipt of Notice of Disallowance (ND) by the persons liable.
+
+
+
+2)	As of December 31, 2020, the unsettled disallowances amounted to ₱2,117,944.19. There were not audit suspensions and charges as at year-end.
+
+
+
+
+
+Beginning Balance
+
+(As of January 1, 2020)
+
+This period
+
+ January 1 to December 31, 2020
+
+(See B Below)
+
+Ending Balance
+
+(As of December 31, 2020)
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension
+
+ ₱               0.00
+
+  ₱            0.00
+
+₱              0.00     
+
+₱               0.00
+
+Notice of Disallowances
+
+3,074,987.31
+
+20,000.00
+
+977,043.12
+
+2,117,944.19
+
+Notice of Charge
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Total
+
+₱ 3,074,987.31
+
+  ₱   20,000.00
+
+₱977,043.12
+
+₱ 2,117,944.19
+
+
+
+3)	The disallowances pertain to various payments granted to the regular faculty and personnel of BASC in December 2019 which were subsequently disallowed in audit due to the irregularity of its nature. Payments or deductions from the payees’ salaries were made on a staggered basis.
+
+	
+
+4)	We recommended and the College President agreed to continue to require the settlement of individual disallowances on a much bigger and faster pace of payments. 
+
+
+
+30
+
+
+
+
+
+
+
+
+

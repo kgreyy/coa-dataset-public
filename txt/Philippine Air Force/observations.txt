@@ -1,0 +1,6916 @@
+Part II – OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+Financial Audit
+
+
+
+Unreliable balance of Cash in Bank – Local Currency, Current Account (LCCA)
+
+
+
+1)	The accuracy and reliability of the Cash in Bank – Local Currency Current Account balance of ₱1.631 billion as of December 31, 2020 cannot be ascertained due to: a) unrecorded book reconciling items amounting to ₱238.089 million; and b) long outstanding bank reconciling items amounting to ₱12.544 million; thus, affecting the fair presentation of the accounts in the financial statements contrary to the pertinent provisions of Government Accounting Manual (GAM), Volume I.
+
+
+
+	1)	Section 15, Chapter 2 of GAM, Volume 1 states that financial statements shall present fairly the financial position, financial performance and cash flows of an entity. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria of assets, liabilities, revenues and expenses set out in IPSAS. The application of IPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.
+
+
+
+	2)	Section 21, Chapter 6, GAM Volume 1 requires that the Chief Accountant/ Designated Staff shall prepare a Journal Entry Voucher (JEV) to recognize all reconciling items that require adjustment and correction in the books of accounts. 
+
+
+
+	3)	Bank Reconciliation Statement (BRS) is a statement which brings into agreement the cash balance per book and per bank. It is usually prepared monthly and lists reconciling items affecting the book and bank balances. Reconciling items are taken up in the books whenever necessary to reflect correct balance of Cash in Bank accounts.
+
+
+
+	4)	The Cash in Bank – Local Currency, Current Account has a balance of ₱1,631,015,041.53 as of December 31, 2020 which includes the accounts of Headquarters PAF and Clark Air Base amounting to ₱1,600,995,144.66 and ₱30,019,896.87, respectively. The account of HPAF consists of 11 active bank accounts maintained with the Land Bank of the Philippines (LBP) totaling ₱1,600,995,144.66 while that of the CAB pertains to the PAF Supermart account maintained also with the LBP. Details of accounts maintained by HPAF are shown in Table 1. 
+
+Table 1 – Cash in Bank LCCA Balance
+
+Bank
+
+Account Name
+
+Account Number
+
+Amount 
+
+Regular Agency
+
+LBP
+
+PAF - ATM PAYROLL
+
+3562-1002-01
+
+₱   234,548,808.55 
+
+LBP
+
+PAF – VCS
+
+3562-1002-10
+
+ 60,355,443.73 
+
+LBP
+
+PAF - RETENTION MONEY
+
+3562-1003-41
+
+ 166,480,154.27 
+
+LBP
+
+PAF - COMMERCIAL CLAIMS
+
+3562-1004-06
+
+ 8,064,330.28 
+
+Sub-Total
+
+
+
+₱   469,448,736.83
+
+Internally Generated Income
+
+LBP
+
+PAF PROFESSIONAL FEE
+
+3561-0077-47
+
+₱       1,019,586.19  
+
+LBP
+
+PAF TRUST RECEIPTS- PAFGH
+
+3562-1000-58
+
+  21,083,356.82  
+
+Sub-Total
+
+
+
+₱     22,102,943.01
+
+Trust Fund
+
+LBP
+
+PAF LIGHT AND WATER
+
+3562-1000-66
+
+₱     23,222,238.62
+
+LBP
+
+PAF HOUSING BOARD
+
+3562-1000-90
+
+ 45,382,788.51 
+
+LBP
+
+PAF TRUST LIABILITIES
+
+3562-1001-04
+
+ 1,016,810,696.77 
+
+LBP
+
+PAF BIDDERS BOND
+
+3562-1003-09
+
+ 9,708,411.41 
+
+LBP
+
+PAF BID DOCS
+
+3562-1004-22
+
+ 14,319,329.51 
+
+Sub-Total
+
+
+
+₱1,109,443,464.82
+
+Grand Total - Consolidated Funds
+
+
+
+₱1,600,995,144.66
+
+Less: Discrepancy (Table 2)
+
+
+
+(238,089,877.14)
+
+Net Adjusted Balance
+
+
+
+₱1,362,905,267.52
+
+
+
+	5)	Evaluation of the account disclosed the following deficiencies: 
+
+
+
+a)	Unrecorded Book Reconciling Items - ₱238,089,877.14
+
+
+
+	6)	Verification of the BRS revealed various unrecorded reconciling items as detailed in Table 2.
+
+
+
+       Table 2 – Adjusted Balance as of December 31, 2020
+
+Particulars
+
+Unrecorded Credit Memos/ Adjustments on Deposits and Errors
+
+(a)
+
+Unrecorded Debit Memos/ Adjustments on Checks and Errors
+
+(b)
+
+Net Reconciling Item
+
+(c = a-b)
+
+Total
+
+Book Balance
+
+
+
+
+
+
+
+₱1,600,995,144.66
+
+PAF - ATM PAYROLL
+
+ 3,141,276.03 
+
+217,196,969.56
+
+(214,055,693.53)
+
+
+
+PAF – VCS
+
+ 355,798.21 
+
+25,266,056.18
+
+(24,910,257.97)
+
+
+
+PAF - COMMERCIAL CLAIMS
+
+ 35,650.00 
+
+11,256.08
+
+24,393.92
+
+
+
+PAF PROFESSIONAL FEE
+
+ 4,500.00 
+
+-
+
+4,500.00
+
+
+
+PAF TRUST RECEIPTS- PAFGH
+
+ 28,770.00 
+
+-
+
+28,770.00
+
+
+
+PAF LIGHT AND WATER
+
+ 54,976.02 
+
+ 11,171.78 
+
+43,804.24
+
+
+
+PAF HOUSING BOARD
+
+ 1,224,605.40 
+
+-
+
+1,224,605.40
+
+
+
+PAF TRUST LIABILITIES
+
+-
+
+ 450,000.00 
+
+(450,000.00)
+
+
+
+PAF BIDDERS BOND
+
+ 0.80 
+
+-
+
+0.80
+
+
+
+Net Discrepancy
+
+ 4,845,576.46 
+
+ 242,935,453.60 
+
+(238,089,877.14)
+
+(238,089,877.14)
+
+Adjusted Book Balance as of December 31, 2020
+
+
+
+
+
+
+
+₱1,362,905,267.52
+
+
+
+	7)	The unrecorded credit memos (CM)/adjustments on deposits and errors refer to book reconciling items that should be added in the book balance. These items remained unrecorded due to non-submission of supporting documents by Air Force Finance Center (AFFC) in relation to refund of overpayment of salaries and other allowances and transfer of cash from MDS account to PAF-ATM, Variable Collateral System (VCS) and Commercial LCCA accounts; and by other units responsible in the collection and deposit of hospital income  and payment for utilities by PAF tenants. 
+
+
+
+	8)	Likewise, unrecorded debit memos (DM)/adjustments on checks and errors refers to book reconciling items that should be deducted in the book balance. Various unrecorded DMs pertain to debit advice issued by AFFC for payment of salaries and other remuneration to PAF personnel which also remained unadjusted in the books due to non-submission of payroll to AFAC by the latter.
+
+
+
+	9)	Review of the BRS for the months of January and February 2021 showed that unrecorded CM and DM pertaining to December 31, 2020 amounting to ₱996,225.85 and ₱206,078,566.69, respectively, were already adjusted in January and February 2021 as verified in the posted JEVs. However, book reconciling items in the net amount of ₱33,007,536.30 remained unrecorded due to unsubmitted documents. 
+
+
+
+	10)	Nevertheless, delayed/non-recognition of reconciling items resulted in the overstatement of the Cash in Bank – Local Currency Current Account and other related accounts by ₱238,089,877.14 as of December 31, 2020; thus, affecting the fair presentation of the financial statements contrary to requirements of Section 15, Chapter I of GAM, Volume I.
+
+
+
+b)	Long Outstanding Bank Reconciling Items – ₱12,544,395.35
+
+
+
+	11)	Section 3, Chapter 21 of the GAM provides that BRS shall be prepared in order to:
+
+
+
+a)	check the correctness of both the bank’s and agency’s/entity’s records,
+
+b)	serve as a deterrent to fraud, and
+
+c)	enable the agency/entity or bank to take up charges or credits recognized by the bank or agency/entity but not yet known to the agency/entity or bank. 
+
+
+
+	12)	Further verification of the BRS showed that Debit Advices (DAs)/Letter of Transfers amounting to ₱12,544,395.35 has been outstanding ranging from more than six months to more than one year as presented in Table 3 (Annex 3). These DAs were not yet adjusted because of the errors in account number of PAF personnel/creditors or rejected DAs caused by identified closed accounts of PAF personnel/creditors  which were returned for correction.
+
+
+
+   Table 3 – Aging of Outstanding DAs/Letter of Transfer (Bank Recon Items)
+
+Bank Account
+
+Balance
+
+Amount
+
+
+
+
+
+More than 6 months to 1 year
+
+More than 1 year
+
+PAF VCS
+
+₱ 10,878,902.17
+
+  251,487.42  
+
+10,627,414.75  
+
+PAF Commercial Claims
+
+1,664,189.28
+
+  650.00  
+
+  1,663,539.28
+
+PAF Professional Fees
+
+1,297.90
+
+ 1,297.90 
+
+-
+
+PAF Light and Water
+
+6.00
+
+ 6.00
+
+-
+
+Total
+
+₱12,544,395.35
+
+  253,441.32
+
+12,290,954.03  
+
+
+
+	13)	The Audit Team inquired the actions taken by AFFC regarding long outstanding DAs/ Letter of Transfers and was informed that the AFFC is yet to coordinate with the bank and currently in the process of verifying the validity of claims of PAF personnel with closed accounts.
+
+
+
+	14)	We recommended that Management:
+
+
+
+a)	require the Air Force Finance Center (AFFC) to immediately submit supporting documents related to various unrecorded reconciling items to Air Force Accounting Center (AFAC) as basis in recording and to coordinate with depository banks regarding bank error on long outstanding Debit Advices/Letter of Transfers for immediate deposit to proper personnel/creditors; 
+
+
+
+b)	instruct the AFAC to prepare necessary JEVs to correct and adjust the affected accounts upon submission of documents by AFFC; and
+
+
+
+c)	investigate the validity of claims pertaining to long outstanding Debit Advices (DAs)/Letters of Transfers and revert back to BTr the excess cash balance, if necessary.
+
+
+
+Management Comments and Actions
+
+
+
+	15)	Out of the P238,089,877.14 unrecorded reconciling items, a total of P213,333,425.30 has been recorded/adjusted leaving a balance of P24,756451.84 as of April 2021.
+
+
+
+Moreover, out of the P12,544,395.35 long outstanding Debit Advices/Letter of Transfers, a total of P3,661,957.57 has been recorded/adjusted leaving a balance of P8,882,437.78 as of 14 April 2021. Based on submitted CM of LBP dated April 19, 2021, AFFC reconciled the amount of P492,121.34. 
+
+
+
+Dormant Cash – Treasury/Agency Deposit, Trust Account (TA) 
+
+     
+
+2)	Dormant Cash – Treasury/Agency Deposit, Trust Account of Basa Air Base (BAB) amounting to ₱3.820 million has been retained due to lack of supporting documents to close the account contrary to COA Circular No. 97-001 dated February 5, 1997.
+
+
+
+	1)	Section 111 of PD 1445 requires that the accounts of the agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government. Also, the highest standard of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	2)	COA Circular No. 97-001 dated February 5, 1997 prescribes the guidelines on the proper disposition/closure of dormant funds and/or accounts of NGAs. As provided in this Circular, when the accounts in the trial balance of a fund/s are non-moving for five consecutive years, the Chief Accountant or other officials concerned shall:
+
+
+
+--	Initiate/cause the verification of the nature or purpose of the dormant fund/account
+
+
+
+--	If analysis/review of the accounts/funds is not possible due to absence of records or documents, the agency head concern should request for write off and/or adjustment of account balances from the COA supported by:
+
+
+
+	a)	List of available records and extent of validation made on the accounts; and
+
+
+
+	b)	Certification and reasons why the books of accounts/records, financial statements/schedules and supporting vouchers/documents cannot be located.
+
+
+
+	3)	Review and verification of financial statements as of December 31, 2020 revealed that the Cash – Treasury/Agency Deposit, Treasury Account of PAF Basa Air Base amounting to  ₱3,819,873.10 has been dormant for more than 16 years.  It is recorded under Trust Receipts - Receipts Deposited with the National Treasury other than Inter-Agency Transferred Funds, (IATF). This account was previously recognized under the Due from National Treasury account in the old e-NGAS.
+
+
+
+	4)	According to the Head of the 2nd FAU, the corresponding cash balance pertaining to the account had been remitted to the National Treasury prior to CY 2004, however, due to the unavailability of supporting documents, the closure of the Cash – Treasury/Agency Deposit, Trust Account could not be effected. She further informed that coordination with the AFAC has been made in CY 2020; however, based on initial comments, the related documents for the said account could no longer be found or retrieved.
+
+
+
+	5)	As verified, there was no existing bank account for the said treasury/agency cash account.
+
+
+
+	6)	Due to foregoing deficiency, the validity and existence of the Cash – Treasury/Agency Deposit, Trust Account cannot be fully ascertained.
+
+
+
+	7)	We recommended and Management agreed to direct the Head of the 2nd Field Accounting Unit (FAU) to:
+
+
+
+a)	exert effort to further validate and locate supporting documents for the closure of dormant Cash – Treasury/Agency Deposit, Trust account and coordinate in writing with the Air Force Accounting Center (AFAC) and the BTr to appropriately document the extent of validation made on the account; and
+
+
+
+b)	request for write off and/or adjustment of dormant balance from the COA in accordance with COA Circular 1997-001.
+
+
+
+Management Comments
+
+
+
+	8)	The 2nd FAU already coordinated with AFAC and sent Subject to Letter (STL)  dated 12 March 2021, requesting for the verification of the balance of Cash- Treasury/ Agency Deposit, Trust amounting to P3,819,873.10 as of December 31, 2020. 
+
+
+
+Moreover, the 2nd FAU sent a letter dated 08 March 2021 to the Landbank of the Philippines- San Fernando Branch and the BTr requesting assistance in the confirmation of the balance amounting to P3,819,873.10 under the Bureau of Treasury account #0012-2222-70.
+
+
+
+Lenient implementation of Collection Policy 
+
+
+
+3)	Management leniency in the imposition of sanctions to delinquent tenants/ concessionaires such as disconnection of meters, cancellation of contract/permit and eviction of delinquent occupants of housing facilities pursuant to Standard Operating Procedures issued by the PAF resulted in the accumulation of receivables under Trust Account totaling P27.612 million at year-end. Moreover, concessionaires’ deposits were recognized as deduction to Other Receivables account instead of recognizing the same as unearned revenue which resulted in negative balances totalling ₱.95 million in various Subsidiary Ledger (SL) accounts, contrary to the accrual basis of accounting and Section 30, Chapter 5 of GAM for NGAs, Volume I. 
+
+
+
+	1)	Other Receivables account is used to record receivables for the light and water consumption of tenants and concessionaires in PAF, receivables from AOs who were not relieved from their accountability for loss of property, and from inactive Disbursing Officers and PAF personnel who had unliquidated cash and “in kind” advances. Details of Other Receivables accounts as of December 31, 2020 are as follows:
+
+
+
+Table 4 - Details of Other Receivables Account
+
+Fund
+
+Amount
+
+Regular Agency Fund
+
+P 26,745,316.53
+
+Trust Fund
+
+27,612,228.47
+
+TOTAL
+
+P54,357,545.00
+
+
+
+	2)	Under Section 5 of PAF 520th ABW Standard Operating Procedure (SOP) No. 2020-12 dated May 14, 2020, one of the duties of the Base Concessionaires Manager is to issue notice of settlements for concessionaires with back accounts (rental, electric and utility fees) and recommends to Secretary, Bases Concessionaires Board (BCB)  list of concessionaires with two or more back accounts for possible termination of their revocable permits. Moreover, Section 15 of the SOP requires imposition of penalty and/or surcharge equivalent to 10 percent of outstanding balance computed monthly for late payments on rental, water, electric and other utilities, taxes or other legal fees of concessionaires.
+
+
+
+	3)	Corollary, the following are grounds for revocation as enumerated in the standard revocable permits issued to concessionaires:
+
+
+
+Grounds for Revocation:
+
+xxx
+
+
+
+c.) Non-payment of rentals within 15 days from the date upon which it becomes due.
+
+
+
+d.) Non-payment of water, electric, and other utilities as they become due and demandable.
+
+
+
+xxx
+
+
+
+	4)	SOP No. 2012-03 dated June 18, 2012 issued by PAF HQ 520th ABW prescribes the guidelines in the settlement of current accounts and arrears for lights and water consumption of occupants of PAF government quarters, barracks, apartment, duplex, condominium units, Bachelors Officers Quarters (BOQ), Married Officers Quarters (MOQ) and concessionaires and other non-military establishment inside Colonel Jesus Villamor Air Base (CJVAB). Section V – General Policy of SOP states that light and water bill is payable within one month as indicated in the official billing statement; otherwise, demand letter will be sent to occupants within five calendar days from due date.
+
+
+
+	5)	Analysis of the Aging of Other Receivables account under Trust Fund provided by AFAC revealed that there are back accounts from operating concessionaires and PAF tenants which exceeded the allowed period of settlement under the revocable permits issued. Details are presented in Table 5. 
+
+
+
+Table 5 - Aging of Other Receivables Account
+
+
+
+Less than 30 days (PhP)
+
+30 days to less than 1 year (PhP)
+
+1 year to less than 3 years (PhP)
+
+3 years and above (PhP)
+
+
+
+Total (PhP)
+
+Light and Water
+
+2,581,158.43
+
+8,290,083.37
+
+209,727.73
+
+8,291,449.56
+
+
+
+19,372,419.09
+
+Parking Fee
+
+-
+
+55,000.00
+
+30,250.00
+
+-
+
+
+
+85,250.00
+
+Garbage Fee
+
+4,970.00
+
+25,225.00
+
+6,010.00
+
+-
+
+
+
+36,205.00
+
+Rental
+
+256,630.40
+
+1,553,366.11
+
+2,709,073.33
+
+3,599,284.54
+
+8,118,354.38
+
+TOTAL
+
+2,842,758.83
+
+9,923,674.48
+
+2,955,061.06
+
+11,980,734.10
+
+27,612,228.47
+
+
+
+	6)	The accumulation of balances may be attributed to leniency/laxity in the enforcement of policy on the collection of receivables. It was revealed during the interview with Management that the following contributed in the delayed collection of accounts:
+
+
+
+a)	For delinquent accounts, the Command failed to immediately collect because demand letters were returned. The addresses indicated in the SEC and DTI registrations on-file are not the updated addresses of the delinquent accounts. The Command is currently in the process of requesting updated addresses to aforementioned agencies and if the said concessionaires are still operational;
+
+
+
+b)	Checks were not immediately processed by the concessionaires because of lack/ limited manpower due to current pandemic;
+
+
+
+c)	Some concessionaires are paying light and water consumption on a quarterly basis instead of monthly as required in the revocable permit/contract of lease; and
+
+
+
+d)	In connection to receivables from retired personnel, demand letters were returned because the addresses in Personnel Management System were not updated. The Command is currently in the process of inquiring updated addresses from other agencies such as Philippine Veterans Affairs Office (PVAO).
+
+
+
+	7)	Furthermore, the Command failed to impose sanctions to occupants with back  accounts, such as cancellation of revocable permit/contract, imposition of interests and penalties and eviction of tenants/concessionaires. 
+
+
+
+	8)	It was also found that advance rental and deposit were not collected in Basa Air Base. Section 14 par. B of the standard lease contract requires that prior to moving in to the premises, an amount equivalent to three months rental shall be paid to Command, corresponding to one month advance rental and two months deposit. Upon checking the SL and upon confirmation with the Accounting Department (AD) and Base Facilities Management Office, this contract provision was not enforced in Basa Air Base (BAB). 
+
+
+
+	9)	As of CY 2020, PAF Basa Air Base has 29 active concessionaires. Interview with the BFMO personnel revealed that concessionaires can start operating in BAB even without payment of advance deposit. Only current month rental is billed to concessionaire, thereby disregarding an important provision of the lease contract.
+
+
+
+	10)	Receivables should be collected from concessionaires and tenants while active in order to prevent further accumulation of unpaid accounts. As to date, accounts totaling P9,990,529.89 or 93.50 percent of P10,684,529.31 are not collected within one month contrary to SOP No. 2012-03 dated June 18, 2012 and provisions of revocable permit issued by 520th ABW. Moreover, payment of advance deposit must be enforced to protect the interest of the government in case of the concessionaires’ failure to pay the monthly rental. It is a safety feature in the lease contract to ensure faithful compliance with all terms and conditions of the lease contract which shall be forfeited in the event of: (1) failure to perform any or all obligations, undertakings and performance commitments; and (2) pre-termination of lease agreement, thereby hedging possible losses in the event of non-payment.
+
+	11)	Further, Section 53(b), Chapter 19 of the GAM for NGAs, Volume I, states that:
+
+
+
+Liability/Revenue Adjustments. For accounting purposes, the cash received does not represent revenue until it has been earned. Thus, the recognition of revenue must be deferred until it is earned. Advance income collections are recognized by debiting Cash and crediting a liability account for unearned revenue. As unearned revenue is earned, an adjusting journal entry is made at the end of each period to transfer the appropriate amount from the liability account to revenue account. This adjustment reflects the fact that all or part of the entity’s obligation to its customers has been fulfilled and that revenue has been realized. 
+
+
+
+	12)	Review of Other Receivables SL in Clark Air Base also revealed negative balances in light, water and concessionaire rental accounts amounting to ₱949,462.67. Inquiry with the Head, 3rd Field Accounting Unit (FAU) disclosed that advance rentals and deposits including advance payments of light and water by housing occupants were recorded as credit to Other Receivables account instead of liability under the account Other Unearned Revenue.
+
+	
+
+	13)	The foregoing is not consistent with the accrual basis of accounting and Sections 11 and 53(b), Chapter 19 of the GAM for NGAs which resulted in the understatement of liabilities and the overstatement of revenues by ₱949,462.67 at year-end (Annex 4) .
+
+
+
+	14)	We recommended that Management:
+
+
+
+a)	strictly implement the Standard Operating Procedures (SOP) and provisions in the revocable permit/contract of lease in the settlement of accounts, collection of advance rentals and deposit and enforcement of collection of all current accounts to prevent from becoming past due;
+
+
+
+b)	submit to Audit Team copy of demand letters issued to delinquent concessionaires/occupants and actions undertaken to collect the long outstanding balances; and
+
+
+
+c)	prepare adjusting journal entries pertaining to advance receipt of revenues in accordance with accrual basis and Section 53(b), Chapter 19 of GAM.
+
+
+
+Management Comments and Actions
+
+
+
+	15)	The Wing through Bases Concessionaires Board approved Board Resolution Nr 2020-19 where prorated rentals shall be imposed for operational and non-operational concessionaires inside CJVAB and VABGC (except for two billboards: JKJ Media Services and Luneta Advertising Inc.) during the period of ECQ/GCQ and settlement of accounts shall be made after ECQ/GCQ is lifted without penalties.
+
+
+
+Wing has sent demand letters dated December 7, 2020, February 2, 2021 and April 16, 2021 and notices to all concessionaires with back accounts.
+
+
+
+This Wing already sent notices to all concessionaires with back accounts for CY 2021 through demand letters and other means of communication to remind them to settle their accountabilities in order to avoid its accumulation. 
+
+
+
+The negative balance was evaluated and verified individually per account. It was found that the negative balance is not only attributed to concessionaire's advance deposit deducted from Other Receivable account. Some are attributed to concessionaires paying their dues for a particular month but no bill was recognized, payment more than what was billed and posting of payment prior to the posting of the bill (late submission of the billing reports). A letter (3FAU-21-15 dated Mar 08, 2021) was already sent to BFMO for appropriate action. Corrective entries will be made as soon as documents needed are received.
+
+
+
+However, JEV-2020-02-000236, JEV-2020-03-000238, JEV-2020-03-000239 & JEV-2020-03-000240 amounting to P325,592.11, P69,869.33, P53,293.26, P310,390.91 respectively, were already drawn to reclassify advance deposits made by concessionaires for CY 2021.
+
+
+
+Auditor’s Rejoinder 
+
+
+
+Submit copies of demand letters to the respective Audit Teams for monitoring purposes. Moreover, ensure that the SOP for settlement of accounts is implemented to prevent accumulation of long outstanding accounts. In connection to adjusting entries made to correct accounts with negative balances, submit JEVs to Clark Air Base Audit Team for verification and ensure that proper monitoring is made to prevent its recurrence. 
+
+
+
+
+
+Unreconciled Balance Between Agency and PS-DBM Records
+
+
+
+4)	The balance of Due from National Government Agencies account of P20.39 million as of December 31, 2020 is unreliable due to discrepancy of P1.41 million between the balance of HPAF records of fund transfers and that of the Procurement Service – Department of Budget and Management (PS-DBM) caused by unrecorded deliveries and payments. Moreover, despite unserved Agency Procurement Requests (APRs) of P3.26 million, a total of P2.34 million was transferred during the year which resulted in the accumulation of funds lodged at the PS-DBM.
+
+
+
+	1)	GAM Volume III provides that Due from National Government Agencies account is used to record advances for purchase of goods/services as authorized by law, fund transfers to the NGAs for implementation of projects and other receivables from NGAs. Credit this account upon receipt of goods/services and liquidation of FTs/receivables. As of December 31, 2020, the balance of Due from NGAs under Regular Agency Fund is presented in Table 6. 
+
+
+
+
+
+Table 6 – Details of Due from NGAs Accounts
+
+Agency
+
+Amount
+
+Procurement Services – DBM 
+
+
+
+
+
+HPAF
+
+P 5,089,956.86
+
+
+
+CAB
+
+37,500.00
+
+
+
+FAB
+
+39,647.69
+
+
+
+CERAB
+
+60,150.00
+
+
+
+BASA AIR BASE
+
+63,000.00
+
+
+
+DAAB
+
+80,000.00
+
+P   5,370,254.55
+
+Government Arsenal – DND
+
+
+
+15,015,722.36
+
+T OT A L 
+
+
+
+P 20,385,976.91
+
+
+
+	2)	The following errors and deficiencies were noted during the audit:
+
+
+
+Unreconciled Balances between PAF and PS-DBM Records - P1,410,535.84
+
+
+
+	3)	Section 7.2 of COA Circular No. 2016-005 dated December 19, 2016 requires that the Accountant shall reconcile unliquidated fund transfers between the source and implementing government entities, prepare adjusting entries for the reconciling items noted and require liquidation of balances. 
+
+
+
+	4)	The Audit Team requested the latest balance and copies of SL of PS-DBM as of December 2020. Based on the confirmation reply and SOA submitted by PS-DBM,  it was noted that there was a difference of P1,410,535.84 between the records of HPAF and PS-DBM of fund transfers. Details of the difference are presented in Table 7 (Annex 5)
+
+
+
+Table 7-Details of Difference per PS-DBM and PAF Books
+
+Particulars
+
+Amount
+
+Balance per PAF Books, 12/29/20
+
+P 5,089,956.86
+
+Balance per PS-DBM SOA
+
+3,679,421.02
+
+Difference
+
+P 1,410,535.84
+
+Recapitulation:
+
+
+
+Difference in January 1, 2019 balance
+
+PAF, 1/1/19
+
+P13,841,166.89
+
+
+
+PS-DBM, 1/1/19
+
+14,572,911.25
+
+P   731,744.36
+
+Per PS-DBM Books
+
+
+
+
+
+Deliveries Not Recorded in PAF
+
+
+
+641,950.04
+
+Payments Not Recorded in PAF
+
+889,565.80
+
+
+
+Errors (Payment of TOWSOL recognized in CJVAB SL of PS-DBM)
+
+127,998.13
+
+(1,017,563.93)
+
+Per PAF Books
+
+
+
+
+
+Payments Not Recorded in PS-DBM
+
+
+
+(1,254,180.58)
+
+Deliveries Not Recorded in PS- DBM
+
+
+
+199,775.21
+
+Difference
+
+
+
+P1,410,535.84
+
+
+
+	5)	The Audit Team was not able to evaluate the difference between January 1, 2019 balances of PAF and PS-DBM books due to insufficient data in the SOA. Despite our previous year’s recommendation to conduct periodic reconciliation of the account, there is still unreconciled balance between the two records. Moreover, there were deliveries and payments in the SOA which were not recognized in HPAF books. Receipt and acceptance of items delivered by concerned officers should be duly reported to concerned Supply Accountable Officer (SAOs)/Property Officer of respective units. The accompanying Delivery Receipts duly signed by SAO/Property Officer should be forwarded to AFAC for proper accounting. Failure to report the received items exposes the Agency to possible misappropriation of items involved and affects the fair presentation of the financial statements. 
+
+
+
+	6)	Issues cited could have been easily been detected and corrected had AFAC and other concerned officials conducted close coordination and periodic reconciliation with PS-DBM and monitored deliveries against advance payments to PS-DBM.
+
+
+
+Additional Fund Transfers to PS-DBM Despite Unserved APRs - P2,339,533.31
+
+
+
+	7)	Executive Order No. 359 (1989) provides among others that:
+
+
+
+a)	The appropriation for the Annual Procurement Programs (APRs) of Agencies shall be identified in their annual Work and Financial Plan (WFP). Said WFP shall serve as basis of the DBM in the release of Agency’s quarterly allotments and monthly funding warrants. Agencies shall remit in advance to PS funds needed to service their requirements for supplies, materials and equipment as reflected in said WFP.
+
+
+
+	8)	During the year, CJVAB transferred to PS-DBM the amount of P2,339,533.31 for purchase of various common- use supplies and equipment increasing the amount transferred to P17,860,622.20. Out of total fund transferred, the Command reverted to BTr the amount of  P12,255,799.05 while items delivered by PS-DBM amounted to  P514,866.29, leaving a balance P5,089,958.86 as of December 31, 2020.
+
+
+
+	9)	Based on SL and aging of accounts provided by AFAC as of December 31, 2020, it was noted that there were procurements of common-use supplies and equipment between CYs 2015 to 2019 which remained undelivered as of December 31, 2020. Details are as follows: 
+
+
+
+Table 8 – Details of Undelivered Items From PS-DBM
+
+Agency Procurement Request No.
+
+Particulars
+
+Date Granted
+
+Balance as of Dece. 31, 2020
+
+Various APRs  
+
+ICIE, office supplies
+
+Apr - Jun 2015
+
+P        26,399.26 
+
+
+
+Office Supplies
+
+
+
+Apr - Nov 2016
+
+            2,364.80 
+
+
+
+
+
+Apr - Jun 2017
+
+           34,714.42 
+
+
+
+
+
+Jul - Dec 2017
+
+                  28.35 
+
+
+
+
+
+2018
+
+             2,069.96 
+
+NTD18-018112
+
+
+
+20-Dec-2018
+
+           11,508.60 
+
+PS17-02683
+
+
+
+20-Apr-2017
+
+         542,676.93 
+
+NTD18-005650
+
+
+
+14-Jun-2018
+
+          965,605.52 
+
+NTD-19-000858
+
+
+
+23-Jan-2019
+
+
+
+          29,889.21 
+
+NTD-19-002092
+
+
+
+
+
+            7,385.24 
+
+NTD-19-000860
+
+
+
+
+
+           93,603.50 
+
+NTD 19-008800
+
+
+
+14-May-2019
+
+             1,479.61 
+
+NTD19-015324-(CSE)
+
+
+
+31-Jul-2019
+
+      1,329,463.46 
+
+NTD19-016274
+
+
+
+26-Sep-2019
+
+            12,997.00 
+
+NTD19-016275
+
+
+
+10-Oct-2019
+
+           12,997.00 
+
+NTD19-017023
+
+
+
+30-Oct-2019
+
+           12,997.00 
+
+NTD19-016968
+
+
+
+8-Nov-2019
+
+         166,112.98 
+
+2019-10-02458
+
+
+
+16-Dec-2019
+
+            12,997.00 
+
+
+
+
+
+
+
+P   3,265,289.84
+
+
+
+	10)	According to Air Force Accounting Center (AFAC) personnel, said items were not delivered due to unavailability of items in the PS-DBM. Moreover, reconciliation of records between PAF and PS-DBM is on-going to determine whether balances of fund transferred will be reverted to the BTr. 
+
+
+
+	11)	Despite unserved APRs and low/delayed deliveries, the Command transferred additional funds during the year to PS-DBM totaling P2,339,533.31. The delayed/non-delivery of items deprived the Command of much needed supplies necessary to support its operational requirements. Moreover, due to delayed delivery of goods, there is possibility that the items may become obsolete or no longer necessary in the current needs of the Command. The Command should consider to demand the refund of unutilized funds for unserved APRs or apply fund balances for current procurement requests instead of transferring additional funds to PS-DBM.
+
+
+
+	12)	We recommended that Management:
+
+
+
+a)	direct the Air Force Accounting Center (AFAC) to coordinate with PS-DBM and investigate/identify reconciling items between the PAF and PS-DBM records, particularly the January 2019 balances and if necessary, draw appropriate JEVs to take up adjustment; 
+
+
+
+b)	direct the AFAC to call the attention of officers who received the items and require immediate submission of Delivery Receipts and other pertinent documents for proper accounting; and
+
+
+
+c)	require the PS-DBM to immediately served the undelivered items, otherwise,  request the refund of unutilized fund transfers or apply fund balances for current procurement requests. 
+
+
+
+Management Comments and Actions
+
+
+
+	13)	Out of the difference of ₱1,410,535.84, net adjustment amounted to ₱187,218.57 leaving a balance of ₱1,245,916.27 as of April 2021.
+
+
+
+AFAC also sent a letter to concerned PAF Units/Offices in February 2021 requesting their assistance to call the attention of concerned officers to submit original DRs and other pertinent documents for proper accounting.
+
+
+
+Units/Offices at CJVAB on 05 February 2021 require the PS-DBM to immediately served the undelivered items or if such items cannot be delivered, revert the fund transfers to BTr or apply the unutilized funds for current procurement requests. As per PAF Units/ Office at CJVAB, the balance from partially delivered APRs will be utilized. For the period January to March 2021, a total of ₱236,671.89 has been delivered and recorded. On April 15, 2021, AFAC sent a letter to Comptrollership Division of PS-DBM requesting the reversion of long outstanding excess payment/unutilized fund transfer totaling ₱1,585,367.84 to BTr.
+
+
+
+Unreconciled balance between Agency and PITC Records
+
+
+
+5)	The reliability and accuracy of the Due from Government Owned and/or Controlled Corporations account balance of ₱471.62 million as of December 31, 2020 cannot be ascertained due net difference of ₱386.44 million between the PAF and the Philippine International Trading Corporation (PITC) records of fund transfers. Moreover, residuals/fund balances from completed projects totaling ₱1.5 million were not returned by the latter (PITC) to the former (PAF) for subsequent remittance to the Bureau of the Treasury.
+
+
+
+	1)	Section 3.7 of COA Circular No. 2015-001 dated January 20, 2015 provides the following:
+
+
+
+3.7. For inter-agency Fund Transfer, the Head of the Accounting Unit of the Source Agency (SA) shall:
+
+
+
+a)	Confirm and reconcile the unliquidated balance of fund transfers with the recipient/Implementing Agency (IA) and effect adjustment, if warranted;
+
+
+
+b)	Based on the copy of the JEV for remittance of unused funds to the National Treasury furnished by the recipient/IA record the adjustment of receivable account by debiting “Accumulated Surplus/(Deficit)” and crediting the appropriate receivable account.
+
+
+
+	2)	The confirmation reply from Accounting Division, Philippine International Trading Corporation (PITC) relative to fund transfer of PAF showed a ledger balance of ₱85,179,401.67 as of December 31, 2020. Reconciliation between PAF and PITC records showed a net difference of ₱386,438,451.89 which can be attributed to the following:
+
+
+
+                     Table 9- Comparison of PAF and PITC records as of December 31, 2020
+
+Particulars
+
+Amount
+
+PAF book balance
+
+P471,617,853.56
+
+PITC’s ledger balance
+
+85,179,401.67
+
+Difference
+
+P386,438,451.89
+
+Breakdown:
+
+
+
+Payment to suppliers and service charges
+
+385,698,505.68
+
+Refund of Residuals
+
+757,439.31
+
+Interest Income
+
+(10,762.50)
+
+Collected liquidated damages
+
+(6,730.60)
+
+Total
+
+P386,438,451.89
+
+
+
+	3)	As required in COA Circular, the Head of the Accounting Unit shall confirm and reconcile unliquidated balance of fund transfers with the recipient/IA and effect adjustment, if warranted. Had AFAC timely confirmed, monitored and reconciled the balance of fund transfers, early detection of discrepancies could have been properly undertaken and adjusted accordingly, delivered supplies and equipment could have been properly accounted for and any unused cash balances could have been remitted to the BTr.
+
+
+
+	4)	We noted that the reconciling items are not yet reflected in the PAF books of accounts as of the reporting date which affects reliability and accuracy of Due from Government Owned and/or Controlled Corporations account.
+
+
+
+	5)	In addition, residuals/fund balances from completed projects totaling ₱1,493,620.54 (Annex 6) were not requested its refund by PITC for subsequent reversion to the BTr.
+
+
+
+	6)	Section 10 of GAA of 2020 on Reversion, Closure and Transfer of Special Accounts, Fiduciary or Trust Funds, Revolving Funds and Unauthorized Accounts, states that:
+
+
+
+Department, bureaus, offices and instrumentalities of the National Government, including Constitutional Offices enjoying fiscal autonomy and SUCs are mandated to close and revert all balances of Special Accounts, Fiduciary or Trust Funds, and Revolving Funds to the General Fund in any of the following instances: (i) when there is no legal basis for its creation; (ii) when their terms have expired; or (iii) when they are no longer necessary for the attainment of the purposes for which said funds were established.
+
+
+
+	7)	Considering that some of the projects have already been completed and were fully delivered to the Command, the residual balances should have been reverted to the BTr in conformity with the above-mentioned provision. 
+
+
+
+
+
+	8)	We recommended that Management:
+
+
+
+a)	direct the Air Force Accounting Center (AFAC) to reconcile unliquidated balance of the fund transfers with the Philippine International Trading Corporation (PITC) records; 
+
+
+
+b)	request the PITC to submit all documents relative to reconciling items in coordination with Office of the Assistant of Air Staff for Logistics (OA-4)  and PAFPC and make necessary adjustments in the books of accounts; and
+
+
+
+c)	determine the updated balance of residuals from completed projects and demand from PITC its refund for subsequent reversion to the BTr.
+
+
+
+Management Comments and Actions
+
+
+
+	9)	Out of the P386,438,451.89, the amount of P63,936,000.00 refers to items that were delivered on April 1, 2021 at 420th SW but not yet accepted as to date. The remaining balance will be liquidated in the PAF books of accounts upon receipt of supporting documents from PITC. On January 12, 2021, AFAC sent a letter to OA-4 requesting representation to PITC for the immediate submission of supporting documents for the unrecorded/reconciling items. 
+
+
+
+On April 16, 2021, AFAC sent a letter to PITC requesting for liquidating documents pertaining to completed projects totaling P439,911,441.29 as to date and request for the return of corresponding residuals/excess fund transfers totaling P1,488,230.21 in favor of the BTr.  Further, included in the request is the proof of return of residuals amounting to P757,439.31 as reflected in PITC’s SL as of November 30, 2020. The request for refund of residuals amounting to P757,439.31 shall be recorded in the PAF books of accounts upon receipt of Report of Collections and Deposits (RCD) from AFFC.
+
+
+
+Inaccurate Inventory Held for Consumption Accounts
+
+
+
+6)	The balance of Inventory Held for Consumption accounts totaling ₱2.868 billion as of December 31, 2020 was unreliable due to unreconciled discrepancy between accounting and property records amounting to ₱19.138 million which is attributable to: a) unrecorded issuances of inventories; b) unrecorded deliveries; and c) non-maintenance of Supplies Ledger Card (SLC) by the Accounting Division/Unit.  In addition, 410th MW failed to conduct physical count of inventory while five PAF units failed to submit the Report of Physical Count of Inventories (RPCI) contrary to pertinent provisions of GAM, Volume I. 
+
+
+
+	1)	Audit disclosed that the Inventory Held for Consumption accounts have a balance of ₱7,908,714,306.59 as of December 31, 2020. Details are as follows:
+
+
+
+
+
+
+
+
+
+Table 10 – Summary of Inventory Held for Consumption
+
+Account
+
+Amount
+
+Office Supplies Inventory
+
+P3,125,530.57
+
+Drugs and Medicines Inventory
+
+17,758,028.41
+
+Medical, Dental and Laboratory Supplies Inventory
+
+49,688,531.42
+
+Fuel, Oil and Lubricants Inventory
+
+384,690,155.97
+
+Military, Police and Traffic Supplies Inventory
+
+929,595,883.76
+
+Construction Materials Inventory
+
+4,095,145.86
+
+Other Supplies and Materials Inventory
+
+6,519,761,030.60
+
+TOTAL
+
+P7,908,714,306.59
+
+
+
+	2)	Out of the total amount, the account of HPAF amounted to ₱2,867,742,263.06 or 36.26 percent of the total inventories. However, the actual physical count of inventory reported in the Report on the Physical Count of Inventories (RPCIs) from various units in HPAF showed a balance of ₱2,848,604,486.30 or a net discrepancy of ₱19,137,776.76. Details of the recorded inventory balances are presented in Table 11. 
+
+
+
+Table 11 – Details of Inventory Held for Consumption accounts
+
+Inventory Account
+
+Amount per GL
+
+Amount per RPCI
+
+Discrepancy
+
+HPAF
+
+
+
+
+
+
+
+Office Supplies Inventory (OSI)
+
+₱       2,324,475.69
+
+₱     1,072,994.24
+
+₱   1,251,481.45
+
+Drugs and Medicines Inventory
+
+12,230,177.83
+
+-
+
+12,230,177.83
+
+Medical, Dental and Laboratory Supplies Invty.
+
+43,499,333.40
+
+21,424,248.00
+
+22,075,085.40
+
+Fuel, Oil and Lubricants Inventory
+
+349,991,631.03
+
+349,991,631.03
+
+-
+
+Military, Police and Traffic Supplies Invnty.
+
+715,421,073.64
+
+749,939,097.60
+
+(34,518,023.96)
+
+Construction Materials Inventory
+
+5,617,697.86
+
+434,946.00
+
+5,182,751.86
+
+Other Supplies and Materials Inventory
+
+1,738,657,873.61
+
+1,725,741,569.43
+
+12,916,304.18
+
+Total
+
+₱2,867,742,263.06
+
+₱2,848,604,486.30
+
+₱ 19,137,776.76
+
+
+
+	3)	The discrepancy between the accounting records and inventory records is attributable to the following:
+
+
+
+a)	Unrecorded issuances of inventories - ₱47,006,700.60
+
+
+
+	4)	Section 17.d, Chapter 8 of the GAM Volume I indicates that a Requisition and Issue Slip (RIS) shall be used by the end-user to request issue of supplies and materials that are carried on stock. Subsequently, Appendix 64 of the GAM Volume II provides that the Supply and/or Property Division/Unit shall prepare the RSMI to report/summarize all issues of inventories (by stock number) during the day. It shall be submitted to AFAC for consolidation and preparation of corresponding JEVs at the end of the month.
+
+
+
+	5)	Verification of submitted RPCI disclosed that the 520th Air Base Wing (ABW) and Headquarters Service Support Group (HSSG) have no balances in their report, however, comparison with subsidiary ledger showed the following inventory balances, as presented in Table 12. 
+
+
+
+Table 12 – Summary of Property Records Without Balances
+
+Inventory Account
+
+520th ABW
+
+HSSG
+
+Total Discrepancy
+
+
+
+GL
+
+RPCI
+
+Difference
+
+GL
+
+RPCI
+
+Difference
+
+
+
+Office Supplies Inventory 
+
+₱     155,179.15
+
+₱   -
+
+₱     155,179.15
+
+₱     834,361.30 
+
+₱  -
+
+₱     834,361.30 
+
+989,540.45
+
+Drugs and Medicines Inventory 
+
+4,419,483.04
+
+-
+
+4,419,483.04
+
+ 599,900.50 
+
+-
+
+ 599,900.50 
+
+5,019,383.54
+
+Medical, Dental and Laboratory Supplies Inventory 
+
+15,623,558.67
+
+-
+
+15,623,558.67
+
+-
+
+-
+
+-
+
+15,623,558.67
+
+Military, Police and Traffic Supplies Inventory 
+
+4,999,666.00
+
+-
+
+4,999,666.00
+
+1,066,668.00
+
+-
+
+1,066,668.00
+
+6,066,334.00
+
+Construction Materials Inventory 
+
+1,791,539.76
+
+-
+
+1,791,539.76
+
+1,370,050.00
+
+-
+
+1,370,050.00
+
+3,161,589.76
+
+Other Supplies and Materials Inventory 
+
+8,214,126.80
+
+-
+
+8,214,126.80
+
+7,932,167.38
+
+-
+
+7,932,167.38
+
+16,146,294.18
+
+Total
+
+₱35,203,553.42
+
+₱   -
+
+₱35,203,553.42
+
+₱11,803,147.18
+
+₱  -
+
+₱11,803,147.18
+
+₱47,006,700.60
+
+ 
+
+	6)	In addition, various clothing and ammunition inventories in 420th SW with balances in the accounting records were already fully-issued per property records as shown in Stock Cards submitted by PAFSAO.  Details are as follows:
+
+
+
+             Table 13 –Fully Issued Items in Property Records in Prior Years’ still recorded in Accounting Records
+
+
+
+Accounting Records
+
+Contract No.
+
+Receipt
+
+Issuances
+
+Adjustments
+
+Balance per Books
+
+Clothing
+
+
+
+
+
+
+
+
+
+
+
+PAFPC-CMB-14-172
+
+₱ 2,520,000.00
+
+ ₱ 1,921,500.00 
+
+₱ -   
+
+               ₱ 598,500.00 
+
+PAFPC-CMB-15-100
+
+2,550,400.00
+
+ 1,530,240.00 
+
+ -   
+
+             1,020,160.00 
+
+   Subtotal
+
+    10,201,661.04
+
+Ammunitions
+
+FMS/MLSR RP-US-01
+
+ 22,985,093.34
+
+ –
+
+ –
+
+ 22,985,093.34
+
+PAFPC-CMB-11-09
+
+12,166,964.69
+
+12,045,756.00
+
+1,351,885.31
+
+1,473,094.00
+
+PAFPC-CMB-14-159
+
+6,887,500.00
+
+6,807,458.00
+
+–
+
+80,042.00
+
+   Subtotal
+
+         24,538,229.34
+
+Total 
+
+₱           34,739,890.38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	7)	Verification of property records and confirmation with concerned SAOs revealed that these inventories were already issued. The discrepancy was due to non-submission of RIS and RSMI by SAOs on issued items as verified with AFAC. As required in GAM, both documents should be submitted by the end of the month in order to properly reflect actual balances of inventories during reporting period. Delayed submission of such documents affects fair presentation of the financial statements.  These unrecorded issuances resulted in the overstatement of the Military, Police and Traffic Supplies Inventory, and Accumulated Surplus/Deficit accounts by ₱34,739,890.38.
+
+
+
+b)	Unrecorded deliveries of military and other supplies - ₱17,963,615.10
+
+
+
+	8)	Section 32 further states that an asset shall be recognized in the financial position when and only when (a) it is probable that future economic benefits will flow to the entity; and (b) the asset has a cost or value that can be measured reliably. 
+
+
+
+	9)	Audit of accounting records vis-à-vis property records such as RPCI and Stock Cards revealed unrecorded deliveries and issuances in accounting records summarized in Table14 :
+
+
+
+Table 14 – Summary of Unrecorded Deliveries and Issuances in Accounting Records 
+
+
+
+Contract No.
+
+Particulars
+
+Deliveries
+
+Issuances
+
+Balance
+
+
+
+
+
+
+
+
+
+2017-2019
+
+2020
+
+
+
+a
+
+PAFPC-CDS-18-238
+
+PAF Gray Tactical Boots
+
+₱54,549,720.00
+
+₱47,528,280.00
+
+₱7,021,440.00
+
+₱–
+
+b
+
+FMSPI-B-UDA
+
+Ctg, 5.56 mm, Blank M193
+
+13,090,326.59
+
+–
+
+1,949,795.57
+
+11,140,531.02
+
+
+
+
+
+
+
+
+
+Ctg, 5.56 mm, M200, Blank/Linked
+
+2,570,239.60
+
+–
+
+833,265.52
+
+1,736,974.08
+
+
+
+
+
+Ctg, 7.62mm Ball
+
+1,372,727.20
+
+1,372,727.20
+
+–
+
+–
+
+c
+
+PAFPC-CDS-19-131
+
+Tires
+
+5,086,110.00
+
+–
+
+–
+
+5,086,110.00
+
+
+
+TOTAL
+
+₱76,669,123.39
+
+₱48,901,007.20
+
+₱9,804,501.09
+
+₱17,963,615.10
+
+
+
+BFD Global Footwear Manufacturing Inc.
+
+
+
+	10)	In CY 2019, BFD Global Footwear Manufacturing Inc., delivered various items under Military, Police and Traffic Supplies Inventory to the Command totaling ₱54,549,720.00. Analysis of RPCI revealed that all delivered inventories from the aforementioned supplier were already issued to respective units during CYs 2019 and 2020 amounting to ₱47,528,280.00, and ₱7,021,440.00, respectively. 
+
+
+
+	11)	It was noted that inventories remained unrecorded in the books of accounts as of report date. It has been the practice of the AFAC to recognize inventories only when the related Letter of Credit (LC) for payment of items are liquidated; hence, assets delivered by BFD Global Footwear Manufacturing Inc., under Contract No. PAFPC-CDS-18-238 was not recognized in the books because the LC remains unliquidated. 
+
+
+
+	12)	It should be noted however, that the LC for said contract can already be liquidated since documents for liquidation are already available, specifically the PAF Certificate of Acceptance and Delivery Receipts which were attached in the Notice of Receipt. This is in supplication to the fact that inventories were already received and subsequently issued to different units.
+
+
+
+Mutual Logistics Support Agreement (MLSA) and Foreign Military Sales (FMS)
+
+
+
+	13)	Additionally, audit revealed that various inventories procured through Foreign Military Sales (FMS) totaling ₱17,033,293.39 were already delivered to 420th SW in the prior years, but were not recognized as addition to Military, Police and Traffic Supplies Inventory. Further analysis of Stock Cards and RPCI revealed that out of the total deliveries, ₱4,155,788.29 worth of air ammunitions were already issued to respective units, leaving a balance of ₱12,877,505.10 as to date.
+
+
+
+	14)	Section 32, Chapter 2 of GAM Volume I prescribes the conditions wherein an asset is recognized. Having met the criteria and conditions for asset recognition of received and already issued inventories, it resulted in the misstatement of accounts involved and affected the fair presentation of the financial statements. Analysis of misstatements is presented in Table 15.
+
+
+
+S1 Artec Co. Ltd
+
+
+
+	15)	Review of Stock Cards and other inventory records of 420th SW for Supplies showed that the noted difference in Other Supplies and Materials Inventory pertains to procured tires located in stock depot under contract number PAFPC-CDS-19-131 amounting to P5,086,110.00. The stocks remained unrecorded in the books since SAO has not submitted the acceptance report and Delivery Receipts per verification made with AFAC.
+
+
+
+c)	Non-maintenance of Supplies Ledger Card by Accounting Division (AD)/Unit
+
+
+
+	16)	Section 17(c), Chapter 8 of the GAM for NGAs, Volume I, provides that:
+
+
+
+Supplies Ledger Card (SLC) (Appendix 57) – shall be used to record materials received, issued and the balance both in quantity and amount at any time. It shall be maintained by the Accounting Division/Unit for each kind of supplies and materials. The IAR, RIS, RSMI, PO and DR serve as the original sources of information for making entries on the card.
+
+
+
+	17)	The Management previously developed a system called PAF Integrated Logistics System (PAFILS) which aimed to streamline and centralize the process for controlling the flow and maintenance of Agency’s properties and inventories. One of the purposes of PAFILS was to generate the Supplies Ledger Cards as required in e-NGAS. However, as per Audit Team’s interview with AFAC, the system was not successfully implemented on inventory accounts of PAF, due to non-issuance of guidelines from A-4 on how these items will be recorded uniformly in the system. PAFILS will be discontinued and will be later replaced with another system called PAF Property and Inventory Management System (PAFPIMS).
+
+
+
+	18)	AFAC prepares the JEV and record in aggregate inventories delivered based on total amount of the contract price and AFAC has no monitoring of the actual inventory balance per item. This is in violation of Section 13, Chapter 8 of GAM for NGAs, Volume I which prescribes that an Inventory Accounting System should be in place which consists of systems of monitoring, controlling and recording of acquisition and disposal of inventory. Moreover, it was also observed that it is the SAOs who compute the cost of inventory issued. This is contrary to the provision of the GAM requiring the accountant to compute and fill-out said portion of RSMI. 
+
+
+
+	19)	In addition, other deficiencies pertaining to compliance to GAM were noted, as follows:
+
+
+
+Failure to submit Report of Physical Count of Inventory (RPCI)
+
+
+
+	20)	Paragraphs C and E of the Instructions of Appendix 66 (RPCI) of the GAM for NGAs, Volume II states that:
+
+
+
+C. The report shall be reconciled with the Subsidiary Ledger Cards (SLCs) and Stock Cards (SCs) maintained by the Accounting Division/Unit, and Property and/or Supply Division/Unit, respectively. Any discrepancy shall be verified and/or adjusted accordingly.
+
+
+
+E. The report shall be submitted to the COA Auditor concerned not later than July 31 and January 31 of each year for the first and second semesters, respectively.
+
+
+
+	21)	Five units of PAF failed to submit the aforementioned report to the Audit Team. The balances in the SL of PAF units without submitted RPCI are presented in Table 15:
+
+
+
+Table 15 – Summary of Units with Unsubmitted RPCI
+
+
+
+1301st Dental Dispensary
+
+AFGH
+
+AFFC
+
+AFSSG
+
+15th SW
+
+TOTAL
+
+Office Supplies Inventory
+
+P -
+
+P -
+
+P 242,337.44
+
+P 19,603.56
+
+P -
+
+P261,941.00
+
+Drugs and Medicines Inventory
+
+-
+
+7,210,794.29
+
+-
+
+-
+
+-
+
+7,210,794.29
+
+Medical, Dental and Laboratory Supplies Inventory
+
+2,961,445.88
+
+3,490,080.85
+
+-
+
+-
+
+-
+
+6,451,526.73
+
+Construction Materials Inventory
+
+-
+
+422,490.70
+
+-
+
+1,598,671.40
+
+-
+
+2,021,162.10
+
+Other Supplies and Materials Inventory
+
+1,856,120.00
+
+-
+
+
+
+-
+
+
+
+1,856,120.00
+
+Fuel, Oil and Lubricant
+
+-
+
+-
+
+-
+
+-
+
+15,546,441.13
+
+15,546,441.13
+
+TOTAL
+
+P 4,817,565.88
+
+P 11,123,365.84
+
+P 243,337.44
+
+P 1,618,274.96
+
+P 15,546,441.13
+
+P 33,347,985.25
+
+
+
+	22)	Verification with AFAC revealed that the said PAF units were able to conduct physical count of inventory. However, since the corresponding RPCIs were not submitted, the Audit Team cannot ascertain the accuracy of the recorded balance of inventories in the books since the balance of actual physical count of inventories (on hand) cannot be established. 
+
+
+
+	23)	We recommended that Management:
+
+
+
+a)	Direct the Air Force Accounting Center (AFAC) to:
+
+
+
+--	draw JEV/s to reflect the correct balance of affected accounts in the financial statements and exercise caution in recording transactions to ensure that the financial statements are fairly presented;
+
+--	reconcile records with 420thSW to determine additional errors and deficiencies not identified during the audit;
+
+--	prepare Supplies Ledger Card  on a per-item basis as required in the GAM;
+
+
+
+b)	instruct the concerned Unit Supply Accountable Officers (SAOs) to:
+
+
+
+--	regularly monitor the receipt and issuances of inventories under custody;
+
+--	submit the corresponding reports on time; and
+
+
+
+c)	require the Unit SAOs and AFAC to conduct periodic reconciliation of balances per books and per property records and take necessary actions on noted discrepancies and henceforth coordinate with Unit SAOs from time to time to identify if there are items delivered/issued not recorded in accounting/property records.
+
+
+
+Management Comments and Actions
+
+
+
+	24)	Out of the P47,006,700.60 unrecorded issuances, P1,952,639.80 has already been recorded as of March 2021 leaving a balance of P45,054,060.80. The remaining balance will be recorded upon receipt of RSMIs from 520th ABW and HSSG SAO.
+
+
+
+The PAF, not only for the purpose of complying to all (PAF-wide) inventory related audit observations, has created the PAFPIMS in a bid to improve the overall management of its properties. A system designed to account and monitor electronically movements of PPE and inventory supplies for each Unit including generation of corresponding records and reports in accordance with the forms provided under GAM for NGAS. Although this is a system created mainly for the SAOs, the Accounting Office is also a user due to its close involvement particularly in the accounting of changes and reconciliation of the PPE and inventory supplies. While the PPE module was prioritized and now in place, the inventory supplies module is currently being enhanced. 
+
+
+
+The Accounting Office is doing its best to closely monitor and coordinate all important matters related to the inventory supplies of every Unit even the absence or non-maintenance of SLCs, as the Office current manpower could not really afford to respond if done manually.
+
+
+
+However, with the advent of the PAFPIMS and once the module for inventory supplies materialized, not only the maintenance of SLCs that will be addressed but also the implementation of perpetual inventory system.
+
+
+
+AFAC is continuously coordinating with all the unit SAOs for the reconciliation of inventory balances. Further, immediate action shall be taken for any discrepancies identified. Henceforth, Unit SAOs are required to immediately inform the AFAC of items that were already delivered/issued and submit pertinent documents for proper recording in the books of accounts.
+
+
+
+Auditor’s Rejoinder
+
+
+
+SLC is an important tool to ensure that the Accounting Division of an Agency can monitor and verify balances of inventories procured and issued by Property Division and to determine the average price of inventories to be recorded in the books of accounts. In order to successfully implement PAFPIMS, the Audit Team opines that the Command should discuss with concerned units on how to standardize recording of supplies and inventories procured through issuance of a policy. Moreover, once PAFPIMS is implemented submit to Audit Team the walkthrough of the system and other pertinent documents for proper review to determine if the system to be implemented follows the standard practices and current policies of the Commission.
+
+
+
+Unrecorded Buildings and Structures
+
+
+
+7)	Buildings and Other Structures totaling ₱101.300 million located at PAF Basa Air Base were not recorded in the books of accounts due to lack of documentation as basis for recording contrary to Section 63 of PD 1445 and Section 3, Chapter 10 of the GAM, Volume I for NGAs; thus, understating the PPE and the related Accumulated Depreciation. 
+
+
+
+	1)	Section 63 of PD 1445 states that: Except as may otherwise be specifically provided by law or competent authority all moneys and property officially received by a public officer in any capacity or upon any occasion must be accounted for as government funds and property.  Government property shall be taken up in the books of the agency concerned at acquisition cost or an appraised value.
+
+	
+
+	2)	Section 3, Chapter 10 of the GAM, Volume I for NGAs provides the criteria for recognition of PPE:
+
+	
+
+a)		it is probable that the future economic benefits or service potential associated with the item will flow to the entity;
+
+b)		the cost or fair value of the item can be measured reliably;
+
+c)		beneficial ownership and control clearly rest with the government;
+
+d)		the asset is used to achieve government objectives; and
+
+e)		it meets the capitalization threshold of ₱15,000.00.
+
+	
+
+	3)	In addition, Section 5, Chapter 10 of the GAM, Volume I states that: PPE that qualifies for recognition as an asset shall be measured at cost. However, where the PPE is acquired through a non-exchange transaction, its cost shall be measured at its fair value (FV) as at the date of acquisition.
+
+	
+
+	4)	Verification and subsequent conduct of physical inspection of PPEs disclosed that newly constructed buildings and structures located in PAF Basa Air Base were still not recorded as of year-end, to wit:
+
+	
+
+	Table 16 – Unrecorded Structures and Buildings
+
+Project Title
+
+Construction Costs (in Pesos)
+
+Year Constructed
+
+Year Accepted
+
+Remarks
+
+Human Assistance and Disaster Resistance (HADR) Building
+
+₱ 77,000,000.00
+
+2019
+
+April 25, 2019
+
+Enhanced Defense Cooperation Agreement (EDCA)
+
+Command and Control (C2) Fusion Building
+
+21,650,000.00
+
+2019
+
+April 25, 2019
+
+EDCA
+
+Motorpool Maintenance Shed
+
+800,000.00
+
+2019
+
+October 10, 2019
+
+Donation
+
+Fitness Gym
+
+750,000.00
+
+2018
+
+May 21, 2018
+
+By-Administration Project
+
+Wellness Building
+
+1,100,000.00
+
+2019
+
+August 8, 2019
+
+Donation
+
+Total
+
+₱ 101,300,00.00
+
+
+
+
+
+
+
+	
+
+	5)	As verified, the above projects were already 100 percent complete during CYs 2018-2019 and these were already being utilized by the PAF Basa Air Base in their operations.
+
+	
+
+	6)	Further inquiry and verification revealed that the lack of documentation impeded the proper recording of said projects in the books.
+
+	
+
+	7)	It is worth noting that the Head of the 2nd FAU appropriately made repeated written requests for the submission of required documentation, however, the 5th Fighter Wing, particularly the Civil Engineer Staff Office (CESO) failed to provide the complete documents related to the projects. Results of verbal inquiries disclosed that the failure to secure pertinent documentation of projects implemented by other government agencies or entities was due to the frequent turnover of personnel in the CESO.
+
+	
+
+	8)	According to Management, there was no Deed of Donation executed to date for donated buildings and structures. Considering that the aforementioned buildings and structures have already been completed and accepted in CY 2018-2019, the conditions for recognition of PPE as stated under Section 3, Chapter 10 of the GAM Volume I for NGAs have been met.
+
+	
+
+	9)	We recommended and Management agreed to:
+
+
+
+		a)		coordinate with Air Force Accounting Center to clarify the appropriate accounting treatment of subject buildings and structures and for the issuance of specific guidelines and directives on the matter;
+
+	
+
+		b)		direct the Head of the Civil Engineer Staff Office, together with the respective Supply Accountable Officers (SAOs) of PAF Basa units to coordinate with the proponents or implementing units of the projects to secure pertinent documentation and submit the same to the Head of 2nd Field Accounting Unit for proper accounting and recording. Otherwise, seek the assistance of the Appraisal Unit of PAF for the immediate assessment as basis in recording the costs of buildings and other structures; and
+
+
+
+		c)		henceforth, ensure that complete documents are obtained from implementing units prior to completion of projects to facilitate accounting and recognition of projects completed.
+
+
+
+Management Comments and Actions
+
+
+
+	10)	The 2nd FAU already coordinated with AFAC and sent subject-to Letter dated  March 11, 2021 and attached a copy of audit observation with list of unrecorded Buildings and Other Structures. The Buildings and Other Structures under Enhanced Defense Cooperation Agreement (EDCA), by donations and by administration project will be recorded immediately by FAU upon submission of pertinent documents from the 5th FW SAO and will recognize the corresponding depreciation accordingly.
+
+
+
+For the HADR Building and C2 Fusion were already coordinated with JUSMAG and the documents pertaining thereto are already for pick-up. 
+
+
+
+For the FA-50PH Flight Simulator Building, coordination with OAFCE is on-going regarding the required documents. 
+
+
+
+For the Fitness Gym (by Admin), coordination with Municipal Assessor’s Office is on-going regarding the assessed value of the building. Further, the deed of donation of Wellness Building and Motor Pool Maintenance Shed are on process.
+
+
+
+
+
+Unrecorded RMC Fund/Utilization
+
+
+
+8)	Rebates earned from Petron Corporation and its utilization amounting to P442.938 million and P67.620 million, respectively, were not recorded in the books of the Agency contrary to Section 31, Chapter 2 of GAM, Volume 1; thus, affecting the fair presentation of the accounts in the financial statements. Furthermore, only 17 projects amounting to P67.620 million or equivalent to 17.33 percent of the rebates earmarked for construction and repair of Petroleum, Oil Lubricant (POL) facilities were completed as of December 31, 2020 due to lack of specific timelines of project implementation in the Contract of Agreement between the Department of National Defense and Petron Corporation. 
+
+
+
+	1)	The Repairs, Maintenance and Construction (RMC) Fund pertains to rebates or patronage discounts wherein the agency is entitled based on the MOA entered into by DND and Petron Corporation for the supply and delivery of DND-Wide Petroleum (Lot 1), Oil and Lubricants (Lot 2) and e-POL Card Requirements (Lot 3) Nationwide for CY 2015 to 2018.
+
+
+
+	2)	Section 31, Chapter 2 of GAM Volume 1, states that:
+
+
+
+Sec. 31. Key Features of Assets. The key features of an asset are
+
+a)	the benefits must be controlled by the entity;
+
+b)	the benefits must have arisen from a past event; and
+
+c)	future economic benefits or service potential must be expected to flow to the entity.
+
+
+
+	3)	The Agency has earned rebates totaling P442,938,300.32 based on the payments made for the period CY 2015 to 2019, as shown in Table 17. 
+
+
+
+                                 Table 17 – Payments Made and Rebates Earned from CY 2015-2019
+
+Lot No.
+
+Particulars
+
+Amount
+
+Percentage
+
+Rebates
+
+CY 2015-2016
+
+ 
+
+
+
+
+
+ 
+
+1
+
+Petroleum  
+
+P 1,084,288,753.00
+
+5.00
+
+P 54,214,437.65 
+
+2
+
+Oil & Lubricants 
+
+30,830,111.35
+
+None
+
+                          0.00   
+
+3
+
+e-Fol Card 
+
+68,142,857.03
+
+4.20
+
+            2,862,000.00 
+
+
+
+Sub-total 
+
+1,183,261,721.38
+
+
+
+     57,076,437.65 
+
+CY 2016-2017
+
+ 
+
+
+
+
+
+ 
+
+1
+
+Petroleum 
+
+1,507,819,224.53
+
+5.00
+
+     75,390,961.23 
+
+2
+
+Oil & Lubricants 
+
+27,820,890.11
+
+5.00
+
+       1,391,044.51 
+
+3
+
+ e-Fol Card  
+
+60,000,000.00
+
+6.50
+
+            3,900,000.00 
+
+
+
+Sub-total 
+
+1,595,640,114.64
+
+
+
+     80,682,005.73 
+
+Repeat Orders- CY 2016-2017
+
+
+
+
+
+ 
+
+1
+
+Petroleum  
+
+360,566,030.05
+
+5.00
+
+     18,028,301.50 
+
+2
+
+Oil & Lubricants  
+
+9,807,120.33
+
+5.00
+
+          490,356.02 
+
+3
+
+e-Fol Card  
+
+12,000,000.00
+
+6.50
+
+780,000.00 
+
+
+
+Sub-total 
+
+382,373,150.38
+
+
+
+     19,298,657.52 
+
+CY 2017-2018
+
+ 
+
+
+
+
+
+ 
+
+1
+
+Petroleum  
+
+1,792,407,178.27
+
+5.50
+
+     98,582,394.80 
+
+2
+
+Oil & Lubricants  
+
+33,024,517.69
+
+5.50
+
+       1,816,348.47 
+
+3
+
+e-Fol Card  
+
+72,000,000.00
+
+6.50
+
+   4,680,000.00 
+
+
+
+Sub-total 
+
+1,897,431,695.96
+
+
+
+   105,078,743.28 
+
+CY 2018
+
+
+
+
+
+
+
+
+
+1
+
+Petroleum  
+
+2,034,536,374.69
+
+5.50
+
+111,899,500.61
+
+2
+
+Oil & Lubricants 
+
+51,112,971.41
+
+5.50
+
+2,811,213.43
+
+3
+
+e-Fol Card 
+
+80,000,000.00
+
+5.50
+
+4,400,000.00
+
+
+
+Sub-total
+
+2,165,649,346.10
+
+
+
+119,110,714.04
+
+CY 2019
+
+
+
+
+
+
+
+
+
+1
+
+Petroleum  
+
+874,085,162.18
+
+6.50
+
+56,815,535.54
+
+2
+
+Oil & Lubricants 
+
+5,018,562.55
+
+6.50
+
+326,206.57
+
+3
+
+e-Fol Card 
+
+70,000,000.00
+
+6.50
+
+4,550,000.00
+
+
+
+Sub-total
+
+949,103,724.73
+
+
+
+61,691,742.11
+
+
+
+
+
+
+
+
+
+
+
+Total Rebates Earned
+
+P 442,938,300.32
+
+Less: Utilization
+
+67,619,961.69
+
+RMC Fund Balance
+
+P375,318,338.63
+
+
+
+	4)	Based on the above-cited provision of the GAM, the conditions for recognition of rebates as asset/receivables have been met since the approval of Program of Expenditures (POE) rests with the Head of the Procuring Entity (DND Secretary) and the utilization of RMC Fund will be for the benefit of the Agency. 
+
+
+
+	5)	The RMC Fund including recognition of projects completed and services (Annex 7) from utilization of fund were not recognized in PAF books of accounts which resulted in the understatement of Other Receivables, PPE, and Accumulated Surplus/Deficit (net of services i.e. repairs, rehabilitation of POL facilities) accounts amounting to P375,318,338.63, P67,619,961.69, and P442,938,300.32, respectively. This issue has been included in CY 2019 CAAR; however, as to date, the recommendation was not implemented. Failure to record the fund including the completed projects exposed the Agency to possible loss of assets due to lack of accountability and monitoring of the fund balance. 
+
+
+
+Lack of specific timelines of RMC projects
+
+
+
+	6)	The Special Conditions of Contract for the supply and delivery of DND-Wide POL Requirements between the DND (Procuring Entity) and Petron Corporation (Supplier) contained a provision, where the supplier shall, at its own expense, repair, maintain, rehabilitate and construct POL, facilities and procure additional POL equipment in accordance with POE duly approved by the HOPE equivalent to a certain percentage of the contract. This will form part of the procuring entity’s RMC Fund. 
+
+
+
+	7)	As to date, based on the status report provided by the Office of the ACofAS for Logistics, A-4, there are 45 RMC projects for implementation in CYs 2015 to 2018. Summarized in Table 18 is the completion rate of projects based on status report submitted by A-4:
+
+
+
+Table 18– Completion Rate of Projects 
+
+CY (a)
+
+Number of RMC Projects (b)
+
+Amount of Rebates (c) (PhP)
+
+Number of Completed RMC Projects (d)
+
+Amount of Completed Projects (e) (PhP)
+
+Completion Rate (f) (c/e)
+
+2015
+
+ 11
+
+56,451,900.81 
+
+ 10
+
+44,321,980.81 
+
+ 78.51%
+
+2016
+
+6
+
+99,980,763.25 
+
+3
+
+13,142,366.40
+
+13.14% 
+
+2017
+
+16
+
+104,912,228.22
+
+2
+
+4,393,178.67
+
+4.19%
+
+2018
+
+12
+
+128,774,748.68
+
+2
+
+5,762,435.81
+
+4.47%
+
+Total
+
+45
+
+390,119,720.96 
+
+ 17
+
+67,619,961.69 
+
+17.33%
+
+
+
+	8)	Based on the submitted report, it was noted that the completion rate of projects implemented were only 17.33 percent of the rebates earmarked for the purpose. The status of uncompleted projects planned per CYs 2015 and 2016 monitoring of POE is presented in the Table 19 below:
+
+
+
+Table 19 – Status of Uncompleted Projects
+
+Project
+
+Location
+
+Amount (in PhP)
+
+Status
+
+CY 2015
+
+ 
+
+ 
+
+ 
+
+Construction of new POL Dump
+
+710th SPOW, Col Ernesto Ravina Air Base, Capaz, Tarlac
+
+     12,130,000.00 
+
+Pre TIAC site inspection was conducted last August 2020. February 11, 2021 - Waiting for advice from end-user to coordinate schedule of transformer installation from TARELCO - Waiting for first product delivery
+
+ 
+
+ 
+
+ 12,130,000.00 
+
+ 
+
+
+
+CY 2016
+
+ 
+
+ 
+
+ 
+
+Construction of new POL Dump
+
+560th ABG, AMC, BGNEAB, Lapu-lapu City, Cebu
+
+        9,250,000.00 
+
+Remaining projects is for installation of fuel dispenser and finishing of structure - Estimated date of Completion - February 2021
+
+Construction of new FOL Storage Facilities two (2) 500 KL (AGT)
+
+5th FW, Basa Air Base, Pampanga
+
+      76,782,005.73 
+
+Ongoing 45 percent as of February 15, 2021 
+
+Construction of Gas Truck Shed
+
+520th ABW, CJVAB, Pasay City
+
+           806,391.12 
+
+Ongoing bidding by Petron Corp.
+
+ 
+
+ 
+
+86,838,396.85 
+
+ 
+
+CY 2017
+
+ 
+
+ 
+
+ 
+
+Automation of fuel dispensing pump at 520th ABW POL Dump
+
+520th ABW, CJVAB, Pasay City
+
+        3,961,005.50 
+
+Phase 1-100% Completed Phase 2 - 50% completed - waiting for the delivery of automation system
+
+Phase 2 of Construction of New Aviation Facility 2 (two) 500 KL from RMC Projects CY-2016 (lot 1 and 2)
+
+5th FW, Basa Air Base, Pampanga
+
+                20,445,300.27 
+
+Phase 1 - 45% completed EDC - within February 2021
+
+Asphalt Overlay of Aircraft Gassing-up area
+
+AETDC, FAB, Lipa City
+
+    19,124,869.18 
+
+Letter of implementation was forwarded to Petron to include the name of contractor
+
+Construction of new POL Dump (MFS 4Z, Pu,ps 2, Shed and Booth) (2) tank with (22 KL capacity per tank)
+
+530th ABW, Zamboanga
+
+        8,750,000.00 
+
+Bill of materials and expense (BOME) and cost estimate was forwarded to end user for concurrence dated October 16, 2020 - Awaiting concurrence from the end user on the cost estimate
+
+Construction of new POL Dump (MFS 4Z, Pu,ps 2, Shed and Booth) (2) tank with (22 KL capacity per tank)
+
+570th ABG, TOWWEST, Palawan
+
+                  8,750,000.00 
+
+Bill of Materials and Expense and Detailed Architectural and Engineering Plan (DAEP) was received from Petron Corporation, subject for validation of TWG for PAF POL RMC Projects
+
+Gas Truck (Capacity 24,000 KL) (AVPOL)
+
+15th SW, MDAAB, Cavite
+
+                15,471,621.00 
+
+For validation of TWG, ALC prior to the submission to OA-4 for implementation
+
+Gast Truck 20KL for RADAR (GPOL)
+
+
+
+Pasuquin, llocos
+
+        8,240,100.00 
+
+Updates from Petron Corp. - Petron Sales has endorsed to Procurement the acquisition of the items. For bidding.
+
+
+
+Lubang, Mindor
+
+        8,240,100.00 
+
+
+
+Procurement of JP8 Hose at 5th FW
+
+5th FW, BASA AIR BASE, Pampanga
+
+                  1,735,185.00 
+
+End user is requesting a Technician from Petron Corp. to physically inspect the JP8 Hose. Awaiting formal letter from the end user
+
+Rehabilitation and Upgrade of Fuel Dispensing Pump
+
+420th SW, Clark Air Base, Pampanga
+
+                  1,326,360.00 
+
+EDS on February 2021 due to reconciliation of RMC Fund generated, for reconciliation at Petron Sales and AD
+
+Payment on the Rental of Bridger Gas Truck (Phase 1)
+
+5th FW, BASA AIR BASE, Pampanga
+
+                  3,630,000.00 
+
+Awaiting approval for the amendment of POE for RMC CY 2017
+
+Proc. of Services for POL Transportation thru Sea Vessel
+
+583rd ACWG, Lubang Mindoro, 580th ACWW
+
+                     250,500.00 
+
+
+
+Extension of POL Dam
+
+TOG 9, Pulacan
+
+           435,000.00 
+
+On-going preparation of BOME and DAEP by Petron Corporation
+
+Const. of POL Shed at 102nd BDE Ipil
+
+TOG 9, Pulacan
+
+           159,008.60 
+
+On-going preparation of BOME and DAEP by Petron Corporation
+
+ 
+
+ 
+
+    100,519,049.55 
+
+ 
+
+CY 2018
+
+ 
+
+ 
+
+ 
+
+Const. of new POL Storage Facilities two (2) 500 KL (AGT) at ABASA AIR BASE, Palawan City (Ph. 1)
+
+570th ABG, TOWWEST, ABASA AIR BASE, Palawan City
+
+                75,228,842.48 
+
+Letter was approved by SND dated June 2, 2020. For schedule of reconciliation with Petron Corporation Sales Department re accumulated rebates
+
+
+
+Gas Truck, 24KL (AVPOL)
+
+420th SW, Clark Air Base, Pam.
+
+                13,065,110.00 
+
+
+
+Phase 2 from RMC Projects CY 2018 (Asphalt Overlay of Aircraft gassing up area to POL Dump)
+
+5th FW, BASA AIR BASE, Pampanga
+
+                11,158,068.96 
+
+
+
+Const. of new POL Storage Facility with one 37,850L (AGT)
+
+Pag-asa Island, Palawan
+
+                  8,750,000.00 
+
+
+
+Phase 2 from RMC Projects CY 2017 (Automation of Fuel Dispensing Pump to PAF POL Dump)
+
+PAF POL Dump
+
+                  5,779,143.55 
+
+
+
+Phase 2 from RMC Projects CY 2017 (Asphalt Overlay of Aircraft gassing up area)
+
+AETDC, Lipa City, Batangas
+
+                  1,322,592.88 
+
+
+
+Proposed Improvement of HALC POL Warehouse
+
+BLDNG Nr 9002-01 at AFC, CAB Mabalacat City, Pampanga
+
+                  1,351,000.00 
+
+
+
+Procurement of Solar Lights for POL Dump Perimeter 40 pcs (100 Watts)
+
+420th SW, Clark Air Base, Pampanga/600th ABG
+
+                     340,000.00 
+
+
+
+Provision for unscheduled maintenance requirements for POL
+
+PAF Wide
+
+                  1,617,555.00 
+
+
+
+Rental of Bridger
+
+Rental of Bridger
+
+        4,400,000.00 
+
+
+
+ 
+
+ 
+
+123,012,312.87 
+
+ 
+
+
+
+TOTAL
+
+    322,499,759.27 
+
+
+
+
+
+	9)	It can be observed from the above-table that 22 projects have not undergone construction by Petron and there are projects which are still undergoing bidding process or for approval by Petron. RMC projects pertaining to CY 2018 were only approved by the DND last June 2, 2020; hence, the belated implementation. The Contract Agreement between DND and Petron lack specific timelines and target dates of completion of RMC projects; thus, Management has not enforced its immediate implementation. Essentially, the Agreement should have definite timeline/ duration on when the projects should be completed which cannot be left at the discretion of Petron. 
+
+
+
+	10)	Due to lack of specific timelines, the Agency could not strictly enforce its timely implementation; thus, depriving the end-users of modern facilities to store and manage FOL inventories.
+
+
+
+
+
+	11)	We recommended that Management direct the:
+
+
+
+a)	Air Force Accounting Center to record the Repairs, Maintenance and Construction (RMC) fund balance including the equipment delivered/works completed as utilization of fund balance in accordance to the provisions of GAM; and
+
+
+
+b)	Office of the Assistant Chief of Air Staff for Logistics (OA-4) to coordinate with Petron Corporation for the immediate delivery of all undelivered equipment and/or completion of projects funded out of RMC Funds. Moreover, issue a supplemental Program of Expenditures indicating the specific and reasonable timelines for each project and furnish a copy to Petron Corporation for their compliance.
+
+
+
+Management Comments and Actions
+
+
+
+	12)	The Command through the AFAC, Air Logistics Command (ALC) and OA4, have coordinated with Petron for the reconciliation of RMC Funds and projects. Coordination among concerned units, including AFAC and A4, were made during a Video Teleconference held last December 17 and 22, 2020 to discuss the RMC fund balance and utilization. It was agreed upon that further coordination with Petron is needed to secure supporting documents and certifications for the recording of RMC funds. Since Petron as the Supplier has the responsibility to manage RMC funds prior to FY2019, it was discussed that Petron should be able to provide the certifications and documents to support said balances. AFAC issued a letter dated 18 February 2021, requesting the Air Logistics Command to have a close coordination with Petron regarding the certifications and documents for the reconciliation of PAF POL RMC Projects and balances. In addition, AFAC also sent an email dated 23 February 2021 requesting Petron to provide the needed certifications stating the actual amount of rebates per Contract year from 2015 to 2017. Further, ALC forwarded their letter to Petron reiterating their request for the Availability of the Updated Status of Completed PAF RMC Projects from 2015 to 2017 dated March 8, 2021. This is for AFAC to properly record the actual amount of rebates and corresponding amount of projects for liquidation.
+
+
+
+As of this date, the ALC is still awaiting for the written response and the submission of additional supporting documents from Petron of the completed projects for the recording of balances by AFAC.
+
+
+
+The Command and ALC conducts regular meeting with Petron every month to discuss the status of the implementation of RMC projects and to reconcile the remaining balances for CY-2015 and CY-2016. Also, the Command already directed NSD-RNEM Branch, Petron to provide timeline for each ongoing projects and copy of Scope of Work for the competed projects for monitoring purposes of the Technical Working Group (TWG) for RMC. 
+
+
+
+
+
+         Auditor’s Rejoinder
+
+
+
+The Command should facilitate and request immediate submission of supporting documents from Petron. Non-recording of accepted and completed projects affects the fair presentation of the financial statements due to misstatement of affected accounts. The Audit Team reiterates the recommendation to request a supplemental Program of Expenditures from Petron to address the issue regarding the implementation of projects. In connection to delayed project implementation due to COVID-19, request from Petron a catch-up plan to ensue implementation of projects within reasonable time frame.
+
+
+
+Dormant Advances to Contractors Balances 
+
+
+
+9)	The balance of Advances to Contractors account amounting to ₱378.236 million as of December 31, 2020 includes dormant balances totaling ₱0.991 million without supporting document thereby casting doubt on the validity of the account balance. 
+
+
+
+	1)	Section 6, Chapter 19 of the GAM Volume I provides that the entity should present information including accounting policies that is reliable, which means that the information is free from material error and bias and can be depended on by users to represent fairly that which it purports to represent or could reasonably be expected to represent.
+
+
+
+	2)	The Advances to Contractors account has a balance of ₱378,235,514.86 as of December 31, 2020, broken down in Table 20 below:
+
+
+
+Table 20 – Details of Advances to Contractors
+
+Fund Cluster
+
+Balance as of December 31, 2020
+
+Regular Agency Fund
+
+₱
+
+236,831,466.78 
+
+Internally-generated Fund
+
+
+
+95,692.22 
+
+Military Camp Sales Proceeds
+
+
+
+991,324.11
+
+Trust Fund
+
+
+
+140,317,031.75 
+
+Total
+
+₱
+
+378,235,514.86 
+
+
+
+	3)	Audit disclosed that the account includes SLs balances totaling ₱991,324.11 (under Trust Fund) which have been dormant since first adoption of the computerized accounting system (eNGAS) in 2005 as detailed in Table 21:
+
+
+
+Table 21 – Advances to Contractors Dormant SL Accounts
+
+SL Name
+
+Amount
+
+Alcyd Construction
+
+           ₱ 876,619.31 
+
+Danitech Power System
+
+            114,704.80 
+
+TOTAL
+
+₱ 991,324.11
+
+
+
+	4)	These balances were originally recorded under Advances to Contractors – Unreconciled Accounts in CY 2005. During the migration of accounting data from old eNGAS to eNGAS v.2.0 on CY 2014, AFAC recorded the unreconciled balance under the SL of the above-named supplier/contractor. Interview disclosed that there was no reconciliation done to verify existence and validity of the accounts. 
+
+
+
+	5)	Errors in the recording process could have been prevented if there is careful analysis and thorough review process to ensure proper accounts are used. Moreover, lack of documentation to support dormant accounts casted doubt on the validity of the Advances to Contractors account balance.                      
+
+	6)	We recommended that Management instruct the Chief Accountant to reconcile Subsidiary Ledger records and exert efforts to secure additional information and documents on dormant balances.
+
+
+
+Management Comments and Actions
+
+
+
+	7)	AFAC shall identify validity of remaining dormant accounts through coordination with concerned offices. Upon recognition whether said dormant accounts could still be collected or not, this Center shall draw upon necessary JEVs to adjust accounts. 
+
+
+
+Inaccurate balance of Due to NGAs Account
+
+
+
+10)	The balance of Due to NGAs account of ₱1.119 billion as of December 31, 2020 is overstated by a net amount of ₱4.340 million due to unremitted income to the Bureau of the Treasury arising from use of aircrafts for cloud seeding operations; thus affecting the fair presentation of the financial statements. 
+
+
+
+	1)	Section 15, Chapter 2 of the GAM for NGAs, Volume I states that: Financial Statements shall present fairly the financial position, financial performance and cash flow of an entity. Fair presentation requires faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue and expenses set out in IPSAS.
+
+
+
+	2)	In addition, one of the qualitative characteristics of financial reporting as provided in Appendix A of IPSAS 1 is the reliability of information wherein the report should be free from material error and bias, and can be depended on by users to represent faithfully what it purports to represent or could reasonably be expected to represent.
+
+
+
+	3)	Inter-Agency Transferred Funds is the cash or money transferred or sub-allotted by the Source Agency (SA) to which allotment was originally released in favor of Implementing Agency (IA) who will implement the project. The fund transferred by SA is taken up in the PAF books of accounts under the Due to NGAs account.
+
+
+
+	4)	As of December 31, 2020, the balance of Due to NGAs account amounted to ₱1,119,171,342.05. Details of the account per fund cluster are shown in Table 22:
+
+
+
+
+
+
+
+Table 22 - Due to NGAs account per Fund Cluster
+
+Fund Cluster
+
+Amount
+
+Regular Agency Fund (RAF)
+
+₱        1,027,001.86
+
+Trust Fund (TF)
+
+1,118,043,994.80
+
+Internally Generated Income (IGI)
+
+100,346.04
+
+Total
+
+₱ 1,119,171,342.05
+
+
+
+	5)	Paragraph 2 of the Special Provisions in the GAA FY 2020 under the appropriation of PAF budget provides the following:
+
+
+
+   2.    Trust Receipts from the Use of Equipment and Facilities. Fees and charges from the use of equipment and facilities collected by the Philippine Air Force shall be used to augment its operating requirements in accordance with Section 1 of E.O. No. 1002, s. 1985. Said amount shall be deposited with the National Treasury and recorded as trust receipts in accordance with E.O. No. 338, s. 1996. (Emphasis ours)
+
+
+
+	6)	Table 23 shows the list of Statement of Expenditures (SOE) prepared by AFAC for the use of PAF Aircraft by the Bureau of Soils and Water Management (BSWM) for the conduct of Cloud Seeding Operations (CSOps) indicating the total amount of operational cost incurred based on the Aircraft Operational Cost per Flight Hour and recorded flight time in compliance with the above-mentioned provisions.
+
+
+
+Table 23 -Summary of Statement of Expenditures for the conduct of CSOps
+
+SOA No.
+
+Period of CSOps / Location
+
+Aircraft Type
+
+Aircraft Operational Cost per Flight Hour*
+
+Recorded Flight Time**
+
+Total Computed Operational Cost (PhP)
+
+2019
+
+
+
+
+
+
+
+
+
+
+
+2020-03-0001
+
+April 9 - May 5, 2019/ Davao
+
+N-22 Tail Nr B12
+
+110,885.33
+
+14 hours and 12 mins
+
+1,574,572.68
+
+Subtotal
+
+1,574,572.68
+
+2020
+
+
+
+
+
+
+
+
+
+
+
+2020-04-0001
+
+March 7 - March 30, 2020/ Angat Dam Watershed and Reservoir, Norzagaray Bulacan
+
+LC-210 Tail Nr 227
+
+43,555.94
+
+6 hours and 27 mins
+
+280,935.81
+
+2020-05-0001
+
+April 25 - May 3, 2020/ NCR and Region 3
+
+N-22 Tail Nr C87
+
+114,008.40
+
+9 hours and 34 mins
+
+1,090,680.36
+
+2020-05-0002
+
+May 9- 12, 2020/ NCR and Region 3
+
+N-22 Tail Nr C87
+
+114,008.40
+
+4 hours and 39 mins
+
+530,139.06
+
+2020-07-0001
+
+July 17-22, 2020/ Region 2
+
+N-22 Tail Nr C87
+
+114,008.40
+
+5 hours and 48 mins
+
+661,248.72
+
+2020-08-0001
+
+July 23-25, 2020/ Region 2
+
+N-22 Tail Nr C87
+
+114,008.40
+
+1 hour and 47 mins
+
+203,314.98
+
+Subtotal
+
+2,766,318.93
+
+Total
+
+4,340,891.61
+
+*	Based on the computed Aircraft Operational Cost per Flight Hour CY 2019 and 2020 certified by ACofAS for Logistics, A-4
+
+**	Based on the attached After-Mission Report	
+
+
+
+	7)	The computed operational cost was not charged against the funds received during the period when the service was rendered resulting in the overstatement of Due to NGAs account with corresponding understatement of Income/Accumulated Surplus/Deficit account by ₱4,340,891.61. 
+
+
+
+	8)	Corollary thereto, the said amount is still deposited in the AGDB under the Trust Liabilities account maintained by the Command which should have been deposited to the BTr and recorded as Trust Receipts contrary to the special provisions of GAA FY 2020.
+
+
+
+	9)	In addition, Section III.B par. 2 of the same MOA requires that PAF shall provide an accurate accounting report per flight, quarterly and annually to BSWM for the cost of utilization of aircraft and purchase of supplies to be used in the conduct of cloud seeding operations and billeting and other incidental requirements of aircrew. Based on the confirmation received from BWSM, the fund balance remained at ₱8,300,000.00. Per inquiry with AFAC, the Report of Disbursement indicating the amount of funds utilized and liquidated was not yet submitted to BSWM as of this date; thus, precluding the SA to draw necessary adjustments in their books of accounts. 
+
+
+
+	10)	Tables 24 below show the summary of misstatements requiring adjustments and net effect of misstatements, respectively:
+
+
+
+Table 24 - Summary of Misstatements in PhP
+
+	Findings
+
+Trust Fund
+
+
+
+Accumulated Surplus
+
+Miscellaneous Income
+
+Due to NGAs
+
+Income accrued to the government remains unremitted to the BTr
+
+1,574,572.68
+
+2,766,318.93
+
+(4,340,891.61)
+
+Total
+
+1,574,572.68
+
+2,766,318.93
+
+(4,340,891.61)
+
+
+
+	11)	We recommended that Management direct the:
+
+
+
+a)	Air Force Finance Center  and Air Force Accounting Center to process the remittance of all earned income to the BTr; and
+
+
+
+b)	Air Force Accounting Center to draw necessary adjusting journal entries to record immediately all accrued income arising from the use of aircrafts for cloud seeding operations and the subsequent remittance of earned income to the BTr.
+
+
+
+Management Comments and Actions
+
+
+
+	12)	AFAC has already coordinated with AFFC for the preparation of necessary DVs in the remittance of interests to BTr. As to date, DVs for remittance of interest for non-appropriated funds has already been processed and awaiting Letter of Authority for fund transfer. 
+
+
+
+Unreliable Balance of Other Payables Account
+
+
+
+11)	The reliability and accuracy of Other Payables account balance of ₱29.796 million as of December 31, 2020 is doubtful due to existence of SLs with negative balances totaling ₱9.265 million contrary to Section 15, Chapter 2 of the GAM for NGAs Volume I. Additionally, outstanding payables totaling P2.775 million for more than two years remained unsettled contrary to Section 17, Chapter 7 of the GAM for NGAs Volume I.
+
+
+
+	1)	Section 15, Chapter 2 of the GAM for NGAs, Volume I states that the financial statements shall present fairly the financial position, financial performance and cash flow of an entity. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue and expenses set out in International Public Sector Accounting Standards (IPSAS).
+
+
+
+	2)	In addition, one of the qualitative characteristics of financial reporting as provided in Appendix A of IPSAS 1 is the reliability of information wherein the report should be free from material error and bias, and can be depended on by users to represent faithfully what it purports to represent or could reasonably be expected to represent.
+
+
+
+	3)	The Other Payables account is used to recognize the amount withheld from the salaries and commutation of leave credits of PAF military and civilian personnel representing monthly payments of loans and contributions in favor of different financial institutions, organizations, etc, withholding and remittances of service fees to PAF Provident Fund and AFP Housing Board. Likewise, this account is also used to recognize other liabilities not falling under any of the specific payable accounts.
+
+
+
+	4)	As of December 31, 2020, the balance of Other Payables amounted to P29,795,910.23. Out of the total amount, ₱29,589,736.15 equivalent to 99.30 percent pertained to Headquarters PAF. Details per fund cluster and aging of the account in HPAF are presented in Table 25. 
+
+
+
+Table 25 – Details per Fund Cluster and Aging of Other Payables Account as of December 31, 2020
+
+Fund Cluster
+
+Amount
+
+1-6 months
+
+6-12 months
+
+1-2 years
+
+more than 2 years
+
+RAF
+
+P27,293,654.34
+
+P15,768,912.62
+
+P5,921,741.79
+
+P2,837,830.18
+
+P2,765,169.75
+
+IGI
+
+9,880.00
+
+-
+
+
+
+
+
+9,880.00
+
+TF
+
+2,286,201.81
+
+2,286,201.81
+
+
+
+
+
+
+
+Total
+
+P29,589,736.15
+
+P18,055,114.43
+
+P5,921,741.79
+
+P2,837,830.18
+
+P2,775,049.75
+
+
+
+	5)	Audit disclosed that reliability and accuracy of the Other Payables account could not be relied upon in view of the following: 
+
+
+
+a)	Subsidiary ledger (SL) accounts with negative balances
+
+
+
+	6)	The Subsidiary Ledger (SL) is a book of final entry containing details or breakdown of the balance of the controlling account appearing in the General Ledger GL). The SLs of Other Payables account pertain to amounts withheld from salaries of PAF military and civilian personnel to be remitted to different financial institutions and organizations. The SL balance at the end of the reporting period should be free from material error, faithfully represent effects of transactions and does not have abnormal/negative balance as required by the aforementioned provision of the GAM.
+
+
+
+	7)	Evaluation of SLs disclosed that there were SL accounts with negative balances totaling ₱9,264,534.26. The aging of Other Payables account is presented in Table 26. 
+
+
+
+Table 26 – Aging of Other Payables Account with Negative Balances
+
+Aging
+
+Amount
+
+Less than 2 years
+
+₱2,011,744.53
+
+Two years or more
+
+7,252,789.73
+
+Total
+
+₱9,264,534.26
+
+
+
+	8)	It can be noted that the bulk of negative balances remained unreconciled for more than two years or equivalent to 78.29 percent of the total negative balance. Per inquiry, these negative balances were the result of erroneous journal entries using wrong SL accounts and the forwarded unreconciled negative balances from old e-NGAS. The length of time which the negative balances remained unreconciled implies laxity of offices concerned in reconciling the balances which casted doubt on the accuracy and reliability of the account as of the reporting date.
+
+
+
+b)	Outstanding payables for more than two (2) years
+
+
+
+	9)	Section 17, Chapter 7 of the GAM for NGAs, Volume I states that: An entity shall remove a financial liability (or part of financial liability from its statement of financial position when, and only when, it is extinguished, that is when the obligation specified in the contract is discharged, waived, or cancelled or expires.
+
+
+
+	10)	As stated in previous discussion, Other Payables account is recognized/credited in the books of accounts upon withholding the portion of salaries and commutation of leave credits for payment of monthly loan, dues and contributions to various duly accredited financial institutions. The account is debited upon remittance of withheld amount to financial institutions, organizations less services fees charged by the Agency for its services rendered as withholding agent. Based on evaluation and analysis of previous transactions, the withheld amount is usually remitted within the same month or in the subsequent month.
+
+		
+
+	11)	Table 27 shows that there were payables in HPAF in the total amount of ₱2,775,049.75 which remained outstanding for more than two years. Details of these outstanding payables are as follows:
+
+
+
+Table 27 – Details of Other Payables Still Outstanding for more than 2 years
+
+Particulars
+
+Amount
+
+Unremitted deductions from the salaries of PAF personnel to different FIs
+
+P545,650.75
+
+Stale Checks
+
+2,219,519.00
+
+For reconciliation- Forwarded balance from old e-NGAS
+
+9,880.00
+
+Total
+
+P2,775,049.75
+
+
+
+	12)	Per inquiry with AFAC, these outstanding payables were subjected to reconciliation during previous months; however, there were no adjustments/actions taken yet by concerned offices as of this date. Hence, the Audit Team cannot ascertain whether there are valid claims or if the obligation to remit the withheld amount is already extinguished.
+
+
+
+	13)	We recommended that Management direct the:
+
+
+
+a)	Air Force Finance Center and Air Force Accounting Center to coordinate with financial institutions in determining the correct balance of affected SL accounts and conduct an in-depth reconciliation on non-moving unreconciled negative balances and determine if there are still valid claims for payables which are outstanding for more than two years, otherwise, revert the same to the accumulated surplus/deficit account; and
+
+		
+
+b)	AFAC to draw a JEV taking up the items for adjustment as a result of reconciliation made to reflect the correct balance of Other Payables account.
+
+
+
+Management Comments and Actions
+
+
+
+	14)	A coordinating conference was held at AFFC conference room last November 06, 2020 wherein issues discussed include possible reasons of SLs with negative balances, actions to be taken and timeline for completion.
+
+
+
+AFAC and AFFC are currently gathering data and supporting documents needed to analyze prior years’ transactions. Adjustments will be made based on the result of reconciliation.
+
+
+
+Out of the negative balance of PhP9,264,534.26, PhP1,927,664.75 has been adjusted leaving a balance of PhP7,336,869.51 as of April 14, 2021.
+
+
+
+COMPLIANCE AUDIT
+
+
+
+Non-reversion of idle funds
+
+
+
+12)	Special fund totalling ₱30.020 million has been retained since CY 2017 and was not reverted to the Bureau of the Treasury contrary to EO No. 431 (2005) dated May 30, 2005, Permanent Committee JC No. 4-20-2012 and Section 6 of the General Provisions of the GAA, CY 2020.
+
+
+
+	1)	EO No. 431 (2005) dated May 30, 2005 directs the reversion of all dormant accounts, unnecessary special and trust funds to the GF and for other purposes. Also, it mandates the Permanent Committee (PC) to examine, look into and evaluate existing cash deposits of whatever nature, whether foreign or local currency, maintained outside of the BTr with AGDBs and other institutions by departments, bureaus and all other agencies of the NG.
+
+
+
+	2)	Section 3 of the PC JC No. 4-20-2012 defines the following terms:
+
+
+
+3.3 Unauthorized accounts are:
+
+
+
+--	cash balances maintained by agencies without specific authority or legal basis; or
+
+--	sums with specific authority but maintained with non-Authorized Government Depository Banks (AGDBs).
+
+
+
+3.4 Unnecessary special and trust funds refer to authorized special and trust funds maintained by government agencies	with AGDBs which are no longer necessary for attainment of purposes for which said funds were established (i.e. specific projects/programs), the implementation of which have been completed or abandoned. (Emphasis ours)
+
+
+
+	3)	Further, COA Cir. No. 2015-001 dated January 29, 2015 prescribes the guidelines and procedures in the reversion to the GF of all dormant cash, unauthorized accounts, unnecessary special and trust funds and related accounts, in conformity with Permanent Committee Joint Circular No. 4-20-2012 and EO 431 (2005).
+
+
+
+	4)	As of December 31, 2020, the Cash in Bank – Local Currency Current Account of PAF Clark Air Base amounted to ₱30,019,896.87 which is recorded under Regular Agency Fund – General Fund – New General Appropriations – Specific Budgets of NGAs.
+
+
+
+	5)	Review and verification of monthly BRS for the period covered January – December 2020 confirmed that the account has been inactive. The movement in the account balance was only attributed to the quarterly interest income. Reconciling items were immediately recognized in the books.
+
+
+
+	6)	It was gathered based on pertinent documents obtained from the Head of 3rd Field Accounting Unit (FAU) that the fund pertains to the 72-100 Reimbursable Fund (RF) which was managed by PAF – Supermart and maintained under 420th Supply Wing at PAF Clark Air Base.
+
+
+
+	7)	Further review of records disclosed that the fund was created for the 72-100 Reimbursable Fund (RF) of the AFP which was based on Section 604 of Act No. 2711 or the 1917 Revised Administrative Code of the Philippines dated March 10, 1917. It was operationalized by virtue of GHQ-AFP Circular No. 4 dated August 6, 1974 entitled “Management of 72-100 Reimbursable Fund and 72-100 Supplies”.
+
+
+
+	8)	72-100 RF is defined as reimbursable fund ceiling created by the President upon the recommendation of COA and the Secretary of National Defense (SND) which was fixed at ₱200 million, ₱19 million of which was allocated for PAF for the purchase of supplies and issuance to customer units. It was intended primarily to maintain an adequate inventory of supplies and materials for ready and timely logistical support to the activities of the different major services of  the AFP and as sufficient reserves for immediate stock mobilization in times of war and other disturbances. Essentially, the purpose of the RF is to facilitate procurement and distribution of supplies and materials for use of the PAF personnel and not for sale.
+
+
+
+	9)	Further inquiry with the Accountant and former RF Manager disclosed that the fund has been idle since CY 2017 due to discontinuance of operations of PAF Supermart. 
+
+
+
+	10)	Review and evaluation of relevant records concerning the creation of 72-100 RF and the eventual termination of operations of the PAF – Supermart which managed the same, disclosed the following:
+
+
+
+1.	The fund had no written authority from the Permanent Committee;
+
+2.	The purpose of the fund was already served due to the termination of PAF Supermart; and
+
+3.	The fund has been idle since CY 2017.
+
+
+
+	11)	Additionally, the Commander of 420th Supply Wing, PAF Clark Air Base informed that a letter dated October 16, 2020 to ALC was issued requesting a representation with Air Force Finance Center (AFFC) to effect the recommendation, facilitate the closure of the 72-100 RF Account at the LBP Clark Branch and subsequently deposit the remaining cash balance to the National Treasury in accordance with COA Circular No. 2015-001. However, said request was not yet facilitated to date. Another letter dated January 12, 2021 was sent to the Commander of Air Logistics Command.
+
+requesting for updates on the status of the request.  Corollary to the above, a letter dated December 09, 2020 from the Office of Assistant Chief of Air Staff for Logistics, (OA-4) informed that the request of the ALC for the deposit of the fund balance from 72-100 Revolving Fund account to the National Treasury Account 101 was returned by the Chief of Air Staff (CAS) with the following comments:
+
+
+
+	The termination of PAF Supermart Operations is based on another AOM 2. The created 72-100 RF was authorized within AFP regulation long before the so called Permanent Committee was created in 2015 and it was never abandoned. xxx
+
+
+
+	In this regard, request provide this Headquarters (Attn: OA-4/DPP) NLT 16 December 2020 recommended options for possible utilization of 30M from 72-100 RF account based on the guidance from the CAS.
+
+
+
+	12)	It was initially gathered that the ALC is requesting for the programming and procurement of various equipment for its proposed projects as part of its capability upgrade and enhancement chargeable to PAF 72-100 Reimbursable Fund.
+
+
+
+	13)	Section 6 of the General Provisions of the GAA of FY 2020 provides that the following shall be deposited with the National Treasury and recorded as trust receipts in accordance with EO 338, s 1996 as implemented by COA-DBM-DOF J.C. No. 1-97 dated January 2, 1997:
+
+
+
+a)	Receipts collected or received by departments, bureaus, offices, and instrumentalities of the National Government, including institutional Offices enjoying fiscal autonomy and SUCS: (a) non-tax sources such as insurance proceeds, acting as trustee, agent or administrator; (b) as guaranty for the fulfilment of an obligation; or (c) from donations authorized by law or contract with a term not exceeding one (1) year; and
+
+
+
+b)	Those classified by law or regulations as trust receipts.
+
+
+
+Trust receipts shall be disbursed in accordance with the purpose for which it is created, subject to the applicable special provisions and accounting and auditing rules and regulations.
+
+
+
+Disbursement or expenditures by agencies in violation of the above requirements shall be void and shall subject the erring officials and employees to disciplinary actions in accordance with Section 43, Chapter 5, and Section 80, Chapter 7, Book VI of E.O. No. 292 and to appropriate criminal action under existing penal laws.
+
+
+
+	14)	Based on the above, the utilization of the 72-100 RF shall be limited to the specific purpose for which it was created, that is to facilitate procurement and distribution of the supplies and materials for use of the PAF personnel.
+
+
+
+	15)	We recommended that Management remit the fund balance of 72-100 Reimbursable Fund to the National Treasury pursuant to EO No. 431 (2005) dated May 30, 2005 and Permanent Committee Joint Circular No. 4-20-2012. 
+
+
+
+Management Comments
+
+
+
+	16)	During presentation of Program Performance and Budget Execution Review for the 1st Quarter CY-2021 last April 13 2021, the OA-10 stated that the recommendation to deposit said fund to the PAF Trust Receipt is already at the Higher Headquarters en route for approval. Upon approval the 3rd FAU along with the 2nd BFSO will facilitate closure of the said bank account and transfer of funds to the PAF Trust Receipts Accounts 184. The Command endorsed the request of ALC Commander, which was concurred by A-4, to deposit the 72-100 RF fund balance to PAF BTr Account 184 and to utilize for PAF's high impact priority projects after securing a BTr Certification of Funds availability subject to Program and Budget Advisory Committee (PBAC) deliberation and Command's approval. 
+
+
+
+Auditor’s Rejoinder
+
+
+
+	17)	The Audit Team emphasized that the RF funds should be remitted to the National Treasury pursuant to the existing laws and regulations. 
+
+
+
+
+
+Low Delivery Rate of PITC
+
+
+
+13)	Funds transferred from CYs 2018-2019 to Philippine International Trading Corp. (PITC) amounting to ₱736.14 million for the procurement of supplies and equipment posted low delivery rate of 35.93 percent during the year; thus, depriving the Command of the immediate use of the items requisitioned. 
+
+
+
+	1)	Section 7.3.3 of the Revised IRR of R.A. 9184 states that in order to hasten project implementation, Procuring Entities which may not have the proficiency or capability to undertake a particular procurement, as determined by the HoPE concerned, may outsource the procurement tasks by:
+
+
+
+a)	Requesting other Government of the Philippines (GoP) agencies to undertake such procurement for them, through execution of a MOA containing specific arrangements, stipulations and covenants, in accordance with government budgeting, accounting and auditing rules;
+
+b)	Engaging private procurement agents to directly undertake the procurement for them, subject to the guidelines to be issued by the Government Procurement Policy Board (GPPB); or
+
+c)	Recruiting or engaging consultants to assist them directly and/or train their staff in the management of the procurement function.
+
+
+
+	2)	The funds transferred to PITC are taken up in the PAF books of accounts under the Due from GOCCs account and credited upon receipt of goods or services and/or liquidation of fund transfers.
+
+
+
+	3)	During CYs 2018 to 2019, the Command and PITC entered into various outsourcing requests with transferred funds amounting to ₱736,140,058.75. Of the total amount transferred, only 35.93 percent or ₱264,522,205.19 worth of supplies and equipment were delivered and recorded in the books of accounts as of December 31, 2020 leaving a balance of ₱471,617,853.56. Details are as follows: (Annex 6 for complete details)
+
+
+
+Table 28 – Status of Due from GOCCs as of December 31, 2020
+
+CY
+
+AOR Nr
+
+Delivery Period
+
+Fund Transfer
+
+Recorded Deliveries
+
+12/31/2020 Balance
+
+
+
+
+
+
+
+
+
+
+
+Undelivered
+
+Residual
+
+2018
+
+A4-DMA-17-12-01
+
+180 calendar days
+
+99,598,805.73
+
+(99,462,464.90)
+
+
+
+136,340.83
+
+
+
+
+
+
+
+93,489,471.50
+
+-
+
+93,489,471.50
+
+
+
+
+
+PAFPC 2018-7-002
+
+210 calendar days
+
+123,500,000.00
+
+-
+
+123,500,000.00
+
+
+
+
+
+PAFPC 2018-7-003
+
+210 calendar days
+
+93,500,000.00
+
+-
+
+93,500,000.00
+
+
+
+
+
+
+
+AOR was not submitted
+
+3,599,720.00
+
+(3,192,800.00)
+
+
+
+406,920.00
+
+
+
+
+
+
+
+1,500,000.00
+
+(1,497,600.00)
+
+
+
+2,400.00
+
+
+
+
+
+
+
+3,648,000.00
+
+(2,974,400.00)
+
+
+
+673,600.00
+
+
+
+
+
+AOR was not submitted
+
+3,230,000.00
+
+-
+
+3,230,000.00
+
+
+
+
+
+A4-DMS-18-12-01
+
+60 calendar days
+
+17,130,000.00
+
+(17,011,948.40)
+
+
+
+118,051.60
+
+
+
+
+
+
+
+38,090,000.00
+
+-
+
+38,090,000.00
+
+
+
+
+
+
+
+
+
+7,000,000.00
+
+-
+
+7,000,000.00
+
+
+
+
+
+
+
+
+
+8,413,800.00
+
+-
+
+8,413,800.00
+
+
+
+
+
+
+
+
+
+3,150,000.00
+
+-
+
+3,150,000.00
+
+
+
+
+
+
+
+
+
+2,250,000.00
+
+-
+
+2,250,000.00
+
+
+
+
+
+
+
+
+
+4,420,000.00
+
+-
+
+4,420,000.00
+
+
+
+
+
+A4-DMS-18-12-02
+
+60 calendar days
+
+12,872,500.00
+
+(12,804,480.00)
+
+
+
+68,020.00
+
+
+
+
+
+
+
+9,500,000.00
+
+(9,484,800.00)
+
+
+
+15,200.00
+
+
+
+
+
+
+
+1,241,500.00
+
+(1,236,820.00)
+
+
+
+4,680.00
+
+
+
+
+
+
+
+4,760,000.00
+
+(4,738,240.00)
+
+
+
+21,760.00
+
+
+
+
+
+
+
+6,482,500.00
+
+(6,451,671.20)
+
+
+
+30,828.80
+
+2019
+
+18-10-004
+
+270 calendar days
+
+46,552,800.00
+
+(46,548,215.44)
+
+
+
+4,584.56
+
+
+
+
+
+
+
+59,130,000.00
+
+(59,118,765.25)
+
+
+
+11,234.75
+
+
+
+
+
+
+
+12,264,000.00
+
+-
+
+12,264,000.00
+
+
+
+
+
+
+
+
+
+63,936,000.00
+
+-
+
+63,936,000.00
+
+
+
+
+
+A6-DPP19-2019
+
+45 calendar days
+
+302,585.04
+
+-
+
+302,585.04
+
+
+
+
+
+
+
+
+
+139,360.40
+
+-
+
+139,360.40
+
+
+
+
+
+
+
+AOR was not submitted
+
+
+
+521,175.20
+
+-
+
+521,175.20
+
+
+
+
+
+
+
+
+
+332,800.00
+
+-
+
+332,800.00
+
+
+
+
+
+
+
+
+
+780,000.00
+
+-
+
+780,000.00
+
+
+
+
+
+
+
+
+
+38,610.00
+
+-
+
+38,610.00
+
+
+
+
+
+
+
+
+
+168,480.00
+
+-
+
+168,480.00
+
+
+
+
+
+
+
+
+
+143,703.84
+
+-
+
+143,703.84
+
+
+
+
+
+
+
+
+
+1,206,400.00
+
+-
+
+1,206,400.00
+
+
+
+
+
+
+
+
+
+
+
+1,619,280.00
+
+
+
+
+
+-
+
+
+
+1,619,280.00
+
+
+
+
+
+
+
+AOR was not submitted
+
+2,867,400.00
+
+-
+
+2,867,400.00
+
+
+
+
+
+
+
+
+
+3,283,200.00
+
+-
+
+3,283,200.00
+
+
+
+
+
+
+
+
+
+3,048,192.00
+
+-
+
+3,048,192.00
+
+
+
+
+
+
+
+
+
+2,429,775.04
+
+-
+
+2,429,775.04
+
+
+
+Sub-Total
+
+736,140,058.75
+
+(264,522,205.19)
+
+470,124,233.02
+
+1,493,620.54
+
+Total
+
+736,140,058.75
+
+(264,522,205.19)
+
+471,617,853.56
+
+Percentage
+
+100.00%
+
+35.93%
+
+63.86%
+
+0.20%
+
+
+
+	4)	The low delivery rate of 35.93 percent and undelivered supplies and equipment defeat the intention of PAF to engage the services of PITC to facilitate the procurement process; thus, depriving the Command of the immediate use of items procured.
+
+
+
+	5)	In addition, Section 38.1 of the Revised IRR of R.A. 9184 provides that the procurement process from the opening of bids up to the award of contract shall not exceed three (3) months, or a shorter period to be determined by the procuring entity concerned. Had the PITC completed the said procurement process on or before the end of the first quarter of CY 2020, all projects should have been completed or on-going implementation as of December 2020, considering that the funds were transferred in 2018 and 2019. 
+
+
+
+	6)	Furthermore, GPPB Resolution No. 18-2007 dated May 31, 2007 and Revised IRR of RA 9184 V(5)(b) prescribes the conditions wherein a government agency may resort to procurement of goods from another agency. Among the conditions provided is that the servicing agency has the mandate to deliver the goods and services required to be procured or to undertake the infrastructure project or consultancy required by the procuring agency and that the Servicing Agency has the absorptive capacity to undertake the project.
+
+
+
+	7)	 As evidenced by poor performance of PITC, it can be inferred that it does not meet absorptive capacity requirement as required in R.A. 9184. If the services of the PITC were not undertaken, the Command can save on service fees charged equivalent to 1.75 to 2 percent of total contract cost. Based on PITC’s records, the Command has incurred a total service fees of ₱20,503,655.08 as of December 31, 2020. (Annex 6 )
+
+
+
+	8)	This observation has been raised in CY 2019 CAAR citing the delayed delivery of items outsourced from PITC. The audit team recommended that all concerned offices should coordinate with PITC to expedite the immediate delivery of procured items covered in AORs to enable the end-users to utilize the much-needed supplies and equipment, however, the audit recommendation remained partially complied as of reporting date. 
+
+
+
+	9)	We recommended that Management direct the Office of the Assistant Chief of Air Staff for Logistics (OA-4) and Philippine Air Force Procurement Center (PAFPC) to coordinate with PITC and demand the expedite immediate delivery of procured items covered in Agency Outsourcing Requests to enable the end-users to utilize the much-needed supplies and equipment, otherwise, request the refund of unspent advances and remit the same to the BTr.
+
+
+
+Management Comments and Actions 
+
+
+
+	10)	OA-4 is on continuous coordination with the PITC to expedite the delivery of remaining undelivered PAF projects.
+
+
+
+
+
+Low Fund Utilization of Inter-Agency Transfer Funds (IATF)
+
+
+
+14)	Inter-Agency Transferred Funds received from CYs 2014 to 2020 for the implementation of various projects totaling ₱1.248 billion posted low fund utilization rate of 10.16 percent due to: a) slow procurement process; and b) non-charging to the fund of operational cost incurred; thus depriving the intended end-users/beneficiaries of the economic benefits that may be derived from these projects. Moreover, the timeliness of project implementation cannot be determined due to non-submission of pertinent documents as required in COA Circular 2012-001 dated June 14, 2012.
+
+
+
+Low Fund Utilization Rate
+
+
+
+	1)	During CYs 2014-2020, the Command received funds from various national government agencies to implement projects totaling ₱1,248,130,072.84. Of the total amount received, only ₱126,786,078.04 were liquidated and ₱3,300,000.00 were returned to SA equivalent to 10.16 percent and 0.26 percent, respectively, leaving balance of ₱1,118,043,994.80, as of December 31, 2020. Table 29 below shows the schedule of utilization of inter-agency transferred funds as of December 31, 2020.
+
+
+
+Table 29- Schedule of Inter-Agency Transferred Funds as of December 31, 2020
+
+Source Agency/ Project
+
+Date of Fund Transfer
+
+Total Amount of Fund Transfer (PhP)
+
+Liquidation
+
+Refund of Unutilized Balance
+
+12/31/2020 Balance (PhP)
+
+Fund Utilization Rate
+
+Status
+
+AFPCES - Renovation of FAB C&X at AETDC, Lipa City
+
+1/12/2018
+
+9,000,000.00
+
+7,200,000.00
+
+1,800,000.00
+
+-
+
+100%
+
+Completed. Liquidation documents are not yet submitted
+
+PCSO - 1 unit tomography scanning machine (CT-Scan) for AFGH
+
+3/18/2019
+
+28,880,000.00
+
+28,880,000.00
+
+-
+
+-
+
+100%
+
+Completed; Delivered on July 5, 2019 within the deadline, With TIAC Report
+
+PCSO - 1 unit x-ray machine with dual tube
+
+3/18/2019
+
+19,440,000.00
+
+19,440,000.00
+
+-
+
+-
+
+100%
+
+Completed. Liquidation documents are not yet submitted
+
+PCSO - BASA AIR BASE Hospital - i unit x-ray machine with dual tube
+
+3/18/2019
+
+19,440,000.00
+
+19,440,000.00
+
+-
+
+-
+
+100 %
+
+
+
+GHQ- Tienda Para Sa MgaBayani
+
+11/20/2018
+
+2,500,000.00
+
+1,000,000.00
+
+1,500,000.00
+
+-
+
+100%
+
+Unexpended balance was returned to SA. Documents are not yet submitted
+
+GHQ- Extension of runway for the Vigan International Airport in Vigan City
+
+5/15/2019
+
+67,965,000.00
+
+11,704,992.24
+
+-
+
+56,260,007.76
+
+17.22%
+
+On-going; to be constructed by administration. The resolution justifying and recommending the change of mode of const/ procurement from public bidding to const. by admin. was not submitted.
+
+GHQ- E-Clip administrative and capacity building activities
+
+9/16/2019
+
+325,000.00
+
+1,716,100.00
+
+
+
+108,900.00
+
+94.03%
+
+
+
+
+
+On-going
+
+
+
+
+
+6/23/2020
+
+1,500,000.00
+
+
+
+
+
+
+
+
+
+
+
+DENR - Initial transfer to PAF for the use of PAF aircraft for aerial reconnaissance monitoring and evaluation
+
+3/28/2014; 7/24/2014
+
+73,700,000.00
+
+36,085,000.00
+
+-
+
+37,615,000.00
+
+48.96%
+
+
+
+DOTC - For the implementation of PAF Replication Project at Lumbia Airport Cagayan de Oro City
+
+3/15/2016
+
+1,000,000,000.00
+
+101,000.00
+
+-
+
+999,899,000.00
+
+0.01%
+
+On-going. Delayed procurement
+
+Bureau of Soils and Water Management (BSWM) - Conduct of Cloud seeding operations
+
+5/15/2018; 6/1/2018
+
+8,300,000.00
+
+1,218,985.80
+
+-
+
+7,081,014.20
+
+14.69%
+
+Total aircraft billings of ₱4,340,891.61 was not yet deducted from the fund balance for subsequent remittance to BTr; With overpayment on the reimbursement of travel allowances
+
+PCSO - 1 unit Ultrasound Machine with Tras V Probe, 2 units Cardiac Defibrillator and 1 unit Electrocardiograph for AFGH
+
+No documents submitted
+
+1,744,357.32
+
+-
+
+-
+
+1,744,357.32
+
+0.00%
+
+On-going
+
+PCSO - 1 unit Anesthesia Machine with Ventilator and 2 units Cardiac Defibrillator for BASA AIR BASE Hospital
+
+No documents submitted
+
+1,438,688.20
+
+-
+
+-
+
+1,438,688.20
+
+0.00%
+
+On-going
+
+PCSO - 2 units Cardiac Defibrillator, 1 unit Clinical Microscope, 1 unit Electrocardiograph, 1 infant incubator and 1 unit Operating Room for Air For
+
+No documents submitted
+
+2,172,027.32
+
+-
+
+-
+
+2,172,027.32
+
+0.00%
+
+On-going
+
+DOH - Procurement of Medical Equipment
+
+No documents submitted
+
+11,275,000.00
+
+-
+
+-
+
+11,275,000.00
+
+0.00%
+
+On-going
+
+Prov. Govt of Batangas- Sports Tournament/ Youth Sports Development Program; Youth Leadership Camp and/or; Campus Peace and Development Forum
+
+No documents submitted
+
+450,000.00
+
+-
+
+-
+
+450,000.00
+
+0.00%
+
+On-going
+
+Total
+
+
+
+1,248,130,072.84
+
+126,786,078.04
+
+3,300,000.00
+
+1,118,043,994.80
+
+
+
+
+
+Percentage
+
+
+
+100.00%
+
+10.16%
+
+0.26%
+
+89.58%
+
+
+
+
+
+
+
+	2)	The low fund utilization rate of 10.16 percent can be attributed to the following:
+
+
+
+a)	Slow Procurement Process - DOTC - PAF Replication Project at Lumbia Airport, Cagayan de Oro City 
+
+
+
+	3)	The bulk of unimplemented project pertained to fund transferred from DOTC for the implementation of PAF Replication Project at Lumbia Airport, Cagayan de Oro City amounting to ₱999,899,000.00 which is equivalent to 89.43 percent of the total outstanding balance of inter-agency transferred funds. The fund became idle for more than four years after the date of receipt due to the slow procurement process.
+
+
+
+	4)	On August 18, 2018, the Secretary of National Defense has issued a Memorandum to the Commanding General, PAF giving special authority to conduct public bidding for the procurement of Design and Build of the Site Development, Operational, and Operational Support Facilities of 15th Strike Wing in Lumbia Airport, Cagayan De Oro City.
+
+
+
+	5)	Table 30 shows the actual date of procurement activities conducted for the implementation of the project.
+
+
+
+Table 30 - Details of Procurement Activities Conducted
+
+Procurement Activity
+
+Date of Activity
+
+Maximum Calendar Days Allowed for Activity
+
+ No. of Days Conducted 
+
+Difference 
+
+Pre-Procurement Conference
+
+7/15/2019
+
+Whenever necessary
+
+
+
+ 
+
+Advertisement/Posting of Invitation to Bid (ITB)
+
+9/26/2019
+
+7.00
+
+                   -   
+
+ 
+
+Pre-Bid Conference
+
+10/4/2019
+
+Whenever necessary
+
+ 
+
+ 
+
+Deadline of Submission and Receipt of Bids/ Bid Opening
+
+11/8/2019
+
+65.00
+
+            43.00 
+
+     22.00 
+
+Bid Evaluation
+
+12/18/2019
+
+7.00
+
+            40.00 
+
+   (33.00)
+
+Post-Qualification
+
+1/27/2020
+
+45.00
+
+           40.00 
+
+       5.00 
+
+Approval of Resolution/ Issuance of Notice of Award
+
+3/4/2020
+
+15.00
+
+           37.00 
+
+   (22.00)
+
+Contract Preparation and Signing
+
+Undated
+
+10.00
+
+ 
+
+ 
+
+Approval of contract by higher authority
+
+
+
+if necessary
+
+ 
+
+ 
+
+Issuance of Notice to Proceed
+
+7/9/2020
+
+7.00
+
+          127.00 
+
+ (120.00)
+
+Total
+
+
+
+156.00
+
+          287.00 
+
+ 
+
+	
+
+	6)	As detailed in the table above, it took 287 calendar days from Invitation to Bid up to the issuance of Notice to Proceed contrary to maximum period allowed for the procurement of infrastructure projects from advertisement/posting of Invitation to Bid up to the issuance of Notice to Proceed of 156 calendar days as required in Annex C of the Revised IRR of the RA 9184. The prolonged completion of the project contributed to low fund utilization rate.
+
+
+
+	7)	Had the Command expedited the procurement process, the target completion date could have been earlier and the economic benefits that may be derived from the projects may be immediately enjoyed by intended recipient/beneficiary.
+
+
+
+b)	Non-charging of Operational Cost Incurred - BSWM 
+
+
+
+	8)	Section IV.C., paragraphs 2 and 4 of the MOA entered into by and between the Bureau of Soil and Water Management (BSWM) and the PAF provides that the incurred operational cost based on the Aircraft Operational Cost Per Flight Hour, and recorded flight time (from engine start to engine shutdown of all the aircraft utilized in the conduct of cloud seeding operations shall be charged or debited from the fund released by Bureau of Soils and Water Management (BSWM); and the PAF shall submit the Report of Disbursement based on the amount received, utilized and liquidated as duly certified by the Chief Accounting.
+
+
+
+	9)	In reference to previous observation, the non-charging/deduction of the aircraft operational cost incurred during the conduct of cloud seeding operations based on the Aircraft Operational Cost per Flight Hour and recorded flight time in the total amount of ₱4,340,891.61 resulted in the low fund utilization rate of 14.69 percent (Table 23 for complete details).
+
+
+
+	10)	As of this date, the Air Force Accounting Center and Air Force Finance Center failed to charge the total computed aircraft operational cost against the funds received during the period when the service was rendered. 
+
+
+
+Non-submission of documents as required in COA Circular 2012-001
+
+
+
+	11)	Paragraph 3.1.2 of COA Cir. 2012-001 dated June 14, 2012 requires the following documentary requirements for the implementation and liquidation of FTs:
+
+
+
+3.1.2 Implementation and Liquidation
+
+
+
+Implementing Agency:
+
+
+
+--	Necessary supporting documents depending on the nature of transactions
+
+--	Copy of MOA/Trust Agreement
+
+--	Copy of OR upon receipt of funds transferred
+
+--	Copy of OR issued by the Source Agency evidencing refund of unexpended/unutilized balance of fund transfer”
+
+
+
+	12)	The Audit Team was not able to assess the timeliness of the implementation of various projects due to incomplete submission of the documents summarized in Table 31.
+
+
+
+Table 31 – Summary of Unsubmitted Documents
+
+Source Agency/ Project
+
+Unsubmitted Documentary Requirements
+
+
+
+Receipt of Funds
+
+Utilization/ Return of Fund
+
+GHQ- Extension of runway for the Vigan International Airport in Vigan City
+
+Approved Detailed Engineering Plans, Technical Specifications and Program of Work and Approved Project Expenditures or Estimated Expenses issued by Source Agency.
+
+CY 2020 Report of Disbursements and Liquidation Reports (already recorded without the enumerated documents). Resolution justifying and recommending the change of mode of construction/ procurement from public bidding to construction by administration. 
+
+GHQ- E-Clip administrative and capacity building activities
+
+Copy of Approved Project Expenditures or Estimated Expenses issued by Source Agency.
+
+CY 2020 Report of Disbursements and Liquidation Reports (already recorded without the enumerated documents).
+
+DOTC - For the implementation of PAF Replication Project at Lumbia Airport Cagayan de Oro City
+
+Copy of Approved Program of Work and Approved Project Expenditures or Estimated Expenses issued by Source Agency.
+
+
+
+PCSO - 1 unit Ultrasound Machine with Tras V Probe, 2 units Cardiac Defibrillator and 1 unit Electrocardiograph for AFGH
+
+Copy of MOA and its attachments
+
+
+
+
+
+PCSO - 1 unit Anesthesia Machine with Ventilator and 2 units Cardiac Defibrillator for BASA AIR BASE Hospital
+
+
+
+
+
+PCSO - 2 units Cardiac Defibrillator, 1unit Clinical Microscope, 1 unit Electrocardiograph, 1 infant incubator and 1unit Operating Room for Air For City Hospital
+
+
+
+
+
+
+
+	13)	The aforementioned documents were not forwarded by implementing units of the Agency to AFAC;  thus, the same was not submitted to the  Audit Team for review. The Program of Work and Approved Project Expenditures are necessary in order for the Agency to determine whether the conducted activities are in line with the attainment of the objectives of the projects and to track the timeliness of the activities conducted.
+
+
+
+	14)	We recommended that Management direct the:
+
+
+
+a)	PAF Bid and Award Committee to explain the reason for the prolonged procurement process in  the implementation of PAF Replication Project at Lumbia Airport, Cagayan de Oro City and submit a copy of a resolution justifying and recommending the change of mode of construction/procurement for the extension of runway of the Vigan International Airport in Vigan City or any similar document from competent authority;
+
+
+
+b)	Office of the Assistant Chief of Air Staff for Logistics (OA-4) and Operations (OA-3), Philippine Air Force Procurement Center and all other concerned offices to submit deficient documents and updated status report of all outstanding inter-agency transferred funds; and
+
+
+
+c)	Air Force Accounting Center to submit, in coordination with other concerned offices, copy of MOA, official receipt issued by the Source Agency to support refund of unexpended/unutilized balance of fund transfer and acceptance documents such as Technical, Inspection and Acceptance Report, sales invoice and other allied documents for completed projects and prepare Report of Disbursements to be submitted to Source Agencies.
+
+
+
+Management Comments and Actions 
+
+
+
+	15)	The maximum period allowed for the procurement of infrastructure projects from advertisement/posting of ITB up to the approval of the Resolution recommending for issuance of NOA have been observed by the PAFBAC. The issuance of the NOA and the succeeding procurement activities were all within the purview and jurisdiction of the DND. Thus, PAFBAC recommends that the matter be elevated to DND, as it is the proper Office that can address the subject.
+
+
+
+A copy of OTCE Construction Directive Nr. 19GHQ015 dated 25 Sep 19 justifying and recommending the change of mode of construction/procurement for the extension of runway of the Vigan International Airport in Vigan City was forwarded to COA on 21 Apr 2021.
+
+
+
+AFAC shall consolidate and submit the necessary documents upon receipt of complete documents. Moreover, ROD for each SA will be prepared accordingly.
+
+
+
+Unrecouped Advance Payments from Terminated Contracts
+
+
+
+15)	Advance payments to various contractors totaling ₱9.023 million were not recouped/ recovered despite the termination of their respective contract contrary to Section 4, Annex E, of the Revised IRR of R.A 9184. Moreover, the validity of surety bonds pertaining to five contracts did not comply with the provisions of Insurance Commission Circular Letter No. 2018-47 dated September 13, 2018.
+
+
+
+	1)	Section 4, Annex E of the 2016 RIRR of R.A 9184 provides the following:
+
+
+
+1)	The procuring entity shall, upon a written request of the contractor which shall be submitted as a contract document, make an advance payment to the contractor in an amount not exceeding fifteen percent (15%) of the total contract price, to be made in lump sum or, at the most, two installments according to a schedule specified in the Instructions to Bidders and other relevant Tender Documents.
+
+2)	 xxx
+
+3)	The advance payment shall be repaid by the contractor by deducting fifteen percent (15%) from his periodic progress payments a percentage equal to the percentage of the total contract price used for the advance payment.
+
+
+
+	2)	Audit disclosed that various advance payments from CYs 2016 to 2019 totaling ₱9,023,096.70 were not recouped by the Command as of December 31, 2020 despite contract termination during CYs 2019 and 2020 and subsequent blacklisting in accordance with Annex I of the R.A 9184 which prescribes the guidelines for the termination of procurement contracts and the conditions and measures to enable government to protect its interests. Details are shown in Table 32:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 32: Details of Unrecouped Advance Payments/Mobilization Fees
+
+Contract No.
+
+Name of Contractor
+
+Project
+
+Contract Cost (PHP)
+
+Date of Notice of Decision and Blacklisting Order
+
+Reason for Termination
+
+Percentage of Work Performed
+
+Percentage of Work Paid
+
+Difference – Contractor Claim excluding Liquidated Damages and other possible deductions 
+
+Unrecouped Balance/ Percentage (PHP)
+
+A
+
+b
+
+c
+
+D
+
+e
+
+f
+
+g
+
+H
+
+i (g-h)
+
+j/(j/d)
+
+PAFPC-CDS-18-211
+
+Alvynna Trading and Construction
+
+Renovation of PAR 3 Hotel Building at FAB, Lipa City
+
+3,501,000
+
+April 16, 2020
+
+Failed to complete project with 25.73% negative slippage
+
+74.27
+
+50.00
+
+24.27
+
+
+
+262,575.00/ 7.50%
+
+PAFPC-CDS-17-261
+
+ARN Builders Inc.
+
+Construction of 2 Storey Concessionaires Building at BGBNEAB, Lapu-lapu City
+
+53,063,000
+
+April 2, 2019
+
+Failed to complete project with 64% negative slippage
+
+36.00
+
+30.00
+
+6.00
+
+
+
+5,571,615.00/ 10.50%
+
+PAFPC-CDS-16-131
+
+CVAP Construction
+
+Renovation of 220th AW Warehouse
+
+5,770,240.
+
+April 14, 2020
+
+Failed to complete project despite several time extensions with 19% negative slippage
+
+81.00
+
+80.00
+
+1.00
+
+
+
+173,107.20/   3%
+
+PAFPC-CDS-18-230
+
+Jo Builders
+
+Renovation of the Group Operations Center, Tog 9
+
+1,740,330
+
+March 19, 2020
+
+Abandoned the project with 56.31% negative slippage
+
+43.69
+
+-
+
+43.69
+
+
+
+261,049.50/ 15%
+
+PAFPC-CDS-18-231
+
+Jo Builders
+
+Repair and Renovation of BOQ-1 #9004-01 at EAAB
+
+4,115,000
+
+March 19, 2020
+
+Abandoned the project with 98.909% negative slippage
+
+1.091
+
+-
+
+1.091
+
+
+
+617,250.00/ 15%
+
+PAFPC-CDS-16-191
+
+San-Mar Trading and Construction
+
+Construction of Enlisted Personnel Quarters/ Barracks
+
+9,800,000.
+
+February 4, 2019
+
+Failed to complete the project within period stipulated with 45.56% negative slippage.
+
+54.44
+
+50.00
+
+4.44
+
+
+
+735,000.00/ 7.50 %
+
+PAFPC-CDS-17-300
+
+ARN Builders Inc.
+
+Construction of 2 Storey Concessionaires Building at BGBNEAB, Lapu-lapu City
+
+18,700,000
+
+April 2, 2019
+
+Failed to complete project with 21% negative slippage
+
+79.00
+
+50.00
+
+29.00
+
+
+
+1,402,500.00/ 7.50%
+
+
+
+TOTAL
+
+
+
+
+
+
+
+9,023,096.70
+
+
+
+	3)	Under normal circumstances, these advances are recouped through proportionate deduction in the periodic progress payments to the contractors. However, since the contracts were already terminated and the purpose for which these advance payments no longer exists, it is necessary to immediately recover the remaining unrecouped amount to prevent potential loss of government funds. 
+
+
+
+	4)	Inquiry revealed that it has been the practice of the Command to recover the remaining unrecouped advances upon final request of the contractor for payment of work accomplished prior to termination. Based on the above-table, there are contracts where the difference between the amount paid for performed work vis-à-vis the estimated claims of the contractor for remaining works performed is insufficient to cover the unrecouped advances; thereby casting doubt if the claim can still be recovered.
+
+
+
+	5)	However, this practice contravenes Section 6.1, Appendix 28 of the afore-cited RIRR which requires that such claim should be charged first to surety companies, as follows:
+
+
+
+1)	Once a bidder has been duly determined to have defaulted in the performance of its obligations as prescribed under Sections 27.1, 39.1and 62.2.3.1 of the IRR, the head of the procuring entity (HOPE), upon recommendation of the Bids and Awards Committee (BAC) or the Implementing Unit , shall forfeit the surety bond issued.
+
+
+
+2)	The procuring entity shall notify the bidder and the concerned surety company relative to the act/s committed by the bidder which would result to the forfeiture of the surety bond, and shall make a claim on the surety bond.
+
+
+
+	6)	Although recovery from the insuring/surety companies could take time and entail additional documentary requirements for Management to comply with, enforcement of the claim of the government against these bonds is necessary to recover the loss from such contract.
+
+
+
+	7)	Inasmuch as the advances made are no longer considered as Advances to Contractors, a receivable from the erring contractors must be set –up by reclassifying the Advances to Contractors to Other Receivables.  
+
+
+
+         Surety bond already expired
+
+
+
+	8)	Section 4.2 of Annex E of Revised IRR of R.A. 9184 states that the advance payment shall be made only upon submission to and acceptance by the procuring entity of an irrevocable standby letter of credit equivalent value from a commercial bank, a guarantee or a surety bond callable upon demand, issued by a surety or insurance company duly licensed by the insurance company and confirmed by the procuring entity.
+
+		
+
+	9)	Schedule IV of Insurance Commission Circular Letter No. 2018-47 dated September 13, 2018 prescribes that the advance payment bond should be in Surety Bond Form G (40). This form specify that the validity of the surety bond remains valid until the advance payment is fully recouped or liquidated during the period of completion of the project and its extension given by the obligee.
+
+
+
+	10)	It was noted during the contract review, that some of the contracts have surety bond which are already expired contrary to the provisions of the Insurance Commission Circular-Letter. Under the Surety Bond Form G (16), the liability of the surety company will expire after a specified period and it does not assume responsibility for any liability created after the specified date. Details are shown in Table 33. 
+
+
+
+                          Table 33: List of Contractors with Surety Bond not in the Prescribed Form
+
+Contract No.
+
+Name of Contractor
+
+Name of Insurance Company
+
+Expiration of Surety
+
+PAFPC-CDS-18-234
+
+GTH Builders and Developers
+
+Commonwealth Insurance Company
+
+June 11, 2020
+
+PAFPC-CDS-17-200
+
+SRN Construction
+
+
+
+September 9, 2018
+
+PAFPC-CDS-18-192
+
+Mecon Systems Service & Maintenance Products
+
+Milestone Guaranty and Assurance Corp.
+
+June 14, 2020
+
+PAFPC-CDS-18-180
+
+
+
+
+
+
+
+PAFPC-CDS-18-179
+
+
+
+
+
+
+
+
+
+	11)	While the above-enumerated contracts are still on-going, the posted surety bonds were already expired; thus, not in accordance with the prescribed form. The rationale of posting Surety Bond Form G (40) is to extend the claiming period to recover advance payment in case of contractors’ default. The acceptance of the incorrect form of bond exposed the Command to the risk that advance payment may not be recovered upon its expiration.
+
+
+
+	12)	We recommended that Management instruct the PAF Procurement Center to:
+
+
+
+a)	send demand letters to surety companies and erring contractors to recover unrecouped advance payments, otherwise, pursue legal actions against them to recover not only the unrecouped balance, but also, the legal interests that may accrue in favor of the Command due to the delay in recovery; and
+
+
+
+b)	ensure that the contractors posted surety bond in accordance with the existing regulations to protect the interest of the government.
+
+
+
+Management Comments and Actions 
+
+
+
+	13)	PAFPC already sent demand letters to concerned contractors. PAFPC shall coordinate with end-user to conduct inspection and submit the final accomplishment report for the computation of liquidated damages for the preparation of DV for the payment of remaining work accomplished. PAFPC also has conducted conference with OAFCE, end-users and contractors regarding the correct form of surety bond to be submitted to PAFPC prior to the release of 15 percent advance payment.
+
+
+
+
+
+
+
+Lapsed Retention Money Not Refunded to Suppliers/Contractors 
+
+
+
+16)	Retention money totaling ₱70.488 million was not refunded to suppliers/contractors even after the lapse of the warranty period or the issuance of Certificate of Acceptance contrary to Section 62, and 6.1, Annex E, of the Revised IRR of R.A 9184. Moreover, existence of dormant/unreconciled prior years’ security deposits amounting to ₱9.979 million casted doubt on the reliability and accuracy of the Guaranty/Security Deposits Payable account balance as of December 31, 2020.
+
+
+
+	1)	GAM Volume III prescribes the use of the Guaranty/Security Deposits Payable account to recognize the incurrence of liability arising from the receipt of cash or cash equivalents to guaranty (a) that the winning bidder shall enter into contract with the procuring entity; and (b) performance by the contractor of the terms of the contract. The account has a balance of ₱417,127,236.73 as of December 31, 2020, broken down as follows:
+
+                       
+
+Table 34 – Guaranty/Security Deposits Payable
+
+Fund
+
+Amount
+
+Regular
+
+P392,568,209.23
+
+Internally Generated Income
+
+1,073,934.25
+
+Trust
+
+23,485,093.25
+
+Total
+
+417,127,236.73
+
+
+
+	2)	In the audit of the account, we noted the following:
+
+
+
+Retention money beyond the retention period was not returned to respective suppliers - ₱70,487,935.03
+
+
+
+	3)	Retention money is withheld from payment to suppliers as warranty security, for a minimum period of three months for expendable supplies and minimum of one year for non-expendable supplies, to assure that defects on delivered supplies are corrected within the warranty period. As provided under Section 62 of the Revised IRR of R.A 9184 these amount should be released after the lapse of the warranty period provided that the goods supplied are free from patent and latent defects and all the conditions imposed under the contract have been fully met.
+
+
+
+	4)	Meanwhile, Section 6.1, Annex E of the same RIRR prescribes that progress payment made on infrastructure projects are subject to 10 percent retention money to cover for the uncorrected discovered defects and third party liabilities. This shall be due for release upon acceptance of the works or when irrevocable standby letters of credit, bank guarantee or surety bonds callable on demand was substituted for the retention money.
+
+
+
+	5)	We noted that retention money deducted from various suppliers totaling ₱70,487,935.03 was already beyond the retention period. The retention money remained recorded in the books and deposited in the PAF Retention account instead of returning the same to the respective suppliers, despite having no pending claims on warranty. Per analysis of SL accounts, the Audit Team gathered that the accounts were already in the books from less than one year to more than three years (Annex 8). 
+
+
+
+	6)	Interview revealed that the PAF Procurement Center (PAFPC) is still awaiting the letter-request from the respective contractors prior to the release of the said amount. The letter-request is not among the requirements prior to the release of retention money as stated in R.A. 9184 and its IRR. 
+
+
+
+Dormant and/or unreconciled prior years’ balance - ₱9,978,684.72
+
+
+
+	7)	Section 6, Chapter 19 of the GAM Volume I provides that the entity should present information including accounting policies that is reliable, which means that the information is free from material error and bias and can be depended on by the users to represent fairly that which it purports to represent or could reasonably be expected to represent.
+
+
+
+	8)	Review of the transactions revealed various unreconciled/dormant SL accounts totaling ₱9,978,684.72. Details are as follows:
+
+
+
+Table 35 – Dormant and Unreconciled Prior Years’ Balance
+
+SL Account Name
+
+Unreconciled / Dormant Balance
+
+Camec Jcb Corporation
+
+₱   665,000.00 
+
+Jeje Enterprises
+
+384,501.20 
+
+Mega Airlines Solutions Inc
+
+1,245,948.30 
+
+PDJ Integrated Construction
+
+4,630,254.76 
+
+Virlo Construction
+
+1,710,500.00 
+
+J Aricheta Mdse Services
+
+601,600.00 
+
+Bail Bonds Payable
+
+232,181.84 
+
+Mr Ric G. Santos
+
+218,800.00 
+
+Jacinto Ind'l Product
+
+47,177.80 
+
+Carmand Aviation Inc
+
+43,310.70 
+
+Mr Ignacio Pangan
+
+25,002.00 
+
+Manuel Cortez
+
+24,912.50 
+
+Maricel Co
+
+21,000.00 
+
+Raymund Jino
+
+20,000.00 
+
+Carlito Soliman
+
+18,800.00 
+
+Boragay Dalisay
+
+18,000.00 
+
+R N R M Ent
+
+11,500.00 
+
+Pastor Pantaleon
+
+8,588.89 
+
+Mil Air Ent
+
+7,500.00 
+
+Mr Lupo Bulansag
+
+7,200.00 
+
+Oliver Austria
+
+5,320.00 
+
+Ara Refrigeration & Gen Mdse
+
+5,300.00 
+
+Mr Dominador Despa
+
+5,200.00 
+
+EalalioMique
+
+4,700.00 
+
+Ara Ref & Airconditioning
+
+4,375.00 
+
+Dominador Despa
+
+4,250.00 
+
+Manuel Sombilon
+
+2,800.00 
+
+Cpt Reynaldo Taguiqui
+
+1,920.00 
+
+Reynaldo Taquigui
+
+1,540.00 
+
+Jose Mari Roa
+
+1,205.00 
+
+Hilario Escudero
+
+250.00 
+
+Nading Cruz
+
+30.00 
+
+Sole Solutions Ent Inc
+
+16.73 
+
+Total
+
+₱ 9,978,684.72
+
+
+
+	9)	These balances which have been outstanding for more than six years as of report date was due to the result of migration of data from old eNGAS to eNGAS v.2.0 in CY 2014. Lack of pertinent documents and data in the JEVs precluded the Audit Team to verify cause/s of dormant balances.
+
+
+
+	10)	We recommended that Management:
+
+
+
+a)	require the Philippine Air Force Procurement Center to initiate the release of the retention money to the respective suppliers and ensure that retention money is promptly returned to the supplier upon lapse of the retention period, provided that the delivered goods are free from patent and latent defects; and
+
+
+
+b)	direct the Air Force Accounting Center to conduct an extensive and thorough reconciliation and validation of security deposits. Make necessary adjustments to reflect the correct balance of the affected accounts in the financial statements.
+
+
+
+Management Comments and Actions 
+
+
+
+	11)	PAFPC will formally send letters to different suppliers to remind them to send their letter-requests for payment of their retention money, since PAFPC will only process the release of retention money upon the receipt of the letter request from suppliers. 
+
+
+
+PAFPC already process the retention money of the suppliers and contractors amounting to P72,985,309.58 out of P85,509,801.10 and was already paid to the concerned suppliers and contractors.
+
+
+
+AFAC is validating and preparing a monthly status report for Guaranty Security/Deposit Payable per SL Supplier since December 2020 to monitor the aging of retention money account and to avoid occurrence of dormant security deposit  payable.
+
+
+
+
+
+
+
+
+
+Delayed Submission of Reports
+
+
+
+17)	Management was not able to submit mandatory accounting/financial reports within the prescribed period despite lifting of Enhanced Community Quarantine (ECQ) contrary to the provisions of P.D. No. 1445 and the Government Accounting Manual for National Government Agencies; thus, prevented the timely conduct of audit and evaluation of financial accounts and transactions.
+
+
+
+	1)	Pursuant to Section 122 of PD 1445, the COA may, whenever deemed necessary in the exigency of the service and under regulations issued by it, require the agency heads, chief accountants, budget officers, cashiers, DOs, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla of personnel, and such other reports as may be necessary for the exercise of its functions. 
+
+
+
+	2)	COA promulgated the GAM for NGAs which requires submission of documents and financial reports to COA within the prescribed timeline to enable the timely conduct of post audit of transactions and periodic/annual evaluation on accuracy and completeness of balances reflected in the books. 
+
+
+
+	3)	Verification of records and documents received from Management revealed the significant number of days delayed in the submission of various accounting and budgetary reports and documents in comparison to the respective prescribed timelines as presented in the table below (Annex 9):
+
+
+
+Table 36 – Status of Submission of Mandatory Reports
+
+
+
+Report/Document
+
+Reference
+
+Deadline
+
+No of Days Delayed
+
+Remarks
+
+Monthly Trial Balances (TB), Financial Statements (FS) and Supporting Schedules (SS)
+
+Section 60(c), Chapter 19, GAM for NGAs Vol. I
+
+
+
+10th day after the end of the month
+
+
+
+
+
+
+
+23-53
+
+Submitted
+
+
+
+Quarterly TBs, FS and SS
+
+
+
+
+
+24
+
+
+
+Report of Collections and Deposits (RCD) with copies of Official Receipts (ORs)
+
+Section 59, Chapter 19 of GAM for NGAs Vol. I
+
+
+
+47-118
+
+
+
+Journal Entry Vouchers (JEV)
+
+
+
+
+
+3-39
+
+
+
+Bank Reconciliation Statements (BRS) 
+
+Section 7, Chapter 21 of GAM for NGAs Vol. I
+
+Within 20 days after receipt of the BS
+
+6-47
+
+
+
+Quarterly Physical Report of Operation (BAR No.1) Statement of Appropriations, Allotments, Obligations, Disbursements and Balances (FAR No. 1); Summary of Appropriations, Allotments, Obligations, Disbursements and Balances by Object of Expenditures (FAR No. 1-A); List of Allotments and Sub-allotments (FAR No. 1-B); Statement of Obligations, Disbursements, Liquidations and Balances for Inter-agency Fund Transfers (FAR No.1-C); Statement of Approved Budget, Utilizations, Disbursements and Balances for Off-Budgetary Funds (FAR No.2); Summary of Approved Budget, Utilizations, Disbursements and Balances by Object of Expenditures for Off-Budgetary Fund (FAR No. 2-A); Quarterly Report of Revenue and Other Receipts (FAR No. 5); Statement of Approved Budget, Utilizations, Disbursements and Balances for Trust Receipts (FAR No. 6)
+
+Section 14, Chapter 2 of the GAM for NGAs and Section 4.3 of COA-DBM Joint Circular No. 2019-1 dated January 1, 2019
+
+Within 30 days after the end of each quarter
+
+-
+
+
+
+Monthly Report of Disbursements (FAR No.4)
+
+Section 14, Chapter 2 of the GAM for NGAs and Section 4.3 of COA-DBM Joint Circular No. 2019-1 dated January 1, 2019
+
+On or before 10th day of the month following the last month of the covered reporting period
+
+-
+
+
+
+Copy of approved contracts and supporting documents
+
+Section 3.1.1 COA Circular No. 2019-001
+
+5 working days from execution of contract
+
+-
+
+
+
+Miscellaneous Operating and Service Income (MOSI) – Various accounting documents – ORs, DVs and JEVs
+
+Chapter 19 of GAM for NGAs Vol. I
+
+
+
+10th day after the end of each month
+
+
+
+-
+
+January to December 2020 accounting documents remained unsubmitted to the audit team.
+
+
+
+Provident Fund – Various accounting documents – ORs, DVs and JEVs
+
+
+
+
+
+-
+
+
+
+
+
+	4)	It was determined that the delayed/non-submission of accounting/financial reports was due to implementation of nationwide ECQ from March 17 to May 31, 2020; imposition of 30 day-lockdown inside the premises of CJVAB last July 28, 2020; lack of manpower due to adoption of skeletal workforce (SWF) arrangement for civilian employees in PAF. Nevertheless, with the resumption of government services albeit at a reduced capacity, it is necessary that the Audit Team to timely verify, review, monitor and audit the agency’s transactions in order to detect errors and deficiencies and to communicate corrective measure and other appropriate actions.
+
+
+
+	5)	As a consequence of the late submission, the audit of accounts and transactions could not be immediately undertaken leading to the delay in establishing validity, legality and correctness of transactions involved. Moreover, the late submission of reports hindered the Audit Team from communicating audit results on operations and financial conditions of the Agency on time to Management.
+
+
+
+	6)	The concerned officials are likewise reminded that failure to submit the required financial reports and supporting documents after the lapse of reasonable time from date of issuance of AOM will result to issuance of Notice of Suspension (NS) and, if warranted, may cause the suspension of salaries of erring officials pursuant to Section 122 of PD 1445.
+
+
+
+	7)	We recommended that Management strictly comply with the prescribed period of submission of financial reports and documents to the Office of the Auditor. 
+
+
+
+Gender and Development (GAD)
+
+	
+
+18)	The agency allocated ₱3.004 million or 11.49 percent of its total appropriations for gender responsive programs, projects and activities which are mainstreamed in the regular programs of the agency. 
+
+
+
+	1)	Section 31 of FY  2020 GAA on the programs and projects related to GAD states that:
+
+
+
+All agencies of the government shall formulate a Gender and Development Plan designed to address gender issues within their concerned sectors or mandate and implement the applicable provisions under R.A. No. 9710 or the Magna Carta of Women, Convention on the Elimination of All Forms of Discrimination Against Women, the Beijing Platform for Action, the Philippine Plan for Gender-Responsive Development (1995-2025) and the Philippine Development Plan (2017-2022).
+
+
+
+The GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five percent (5%) of their budgets. For this purpose, activities currently being undertaken by agencies which relate to GAD or those that contribute to poverty alleviation, economic empowerment especially of marginalized women, protection, promotion, and fulfillment of women’s human rights, and practice of gender-responsive governance are considered sufficient compliance with said requirement. Utilization of the GAD budget shall be evaluated based on the GAD performance indicators identified by said agencies.
+
+
+
+	2)	For the year 2020, the Agency has a total appropriations of ₱26,152,468,246.00, five percent of which amounting to ₱1,307,623,412.30, should have been allocated for GAD related activities. The agency has allocated ₱3,003,954,416.56 or 11.49 percent of the total appropriations (Annex 10). 
+
+
+
+	3)	The Management was able to implement 102 out of the 107 identified GAD related activities per 2020 Annual GAD Accomplishment Report. The increased number of activities in comparison to previous year pertain to conduct of online/ telecommunication conferences in various bases increasing the number of participants and bases which were able to attend/conduct GAD related activities.
+
+
+
+
+
+
+
+Programs/Projects for Senior Citizens (SCs) and Persons with Disability (PWD)
+
+
+
+19)	The Command allocated the total amount of ₱1.311 million for programs related to Senior Citizens and Persons with Disability.
+
+
+
+	1)	Section 32 of 2020 GAA on the programs and projects related to SCs and PWD states that:
+
+
+
+All agencies of the government shall formulate plans, programs and projects intended to address the concerns of senior citizens and persons with disability, insofar as it relates to their mandated functions, and integrate the same in their regular activities.
+
+
+
+Moreover, all government infrastructures and facilities shall provide architectural or structural features, designs or facilities that will reasonably enhance the mobility, safety and welfare of persons with disability pursuant to Batas Pambansa Blg. 344 and R.A. No. 7277, as amended.
+
+
+
+	2)	The PAF has allocated the total amount of ₱1,311,805.00, to wit:
+
+
+
+Table 37 – Allocated Amount for Programs related to Senior Citizens and Persons with Disability
+
+Base/Unit
+
+Amount Allocated
+
+205th Tactical Helicopter Wing (THW)
+
+P
+
+100,000.00
+
+Tactical Operations Wing Northern Luzon (TOWNOL)
+
+
+
+178,011.00
+
+Air Logistics Command (ALC)
+
+
+
+6,100.00
+
+410th Maintenance Wing 
+
+
+
+24,200.00
+
+Tactical Operations Wing West (TOWWEST)
+
+
+
+697,494.00
+
+Tactical Operations Wing Western Mindanao
+
+
+
+306,000.00
+
+T O T A L
+
+P
+
+1,311,805.00
+
+
+
+	3)	The different bases/units constructed specifically designed structures and conducted programs such as health care and outreach programs for the benefit and welfare of senior citizens and person with disability.
+
+
+
+Compliance with Tax Laws, GSIS, PAG-IBIG, PhilHealth
+
+
+
+20)	Out of P161.541 million balances of Due to BIR, Due to GSIS and Due to PhilHealth accounts as of December 31, 2020, the Command subsequently remitted P125.174 million, while the remaining balance of P36.367 million will be remitted in CY 2021.
+
+
+
+	1)	Shown in Table 38 are the balances of the following accounts as of December 31, 2020 and the subsequent remittance after year-end:
+
+
+
+Table 38 – Matrix of Due to BIR, GSIS, Pag-IBIG and Philhealth
+
+
+
+In PhP
+
+
+
+Account
+
+Balance as of December 31, 2020
+
+Remittance After Year-End
+
+Difference
+
+Remarks
+
+Due to BIR
+
+344,059,021.24
+
+327,859,221.15
+
+16,199,800.09
+
+The amount of ₱16,199,800.09 pertains to unremitted withholding tax in various bases which shall be remitted to BIR in CY 2021
+
+Due to GSIS
+
+964,715.22
+
+-
+
+964,715.22
+
+RA 8291 requires deduction of GSIS premiums from the salaries of all government employees and remittance thereof to the GSIS. The remaining balance pertains to unremitted contributions due to non-availability of Business Partner Number of various PAF personnel and cancelled contributions of AWOL personnel.
+
+Due to Pag-IBIG
+
+29,000.00
+
+-
+
+29,000.00
+
+The remaining balance is under reconciliation by AFAC and AFFC.
+
+Due to PhilHealth
+
+174,490.34
+
+-
+
+174,490.34
+
+
+
+Total
+
+161,540,732.04
+
+125,174,075.05
+
+36,366,656.99
+
+
+
+
+
+Insurance of PPE with the GSIS
+
+
+
+21)	The Command paid the amount of ₱4.155 million to the GSIS in CY 2020 for the insurance of PPEs of the Agency.
+
+
+
+	1)	The Command paid the amount of ₱4,155,150.59 to the GSIS in CY 2020 for the insurance of PPE located in the following bases/units:
+
+
+
+
+
+
+
+                       Table 39 - Details of Payment of Insurance to GSIS
+
+Unit
+
+Amount
+
+520th Air Base Wing
+
+P   1,274,482.60 
+
+Tactical Operations Wing Southern Luzon
+
+      14,653.76 
+
+5th Fighter Wing
+
+      472,429.00 
+
+Air Combat Command
+
+      192,043.40 
+
+710th Special Operations Wing
+
+      178,206.74 
+
+Tactical Operations Wing Central
+
+         79,900.21 
+
+355th Air Engineering Wing
+
+         70,738.75 
+
+Air Education Training and Doctrine Command
+
+      478,675.00 
+
+Tactical Operations Wing West
+
+      861,502.58 
+
+Air Mobility Command
+
+      374,487.56 
+
+Tactical Operations Wing Eastern Mindanao
+
+      158,030.99 
+
+TOTAL
+
+P 4,155,150.59 
+
+
+
+Status of Suspensions, Disallowances and Charges
+
+
+
+22)	Audit disallowances totaling ₱2.455 million remained unsettled as at year-end due to the failure of Management to strictly enforce settlement thereof, contrary to Sections 7.1.1 and 10.4 of COA Circular 2009-006 dated September 15, 2009.
+
+
+
+	1)	Section 7.1.1 of COA Circular No. 2009-006 dated September 15, 2009 provides among other that the head of the agency, who is primarily responsible for all government funds and property pertaining to his agency, shall ensure that: xxx; (b) the settlement of disallowances and charges is made within the prescribed period; (c) the requirements of transactions suspended in audit are complied with; xxx.
+
+
+
+	2)	Section 10.4 of the same circular also provides that the disallowance shall be settled within six months from receipt of the ND by the persons liable.
+
+
+
+	3)	The total unsettled disallowances as of December 31, 2020 amounted to ₱2,454,616.02. Details are as follows:
+
+
+
+             Table 40 – Status of NS/ND/NC
+
+Particulars
+
+Beginning Balance
+
+This Period
+
+Ending Balance
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of Disallowance
+
+3,311,939.99
+
+
+
+857,323.97
+
+2,454,616.02
+
+Notice of Charge
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+P3,311,939.99
+
+P         -
+
+P857,323.97
+
+P2,454,616.02
+
+
+
+	4)	The balance pertains to 1992 to 1994 disallowances due to overpricing. As of date, no status report was submitted.
+
+
+
+	5)	We recommended that Management enforce the settlement of the audit disallowance pursuant to the above-cited regulations.
+
+
+
+
+
+Audit of Yolanda Funds
+
+
+
+23)	The Command utilized the funds received from AFP-GHQ amounting to ₱0.524  million in CYs 2013 and 2014 intended for Humanitarian Assistance and Disaster Response (HADR) operations to various departments and LGUs affected by Typhoon Yolanda.
+
+
+
+	1)	The PAF provided logistical requirements andHumanitarian Assistance and Disaster Response (HADR) operations to various departments and LGUs affected by the Typhoon Yolanda last November 2013.
+
+
+
+	2)	In order to support the operations of the Command, funds were transferred from AFP-GHQ between CY 2013 and 2014 amounting to ₱524,355.25. The funds received from AFP-GHQ, was fully utilized and liquidated as of December 31, 2020. Details are shown in the following Table 41:
+
+
+
+Table 41 –Utilization of Typhoon Yolanda Funds
+
+Fund Received
+
+Liquidation
+
+Status/ Remarks
+
+LDDAP/ Check No./
+
+Date
+
+Amount 
+
+LR No./ Date
+
+Date Received by SA
+
+Amount 
+
+
+
+IATF-2013-0041/ 11/27/13
+
+₱300,000.00
+
+12/09/13
+
+9/26/14
+
+₱300,000.00
+
+
+
+IATF-2014-0002/
+
+3/17/14
+
+125,141.00
+
+12/14/14
+
+3/16/15
+
+125,141.00
+
+As per Reso. No. 2014-09 authorizing the release of the donations amounting to ₱3,085,455.60 which comprised of donations from the RSBS amounting to ₱99,214.25, the IATF, AFPMFO amounting to ₱125,141.40 and the 2-day Subsistence Allowance from PAF Military Personnel amounting to ₱2,861,100.00  
+
+IATF-2014-0014/
+
+10/14/14
+
+99,214.25
+
+12/14/14
+
+3/16/15
+
+99,214.25
+
+
+
+     Total
+
+₱524,355.25
+
+
+
+
+
+₱524,355.25
+
+
+
+
+
+	3)	There are no significant findings noted in the audit of utilization of Yolanda funds.
+
+
+
+
+
+
+
+
+
+
+
+Audit of Marawi Funds
+
+
+
+24)	Out of P2.039 million received from Special Allotment Release Orders (SAROs) issued by DBM and funds transferred by Philippine Army, the Command utilized P2.038 million to support its operations during Marawi Siege. 
+
+
+
+	1)	The role of the PAF during the Marawi Siege is to be the aerial warfare service branch of the AFP that provide close air support against Maute Group. 
+
+
+
+	2)	In line with this, the DBM issued SAROs amounting to P2,039,040,527.00 during CYs 2017 and 2018 to support the procurement of air munitions, special munitions, and projected aircraft requirements and to replenish supplies expended during combat operations in Marawi City. Furthermore, an additional inter-agency fund was received from the PA to be utilized for payment of foreign incentives to two female PAF personnel deployed during the encounter in Marawi City. The details of fund received and utilization thereof are shown in Table 42 below:
+
+
+
+Table 42 – Summary of Marawi Funds Received and Utilization
+
+Purpose
+
+Ref No./
+
+Date
+
+Amount
+
+Utilization
+
+Amount Reverted
+
+Balance
+
+Status
+
+Special Allotment Release Orders
+
+Funds to cover the procurement of air munitions
+
+BMB-D-17-0010323/
+
+12-Jul-17
+
+267,888,300.00
+
+267,888,300.00
+
+
+
+-
+
+Fully Utilized
+
+ Funds to cover the procurement of special munitions
+
+-BMB-D-17-0011782/
+
+3-Aug-17
+
+317,077,200.00
+
+317,077,200.00
+
+
+
+-
+
+Fully Utilized
+
+ Funds to cover the procurement of ammunitions
+
+BMB-D-17-0016981/3-11-Oct-17
+
+257,210,191.00
+
+257,210,190.68
+
+
+
+0.32
+
+Fully Utilized
+
+ Additional funds to address the projected aircraft requirements
+
+BMB-D-17-0016978/
+
+11-Oct-17
+
+430,231,020.00
+
+430,226,020.00
+
+5,000.00
+
+-
+
+
+
+
+
+Fully Utilized
+
+Funds to cover the replenishment of ammunitions and other operational requirements pursuant to the approval of the President dated March 20, 2018
+
+BMB-D-18-0007154/ 26-Mar-18
+
+766,321,816.00
+
+765,637,693.00
+
+684,123.00
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fully Utilized
+
+Subtotal
+
+2,038,728,527.00
+
+2,038,039,403.68
+
+689,123.00
+
+0.32
+
+
+
+Inter-Agency Fund Transfer from PA
+
+Payment for the Foreign Incentives for AFP Personnel Deployed during the Encounter in Marawi City
+
+OR Nr. 7459267/ 5-Dec-17
+
+312,000.00
+
+312,000.00
+
+
+
+
+
+-
+
+-
+
+Liquidated
+
+Subtotal
+
+312,000.00
+
+312,000.00
+
+-
+
+-
+
+
+
+Total
+
+2,039,040,527.00
+
+2,038,351,403.68
+
+689,123.00
+
+0.32
+
+
+
+
+
+	3)	Shown in Table 43 below are the details of actual amount of disbursements/expenses pertaining to utilization of funds per SAROs issued as of December 31, 2020:
+
+
+
+Table 43 - Utilization of SAROs Issued
+
+Nature of Expenditure
+
+Fund Source
+
+Purpose
+
+Actual Disbursements/ Expenses 
+
+Other Supplies and Materials Inventory
+
+DBM
+
+To support the procurement of air munitions, special munitions, and projected aircraft requirements
+
+₱
+
+673,399,451.00
+
+Military, Police and Traffic Supplies Inventory
+
+DBM
+
+
+
+
+
+146,371,676.05 
+
+Air munitions and other military supplies from the DND-US (Other Deposits)
+
+DBM
+
+
+
+
+
+824,482,686.63 
+
+Air munitions thru PITC (Due from GOCCs)
+
+DBM
+
+
+
+
+
+373,785,590.00 
+
+Various aircraft spares procured through FMS
+
+DBM
+
+
+
+
+
+20,000,000.00
+
+Total
+
+
+
+
+
+₱
+
+2,038,039,403.68
+
+
+
+	4)	The total fund received from PA amounting to ₱312,000.00 was intended for the payment of incentives to two female PAF personnel deployed during the encounter in Marawi City. The total amount was credited to the account of the payees and was fully utilized as of December 31, 2020.
+
+
+
+	5)	There are no significant findings noted in the audit of utilization of Marawi Funds.
+
+
+
+Audit of COVID-19 Funds
+
+
+
+25)	The Command allocated and utilized P99.215 million and P98.521 million, respectively, out of agency regular budget for Disaster Risk Reduction Management (DRMM) program and realignment of funds from regular appropriations to fund its operations and implement measures against the COVID-19 outbreak. 
+
+
+
+	1)	In view of the adverse effect of COVID-19, a state of emergency was declared under R.A. No. 11469 or the Bayanihan to Heal as One Act last March 24, 2020. To sustain the response and increase the recovery of the economy the Government issued R.A No. 11494 or the Bayanihan to Recover as One Act on September 11, 2020.
+
+
+
+	2)	In line with this, the DBM released SARO BMB-D-20-008077 last April 27, 2020 amounting to ₱45,573,646.00 allocated from agency regular budget for Disaster Risk Reduction Management (DRMM) program to provide additional funding requirements for the operations and implementation of measures against the outbreak of COVID-19 disease (Annex 11). In addition, the PAF realigned ₱53,641,156.99 (Annexes 12-13), out of its regular appropriations to fund its operational requirements in connection to COVID-19 operations.
+
+
+
+	3)	Details of the funds received and its utilization are summarized as follows (Annexes 10 to 12):
+
+
+
+Table 44– Summary of COVID Funds Received and Utilization
+
+Purpose
+
+Ref No./
+
+Base
+
+Amount
+
+Utilization
+
+Amount Reverted
+
+Balance
+
+Status
+
+Special Allotment Release Orders
+
+Receipt of NCA to cover the additional funding requirements for the operations and implementation of measures against the outbreak of the Coronavirus Disease 2019
+
+NCA-BMB-D-20-0005228
+
+P45,573,646.00
+
+P45,484,234.00
+
+P-
+
+P89,412.00
+
+For reversion
+
+
+
+
+
+45,573,646.00
+
+45,484,234.00
+
+-
+
+89,412.00
+
+
+
+Realigned Funds from Regular Appropriations
+
+Support for COVID-19 requirements
+
+CJVAB
+
+47,265,794.99
+
+46,667,380.77
+
+-
+
+598,414.22
+
+Balance pertains to unpaid procurement of PPE and other medical related supplies
+
+
+
+ABAB 
+
+1,044,512.00
+
+1,041,025.00
+
+3,487.00
+
+-
+
+
+
+
+
+
+
+
+
+
+
+Fully Utilized
+
+
+
+BASA
+
+259,600.00
+
+259,600.00
+
+-
+
+-
+
+
+
+
+
+CAB
+
+1,464,780.00
+
+1,464,780.00
+
+-
+
+-
+
+
+
+
+
+CERAB
+
+811,235.00
+
+811,235.00
+
+-
+
+-
+
+
+
+
+
+DAAB
+
+94,300.00
+
+94,300.00
+
+-
+
+-
+
+
+
+
+
+EAAB
+
+158,930.00
+
+158,930.00
+
+-
+
+-
+
+
+
+
+
+FAB
+
+378,955.00
+
+378,955.00
+
+-
+
+-
+
+
+
+
+
+MBEAB
+
+1,882,560.00
+
+1,880,310.00
+
+2,250.00
+
+-
+
+
+
+
+
+DAB
+
+168,000.00
+
+168,000.00
+
+-
+
+-
+
+
+
+
+
+TOWSOL
+
+84,500.00
+
+84,500.00
+
+-
+
+-
+
+
+
+
+
+WAS
+
+27,990.00
+
+27,990.00
+
+-
+
+-
+
+
+
+Subtotal
+
+
+
+53,641,156.99
+
+53,037,005.77
+
+
+
+
+
+
+
+Total
+
+P99,214,802.99
+
+P98,521,329.77
+
+P5,737.00
+
+P687,826.22
+
+
+
+
+
+	4)	Deficiencies pertaining to posting of the required documents and information in GPPB online portal on awarded emergency procurement were corrected by the Command upon validation.
+
+
+
+Audit of National Task Force End Local Communist Armed Conflict NTF-(ELCAC) Fund
+
+
+
+26)	The Agency did not receive any allotment pertaining to ELCAC Funds during CY 2020.
+
+
+
+70
+
+
+
+
+
+
+
+
+

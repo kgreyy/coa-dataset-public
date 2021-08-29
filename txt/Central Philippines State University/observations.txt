@@ -1,0 +1,1330 @@
+				
+
+PART II – OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+A)	 Financial and Compliance Audit
+
+
+
+	
+
+	1)	Real Time Gross Settlement (RTGS) collections amounting to ₱133,487,625.00 were erroneously recorded and belatedly receipted, contrary to Section 68 of Presidential Decree No. 1445, thus affecting the fair presentation of the financial statements at year-end.
+
+	
+
+		Section 68 of R.A. No. 1445 provides as follows:
+
+	
+
+	“No payment of any nature shall be received by a collecting officer without immediately issuing an official receipt in acknowledgment thereof.  The receipt may be in the form of postage, internal revenue or documentary stamps and the like, or officially numbered receipts, subject to proper custody, accountability, and audit.” (Underscoring Ours)
+
+	
+
+		In our post-audit of collections for CY 2020, we noted that the University uses the Real Time Gross Settlement (RTGS) system in which both processing and final settlement of fund transfer instructions can take place continuously (i.e., in real time).  As it is a gross settlement system, transfers are settled individually, i.e., without netting debits against credits.  An RTGS system can, thus be characterized as a fund transfer system that is able to provide continuous intraday finality for individual transfers provided that a sending bank has sufficient covering balances or credit. (Bangko Sentral Review, 2003)
+
+		
+
+		The Audit Team reviewed the transaction flow pertaining to the RTGS and noted that the collections through RTGS are from CHED remittances.  The CHED remittances include payment of tuition fees and other school fees for the Free Higher Education and Tertiary Education Subsidy (TES).  The University is made aware of these remittances in the following instances:
+
+	
+
+1)		When the Scholarship Coordinator asks for the official receipt demanded by the CHED’s Cashier for the remittances credited to the University’s account.
+
+	
+
+2)		When the Collecting Officer calls up the Land Bank of the Philippines (LBP) to inquire whether there are significant remittances credited to the University’s bank accounts.
+
+
+
+3)		When the Collecting Officer requests for a snap shot (credit memo) from the LBP.
+
+	
+
+4)		When the Accounting or Cashier’s Office follow up the billing status of Tuition and Other School Fees and TES with the Commission on Higher Education (CHED).
+
+	
+
+		Once the remittance is confirmed, the Collecting Officer requests from CHED’s Cashier a copy of the LDDAP for the details of the remittances such as the purpose, ADA No., check number and amount.  The Collecting Officer then issues an official receipt to acknowledge the remittances.  
+
+	
+
+			At the end of the month, the Collecting Officer prepares the Report of Collections and Deposits (RCD) for all his collections and deposits during the month, including the RTGS collections.  The RCD is then submitted to the Accountant who records the RTGS Collections in the Cash Receipts Journal by debiting the Cash Collecting Officer and crediting the appropriate credit accounts.  
+
+		
+
+		In CY 2020, the total collections remitted by CHED to the LBP bank account of CPSU amounted to ₱128,165,625.00 which was also receipted during the year.  Moreover, there were remittances during CY 2019, which were receipted only in CY 2020 totaling P5,322,000.00.  Total remittances from CHED receipted during the year amounted to ₱133,487,625.00.
+
+	
+
+			According to the Accountant, the above-mentioned entries were made because the Collecting Officer issued the official receipts required by the CHED and in compliance with regulation. However, since the collections were not actually received by the Collecting Officer, the entry should not have been a debit to the Cash Collecting Officer account but to Cash in Bank account and a credit to the appropriate income or liability accounts.  The Cash Collecting Officer account is only used to recognize collections with the collecting officer which in the case of the RTGS collections is not applicable because these were directly deposited to the bank without passing through the collecting officer.
+
+	
+
+		Furthermore, post-audit of the Report of Collections and Deposits in CY 2020 revealed that the total remittances from CHED in CYs 2019 and 2020 amounting to P5,322,000.00 and ₱128,165,625.00, respectively, were receipted from 3 to 110 days later (please see Annex A for the details).  This affected the fair presentation of the financial statements.
+
+	 
+
+		The Collecting Officer explained to the Audit Team that the issuance of Official Receipts was delayed because he would only know the remittances upon the receipt of bank statements which were also months delayed from the Land Bank of the Philippines showing that there were significant deposits made.  Subsequently, the Collecting Officer called the CHED Cashier to confirm the amount deposited and asked for the details of the amount deposited.  According to the Collecting Officer, the CHED failed to inform them if deposits were made and was always delayed in furnishing their Office copies of documents pertaining to the CHED’s remittances.  
+
+	
+
+
+
+	The immediate issuance of ORs upon receipt of any collections is vital to properly account all the funds received by the University.  
+
+
+
+	We recommended and Management, thru the University President, agreed to require the Collecting Officer to regularly monitor the collections in the RTGS so that the Official Receipts can be issued on a timely basis and report these in the Report of Collections and Deposits properly.  He should also direct the Accountant to, henceforth, record the RTGS collections by debiting Cash in Bank and crediting the appropriate Income/ Grants and Donation accounts.
+
+
+
+
+
+	2)	Income taxes on faculty and employees’ benefits were not correctly withheld contrary to Bureau of Internal Revenue (BIR) Revenue Regulations (RR) No. 11-2018 dated January 31, 2018 resulting to overpayment of benefits totaling                              P429,848.66 and depriving the government of additional income taxes for its budgetary needs.                   
+
+		
+
+			Section 6 (B) of BIR RR No. 11-2018 provides that :
+
+		
+
+	(B) Exemption from withholding tax on compensation. - The following income payments are exempted from the requirement of withholding tax on compensation but may be subject to income tax depending on the nature/sources of income earned by the individual recipient. 
+
+	
+
+	(11) Thirteenth month pay and other benefits. – 
+
+
+
+	(a) Thirteenth month pay equivalent to the mandatory one (1) month basic salary of official and employees of the government (whether national or local), including government-owned or controlled corporations, and/or private offices received after the twelfth month pay; and 
+
+
+
+	(b) Other benefits such as Christmas bonus, productivity incentives, loyalty award, gift in cash or in kind, and other benefits of similar nature actually received by officials and employees of both government and private offices, including the Additional Compensation Allowance (ACA) granted and paid to all officials and employees of the National Government Agencies (NGAs) including State Universities and Colleges (SUCs), Government-Owned and/or Controlled Corporations (GOCCs), Government Financial Institutions (GFIs) and Local Government Units (LGUs). 
+
+
+
+
+
+
+
+		The above stated exclusions under (a) and (b) shall cover benefits paid or accrued during the year, provided that the total amount shall not exceed ninety thousand pesos                              (₱90,000), which may be increased through rules and regulations issued by the Secretary of Finance, upon recommendation of the Commissioner, after considering among others, the effect on the same of the inflation rate at the end of the taxable year. (Underscoring Ours)	
+
+		
+
+				Our audit of disbursements for CY 2020 revealed that the University granted to its faculty and employees several benefits during the year totaling P19,532,383.19, shown in  detail as follows:
+
+		
+
+		Name of Benefits
+
+		Legal Basis
+
+		Amount Granted to Each Employee/Faculty
+
+		Total
+
+		Mid Year/Year-End Bonus
+
+		Executive Order No. 201,                 s. 2016
+
+		One Month Basic Salary
+
+		 P 15,769,826.00
+
+		Cash Gift
+
+		
+
+		P 5,000.00
+
+		1,296,000.00
+
+		Productivity Enhancement Incentive (PEI)
+
+		
+
+		P 5,000.00
+
+		1,270,000.00
+
+		Service Recognition Incentives (SRI)
+
+		Administrative Order No. 37, s. 2020
+
+		P 4,755.79
+
+		1,196,557.19
+
+	Total
+
+	P 19,532,383.19
+
+			
+
+			Our post-audit of the disbursements made for the payment of benefits to faculty and employees revealed that the amount of income taxes withheld for some were lesser by a total of P429,848.66  (see Annex B for the details) than what should have actually been made as required in BIR RR No. 11-2018.  Some faculty and employees receiving a monthly salary of more than P90,000.00 were even granted midyear bonus tax free.  No adjustments were made on the income tax on the succeeding benefits received by them. 
+
+		
+
+			The audit team also observed that the Productivity Enhancement Incentive (PEI) and Service Recognition Incentives (SRI) were not subjected to income tax despite the fact that some of officials and faculty had already accrued benefits of more than P90,000.00.  Moreover, we also noted that the Personal Economic Relief Allowance (PERA) was deducted from the ceiling benefit of P90,000.00.
+
+
+
+
+
+
+
+
+
+
+
+The preparation of the payroll for salaries and all the benefits of faculty and employees, including the withholding tax computation is being performed in the Accounting Office.  Accordingly, the audit team interviewed the Payroll-in-Charge who said she was not able to withhold tax on the aforementioned benefits because she thought that these benefits were not taxable.  The Accountant explained that there was a prior instruction from him that should an employee’s accumulated benefits exceed the  P90,000.00 ceiling, the excess of it shall be subjected to tax in compliance with existing regulations.  Moreover, he explained to the audit team that he did not anymore review the payroll as to the individual tax computation of each employee and what he checked was only the total mathematical computation of the payroll.  
+
+		
+
+			Due to the foregoing erroneous tax computation for employees’ benefits, the University incurred a tax deficiency of P429,848.66 resulting to overpayment of benefits totaling P429,848.66 and depriving the government of additional income taxes for its budgetary needs.
+
+		
+
+			We wish to remind Management that there is also a penalty imposed on the failure to withhold the proper amount of tax as provided under Section 272 of the National Internal Revenue Code of 1997 that states: 
+
+		
+
+Violation of Withholding Tax Provision. - Every officer or employee of the Government of the Republic of the Philippines or any of its agencies and  instrumentalities, its political subdivisions, as well as government-owned or controlled corporations, including the Bangko Sentral ng Pilipinas (BSP), who, under the provisions of this Code or rules and regulations promulgated thereunder, is charged  with the duty to deduct and withhold any internal revenue tax and to remit the same in accordance with the provisions of this Code and other laws is guilty of any offense herein below specified shall, upon conviction for each act or omission be punished by  fine of not less than Five thousand pesos (P5,000) but not more than Fifty thousand pesos (P50,000) or suffer imprisonment of not less than six (6) months and one (1)  day but not more than two (2) years, or both:
+
+
+
+a)	Failing or causing the failure to deduct and withhold any internal revenue tax under any of the withholding tax laws and implementing rules and regulations;
+
+
+
+b)	Failing or causing the failure to remit taxes deducted and withheld within the time prescribed by law, and implementing rules and regulations; and xxx
+
+
+
+
+
+
+
+
+
+
+
+			We recommended and Management, thru the University President, agreed to require the refund of the overpayment of the benefits and remit the same to the BIR upon collection thereof and to henceforth, require the Accounting Office to carefully review the computation of the payroll so that all benefits received by faculty and employees that exceed the P90,000.00 ceiling shall be applied with the correct amount of tax pursuant to BIR RR No. 11-2018 dated January 31, 2018.
+
+		
+
+		
+
+	3)	Monthly allowances paid to lawyers of the Office of the Solicitor General for legal services rendered amounting to ₱396,000.00 for the period January to December 2020 were not supported with proof of receipt, contrary to COA Circular No. 2012-001 dated June 14, 2012 and Section 5, Chapter 2 of the Government Accounting Manual for NGAs, Volume I, thus the validity of the disbursements cannot be established.
+
+
+
+	COA Circular No. 2012-001 dated June 14, 2012 enumerates the documentary requirements for common government transactions and the general requirements for all types of disbursements which includes, among others, that claims against government funds shall be supported with complete documentation and that there should be sufficient and relevant documents to establish validity of the claim.  The same requirements are reiterated in Section 5, Chapter 2 of the Government Accounting Manual (GAM) for NGAs, Volume I.
+
+
+
+In our post-audit of the University’s transactions for CY 2020, we noted that the Central Philippines State University entered into a Memorandum of Agreement (MOA) with the Office of the Solicitor General to engage the legal services of the OSG lawyers from January to December 2020 who shall be paid an allowance aggregating ₱33,000.00 per month, as follows:
+
+
+
+Solicitor General
+
+₱12,000.00
+
+Assistant Solicitor General
+
+11,000.00
+
+Associate Solicitor 
+
+10,000.00
+
+Total
+
+₱33,000.00
+
+
+
+	The MOA provides that the OSG “shall act as counsel both for the University officials and Board of Regents (BOR) in the performance of their official duties” and the CPSU shall in accordance with law and throughout the period that the OSG services are rendered, “oblige itself to give monthly honorarium” to the Solicitor General, Assistant Solicitor General and Associate Solicitor, monthly allowance of ₱12,000.00, ₱11,000.00 and ₱10,000.00 each, respectively including honorarium of ₱5,000.00 and reimbursement of reasonable expenses should they be required to appear before courts, tribunal, quasi-judicial and administrative bodies. According to the CPSU Accountant, these rates were pre-determined solely by the OSG in crafting the MOA.
+
+
+
+
+
+Results of audit showed that the monthly honorarium of the OSG lawyers were charged to the appropriation for Legal Services in the Internally Generated Income Fund, as follows:
+
+
+
+Check
+
+Period Covered
+
+Date
+
+No.
+
+Amount
+
+Payee
+
+
+
+07/14/20
+
+01382279
+
+₱   528,000.00
+
+Office of the Solicitor General
+
+September 2018 – December 2019
+
+10/07/20
+
+01454015
+
+330,000.00
+
+Office of the Solicitor General
+
+January – October 2020
+
+12/28/20
+
+01454635
+
+66,000.00
+
+Office of the Solicitor General
+
+November - December 2020
+
+
+
+TOTAL
+
+
+
+
+
+₱  924,000.00
+
+
+
+
+
+
+
+	Our examination of the three disbursement vouchers covering the payment of the monthly honorarium for the OSG lawyers which were deposited to the OSG’s account in accordance with the MOA, showed the following deficiencies:
+
+
+
+1)	No proofs of receipt were issued by the OSG to acknowledge the payments made by the CPSU per check numbers 01454015 and  01454635 amounting to P330,000.00 and P 66,000.00, respectively or a total amount of P396,000.00 for the period January to December 2020;
+
+
+
+2)	Services were only rendered by the Solicitor General, Assistant Solicitor General and Associate Solicitor for the months of July and September 2020, as shown in their Accomplishment Report, as follows:
+
+	
+
+Date
+
+Accomplishment
+
+July 2020
+
+1)	Sent an opinion re: complaint against Rolando Celis
+
+
+
+September 2020
+
+1)	Meeting with CPSU officials via zoom
+
+
+
+2)	Sent a letter response re:  request for comment and recommendations on the “Right of Way Agreement” between CPSU and City Government of Kabankalan, Negros Occidental
+
+
+
+3)	Meeting with CPSU officials via zoom
+
+
+
+
+
+There were no sufficient and relevant documents attached to the vouchers to establish that services were rendered by the Solicitor General, Assistant Solicitor General and Associate Solicitor for the months that they were paid honorarium by the CPSU, other than the foregoing accomplishments,  contrary to COA Circular No. 2012-001 and Section 5, Chapter 2 of the GAM for NGAs, Volume I;
+
+
+
+3)	The monthly honorarium for the OSG were charged to the appropriation for Legal Services in the CPSUs Internally Generated Income Fund.   The source of fund was not stipulated in the MOA, however, the University Accountant certified that the allotment of funds for the purpose is existing and available.
+
+
+
+4)	Payment of Legal Services per check number 01382279 amounting to P528,000.00 was erroneously charged to the Legal Services account instead of to Accumulated Surplus to recognize the expense incurred in prior years.  
+
+
+
+	The University Accountant explained that it was the former University President who asked legal representation from the OSG because the University has no capacity to address the legal concerns of its personnel, especially those complaints filed against the Bids and Awards Committee and disputes against illegal settlers.  They were advised by the former Commission on Audit (COA) Audit Team to first seek the approval of the Office of the Solicitor General and written COA concurrence in order to hire the services of a retainer lawyer.  However, he was informed by the former University President that according to the OSG they could act as the legal counsel for the University instead of hiring an accredited private lawyer.  In addition, the Accountant and the Budget Officer were instructed by the former University President to allocate a budget for the OSG and process their monthly honorarium. 
+
+
+
+Since the University Accountant recorded the OSGs monthly honorarium as debits to the Legal Services account which is described in the revised chart of accounts to recognize costs incurred for authorized legal services rendered by private lawyers or lawyers from other agencies including special counsel allowances, then the necessary documentary requirements should have also been complied with.
+
+
+
+In view of the absence of the proof of receipt from the OSG to acknowledge the payments made by the CPSU as well as the lack of documentary evidence on the services rendered by them to the University, the validity of the payments for the monthly allowances paid to the three (3) OSG officials cannot be established.
+
+
+
+We recommended and Management, thru the University President, agreed to immediately request the OSG to submit the proof of receipt to acknowledge the monthly payments deposited to their Land Bank account amounting to ₱396,000.00 from January to December 2020, including other subsequent payments made in the succeeding year 2021 and to also submit other documents evidencing the services rendered by the OSG to CPSU in order to properly establish the validity of the disbursements made.  Moreover, the University President should also instruct the Accountant to prepare a correcting entry for the erroneous recording to Legal Expenses of prior year transactions.
+
+	
+
+	
+
+	
+
+	
+
+	4)	Expenses related to COVID-19 in the amount of ₱97,350.00 were charged against the Special Trust Fund (STF) contrary to Section 4(d) of Republic Act No. 8292 known as the “Higher Education Modernization Act of 1997”, Section 18(d) of CHED Memorandum Circular No. 3, series of 2001, the Implementing Rules and Regulations (IRR) for R.A. No. 8292 and Article III of CHED Memorandum Order No. 20 series of 2011. 
+
+
+
+Section 4(d) of R.A. No. 8292 provides that:  “…any income generated by the university or college from tuition fees and other charges, as well from the operation of auxiliary services and land grants, shall be retained by the university or college, and may be disbursed by the Board of Regents/Trustees for instruction, research, extension, or other programs/projects of the university or college:  Provided, That all fiduciary fees shall be disbursed for the specific purposes for which they are collected.” (Emphasis ours)
+
+
+
+The foregoing provision is also reiterated in Section 18(d) of CHED Memorandum Circular No. 3, series of 2001, the IRR for R.A. No. 8292. 
+
+
+
+Moreover, Sections 6, 8, 10, 12, 14 and 16 of Article III of CHED Memorandum Order No. 20, series of 2011 provides the Specific Budgetary Allocation of the Special Trust Fund (STF), as follows:
+
+
+
+1.  Faculty and Staff Development
+
+	2.  Curriculum Development
+
+	3.  Student Development
+
+	4.  Facilities Development
+
+	5.  Research Services
+
+	6.  Extension Services
+
+	7.  Production
+
+	8.  Administrative Services
+
+	9.  Reserve
+
+
+
+Our audit of transactions for CY 2020 disclosed that expenses for COVID-19 in the total amount of ₱97,350.00 were charged against the Special Trust Fund, as follows:
+
+
+
+Particulars
+
+Amount
+
+Medical, Dental and Laboratory Supplies Expenses:
+
+
+
+1.  Disinfectants
+
+2.  Thermal Scanners
+
+3.  Others:
+
+     a.  Alcohol  
+
+     b.  Face Mask
+
+₱     27,750.00
+
+37,500.00
+
+
+
+12,200.00
+
+19,900.00
+
+
+
+Total
+
+
+
+₱     97,350.00
+
+
+
+However, it is clear from the aforecited regulations that the STF can be disbursed only for specific programs/projects of the University and the expenses utilized for COVID-19 do not belong to any of these.
+
+
+
+The Budget Officer explained that some of the expenses for COVID-19 were already charged to DRRM funds, however, the fund was not adequate to address the concerns of COVID-19 expenses.  The disinfectants, alcohol and facemask on the other hand, were charged to the STF even though these were not part of the APP because these were necessary to effectively respond to the pandemic.
+
+
+
+It bears stressing that the fiduciary fund should be disbursed only for the specific purpose for which it was collected and the STF is intended only for instruction, research, extension, or other program/projects of the University which are necessary for the attainment of the University’s goals and objectives to provide quality education.
+
+
+
+The expenses for disinfectants, alcohol and facemasks incurred by the University in response to the COVID-19 pandemic should have been charged to its regular agency budget or better still to the Disaster Risk Reduction and Management Fund (DRRMF) which the agency is allowed to provide as mandated in the General Appropriations Act in order for it to be properly prepared and appropriately respond to impending calamities.
+
+
+
+We recommended and Management, thru the University President, agreed to instruct the Budget Officer to  discontinue charging unrelated expenses to the Special Trust Fund and instead utilize it only in accordance with  Section 4(d) of Republic Act No. 8292 known as the “Higher Education Modernization Act of 1997”, Section 18(d) of CHED Memorandum Circular No. 3, series of 2001, the Implementing Rules and Regulations (IRR) for R.A. No. 8292 and Article III of CHED Memorandum Order No. 20 series of 2011. 
+
+
+
+
+
+	5)	The University did not set aside adequate portion of their CY 2020 regular appropriations for projects and activities designed for Disaster Risk Reduction and Management (DRRM) as required under Section 1, Rule 19 of the Implementing Rules and Regulations of Republic Act No. 10121 known as the “Philippine Disaster Risk Reduction and Management Act of 2010”, Section 36 of FY 2020 General Appropriations Act (GAA) and Item III.c of COA Circular No. 2014-002 dated April 15, 2014, thus it was not financially prepared to respond to the needs brought upon by the COVID-19 pandemic.
+
+
+
+Section 1, Rule 19 of the Implementing Rules and Regulations of RA 10121 provides that the  “NDRRMF is appropriated in the annual GAA which shall be used for disaster risk reduction or mitigation, prevention and preparedness activities such as, but not limited to training of personnel, procurement of equipment and capital expenditures.  It can also be utilized for relief, recovery, reconstruction and other work or services in connection with natural or human-induced calamities which may occur during the budget year or those that occurred in the past two (2) years from the budget year.”
+
+COA Circular No. 2014-002 dated April 15, 2014 also provides the accounting and reporting guidelines on the Disaster Risk Reduction and Management (DRRM) Fund which includes the funds sourced from the agency regular budget for the DRRM program.  Item III.c thereof provides that “All departments, bureaus, offices and agencies of the government are hereby authorized to use a portion of their appropriations to implement projects designed to address DRRM activities in accordance with the guidelines to be issued by the NDRRMC in coordination with the Department of Budget and Management (DBM).”
+
+
+
+Finally, Section 36 of the General Provisions of the General Appropriations Act of 2020 or R.A. No. 11465 echoes the foregoing provision stating that “All agencies of the government shall plan and implement programs and projects, taking into consideration measures for climate change adaptation and mitigation, and disaster risk reduction, based on climate and disaster risk assessments.  x x x.”
+
+
+
+In our verification of the University’s annual budget for CY 2020, we found out that the amount of P110,000.00 was allocated for disaster risk reduction management.  The University disbursed for supplies and medical equipment for use of DRRM Office and COVID related expenses amounting to P47,440.00 and P 46,700.00 (see Annex C for the details), respectively.  The COVID related expenses were charged to DRRM funds even though these were not part of the Annual Procurement Plan, because these were necessary to effectively respond to the pandemic. 
+
+
+
+However, the budget was not enough to cover all the COVID related expenses.  The Budget Officer explained to the Audit Team that he was not able to provide adequate allocation for disaster risk reduction management and the climate change adaptation activities because of limited funds for Maintenance and Other Operating Expenses (MOOE) and considering that the pandemic was an unforeseen event.  He added that the funds intended for Gender and Development (GAD) had been utilized to address the concerns of COVID-19 expenses.
+
+
+
+R.A. 10121 or the “Philippine Disaster Risk Reduction and Management Act of 2010” was enacted into law to demonstrate the importance given by the Government to mainstream Disaster Risk Reduction and Management (DRRM) in the development processes to better prepare for and lessen the impact of deadly and costly natural and man-made hazards/disasters with the goal of promoting sustainable socio-economic growth.
+
+
+
+During the year, due to the COVID-19 pandemic which struck not just the country in particular but the whole world in general, Philippine President Rodrigo Roa Duterte issued the following:
+
+
+
+1)	Proclamation No. 922 dated March 8, 2020 declaring a state of public health  emergency throughout the Philippines due to the outbreak of COVID-19 and the confirmation by the Secretary of Health of local transmission of the Corona Virus Disease in the Philippines;
+
+
+
+2)	Proclamation No. 929 dated March 16, 2020 declaring a state of calamity throughout the Philippines due to COVID-19 for a period of six (6) months effective March 16, 2020; and
+
+
+
+3)	Proclamation No. 1021 extending the period of the state of calamity throughout the Philippines due to COVID-19 for a period of one (1) year, effective 13 September 2020 to 12 September 2021, unless earlier lifted or extended as circumstances may warrant.
+
+
+
+The foregoing declarations capacitated all government agencies and LGUs to immediately act to prevent the loss of life and utilize appropriate resources to implement urgent and critical measures to contain and/or prevent the spread of COVID-19, mitigate its effects and impacts to the community as well as prevent the serious disruption of basic government services.  The National Government as well as LGUs were given ample latitude to utilize appropriate funds, including the Quick Response Fund, in their disaster preparedness and response efforts to contain the spread of COVID-19 and continue providing basic services to the affected population.
+
+
+
+However, because the University did not set aside adequate budget in CY 2020 for DRRM activities and there was still a need to procure additional PPEs, thermal scanners and more disinfectants, a portion of the Special Trust Fund (STF) and GAD funds amounting to ₱97,350.00 and ₱313,250.00, respectively (see Annex C for details) were utilized.  The use of STF for the purchase of COVID related expense is the subject of another audit observation considering that the STF was to be used only for the specific purpose for which fiduciary fees lodged therein were collected.
+
+
+
+Therefore, had the University allocated  adequate portion of their regular budget for DRRM programs and activities, it could have been  financially prepared to respond to the needs brought upon by the COVID-19 pandemic or any disaster for that matter. 
+
+
+
+We recommended and Management, thru the University President, agreed to instruct the Budget Officer to henceforth comply with the provisions of R.A. 10121 and related guidelines regarding the formulation and implementation of plans, programs, projects and activities related to Disaster Risk Reduction Management and Climate Change so that appropriate funds can be utilized to better prepare for and lessen the impact of the on-going COVID-19 pandemic and other future disasters and calamities. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	6)	The Accountant did not maintain separate set of books for the General Fund (GF), Special Trust Fund (STF) and Income Generating Projects (IGP) contrary to Sec. 5, Chapter 19 of the Government Accounting Manual (GAM), Volume I, pertinent provisions of COA Circular No. 2000-002 and CHED Memorandum Order No. 20, Series of 2011, thus financial information on the operations of each fund are not readily made available to officials and other stakeholders for effective financial decision making and the determination of the College’s accountability for its resources. 
+
+
+
+	Chapter 19 of the GAM, Volume I prescribes the manner in which the general purpose financial statements should be prepared and presented.  Section 5 thereof discusses the components of the financial statements and requires that “a complete set of financial statements (condensed and by fund cluster) shall be submitted by an entity”. (Underscoring ours)
+
+
+
+	Moreover, COA Circular No. 2000-002 dated April 4, 2000 which prescribes the Accounting Guidelines and Procedures on the Use of Income of SUCs provides under Item 3.2 that “The Chief Accountant shall maintain a separate set of books of accounts for the Special Trust Fund using the Fund Code 164.” In addition, Item 3.8 thereof also states that “at the end of the year, the Chief Accountant shall prepare a Detailed Schedule of Allotments and Obligations Incurred and Breakdown of Income as supporting schedules of the Preliminary Trial Balance.”
+
+	
+
+CHED Memorandum Order No. 20, Series of 2011 which seeks to establish and institutionalize uniform fiscal policies that will serve as guidelines in the use and disposition of all internally generated funds accruing to the SUC, as well as to integrate a system of accountability for all fund administration, also outlines its fund structure as follows:
+
+
+
+I)	Special Trust Fund
+
+a)	Tuition fees
+
+b)	Service Income
+
+c)	Other Income
+
+d)	 College-wide Common Fund
+
+II)	Fiduciary Fund
+
+III)	Other Fiduciary Funds
+
+a)	Self-Liquidating Units
+
+b)	Income-Generating Projects/Units (IGPs/IGUs)
+
+c)	Regular Trust Funds (funds held in trust for a school organization or another government agency, entity or NGO, and the like)
+
+
+
+Finally, the foregoing CHED Memorandum states that a chart of accounts shall be established in accordance with those prescribed by the Commission on Audit and the accounts to be included under each type of fund shall be appropriately defined and classified according to its nature and purpose.
+
+
+
+Our review of the financial statements showed that the CPSU actually has three funds, as follows:
+
+
+
+1)	General Fund (GF) 101
+
+2)	Special Trust Fund (STF) 164 
+
+3)	Internally Generated Income  (IGP)
+
+
+
+Our audit disclosed that all disbursement transactions were prepared and recorded in separate Reports of Checks Issued (RCI) for the GF and STF, while collections for all funds were recorded only in the Report of Collections and Deposits under the STF.  Collections and disbursements pertaining to the IGP were recorded separately.  All transactions were posted in separate General Ledgers for the GF, STF and IGP. Subsidiary Ledgers (SLs) were also maintained by the Budget Officer for each fund.   However, only one consolidated monthly/quarterly and year-end trial balance and financial statements for the GF, STF and IGP were generated.
+
+
+
+The Accountant explained that this procedure was followed when he assumed office on September 2013 and he just continued the practice until CY 2020.  However, he assured the audit team that starting CY 2021 he will prepare a separate set of books and financial statements for the General Fund, Special Trust Fund and Income Generating Project. 
+
+
+
+The GAM for National Government Agencies requires each agency to recognize and present its financial transactions and operations in conformity with fund cluster accounting principles.  In other words, each agency shall maintain complete set of accounting books by fund and prepare separate financial statements and financial reports for each fund.  
+
+
+
+The general objective in preparing financial statements for each fund is to provide information about the financial condition, financial performance and cash flows to the users of such information such as the agency head, management officials, the Board of Regents, and other authorities in order to aid them in making and evaluating financial decisions and determine the agency’s accountability for the different resources entrusted to it.  Thus, the non-preparation of separate books and corresponding financial statements for each fund makes it difficult to determine how each one was managed and expended by the College and whether these were made in an efficient, effective and economical manner. 
+
+
+
+We recommended and Management, thru the University President, agreed to direct the Accountant to maintain separate set of books and prepare individual financial statements for the General Fund, Special Trust Fund and Income Generating Project effective January 1, 2021 and to henceforth comply with the basic accounting principles and guidelines prescribed in the GAM and other accounting issuances for SUCs so that all transactions will be properly recorded and made available to the end-users concerned.
+
+
+
+	7)	The fidelity bonds of the Campus Cashier and Designated Collecting/Special Disbursing Officers were not sufficient to cover their total accountability for the period covered by their respective bonds, contrary to Items 5.1, 7.3 and 7.3.2 of Treasury Circular No. 02-009 dated August 6, 2009, thus, exposing the College’s funds to unsecured possible losses. 
+
+
+
+Treasury Circular No. 02-2009 dated August 6, 2009 provides the rules and   regulations governing the fidelity bonding of accountable public officers.
+
+
+
+  Item 5.1 thereof requires that:
+
+
+
+“The amount of bond shall be based on the total accountability (cash, property and accountable forms) of the accountable public officer as determined by the Head of Agency. Provided, the individual maximum accountability of each accountable public officer shall not exceed One Hundred Million Pesos (P100M).xxx.” 
+
+
+
+Furthermore, Items 7.3 and 7.3.2 of the same circular provide guidelines upon occurrence of subsequent increase in accountability, as follows:
+
+
+
+Item 7.3-
+
+
+
+“Any increase in the amount of accountability, resulting to an increase in the amount of bond shall be subject to increase in premium” 
+
+
+
+Item 7.3.2- 
+
+
+
+“The amount of bond premium shall be computed based on the increased amount of bond. The bond shall take effect upon the time of payment of premium on the new bond application”
+
+
+
+We verified the fidelity bond details of the concerned Campus Cashier of the Main Campus and Designated Collecting/Special Disbursing Officers assigned in the Main and nine Extension Campuses and noted the following: 
+
+
+
+Name of Accountable Officer
+
+Risk No.
+
+Effective Date
+
+Approved amount of Bond
+
+Maximum Cash Accountability
+
+Ernie C. Ongao
+
+ 42-20-0693N 
+
+ Feb. 26, 2020 to 
+
+Feb. 26, 2021 
+
+P350,250.00 
+
+P750,000.00
+
+Lycel Pacheco
+
+ 42-20-0561N 
+
+ Feb. 18, 2020 to 
+
+Feb. 18, 2021 
+
+  100,000.00 
+
+P250,000.00
+
+Jimmy O. Degillo
+
+ 42-20-0204N 
+
+ Jan. 21, 2020 to 
+
+Jan. 21, 2021    
+
+  100,000.00 
+
+P250,000.00
+
+Jordan G. Apawan
+
+ 42-19-4190N 
+
+ Nov. 13, 2019 to 
+
+Nov. 13, 2020 
+
+  100,000.00 
+
+P250,000.00
+
+Moody S. Deocares
+
+ 42-20-0945R 
+
+ Mar. 22, 2020 to          Mar. 22, 2021 
+
+  100,000.00 
+
+P250,000.00
+
+Rosemie G. Gequillana
+
+ 42-20-0373R 
+
+Feb. 6, 2020 to 
+
+Feb. 6, 2021
+
+  100,000.00 
+
+P250,000.00
+
+Jennifer T. Guanco
+
+ 42-20-0944R 
+
+ Mar. 26, 2020 to 
+
+March 26, 2021 
+
+  100,000.00 
+
+P250,000.00
+
+George P. Gumawa, Jr.
+
+ 42-19-2054R 
+
+ July 11, 2019 to 
+
+July 11, 2020 
+
+  100,000.00 
+
+P250,000.00
+
+Chim C. Misajon
+
+ 42-20-0202N 
+
+ Jan. 21, 2020 to 
+
+Jan. 21, 2021    
+
+  100,000.00 
+
+P250,000.00
+
+Ruel A. Rodriguez
+
+ 42-19-2055R 
+
+ July 11, 2019 to 
+
+July 11, 2020 
+
+  100,000.00 
+
+P250,000.00
+
+Ma. Evangeline P. Perez
+
+ 42-19-4044N 
+
+Nov. 5, 2019 to 
+
+Nov. 5, 2020
+
+  100,000.00 
+
+P250,000.00
+
+
+
+Our examination of the subsidiary ledgers pertaining to the concerned accountable officers’ collections and disbursements revealed that their total average accountability within the effective period covered by their fidelity bond exceeded the maximum cash accountability of their approved bond, shown on as follows:
+
+
+
+Accountable Officer
+
+Position/ Designation
+
+Approved
+
+Per Audit
+
+
+
+
+
+Amount of Bond
+
+Cash Accountability
+
+Average Accountab-ility per Month
+
+Amount of Bond
+
+Ernie C. Ongao
+
+Administrative Officer I/Designated Cashier
+
+     350,250.00 
+
+P500,001.00-P750,000.00
+
+  17,190,216.56 
+
+  3,500,000.00 
+
+Lycel Pacheco
+
+Assistant Prof. IV/ Scholarship/Financial Assistance - Special DO
+
+     100,000.00 
+
+P100,000.00-P250,000.00
+
+       853,250.00 
+
+     500,000.00 
+
+Jimmy O. Degillo
+
+Associate Prof. I/ Director for Extension and Community Dev't. Services (Special DO)
+
+     100,000.00 
+
+P100,000.00-P250,000.00
+
+       127,113.05 
+
+     100,000.00 
+
+Jordan G. Apawan
+
+Instructor I/Designated CDO
+
+    100,000.00 
+
+P100,000.00-P250,000.00
+
+       225,588.89 
+
+     100,000.00 
+
+Moody S. Deocares
+
+Assistant Prof. IV/ Designated CDO
+
+    100,000.00 
+
+P100,000.00-P250,000.00
+
+    1,732,522.33 
+
+     750,000.00 
+
+Rosemie G. Gequillana
+
+Instructor I/ Designated CDO
+
+    100,000.00 
+
+P100,000.00-P250,000.00
+
+       486,606.91 
+
+     225,000.00 
+
+Jennifer T. Guanco
+
+Instructor I/ Designated CDO
+
+    100,000.00 
+
+P100,000.00-P250,000.00
+
+       617,943.74 
+
+     350,250.00 
+
+George P. Gumawa, Jr.
+
+Instructor I/ Designated CDO
+
+    100,000.00 
+
+P100,000.00-P250,000.00
+
+       857,623.35 
+
+     500,000.00 
+
+Chim C. Misajon
+
+Instructor I/ Designated CDO
+
+    100,000.00 
+
+P100,000.00-P250,000.00
+
+       145,076.02 
+
+     100,000.00 
+
+Ruel A. Rodriguez
+
+Instructor I/ Designated CDO
+
+    100,000.00 
+
+P100,000.00-P250,000.00
+
+       309,898.82 
+
+     225,000.00 
+
+Ma. Evangeline P. Perez
+
+Associate Prof. IV/ Designated CDO
+
+    100,000.00 
+
+P100,000.00-P250,000.00
+
+       888,890.33 
+
+500,000.00
+
+
+
+The Campus Cashier and Designated Collecting/Special Disbursing Officers contended that the amount of bond is the amount applied since their initial assumption up to date. It is inferred, therefore, that despite the subsequent increase in the accountable officer’s total actual accountability, the amount of bond remains unchanged.
+
+
+
+ As provided in Item 4.8 of the aforementioned treasury circular, the Fidelity Fund shall be available for the purpose of replacing defalcations, shortages, unrelieved losses in the accounts of bonded public officers, for the payment of fees and cost incident to civil proceedings brought against them to recover sums paid on their account from said Fund.  Thus, insufficient bond coverage places the government at a disadvantage in the unlikely event that the aforementioned conditions arise because the existing bond of the accountable officer may not be enough to replace any possible losses. 
+
+
+
+We recommended and Management, thru the University President, agreed to increase the bond of the Campus Cashier and Designated Collecting/Special Disbursing Officers to cover their average maximum cash accountability and to henceforth ensure that they are always properly bonded in accordance with Items 5.1, 7.3 and 7.3.2 of Treasury Circular No. 02-2009 dated August 6, 2009.
+
+
+
+
+
+	8)	Required Reports on fuel consumption were not regularly prepared and properly accomplished contrary to COA Circular No. 77-61 dated September 26, 1977, resulting to difficulty in ascertaining the reasonableness of fuel consumption amounting to P2,026,713.08 for CY 2020.
+
+
+
+COA Circular No. 77-61 dated September 26, 1977 prescribes the use of the Manual on Audit for Fuel Consumption of the Government Motor Vehicles.  The manual requires the preparation and submission of the following reports to the Auditor for verification: 
+
+
+
+
+
+
+
+
+
+“Monthly Report of Official Travels – At the end of the month, a Monthly Report of Official Travels shall be prepared by the driver concerned summarizing in chronological order his trips for the month.  For each vehicle, one report shall be prepared monthly.  The report shall be certified by the driver and approved by the Administrative Officer.  
+
+
+
+It shall be prepared in three copies to be distributed as follows:
+
+
+
+Original	Auditor (thru Chief Accountant)
+
+Duplicate	Administrative Officer or equivalent
+
+Triplicate	File
+
+
+
+Report of Fuel Consumption – Monthly, a report of fuel consumption shall be prepared and submitted by the Agency personnel concerned to the Auditor for verification purposes.  The report shall show among others, the different types of motor vehicles utilized by the agency during the month, total distance traveled, total fuel used and the normal fuel consumption foe each vehicle.  The report to be prepared in three copies by the Agency personnel concerned, shall be verified by the Auditor.  Copies shall be distributed as follows:
+
+
+
+Original	COA Regional Director
+
+Duplicate	Auditor for audit purposes
+
+Triplicate	Agency file”
+
+
+
+For CY 2020, total gasoline expenses of the CPSU amounted to P2,026,713.08.  Our post audit of the disbursement vouchers showed that the Driver’s Trip Tickets, Purchase Order, Purchase Request, Vale Form were all attached thereto.  However, the Report of Fuel Consumption, as well as the Monthly Report of Official Travels were not prepared and submitted monthly to the Auditor for verification.   
+
+
+
+COA Circular No. 77-61 also mandates that in order to properly control and regulate the use of government vehicles, a Driver’s Trip Ticket should be properly accomplished and duly approved.  The regulation also requires that the trip ticket should be serially numbered.  However, in our review of the Driver’s Trip Tickets, we observed that these were not serially numbered and were also not properly filled up.  For instance, Driver’s Trip Tickets dated January 8, 15, February 7-9, 2020 had no written information about the time, place and odometer reading both of its departure and arrival.  Furthermore, there were trip tickets which lacks data on the date of travel, name of driver and name of authorized passenger.  The Audit Team also noted that there was no signature of the passenger indicated in the trip tickets.  
+
+
+
+
+
+
+
+
+
+The University Drivers explained that they were not able to fill up all the data in the trip tickets because the vehicles were already outdated and the gauges for odometer and fuel were already damage hence, they could not determine the distance travelled, as well as the remaining balance of fuel in the tank.  However, the same information was not filled up for the newly purchased vehicles.
+
+
+
+The foregoing deficiencies noted resulted to difficulty in ascertaining the reasonableness of the University’s fuel consumption in the total amount of P2,026,713.08 during the year.
+
+
+
+CPSU personnel said that they were unaware that the above mentioned reports should be prepared and submitted monthly to the Audit Team or that the Driver’s Trip Tickets should be properly accomplished but promised the Audit Team to do so starting CY 2021.
+
+
+
+We recommended and Management, thru the University President, agreed to direct the authorized drivers and person in charge to prepare and submit the Monthly Report of Official Travels and Report of Fuel Consumption to the Auditor pursuant to COA Circular 77-61 and to henceforth, require the persons concerned to properly accomplish the same.   
+
+
+
+	
+
+A)	OTHER MATTERS
+
+
+
+We have audited the infrastructure projects, purchase of equipment and payment for the design of the 27-classroom of the University, totaling P115,996,029.21, as follows, however, we have not yet obtained sufficient evidence on the matter to warrant the inclusion of an audit observation in the report.
+
+
+
+Project/ Program/ Activity Name
+
+Location
+
+
+
+Contract Cost
+
+
+
+1
+
+Upgrading of Technology for Muscovado Sugar Production
+
+CPSU-Main Campus
+
+P         7,144,668.00
+
+2
+
+Construction of 3-Storey 27 Classroom Building
+
+CPSU-Main Campus
+
+48,949,430.18
+
+3
+
+Upgrading and Modification of CPSU Electrical System
+
+CPSU-Main Campus
+
+18,777,932.28
+
+4
+
+Construction of Two-Storey School Building
+
+CPSU-Hinoba-an Campus
+
+13,800,000.00
+
+5
+
+Construction of Extension Services
+
+CPSU-Main Campus
+
+998,938.75
+
+6
+
+Laboratory Equipment for College of Engineering
+
+CPSU-Main Campus
+
+8,500,000.00
+
+7
+
+Laboratory Equipment for College of Engineering
+
+CPSU-Main Campus
+
+6,156,000.00
+
+8
+
+All-in-One Rice Milling Machine for College of Agriculture
+
+CPSU-Main Campus
+
+1,259,000.00
+
+9
+
+Technical & Scientific Equipment for College of Engineering
+
+CPSU-Main Campus
+
+1,027,478.00
+
+10
+
+Agricultural Equipment for Soil Laboratory
+
+CPSU-Main Campus
+
+2,688,160.00
+
+11
+
+Desktop Computers for various Laboratories and Offices of College of Engineering
+
+CPSU-Main Campus
+
+1,580,000.00
+
+12
+
+Technical and Scientific Equipment for College of Engineering (Density Apparatus/ Refrigeration System)
+
+CPSU-Main Campus
+
+1,123,000.00
+
+13
+
+Information & Communication Technology Equipment (Computers) for College of Computer Studies
+
+CPSU-Main Campus
+
+1,611,422.00
+
+14
+
+Design for the Construction of 27-classroom Building
+
+CPSU-Main Campus
+
+2,380,000.00
+
+Total
+
+  P   115,996,029.21
+
+
+
+
+
+B)	COMPLIANCE WITH TAX LAWS
+
+
+
+	CPSU complied with tax laws on the withholding of taxes from salaries, wages and other services, which were remitted to the Bureau of Internal Revenue.  However, the income taxes on faculty and employees’ benefits were not correctly withheld, thus corresponding audit observations were included on this report.
+
+
+
+
+
+C)	COMPLIANCE WITH GSIS, HDMF AND PHILHEALTH REGULATIONS
+
+
+
+The College withheld during the year premiums accruing to GSIS, HDMF and Philhealth and were all remitted in accordance with the pertinent regulations of GSIS, HDMF and Philhelath.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D)	SUSPENSIONS, DISALLOWANCES AND CHARGES
+
+
+
+The status of suspensions and disallowances as of December 31, 2020 is shown as follows:
+
+
+
+
+
+Beginning Balance 01/01/2020
+
+Issued & Settled
+
+During the Year 2020
+
+Ending Balance 12/31/2020
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Disallowance
+
+
+
+₱   459,423.60
+
+
+
+₱                -
+
+
+
+₱  63,000.00
+
+
+
+₱ 396,423.60
+
+Notice of Suspension
+
+123,035.72
+
+- 
+
+-
+
+123,035.72
+
+Notice of Charge
+
+-
+
+-
+
+-
+
+-
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+51
+
+
+
+
+
+
+
+
+

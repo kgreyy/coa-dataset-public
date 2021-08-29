@@ -1,0 +1,2632 @@
+
+
+PART II – OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+A)	FINANCIAL AUDIT
+
+
+
+Cash in Bank
+
+
+
+1)	The balance of Cash in Bank – Local Currency, Current Account (CIB-LCCA) of  ₱376,365,053.68 at year-end is doubtful due to: (a) unrecorded bank balance of ₱4,464,515.18 maintained with the Development Bank of the Philippines (DBP) Account No. 00-5-13110-435-1; (b) non-reversion of unreleased checks totaling ₱134,210.75 to the cash account; and (c) non-cancellation of stale checks amounting to ₱14,600.00, which resulted in the understatement of the affected accounts in the financial statements (FS). Moreover, the maintenance of a temporary account with DBP for payroll has no legal basis; thus, considered unauthorized account pursuant to Section 3.3 of DOF/DBM/COA Joint Circular (JC) No. 4-2012.
+
+
+
+	1)	Review of the cash accounts disclosed the following omissions and /or accounting errors:
+
+
+
+Nature of Error
+
+
+
+Amount of Misstate ments (Aggregate)
+
+
+
+Amount of (Over)/Understatements
+
+
+
+
+
+Asset
+
+Liabilities
+
+Equity
+
+
+
+
+
+Cash in Bank - LCCA
+
+Accounts Payable
+
+Due to Officers and Employees
+
+Salaries and Wages
+
+Accumula ted Surplus/ (Deficit)
+
+Unrecor-ded Bank Account
+
+4,464,515.18
+
+4,464,515.18
+
+ 
+
+4,448,016.56 
+
+(10,926.41)
+
+  5,572.21 
+
+Non-reversal of unreleased checks
+
+134,210.75
+
+   134,210.75 
+
+  134,210.75 
+
+ 
+
+ 
+
+ 
+
+Non-adjustment of Stale Checks
+
+14,600.00
+
+     14,600.00 
+
+     14,600.00 
+
+ 
+
+ 
+
+ 
+
+Sub-total
+
+4,613,325.93
+
+4,613,325.93 
+
+ 148,810.75
+
+4,448,016.56 
+
+(10,926.41) 
+
+ 5,572.21 
+
+Effect on the FS
+
+4,613,325.93 
+
+4,613,325.93
+
+
+
+Unrecorded Bank Account - ₱4,464,515.18
+
+
+
+	2)	Section 111 of PD 1445 states that, the accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government. The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	3)	Confirmation of bank balances as of December 31, 2020 from DBP – Camp Aguinaldo Branch, disclosed an unrecorded current account No. 00-5-13110-435-1 under the name of OCD with a balance of ₱4,464,515.18. It was noted that said account was not among those listed in the records of the OCD.
+
+
+
+	4)	Interview with the Accountant revealed that the bank account is a temporary account intended for payroll distribution and the funds are coming from the MDS bank account. The same was not recorded in the books because it always had a zero balance since the amount transferred was exactly the amount of payroll.
+
+
+
+	5)	Fund transfers (FTs) to the above account was recorded as debit to Salaries and Wages instead of the CIB-LCCA - DBP account and credit to Cash in Bank – Modified Disbursement System - Regular,  According to Management, the balance of ₱4,464,515.18 pertained to: a) salaries amounting to ₱4,417,485.56 for the period December 16-31, 2020 which were credited to employees’ individual savings account on January 4, 2021; b) interest income amounting to ₱5,572.21; and c) unreconciled amount of ₱41,457.41 which is still subject to bank verification. 
+
+
+
+	6)	In view of the foregoing deficiencies, the CIB - LCCA and Accumulated Surplus accounts were understated by ₱4,464,515.18 at year-end. Moreover, the maintenance of a separate depository account is not a requirement for payroll; thus, considered unauthorized account pursuant to Section 3.3 of DOF/ DBM/COA JC No. 4-2012 dated September 11, 2012.  
+
+
+
+	7)	Section 3.3 of DOF/DBM/COA JC No. 4-2012 dated September 11, 2012 states that: Unauthorized accounts refer to cash account balances maintained by agencies without specific authority or legal basis   x x x x.
+
+
+
+Non-Reversion of Unreleased Checks - ₱134,210.75
+
+
+
+	8)	Section 56 Chapter 19 of the GAM for NGAs Volume I states that: A Schedule of Unreleased Commercial Checks shall be prepared by the Cashier for submission to the Accounting Division/Unit. All unreleased checks at the end of the year shall be reverted back to the cash accounts. A JEV shall be prepared to recognize the restoration of the cash equivalent to the unreleased checks and the recognition of the appropriate liability/payable account. The accounting entry for the restoration of the unreleased check to the cash account shall be a debit to “Cash in Bank, Local Currency Current” account with credit to the appropriate liability account. There shall be no physical cancellation of the checks.
+
+
+
+	9)	In Region V, the Audit Team requested for the Schedule of Unreleased Checks as of December 31, 2020.  Details are as follows:
+
+
+
+
+
+Payee
+
+Check No.
+
+Date
+
+Amount
+
+Mexico Printing Company, Inc.
+
+100064
+
+09/25/2020
+
+₱    6,093.75
+
+Stellar 167 Manpower Recruitment and Services, Inc.
+
+136049
+
+10/09/2020
+
+128,117.00
+
+Total
+
+₱134,210.75
+
+
+
+
+
+	10)	Interview with the Admin and Finance Chief revealed that they failed to prepare a year-end report of the Schedule of Unreleased Checks because they are not  aware of the existing regulation relative thereto as discussed in Section 56, Chapter 19 of the GAM for NGAs Volume 1. 
+
+
+
+	11)	As such, the CIB - LCCA and the corresponding liability account were both understated by said amount.
+
+
+
+Stale Checks - ₱14,600.00
+
+
+
+	12)	In Region IV-A, four stale checks totaling ₱14,600.00 were still included in the list of outstanding checks of the agency’s regular fund; thus, overstating the CIB-LCCA and understating the corresponding liability account.
+
+
+
+	13)	We recommended that Management require the:  
+
+
+
+a)	Accountant to prepare necessary adjustments to record the balance of the payroll account to reflect correct balances of affected accounts in the FS; 
+
+
+
+b)	Director of Region V to direct the Disbursing Officer to notify the payee of the stale checks in their possession for cancellation and replacement. Make sure that such cancellation/replacement will be reported to the OCD Central Office for appropriate adjustment/s in the books of accounts; 
+
+
+
+c)	Director of Region IV-A to direct the Admin and Finance Chief to submit a Schedule of Unreleased Checks to the OCD Central Office – Accounting Division (AD) for reversion of the amount to cash, and the recognition of the related liability; and
+
+
+
+d)	Concerned official to close the DBP current account or secure authority from the Permanent Committee to maintain such account.
+
+
+
+Management Comment:
+
+
+
+	14)	The Management commented that interest earnings on DBP-CASA (Payroll) Account No. 00-5-13110-435-1 for the period September 2018 to December 2020 in the total amount of ₱5,572.21 were recognized under JEV No. 2021-03-000936 dated March 25, 2021.
+
+
+
+	15)	Further, Management prepared bank reconciliation statement (BRS)  for Payroll account (CIB, LCCA – DBP CASA) for the month of December 2020  with a  balance of ₱4,464,515.18 representing: a) salaries amounting to ₱4,417,485.56  for the period December 16-31, 2020 which were credited to employees individual savings account on the succeeding banking day, January 4, 2021;           b) interest income amounting to ₱5,572.21; and c) unreconciled amount of ₱41,457.41 which is still subject to bank verification. 
+
+
+
+
+
+Due from National Government Agencies (NGAs) - Procurement Service (PS)-DBM
+
+
+
+2)	The balance of Due from NGAs account amounting to ₱161,598,289.54 as at year-end is unreliable due to discrepancy of ₱56,282,529.23 between the records of OCD and PS-DBM caused by unrecorded deliveries of ₱16,247,300.21; Fund Transfers (FT) amounting to ₱40,200,000.00 not received by PS-DBM; and unaccounted difference of ₱164,770.98.
+
+
+
+	1)	Paragraph 27 of IPSAS 1 states that: the financial statements shall present fairly, among others, the financial position and financial performance of an entity. Fair presentation requires faithful representation of the effects of the transactions, other events and conditions in accordance with the definitions and recognition criteria of assets, liabilities, revenue and expenses set out in the International Public Sector Accounting Standards (IPSASs).
+
+
+
+	2)	The account Due from NGAs with a balance of ₱161,393,050.76 as of December 31, 2020 pertains to unliquidated FT to PS-DBM. On the other hand, results of confirmation with PS-DBM, its Statement of Account (SOA) showed a year-end balance of ₱105,110,521.53 or a discrepancy of ₱56,282,529.23.
+
+
+
+	3)	Review and analysis of OCD records and PS-DBM SOA disclosed that there were unrecorded deliveries and FT not received by PS-DBM totaling ₱56,447,300.21. Details are as follows:
+
+
+
+Nature of Error
+
+Amount of Misstatements (Aggregate)
+
+Amount of (Over)/Understatements
+
+
+
+
+
+Asset
+
+Equity
+
+
+
+
+
+Due from NGAs
+
+Inventory Accounts
+
+PPE Account
+
+Accumulated Surplus/ (Deficit)
+
+Non-recording of deliveries
+
+16,247,300.21
+
+(16,247,300.21)
+
+13,624,000.00
+
+662,272.00
+
+(1,961,028.21)
+
+Fund transfer not received by PS-DBM 
+
+40,200,000.00
+
+(40,200,000.00)
+
+ 
+
+
+
+(40,200,000.00)
+
+Sub-total
+
+56,447,300.21
+
+(56,447,300.21)
+
+13,624,000.00
+
+662,272.00
+
+(42,161,028.21)
+
+ Effect on the Asset and Equity 
+
+(42,161,028.21)
+
+(42,161,028.21)
+
+
+
+Unrecorded deliveries - ₱16,247,300.21 
+
+
+
+	4)	Eight deliveries in CYs 2019 and 2020 with an aggregate cost of ₱16,247,300.21, were not recorded in the books of OCD as of December 31, 2020 resulting in the overstatement of Due from NGAs account and the understatement of the affected accounts by the same amount, summarized as follows:
+
+
+
+Reference
+
+Date
+
+Amount
+
+Remarks
+
+NTD19-006954(CSE)
+
+30/04/2019
+
+ ₱ 128,375.01 
+
+Not yet recorded
+
+M19-007383
+
+05/08/2019
+
+           36,909.83 
+
+
+
+M20-001124
+
+03/04/2020
+
+         791,554.60 
+
+
+
+M20-001125
+
+03/04/2020
+
+         266,222.25 
+
+
+
+M20-003466
+
+23/06/2020
+
+         662,272.00 
+
+PPE
+
+GFA20-00997
+
+03/04/2020
+
+         333,461.41 
+
+Travelling Expense
+
+GFA20-01189 
+
+25/03/2020
+
+         404,505.11 
+
+
+
+M20-006248
+
+03/10/2020
+
+      5,980,000.00 
+
+Welfare Goods and Distribution Supply Inventory
+
+M20-006764
+
+26/10/2020
+
+      7,644,000.00 
+
+
+
+Total
+
+
+
+ ₱ 16,247,300.21 
+
+
+
+
+
+	5)	Out of ₱16,247,300.21, the amount of ₱15,024,238.52 was recorded only in January and March 2021.  Deliveries/liquidations with reference Nos. GFA20-00997 and GFA 20-01189 totaling ₱737,966.52 pertained to Travelling Expenses for CY 2020, MC20-006248 and MC20-006764 totaling ₱13,624,000.00 pertain to Welfare Goods and Distribution Supplies Inventory (WGDSI) while M20-003466 refers to 16 laptops. The remaining balance of ₱1,223,061.69 remained unrecorded as of March 2021.
+
+
+
+	6)	The non-recording of deliveries/liquidations was attributed by the Accountant to the non-submission by the Property Officer of delivery receipts (DRs) and other related documents as bases for recording in the books.
+
+
+
+Fund transfer not received by PS-DBM  - ₱40,200,000.00
+
+
+
+	7)	Checks payable to PS-DBM totaling ₱40,200,000.00 were recorded in the books of OCD as FTs but are not reflected in the SOA of PS-DBM, details are as follows:
+
+
+
+Particulars
+
+Date
+
+PS-DBM
+
+Ck#171510
+
+23/12/2019
+
+₱
+
+15,000,000.00
+
+Ck#171511
+
+23/12/2019
+
+
+
+7,700,000.00
+
+Ck#171512
+
+23/12/2019
+
+
+
+10,500,000.00
+
+Ck#171513
+
+23/12/2019
+
+
+
+5,000,000.00
+
+Ck#171514
+
+23/12/2019
+
+
+
+2,000,000.00
+
+Total       
+
+₱
+
+40,200,000.00
+
+
+
+
+
+	8)	Verification disclosed that the above checks were still in the possession of the General Services Division and not released to PS-DBM; thus, became stale and reverted back to BTr.
+
+
+
+
+
+Unaccounted difference - ₱164,770.98
+
+
+
+	9)	Recognition of the above errors in the books will reduce the discrepancy from ₱56,282,529.23 to ₱164,770.98 which needs further verification, computed as follows:
+
+
+
+Particulars
+
+Amount
+
+Balance per book 12/31/20
+
+
+
+₱161,393,050.76
+
+Less: Unrecorded deliveries
+
+₱16,247,300.21
+
+
+
+         Unreleased/unissued checks
+
+40,200,000.00
+
+(56,447,300.21)
+
+Adjusted balance per OCD
+
+
+
+104,945,750.55
+
+Balance per PS-DBM
+
+
+
+105,110,521.53
+
+Remaining Discrepancy
+
+
+
+₱164,770.98
+
+
+
+
+
+	10)	We recommended that Management require the:
+
+
+
+a)	Accountant and the Property Officer to continue the verification of the remaining discrepancy of ₱164,770.98 and reconcile with PS/DBM records;
+
+
+
+b)	Property Officer to immediately furnish the Accountant with DRs and periodically reconcile with the PS-DBM as regards to deliveries; and
+
+
+
+c)	Accountant to prepare adjusting entries for unrecorded deliveries and unreleased checks. 
+
+
+
+Management Comment:
+
+
+
+	11)	The Property and Supply Section has furnished the Accounting Section (AS) with copies of DRs in the total amount of ₱15,419,743.37 while the remaining amount is still subject to reconciliation.
+
+
+
+
+
+Due from Government-Owned or Controlled Corporations (Due from GOCCs) –Leyte Metropolitan Water District (LMWD)
+
+
+
+3)	Out of the ₱42,000,000 Fund Transfer to LMWD – Implementing Agency (IA) sourced from Yolanda Funds, ₱24,640,000.00 was already utilized but remained unliquidated at year-end due to the failure of the IA to submit liquidation report. This resulted in the overstatement of Due from GOCCs account and the understatement of Expense/Accumulated Surplus account both by said amount. 
+
+
+
+	1)	The account Due from GOCCs - LMWD with a year-end balance of ₱42,000,000.00 pertained to the fund transferred by OCD to LMWD on June 13, 2019 per JEV-2019-06-000091 and Check No. 50311036.  The FT was intended for the provision and installation of 14,000 units of water meters and its necessary accessories for homes that were built in Tacloban City North Resettlement Sites.  The amount transferred was sourced from cash donations for victims of the Super Typhoon Yolanda.
+
+
+
+	2)	In the Memorandum of Agreement (MOA) entered into by and between the OCD and the LMWD, one of the responsibilities of OCD is to conduct inspection, through its central or regional offices (ROs), to determine the extent of accomplishments of the project as may be necessary. On the other hand, the responsibilities of LMWD include the following:
+
+
+
+--	Conform to RA No. 9184, otherwise known as the Government Procurement Reform Act (GPRA), and its implementing rules and regulations (IRR) in procuring necessary materials and services for the proper implementation of the contract;
+
+
+
+--	Copy furnished the OCD with the approved Notice of Award(s) (NOA) and the corresponding contract document(s) covering the 14,000 water meters and its implementation as soon as the latter is signed; and
+
+
+
+--	Invite OCD to conduct joint inspection of the PROJECT during each progress billing or whenever it is deemed necessary.
+
+
+
+	3)	In the review of the MOA, we noted that there is no provision on the timeline of project completion and submission of progress report in the implementation of the project.
+
+
+
+	4)	Nonetheless, Section 4.6 of COA Circular 94-013 dated December 13, 1994 states that: Within ten (10) days after the end of each month/end of the agreed period for the project, the Implementing Agencies (IA) shall submit the Report of Checks Issued (RCI) and the Report of Disbursement (RD) to report the utilization of the fund.
+
+
+
+	5)	Based on the documents furnished by the LMWD to OCD, the amount of ₱24,640,000.00 was already utilized for the payment of 14,000 water meters. Details are as follows:
+
+
+
+Date
+
+PO No.
+
+RR No.
+
+DR No.
+
+Qty.
+
+Unit Cost
+
+Total Cost
+
+June 1, 2020
+
+GS-19-003
+
+20-06-007
+
+1430
+
+3,980
+
+1,760
+
+₱7,004,800
+
+June 25, 2020
+
+GS-19-003
+
+20-06-008
+
+72736
+
+10,020
+
+1,760
+
+17,635,200
+
+Grand Total
+
+₱24,640,000
+
+
+
+
+
+
+
+	6)	The utilized amount remained unliquidated and unrecorded in the books, resulting in the overstatement of related Asset accounts and the understatement of Expense or Accumulated Surplus/Deficit account.  Under Section 4.6 COA Circular 94-013, the utilization of fund must be reported through the submission of RCI and RD within 10 days after the end of each month and at the end of the completion of the project.
+
+
+
+	7)	Further, the documents submitted to the Audit Team by OCD do not include report issued by the concerned OCD official on the extent of accomplishment of the project, NOA and the corresponding Contract documents covering the 14,000 water meters, as provided in the MOA.
+
+
+
+	8)	As to the timeline of project implementation, it should be emphasized that it is a major and integral part of a project. Time plays an important role in project management as it provides the need for successful and timely completion of the project.  
+
+  
+
+	9)	We recommended that Management:
+
+
+
+a)	require the LMWD to submit liquidation report for funds already utilized to serve as basis for recording in the books and to adjust the correct balances of affected accounts;
+
+
+
+b)	require the LMWD to furnish OCD with copy of the NOA and the contract documents; 
+
+
+
+c)	instruct the concerned OCD officials to conduct inspection to determine the extent of accomplishment of the project; and
+
+
+
+d)	provide timelines in the MOA of all future undertakings.
+
+
+
+Management Comment:
+
+
+
+	10)	The Management has recently received utilization report duly noted by the LMWD - Resident Auditor in the amount of ₱24,640,000.00.  Consequently, the AS has recognized said utilization/liquidation in the books under JEV No. 2021-03-000883 dated 03/22/2021.
+
+
+
+	11)	Accordingly, Management sent a letter to the LMWD Chairman of the Board, requiring the immediate submission of relevant reports such as RCI, ROD, and NOA with corresponding contract documents, among others.
+
+
+
+	12)	Moreover, Memorandum No. 20, s.2021 was issued to OCD VIII Regional Director directing him to coordinate with LMWD for the immediate submission of liquidation and documentary requirements and to conduct ocular inspection of the project and thereafter render an after-activity report to the Civil Defense Administrator (CDA).
+
+
+
+
+
+Inventories
+
+
+
+4)	The existence and accuracy of the balances of Inventory accounts totaling ₱552,033,524.35 as of December 31, 2020 could not be relied upon due to: (a) non-conduct of physical count for nine inventory accounts; hence, non-submission of Report on the Physical Count of Inventories (RPCI) for CY 2020; (b) non/delayed submission of Report of Supplies and Materials Issued (RSMI)  by the Property Section to the Accounting Section; and (c) inclusion of various medical equipment worth ₱62,226,845.13 already distributed/issued to different COVID 19 quarantine and testing facilities resulting in the overstatement of Property and Equipment (PE) for Distribution and the understatement of the related expenses. 
+
+
+
+Non-conduct of Physical Count for nine Inventory accounts
+
+
+
+	1)	Section 13, Chapter 8 of the GAM for NGAs, Volume I provides that:
+
+
+
+Inventory Accounting System.  The Inventory Accounting system consists of the system of monitoring, controlling, and recording of acquisition and disposal of inventory. Xxx
+
+
+
+Physical count/inventory, which is required, semi-annually, is an indispensable procedure for the checking the integrity of property custodianship.
+
+
+
+	2)	Likewise, GAM Appendix 59, NGAs Volume II states that: 
+
+
+
+The ICS is a form used by the Supply and/or Property Custodian to issue tangible items amounting to less than ₱15,000 to end-user to establish accountability over them.   
+
+
+
+The ICS shall be prepared in two (2) copies distributed as follows:
+
+
+
+Original – Supply and/or Property Division/Unit
+
+Copy 2 – Recipient or end-user of the inventory.
+
+
+
+	3)	After the physical inventory taking, the Inventory Committee (IC) shall reconcile results of the count with the property and accounting records. The inventory listing of supplies and materials shall be checked against the stock cards maintained by the supply/property officer and to the Supplies Ledger Cards (SLCs) and control accounts maintained by AS. All discrepancies between physical and book inventory balances must be investigated and cleared immediately.  If necessary, written explanations shall be required from persons responsible.
+
+
+
+	4)	The reported balances of Inventory accounts as at year-end consists of the following:
+
+
+
+Inventory Accounts
+
+Balance as of December 31, 2020
+
+Inventory Held for Distribution
+
+
+
+Welfare Goods for Distribution
+
+	 ₱200,024,279.75
+
+Property and Equipment for Distribution
+
+89,011,591.09
+
+Other Supplies and Materials for Distribution
+
+ 67,948,313.16
+
+Inventory Held for Consumption
+
+
+
+Office Supplies Inventory
+
+7,402,535.49
+
+Other Supplies and Materials Inventory
+
+182,033,968.20
+
+Semi-Expendable Machinery and Equipment
+
+
+
+Semi-Expendable Office Equipment
+
+46,961.36
+
+Semi-Expendable Information and Communications Technology Equipment
+
+988,395.76
+
+Semi-Expendable Communications Equipment
+
+193,114.16
+
+Semi-Expendable Military, Police and Security Equipment
+
+18,500.00
+
+Semi-Expendable Other Equipment
+
+2,120,852.50
+
+Semi-Expendable Machinery and Equipment
+
+2,245,012.88
+
+Total
+
+₱552,033,524.35
+
+
+
+        
+
+	5)	Inquiry with the Supply Officer revealed that, except for Office Supplies Inventory, the physical inventory of nine inventory accounts were not conducted due to the pandemic and the busy schedules, especially during the audit of the International Organization for Standardization Quality Management System (ISO – QMS) done in the last quarter of CYs 2020 and early 2021 
+
+
+
+	6)	Comparison of balances of the RPCI - Office Supplies Inventory for CY 2020 of ₱3,641,872.32 and Office Supplies Inventory per books of ₱7,402,535.49 disclosed a variance of ₱3,760,663.17 which could be attributed to non/delayed submission of RSMIs by the Supply Officer to AS.
+
+ 
+
+	7)	Random test check of balances per Stock Cards against accounting records was conducted on semi-expendable items which yielded unreconciled figures as shown below:
+
+
+
+Items
+
+Per Books
+
+Per Stock Card
+
+Semi-Expendable Office Equipment:
+
+
+
+
+
+--	Facsimile Machine
+
+8
+
+6
+
+Semi-Expendable Information and Communications Technology Equipment:
+
+
+
+
+
+--	External Hard Drive 1TB 2 SHDD
+
+12
+
+0
+
+--	Canon 92010, 3-in-1 Multifunction Printer w/USB
+
+120
+
+0
+
+Semi-Expendable Communications Equipment
+
+
+
+
+
+--	American Home LED TV, 32”
+
+10
+
+0
+
+
+
+	8)	Review of ICS on file in the Property and Supply Section - Central Office (CO) disclosed that they were not furnished with copies of the ICS for semi-expendable items issued by ROs; hence, the reason for non-recording of issuance in the books of accounts. This is an indication of inadequate or absence of   monitoring scheme for inventories by the Property and Supply Section. One of the duties of Property/Supply Officer is to keep tract of receipts of deliveries and issuances that will allow regular update of inventory records and help prevent situations like running out of stock.  Likewise, an updated inventory records will facilitate detection of loss or missing items.
+
+
+
+	9)	We also noted that for some issuances of semi-expendable items, PAR was used instead of ICS.  Under Appendix 59 of GAM Volume II, ICS is used by Supply and/or Property Custodian for issuance of tangible items amounting to less than ₱15,000 to end-user. The use of appropriate form is relevant for an organized and efficient filing of documents that will facilitate verification of transactions.
+
+
+
+Property and Equipment for Distribution Inventory
+
+
+
+	10)	Under the Revised Chart of Accounts (RCA), GAM for NGAs Volume III, the Property and Equipment for Distribution is defined as the account used to recognize the cost of property and equipment purchased/received for distribution.  Credit this account for issuance to end-users or transfers.
+
+
+
+	11)	The above account is classified under the Inventories category because the goods recognized are intended for distribution and not for use of the procuring entity.  
+
+
+
+	12)	Our audit disclosed that the account PE for Distribution with a year-end balance of ₱89,011,591.09 includes various medical equipment and supplies totaling ₱62,226,845.13 purchased during the outbreak of COVID19. Since the items are classified as PE for Distribution, it is construed that the items distributed are intended as transfer and donation.
+
+
+
+	13)	Based on the Schedule of PE for Distribution, the procured items during the year are summarized below:
+
+
+
+Item
+
+Cost
+
+CCTV
+
+₱       291,955.13 
+
+Hospital Beds
+
+       2,250,000.00 
+
+Automatic Alcohol Stand
+
+         343,200.00 
+
+Cardiac Monitor
+
+       3,500,000.00 
+
+Defibrillator
+
+       1,729,000.00 
+
+Digital Sphygmomanometer
+
+         109,200.00 
+
+ECG Set/Machine
+
+         588,000.00 
+
+EENT Set
+
+         483,600.00 
+
+Finger Pulse Oximeter
+
+         192,000.00 
+
+Glucometer
+
+         216,000.00 
+
+IV Stand
+
+           43,680.00 
+
+Manual Resuscitator (Adult/Child)
+
+         135,200.00 
+
+Megaphone
+
+           32,000.00 
+
+Nebulizer
+
+             9,600.00 
+
+One Lot Medical Equipment
+
+     16,777,690.00 
+
+Oxygen Tank (Big/Small)
+
+         133,000.00 
+
+Portable Aircon
+
+         207,200.00 
+
+Portable Mechanical ventilator
+
+     10,500,000.00 
+
+Portable X-Ray Machine
+
+     23,300,000.00 
+
+Stethoscope
+
+           47,520.00 
+
+Table Top Oximeter
+
+       1,170,000.00 
+
+Wheelchair
+
+         168,000.00 
+
+Total
+
+₱ 62,226,845.13 
+
+
+
+	14)	Verification from Property Section disclosed that the above items were no longer in their custody and already distributed to different quarantine and testing facilities for COVID19.  We were informed that PARs were prepared to support the transfer/distribution. No MOA or equivalent document executed between the parties involved relating to the transfer/distribution. Moreover, the Audit Team (AT) was furnished with only one copy of PAR for goods worth ₱6,356,160.00.
+
+
+
+	15)	As provided in the RCA, GAM for NGAs Volume III, the PE for Distribution account should be credited upon issuance to end-users or transfers. The non-recording of issuances/transfers resulted in the overstatement of PE for Distribution account and the understatement of the related Expense account.
+
+
+
+	16)	We recommended that Management:
+
+
+
+a)	create an IC to conduct physical count of all inventories, reconcile results with the accounting records and verify causes of discrepancies;
+
+
+
+b)	instruct the Property and Supply Section to secure copies of ICS for all issuances of semi-expendable items purchased by the Regional Offices;
+
+
+
+c)	require all Regional SAOs to furnish the Central Office Property and Supply Section with all copies of ICS immediately upon issuance to end-users;
+
+
+
+d)	instruct the Chief Accountant and Property Officer to coordinate and reconcile their records regularly in order to facilitate early detection of errors;  
+
+
+
+e)	instruct the Property Officer to use ICS form for issuances of semi-expendable items; 
+
+
+
+
+
+
+
+
+
+f)	instruct the Property Officer to furnish the Accountant with copies of PARs for the issuances of PE for distribution items for recording in the books in order to reflect the correct balances of affected accounts; and
+
+
+
+g)	execute a MOA or equivalent document to support the transfer/ distribution of medical supplies and equipment to the recipient quarantine facilities. 
+
+
+
+
+
+Management Comments:
+
+
+
+	17)	Management agreed to create an IC and will issue a Memorandum Order for the creation of the CO and RO IC.
+
+ 
+
+
+
+	18)	All Regional SAO will be directed to immediately submit to the Property and/or Supply Section and AS of the CO all ICS issued to end-users.  Further, regular submission of required reports by the Regional SAO will be reiterated and monitored for compliance. A dedicated staff will be assigned to follow-up and monitor compliance on regular submission of required reports by Regional SAO to the CO.
+
+
+
+	19)	Further, PE intended for distribution or already distributed to COVID 19 quarantine and testing facilities will be issued with Property Transfer Report (PTR) and covered by a Deed of Donation as applicable, so that issuances to end-users/beneficiaries, shall be recorded under the appropriate Inventory account and the issuances to be charged to appropriate expenses account in compliance with the GAM for NGAs, Volumes II and III.
+
+
+
+
+
+
+
+Property Plant and Equipment (PPE)
+
+
+
+
+
+5)	The year-end balances of PPE accounts totaling ₱691,346,709.88 are unreliable due to non-reconciliation of the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) with property and accounting records showing a variance of ₱88,121,453.88.  Moreover, ownership of PPE already distributed to quarantine facilities, testing sites and regional hospitals could not be ascertained due to the absence of a MOA or equivalent document between the parties involved stating therein the intention for which the PPEs were deployed/transferred.
+
+
+
+
+
+Non-reconciliation of RPCPPE with accounting records and property records 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1)	 Physical count/inventory, which is required annually, is an indispensable procedure for checking the integrity of property custodianship. After the physical inventory taking, the IC shall reconcile the results of the count with the 
+
+
+
+
+
+property and accounting records. The inventory listing of PPE shall be checked with the Property Card (PC) maintained by the Property Unit as against the Property Equipment Ledger Cards (PPELC) maintained by the Accounting Unit and total thereof shall be reconciled with the control accounts in the general ledger (GL).
+
+
+
+	2)	COA Circular No. 2020-006 dated January 31, 2020 provides the guidelines for the one-time cleansing of PPE balances and the procedures in the conduct of physical count of PPE, recognition of PPE Items found at station, and disposition for non-existing/missing PPE items.
+
+
+
+	3)	The PPE accounts have an aggregate balance of ₱691,346,709.88 as of December 31, 2020 in the books of accounts while the RPCPPE indicated a total balance of ₱635,974,532.48; thus, a difference of ₱88,121,453.88, details are as follows:
+
+
+
+PPE
+
+Per books
+
+Per RPCPPE
+
+Difference
+
+Buildings
+
+₱127,273,040.64
+
+₱127,273.040.64
+
+-
+
+Other Structures
+
+1,259,075.33
+
+1,259,075.33
+
+-
+
+Machinery
+
+9,723,533.75
+
+22,538,752.01
+
+₱12,815,218.26
+
+Office Equipment
+
+19,930,903.21
+
+7,977,974.80
+
+11,952,928.41
+
+Information and Communication Equipment (ICTE)
+
+206,963,563.27
+
+193,002,762.00
+
+13,960,801.27
+
+Communication Equipment
+
+44,299,930.63
+
+24,464,983.82
+
+19,834,946.81
+
+Other PPE/Equipment (DRRM)
+
+151,056,132.75
+
+146,037,845.00
+
+5,018,287.75
+
+Motor Vehicles
+
+82,062,884.35
+
+85,622,304.33
+
+3,559,419.98
+
+Watercrafts
+
+10,610,997.00
+
+10,456,997.00
+
+154,000.00
+
+Furniture and Fixtures
+
+7,828,410.95
+
+1,453,544.85
+
+6,374,866.10
+
+Other PPE
+
+30,338,238.00
+
+15,887,252.70
+
+14,450,985.30
+
+Total
+
+₱691,346,709.88 
+
+₱635,974,532.48
+
+₱88,121,453.88
+
+
+
+
+
+	4)	Our audit revealed that despite completion of physical inventory taking, the required reconciliation of RCPPE with property and accounting records was not undertaken; hence, defeating the objective of conducting physical inventory which is to identify discrepancies, detect missing items and adjust the book balances. 
+
+
+
+	5)	Verification disclosed that part of discrepancies between the balances per books and property records as of year-end could be attributed to the following:
+
+
+
+a)	Non-inclusion in the RPCPPE of PPE items directly delivered to quarantine sites/end-user; hence, Inspection and Acceptance Reports (IAR) and PAR were not issued. Details are as follow:
+
+
+
+PO No.
+
+Qty.
+
+Particulars
+
+Unit Price
+
+Total Cost
+
+Issued to:
+
+CMS PO-20-120
+
+12
+
+EENT
+
+₱  18,600.00
+
+₱   223,200.00
+
+2 Fil
+
+6 Arena
+
+2 WTC
+
+2 RMC
+
+
+
+5
+
+Portable X-Ray Machine
+
+3,500,000.00
+
+17,500,000.00
+
+1 Fil
+
+2 Arena
+
+1 WTC
+
+1 RMC
+
+
+
+6
+
+Defibrillator
+
+123,500.00
+
+741,000.00
+
+1 Fil
+
+3 Arena
+
+1 WTC
+
+1 RMC
+
+
+
+12
+
+Cardiac Monitor 
+
+250,000.00
+
+3,000,000.00
+
+2 Fil
+
+6 Arena
+
+2 WTC
+
+2 RMC
+
+
+
+6
+
+Portable Mechanical Ventilator
+
+1,500,000.00
+
+9,000,000.00
+
+1 Fil
+
+3 Arena
+
+1 WTC
+
+1 RMC
+
+
+
+12
+
+Table Top Pulse Oximeter
+
+45,000.00
+
+540,000.00
+
+12 Fil
+
+CMS-PO-20-148A
+
+1
+
+Portable X-Ray Machine
+
+2,500,000.00
+
+2,500,000.00
+
+Alonte Stadium
+
+
+
+
+
+1
+
+Defibrillator (AED)
+
+123,500.00
+
+123,500.00
+
+
+
+
+
+1
+
+Portable Mechanical Ventilator
+
+1,500,000.00
+
+1,500,000.00
+
+
+
+CMS-PO-20-194
+
+3
+
+Portable X-Ray Machine
+
+2,500,000.00
+
+7,500,000.00
+
+Region VIII
+
+
+
+
+
+3
+
+Defibrillator (AED)
+
+123,500.00
+
+370,500.00
+
+
+
+
+
+6
+
+Cardiac Monitor with 12" LED Monitor
+
+250,000.00
+
+1,500,000.00
+
+
+
+
+
+3
+
+Portable Mechanical Ventilator
+
+1,500,000.00
+
+4,500,000.00
+
+
+
+TOTALS
+
+₱48,998,200.00
+
+
+
+
+
+
+
+b)	Unrecorded delivery of 16 ACER Travel Mate Model P215-52G Midrange laptops totaling ₱662,272.00 from PS-DBM per DR No. M20-003466-CSE.  Said laptops were not recorded as at year-end because the DR was furnished to the AS on March 03, 2021 only.
+
+
+
+
+
+
+
+	6)	Furthermore, we also noted the following deficiencies:
+
+
+
+a)	Existence in SLs of PPE of “Unreconciled” amounts totaling ₱263,769,509.29.  As discussed in the Annual Audit Report (AAR) for CY 2019, the “unreconciled” account is a temporary SL account created that served as balancing figures to facilitate the conversion of the manual accounting system to electronic New Government Accounting System (e-NGAS) during the year 2017 with the intention to identify, document and reconcile the same with the balance per GL accounts later on.  The amounts reflected in the SL were part of the PPE balances as of December 31, 2016 and the PPE acquired in the succeeding years which were recorded in detail in the eNGAS; 
+
+
+
+b)	The Accounting and Property Sections still did not utilize similar or identical property numbers in recording PPE items which hindered reconciliation of records; and
+
+
+
+c)	Perpetual records for PPE of each RO were not maintained by the Property Officer; thus, missing item/s, if any, could not be identified or detected.
+
+
+
+
+
+Ownership of Distributed PPE
+
+
+
+	7)	In addition to PPE valued at ₱48,998,200.00 as discussed in par. 5.5, the ownership of PPE amounting to ₱7,719,200.00 also distributed/deployed to quarantine facilities, testing sites and hospitals could not be ascertained due to absence of a MOA or equivalent document indicating therein the  intent of the transfer or deployment, as to whether or not for donation or temporary use by recipient facilities/hospitals.  If for temporary use, the same must be returned to OCD after its use. Details are as follows:
+
+
+
+Qty.
+
+PPE Particulars
+
+PTR No.
+
+Total Cost
+
+Issued to
+
+30
+
+ACER Travelmate laptop
+
+CBP2020-005-006
+
+₱ 1,050,000.00
+
+Romeo Nuqui/BFP – SAO/Philippine Arena/ Mega Swabbing Facility
+
+1
+
+Portable X-Ray Machine
+
+2020-010-03
+
+2,500,000.00
+
+Carl Nicolas Cari/ Visayas Medical Center
+
+2
+
+Portable Mechanical Ventilator
+
+2020-009-
+
+3,000,000.00
+
+Edmund Keriuf/ Ormoc  
+
+3
+
+Cardiac Monitor with LED Monitor
+
+2020-009-
+
+750,000.00
+
+Livia Arcenas/Tacloban Hospital Edmund Keriuf/ Ormoc
+
+3
+
+Table Top Pulse Oximeter
+
+2020-009-
+
+135,000.00
+
+Livia Arcenas/Tacloban Hospital Edmund Keriuf/ Ormoc
+
+2
+
+EENT
+
+2020-009-
+
+37,200.00
+
+Rhyse Austereo/Baybay City
+
+2
+
+Defibrillator
+
+2020-009-
+
+247,000.00
+
+Rhyse-Austerio/Baybay City
+
+TOTAL
+
+₱7,719,200.00
+
+
+
+
+
+	8)	Inquiry with the Accountant revealed that PTR was issued to cover the transfer of PPE but she was not furnished with a copy thereof to support the adjustment in the books of accounts.  Accordingly, the same would be replaced by PARs (issued in favor of the designated AO of the agency/facility) by the Property Accountable Officer (PAO) for CO and Supply Accountable Officer (SAO) for the ROs. 
+
+
+
+	9)	It should be emphasized that Management consider the space to be provided/ allocated as storage if in case the PPE loaned to quarantine facilities/ hospitals are returned after its use.
+
+
+
+
+
+	10)	We recommended that Management:
+
+
+
+a)	execute a MOA or equivalent document with the parties involved indicating therein the intent of transfer/deployment of PPE; 
+
+
+
+b)	instruct the PAO and SAOs of all ROs to maintain perpetual records of all PPEs to facilitate reconciliation and detection of missing items; and
+
+
+
+c)	implement COA Circular No. 2020-006 dated January 31, 2020 for the one-time cleansing of PPE balances, if appropriate. 
+
+
+
+
+
+Management Comment:
+
+
+
+	11)	Deed of Donation (DOD) as applicable and PTR will be issued to end-users or Facility Managers of various quarantine facilities, testing sites and regional hospitals for PPE distributed/deployed. 
+
+
+
+
+
+Unliquidated Cash Advances (CAs)
+
+
+
+6)	CAs for special activities and travel expenses totaling ₱10,217,129.45 remained outstanding at year-end due to the failure of AOs to liquidate within the prescribed period contrary to Section 89 of PD No. 1445 and Section 5.1 of COA Circular No. 97-002.  Moreover, additional CAs were granted even if the previous ones were not liquidated. 
+
+
+
+	1)	Section 89 of PD 1445 provides that: cash advance shall be reported on and liquidated as soon as the purpose for which it was granted has been served. No additional cash advance shall be allowed to any official or employee unless the previous cash advance is first settled or proper accounting thereof is made.
+
+
+
+	2)	Moreover, pertinent provisions of COA Circular No. 97-002 dated February 10, 1997 provide that:
+
+
+
+4.1.2 No additional cash advances shall be allowed to any official or employee unless the previous cash advance given to him is first settled or proper accounting thereof is made.
+
+
+
+Field/Activity Current Operating Expenses
+
+
+
+4.4.2 The amount of the cash advance shall be limited to the requirements for two months. Within 5 days after the end of each month, the AO shall submit a Report of Disbursements. Additional cash advance shall be granted on the basis of the activity budget or the requirements for two months, whichever is lower.
+
+
+
+Liquidation of Cash Advances
+
+
+
+5.1.3 Official Travel – within sixty (60) calendar days after the return of the official or employee to the Philippines, in the case of foreign travel, or within thirty (30) calendar days after return of the official         or employee to permanent official station in the case of local travel.
+
+
+
+When a cash advance is no longer needed or has not been used for a period of two months, it must be returned or refunded immediately to the collecting officer;
+
+
+
+All cash advances shall be fully liquidated at the end of each year and the accountable officer shall refund any unexpended balance to the Cashier/ Collecting Officer who will issue the necessary official receipts.
+
+
+
+	3)	As at year-end, the total unliquidated CAs amounted to ₱10,217,129.45.                                Of this amount, ₱1,672,024.84 or 16.37 percent remained outstanding from one to five years, details are as follows:
+
+
+
+
+
+Account Name
+
+Aging of Outstanding Balance
+
+
+
+Total
+
+
+
+Less than 30 days
+
+31-60 days
+
+61-365
+
+days
+
+1 to 3 years
+
+3 to 5 years
+
+
+
+Advances to   SDO
+
+3,221,336.75
+
+1,695,609.79
+
+3,296,828.07
+
+846,432.65
+
+30,000.00
+
+9,090,207.26
+
+Advances to Officers and
+
+Employees
+
+203,580.00
+
+80,000.00
+
+47,750.00
+
+647,832.19
+
+147,760.00
+
+1,126,922.19
+
+Total
+
+3,424,916.75
+
+1,775,609.79
+
+3,344,578.07
+
+1,494,264.84
+
+177,760.00
+
+10,217,129.45
+
+Percentage
+
+33.52%
+
+17.38%
+
+32.74%
+
+14.63%
+
+1.74%
+
+100%
+
+
+
+
+
+	4)	Advances to SDOs pertains to CAs granted for the conduct of special activities, seminars, conferences and other operational expenses.
+
+
+
+	5)	Advances to Officers and Employees pertains to CAs granted to active OCD officials and employees for travel expenses.
+
+
+
+	6)	Verification disclosed that a total amount of ₱7,873,832.76 was liquidated in January 2021 after the Management sent demand letters leaving a balance of ₱2,343,296.69 as of January 31, 2021 (Annex B).
+
+
+
+	7)	Further analysis disclosed that additional CAs for same purposes were granted to 14 AOs even if the previous ones were not yet liquidated           or settled in violation of the afore-cited regulations.  Details are shown in Annex C.
+
+
+
+	8)	Moreover, Civil Service Commission (CSC) Memorandum Circular (MC) No. 23 s. 2019 provides the revised guidelines on the settlement of CA and penalty to be imposed for failure of AO to liquidate CA within the prescribed period. The penalty includes simple neglect of duty punishable    by suspension from the service for one month and one day to six months for the first offense and dismissal from the service for the second offense.
+
+
+
+	9)	We recommended that Management:
+
+
+
+a)	require all AOs to immediately liquidate outstanding CAs after the purpose for which CAs were granted and refund immediately any unused balance;
+
+
+
+b)	ensure that all CAs are fully liquidated at the end of the year; 
+
+
+
+c)	stop the practice of granting additional CAs if previous CAs are not yet liquidated; and
+
+
+
+d)	deduct from the salary of AOs their outstanding CAs until full recovery of the amount.
+
+
+
+
+
+Management Comment:
+
+
+
+	10)	The Office of the Financial Management Division (FMD) has already sent demand letters to concerned AOs in February 2021.  Consequently, a total amount of ₱8,609,658.09 or 84 percent fund liquidations were received and subsequently recognized in the books of accounts; thus, leaving an unliquidated balance of ₱1,607,471.36 only or 16 percent as of March 23, 2021.  On this balance, O/FMD, AFMS will again initiate preparation of follow-up demand letters to AOs with remaining unliquidated CAs.
+
+
+
+	11)	Furthermore, Management will issue Memorandum to concerned AOs requiring compliance to the recommendation of COA to stop granting additional advances if the previous CA has not been settled yet pursuant to the provisions of Section 4.1.2 of COA Circular No. 97-002 dated February 10, 1997.  
+
+
+
+
+
+
+
+
+
+COMPLIANCE AUDIT
+
+
+
+
+
+COVID 19 Funds
+
+
+
+Janitorial Services
+
+
+
+7)	Hazard pay totaling ₱4,708,525.00 was granted to janitors under Institutional Contract of Service for the period beyond the duration of Enhanced Community Quarantine (ECQ) which is not in consonance with Administrative Order (AO) No. 26 dated March 23, 2020.  Furthermore, the detailed Technical Specifications of the service to be rendered are not indicated in the Work Order.
+
+
+
+	1)	AO No. 26 dated March 23, 2020 authorizes the grant of COVID 19 Hazard Pay to government employees and workers engaged through contract of service (COS) or job order (JO) basis who physically report for work during the implementation of ECQ in their respective work stations in an amount not exceeding ₱500/day per person.
+
+
+
+	2)	On March 16, 2020, the Office of the President (OP) issued Proclamation No. 929 imposing ECQ throughout Luzon beginning midnight on the same day until April 12, 2020.  Upon the recommendation of the Inter-Agency Task Force on Emerging Infectious Diseases (IATF-EID), the ECQ over the entire Luzon was extended until April 30, 2020 through unnumbered Memorandum dated April 7, 2020 issued by the Executive Secretary. On April 30, 2020, Executive Order (EO) No. 112 was issued by OP imposing ECQ in various geographic areas including the NCR from 12:01 a.m. of May 1, 2020 to 11:59 p.m. of May 15, 2020.  Thus, the duration of the ECQ is from March 17 until May 15, 2020.  
+
+
+
+	3)	Records show that OCD obligated the amount of ₱53,661,668.33 for janitorial services rendered by Stellar 167 Manpower Recruitment and Services Inc. at the different COVID 19 testing and quarantine sites/facilities from May 05 to December 31, 2020.  Out of the obligated amount, ₱21,789,638.71 has been paid as of year-end, details are shown in Annex D.
+
+
+
+	4)	Audit disclosed that payments made to Stellar include hazard pay for janitors totaling ₱4,929,025.00.  The janitors are institutional COS workers; hence, they are covered by AO No. 26 with regard to the grant of hazard pay. Out of ₱4,929,025.00, the amount of ₱4,708,525.00 (See Annex E) was incurred for the period beyond the duration of ECQ. Thus, payments of hazard pay to janitors after ECQ has no legal basis.  
+
+
+
+	5)	It should be noted that on November 16, 2020, AO No. 35 was issued authorizing the grant of Active Hazard Duty Pay (AHDP) up to ₱3,000.00 per month to human resources for health serving in the frontlines during the state of national emergency.  Likewise, AO No. 36 dated November 16, 2020 was issued by the OP authorizing the grant of COVID 19 Special Risk Allowance (SRA) not exceeding P5,000 per month to public and private health workers (HWs) who are directly catering to or are in contact with COVID 19 patients. No law was issued authorizing the grant of hazard pay before November 16, 2020. 
+
+
+
+	6)	We also noted that Work/Purchase Orders that serve as the contract between OCD and Stellar 167 Manpower Recruitment and Services Inc. (SMRSI), did not indicate a complete and/or detailed technical specifications of the service to be rendered. The term “technical specifications” refers to the physical description of the goods or services as well as the Procuring Entity’s requirements in terms of functional, performance, environmental interface and design standard requirements to be met by the goods to be supplied or the services to be rendered. 
+
+
+
+	7)	The technical aspect of janitorial services contracts for determination of the reasonableness of the contract cost, as provided under COA Circulars No. 2012-001 and No. 2009-001 are as follows: 
+
+
+
+--	Appropriate approved documents indicating the following:
+
+--	the number of personnel involved and their corresponding rates/salary
+
+--	schedule of work and places of assignment or station
+
+
+
+--	Detailed breakdown of the contract cost showing in sufficient details the derivation of the direct and indirect cost (e.g. quantities and cost of materials, spare parts, and supplies, etc. furnished by the contractor)
+
+
+
+--	The scaled floor plans of the building and other area/s covered by the service contract;
+
+
+
+--	The group classification of personnel to determine the Equivalent Equipment Monthly Statutory Minimum Wage Rate in accordance with the applicable Rules Implementing RA No. 6727; and 
+
+
+
+--	Other details that the procuring entity may deem necessary as called for in a situation.
+
+
+
+	8)	The areas to be cleaned or areas of responsibilities and number of operating hours are relevant in order to determine the number of janitors needed and the number of hours to be rendered to warrant the rendition of overtime and payment of night differential pay.
+
+
+
+	9)	We recommended that Management:
+
+
+
+a)	require the SMRSI to refund the amount of hazard pay paid after May 15, 2020 or offset against the unpaid billing of the contractor;
+
+
+
+b)	strictly adhere to existing laws, rules and regulations pertaining to payment of COVID 19 hazard pay during the pandemic; and
+
+
+
+c)	in future undertakings, ensure that complete and detailed technical specifications in janitorial services contracts are indicated.
+
+
+
+Management Comment:
+
+
+
+	10)	Management sent letter to SMRSI thru Mr. James Christopher Verano informing that the amount of ₱4,708,525.00 will be offset against OCD’s unpaid billings to the company. Accordingly, they will ensure the provision of complete and detailed specifications on all contracts covering janitorial services.
+
+
+
+
+
+Payments without Contract
+
+
+
+8)	Paid claims for the procurement of goods and services totaling ₱94,551,822.13 in favor of various suppliers were not supported with contracts contrary to Section 4.6 of PD No. 45 and Section 3 of GPPB Circular 01-2020.
+
+
+
+	1)	Section 4.6 of PD No. 45 provides that claims against government funds shall be supported with complete documentation.
+
+
+
+	2)	A Contract, duly approved by the official concerned and accepted by the supplier/contractor, is one of the basic requirements for all types of procurement. It can be in the form of a MOA, PO, WO and the likes. A written contract ensures that all of the terms of agreement between the contracting parties are documented to guide the performance of both parties and limit ambiguity in the event of a dispute. 
+
+	3)	Our audit disclosed that payments/disbursements for the procurement of various goods/services totaling ₱94,551,822.13 were not covered by contracts (Annex F). Disposition Forms were attached to 35 disbursement vouchers (DVs) with an aggregate amount of ₱62,266,642.79 indicating among others that due to the exigent needs for the required services and to avoid delays, the necessary procurement documents are dispensed with since the works done are essentially important for COVID19 Response Operations.  Further, the Disposition Forms state that the mode of payment for the services rendered shall be by virtue of   Quantum Meruit. 
+
+
+
+	4)	It must be noted that the urgent necessity of the procurement covered under the Bayanihan Act was already taken into consideration; hence, the provision that procurement modality to be undertaken shall be Emergency Procurement.
+
+
+
+	5)	GPPB CIRCULAR 01-2020 dated 6 April 2020 provides the guidelines for emergency procurement under RA No. 11469 or the Bayanihan to Heal as One Act. It is formulated to expedite the procurement of highly needed supplies, materials, equipment, utilities, telecommunications, and other critical services authorized under the Bayanihan Act at the most advantageous price to the government with the necessary safeguards for the prevention of abuses and corruption in the procurement process.
+
+
+
+
+
+
+
+
+
+	6)	Pertinent provisions of GPPB CIRCULAR 01-2020 state the following:
+
+
+
+3.6.1 Section 3.3 paragraph 3
+
+
+
+During negotiations, a formal written offer or bid may be submitted but is not required. Verbal agreement on the price and compliance or commitment to comply with the legal, technical and financial requirements of the Procurement Project shall be sufficient basis to recommend award of contract to the supplier, distributor, manufacturer, contractor, or consultant.
+
+
+
+3.6.2 Section 3.4 par. 1
+
+
+
+The BAC or End-user unit or any other appropriate bureau, committee, support or procuring unit duly authorized by the HoPE, shall immediately recommend award of contract to one that has the legal, technical, and financial capability to undertake the procurement at hand, x x x
+
+
+
+3.6.3 Section 3.5 par. 1
+
+
+
+The HoPE, upon recommendation of the BAC or duly authorized End-user unit or any other appropriate bureau, committee, support or procuring unit, shall immediately award the contract to a legally, technically, and financially capable supplier, distributor, manufacturer, contractor, or consultant.
+
+
+
+	7)	Based on above-cited provisions, there is no showing that a procuring entity may dispense with the execution of a valid contract as one of the basic requirements for all types of procurement and basis for payment of expenditures incurred during the state of calamity.
+
+
+
+	8)	Furthermore, Paragraph 2 of COA Resolution No. 86-58 dated November 15, 1986 with the subject, “Policy on the Recovery by Government Contractors on the Basis of Quantum Meruit” states that:
+
+
+
+WHEREAS, upon imperatives of public interest which necessarily override pretended considerations of equity, this Commission considers it vital to adhere to a policy of disallowing recovery on the basis of quantum meruit where the contract is beyond the powers and objectives of the implementing agency concerned x x x
+
+
+
+	9)	Item No. 8, paragraph 4 of the same COA Resolution further provides that:
+
+ 
+
+That all claims are elevated by the Unit Auditor to the Chairman of this Commission who is entrusted with the implementation of this Policy for the determination of compliance with the conditions above set forth and for final approval of the payment of the claims.
+
+
+
+	10)	Therefore, assuming arguendo that the claim may be recognized under the principle of quantum meruit, Management has no authority to grant the same based on Quantum Meruit principle.  The remedy of the claimants is to file their money claims with the Commission on Audit (COA) as prescribed under COA Resolution No.86-58.  The determination of state liability, and the prosecution, enforcement or satisfaction thereof must be pursued in accordance with the rules and procedures laid down in PD 1445.	
+
+
+
+	11)	We recommended that Management stop the practice of paying claims based on quantum meruit principle and strictly adhere to Section 4.6 of PD No. 4, GPPB Circular No.  01-2020, and COA Resolution No. 86-58.
+
+
+
+Management Comment:
+
+
+
+	12)	Pursuant to Section 85 of PD No. 1445, Appropriation Before Entering into Contract or the State Audit Code of the Philippines states that no contract involving the expenditure of public funds shall be entered into unless there is an appropriation.  Notwithstanding, the contracts for the procurement of goods and services may be entered into provided that the same shall be charged to the proper appropriation account in compliance with accounting and auditing rules and regulations.
+
+	13)	There was substantial compliance by OCD to negotiate with a legally, technically and financially capable supplier, distributor, manufacturer or contractor for COVID-19 response related projects per Section 3 of GPPB Circular 01-2020. However, the absence or delayed availability of funds (i.e. issuance of Special Allotment Release Order/SARO) served as a bar in the issuance of award of contract. As stated in para 3.2 of the GPPB Circular 01-2020, the Procuring Entity may commence with the procurement even without an approved APP, provided there is a document or certification from the budget officer or equivalent showing that there is a budget for the purpose.
+
+
+
+	14)	The absence or the issuance of a valid contract due to the unavailability of funds shall not preclude the Office from providing continuous support to COVID19 response operations with the engagement of various service providers, suppliers and hotel accommodation for Quarantine and Swabbing facilities during this state of public health emergency wherein all government agencies and local government units are mandated to cooperate and mobilize necessary resources to combat the coronavirus.
+
+
+
+	15)	Although these contracts were entered into by OCD with various service providers were already perfected upon the latter’s compliance to the delivery of goods or services rendered, these contracts still lack full enforceability as to ensuing payments.  As required by law, government agencies for the purposes of transparency in the documentation of government transactions that any approval, signature, and issuance of the Certification of Availability of Funds (CAF) is based on issuance of Special Allotment Release Order (SARO). However, in the projects cited in the AOM, such was unsatisfied. The Office particularly the AS could not issue any CAF for contracts due to the unavailability of the funds.
+
+
+
+	16)	Accordingly, Management will comply with the recommendation to stop the practice of paying claims based on quantum meruit principle and ensure that all procured goods and services shall be supported with complete documentation such as a MOA, PO, WO and adhere to existing COA rules and regulations, RA 9184 and other related statutes.
+
+
+
+
+
+Contract Deficiencies
+
+9)	At least 61 Procurement Contracts (PCs) through Emergency Procurement under the Bayanihan Acts were not supported with Market Research as basis for Price Negotiations as required under GPPB Circular 01-2020 and GPPB Advisory 04-2020; thus, reasonableness of the contract costs could not be ascertained.  Likewise, some POs, WOs and PCs were not adequately supported with mandatory documentary requirements while 57 contracts were non-compliant with reportorial requirements. 
+
+
+
+	1)	RA No. 11469 or the “Bayanihan to Heal as One Act” and RA No. 11494 or “Bayanihan to Recover As One Act” provide for the procurement of highly needed supplies, materials, equipment, utilities, telecommunications, and other critical services in the most judicious, economical and expeditious manner, as exemption from the provisions of bidding process required under Republic Act No. 9184 or the “Government Procurement Reform Act” and other relevant laws. Accordingly, procurement of goods authorized under the Bayanihan Acts were done through emergency procurement.
+
+
+
+	2)	GPPB Circular 01-2020 dated 6 April 2020 provides the guidelines in the conduct of emergency procurement under the Bayanihan Acts as well as the   procedures, documentary requirements, price negotiation and posting in the GPPB online portal.
+
+
+
+	3)	Our review of POs, WOs, and PCs entered into by OCD through negotiated procurement under the Bayanihan Acts disclosed several deficiencies, as follows:
+
+
+
+61 PCs were not supported with Market Research
+
+
+
+	4)	Section 5 of GPPB Circular 01-2020 provides that PEs shall negotiate for the most advantageous price to the government based on: 
+
+
+
+--	existing price data of the agency, the Department of Trade and Industry (DTI) or other relevant agencies; or 
+
+
+
+--	preliminary market scanning done by the agency showing prevailing market prices and practice.
+
+
+
+	5)	Moreover, Section 4.0 of GPPB Advisory 04-2020 provides that the GPPB Technical Support Office (TSO) has included an online Market Listing as an added feature of the GPPB Online Portal to assist PEs in undertaking the required market survey in order to determine the products and the most advantageous prices available in the market. This will likewise allow suppliers, distributors, manufacturers, contractors or consultants to post their product information. 
+
+
+
+	6)	Section 2.1 on Preparatory Activities of GPPB Resolution No. 14-2019 provides that: 
+
+
+
+The procuring entity (PE) shall complete all the appropriate preparatory activities such as, but not limited to cost-benefit analysis, feasibility studies, market research, xxx
+
+
+
+	7)	Review of POs, WOs, and PCs revealed that at least 61 POs, WOs, and PCs totaling ₱347,682,981.17 (Annex G) were not supported with market research as basis for the price negotiations; thus, the reasonableness of the contract cost could not be ascertained.  It was noted that six PCs were supported with Abstract of Quotations where Request for Quotations were acknowledged by three suppliers but only one Quotation was actually submitted. The contracts were awarded to lone suppliers without performing alternative procedures to determine reasonableness of the price quoted; thus, the objective of a market research was not achieved. 
+
+
+
+	8)	Certifications attached to the contracts state that, the OCD exerted all efforts to secure the most advantageous price to the government for the service required based on existing price data of the agency and through preliminary market scanning done by the agency showing prevailing market prices and practices. However, the certifications were not supported with relevant documents indicating the actual market research done by the agency and considered irrelevant and self-serving.
+
+
+
+Procurement contracts were not adequately supported with mandatory documentary requirements
+
+
+
+	9)	Section 3.4 of GPPB Circular 01-2020 provides the following:
+
+
+
+--	submitted the mandatory documentary requirements under Item 4.1 of this Circular or if said documents were to be submitted after award of contract, has committed to comply with the same in the Omnibus Sworn Statement (OSS), with the stipulations provided in Appendix “1” for the OSS form for Emergency Procurement under the Bayanihan Act; 
+
+
+
+--	complied with the technical specifications, scope of work or terms of reference set by the PEs, and other documents supporting the same, including appropriate licenses and permits required by law or rules, or if said documents were required to be submitted after award of contract, has committed to comply with the same in the OSS; xxx
+
+
+
+	10)	Further, Section 4.1 of the same Circular states that:
+
+
+
+--	PEs already maintaining a bidder’s updated file of any of the following requirements, whether through the Philippine Government Electronic Procurement System Certificate of Registration and Membership or its own records, shall not require its re-submission. Otherwise, PEs shall require copies of:
+
+
+
+	--	Mayor’s or Business Permit; 
+
+       For projects with an ABC above PhP500,000.00:
+
+
+
+	--	Income Tax Returns (Annual Income Tax Return of the preceding tax year) OR Business Tax Returns (Value Added Tax or Percentage Tax Return covering the previous six months);
+
+
+
+	--	OSS, which shall be an original copy; 
+
+--	Bidders may submit their documentary requirements in printed copies or by electronic mail or facsimile. Any and all documentary requirements, except the OSS, shall be submitted at any time before award of contract or after award but before payment. 
+
+
+
+--	The Omnibus Sworn Statement (OSS) shall be submitted at any time before award of contract. An unnotarized OSS may be accepted by the PE subject to compliance therewith after award of contract but before payment. 
+
+
+
+--	The PE is allowed to accept a copy of the recently expired Mayor’s or Business Permit and the Official Receipt as proof of application and payment for the renewal of the permit will suffice, subject to submission of the Mayor’s Permit after award of contract, xxx
+
+
+
+	11)	Our review disclosed that some POs, WOs, and PCs entered into by OCD were not adequately supported with the required documents as provided under GPPB Circular 01-2020.   Nineteen POs/WOs were not supported with OSS; one PO lacks the required Technical Specification/Scope of Work/Terms of Reference; one Procurement Contract lacks the required Business/Mayor’s Permit; and 20 POs/PCs are supported with OSS not in the format prescribed in Appendix 1 of GPPB Circular 01-2020. (Annex H)
+
+
+
+	12)	The prescribed OSS format in Appendix 1 of GPPB Circular 01-2020 includes responsibilities of the supplier which are not present in the OSS prescribed under RA 9184. 
+
+
+
+Non-Compliance with reportorial requirements under the Bayanihan Act
+
+
+
+	13)	Paragraphs 1.0 to 4.0 of GPPB Advisory 05-2020 states that:
+
+
+
+1.0	x x x the GPPB Online Portal was established to promote accountability and transparency in the conduct of Emergency Procurement under the Bayanihan Act.   The Online Portal shall also be the source of data or information to be used by the GPPB and its Technical Support Office (TSO) to comply with the reportorial requirements under the Bayanihan Act.
+
+
+
+2.0   Accordingly, the GPPB-TSO issued Advisory No. 04-2020 directing, among others, all Procuring Entities (PEs) to post on the GPPB Online Portal the following information relative to the Procurement Projects undertaken through Emergency Procurement under the Bayanihan Act:
+
+
+
+2.1.  Updated Annual Procurement Plan (APP);
+
+2.2.  Project Name;
+
+2.3.  Approved Budget for the Contract; 
+
+2.4.  Contract period; 
+
+2.5. Name of Winning Supplier, Distributor, Manufacturer, Contractor or   Consultant; 
+
+2.6.  Amount of Contract as Awarded;
+
+2.7.  Notice of Award, date of award and acceptance; and 
+
+2.8.  Contract or Purchase Order.
+
+
+
+	14)	Our review also disclosed that a total of 67 awarded contracts with an aggregate cost of ₱309,206,287.14 were not posted in the GPPB-TSO online portal (Annex I). The non-posting of procurement data defeated the objective of GPPB Advisory 05-2020 which is to ensure transparency and accountability in the implementation of the Bayanihan Act in government procurement. 
+
+
+
+	15)	Furthermore, several errors were noted in the posting of procurement data such as duplication of entries, typographical errors where the amounts awarded exceeded the approved budget, contracts with identical PO numbers but different contract costs and suppliers (see Annex J). Accuracy in every government’s undertakings particularly with the government reportorial requirements should not be compromised to warrant our commitment to transparency and public accountability.
+
+
+
+	16)	We recommended that Management: 
+
+
+
+a)	strictly adhere with GPPB Circular 01-2020, GPPB Advisory 04-2020 and GPPB Resolution No. 14-2019 with regard to price negotiation, mandatory documentary requirements and posting in GPPB Online Portal;
+
+
+
+b)	require immediate posting of the POs, WOs, and procurement data that are not yet reflected in the GPPB Online Portal; and 
+
+
+
+c)	rectify errors noted in the posting of procurement data as indicated in Annex J. 
+
+
+
+
+
+
+
+2-in-1 Facility/Building of OCD Region V and Furniture and Fixtures installed thereat 
+
+
+
+10)	The details of the visible signs of deterioration of the 2-in-1 facility/building constructed in CY 2018 in Region V were not reported to the OCD Central Office which administered its implementation; thus, the appropriate solution for building defects may not be addressed. On the other hand, office equipment and furniture and fixtures installed thereat remained idle for two years; thus, the purpose for which these were purchased was not served. 
+
+
+
+2-in-1 Facility Building
+
+
+
+	1)	Section 3 Chapter 2 of the GAM for NGAs states that:
+
+It is the declared policy of the State that all resources of the government shall be managed, expended or utilized in accordance with laws and regulations, and safeguarded against loss or wastage through illegal or improper disposition, with a view to ensuring efficiency, economy and effectiveness in the operations of government. The responsibility to take care that such policy is faithfully adhered to rests directly with the chief or head of the government agency concerned.
+
+
+
+	2)	Ocular inspection of the 2-in-1 facility/building of OCD RO V showed signs of deterioration i.e., broken floor tiles at the ground and upper floors, watermarks at the ceiling of ground and upper floors, and protruding parts of concrete slab roof. The water marks noted on the ceiling was parallel to the uneven concrete roof which indicated that rainwater sipped into the protruding concrete roof down to the upper and ground floors.
+
+
+
+	3)	During verbal inquiry, OCD Region V explained that the construction of the 2-in-1 facility/building was implemented and administered solely by OCD Central Office and the noted premature wear and tear of the building was reported to the latter in February 2020. Due to the noted defects, OCD Region V believed that the building was unsafe to occupy. 
+
+
+
+	4)	Verification however, revealed that details of the deterioration was not reported in the letter dated February 17, 2020.  OCD RO V only made mention that defects and visible signs of deterioration and premature wear and tear were already showing.
+
+
+
+	5)	It should be noted that without the specifics of the said deterioration, the top management may have difficulty in identifying possible solutions and making decision to address the matter. As end-user of the building, OCD RO V is not precluded from reporting any visible defects of the project to the Implementing Entity. Also, infrastructure projects have warranty security intended to cover “structural defects and failures” after the issuance of the procuring entity of the final acceptance and will be valid for a certain period, depending on the type of structure.  Hence, reporting of possible structural defects is crucial while a warranty security is in effect. Moreover, to properly determine whether the building is safe for occupancy, an occupancy permit from the authorized government unit may be requested.
+
+
+
+PPEs delivered and installed in the Facility
+
+
+
+	6)	The following are among the charges under the QRF in CY 2019 relating to the 2-in-1 facility/building:
+
+
+
+Particulars
+
+Amount
+
+a. Supply, delivery, installations and testing of office blinds, wall partitions and glass door
+
+₱ 525,598.11
+
+b. Supply, delivery, installations and commissioning of air-conditioning units
+
+595,600.00
+
+c. Supply and delivery of weighing scale
+
+180,000.00
+
+d. Supply and delivery of warehouse improvement equipment for the Regional Warehouse/Logistics Hub
+
+928,000.00
+
+Total
+
+₱2,229,198.11
+
+
+
+	7)	Since the construction of the 2-in-1 facility/building was completed in CY 2018, it remained unoccupied due to the visible defects noted on the structure. Moreover, the equipment and furniture and fixtures purchased in CY 2019 and installed at the facility/building remained unutilized. Ocular inspection showed that significant deterioration is evident on the equipment and furniture. This indicates that the assets were not properly safeguarded against further deterioration. 
+
+
+
+	8)	In view of the foregoing, we are concerned that the resources of the government may be wasted if the building defects are not immediately addressed and the office equipment and furniture and fixtures installed thereat are not utilized for its purpose. 
+
+
+
+	9)	We recommended that Management:
+
+ 
+
+a)	prepare and submit a detailed report with pictures on the visible deterioration of the 2-in-1 facility to the top Management of the OCD for their appropriate action;
+
+ 
+
+b)	furnish the Audit Team with copy of the report and its transmittal to the top Management;
+
+
+
+c)	apply for issuance of an occupancy permit from the authorized government unit; and
+
+
+
+d)	request for the repair of the defective 2-in-1 facility and require proper maintenance of the office equipment and furniture installed thereat to safeguard the assets from further deterioration. 
+
+
+
+
+
+
+
+
+
+Management Comment:
+
+
+
+	10)	The Management cannot request for the repair of the defective facility because no turnover was made yet by the contractor to OCD RO V.  For the time being, the office equipment and furniture will be wrapped and covered with suitable material to prevent its further deterioration.
+
+	
+
+	
+
+Gender and Development (GAD)
+
+
+
+11)	The OCD failed to allocate at least five percent of the agency’s total appropriations for CY 2020 for GAD related activities.
+
+
+
+	1)	Section 31 of the General Provisions, GAA FY 2020 or RA No. 11465 provides that: The GAD plan shall be integrated in the regular activities of the agencies, which shall be at least 5% of their budgets. For their purpose, activities currently being undertaken by agencies which relate to GAD or those that contribute to poverty alleviation, economic empowerment especially of marginalized women, protection, promotion, and fulfillment of women’s rights and practice of gender-responsive governance are considered sufficient compliance with the said requirements. Utilization of GAD funds shall be evaluated based on the GAD performance indicators identified by said agencies.
+
+
+
+	2)	The total appropriations of the OCD for CY 2020 amounted to ₱1,236,366,000.00 of which ₱1,034,854,000.00 was intended for its regular activities. The required five percent budget for GAD is computed at  ₱51,742,700.00.  However, the Agency appropriated ₱21,267,150.00 or 2.06 percent only of its total appropriations. 
+
+
+
+	3)	The OCD spent a total amount of ₱19,725,643.91 or 92.75 percent of the allocated budget for the following activities:
+
+
+
+--	Cascaded GAD Plans and Budget for CY 2020;
+
+
+
+--	Participated in Webinar training on The Law and IRR of the Spaces Act, facilitated by the Center for Global Best Practices; and the Webinar training on Gender Diversity and Social inclusion facilitated by the Civil Service Institute;
+
+
+
+--	Issued Memorandum No. 451 dated 28 September 2020 relative to the submission of GAD Plan for Regional Plan for review and consolidation of Central Office;
+
+
+
+--	Hired 21 COS-Technical Support to assist in the GAD programs of Central and Regional Offices;
+
+
+
+--	Assisted employees on RT-PCR testing, provision of vitamins to strengthen immune system, provision of shuttle service to protect the employees from exposure to COVID-19 virus when reporting for work; and
+
+
+
+--	Conducted six sessions of Stress debriefing for employees amidst COVID-19 pandemic were facilitated by the resident registered Psychologist.
+
+
+
+	4)	We recommended that the GAD Focal Point System strictly adhere to the provisions of the GAA by allocating the required budget and ensure that the programs and activities are implemented as planned with utmost economy, efficiency and effectiveness.
+
+
+
+
+
+12)	Compliance with BIR, GSIS, PagIBIG and PhilHealth Remittances
+
+
+
+Particulars
+
+Dec. 31, 2020 Balance
+
+Remittance
+
+Balance
+
+Remarks
+
+
+
+
+
+Amount
+
+Date
+
+
+
+
+
+Due to BIR
+
+₱5,316,577.32 
+
+₱1,906,740.39
+
+1/10/21 
+
+₱3,409,836.93
+
+Unremitted withheld taxes of ROs (on-going coordination with their respective RDOs).
+
+Due to GSIS
+
+2,497,285.21
+
+1,746,137.72
+
+01/08/21
+
+751,147.49
+
+Unremitted GSIS personal share of various employees in CY 2020 which are still for clarification with GSIS.
+
+Due to PhilHealth
+
+21,881.79
+
+7,275.10
+
+1/12/21 
+
+14,606.69
+
+Unremitted deductions from newly hired employees and variances due to salary differential which is still in the process of reconciliation.
+
+Due to PagIBIG
+
+31,511.30
+
+2,200.00
+
+1/14/21 
+
+29,311.30
+
+Unremitted deductions from newly hired employees.
+
+Total
+
+₱7,867,255.62 
+
+₱3,662,353.21 
+
+ 
+
+₱4,204,902.41
+
+ 
+
+
+
+The OCD has complied with laws relative to the withholding and remittance of taxes, personal share and government share to BIR, GSIS, Pag-IBIG and PhilHealth.
+
+
+
+
+
+13)	Enforcement of Settlement of Suspension, Disallowances and Charges
+
+
+
+The total audit suspensions, disallowances and charges and settlements during the year are summarized as follows:
+
+
+
+Particulars
+
+Beg. Balance
+
+CY 2020
+
+Ending Balance
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension
+
+
+
+
+
+
+
+-
+
+Notice of Disallowance
+
+₱10,100.00
+
+
+
+₱10,100.00
+
+-
+
+Notice of Charge
+
+
+
+
+
+
+
+-
+
+Total
+
+₱10,100.00
+
+-
+
+₱10,100.00
+
+-
+
+
+
+
+
+14)	 Insurance of PPE with GSIS
+
+
+
+The properties and equipment totaling ₱3,267,754.00 of CARAGA Region were not insured with the GSIS, contrary to COA Circular No. 2018-002 dated May 31, 2018; thus, posing a risk of non-indemnification of insurable assets in case of loss arising from theft, fire, earthquake, and other fortuitous events. 
+
+
+
+
+
+15)	Yolanda Funds
+
+
+
+The total Yolanda Fund balance of ₱42 million as of December 31, 2018 was transferred to LMWD in 2019 for the procurement and installation of 14,000 units of Water Meters in Tacloban City North Resettlement Sites affected by Super Typhoon Yolanda. This is the subject of Observation No. 3 page 58.
+
+
+
+16)	Marawi Funds
+
+
+
+The 2018 Marawi donated funds were utilized for the following:
+
+
+
+Particulars
+
+Amount
+
+Donated Fund
+
+₱ 37,231,145.00 
+
+Less:
+
+
+
+245 Beneficiaries and affected families
+
+35,560,000.00
+
+Financial Assistance to 14 deceased victims
+
+140,000.00
+
+Administrative Support for interventions
+
+1,200,000.00
+
+Subtotal
+
+36,900,000.00
+
+Remaining Balance as of Dec. 31, 2020
+
+₱     331,145.00
+
+
+
+
+
+17)	National Task Force to End Local Communist Armed Conflict (NTF-ELCAC) Fund
+
+
+
+The Agency did not receive any appropriations/funds related to NTF-ELCAC for CY 2020.
+
+61
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4838 @@
+PART II – AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+The audit of the accounts and financial transactions of the Philippine Center for Postharvest Development and Mechanization (PHilMech) for calendar year 2020 disclosed certain observations that needed correction and/or improvement. Our observations with the corresponding recommendations are discussed in detail in the succeeding paragraphs.
+
+
+
+A)	Financial and Compliance Audit
+
+
+
+Unreliable balance of PPE accounts - ₱208.95 Million
+
+
+
+1)	The accuracy, existence and rights over some recorded Property, Plant and Equipment (PPE) items amounting to ₱208,954,343.76 as of December 31, 2020 were uncertain due to (a) non-derecognition of 267 units of farm machineries costing ₱208,675,132.00 distributed to farmers’ cooperatives and associations; (b) PPE items amounting to ₱716,567.73 acquired through grants-in-aid funds not covered by deeds of donation; and (c) negative balances of some PPE items, reducing the recorded account balances by ₱437,355.97 contrary to the pertinent provisions under Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I and the related Memorandum of Agreement (MOA) entered into by PHilMech with the Source Agency (SA). Moreover, unserviceable properties valued at ₱404,261.26 remained in the custody of the Agency, thus, exposing the items to further deterioration while congesting the area where these are stored. 
+
+
+
+The Statement of Financial Position as of December 31, 2020 disclosed that the carrying value of the Property, Plant and Equipment (PPE) accounts, which comprised 16.48 percent of the total assets of the Agency, is composed of:
+
+
+
+PPE Account
+
+Carrying Value
+
+Buildings and Other Structures
+
+₱       84,719,648.88
+
+Machinery and Equipment
+
+1,002,735,500.42
+
+Transportation Equipment
+
+39,373,560.87
+
+Furniture, Fixtures and Books
+
+15,399,617.57
+
+Leased Assets Improvements
+
+2,953,890.39
+
+Construction in Progress
+
+18,710,446.78
+
+Other Property, Plant and Equipment
+
+2,312,691.84
+
+Total
+
+₱ 1,166,205,356.75
+
+
+
+Our verification of the controlling accounts disclosed some audit concerns that affected the reliability of the balances at year-end; to wit:
+
+
+
+				a)	Non-derecognition of 267 units of distributed farm machineries- ₱208.68 Million
+
+
+
+Section 15, Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, provides that transfer from one government entity to another shall be recognized by the recipient entity at net carrying value. The transferor shall derecognize the PPE account upon transfer. (emphasis supplied)
+
+
+
+During CY 2020, PHilMech procured 985 units of farm machineries with acquisition cost totaling to ₱875,333,805.00 which was recognized in the books of accounts as Agricultural and Forestry Equipment under the Machinery and Equipment sub-account. These machineries were intended for distribution to various farmers’ cooperatives and associations (FCAs) in the implementation of the Rice Competitiveness Enhancement Program under the Rice Competitiveness Enhancement Fund (RFEF)-Mechanization Component through execution of Deed of Donations (DODs) by PHilMech as the donor agency. 
+
+
+
+Out of the 985 units of farm machineries procured and distributed to FCAs, only 572 units were supported with duly executed DODs as provided by the Facility Management and Field Operations Division (FMFOD) while the DODs for the remaining 413 units were only executed in January 2021.  
+
+
+
+Moreover, examination of the reports as at year-end disclosed that out of the 572 units with corresponding DODs, only 21 units were derecognized in the books, leaving 267 units of distributed farm machineries amounting to ₱208,675,132.00 in the PPE Schedule and the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) maintained by the Accounting and Property Units, respectively, as detailed in Appendix A, and summarized below:
+
+
+
+Donee/Province
+
+Total Units
+
+Total Cost
+
+Aurora
+
+3
+
+₱   4,229,308.00
+
+Bataan
+
+31
+
+18,151,856.00
+
+Bulacan
+
+40
+
+31,041,980.00
+
+Ilocos Norte
+
+33
+
+20,471,972.00
+
+Ilocos Sur
+
+12
+
+10,024,032.00
+
+La Union
+
+23
+
+18,204,648.00
+
+Nueva Ecija
+
+71
+
+30,708,112.00
+
+Pangasinan
+
+25
+
+35,616,560.00
+
+Tarlac
+
+20
+
+27,844,556.00
+
+Zambales
+
+9
+
+12,382,108.00
+
+Grand Total
+
+267
+
+₱ 208,675,132.00
+
+
+
+Interview with the personnel concerned from the Finance Division (FD) and the Property and Storage Unit (PSU) disclosed that copies of the said DODs were not immediately furnished to them by the FMFOD, the division in-charge of facilitating the execution of the DODs. The FD averred that only the DODs for 21 units of farm machineries totaling to ₱29,452,248.00 were forwarded to them by the PSU which were subsequently used in the dropping of the items from the books of accounts. The Property Custodian likewise asserted that subsequent copies of the DODs were only forwarded to them in January and February 2021. 
+
+
+
+Meanwhile, the FMFOD personnel concerned admitted that delays in the processing and transmission of such DODs were due to laborious scanning of every sheet of the documents before it will be stamped certified true copy by their Division Chief. Then the same documents stamped certified true copy will be scanned again to serve as electronic copy for the FD. 
+
+
+
+The foregoing practice resulted not only in the overstatement of PPE accounts by ₱208,675,132.00 but may also pose risks to the government in the event of loss or misapplication by the recipients-donees of the farm machineries pending the processing and issuance of the DODs. 
+
+
+
+				b)	 Receipt of PPE items without Deeds of Donation- ₱716,567.73
+
+
+
+As stipulated in various Memoranda of Agreement (MOA) entered into by and between the Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development (PCAARRD) and the PHilMech, the latter shall bind itself with the terms and conditions specified in the “Revised Guidelines Governing the Technical and Financial Monitoring of PCAARRD-Grants-In-Aid (GIA) Funded Projects” dated October 25, 2002, as superseded by the “Guidelines Governing PCAARRD-GIA and PCAARRD-Monitored Department of Science and Technology (DOST)-GIA Funded Programs and Projects” which took effect on May 1, 2015.
+
+
+
+Section 8.3 of the aforesaid Guidelines provides the pertinent provision as to ownership of equipment:
+
+
+
+The funding agency shall own all equipment purchased through grant funds until such are transferred to other projects or implementing institution. Upon request, the ownership of equipment may be transferred subject to the approval of the funding agency. The funding agency reserves the right to transfer ownership of such government equipment through Invoice Receipt/s for Property (IRPs) or execution of deed/s of donation (DOD) subject to existing government accounting and auditing laws, rules and regulations.
+
+
+
+Analysis of the PPE Schedules and the RPCPPE as at year-end disclosed that PPE items, with total carrying value of ₱716,567.73, were procured through PCAARRD-GIA funded projects, the details of which are exhibited in Appendix B. 
+
+
+
+The abovementioned machineries and equipment were procured following the Line-Item Budget of each PCAARRD-GIA funded project in which accountability over the said properties rests with the Program/Project Leaders as stated in the Guidelines Governing PCAARRD-GIA and PCAARRD-Monitored Department of Science and Technology (DOST)-GIA Funded Programs and Projects. The procurements were supported with List of Equipment Purchased (DOST Form No. 6) submitted to the PCAARRD for record keeping.
+
+
+
+
+
+However, in the absence of Invoice Receipt/s for Property (IRP) or duly executed DODs from the PCAARRD, evidencing the transfer of ownership of the equipment to PhilMech, the latter cannot claim ownership thereof and the recognition of the items in both the Accounting and Property records will not warrant acquisition of right over the same.  
+
+
+
+				c)	Existence of negative balance of some PPE items- ₱437,355.97
+
+
+
+The Audit Team also noted in the PPE Schedules generated from the electronic New Government Accounting System (eNGAS) that some PPE items totaling to ₱437,355.97 have negative balances as presented in the table below:
+
+
+
+Property Number
+
+Description
+
+Acquisition Cost
+
+Accumulated Depreciation
+
+Net Book Value
+
+20-Philmech-AD-OTE-002
+
+Distribution Transformer Single Phase, Sungjin, (OTE-002)
+
+₱ 0.00 
+
+₱ 4,591.68 
+
+(₱4,591.68)
+
+20-Philmech-AD-OTE-003
+
+Distribution Transformer Single Phase, Sungjin, (OTE-003)
+
+0.00 
+
+4,591.68 
+
+(4,591.68)
+
+20-Philmech-AD-OTE-001
+
+Distribution Transformer, Single Phase, Sungjin, (OTE-001)
+
+0.00 
+
+4,591.68 
+
+(4,591.68)
+
+02-BPRE-OE-F1470
+
+SPLIT TYPE (Wall mounted, 1 HP 02-BPRE-OE-F1470)
+
+0.00 
+
+1,899.89 
+
+(1,899.89)
+
+02-BPRE-OE-F1475
+
+Split-type, Wall mounted, 1 HP 02-BPRE-OE-F1475
+
+0.00 
+
+1,900.20 
+
+(1,900.20)
+
+02-BPRE-OE-F1477
+
+Split-type, Wall mounted, 1 HP 02-BPRE-OE-F1477
+
+0.00 
+
+1,900.19 
+
+(1,900.19)
+
+10606010-00-001-Temp-March2020
+
+Motor Vehicle (Toyota Otis) 6 units
+
+0.00 
+
+417,880.65 
+
+(417,880.65)
+
+Grand Total
+
+ ₱0.00
+
+₱437,355.97
+
+(₱437,355.97)
+
+
+
+In the review of the PPE Ledger Cards (PPELCs) generated from the e-NGAS pertaining to aforementioned properties, we encountered the following observations:  
+
+
+
+--	Three units of distribution transformers with acquisition cost in the amount of ₱435,000.00 were purchased on June 30, 2020 and debited to Office Equipment account. However, at the end of the year, the same were reclassified to Other PPE account by debiting Other PPE account and crediting Office Equipment account equivalent to the total acquisition cost without a corresponding adjustment to accumulated depreciation for six months totaling to ₱13,775.04 that resulted in its negative balances; 
+
+
+
+--	Three units of split-type wall-mounted air-conditioning equipment purchased in CY 2002 were transferred to other government agencies in CY 2019. The said transfer was recognized by debiting Accumulated Surplus/(Deficit) account amounting to ₱11,399.95 instead of the total net book value of the three properties totaling to ₱5,700.28, thus, resulting in its negative balances; and
+
+
+
+--	Six units of motor vehicles acquired on March 20, 2020 were reclassified to the appropriate Subsidiary Ledger (SL) accounts on August 24, 2020 through a journal entry by debiting and crediting the Motor Vehicles account equivalent to the total acquisition cost of the six units of motor vehicles without corresponding reclassification of the accumulated depreciation of ₱417,880.65.
+
+
+
+The aforesaid lapses in the reclassification and derecognition of PPE items resulted in the understatement of balances of the controlling accounts in an aggregate amount of ₱437,355.97.
+
+
+
+				d)	Non-disposal of Unserviceable properties - ₱404,261.26
+
+
+
+Section 79 of Presidential Decree (P.D.) No. 1445 provides that when government property has become unserviceable for any cause, or is no longer needed, it shall, upon application of the accountable officer therefore, be inspected by the head of the agency or his duly authorized representative in the presence of the auditor concerned and, if found to be valueless or unsalable, it may be destroyed in their presence. If found valuable, it may be sold at public auction to the highest bidder under the supervision of the proper committee on award or similar body.
+
+
+
+Relatively, Section 40, Chapter 10, Volume I of GAM for NGAs, provides that a PPE is said to be unserviceable if it is no longer capable of providing the entity with future economic benefits or service potential. 
+
+
+
+Based on the RPCPPE submitted by the Property and Storage Unit, unserviceable PPEs with total carrying value of ₱404,261.26 (Appendix C) were not yet disposed of as at year-end.
+
+
+
+Unserviceable and obsolete PPEs continued to be exposed to elements which further deteriorated the assets, thus, decreasing the possible selling value and depriving the government of additional revenues that may have been realized from its disposal. Moreover, the storage or facility where these unserviceable assets were kept could have been utilized for other purposes that may redound to the best interest of public service. Below are the pictures taken during the inspection at the Property and Storage area:
+
+
+
+----media/image2.jpeg----                   ----media/image3.jpeg----
+
+			  Unserviceable properties found at storage area
+
+Furthermore, the Agency failed to prepare and submit Inventory and Inspection Report of Unserviceable Property (IIRUP) contrary to Section 40, Chapter 10, GAM for NGAs, Volume I requiring that all unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) (Appendix 74). PPE reported in the IIRUP shall be dropped from the books by debiting Impairment Loss-Property, Plant and Equipment (cost of the PPE less Accumulated Depreciation).
+
+
+
+Lapses and deficiencies in accounting and management of PPEs raised doubt on the accuracy, reliability and ownership of the PPEs amounting to ₱208,954,343.76 at year-end. Moreover, the non-disposal of unserviceable items deprived the Agency of additional cash inflow from sale thereof, if still saleable, and of the alternative use of the storage space.
+
+
+
+We recommended and the Executive Director agreed to instruct the                     (a) Facility Management and Field Operations Division to fast track the processing of Deeds of Donation (DODs) and submit a copy of the same to the Property and Accounting Units; (b) Accounting and Property Units to (i) derecognize in their respective records the distributed farm machineries totaling to ₱208,675,132.00 covered by duly executed DODs; and (ii) facilitate the request for transfer of ownership over PPE items amounting to ₱716,567.73 purchased through PCAARRD-GIA funded projects by securing Invoice Receipt/s for Property (IRP) or DODs from the PCAARRD; (c) Accounting Unit to draw the necessary adjusting entries in the books of accounts for PPE items with negative balances amounting to ₱437,355.97; and (d) Property Unit to (i) prepare and submit IIRUP to the Audit Team in the format prescribed by the GAM for NGAs ; and (ii) coordinate with the Disposal Committee to undertake appropriate disposal proceedings in accordance with pertinent regulations.
+
+
+
+
+
+Unsubstantiated Accounts Payable- ₱96.82 Million
+
+
+
+2)		The year-end balance of Accounts Payable was overstated while Accumulated Surplus/(Deficit) was understated by the same amount of ₱96,822,652.92 due to (a) recording as payables of procured items for which actual deliveries have not been made by the suppliers as of December 31, 2020; and (b) recognition of the said claims sans complete documentation contrary to DBM Circular Letter No. 2013-16 dated December 23, 2013, COA Circular No. 2013-002 dated January 13, 2013 and Section 4(6) of Presidential Decree (P.D.) No. 1445.
+
+
+
+	1)		Section 6.1.2 of DBM Circular Letter No. 2013-16 states the following:
+
+
+
+Obligations, for which goods/services/projects have not yet been delivered/rendered/completed by the creditor and accepted by the NGA/OU, shall not be recorded as A/Ps at the end of the year. These obligations shall only be recognized as A/Ps on the date of delivery/rendition/completion and acceptance of the goods/services/projects, regardless of the year of incurrence of such obligations. (emphasis supplied)
+
+
+
+	2)		The Revised Chart of Accounts for National Government Agencies prescribed under COA Circular No. 2013-002 dated January 30, 2013 describes the following account:
+
+
+
+Account Title		Accounts Payable
+
+Account Number	20101010
+
+Normal Balance	Credit
+
+Description	This account is used to record receipt of goods or services on account in the normal course of trade and business operation. Debit this account for payment or settlement of liabilities.
+
+
+
+	3)		Likewise, Section 4(6) of P.D. No. 1445 provides that claims against government funds shall be supported with complete documentation.
+
+
+
+	4)		Review and analysis of the set-up of Accounts Payable covered by Journal Entry Voucher (JEV) Nos. 2020-12-000654 and 2020-12-006587 both dated Decembers 29, 2020 disclosed that several line-item expenditures totaling to ₱96,822,652.92 were credited to the account despite the following deficiencies/errors; to wit:
+
+
+
+a)	Payables recognized without actual delivery of goods -₱96,822,652.92
+
+
+
+	5)		The procurements of various supplies, materials and services totaling to ₱96,822,652.92 were treated as Accounts Payable although there were no actual deliveries of goods or rendition of services by the suppliers while acceptance by the Agency has not taken place as of December 31, 2020. Details of the transactions are as follows:
+
+
+
+Account
+
+JEV No.
+
+Total Amount
+
+
+
+
+
+2020-12-000654
+
+2020-12-006587 
+
+
+
+Office Supplies Expenses
+
+₱2,653,707.00
+
+  ₱3,053,875.35 
+
+       ₱ 5,707,582.35 
+
+Fuel, Oil and Lubricants Expenses
+
+63,025.96
+
+         308,539.25 
+
+           371,565.21 
+
+Agricultural and Marine Supplies Expenses
+
+11,150.00
+
+           26,166.40 
+
+             37,316.40 
+
+Semi-Expendable Machinery and Equipment Expenses
+
+331,526.50
+
+      2,192,405.38 
+
+        2,523,931.88 
+
+Semi-Expendable Furniture, Fixtures and Books Expenses
+
+0.00
+
+      1,331,858.40 
+
+        1,331,858.40 
+
+Repairs and Maintenance-Buildings and Other Structures
+
+0.00
+
+         100,252.00 
+
+           100,252.00 
+
+Repairs and Maintenance-Machinery and Equipment
+
+0.00
+
+      1,187,928.45 
+
+        1,187,928.45 
+
+Other Supplies and Materials Expenses
+
+624,383.00
+
+      1,462,023.97 
+
+        2,086,406.97 
+
+Water Expenses
+
+0.00
+
+           98,350.00 
+
+             98,350.00 
+
+Electricity Expenses
+
+0.00
+
+           18,441.31 
+
+             18,441.31 
+
+Telephone Expenses
+
+0.00
+
+         191,452.50 
+
+           191,452.50 
+
+Printing and Publication Expenses
+
+18,429,291.00
+
+      1,203,765.00 
+
+      19,633,056.00 
+
+Representation Expenses
+
+12,220.00
+
+         619,573.00 
+
+           631,793.00 
+
+Traveling Expenses- Local
+
+112,470.00
+
+      1,337,269.00 
+
+        1,449,739.00 
+
+Training Expenses
+
+10,667,156.00
+
+         193,374.06 
+
+      10,860,530.06 
+
+Postage and Courier Expenses
+
+7,414.00
+
+           47,597.00 
+
+             55,011.00 
+
+Telephone Expenses
+
+35,988.00
+
+0.00
+
+             35,988.00 
+
+Subsistence Allowance
+
+0.00
+
+         107,775.00 
+
+           107,775.00 
+
+Laundry Allowance
+
+0.00
+
+           18,000.00 
+
+             18,000.00 
+
+Hazard Pay
+
+0.00
+
+      1,398,981.71 
+
+        1,398,981.71 
+
+Other Personal Benefits
+
+0.00
+
+           14,500.00 
+
+             14,500.00 
+
+Other Professional Services
+
+1,096,964.38
+
+    23,537,927.88 
+
+      24,634,892.26 
+
+Labor and Wages
+
+215,379.32
+
+      1,277,662.58 
+
+        1,493,041.90 
+
+Salaries and Wages-Regular
+
+0.00
+
+         438,579.63 
+
+           438,579.63 
+
+Salaries and Wages-Casual/Contractual
+
+0.00
+
+         120,871.79 
+
+           120,871.79 
+
+Janitorial Services
+
+0.00
+
+           30,426.94 
+
+             30,426.94 
+
+Security Services
+
+0.00
+
+      1,163,901.00 
+
+        1,163,901.00 
+
+Other General Services
+
+0.00
+
+         102,496.00 
+
+           102,496.00 
+
+Advertising Expenses
+
+15,016,000.00
+
+0.00
+
+      15,016,000.00 
+
+Rent/Lease Expenses
+
+1,155,430.80
+
+         718,770.00 
+
+        1,874,200.80 
+
+Subscription Expenses
+
+0.00
+
+      2,476,755.41 
+
+        2,476,755.41 
+
+Medical, Dental and Laboratory Supplies Expenses
+
+0.00
+
+      1,592,364.95 
+
+        1,592,364.95 
+
+Transportation and Delivery Expenses
+
+0.00
+
+             6,993.00 
+
+               6,993.00 
+
+Taxes, Duties and Licenses
+
+0.00
+
+           11,670.00 
+
+             11,670.00 
+
+Total
+
+₱50,432,105.96
+
+ ₱46,390,546.96 
+
+     ₱ 96,822,652.92 
+
+
+
+	6)		Verification showed that the accounts debited to set up Accounts Payable were Maintenance and Other Operating Expenses (MOOE) sub-accounts which entailed issuance of supplies and materials to end-users. However, since there was no physical delivery of the goods as at year-end, recognition of corresponding expenses should not have been made. Such erroneous recognition was not in conformity with the Revised Chart of Accounts for National Government Agencies as prescribed under COA Circular No. 2013-002 which describes said expenses as normal debits to the account in case of issuance to end-users.  
+
+
+
+b)	Recognition of claims sans complete documentation
+
+
+
+	7)		While the personnel in-charge of preparing the List of Accounts Payable averred that there were already items delivered and services rendered, the same were not  supported with relevant documents such as Inspection and Acceptance Report (IAR), Requisition and Issuance Slip (RIS), Accomplishment Report, Travel Report, Delivery Receipts and other pertinent documents contrary to Section 4(6) of P.D. No. 1445, supra.
+
+
+
+	8)		Interview with the personnel concerned from the Finance Division disclosed that the aforementioned practice of setting up Accounts Payable was based on open balances of accounts or those with allotted budget for expenses which were not consumed/paid during the year. They prepared a List of Accounts Payable supporting the JEV based on Purchase Requests, Job Orders/Purchase Orders or scheduled travels/trainings but which did not materialize or did not actually take place as at year-end.
+
+
+
+	9)		As a result, the year-end balance of Accounts Payable was overstated by ₱96,822,652.92 while Accumulated Surplus/(Deficit) account was understated by the same amount which affected the fairness of presentation of the financial statements.
+
+	
+
+	10)		We recommended and the Executive Director agreed to instruct the Finance Division to (a) stop the practice of recognizing Accounts Payable for procurements without actual receipt of goods or rendition of services following the accrual basis of accounting; and (b) substantiate the claims with complete documentation in accordance with relevant rules and regulations.
+
+
+
+
+
+Unliquidated fund transfers - ₱46 million 
+
+
+
+3)	Out of the previous year’s unliquidated balances for Intra-Agency Receivables accounts amounting to ₱49,944,165.17, a total of ₱4,276,454.59 was refunded in Calendar Year 2020 while an aggregate amount of ₱45,667,710.58, composed of receivables from different national and local government agencies, remained outstanding for over one year to more than three years, in spite of lapsed contract period contrary to the stipulations in their respective Memorandum of Agreement (MOA). Moreover, the failure to coordinate or send Notices to Liquidate (NL) to other three implementing agencies with unliquidated balances totaling to ₱7,491,504.33 had further cast doubts on the reliability and validity of the accounts as at year-end.
+
+
+
+	1)			This is a reiteration of prior year’s observation with modification on the balances of unliquidated funds transferred to the Department of Agriculture – Regional Field Offices (DA-RFOs) and Other Government Agencies, as Implementing Agencies (IAs), for the implementation of various projects.
+
+
+
+	2)			Analysis of the balances of the Intra-Agency Receivables accounts disclosed that a sum of ₱4,276,454.59 was refunded by different National Government Agencies (NGAs) inclusive of the amount of ₱819,022.62 due from the Procurement Services- Department of Budget and Management (PS-DBM), as detailed in the table below: 
+
+
+
+Account
+
+Year Transferred
+
+Balance as of December 31, 2019
+
+Refunded/ Deducted  
+
+Balance as of December 31, 2020
+
+Due from NGAS
+
+
+
+
+
+
+
+
+
+DA-RFU II
+
+2015
+
+ ₱ 1,922,510.14 
+
+-
+
+ ₱ 1,922,510.14 
+
+DA-RFU V
+
+2019
+
+       300,000.00 
+
+
+
+       300,000.00 
+
+DA-RFU VII
+
+2009
+
+    3,341,078.57 
+
+(₱2,909,643.63)
+
+431,434.94
+
+DA-RFU XI
+
+2018
+
+5,500,000.00 
+
+-
+
+5,500,000.00 
+
+DA-CARAGA
+
+2009
+
+   1,020,732.36 
+
+-
+
+   1,020,732.36 
+
+National Agribusiness Corporation (NABCOR)
+
+2007
+
+  36,207,170.35 
+
+-
+
+  36,207,170.35 
+
+Central Bicol State University of Agriculture (CBSUA)
+
+2017
+
+5,011.83 
+
+(5,011.83)
+
+-
+
+
+
+2019
+
+235,000.00
+
+(235,000.00)
+
+
+
+Central Luzon State University (CLSU)
+
+2016
+
+    33,591.84 
+
+    (33,591.84) 
+
+-
+
+
+
+2018
+
+24,184.67 
+
+(24,184.67) 
+
+-
+
+
+
+2019
+
+250,000.00
+
+(250,000.00)
+
+-
+
+Philippine Nuclear Research Institute (PNRI)
+
+2016
+
+        98,200.00 
+
+
+
+-
+
+98,200.00
+
+Procurement Service (PS) - DBM
+
+2018
+
+69,021.32
+
+(27.13)
+
+68,994.19
+
+
+
+2019
+
+818,995.49
+
+(818,995.49)
+
+-
+
+Subtotal 
+
+
+
+49,825,496.57
+
+(4,276,454.59)
+
+45,549,041.98
+
+Due from LGUs
+
+
+
+
+
+
+
+
+
+Municipal Government of Liliw, Laguna
+
+2009
+
+              118,668.60 
+
+-
+
+118,668.60
+
+Subtotal 
+
+
+
+118,668.60
+
+-
+
+118,668.60
+
+Grand Total
+
+
+
+₱49,944,165.17
+
+(₱4,276,454.59)
+
+₱45,667,710.58
+
+  
+
+	3)			As mentioned in the previous Annual Audit Reports (AARs), relevant accounting policies for Inter-Agency Transferred Funds (IATF) are provided under Section 63 (f) to (h), Chapter 6 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, quoted as follows:
+
+
+
+f. Within ten (10) days after the end of each month/end of the agreed period for the Project, the IA shall submit the Report of Checks Issued (RCI) and the Report of Cash Disbursements (RCDisb) to report the utilization of the funds. Only actual project expenses shall be reported. The reports shall be approved by the Head of the IA.
+
+
+
+g. The IA shall return to the SA any unused balance upon completion of the project, if stipulated in the MOA.
+
+
+
+h. The SA shall draw a Journal Entry Voucher (JEV) to take up the reports. The amount to take up the liquidation in the RCI shall be net of the cash advances granted by the IA to its accountable officers.
+
+  
+
+	4)			As at December 31, 2020, the balances of the Due from NGAs and Due from   LGUs accounts totaled to ₱45,947,521.03, showing a net decrease of ₱4,046,644.14 or 8% from last year’s balance of ₱49,994,165.17. As already discussed in the previous AARs, the amount of ₱45,667,710.58 or 99% of the year-end balance has remained unliquidated for over one year to more than three years as shown in the aging schedule in the next page:
+
+Account
+
+Year Trans-ferred
+
+Balance as of December 31, 2020
+
+Age
+
+
+
+
+
+
+
+Current
+
+> 1 year
+
+> 2 years
+
+> 3 years
+
+Due from NGAs
+
+DA-RFO II
+
+2015
+
+          ₱ 1,922,510.14 
+
+₱   0.00
+
+₱     0.00
+
+₱   0.00
+
+  ₱1,922,510.14 
+
+DA-RFO V
+
+2019
+
+              300,000.00 
+
+0.00   
+
+300,000.00 
+
+0.00
+
+0.00
+
+DA-RFO VII
+
+2009
+
+              431,434.94 
+
+0.00
+
+0.00
+
+0.00
+
+    431,434.94 
+
+DA-RFO XI
+
+2018
+
+           5,500,000.00 
+
+0.00
+
+5,500,000.00 
+
+0.00
+
+0.00
+
+DA-CARAGA
+
+2009
+
+           1,020,732.36 
+
+0.00
+
+0.00
+
+0.00
+
+1,020,732.36 
+
+National Agribusiness Corporation (NABCOR)
+
+2007
+
+         36,207,170.35 
+
+0.00
+
+0.00
+
+0.00
+
+36,207,170.35 
+
+Philippine Nuclear Research Institute (PNRI)
+
+2016
+
+                98,200.00 
+
+0.00
+
+0.00
+
+0.00
+
+98,200.00 
+
+Procurement Service (PS)- DBM
+
+2018
+
+68,994.19
+
+0.00
+
+           0.00 
+
+68,994.19
+
+0.00
+
+
+
+2020
+
+              279,810.45 
+
+     279,810.45 
+
+0.00
+
+0.00
+
+0.00
+
+Subtotal
+
+ 
+
+     45,828,852.43 
+
+279,810.45 
+
+5,800,000.00 
+
+68,994.19 
+
+ 39,680,047.79 
+
+Due from LGUs
+
+Municipal Government of Liliw, Laguna
+
+2009
+
+              118,668.60 
+
+0.00
+
+0.00
+
+0.00
+
+     118,668.60 
+
+Subtotal
+
+ 
+
+           118,668.60 
+
+0.00
+
+0.00
+
+0.00
+
+ 118,668.60 
+
+Grand Total
+
+ 
+
+     ₱45,947,521.03 
+
+            ₱279,810.45 
+
+           ₱5,800,000.00 
+
+          ₱68,994.19 
+
+     ₱39,798,716.39 
+
+Total Past Due Accounts
+
+ 
+
+ 
+
+
+
+₱45,667,710.58
+
+% to Total
+
+ 
+
+0.61%
+
+12.62%
+
+0.15%
+
+86.62%
+
+
+
+	5)			The above table showed that the substantial amount of the past due accounts, aged more than three years, belongs to the account of NABCOR which was abolished by the former President Benigno C. Aquino III thru the recommendation of the Governance Commission for GOCC (GCG) on November 26, 2013. Since then, NABCOR was not able to liquidate the remaining ₱36,207,170.35 with the last Notice to Liquidate (NL) sent by PHilMech on October 15, 2012 based on the records provided by the Accounting Unit.
+
+
+
+	6)			Meanwhile, the last liquidation report submitted relative to the above fund transfers from NABCOR was in June 2013 amounting to ₱429,614.00. However, the personnel concerned from the Finance Department stated that they coordinated with the DA Accountant after the NABCOR’s dissolution but the DA was also uncertain as to whom or where they are going to coordinate in relation to the latter’s account.
+
+
+
+	7)			The Agency manifested its intention to request for authority from the Commission on Audit (COA) for the write-off of the ₱36,207,170.35 receivables from NABCOR pursuant to COA Circular No. 2016-005 dated December 19, 2016 when the dormancy of the account reaches ten years.
+
+
+
+	8)			The above Circular prescribes the guidelines and procedures on the write-off of dormant receivable accounts, unliquidated cash advances, and fund transfers of NGAs, LGUs and Government-Owned and Controlled Corporations (GOCCs), aged ten years or more.
+
+
+
+	9)			It is worthy to mention that the unliquidated fund transfer to NABCOR of ₱36,207,170.35 tallied with the unremitted/unliquidated balance of the funds received by PHilMech from the Department of Agriculture (DA).
+
+
+
+	10)			Meanwhile, the Audit Team sent confirmation letters to the other eight recipient agencies to verify the correctness of the unliquidated balances as of October 31, 2020.  From the confirmation sent, two confirmed the amount due from them while there were no responses received from the other six agencies. 
+
+
+
+	11)			Based on the Memorandum of Agreement (MOA) executed between the PHilMech and the IAs, the projects/activities will be implemented within a period ranging from one year to two years.  Considering that most of the outstanding balances of the Due from NGAs and Due from LGUs accounts were transferred to the IAs from CY 2007 to CY 2018, the projects should have long been fully implemented as of December 31, 2020. 
+
+
+
+	12)			Verification of the Agency’s action to demand liquidation from eight existing IAs with unliquidated balances revealed that only five NLs dated November 24, 2020 were sent by the Accounting Unit. 
+
+
+
+	13)			Interview with the Finance Division personnel revealed the following observations as to the remaining three IAs with unliquidated balances totaling to ₱7,491,504.33; viz:
+
+
+
+--	Admittedly, the Management did not send NL for the unliquidated balance of ₱5,500,000.00 of DA-RFO XI due to its failure as source agency to promptly comply with some project modifications, resulting in the amendment of the original MOA; and
+
+
+
+--	No coordination was made as to the outstanding advance payments in the amount of ₱68,994.19 to the PS-DBM located at Paco, Manila.  Since the start of CY 2019, the Agency has started to procure its common-use supplies from the PS Depot located at San Fernando, Pampanga.
+
+
+
+	14)			From the foregoing circumstances, it could be deduced that the accumulation of unliquidated fund transfers was caused by the non-compliance of the IAs on their obligations as stipulated in the MOAs requiring, among others, the following:
+
+
+
+a)	submission of report of disbursement not later than fifteen (15) days after each quarter and whenever required, verified and found correct by its Resident Auditor; 
+
+b)	submission to the PHilMech of monthly reports on physical and financial accomplishments; and 
+
+c)	liquidation of the funds received and return/refund to PHilMech any amount which remains unused or disallowed in audit upon the completion of the project.
+
+
+
+	15)			In the same way, PHilMech has similar obligations to demand immediate liquidation in coordination with the concerned IAs.
+
+
+
+	16)			Owing to the failure on the part of the IAs to liquidate the project funds, the determination of the status of project implementation as well as compliance with the project requirements were not facilitated. Moreover, the reliability and validity of the Assets account were impaired since the collectability of the overdue receivables, such as Due from NGAs and Due from LGUs is considered remote.  
+
+		
+
+	17)			We recommended and the Executive Director agreed to instruct the Finance Division Chief to (a) coordinate with the counterpart Accountant of all the IAs concerned for the immediate submission of liquidation reports pertaining to the utilized funds; (b) strengthen the monitoring controls on fund transfers to prevent accumulation of long outstanding fund transfers; (c) continue to issue demand letters/Notices to Liquidate to other IAs concerned on a regular basis; and (d) exert more diligent effort to determine the office or proper authority to coordinate with in relation to the NABCOR’s unsettled accounts  in order for the Agency to fulfill its own financial obligation due to the DA.
+
+		
+
+
+
+Unremitted excess proceeds from sale of bid documents and protest fees- ₱8.2 million
+
+
+
+4)	The amount of ₱8,203,497.00, representing excess proceeds from the sale of bid documents and collection of protest fees during the previous and current years, were not remitted to the National Treasury even if the intended purpose has already been served inconsistent with Item 6.2 of Budget Circular (BC) No. 2004-5A dated October 7, 2005, as amended by BC No. 2007-3 dated November 29, 2007.
+
+
+
+	1)			Department of Budget and Management (DBM) Budget Circular (BC) No. 2004-5A dated October 7, 2005, as amended by BC No. 2007-3 dated November 29, 2007 provides for the utilization of the proceeds from sale of bidding documents and protest fees, among others. Item 6.2 thereof states that:
+
+
+
+Pursuant to the DOF-DBM-COA Permanent Committee Resolution No. 2005-002 dated June 2005, all agencies are authorized to treat the collections from the sources identified in item 6.1 hereof as trust receipts to be used exclusively for the payment of honoraria and overtime pay herein authorized. Agencies may utilize up to one hundred percent (100%) of the said collections for the payment of honoraria and overtime pay subject to the guidelines in Item 5.0 of this Circular. Any excess in the amount collected shall be remitted by NGAs to the Bureau of Treasury. xxx
+
+
+
+	2)			The foregoing provision of the Budget Circular classifies the collections from the sale of bidding documents and protest fees as trust receipts, among others, so remittance thereof to the Bureau of Treasury is mandatory. 
+
+
+
+	3)			Analysis of the General Ledger (GL) of the Trust Liabilities account as of            December 31, 2020 showed a beginning balance of ₱1,879,226.75 representing proceeds from the sale of bid documents in prior years. During the year 2020, proceeds from sale of bid documents and protest fees totaling to ₱8,788,000.00 were deposited to the Trust Fund account from which ₱2,463,729.75 was disbursed, leaving excess proceeds of ₱8,203,497.00, including the balance from prior years’ collections. Details are summarized in the table below:
+
+
+
+Particulars
+
+Amount
+
+Beginning Balance, January 1, 2020
+
+₱1,879,226.75
+
+Add: Proceeds from sale of bid documents and protest fee
+
+8,788,000.00
+
+Total
+
+10,667,226.75
+
+Less: Payment of BAC and TWG honoraria and adjustments due to reclassification
+
+(2,463,729.75)
+
+Total Savings/Unexpended balance as of December 31, 2020
+
+₱8,203,497.00
+
+
+
+	4)			The proceeds totaling to ₱8,788,000.00 generated during the year refer to collections from successfully completed procurement projects (activities prior to awarding of contract to the winning bidders).   The amount also includes collection of protest fees totaling to ₱5,000,000.00 which by its nature is non-refundable in accordance with Section 55.3 of the Revised Implementing Rules and Regulations (RIRR) of Republic Act (R.A.) No. 9184.
+
+
+
+	5)			Meanwhile, simultaneous verification of the Cash in Bank- Local Currency, Current Account (LCCA) maintained under the Trust Fund disclosed that all the excess proceeds from sale of bid documents and protest fees totaling to ₱8,203,497.00 were not remitted to the Bureau of Treasury (BT) in contravention of Item 6.2 of BC No. 2004-5A dated October 7, 2005.
+
+
+
+	6)			These unexpended balances remained idle in the custody of the Agency for it cannot be utilized for other purposes except those mentioned under the aforementioned DBM Circular. 
+
+
+
+	7)			Interview with the Chief of Finance Division disclosed that they may have overlooked the remittance of excess proceeds from prior years’ sale of bid documents. As to the current year, they committed to remit the same as soon as they finish the processing of the remaining payroll for BAC and TWG honoraria pertaining to successfully completed projects in December 2020.
+
+
+
+	8)			We recommended and the Executive Director agreed to instruct the Finance Division to immediately remit to the National Treasury the excess proceeds from sale of bid documents and protest fees after all claims for honoraria of the Chair/members of the BAC and TWG are settled in compliance with DBM Circular No. 2004-5A dated October 7, 2005, as amended by Budget Circular No. 2007-3 dated November 29, 2007. 
+
+
+
+
+
+Inadequacy of Property and Accounting Records for Inventories
+
+
+
+5)	Deficiencies were observed during the test validation of the report on the physical count of inventories such as (a) unadjusted net variance of ₱25,275.90 noted between the Accounting records and the physical count validated by the Audit Team; (b) non-disposal of defective and expired inventory items of undetermined amount; and (c) non-recognition of 92 units of assorted supplies found at the Property and Storage stockroom costing ₱160,397.45 contrary to pertinent provisions of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I and the rules on Perpetual Inventory Method.  
+
+
+
+	1)			The Statement of Financial Position as of December 31, 2020 showed the balance of the Inventory accounts totaling to ₱3,565,551.32, broken down as follows:
+
+
+
+Inventory accounts
+
+Amounts
+
+Office Supplies Inventory
+
+₱ 1,578,052.11
+
+Medical, Dental and Laboratory Supplies Inventory
+
+171,070.01
+
+Construction Materials Inventory
+
+655,726.65
+
+Other Supplies and Materials Inventory
+
+1,160,702.55
+
+Total Inventories
+
+₱ 3,565,551.32
+
+
+
+	2)			During the validation of the Inventory account balances, the Audit Team (AT) found the following issues that tend to diminish reliance thereon and on the integrity of the inventory management:
+
+
+
+a)	Variances noted between Accounting records and the physical count - ₱25,275.90
+
+
+
+	3)			Instruction C of Appendix 66, GAM for NGAs, Volume II, in relation to the Report on the Physical Count of Inventories, Accounting Books, Registries, Records, Forms and Report prescribes that the report shall be reconciled with the SLCs and SCs maintained by the Accounting Division/Unit, and Property and/or Supply Division/Unit, respectively. Any discrepancy shall be verified and/or adjusted accordingly.
+
+
+
+	4)			Following the aforementioned guidelines, the Property and Storage Unit conducted semi-annual and year-end physical inventory-taking of supplies and materials as witnessed by representatives from the Audit Team. The Audit Team also conducted follow-up test counts on January 12, 2021 concentrating on high monetary value items in order to verify the existence and physical condition of various inventories and the reliability of the property records. We observed the movement of some inventory items from year-end up to the date of test counts.
+
+
+
+	5)			Results of the validation and test counts disclosed that some inventory items had variances in quantity between the Accounting and Property records and the physical count validated by the AT, the details of which are presented in the table below:
+
+
+
+Description
+
+Quantity
+
+Difference
+
+Unit Cost
+
+Over(Under)
+
+
+
+Per Accounting and Property Record
+
+Per Audit
+
+
+
+
+
+
+
+HP ink 305A (CE411A) Cyan)
+
+5
+
+13
+
+-8
+
+ ₱2,640.00 
+
+     ₱ (21,120.00)
+
+Zip Lock, 8' x 12" 4mil thickness)
+
+20
+
+15
+
+5
+
+1,148.57 
+
+            5,742.85 
+
+Adhesive (Silicon Sealant, Black)
+
+13
+
+8
+
+5
+
+170.00 
+
+               850.00 
+
+Adhesive (Teflon tape 1/2)
+
+15
+
+96
+
+-81
+
+25.00 
+
+          (2,025.00)
+
+Paint Brush, 2")
+
+10
+
+7
+
+3
+
+40.00 
+
+               120.00 
+
+Paint Roller (152mm)
+
+1
+
+6
+
+-5
+
+39.00 
+
+             (195.00)
+
+Circuit Breaker (20 A)
+
+9
+
+14
+
+-5
+
+304.78 
+
+          (1,523.90)
+
+Circuit Breaker (40A)
+
+120
+
+106
+
+14
+
+330.00 
+
+            4,620.00 
+
+Flexible Hose (Water Closet)
+
+65
+
+33
+
+32
+
+350.73 
+
+          11,223.36 
+
+Door Closer, Transcom
+
+10
+
+15
+
+-5
+
+2,553.20 
+
+        (12,766.00)
+
+Portland cement
+
+4
+
+37
+
+-33
+
+214.00 
+
+          (7,062.00)
+
+PPR #1 coupling
+
+5
+
+25
+
+-20
+
+18.00 
+
+             (360.00)
+
+PPR Elbow #1
+
+20
+
+5
+
+15
+
+22.00 
+
+               330.00 
+
+Acrylic latex paint (Baguio Green)
+
+10
+
+9
+
+1
+
+2,309.00 
+
+            2,309.00 
+
+Semi-gloss Latex paint
+
+2
+
+5
+
+-3
+
+2,313.00 
+
+          (6,939.00)
+
+Spray Paint, Yellow
+
+4
+
+2
+
+2
+
+100.00 
+
+               200.00 
+
+Poly Vinyl Chloride (PVC) Coupling 1/2
+
+45
+
+42
+
+3
+
+7.93 
+
+                 23.79 
+
+PVC Pipe 3/4" - Orange
+
+106
+
+92
+
+14
+
+85.00 
+
+            1,190.00 
+
+PVC Pipe, Blue 1/2
+
+14
+
+12
+
+2
+
+53.00 
+
+               106.00 
+
+Total Variance
+
+ 
+
+ 
+
+ 
+
+ 
+
+ ₱ (25,275.90)
+
+
+
+	6)			During the reconciliation of Accounting and Property records and the test counts before and after the year-end, we observed that there were no movements on some inventory items which we were able to account in terms of quantities still on hand. Nevertheless, the above discrepancy of ₱25,275.90 resulted in the understatement of the Inventory controlling accounts by the same amount.
+
+
+
+b)	Non-disposal of defective and expired inventory items
+
+
+
+	7)			The Audit Team likewise observed during the conduct of physical validation that some inventories were already defective and expired as shown below:
+
+		
+
+
+
+Description
+
+Unit
+
+Qty.
+
+Plastic Wood Dough (Lacquer Type Paint)
+
+can/pcs
+
+11
+
+Coat Saver (Latex Paint)
+
+can/pcs
+
+8
+
+Boysen (clear gloss Lacquer) 
+
+can/pcs
+
+8
+
+Boysen (Quick drying enamel)
+
+can/pcs
+
+7
+
+Boysen (Plasolux Glazing Putty, B-311 White)
+
+can/pcs
+
+36
+
+Davies premium grade (acrylic color)
+
+can/pc
+
+1
+
+HP Laserjet (85A)
+
+pcs
+
+25
+
+HP Laserjet (12A)
+
+pcs
+
+2
+
+ERASER (Touch & Go)
+
+pcs
+
+12
+
+Total
+
+ 
+
+110
+
+
+
+	8)			We found out that various painting materials and other supplies listed above were either expired with the cans turning rusty or defective, for instance the computer ink, as depicted in the following pictures taken at the Property and Storage Unit (PSU) stockroom; viz:
+
+
+
+----media/image4.jpeg----   ----media/image5.jpeg----
+
+Defective and expired inventory items
+
+
+
+	9)			Meanwhile, the Supply and Property Custodian explained that some requisitioning units did not consume all their requests; thus, unused inventory items reached their expiration dates. She also averred that they plan to dispose of the same as soon as coordination with the Disposal Committee has been made.
+
+		
+
+	10)			We were informed by the PSU personnel concerned that the aforementioned painting materials were already requested by and issued to the end-user through a Requisition and Issue Slip (RIS) during CY 2018. However, since the end-user admitted that there was no available space where the materials can be secured, the same were left to the custody of the PSU pending issuance from time to time or as needed by the end-user. As to the computer ink, the same were previously issued to the requisitioning units but were returned to PSU since most of them were already using other printers.
+
+
+
+c)	Unrecognized inventory items found at Property stockroom- ₱160,397.45 
+
+
+
+	11)			It was also observed that at least 92 units of assorted inventory items physically located and found at the PSU stockroom were not recognized either in the Accounting or Property records; to wit:
+
+
+
+Description
+
+Unit
+
+Qty
+
+Unit Cost
+
+Amount
+
+V-Belts (various)
+
+pcs
+
+55
+
+₱85.59
+
+₱    4,707.45
+
+Refrigerant (13.5 kg)
+
+tank
+
+18
+
+4,900.00
+
+88,200.00
+
+refrigerant (5.6kg)
+
+tank
+
+9
+
+2,500.00
+
+22,500.00
+
+refrigerant (10kg)
+
+tank
+
+10
+
+4,499.00
+
+44,990.00
+
+Total
+
+ 
+
+92
+
+
+
+₱160,397.45
+
+
+
+	12)			Interview with the PSU personnel revealed that the non-recognition of the afore-cited inventories could be attributed to the inadequacy of reference documents about the inventories, such as complete description of the items and the unit cost, contrary to Section 17, Chapter 8 of the GAM for NGAs, Volume I which prescribes the records, forms and reports to be prepared and/or maintained for facility of tracing information about every item under Inventories.
+
+		
+
+	13)			In addition, purchase of supplies and materials for stock, regardless of whether or not they are consumed within the accounting period is recorded as Inventory following the cardinal rule on Perpetual Inventory Method to ensure proper accounting and promote better control in the receipt and issuance of supplies and materials.
+
+
+
+	14)			The foregoing lapses signaled weaknesses in accounting control over Inventory accounts which may eventually expose the assets to risk of loss or misuse. As a result, Management’s assertion on the valuation of reported inventories already expired, defective and for disposal could not be fully relied upon.
+
+		
+
+	15)			We recommended and the Executive Director agreed to instruct the Accounting and Property and Storage Units to (a) confirm the actual physical inventory of every item with noted variances against the actual count as validated by the Audit Team at year-end and effect the necessary adjustment in the books, if warranted; (b) conduct a complete physical count of defective and expired/obsolete inventories stored in the stockroom and determine the corresponding cost based on available records, if any, for proper recording of Impairment Loss account and adjustment to the appropriate Inventory accounts; (c) coordinate with the Disposal Committee to determine appropriate mode of disposal of the defective and expired/obsolete inventories; and (d) recognize in their respective records all inventory items found at the Property Stockroom following the cardinal rule on Perpetual Inventory Method.
+
+		
+
+		
+
+		
+
+		
+
+Unadjusted Prepayments
+
+
+
+6)	The expired portion of the Other Prepayments account totaling to ₱1,062,999.97 was not recognized/adjusted in the Agency’s books of accounts contrary to Section 53, Chapter 19, Volume I of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), thus, overstating the Other Prepayments and Accumulated Surplus/(Deficit) accounts by ₱1,062,999.97 and ₱284,196.77, respectively. Inversely, Property, Plant and Equipment, Intangible Assets, and Inventories were understated by ₱532,818.20, ₱165,840.00 and ₱80,145.00, respectively.  
+
+
+
+	1)			The Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume III, provides the following definition of Other Prepayments account; to wit:
+
+
+
+Account Title		Other Prepayments
+
+Account Number	19902990
+
+Normal Balance	Debit
+
+Description	This account is used to recognize the amount of prepayments not falling under any of the specific prepayment accounts. Credit this account for the expended amount.
+
+
+
+	2)			Further, Section 53(a), Chapter 19, Volume I of the same Manual provides the following accounting policies governing prepayments:
+
+
+
+Sec. 53. Adjustment for Deferred Items. These are adjusting entries transferring data previously recognized in an asset account to an expense account, or data previously recognized in a liability account to a revenue account. In contrast to the accrued items, it requires asset/expense adjustments and liability/revenue adjustments.
+
+
+
+a. Asset/Expense Adjustments. These pertain to assets, portion of which are consumed/used/incurred at the end of the accounting period. Examples of these adjustments are prepayments. Prepayments are expenses paid before they are incurred. At the end of the accounting period, the expired portion shall be determined and an adjusting journal entry shall be prepared to recognize the expense applicable to the period being reported.
+
+
+
+	3)			The Agency’s Detailed Statement of Financial Position as of December 31, 2020 showed the year-end balance of Other Prepayments account totaling to ₱2,349,223.82. 
+
+
+
+	4)			Inquiry disclosed that the Agency made use of the account to record procurement transactions undertaken thru cash-on-delivery or COD basis. This practice involves the early preparation of Modified Disbursement System (MDS) check by the Cashier and recognition thereof in the books of accounts as Other Prepayments by the Accounting Unit. However, actual payment will only be made at the time the goods were actually delivered or upon completion of the services by the supplier. 
+
+
+
+	5)			The Procurement Section explained that it has been the Agency practice to procure some readily available off-the-shelf goods through direct payment to the suppliers. Accordingly, this was resorted to since some suppliers are not willing to extend credit due to their company policies and since these are the only suppliers of known qualifications that can readily deliver the goods. 
+
+
+
+	6)			However, analysis of the Other Prepayments accounts as at year-end revealed that the expired portion relative to the goods delivered or services rendered amounting to ₱1,062,999.97 remained unadjusted, inconsistent with Section 53(a), Chapter 19, Volume I of the same Manual, as detailed below:
+
+
+
+a)	Inclusion of the cost of inventory items/semi-expendable supplies already consumed, used or expended as of December 31, 2020 in the amount of ₱191,033.77, as itemized below:
+
+
+
+Particulars
+
+Date Paid
+
+SI/DR/IAR No.
+
+Date delivered/ rendered
+
+Amount
+
+Payment for 4 pieces memory card
+
+9/5/2016
+
+59638
+
+9/5/2016
+
+              ₱ 8,600.00 
+
+Payment for 6 bottles Brodan
+
+7/18/2018
+
+7518
+
+8/6/2018
+
+               2,480.40 
+
+Payment for 3 pieces memory card
+
+1/21/2019
+
+08328
+
+1/28/2019
+
+               8,997.00 
+
+Payment for 3 units battery pack
+
+1/16/2019
+
+24423
+
+2/12/2019
+
+             10,586.00 
+
+Payment for medicines and other drugs
+
+6/18/2019
+
+19-07-G-279
+
+7/22/2019
+
+               6,068.62 
+
+Payment for medicines and other drugs
+
+7/16/2019
+
+2514787
+
+7/22/2019
+
+             71,340.00 
+
+Payment for 10 pieces foam board
+
+7/8/2019
+
+19-07-G-296
+
+7/30/2019
+
+               3,750.00 
+
+Payment for various supplies (sanitizers, bleach, etc.)
+
+6/21/2019
+
+59EB701817
+
+6/21/2019
+
+             13,793.25 
+
+Payment for postage stamps
+
+7/8/2019
+
+775
+
+7/22/2019
+
+             14,714.00 
+
+Payment for medicines
+
+7/8/2019
+
+2514800
+
+8/13/2019
+
+             19,532.50 
+
+Payment for postage stamps
+
+9/18/2019
+
+19-10-B-1196
+
+10/15/2019
+
+             16,000.00 
+
+Payment for tokens
+
+10/22/2019
+
+19-10-F-318
+
+10/31/2019
+
+               4,500.00 
+
+Payment for 10 pieces shower curtain
+
+12/16/2019
+
+20-01-F-376
+
+1/16/2020
+
+               4,421.25 
+
+Payment for various supplies (door knob, silicon, wood glue)
+
+11/16/2020
+
+2592
+
+11/23/2020
+
+               4,376.75 
+
+Payment for red oxide
+
+11/16/2020
+
+2591
+
+11/23/2020
+
+               1,874.00 
+
+Total 
+
+
+
+
+
+
+
+  ₱191,033.77
+
+b)	Acquisition of equipment and books totaling to ₱532,818.20 (with unit cost of more than the threshold of ₱15,000.00) which should have been appropriately classified under the Property, Plant and Equipment (PPE) account upon delivery/acceptance as follows:   
+
+
+
+Particulars
+
+Date Paid
+
+SI/DR/IAR No.
+
+Date delivered/ rendered
+
+Amount
+
+Payment for one set solar powered submersible pump
+
+12/28/2015
+
+756
+
+12/28/2015
+
+             ₱85,000.00 
+
+Payment for laboratory acoustic system
+
+2/21/2018
+
+180102
+
+3/6/2018
+
+           375,000.00 
+
+Payment for books
+
+11/12/2018
+
+3261
+
+12/5/2018
+
+             19,597.20 
+
+Payment for one unit urinal
+
+12/4/2019
+
+19-12-F-363
+
+12/19/2019
+
+             25,472.00 
+
+Payment for visitor’s chairs
+
+7/12/2019
+
+15600
+
+8/8/2019
+
+             27,749.00 
+
+Total 
+
+
+
+
+
+
+
+  ₱532,818.20
+
+
+
+c)	Acquisition of software amounting to ₱165,840.00 which should have been appropriately recognized under Intangible Assets – Computer Software account with the following details: 
+
+
+
+Particulars
+
+Date Paid
+
+SI/DR/IAR No.
+
+Date delivered/ rendered
+
+Amount
+
+Payment for design expert version 11 software
+
+6/26/2018
+
+7421
+
+6/26/2018
+
+                        ₱165,840.00 
+
+Total 
+
+
+
+
+
+
+
+  ₱165,840.00
+
+
+
+d)	Non-consumable items, with serviceable life of more than one year and acquisition cost of less than ₱15,000.00, were recorded as Other Prepayments upon purchase thereof, instead of being treated as Inventories. 
+
+
+
+Particulars
+
+Date Paid
+
+SI/DR/IAR No.
+
+Date delivered/ rendered
+
+Amount
+
+Payment for two units digital weighing scales
+
+1/7/2017
+
+17-003
+
+1/10/2017
+
+             ₱ 13,100.00 
+
+Payment for five units exhaust fan
+
+1/13/2017
+
+484
+
+1/13/2017
+
+               9,400.00 
+
+Payment for printer
+
+9/7/2017
+
+5504
+
+9/27/2017
+
+               8,275.00 
+
+Payment for one unit Epson printer
+
+1/10/2019
+
+62270
+
+1/15/2019
+
+             13,600.00 
+
+Payment for three units external hard drive
+
+1/8/2019
+
+965
+
+2/12/2019
+
+             15,000.00 
+
+Payment for one unit tower plan
+
+11/29/2019
+
+19-12-F-362
+
+12/19/2019
+
+4,295.00 
+
+Payment for 4 units visitor's chair
+
+10/9/2020
+
+20-11-D-036
+
+11/6/2020
+
+               8,000.00 
+
+Payment for 1 set carbide end 
+
+
+
+mill
+
+11/17/2020
+
+20-11-F-114
+
+11/24/2020
+
+               6,775.00 
+
+Payment for truck ratchet
+
+11/19/2020
+
+3984
+
+12/2/2020
+
+               1,700.00 
+
+Total 
+
+
+
+
+
+
+
+₱80,145.00
+
+
+
+e)	Costs incurred for the repairs of vehicle were also inappropriately charged to Other Prepayments, instead of the appropriate Repairs and Maintenance Expenses account.
+
+
+
+Particulars
+
+Date Paid
+
+SI/DR/IAR No.
+
+Date delivered/ rendered
+
+Amount
+
+Payment for front rotor disc LH RH fuel tank assay of vehicle
+
+10/9/2020
+
+25629
+
+10/15/2020
+
+₱46,163.00
+
+Payment for repair and maintenance of vehicle
+
+11/5/2020
+
+2896
+
+11/5/2020
+
+             47,000.00 
+
+Total 
+
+
+
+
+
+
+
+₱93,163.00
+
+
+
+	7)			The personnel concerned from the Finance Division (FD) averred that they failed to prepare the required adjusting entries on some expired prepayments because their Office was not given copies of some Inspection and Acceptance Reports (IARs) that will serve as basis for drawing the necessary adjusting entries in their books. They also commented that a staff from the Accounting Unit was tasked to periodically submit the Schedule of Prepayments to the Property and Storage Unit (PSU) for purposes of reconciliation. In turn, the PSU is responsible for submitting the IARs covering items already issued/used for adjustment in the books of accounts.
+
+
+
+	8)			Nevertheless, the PSU claimed that the Accounting Unit was furnished with a copy of the IAR once the items were forwarded to them.  Be that as it may, they asserted that there might really be no IAR for some goods purchased or services rendered, particularly those not turned over to the PSU for acceptance and storage. This happened since some end-users were authorized by the Procurement Unit to canvass and directly pick-up the goods. Also, the Property Custodian admitted some instances of prepayment transactions or COD wherein items purchased were already at the custody of end-users but did not actually pass through the Property Unit. As a result, no IAR was made at the time the goods or services were delivered and no corresponding prepayment was credited in the books of accounts.
+
+
+
+	9)			Based on the foregoing practice, the corresponding Asset or Expense account will only be recognized in the books once the goods or services were already paid for, thus, defeating the principle of the accrual basis of accounting in which transactions and events are recognized in the period these occurred, and not when cash was paid or received.
+
+
+
+	10)			Section 2(a), Chapter 2, Volume I, supra, provides that the accrual basis of accounting shall be used for financial reporting by national government agencies. Under this principle, transactions and other events are recognized when they occur (and not when cash or its equivalent is received or paid). 
+
+
+
+	11)			In sum, the foregoing observations resulted to the overstatement of the Other Prepayments and Accumulated Surplus/(Deficit) accounts by ₱1,062,999.97 and ₱284,196.77, respectively. Inversely, Property, Plant and Equipment, Intangible Assets, and Inventories were understated by ₱532,818.20, ₱165,840.00 and ₱80,145.00, respectively.  
+
+
+
+	12)			Moreover, the non-adoption of the accrual basis of accounting and the inappropriate use of Prepayments account led to unrecognized transactions which weakened the system of internal control over disbursements, and violated two essential assertions on expenditures, such as existence and occurrence.  
+
+		
+
+	13)			We recommended and the Executive Director agreed to instruct the (a) Finance Division to (i) prepare the necessary adjusting entries to correct the misstatement of affected accounts totaling to ₱1,062,999.97; and (ii) ensure the timely preparation of journal entry voucher (JEV) to recognize the expired portion of the Prepayments account; (b) Chief of Administrative Division to direct the (i) Property Unit to ensure the preparation of IAR for all items delivered and forward the same to the Accounting Unit for recording; (ii) Procurement Section to (i) adopt the accrual basis of accounting to make sure that expenses are taken up in the proper accounting period; and (ii) inform canvassers to turn over to the Property Unit all goods delivered or services rendered by suppliers for immediate preparation of the IAR.
+
+
+
+
+
+Delayed submission of accounts 
+
+
+
+7)	Disbursement vouchers (DVs) and liquidation reports (LRs) totaling to ₱175,702,016.19 were not submitted within the prescribed period with immeasurable delays ranging from two to 243 days. Moreover, reports of disbursements with an aggregate amount of ₱117,301,354.09 covering the period August to December 2020 remained unsubmitted which practice was not in keeping with Sections 7.1.1 and 7.2.1 of the COA 2009 Revised Rules and Regulations on Settlement of Accounts (RRSA); thus, Management was deprived of timely inputs on improvement opportunities and regulatory issues that may be determined upon prompt review of the accounts. 
+
+
+
+	1)			Sections 7.1.1 and 7.2.1 of COA 2009 Revised Rules and Regulations on Settlement of Accounts (RRSA) state the responsibilities of the Agency Head and the Accountant relative to the submission of financial reports and supporting documents as quoted below:
+
+
+
+Section 7.1.1 The head of the agency, who is primarily responsible for all government funds and property pertaining to his agency, shall ensure that: (a) the required financial and other reports and statements are submitted by the concerned agency officials in such form and within the period prescribed by the Commission. xxx
+
+
+
+Section 7.2.1 The Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that:
+
+	
+
+a)		the reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month. (emphasis supplied)
+
+	
+
+	2)			In the course of post-audit of monthly List of Due and Demandable Accounts Payable- Advice to Debit Accounts (LDDAP-ADA), Report of Checks Issued (RCI) and Liquidation Reports (LRs) for CY 2020, the Audit Team observed that several Disbursement Vouchers (DVs) totaling to ₱175,861,472.60 were not submitted to the Auditor’s Office within the prescribed period resulting to delays ranging from two to 243 days as summarized in the table below:
+
+	
+
+	Report/ Document
+
+	Period Covered
+
+	No. of Days Delayed
+
+	Submitted
+
+	Unsubmitted as of 1/31/2021*
+
+	LDDAP-ADA
+
+	January to December 2020
+
+	2 to 105 days
+
+	₱ 40,834,214.45
+
+	₱   4,053,947.99
+
+	RCI
+
+	January to July 2020
+
+	25 to 243 days
+
+	128,218,746.97
+
+	
+
+	
+
+	August to December 2020
+
+	unsubmitted
+
+	
+
+	110,237,987.22
+
+	LR
+
+	January to November 2020
+
+	13 to 142 days
+
+	6,649,054.77
+
+	
+
+	
+
+	December 2020
+
+	unsubmitted
+
+	
+
+	3,009,418.88
+
+	TOTAL
+
+	
+
+	
+
+	₱175,702,016.19
+
+	₱117,301,354.09
+
+	* The Audit Team considered the prescribed period set forth in the aforesaid Circular.
+
+		
+
+	3)			As of January 31, 2021, 711 DVs totaling to ₱117,301,354.09 covering the period April to December 2020 were not yet submitted to the Office of the Auditor for post-audit, details of which are presented in Appendix D.
+
+	
+
+	4)			Inquiry with the Chief of Finance Division disclosed that the cause of delay was due to high volume of disbursements from the Rice Competitiveness Enhancement Fund (RCEF). Under the Fund, expenditures were paid by issuing Modified Disbursements System (MDS) checks, majority of which were acquisitions of agricultural machineries for distribution to farmer cooperatives nationwide. 
+
+	
+
+	5)			During the year 2020, the average volume of transactions being processed per month at the Accounting Section was around 400 DVs. However, there were only three to four personnel assigned at the Accounting Section who attended to all the processing functions from checking of supporting documents to re-computation of amounts up to the preparation of journal entry vouchers (JEVs). Not to mention the other daily transactions or reports being verified/prepared by some Accounting Section personnel. 
+
+	
+
+	6)			Further, we gathered from the above Chief of Office that aside from the tedious review of the supporting documents, the Accounting Section was also scanning every page of the transaction documents relative to the RCEF, among which are the following:
+
+	
+
+--		Memorandum of Agreement (MOA)
+
+--		Deed of Donation for every farmer cooperative/association
+
+--		Property Acknowledgement Receipt (PAR)
+
+--		Delivery Receipts (DRs)
+
+	
+
+	7)			Admittedly, the laborious nature of scanning every sheet of supporting documents for each disbursement further contributed to the delay in the submission of the transaction documents by his Division. Moreover, only one staff was assigned to undertake the work in addition to the other Accounting tasks performed from time to time.
+
+	
+
+	8)			Likewise, it was projected by the Finance Division that for CY 2021, financial transactions are expected to increase on account of a bigger budget for Capital Outlay (CO) and Maintenance and Other Operating Expenses (MOOE) estimated at ₱12.8 Billion and ₱498 Million, respectively. 
+
+	
+
+	9)			The delay in the submission of financial transactions and supporting documents within the prescribed period did not only hinder the timely verification of the propriety and validity of the transactions but also prevented early detection of deficiencies and prompt corrections of the same, if any. Likewise, rendering of audit actions on the deficiencies noted may not be communicated on time to the Management for their compliance.
+
+		
+
+	10)			We recommended and the Executive Director agreed to instruct the Finance Division to (a) observe compliance with the guidelines set forth under Sections 7.1.1 and 7.2.1 of COA 2009 Revised Rules and Regulations on Settlement of Accounts (RRSA) to ensure the timely submission of accounts; (b) make realistic assessment of the workload of Accounting staffs involved in the processing of transaction documents based on the CY 2019 data, and the expected increase due to the implementation of RCEF in CY 2021; and (c) consider the placement or hiring of additional personnel based on the assessment of workload, if warranted.
+
+		
+
+		
+
+Deficiencies in Cash Management
+
+
+
+8)	The examination of the cash and accounts of four Accountable Officers (AOs), with combined accountabilities of ₱632,779.00, disclosed various deficiencies such as (a) transfer of cash advance by an AO to other personnel; (b) non-preparation and   non-maintenance of Cash Disbursements Record (CDRec) and Report of Accountability for Accountable Forms (RAAF); (c) non-posting of fidelity bond by the AF Custodian; and (d) no safety vault or cash box provided to the Petty Cash Fund Custodian (PCFC), thus, inconsistent with the relevant rules and regulations on sound cash management. 
+
+
+
+	1)			On November 15, 2020, the Audit Team conducted an examination of the cash accountabilities of two Special Disbursing Officers (SDOs), one Petty Cash Fund Custodian (PCFC) and an officer having accountability over accountable forms with money value. Their combined accountabilities amounted to ₱632,779.00 as presented below:
+
+
+
+Accountable Officer/Position
+
+Designation
+
+Bond Risk No.
+
+Balance of Accountability
+
+		Administrative Officer V
+
+		SDO
+
+		17-20-3249R
+
+		₱ 424,104.00
+
+		Science Research Specialist II
+
+			SDO
+
+			17-20-3244R
+
+		166,200.00
+
+		Administrative Assistant III
+
+			PCFC
+
+			17-20-1113N
+
+		20,000.00
+
+		Science Research Assistant
+
+			none
+
+			none
+
+		22,475.00
+
+		Total Balance of Accountabilities as of November 15, 2020
+
+		₱ 632,779.00
+
+
+
+	2)			The cash advances were granted to defray traveling, training and postage/courier expenses relative to the implementation of the Rice Mechanization Program while the Petty Cash Fund (PCF) was granted to defray the petty operating expenses of the service vehicles of the audited agency.
+
+
+
+	3)			During the cash examination, we arrived at an aggregate balance of ₱632,779.00, which was actually found on hand consisting of ₱13,812.00 in currency, cash items of ₱596,492.00, and unused accountable forms with money value of ₱22,475.00, thereby showing no difference.
+
+
+
+	4)			Further audit of the related documents and interview of personnel concerned disclosed practices and conditions that indicated weaknesses in internal control on cash which may expose government monies to possible loss or misuse, as elaborated below:
+
+
+
+a)	Transfer of cash advance by the Disbursing Officer to other personnel
+
+
+
+	5)			Accounting records disclosed that the SDO assigned at the Facility Management and Field Operations Division (FMFOD) had an outstanding cash advance totaling to ₱424,104.00. The said amount was granted on October 13, 2020 to defray expenses for travel in Regions IV-A and V relative to the ceremonial turnover of rice machineries to various farmer cooperatives and associations (FCAs).
+
+
+
+	6)			We examined the accountability of the SDO on November 15, 2020, and found no cash in his custody. Upon serving the Cash Production Notice (CPN), the SDO presented instead the cash items evidenced by the Report of Cash Disbursements (RCDisb) for the amount of ₱424,104.00 which we traced to the individual Official Receipts (O.R.s) and Sales Invoices (S.I.s).   
+
+
+
+	7)			Scrutiny of the disbursements showed four transactions totaling to ₱74,852.00, representing transfer of funds to office personnel who were either contractual or hired under contract of service (COS), as detailed below:
+
+
+
+Date of Transfer
+
+Position of Personnel/Transferee
+
+Nature of Disbursement
+
+Amount
+
+11/4/2020
+
+Science Research Specialist (SRS) II
+
+Payment for meals and snacks during machinery turnover 
+
+₱ 31,000.00
+
+11/9/2020
+
+Administrative Officer III
+
+Supplies and materials used during machinery turnover 
+
+11,000.00
+
+11/10/2020
+
+SRS I
+
+Supplies and materials used during machinery turnover 
+
+20,000.00
+
+11/10/2020
+
+SRS II
+
+Payment for fuel expenses during machinery turnover 
+
+12,852.00
+
+
+
+
+
+
+
+₱ 74,852.00
+
+ 
+
+	8)			We gathered that since the SDO is the only permanent personnel in the FMFOD, the expenses for official travels of the foregoing contractual/COS employees were included in his cash advances for subsequent transfer to them. Considering their employment status, these employees were neither allowed to perform disbursing functions nor draw cash advances in their names. The SDO added that upon handing out the cash to the personnel concerned, he made sure that there was proper acknowledgement of the money by requiring the latter to sign in a logbook.
+
+
+
+	9)			This practice was a clear deviation from Section 4, Chapter 6 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I which states that transfer of cash advance from one accountable officer to another shall not be allowed.
+
+
+
+	10)			Likewise, it is worthy to mention that while the SDO assumed the risks associated with transferring part of his cash advances, such practice was also a departure from effective control over cash custodianship and disposition.
+
+
+
+	11)			In the event of loss or misuse of the funds transferred, the Agency cannot run after the contractual or COS employees concerned considering that their accountabilities were not covered by fidelity bond.
+
+
+
+b)	Non-preparation and non-maintenance of Cash Disbursements Record (CDRec) and Report of Accountability for Accountable Forms (RAAF)
+
+
+
+	12)			Appendices 40 and 67 of the GAM for NGAs, Volume II prescribe that the Accountable Officer shall maintain the following records, among others, to wit:
+
+
+
+	Appendix 40- Cash Disbursements Record (CDRec). This record shall be maintained by each Disbursing/Accountable Officer (AO) to monitor the cash advance balance. All transactions for the day shall be recorded immediately. It shall be maintained by fund cluster.
+
+	
+
+	Appendix 67- Report of Accountability for Accountable Forms (RAAF). The RAAF is used by each Accountable Officer to report the result of the physical count of all accountable forms, with or without face value such as checks, stamps, official receipts, LDDAP-ADA, etc., in his/her custody. It shall be prepared monthly and by fund cluster.
+
+
+
+	13)			Verification during the cash examination disclosed that the SDOs concerned who were assigned at the FMFOD and Technology Management and Training Division (TMTD) did not prepare and maintain Cash Disbursements Record (CDRec) as prescribed under the aforementioned regulations. 
+
+
+
+	14)			The non-maintenance of the CDRec resulted in the difficulty of monitoring and verifying the accountability of the AO as of cut-off date. Furthermore, reconciliation of the recorded fund balance with the actual amount of cash in the hands of the AO could not be established in a timely manner. 
+
+
+
+	15)			Inquiry with the AOs concerned disclosed that they were not yet familiar with the preparation of the prescribed CDRec. Instead, they made use of a record book to post the transactions affecting their cash advances in addition to the RCDisb which forms part of the supporting documents for the liquidation thereof.
+
+
+
+	16)			Moreover, the Audit Team noted that a Science Research Assistant is in custody of postage stamps intended for mailing of various agriculture-related publications such as newsletters and magazines intended for distribution to different institutions and other stakeholders. Our review revealed, however, that there was no proper accounting of the quantity and denomination/amount purchased, utilized and the balance of the stamps at any given period in the absence of a Report of Accountability for Accountable Forms (RAAF) supposedly prepared every end of the month. As at year-end, the ending balance of the postage stamps was verified at ₱22,475.00, broken down as follows:
+
+
+
+Denomination
+
+Quantity
+
+Total Amount
+
+₱45.00
+
+294
+
+₱ 13,230.00
+
+17.00
+
+90
+
+1,530.00
+
+14.00
+
+218
+
+3,052.00
+
+9.00
+
+59
+
+531.00
+
+5.00
+
+465
+
+2,325.00
+
+1.00
+
+1,807
+
+1,807.00
+
+GRAND TOTAL
+
+2,933
+
+₱ 22,475.00
+
+
+
+	17)			In spite of the previous year’s audit recommendation requiring the AO concerned to prepare RAAF, she averred that she was unaware that the movement and status of the accountable forms in her possession must be reported in the said Report.  As such, verification of the postage stamps received, issued, and transferred by the AO during a particular period could not be facilitated.
+
+c)	AO concerned was not duly bonded.
+
+
+
+	18)			Section 3.b.1, Chapter 2 of the same Manual, defines accountability over government funds and property as follows:
+
+
+
+Every officer of any government agency whose duties permit or require the possession or custody of government funds or property shall be accountable therefor and for the safekeeping thereof in conformity with law. Every AO shall be properly bonded in accordance with law. 
+
+
+
+	19)			In connection thereto, Annex C of the Treasury Circular No. 02-2009 dated August 6, 2009 prescribes the Revised Schedule of Premium Rates pursuant to the provisions of the Public Bonding Law. Part III of the said Schedule contains the prescribed computation of bond premium as follows:
+
+
+
+III. For Accountable Forms
+
+e) Postage and Other Stamp Stocks- 10% of their total value x 1.5% =    Premium rounded off to the nearest hundred
+
+					
+
+	20)			Contrary to the aforementioned rules and regulations, it was also observed during the cash examination that the AO having custody over postage stamps with money value totaling to ₱22,475.00 was not duly bonded. 
+
+
+
+	21)			The AO explained that while she is a permanent employee, she was not fully aware of the requirement on the bonding of AO, especially so that she handles postage stamps alone.   
+
+
+
+d)	No safety vault or cash box provided to the PCF Custodian
+
+
+
+	22)			Another observation during the cash examination was that the Petty Cash Fund Custodian (PCFC) was not provided with safety vault or cash box in the office to safeguard cash and documents from possible loss.  In lieu thereof, the PCFC keeps the cash inside an envelope and places the same inside his drawer with lock to forestall unnecessary exposure to loss or misuse. Such practice was not at par with the standards called for in Section 38, Chapter 6 of the GAM for NGAs, Volume I, which requires appropriate physical safeguard on cash, among others.
+
+		
+
+	23)			We recommended and the Executive Director agreed to (a) instruct the SDO concerned to stop the practice of transferring cash accountability to other personnel for purposes of control and easy identification of liability in case of loss; (b) instruct the AOs concerned to prepare and maintain Cash Disbursements Record (CDRec) and Monthly Report of Accountability for Accountable Forms to facilitate tracking of transactions and documents; (c) ensure that the accountable officer having custody of accountable forms with money value is properly bonded to safeguard government funds from losses/misappropriation; and (d) provide the PCF  Custodian with appropriate safety cash receptacle.
+
+Gender and Development (GAD)
+
+
+
+9)	The CY 2020 GAD budget totaling to ₱17,050,356.63 or 5.32% of the Agency’s total annual appropriation of ₱320,264,149.00 was not covered by a GAD Plan and Budget (GPB) duly endorsed by the Philippine Commission on Women (PCW) for the reason that some project implementers failed to provide the required project documents and utilize the Harmonized Gender and Development Guidelines (HGDG) tool in the attribution of Research and Development (R & D) activities. Nevertheless, the Agency was still able to implement GAD programs, activities and projects (PAPs) which addressed the agency’s gender issues and concerns.
+
+
+
+	1)			Section 31 of the General Provisions of the Fiscal Year (FY) 2020 as reiterated in the Philippine Commission on Women -National Economic and Development Authority -Department of Budget and Management (PCW-NEDA-DBM) Joint Circular No. 2012-01 provides that all agencies of the government shall formulate a Gender and Development (GAD) Plan designed to address gender issues within their concerned sectors or mandate.  The GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five percent (5%) of their budgets.  
+
+
+
+	2)			The Annual GAD Plan and Budget (GPB) prepared by the Agency for FY 2020 showed a total GAD budget of ₱17,050,356.63 which was 5.32% of the total agency’s appropriation of ₱320,264,149.00. However, the same was not endorsed by the PCW as some of its activities under the Research and Development (R&D) were not supported with project documents and not subjected to the Harmonized Gender and Development Guidelines (HGDG) assessment. It specifically requires the project implementers concerned to accomplish Box 8 or the GAD Checklist for designing and evaluating agricultural and agrarian reform projects.
+
+
+
+	3)			It was also verified in an electronic mail (e-mail) correspondence between the GAD Focal Person (GFP) and the Supervising GAD Specialist from the PCW that there were about nine R&D activities that should have been reported under the GAD-attributed programs or projects instead of reporting those under the Client-focused section. These R&D activities were being implemented by the Socio-Economic and Policy Research Division (SEPRD) and the Agricultural Mechanization Division (AMD).
+
+
+
+	4)			Meanwhile, the PCW issued Memorandum Circular (MC) No. 2021-01 dated January 20, 2021 which provides the guidelines for the submission of the FY 2020 GAD Accomplishment Report (AR). Section 3.0 thereof identified PHilMech as one of the        pilot agencies to prepare its FY 2020 GAD AR using the revised GAD AR form and submit the same through the Gender Mainstreaming Monitoring System (GMMS)  Version 3. It also indicated the deadline of encoding and submission to PCW of FY 2020 GAD AR of PHilMech which was on March 12, 2021.
+
+
+
+	5)			Notwithstanding the absence of a PCW-endorsed GPB, the AT made some verification of the accomplishment of GAD PAPs as reported in the draft GAD AR submitted by the GFP hereto attached as Appendix E.                                                                                Part of which are shown hereunder.
+
+
+
+Gender Issue or GAD Mandate
+
+GAD Budget
+
+Actual Expenditures
+
+A. Client-Focused
+
+1. Lack of application of SDD/gender statistics on the collection, analysis and identification of gender issues/problems on implementation of RCEF.
+
+₱2,100,000.00                        
+
+-                                
+
+2. Limited awareness/information on the important participation of women on the post-harvest technology operation.
+
+    400,000.00 
+
+₱266,703.50
+
+3. MCW, Sec 23: B.9.b: Design and promote the commercial use of improved postharvest processing facilities and equipment of selected commercial crops among women and men, farmer-groups, processors and small-holder entrepreneurs to reduce postharvest losses and increase income derived from value-added processing operations.
+
+                     1,440,000.00 
+
+                1,044,088.37 
+
+4. Section 29 of MCW: Develop and make available information, education and communication (IEC) materials on their specific programs, services and funding outlays on women's empowerment and gender equality
+
+60,000.00                            
+
+33,046.00                  
+
+Sub-Total A
+
+ 4,000,000.00 
+
+1,343,837.87 
+
+B. Organization-Focused
+
+1. Proclamation No. 227 s. 1988 providing for the observance of the Month of March as Women's Role in History Month
+
+69,814.80                            
+
+69,560.76
+
+2. Absence of agency GAD Strategic Framework (2020-2021)
+
+146,029.60                
+
+ 135,329.60               
+
+3. Insufficient knowledge of project leaders/staff on the use and application of HGDG tools
+
+446,859.20                           
+
+-
+
+4. Low level of awareness on GAD concerns and issues of new employees
+
+60,000.00                           
+
+ -
+
+5. Lack of internal venues and process for PHilMech employees to raise their gender issues and concerns 
+
+10,370.76                            
+
+ -
+
+6. Section 22 of the Magna Carta of Women ensures that the State shall provide support services that will enable women to balance their family obligations and work responsibilities including, but not limited to, the establishment of day care centers and breastfeeding stations at the workplace, and providing maternity leave pursuant to the Labor Code and other pertinent laws.
+
+50,000.00                          
+
+ -
+
+7. Gender have not been incorporated in agency Strategic Plan
+
+83,725.31                            
+
+ -
+
+8. Lack of gender mainstreaming policy that articulates support to GAD, this includes use of tools, gender fair language, capacity development, and other GAD mandates.
+
+18,556.96                            
+
+ -
+
+9. Limited inclusion of GAD-related issues/concerns in the monitoring and evaluation system.
+
+ 45,000.00                           
+
+ -
+
+10. All government agencies, instrumentalities, and LGUs shall develop and make available information, education and communication (IEC) materials on their specific programs, services and funding outlays on women’s empowerment and gender equality.
+
+500,000.00                           
+
+135,660.51
+
+Sub-Total B
+
+1,430,356.63         
+
+340,550.87 
+
+C. GAD-Attributed Programs or Projects
+
+
+
+
+
+1. Women-friendly and sustainable agriculture technology shall be designed based on accessibility and viability in consultation with women’s organizations.
+
+2,500.000.00
+
+559,497.31
+
+2. Limited tools integrating gender-related data to provide equal opportunities for both men and women farmers.
+
+9,120,000.00
+
+-
+
+Sub-Total C
+
+11,620,000.00
+
+599,497.31
+
+Grand Total (A+B+C)
+
+₱17,050,356.63
+
+₱2,283,886.05
+
+
+
+	6)			Out of the above gender issues identified and the 26 corresponding activities (shown in Appendix E) to address the said issues, the Agency reported 12 accomplishments as of to date while the remaining activities with no actual expenditures were still in the process of finalization awaiting some documents from project implementers concerned. The GFP confirmed though that all activities were accomplished during the year as evidenced by the following outputs:
+
+
+
+--	Online trainings/seminars;
+
+--	Toolbox meetings;
+
+--	Awareness campaign;
+
+--	Sex-disaggregated database (SDD); and
+
+--	Field testing activities
+
+
+
+	7)			However, evaluation of the GAD AR cannot be fully undertaken until submission to the Audit Team of the PCW-endorsed GAD AR signed by the agency head.
+
+
+
+	8)			We also noted from the submitted draft GAD AR that under the GAD-attributed programs or projects, there were two activities, as shown in the Table below, already scored from using the HGDG Project Implementation and Management, and Monitoring and Evaluation (PIMME) checklist (HGDG Boxes 16 and 17). This was in consonance with Section 5.2 of the PCW MC No. 2021-01, supra, which provides the following formula in determining the actual expenditure that can be attributed to GAD:
+
+
+
+HGDG PIMME/FIMME Score 	x 100% = % of annual program expenditure attributable     
+
+        Total HGDG Points			to GAD
+
+
+
+C. GAD-Attributed Programs or Projects
+
+
+
+
+
+
+
+
+
+Gender Issue or GAD Mandate
+
+Title of Major Program/ Project
+
+HGDG-PIMME Score
+
+GAD Budget
+
+GAD-Attributed Expenditure
+
+1. Women-friendly and sustainable agriculture technology shall be designed based on accessibility and viability in consultation with women’s organizations.
+
+Establishment of Abaca Fiber Primary Processing System for Farmers of North Cotabato (a. Socio-Economic Study, b.) Design and Development of Machines)
+
+11.58
+
+          ₱650,000.00 
+
+                ₱265,929.92 
+
+
+
+
+
+ 
+
+          300,000.00 
+
+ -
+
+
+
+Establishment of Rubber Sheet Primary Processing System for Farmers of North Cotabato (a. Socio-Economic Study, b.Design and Development of Machines)
+
+11.17
+
+          600,000.00 
+
+                333,567.39 
+
+
+
+
+
+ 
+
+          400,000.00 
+
+- 
+
+
+
+Field Testing of micro impeller brown rice huller
+
+ 
+
+          250,000.00 
+
+- 
+
+
+
+Field Testing of CVS-Based Mango Sorting and Grading
+
+ 
+
+          300,000.00 
+
+- 
+
+2. Limited tools integrating gender-related data to provide equal opportunities for both men and women farmers
+
+Adaptability Test of Multi-Row Onion Mechanical Seeder in Iloilo Province
+
+ 
+
+          170,000.00 
+
+ -
+
+
+
+Enhancing the Socio-Economic Viability of Mechanize Rice-Based Farming Systems in the Philippines (SEPRD R&D in Support to RCEF)
+
+
+
+       8,000,000.00 
+
+- 
+
+
+
+Establishment of Baseline Information and Organization of Technology Used in the Production and Post-production System of HVCs (Cabbage, Cauliflower, Broccoli, White potato)
+
+ 
+
+          950,000.00 
+
+- 
+
+
+
+	9)			The GFP likewise averred that with the recent re-institutionalization of the PHilMech GAD Focal Point System (GFPS) engaging the members of the Management Committee, it is expected that they will be able to comply with subsequent GAD planning, budgeting and reporting requirements.
+
+
+
+	10)			Meanwhile, it is worthy to mention that the FY 2021 GPB of the Agency was already endorsed by the PCW on January 25, 2021, a copy of which was also submitted to the Audit Team in accordance with existing rules and regulations.
+
+		
+
+	11)			We recommended and the Executive Director agreed to advise the GAD officials concerned to (a) enjoin project implementers to (i) provide project documents as relevant means of verification in the attribution of Research and Development (R&D) activities to GAD; (ii) accomplish Box 8 or the GAD Checklist for designing and evaluating agricultural and agrarian reform projects during the crafting of their project proposals; and (iii) subject all R&D activities to the Harmonized Gender and Development Guidelines (HGDG) assessment tool; (b) ensure timely submission of the Philippine Commission on Women (PCW)-endorsed GAD Plan and Budget (GPB); and (c) furnish the Audit Team with a copy of the PCW-endorsed GAD Accomplishment Report (AR) after approval by the Agency Head.
+
+		
+
+Implementation of Rice Competitiveness Enhancement Program (RCEP)
+
+
+
+10)	The performance targets during the initial and second year implementation of the Rice Competitiveness Enhancement Program (RCEP) were substantially achieved except for lapses noted such as a) late deliveries of 3,503 units of farm machineries and equipment to the Farmers and Cooperatives Association (FCA) beneficiaries; and b) failure to conduct required trainings to 680 FCA-beneficiaries out of the target number of 1,860 hindering the prompt turnover of the farm machineries/equipment.  Moreover, planning targets for different activities were not coordinated with the other implementing Divisions/Units concerned; thus, plans were not harmonized with the desired manner of execution and outputs, resulting in unrealistic projections.
+
+
+
+The Rice Competitiveness Enhancement Program (RCEP) – Rice Competitiveness Enhancement Fund – Mechanization Component
+
+
+
+	1)			Republic Act No. 11203 (A 11203) otherwise known as “An Act Liberalizing the Importation, Exportation and Trading of Rice, Lifting for the Purpose the Quantitative Import Restriction on Rice and for Other Purposes” or the Rice Liberation Act, in short, provides under Section 13 that:
+
+		
+
+Rice Competitiveness Enhancement Fund. – There is hereby created a Rice Competitiveness Enhancement Fund, herein referred to as the ‘Rice Fund’. The Rice Fund shall consist of an annual appropriation of Ten billion pesos (P10,000,000,000.00) for the next six (6) years following the approval of this Act and shall automatically credited to a Special Account in the General Fund of the National Treasury which shall be in place within ninety (90) days upon the effectivity of this Act.
+
+		
+
+	2)			Under the same Section, it is stated that Subject to the usual accounting and auditing rules and regulations, the Rice Fund shall be allocated and disbursed to rice producing areas, as follows: 
+
+		
+
+(a) Rice Farm Machineries and Equipment – Fifty percent (50%) of the Rice Fund shall be released to and implemented by the Philippine Center for Postharvest Development and Mechanization (PHilMech) as grant in kind to eligible farmers associations, registered rice cooperatives and local government units (LGUs), in the form of rice farm equipment, such as tillers, tractors, seeders, threshers, rice planters, harvesters, irrigation pumps, small solar irrigation, reapers, driers, millers, and the like, for purposes of improving farm mechanization: Provided, That the PhilMech shall, whenever feasible, procure from accredited local manufacturers to assist the promotion of locally manufactured farm machineries and equipment; (underscoring ours)
+
+
+
+xxx…
+
+	3)			According to the Implementing Guidelines for the Rice Competitiveness Enhancement Fund – Mechanization Program, the law aims to prevent another shortage of rice supply and to ensure that the low price of commercial rice is maintained in local markets. The tariff proceeds will go to the farmers for programs that make them competitive, and an allocation of P10 billion per year for the period of six years was committed to the Rice Enhancement Fund or Rice Fund. This fund will be utilized for the improvement of farm machinery and equipment, seed production, training for rice farming, and loan programs among other means to help the local farmers and make them ready for the possible impact of the entry imported rice in the country.
+
+		
+
+	4)			The same Guidelines mention that the recently approved RA 11203 is consistent with this premise that Rice Farm Machineries and Equipment shall be provided as grant in kind to eligible farmers associations, registered rice cooperatives (FCAs).
+
+		
+
+	5)			The timeframe of implementation of the RCEP covers a six-year period starting from calendar year 2019 to 2024 while the funding shall be sourced from the Rice Competitiveness Enhancement Fund (Rice Fund) as stated in the R.A. No. 11203.
+
+		
+
+	6)			The Rice Fund shall consist of an annual appropriation of Ten billion pesos (P10,000,000,000.00) for the next six years. The fifty percent (50%) of the Rice Fund shall be released to and implemented by the PHilMech as grant in kind to eligible farmers associations, registered rice cooperatives and local government units (LGUs).
+
+		
+
+	7)			For the next six years, funding of ₱100 million pesos per year was also allocated for the Rice Extension Services Program (RESP) of PHilMech.
+
+		
+
+	8)			Fund requirements for the operation and implementation of RCEF-Mechanization component shall be requested from the Department of Budget and Management (DBM) for funding sourced from RCEF Fund/General Fund wherein the Department of Agriculture-PHilMech is the implementing agency while DA-RFOs, ATI and TESDA as collaborating agencies.
+
+
+
+	9)			The Program shall cover the rice producing provinces and municipalities as provided by PhilRice based on the Philippines Rice Industry roadmap. The target per year and its distribution per province shall be prepared by the program implementers based on the rice production area, yield, production cost and machinery requirements or level of mechanization in consultation with RFOs, and LGUs. 
+
+		
+
+		Program Objectives
+
+		
+
+	10)			The objective of the Program is to raise rice farmers’ productivity, profitability and global competitiveness thru strengthened access and use of appropriate production and post-production mechanization technologies.
+
+		
+
+	11)			Meanwhile, the specific objectives of the Program are enumerated in the next page:
+
+--	To make accessible the appropriate rice production and postharvest machineries and equipment to the farmer cooperatives and associations (FCAs) and local government units (LGUs);
+
+--	To promote among Filipino rice farmers the use of efficient and cost-reducing rice mechanization interventions; and
+
+--	To strengthen local agricultural machinery manufacturing industry through aggressive technology development, fabrication and manufacturing.
+
+
+
+Expected Program Benefits
+
+		
+
+	12)			The expected benefits of the mechanization and postharvest facility intervention specifically for the users and beneficiaries of the project areas can be derived from the following:
+
+		
+
+a)			Reduction of production cost of farmer-users by ₱2-3 per kilogram using precise, effective and complete system of mechanized production technologies, and
+
+b)			Reduction of post-production losses of farmer-users by 3% to 5% using appropriate and efficient post-production technologies.
+
+		
+
+	13)			Other program benefits are: a) boosting local agricultural machinery manufacturing industry and employment; b) widespread adoption/use of agricultural mechanization technologies; c) availability of locally designed mechanization technologies as a result of technology development; d) yield increment; e) increase cropping intensity; f) timeliness of operation and reduction of labor use; g) additional income that can be generated from using the machineries and equipment; and h) readily available services.
+
+		
+
+		Program Budget
+
+		
+
+	14)			In the implementation of the aforesaid Program for CY 2019, Special Allotment Release Orders (SAROs) with a total amount of ₱5.1 billion were released to PHilMech by the Department of Budget and Management (DBM). These SAROs were released to cover the funding requirement for the implementation of Rice Competitiveness Enhancement Program pursuant to Section 13, supra; to wit:
+
+		
+
+Particulars
+
+SARO-BMB-E-19-0007462/
+
+July 18, 2019
+
+SARO-BMB-E-19-0013346/
+
+Sept. 25, 2019
+
+Total
+
+
+
+1st  Tranche
+
+2nd Tranche
+
+
+
+A)	Rice Farm Machineries and Equipment 
+
+
+
+
+
+
+
+       Capital Outlay (CO):
+
+
+
+
+
+
+
+          Buildings
+
+₱   352,800,000.00
+
+- 
+
+₱352,800,000.00 
+
+          Agricultural and Forestry Eqpt.
+
+1,652,649,000.00
+
+₱ 2,994,551,000.00 
+
+4,647,200,000.00
+
+Sub-total
+
+2,005,449,000.00
+
+2,994,551,000.00
+
+5,000,000,000.00
+
+B)	Rice Extension Services
+
+
+
+
+
+
+
+Maintenance and Other 
+
+
+
+Operating Expenses (MOOE)
+
+100,000,000.00
+
+-
+
+100,000,000.00
+
+Sub-total
+
+100,000,000.00
+
+-
+
+100,000,000.00
+
+Grand Total
+
+₱ 2,105,449,000.00
+
+₱2,994,551,000.00
+
+₱5,100,000,000.00
+
+Obligation:
+
+
+
+
+
+
+
+     Rice Extension Services - MOOE
+
+18,910,551.00
+
+-
+
+18,910,551.00
+
+Lapsed and Reverted
+
+
+
+
+
+₱5,081,089,449.00
+
+		
+
+	15)			As of December 31, 2020, out of the ₱5.1 billion allotment, only ₱18,910,551.00 was obligated while ₱15,532,140.30 was disbursed from the Notice of Cash Allocation (NCA) amounting to ₱63,655,000.00 as shown in the matrix below. At year-end, the unused fund of ₱5,081,089,449.00 was reverted back to the National Treasury (NT) in compliance with existing regulations.
+
+		
+
+NCA No.
+
+Date
+
+Amount 
+
+Purpose 
+
+Remarks 
+
+BMB-E-19-0019881
+
+October 15, 2019
+
+₱63,655,000.00
+
+To cover the funding requirement for the implementation of RCEP pursuant to Section 13 of R.A. No. 11203 or the Rice Liberalization Act. 
+
+The fund will cover disbursements for the months of October to December of the same year (Rice Extension Services – MOOE). However, only ₱15,532,140.30 was disbursed inclusive of P638,925.06 as per Tax Remittance Advice (TRA).
+
+		
+
+	16)			Likewise, in CY 2020, SAROs (inclusive of the reverted fund in CY 2019) were then released by the DBM to cover the implementation of the same Program, summary of which is shown hereunder:
+
+		
+
+Particulars
+
+SARO-BMB-E-20-0001084/
+
+Feb. 24, 2020
+
+SARO-BMB-E-20-0007916/
+
+April 23, 2020
+
+Total
+
+
+
+Reverted fund of CY 2019
+
+CY 2020
+
+
+
+A)	Rice Farm Machineries and Equipment 
+
+
+
+
+
+
+
+       Capital Outlay (CO):
+
+
+
+
+
+
+
+          Other Structures
+
+₱0.00 
+
+₱500,000,000.00
+
+₱500,000,000.00
+
+          Agricultural and Forestry Eqpt.
+
+ 3,202,551,000.00 
+
+4,500,000,000.00
+
+7,702,551,000.00
+
+          Other Transportation Eqpt.
+
+1,797,449,000.00
+
+
+
+1,797,449,000.00
+
+Sub-total
+
+5,000,000,000.
+
+5,000,000,000.00
+
+10,000,000,000.00
+
+B)	Rice Extension Services
+
+
+
+
+
+
+
+Maintenance and Other Operating Expenses (MOOE)
+
+81,089,449.00
+
+100,000,000.00
+
+181,089,449.00
+
+Sub-total
+
+81,089,449.00
+
+100,000,000.00
+
+181,089,449.00
+
+Grand Total
+
+₱5,081,089,449.00
+
+₱ 5,100,000,000.00
+
+₱10,181,089,449.00
+
+		
+
+	17)			The corresponding NCA of the above-cited SAROs were issued by the DBM as follows:
+
+		
+
+NCA No.
+
+Date
+
+Amount 
+
+Purpose 
+
+Remarks 
+
+BMB-E-20-0005807
+
+May 18, 2020
+
+₱6,651,665,000.00
+
+To cover the funding requirement for the implementation of RCEP pursuant to Section 13 of R.A. No.11203 or the Rice Liberalization Act
+
+Will cover the months of July to December of CY 2020 for the implementation of CYs 2019 and 2020. The sum of ₱5,081,089,449.00 out of ₱6,651,665,000.00 was lapsed and reverted in CY 2019. 
+
+		
+
+	18)			Value for Money (VFM) Audit was conducted on the RCEP, specifically the RCEF – Mechanization Component covering the initial years of program implementation in CYs 2019 and 2020. The scope of audit was limited to the Mechanization Component of the Program due to time constraints and the current situation brought about by the pandemic.
+
+		
+
+	19)			The audit aimed to ascertain the following objectives:
+
+		
+
+--	To ascertain whether the target activities were accomplished as scheduled; and
+
+--	To determine whether the farm machineries and postharvest facilities were distributed to the FCAs based on target.
+
+		
+
+	20)			The Audit Team interviewed agency personnel concerned involved in the implementation of the said program; and reviewed sample MOA, Deed of Donation, accomplishment reports of the implementing Divisions/Units, and other documents relevant to the program. 
+
+		
+
+A)	CY 2019 Targets vis-à-vis Accomplishments
+
+		
+
+		10.22	The Program commenced in CY 2019 (2019 Fund) with major accomplishments categorized as (a) Physical Accomplishments; (b) Financial Accomplishments; and (c) Other Accomplishments.
+
+		
+
+		10.23	Among the Physical Accomplishments were the implementation of field activities such as a) coordination with the partner agencies like the DA RFOs, LGUs and other DA attached agencies; b) identified, evaluated and conducted field validation of 1,140 Farmers’ Cooperatives and Association (FCA) beneficiaries; c) shortlisted 625 FCA beneficiaries; and d) facilitated the signing of 625 MOA with the FCA beneficiaries.
+
+		
+
+		10.24	Those activities were facilitated by PHilMech’s Facility Management and Field Operation Division (FMFOD) composed of six clusters in the different regions nationwide; to wit:
+
+
+
+Cluster
+
+Regions 
+
+1
+
+I and III
+
+2
+
+Cordillera Administrative Region (CAR) and II
+
+3
+
+IV-A (Cavite, Laguna, Batangas, Rizal, and Quezon), IV-B (Mindoro {Occidental and Oriental}, Marinduque, Romblon, and Palawan), V
+
+4
+
+Visayas Regions 
+
+5
+
+IX, X, and CARAGA
+
+6
+
+XI and XII
+
+		
+
+	1)			The targets, accomplishments, and percentage of accomplishment on the above field activities are graphically presented below.
+
+		
+
+		
+
+		
+
+		10.26	The above graph disclosed that the targets on the 1st tranche were 100 percent accomplished except for the second activity which was 64.45 percent above the target. The personnel concerned stated that the shortlisting of 380 FCAs was a conservative target estimated at one to two FCAs per priority municipality nationwide. However, there was a bigger number of applications actually received and validated which passed the evaluation, thus, surpassing the target.
+
+		
+
+		10.27	Regarding the field activities for the 2nd tranche, the identification, evaluation and field validation commenced in September 2019 with the permanent employees deployed to different provinces. It was only in November and December of that year when the Agency’s activities became in full force with the hiring of personnel under Contract of Services (COS). Also, during this period, the provinces with ongoing assessment were reinforced by those who have already completed field activities in their respective areas of assignment. Time constraints, however, hampered the implementation of the field activities for the 2nd tranche resulting in lower accomplishment of 83 percent as shown in the succeeding table.
+
+
+
+		
+
+		
+
+	1)			Under the 1st tranche, the distribution per region of the 625 FCA-beneficiaries came from 385 municipalities comprising different regions as shown hereunder.
+
+		
+
+		
+
+	2)			During the year 2019, there was no distribution of machinery and equipment since the Notice of Cash Allocation (NCA) was not received yet by PHilMech for Rice Farm Machineries and Equipment – Capital Outlay. Nevertheless, the procurement processes were conducted by PHilMech – Bids and Awards Committee (BAC). The said processes including the confirmation of the Notice to Proceed (NTP) by the supplier started on October 2019 until July 2020.
+
+		
+
+	3)			Relative to the Rice Extension Services (RES), validation was conducted by the AT on the documents submitted by the Division/Unit concerned, and the following were the confirmed outputs and accomplishments of four Divisions engaged in such services:
+
+
+
+Division
+
+Output
+
+Technical Education and Promotion
+
+Applied Communication Division (ACD)
+
+a)		10,000 pcs. of RCEF flyers;
+
+b)		10,000 pcs of primers on Rice Mechanization Program;
+
+c)		3,000 pcs. of operator’s training notebook;
+
+d)		4,000 pcs. of farmer’s guide;
+
+e)		6 kinds of trainer’s manual;
+
+f)		5,000 pcs. of calendar on Mekanisasyon;
+
+g)		1 RCEF Mechanization video material; and
+
+h)		Conducted 2 batches of school on the air.
+
+Technology Management and Training Division (TMTD) in collaboration with FMFOD
+
+a)		Two batches of mechanization specialist training with 63 technical/extension/partners from PHilMech. LGUs and other DA attached agencies participants (Resource Person Development Course on the Operation and Maintenance of Rice Machinery); and 
+
+b)		27 batches of training course on operation and maintenance of rice machinery for 1,038 FCA operators (Training Course on the Operation and Maintenance of Rice Machinery [Conventional]).
+
+Enterprise Development Division (EDD) in partnership with TMTD and FMFOD
+
+
+
+
+
+a)		Three batches of training-workshop on the management of Farm Service Center with 50 FCAs attended. (Palawan City – 14, Bacolod City – 14, and Tagum City – 22) (Training-Workshop on the Management of the Agricultural Machinery Pool). Agricultural Technicians from the LGUs were invited to assist the FCAs in crafting their business plan as output of the training-workshop.
+
+Benchmarking, Monitoring and Assessment
+
+Socio Economic Policy and Research Division (SEPRD)
+
+a)		Finalized the profiling and benchmarking questionnaire; and
+
+b)		Collected baseline data from 359 FCAs out of the 624 target FCA beneficiaries under the 2019 1st tranche
+
+		
+
+	4)			On the other hand, out of the ₱100,000,000.00 allotment for RES, ₱18,910,551.69 was obligated while only ₱15,532,140.30 was disbursed leaving a total of ₱3,378,411.39 unpaid obligations. Considering the said data, only 18.91 percent of the allotment was obligated for the obvious reason that the implementation of the program commenced only in the last quarter of year 2020 when the corresponding NCA was received. 
+
+		
+
+B)	CY 2020 Targets vis-à-vis Accomplishments
+
+		
+
+	5)			PHilMech, being the implementing Agency, formulated its targets for the 2nd year of implementation of the RCEF- Mechanization Component. Presented below are 13 activities and the corresponding targets and actual accomplishments; viz:
+
+Activities
+
+Indicators
+
+CY 2020
+
+
+
+
+
+Year 1
+
+Year 2
+
+Total
+
+Year 1 and 2
+
+Under/
+
+(over)
+
+Estimates
+
+
+
+
+
+Target (Quantity)
+
+
+
+Actual (Quantity)
+
+
+
+1)	Awarding of Notices of Award to Bidders
+
+No. of notices awarded
+
+15
+
+-
+
+15
+
+205
+
+190
+
+2)	Awarding of Notices to Proceed to Bidders
+
+No. of notices awarded
+
+15
+
+-
+
+15
+
+164
+
+149
+
+3)	Identification, evaluation and field validation of potential FCAs
+
+No. of FCAs
+
+-
+
+2,400
+
+2,400
+
+2,551
+
+151
+
+4)	Shortlisting of potential FCA-recipients
+
+No. of FCAs
+
+750
+
+1,200
+
+1,950
+
+2,106
+
+156
+
+5)	Finalization of FCAs beneficiaries and technology requirements
+
+No. of FCAs
+
+750
+
+1,200
+
+1,950
+
+2,071
+
+121
+
+6)	Facilitate Memorandum of Agreement (MOA) signing with the FCA-recipients
+
+No. of MOA signed
+
+750
+
+1,200
+
+1,950
+
+752
+
+(1,198)
+
+7)	Procurement of Agricultural Machinery and Equipment
+
+No. of technologies
+
+4,200
+
+1,200
+
+5,400
+
+11,881
+
+6,481
+
+8)	Delivery, inspection and trial-run test of agricultural machinery and equipment (to include documentation)
+
+No. of technologies
+
+7,922
+
+7,996
+
+15,918
+
+3,379
+
+(12,539)
+
+9)	Operator’s Training
+
+Batches of Training
+
+33
+
+60
+
+93
+
+59
+
+(34)
+
+10)	Management Training
+
+Batches of Training
+
+57
+
+60
+
+117
+
+64
+
+53
+
+11)	Project Orientation to FCA beneficiaries by Province
+
+No. of Provinces (Year 1)/ FCAs (Year 2)
+
+55
+
+1,200
+
+1,255
+
+See succeeding discussion.
+
+
+
+12)	Turnover of Agricultural Machineries and Equipment of FCA beneficiaries (by Province)
+
+No. of Provinces (Year 1)/Activities (Year 2)
+
+55
+
+57
+
+
+
+Based on the deeds of donation, there were deliveries of farm machineries and equipment.
+
+
+
+13)	Support to Local 
+
+
+
+Manufacturing Sector
+
+-
+
+-
+
+-
+
+
+
+
+
+
+
+		
+
+	6)			As presented in the table above, the actual number of Notices of Award (NOA), and Notices to Proceed (NTP) issued during the year surpassed the target by ten to 13 times.
+
+		
+
+	7)			On the other hand, shortfalls were very significant in three targeted activities, such as a) signing of the MOA by FCA beneficiaries; b) delivery, inspection and trial-run test of agricultural machinery and equipment; and c) Operator’s training.
+
+
+
+	8)			Obviously, some activities had relatively low targets in contrast to others with very high estimates which could also be a product of faulty planning. Inquiry disclosed that the targets were determined based on the number of technologies (type of farm machineries and equipment) to be distributed to FCA beneficiaries. On the other hand, to facilitate the procurement of those technologies as well as the conduct of public bidding, the same were categorized per lot. 
+
+
+
+	9)			It is of paramount importance to harmonize the targets with the manner of implementation of the activities to be implemented and the possible output/s.  It is apparent from the comparative figures above that there was no proper coordination with other implementing Divisions/Units to obtain more realistic projections and accurate translation of outputs in terms of quantity/cost.
+
+
+
+--	Identification, Evaluation and Field Validation, Shortlisting of Potential FCA-recipients, Finalization of FCAs Beneficiaries and Technology Requirements and MOA Signing with the FCA-recipients
+
+		
+
+	10)			For the second year of implementation of the Program, PHilMech had identified, evaluated and validated 2,551 FCAs as potential recipients of the agricultural machineries and equipment. Of that number, 2,106 were selected as possible FCA beneficiaries of the Program while out of the said FCA beneficiaries, only 2,071 were finalized and the signing of MOA with 752 FCAs was facilitated. As can be seen in the graphical presentation shown in the next page, the accomplishment was also satisfactory, except for the MOA signing which was below 50% of the target.
+
+		
+
+		
+
+		
+
+	11)			The low accomplishment was due to the travel restrictions and limited manpower throughout the period under quarantine.
+
+		
+
+--	Delayed/Late Deliveries of Agricultural Machineries and Equipment – 10,158 units  
+
+		
+
+	12)			The deliveries of the aforesaid procured agricultural machineries and equipment are presented below vis-à-vis the units distributed and the FCA-beneficiaries as of December 31, 2020 exclusive of 2,944 units delivered for the period covered January 3 to February 12, 2021.  
+
+		
+
+REGION
+
+TOTAL NO. OF UNITS DISTRIBUTED
+
+TOTAL NO. OF FCA-BENEFICIARIES
+
+CAR
+
+21
+
+12
+
+Region I
+
+480
+
+209
+
+Region II
+
+390
+
+287
+
+Region III
+
+734
+
+362
+
+Region IV-A
+
+223
+
+82
+
+Region IV-B
+
+96
+
+65
+
+Region V
+
+102
+
+42
+
+Region VI
+
+422
+
+100
+
+Region VII
+
+216
+
+30
+
+Region VIII
+
+293
+
+47
+
+Region IX
+
+65
+
+25
+
+Region X
+
+90
+
+23
+
+Region XI
+
+72
+
+22
+
+Region XII
+
+104
+
+29
+
+CARAGA
+
+71
+
+26
+
+Total
+
+3,379
+
+1,361
+
+		
+
+	13)			Interview with the personnel concerned disclosed that distribution was done on    the 2nd year of implementation (CY 2020) since there was no fund released for the          Capital Outlay on its 1st year (CY 2019).
+
+		
+
+	14)			As can be seen in the preceding table showing the targets and actual accomplishments, the total target to be delivered, inspected and trial-run tested was  15,918 units consisting of 7,922 and 7,996 units for Years 1 and 2, respectively, while the actual units delivered were only 3,379 which were way below the target resulting in undelivered units of 11,378 arrived at as follows:
+
+
+
+
+
+Unit
+
+Target
+
+15,918
+
+Failed bidding
+
+(1,161)
+
+Total procured
+
+14,757
+
+Delivered to FCA beneficiaries in CY 2020
+
+(3,379)
+
+Total Undelivered
+
+11,378
+
+Undelivered by the suppliers 
+
+(7,875)
+
+Total units undelivered to FCA beneficiaries
+
+3,503
+
+		
+
+	15)			The personnel concerned explained that the scheduled period of deliveries was from March to April 2020 but due to the pandemic, the deliveries started only in June 2020. Other contributing factors on the small number of units distributed were the (a) travel restrictions from one province/region to another province/region; (b) the Agency’s work force was also limited due to alternative work arrangement (AWA); and (c) deliveries of the suppliers’ machineries and equipment were also delayed or undelivered owing to (i) travel restrictions from the country of origin; and (ii) limited manpower in view of the company’s work arrangement.
+
+		
+
+	16)			Considering the reasons given, the delays still affected the timely enjoyment of the FCA-beneficiaries of the benefits that could be derived from the Program.
+
+
+
+--	Conduct of Training
+
+		
+
+	17)			Continuous conduct of trainings was undertaken by PHilMech in CY 2020 under the RCEF – Extension Services Component. The trainings conducted are as follows:
+
+		
+
+--	Resource Person Development Course on the Operation and Maintenance of Rice Machinery – This training aims to ensure the effective and reliable operation of the FCA- beneficiaries’ rice farm machinery. PHilMech increased the agency’s pool of Rice Mechanization Specialists who can serve as Resource Speakers for the conduct of this training and Training of Trainers by other agencies.
+
+
+
+Two batches of training were conducted participated by 69 participants from   PHilMech, MLGUs, DA-RFUs, and FCAs.
+
+
+
+--	Training Course on the Operation and Maintenance of Rice Machinery – This training aims to equip the FCA farm machinery beneficiaries with knowledge and skills on rice crop establishment, modern rice farming techniques, and farm mechanization.
+
+
+
+
+
+Only one batch was conducted with 40 participants from 20 FCAs.
+
+
+
+--	Training-Workshop on the Management of the Agricultural Machinery Pool – This training provides basic knowledge and skills to the FCA – beneficiaries in crafting a location-specific operational plan. This gives the participants an opportunity to share their experiences and learn from others through workshops and knowledge-sharing activities.
+
+
+
+Training was conducted in two parts, Part I – Online Lecture-Discussion and Part II – Hands-On Exercises/Face-to-Face. 
+
+
+
+For Part I, 59 batches were conducted with 1,927 participants coming from 966 FCAs while for Part II, there were 64 batches with 1,349 participants from 681 FCAs.
+
+		
+
+	18)			The failure to complete the required trainings for all targeted participants/FCAs/beneficiaries during the first two years of program implementation will hamper somehow the effective and productive utilization of the farm machinery and equipment, thus, defeating the objective of the Program.
+
+		
+
+	19)			For Operator’s Training, the total target was 93 batches; however, only 59 batches were finished. The remaining 34 batches are yet to be conducted. Our inquiry with the personnel concerned disclosed that the average number of FCAs in a batch was 20 with 2 attendees from each FCA; thus, there were 680 FCA beneficiaries who did not undergo Operator’s Training. It is of importance to mention that no farm machineries and equipment will be given to the FCA beneficiaries without undergoing the Operator’s Training.
+
+
+
+--	Project Orientation to FCA beneficiaries by Province
+
+		
+
+	20)			Interview with the personnel of the implementing Division concerned revealed that they conducted e-Talakayan (webinar) for FCA-beneficiaries of CY 2019. They were supposed to conduct 14 batches to cover 14 provinces; however, only nine batches were conducted covering the 14 provinces.
+
+		
+
+	21)			In the webinar, the REF –Mechanical Component was being discussed as well as the technologies such as land preparation, crop establishment, harvesting, threshing, drying, and milling. There was also a question-and-answer portion wherein the participants were allowed to ask on the related topics being discussed.
+
+		
+
+	22)			Overall, the targets for the activities in the initial and second year of implementation of the Program were substantially achieved except for the incomplete delivery of the farm machineries and equipment to the FCA beneficiaries due to different constraints brought about by COVID-19 pandemic and the delayed conduct of the Operator’s Training. Likewise, targets were not properly coordinated with the other implementing Divisions/Units concerned; hence, realistic projections were not made resulting in big disparity between estimates and actual figures.
+
+		
+
+	23)					We recommended and the Executive Director agreed to undertake the following courses of actions:
+
+
+
+a)		Instruct (i) the Division concerned to follow up with suppliers the undelivered units and fast track the distribution to the FCA beneficiaries; (ii) the implementing Divisions/Units to closely coordinate in the planning/determination of targets and regular monitoring of outputs to enable management in assessing the performance of the Program in a more effective manner, and (iii) the Division concerned to catch up with the remaining batches of Operator’s Training not yet conducted; and
+
+
+
+b)		Direct all offices concerned to continue their commitment in the achievement of the objectives of the Program for the ensuing years 2021-2024. 
+
+
+
+
+
+Compliance with Tax Laws
+
+
+
+	11. 	There was substantial compliance by PHilMech with the Bureau of Internal Revenue (BIR) regulations on the withholding and remittance of taxes from compensation/honoraria paid to employees and contracts with suppliers and contractors based on the Tax Remittance Advices (TRAs). For CY 2020, the taxes withheld and remitted aggregated to ₱63,558,824.88 and ₱63,541,824.20, respectively, leaving a balance of ₱35,397.39 as at year-end.
+
+
+
+		11.1	BIR Revenue Regulations No. 10-2008 dated July 8, 2008 provides that all government offices are constituted as withholding agents for purposes of the creditable tax required to be withheld on income payments from compensation, contractors, suppliers of goods and services. As withholding agents, they are primarily liable for the payment of the taxes to the National Treasury through the BIR.
+
+		
+
+		11.2	Moreover, Revenue Regulations No. 1-2013 dated January 23, 2013 provides that filing of returns and payment of taxes shall be made on or before the 10th day following the month in which withholding was made, except for taxes withheld for the month of December of each year, which shall be filed on or before January 15 of the succeeding year.
+
+
+
+		11.3	The Audit Team assessed the extent of compliance by PHilMech with said  existing tax laws and regulations during CY 2020. Evaluation showed that PHilMech remitted the income and expanded taxes withheld from its employees and suppliers/contractors, respectively, as shown in the next page, in strict compliance with the said regulations.
+
+		
+
+
+
+Period Covered
+
+Due to BIR, Beginning
+
+Taxes Withheld     
+
+Total                          
+
+Taxes Remitted
+
+Due to BIR           Ending
+
+Jan. 2020
+
+₱18,396.71 
+
+   ₱542,110.70 
+
+   ₱560,507.41 
+
+   ₱ 16,681.44 
+
+₱ 543,825.97 
+
+Feb. 2020
+
+543,825.97 
+
+861,164.53 
+
+ 1,404,990.50 
+
+   550,555.88 
+
+854,434.62 
+
+Mar. 2020
+
+  854,434.62 
+
+1,490,988.10 
+
+2,345,422.72 
+
+   852,858.66 
+
+1,492,564.06 
+
+Apr. 2020
+
+1,492,564.06 
+
+693,035.18 
+
+2,185,599.24 
+
+1,493,438.77 
+
+     692,160.47 
+
+May 2020 
+
+692,160.47 
+
+ 908,150.94 
+
+1,600,311.41 
+
+  692,160.47 
+
+   908,150.94 
+
+June 2020
+
+908,150.94 
+
+2,316,255.68 
+
+3,224,406.62 
+
+908,150.94 
+
+2,316,255.68 
+
+July 2020 
+
+2,316,255.68 
+
+992,194.65 
+
+3,308,450.33 
+
+2,392,478.29 
+
+915,972.04 
+
+Aug. 2020
+
+915,972.04 
+
+806,246.36 
+
+1,722,218.40 
+
+985,682.38 
+
+736,536.02 
+
+Sep. 2020
+
+736,536.02 
+
+1,466,929.20 
+
+2,203,465.22 
+
+792,117.00 
+
+1,411,348.22 
+
+Oct. 2020
+
+1,411,348.22 
+
+15,534,505.93
+
+16,945,854.15
+
+1,405,635.24 
+
+15,540,218.91 
+
+Nov. 2020
+
+15,540,218.91 
+
+17,122,998.30 
+
+32,663,217.21 
+
+15,535,980.03 
+
+17,127,237.18 
+
+Dec. 2020
+
+17,127,237.18 
+
+20,824,245.31 
+
+37,951,482.49 
+
+37,916,085.10 
+
+       35,397.39 
+
+Total 
+
+ 
+
+₱63,558,824.88
+
+ 
+
+₱63,541,824.20
+
+ 
+
+
+
+		11.4	For CY 2020, the Agency withheld a total amount of ₱63,558,824.88, registering an increase of 256% from last year’s ₱17,835,500.26 withheld from income taxes of employees and value-added and expanded withholding taxes from its suppliers/dealers of supplies, materials, equipment and services.  Meanwhile, the amount remitted to the BIR for CY 2020 totaled to ₱63,541,824.20.
+
+		
+
+		11.5	Verification of available records disclosed that the remaining balance of ₱35,397.39 was remitted in the ensuing year as shown in the Electronic Tax Payment System (e-TPS) Confirmation Receipts and Tax Remittance Advices (TRAs). All the remittances for CY 2020 were made on time as required in the above-cited regulation thereby ensuring prompt collection of revenues needed to finance government operations.
+
+
+
+		11.6	We recommended and the Executive Director agreed to ensure continuous compliance with the provisions of BIR regulations governing the proper withholding of taxes and the timely remittances thereof.
+
+		
+
+		11.7	During the exit conference, the Management acknowledged the recommendation and committed to exert continuing effort to faithfully comply with BIR Revenue Regulations No. 10-2008 dated July 8, 2008 and Revenue Regulations No 1-2013 dated January 23, 2013.
+
+		
+
+
+
+Compliance with Government Service Insurance System (GSIS) Act of 1997
+
+
+
+12. 	The PhilMech substantially complied with Section 14 of the Revised Implementing Rules and Regulations (RIRR) of Republic Act (R.A.) No. 8291, otherwise known as the Government Service Insurance System (GSIS) Act of 1997, in the proper withholding and remittance of premiums/contributions, including government share and loan repayments due to the GSIS in CY 2020.
+
+
+
+	1)			The Implementing Rules and Regulations (IRR) of Republic Act (R.A.) No. 8291, otherwise known as the GSIS Act of 1997, provides the procedures for the remittance of contributions.
+
+		
+
+Section 14. Remittance of Contributions:
+
+
+
+	14.1 Each Government agency shall remit directly to the GSIS the employees’ and government agency’s contribution within the first ten (10) days of the calendar month following the month to which the contributions apply. The remittance by the government agency of the contributions to the GSIS shall take priority over and above the payment of any and all obligations, except salaries, and wages of its employees.
+
+
+
+14.2 The government agency shall also deduct from the fixed monthly compensation of the employee the loan amortization (consolidated loans, policy loan, emergency loan, housing loan, and other loans), premium payments (optional, pre-need, and other non-life insurance) and other amounts to the GSIS.
+
+
+
+14.3 The said amounts shall be remitted to the GSIS within the first ten (10) days of the calendar month following the month when the deductions were effected, accompanied by supporting lists in the form prescribed by the GSIS.
+
+
+
+	2)			For CY 2020, PHilMech remitted a total amount of ₱14,026,460.79 from the total GSIS contributions and loan amortizations of ₱14,063,743.20 as of December 31, 2020 as tabulated below:
+
+
+
+Period Covered
+
+Due to GSIS Beginning
+
+Employer and Employee’s Contributions and Loan Amortizations
+
+Total
+
+Remittance
+
+ Ending Balance
+
+Jan. 2020
+
+          ₱ 0.00  
+
+        ₱1,007,566.59 
+
+     ₱1,007,566.59 
+
+          ₱ 0.00     
+
+     1,007,566.59 
+
+Feb. 2020
+
+      1,007,566.59 
+
+        1,694,561.23 
+
+         2,702,127.82 
+
+  1,460,655.92 
+
+     1,241,471.90 
+
+Mar. 2020
+
+      1,241,471.90 
+
+        1,606,807.82 
+
+         2,848,279.72 
+
+  1,410,101.48 
+
+     1,438,178.24 
+
+Apr. 2020
+
+      1,438,178.24 
+
+           357,838.65 
+
+         1,796,016.89 
+
+0.00   
+
+     1,796,016.89 
+
+May 2020 
+
+      1,796,016.89 
+
+        1,762,600.63 
+
+         3,558,617.52 
+
+  2,682,318.80 
+
+        876,298.72 
+
+June 2020
+
+         876,298.72 
+
+           769,400.40 
+
+         1,645,699.12 
+
+  1,352,918.05 
+
+        292,781.07 
+
+July 2020 
+
+         292,781.07 
+
+        1,033,080.48 
+
+         1,325,861.55 
+
+0.00      
+
+     1,325,861.55 
+
+Aug. 2020
+
+      1,325,861.55 
+
+        1,076,679.20 
+
+         2,402,540.75 
+
+  1,315,772.30 
+
+     1,086,768.45 
+
+Sep. 2020
+
+      1,086,768.45 
+
+        1,509,903.58 
+
+         2,596,672.03 
+
+  2,547,087.56 
+
+          49,584.47 
+
+Oct. 2020
+
+            49,584.47 
+
+        1,307,465.49 
+
+         1,357,049.96 
+
+  1,322,038.20 
+
+          35,011.76 
+
+Nov. 2020
+
+            35,011.76 
+
+           722,810.43 
+
+            757,822.19 
+
+0.00      
+
+        757,822.19 
+
+Dec. 2020
+
+         757,822.19 
+
+        1,215,028.70 
+
+         1,972,850.89 
+
+  1,935,568.48 
+
+          37,282.41 
+
+Total 
+
+₱14,063,743.20
+
+
+
+₱14,026,460.79
+
+
+
+
+
+
+
+	3)			Our audit of the payrolls and remittances of the employee’s and employer’s share of GSIS contributions for the period covered January 1 to December 31, 2020 disclosed that these were in accordance with the prescribed rate of contributions and consistently remitted to the GSIS in conformity with the provisions of the above cited regulations. The ending balance of ₱37,282.41 was duly remitted in the ensuing year.
+
+		
+
+	4)			We recommended and the Executive Director agreed to instruct the Accounting Unit to continue complying with the GSIS regulations on the withholding and remittance of employees’ and government shares to the GSIS to assure all its members of the social security benefits due them. 
+
+
+
+	5)			During the exit conference, the Management appreciated our recognition of their compliance with Section 14 of R.A. No. 8291 and continuously committed to implement our recommendation.
+
+		
+
+
+
+Compliance with R.A. No. 9679 otherwise known as the Pag-IBIG Fund Law
+
+
+
+1)	The PHilMech was substantially compliant with Republic Act (R.A) No. 9679 otherwise known as the Pag-IBIG Fund Law, in the remittance to the Home Development Mutual Fund (HDMF) of the withheld premiums/contributions from compensation of agency personnel. 
+
+
+
+	1)			Section I, Rule VI of the IRR of Republic Act (R.A.) No. 9679, provides the following regulations:
+
+		
+
+Section 1. Rate of Contributions. Covered employees and employers shall contribute to the Fund based on the monthly compensation of covered employees as follows:
+
+
+
+	a)	Employees earning not more than One thousand five hundred pesos (P1,500.00) per month – one percent (1%).
+
+
+
+	b)	Employees earning more than One thousand five hundred pesos (P1,500.00) per month -two percent (2%).
+
+
+
+	c)		 All employers – two percent (2%) of the monthly compensation of all covered employees.
+
+
+
+The maximum monthly compensation to be used in computing employee and employer contributions shall not be more than Five thousand pesos (P5,000.00); Provided, that this maximum and the contribution rates may be fixed from time to time by the Board through rules and regulations adopted by it, taking into consideration actuarial calculations and rates of benefits. Provided further, that the foregoing rates shall likewise be the same for the self-employed and voluntary members.
+
+
+
+	A member may, however, be allowed to contribute more than what is required herein should he or she so desires. The employer, however, shall only be mandated to contribute what is required under these Rules unless the employer agrees to match the member’s increased contribution.
+
+	
+
+	2)			The audit of payrolls and remittances of HDMF premium contributions for                   CY 2020 disclosed that the government share for each employee was properly accounted and promptly remitted, thus, leaving a balance of ₱6,000.00 at year-end, which was remitted in the ensuing year, details of which are shown hereunder:
+
+
+
+Month 
+
+CY 2020
+
+Beginning Balance
+
+Contributions
+
+Deductions
+
+Remittance
+
+Ending Balance 
+
+January
+
+₱         0.00   
+
+₱         0.00   
+
+48,625.48 
+
+₱         0.00      
+
+₱   48,625.48 
+
+February
+
+48,625.48 
+
+11,700.00 
+
+124,125.48 
+
+          57,425.48 
+
+         127,025.48 
+
+March
+
+    127,025.48 
+
+20,300.00 
+
+117,425.48 
+
+77,725.48 
+
+187,025.48 
+
+April
+
+187,025.48 
+
+15,700.00 
+
+94,225.48 
+
+        139,925.48 
+
+         157,025.48 
+
+May
+
+157,025.48 
+
+0.00   
+
+99,352.04 
+
+0.00   
+
+         256,377.52 
+
+June
+
+256,377.52 
+
+54,300.00 
+
+97,652.04 
+
+407,129.56 
+
+             1,200.00 
+
+July
+
+1,200.00 
+
+11,800.00 
+
+49,752.04 
+
+56,552.04 
+
+             6,200.00 
+
+August
+
+6,200.00 
+
+16,700.00 
+
+127,352.04 
+
+          66,352.04 
+
+           83,900.00 
+
+September
+
+83,900.00 
+
+22,200.00 
+
+108,952.04 
+
+212,752.04 
+
+2,300.00 
+
+October
+
+2,300.00 
+
+0.00   
+
+100,479.06 
+
+         33,179.06 
+
+69,600.00 
+
+November
+
+69,600.00 
+
+34,400.00 
+
+102,345.19 
+
+        156,945.19 
+
+   49,400.00 
+
+December
+
+49,400.00 
+
+17,300.00 
+
+103,293.59 
+
+163,993.59 
+
+      6,000.00 
+
+Total 
+
+₱ 204,400.00
+
+
+
+₱ 1,371,979.96
+
+ 
+
+
+
+	3)			We recommended and the Executive Director agreed to instruct the Accounting Unit to continue complying with the Pag-IBIG Fund Law on the withholding and remittance of employees’ and government share to the HDMF to assure all its members of the benefits due them. 
+
+	
+
+	4)			During the exit conference, the Management appreciated the observation and assured the Audit Team of their continuous compliance with R.A. No. 9679.
+
+
+
+	
+
+Suspensions, Disallowances and Charges
+
+
+
+2)	There were no unsettled notices of suspensions, disallowances or charges as of December 31, 2020.  
+
+
+
+
+
+
+
+24
+
+
+
+
+
+
+
+
+

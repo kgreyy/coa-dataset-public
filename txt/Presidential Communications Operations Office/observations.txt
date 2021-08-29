@@ -1,0 +1,3322 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+33 
+ 
+
+OBSERVATIONS AND RECOMMENDATIONS 
+ 
+
+ 
+
+A. Financial and Compliance 
+ 
+
+Unaccounted inventory items 
+
+ 
+
+1. The 800 copies of coffee table books acquired by PCOO for distribution to other 
+government agencies totaling P2 million were not accounted as inventory upon 
+
+delivery and were recorded as outright expense upon payment that resulted in 
+
+the non-reporting in the financial statements of the undistributed 342 copies 
+
+amounting to P855,000.00 at year-end, and misstatement of the balance of the 
+
+affected asset and expense accounts. 
+
+ 
+
+Section 15 of Chapter 2, Government Accounting Manual (GAM), Volume I 
+
+state that: 
+
+ 
+
+Fair Presentation.  The FS shall present fairly the financial 
+
+position, financial performance and cash flows of an entity.  Fair 
+
+presentation requires the faithful representation of the effects of 
+
+transactions, other events, and conditions in accordance with the 
+
+definitions and recognition criteria for assets, liabilities, revenue, 
+
+and expenses set out in the PPSAS. Xxx 
+
+ 
+
+On May 29, 2020, PCOO entered into an agreement with National Printing 
+
+Office (NPO) for the printing of 800 copies of Boracay Coffee Table Book amounting 
+
+to P2,000,000.00 or at a price of P2,500.00 per copy.  The books were intended for 
+
+distribution to different government agencies around the Philippines. 
+
+ 
+
+Audit of disbursement documents disclosed that the 800 Boracay Coffee Table 
+
+Books were delivered to PCOO as follows: 
+
+ 
+
+Delivery Receipt No. Date  Quantity Amount (P) 
+
+0003029 October 30, 2020 20 50,000.00 
+
+0003025 October 29, 2020 780 1,950,000.00 
+
+  Total  800 2,000,000.00 
+
+ 
+
+However, there was no entry made recognizing the appropriate inventory 
+
+account upon delivery of the coffee table books.  In this case, the Other Supplies and 
+
+Materials for Distribution account could be used as there was no specific inventory 
+
+held for distribution account for coffee table books prescribed in the GAM.  While 
+
+upon payment, the following journal entry was taken up in the books: 
+
+ 
+
+Advertising Expenses P2,000,000.00  
+
+Cash – Modified Disbursement 
+
+System 
+
+ P2,000,000.00 
+
+
+
+34 
+ 
+
+Per Requisition and Issue Slip (RIS) attached to the Disbursement Voucher 
+
+(DV), the 800 copies of the Boracay Coffee Table Books were issued to personnel 
+
+from the Office of Director for Special Projects, the requisitioning office and the one 
+
+in charge of the distribution of the books to different government agencies. 
+
+ 
+
+It was learned that the 342 copies of coffee table books remained undistributed 
+
+at year-end. We verbally requested for a copy of the distribution list and actual 
+
+recipients of the coffee table books, for validation purposes but to no avail.   
+
+ 
+
+Failure to recognize in the books of accounts the appropriate inventory account 
+
+upon delivery and erroneous recording of the delivered items as outright expense 
+
+resulted in the understatement of the inventory account balance and overstatement of 
+
+the total reported expenses. Consequently, the undistributed books at year-end 
+
+amounting to P855,000.00 was not reported in the agency’s financial statements due 
+
+to accounting error. 
+
+ 
+
+Moreover, the receipt and issuances/distribution of the coffee table books were 
+
+no longer accounted in the property records. 
+
+ 
+
+We recommended that Management require the: 
+
+ 
+
+a. Director, Office of Special Concerns to: (i) explain for the non-
+distribution of the 342 copies of the Boracay Coffee Table Book; (ii) 
+
+cause the immediate distribution of the remaining coffee table books 
+
+or turn-over the same to the Property Office for proper control and 
+
+monitoring of the issuances; and (iii) submit to the Audit Team the 
+
+distribution list and actual recipients of the books. 
+
+ 
+
+b. Head, Accounting Division to recognize in the books the cost of 
+undistributed books through the following journal entry: 
+
+ 
+
+       Other Supplies and Materials for Distribution   P855,000.00 
+
+              Accumulated Surplus/(Deficit)                                               P855,000.00 
+
+  
+
+Management informed that the Office of the Secretary Media-Special Projects 
+
+(OMSP) is seeking the kind assistance of the PCOO Records Section for the 
+
+distribution of the remaining coffee table books, especially for bulk deliveries within 
+
+Metro Manila. The main consideration under this arrangement is the availability of 
+
+personnel as well as the vehicle that would be used to transfer the coffee table books. 
+
+ 
+
+Restrictions on movements and business operations both in PCOO and other 
+
+agencies due to COVID-19 has caused some delay in the delivery. Moreover, the 
+
+drastic increase in the number of cases since March ultimately halted the distribution. 
+
+ 
+
+ 
+
+ 
+
+
+
+35 
+ 
+
+Audit Team’s Rejoinder: 
+
+ 
+
+The Audit Team will monitor the implementation of the audit 
+
+recommendations. Management had provided the distribution list on June 10, 2021 
+
+to be verified by the Audit Team. 
+
+ 
+
+ 
+
+Erroneous classification of intangible assets 
+
+ 
+
+2. Computer software and operating systems (OS) worth P6,950,966.00 were 
+erroneously recorded as Information and Communication Technology 
+
+Equipment (ICTE), thus, were depreciated with residual value of at least five 
+
+percent amounting to P695,096.60, contrary to Chapter 12, Volume I of GAM 
+
+providing that intangible assets shall be amortized with zero residual value.  
+
+Moreover, obsolete and expired computer software with total cost of at least 
+
+P987,500.00 were not derecognized in the books. These deficiencies resulted in 
+
+the misstatement of the balances of the accounts Computer Software, ICTE and 
+
+related depreciation.  
+
+ 
+As defined in Chapter 12, Volume I of the GAM, “Intangible Assets are 
+
+identifiable non-monetary asset without physical substance, common examples of 
+which, are computer software, patents, copyrights, franchise, motion picture films, 
+trademarks or brand names, licenses, etc.  An intangible asset shall be derecognized 
+on disposals or when no future economic benefits or service potential are expected 
+from its use or disposal.” 
+
+ 
+
+Volume III of the GAM prescribes that “the account Computer Software is 
+
+used to recognize the purchase cost or capitalized development cost of computer 
+
+software programs for use in government operation. Development costs include cost 
+
+of coding, testing and cost to produce product masters. Credit this account for 
+
+obsolesce, transfers or other disposal.” 
+
+ 
+
+The same Chapter of the GAM, Volume I, further provides the following: 
+
+ 
+
+• Intangible assets are classified as having: (a) Indefinite 
+life – no foreseeable limit to the period over which the asset 
+
+is expected to generate net cash inflows for, or provides 
+
+service potential to, the entity; and (b) Finite life – a 
+
+limited period of benefit to the entity. 
+
+ 
+
+• An intangible asset with a finite useful life is amortized 
+on a straight-line method while an intangible asset with an 
+
+indefinite useful life shall not be amortized. 
+
+ 
+
+• The depreciable amount of an intangible asset with a finite 
+useful life shall be allocated on a systematic basis over its 
+
+useful life. As a guideline, the finite useful life of intangible 
+
+
+
+36 
+ 
+
+assets shall be 2 to 10 years. Amortization shall begin when 
+
+the asset is available for use, i.e., when it is in the location 
+
+and condition necessary for it to be capable of operating in 
+
+the manner intended by management. 
+
+ 
+
+• The residual value of an intangible asset with a finite 
+useful life shall be assumed to be zero.  
+
+ 
+
+Review of the accounting records and Report of Physical Count on Property, 
+
+Plant and Equipment (RPCPPE) for the CY 2020 revealed that computer software 
+
+and OS totaling to P6,950,966.00 were erroneously recorded/classified as   ICTE. As 
+
+such, these intangible assets were depreciated, just like any other PPE, with residual 
+
+value of at least five percent of the cost.  Thus, overstating the Accumulated 
+
+Depreciation-ICTE account and understating Accumulated Surplus account by 
+
+P695,096.60, the details of which is shown in the table below.  
+
+ 
+
+In addition, inquiry disclosed that computer software with total cost of at least 
+
+P987,500.00 and which could no longer provide economic benefits to the agency due 
+
+to obsolescence and expired subscriptions were not derecognized in the books. 
+
+ 
+
+The table below shows the details of intangible assets that were erroneously 
+
+classified as ICTE.  
+
+ 
+
+Particular Property No. 
+
+Amount (P) 
+
+Cost Residual Value 
+Accumulated 
+
+Depreciation 
+
+Currently used   
+
+Tri-Media Information 
+
+System 
+
+12-05-AA03 995,000.00 99,500.00 895,500.00 
+
+MyWQL Standard 
+
+Edition 
+
+12-05-AA08 149,000.00 14,900.00 134,100.00 
+
+Asset Software 12-05-AA10 569,000.00 56,900.00 512,100.00 
+
+Microsoft Office 12-05-AA12 8,000.00 800 7,200.00 
+
+Biometric and Payroll 
+
+System 
+
+15-01-AA01 420,000.00 42,000.00 378,000.00 
+
+Sub-total   2,141,000.00 214,100.00 1,926,900.00 
+
+Lifetime license 
+
+Microsoft Office 12-05-AA02 24,900.00 2,490.00 22,410.00 
+
+Microsoft Office (home 
+
+and business) 
+
+12-05-AA16 720,000.00 72,000.00 648,000.00 
+
+Microsoft Office (home 
+
+and business) 
+
+12-05-AA17 1,600,000.00 160,000.00 1,440,000.00 
+
+Microsoft Office (home 
+
+and business) 
+
+12-05-AA18 384,000.00 38,400.00 345,600.00 
+
+Microsoft Office (home 
+
+and business for MAC) 
+
+12-05-AA23 31,320.00 3,132.00 28,188.00 
+
+
+
+37 
+ 
+
+Particular Property No. 
+
+Amount (P) 
+
+Cost Residual Value 
+Accumulated 
+
+Depreciation 
+
+Sub-total   2,760,220.00 276,022.00 2,484,198.00 
+
+Obsolete and not currently used 
+
+Network Management 
+
+Software 
+
+12-05-AA05 49,500.00 4,950.00 44,550.00 
+
+Antivirus “McAfee” 12-05-AA01 48,000.00 4,800.00 43,200.00 
+
+Live Stream Software 12-05-AA06 45,500.00 4,550.00 40,950.00 
+
+Live Stream Software 12-05-AA07 45,500.00 4,550.00 40,950.00 
+
+Live Stream Software 12-05-AA09 799,000.00 79,900.00 719,100.00 
+
+Sub-total   987,500.00 98,750.00 888,750.00 
+
+Renewable every year 
+
+Adobe Acrobat (1 year 
+
+subscription) 
+
+12-05-AA13 11,350.00 1,135.00 10,215.00 
+
+Adobe Creative Cloud 
+
+for term (1 year) 
+
+12-05-AA14 54,000.00 5,400.00 48,600.00 
+
+Adobe Creative Cloud 
+
+(16 pcs) 
+
+12-05-AA22 942,896.00 94,289.60 848,606.40 
+
+Adobe Creative Cloud 
+
+for term (1 year) 
+
+12-05-AA15 54,000.00 5,400.00 48,600.00 
+
+Sub-total   1,062,246.00 106,224.60 956,021.40 
+
+Grand Total   6,950,966.00 695,096.60 6,255,869.40 
+
+ 
+
+The accounting treatment of those intangible assets as ICTE and non-
+
+derecognition of obsolete/expired software were contrary to the above-mentioned 
+
+accounting standards.  
+
+ 
+
+The accounting errors also resulted in the overstatement of the ICTE account 
+
+with corresponding understatement of the Computer Software account by 
+
+P5,963,466.00 (net of obsolete/expired software).  Accordingly, the Accumulated 
+
+Depreciation account was overstated while the Accumulated Surplus account was 
+
+understated by P6,255,869.40.   
+
+ 
+
+We recommended that Management instruct the Accountant to: 
+
+ 
+
+a. Reclassify those computer software and OS still in use to the proper 
+account, and make corresponding adjustments on the ICTE and 
+
+related depreciation accounts;  
+
+ 
+
+b. Derecognize in the books those intangible assets that were already 
+expired/obsolete; and 
+
+  
+
+c. Amortize the intangible assets in accordance with Chapter 12, 
+Volume I of the GAM. 
+
+
+
+38 
+ 
+
+Management Comment: 
+
+ 
+
+Items which work together in the form of a group of network assets can be 
+
+recognized as part of the primary Property, Plant and Equipment. It is in this context 
+
+that all computer software and operating system which were connected to the 
+
+computer hardware were recognized and recorded as ICTE, and were depreciated 
+
+together with the computer hardware with a residual value of five (5) percent.  
+
+ 
+
+Moreover, computer software which no longer provide economic benefits to 
+
+the agency due to obsolescence and expired subscriptions were not derecognized as 
+
+it is awaiting disposal of computer units. The Accounting Division made the 
+
+appropriate adjustments in the books, as recommended, as provided in the JEV nos. 
+
+21-03-101, 21-03-102 and 2103-103. 
+
+ 
+
+Last 14 May 2021, the PCOO through its Disposal and Awards Committee 
+
+(DAC), disposed 43 unserviceable IT equipment and other appliances through a 
+
+public action with proceeds amounting to P41,610.00. We have attached the Deed of 
+
+Absolute Sale and Notice of Award for reference. 
+
+ 
+
+Audit Team’s Rejoinder: 
+
+ 
+
+The Audit Team will monitor the implementation of the audit recommendations 
+
+and will validate the adjustment made by the Accounting Division in the books, as 
+
+recommended, as provided in the JEV nos. 21-03-101, 21-03-102 and 2103-103. 
+
+ 
+
+ 
+
+ Unreliable Due from GOCCs account  
+
+ 
+
+3. The Due from GOCCs account’s balance amounting to P83,641,281.91 is 
+unreliable as there was no corresponding balance of unliquidated fund transfer 
+
+in the books of the implementing agency, the People’s Television. Network, Inc. 
+
+(PTNI), based on confirmation from its Resident Auditor caused by non-
+
+reconciliation of records.  
+
+ 
+
+Section 15, Chapter 2, Volume I of GAM, requires fair presentation of the 
+
+financial statement, to wit: 
+
+ 
+
+The FSs shall present fairly the financial position, financial 
+
+performance and cash flows of an entity.  Fair presentation requires 
+
+the faithful representation of the effects of transactions, other 
+
+events and conditions, in accordance with the definitions and 
+
+recognition criteria for assets, liabilities, revenues, and expenses 
+
+set out in the PPSAS. xxx 
+
+ 
+
+On October 25, 2012, the PCOO entered a Memorandum of Agreement (MOA) 
+
+with PTNI for the release of funding support for the PTNI’s Revitalization Program 
+
+
+
+39 
+ 
+
+in the amount P342,536,605.00 from the Disbursement Acceleration Program (DAP) 
+
+Fund of PCOO. 
+
+ 
+
+Records showed that from CYs 2012 to 2014, PCOO transferred funds to PTNI 
+
+a total amount of P342,136,605.00 for the said program. As at December 31, 2020, 
+
+the transferred funds recorded under the Due form GOCCs account had a balance of 
+
+P83,641,281.91 in the books of the PCOO. 
+
+ 
+
+It may be mentioned that per our confirmation from the Resident Auditor of 
+
+PTNI in CY 2018, PTNI had utilized the amount of P293,134,700.49 from said fund 
+
+transfers as of December 31, 2014, and returned the unused balance of 
+
+P49,001,904.51 to the Bureau of Treasury (BTr) per Official Receipt No. 2545491 
+
+dated May 22, 2017, signifying that the total fund transfer was fully accounted for, 
+
+thus, has no more balance in the PTNI books.  
+
+ 
+
+The above information on the status of said fund transfer was contained in the 
+
+CY 218 AAR on PCOO wherein the Audit Team recommended that Management 
+
+demand from PTNI the submission of liquidation reports, reconcile its records with 
+
+PTNI, prepare necessary adjusting entries, and close the DAP Fund account 
+
+pertaining to the PTNI Revitalization Program.  
+
+ 
+
+Management had made several follow-ups through phone calls and sent 
+
+demand letters to PTNI for the submission of liquidation reports, but to no avail. Per 
+
+verification, the last demand letter sent in CY 2020 was on August 7, 2020.   
+
+ 
+
+The PCOO Accountant furnished the Audit Team with copy of PTNI letter to 
+
+PCOO dated August 10, 2020 affirming that it had already submitted the liquidation 
+
+to their resident COA Auditor.  He also provided the PTNI Audit Team Leader’s 
+
+reply to PTNI that retrieval of Reports of Disbursements relative to the Revitalization 
+
+Funds will require some time since the reports covering the period CY 2012 to 2014 
+
+have already been transferred to their bodega. 
+
+ 
+
+In view of the lack of the required reports, the PCOO Accountant has yet to 
+
+record the liquidation of the balance of P83,641,281.91, hence, remained outstanding 
+
+in the PCOO books of accounts.  
+
+ 
+
+However, considering the PTNI Resident Auditor’s confirmation that the 
+
+amount of P293,134,700.49 was utilized out of the PCOO transferred funds and the 
+
+unused balance of P49,001,904.51 was already returned to BTr, the same would 
+
+suffice as basis in recording the liquidation of the remaining balance of fund transfer 
+
+amounting to P83,641,281.91 in the PCOO books, in order to close the receivable 
+
+account from PNTI with regard to the Revitalization Program funds, and to fairly 
+
+present the Due from GOCCs account in the financial statement.   
+
+ 
+
+We recommended and Management agreed to require the Accountant to 
+
+closely coordinate with the Accountant of the PTNI to reconcile the records of 
+
+
+
+40 
+ 
+
+the inter-agency fund transfer, and thereafter prepare the necessary journal 
+
+entry as applicable.   
+
+ 
+
+ 
+
+Unrecognized expenses paid from funds received from other agencies  
+
+ 
+
+4. Expenses totaling P12,374,291.16 paid out of the funds received from other 
+agencies were not recognized in the PCOO’s books of accounts but were 
+
+recorded, instead, as a direct charge to the Due to NGAs account, contrary to 
+
+Annex M, Volume I of GAM for NGAs. 
+
+ 
+
+Annex M of Volume I, GAM, prescribes the illustrative accounting entries for 
+
+transactions involving inter-agency transferred funds. As provided therein, the 
+
+following transactions shall be recorded in the Implementing Agency’s books of 
+
+accounts, as shown below: 
+
+ 
+
+a. Payment of expenses 
+ 
+
+Appropriate Expense Account xxx  
+
+     Cash – Modified Disbursement System (MDS), Trust  xxx 
+
+     Others   xxx 
+
+ 
+
+ 
+
+b. Adjustment for expenses chargeable to liability (Due to NGA) at year end. 
+  
+
+Due to NGAs  xxx  
+
+       Appropriate Expense Account  xxx 
+
+        Others  xxx 
+
+ 
+
+In CY 2020, the agency paid various expenses totaling P12,374,291.16 
+
+chargeable to funds received from other agencies for the implementation of special 
+
+projects, as follows: 
+
+ 
+Source Agency  Project Amount (P) 
+
+Philippine Drug Enforcement Agency – Inter-
+
+Agency Committee on Anti-Illegal Drugs 
+
+Rehabinasyon 1,626,853.23 
+
+Department of Interior and Local 
+
+Government  
+
+Dagyaw 74,944.25 
+
+Philippine Statistics Authority  PhilSys ID 8,905,950.14 
+
+Government Procurement Policy Board  Procurement Online 
+
+Learning System 
+
+1,766,543.54 
+
+           Total 12,374,291.16 
+
+ 
+However, review of Journal Entry Vouchers (JEVs) revealed that the expenses 
+
+were recorded as a direct charge to the Due to NGAs account, thus, were not 
+
+recognized in the PCOO’s books of accounts, contrary to Annex M of Volume 1, 
+
+GAM. 
+
+
+
+41 
+ 
+
+Due to non-recognition of expenses, actual transactions incurred out of the 
+
+inter-agency transferred funds were not reflected in the financial reports of the 
+
+PCOO. 
+
+ 
+
+We recommended that Management direct the Accounting Division to 
+
+properly record the transactions involving inter-agency transferred funds in 
+
+accordance with the journal entries prescribed in the GAM. 
+
+ 
+
+Management Comment: 
+
+ 
+
+Management commented that the total amount of the inter-agency transferred 
+
+fund received by the PCOO were all credited to the Due to NGAs account since no 
+
+itemized expense accounts were provided by the Source Agency (SA), all 
+
+transactions incurred were directly charged to Due to NGAs accounts. At month end, 
+
+Reports of Disbursement were submitted to SA to liquidate the disbursements made 
+
+by PCOO. 
+
+ 
+
+Management acknowledged the recommendation presented regarding the 
+
+proper recording of transactions involving inter-agency transferred funds and will 
+
+implement the soonest, as discussed with Accounting Division. 
+
+ 
+
+ 
+
+Undisposed unserviceable properties 
+
+ 
+
+5. Unserviceable properties totaling P4,928,817.22 remained undisposed at year-
+end contrary to Section 79 of Presidential Decree (PD) No. 1445, thus, denying 
+
+the government of potential income, in case of sale.  However, the unserviceable 
+
+properties were not specifically identified in the RPCPPE while the IIRUP was 
+
+not updated.   
+
+ 
+
+Section 79 of PD No. 1445 states that: 
+
+ 
+
+Destruction or sale of unserviceable property. When government 
+
+property has become unserviceable for any cause, or is no longer 
+
+needed, it shall, upon application of the officer accountable 
+
+therefor, be inspected by the head of the agency or his duly 
+
+authorized representative in the presence of the auditor 
+
+concerned and, if found to be valueless or unsalable, it may be 
+
+destroyed in their presence. If found to be valuable, it may be 
+
+sold at public auction to the highest bidder under the supervision 
+
+of the proper committee an award or similar body in the presence 
+
+of the auditor concerned or other duly authorized representative 
+
+of the Commission, xxx.  
+
+ 
+
+
+
+42 
+ 
+
+Section 40 (d) of Chapter 10, GAM, Volume I also provides that “all 
+
+unserviceable property shall be reported in the Inventory and Inspection Report of 
+
+Unserviceable Property (IIRUP) (Appendix 74).”   
+
+ 
+
+The RPCPPE shall contain, among others, the following information:  
+
+   
+
+Article – Type of items or article 
+
+Description – brief description of the article/item 
+
+Property Number – assigned property number by the Supply 
+
+and/or Property Division/Unit 
+
+Unit Measure – unit of measurement of the property, plant and 
+
+equipment 
+
+Unit Value – cost per quantity unit 
+
+Quantity-Per Property Card – quantity of items or articles 
+
+appearing in the PC 
+
+Quantity-Per Physical Count – quantity of items or articles per 
+
+physical count 
+
+Shortage/Overage – excess of the quantity and total value of items 
+
+or articles per PPELC over that of the 
+
+physical count or vice versa 
+
+ 
+
+The agency’s RPCPPE for CY 2020 showed unserviceable properties under 
+
+Other PPE classification, in the amount of P4,928,817.22 representing 89 percent of 
+
+the total cost of the Other PPE amounting to P5,523,990.57.  
+
+ 
+
+However, the unserviceable properties were not specifically described in the 
+
+RPCPPE but were reported as single lot and was labelled as Office 
+
+Equipment/Furniture and Fixture/IT Equipment/Motor Vehicles. The other required 
+
+information on the PPE were not indicated in the RPCPPE.   
+
+ 
+
+When asked for the specific details of the unserviceable properties, 
+
+Management submitted a copy of the unsigned copy of IIRUP as of December 31, 
+
+2017 which included the following unserviceable PPE amounting to P4,509,533.53 
+
+only, as shown below: 
+
+ 
+
+Particulars Amount (P) 
+
+Office Equipment 1,583,588.00 
+
+Information Technology 2,461,889.35 
+
+Communication Equipment 464,056.18 
+
+Total 4,509,533.53 
+
+ 
+
+The IIRUP should have been updated to include unserviceable properties that 
+
+were added to the RPCPPE as of December 31, 2020.    
+
+ 
+
+Management inaction to dispose the unserviceable properties denied the 
+
+government of the potential income that may be derived, in case of sale.  Also, the 
+
+
+
+43 
+ 
+
+space/area occupied by the unserviceable properties could have been used for other 
+
+beneficial purposes. 
+
+ 
+
+The absence of adequate information about the RPCPPE and updated IIRUP 
+
+would cause difficulty in the Audit Team’s validation of the reported unserviceable 
+
+properties.   
+
+ 
+
+We recommended that Management require: 
+
+ 
+
+a. The Inventory Committee to: (i) specifically identify the reported 
+unserviceable properties; and (ii) henceforth, properly accomplish 
+
+the RPCPPE ensuring that the required information/data are 
+
+provided therein; 
+
+ 
+
+b. The Property Officer to update the IIRUP to include all 
+unserviceable properties; and 
+
+ 
+
+c. The Disposal Committee to immediately undertake the proper 
+disposition of unserviceable properties. 
+
+ 
+
+Management Comment: 
+
+ 
+
+The unserviceable properties were not specifically identified in the RPCPPE 
+
+due to improper and incomplete turnover of documents and lack of clear list of 
+
+pending action items from previous personnel of the Property and Supply Section. 
+
+ 
+
+To remedy the situation, the Chief of General Services Division through the 
+
+Head of Property and Supply Section assigned two (2) personnel of the Property and 
+
+Supply Section dedicated to conduct physical inspection and inventory of 
+
+unserviceable items to revise the RPCPPE to include details and update the IIRUP. 
+
+The original target completion date which was in the fourth (4th) week of May was 
+
+not met and will be extended due to the ongoing office transfer of the PCOO. 
+
+However, this will be prioritized the soonest. 
+
+ 
+
+Audit Team’s Rejoinder: 
+
+ 
+
+The Audit Team will monitor the implementation of the audit 
+
+recommendations. 
+
+ 
+
+ 
+
+Hiring of private lawyer without OSG’s conformity and COA’s concurrence  
+
+ 
+
+6. PCOO engaged the services of a private lawyer without the written conformity 
+and acquiescence of the Solicitor General and the written concurrence of the 
+
+Commission, and despite having a legal office, in violation of COA Circular no. 
+
+
+
+44 
+ 
+
+95-011 dated December 4, 1995, thus, related expenditures were considered 
+
+irregular and unnecessary. 
+
+ 
+
+COA Circular no. 95-011 dated December 4, 1995 states that: 
+
+ 
+
+Xxx. public funds shall not be utilized for payment of the services 
+
+of a private legal counsel or law firm to represent government agencies 
+
+in court or to render legal services for them. In the event that such legal 
+
+services cannot be avoided or is justified under extraordinary or 
+
+exceptional circumstances, the written conformity and acquiescence of 
+
+the Solicitor General or the Government Corporate Counsel, as the case 
+
+may be, and the written concurrence of the Commission on Audit shall 
+
+first be secured before the hiring or employment of a private lawyer or 
+
+law firm. 
+
+ 
+
+The same Circular also quoted the decision of the Supreme Court in the case 
+
+of the Municipality of Pililla, Rizal vs. Court of Appeals, et. al., GR No. 105909, 
+
+promulgated on June 28, 1994, and stated that said decision clearly indicates that, 
+
+where a government agency is provided by law with a legal officer or office who or 
+
+which can handle its legal requirements or cases in courts, it (agency) may not be 
+
+allowed to hire the services of private lawyers for a fee, chargeable against public 
+
+funds, unless under exceptional or extraordinary circumstances. 
+
+ 
+
+Records showed that PCOO engaged the services of Atty. Ma. Jovi Patricio 
+
+Jore as Attorney II for the period from October 15, 2020 to December 31, 2020 at a 
+
+rate of P42,159.00 per month. Per related contract of service (COS), she shall render 
+
+services under the Office of Undersecretary for Administration and Legal Affairs 
+
+with the following functions and responsibilities: 
+
+ 
+
+a.      Act as prosecutor on behalf of the agency in relation to 
+administrative and criminal cases; 
+
+b.      Draft administrative and criminal complaints, position 
+papers, comments and other relevant legal documents on 
+
+behalf of the agency; 
+
+c.      Draft Memoranda, Office Orders and all other internal and 
+external issuances of the agency; 
+
+d.      Draft and review Memoranda of Agreement and/or 
+Understanding, contracts, legal forms and other related 
+
+documents to be entered into by the agency; 
+
+e.       Provide legal opinion in relation to administrative and legal 
+inquires; 
+
+f.       Review administrative and legal matters of agency to be 
+presented before the Undersecretary for Legal Affairs for his 
+
+signature; and 
+
+g.      Perform all other related functions as may be delegated by the 
+immediate supervisor. 
+
+
+
+45 
+ 
+
+It was disclosed, however, that the hiring of Atty. Jore was without the written 
+
+conformity and acquiescence of the Office of the Solicitor General (OSG) as well as 
+
+the written concurrence of the COA, in violation of COA Circular No. 95-011. 
+
+Besides, PCOO has a legal office which could have handled its legal requirements. 
+
+ 
+
+COA Circular No. 2012-003 dated October 29, 2012 defines the following 
+
+expenditures, to wit: 
+
+ 
+
+"Irregular expenditure" signifies an expenditure incurred without 
+
+adhering to established rules, regulations, procedural guidelines, 
+
+policies, principles or practices that have gained recognition in 
+
+laws. Irregular expenditures are incurred if funds are disbursed 
+
+without conforming with prescribed usages and rules of discipline. 
+
+Xxx. A transaction conducted in a manner that deviates or departs 
+
+from, or which does not comply with standards set is deemed 
+
+irregular. A transaction which fails to follow or violates appropriate 
+
+rules of procedure is, likewise, irregular. 
+
+ 
+
+"Unnecessary expenditures” pertains to expenditures which could 
+
+not pass the test of prudence or the diligence of a good father of a 
+
+family, xxx. This would also include incurrence of expenditure not 
+
+dictated by the demands of good government xxx.  An expenditure 
+
+that is not essential or that which can be dispensed with without 
+
+loss or damage to property is considered unnecessary. 
+
+ 
+
+In view of the lack of the required actions from the OSG and considering that 
+
+PCOO has legal office, the hiring of a private lawyer and payment of her salaries 
+
+totaling P105,397.50 were deemed irregular and unnecessary. 
+
+ 
+
+We recommended that Management: 
+
+ 
+
+a. Hold the concerned agency officials who signed/approved the COS, 
+approved the payments, and certified as to the necessity and 
+
+lawfulness of the expenses and completeness of supporting documents 
+
+liable for the refund of salaries of the private lawyer in view of the 
+
+noted deficiencies; and 
+
+ 
+
+b. Ensure that the requirements and other conditions under COA 
+Circular No. 95-011 are complied with before engaging the services of 
+
+a private lawyer. 
+
+ 
+
+Management Comment: 
+
+ 
+
+Management commented that the engagement of Atty. Ma. Jovi Patricio Jore 
+
+as Contract of Service (COS) personnel, for the period of 15 October 2020 to 31 
+
+December 2020, does not fall within the contemplated intent of COA Circular No. 
+
+
+
+46 
+ 
+
+95-011. Atty. Jore in fact merely provided assistance to the Office of the 
+
+Undersecretary for Legal Affairs in the latter’s preparation and/or review of legal 
+
+documents. In no instance did Atty. Jore represent the PCOO or serve as counsel 
+
+thereof in any legal case, be it before the courts or quasi-judicial bodies. 
+
+ 
+
+Further, the engagement of Atty. Jore as COS personnel by the Legal Office is 
+
+appropriate, urgent and necessary in view of the lack of plantilla legal positions under 
+
+this Office, in turn providing adequate and direct assistance to the Undersecretary 
+
+for Legal Affairs. 
+
+ 
+
+It is settled that unnecessary expenditures are those not supportive of the 
+
+implementation of the objectives and mission of the agency relative to the nature of 
+
+its operation. These also include incurring expenditures which are not dictated by the 
+
+demands of good government, and those the utility of which cannot be ascertained 
+
+at a specific time. Verily, an expenditure that is not essential or that which can be 
+
+dispensed with without loss or damage to property is considered unnecessary. 
+
+ 
+
+Given the growing need of the agency for manpower particularly during these 
+
+uncertain times, it is deemed essential for the Office of the Undersecretary for Legal 
+
+Affairs to be fully capacitated so that it may deliver the required tasks with efficiency 
+
+and effectiveness. It is under these circumstances, due to the foregoing demand and 
+
+in the exigency of the service, that Atty. Jore was hired. 
+
+ 
+
+Pursuant to the aforementioned definition of an unnecessary expenditure, it is 
+
+indubitable that the hiring of Atty. Jore cannot be deemed as an unnecessary 
+
+expenditure. 
+ 
+Likewise, the hiring of Atty. Jore cannot be deemed irregular, inasmuch as the 
+
+Honorable Commission affirms and recognizes that government agencies are 
+
+permitted to hire private lawyers. An expenditure is irregular if it was incurred 
+
+without adhering to established rules and regulations. 
+ 
+
+Moreover, in the subject AOM, it was recommended that concerned officials 
+
+who approved the hiring of Atty. Jore should be made liable to refund the salaries 
+
+received by Atty. Jore. 
+ 
+A public official shall be made liable to refund the salaries received by a 
+
+private lawyer only when he acted in bad faith. The concerned officials who 
+
+approved the hiring of and payment of salaries to Atty. Jore were in the honest belief 
+
+that the PCOO was authorized to hire a private lawyer. Having acted in good faith, 
+
+the approving officers of the PCOO cannot be held liable to refund the salaries 
+
+granted to Atty. Jore. This is consistent with the recent pronouncement of the 
+
+Supreme Court in Madera v. COA: 2 
+ 
+
+
+
+47 
+ 
+
+1.  If a Notice of Disallowance is set aside by the Court, no 
+
+return shall be required from any of the persons held liable 
+
+therein. 
+ 
+2. If a Notice of Disallowance is upheld, the rules on return are 
+
+as follows: 
+ 
+a. Approving and certifying officers who acted in good faith, in 
+
+regular performance of official functions, and with the diligence of a 
+
+good father of the family are not civilly liable to return consistent with 
+
+Section 38 of the Administrative Code of 1987.” (Emphasis Supplied) 
+
+ 
+In the case of Development Bank of the Philippines vs. Commission on Audit 
+
+3 , the Supreme Court synthesized recent jurisprudence on COA disallowances to 
+
+provide the requisites in appreciating good faith on the part of officers responsible 
+
+for the disallowed disbursement, to wit: (1) they acted in good faith believing that 
+
+they could disburse the disallowed amounts based on the provisions of the law; and 
+
+(2) that they lacked knowledge of facts or circumstances which would render the 
+
+disbursement illegal, such when there is no similar ruling by this Court prohibiting 
+
+a particular disbursement or when there is no clear and unequivocal law or 
+
+administrative order barring the same. 
+ 
+
+In sum, it is respectfully submitted that the engagement of Atty. Jore as contract 
+
+of service personnel under this Office was proper and necessary. The concerned 
+
+Officials who hired Atty. Jore on behalf of the PCOO cannot be made liable for the 
+
+salaries granted to her since they acted in good faith and engaged her pursuant to 
+
+applicable rules and regulations. Accordingly, this Office respectfully requests that 
+
+the Honorable Auditors reconsider their findings/recommendations in AOM No. 
+
+2020-004. 
+
+ 
+
+Audit Team’s Rejoinder: 
+
+ 
+
+The Audit Team maintains that the contract of service of Atty. Jore falls within 
+
+the scope of the prohibition under COA Circular No. 95-011 which covers the hiring 
+
+of private legal counsel or law firm to represent government agencies in court or to 
+
+render legal services for them. It is informed that said Circular amended/modified 
+
+COA Circular 86-55 which deals on the same subject, where the latter directed that 
+
+the payment out of public funds of retainer fees to private law practitioners who are 
+
+so hired or employed without the prior written conformity and acquiescence of the 
+
+Solicitor General or the Government Corporate Counsel, as the case may be, as well 
+
+as the written concurrence of the Commission on Audit shall be disallowed in audit 
+
+and the same shall be a personal liability of the officials concerned. 
+
+ 
+
+Moreover, it is important to note that the intent of said Circular is to curb the 
+
+observed and persistent violation of existing laws and regulations pertaining to the 
+
+engagement of private lawyers on contractual basis in government agencies which 
+
+
+
+48 
+ 
+
+involves the disbursement of public funds by subjecting the same to the conformity 
+
+and concurrence requirements of said Circular. 
+
+ 
+
+In the case of DR. WENIFREDO T. OÑATE, Petitioner, v. COMMISSION 
+
+ON AUDIT, G.R. No. 213660, July 05, 2016, the Supreme Court (SC) declared that 
+
+the prohibition under COA Circular No. 95-011 covers the hiring of private lawyers 
+
+to render any form of legal service - whether or not the legal services to be performed 
+
+involve an actual legal controversy or court litigation. The purpose is to curtail the 
+
+unauthorized and unnecessary disbursement of public funds to private lawyers for 
+
+services rendered to the government, which is in line with the COA's constitutional 
+
+mandate to promulgate accounting and auditing rules and regulations, including 
+
+those for the prevention and disallowance of irregular, unnecessary, excessive, 
+
+extravagant or unconscionable expenditures or uses of government funds and 
+
+properties.  
+
+ 
+
+          Also, the SC has invariably sustained the statutory authority of the OSG and 
+
+the OGCC as well as the necessity of COA concurrence in the hiring of private lawyer 
+
+by government agencies, and see no legal justification to deviate from the settled 
+
+jurisprudence. Indeed, when a government entity engages the legal services of private 
+
+counsel or law firm, it must do so with the necessary authorization required by law; 
+
+otherwise, its officials bind themselves to be personally liable for compensating such 
+
+legal services.  
+
+ 
+
+In view of the above-cited SC decision, the PCOO officials who approved the 
+
+COS of Atty. Jore and the corresponding payment of her services without the 
+
+required acquiescence of the OSG and COA’s concurrence should be held liable 
+
+therefor.  
+
+ 
+
+ 
+
+Deficiencies in the implementation of MOA for PhilSys Project 
+
+ 
+
+7. The implementation of activities under the MOA between the PCOO and PSA 
+as well as the utilization of the PSA transferred funds for the PhilSys project 
+
+were with deficiencies as follows: (a) fund received from PSA amounting to 
+
+₱93,900,000.00 had been idle for more than one year due to the non-transfer of 
+
+funds to PIA and PTNI, and the non-implementation of the planned  activities 
+
+for Mainstream Media such as media placements in Top TV, radio stations and 
+
+others; (b) PCOO has yet to hire personnel for the Monitoring Division of the 
+
+PCOO PhilSys Project Team; hence submission of required  reports by the 
+
+Implementing Agencies (IAs) was not being closely monitored; and (c) the 
+
+related Report of Disbursements (RDs) submitted to the Audit Team were not 
+
+supported with documents; thus, validity of expenditures charged against the 
+
+PSA transferred funds could not be ascertained. 
+
+ 
+
+PCOO is mandated to serve as the premier arm of the Executive Branch in 
+
+engaging and involving the citizenry and the mass media in order to enrich the quality 
+
+
+
+49 
+ 
+
+of public discourse on all matters of governance and build a national consensus 
+
+thereon. 
+
+ 
+
+Its mission is to serve as the primary vehicle for consciousness-raising, 
+
+constituency-building, and social mobilization in support of the policies, programs 
+
+and projects of the Presidency and a tool for informing, educating, enlightening the 
+
+citizenry about matters of national importance for inspiring the citizenry to deepen 
+
+their civic engagement. 
+
+ 
+
+Republic Act (RA) No. 11055, otherwise known as the Philippine 
+
+Identification System Act or the “PhilSys”, aims to establish a single national 
+
+identification system for all citizens and resident aliens of the Republic of the 
+
+Philippines to promote seamless service delivery of services, enhance administrative 
+
+governance, reduce corruption and curtail bureaucratic red tape, avert fraudulent 
+
+transactions and misrepresentations, strengthen financial inclusion, an promote ease 
+
+of doing business.  
+
+ 
+
+On April 8, 2019, PSA entered into a MOA with PCOO with validity until 
+
+December 31, 2020, where the latter will handle the information production and 
+
+campaigns, advertising placements, public relations, regional advocacy, and research 
+
+and feedback mechanism requirements of the PhilSys with an approved budget of 
+
+P419,563,200.00, broken down as follows: 
+
+ 
+
+Agency Responsibility Allocation (P) 
+
+PCOO -Overseeing and Implementation of the 
+
+campaign 
+
+-Creative and Content Curation 
+
+-Placements and activation 
+
+85,363,200.00  
+
+PIA -Provincial Roadshows 
+
+-Information kiosks 
+
+25,200,000.00  
+
+NPO -Printing of (information, education and 
+
+communication) IEC Materials 
+
+25,200,000.00  
+
+NIB (PNA) -Press release 
+
+-Media monitoring and Analytics 
+
+10,800,000.00  
+
+BCS -Production of IEC Materials 
+
+-Set-up of Exhibits, photobooths, and 
+
+interactive kiosks 
+
+-Production of promotional merchandise 
+
+60,000,000.00  
+
+PTNI -Production of broadcast materials 
+
+-Advertising Placements 
+
+42,000,000.00  
+
+PBS-BBS 50,400,000.00  
+
+Mainstream 
+
+Media 
+
+120,600,000.00  
+
+Grand Total   419,563,200.00  
+
+
+
+50 
+ 
+
+As provided in the MOA, the said budgetary requirements shall be transferred 
+
+by the PSA to PCOO under the following terms: 
+
+ 
+
+Tranches Percentage Amount (P) 
+Date of 
+
+Payment 
+Timelines 
+
+1st 50 209,781,600.00  Upon signing of 
+
+the MOA-1st 
+
+Phase 
+
+From April 2019, or 
+
+earlier upon receipt by 
+
+the PCOO of 
+
+thepayment from the 
+
+PSA, until November 
+
+2019 
+
+2nd 30 125,868,960.00  2nd Phase From December 2019 
+
+until May 2020 
+
+3rd 20  83,912,640.00  3rd Phase From June 2020 until 
+
+December 2020 
+
+Total 100 419,563,200.00    
+
+ 
+
+The 1st tranche of P209,781,600.00 was received by the PCOO on June 25, 
+
+2019. As of December 31, 2020, the following amounts were transferred by the 
+
+PCOO to its attached agencies: 
+
+ 
+
+Agency Check No. Date Transferred Amount (P) 
+
+NPO 1010372 November 18, 2019 12,600,000.00 
+
+NIB (PNA) 1010365 November 4, 2019 5,400,000.00 
+
+BCS 1010371 November 18, 2019 30,000,000.00 
+
+PBS-BBS 1010364 October 30, 2019 25,200,000.00 
+
+Total 73,200,000.00 
+
+ 
+
+ 
+
+a)       Idle funds for over a year 
+
+ 
+
+The amount of P93,900,000.00 had been idle in PCOO for more than one year 
+
+due to the non-transfer of funds to PIA and PTNI, and the non-implementation of the 
+
+planned activities for the Mainstream Media, such as media placements in Top TV, 
+
+radio stations and others. 
+
+ 
+
+Of the PSA 1st tranche transferred funds of P209,781,600.00 representing 50 
+
+percent of the approved budget for the PhilSys Project, P93,900,000.00 was allocated 
+
+to PTNI, PIA and to Mainstream Media as shown below: 
+
+ 
+Agency Responsibility Allocation (P) 
+
+PIA -Provincial Roadshows 
+
+-Information kiosks 
+
+12,600,000.00  
+
+PTNI -Production of broadcast materials 
+
+-Advertising Placements 
+
+21,000,000.00  
+
+Mainstream Media 60,300,000.00  
+
+Grand Total   93,900,000.00  
+
+
+
+51 
+ 
+
+It was disclosed, however, in the letter of the Director for Special Projects that 
+
+the allocated fund for PTNI was not transferred by the PCOO because PTNI has yet 
+
+to fully liquidate the prior fund transfers, while the fraud audit being conducted on 
+
+special projects previously handled by PIA prevented PCOO from downloading the 
+
+funds for PhilSys Project to PIA. 
+
+ 
+
+Likewise, the allocated fund for the Mainstream Media was not utilized as at 
+
+year-end, signifying that the related activities have yet to be accomplished. It was 
+
+noted that per report of the PCOO PhilSys Project Team, only few significant 
+
+activities were accomplished for Phase 1 of the project and there was no reported 
+
+activity for the Mainstream Media.  It was explained that the delays in the 
+
+implementation of the planned activities were mainly attributable to the presence of 
+
+the Covid-19 pandemic, specifically from March 2020 to present. However, it is 
+
+noteworthy to mention that as provided in the MOA, the implementation of the first 
+
+phase of the PhilSys Project is from April to November 2019 or for a period of eight 
+
+months.  Considering that the date of receipt by PCOO of the fund from PSA is June 
+
+2019, the expected deliverables/services should have already been accomplished by 
+
+the PCOO and other IAs even before the pandemic. 
+
+ 
+
+It was only on December 10, 2020 that an amended MOA, with validity until 
+
+May 31, 2021, was executed by PSA and PCOO, which contains the major changes 
+
+in the original MOA, cited as follows: 
+
+ 
+
+a. Removed PIA and PTNI; 
+b. Included Presidential Broadcast Staff-Radio Television 
+
+Malacañang (PBS-RTVM) as part of the MOA; 
+
+c. Reallocated the majority of the budget to PBS-BBS, NPO and 
+RTVM; and 
+
+d. Majority of the activities are now digital or will be through digital 
+means due to the pandemic. 
+
+ 
+
+Accordingly, the project fund was reallocated for the following activities and 
+
+timelines: 
+
+ 
+
+Agency Activities Allocation (P) 
+
+PCOO -Overseeing and Implementation of the 
+
+campaign 
+
+-Production and Content 
+
+-Creative and Content Curation 
+
+-Placements and activation 
+
+-Media Planning and Mainstream Media 
+
+Advertising (broadcast – TV and radio, 
+
+newspapers, digital and social media 
+advertising) 
+
+254,163,200.00 
+
+NPO -Printing of IEC Materials 40,200,000.00  
+
+
+
+52 
+ 
+
+Agency Activities Allocation (P) 
+
+NIB (PNA) -Pressrelease 
+
+-Media monitoring and Analytics 
+
+10,800,000.00  
+
+BCS -Production of IEC Materials 
+
+-Set-up of Exhibits, photobooths, and 
+
+interactive kiosks 
+
+-Production of promotional merchandise 
+
+60,000,000.00  
+
+PBS-BBS -Production of broadcast materials 
+
+-Advertising Placements 
+
+52,400,000.00  
+
+PBS-RTVM 2,000,000.00  
+
+Grand Total  419,563,200.00  
+
+ 
+
+Based on the review done, from the time of receipt of fund from PSA in June 
+
+2019 until the end of CY 2020 or for a period of more than one year, a total of 
+
+P93,900,000.00 remained idle in PCOO.  
+
+ 
+
+We recommended that Management: 
+
+ 
+
+a. Accelerate the implementation of the activities for the PhilSys 
+communications campaign throughout the country ensuring that the 
+
+project is completed as planned/scheduled; 
+
+ 
+
+b. Develop other plans/strategies on information campaign appropriate 
+during this pandemic; and 
+
+ 
+
+c. Immediately address the issues/problems that may arise during the 
+project implementation to avoid occurrence of idle funds. 
+
+ 
+
+Management commented that as for the implementation of the communications 
+
+campaign, the PCOO and its attached agencies, as servicing communications 
+
+agencies of the PSA, are highly dependent on the directives and instructions of the 
+
+PSA in the execution of the communications plan.  
+
+ 
+
+Management further explained that in cases when PSA feels that a scheduled 
+
+communication action plan should be deferred or delayed by reason of 
+
+appropriateness or timing, for instance, then the PCOO is left without recourse but 
+
+to accede to the former’s instruction. 
+
+ 
+
+ 
+
+b)      Lack of personnel in the Monitoring Division of PCOO’s PhilSys Project Team 
+
+ 
+
+The PCOO has yet to hire personnel for the Monitoring Division of the PCOO 
+
+PhilSys Project Team; hence, submission of required reports by IAs was not being 
+
+properly monitored. 
+
+ 
+
+
+
+53 
+ 
+
+Item 1, Section II. Responsibilities of the PCOO under General 
+
+Responsibilities of the MOA states that the PCOO shall monitor the implementation 
+
+of the project as regards their attached agencies. Item 3 provides that the PCOO shall 
+
+manage, monitor, and execute, together with the PSA, the implementation of the 
+
+Services under the MOA. It further provides that the PCOO shall: 
+
+ 
+
+(a) Submit to the PSA, on a monthly basis, a liquidation 
+report on all expenses made in relation to the execution of 
+
+activities under the Agreement 
+
+(b) Submit to the PSA, on a monthly basis, progress reports 
+on the undertakings under the Agreement 
+
+ 
+
+In like manner, the MOA entered into by the PCOO with the other IAs requires 
+
+the latter to:  
+
+ 
+
+(a) liquidate to PCOO, on a monthly basis, all expenses made 
+in relations to the execution of activities under the MOA; 
+
+and 
+
+ 
+
+(b) submit to the PCOO on a monthly basis, progress reports 
+for work or projects undertaken relative to the execution 
+
+of the activities of the MOA. 
+
+ 
+
+Based on the submitted organizational chart, the PhilSys Project Team shall be 
+
+composed of seven (7) Divisions, with the following proposed manning and actual 
+
+personnel complement: 
+
+ 
+
+The four personnel under the Monitoring Division are two Information 
+
+Officers, one Information Systems Analyst and one Computer Programmer.  Per 
+
+letter dated November 25, 2020 of the Director for Special Projects in response to 
+
+our Audit Query No. 2020-001, there are still no hired personnel under the 
+
+Monitoring Division. However, no reason was offered why no personnel was hired 
+
+to man the Monitoring Division. 
+
+ 
+
+ Divisions Proposed Actual  
+
+1 Media 1 1 
+
+2 Content – Writers, Creatives, Videos 12 12 
+
+3 Interstitials 5 5 
+
+4 Legal 2 2 
+
+5 External 5 5 
+
+6 Focal 2 2 
+
+7 Admin  5 5 
+
+ – Procurement 5 5 
+
+ – Internal 4 4 
+
+ – Monitoring 4 0 
+
+
+
+54 
+ 
+
+As a consequence, the submission of the required reports by IAs under the 
+
+related MOAs was not monitored, as shown below: 
+
+ 
+
+Agency Months 
+Liquidation Report  
+
+Date Submitted 
+
+Progress Report  
+
+Date Submitted 
+
+Submission to PSA 
+
+PCOO August 2019 September 25, 2019 Instead of monthly 
+
+submission of progress 
+
+report, weekly 
+
+submission of report 
+
+was required by the 
+
+PSA via viber. Copy of 
+
+progress reports were 
+
+submitted to COA 
+
+Audit Team. 
+
+September 
+
+2019 
+
+October 23, 2019 
+
+October 2019 November 15, 2019 
+
+November 
+
+2019 
+
+December 18, 2019 
+
+December 
+
+2019 
+
+January 23, 2020 
+
+January to 
+
+June 2020 
+
+October 2, 2020 
+
+ July to August 
+
+2020 
+
+October 8, 2020 
+
+Submission to PCOO 
+
+NPO 
+
+No data available 
+NIB (PNA) 
+
+PBS-BBS 
+
+BCS 
+
+ 
+
+In the same letter of the Director for Special Projects, it was stated that the 
+
+PCOO is in the process of requesting progress reports from the attached agencies for 
+
+the summary of the deliverables of the project. This is an admission that the 
+
+submission of the monthly reports was not strictly required. 
+
+ 
+
+We recommended that Management require the Director of the PhilSys 
+
+Project Team to give utmost importance to the monitoring of the reports 
+
+required under the MOA with PSA and its attached agencies by:  
+
+ 
+
+a. Assigning personnel in the Monitoring Division; and 
+ 
+
+b. Close monitoring of the submission of the monthly reports by the 
+PCOO to PSA and by the attached agencies to PCOO. 
+
+ 
+
+Management replied that it will direct the official concerned to proceed with 
+
+the hiring of the necessary personnel for the Monitoring Division. In the meantime, 
+
+the official concerned shall temporarily designate existing personnel to perform 
+
+monitoring functions, as required. 
+
+ 
+
+Further, a monitoring tool is being developed by the office of the official 
+
+concerned, in order to implement an effective and seamless monitoring of the outputs 
+
+of the attached agencies. 
+
+
+
+55 
+ 
+
+c)      RDs not supported with documents 
+
+ 
+
+The submitted RDs to the Audit Team were not supported with the necessary 
+
+documents, thus, validity of expenditures could not be ascertained. 
+
+ 
+
+Section 63, items (f) and (i) on the Disbursement for Inter-Agency Transferred 
+
+Funds (IATF), Chapter 6 of GAM, Volume I state that: 
+
+ 
+
+Within ten (10) days after the end of each month/end of the agreed 
+
+period for the Project, the IA shall submit the RCI and the RCDisb 
+
+to report the utilization of the funds. Only actual project expenses 
+
+shall be reported. The reports shall be approved by the Head of 
+
+the IA.  
+
+ 
+
+The implementing agency Auditor shall audit the disbursements 
+
+out of the trust accounts in accordance with existing COA 
+
+Regulations. 
+
+ 
+While Section 4(6) of PD No. 1445 states that: 
+
+ 
+Claims against government funds shall be supported with 
+
+complete documentation. 
+
+ 
+
+As of date, PCOO had submitted to the Audit Team the RDs covering the 
+
+period from August 2019 to October 2020 involving a total amount of P8,016,909.70 
+
+that were charged against the PSA transferred funds, as shown below:  
+
+ 
+
+Month/Year Covered Disbursement (P) Date Submitted to COA 
+
+2019   
+
+August           12,013.00  September 9, 2019 
+
+September  568,733.02  October 2, 2019 
+
+October  572,613.10  November 13, 2019 
+
+November       502,986.04  December 18, 2019 
+
+December     637,619.19  January 8, 2020 
+
+2020     
+
+February to May    3,611,530.86  June 17, 2020 
+
+June          351,194.70  July 16, 2020 
+
+July to August      1,380,412.13  October 7, 2020 
+
+September         766,606.49  October 30, 2020 
+
+October         754,547.29  December 3, 2020 
+
+Total     8,016,909.70    
+
+
+
+56 
+ 
+
+The submitted RDs, however, were not supported with documentary 
+
+requirements applicable to the reported expenditures; thus, validity thereof could not 
+
+be ascertained. 
+
+ 
+
+We recommended that Management require the Chief Accountant to:  
+
+ 
+
+a. immediately submit the necessary documents to support the 
+reported disbursements charged against the PSA transferred funds; 
+
+and 
+
+ 
+
+b.  henceforth, ensure that the succeeding RDs to be submitted to the 
+
+Audit Team are supported with proper documentary requirements.  
+
+ 
+
+Management commits to attach the supporting documents to the submitted RDs 
+
+and to support the succeeding RDs with the necessary documents.  
+
+ 
+
+The Audit Team will continue to monitor the implementation of the PCOO 
+
+activities for the PhilSys communication campaign and will conduct post-audit of the 
+
+related disbursements upon receipt of the transaction documents. 
+
+ 
+
+ 
+
+Hiring of numerous COS personnel 
+
+ 
+
+8. PCOO hired a total of 375 COS personnel in CY 2020 which was 260.42 per cent 
+way above the total number of its regular employees. However, the necessity of 
+
+hiring such number of COS personnel, for which a total amount of 
+
+P70,688,830.39 was spent by PCOO for their salaries, could not be established 
+
+due to absence of the agency’s written policy guidelines on availing the services 
+
+of COS personnel, justification for the need to hire those COS personnel and 
+
+incomplete documentation of DVs.    
+
+ 
+
+As stated in CSC-COA-DBM Joint Circular (JC) No. 1, s. 2017, dated June 5, 
+
+2017, government agencies have been authorized in previous executive issuances and 
+
+general appropriations acts to enter into service contracts with other government 
+
+agencies, private firms, non-government agencies or individuals for services related 
+
+or incidental to their respective functions and operations, whether on a part-time or 
+
+full-time basis.  
+
+ 
+
+Agencies have used this provision as basis for directly hiring individuals on 
+
+contract of service or job order basis to perform specific jobs or to supplement their 
+
+current manpower.  
+
+ 
+
+However, the proliferation of individual JO/COS workers in the government 
+
+and their involvement even in the performance of regular agency functions have been 
+
+observed. 
+
+ 
+
+
+
+57 
+ 
+
+Under CSC-COA-DBM JC No. 1, s. 2018, dated November 9, 2018, to quote:  
+
+ 
+
+11.3 The existing qualified COS and JO workers shall be 
+
+considered for appointment by the government agencies to their 
+
+vacant positions subject to existing Civil Service Law and rules 
+
+and agency CSC approved Merit Selection Plan. Xxx.  
+
+ 
+
+11.4 Government agencies shall review their functions, systems 
+
+and procedures, organizational structure and staffing to determine 
+
+the appropriate human resource complement for their 
+
+programs/activities/projects. The creation of permanent positions 
+
+may be considered for regular functions, while the hiring of casual 
+
+or contractual personnel may be considered for projects and 
+
+activities that are temporary in nature, xxx.  
+
+ 
+
+In CY 2020, PCOO has a total of 523 workforce during the year, composing 
+
+of the following: 
+
+ 
+
+Status of Appointment No.  of Personnel 
+
+Permanent, elective, co-terminus, temporary 144 
+
+Casual/Contractual 4 
+
+Contract of Service (include resigned, terminated 
+or transferred personnel) 
+
+375 
+
+Total 523 
+
+ 
+
+The COS personnel, referred to as Service Provider in the individual contract, 
+
+have the following designations:   
+
+ 
+
+Radio Production Assistant 
+
+Broadcast Presenter 
+
+Videographer 
+
+Consultant 
+
+Graphic Artist 
+
+Production Specialist 
+
+Head Writer 
+
+Executive Assistant 
+
+Scriptwriter 
+
+ 
+
+Information Officer 
+
+Development Manager 
+
+Media Security Assistant 
+
+Public Relations officer 
+
+Writer/Transcriber 
+
+Media Relation Officer 
+
+Public Circulation Officer 
+
+News Monitoring 
+
+Social Media Specialist 
+
+ 
+
+Multi Media Artist 
+
+Project Manager 
+
+Photographer 
+
+Program Researcher 
+
+Production Designer 
+
+Administrative 
+
+Assistant 
+
+Utility Worker 
+
+Driver 
+
+ 
+
+It was noted that the 375 COS personnel account for 71.70 percent of the total 
+
+workforce of the PCOO, with the Office of the Secretary having the greatest number 
+
+of 70 COS personnel in CY 2020. Also, the total number of COS personnel was 
+
+260.42 per cent over the number of PCOO regular employees.    
+
+ 
+
+ 
+
+
+
+58 
+ 
+
+Interview, however, with PCOO officials and employees revealed the following 
+
+information: 
+
+ 
+
+• PCOO has no written policy guidelines on the hiring of employees 
+particularly under contract of services; 
+
+ 
+
+• Identification of individuals to be hired rests directly upon the 
+request of the department heads and other agency officials, and the 
+
+availability of applicants qualified for the requested position; and 
+
+ 
+
+• The request was not supported by a justification for the hiring of COS 
+personnel and the statement of functions to be performed by the said 
+
+personnel  
+
+Moreover, it was noted that the COS accomplishment reports attached to the 
+
+DVs were not reflective of their actual duties/tasks accomplished for a particular 
+
+period since the same were in general statements and the same accomplishments 
+
+were repetitively reported every month.   In addition, accomplishments of COS 
+
+personnel with similar designations were exactly the same with one another.  
+
+Apparently, these are pro-forma accomplishment reports, and only the name and the 
+
+period covered are being changed.  While some of the COS performed functions, 
+
+which were part of the job description of the agency’s existing regular employees.  
+
+ 
+
+Also, the payrolls were not supported with certification by the Personnel 
+
+Officer that the activities/services cannot be provided by regular and permanent 
+
+personnel of the agency to establish the necessity of hiring of COS personnel. 
+
+ 
+
+The Audit Team recognizes the need to augment the agency’s manpower 
+
+complement by way of outsourcing personnel services in the exigency of the service, 
+
+however, a clear definition of the various conditions whereby employment of such 
+
+COS personnel may be availed of is imperative so as to put the practice of hiring 
+
+individuals under COS in its proper perspective given the scarce resources of the 
+
+government.  
+
+ 
+
+Those qualified COS personnel should be considered in filling up the vacant 
+
+regular positions, and redundant or unnecessary COS personnel such as those who 
+
+duplicate the work of regular employees should be cut.  
+
+ 
+
+The unrestricted/massive hiring of COS personnel cost the PCOO a total 
+
+amount of P70,688,830.39 for their salaries during the year, resulting in the depletion 
+
+of government funds which could have been used for other programs and projects of 
+
+the government.   
+
+ 
+
+We recommended that Management:  
+
+ 
+
+a. Submit justification for the hiring of 375 COS personnel; 
+
+
+
+59 
+ 
+
+b. Assess its existing organizational structure so that the ideal number of 
+plantilla items/positions could be established, thereby, avoiding the 
+
+hiring of excessive number of COS personnel;  
+
+ 
+
+c. Develop a written policy guidelines on the hiring of individuals under 
+COS clearly defining the conditions whereby employment of such COS 
+
+personnel may be availed of; 
+
+ 
+
+d. Evaluate the need for the services of COS and ensure that hiring of COS 
+personnel shall be resorted to based on necessity and exigency of the 
+
+service, and refrain from hiring COS whose functions are redundant to 
+
+the functions of existing regular agency employees;   
+
+ 
+
+e. Consider those qualified COS for appointment to the vacant regular 
+plantilla positions in the agency; and  
+
+ 
+
+f.  Require the COS to provide details of the actual duties/tasks 
+accomplished in the monthly accomplishment report to facilitate 
+
+proper evaluation.   
+
+ 
+
+Management Comment: 
+
+ 
+
+Management replied that the hiring was due to the exigency of the need to hire 
+
+additional personnel in order to augment the lack of manpower of the agency. To 
+
+stress out, the delivery of the services of the PCOO especially during the time of the 
+
+pandemic are considered very crucial and the hiring of COS personnel is essential in 
+
+order not to hamper the delivery of its basic services and pursue its mandate which 
+
+is to serve as the premier arm of the Executive Branch in engaging and involving the 
+
+citizenry and the mass media in order to enrich the quality of public discourse on all 
+
+matters of governance and build a national consensus thereon. 
+
+ 
+
+PCOO has implemented a budget cap for each of its unit/office in order to 
+
+regulate its spending especially in hiring COS personnel. In addition, it required the 
+
+submission of organizational structure from each unit/office to assess the current 
+
+manpower complement and only approve request for hiring of COS personnel if 
+
+proven to be necessary, to avoid redundancy of functions among Cos personnel. 
+
+ 
+
+PCOO also clarified that it already issued Office Order No. 0031, Series of 
+
+2020 to prescribe the policies and guidelines covering personnel hired through 
+
+Contract of Service funded under Maintenance and Other Operating Expenses and/or 
+
+other fund sources. The said Order ensures that the request for hiring of COS 
+
+personnel by the requesting Office indicate the justification for hiring of COS 
+
+personnel, source of fund where the salary of the COS Personnel will be charged 
+
+against, updated table of organization, job description of the COS personnel, 
+
+determination whether the COS personnel is office or output based and the 
+
+Certification of Availability of Funds (CAF) before approving the same. 
+
+
+
+60 
+ 
+
+ 
+
+PCOO added that it has opened 34 positions during the current year wherein 
+
+the preference for such positions are qualified current COS and JO personnel, and 
+
+submitted the list of COS personnel who were regularized in the previous years. 
+
+ 
+
+On the preparation of accomplishment reports, PCOO issued Memorandum 
+
+dated June 2, 2021 prescribing the template where the brief description/detailed 
+
+services rendered/actual tasks provided, date accomplished, status and related 
+
+outputs shall be presented by the COS personnel. 
+
+ 
+
+Audit Team’s Rejoinder: 
+
+ 
+
+Management should support the succeeding COS to be submitted to the Audit 
+
+Team with copy of the duly approved request for hiring of COS personnel, 
+
+justification, job description and other pertinent documents as provided in the related 
+
+agency’s guidelines.   
+
+ 
+
+The Audit Team will validate whether the agency’s directive on the 
+
+preparation of the prescribed accomplishment reports is complied with. 
+
+ 
+
+ 
+
+B. Others 
+ 
+
+Gender and Development (GAD) Plans and Programs 
+
+ 
+
+9. Management formulated GAD plans and programs to boost the level of 
+awareness on gender issues and promote gender equality among PCOO 
+
+personnel utilizing only P157,336.00 or 0.04 percent total expenditures contrary 
+
+to Section 31 of the General Provision (GP) of the GAA FY 2020. 
+
+ 
+
+Section 31 of the GP of the GAA FY 2020 (RA No. 11465) requires all 
+
+agencies of the government to formulate a Gender and Development Plan designed 
+
+to address gender issues within their concerned sectors or mandate and implement 
+
+applicable provisions under RA No. 9710, also known as the Magna Carta for 
+
+Women Act, Convention on the elimination of all forms of Discrimination against 
+
+Women, the Philippine Plan for the Gender-Responsive Development (1995-2025) 
+
+and the Philippine Development Plan (2017-2022). 
+
+ 
+
+Moreover, the GAD Plan shall be integrated in the regular activities of the 
+
+agencies, which shall be at least five percent of their budgets.  For this purpose, 
+
+activities currently being undertaken by the agency that can contribute to poverty 
+
+alleviation, economic empowerment especially of marginalized women, protection, 
+
+promotion, and fulfillment of women’s human rights and practice of gender-
+
+responsive governance are considered sufficient compliance with said requirements. 
+
+ 
+
+
+
+61 
+ 
+
+For CY 2020, the PCOO had accomplished the following GAD activities with 
+
+expenditures of P157,336.00: 
+
+ 
+
+GAD Activities Amount (P) 
+
+A.   Client Focused 
+  
+
+  
+
+1 MGEC Meeting on: 
+
+ 
+
+(a) February 3, 2020 at PIA, Quezon City to discuss on action plan 
+
+of each member agencies for 2022 and possible printing of 
+
+Media Fair Guidebook: 
+
+(b) October 1, 2020 via Zoom Meeting for preparation for 18-days 
+
+VAW participation: and  
+
+(c) November 6, 2020 for possibility of producing a GAD film.  
+
+ 
+1,271.00   
+
+            Sub-total   1,271.00 
+  
+
+ 
+
+A. Organization Focused 
+  
+
+      
+
+1 Posting in social media accounts and hanging of official 
+
+banner/streamer in PCOO Facebook and Instagram and Polo shirt 
+
+and face mask for PCOO Officials and Employees.  
+
+  
+
+  138,165.00 
+
+  
+
+2 Seminar for the Law and IRR of the Sale Space Act by Center for 
+
+Global Best Practices on October 15, 2020 via Zoom Meeting  
+
+  17,900.00   
+
+  Sub-total  156,065.00 
+  
+
+Total  157,336.00   
+
+ 
+
+The incurred expenditures for GAD represent 0.04 percent of the agency’s 
+
+budget of P449.10 million for CY 2020. 
+
+ 
+
+We recommended that Management formulate and implement more GAD 
+
+programs/projects and allocate fund therefor of at least five percent of the 
+
+PCOO annual budget in compliance with the General Provisions of the GAA for 
+
+FY 2020 (RA No. 11465). 
+
+ 
+
+ 
+
+Programs/Projects Related to Senior Citizens and Differently-Abled persons 
+
+ 
+
+10. Management had not conducted any program intended to address the concerns 
+of senior citizens and persons with disability, contrary to Section 32, of the 
+
+General Provision of the GAA FY 2020 (RA No. 11465). 
+
+ 
+
+Section 32 of the GP of the GAA of FY 2020 (RA No. 11465) provides that 
+
+“All agencies of the government shall formulate plans, programs and projects 
+
+intended to address the concerns of senior citizens and persons with disability, insofar 
+
+
+
+62 
+ 
+
+as it relates to their mandated functions, and integrate the same in their regular 
+
+activities.” 
+
+ 
+
+We recommended that Management allocate fund for the 
+
+programs/projects related to Senior Citizens and Persons with Disability in 
+
+compliance with the General Provisions of the GAA for FY 2020. 
+
+ 
+
+ 
+
+Disaster Risk Reduction and Management and Climate Change Adaptation 
+
+ 
+
+11. The agency failed to implement a project to address disaster risk reduction 
+management (DRRM) and climate change adaptation, contrary with Section 36, 
+
+General Provisions of GAA 2020. 
+
+ 
+
+Section 36 of the GP of GAA FY 2020 (RA No. 11465) provides that “All 
+
+agencies of the government shall plan and implement programs and projects, taking 
+
+into consideration measures for climate change adaption and mitigation, and disaster 
+
+risk reduction, based on climate and disaster risk assessment. National government 
+
+agencies shall report their climate actions to the Climate Change Commission (CCC) 
+
+for monitoring and evaluation of the implementation of the National Climate change 
+
+Action Plan. xxx All Agencies shall undertake efforts to integrate environmental 
+
+sustainability in their daily activities, systems, processes, and operations, and 
+
+accelerate the greening of their organizational culture and behavior towards reducing 
+
+their carbon footprint, through saving on paper and printing, minimizing the use of 
+
+plastics and food waste, switching to renewable energy, reducing energy and water 
+
+consumption, holding meeting online, and reducing travel emission.” 
+
+ 
+
+ 
+
+Tax Laws 
+
+ 
+
+12. In compliance with DOF-DBM-COA Joint Circular No. 1-200 dated January 3, 2000 
+and Presidential Memorandum Order No. 219 dated February 13, 1989, PCOO 
+
+withheld on salaries and other compensations and on the procurement of goods and 
+
+services totaling P23,293,967.39, of which P20,773,782.55 was remitted to the 
+
+Bureau of Internal Revenue (BIR) through Tax Remittance Advice (TRA). The 
+
+balance of P2,520,184.84 was remitted on January 13, 2021. 
+
+ 
+
+ 
+
+GSIS Premium Deductions and Remittances  
+
+ 
+
+13. PCOO complied with the deductions of GSIS premiums from the salaries of its 
+officials and staffs and its timely remittances to the GSIS in accordance with RA No. 
+
+8291.  The GSIS premiums in CY 2020 amounted to P13,228,800.36 with a total 
+
+remittance of P11,908,709.49, leaving a balance of P1,320,090.87 which was 
+
+remitted on January 11, 2021. 
+
+ 
+
+
+
+63 
+ 
+
+Pag-IBIG Fund Law 
+
+ 
+
+14. The PCOO had complied with the requirements under RA No. 9679, known as the 
+HDMF Law of 2009 on the prompt remittance of HDMF contributions and loan 
+
+amortizations deducted from salaries of its employees totaling P541,382.36 with a 
+
+total remittance of P501,500.00, leaving a balance of P39,882.36 which was remitted 
+
+on January 11, 2021. 
+
+ 
+
+ 
+
+PhilHealth Law 
+
+ 
+
+15. The monthly premium contributions amounting P2,051,176.06 of the officers and 
+employees were promptly remitted by the agency totaling to P1,871,905.11to the 
+
+PhilHealth in compliance with RA No. 10606, otherwise known as An Act Amending 
+
+RA No. 7875, otherwise known as National Health Insurance Act of 1995, as 
+
+amended, and for Other Purposes leaving a balance of P179,270.95 which was 
+
+remitted on January 14, 2021. 
+
+ 
+
+ 
+
+Property Insurance Law 
+
+ 
+
+16. In compliance with Government Insurance Fund (GIF) of the GSIS as required under 
+RA No. 656, as amended, known as the “Property Insurance Law”, PCOO has 
+
+adequately covered/insured all its insurable properties for CY 2020. 
+
+ 
+
+ 
+
+COVID-19 Fund and expenses 
+
+ 
+
+17. The PCOO had disbursed the total amount of P12,567,408.78 for the payment, 
+among others, of the Hazard Pay, RT PCR test, sanitizer, surgical mask, face shields, 
+
+disinfectant and other personal protective equipment charged to its regular budget 
+
+during CY 2020. Said disbursements were found in order. 
+
+ 
+
+ 
+
+National Task Force to End Local Communist Armed Conflict (NTF-ELCAC) 
+
+ 
+
+18. The PCOO was not a recipient of NTF-ELCAC fund nor incurred expenses for said 
+purpose utilizing its regular budget in CY 2020.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+64 
+ 
+
+Dormant Accounts 
+
+ 
+
+19. Summary of the dormant accounts of PCOO and their corresponding details are 
+shown below: 
+
+ 
+
+ 
+
+Account 
+Amount of 
+
+Dormant (P) 
+
+No. of 
+
+Years 
+
+Dormant 
+
+Reason for 
+
+being 
+
+dormant 
+
+Action Taken 
+
+by ATLs 
+
+Action Taken 
+
+by 
+
+Management 
+
+Other 
+
+Remarks 
+
+Due from 
+
+NGAs 
+
+83,646,488.58 Over 3 to 
+
+9 years 
+
+Lack of 
+
+documents to 
+
+support the 
+
+liquidation 
+
+by PTNI of 
+
+the PCOO 
+
+transferred 
+
+funds 
+
+For continuous 
+
+monitoring. 
+
+With demand 
+
+letter dated 
+
+August 7, 2020  
+
+None 
+
+Other 
+
+Receivables 
+
+297,087.05 Over 3 to 
+
+9 years 
+
+Pertains to 
+
+the cash 
+
+shortage 
+
+found in the 
+
+cash 
+
+examination 
+
+of the cash 
+
+and accounts 
+
+of former 
+
+cashier of 
+
+which 
+
+warrant of 
+
+arrest was 
+
+already 
+
+issued by the 
+
+court. 
+
+Advised 
+
+Management 
+
+to exert efforts 
+
+to trace latest 
+
+address of the 
+
+AO. 
+
+Efforts were 
+
+exerted but can 
+
+no longer trace 
+
+the address of 
+
+the AO. 
+
+AO was 
+
+absent 
+
+without 
+
+leave 
+
+(AWOL) 
+
+Total 92,643,575.63      
+
+ 
+
+ 
+
+Status of Settlement of Audit Suspensions, Disallowances, and Charges 
+
+ 
+
+20. There were no Notices of Suspension, Disallowance and Charges issued in CY 2020. 
+ 
+
+ 
+
+Fund Utilization 
+
+ 
+
+21. Summary of the utilization of funds for projects, programs and activities 
+implemented by the PCOO for CYs 2018, 2019 and 2020, as lifted from the 
+
+SAAODB as of December 31, 2020 are shown on the next page: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+65 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Details of the above summary are provided in Annex D. 
+
+Particular 
+
+Amount (P) 
+
+(in Millions) 
+
+2018 2019 2020 
+
+Appropriations 279.049 465.653 436.320 
+
+Allotments 279.049 463.654 401.320 
+
+Disbursements 277.545 329.228 307.303 
+
+Percentage of Disbursement Over 
+
+Allotments 
+
+99.46 71 76.57 
+
+Percentage of Physical 
+
+Accomplishment 
+
+97.46 90.75 85.64 
+
+

@@ -1,0 +1,4967 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+29 
+ 
+
+Part II – OBSERVATIONS AND RECOMMENDATIONS 
+
+ 
+Financial Audit 
+
+1. Various accounts of the Inter-Country Adoption Board (ICAB) under the 
+Liabilities and Equity categories were misstated by the same amount of P0.248 million, 
+
+representing 1.26 percent and 1.30 percent of its total Liabilities and total Equity, 
+
+respectively. 
+
+  
+
+2. Section 111 of PD 1445 requires that the accounts of an agency shall be kept in 
+such detail as necessary to meet the needs of the agency and at the same time be adequate 
+
+to furnish the information needed by fiscal or control agencies of the government. It further 
+
+states that the highest standards of honesty, objectivity and consistency shall be observed 
+
+in the keeping of accounts to safeguard against inaccurate or misleading information. 
+
+ 
+
+3. Section 15, Chapter 2 of the Government Accounting Manual (GAM) for National 
+Government Agencies (NGAs), Volume I, provides that: “the FSs shall present fairly the 
+
+financial position, financial performance and cash flows of an entity. Fair presentation 
+
+requires the faithful representation of the effects of transactions, other events, and 
+
+conditions in accordance with the definitions and recognition criteria for assets, liabilities, 
+
+revenue, and expenses set out in PPSAS. The application of PPSAS, with appropriate 
+
+disclosures, if necessary, would result in fair presentation of the FS.” 
+
+ 
+
+4. Volume III of the GAM for NGAs provides the Revised Chart of Accounts (RCA) 
+to be used by NGAs in recording transactions.   
+
+ 
+
+5. Verification of the Journal Entry Vouchers (JEVs), Disbursement Vouchers (DVs), 
+Liquidation Reports (LRs), Bank Reconciliation Statements (BRSs) and supporting 
+
+documents of the ICAB disclosed accounting errors/omissions; thereby, affecting the 
+
+accuracy and reliability of the account balances as shown in Table 1. 
+
+ 
+Table 1. Summary of Accounting Errors and Omissions per Finding 
+
+  
+
+Errors/ Omissions 
+
+Amounts in Php of (Over)/Understatement 
+
+Standard 
+Assets Liabilities 
+
+Net Assets/ 
+Equity  
+
+A.      Unrecorded Transactions 
+
+Unrecorded/unadjusted cancelled 
+checks of prior and current years  
+
+  247,500.00 (247,500.00) 
+Section 44, Chapter 6 of 
+
+GAM, Volume I 
+
+B.      Erroneous recording of Transactions 
+
+B.1 Improper recognition of prior 
+year’s expenses paid out of the 
+PCF and CA 
+
+  
+  
+
+  
+  
+
+6,616.04 Section 2a, Chapter 2 of 
+GAM, Volume I (6,616.04) 
+
+
+
+30 
+ 
+
+Errors/ Omissions 
+
+Amounts in Php of (Over)/Understatement 
+
+Standard 
+Assets Liabilities 
+
+Net Assets/ 
+Equity  
+
+B.2  Erroneous recording of prior and 
+current year transactions 
+
+  
+  
+
+  
+  
+
+(285,370.00) Paragraph 27 of PPSAS 1; 
+COA Circular No.2020-001 285,370.00 
+
+NET MISSTATEMENTS - 247,500.00 (247,500.00)   
+
+A = L + E - -   
+
+TOTAL ACCOUNTING ERRORS/ 
+OMISSIONS IN ABSOLUTE 
+AMOUNT 
+
+- 247,500.00 247,500.00  
+
+FINACIAL STATEMENTS 
+BALANCES 
+
+38,697,100.29 19,668,586.14  19,028,514.15    
+
+PERCENTAGE OF ERRORS/ 
+OMISSIONS 
+
+- 1.26% 1.30%   
+
+ 
+
+A. Unrecorded Transactions 
+ 
+
+Unrecorded/unadjusted cancelled checks of prior and current years -P247,500.00 
+
+ 
+
+6. Treasury Circular No. 03-2017 dated October 20, 2017 issued the guidelines and 
+transitory provisions with regard to the reduction in the expiry period of MDS checks from 
+
+six (6) months to three (3) months from date of issue and specifically provides that:  
+
+ 
+
+Section 4.2.3 Other commercial banks shall not accept MDS checks for clearing 
+
+and/or negotiation beyond the three months’ validity period from issuance date. 
+
+ 
+
+Section 5 MDS checks to be issued starting January 2, 2018 shall already indicate 
+
+“VALID FOR THREE MONTHS FROM DATE OF ISSUE” 
+ 
+
+7. Section 44 of Chapter 6 of the GAM, Volume I provides the Accounting for 
+Cancelled Checks and states that: 
+
+ 
+
+“Checks may be cancelled when they become stale, voided or spoiled. xx”  
+
+ 
+
+A stale, voided or spoiled check shall be marked cancelled on its face and 
+
+reported as follows: 
+
+ 
+
+a. Voided, spoiled or unclaimed stale checks with the Cashier shall be reported 
+as cancelled in the List of Unreleased Checks that will be attached to the 
+
+RCI. 
+
+ 
+
+b. New checks may be issued for the replacement of stale/spoiled checks in the 
+hands of the payees or holders in due course, upon submission of the 
+
+stale/spoiled checks to the Accounting Division/Unit. A certified copy of the 
+
+
+
+31 
+ 
+
+previously paid DVs shall be attached to the request for replacement. A JEV 
+
+shall be prepared to take up the cancellation. The replacement check shall 
+
+be reported in the RCI. 
+ 
+
+8. The accounting entries provided for the cancellation and replacement of 
+cancelled/staled checks are illustrated as follows: 
+
+ 
+
+a. Cancellation and Replacement of Stale/Voided MDS check issued in the 
+current year 
+
+ 
+
+Cash – MDS, Regular             xx 
+
+ Accounts Payable  xx 
+
+(To recognize the cancellation of stale/voided/spoiled MDS checks) 
+
+ 
+
+Accounts Payable             xx 
+
+ Cash – MDS, Regular  xx 
+
+(To recognize the replacement of stale/voided/spoiled MDS checks) 
+
+ 
+
+Cash – MDS, Regular             xx 
+
+ Appropriate Account  xx 
+
+ (To recognize the cancellation of stale/voided/spoiled MDS checks 
+
+without replacement) 
+ 
+
+b. Cancellation and Replacement of Stale/Voided MDS check issued in the 
+prior year 
+
+ 
+
+Accumulated Surplus/(Deficit)   xx 
+
+Accounts Payable   xx 
+
+(To recognize the cancellation of stale/voided/spoiled MDS checks) 
+
+Accounts Payable             xx 
+
+ Cash – MDS, Regular  xx 
+
+(To recognize the replacement of stale/voided/spoiled MDS checks) 
+
+ 
+
+Accumulated Surplus/(Deficit)            xx 
+
+ Appropriate Account   xx 
+
+(To recognize the cancellation of stale/voided/spoiled MDS checks 
+
+without replacement) 
+
+ 
+
+9. Review of the submitted BRS in CY 2020 disclosed that prior and current years 
+cancelled/stale checks totaling ₱250,200.00 were not recorded/adjusted in the books of 
+
+accounts, the details of which are presented in the table below: 
+
+ 
+
+Table 2. Summary of unrecorded prior and current years cancelled/stale checks 
+ 
+
+Check No. 
+Original Issue 
+
+Date 
+Amount 
+
+1031764 12/26/2019 ₱   247,500.00 
+
+
+
+32 
+ 
+
+Check No. 
+Original Issue 
+
+Date 
+Amount 
+
+1031792 03/06/2020 2,700.00 
+
+TOTAL  ₱   250,200.00 
+ 
+
+10. Table 3 shows the comparison between the accounting entries made and the audit 
+
+entries, to wit: 
+ 
+
+Table 3. Comparison between per Accounting and per Audit journal entries 
+ 
+
+Date Particulars Accounting entries per ICAB’s records Accounting entries per Audit 
+
+1) Check No. 1031764 (₱247,500.00) 
+
+December 26, 
+
+2019 
+
+Payment for the update 
+
+on PISICA Phase II 
+
+Other Professional Services  275,000.00 
+         Due to BIR                          27,500.00 
+         Cash – MDS Regular        247,500.00 
+ 
+
+same 
+
+March 2020 
+Check became       
+
+stale-dated No entry 
+
+Accumulated Surplus/(Deficit)   247,500.00 
+            Accounts Payable             247,500.00 
+ 
+
+2) Check No. 1031792 (₱2,700.00) 
+
+March 06, 
+
+2020 
+
+Payment for the 
+
+services rendered as 
+
+resource person for the 
+
+ICA Training Region III 
+
+Other Professional Services     3,000.00 
+          Due to BIR                              300.00 
+          Cash – MDS Regular           2,700.00 
+ 
+
+same 
+
+June 2020 
+
+Check becomes stale-
+
+dated and cash 
+
+allotment has lapsed 
+No entry 
+
+Cash – MDS Regular            2,700.00 
+          Accounts Payable                2,700.00 
+
+Subsidy from Nat’l Govt         2,700.00 
+          Cash MDS – Regular           2,700.00 
+
+August 31, 
+
+2020 
+
+To record reversing 
+
+entry for cancelled 
+
+check 
+
+Subsidy from Nat’l Govt         2,700.00 
+          Other Prof. Services           2,700.00 
+
+No entry 
+
+September 
+
+29,2020 
+
+Replacement of stale 
+
+check 
+
+Other Professional Services     3,000.00 
+          Due to BIR                              300.00 
+          Cash – MDS Regular           2,700.00 
+ 
+
+Accounts Payable                 2,700.00 
+            Cash MDS – Regular         2,700.00 
+
+October 31, 
+
+2020 
+Adjusting entry Due to BIR                 300.00 
+
+        Other Prof. Services           300.00 
+No entry 
+
+ 
+
+11. As can be gleaned from Table 3, the unrecorded adjustment for Check No. 1031764 
+amounting to ₱247,500.00 resulted in the understatement and overstatement of the 
+
+Accounts Payable and Accumulated Surplus/(Deficit) accounts, respectively, by the same 
+
+amount.  
+
+
+
+33 
+ 
+
+ 
+
+12. On the other hand, while the various discrepancies in the accounting entries noted 
+under Check No. 1031792 amounting to ₱2,700.00 did not result in errors in the books 
+
+because these were corrected in the succeeding months, these still created unnecessary 
+
+entries that could affect the reliability of account balances at a specific period.    
+
+ 
+
+13. We recommended and Management agreed to require: 
+ 
+
+a. The Cashier to report cancelled and stale checks in the List of Unreleased 
+Checks and attach the same to the RCI for these to be recorded/adjusted 
+
+in the books; and   
+
+ 
+
+b. The Accountant to make the necessary adjusting entries in the books of 
+accounts to reflect the correct balances of the affected accounts, and 
+
+henceforth, record any cancelled/stale checks in order to present the 
+
+accurate value of cash and the corresponding liabilities in the books. 
+
+ 
+
+B.  Erroneous recording of Transactions 
+
+ 
+
+B.1 Improper recognition of prior year’s expenses paid out of the Petty Cash Fund 
+
+(PCF) and Cash Advance (CA) – Ᵽ6,616.04 
+
+ 
+
+14. Section 2a, Chapter 2, Volume 1 of the GAM for NGAs defines Accrual basis as a 
+basis of accounting under which transactions and other events are recognized when they 
+
+occur (and not only when cash or its equivalent is received or paid). Therefore, the 
+
+transactions and events are recognized in the accounting records and recognized in the 
+
+financial statements of the periods to which they relate. The elements recognized under 
+
+accrual accounting are assets, liabilities, net assets/equity, revenue, and expenses. 
+
+ 
+
+15. Reimbursements of expenses totaling ₱6,616.04 paid out of the PCF and CA of one 
+(1) Accountable Officer (AO) in CY 2019 were recognized or recorded in the books of 
+
+accounts as CY 2020 expenses, with details as follows: 
+
+ 
+Table 4. Prior year’s (CY 2019) expenses recognized in CY 2020 
+
+ 
+
+Date Particulars Amount Remarks 
+
+02/05/2020 
+Reimbursement of expenses in 
+excess of CA for Nov 12-Dec 27, 
+2019 
+
+₱5,110.65 
+Recorded as Other Supplies and 
+Materials Expenses 
+
+07/22/2020 
+Reimbursement of expenses. re: 
+Year-End convocation for CY 
+2019 
+
+1,505.39 
+Recorded as Other Maintenance 
+and Operating Expenses 
+
+TOTAL  ₱6,616.04  
+
+ 
+
+16. The non-recognition of these expenses was due to the non-submission by the AO 
+to the Accounting Unit of the documents pertaining to year-end expenses incurred as of 
+
+
+
+34 
+ 
+
+CY 2019 that were paid out of the PCF and the delayed liquidation of her CA in December 
+
+2019. 
+
+ 
+
+17. As a result, the related prior year and current year’s expenses were understated and 
+overstated, respectively, by the same amount of ₱6,616.04. 
+
+ 
+
+18. We recommended and Management agreed to require the AO to submit to the 
+Accounting Unit the documents related to the disbursements made out of the PCF 
+
+with a summary of expenses incurred as of year-end from the last replenishment for 
+
+recording purposes and proper recognition of the period to which it relates. 
+
+ 
+
+19. We also recommended that Management, henceforth, observe and strictly 
+apply the proper accounting of transactions under the accrual basis method. 
+
+ 
+
+B.2 Erroneous recording of prior and current year transactions - Ᵽ285,370.00 
+
+ 
+
+20. Paragraph 27 of PPSAS 1 states that: 
+ 
+
+“Financial statements shall present fairly the financial position, financial 
+
+performance, and cash flows of an entity. Fair presentation requires the faithful 
+
+representation of the effects of transactions, other events, and conditions in 
+
+accordance with the definitions and recognition criteria for assets, liabilities, 
+
+revenue, and expenses set out in PPSASs. Xxx” 
+
+ 
+
+21. COA Circular No. 2020-001 dated January 8, 2020 prescribes the adoption of the 
+updated Volume III - Revised Charts of Accounts of the GAM for National Government 
+
+Agencies and provides for the following definition of accounts: 
+
+ 
+Table 5. Definition of Accounts per GAM Volume III 
+
+ 
+
+Account Name Description 
+
+Accumulated 
+Surplus/(Deficit) 
+
+This account is used to recognize the cumulative results of normal and 
+continuous operations of an agency including prior period 
+adjustments, effect of changes in accounting policy and other capital 
+adjustments. Xxx. 
+
+Training Expenses This account is used to recognize the costs incurred for the 
+participation/ attendance in and conduct of trainings, conventions and 
+seminars/workshops. It includes training fees, honoraria of lecturers, 
+cost of handouts, supplies, materials, meals, snacks and all other 
+training related expenses. Xxx. 
+
+Consultancy Services This account is used to recognize the cost of services rendered by 
+consultants contracted to perform particular outputs or services 
+primarily advisory in nature and requiring highly specialized or 
+technical expertise which cannot be provided by the regular staff of the 
+agency. Xxx. 
+
+Other Professional 
+Services 
+
+This account is used to recognize the cost of other professional 
+services contracted by the agency not otherwise classified under any 
+of the specific professional services accounts. Xxx. 
+
+
+
+35 
+ 
+
+ 
+
+22. Audit of the Training Expenses, Consultancy Services and Other Professional 
+Services accounts in CY 2020 disclosed that various transactions recorded under the said 
+
+accounts amounting to ₱103,040.00, ₱193,600.00 and ₱486,936.48, respectively, were 
+
+improperly classified which are inconsistent with the definitions provided under Volume 
+
+III of the GAM due to the failure of the Accountant to thoroughly review the correctness 
+
+of the journal entries before recording in the books of accounts. Details are presented in 
+
+the Tables 6, 7 and 8 below:  
+
+ 
+
+    Table 6. Transactions erroneously recorded under Training Expenses account 
+
+ 
+
+Particulars 
+Reference 
+
+No. 
+Amount Accounts Affected 
+
+Payment for Third Party 
+Audit on ISO in CY 2019 
+
+1031772 ₱51,520.00 
+Accumulated Surplus/Deficit 
+(Consultancy Services) 
+
+Payment for Third Party 
+Audit on ISO in CY 2020 
+
+1036687 51,520.00 Consultancy Services  
+
+TOTAL  ₱103,040.00  
+
+ 
+  Table 7. Transactions erroneously recorded under Consultancy Services account 
+
+ 
+
+Particulars 
+Reference 
+
+No. 
+Amount Accounts Affected 
+
+Liquidation of payroll for 
+Honorarium of ICPC for 
+the period Dec 1-31, 2019 
+
+01-01-20 ₱22,000.00 
+
+Accumulated Surplus/Deficit 
+(Consultancy Services) 
+ 
+
+Liquidation of payroll for 
+Honorarium of ICPC for 
+the period October 1-31, 
+2019 
+
+01-02-20 41,800.00 
+
+Liquidation of payroll for 
+Honorarium of ICPC for 
+the period November 1-30, 
+2019 
+
+01-03-20 33,000.00 
+
+Adjusting entry for 
+erroneous recording of 
+setting-up Due to Officers 
+& tax Deductions (Due to 
+BIR) account. 
+(Understatement of 2019 
+Transaction) 
+
+JEV#2020-
+08-07 
+
+96,800.000 
+
+TOTAL  ₱193,600.00  
+
+ 
+Table 8. Transactions erroneously recorded under Other Professional Services account 
+
+Particulars 
+Reference 
+
+No. 
+Amount Accounts Affected 
+
+Liquidation of Cash 
+advance for the payment 
+
+01-04-20 ₱8,250.00 
+Accumulated Surplus/Deficit 
+ (Other Professional Services) 
+
+
+
+36 
+ 
+
+Particulars 
+Reference 
+
+No. 
+Amount Accounts Affected 
+
+of assessed/reviewed 
+applicants to ICPC for the  
+period November 1-30, 
+2019 
+
+ 
+
+Payment for the services 
+rendered as ISO 
+Consultant in FY 2019 
+
+101101-20-35 32,000.00 
+
+Payment as Resource 
+Person 
+
+1031792 3,000.00 
+
+Training Expenses 
+
+Resource Person/ 
+facilitator for the ICA 
+Training 
+
+1031800 3,000.00 
+
+Resource Person/ 
+facilitator for the ICA 
+Training 
+
+1036601 3,000.00 
+
+Resource Person/ 
+facilitator for the ICA 
+Training 
+
+1036602 5,000.00 
+
+Payment as Resource 
+Person re: Region III ICA 
+Training 
+
+1036643 3,000.00 
+
+Facilitator re: Competency 
+Based Human Resource 
+System 
+
+101101-20-
+225 
+
+197,310.96 
+
+Payment for services 
+rendered as resource 
+person re: webinar on 
+writing first aid online 
+english review 
+
+1036679 39,000.00 
+
+Payment of Services as 
+Resource Person for the 
+Webinar Capacity Building 
+Training for Social 
+Workers 
+
+1036690 7,187.76 
+
+Payment of Services as 
+Resource Person for the 
+Webinar Capacity Building 
+Training for Social 
+Workers 
+
+1036691 7,187.76 
+
+Payment to provide 
+guidance to the secretariat 
+and determine whether 
+professional intervention is 
+necessary 
+
+1036642 2,000.00 
+
+Consultancy Services 
+
+Partial payment for 
+services as consultant for 
+3rd party QMS 
+
+101101-20-
+286 
+
+112,000.00 
+
+
+
+37 
+ 
+
+Particulars 
+Reference 
+
+No. 
+Amount Accounts Affected 
+
+Consultant for PAC: 
+Angelique Zabala & Aileen 
+Sanchez 
+
+101101-20-
+319 
+
+4,000.00 
+
+ISO consultant for 3rd 
+party audit to cert. ISO 
+9001:2015 
+
+101101-20-
+332 
+
+61,000.00 
+
+TOTAL  ₱486,936.48  
+
+ 
+
+23. The erroneous recording and misclassification of accounts pertaining to the above 
+transactions affected the balances of various related expense accounts that resulted in the 
+
+(over)/understatement of account balances appearing in the financial statements, as 
+
+summarized below: 
+
+ 
+Table 9. Summary of erroneous recording of expenses 
+
+Reference No. 
+Accumulated 
+
+Surplus/ 
+(Deficit) 
+
+Training 
+Expenses 
+
+Consultancy 
+Services 
+
+Other 
+Professional 
+
+Services 
+
+1031772 (51,520.00) (51,520.00)   
+
+1036687  (51,520.00) 51,520.00  
+
+01-01-20 (22,000.00)  (22,000.00)  
+
+01-02-20 (41,800.00)  (41,800.00)  
+
+01-03-20 (33,000.00)  (33,000.00)  
+
+2020-08-07 (96,800.00)  (96,800.00)  
+
+01-04-20 (8,250.00)   (8,250.00) 
+
+101101-20-35 (32,000.00)   (32,000.00) 
+
+1031792  3,000.00  (3,000.00) 
+
+1031800  3,000.00  (3,000.00) 
+
+1036601  3,000.00  (3,000.00) 
+
+1036602  5,000.00  (5,000.00) 
+
+1036643  3,000.00  (3,000.00) 
+
+101101-20-225  197,310.96  (197,310.96) 
+
+1036679  39,000.00  (39,000.00) 
+
+1036690  7,187.76  (7,187.76) 
+
+1036691  7,187.76  (7,187.76) 
+
+1036642   2,000.00 (2,000.00) 
+
+101101-20-286   112,000.00 (112,000.00) 
+
+101101-20-319   4,000.00 (4,000.00) 
+
+101101-20-332   61,000.00 (61,000.00) 
+
+TOTAL (285,370.00) 164,646.48 36,920.00 (486,936.48) 
+
+ 
+
+24. As a result of the above erroneous recordings made, there was an understatement 
+of Training Expenses and Consultancy Services accounts by ₱164,646.48 and ₱36,920.00, 
+
+respectively, and overstatement of Accumulated Surplus/(Deficit) and Other Professional 
+
+Services accounts by ₱285,370.00 and ₱486,936.48, correspondingly. 
+
+ 
+
+
+
+38 
+ 
+
+25. Misclassification of accounts shows lapses in internal controls in the recording of 
+transactions. It also implies laxity in the review of the journal entries prior to the recording 
+
+of transactions in the books. Thus, transactions were not faithfully represented in the 
+
+Statement of Financial Performance, which affected the fair presentation of the accounts 
+
+and transactions in the FS taken as a whole. 
+
+ 
+
+26. We recommended and Management agreed to require the Accountant to: 
+
+ 
+
+a. make the necessary adjustments/correcting entries in the books of accounts 
+to reflect the correct balances of the affected accounts; and  
+ 
+
+b. strengthen the financial control systems to ensure that all transactions are 
+properly recorded in the books of accounts in the periods to which they 
+
+relate. 
+
+ 
+
+Accounting Deficiencies 
+
+ 
+
+27. Various accounting deficiencies totaling ₱23.917 million were also noted in the 
+recording of the transactions of various accounts that have impact on the fairness of 
+
+presentation of the balances of the accounts in the FSs as summarized in Table 10.  
+
+ 
+Table 10. Summary of Accounting Deficiencies 
+
+Deficiency 
+Accounts 
+Affected 
+
+Amount Criteria 
+
+a. Unreconciled balances between 
+books and RPCPPE 
+
+Various PPE 21,135,234.52 
+
+Section 58 of PD 1445; Sections 
+38, 40, 42, Chapter 10 of GAM 
+Volume I; Section 10, Chapter 8 of 
+GAM, Volume I 
+
+b. Discrepancies in the Receipts and 
+Payments portion of the Statement 
+of Comparison of Budget and 
+Actual Amounts (SCBAA) and 
+Statement of Cash Flows (SCF) 
+
+Various Income 
+and Expenses 
+
+1,176,617.43 
+Section 28, Chapter 2; Sections 
+26,27, 28 and 31, Chapter 3 of 
+GAM, Volume I 
+
+c. Unreconciled discrepancies 
+between the Financial Statements 
+(FS) and Financial Accountability 
+Reports (FARs) 
+
+Various Expense 
+Accounts 
+
+1,603,895.05 Section 31, Chapter 3 of GAM, 
+Volume I 
+
+d. Unreconciled balances between 
+books and Report on Physical 
+Count of Inventory (RPCI)/ 
+inventory report/records 
+
+Office Supplies 
+and 
+
+ Other Supplies 
+and Materials 
+
+Inventory 
+
+1,471.90 Sections 13 and 17 of GAM, 
+Volume I 
+
+TOTAL AMOUNT  23,917,218.90  
+
+ 
+
+a. Unreconciled balances between the books and the RPCPPE - ₱21,135,234.52 
+ 
+
+ 
+
+
+
+39 
+ 
+
+28. Section 58 of Presidential Decree (PD) No. 1445 states that – 
+ 
+
+The examination and audit of assets shall be performed with a view to 
+
+ascertaining their existence, ownership, valuation and encumbrances as well 
+
+as the propriety of items composing the respective asset accounts, determining 
+
+their agreement with records; proving the accuracy of such records; 
+
+ascertaining if the assets were utilized economically, efficiently and effectively; 
+
+and evaluating the adequacy of controls over the accounts. 
+ 
+
+29. Chapter 10 of the GAM, Volume I, provides the following pertinent provisions: 
+ 
+
+Sec. 38. Physical Count of PPE. The entity shall have a periodic physical count 
+
+of PPE, which shall be done annually and presented on the Report on the 
+
+Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 73) as 
+
+at December 31 of each year. This shall be submitted to the Auditor concerned 
+
+not later than January 31 of the following year. Equipment found at station and 
+
+losses discovered during the physical count shall be reported to the Accounting 
+
+Division/Unit for proper accounting/recording.  
+
+ 
+
+Sec. 40 d. Idle, Unserviceable and Fully Depreciated PPE. All unserviceable 
+
+property shall be reported in the Inventory and Inspection Report of 
+
+Unserviceable Property (IIRUP) (Appendix 74). PPE reported in the IIRUP 
+
+shall be dropped from the books by debiting Impairment Loss-Property, Plant 
+
+and Equipment (cost of the PPE less Accumulated Depreciation). 
+
+ 
+
+Sec. 42. Accounting and Property Records to be maintained for PPE. The 
+
+Chief Accountant shall maintain the PPELC for each category of PPE 
+
+including work and other animals, livestock etc. The PPELC shall be kept to 
+
+record promptly the acquisition, description, custody, estimated useful life, 
+
+depreciation, impairment loss, disposal and other information about the asset. 
+
+For check and balance, the Property and Supply Office/Unit shall likewise 
+
+maintain PC for PPE in their custody to account for the receipt and disposition 
+
+of the same. The balance per PC shall be reconciled with PPELC maintained 
+
+by the Accounting Division/Unit. They shall also be reconciled with other 
+
+property records like PAR. 
+
+ 
+
+The following are the forms/reports necessary to account for PPE: 
+
+  
+
+ d. Property Card (Appendix 69) – this card shall be used by the 
+
+Supply and/or Property Division/Unit to record the description, 
+
+acquisition, transfer, disposal, and other information about the PPE. 
+
+It shall be kept for each class of PPE  
+
+ 
+
+e. Property, Plant and Equipment Ledger Card (Appendix 70)– this 
+
+card shall be used for each class of PPE to record the acquisition, 
+
+description, custody, estimated life, depreciation, impairment, 
+
+disposal, transfer/adjustment, repair history and other information 
+
+
+
+40 
+ 
+
+about the property. It shall be kept and maintained by the Accounting 
+
+Office/Unit.  
+
+ 
+
+g. Report on the Physical Count of Property, Plant and Equipment 
+
+(Appendix 73) – this form shall be used to report the physical count 
+
+and condition of PPE by type as at a given date, including those which 
+
+are unrecorded and those which could not be accounted for. It shows 
+
+the balance of PPE per property cards and per count and the 
+
+shortage/overage, if any. It shall be rendered by the Inventory 
+
+Committee, on its yearly physical count of properties owned by the 
+
+entity.  
+
+ 
+
+30. In addition, Section 10, Chapter 8 of the GAM, Volume I states the following 
+guidelines relating to Semi-Expendable Properties: 
+
+ 
+
+Sec. 10. Semi-expendable Property. Tangible items below the capitalization 
+
+threshold of ₱15,000 shall be accounted as semi-expendable property. The 
+
+following policies apply as follows:  
+
+ 
+
+a. Semi-expendable properties which were recognized as PPE shall 
+
+be reclassified to the affected accounts. 
+
+ 
+
+ b. These tangible items shall be recognized as expenses upon issue to 
+
+the end-user. 
+
+ 
+
+31. Furthermore, Appendix 70(D) - Instructions on the PPELC of the GAM, Volume 
+
+II, emphasized that: 
+
+ 
+
+“A. The PPELC shall be reconciled with the report on the physical count of 
+
+PPE, PC and the control accounts. Any discrepancy shall be immediately 
+
+verified and adjusted.” 
+
+ 
+
+32. The conduct of physical inventory of properties and equipment is one way of 
+attesting the physical existence of properties and serves as basis for preparing accounting 
+
+reports. The RPCPPE is the form used to report on the physical count of PPE by types 
+
+which are owned by the agency. 
+
+ 
+
+33. The Management, through the Inventory Committee, conducted the CY 2020 
+physical inventory of its PPE, the result of which is contained in the Report of Physical 
+
+Count of Property, Plant and Equipment (RPCPPE) as of December 31, 2020.  Comparison 
+
+between the accounting records and the result of the RPCPPE showed an unreconciled 
+
+material difference of P21,135,234.52, as shown in Table 11. 
+ 
+ 
+ 
+
+
+
+41 
+ 
+
+Table 11. Comparison between the Books and RPCPPE 
+ 
+
+ACCOUNT NAME PER BOOKS PER RPCPPE DIFFERENCE 
+
+Land P9,118,331.00 - P9,118,331.00 
+
+Buildings 2,963,769.67 - 2,963,769.67 
+
+Office Equipment 3,959,320.07 1,975,270.07 1,984,050.00 
+
+ICT Equipment 7,575,631.00 3,957,441.71 3,618,189.29 
+
+Communication Equipment 1,087,989.80 - 1,087,989.80 
+
+Motor Vehicles 4,074,700.00 4,074,700.00 - 
+
+Furniture and Fixtures 355,968.15 1,653,665.07 (1,297,696.92) 
+
+Books 5,204.00 - 5,204.00 
+
+Other PPE 1,981,703.35 2,699,554.75 (717,851.40) 
+
+Computer Software 4,373,249.08 - 4,373,249.08 
+
+TOTAL P35,495,866.12 P14,360,631.60 P21,135,234.52 
+
+ 
+
+34. Likewise, the Property/Supply Officer maintains a Property Card (PC) for each 
+class of PPE. However, we observed the following deficiencies in the maintenance of PCs: 
+
+ 
+
+a. The type of fixed asset that should be indicated in the Property, Plant and 
+Equipment portion in the PC was not filled up; and 
+
+ 
+
+b. Several PPEs have no designated Property Numbers. 
+
+ 
+35. Appendix 69 of the GAM, Volume II also laid out the instructions in accomplishing 
+the PCs and specifically states that the RPCPPE shall be reconciled with the PCs every 
+
+year and any discrepancies should be immediately verified and adjusted. Nevertheless, 
+
+verification of the submitted RPCPPE vis-à-vis the maintained PCs of various PPEs 
+
+revealed unreconciled variances totaling ₱7,208,764.16, to wit: 
+
+ 
+Table 12. Comparison between the RPCPPE and PC 
+
+ACCOUNT NAME PER RPCPPE PER PC DIFFERENCE 
+
+Office Equipment 1,975,270.07 800,684.38 1,174,585.69 
+
+ICT Equipment 3,957,441.71 1,822,105.06 2,135,336.65 
+
+Furniture and Fixtures 1,653,665.07 65,400.00 1,588,265.07 
+
+Other PPE 2,699,554.75 388,978.00 2,310,576.75 
+
+TOTAL 10,285,931.60 3,077,167.44 7,208,764.16 
+
+ 
+
+36. Conversely, PPELCs are kept in the Accounting Unit for each class of PPE. Yet, 
+the same were not properly maintained and were noted to have the following deficiencies:  
+
+ 
+
+a. The Description portion of the PPELC only contains general explanation and 
+without exact specifications of the item; 
+
+ 
+
+b. The Reference column is not filled up; and 
+ 
+
+
+
+42 
+ 
+
+c. The Qty. segment is inaccurate for there were noted PPE items that consist of 
+several quantities and recorded in bulk in PPELC but the Qty. column only 
+
+indicates “1” as the number of unit/s. 
+
+ 
+
+37. The PPELC could not also be completely relied upon as these are not updated and 
+upon verification, the PPE balances in the PPELCs do not coincide with the balances 
+
+appearing in the books of accounts. Comparison of amounts between PPELCs and 
+
+Accounting Records resulted in a discrepancy totaling ₱3,291,945.21, as summarized in 
+
+Table 13 below: 
+
+ 
+Table 13. Comparison between the Books and PPELC 
+ 
+
+ACCOUNT NAME PER BOOKS PER PPELC DIFFERENCE 
+
+Land 9,118,331.00 - 9,118,331.00 
+
+Other Land Improvements - 248,718.00 (248,718.00) 
+
+Buildings 2,963,769.67 5,554,164.33 (2,590,394.66) 
+
+Office Equipment 3,959,320.07 4,328,354.77 (369,034.70) 
+
+ICT Equipment 7,575,631.00 8,086,955.00 (511,324.00) 
+
+Communication Equipment 1,087,989.80 1,100,928.80 (12,939.00) 
+
+Motor Vehicles 4,074,700.00 4,074,700.00 - 
+
+Furniture and Fixtures 355,968.15 2,213,400.58 (1,857,432.43) 
+
+Books 5,204.00 2,609.00 2,595.00 
+
+Other PPE 1,981,703.35 2,100,841.35 (119,138.00) 
+
+Computer Software 4,373,249.08 4,493,249.08 (120,000.00) 
+
+TOTAL 35,495,866.12 32,203,920.91 3,291,945.21 
+
+ 
+
+38. Analysis of PPE accounts in the schedules above disclosed the following 
+deficiencies:  
+
+ 
+
+ Buildings 
+ 
+
+39. Comparison between the accounting records and the RPCPPE showed that this 
+account has a variance of ₱2,963,769.67. The submitted RPCPPE does not have any PPEs 
+
+classified under the Buildings category but upon verification, it was revealed that the 
+
+construction of 3-storey building by DPWH amounting to ₱654,720.00 was inadvertently 
+
+reported under Furniture & Fixtures in the RPCPPE. Moreover, analysis and reconciliation 
+
+of the PPELC and RPCPPE showed that the PPELC has a total of ₱5,554,164.33 accounted 
+
+under the Buildings account which were not reported in the RPCPPE. 
+
+ 
+
+ Office Equipment 
+ 
+
+40. The balances between the RPCPPE and PC differed by ₱1,174,585.69. The said 
+difference is attributed to the net amount of items reported in the RPCPPE which have no 
+
+corresponding PCs on record totaling ₱1,228,274.57 and to one (1) split type Koppel Air 
+
+Conditioner with Property Number 2000-630 amounting to ₱53,688.88 which has a PC but 
+
+was not reported in the RPCPPE. 
+
+ 
+
+
+
+43 
+ 
+
+41. Moreover, it was also noted that a number of items in the RPCPPE totaling 
+₱383,999.55 were classified under the Office Equipment category even if it did not reach 
+
+the capitalization threshold of ₱15,000.00. The said items should have been more 
+
+appropriately categorized under Semi-Expendable Office Equipment. 
+
+42. On the other hand, the PPELC has accounted for Office Equipment items totaling 
+₱2,504,473.45 which were not reported in the RPCPPE. In contrast, the RPCPPE includes 
+
+a number of Office Equipment in the total amount of ₱689,748.75 which were not recorded 
+
+in the PPELC. 
+
+ 
+
+43. Out of the total amount of ₱3,895,519.29 Office Equipment items accounted for in 
+the PPELC, ₱215,634.29 pertains to tangible items acquired in the prior years costing less 
+
+than ₱15,000 which should have been reclassified to Semi-Expendable expenses during 
+
+the period in which they were issued, hence, warrants an adjustment to the Accumulated 
+
+Surplus/(Deficit) account. 
+
+ 
+
+ ICT Equipment 
+ 
+
+44. Reconciliation of ICT Equipment balances of the RPCPPE and PC showed that the 
+RPCPPE balance is greater than the PC balance by an aggregate net amount of 
+
+₱2,135,336.65.  
+
+ 
+
+45. It was likewise noted that the Development of Scalable Web Information System 
+on ICA (PISICA) is included under the ICT Equipment category in the RPCPPE. The said 
+
+asset is intangible in nature, thus, must be classified as Computer Software. In addition, a 
+
+total amount of ₱184,919.50 Semi-Expendable ICT Equipment was also reported under the 
+
+ICT Equipment category in the RPCPPE. 
+
+ 
+
+46. Moreover, no IIRUP was prepared and submitted by the Property Officer for CY 
+2020 notwithstanding ICT Equipment accumulating ₱787,233.37 that were already tagged 
+
+as unserviceable in the RPCPPE. 
+
+ 
+
+47. Further, verification of PPELCs alongside RPCPPE for ICT Equipment also 
+disclosed several items recorded in the PPELCs which were not found in the RPCPPE and 
+
+vice versa totaling ₱4,473,664.82 and ₱755,055.00, respectively. 
+
+ 
+
+48. Out of the total amount of ₱8,086,955.00 ICT Equipment items accounted for in 
+the PPELC, ₱288,654.50 pertains to tangible items acquired in the prior years costing less 
+
+than ₱15,000, which should have been reclassified to Semi-Expendable expenses during 
+
+the period in which they were issued, hence, warrants an adjustment to the Accumulated 
+
+Surplus/(Deficit) account.  
+
+ 
+
+ Communication Equipment 
+ 
+
+49. There were no PPE items reported in the RPCPPE as well as PCs being maintained 
+for this category by the Property Officer. In PPELC, the balance of Communication 
+
+Equipment totaled ₱1,100,928.80 and out of this, an aggregate amount of ₱110,118.80 
+
+
+
+44 
+ 
+
+relates to semi-expendable items that should have been adjusted and reclassified as to 
+
+expenses in the books during the period of issuance. The same should be adjusted to 
+
+Accumulated Surplus/(Deficit) account and eliminated in the PPE accounts.   
+
+ 
+
+ Furniture and Fixtures 
+ 
+
+50. Out of the ₱1,653,665.07 reported Furniture and Fixtures in the RPCPPE, only the 
+Conference Table acquired in CY 2015 with Property Number 15-07-12 and amounting 
+
+₱65,400.00 was found to have been maintained with a Property Card. 
+
+ 
+
+51. Comparison between PPELC and RPCPPE on the other hand, showed items 
+recorded in the PPELCs which were not reported in the RPCPPE and vice versa totaling 
+
+₱820,278.08 and ₱284,312.57, respectively 
+
+ 
+
+52. Like in the case of PPEs previously discussed above, the RPCPPE and PPELC both 
+include items purchased and issued in the prior years that did not reach the capitalization 
+
+threshold amounting to ₱574,199.57 and ₱127,796.70, respectively, thus, merits the 
+
+reclassification of items to its proper category and adjustment in the books. 
+
+ 
+
+ Books 
+ 
+
+53. The recorded amount of ₱5,204.00 in the books should be dropped off from the 
+total accounts under PPE and should be adjusted in the Accumulated Surplus/(Deficit) 
+
+account as these should already be treated as a semi-expendable expense of the previous 
+
+periods. 
+
+ 
+
+ Other PPE 
+ 
+
+54. The Other PPE items reported in the RPCPPE with no corresponding PCs totaled 
+₱2,310,576.75. Of this amount, ₱55,807.75 worth of items that were acquired in the prior 
+
+years did not reach the capitalization threshold and thus, are improperly classified as PPE. 
+
+ 
+
+55. In addition, a total of ₱881,856.00 worth of PPE items acquired in CY 2020 
+consisting of various ICT and Office Equipment items were incorrectly classified by the 
+
+Property Officer under the Other PPE category in the RPCPPE. 
+
+ 
+
+56. Lastly, out of the ₱2,100,841.35 Other PPE items recorded in the PPELC, only PPE 
+totaling ₱1,822,531.00 were determined to pass the capitalization threshold of ₱15,000.00 
+
+for PPE, while the rest fell short and should be adjusted accordingly: 
+
+ 
+
+57. On the context of items reflected in the books but not in the RPCPPE, it implies 
+that either there are missing/unaccounted items especially in the case of handy personal 
+
+properties, or it could also denote that there were disposals made which were not yet 
+
+recognized by the Accounting Unit. On the other hand, those items reflected in the 
+
+RPCPPE but not in the books indicate that there were unrecognized/unrecorded items in 
+
+the books that physically exist. 
+
+
+
+45 
+ 
+
+58. The abovementioned errors and discrepancies were further attributed to: (a) 
+inadequate coordination between the Supply/Property Officer and the Accountant on the 
+
+proper categorization of the PPE; (b) inadequate review by the Accountant of the proper 
+
+classification of PPE in the entries made; and (c) non-periodic reconciliation of accounting 
+
+and property records. 
+
+ 
+
+59. Furthermore, it was also observed that the Accounting and Property Units do not 
+maintain identical property/reference numbers which posed difficulty in matching the 
+
+items recorded under the different accounts of PPE. More so, variances relating to the 
+
+acquisition years of some PPE also add up to the notable issues observed.  
+
+ 
+
+60. As a result, the existence, accuracy and reliability of the balance of the Property, 
+Plant and Equipment appearing in the financial statements amounting to P35,495,866.12 
+
+as at December 31, 2020 could not be relied upon. 
+
+ 
+
+61. We recommended and Management agreed to require: 
+ 
+
+a. The Accountant and the Property/Supply Officer to: 
+ 
+
+(i) maintain and update the PPELCs and PCs as required for each 
+category of PPE, especially for those items that were included in the 
+
+RPCPPE but were not included in the corresponding PCs and PPELCs 
+
+on record; 
+
+ 
+
+(ii) conduct a periodic reconciliation after the RPCPPE is finalized to 
+identify the causes of the differences and act accordingly; 
+
+ 
+
+(iii) consider the use of identical property numbers both in the Accounting 
+and Property records to establish uniformity and ease in the 
+
+reconciliation of PPE; and 
+
+ 
+
+(iv) collaborate with each other to provide specific guidelines in the 
+evaluation and proper categorization of different PPE items; 
+
+ 
+
+b. The Property/Supply Officer to: 
+ 
+
+(i) cancel the Property Acknowledgement Receipts (PARs) of those items 
+determined as Semi-Expendable and in exchange, issue an Inventory 
+
+Custodian Slip (ICS) to the end-users to establish accountability over 
+
+the items; and 
+
+ 
+
+(ii) in the case of old PPE in which the whereabouts could not be located, 
+the same should be considered/treated as lost and in that 
+
+circumstance, a relief from property accountability should be filed; 
+
+and 
+
+ 
+
+
+
+46 
+ 
+
+c. The Accountant to classify those unrecorded and not yet issued PPE items 
+that did not reach the capitalization threshold of P15,000.00 to their 
+
+appropriate semi-expendable property accounts, otherwise, 
+
+reclassification and adjustments in the Accumulated Surplus/(Deficit) 
+
+account should be made if already issued and recorded in the prior years. 
+
+ 
+
+62.  The Accountant commented that before, the capitalization threshold to be 
+classified as PPE was ₱10,000.00. All the items recorded as PPE that did not reach the 
+
+capitalization threshold of ₱15,000.00 were recorded prior to the issuance of the new 
+
+threshold policy.  
+
+ 
+
+63. Nevertheless, she further commented that in compliance with COA 
+recommendations and to adhere to the new threshold policy of COA, the Accountant will 
+
+reclassify those recorded PPE items below ₱15,000.00 threshold. Note that all the items 
+
+are all fully depreciated as of to date with a carrying amount equivalent to residual value. 
+
+ 
+
+b. Discrepancies in the Receipts and Payments portion of the SCBAA and SCF 
+ 
+
+64. Sections 28 and 26 of Chapters 2 and 3, respectively, of the Government 
+Accounting Manual (GAM), Volume I provide for the description and basis for the 
+
+preparation of the Statement of Comparison of Budget and Actual Amounts (SCBAA) as 
+
+follows: 
+
+ 
+
+ Sec. 28. Statement of Comparison of Budget and Actual Amounts. A 
+
+comparison of budget and actual amounts will enhance the transparency of 
+
+financial reporting in government. This shall be presented by government 
+
+agencies as a separate additional financial statement referred in this Manual 
+
+as the Statement of Comparison of Budget and Actual Amounts (SCBAA). 
+
+ 
+
+Sec. 26. Xxx. This shall be prepared based on the various registries maintained 
+
+by the Budget Division/Unit such as the RRORs, RAPAL, RAOD/RBUD and 
+
+other SDs. The data on Actual Amounts shall be verified by the Accounting 
+
+Division/Unit in the Statement of Cash Flows (SCF). The statement shall 
+
+present the following: 
+
+ 
+
+a. The original (approved appropriations, prior year’s not yet 
+
+due and demandable obligations) and final budget (continuing 
+
+appropriations, transfers, realignments and withdrawals) 
+
+amounts; 
+
+b. The actual amounts on a comparable basis; and  
+
+c. By way of note disclosure, an explanation of the material 
+
+differences between the budget and actual amounts, which are 
+
+not included in the financial statements. 
+
+ 
+
+
+
+47 
+ 
+
+65. Likewise, Sections 27 and 28, Chapter 3 of the same Manual also discussed the 
+
+following: 
+
+Sec. 27. Changes from Original to Final Budget. An entity shall present an 
+
+explanation of whether the changes between the original and final budget are 
+
+a consequence of reallocations within the budget by way of note disclosure in 
+
+the FSs. 
+
+ 
+
+Sec. 28. Reconciliation of Actual Amounts on a Comparable Basis (Budget) 
+
+and Actual Amounts in the Financial Statements. The actual amounts 
+
+presented on a comparable basis to the budget shall be reconciled with the 
+
+actual amounts presented in the FSs identifying separately the differences 
+
+classified as follows: 
+
+ 
+
+a. Basis Differences, which occur when the approved budget is 
+
+prepared on a basis other than the accounting basis; 
+
+b. Timing Differences, which occur when the budget period differs 
+
+from the reporting period reflected in the FSs; and 
+
+c. Entity Differences, which occur when the budget omits program 
+
+or entities that are part of the entity for which the FSs are 
+
+prepared. 
+
+ 
+
+The reconciliation shall be disclosed as part of the Notes to the FSs. 
+
+ 
+
+66. Conversely, Section 22, Chapter 19 of the GAM, Volume I provides for the purpose 
+of the preparation of the Statement of Cash Flows (SCF) as one of the major components 
+
+of Financial Statements: 
+
+ 
+
+Sec. 22. Statement of Cash Flows. The Statement of Cash Flows summarizes 
+
+the cash flows from operating, investing and financing activities of an entity 
+
+during a given period. It identifies the sources of cash inflows, the items on 
+
+which cash was expended during the reporting period, and the cash balance as 
+
+at the reporting date. 
+
+ 
+
+67. The SCBAA of the agency was prepared by the Budget Officer based on the FS, 
+particularly the SCF for the receipts section and Registry of Allotments, Obligation and 
+
+Disbursements (RAOD)/Registry of Budget, Utilization and Disbursements (RBUD) for 
+
+the payments section. 
+
+ 
+
+68. In the receipts portion of the SCBAA, the “Budgeted Amount” column is equivalent 
+to P24,759,800.00, the projected revenues of ICAB, with a minor discrepancy as compared 
+
+to the amount of the annual revenue target indicated per Budget of Expenditures and 
+
+Sources of Finances (BESF) amounting to P24,760,000.00. On the other hand, the “Actual 
+
+Amounts” column of P12,956,898.72 was based on the total collection of income/revenues 
+
+reported in the SCF. However, the cumulative total collections reflected in FAR No. 5 as 
+
+at year-end totaled P12,718,075.29; thus, a discrepancy of P238,823.43 with what was 
+
+
+
+48 
+ 
+
+reported in the SCBAA. Moreover, other receipts of P237,865.42 reported in the SCF were 
+
+not reflected in the receipts portion of the SCBAA.  
+
+ 
+
+69. The ICAB has an approved appropriation for CY 2020 of P59,382,000.00 per 
+General Appropriations Act (GAA), Retirement and Life Insurance Premium (RLIP) of 
+
+P1,723,000.00 or a total of P61,105,000.00 that was presented in the “Original Budgeted 
+
+Amount” in the payments portion of the SCBAA. A modification on the budget was made 
+
+pursuant to NBC No. 580, thereby, adjusting the budgeted amount to ₱56,633,500.00 
+
+which was presented in the “Final Budgeted Amount” in the payments portion of the 
+
+SCBAA.  The “Actual Amounts” under the Payments portion of the SCBAA totaling 
+
+P42,814,055.60 was based on the total obligations (paid and unpaid) per RAOD/RBUD 
+
+from the current year appropriations instead of the total actual payments/disbursements 
+
+only. 
+
+ 
+
+70. Review of the FSs revealed discrepancies between the balances presented in the 
+SCBAA and SCF for Fund 101 as presented in the table below: 
+
+ 
+       Table 14. Comparative Analysis of FSs 
+
+Particulars Per SCBAA Per SCF Discrepancy 
+
+Receipts P12,956,898.72 P13,194,764.14* P(237,865.42) 
+
+Payments 42,814,055.60 43,752,807.61** (938,752.01) 
+
+TOTAL P55,770,954.32 P56,947,571.75 P(1,176,617.43) 
+ 
+
+*composed of the following cash inflows from the SCF: Collection of Income/Revenues and 
+
+Other Receipts 
+
+ 
+**composed of the following cash outflows from the SCF: Payment of Expenses, Purchase of 
+
+Inventories, Grant of Cash Advances, Prepayments, Remittance of Taxes Withheld, Remittance 
+
+of Personnel Benefit Contributions & Mandatory Deductions and Purchase/Construction of 
+
+Property, Plant & Equipment  
+
+ 
+
+71. The differences between totals for receipts and payments in the SCBAA and cash 
+inflows and outflows of the SCF were due to the discrepancies between FARs, registries 
+
+and accounting reports, among others.  There was also no disclosure about the differences 
+
+between the final budget and actual amount in the Notes to the Financial Statements (NFS) 
+
+as required in the GAM which did not provide readers of the FSs adequate information on 
+
+the said differences. 
+
+ 
+
+72. We recommended and Management agreed to require the Budget Officer 
+and the Accountant to: 
+
+ 
+
+a. analyze the noted discrepancies and ensure that the reported data on the 
+SCBAA and the SCF are reconciled for the fair presentation of both FSs; 
+
+ 
+
+b. prepare the SCBAA based on total actual receipts and payments only; and 
+ 
+
+c. any noted differences should be disclosed in the Notes to FS. 
+
+
+
+49 
+ 
+
+ 
+
+73. The Budget Officer commented that the amount of total collections as at December 
+31, 2020, which was reported in the SCBAA amounting to ₱12,956,898.72, was based on 
+
+the amount of the total collections reported in the SCF submitted by the Accounting Unit. 
+
+The amount reported is more accurate and supported with the Certificate of Income 
+
+Collections from the Bureau of the Treasury. 
+ 
+
+c. Unreconciled discrepancies between the FS and FARs  
+ 
+
+74. Section 31, Chapter 3 of GAM, Volume I enumerates the different budget 
+reports/documents to be prepared and submitted as required by DBM and COA, among 
+
+which are the following: 
+
+ 
+
+Xxx 
+
+ 
+
+b. Statement of Appropriations, Allotments, Obligations, Disbursements and 
+
+Balances –Financial Accountability Report (FAR) No. 1 (SAAODB) 
+
+(Appendix 17). This report shall reflect the authorized appropriations and 
+
+adjustments, total allotments received including transfers, total obligations, 
+
+total disbursements and the balances of unreleased appropriations, 
+
+unobligated allotments, and unpaid obligations of a department/office/entity 
+
+by source and by allotment class. Xxx. 
+
+ 
+
+c. Summary of Appropriations, Allotments, Obligations, Disbursements and 
+
+Balances by Object of Expenditures – FAR No. 1.A (SAAODBOE) 
+
+(Appendix 18).This report shall be prepared by Funding Source Code (FSC) 
+
+as clustered and shall reflect the summary of appropriations, allotments, 
+
+obligations, disbursements and balances detailed by object of expenditures 
+
+consistent with the COA Revised Chart of Accounts per COA Circular No. 
+
+2013-002 dated January 30, 2013 and the Adoption of the PPSAS per COA 
+
+Resolution No. 2014-003 dated January 24, 2014. 
+
+ 
+
+Xxx 
+
+ 
+
+g. Aging of Due and Demandable Obligations – FAR No. 3 (Appendix 22). 
+
+This report shall be prepared by FSC as clustered and shall reflect the 
+
+balance of unpaid obligations as indicated in the Obligation Request (ObR) 
+
+and the ADDOs as at yearend. 
+
+ 
+
+h. Monthly Report of Disbursements – FAR No. 4 (Appendix 23). The report 
+
+shall reflect the total disbursements made by department, office or entity and 
+
+operating unit from disbursement authorities. Xxx 
+
+ 
+
+75. Analysis of the disbursements portions of the SAAODB-FAR No. 1 and Monthly 
+Report of Disbursements-FAR No. 4 for current year appropriations of Fund 101 showed 
+
+
+
+50 
+ 
+
+that, although both are on a cash basis, there was a total discrepancy of P1,312,242.43 as 
+
+presented in the table below: 
+ 
+
+Table 15. FAR No. 1 vs FAR No. 4 
+ 
+
+Particulars FAR  1 FAR 4 Difference 
+
+PS 20,026,516.16 19,942,448.23 P84,067.93 
+
+MOOE 21,257,889.67 22,658,514.28 (1,400,624.61) 
+
+FE - 603,987.06 (603,987.06) 
+
+CO 1,076,271.00 467,969.69 608,301.31 
+
+TOTAL 42,360,676.83 43,672,919.26 P(1,312,242.43) 
+
+     
+
+76. The discrepancies were due to the disbursements in Personnel Services (PS) of 
+₱84,067.93 which were included in the total disbursements in FAR No. 1 and 
+
+disbursements in Maintenance and Other Operating Expenses (MOOE) and Financial 
+
+Expenses (FE) of P1,400,624.61 and P603,987.06, respectively, or a total of P2,004,611.67 
+
+which were included in the total disbursements in FAR No. 4. The remaining discrepancy 
+
+in Capital Outlay (CO) of P608,301.31 was due to payment of the Information and 
+
+Communications Technology (ICT) equipment which were not recognized in FAR No. 4.  
+
+ 
+
+77. Moreover, analysis of the obligations portion of SAAODBE-FAR No. 1a for both 
+current year and continuing appropriations as against the balances appearing in the 
+
+submitted FSs (Statement of Financial Performance and SCF) of the Regular Fund also 
+
+revealed differences totaling ₱1,603,895.05, details are presented below: 
+
+ 
+
+Table 16. Comparative Analysis of FS and FAR 1a 
+ 
+
+Particulars Per FAR  1a Per FS Difference 
+
+PS P20,037,016.16 P21,315,911.37 P(1,278,895.21) 
+
+MOOE 23,270,024.43 23,669,224.27 (399,199.84) 
+
+CO 1,076,271.00 1,002,071.00 74,200.00 
+
+TOTAL P44,383,311.59 P45,987,206.64 P(1,603,895.05) 
+
+  
+
+78. The aggregate net difference of ₱1,278,895.21 and ₱399,199.84 in PS and MOOE, 
+respectively, were due to the variances in amounts of the following objects of expenditure 
+
+as shown in Table 17. 
+
+ 
+Table 17. Composition of Difference in PS 
+
+ 
+
+PS Per FAR  1a Per FS Difference 
+
+Salaries and Wages P13,402,514.60 P13,760,514.60 P(358,000.00) 
+
+Hazard Pay 38,000.00 89,500.00 (51,500.00) 
+
+Longevity Pay 76,200.00 - 76,200.00 
+
+Mid-year/Year-end bonus 2,215,678.00 2,275,678.00 (60,000.00) 
+
+Subsistence Allowance 10,300.00 84,500.00 (74,200.00) 
+
+
+
+51 
+ 
+
+PS Per FAR  1a Per FS Difference 
+
+PAG-IBIG Contributions 33,200.00 34,400.00 (1,200.00) 
+
+Philhealth Contributions 179,693.18 181,193.29 (1,500.11) 
+
+Employees Compensation Insurance 
+Premiums (ECIP) 
+
+34,700.00 34,500.00 200.00 
+
+Retirement and Life Insurance Premiums 431,801.50 1,661,196.60 (1,229,395.10) 
+
+Miscellaneous Personnel Benefits Fund 420,500.00 - 420,500.00 
+
+TOTAL P16,842,587.28 P18,121,482.49 P(1,278,895.21) 
+
+ 
+Table 18. Composition of Difference in MOOE 
+
+ 
+
+MOOE Per FAR  1a Per FS Difference 
+
+Traveling Expenses - Local P397,131.00 P396,105.79 P1,025.21 
+
+Training Expenses 961,178.02 924,042.94 37,135.08 
+
+Office Supplies Expenses  771,272.20 365,858.03 405,414.17 
+
+Fuel, Oil and Lubricants Expenses 445,428.12 468,601.85 (23,173.73) 
+
+Semi-Expendable Office Equipment 539,020.29 263,590.75 275,429.54 
+
+Semi-Expendable ICT 6,450.00 49,977.80 (43,527.80) 
+
+Other Supplies and Materials 
+Expenses 
+
+3,233,888.59 3,661,964.02 (428,075.43) 
+
+Semi-Expendable Communication 
+Eqpt Expenses 
+
+- 233,120.54 (233,120.54) 
+
+Electricity Expenses 431,148.48 466,188.71 (35,040.23) 
+
+Postage and Courier Services 699,021.81 686,938.72 12,083.09 
+
+Telephone Expenses - Mobile 381,600.56 381,916.51 (315.95) 
+
+Internet Subscription Expenses 152,360.71 192,000.00 (39,639.29) 
+
+Extraordinary and Miscellaneous 
+Expenses 
+
+87,922.20 136,723.20 (48,801.00) 
+
+Auditing Services 991.00 6,936.47 (5,945.47) 
+
+Consultancy Services 360,800.00 459,800.00 (99,000.00) 
+
+Other Professional Services 6,931,450.10 7,111,561.97 (180,111.87) 
+
+Security Services 2,502,238.00 2,489,638.00 12,600.00 
+
+Other General Services 84,155.00 129,855.00 (45,700.00) 
+
+Repairs and Maintenance – 
+Transportation Equipment 
+
+387,914.91 378,864.92 9,049.99 
+
+Insurance Expenses 45,588.45 32,805.37 12,783.08 
+
+Printing and Publication Expenses 95,121.20 99,190.30 (4,069.10) 
+
+Representation Expenses 450,016.71 434,730.99 15,285.72 
+
+Rents - Building and Structures 3,356,267.72 3,368,867.72 (12,600.00) 
+
+Subscription Expenses 5,840.00 6,420.00 (580.00) 
+
+Other Maintenance and Operating 
+Expenses 
+
+248,413.09 228,717.80 19,695.29 
+
+TOTAL P22,575,218.16 P22,974,417.40 P(399,199.24) 
+
+ 
+
+
+
+52 
+ 
+
+79. It is to be noted that FAR 1a is also one of the supporting documents as basis for 
+the preparation of the SCBAA; thus, the notable inconsistencies presented above between 
+
+the budget and the FS should be reconciled and differences must be identified and classified 
+
+accordingly and disclosed in the Notes to the FS. As a result of the above, it casts doubt as 
+
+to whether the differences in amounts were a result of either basis/timing/entity differences 
+
+or possible human error on the part of the preparers of the reports, thereby affecting the 
+
+accuracy, completeness, and reliability of the books of accounts and FARs of the agency. 
+
+ 
+
+80. Moreover, the Aging of Due and Demandable Obligations – FAR No. 3 was not 
+submitted to the Audit Team, for the same was not being prepared and maintained as per 
+
+inquiry with the Budget Officer. The non-preparation and non-submission of FAR No. 3 
+
+hindered the Audit Team from evaluating whether the reported unpaid obligations in the 
+
+SAAODB-FAR No. 1 and liabilities in the Statement of Financial Position (SFP) are fairly 
+
+stated. 
+
+ 
+
+81. We recommended that Management require the Budget Officer and 
+
+Accountant to: 
+
+ 
+
+a. analyze the transactions affected by the noted discrepancies and make the 
+necessary adjustments to correct the balances presented in the books of 
+
+accounts and FARs; 
+ 
+
+b. conduct regular reconciliation of the FARs with the FSs to ensure the 
+correctness and accuracy of the reported balances; and 
+
+ 
+
+c. facilitate the preparation of FAR No. 3 to provide details of unpaid 
+obligations in the SAAODB-FAR No. 1 and submit a copy to the Audit 
+
+Team for review. 
+
+ 
+
+82. The Budget Officer commented that the discrepancies between the FS and FARs 
+maybe was due to the timing differences which occur when the budget period differs from 
+
+the reporting period reflected in the FS. 
+
+ 
+
+83. On the Budget side, FAR 1 includes the FY 2020 current year transactions and the 
+amount of late billings pertaining to FY 2019 transactions which are usually charged to the 
+
+Continuing Appropriations. Also included in the report are the late billings pertaining to 
+
+FY 2020 transactions received before January 31, 2021 because the FY 2020 FAR 1 should 
+
+be submitted on or before January 31, 2021. 
+
+ 
+
+84. However, SCF includes payments of FY 2019 Accounts Payable paid in FY 2020 
+and the amount of late billings pertaining to FY 2020 transactions received on or before 
+
+February 14, 2021. 
+
+ 
+
+85. On the Budget side, all payments are recorded as expense while the Accounting 
+Unit uses Fixed Assets, Inventory, and Prepaid accounts in recording financial transactions. 
+
+
+
+53 
+ 
+
+Further, all ICAB obligations/financial transactions which are recorded in the RAOD and 
+
+RBUD are supported with pre-numbered Obligation Request and Status attached to the 
+
+Disbursement Vouchers in process. 
+
+ 
+
+86. Lastly, the ICAB is not preparing and submitting FAR No.3 - Aging of Unpaid 
+Obligations for the reason that all ICAB Accounts Payable are immediately paid in January 
+
+of the following year. However, if the report is required to be prepared and submitted, the 
+
+Accounting Unit will comply with the requirement. 
+
+ 
+
+d. Unreconciled balances between books and RPCI/inventory report/records - 
+₱1,471.90 
+
+ 
+
+87. Pertinent provisions of Chapter 8 of the Government Accounting Manual (GAM), 
+Volume I provides, among others: 
+
+ 
+
+Section 13.  Xxxx. Physical count/inventory, which is required semi-annually, is an 
+
+indispensable procedure for checking the integrity of property 
+
+custodianship. 
+
+. 
+
+Section 17. (b)  Stock Cards (SC) – shall be used to record all receipts and issues 
+
+of supplies and the balance in quantity at any time. It shall be 
+
+maintained by the Property and/or Supply Division/Unit for each 
+
+item in stock. 
+
+   
+
+ (c) Supplies Ledger Card (SLC) –  shall be used to record materials 
+
+received, issued and the balance both in quantity and amount at 
+
+any time. It shall be maintained by the Accounting Division/Unit 
+
+for each kind of supplies and materials. 
+
+ 
+
+88. As at December 31, 2020, the recorded balances of Office Supplies Inventory and 
+Other Supplies & Materials Inventory accounts were Ᵽ205,396.74 and Ᵽ32,227.03, 
+
+respectively. Comparison, however, of the balances per Accounting records and the Report 
+
+of Physical Count of Inventory (RPCI) as at December 31, 2020 disclosed a difference 
+
+totaling P1,471.90, details are as follows: 
+
+ 
+Table 19. Comparison of balances of Office Supplies Inventory and Other Supplies and Materials 
+
+Inventory per Books and Physical count 
+
+Account Per Books Per  RPCI Difference 
+
+Office Supplies Inventory P205,396.74 P 217,620.36 P (12,223.62) 
+
+Other Supplies and Materials 
+Inventory 
+
+32,227.03 18,531.51 13,695.52 
+
+Total P 237,623.77 P 236,151.87 P 1,471.90 
+
+ 
+
+89. The difference in the balances of the Office Supplies Inventory and Other Supplies 
+and Materials Inventory accounts can be attributed to the failure to conduct reconciliation 
+
+of the accounting and supply records by the Accounting and Property Units. 
+
+
+
+54 
+ 
+
+ 
+
+90. Moreover, examination of the submitted RPCI also showed variances in quantity 
+and balances between the Supplies Ledger Cards (SLCs), Stocks Cards (SCs) and the actual 
+
+physical count as shown in Tables 20, 21 and 22 below: 
+
+ 
+      Table 20. Comparison of balances between SLCs and SCs 
+
+Account 
+Balance per SLCs Balance per SCs Difference 
+
+Quantity Value Quantity Value Quantity Value 
+
+Office Supplies 
+Inventory 
+
+1,580 203,553.83 1,567 203,113.45 13 440.38 
+
+Other Supplies and 
+Materials Inventory 
+
+461 39,490.33 456 39,469.25 5 21.08 
+
+Total 2,041 243,044.16 2,023 242,582.70 18 461.46 
+
+ 
+     Table 21. Comparison of balances between SLCs and RPCI 
+
+Account 
+Balance per SLCs Per Physical count Difference 
+
+Quantity Value Quantity Value Quantity Value 
+
+Office Supplies 
+Inventory 
+
+1,580 203,553.83 1,486 217,620.36 94 (14,066.53) 
+
+Other Supplies and 
+Materials Inventory 
+
+461 39,490.33 175 18,531.51 286 20,958.82 
+
+Total 2,041 243,044.16 1,661.00 236,151.87 380 6,892.29 
+
+ 
+     Table 22. Comparison of balances between SCs and RPCI 
+
+Account 
+Balance per SCs Per Physical count Difference 
+
+Quantity Value Quantity Value Quantity Value 
+
+Office Supplies 
+Inventory 
+
+1,567 203,113.45 1,486 217,620.36 81 (14,506.91) 
+
+Other Supplies and 
+Materials Inventory 
+
+456 39,469.25 175 18,531.51 281 20,937.74 
+
+Total 2,023 242,582.70 1,661.00 236,151.87 362 6,430.83 
+
+ 
+
+91. The differences in the quantity and amount presented in the above tables are due to 
+
+the failure of the Property/Supply Officer to consistently update his Stock Cards due to the 
+
+voluminous workload. He informed the Audit Team that at present, he is the procurement 
+
+officer and at the same time the liaison officer since March 2020, when the former liaison 
+
+officer resigned. 
+
+92. As a result, the unreconciled differences between the accounting and property 
+records and that of the RPCI cast doubts on the accuracy and reliability of the reported 
+
+account balances of the Office Supplies Inventory and Other Supplies and Materials 
+
+Inventory accounts as at December 31, 2020. 
+
+ 
+
+93. We recommended and Management agreed to require the Accounting and 
+Property/Supply Unit to conduct a periodic reconciliation of their records in order to 
+
+determine the causes of discrepancies and to effect the required adjustments in the 
+
+books of accounts and/or supply records. 
+
+
+
+55 
+ 
+
+ 
+
+94. We further recommended and Management agreed to require the 
+Property/Supply Officer to ensure that the Stock Cards are properly maintained and 
+
+updated by recording promptly the receipts and/or issuances of inventories at any 
+
+given time. 
+
+ 
+
+95. In summary, due to the significant impact on the financial statements of the total 
+misstatements of the same amount of ₱0.248 million representing 1.26 percent and 1.30 
+
+percent of the agency’s total Liabilities and Net Assets/Equity, respectively, and with total 
+
+deficiencies of ₱23.917 million, we rendered a Qualified Opinion on the financial 
+
+statements of the ICAB as at year-end.  
+ 
+
+Compliance Audit 
+
+ 
+Delayed Submission of Bank Reconciliation Statements (BRSs) 
+
+ 
+
+96. Delayed submission of the BRSs ranging from approximately one (1) to six (6) 
+months from month-end, contrary to Section 7, Chapter 21 of the GAM, Volume I 
+
+impeded the timely audit and verification of BRSs; thus, corrective measures could 
+
+not be immediately undertaken when any discrepancy/error or other reconciling 
+
+items are ascertained, which might require adjustments by the agency. 
+
+ 
+
+97. Section 7 of Chapter 21 of the Government Accounting Manual (GAM), Volume I 
+states that: 
+
+ 
+
+The Chief Accountant shall submit the Bank Reconciliation Statement within 
+
+twenty days after receipt of the monthly Bank Statement to the following:  
+
+ 
+
+  Original – COA Auditor (with all the supporting documents and JEV) 
+
+  Copy 2 - Head of Agency/entity 
+
+  Copy 3 – Head Division/ Unit File 
+
+  Copy 4 – Bank, if necessary 
+
+ 
+
+98. Presented in Table 23 is the monitoring schedule on when Management submitted 
+their final Bank Reconciliation Statements: 
+
+ 
+                                            Table 23. Dates of submission of monthly BRS to COA 
+
+BRS Month 
+Date of submission to 
+
+COA 
+Estimated number 
+of months delayed 
+
+MDS Regular Account (Account No. 2057-9004-87) 
+
+January 2020 07/13/2020 5 months 
+
+February 07/13/2020 4 months 
+
+March 10/06/2020 6 months 
+
+April 10/06/2020 5 months 
+
+May 10/06/2020 4 months 
+
+June 01/12/2021 6 months 
+
+
+
+56 
+ 
+
+BRS Month 
+Date of submission to 
+
+COA 
+Estimated number 
+of months delayed 
+
+MDS Regular Account (Account No. 2057-9004-87) 
+
+July 01/12/2021 5 months 
+
+August 01/12/2021 4 months 
+
+September 01/12/2021 3 months 
+
+October 02/17/2021 3 months 
+
+November 02/17/2021 2 months 
+
+December 02/22/2021 1 month 
+
+MDS Trust Account (Account No. 2057-9007-46) 
+
+January 2020 07/13/2020 5 months 
+
+February 07/13/2020 4 months 
+
+March 10/06/2020 6 months 
+
+April 10/06/2020 5 months 
+
+May 10/06/2020 4 months 
+
+June 10/06/2020 3 months 
+
+July 10/06/2020 2 months 
+
+August 01/12/2021 4 months 
+
+September 01/12/2021 3 months 
+
+October 02/17/2021 3 months 
+
+November 02/17/2021 2 months 
+
+December 02/22/2021 1 month 
+
+ 
+
+99. Since there was no indication as to the date of receipt of the bank statements, inquiry 
+was made and it was found out that the Accounting Unit failed to record the actual dates 
+
+of receipt of the bank statements. The Accountant also averred that the Cashier has been 
+
+consistently making verbal follow-ups with the Land Bank of the Philippines (LBP) on the 
+
+submission of ICAB’s bank statements and affirmed that delays in the submission of the 
+
+BRSs is on account of LBP’s late forwarding of the bank statements to the agency, hence, 
+
+resulting in the incurrence of delays in the submission of the BRSs to COA ranging from 
+
+approximately one (1) to six (6) months. 
+
+ 
+
+100. Failure to submit the BRS on time resulted in failure of the auditor to conduct timely 
+verification of the veracity and accuracy of the BRS. Further, any error in the BRS when 
+
+not corrected immediately will remain/appear in all of the succeeding BRSs; hence, it is of 
+
+utmost importance to submit the BRS on time. 
+
+ 
+
+101. We recommended and Management agreed to require: 
+ 
+
+a. The Cashier to follow up the bank statements in writing aside from the 
+verbal follow-ups being made, to facilitate the receipt of the bank 
+
+statements for bank reconciliation purposes; and 
+
+ 
+
+b. The Accountant to monitor the receipt of the bank statements by having 
+them stamped as received and indicating the dates these were actually 
+
+obtained, as evidence that the BRSs are submitted to COA within the 
+
+prescribed period provided for in the GAM. 
+ 
+
+
+
+57 
+ 
+
+Incomplete documentation - P408,903.38 
+
+ 
+
+102. Disbursements totaling P0.409 million were not properly supported with 
+complete documentation, thus, affecting the authenticity, validity and regularity of 
+
+the financial transactions made out from the fund. 
+
+ 
+
+103. Section 4 (6) of PD 1445, otherwise known as the State Audit Code of the 
+Philippines, requires complete documentation to support claims against government funds. 
+
+ 
+
+104.  Review of accounts showed that disbursements of ₱408,903.38 were not properly 
+supported with complete documentation due to the non-submission of supporting 
+
+documents caused by the failure to properly examine the attached supporting documents 
+
+required for government transactions, thereby affecting the authenticity, validity and 
+
+regularity of the transactions as shown in Table 24. 
+
+ 
+
+Table 24. Summary of Disbursements with Incomplete Documentations 
+
+ 
+
+Nature of 
+Expense 
+
+Amount Lacking Documents Criteria 
+
+Grant of PCF/CA 102,500.00 1. Authority of the accountable 
+officer issued by the Head of the 
+Agency or his duly authorized 
+representative indicating the 
+maximum accountability and 
+purpose of cash advance (for 
+initial cash advance). The 
+Special Order issued by the 
+Head of the Agency failed to 
+indicate the maximum cash 
+accountability of the AO; 
+
+2.Certification from the Accountant 
+that previous cash advances 
+have been liquidated and 
+accounted for in the books; 
+
+3. Approved application for bond 
+and/or Fidelity Bond for the year 
+of P5,000 or more (amended per 
+COA Circular No. 2013-001 
+dated January 10, 2013) 
+
+4. Approved estimates of petty 
+expenses for one month. 
+
+Item 1.1 of COA Circular 
+No. 2012-001 dated June 
+14, 2012, amended by 
+COA Circular No. 2013-
+001 dated January 10, 
+2013 
+
+Replenishment of 
+Petty Cash Fund 
+(PCF) 
+
+101,403.38 
+ 
+
+Canvass from at least three 
+suppliers 
+
+Section 1.2.2 of COA 
+Circular No. 2012-001 
+
+Payments to 
+Consultant 
+
+205,000.00 1. Memorandum of Agreement 
+(MOA) 
+
+2. Approved Consultancy 
+Progress/Final Reports, 
+and/or output required under 
+
+Section 9.1.2 of COA 
+Circular No. 2012-001  
+
+
+
+58 
+ 
+
+Nature of 
+Expense 
+
+Amount Lacking Documents Criteria 
+
+the contract (only certification 
+stating that services rendered 
+was attached) 
+
+3. Original copies of the 
+following: 
+a. MOA 
+b. Letter request for 
+
+payment from the 
+consultant 
+
+c. Budget Proposal 
+d. Summary of ICAB ISO 
+
+Activities expected 
+outputs/deliverables 
+
+TOTAL AMOUNT 408,903.38   
+
+ 
+
+105. We recommended and Management agreed to require:  
+ 
+
+a. The Accountable Officers and the Accountant to submit the required 
+supporting documents to the Office of the Auditor to avoid suspension 
+
+and/or disallowance; 
+
+ 
+
+b. The Accountant to: 
+ 
+
+(i) ensure that necessary supporting documents are obtained and 
+complete, before processing, to support the authenticity and validity 
+
+of the transactions; and 
+
+ 
+
+(ii) regularly attach Certification that the previous cash advances have 
+been liquidated and accounted for in the books as common 
+
+documentary requirement for cash advances; and 
+
+ 
+
+c. The Administrative Unit to: 
+ 
+
+(i) revise the Special Order or authority of the accountable officer 
+indicating her maximum cash accountability pursuant to GAM; and 
+
+ 
+
+(ii) prepare a one-month estimate of petty expenses based on historical 
+data and have it approved by the Head of the Agency as basis for the 
+
+cash advance for PCF. 
+
+ 
+
+Lapses in the granting, utilization, liquidation/replenishment and reporting of cash 
+
+advances 
+
+ 
+
+106. Lapses of the Accountant and Accountable Officers (AO) in the granting, 
+utilization, liquidation/replenishment and reporting of cash advances (CA) resulted 
+
+
+
+59 
+ 
+
+in unmonitored cash accountability at a given date and exposing the cash to possible 
+
+risk of loss or misuse. 
+
+a) Granting and utilization of cash advance 
+ 
+
+ Incorrect accounting treatment of Petty Cash Fund (PCF) 
+ 
+
+107. Section 35, Chapter 6 of the GAM, Volume I provides that the PCF shall be 
+maintained using the Imprest System. As such, all replenishments shall be directly charged 
+
+to the expense account and at all times, the PCF shall be equal to the total cash on hand 
+
+and the unreplenished expenses. 
+
+ 
+
+108. Moreover, the unused balance of the PCF shall not be closed/refunded at the end of 
+the year. The fund shall be closed only upon termination, separation, retirement or 
+
+dismissal of the Petty Cash Fund Custodian (PCFC), who in turn shall refund any balance 
+
+to close his/her cash accountability. It is also credited to recognize expenses paid out of the 
+
+PCF but not replenished at the end of the year. 
+
+ 
+
+109. Audit showed that PCF balance of the PCFC at the end of the year is being 
+liquidated and a new set of PCF is being set up at the start of the ensuing year. Moreover, 
+
+expenses out of the PCF which were incurred at the latter part of the year were recorded 
+
+only when the same is being liquidated or refunded in the following year.  As a result, the 
+
+expenses of the prior year was understated and consequently overstating the Accumulated 
+
+Surplus/(Deficit) account. 
+
+ 
+
+110. The incorrect accounting treatment of the PCF balance at year-end was not only 
+contrary to Section 35, Chapter 6 of the GAM, Volume I, but more importantly, resulted 
+
+in the non-availability of PCF at all times to defray emergency purchases of urgently 
+
+needed supplies and materials. 
+
+ 
+
+111. We recommended and Management agreed to require the Accountant to: 
+ 
+
+a. grant and set up the PCF only once, and 
+ 
+
+b. refrain from refunding unused PCF and liquidating it at year-end unless 
+the PCF Custodian is due for termination, separation, retirement or 
+
+dismissal. 
+ 
+
+ AO not properly bonded 
+ 
+
+112. Section 101 of Presidential Decree (PD) No. 1445 provides that: 
+ 
+
+(1) Every officer of any government agency whose duties permit or require 
+
+the possession or custody of government funds or property shall be 
+
+accountable therefor and for the safekeeping thereof in conformity with 
+
+law. 
+
+ 
+
+
+
+60 
+ 
+
+(2) Every accountable officer shall be properly bonded in accordance with law. 
+
+ 
+
+113. One (1) AO was granted a CA of ₱250,000.00 to defray pre-travel expenses for the 
+
+first quarter of FY 2020. She was bonded in the amount of ₱225,000.00 with a maximum 
+
+accountability of ₱500,000.00 from October 19, 2019 to October 19, 2020. We noted, 
+
+however, that at the time of cash examination on November 3, 2020, her bond had not yet 
+
+been renewed. 
+
+ 
+
+114. The AO’s renewed bond was effective only from November 11, 2020 to November 
+11, 2021; thus, there was a gap of 22 days which would have affected the faithful 
+
+performance of her duties as SDO and posing the possible risks of non-recovery of loss of 
+
+government funds in the event of a defalcation, shortage or absconding of the AO. 
+
+ 
+
+115. Management explained that the bonds of all AOs are renewed altogether. There was 
+a delay in the renewal of the bonds of the AOs because there was a delay in the signing of 
+
+the supporting documents of the Executive Director since it had to be signed by the 
+
+Secretary of the DSWD. 
+
+ 
+
+116. We recommended and Management agreed to require the Administrative Unit 
+to: 
+
+ 
+
+a. monitor the validity period of the AOs’ bonds in order for the necessary 
+documents to be prepared and processed within a reasonable time before 
+
+the bonds’ expiration date; and 
+ 
+
+b. segregate the application for bond renewal of the Executive Director 
+from the other bond applications if there is the likelihood of a delay due 
+
+to the processing of supporting documents, in order to avoid deferments 
+
+in the renewal of bonds of the other AOs. 
+ 
+
+ Assignment of AO without proper designation 
+ 
+
+117. Paragraph 3.1.2 of the National Guidelines on Internal Control Systems (NGICS) 
+issued by the DBM, through DBM Circular Letter 2008-8 dated October 23, 2008, 
+
+discussed the Elements of the Control Environment, of which Control Policies and 
+
+Measures are addressed.  It narrated the guidelines on the delegation of authority and 
+
+supervision.  The delegation of authority and supervision requires a written policy which 
+
+must be well understood by the employees concerned.  The authority has to be clear in 
+
+terms of the particular transactions which could be acted upon by a delegate, the limitations 
+
+in the authority, and the particular purposes for which said authority may be used.  
+
+Assigning, reviewing, and approving an employee’s work covers tasks like, clearly 
+
+communicating the duties, responsibilities, and accountabilities assigned to each 
+
+Accountable Officer (AO). 
+
+ 
+
+118. One (1) AO was authorized to hold CA with the amount of P250,000.00 through 
+the issuance of Special Order (SO). The CA was to defray pre-travel expenses of the 
+
+
+
+61 
+ 
+
+Prospective Adoptive Children for the first quarter of CY 2020 which covers payments for 
+
+passport application, visa fees, medical, plane fares, etc. Nevertheless, the same CA for 
+
+travel expenses was used not just for the first quarter but throughout the CY 2020 period. 
+
+Despite this, Management did not issue a subsequent SO or an amendment to the SO for 
+
+the remaining time of the year. Management should have ensured that the AO was properly 
+
+designated first before the continuous use of the CA. 
+
+ 
+
+119. The assignment of an AO as SDO without proper designation would have affected 
+the faithful performance of her duties and posed possible risks of non-recovery of loss of 
+
+government funds in the instance of a defalcation, shortage or absconding of the AO. 
+
+ 
+
+120. We recommended that Management require the Administrative Unit to 
+amend the SO on the authority of the AO or issue a subsequent SO, if warranted, to 
+
+ensure that all delegation of authority and supervision are properly documented and 
+
+concurred with. 
+
+ 
+
+121. Management commented that the AO has been issued SO for receiving cash 
+advances for pre-travel expenses. In view of the ongoing pandemic, however, the agency 
+
+decided that the existing SO shall remain valid. 
+
+ 
+
+122. As a rejoinder, should the agency, henceforth, decide again to recognize and extend 
+the validity of an existing SO which expressly states a specific coverage period, the same 
+
+should be made in writing to establish proper delegation of authority and documentation. 
+
+ 
+
+ CA disbursed not in accordance with the specific legal purpose 
+ 
+
+123. Section 4.1.7 of COA Circular No. 97-002 dated February 10, 1997, provides that 
+“The cash advance shall be used solely for the specific legal purpose for which it was 
+
+granted. Xxx” 
+
+ 
+
+124. The practice of the agency with regard to the granting of CA for the purpose of pre-
+travel expenses is that before the end of the year, CA would be granted to defray pre-travel 
+
+expenses for the first quarter of the following year which will then be liquidated at the end 
+
+of the first quarter of the ensuing year. After liquidation of the CA for the first quarter, a 
+
+new CA would be granted to cover expenses for the remaining time of the year and the 
+
+same will be replenished throughout the year since Management adopts the imprest fund 
+
+system in accounting for the CA for pre-travel expenses. The said CA is required to be 
+
+liquidated before the end of the year. 
+
+ 
+
+125. Review thereof and replenishments of the AO revealed that the only CA granted to 
+her for FY 2020 was for the purpose of covering the pre-travel expenses for the first quarter 
+
+of FY 2020. After the lapse of the first quarter, the CA was not liquidated but was 
+
+continuously used and replenished, which was not in accordance with Section 4.1.7 of 
+
+COA Circular No. 97-002, which provides that a CA shall be used solely for specific legal 
+
+purpose for which it was granted.  
+
+ 
+
+
+
+62 
+ 
+
+126. Inquiry with the Accountant was made and she explained that the need to liquidate 
+the CA was overlooked since the pandemic occurred in March 2020. No other CA for pre-
+
+travel expenses was granted to the AO because there was still a large balance at the time 
+
+that work schedules returned, hence, the same was applied and used throughout the 
+
+remaining period of the year. 
+
+ 
+
+127. The disbursement of CA that is not in accordance with the specific legal purpose 
+
+for which it was granted consequently affects the validity of the payment made thereof. 
+
+ 
+
+128. We recommended and Management agreed to: 
+ 
+
+a. direct the Accountant to monitor the CAs and ensure that these are 
+promptly liquidated after completion of their purpose; 
+
+ 
+
+b. require the AO to submit a full liquidation of her CA after completion of 
+its purpose and to refund any unspent balance; and 
+
+ 
+
+c. consider a one-time grant of CA to the AO for pre-travel expenses and 
+subject the same for replenishment throughout the year, instead of 
+
+granting twice with exactly the same purpose.  
+
+ 
+
+129. Management commented that the Accounting Unit is consistent in verbally 
+reminding the SDOs to promptly liquidate their cash advances after completion of its 
+
+purpose and the AO has been complying with the liquidation of cash advances as soon as 
+
+the purpose of the cash advance is completed. 
+
+ 
+
+130. The delay in the release of the agency budget from the DBM at the beginning of 
+the year will significantly affect the processing of the pre-travel documents of children if 
+
+there is no available fund to process the same. Thus, in order to avoid any delay in the 
+
+processing of the pre-travel documents of children, especially since prospective adoptive 
+
+parents have fully paid for the processing of their children’s documents, the AO has been 
+
+granted CA twice during the year. The CA will ensure that funds are available and there is 
+
+no delay in the processing of documents especially at the beginning of the year. 
+
+ 
+
+b) Liquidation and replenishment 
+ 
+
+ Delayed liquidation of CA and Advances for Payroll of the AOs 
+ 
+
+131. Paragraph 4.1.3 of COA Circular No. 97-002 dated February 10, 1997 provides that 
+“A cash advance shall be reported on as soon as the purpose for which it was given has 
+
+been served.” 
+
+ 
+
+132. Verification of records revealed that one (1) AO incurred delay in the liquidation 
+of her CA for a special time-bound undertaking activity, contrary to the said regulation. 
+
+The AO was granted a CA of P75,200.00 to cover expenses to be incurred in the FY 2019 
+
+ICAB Year-end Convocation that was held on December 13 & 20, 2019. However, records 
+
+
+
+63 
+ 
+
+showed that this CA was liquidated only on June 30, 2020, which was six (6) months after 
+
+the said activity. 
+
+ 
+
+133. The non-liquidation of CA within the reglementary period is not in keeping with 
+the established rules and regulations on the grant and liquidation of CAs. 
+
+ 
+
+134. Likewise, Section 15, Chapter 6 of the GAM, Volume I provides that “Advances 
+for Payroll shall be granted to Regular Disbursing Officers for payment of salaries, wages, 
+
+honoraria, allowances and other personnel benefits of officials and employees. The 
+
+Advances for Payroll shall not be used for encashment of checks or for liquidation of 
+
+previous or other types of cash advances. It shall be equal to the net amount of the 
+
+processed payroll corresponding to the pay period. Liquidation of the advances shall be 
+
+made within five (5) days after the end of the pay period.  Any unclaimed 
+
+salaries/allowances shall be refunded and issued official receipt to close the account.” 
+
+ 
+
+135. During the cash examination, another AO presented cash and cash items for 
+advances for payroll amounting to P81,990.00 and P71,700.00, respectively. However, 
+
+review of the cash advances showed that the following accounts remained unliquidated 
+
+contrary to the prescribed period of liquidation, to wit: 
+
+ 
+        Table 25. Unliquidated Advances for Payroll 
+
+Date of 
+CA 
+
+Particulars 
+
+ 
+Due date of 
+Liquidation 
+
+Amount 
+
+Cash Cash 
+Items 
+
+Total 
+
+09/14/2020 ICPC Honorarium for July 2020 October 5, 2020 P3,960.00 P23,760.00 P27,720.00 
+
+ICA Board Per Diem for July 2020 October 5, 2020 6,000.00 28,500.00 34,500.00 
+
+09/21/2020 ICA Board Per Diem for August 
+2020 
+
+October 5, 2020 9,000.00 4,500.00 13,500.00 
+
+10/08/2020 ICA Board Per Diem for 
+September 2020 
+
+November 5, 2020 16,500.00 9,000.00 25,500.00 
+
+10/13/2020 ICPC Honorarium for September 
+2020 
+
+November 5, 2020 43,560.00 5,940.00 49,500.00 
+
+ICPC Review and Assess for 
+September 2020 
+
+November 5, 2020 2,970.00 0.00 2,970.00 
+
+Total  81,990.00 71,700.00 153,690.00 
+
+ 
+
+136. The advances for payroll are for the payment of honorarium for meetings conducted 
+by the Inter-Country Adoption (ICA) Board and Inter-Country Placement Committee 
+
+(ICPC) members for the month. We observed that the non-liquidation of the advances for 
+
+payroll within the reglementary period was due to conferences that were only done 
+
+virtually, thus, no physical meetings were conducted which prevented the claimants from 
+
+seeking the AO to claim their honorarium. The ongoing practice in place is to ask the ICA 
+
+Board and the ICPC members for their availability and to accordingly schedule the delivery 
+
+of the honorarium to their respective houses. Inquiry with the AO disclosed that it was 
+
+already suggested to them to open an account with the Land Bank of the Philippines (LBP) 
+
+
+
+64 
+ 
+
+so that their claims could be credited directly to their accounts. They averred, however, 
+
+that they already possess too many accounts and cards, leaving the AO no choice but to 
+
+just continuously pay in cash which entails an additional workload.  
+
+ 
+
+137. The non-liquidation of the advances for payroll within the prescribed period 
+exposes the fund to possible risks of loss and/or misuse of government funds. 
+
+ 
+
+138. We recommended and Management agreed to: 
+ 
+
+a. require the AO to liquidate the CAs as soon as the purpose for which it 
+was granted has been served; and 
+
+ 
+
+b. reiterate to the ICA Board and ICPC members to either open an account 
+
+with the LBP to facilitate the pay-out of their honorarium, or pay the 
+
+honoraria through Auto Debit Arrangement (ADA) by crediting to the 
+
+LBP account of the Cashier then transferring  to the respective personal 
+
+bank accounts of the members through online banking channels and any 
+
+bank service charge shall be for the account of the payees, in order to 
+
+lessen the risk and accountabilities of the AO over cash that may be prone 
+
+to misuse when retained for a prolonged period of time. 
+ 
+
+139. The Cashier commented that the opening of LBP accounts for ICPC consultants 
+was coordinated with them in the last quarter of 2020 and was supposed to be implemented 
+
+in 2021, but the appointments of the six (6) consultants expired in the first quarter of 2021. 
+
+He further averred that they will be coordinating with the new sets of consultants for the 
+
+opening of accounts with the LBP. 
+
+ 
+
+140. Moreover, the Cashier also stated that they have coordinated with the LBP East 
+Avenue Branch to explore the possibility of using their Cash Card Facility to be 
+
+implemented as soon as possible. 
+
+ 
+
+ Disbursements incurred earlier than CA 
+ 
+
+141. One (1) AO was granted a PCF of ₱50,000.00 that will serve as the agency’s PCF 
+intended for its administrative and miscellaneous expenses. The said PCF was maintained 
+
+using the Imprest System and subject to replenishment throughout the year. 
+
+  
+
+142. Review of the AO’s cashbook, however, revealed that several disbursements were 
+incurred earlier than the grant and replenishment of the PCF, contrary to the objective of 
+
+granting such which contemplates future or prospective expenses and not those already 
+
+incurred. More so, these were recorded in the AO’s record on dates when the PCF had no 
+
+more balance which resulted in negative cash balances almost throughout the year. 
+
+ 
+
+143. According to the AO, during the times when her PCF was already used up, she and 
+other employees in the agency would buy the supplies needed using their own money 
+
+pending the receipt of a new CA or replenishment of PCF. Afterwards, when she receives 
+
+
+
+65 
+ 
+
+her CA/petty cash, she would reimburse the expenses earlier paid by her and the others.  
+
+She then recorded the said expenses in her cashbook using the dates appearing in the 
+
+receipts/invoices which were earlier than the date of the cash advance or replenishment 
+
+check, thus, resulting in negative running balances in the cashbook. Said expenses should 
+
+have been reimbursed by check, instead of charging them out of the PCF. 
+
+ 
+
+144. Further, inquiry with the AO disclosed that the incurrence of these negative 
+balances was due to the amount set for her PCF amounting to P50,000.00, implying that 
+
+the said amount was not sufficient to cover the monthly petty operating expenses of the 
+
+agency. Table 26 shows the average monthly disbursements derived from the AOs PCF 
+
+record for one (1) year. 
+
+ 
+Table 26. Monthly Disbursements paid out of PCF 
+
+Month 
+Monthly 
+
+Disbursements 
+
+January 2020 ₱12,349.50 
+
+February 2020 47,560.25 
+
+March 2020 51,676.50 
+
+April 2020 1,801.00 
+
+May 2020 15,781.63 
+
+June 2020 35,981.45 
+
+July 2020 52,842.25 
+
+August 2020 23,816.25 
+
+September 2020 66,375.98 
+
+October 2020 100,406.07 
+
+November 2020 76,462.95 
+
+December 2020 24,059.01 
+
+Total ₱ 509,112.84 
+
+Average monthly 
+disbursements 
+
+₱ 42,426.07 
+
+ 
+
+145. As can be gleaned from the table above, with an average monthly disbursement of 
+₱42,426.07, the AO’s current PCF is already enough to meet a month’s worth of the 
+
+agency’s recurring expenses with still an amount left for contingencies. In this regard, the 
+
+prevalence of the negative balances in the AO’s record could not be attributed to the 
+
+amount of the PCF, but on the close monitoring and proper timing of the replenishments 
+
+made.   
+
+ 
+
+146. We recommended and Management agreed to enjoin the AO to: 
+ 
+
+a. refrain from using personal money for reimbursement of paid expenses; 
+and 
+ 
+
+b. properly monitor the utilization and replenishment of the PCF in order to 
+maintain a sufficient amount of cash on hand that is always readily 
+
+available for the purchase of urgently needed petty miscellaneous expenses 
+
+as well as to avoid the incurrence of negative balances in the cashbook. 
+
+
+
+66 
+ 
+
+Gender and Development 
+
+ 
+a PCW endorsed GAD Plan and Budget and with endorsement to DBM 
+
+ 
+
+147. ICAB’s GAD Plan and Budget (GPB) for CY 2020 was timely submitted to the 
+Philippine Commission on Women (PCW) and was successfully endorsed by the latter 
+
+to the Department of Budget and Management in compliance with the provisions set 
+
+out under PCW-NEDA-DBM Joint Circular No. 2012-001. 
+
+ 
+
+148. Pertinent provisions of the PCW-NEDA-DBM Joint Circular No. 2012-001 provide 
+the following procedures to be undertaken, to wit: 
+
+ 
+
+a. Section 6.1. “At least five percent (5%) of the total agency budget 
+appropriations authorized under the annual GAA shall correspond to 
+
+activities supporting GAD plans and programs. The GAD budget shall 
+
+be drawn from the agency’s Maintenance and Other Operating 
+
+Expenses (MOOE), Capital Outlay (CO), and Personal Services (PS). 
+
+It is understood that the GAD budget does not constitute an additional 
+
+budget over an agency’s total budget appropriations. 
+
+ 
+
+b. Section 8.2.“The GAD Focal Point System (GFPS) of the agency shall 
+review all submitted GPBs and as needed, provide comments or 
+
+recommendations for revision. xxx…. The GFPS shall then submit the 
+
+final GPBs and the corresponding GAD ARs to PCW for review and 
+
+endorsement to DBM.” 
+
+ 
+
+c. Section 8.5. “PCW shall acknowledge in writing receipt of the GPBs 
+within two (2) working days. xxx… Upon receipt and acceptance of the 
+
+revised GPBs, PCW shall endorse all revised GPBs and return these to 
+
+the different line departments or central agencies for their submission 
+
+to DBM.” 
+
+  
+
+149. In response to this requirement, an Annual GPB for FY 2020 was prepared for the 
+formulation of organization and client-focused activities on gender-related issues/problems 
+
+within the agency. 
+
+ 
+
+150. Verification in the Gender Mainstreaming Monitoring System (GMMS) and 
+confirmation from the PCW personnel disclosed that ICAB has submitted the GPB for CY 
+
+2020 to the PCW for the latter’s review and evaluation. The said GPB was also confirmed 
+
+to be accepted and approved, thus, resulting in the successful endorsement of the same to 
+
+the DBM on February 20, 2020. 
+
+ 
+
+151. We commended Management for the timely submission of the GPB to the 
+PCW which enabled the latter to properly review and evaluate the identified priority 
+
+gender issues and facilitate successful endorsement of the same to the DBM.  
+ 
+
+
+
+67 
+ 
+
+b. Delayed submission of GAD AR to COA 
+
+ 
+
+152. The 2020 GAD Accomplishment Report (AR) was prepared, submitted and 
+encoded on time in the Gender Mainstreaming Monitoring System; however, there 
+
+was a delay in the submission of the said report to the audit team, which is not in 
+
+accordance with Section V of COA Circular No. 2014-001. 
+
+ 
+
+153. Section 10 of PCW-NEDA-DBM Joint Circular No. 2012-001 provides for the 
+guidelines set relating to the preparation and submission of GAD Accomplishment Reports 
+
+and among which states that:   
+
+ 
+
+Section 10.1. “Attached agencies, bureaus, regional offices, constituent units 
+
+and all others concerned shall submit their GAD ARs to their central offices. 
+
+The agency GFPS shall prepare the annual GAD AR based on the PCW-
+
+endorsed GPB or the GPB adjusted to the approved GAA following the form 
+
+prescribed in Annex B. Activities completed until the end of the year may be 
+
+included in the final GAD AR of agency submitted to PCW in January. 
+
+ 
+
+154. Likewise, Section V of COA Circular No. 2014-001 set forth the responsibility of 
+the audited agency in the submission of GAD GPB and GAD AR which specifically 
+
+provides that: 
+
+ 
+
+“Xxx Likewise, a copy of the corresponding Accomplishment Report shall be 
+
+furnished the said Audit Team within five (5) working days from the end of 
+
+January of the preceding year.” 
+
+ 
+
+155. Moreover, PCW MC No. 2021-01 dated January 20, 2021 provides that the 
+deadline of encoding and submission of GAD AR in the GMMS is on March 12, 2021.  
+
+ 
+
+156. Upon inquiry with the PCW personnel on April 13, 2021, we were informed that 
+the ICAB’s 2020 GAD AR was submitted and encoded in the GMMS on March 8, 2021 
+
+which was within the prescribed timeline set in the PCW MC No. 2021-01, and as of this 
+
+report, it is still under PCW review. 
+
+ 
+
+157. Section V of COA Circular No. 2014-001 prescribes that the GAD AR should be 
+provided to the audit team within five (5) working days from the end of January of the 
+
+preceding year, hence, the submission should have been on February 5, 2021. It was only 
+
+on April 6, 2021 or after a two-month delay, that a copy of the GAD AR was provided to 
+
+us after several follow-ups have been made, thus, preventing the timely audit and review 
+
+of the reported outputs and accomplishments. 
+
+ 
+
+158. We commended Management for submitting and encoding the GAD AR in the 
+GMMS within the prescribed timeline. However, we recommended and Management 
+
+agreed to, henceforth, submit its GAD ARs to the Audit Team within the deadline 
+
+prescribed in Section V of COA Circular No. 2014-001 to facilitate the timely audit 
+
+and review of the same. 
+
+
+
+68 
+ 
+
+c. GAD budget not fully utilized 
+
+ 
+
+159. Only ₱1,488,101.75 or 34.86% of the GAD allocated budget was reportedly 
+utilized for GAD-related activities resulting in the non-implementation of the GAD 
+
+plans and programs; thus, the benefits that could have been derived therefrom for 
+
+the organization and the agency’s clients were not realized.  
+
+ 
+
+160. Section 31. Programs and projects related to Gender and Development of the 
+General Provisions of RA 11465 or the General Appropriations Act (GAA) of FY 2020 
+
+provides that: 
+
+ 
+
+“All agencies of the government shall formulate a Gender and Development 
+
+(GAD) plan designed to address gender issues within their concerned sectors 
+
+or mandate and implement the applicable provisions under RA 9710 or the 
+
+Magna Carta of Women, Convention of all Forms of Discrimination Against 
+
+Women, the Beijing Platform for Action, the Philippine Plan for Gender-
+
+Responsive Development (1995-2025) and the Philippine Development Plan 
+
+(2017-2022). 
+
+  
+
+The GAD Plan shall be integrated in the regular activities of the agencies, 
+
+which shall be at least five percent (5%) of their budgets. For this purpose, 
+
+activities currently being undertaken by the agencies which relate to GAD or 
+
+those that contribute to poverty alleviation, economic empowerment, especially 
+
+of marginalized women, protection, promotion and fulfillment of women’s 
+
+human rights, and practice of gender responsive governance are considered 
+
+sufficient compliance with said requirement. Xxx.” 
+
+ 
+
+161. Moreover, Section 4.3 of PCW Memorandum Circular (MC) 2020-03 dated April 
+27, 2020 states that: 
+
+ 
+
+“The computation of the minimum (5%) GAD Budget as provided under Section 
+
+36(a) of the MCW shall be based on the total adjusted budget of the agency 
+
+following National Budget Circular No. 580.” 
+
+ 
+
+162. Based on FY 2020 GAA, ICAB had a total appropriation of P61,105,000.00 
+and the budget was adjusted to P56,633,500.00 in accordance with NBC 580 re: 
+
+Adoption of Economy Measures in the Government due to the Emergency Health 
+
+Situation, dated April 22, 2020 and RA 11469, an Act Declaring the Existence of a 
+
+National Emergency Arising from the Coronavirus Disease 2019 (Covid-19) Situation.  
+
+ 
+
+163. The GAD Budget was set at ₱4,268,800.00 or equivalent to 7.5% of the adjusted 
+appropriation of ₱56,633,500.00. Out of the budgeted amount, only ₱1,488,101.75 or 
+
+34.86% was utilized due to the observance of safety health protocols that were 
+
+attributable to the emergence of the Covid-19 pandemic resulting in the non-
+
+implementation of the GAD plans and programs and the non-realization of the benefits 
+
+that could have been derived therefrom for the organization and the agency’s clients. 
+
+
+
+69 
+ 
+
+ 
+
+164. We recommended and Management agreed to require the GFPS to: 
+ 
+
+a. properly plan and monitor implementation of the project activities to 
+ensure attainment and full delivery of expected outputs to address the 
+
+gender-sensitive issues of the agency as well as to maximize utilization of 
+
+GAD allocated budget; and 
+ 
+
+b. adopt other alternative courses of action that are accustomed to the 
+observance of the new normal to be able to still deliver the intended GAD 
+
+activities and objectives. 
+ 
+
+165. Management commented that considering ICAB’s mandate, the GFPS is still 
+having a hard time in identifying and implementing GAD-related Programs, Activities and 
+
+Projects. They also noted that the prior year’s utilization of the mandated 5% GAD budget 
+
+was not maximized. For CY 2020, the implementation of the majority of programs was 
+
+greatly affected by the safety health protocols issued by the government due to the 
+
+pandemic. Alternative courses of action were implemented to attain GAD activities and 
+
+objectives but the allotment intended was not fully utilized for the purpose. 
+
+ 
+
+d. Reporting deficiencies in the GAD AR 
+
+ 
+
+166. Reporting deficiencies in the GAD AR had not supported the government’s 
+effort in poverty alleviation, economic empowerment, protection, promotion and 
+
+fulfillment of women’s human rights and the practice of gender responsive 
+
+governance, which also had not ensured accurate reporting on GAD, among others. 
+
+ 
+
+167. PCW Memorandum Circular No. 2021-01 dated January 20, 2021 laid out the 
+guidelines in determining the actual cost/expenditure that can be attributed to a particular 
+
+GAD activity to be reflected in the FY 2020 GAD AR: 
+
+ 
+a. Section 5.0. “To attribute the expenditure of a major agency program/project 
+
+to GAD in the FY 2020 GAD AR, agencies shall accomplish the Harmonized 
+
+Gender and Development Guidelines (HGDG) Project Implementation and 
+
+Management, and Monitoring and Evaluation (PIMME) checklist (HGDG 
+
+Boxes 16 & 17) or the Facility Implementation, Management, and 
+
+Monitoring and Evaluation (FIMME) checklist (HGDG Box F2), whichever 
+
+is applicable, to assess the gender-responsiveness of the implementation of 
+
+the program/project.” 
+
+ 
+
+b. Section 5.2. “The score in the HGDG assessment shall be the basis in 
+
+determining the actual cost/expenditure that can be attributed to GAD and 
+
+reflected in the GAD AR. The percentage score of the program/project in the 
+
+HGDG PIMME/FIMME assessment shall correspond to the percentage of 
+
+the expenditure of the agency’s major program/project that may be 
+
+
+
+70 
+ 
+
+attributed to the GAD: Provided, that programs/projects with HGDG 
+
+PIMME/FIMME scores below 4.0 shall not be eligible for attribution.” 
+
+ 
+
+168. Moreover, Section 31 of RA 11465 or the GAA of FY 2020 also states that “Xxx 
+
+Utilization of the GAD budget shall be evaluated based on the GAD performance 
+
+indicators identified by said agencies.” 
+
+ 
+
+169. The GAD plans and programs vis-à-vis the validated GAD AR for CY 2020 with 
+
+corresponding Audit Remarks are presented below: 
+
+Table 27. GAD GPB vis-à-vis Accomplishment Report 
+
+ 
+
+GAD Objective GAD Activity 
+
+Output 
+Performance 
+Indicators/ 
+
+Targets 
+
+Actual Result 
+(Outputs/Outco
+
+mes) 
+
+Amount 
+Audit 
+
+Remarks Budget 
+Actual 
+
+Cost/Expendi
+ture 
+
+Client-Focused 
+
+1.Enhanced/ 
+heightened the 
+awareness and 
+understanding 
+of GAD related 
+issues 
+specifically on 
+the protection 
+of girl and boy 
+children 
+
+ICA Training 
+Packages for 
+Social 
+Workers 
+
+Number of 
+capacity 
+building 
+packages – 
+conducted four 
+(4) capacity 
+building 
+package 
+completed with 
+200 social 
+workers 
+oriented and 
+trained on 
+gender fair 
+language and 
+GAD concepts 
+for social 
+workers in 
+selected 
+regions. 
+
+ICAB had 
+planned to 
+implement six (6) 
+Capacity Building 
+Programs with a 
+targeted 40 
+participants each 
+program. 
+However, due to 
+Global 
+Pandemic, the 
+implementation 
+was delayed and 
+switched to 
+online modality of 
+learning.  
+ 
+ICA Training 
+Program for 
+Region III Social 
+Workers 
+ 
+Virtual ICA 
+Training 
+
+P2,488,800.00 P518,741.48 Partially 
+implemented; 
+only 2 out of 6 
+planned 
+trainings were 
+conducted. 
+
+Organization-focused 
+
+1. To increase 
+knowledge and 
+skills of 
+technical staff 
+on GAD 
+Planning and 
+Budgeting. 
+
+Annual GAD 
+Budget 
+Planning 
+Workshop 
+ 
+(Preparation/ 
+Finalization of 
+
+Capacity 
+Building on 
+GMEF and 
+Gender 
+Analytical 
+Tools 
+
+Three (3) GFPS 
+members 
+attended the 
+training on the 
+following: 
+ 
+1.GAD Planning   
+
+355,000.00 153,194.70 Implemented; 
+however, there 
+were 
+inconsistencies 
+as to the 
+attribution of 
+
+
+
+71 
+ 
+
+GAD Objective GAD Activity 
+
+Output 
+Performance 
+Indicators/ 
+
+Targets 
+
+Actual Result 
+(Outputs/Outco
+
+mes) 
+
+Amount 
+Audit 
+
+Remarks Budget 
+Actual 
+
+Cost/Expendi
+ture 
+
+2. To provide 
+gender 
+responsive 
+programs and 
+services to 
+client groups 
+
+CY 2020 GAD 
+AR and CY 
+2021 GPB) 
+
+    And Budgeting  
+     – From  
+    Preparation to  
+    GAD Funds  
+    Audit 
+ 
+2. Beyond 
+
+Attribution: Use 
+of HGDG to 
+mainstream 
+GAD elements 
+
+GAD-related 
+expenditures 
+ 
+ 
+
+3. Sustained 
+awareness on 
+GAD concerns 
+and issues 
+
+Expand GAD 
+information 
+corner at the 
+ICAB through 
+downloading 
+or procuring 
+and reprint/ 
+Photocopy 
+downloaded 
+GAD 
+materials 
+
+Aggressive/ 
+Intensify GAD 
+information 
+campaign 
+
+Established an 
+ICAB GAD 
+Information 
+Bulletin and 
+Reading Corner. 
+The following 
+reading materials 
+were made 
+available at the 
+Reading Corner 
+provided by the 
+PCW: 
+ 
+1. Gender 
+
+Concepts 
+2. PCW 
+
+Republic Act 
+7877 or Anti-
+Harassment 
+Act of 1995 
+
+3. Gender Fair 
+Media 
+Guidebook 
+
+4. Republic Act 
+9208 Anti-
+Trafficking in 
+Persons Act of 
+2003, as 
+amended by 
+the Expanded 
+Anti-
+Trafficking in 
+Person Act of 
+2012 
+
+5. Harmonized 
+Gender and 
+
+75,000.00 62,281.35 Implemented; 
+validation 
+revealed that 
+there is a GAD 
+corner in place, 
+although not 
+located in a 
+conspicuous 
+place within the 
+agency’s office 
+
+
+
+72 
+ 
+
+GAD Objective GAD Activity 
+
+Output 
+Performance 
+Indicators/ 
+
+Targets 
+
+Actual Result 
+(Outputs/Outco
+
+mes) 
+
+Amount 
+Audit 
+
+Remarks Budget 
+Actual 
+
+Cost/Expendi
+ture 
+
+Development 
+Implementation
+, Management 
+Monitoring and 
+Evaluation 
+
+6. UN Women 
+Safe Cities 
+Photo E-book 
+
+7. What you 
+should know 
+when assisting 
+rape survivors 
+
+Launching of the 
+ICAB GAD 
+Corner and 
+Reading Area 
+during the 
+Women’s Month 
+Celebration on 
+March 8, 2020 
+
+4. Enhanced 
+competency of 
+the technical 
+staff on 
+gender issues 
+and concerns 
+
+Tap external 
+GAD 
+expertise to 
+assist and 
+develop 
+internal 
+capacity 
+ 
+Conduct 
+training on 
+gender 
+mainstreamin
+g and gender 
+analysis 
+
+Number of staff 
+participated 
+and trained on 
+gender 
+sensitivity, 
+gender 
+equality, 
+women’s 
+empowerment, 
+reproductive 
+health and 
+other GAD 
+related 
+topics/issues – 
+45 ICAB staff 
+trained on 
+Gender 
+Sensitivity, 
+Women’s 
+Empowerment, 
+Gender 
+Equality and 
+other GAD 
+related issues 
+ 
+Percentage 
+completion and 
+
+Due to the 
+issuance of 
+safety health 
+protocols by the 
+DOH and IATF in 
+connection with 
+the COVID-19 
+pandemic, there 
+was a reduction 
+in the cost of 
+professional fees 
+of consultants, 
+resource 
+persons, 
+technical 
+assistants and 
+cost utilities. 
+Hence, the low 
+budget utilization. 
+
+400,000.00 - Not 
+implemented 
+
+
+
+73 
+ 
+
+GAD Objective GAD Activity 
+
+Output 
+Performance 
+Indicators/ 
+
+Targets 
+
+Actual Result 
+(Outputs/Outco
+
+mes) 
+
+Amount 
+Audit 
+
+Remarks Budget 
+Actual 
+
+Cost/Expendi
+ture 
+
+implementation 
+of the Terms of 
+Reference 
+(TOR) for 
+external GAD 
+expert – 100% 
+of TOR of 
+external GAD 
+expert 
+approved, 
+completed and 
+implemented 
+by the end of 
+November 
+ 
+
+4. GFPS 
+enhances its 
+capacities to 
+formulate, 
+implement and 
+monitor GAD 
+Plans and 
+Budget 
+
+Continuing 
+systematic 
+capacity 
+building for 
+members of 
+the GFPS and 
+TWG 
+
+Number of 
+training on 
+GAD related 
+issues to 
+heighten the 
+capacity of the 
+members of 
+GFPS and 
+TWG – Two (2) 
+trainings on 
+GFPS and 
+Gender 
+Mainstreaming 
+conducted with 
+22 technical 
+staff trained. 
+One (1) 
+GADPB Audit 
+Training 
+conducted with 
+22 staff trained 
+ 
+
+The low 
+obligation BUR is 
+due to the 
+issuance of 
+safety health 
+protocols by the 
+DOH and IATF in 
+connection with 
+the COVID-19 
+pandemic. There 
+was a reduction 
+in the cost of 
+professional fees 
+of consultants, 
+resource 
+persons, 
+technical 
+assistants and 
+cost utilities. 
+Hence, the low 
+budget utilization. 
+
+700,000.00 471,393.70 GAD activity 
+does not 
+address the 
+GAD objective 
+and does not 
+relate to the 
+Performance 
+Indicators 
+provided. 
+Moreover, 
+deficiency in 
+the attribution 
+of GAD-related 
+expenditure 
+was also noted. 
+
+5.Develop a 
+gender 
+responsive 
+database 
+information 
+system 
+generating sex 
+– 
+disaggregated 
+data for ICAB 
+
+Improved 
+utilization of 
+sex 
+disaggregate
+d database as 
+reference for 
+reporting and 
+monitoring of 
+implementatio
+n of GAD 
+
+Percentage of 
+database are 
+sex-
+disaggregated 
+– 100% of 
+ICAB database 
+children and 
+prospective 
+adoptive 
+applications 
+
+Disaggregated 
+sex and age 
+database on 
+children cleared 
+for ICA 
+
+250,000.00 282,490.52 Deficiency in 
+the attribution 
+of GAD-related 
+expenditure 
+was noted. 
+
+
+
+74 
+ 
+
+GAD Objective GAD Activity 
+
+Output 
+Performance 
+Indicators/ 
+
+Targets 
+
+Actual Result 
+(Outputs/Outco
+
+mes) 
+
+Amount 
+Audit 
+
+Remarks Budget 
+Actual 
+
+Cost/Expendi
+ture 
+
+reports, 
+studies/ 
+researches and 
+publications 
+
+are sex 
+disaggregated 
+
+   Total Budget P4,268,800.00 P1,488,101.75  
+
+ 
+
+170. The above table presents the GAD activities reported in the GAD AR, along with 
+the accompanying schedule of GAD expenses amounting to P1,488,101.75. However, 
+
+verification thereof showed the following deficiencies: 
+
+ 
+
+a. Section 31 of the GAA of FY 2020 provides that the utilization of the GAD 
+Budget shall be evaluated based on the GAD performance indicators identified 
+
+by the agencies, but review of the schedule of GAD expenses vis-à-vis GAD 
+
+AR showed that the basis used for determining the actual cost/expenditure was 
+
+on the identified GAD activities and not on the performance indicators. 
+
+ 
+
+b. In relation to above Accomplishment Report submitted, a number of identified 
+GAD activities were noted that: (a) had inconsistencies as to the attribution of 
+
+GAD expenses; (b) did not address the stated GAD objective/s; and (c) did not 
+
+relate with the fulfillment of the identified performance indicators/targets, to 
+
+wit: 
+
+ 
+
+i. The identified GAD Activity under Item No. 1 of the Organization-focused 
+was the Annual GAD Budget Planning Workshop, however, review of the 
+
+corresponding GAD expenses of the said activity showed that the expenses 
+
+attributed were those that were incurred during the conduct of FY 2019 
+
+Program Review and FY 2020 Strategic Planning Workshop. Verification 
+
+of the agenda items of the said workshop disclosed that there was no GAD 
+
+Budget Planning Workshop that transpired and the only notable GAD 
+
+related matters included were the inclusion of Orientation of GAD Focal 
+
+Point System/Review of GAD Plan 2020 and GAD Tools Analysis Training 
+
+under the scheduled 2020 Calendar of Activities and Other Matters, 
+
+respectively. 
+
+ 
+
+ii. Item No. 4 under Organization-focused showed that the identified GAD 
+Activity is the Continuing Systematic Capacity Building for members of the 
+
+GFPS and TWG. Per summary of related GAD Expenses, the expenditures 
+
+attributed for this item were those incurred from the conduct of the ICAB 
+
+Competency Based Training in which upon verification, it was revealed that 
+
+the topics covered and discussed for the said training were not in any way 
+
+associated with the attainment of GAD objective and accomplishment of 
+
+the performance indicators. 
+
+ 
+
+
+
+75 
+ 
+
+c. HGDG tool was still not being utilized in evaluating the programs, activities 
+and projects for the attribution of GAD related expenditure that is to be 
+
+reflected in the GAD AR. Upon review, all activities were not being subjected 
+
+to an HGDG assessment in which the resulting scores should have been the 
+
+basis in determining the actual cost/expenditure, thus, the level of gender-
+
+responsiveness of the identified activities was not fully determined and actual 
+
+costs were not properly attributed. 
+
+ 
+
+Considering the various related trainings that have been already attended by the 
+
+persons responsible in the preparation of GAD reports, the same should have 
+
+been somehow equipped by now in adopting the HGDG as basis for assessment 
+
+in attributing the actual costs of projects implemented during the period. 
+
+ 
+
+171. The non-accomplishment of the planned GAD activities had not supported the 
+government’s efforts in poverty alleviation, the economic empowerment especially of the 
+
+marginalized, the protection, promotion and fulfillment of women’s human rights, and the 
+
+practice of gender responsive governance. On the other hand, the noted deficiencies in the 
+
+GAD AR did not reflect the agency’s actual accomplishments and expenditures for GAD, 
+
+which could not also provide the PCW with accurate data for its reporting. 
+
+ 
+
+172. We recommended that Management require the persons responsible in the 
+
+preparation of the GAD AR to: 
+
+ 
+
+a. verify the reported accomplishments and expenditures to properly 
+present the activities that actually addressed GAD-related objectives and 
+
+performance indicators; and 
+
+ 
+
+b. carry out the preparation of the agency’s GAD AR by using the HGDG 
+tool as basis for assessment in attributing actual GAD expenditures so as 
+
+to be more accurate and reliable when it comes to the reporting of GAD 
+
+related data. 
+ 
+
+Programs for Senior Citizens (SCs) and Persons with Disabilities (PWDs) 
+
+ 
+
+173. Plans, programs and projects for senior citizens and persons with disabilities 
+were not integrated in the programmed activities of the agency.   
+
+ 
+
+174. Section 32 of the General Provisions of the General Appropriations Act (GAA) for 
+Fiscal Year (FY) 2020 – Programs and Projects Related to Senior Citizens and Persons 
+
+with Disability requires that:  
+
+ 
+
+“All agencies of the government shall formulate plans, programs and projects 
+
+intended to address the concerns of senior citizens and persons with disability, 
+
+insofar as it relates to their mandated functions, and integrate the same in their 
+
+regular activities. Moreover, all government infrastructures and facilities shall 
+
+provide architectural or structural features, designs or facilities that will 
+
+
+
+76 
+ 
+
+reasonably enhance the mobility, safety and welfare of persons with disability 
+
+pursuant to Batas Pambansa Blg. 344 and R.A. No. 7277, as amended.” 
+
+ 
+
+175. Management was unable to submit a copy of the plans and programs as well as the 
+accomplishment report of the agency for Senior Citizens (SCs) and Persons With 
+
+Disabilities (PWDs). The Planning and Development Unit (PDU) informed us that they did 
+
+not prepare plans and budget for CY 2020 for the SCs and PWDs, thus, no accomplishment 
+
+report was also prepared for review and evaluation of projects that Management 
+
+incorporated in their regular operations to address issues concerning the elderly and PWDs 
+
+during the year. However, the agency conducted two (2) webinars which were attended by 
+
+SCs and PWDs. PDU also informed us that they have employed three (3) senior citizens 
+
+assigned in the Cashier, Records and Operations Units and one (1) PWD assigned in the 
+
+Accounting Unit under the Institutional or Agency contract. 
+
+ 
+
+176. The failure of the agency to integrate in its budget the plans and programmed 
+activities concerning SCs and PWDs defeats the intent and purpose of legislation for which 
+
+the law was envisioned to achieve/attain. 
+
+ 
+
+177. We reiterated our prior years’ recommendation and Management agreed to 
+formulate plans and programs intended to address the concerns of SCs and PWDs, 
+
+insofar as it relates to the agency’s mandated function and incorporate the same in 
+
+their regular activities. 
+
+ 
+
+Compliance with Other Mandatory Accounts 
+
+ 
+
+178. For CY 2020, the agency has faithfully deducted from the salaries of its personnel 
+the required taxes, premiums and loan installments, and remitted the same as well as the 
+
+government share within the prescribed period to the concerned institutions or agencies, as 
+
+summarized in Table 28. 
+
+ 
+Table 28. Summary Status of Remittances to Concerned Institutions 
+
+Area 
+Account/s 
+Affected 
+
+Status of Remittances 
+
+Compliance 
+with Tax Laws  
+
+Due to BIR During the year, the agency collected/withheld the amount of 
+P3,049,509.88 from salaries and wages of officers and employees, 
+contractors/suppliers in compliance with BIR Regulations, including the 
+beginning balance of P351,790.15, with corresponding remittance of 
+P2,659,789.61 within the prescribed period, leaving a balance of 
+P389,720.27 which was remitted in January 2021.  
+
+Deduction and 
+Remittance of 
+GSIS 
+premiums 
+
+Due to 
+GSIS 
+
+As of December 31, 2020, the agency collected/withheld the amount of 
+P2,889,010.46 for GSIS premiums and loans from ICAB employees, with 
+corresponding remittance of P2,883,301.07 within the prescribed period, 
+leaving a balance of P5,709.39, representing life and retirement 
+contribution of some employees. The said amounts were remitted in 
+January 2021. 
+
+Deduction and 
+Remittance of 
+
+Due to 
+PhilHealth 
+
+Total Philhealth premiums collected/withheld from ICAB employees 
+amounted to P181,399.09 with a corresponding remittance of 
+
+
+
+77 
+ 
+
+Area 
+Account/s 
+Affected 
+
+Status of Remittances 
+
+PhilHealth 
+premiums 
+
+P181,191.99 within the prescribed period, leaving a balance of P207.10 
+which was remitted in January 2021. 
+
+Deduction and 
+Remittance of 
+Pag-IBIG 
+premiums 
+
+Due to  
+Pag-IBIG 
+
+Pag-IBIG contributions and loans collected/withheld amounted to 
+P139,300.00 with a corresponding remittance of P139,100.00 within the 
+prescribed period, leaving a balance of P200.00 which was remitted in 
+January 2021. 
+
+ 
+
+179. We commended Management for adhering to the laws, rules and regulations 
+by faithfully withholding and remitting premiums due to the BIR, GSIS, PhilHealth 
+
+and Pag-IBIG. 
+
+ 
+
+Hiring and payment of Job Order Personnel 
+
+ 
+
+180. In CY 2020, the agency outsourced 17 additional workforce or 50 percent of the 34 
+regular plantilla employees to provide administrative assistance. The payments of such 
+
+services amounting to P4,534,832.71 were charged against the Maintenance and Other 
+
+Operating Expenses (MOOE) account. 
+
+ 
+
+ 
+
+Enforcement of Audit Suspensions, Disallowances and Charges 
+
+ 
+
+181. The 2009 Rules and Regulations on the Settlement of Accounts (RRSA) requires 
+the settlement of suspensions within 90 calendar days from receipt of the Notice of 
+
+Suspension (NS); otherwise, the transaction covered by it shall be disallowed/charged after 
+
+the Auditor shall have satisfied himself that such action is appropriate. Consequently, the 
+
+Auditor shall issue the corresponding Notice of Disallowance (ND). The disallowance shall 
+
+be settled within six (6) months from receipt of the ND by the persons liable. 
+
+ 
+
+182. Audit disallowances found in the audit of various transactions of the ICAB as at 
+December 31, 2020 amounted to P181,316.24, as shown in Table 29. 
+
+ 
+Table 29. Summary of Receivables-Disallowances Account 
+
+Nature 
+Balance  
+
+Dec. 31, 2019 
+Issued in CY 
+
+2020 Settlement 
+Balance 
+
+Dec. 31, 2020 
+Remarks 
+
+Disallowance P42,616.24 138,700.00 0.00 P181,316.24 Audit disallowances in prior 
+years pertain to accounts of 
+employees/ staff who are no 
+longer connected with the 
+ICAB. 
+
+Suspension 0.00 0.00 0.00 0.00  
+
+Total P42,616.24 P138,700.00 P0.00 P181,316.24  
+
+ 
+
+183. Table 30 shows NDs which are not yet final and executory and not yet recorded in 
+the books as at December 31, 2020.  
+
+ 
+
+
+
+78 
+ 
+
+Table 30. Status of Unrecorded NDs 
+
+Particulars Balance as of 
+12/31/2019 
+
+Status 
+Date Ref. Number 
+
+4/4/2011 2011-007-101-(10) P165,300.00 With further appeal to Supreme Court 
+
+ 2011-008-101-(10) 1,534,200.00 With further appeal to Supreme Court 
+
+ 2011-009-101-(08-10) 162,855.00 With further appeal to Supreme Court 
+
+ 2011-010-101-(08-10) 355,000.00 NGS-6 Decision No. 2016-001 dated January 22, 2016 
+
+2/9/2011 11-001-101-(09) 11,685.35 
+
+NGS-6 Decision No. 2016-008 dated February 9, 2016 
+ 11-006-101-(09) 11,685.35 
+
+1/26/2011 11-003-101-(09) 192,612.84 
+
+2/9/2011 11-004-101-(10) 107,983.44 
+
+2/9/2011 11-002-101-(10) 186,867.64 With appeal 
+
+10/14/2011 11-012-101-(10) 163,800.00 NGS-6 Decision No. 2016-002 dated January 25, 2016 
+
+2/20/2012 2012-001-101-(11) 577,000.00 NGS-6 Decision No. 2016-007 dated February 3, 2016 
+
+2/28/2012 2012-002-101-(11) 236,500.00 With request for installment payment 
+
+8/22/2012 12-003-101-(10) 51,766.36 
+NGS-6 Decision No. 2015-023 dated December 18, 2015 
+
+8/22/2012 12-004-101-(10) 38,487.31 
+
+04/02/2018 2018-001-101 (2017) 25,730.30 
+NGS-6 Decision No. 2018-058 dated  September 11, 
+2018 
+
+04/02/2018 2018-002-101 (2018) 14,784.00 NGS-6 Decision No. 2018-061 dated September 12, 2018 
+
+04/02/2018 2018-003-101 (2017) 7,034.20 NGS-6 Decision No. 2018-059 dated September 12, 2018 
+
+04/02/2018 2018-004-101 (2017) 78,667.95 NGS-6 Decision No. 2018-037 dated July 5, 2018 
+
+07/19/2018 2018-005-101 (2017) 330,861.28 NGS-6 Decision No. 2019-007 dated January 31, 2019 
+
+07/19/2018 2018-006-101 398,437.50 NGS-6 Decision No. 2018-063 dated September 25, 2018 
+
+07/19/2019 2019-001-101 (2018) 1,200,000.00 With appeal 
+
+12/23/2019 2019-002-101 (2017) 50,102.49 With appeal  
+
+02/12/2020 2020-001 (10) 162,855.00 With further appeal to Supreme Court 
+
+TOTAL  P6,064,216.01  
+
+ 
+
+184. We recommended and Management agreed to enforce the settlement of the 
+disallowances as required in the 2009 Rules and Regulations on the Settlement of 
+
+Accounts (RRSA). 
+
+ 
+
+
+
+

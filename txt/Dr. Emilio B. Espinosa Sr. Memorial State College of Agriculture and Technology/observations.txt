@@ -1,0 +1,1810 @@
+
+
+
+
+
+
+OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+A)	FINANCIAL AUDIT
+
+
+
+1)	The accuracy of the recorded Cash in Bank-Local Currency, Current Accounts (CIB-LCCA) balance as of December 31, 2020 in the amount of ₱60.87 million could not be ascertained in view of the material variance of ₱11.96 million between the books and bank records due to inability to prepare and submit Bank Reconciliation Statements (BRS) since Calendar Year (CY) 2017.
+
+
+
+Section 74 of Presidential Decree (PD) No. 1445 states that: 
+
+
+
+At the close of each month, depositories shall report to the agency head, in such 	form as he may direct, the condition of the agency account standing on their books. The head of the agency shall see to it that a reconciliation is made between the balance shown in the reports and the balance found in the books of the agency.
+
+
+
+Further, Chapter 21 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, provides for the rules, regulation and procedures in the preparation of Bank Reconciliation Statements. Pertinent provisions are quoted as follows:
+
+
+
+Sec. 4. Method of Bank Reconciliation. 
+
+
+
+The monthly BRS shall be prepared by the Chief Accountant/designated staff for each bank accounts maintained by the agency/entity using the Adjusted Balance Method. Under this method, the book balance and the bank balance are brought to an adjusted cash balance that must appear on the Statement of Financial Position.
+
+
+
+Sec. 5. Preparation of the Bank Reconciliation Statement. 
+
+
+
+The Chief Accountant/Designated Staff shall within ten days from receipt of the monthly Bank Statement (BS) together with paid checks, original copies of Debit Memoranda (DM)/Credit Memoranda (CM) from the GSB, reconcile the BS with the GL and prepare the BRS in four copies.
+
+
+
+Sec. 7. Reporting. The Chief Accountant shall submit the BRS within twenty days after receipt of the monthly BS to the following:
+
+
+
+Original – COA Auditor (with all supporting documents and JEVs) 
+
+Copy 2 – Head Agency/Entity 
+
+Copy 3 – Accounting Division/Unit file 
+
+Copy 4 – Bank, if necessary
+
+
+
+Review of the Statement of Financial Position (SFP) of the College as of December 31, 2020 showed CIB-LCCA balance of the College totaling to ₱60.87 million. However, confirmation with the depository banks disclosed a material variance amounting to ₱11.96 million between the recorded book balance and balance per banks. Details are shown below:
+
+
+
+Account Number
+
+Balances per FS
+
+Balances per Bank Confirmation
+
+Variance
+
+LBP 0902-1077-54
+
+₱       1,792,672.24
+
+₱       5,647,447.38
+
+₱     (3,854,775.14)
+
+LBP 0902-1061-11
+
+55,602,847.33
+
+63,896,331.71
+
+(8,293,484.38)
+
+LBP 0902-1115-22
+
+3,417,973.90
+
+3,235,275.79
+
+182,698.11
+
+DBP 0625-013473-080
+
+61,117.00
+
+61,117.00
+
+0.00
+
+Total
+
+₱     60,874,610.47
+
+₱     72,840,171.88
+
+₱  (11,965,561.41)
+
+
+
+The BRS is an effective management tool to ensure that the book and the bank balances are brought to an adjusted cash balance. The BRS shall contain the data on the actual Cash in Bank balance for each depository account reconciled with the General and Subsidiary Ledgers and Cashbooks. A properly stated Cash in Bank balance shall aid the management on decision-making relative to the disbursement transactions.
+
+
+
+The non-preparation and non-submission of the required monthly BRS for all the bank accounts of the College since CY 2017 up to the report preparation date has deprived the Audit Team on the timely review and verification thereof and consequently, the early communication of the results to Management. Further, the unreconciled differences between the book and bank records cast doubt on the accuracy thereof in the financial statements.
+
+
+
+We recommended that Management require the Accountant to religiously prepare and submit the monthly BRS for all its cash in bank accounts, together with the copies of bank statements, debit/credit memos and other pertinent documents for review. This is to ensure that Cash in Bank balances presented in the financial statements are accurate and reliable.
+
+
+
+Management Comment: 
+
+
+
+The Accountant was amenable to the audit observation. He informed the Audit Team that the BRS as of September 30, 2020 for all accounts was prepared but is still subject for his review and correction. 
+
+
+
+
+
+
+
+
+
+2)	The reliability, accuracy and existence of the reported year-end balances of inventory accounts totaling to ₱6.99 million could not be ascertained due to a) incomplete conduct of physical count of inventories; b) non-recognition of expenses upon issuance of inventory items to end-users; and c) unreconciled variance amounting to ₱6.25 million between the accounting and property records.
+
+
+
+Chapter 8 of GAM for NGAs, Volume I provides the specific guidelines and procedures on acquisition, issue, disposal and impairment of inventory. Specific provisions are as follows:
+
+
+
+Section 7. Recognition as an Expense. When inventories are sold, exchanged, or distributed, their carrying amount shall be recognized as an expense in the period in which the related revenue is recognized. If there is no related revenue, the expense is recognized when the goods are distributed or the related services is rendered.
+
+	
+
+Section 9. Perpetual Inventory Method. “Supplies and Materials purchased for inventory purpose shall be recorded using the perpetual inventory system, resulting in a more accurate inventory records and a running total for the cost of goods sold in each period. The system requires accounting records to show the amount of inventory on hand at all times through the maintenance of SLC (Appendix 57) by the Accounting Division/Unit and Stock Card (SC) (Appendix 58) by the Supply and/or Property Division/Unit for each item in the stock. 
+
+
+
+Section 17. Records, Forms and Reports to be prepared and/or maintained. 
+
+
+
+b.) Stock Card (SC) (Appendix 58) – shall be used to record all receipts and issues of supplies and the balance in quantity at any time. It shall be maintained by the Property and/or Supply Division/Unit for each item in a stock. Xxx
+
+
+
+c.) Supplies Ledger Card (SLC) (Appendix 57) – shall be used to record materials received, issued and the balance both in quantity and amount at any time. It shall be maintained by the Accounting Division/Unit for each kind of supplies and materials.
+
+
+
+g.) Report of Supplies and Materials Issued (RSMI) (Appendix 64) – shall be prepared by the Property and/or Supply Custodian based on the RIS and shall be used by the Accounting Unit/Division as basis in preparing the JEV to record the supplies and materials issued.
+
+
+
+Review of the submitted Reports on the Physical Count of Inventories (RPCI) and the ending balance of Inventories per SFP for CY 2020 showed an unreconciled variance of ₱6.25 million. Details are shown on the table next page.
+
+Account Title
+
+Amount per SFP
+
+Amount per RPCI
+
+Variance
+
+Office Supplies Inventory
+
+₱         1,368,035.15
+
+₱          578,170.68
+
+
+
+₱            789,864.47
+
+
+
+Animal and Zoological Inventories
+
+59,248.48
+
+0.00
+
+59,248.48
+
+Drugs and Medicines Inventory
+
+36,460.00
+
+0.00
+
+36,460.00
+
+Medical, Dental and Laboratory Supplies Inventory
+
+79,850.00
+
+0.00
+
+79,850.00
+
+
+
+
+
+Fuel, Oil and Lubricants Inventory
+
+547,600.00
+
+160,786.20
+
+386,813.80
+
+Agricultural and Marine Supplies Inventory
+
+151,425.00
+
+0.00
+
+151,425.00
+
+Textbooks and Instructional Materials Inventory
+
+3,098,808.67
+
+0.00
+
+3,098,808.67
+
+Other Supplies and Materials Inventory
+
+1,652,941.86
+
+0.00
+
+1,652,941.86
+
+TOTAL
+
+₱        6,994,369.16
+
+₱          738,956.88
+
+₱        6,255,412.28
+
+ 
+
+It was noted that no reconciliation was made between the accounting and property records which resulted in an aggregate unreconciled variance of ₱6.25 million. Records of this office showed that the monthly Report of Supplies and Materials Issued (RSMI) were already submitted to the Accounting Unit; however, the bookkeeper did not prepare a Journal Entry Voucher (JEV) to record the issuances to end-users as indicated in the report, thus, resulted in the overstatement of the affected inventory accounts and understatement of the corresponding expense accounts. 
+
+
+
+Also, Supplies Ledger Cards (SLCs) maintained in the Accounting Office were not updated, hence, quantity of item/s or article/s per card reflected in the RPCI was based on the inventory balance remaining in stock per stock cards.
+
+
+
+Further inquiry with the Supply and Property personnel disclosed that several inventory items which are subject for physical counting were not included in their submitted RPCI, which contributed to the foregoing unreconciled amounts.
+
+The material discrepancy noted above was indicative that the concerned Offices did not account properly the receipt and utilization of inventories and were unable to reconcile their records to arrive at reliable and accurate data on the accounted inventories.
+
+The inability to reconcile records with actual count did not present the real figures on inventory and expense accounts for a certain period, thus, affecting the accuracy and reliability of Inventory accounts as presented in the financial statements.
+
+		We recommended that Management require the Accountant and the Property/Supply Officer to comply with the following courses of action: 
+
+	
+
+a)	Trace the discrepancies and effect the necessary adjustments on the affected inventory accounts; 
+
+
+
+b)	Check, verify and/or investigate the difference between the balance per Supplies Ledger Card of the Accounting Office and actual count;
+
+
+
+c)	Religiously conduct periodic reconciliation to have reliable inventory account balances on the records of both offices; and
+
+
+
+d)	Maintain updated Supplies Ledger Cards in the Accounting Office and Stock Cards in the Property and Supply Office to facilitate reconciliation of the inventory report with records.
+
+
+
+Management Comment: 
+
+
+
+During our exit conference, the Accountant was amenable to the audit observation. The SUC President asserted that she has already instructed the Accountant to coordinate with the Supply Officer and religiously reconcile both their accounts. Likewise, she instructed the Vice President (VP) for Administration and Finance to conduct a meeting with the accounting and supply office personnel to immediately address the audit recommendations.
+
+
+
+
+
+3)	The reliability of the Biological Assets account amounting to ₱1.56 million was doubtful due to non-maintenance of Biological Assets Property Cards (BAPC) and non-submission of Quarterly Reports of Biological Assets (QRBA).
+
+
+
+Section 11, Chapter 11 of the GAM for NGAs, Volume I requires that: 
+
+
+
+The Biological Asset’s Caretaker/Officer-In-Charge, upon receipt of biological assets and based on the approved IAR, Delivery Receipt and other supporting documents, records the biological asset in the Biological Assets Property Card (BAPC) (Appendix 78). Likewise, prepare Quarterly Reports of Biological Assets (QRBA) (Appendix 79) containing, among others, the balances at the beginning of the quarter and the changes in fair value of the biological assets due to physical changes such as: a) growth. b) degeneration, c) production, and d) procreation. The BAPC and QRBA shall be submitted to the Accounting Division/Unit. 
+
+
+
+Records of this Office and interview with the accounting personnel revealed that the Biological Assets’ Caretaker/Officer-in-Charge did not submit the BAPC and QRBA to the Accounting Unit for CY 2020, with QRBA for the quarter ending December 31, 2019 as the latest submitted report. Without these reports the Accounting Division has no basis to record in the books the gain or loss on fair value of the biological assets due to physical and price changes.
+
+
+
+Further, we have observed that the BAPC and Subsidiary Ledgers were not prepared and maintained by the Biological Asset’s Caretaker and Accounting Unit, respectively, hence, causing difficulty in the reconciliation of records.
+
+
+
+The non-preparation and submission of QRBA and BAPC by the Biological Asset’s Caretaker/Officer-in-Charge and absence of necessary records cast doubt on the accuracy, existence and valuation of the booked up biological assets as of year-end.
+
+
+
+We recommended that the Biological Asset’s Caretaker/Officer-in-Charge prepare and maintain the BAPCs as required by existing regulations. Likewise, prepare and submit the QRBA to the Accounting Unit and Office of the Auditor.
+
+
+
+Management Comment: 
+
+
+
+The SUC President assured the Audit Team of their compliance with the audit recommendation. In fact, she already instructed the Accountant to coordinate with Production and Business Affairs Office (PBAO) to remind them of the timely submission of the abovementioned reports.
+
+
+
+
+
+4)		The balance of Property, Plant and Equipment (PPE) accounts valued at ₱441.69 million, excluding Construction in Progress, as of year-end was unreliable due to unreconciled amount of ₱124.92 million per Financial Statements (FS) and Report on the Physical Count of PPE (RPCPPE), misclassification of PPE accounts, and incomplete and non-maintenance of PPE Ledger Cards (PPELC) and Property Cards (PCs) to substantiate the completeness, existence, validity and accuracy of the reported balance of PPE.
+
+Section 42, Chapter 10 of the GAM for NGAs, Volume I, provides the following:
+
+
+
+Accounting and Property Records to be maintained for PPE. The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like PAR.
+
+
+
+Also, Appendix 69, Volume II of the same Manual provides for the instructions in maintaining PC as follows:
+
+
+
+D. The report on the physical count of the PPE shall be reconciled with the PCs every year and any discrepancies should be immediately verified and adjusted.
+
+
+
+On the other hand, Appendix 70 also provides for the instructions in maintaining PPELC as follows:
+
+
+
+The PPELC shall be reconciled with the report on the physical count of the PPE, PC and the control accounts. Any discrepancies shall be immediately verified and adjusted.
+
+
+
+Regular reconciliation between Accounting and Property records allows the monitoring and testing of the operation of controls and helps detect shortages, losses and identify errors in recording. It allows prompt correction and adjustment of errors and pinpoint responsibility and accountability for the property.
+
+
+
+Reconciliation of PPE account balances, excluding Construction in Progress account, between Supply/Property reports and Accounting records, disclosed net material variance of ₱124.92 million, as shown below:
+
+
+
+Account Name
+
+Gross Amount (Per FS)
+
+Per RPCPPE
+
+Difference
+
+Land 
+
+₱                8,588.00
+
+₱                       0.00
+
+₱                8,588.00
+
+Land Improvements
+
+5,268,839.90
+
+2,421,501.24
+
+2,847,338.66
+
+Infrastructure Assets
+
+39,207,744.54
+
+2,635,027.98
+
+36,572,716.56
+
+Building and Other Structure
+
+242,719,266.90
+
+206,000,332.85
+
+36,718,934.05
+
+Machinery and Equipment
+
+122,586,563.33
+
+81,215,375.41
+
+41,371,187.92
+
+Transportation Equipment
+
+17,316,976.27
+
+17,374,930.33
+
+(57,954.06)
+
+Furniture, Fixtures and Books
+
+13,079,802.82
+
+6,486,722.92
+
+6,593,079.90
+
+Other PPE
+
+1,498,662.67
+
+636,800.01
+
+861,862.66
+
+TOTAL
+
+₱     441,686,444,43
+
+₱     316,770,690.74
+
+₱     124,915,753.69
+
+
+
+Based on the above data, it can be gleaned that the Supply/Property Unit submitted an incomplete physical count of their PPE. Likewise, we noted significant value of PPE items yet to be reconciled by the Accounting and Supply/Property Units. This deficiency can be attributed to the inability of the Property/Supply Unit and Accounting Unit to maintain updated and complete PCs and PPELCs, respectively, for all the properties of the College. 
+
+
+
+It must be emphasized that the PPELCs will determine the balances and other information about the PPEs that will support the amounts shown in the FS. On the other hand, the PCs will determine the actual PPEs on hand including all its acquisition/procurements made during the year based on the Inspection and Acceptance Report (IAR) and other supporting documents, issuances/transfer/disposal as well as the description/information about the asset. Non-preparation and maintenance of these records pose difficulty in the reconciliation of PPE account balances reported in the RPCPPE and SFP. 
+
+
+
+Likewise, inventory items below the capitalization threshold of ₱15,000 were erroneously classified under the PPE account instead of expenses which is not in conformance with Section 4, Chapter 10 of GAM for NGAs, Volume I which provides that: 
+
+
+
+The capitalization threshold of ₱15,000 represents the minimum cost of an individual asset recognized as a PPE on the Statement of Financial Position.
+
+xxx
+
+
+
+b. This threshold shall be applied on an individual asset or per item basis. Each item within the bulk acquisition with aggregate or total value of PPE, such as library books, computer peripherals and small items of equipment, will need to meet the capitalization threshold to be recognized as PPE.
+
+
+
+Details of the semi-expendable equipment inappropriately capitalized are presented in Annex A.
+
+
+
+These assets that were erroneously classified as PPE instead of expenses, resulted in the overstatement of Asset and Equity account by ₱104,300. Also, this amount affected the fair presentation of the financial statements because these assets were already issued to the end-users, thus, should have been reported as expense on the year that accountability was transferred to the end-user. 
+
+
+
+We recommended that Management:
+
+
+
+a)	Instruct the Accountant and Supply/Property Officer to maintain PPELC and PC, respectively, and periodically make the necessary reconciliation to come up with the correct amount of PPE; and
+
+
+
+b)	Instruct the Bookkeeper to properly classify the PPE accounts in accordance with Sections 4, Chapter 10 of GAM for NGAs, Volume I and make the necessary adjusting/reclassification entries on the above-mentioned deficiencies.
+
+
+
+Management Comment: 
+
+
+
+During the exit conference, the SUC President stressed that she had already instructed the Accountant to coordinate with the Supply Officer and to religiously reconcile both their accounts. Likewise, she instructed the VP for Administration and Finance to conduct a meeting with the accounting and supply office personnel to immediately address the audit recommendations.
+
+
+
+Further, the Supply/Property Officer and Accountant agreed to quarterly reconcile their accounts/reports for submission to the Office of the VP for Administration and Finance for monitoring of compliance.
+
+
+
+
+
+5)	Several misstatements were noted in the recording of the financial transactions of the College due to misclassification/erroneous use of accounts, thus, affecting the fair presentation of the Financial Statements.
+
+	
+
+Section 15, Chapter 2 of GAM for NGAs, Volume I, provides that: 
+
+
+
+Financial statements (FSs) shall present fairly the financial position, financial performance, and cash flows of an entity. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in PPSAS.
+
+
+
+In addition, COA Circular No. 2020-001 dated January 8, 2020 provides the Revised Chart of Accounts (Updated 2019) and description of each account for use by the NGAs.
+
+
+
+Scrutiny of the submitted Disbursement Vouchers (DVs), JEVs and Journals of the College for CY 2020 disclosed the following misstatements in recording financial transactions in the books of accounts. Details are shown below:
+
+
+
+Check No./LDDAP-ADA No.
+
+Amount (₱)
+
+Particulars
+
+Appropriate Account
+
+Recorded as Office Supplies Inventory
+
+638680
+
+28,465.00
+
+Payment of 2 units 3 in 1 Printer
+
+Semi-Expendable- Information and Communication Technology (ICT) Equipment
+
+638754
+
+26,000.00
+
+Payment of 12 rolls barbed wire and 10kilograms U-nail
+
+Construction Materials Inventory
+
+640551
+
+3,975.00
+
+Payment for 1 unit laminating Machine
+
+Semi-Expendable-Office Equipment
+
+Total
+
+58,440.00
+
+ 
+
+ 
+
+Recorded as Other Structures
+
+638515
+
+276,180.30
+
+Payment of 60.17% for the construction of DEBESMSCAT 25th Marker
+
+Construction in Progress-Buildings and Other Structures
+
+638690
+
+45,500.00
+
+Payment of 3 units steel cabinet @ ₱12,500 each
+
+Semi-Expendable-Office Equipment
+
+638753
+
+22,000.00
+
+Payment of 3 pcs Console Table and 2 pcs Long Table
+
+Semi-Expendable-Furniture and Fixtures
+
+639614
+
+170,550.00
+
+Payment for 34 bags Portland cement for bulletin board
+
+Construction Materials Inventory
+
+Total
+
+514,230.30
+
+ 
+
+ 
+
+Recorded as Other General Services
+
+638678
+
+6,460.00
+
+Payment for 6 pcs marine plywood and 4 pcs marine plywood ordinary for use in stage decoration
+
+Other Supplies and Material Expenses
+
+641225
+
+28,291.00
+
+Payment of 7 pcs shovel and other items
+
+Semi-Expendable-Agricultural and Forestry Equipment
+
+ 
+
+19,372.00
+
+Payment of 20 boxes Vitamin C and other medical items
+
+Medical, Dental and Laboratory Supplies Inventory
+
+641399
+
+470,400.00
+
+Payment for 168 pcs fire extinguisher as safety requirements for buildings and structures
+
+Semi-Expendable-Disaster Response and Rescue Equipment
+
+640836
+
+242,810.56
+
+Payment for 2 units Wi-Fi Duplex All in One Ink Tank Printer with Wi-Fi
+
+Information and Communications Technology Equipment
+
+640842
+
+3,000.00
+
+Reimbursement of Communication Expenses
+
+Communication Expenses
+
+Total
+
+770,333.56
+
+ 
+
+ 
+
+
+
+Check No./LDDAP-ADA No.
+
+Amount (₱)
+
+Particulars
+
+Account Used
+
+Appropriate Account
+
+638782
+
+90,100.00
+
+Payment for 1 Generator set (diesel)
+
+Information and Communications Technology Equipment
+
+Other Equipment
+
+639248
+
+146,000.00
+
+Payment for 10 units brush cutter
+
+Agricultural and Marine Supplies Inventory
+
+Semi-Expendable-Agricultural and Forestry Equipment
+
+640552
+
+36,800.00
+
+Payment for 23 units Foot Press Alcohol
+
+Medical Equipment
+
+Semi-Expendable-Medical Equipment
+
+640553
+
+130,630.03
+
+Payment of 15% mobilization fee
+
+Road Networks
+
+Advances to Contractors
+
+638125
+
+79,850.00
+
+Payment for 1unit Stainless Stretcher with complete accessories
+
+Medical, Dental and Laboratory Supplies Inventory
+
+Medical Equipment
+
+638673
+
+1,505,610.74
+
+Payment of various office furniture (Mono block arm chair, monoblack stool, whiteboard, Instructor Table, Drawing Table and mono block with armchair and back rest) 
+
+Other Supplies and Materials Inventory
+
+Semi-Expendable Furniture and Fixtures
+
+
+
+The erroneous use of the accounts could be attributed to the inability of the Bookkeeper to further analyze the transactions and use the appropriate accounts provided in the chart of accounts to properly classify the related transactions. Also, the Accountant was not able to review the JEVs to check the accuracy and correctness of the accounting entries.
+
+
+
+Further, the erroneous use of accounts in recording the foregoing transactions resulted in over and understatement of affected accounts, thus, casting doubt on the fair presentation thereof in the Financial Statements. 
+
+
+
+We recommended that Management instruct the Accountant and the Bookkeeper to take the following courses of action:
+
+
+
+	a)	Prepare the necessary adjusting/reclassification entry to correct the deficiencies noted after considering the recognition of expense for each particular inventory account and prior year’s adjustments for the PPE accounts;
+
+	b)	Review the correctness of the accounting entries before processing the transactions and recording thereof in the books of accounts; and 
+
+
+
+	c)	Properly analyze, classify and record every transaction in the books in accordance with the Revised Chart of Accounts for NGAs.
+
+
+
+Management Comment: 
+
+
+
+The Accountant was amenable to the audit observation. He explained that due to voluminous transactions, he cannot always review/check the correctness of the entries made in the JEV by the bookkeeper.
+
+
+
+Auditor’s Rejoinder:
+
+
+
+The Audit Team emphasized that entries made in the JEV materially affects the fair presentation of accounts in the financial statements, thus, the Accountant must ensure that proper accounts in accordance with the Revised Chart of Accounts provided in the COA Circular No. 2020-001 dated January 8, 2020, were used in the recording of financial transactions.
+
+
+
+
+
+B. COMPLIANCE AUDIT
+
+
+
+6)		Disbursements totaling ₱3.20 million were processed and paid despite incomplete documentation, thus, casting doubt on the validity and propriety of the transactions.
+
+
+
+Section 4 (6) of PD No. 1445 states that:
+
+
+
+Claims against government funds shall be supported with complete documentation. 
+
+
+
+In addition, COA Circular No. 2012-001 dated February 14, 2012 prescribes the revised guidelines and documentary requirement for common government transactions.
+
+
+
+Post audit of the financial transactions of the College for CY 2020 revealed that disbursements totaling ₱3.20 million were processed and paid even without complete documentation. Details are shown below:
+
+
+
+LDDAP-ADA No./Check No.
+
+Dates
+
+Amount
+
+Particulars
+
+Deficiencies
+
+Applicable laws/
+
+regulations
+
+115878
+
+03/27/2020
+
+₱ 145,000.00
+
+Payment for Meals and Snacks for 25th Charter Anniversary
+
+No evidence of Posting of Request for Quotation (RFQ) and Notice of Award (NOA) in the Philippine Government Electronic Procurement System (PhilGEPS)
+
+Section 9.2 of COA Circular No. 2012-001
+
+638280
+
+03/06/2020
+
+45,000.00 
+
+Payment for delivery and installation of Glass Partition
+
+No PhilGEPS Registration Number
+
+ANNEX H, Appendix A of the 2016 Revised Implementing Rules and Regulations (IRR) of Republic Act (RA) No. 9184
+
+638688
+
+04/08/2020
+
+1,551,721.05
+
+Payment for partial delivery and installation of air conditioning, speakers, TV and etc.
+
+Not supported with Official Receipt of the supplier as acknowledgment of payment.
+
+Section 6.1 of COA Circular No. 2012-001
+
+638782
+
+04/28/2020
+
+90,100.00
+
+Payment for 1 Generator set (diesel)
+
+1. No evidence of Posting of RFQ and Notice of Award in the PhilGEPS, 
+
+2. No canvass from at least 3 suppliers.
+
+Section 9.2 of COA Circular No. 2012-001
+
+LDDAP- ADA No. 04-030- 2020
+
+04/02/2020
+
+224,560.00
+
+Payment for the Internet Subscription for December 17, 2019 to February 16, 2020
+
+Not supported with Official Receipt by the Service Provider as acknowledgment of payment
+
+Section 6.1 of COA Circular No. 2012-001
+
+LDDAP- ADA No. 05-040- 2020
+
+05/13/2020
+
+224,560.00
+
+Payment for the Internet Subscription for February 17, 2020 to April 16, 2020
+
+Not supported with Official Receipt by the Service Provider as acknowledgment of payment
+
+Section 6.1 of COA Circular No. 2012-001
+
+LDDAP- ADA No. 06-051- 2020
+
+08/11/2020
+
+112,280.00
+
+Payment for the Internet Subscription for April 17, 2020 to May 17, 2020
+
+Not supported with Official Receipt by the Service Provider as acknowledgment of payment
+
+Section 6.1 of COA Circular No. 2012-001
+
+LDDAP-ADA No. 07-070- 2020
+
+07/21/2020
+
+112,280.00
+
+Payment for the Internet Subscription for May 17, 2020 to June 16, 2020
+
+Not supported with Official Receipt by the Service Provider as acknowledgment of payment
+
+Section 6.1 of COA Circular No. 2012-001
+
+LDDAP-ADA No.09-102- 2020
+
+09/28/2020
+
+336,840.00
+
+Payment for the Internet Subscription for June 17, 2020 to September 16, 2020
+
+Not supported with Official Receipt by the Service Provider as acknowledgment of payment
+
+Section 6.1 of COA Circular No. 2012-001
+
+LDDAP-ADA No. 12-123- 2020
+
+12/14/2020
+
+224,560.00
+
+Payment for the Internet Subscription for September 17, 2020 to November 16, 2020
+
+Not supported with Official Receipt by the Service Provider as acknowledgment of payment
+
+Section 6.1 of COA Circular No. 2012-001
+
+115844- 115856
+
+03/31/2020
+
+95,285.50
+
+Salaries of Contract of Service (COS) and Job Order) JO workers
+
+Not supported with Contract of Service and Accomplishment Reports
+
+Section 4.1.3 of COA Circular No. 2012-001
+
+115877
+
+03/31/2020
+
+34,333.53
+
+Salary of COS for Feb-March 2020
+
+Not supported with Contract of Service and Accomplishment Reports
+
+Section 4.1.3 of COA Circular No. 2012-001
+
+Total
+
+
+
+3,196,520.08
+
+
+
+
+
+
+
+
+
+In our interview with the Accounting personnel in charge with the processing of DVs, she averred that supporting documents for these transactions were already prepared for submission to the Office of the Auditor.
+
+
+
+The practice of processing claims against the funds of the College despite incomplete documentation casts doubts on the validity and propriety of the transactions.
+
+
+
+We recommended that Management submit the lacking supporting documents as required under COA Circular No. 2012-001 to avoid possible suspension in audit of the transactions. Henceforth, stop the practice of processing claims without complete supporting documents pursuant to Section 4(6) of PD No. 1445.
+
+
+
+Management Comment: 
+
+
+
+Management assured the Audit Team on the submission of the aforementioned lacking supporting documents. In fact, they have already contacted some of the payees to furnish them the required documents for submission to COA.
+
+
+
+
+
+7)	The College did not submit various DVs, payrolls and liquidation reports for CY 2020 aggregating ₱10.80 million, thus, the validity, propriety and legality of the related financial transactions could not be determined.
+
+
+
+COA Circular No. 2009-006 dated September 15, 2009 prescribes the Rules and Regulations on Settlement of Accounts. Section 7.2.1 thereof states that:
+
+The Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping functions of the audited agency shall ensure that:
+
+		a)	The reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month.
+
+
+
+Likewise, Section 43(4) of PD No. 1445 otherwise known as the Government Auditing Code of the Philippines provides that:
+
+
+
+The auditors in all auditing units shall have the custody, and be responsible for the safekeeping and preservation of paid expense vouchers, journal vouchers, stubs of treasury warrants or checks, reports of collections and disbursements and similar documents together with their respective supporting papers, under regulations of the Commission.
+
+
+
+Records of this office showed that various DVs, payrolls and liquidation reports aggregating ₱10.81 million were not yet submitted to the Office of the Auditor for post audit, contrary to the afore-cited law and regulation. Below is the summary of unsubmitted vouchers per account, viz:
+
+Account Number
+
+Total amount of unsubmitted DVs
+
+LBP CA No. 0902-1061-11
+
+ ₱     6,285,803.92 
+
+LBP CA No. 2090-9000-41
+
+4,521,982.37 
+
+Total
+
+ ₱   10,807,786.29 
+
+
+
+The College’s inability to submit paid DVs, payrolls and liquidation reports and their supporting documents precluded the Audit Team from conducting timely audit and verification of the financial transactions to determine their validity, propriety and legality. Noncompliance or inaction to this audit observation may cause the suspension in audit of these transactions.
+
+
+
+We recommended that Management submit immediately the aforementioned paid DVs, payrolls and liquidation reports with complete supporting documents to the Office of the Auditor.
+
+
+
+Management Comment: 
+
+
+
+The Accountant asserted that the aforesaid DVs were not yet submitted because checks were still unclaimed by the payees, hence, were still in the custody of the Office of Cashier. However, he assured the Audit Team of the submission of such DVs, payrolls and liquidation report. 
+
+
+
+Auditor’s Rejoinder:
+
+
+
+Had Management exerted extra effort in notifying those payees with unclaimed checks, the corresponding DVs and its supporting documents could have been submitted on time to the Office of the Auditor.
+
+
+
+
+
+8)	Government property was destroyed/demolished without proper documentation and derecognition thereof in the books of accounts was not made, thus, the propriety and legality of the related transactions cannot be ascertained, and affected the fair presentation of the carrying balance of PPE accounts in the Financial Statements. 
+
+
+
+Section 6.09 of COA Circular No. 95-006 dated May 18, 1995 requires that: 
+
+
+
+Inspection of consumable and perishable items, as well as unserviceable and disposal of government property and other assets, shall be conducted by management. A copy of the report of inspection or its equivalent shall be submitted to the Head of the Auditing Unit within twenty four (24) hours from acceptance of the items delivered and, in the case of unserviceable and disposal property/assets, immediately after inspection thereof by management. (Emphasis supplied) 
+
+
+
+Further, Section 6.10 of the same Circular provides: 
+
+
+
+Management shall furnish the Auditor with a copy of the schedule or notice of opening of bids and condemnation/destruction of government property and other disposable assets, as the case may be, at least five (5) days before the scheduled time.
+
+
+
+Moreover, Chapter 10 of GAM for NGAs, Volume I, provides the accounting guidelines on disposal of government properties and the pertinent provisions are quoted as follows;
+
+
+
+Sec. 39. Derecognition. The cost of the PPE together with the related accumulated depreciation and accumulated impairment loss shall be removed from the accounts (2014 ed. Financial Accounting, Volume I, Valix). The carrying amount of an item of PPE shall be derecognized on disposal or when no future economic benefits or service potential is expected from its use or disposal. The following are the policies on the disposal of PPE:
+
+
+
+x x x 
+
+
+
+d. A JEV shall be prepared by the Accounting Division/Unit to derecognize the asset from the books of accounts only after its disposal; 
+
+
+
+Sec. 40. Idle, Unserviceable and Fully Depreciated PPE. The following are the policies on idle, unserviceable and fully depreciated PPE: 
+
+
+
+a. x x x 
+
+
+
+c. A PPE is said to be unserviceable if it is no longer capable of providing the entity with future economic benefits or service potential.  
+
+
+
+d. All unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) (Appendix 74). PPE reported in the IIRUP shall be dropped from the books by debiting Impairment Loss-Property, Plant and Equipment (cost of the PPE less Accumulated Depreciation).
+
+
+
+On April 14, 2020, the Office of Planning and Development Services facilitated the demolition of the concrete gates of the Administration Building to pave the way for the Construction of Exit and Entrance Signage in the said building. The subject property was recorded in the books as Other Structures with total book value of ₱50,000. Details of which are shown on the next page. 
+
+
+
+Description
+
+Property No.
+
+Date Constructed
+
+Value
+
+Quantity
+
+Total Book Value
+
+Concrete Gates of Admin. Building
+
+1997-005
+
+1997
+
+₱25,000.00
+
+2
+
+₱50,000.00
+
+
+
+However, the Audit Team noted that the Agency was not able to observe the proper procedures in the demolition and disposal of government properties as required in the above-mentioned COA regulations, as follows: 
+
+
+
+1)	The Office of the Auditor was not notified in writing of the said activity; 
+
+
+
+1)	Management did not prepare and submit an IIRUP and Report of Waste Materials for the salvage items from the demolished property; and 
+
+
+
+1)	The Disposal Committee did not furnish the Accounting Unit of the above-mentioned reports, thus, the property is still included in the balance of the total assets of the Agency as the latter has no basis in dropping/derecognizing the property from the its books.
+
+
+
+As a consequence of the non-observance of the foregoing COA rules and regulations, the propriety of the said demolition/activities cannot be ascertained. Moreover, the inability of the Agency to derecognize the demolished property overstated the Other Structures account balance by ₱50,000, thereby, affecting the fair presentation thereof in the financial statements. 
+
+
+
+We recommended that Management take the following courses of action:
+
+
+
+a)	Require the Property and Supply Officer to prepare and submit the IIRUP and Report of Waste Materials to the Auditor and furnish the same to the Accounting Unit;
+
+
+
+b)	Require the Accounting Unit to prepare the JEV to drop or derecognize the property from the books of the agency and submit the same together with copies of the IIRUP, Report of Waste Materials and other documents relative to the demolition and/or disposal of unserviceable properties to the Auditor for post-audit; and 
+
+
+
+c)	Observe the proper guidelines/procedures in all demolitions and disposals of government properties pursuant to COA Circular No. 95-006 and pertinent provisions of the GAM for NGAs.
+
+
+
+Management Comment: 
+
+
+
+Management sought consideration on the deficiency committed on the demolition. However, they justified that the concrete gates already posed danger to the employees due to frequent earthquakes, thus, necessitated immediate action for demolition as recommended by the Planning Division. Nonetheless, the Accountant and Supply Officer agreed to comply with the audit recommendations.
+
+
+
+Auditors Rejoinder: 
+
+
+
+As discussed in the audit observation, the Audit Team’s main concern was on the non-compliance of Management on the proper submission of the necessary documents and reports to COA for review and in the Accounting Unit for derecognition of the value of the demolished asset in the books of the Agency. Documents and reports relative to the demolition was not yet submitted to the Office of the Auditor as of March 12, 2021.
+
+
+
+
+
+9)	Copies of contracts together with their supporting documents were not submitted for contract review and evaluation within the prescribed period and no requests for technical inspection were submitted for completed projects.
+
+
+
+COA Circular No. 2009-001 dated February 12, 2009, restating with amendment COA Circular No. 87-278 and COA Memorandum 2007-027, requires the submission of all contracts together with their supporting documents to the Commission on Audit within five (5) days after the perfection thereof for review and evaluation of the same.
+
+ 
+
+Section 3.1.1 of COA Circular No. 2009-01 dated February 12, 2009 states that:
+
+
+
+Contracts within five (5) working days from the execution of a contract by the government or any of its subdivisions, agencies or instrumentalities, including government-owned and controlled corporations and their subsidiaries, a copy of said contract and each of all the documents forming part thereof by reference or incorporation shall be furnished to the Auditor of the agency concerned. xxx
+
+
+
+Likewise, Section 3.1.2 of said COA Circular enumerates the copies of documents required to be submitted for contract review. For technical review purposes, submission of contracts and their supporting documents shall furthermore be guided by the specific documentary requirements outlined in the attached checklist marked as Annexes “A” to “T” of this circular. 
+
+During the audit, it was noted that copies of contracts and their supporting documents were not submitted to the Audit Team within five (5) days after the perfection of the contract for review and evaluation, as shown below. 
+
+
+
+Project
+
+Amount (₱)
+
+Contract Date
+
+Received
+
+Refurbishment and Upgrading of Old and Existing Building (Administration Building)
+
+8,326,950.49
+
+02/26/2020
+
+06/08/2020
+
+Refurbishment and Upgrading of Old and Existing Building (College of Agriculture Amphitheater)
+
+3,530,000.00
+
+No date indicated in the Contract
+
+06/10/2020
+
+Refurbishment and Upgrading of Old and Existing Building (Civil Technology building)
+
+2,812,940.00
+
+05/18/2020
+
+06/10/2020
+
+Refurbishment and Upgrading of Old and Existing Building (Dairy Training Center)
+
+2,972,773.00
+
+02/26/2020
+
+06/08/2020
+
+
+
+Refurbishment and Upgrading of Old and Existing Building (Old Dormitory-Female Dormitory)
+
+4,869,400.00
+
+No Date indicated on the Contract
+
+06/8/2020
+
+Refurbishment and Upgrading of Old and Existing Building (FLTC Building)
+
+10,684,418.54
+
+10/28/2020
+
+11/05/2020
+
+Refurbishment and Upgrading of Old and Existing Building (Administration Building-Phase II)
+
+8,843,968.18
+
+10/28/2020
+
+11/05/2020
+
+Refurbishment and Upgrading of Old and Existing Building (Research, Extension and Business Affairs Building)
+
+3,384,933.07
+
+10/28/2020
+
+11/05/2020
+
+
+
+Moreover, review of the Accomplishment Report for Infrastructure Projects as of December 31, 2020 showed five infrastructure projects with an aggregate amount of ₱22.51 million that were already 100 per cent completed. However, Management was unable to submit letter request and its corresponding supporting documents for COA’s technical inspection. Hereunder is the list of completed infrastructure projects for CY 2020 as of December 31, 2020:
+
+
+
+
+
+Project Cost (₱)
+
+Refurbishment and Upgrading of Old and Existing Building (Administration Building)
+
+8,326,950.49
+
+Refurbishment and Upgrading of Old and Existing Building (College of Agriculture Amphitheater)
+
+3,530,000.00
+
+Refurbishment and Upgrading of Old and Existing Building (Civil Technology building)
+
+2,812,940.00
+
+Refurbishment and Upgrading of Old and Existing Building (Dairy Training Center)
+
+2,972,773.00
+
+Refurbishment and Upgrading of Old and Existing Building (Old Dormitory-Female Dormitory)
+
+4,869,400.00
+
+Total 
+
+22,512,063.49
+
+Non-compliance with the afore-mentioned rules and regulations precluded the timely evaluation of the transactions as to their conformity with applicable laws, determination of physical existence of the projects and compliance with the approved plans and specifications for the project.
+
+
+
+We recommended that Management take the following courses of action:
+
+
+
+a)	Direct the Bids and Awards Committee (BAC) to prepare the transmittal letter signed by SUC President submitting to the Audit Team the required copy of contracts along with their supporting documents within the prescribed period provided in the aforementioned regulation, for the timely review and evaluation; and 
+
+
+
+b)		Submit requests for inspection of completed projects to the Commission on Audit thru the Audit Team.
+
+	
+
+Management Comment: 
+
+
+
+In the exit conference, the SUC President has already instructed the BAC Chairman to remind the BAC Secretariat of the prescribed period in the submission of contracts together with the supporting documents and the Physical Plant and Site Development Office (PPSDO) to request for inspection of all their completed projects. 
+
+
+
+
+
+10)	Property Acknowledgement Receipts (PARs) were not regularly renewed, thus, accountability over College properties may not be properly determined which may result in loss of government property.
+
+
+
+Section 21, Chapter 10 of GAM for NGAs, Volume I, is quoted as follows: 
+
+
+
+Sec. 21. Issue of PPE. Based on approved RIS, the Supply and/or Property Custodian shall prepare the Property Acknowledgement Receipt (PAR) (Appendix 71) to support the issue of property to end-user. The PAR shall be renewed at least every three years or every time there is a change in accountability or custodianship of the property.
+
+
+
+In addition, the PARs shall be alphabetically filed by property officer for ready reference and renewed every January after the 3rd year of issue. (Handbook on Property and Supply Management System) 
+
+
+
+Verification of available property records of the College disclosed that the PARs for all properties were issued only once, that is, upon receipt of the property. No renewal of these PARs was made thereafter.
+
+
+
+Renewal of these PARs is an effective monitoring tool, both for the College and all its stakeholders, to establish accountability of concerned personnel over the properties respectively issued to them and to monitor unrecorded or undocumented transfer of property from one Accountable Officer to another. These PARs also form as integral source documents during the conduct of inventory. Thus, without this document, there is risk that these properties may not be included in the said inventory particularly those relating to the PARs on those properties which were not renewed for a long period of time or taken away from the inventory report.
+
+ 
+
+Absence of these renewed PARs poses difficulty for the Audit Team to establish the list of officials who are presently accountable over the College’s properties. 
+
+		
+
+We reiterated our previous audit recommendation that Management direct the Supply/Property Officer to regularly renew Property Acknowledgment Receipts, maintain an efficient property management by following the prescribed rules and regulations in property recording and maintain accurate property records.
+
+
+
+Management Comment: 
+
+
+
+Management assured the Audit Team of their compliance with the audit recommendations. They said that they are considering hiring additional staff who will be responsible in updating and maintenance of PARs. 
+
+
+
+
+
+11)	The College was unable to observe the rules and regulations on the granting, utilization, liquidation and accounting of Cash Advances (CAs), precluding the College from monitoring the status of its actual cash position at any given time.
+
+
+
+A)	CAs granted to the personnel acting as Special Disbursing Officers (SDOs) of the College were being transferred to and utilized by another personnel. 
+
+
+
+Section 4.1.6 of COA Circular No. 97-002 provides that:
+
+
+
+Transfer of cash advance from one Accountable Officer (AO) to another shall not be allowed. 
+
+ 
+
+Upon inquiry, we were informed that Management granted cash advances to personnel acting as special disbursing officer, however its custody and utilization were being handled by another personnel. Management resorted to this practice because the personnel who actually handled the cash advances are not bonded. 
+
+ 
+
+The afore-mentioned practice violated the rules and regulations in the granting, utilization of CA and the procedure applied exposes the government funds to possible risk of loss and/or misuse. 
+
+ 
+
+We reiterated our previous recommendation that Management require the AOs to stop the practice of transferring the CAs to another AO. Moreover, designate additional SDOs to handle the disbursing functions for other special programs and activities of the College. 
+
+
+
+Management Comment:
+
+
+
+Management agreed to comply with the recommendation. 
+
+
+
+
+
+B)	Various SDOs of DEBESMSCAT were unable to maintain Cash Disbursement Record (CDRec) to record grants and liquidations of CAs for Special Purpose/Time-Bound Undertakings. 
+
+ 
+
+Section 6 of COA Circular 97-002 dated February 10, 1997 prescribes the following:
+
+
+
+6.1	A newly-appointed or designated AO shall start with a new cashbook. Before discharging his duties, the new AO shall be briefed by the Accountant and the Auditor on the proper recording of the transactions and other matters related to his work. 
+
+ 
+
+6.2	The AO shall maintain separate cashbooks for salaries, wages, allowances, etc. and for petty operating expenses. The AO shall record the transactions in the prescribed cashbook daily. He may record each invoice/receipt/voucher individually or the total disbursements for the day depending on the volume of the transactions. 
+
+ 
+
+6.3 	The AO shall reconcile the book balance with the cash on hand daily. He shall foot and close the books at the end of each month. The AO and the Accountant shall reconcile their books of accounts at least quarterly. 
+
+  
+
+6.4 	The Cashbook shall be kept at the Office of the AO and then placed inside the safe or cabinet when not in use. It shall be taken from her/his custody only by the Auditor or an official duly authorized by the Agency Head, who shall issue the necessary receipt. 
+
+ 
+
+Moreover, Section 17 of Chapter 6 of GAM for NGAs, Volume I, states that:
+
+
+
+The Disbursing Officer shall maintain the Cash Disbursement Record (CDRec) (Appendix 40) to monitor the Cash Advances/payroll, current operating expenses, and special purpose/time-bound undertakings and prepare the Report of Cash Disbursements (RCDisb) (Appendix 41) to report its utilization. Payments shall be based on the duly approved Payroll and shall be posted by the Designated Staff to the IP. The JEV shall be prepared based on the RD and shall be recorded in CDJ. 
+
+
+
+However, during our conduct of cash examination, we noted that several designated SDOs were unable to present their respective CDRecs. Instead, their liquidation reports were directly submitted to the Accounting Section for accounting purposes.  
+
+ 	
+
+The absence of these CDRecs precludes the College from monitoring its financial resources as it poses difficulty in establishing the cash accountabilities of each and every AO at any given time. 
+
+ 
+
+We reiterated our previous audit recommendations that Management direct the SDOs to immediately prepare and maintain CDRecs for CAs by Fund Cluster, to record all transactions thereof and ensure that these are updated regularly. 
+
+
+
+Management Comment: 
+
+
+
+Management assured the Audit Team of their compliance with the recommendations.
+
+
+
+
+
+12)	The Office of the Cashier is not adequately secured as windows thereof are not provided with grills to properly safeguard the office from unauthorized access by unscrupulous individuals, thus, exposing government funds and financial records/reports under her accountability to the risk of loss thru theft and other irregularities.
+
+
+
+Section 52, Volume III, of the Government Accounting and Auditing Manual (GAAM), provides that:
+
+
+
+Tangible assets such as cash, supplies, furniture and equipment are vulnerable to misappropriation. Physical safeguards that provide protection that is adequate and suitable to the nature of each asset should be adopted, e.g., safes for cash, storerooms for supplies and unissued equipment, lock and key for offices, etc.
+
+
+
+The responsibility to take care that such policy is faithfully adhered to rests directly with the chief or head of the government agency concerned.
+
+
+
+Evaluation of the existing internal control system on cash management revealed that the windows of the office being occupied by the Cashier are not provided with grills to safeguard the office and prevent outsiders/ unscrupulous individuals from barging in. On the other hand, vault was already provided at the Cashier’s office to keep her cash collections and accountable forms intact.
+
+
+
+This condition exposes government funds and financial records/reports to possible misuse and risk of loss thru theft and other irregularities.
+
+
+
+We reiterated the previous audit recommendation that Management provide adequate safety measures by installing grilled windows at the Office of the Cashier to safeguard government funds and other accountabilities being kept at the Office, as required under Sec. 52 of the GAAM, Volume III.
+
+
+
+Management Comment: 
+
+
+
+Management reasoned out that they cannot facilitate the immediate installation of the grilled windows at the Office of the Cashier as of this time because the existing building is subject for demolition. However, they assured the Audit Team of their compliance with the audit recommendations once the new building is constructed.  
+
+
+
+
+
+C)	COMPLIANCE WITH GENDER AND DEVELOPMENT (GAD) LAWS AND REGULATIONS
+
+
+
+13)	Several identified gender issues in the submitted GAD Accomplishment Report (AR) for CY 2020 of the College were inconsistent with the approved GAD Plan and Budget (GPB). Moreover, the AR was not supported with the required documents, thereby, hampering the evaluation and validation of the reported GAD activities.
+
+
+
+Section 10, paragraph 1 of PCW-NEDA-DBM Joint Circular No. 2012-01 provides that:
+
+
+
+Attached Agencies, bureaus, regional offices, constituent units and all other agencies concerned shall submit their GAD ARs to their central offices. The GFPS shall prepare the Annual GAD AR based on the PCW-endorsed GPB or the GPB adjusted to the approved GAA following the form prescribed in Annex B. Activities completed until the end of the year may be included in the final GAD AR of agency submitted to PCW in January.
+
+
+
+Further, paragraph 4 of the same Section states that;
+
+
+
+The annual GAD AR shall be accompanied by the following; 1) brief summary of the reported program or project; 2) copies of the reported policy issuances; 3) results of HGDG tests, if any; and 4) actions taken by the agency on the COA audit findings and recommendations, if any.  
+
+
+
+	Review of the Agency GAD AR for CY 2020 disclosed that several identified Gender Issues/GAD Mandate were not in accordance with the approved GPB, contrary to the above-mentioned provisions. Details are shown as follows:
+
+
+
+Gender Issue /GAD Mandate per GPB for CY 2020
+
+Gender Issue/ Mandate per GAD AR for CY 2020
+
+GAD Activities per GPB and GAD AR
+
+Observations
+
+Little focus on the conduct of GAD responsive extension activities per college in the institution
+
+Increase the utilization of sex disaggregated data of male and female students in the college
+
+Conduct of GAD responsive extension services per college
+
+Gender Issue is different from GPB vs GAD AR.
+
+Gender stereotyping on practice teaching (female practice teachers are only assigned to teach in Kinder-Grade 3 while male student teachers will teach in higher grade levels
+
+Promote awareness on civic activities/volunteerism among female and male students
+
+Conduct of Gender Sensitivity Training to Student Teachers and Cooperating Teachers
+
+Gender Issue is different from GPB vs GAD AR.
+
+Gender insensitivity of the students in the institution and extension learning sites
+
+Ensure availability of skills training, business related trainings, livelihood capability program for women potentials entrepreneurs and women entrepreneurs
+
+Conduct of GST for all students in the main campus learning sites
+
+Gender Issue is different from GPB vs GAD AR.
+
+Low level of awareness on gender sensitivity among partner communities, linkages and agencies
+
+Promote sense of responsibility and support environmental advocacy on Greening program and proper waste management among female NSTP students
+
+To conduct gender sensitivity seminar/training to all partner agencies
+
+Gender Issue is different from GPB vs GAD AR.
+
+Unreported gender-based violence on LGBTs and cross dresser using comfort rooms
+
+Equal opportunities of male and female students to participate in the intramurals, SCUAA Meet and Cultural contest
+
+Construction of comfort rooms for LGBTs in the university
+
+Gender Issue is different from GPB vs GAD AR.
+
+Observance of Women's Month in accordance with the proclamation Nos. 224 and 227, series of 1988/ Compliance to the proclamation Nos. 224 and 227, series of 1998
+
+Inculcate the spirit of volunteerism among all genders
+
+Conduct of Film Showing, Dance Competition on the theme, Seminar on SOGIE, Gender Fair Language, and Diversity in the classroom, Seminar on Basic Customer Handling
+
+Gender Issue is different from GPB vs GAD AR.
+
+Vulnerability of women and men all forms of Gender-Based Violence
+
+Knowledge and proper waste disposal for both female and male students
+
+Conduct forums or symposium to the 1st year students
+
+Gender Issue is different from GPB vs GAD AR.
+
+Lack of concrete programs and policies in the university and communities for addressing gender and women issues
+
+To conduct seminar workshops and in-house review for GAD responsive researches
+
+To conduct seminar workshops and in-house review for GAD responsive researches
+
+Gender Issue is different from GPB vs GAD AR.
+
+Vulnerability of women and men all forms of Gender-Based Violence
+
+Vulnerability of women and men all forms of Gender-Based Violence
+
+Conduct training-workshops to the newly-hired employees and faculty on the different women laws
+
+This was a repeat gender issue in GPB No. 8
+
+
+
+We further noted that the GAD AR was not supported with documents required in Section 10, paragraph 4 of the aforesaid Joint Circular. 
+
+
+
+The inconsistencies between the GAD AR and GPB and the absence of the documents precluded the Audit Team from assessing and evaluating the efficiency and effectiveness of the GAD Programs/Projects/Activities (PPAs) implemented by the College during the year.
+
+
+
+We recommended that the GAD Focal Point System (GFPS) use the GPB in the formulation of the GAD AR to have harmonized and reliable reports. Also, the reports shall be duly supported with the documents required in Section 10, paragraph 4, of the afore-mentioned Joint Circular to facilitate the monitoring and evaluation of the GAD PPAs implemented during the year.
+
+
+
+Management Comment:
+
+
+
+Management agreed to comply with the audit recommendation.
+
+
+
+
+
+
+
+
+
+
+
+D.   COMPLIANCE WITH TAX LAWS
+
+
+
+Taxes withheld from employees, contractors and suppliers for CY 2020 were regularly remitted to the account of the Bureau of Internal Revenue (BIR) in compliance with BIR Revenue Regulation No. 2-98 and Section 6(a) of PD No. 1445.  See Annex B for the Schedule of Remittances to BIR.
+
+
+
+
+
+E.  COMPLIANCE WITH RA NO. 8291
+
+
+
+DEBESMSCAT regularly remits to the Government Service Insurance System (GSIS) the premiums deducted from the salaries of the Officials and Employees in accordance with the provisions of RA No. 8291.  See Annex C for the Schedule of Remittances to GSIS.
+
+
+
+
+
+F.   COMPLIANCE WITH RA NO. 9679
+
+
+
+Pag-IBIG fund premiums and loan repayments of Officials and Employees were deducted from their salaries regularly.  Amounts withheld were remitted to the Pag-IBIG Fund in accordance with the provisions of RA No. 9679.  See Annex D for the Schedule of Remittances to Pag-IBIG Fund.
+
+
+
+
+
+G.	SUMMARY OF TOTAL SUSPENSIONS, DISALLOWANCES AND CHARGES AS OF YEAR-END
+
+
+
+The Agency’s ending balances of Notices of Suspension/Disallowance/Charge as of December 31, 2020 are as follows:
+
+
+
+
+
+
+
+
+
+
+
+Beg. Balance 
+
+As of 
+
+12/31/2019
+
+This Period
+
+January 1 to December 31, 2020
+
+Ending Balance
+
+As of 12/31/2020
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension
+
+ ₱                 0.00
+
+₱                0.00
+
+₱                0.00
+
+₱                0.00
+
+Notice of Disallowance
+
+3,598,941.47
+
+462,500.00
+
+0.00
+
+4,061,441.47
+
+Notice of Charge
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Total
+
+₱   3,598,941.47
+
+₱     462,500.00
+
+₱                0.00
+
+₱  4,061,441.47
+
+
+
+Out of the total ending balance of the Notice of Disallowance amounting to ₱4.06 million, 12.41 percent or ₱0.50 million are already issued with Notices of Finality of Decision and COA Order of Execution, while the remaining balance or ₱3.09 million is under Appeal. 
+
+
+
+
+
+29
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3928 @@
+
+
+
+
+
+
+OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+A)	FINANCIAL AND COMPLIANCE
+
+
+
+1)	Prior year’s audit observation on the non-reconciliation of the Accounting and Inventory Custodian’s records remained unacted upon, thus, accuracy and reliability of the inventory accounts balances amounting to ₱16.05 million cannot be ascertained. Likewise, the unit value of 1,401 pieces of six different items classified under Other Supplies and Materials Inventory was not indicated in the Report on the Physical Count of Inventories (RPCI).
+
+ 
+
+Volume II of the Government Accounting Manual (GAM) for National Government Agencies (NGAs) provides for the following accounting forms to be prepared and maintained for inventories: 
+
+ 
+
+Appendix 57 – Supplies Ledger Card (SLC) 
+
+ 
+
+D. The agency shall conduct physical count of inventories every semester. The semestral physical inventory of supplies shall be reconciled with the SLCs and controlling accounts and Supply and/or Property records. Any discrepancies shall be immediately verified and adjusted. 
+
+
+
+Appendix 58 – Stock Card 
+
+ 
+
+D. The agency shall conduct physical count of inventories every semester. The semestral physical inventory of supplies shall be reconciled with the SLCs and controlling accounts and Supply and/or Property records. Any discrepancies shall be immediately verified and adjusted. 
+
+ 
+
+Appendix 66 – Report on the Physical Count of Inventories 
+
+ 
+
+C. The report shall be reconciled with the SLCs and SCs maintained by the Accounting Division/Unit, and Property and/or Supply Division/Unit, respectively. Any discrepancy shall be verified and/or adjusted accordingly. 
+
+ 
+
+Likewise, Section 53b of Government Auditing Standards and Procedures and Internal Control System (Government Accounting and Auditing Manual (GAAM), Volume III) states that: 
+
+
+
+This standard requires comparison of recorded accountability with existing assets to determine whether the actual assets agree with the recorded accountability. Any discrepancy should be investigated in accordance with existing regulations and appropriate action taken thereon. 
+
+ 
+
+Review of the inventory accounts as of December 31, 2020 disclosed that a variance in the amount of ₱2.33 million was noted between the recorded inventories per books and per actual inventory count as reported in the RPCI. The breakdown of the accounts is presented below: 
+
+ 
+
+Account Title 
+
+Total (Per GL) 
+
+Per RPCI 
+
+Difference 
+
+Office Supply Inventory 
+
+₱   9,089,249.21
+
+₱  8,601,004.88
+
+₱      488,244.33
+
+Accountable Forms Inventory 
+
+822,500.00
+
+160,000.00
+
+662,500.00
+
+Textbooks and Instructional Materials 
+
+151,285.00
+
+0.00
+
+151,285.00
+
+Construction Materials Inventory 
+
+898,093.00
+
+896,593.10
+
+1,499.90
+
+Other Supplies and Materials Inventory 
+
+5,090,588.17
+
+4,062,168.10
+
+1,028,420.07
+
+TOTAL  
+
+₱ 16,051,715.38
+
+₱ 13,719,766.08
+
+₱   2,331,949.30
+
+ 
+
+100%
+
+85.47%
+
+14.53%
+
+	 
+
+The above noted discrepancy can be attributed mainly to the delayed recording in the SLCs as the Accounting Office was still updating the posting thereof for Fund 101 while the latest posting in the Stock Cards by the Supply Office was November 2020. It was also observed that due to the absence of unit value of the 1,401 pieces of six different items categorized under Other Supplies and Materials Inventory in the RPCI, said account registered the biggest variance which amounted to ₱1.03 million. The details of the inventory items are shown hereunder: 
+
+
+
+Article 
+
+Unit of 
+
+Measure 
+
+Balance Per Card 
+
+On Hand Per Count 
+
+  
+
+  
+
+(Quantity) 
+
+(Quantity) 
+
+1. Academic Gown 
+
+pcs. 
+
+4 
+
+4 
+
+2. Black toga 
+
+pcs. 
+
+51 
+
+51 
+
+3. Gown
+
+pcs.
+
+37
+
+37
+
+3. Caps 
+
+pcs. 
+
+858 
+
+858 
+
+4. Hood  
+
+pcs. 
+
+368 
+
+368 
+
+5. Toga Cap 
+
+pcs. 
+
+58 
+
+58 
+
+6. Undergrad Hood 
+
+pcs.  
+
+25 
+
+25 
+
+Total 
+
+  
+
+1,401
+
+1,401  
+
+ 
+
+The inability to reconcile Accounting and Supply records with the actual count did not present the real figures on inventory and expense accounts for a certain period, thus, affecting the accuracy and reliability of the Inventory accounts as presented in the financial statements. 
+
+ 
+
+The personnel of the concerned offices also informed the Audit Team that they are still in the process of reconciling the inventory accounts especially those that have no movements in the books. 
+
+ 	 
+
+Due to the above deficiencies, the correctness of the balances of the different inventory accounts in the financial statements as at year-end cannot not be ascertained, thus, casting doubt on the reliability and accuracy of the reported year-end balances of inventories in the total amount of ₱16.05 million. Likewise, loss of inventories, if any, could not be promptly determined since total accountability has not been accurately established. 
+
+ 
+
+This is a reiteration of the previous year’s audit observation where the recommendations have yet to be acted upon by concerned offices. 
+
+
+
+Management will adhere with the recommendations of the Audit Team.
+
+
+
+ 	We reiterated our previous year’s recommendations that Management require: 
+
+ 
+
+a)	The Accounting Office to maintain and update the recording of the receipts, issuances and corresponding balances in the SLCs. It shall be maintained for easy reconciliation with Supply Office at any given time; and
+
+ 
+
+b)	The Accounting and Supplies Offices to conduct periodic reconciliation of their respective records to ensure reliability of the inventory account balances. Trace the discrepancies and effect the necessary adjustments on the affected inventory accounts, including those inventory items with no unit cost/value.  
+
+
+
+
+
+2)	The correctness and reliability of the balances of Property, Plant and Equipment (PPE) accounts carried in the books at gross cost of ₱640.25 million as of December 31, 2020 were doubtful due to the non-reconciliation of the accounting and property records, inability to derecognize the disposed properties and inclusion as PPE of items below the capitalization threshold of ₱15,000. Likewise, Report on the Physical Count of Property, Plant and Equipment (RPCPPE) includes unserviceable properties already disposed amounting to ₱4.05 million.  
+
+ 
+
+Section 42, Chapter 10 of the GAM for NGAs, Volume I is quoted as follows: 
+
+
+
+Accounting and Property Records to be maintained for PPE. The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock etc. The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset. For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same. The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit. They shall also be reconciled with other property records like PAR. (Underscoring and emphasis supplied) 
+
+ 
+
+Also, Section 4 of the same Manual provides for the application of the capitalization threshold of ₱15,000 which provides that The capitalization threshold of ₱15,000 represents the minimum cost of an individual asset recognized as a PPE on the Statement of Financial Position. 
+
+ 
+
+Further, Section 10, Chapter 8 states that tangible items below the capitalization threshold of ₱15,000.00 shall be accounted as semi-expendable property. The following policies apply as follows:
+
+ 
+
+a)	Semi-expendable property which were recognized as PPE shall be reclassified to the affected account. 
+
+b)	These Tangible items shall be recognized as expenses upon issue to the end-user. 
+
+ 
+
+Section 11 also provides that Inventory Custodian Slip (ICS) (Appendix 59) shall be issued to end user of Semi–expendable Property to establish accountability over them.  Accountability shall be extinguished upon return of the item to the Property and Supply Division/Unit or in case of loss, upon approval of the relief from property accountability 
+
+ 
+
+Whereas, Section 40.d of Chapter 10 of the Manual also states that:
+
+
+
+ All unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP) (Appendix 74).
+
+ 
+
+Section 39 of the same Manual provides for the derecognition of PPE. It states that:
+
+
+
+The cost of the PPE together with the related accumulated depreciation and accumulated impairment loss shall be removed from the accounts (2014 ed. Financial Accounting, Volume 1, Valix). The carrying amount of an item of PPE shall be derecognized on disposal or when no future economic benefits or service potential is expected from its use or disposal.
+
+ 
+
+Moreover, Section 53b of Government Auditing Standards and Procedures and Internal Control System (GAAM Volume III) states that: 
+
+
+
+This standard requires comparison of recorded accountability with existing assets to determine whether the actual assets agree with the recorded accountability. Any discrepancy should be investigated in accordance with existing regulations and appropriate action taken thereon.
+
+ 
+
+Comparison of the recorded amounts of PPEs as of December 31, 2020 with the submitted RPCPPE revealed that there was a total variance of ₱13.17 million, as shown in the table below: 
+
+ 
+
+Property, Plant and Equipment Account 
+
+Per General Ledger 
+
+Per 
+
+RPCPPE 
+
+Difference 
+
+Land 
+
+₱   17,952,000.00
+
+₱        4,000,000.00
+
+₱ 13,952,000.00
+
+Other Land Improvements 
+
+29,881,149.05
+
+29,881,149.05
+
+0.00
+
+Sewer System 
+
+92,500.00
+
+92,500.00
+
+0.00
+
+Power Supply System 
+
+15,557,658.66
+
+15,557,658.66
+
+0.00
+
+Other Infrastructure Assets 
+
+383,508.05
+
+383,508.05
+
+0.00
+
+Machinery 
+
+1,875,000.00
+
+1,875,000.00
+
+0.00
+
+School Buildings 
+
+323,116,168.37
+
+323,116,168.37
+
+0.00
+
+Other Structures 
+
+5,545,150.86
+
+5,545,150.86
+
+0.00
+
+Office Equipment 
+
+18,021,141.49
+
+17,887,379.47
+
+133,762.02
+
+Information and 
+
+Communication Technology Equipment 
+
+54,361,665.67
+
+53,892,553.37
+
+469,112.30
+
+Communication Equipment 
+
+14,879,110.54
+
+14,844,120.54
+
+34,990.00
+
+Disaster Response and Rescue Equipment 
+
+15,500.00
+
+15,500.00
+
+0.00
+
+Medical Equipment 
+
+1,545,458.00
+
+1,545,458.00
+
+0.00
+
+Printing Equipment 
+
+3,896,710.00
+
+3,896,710.00
+
+0.00
+
+Sports Equipment 
+
+982,656.20
+
+982,656.20
+
+0.00
+
+Technical and Scientific Equipment 
+
+313,000.00
+
+313,000.00
+
+0.00
+
+Other Machinery and Equipment 
+
+73,192,527.04
+
+73,192,527.04
+
+0.00
+
+Motor Vehicles 
+
+13,348,249.00
+
+13,348,249.00
+
+0.00
+
+Furniture and Fixtures 
+
+14,817,711.66
+
+14,817,711.66
+
+0.00
+
+Books 
+
+6,712,370.43
+
+6,712,370.43
+
+0.00
+
+Other Property, Plant and Equipment 
+
+24,264,323.61
+
+25,143,434.33
+
+(879,110.72)
+
+Computer Software 
+
+19,491,443.65
+
+20,036,676.85
+
+(545,233.20)
+
+Total 
+
+₱  640,245,002.28
+
+₱   627,079,481.88
+
+₱ 13,165,520.40
+
+				  	 	 
+
+ It can be gleaned from the foregoing table that the bulk of the unreconciled amount of PPEs pertains to the Land account while other variances were noted on other fixed assets, such as Office Equipment, Information and Communication Technology Equipment, Communication Equipment, Other Property, Plant and Equipment and Computer Software, with discrepancies of ₱133,762, ₱469,112, ₱34,990, (₱879,111) and (₱545,233), respectively. The variance on the Land account in the amount of ₱13.95 million was attributed on the full settlement agreement on the donated land which was claimed by private individuals and is the subject of a civil case. The settled land was already recorded in the books but not yet included in the RPCPPE.  
+
+
+
+Review of the RPCPPE as of December 31, 2020 also disclosed that PPEs already disposed, as stated in the remark’s column in the RPCPPE amounting to ₱4.05 million, were still included in the said report. The Audit Team was informed by the Accounting Personnel that the following PPEs were not yet dropped from the books due to lack of other supporting documents: 
+
+ 
+
+  
+
+Particulars 
+
+Regular Fund 
+
+Special Trust Fund 
+
+Trust Fund 
+
+Total 
+
+1 
+
+IT Equipment and Software 
+
+₱ 290,487.00
+
+₱ 1,998,263.23
+
+₱ 58,790.00
+
+₱2,347,540.23
+
+2 
+
+Office Equipment 
+
+380,972.75
+
+252,374.00
+
+132,390.00
+
+765,736.75
+
+3 
+
+Communication Equipment   
+
+173,286.00
+
+264,134.00
+
+282,315.78
+
+719,735.78
+
+4 
+
+Printing Equipment   
+
+175,000.00
+
+                 0.00
+
+            0.00
+
+175,000.00
+
+5 
+
+Sports Equipment    
+
+                 0.00
+
+22,100.00
+
+            0.00
+
+22,100.00
+
+6 
+
+Computer Software 
+
+23,000.00
+
+                 0.00
+
+            0.00
+
+23,000.00
+
+  
+
+Total 
+
+₱1,042,745.75
+
+₱ 2,536,871.23
+
+₱473,495.78
+
+₱4,053,112.76
+
+ 
+
+Further review of the RPCPPE disclosed items below the capitalization threshold of ₱15,000 that were improperly classified as PPE instead of semi- expendable properties which shall be reported in the RPCI. The table below shows the summary of items falling below the capitalization threshold:  
+
+ 
+
+Particulars 
+
+Article
+
+Unit of Measure
+
+ Unit Value  
+
+Quantity per Property Card
+
+Office Equipment (Fund 101) 
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+Air Conditioner 
+
+unit 
+
+₱   13,500.00
+
+	 	1 
+
+ 
+
+Air Conditioner 
+
+unit 
+
+13,500.00
+
+	 	1 
+
+ 
+
+Sub-total 
+
+  
+
+₱   27,000.00
+
+  
+
+Communication Equipment (Fund 164) 
+
+ 
+
+  
+
+
+
+  
+
+ 
+
+Fax Machine 
+
+units 
+
+₱   13,895.00
+
+	 	1 
+
+ 
+
+Fax Machine 
+
+units 
+
+13,895.00
+
+	 	1 
+
+ 
+
+Sub-total 
+
+  
+
+₱   27,790.00
+
+ 	  
+
+Other PPE (Fund 164) 
+
+  
+
+  
+
+
+
+  
+
+ 
+
+Asean Flagpole 
+
+pc 
+
+₱     9,850.00
+
+	 	1 
+
+ 
+
+Asean Flagpole 
+
+pc 
+
+9,850.00
+
+	 	1 
+
+ 
+
+Asean Flagpole 
+
+pc 
+
+9,850.00
+
+	 	1 
+
+ 
+
+Sub-total 
+
+  
+
+₱   29,550.00
+
+  
+
+ 
+
+Total 
+
+  
+
+₱   84,340.00
+
+  
+
+ 
+
+The amount of ₱84,340 should have been accounted as Semi-expendable property. However, considering that they have already been issued to the end-users, they should be recognized in the appropriate expense accounts duly supported with the ICS. Inability of Management to observe the foregoing actions resulted in the overstatement of the PPE and Equity accounts and understatement of the affected expense accounts.  
+
+ 
+
+These errors/discrepancies rendered the balance of the PPE accounts amounting to ₱640.25 million as of December 31, 2020 unreliable.   
+
+ 
+
+This is a reiteration of the prior years’ audit observations and recommendations. 
+
+	 
+
+Management promised to adhere to the recommendations to derecognize the unserviceable properties and to reclassify other PPE as Semi-Expendable property duly supported with ICS.
+
+
+
+According to the Accountant, the discrepancy is because of the recognition of the land in the Statement of Financial Position of the College which is due on the 1st quarter of 2020 per contract entered into between CSPC and the private claimants. However, the same has not been paid by the College, hence, the office set up a provision for the said land.
+
+
+
+We recommended that Management: 
+
+ 
+
+a)	Immediately require the Property Officer and the Accountant to reconcile the RPCPPE with the General Ledger Balances and make the necessary adjustments for the discrepancies noted in audit amounting to ₱13.17 million, to present the correct PPE account balance in their respective books and records;
+
+ 
+
+b)	Require the Accounting Unit to prepare adjusting entries to derecognize the PPEs already disposed amounting to ₱4.05 million;
+
+ 
+
+c)	Require the Property Unit to remove from the PPE accounts the items amounting to ₱84,340 which are below the capitalization threshold of ₱15,000 and classify them as inventory items pursuant to Section 4, Chapter 10 of GAM for NGAs, Volume 1; and  
+
+ 
+
+d)	Require the Accounting Unit to prepare adjusting entries to correct the overstatement of asset and equity accounts for those semi-expendable property already issued to end-users as supported with duly accomplished ICS.
+
+
+
+
+
+3)	Prior years’ carried over balance of ₱(12,956) of the Cash-Collecting Officer account subject to reconciliation and adjustment remained unacted upon.
+
+ 
+
+Section 3.1.2 Chapter 3 of the National Guidelines on Internal Control System states that:
+
+
+
+Operating procedures of every office require that the cash records of the Accounting and the Cash Units should be regularly reconciled. 
+
+ 
+
+Section 111 (2) of Presidential Decree (PD) No. 1445 provides that:
+
+
+
+The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+ 
+
+Review of transactions on the collections and deposits under Funds 101 and 164 during CY 2020 revealed that collections were remitted/deposited regularly. However, the consolidated balance of the account as of December 31, 2020 disclosed a negative balance of ₱12,956, detailed as follows:  
+
+ 
+
+Period Covered
+
+
+
+Fund 101
+
+
+
+
+
+Fund 164
+
+
+
+Consolidated Balance
+
+
+
+Collections 
+
+Deposits 
+
+Balance 
+
+Collections 
+
+Deposits 
+
+Balance 
+
+
+
+ Balance 1/1/19 
+
+₱      55,988.69
+
+
+
+₱    55,988.69
+
+
+
+₱ (68,944.45)
+
+₱(68,944.45)
+
+₱  (12,955.76)
+
+1/1-31/20 
+
+770,306.53
+
+766,889.74
+
+3,416.79
+
+2,708,725.65
+
+2,682,791.20
+
+25,934.45
+
+29,351.24
+
+2/1-28/20 
+
+1,790,561.91
+
+1,793,978.70
+
+(3,416.79)
+
+42,360,188.58
+
+42,376,008.43
+
+(15,819.85)
+
+(19,236.64)
+
+3/1-31/20 
+
+5,157,312.52
+
+5,157,312.52
+
+0.00
+
+554,495.27
+
+564,609.87
+
+(10,114.60)
+
+(10,114.60)
+
+4/1-30/20 
+
+181,493.33
+
+181,493.33
+
+0.00
+
+8,320.00
+
+8,320.00
+
+0.00
+
+0.00
+
+5/1-31/20 
+
+1,495,705.40
+
+1,488,105.40
+
+7,600.00
+
+36,058.22
+
+27,918.22
+
+8,140.00
+
+15,740.00
+
+6/1-30/20 
+
+14,099,813.83
+
+13,953,022.50
+
+146,791.33
+
+430,746.60
+
+431,591.60
+
+(845.00)
+
+145,946.33
+
+7/1-31/20 
+
+6,211,989.80
+
+6,364,646.13
+
+(152,656.33)
+
+590,794.49
+
+563,962.93
+
+26,831.56
+
+(125,824.77)
+
+8/1-31/20 
+
+2,639,684.44
+
+2,623,554.16
+
+16,130.28
+
+27,636,292.25
+
+27,613,187.40
+
+23,104.85
+
+39,235.13
+
+9/1-30/20 
+
+47,224,979.00
+
+47,241,476.28
+
+(16,497.28)
+
+38,031,153.23
+
+38,082,366.95
+
+(51,213.72)
+
+(67,711.00)
+
+10/1-
+
+31/20 
+
+834,224.50
+
+839,592.50
+
+(5,368.00)
+
+300,976.60
+
+302,794.29
+
+(1,817.69)
+
+(7,185.69)
+
+11/1-
+
+30/20 
+
+433,547.50
+
+426,987.50
+
+6,560.00
+
+160,658.84
+
+155,668.84
+
+4,990.00
+
+11,550.00
+
+12/1-
+
+31/20 
+
+12,542,132.37
+
+12,548,558.87
+
+(6,426.50)
+
+365,553.87
+
+370,877.37
+
+(5,323.50)
+
+(11,750.00)
+
+  
+
+
+
+Total
+
+₱    52,122.19
+
+
+
+
+
+₱ (65,077.95)
+
+₱ (12,955.76)
+
+ 
+
+It can be gleaned from the above table that the balances of the account per general ledger as of December 31, 2020 for Fund 101 and Fund 164 amounted to ₱52,122 and ₱(65,078) respectively. Apparently, the ending balances of the two Funds when consolidated showed a negative balance of ₱12,956 which is the same as the forwarded balance as of December 31, 2019. It was learned that said balance pertains to prior years’ book reconciling items which remained unacted/unadjusted for several years already. 
+
+ 
+
+Had the Accounting Office conducted detailed analysis and reconciliation with the Cashier’s records on the prior years’ transactions, the abnormal balance could have been traced and adjusted accordingly in order to have a correct and reliable balance of the Cash-Collecting Officer account in the books of the College. 
+
+
+
+The Accounting Office has conducted verification of the involved accounts and it was found out that it requires fund transfer from Fund 164 to Fund 101 due to error in the deposits made to the bank accounts maintained for the two Funds. Accordingly, the depository bank shall be informed of the possible correction/adjustment to be effected. 
+
+
+
+We recommended that Management require the Accountant to look into the source documents and investigate the cause of the prior years’ unacted/unadjusted/unreconciled balance per General Ledger amounting to (₱12,956) and immediately effect adjustment thereof in the books of the College.  Officially notify the depository bank of the fund transfer to be made to the depository accounts maintained for Funds 101 and 164.
+
+
+
+
+
+4)	Receivables from the Commission on Higher Education (CHED) for payment of tuition fees and other school fees under the Free Higher Education (FHE) Program of Republic Act (RA) No. 10931 amounting to ₱65.7 million was debited to Accounts Receivable instead of Due from NGAs account. 
+
+ 
+
+COA Circular No. 2020-001 dated January 8, 2020 provides the Revised Chart of Accounts (Updated 2019) for NGAs. It defines, among others, the following: 
+
+ 
+
+Account Title: 
+
+Accounts Receivable 
+
+Account Number: 
+
+10301010 
+
+Description: 
+
+This account is debited to recognize the amount due from customers arising from regular trade and business transactions. This account is credited upon collection, transfers, write-off, and/or adjustments of receivables. 
+
+ 
+
+Account Title: 
+
+Due from National Government Agencies 
+
+Account Number: 
+
+10303010 
+
+Description: 
+
+This account is debited to recognize advances for purchase of goods/services as authorized by law, fund transfers to the NGAs for implementation of projects and other receivables from NGAs. This account is credited upon receipt of goods/services, liquidation of fund transfers, receipt of payment, settlement, write-off, and/or adjustments. 
+
+
+
+	The CSPC is eligible to provide the FHE program as stated under Section 5 of the Implementing Rules and Regulation (IRR) of RA No. 10931 otherwise known as the Universal Access to Quality Tertiary Education Act. The benefits include among others, free tuition for all courses/subject/classes enrolled during a particular semester, and free miscellaneous, other school and related fees. 
+
+ 
+
+The IRR further provides that State Universities and Colleges (SUCs) shall bill the CHED on a semestral basis (or, if applicable, trimestral) for reconciliation of the mobilization fund and additional payment-in case the mobilization fund is not enough to pay for all students who are availing of the Free Higher Education benefit. 
+
+ 
+
+Review of the financial statements disclosed that Accounts Receivable balance as of December 31, 2020 amounted to ₱70.43 million. Aging of Accounts Receivable showed the composition of the balance as follows: 
+
+ 
+
+Fund
+
+Particulars
+
+Account Balance
+
+Fund 101 and Trust Fund  
+
+1st semester 2020-2021 
+
+1,449,898.24 
+
+Special Trust Fund 
+
+1st semester 2020-2021 
+
+58,007,432.85 
+
+Special Trust Fund 
+
+2nd semester 2018-2019 
+
+10,970,203.74 
+
+Total 
+
+ 
+
+₱   70,427,534.83 
+
+ 
+
+Scrutiny of records and inquiry with the personnel in-charge revealed that the balances for the 1st semester AY 2020-2021 and 2nd semester AY 2018-2019 consisted mostly of receivables from CHED for the payment of tuition fees and other school fees of student-beneficiaries under the FHE program of the National Government in the amounts of ₱55 million and ₱10.6 million, respectively. The inclusion of these amounts in the balance of Accounts Receivable is not proper and contrary to the Revised Chart of Accounts (Updated 2019) for NGAs. They should have been debited to the Due from NGAs account and not to the Accounts Receivable account.   
+
+
+
+Although these accounts are considered asset accounts under Receivables, it is still necessary that the accounts to be used should be in accordance with the descriptions in the Revised Chart of Accounts for proper classification of the transactions in the financial statements. 
+
+ 
+
+As a result, the Accounts Receivable account was overstated and the Due from NGAs account was understated in the amount of ₱65.7 million.  
+
+ 
+
+Further, according to the personnel in-charge, the ₱10.6 million balance from the 2nd semester AY 2018-2019 representing laboratory fees originally billed were excluded for payment by CHED and remain unpaid as of December 31, 2020. She averred that the amount was re-billed and verbal follow-ups were constantly made to CHED but was informed that the same could no longer be collected due to lack of appropriations. 
+
+ 
+
+We recommended and Management agreed to take the following courses of action: 
+
+ 
+
+a)	Use the proper account codes/titles in recording the receivables from NGAs in accordance with the Revised Chart of Accounts (Updated 2019) for NGAs prescribed under COA Circular No. 2020-001; 
+
+ 
+
+b)	Make the necessary adjusting entries to correct the balances of both the Accounts Receivable and Due from NGAs accounts; and 
+
+
+
+c)	Intensify collection efforts for the unpaid laboratory fees by continuously sending collection/demand letters to CHED in order not to deprive the College of much needed funds to support its operations. 
+
+
+
+
+
+5)	Other Payables account with General Ledger balance of ₱35.00 million as of December 31, 2020 is doubtful due to the absence of necessary supporting documents and updated subsidiary ledgers/schedules. 
+
+ 	 
+
+Section 111 of PD No. 1445 states that: 
+
+ 
+
+1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government. 
+
+ 
+
+2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+ 
+
+COA Circular 2020-001 dated January 8, 2020 prescribes the Revised Chart of Accounts (Updated 2019) for NGAs. Other Payables account is thereby defined as follows: 
+
+ 
+
+ This account is credited to recognize other liabilities not falling under any of the specific payable accounts. This account is debited for payment or settlement of liabilities, and/or adjustments.
+
+ 
+
+Moreover, Appendix 5 of the GAM for NGAs, Volume II, provides, among others that:
+
+
+
+The general ledger summarizes all transactions recorded in the GJ and special journal (e.g. CRJ, CDJ, CkDJ, etc.) xxx and (D) Controlling accounts in the GL shall be supported by details in the SLs.
+
+ 
+
+Likewise, Appendix 6 of said GAM provides that:
+
+
+
+(A) The SL shows the detail for each control account in the GL xxx and (C) … The totals of the SL balances shall be reconciled with the corresponding GL controlling account
+
+ 
+
+Review of the Other Payables account disclosed a general ledger balance amounting to ₱35.00 million as of December 31, 2020. Details of the account are presented as follows: 
+
+ 
+
+Fund 
+
+Beginning balance 
+
+Debits (Deduction) 
+
+Credits (Addition) 
+
+Balance 
+
+101 
+
+₱ 91,757,098.89 
+
+₱ 164,732,775.52 
+
+₱ 106,429,059.29 
+
+₱  33,453,382.66 
+
+164 
+
+1,593,682.68 
+
+466,143.19 
+
+387,378.16
+
+1,514,917.65 
+
+Total 
+
+₱ 93,350,781.57 
+
+₱ 165,198,918.71 
+
+₱ 106,816,437.45 
+
+₱  34,968,300.31 
+
+ 
+
+Analysis of the transactions charged to the account revealed that despite prior year’s audit observation and recommendation on the improper classification of various transactions, same were still recognized in the Other Payables account. The SSS premiums were still credited to the account instead of the appropriate payable account, Due to Other GOCCs. 
+
+ 
+
+Considering the foregoing, while a significant decrease of ₱58.38 million from the beginning balance of ₱93.35 million was noted, the ₱32 million balance outstanding in the books for a considerable period of time is material. As such, the correctness of the balance of the account could not still be established.
+
+ 
+
+Further, subsidiary ledgers and schedules to support the GL balance were still not updated and were not made available to the Audit Team for verification and scrutiny. The inability of Management to maintain an updated SL or Schedule of the Other Payables account casts doubt on the correctness of the amount reflected in the financial statement. 
+
+
+
+Management committed to comply with the recommendations. The Accounting Office has already updated the Subsidiary Ledgers for Other Payables under Funds 101 and Fund 164 as of December 31, 2020. After a thorough examination and verification of the transactions under said account, the necessary remittance to the National Treasury of any dormant accounts with no valid claimants/supporting documents shall be made.
+
+	 
+
+We reiterated our previous year’s recommendations that Management require the Accountant to analyze, investigate and substantiate the validity and existence of the recorded prior years’ transactions taken up under Other Payables account. Also, prepare a complete and updated Schedule or Subsidiary Ledger thereof and make the necessary adjusting entries to reflect the correct classification of the account.  
+
+ 
+
+It is likewise recommended that Management revert to the National Treasury any payable amounts already dormant for two years or more with no valid claimants/supporting documents. 
+
+
+
+
+
+6)	The accuracy and reliability of the Due to NGAs account balance of ₱7.86 million as of December 31, 2020 cannot be ascertained due to the absence of supporting documents, non-preparation of subsidiary ledgers/schedules, and inability to deduct from the account all liquidations and refund of the unutilized funds to the Source Agencies. 
+
+ 
+
+COA Circular No. 2020-001 dated January 8, 2020 prescribes the Revised Chart of Accounts (Updated 2019) for NGAs. Due to NGAs account is described therein as follows: 
+
+ 
+
+This account is credited to recognize the receipt of funds for delivery of goods/services as authorized by law, fund transfers from NGAs, other than the BIR, for implementation of specific programs or projects subject to liquidation and other inter-agency transactions. This account is debited for delivery of goods/services, liquidation of funds received and settlement of liabilities, and/or adjustments. 
+
+ 
+
+Sections 111, Chapter 2, Title III of PD No. 1445, otherwise known as the Government Auditing Code of the Philippines, provides that:
+
+
+
+The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+	
+
+Also, Chapter 2 of the GAM for NGAs, Volume I, provides the basic standards/fundamental accounting principles for financial reporting by NGAs. Section 12.b thereof includes the General Ledgers and Subsidiary Ledgers as among the books of accounts to be maintained by NGAs. 
+
+
+
+Furthermore, Appendix 5 of the GAM for NGAs, Volume II, provides, among others that:
+
+
+
+The general ledger summarizes all transactions recorded in the GJ and special journal (e.g. CRJ, CDJ, CkDJ, etc.) xxx and (D) Controlling accounts in the GL shall be supported by details in the SLs.
+
+ 
+
+Review of the general ledger of the College showed that the Due to NGAs account has a balance of ₱7.86 million as of December 31, 2020. It was further noted that the year-end balances of the account for the past five years were as follows: 
+
+ 
+
+CY
+
+Due to NGAs
+
+Account Balance
+
+(₱)
+
+2016 
+
+1,538,817.35 
+
+2017 
+
+7,188,817.35 
+
+2018 
+
+7,859,680.06 
+
+2019 
+
+7,656,527.50 
+
+2020 
+
+7,859,680.05 
+
+ 
+
+ Analysis of the balances revealed that in CY 2019, the ₱203,153 from the CY 2018 balance of ₱7.86 million was reclassified to Due to GOCCs account, thus, leaving a year-end balance of ₱7.66 million. However, in CY 2020, same amount was added back to the Due to NGAs account balance, hence, was non-moving from CYs 2018 to CY 2020. Also, verification and inquiry with the personnel in-charge revealed that the increase in the account balance from CYs 2016 to CY 2017 amounting to ₱5.65 million was due to the funds received from various NGAs with the following details:  
+
+ 
+
+Date of Credit Memo
+
+JEV No.
+
+Particulars
+
+Amount
+
+Credited
+
+10/04/2017 
+
+439-17-12-1016 
+
+Project fund for the Portable Perlite 
+
+Expander Machine for Small-Scale Industries granted by PCIEERD
+
+ 
+
+₱    150,000 
+
+06/21/2016 
+
+439-17-12-1017 
+
+Total approved budget for the implementation of the project titled 
+
+
+
+1,500,000 
+
+
+
+
+
+“Procurement of Mechanical Engineering Laboratory 
+
+		Equipment/Apparatuses 	for 	the 
+
+College of Engineering”  
+
+
+
+05/29/2017 
+
+439-17-12-1018 
+
+First Tranche (80% of total approved budget) for the implementation of the approved project under Institutional Development and Innovation Grants under the K to 12 Transition Program 
+
+4,000,000 
+
+Total 
+
+
+
+
+
+₱ 5,650,000 
+
+
+
+	The corresponding Subsidiary Ledger/schedules as well as the Memorandum of Agreement (MOA) for the funds received from NGAs were requested from the Accounting Office, however, the same were not presented/submitted due to unavailability.
+
+ 
+
+It should be noted that previous observations pertaining to fund transfers from other agencies were already issued by the Audit Team, particularly on the CY 2017 balance of ₱7.19 million which was outstanding for more than six years and lacks supporting documents to determine the source and purpose of the funds. Likewise, an audit observation was communicated to Management on the ₱4 million funds received from K to 12 Transition Program which remained unutilized as of December 31, 2018, thus, was recommended to be refunded to the Source Agency.  
+
+ 
+
+According to the Accounting Office staff, the amount of ₱4 million was already returned to CHED but no document was presented as evidence of the refund. She further averred that several disbursements were already made out of the funds received for implementation of various projects but was amenable that upon disbursement and refund of the unutilized amount, the Other Payables account was debited instead of the Due to NGAs account. These erroneous entries resulted in a negative balance in the Other Payables account and overstatement of the Due to NGAs account in the books of the College, thus, the balance of the Due to NGAs account amounting to ₱7.86 million remained non-moving as of December 31, 2020. 
+
+ 
+
+The absence of the necessary supporting documents, non-preparation of subsidiary ledgers/schedules and inability to deduct from the account all liquidations and return of the unutilized funds to the Source Agencies rendered the Due to NGAs account balance in the financial statements inaccurate and unreliable. 
+
+ 
+
+We recommended and Management agreed to require the Accounting Office to: 
+
+ 
+
+a)	Exert effort in retrieving the documents and records pertaining to the funds received from the College’s files if there is any or request a copy from the source agency; 
+
+
+
+b)	Prepare and maintain subsidiary ledgers which aid in monitoring and detecting errors/omissions on specific accounts;  
+
+c)	Reconcile records with the concerned source agencies and effect necessary adjustments in the books for accurate account balances; and 
+
+
+
+d)	Henceforth, ensure that financial transactions are completely documented and accurately recorded in the accounting books. 
+
+
+
+
+
+7)	Management was not able to enforce/exercise the remedies provided in the Revised IRR of RA No. 9184 for lapses in the implementation of various infrastructure projects.
+
+ 
+
+The applicable provisions of the 2016 Revised IRR of RA No. 9184 are quoted as follows: 
+
+ 	 
+
+Section 8.4 of Annex E:  
+
+
+
+In case that the delay in the completion of the work exceeds a time duration equivalent to ten per cent (10%) of the specified contract time plus any time extension duly granted to the contractor, the procuring entity concerned may rescind the contract, forfeit the contractor’s performance security and take over the prosecution of the project or award the same to the qualified contractor through negotiated contract.
+
+ 
+
+Section III, Item A(2) of Annex I:  
+
+ 
+
+The Procuring Entity shall terminate a contract for default when any of the following conditions attend its implementation: 
+
+ 
+
+a)	Due to the Contractor’s fault and while the project is ongoing, it has incurred a negative slippage of fifteen percent (15%) or more in accordance with Presidential Decree 1870; 
+
+ 
+
+b)	Due to Contractor’s fault and after the contract has expired, it has incurred a negative slippage of ten percent (10%) or more in the completion of the work; xxx
+
+ 
+
+Section 39.3 The performance security shall be denominated in Philippine Pesos and posted in favor of the Procuring Entity which shall be forfeited in the event it is established that the winning bidder is in default in any of its obligations under the contract. 
+
+ 
+
+Section 39.4 The performance security shall remain valid until issuance by the Procuring Entity of the Certificate of Final Acceptance. 
+
+ 
+
+Section 62.2.2 One (1) year from the project completion up to final acceptance or the defects liability period. 
+
+ 
+
+62.2.2.1 The contractor shall undertake the repair works, at his own expense, of any damage to the infrastructure on account of the use of the materials of inferior quality, within ninety (90) days from the time the HoPE has issued an order to undertake repair. In case of failure or refusal to comply with this mandate, the Procuring Entity shall undertake such repair works and shall be entitled to full reimbursement of expenses incurred therein upon demand. 
+
+
+
+6.2.2.2.2 The defects liability period shall be covered by the Performance Security of the contractor required in Section 39.1 of this IRR, which shall guarantee that the contractor performs his responsibilities stated in the immediately preceding Section. If the contractor fails to comply with its obligations under Section 62.2.2.1 of this IRR, the Procuring Entity shall forfeit its performance security, subject its property(ies) to attachment or garnishment proceedings, and perpetually disqualify it from participating in any competitive bidding. All payables of the GoP in his favor shall be offset to recover the costs.
+
+ 
+
+Ocular inspection conducted and verification of related records revealed that the State College awarded contracts for various infrastructure projects thru public bidding for the construction, completion and improvement of its facilities. However, it was noted that three infrastructure projects were not yet completed within the target completion dates. Per Report on Projects, Programs, Activities (PPAs) as of December 31, 2020, these projects and their status are summarized as follows: 
+
+ 
+
+CY
+
+Name of Project
+
+Contract Amount
+
+Target
+
+Completion
+
+Date
+
+Original**
+
+Revised***
+
+Delay in CD
+
+Percentage of delays
+
+(Slippage)*
+
+% of
+
+Accom- plishment
+
+Total Cost
+
+Incurred per Report on PPA as of 12/31/20
+
+2018 
+
+1. Center for 
+
+Innovation and 
+
+Technology 
+
+Development 
+
+(CITD - Phase III 
+
+(with variation 
+
+Order) 
+
+₱ 17,559,386.11 
+
+09/26/18** 
+
+826 
+
+38.22 
+
+92.05% 
+
+₱15,393,353.94 
+
+  
+
+Variation Order No. 1 
+
+1,595,834.80 
+
+11/25/18*** 
+
+  
+
+  
+
+86.20% 
+
+0.00 
+
+  
+
+ Sub-total 
+
+₱ 19,155,220.91 
+
+  
+
+  
+
+  
+
+  
+
+₱ 15,393,353.94 
+
+2019 
+
+2. Refurbishment of Comfort Rooms at 
+
+Various CSPC 
+
+Building 
+
+6,873,240.50 
+
+12/08/19** 
+
+388 
+
+-76.81% 
+
+88.37% 
+
+1,594,004.16 
+
+
+
+3.  Provision of 
+
+Mock-Up  Room -Reposting 
+
+618,616.00 
+
+03/11/20** 
+
+295 
+
+-85.91% 
+
+58.14% 
+
+0.00 
+
+  
+
+ Sub-total 
+
+₱      7,491,856.50 
+
+  
+
+  
+
+  
+
+  
+
+₱   1,594,004.16 
+
+ 
+
+TOTAL 
+
+₱    26,647,077.41 
+
+ 
+
+ 
+
+ 
+
+ 
+
+₱ 16,987,358.10 
+
+	• 	Based on the approved CSPC Project Progress Report as of 12/31/2020 
+
+ 
+
+It can be gleaned from the foregoing table that the contracts of the three projects have already expired with delays in the completion of the work exceeding a time duration equivalent to ten per cent of the specified contract time and have negative slippages that are way beyond the 15 per cent threshold. It was also revealed that the contractor of the CITD-Phase III has already abandoned the project. Thus, the remedies provided in the foregoing regulations are already warranted as follows: 
+
+ 
+
+	1)	Rescission of the contracts and continue the implementation of the projects by administration or awarding of the same to other qualified contractors. 
+
+	2)	Forfeiture of surety bonds issued by the contractors as performance security and for the release of the 15 per cent advance payment or mobilization 
+
+	3)	Initiating the blacklisting of the contractors so that they will be perpetually disqualified from participating in any competitive bidding.   
+
+ 
+
+Verification and inquiry, however, revealed that management has not exercised or enforced the abovementioned remedies, contrary to Section 8.4 of Annex E and Section IV, Item No. A(2) of Annex I, and  Section 62.2.2.1 of  the 2016 Revised IRR  of RA No. 9184.  Moreover, the audit also revealed that the CITD building, which was not yet completed and turned-over by the contractor, was already rehabilitated due to damages brought by Typhoon Rolly at the expense of the College amounting to ₱2.4 million.   
+
+ 
+
+These deficiencies are indicative of Management’s inefficiency in the implementation of its infrastructure projects. This shortfall in achieving CSPC’s capital outlay targets connotes the need to improve agency’s planning and procurement processes to ensure that projects are executed efficiently. The principles of efficiency and economy in the procurement process must be observed at all times consistent with the declared policy of the Government Procurement Reform Act. Thus, the non-completion of the afore-cited infrastructure projects resulted in the following:
+
+ 
+
+1)	Loss of government funds as follows: 
+
+ 
+
+	a)	Unrecouped advance payment of ₱1.1 million; 
+
+	b)	Unrecovered insurance or unforfeited surety bonds for performance security and advance payment in the amounts of ₱8.07 million and ₱0.73 million, respectively. Detailed as follows:
+
+ 
+
+
+
+Name of Project
+
+
+
+Performance Security
+
+Unrecouped
+
+Advance Payment
+
+(15% Mobilization)
+
+1. CITD - Phase III 
+
+₱ 5,267,815.83 
+
+₱             0.00
+
+		2. 	Refurbishment of 
+
+Comfort Rooms at Various CSPC Building 
+
+2,535,421.90 
+
+726,329.70 
+
+3.  Provision of Mock-Up  
+
+Room -Reposting 
+
+269,968.00 
+
+0.00 
+
+ Total
+
+₱ 8,073,205.73 
+
+₱ 726,329.70 
+
+
+
+	c)	Cost of repairs in the amount of ₱2.42 million of the uncompleted CITD Building after it was damaged by typhoon. The cost of repair should have been borne by the contractor before turnover. 
+
+ 
+
+2)	Denied the intended beneficiaries to enjoy the corresponding social and economic benefits on time. 
+
+ 
+
+Management commented that although they recognize that the government should implement the infrastructure projects as prescribed in RA No. 9184, however, given the delicate pandemic situation and the IATF protocols, they are facing the dilemma of coping and balancing the conditions of the country, society and the construction industry.
+
+
+
+They added that they respect and recognize the recommendations of the COA Audit Team and are bound to observe with diligence these recommendations for future preparation and implementation of infrastructure projects.
+
+
+
+We recommended that Management: 
+
+ 
+
+a)	Cause the immediate termination of the contract for the abandoned infrastructure project Center for Innovation and Technology Development (CITD Phase III) and award the contract to another qualified contractor; 
+
+ 
+
+b)	Forfeit the contractor’s performance security and initiate the suspension or blacklisting of defaulting contractor in accordance with the guidelines issued by the Government Procurement Policy Board (GPPB); 
+
+ 
+
+c)	Conduct preliminary detailed engineering activities thoroughly for future infrastructure projects and ensure that present and past issues that contribute to the delay in the project implementation are resolved prior to the procurement and construction of the infrastructure projects; 
+
+  
+
+d)	Require the Project Engineers to monitor closely and supervise the project implementation in accordance with the plans, specifications and timelines, and institute appropriate penalties, where necessary, to protect the interest of the government;  
+
+ 
+
+e)	Require the Bids and Awards Committee (BAC) and Technical Working Group (TWG) to thoroughly and strictly review the post-qualification of Contractors in terms of manpower, equipment requirements and performances on on-going and completed government and private civil works contracts; and 
+
+ 
+
+f)	Submit explanation why the CITD building, which was not yet completed and accepted, was already repaired out of the fund Special Trust Fund (STF) for CY 2020. 
+
+
+
+
+
+1)	Improvement of Roofing of Various Buildings with total contract amount of ₱10.3 million was found with a deficiency of 0.39 per cent due to the inclusion of pay items that are already covered in the other work items of the contract.  
+
+ 
+
+Items 4.1 and 5.1 of COA Circular No. 2012-003 dated October 29, 2012 defined unnecessary and excessive expenditures as follows: 
+
+
+
+Unnecessary expenditures:  
+
+ 
+
+The term pertains to expenditures which could not pass the test of prudence or the diligence of a good father of a family, thereby denoting non-responsiveness to the exigencies of the service. Unnecessary expenditures are those not supportive of the implementation of the objectives and mission of the agency relative to the nature of its operation. This would also include incurrence of expenditures not dictated by the demands of good government, and those the utility of which cannot be ascertained at a specific time. An expenditure that is not essential or that which can be dispensed with without loss or damage to property is considered unnecessary. The mission and thrusts of the agency incurring the expenditures must be considered in determining whether or not an expenditure is necessary.
+
+ 
+
+Excessive Expenditures: 
+
+ 
+
+The term “excessive expenditures” signifies unreasonable expense or expenses incurred at an immoderate quantity and exorbitant price. It also includes expenses which exceed what is usual or proper, as well as expenses which are unreasonably high and beyond just measure or amount. They also include expenses in excess of reasonable limits.
+
+ 
+
+One of the projects implemented by the College was the Improvement of Roofing of Various Buildings of CSPC with a total contract cost of ₱10.35 million. Per Statement of Work Accomplishment (SWA) and Certificate of Completion submitted by the Agency, the project was certified by Management as completed. However, per ocular inspection conducted by the Technical Services Office (TSO) of the COA Region V, it was disclosed that the accomplishments considered on the project was only 99.41 per cent.   
+
+ 
+
+Based on the inspection report, a copy thereof is attached as Annex A, the deficiencies were noted on Work Items C and E and are summarized as follows:  
+
+ 
+
+Item
+
+Work Items Involved
+
+Contract 
+
+Agency 
+
+Reported 
+
+Accomplishment 
+
+Accomplishment per 
+
+COA Ver 
+
+Remarks 
+
+ 
+
+ 
+
+Amount 
+
+Wt% 
+
+% 
+
+WT% 
+
+% 
+
+Wt% 
+
+ 
+
+C 
+
+	Quality Control 
+
+Program 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Materials Engineering and Quality Control Program including all required tests for soils, concrete, reinforcement and other materials required according to specifications 
+
+30,800.00 
+
+0.30% 
+
+100% 
+
+0.30% 
+
+0% 
+
+0.00% 
+
+Included in indirect Cost as per D.O No. 197, Subject: Revised Guidelines in the 
+
+Preparation of the ABC 
+
+E 
+
+		Hauling 	of Waste 
+
+Materials 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This items includes all post construction works and clean up 
+
+30,800.00 
+
+0.30% 
+
+100% 
+
+0.30% 
+
+0% 
+
+0.00% 
+
+Already in item A 
+
+ 
+
+TOTAL 
+
+₱   61,600.00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Items C and E above were no longer considered in the accomplishments because they were already included in other work items of the contract, particularly the Indirect Cost and Item A, respectively. Thus, the amount of ₱61,600 or 0.39 per cent of the contract may be considered as unnecessary and excessive. 
+
+
+
+We recommended that Management comply with the following: 
+
+ 
+
+a)	Appropriate action should be taken by Management to recover the amount of ₱61,800 as overpayment to the contractor, such as, withholding of any amount still due to the contractor, if there is any. Otherwise, the persons responsible for such overpayment should be held accountable for the same amount; and 
+
+ 
+
+b)	Require the authorized engineers to exercise due care in the preparation of Program of Works (POW) to prevent the incurrence of the same deficiency. 
+
+ 
+
+Management Comment:
+
+
+
+The College Engineer, as well as the entire staff of the PPFMS, adhere to exercise due care in the preparation of the POW to prevent the incurrence of similar deficiency in the future. 
+
+
+
+
+
+1)	Various communication equipment was procured by the school with a total contract cost of ₱31.7 million without the necessary permits. Moreover, the supporting documents submitted relative to the contract were not complete. 
+
+
+
+Section 4 of PD No. 1445 provides the following: 
+
+ 
+
+1)	Disbursements or disposition of government funds or property shall invariably bear the approval of the proper officials.  
+
+ 
+
+2)	Claims against government funds shall be supported with complete documentation. 
+
+ 
+
+Department Order No. 11 signed by the Secretary of Commerce and Industry provides:   
+
+ 
+
+Sec. 5. Permit necessary for the construction or installation of any radio station or radio transmitter or transceiver. The construction or installation of any radio station or radio transmitter or transceiver shall not be begun unless a permit therefore has been obtained from the Secretary of Public Works and Communications.
+
+ 
+
+Sec. 8.  Construction permit required for both transmitting and receiving stations. If both transmitting and receiving stations are to be installed in one location only, a single construction permit may cover both installations. Xxx.  
+
+ 
+
+Also, pertinent provisions of undated Memorandum Circular No. 2-05-88 of the Department of Transportation and Communications (DOTC) state: 
+
+ 
+
+7.1 No person or entity without a valid permit to sell, purchase, possess or sell issued by the Commission shall purchase, acquire or sell radio transmitter(s) and/or transceiver(s). 
+
+ 
+
+7.8 Prior clearance or permit from the Commission is required before transmitters and/or transceivers may be acquired from sources other than authorized Radiocommunication Equipment Dealers. 
+
+ 
+
+7.10 No person or entity shall engage commercially in the construction, manufacture, sale or purchase of radio transmitters or transceivers or repair of the same without the corresponding valid Permit by the Commission. 
+
+ 
+
+Moreover, the applicable provisions or Section 3.1 of COA Circular No. 2009-001 dated February 12, 2009 are quoted as follows: 
+
+ 
+
+Section 3.1. Within five (5) working days from the execution of the contract by the government or any of its subdivisions, agencies or instrumentalities including GOCCs and their subsidiaries, a copy of said contract and each of all the supporting documents forming part thereof by reference or incorporation shall be furnished to the Auditor of the agency concerned.  In case of agencies audited on an engagement basis, submission of a copy of the contract and its supporting documents shall be to the Auditor of the mother agency or parent company, as the case maybe. 
+
+ 
+
+Item 3.1.3 For technical review purposes, submission of contracts and their supporting documents shall furthermore be guided by the specific documentary requirements outlined in the attached checklist marked as Annexes “A” to “T” of this Circular. 
+
+ 
+
+Auditorial review of contracts revealed that the school procured various Broadcast Baseband and Radio Frequency Equipment for the CSPC Blended Learning with a total contract cost of ₱31.73 million, broken down as follows: 
+
+
+
+Description
+
+Unit Price
+
+1)	Hitachi E-compact EC702HP 1.2KW after Filter (1.4KW Before Filter) Air Cooled ISDB-Tb Digital TV Transmitter, Single exciter, Inclusive of Dielectric 6-Pole Band Pass Filter, Dielectric RF line section kit Dielectric 5-port RF patch panel in an frame, 5kw Bird dummy load Transmitted complete air cooling system, and electrical system. 
+
+
+
+₱      6,313,500.00 
+
+2)	Dielectric 8Bay DLP Slot Digital TV Antenna System inclusive of 250ft. 1-5/8" air-dielectric transmission line and accessories, Dielectric self contained compressor dehydrator with manifold, HDG brackets, HDG 200ft guyed three-ledge (trylon) tower and accessories 
+
+8,394,000.00 
+
+3)	SAPEC Six (6) channel Digital TV Head-End System with Dual Frame Quad (Multi-Channel), external HITACHE ISMUX Multiplexer.
+
+7,475,000.00 
+
+4)	Tools-On-Air Six (6) Channel Playout System with Live-input inclusive of six (6) Panasonic Camera System and Accessories 
+
+7,894,750.00 
+
+5)	Local Engineering Works for TV inclusive of pre-planning coverage mapping analysis, installation, testing and commissioning, post study thru field strength measurements, optimization, training and development 
+
+1,653,000.00 
+
+Total 
+
+₱   31,730,250.00
+
+
+
+Verification of related documents relative to the transaction revealed that the Agency did not secure the necessary permits required in Sections 5 and 8 of Department Order No. 11 of the Commerce and Industry and DOTC Memorandum Circular No. 2-05-88 before procuring the communication equipment. Thus, such procurement lacks the necessary authorization and approval.  
+
+ 
+
+Further, in the review of the documents submitted to the Audit Team for contract review, it was noted that the BAC considered the project as procurement of goods, thus, the documents submitted for contract review were limited for such mode of acquisition. However, based on the attached Technical Specification, under Item C, No. 8, the contract included the construction of a 200ft HDG guyed Trylon tower including grounding cables, lighting protection, and tower light and the design should withstand wind load of 250kph and must be compatible with the proposed antenna loadings and other future loads. 
+
+
+
+Moreover, the Purchase Request (PR) also included the following: 1 lot Local engineering works for TV inclusive of pre-planning, coverage mapping analysis, Installation, testing and commissioning, post-study thru filled strength measurements, optimization, training, and development. Thus, the project can be considered as an infrastructure, and as such, the following supporting documents should be submitted to the Audit Team as required in COA Circular No. 2009-001 to facilitate review of the technical aspect of the contract:  
+
+ 
+
+Per Item 3.1.2 of COA Circular 2009-001: 
+
+ 
+
+1)	Performance Security 
+
+2)	Program of Works and Detailed Estimates 
+
+ 
+
+Per Annex A of the same Circular: 
+
+ 
+
+1)	Copy of complete set of approved plans/drawings including the following: 
+
+	a)	Site Development Plan 
+
+	b)	Structural plans at appropriate scale indicating all details necessary in order that the complete structure can be set out and constructed. 
+
+	c)	Other necessary details  
+
+2)	Copy of the document containing the Detailed Breakdown of the Contract Cost including the detailed breakdown of estimates and/or unit cost analysis/derivation for each work item expressed in volume/area/lump sum/lot. 
+
+3)	Copy of document containing the detailed breakdown of contract cost including the detailed breakdown of estimates and/or unit cost analysis derivation for each work item expressed in volume/area/lump sum/lot. 
+
+4)	Copy of the Approved PERT/CPM Network Diagram and detailed computations of contract time. 
+
+ 
+
+ 	Due to the absence of these documents, the Audit Team was unable to determine the validity and propriety of the contract. 
+
+
+
+Management agreed with the Auditors’ comments, thus, they already submitted some authenticated documents and appropriate actions are being taken now to comply the lacking requirements.
+
+
+
+They also averred that they will secure and submit the required permits for the procurement of the new communication equipment of the campus radio as tool for blended learning this pandemic.
+
+
+
+We recommended that Management take the following courses of action: 
+
+ 
+
+a)	Secure and submit the required permits for the procurement of new communication equipment with a total cost of ₱31.73 million pursuant to Department Order No. 11 of Commerce and Industry and DOTC Memorandum Circular No. 2-05-88; and
+
+ 
+
+b)	Submit the above listed documents required in COA Circular No. 2009-001 to facilitate the technical review and evaluation of the contract.   
+
+ 
+
+	 
+
+1)	Buildings constructed and completed in CYs 2017 and 2019 in the total amount of ₱139.16 million were being utilized/occupied despite absence of the necessary Building and Occupancy permits. 
+
+ 
+
+As stated under Section 104 of PD No. 1096 or the National Building Code:
+
+
+
+All buildings and structures as well as accessory facilities thereto shall conform in all respects to the principles of the safe construction and must be suited to the purpose for which they are designed. Buildings or structures intended to be used for the manufacture and/or production of any kind of article or product shall observe adequate environmental safeguards. Buildings and structures and all parts thereof as well as all facilities found therein shall be maintained in safe, sanitary and good working condition.
+
+ 
+
+Also, Sections 301 and 309, Chapter 3 of the same PD provide the regulations on securing Building and Occupancy Permits necessary for the construction of buildings and structures and their usage, quoted as follows: 
+
+ 
+
+1)	Section 301. No person, firm or corporation, including any agency or instrumentality of the government shall erect, construct, alter, repair, move, convert or demolish any building or structure or cause the same to be done without first obtaining a building permit therefor from the Building Official assigned in the place where the subject building is located or the building work is to be done.
+
+ 
+
+2)	Section 309. No building or structure shall be used or occupied and no change in the existing use or occupancy classification of a building or structure or portion thereof shall be made until the Building Official has issued a Certificate of Occupancy therefor as provided in this Code. 
+
+ 
+
+Section 2 of PD No. 1445 provides that:
+
+
+
+It is a declared policy of the state that all resources of the government shall be managed, expended or utilized in accordance with laws and regulations, and safeguarded against loss or wastage through illegal or improper disposition, with a view to ensuring efficiency, economy and effectiveness in the operations of government. The responsibility to take care that such policy is faithfully adhered to rests directly with the chief or head of the government agency concerned.
+
+ 
+
+Audit of transactions relative to the infrastructure projects implemented by the College from CYs 2017-2019, revealed that four completed buildings totaling ₱139.16 million were already being occupied and utilized. However, verification of the College’s compliance to the requirements of PD No. 1096 disclosed that they have no occupancy permits secured from the Local Government Unit (LGU) of Nabua. Details are as follows: 
+
+ 
+
+  
+
+Name of PPE 
+
+  
+
+Date Completed 
+
+Amount 
+
+1 
+
+ 
+
+Center for Innovation and Technology 
+
+Development (CITD Building) Phase 1 - III) 
+
+Phase 1 
+
+  
+
+₱      2,865,545.59
+
+
+
+
+
+Phase 2 
+
+5/31/2017 
+
+4,134,591.50
+
+
+
+Sub-total 
+
+  
+
+  
+
+₱      7,000,137.09
+
+2 
+
+Supply and Property Building
+
+ 
+
+10/21/2017 
+
+12,099,888.38
+
+3 
+
+Green Building 
+
+ 
+
+8/9/2017 
+
+33,695,459.17
+
+4 
+
+Four Storey Academic Building (CEAS) Building) 
+
+Phase 1 
+
+3/31/2019 
+
+60,214,612.31
+
+
+
+
+
+Phase 2 
+
+7/15/2019 
+
+26,150,980.26
+
+  
+
+Sub-total 
+
+  
+
+  
+
+₱   86,365,592.57
+
+  
+
+Total 
+
+  
+
+  
+
+₱  139,161,077.21
+
+ 
+
+The Physical Plant and Facilities Management Services (PPFMS) personnel informed the Audit Team that they have not yet requested for occupancy permit from the LGU building official since the building permits were still in process and not yet approved. The request for building permit for the Four Storey Academic Building (CEAS) building was submitted only this year. 
+
+
+
+It can be inferred from the foregoing that the construction of the buildings was made even without the necessary building permit and were occupied thereafter even without occupancy permits, contrary to the above cited regulations. As a result, conformity to the principles of safe construction, suitability of the structures to the intended purpose and the safety of occupants are placed at risk to the detriment of the government. 
+
+ 
+
+We recommended and Management agreed to: 
+
+ 
+
+a)	Immediately follow up the building permits and thereafter secure the occupancy permits of the completed constructed building to ensure their conformity to safety and other standard requirements; and
+
+ 
+
+b)	Strictly comply with the Building Code requirements by securing building permits prior to commencing the construction of buildings and structures.  
+
+
+
+
+
+2)	Copies of approved extension of contract time and their supporting documents for the 11 infrastructure projects totaling ₱59.78 million were not submitted to the Audit Team within five working days after its approval. 
+
+ 
+
+Pertinent provisions provided in COA Circular No. 2009-001 dated February 12, 2009, are as follows: 
+
+ 
+
+1)	Section 3.1.1 requires that the Auditor shall be furnished with a copy of the perfected contract and each of all the documents forming part thereof by reference and incorporation within five working days from the execution of the contract.  
+
+ 
+
+2)	Section 3.1.3 provides that for technical review purposes, submission of contracts and   their supporting documents shall furthermore be guided by the specific documentary requirements outlined in the attached checklist marked as Annexes “A” to “T” of this circular. 
+
+ 
+
+3)	Section 3.1.7 states that the procedures and timelines herein outlined shall also apply to supplementary contracts, variation orders and the like.  
+
+ 
+
+Extension of contract time is an integral part of the contract and therefore must be submitted to the Auditor within the prescribed five working days after their execution/approval. This will give the auditor ample time to review not only on the legal aspect of the contract but also to determine the reasonableness of the grounds for the grant of contract time extensions. 
+
+ 
+
+Review of the submitted Quarterly Report on Government PPAs as of December 31, 2020 revealed that the following infrastructure projects have extension of contract time: 
+
+ 
+
+
+
+Project/Program/ Activity Name
+
+Contract Cost
+
+Date Started
+
+No. of Exten-tions
+
+Target Date of Completion
+
+
+
+
+
+
+
+
+
+
+
+
+
+Original
+
+Revised
+
+Remarks
+
+1
+
+Completion of Four-
+
+Storey Academic 
+
+Building (CICT 
+
+Building) 
+
+₱23,597,140.05 
+
+21-Jun-19 
+
+5 
+
+17-Mar-20
+
+13-Jan-21
+
+On-going
+
+2
+
+Expansion of 
+
+Student's Athletic Ground 
+
+14,441,293.50 
+
+18-Nov-19 
+
+4 
+
+15-Jun-20
+
+19-Jan-21
+
+On-going
+
+3
+
+Improvement of Walkway 
+
+6,062,216.00 
+
+26-Dec-19 
+
+2 
+
+22-Aug-20
+
+27-Jan-21
+
+On-going
+
+4
+
+Provision of Road 
+
+Networks and 
+
+Electrical Post along 
+
+Road Access 
+
+7,500,000.00 
+
+29-Jan-20
+
+3 
+
+27-Jun-20
+
+18-Jan-21
+
+On-going
+
+5
+
+Expansion of 
+
+Student's Athletic 
+
+Ground (Savings) 
+
+3,527,938.17 
+
+31-Jan-20
+
+2 
+
+30-May-20
+
+29-Jan-21
+
+On-going
+
+6
+
+Rehabilitation of 
+
+Damaged Floor Tiles  
+
+598,888.00 
+
+06-Feb-20
+
+1 
+
+06-Apr-20
+
+07-Sep-20
+
+Completed
+
+September
+
+6, 2020
+
+7
+
+Completion of Four-
+
+Storey Academic 
+
+Building CICT 
+
+Building Lot 1 (Savings) 
+
+711,180.00 
+
+06-Mar-20
+
+1 
+
+20-Apr-20
+
+13-Aug-20
+
+Completed
+
+September
+
+4, 2020
+
+8
+
+Rehabilitation of 
+
+Ceiling at Records 
+
+Storage Room, 
+
+Human Resource Management Office and Budget Office 
+
+192,500.00 
+
+29-Jun-20
+
+1 
+
+13-Aug-20
+
+28-Sep-20
+
+Completed
+
+September
+
+2, 2020
+
+9
+
+Rehabilitation/ 
+
+Refurbishment of 
+
+CR's at Various 
+
+School Buildings 
+
+1,807,175.57 
+
+29-Jun- 20
+
+1 
+
+27-Sep-20
+
+17-Jan-21
+
+On-going
+
+10
+
+Provision of 
+
+Amphitheater at 
+
+Nursing Arts Laboratory - Reposting 
+
+715,440.19 
+
+24-Aug-20
+
+1 
+
+23-Oct-20
+
+06-Dec-20
+
+Completed
+
+December 28, 2020
+
+11
+
+Expansion of 
+
+Student's Athletic 
+
+Ground (Lot -2 Savings) 
+
+629,919.75 
+
+22-Oct-20
+
+1 
+
+21-Nov-20
+
+14-Dec-20
+
+Completed
+
+October 9,
+
+2020
+
+  
+
+TOTAL 
+
+₱59,783,691.23 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+Based on the preceding table, it was noted that 11 projects disclose time extensions and therefore with revised completion dates. However, copies of the approved time extensions for all of the above projects and their supporting documents as provided in Annex E of the same Circular were not furnished the Audit Team, as follows: 
+
+  
+
+1)	Copy of the approved time extension 
+
+2)	Copy of contractor’s request for time extension 
+
+3)	Copy of the approved contract 
+
+4)	Copy of Evaluation Report by the agency concerned establishing the need for time extension including the computation showing in sufficient detail how the number of days of extension was determined 
+
+5)	Certification or reports establishing the existence of the grounds for the contract time extension, as follows: 
+
+	a)	PAGASA Report covering the area where the project is located, if extension requested is due to adverse weather conditions 
+
+	b)	Provincial Commander’s Report, if the extension requested is due to deteriorating/worsening peace and order situation 
+
+	c)	Certification from DOLE, DTI, DILG and /or DND, among others, whichever is applicable, for other grounds such as shortage of construction materials, general labor strike or similar activities that disrupted construction operations through no fault of the contractor. 
+
+6)	Copy of Notice to Proceed with date of receipt by the contractor/consultant 
+
+7)	Copy of approved original PERT/CPM Network Diagram and corresponding detailed computation of the contract time. 
+
+8)	Copy of approved original PERT/CPM Network Diagram reflecting the effect of the subject time extension on the original contract time and all previously issued Time extensions, Suspensions/Resumption Orders, and variation orders (for infrastructure projects), if any. 
+
+9)	Xxx 
+
+10)	Terms of Reference 
+
+11)	Copy of the Approved Original and Revised (if any) Manning Schedule. 
+
+12)	If the original contract and/or any previously issued Time Extension and/or Variation Order (for infrastructure projects) with deductive/additive time have not yet been reviewed by COA, all requirements under Technical Evaluation of Infrastructure contract Variation Checklist for each variation order/or time Extension must be submitted. 
+
+ 
+
+ 	The non-submission of the above enumerated documents precluded the Audit Team from conducting timely auditorial review thereof and having the same referred to the RTSO for the evaluation of the technical aspects of the contracts.  
+
+ 
+
+We recommended and Management agreed to: 
+
+ 
+
+a)	Strictly comply with the prompt submission of copies of variation/extra work orders and approved time extension together with the necessary supporting documents enumerated in Annex E of COA Circular No. 2009-001; and 
+
+ 
+
+b)	Review and evaluate thoroughly the POW to ensure that project designs, estimates and contract time are properly prepared and all phases of the projects are covered to minimize time extensions which often results in delayed project completion. 
+
+
+
+
+
+3)	Registries to monitor the budget were not complete and not compliant with the format prescribed. 
+
+
+
+Chapter 3 of GAM for NGAs, Volume I, prescribes the guidelines in monitoring, accounting and reporting of the budget in the financial statements. This also prescribes the records to be maintained by the national government agencies, forms to be used and reports to be prepared to effectively monitor the budget as well as the required information disclosure and presentation of budget information in the financial statements in accordance with PPSAS 24. Pertinent provisions are quoted hereunder: 
+
+ 
+
+Sec. 5. Monitoring of the Budget. The budget shall be monitored by the Budget Division/Units of NGAs though the maintenance of registries for that purpose. 
+
+ 
+
+Sec. 6. Registries of Revenue and Other Receipts. The Registries of Revenue and Other Receipts (Appendices 7, 7A, 7B, 7C, and 7D) shall be maintained by the Budget Division/Unit of NGAs to monitor the revenue and other receipts estimated/budgeted, collected and remitted/deposited. 
+
+ 
+
+xxx 
+
+Sec. 8. Registry of Appropriations and Allotments. The Registry of Appropriations and Allotments (RAPAL) (Appendix 8) shall be maintained by NGAs to monitor appropriations and allotments charge thereto. xxx. Separate RAPAL shall be maintained by fund cluster and by Major Final Output (MFO)/PAP/Appropriations Acts. 
+
+ 
+
+xxx 
+
+ 
+
+Sec. 10. Registries of Allotments, Obligations and Disbursements. The Registries of Allotments, Obligations and Disbursements (RAOD) shall be maintained by the Budget Division/ Unit of agencies to record allotments, obligations and disbursements. xxx. The RAODs shall be maintained by appropriation act, fund cluster, MFO/PAP, and allotment class. 
+
+ 
+
+a)	Registry of Allotments, Obligations and Disbursements-Personnel Services (RAOD-PS) (Appendix 9A) shall be used to record the allotments received, obligations incurred and disbursements classified under PS. 
+
+ 
+
+b)	Registry of Allotments, Obligations and Disbursements-Maintenance and Other Operating Expenses (RAOD-MOOE) (Appendix 9B) shall be used to record the allotments received, obligations incurred and disbursements classified under MOOE. 
+
+ 
+
+c)	Registry of Allotments, Obligations and Disbursements-Financial Expenses (RAOD-FE) (Appendix 9C) shall be used to record the allotments received, obligations incurred and disbursements classified under FE. 
+
+ 
+
+d)	Registry of Allotments, Obligations and Disbursements-Capital Outlays (RAOD-CO) (Appendix 9D) shall be used to record the allotments received, obligations incurred and disbursements classified under CO. 
+
+ 
+
+xxx 
+
+ 
+
+Sec. 18. Registries of Budget, Utilization and Disbursements. The Registries of Budget, Utilization and Disbursements (RBUD) shall be used to record the approved special budget and the corresponding utilizations and disbursements charged to retained income authorized under RA 8292 for SUCs and other retained income collection of a national government agency with similar authority, Revolving Funds and Trust Receipts/Custodial Funds. It shall be maintained by legal/authority, fund cluster, MFO/PAP and budget classification. 
+
+ 
+
+a)	Registry of Budget, Utilization and Disbursements-Personnel Services (RBUD-PS) (Appendix 10A) shall be used to record the budget utilization and disbursements classified under PS. 
+
+ 
+
+b)	Registry of Budget, Utilization and Disbursements-Maintenance and Other Operating Expenses (RBUD-MOOE) (Appendix 10B) shall be used to record the budget utilization and disbursements classified under MOOE. 
+
+ 
+
+c)	Registry of Budget, Utilization and Disbursements-Financial Expenses (RBUD-FE) (Appendix 10C) shall be used to record the budget utilization and disbursements classified under FE. 
+
+ 
+
+d)	Registry of Budget, Utilization and Disbursements-Capital Outlays (RBUD-CO) (Appendix 10D) shall be used to record the budget utilization and disbursements classified under CO. 
+
+ 
+
+Also, Volume II of the same Manual provides for the various accounting books, registries, records, forms and reports together with instructions, to serve as guide for the preparation and maintenance of said financial documents. 
+
+ 
+
+Copies of all registries maintained in the Budget Office were requested but only the electronic copy of the Registry of Allotment and Obligations (RAO) was submitted to the Audit Team.  
+
+ 
+
+												Review 	of the RAO 	showed 	the allotments 	for CY 2020 	for all PAPs under specific budget classification as well as the obligations indicating the date, obligation request numbers, names of payees, corresponding Unified Account Code Structures (UACS) Codes, total monthly obligations and unobligated balances. However, it was noted that all PAPs/Major Final Outputs (MFOs) and budget classification were consolidated into one registry. Also, information like the allotments, obligations, unobligated allotments, disbursements and unpaid obligations, whether due and demandable and not yet due and demandable, were not presented in the registry. Said practice is not in accordance with the format prescribed in the GAM for NGAs. 
+
+ 
+
+The inability of the Budget Office to prepare and maintain complete registries and in the prescribed format posed difficulty in the verification and reconciliation of the balances reflected in the BFARs.   
+
+
+
+Management stressed that the Budget Office has complete registries maintained, both electronic and hardcopies, however, the forms used were devised to make them simpler and easier for them to accomplish as basis in the preparation of the BFARs.
+
+
+
+Nevertheless, they commit to adhere with the recommendation of the COA to prepare and maintain all the registries in the format prescribed under the GAM for NGAs.
+
+
+
+We recommended that Management require the Budget Officer to prepare and maintain all the registries in the format prescribed under the GAM for NGAs.  
+
+
+
+
+
+4)	Productivity Incentive Allowance totaling ₱1.4 million granted to 242 employees as PRAISE incentive was contrary to item 6 of CSC MC No. 01 s. 2001 due to absence of proof that suggestions, inventions, superior accomplishments and other personal efforts result in monetary savings which shall not exceed 20% of the savings generated.
+
+
+
+Civil Service Commission (CSC) Memorandum Circular (MC) No. 01, s. 2001 is the revised policies on Program on Awards and Incentives for Service Excellence (PRAISE). Item 6 thereof states the following: 
+
+ 
+
+xxx 
+
+ 
+
+6. The PRAISE shall provide both monetary and non-monetary awards and incentives to recognize, acknowledge and reward productive, creative, innovative and ethical behavior of employees through formal and informal mode. 
+
+ 
+
+For this purpose, the System shall encourage the grant of non-monetary awards. Monetary awards shall be granted only when the suggestions, inventions, superior accomplishments and other personal efforts result in monetary savings which shall not exceed 20% of the savings generated.  (Underscoring ours) 
+
+ 	 
+
+xxx 
+
+ 
+
+Whereas, Section 5 of PD No. 1597, “Further Rationalizing the System of Compensation and Position Classification in the National Government”, provides that: 
+
+ 	 
+
+Section 5. Allowances, Honoraria, and Other Fringe Benefits. Allowances, honoraria and other fringe benefits which may be granted to government employees, whether payable by their respective offices or by other agencies of government, shall be subject to the approval of the President upon recommendation of the Commissioner of the Budget. For this purpose, the Budget Commission shall review on a continuing basis and shall prepare, for the consideration and approval of the President, policies and levels of allowances and other fringe benefits applicable to government personnel, including honoraria or other forms of compensation for participation in projects which are authorized to pay additional compensation. 
+
+ 
+
+ Further, Joint Resolution No. 4 dated June 17, 2009 authorized the President of the Philippines to modify the compensation and position classification system of civilian personnel. Item 4 (e-h) thereof provides the following: 
+
+ 
+
+(4) Compensation System – (a) Total Compensation Framework – The existing basic salaries, allowances, benefits and incentives granted to government officials and employees shall be rationalized and standardized in accordance with the herein established Total Compensation Framework. Under this Framework, the total payment given to an employee for services rendered shall hereinafter be limited to the following: 
+
+ 
+
+i)	Basic Salaries, including Step Increments; 
+
+ii)	Standard Allowances and Benefits; 
+
+iii)	Specific Purpose Allowances and Benefits; and 
+
+iv)	(iv) Incentives. 
+
+ 
+
+Provided, That the Total Compensation Framework shall exclude all indirect compensation under existing laws such as, but not limited to: life and retirement insurance benefits; employee compensation insurance; health insurance; PagIBIG Fund benefits; and Provident Fund benefits. 
+
+ 
+
+xxx 
+
+ 
+
+a)	Rationalization of Allowances, Benefits and Incentives – The Coverage, conditions for the grant, including the rates of allowances, benefits and incentives to all government employees, shall be rationalized in accordance with the policies to be issued by the President upon recommendation of DBM. 
+
+ 
+
+For this purpose, all existing and authorized allowances, benefits and incentives shall be categorized as Standard Allowances and Benefits, Specific-Purpose Allowances and Benefits or Incentives  in accordance with items (4)(f), (g) and (h) hereof: Provided, That henceforth all allowances, benefits and incentives to be granted to any and all government employees shall be limited to the foregoing categories: Provided, further, That said allowances, benefits and incentives shall be granted only upon compliance with all of the qualifications and conditions laid down by the President. 
+
+ 
+
+xxx 
+
+ 
+
+b)	Standard Allowances and Benefits – These are allowances and benefits given to all employees across agencies at prescribed rates, guidelines, rules and regulations, which shall be limited to the following: 
+
+ 
+
+	i)	Personnel Economic Relief Allowance; (ii) Uniform/Clothing Allowance; (iii) Year-End Bonus and Cash Gift. 
+
+ 
+
+c)	Specific-Purpose Allowances and Benefits – These are allowances and benefits given to employees across agencies under specific conditions and situations related to the actual performance of work; at prescribed rates, guidelines, rules and regulations. These are limited to the following: 
+
+ 
+
+	i)	   Representation and Transportation Allowances; 
+
+	ii)	Per Diem; 
+
+	iii)	Honoraria;  
+
+	iv)	Night-Shift Differential; 
+
+	v)	    Overtime Pay; 
+
+	vi)	Subsistence Allowance; 
+
+	vii)	Hazard Pay; 
+
+	viii)	Special Counsel Allowance; 
+
+	ix)	Overseas and Other Allowances for Government Personnel Stationed Abroad; 
+
+	x)	Other allowances and benefits granted under specific conditions and situations, related to the actual performance of work as may be determined by the DBM: xxx. 
+
+ 
+
+d)	Incentives – This shall be limited to the following: 
+
+ 
+
+e)	Incentives to reward an employee’s loyalty to government service and contributions to the agency’s continuing viable existence, as follows: 
+
+
+
+		a)	Loyalty Incentive
+
+		b)	Anniversary Bonus
+
+ 
+
+	i)		Incentives as rewards for exceeding agency financial and operational performance targets, and to motivate employee efforts toward higher productivity, as follows: 
+
+	 
+
+		a)	Collective Negotiation Agreement (CNA); 
+
+		b)	Productivity Enhancement Incentive, and 
+
+ 
+
+	ii)	Other existing benefits to be categorized by the DBM as incentives. 
+
+ 
+
+Review of the transactions affecting the account Productivity Incentive Allowance and Report of Checks Issued (RCI) for the month of December 2020 showed that the College granted Productivity Incentive Allowance per CSC-approved PRAISE to 242 employees at ₱2,400 to ₱6,000 per employee totaling to ₱1.4 million sourced from the Internally Generated Fund. The following are the supporting documents attached to the claims:  
+
+ 
+
+1)	Certification of Availability of Funds issued by the Budget Officer, certifying savings generated from Personal Services (PS) amounting to ₱1.45 million.  
+
+2)	Joint Praise Committee Resolution No. 1 s. 2020 dated November 27, 2020 re: requesting from the Board of Trustee (BOT) for the grant of Productivity Incentive to all qualified employees in the amount not exceeding ₱25,000 each. 
+
+3)	Approved BOT Resolution No. 2020-87 dated December 16, 2020 approving the grant of Productivity Incentive to all qualified employees of the College per CSC-approved PRAISE. 
+
+4)	Certification issued by the Board Secretary V, dated November 27, 2020 re: Policy Guidelines approved by the CSPC Governing Board from January to November 2020 
+
+5)	Certification issued by the Board Secretary V dated November 27, 2020 re: Manuals approved by the CSPC Governing Board from January to November 2021 
+
+6)	Certification dated Dec. 14, 2020, certifying that CSPC has 13 programs with Certificate of Program Compliance (COPC) out of 20 program-offerings as of Dec. 14, 2020 
+
+7)	Inventory of the Latest COPC Issuances (not authenticated photocopy) 
+
+8)	Summary of Individual Performance Commitment and Review (IPCR) Performance Evaluation Rating for the period July 1-Dec. 31, 2019 and January 1-June 30 2020, certified by the Human Resource and Management Officer (HRMO) (not authenticated photocopy) 
+
+ 
+
+However, their guidelines did not provide any criteria on how the accomplishments of the personnel will result in monetary savings. Thus, their grant of monetary award was not in accordance with Item 6 of CSC MC No. 01 s. 2001 which provides that monetary award shall be granted only when the suggestions, inventions, superior accomplishments and other personal efforts result in monetary savings. Likewise, erroneous charging of the PRAISE incentive allowance was committed by Management when the fund used was from the Internally Generated Fund of the College, contrary also to Item 6 of CSC MC 01 s. 2001 which provides that it shall not exceed 20 per cent of the monetary savings generated from suggestions, inventions, superior accomplishments and other personal efforts, will be granted as the monetary award.  
+
+ 
+
+The grant of the aforesaid cash incentive labelled as Productivity Incentive Allowance constitutes a new allowance to the College personnel which requires approval by the President upon recommendation of the DBM as required under Section 5 of PD No. 1597 because the said allowance was not among the allowable incentives under Item 4(f)(g) and (h) of Joint Resolution No. 4 s. 2009. 
+
+ 
+
+The College BOT Board Resolution No. 2020-87, cannot be used as the legal basis on the grant of PRAISE incentive allowance to 242 personnel. The College BOT has no authority to disburse its funds and grant additional allowance without legal basis. The authority of the Governing Board of State Universities and Colleges was discussed by the Supreme Court in the case of Benguet State University (BSU) vs. Commission on Audit under GR No. 19637 dated June 8, 2007.  
+
+ 
+
+xxx. The COA correctly ruled that the "other programs/projects" under R.A. No. 8292 and its Implementing Rules should be of the same nature as instruction, research, and extension. In BSU's case, the disbursements were for rice subsidy and health care allowances which are, in no way, intended for academic programs similar to instruction, research, or extension. Section 4 (d) cannot, therefore, be relied upon by BSU as the legal basis for the grant of the allowances. 
+
+ 
+
+Furthermore, a reading of the entire provision supports the COA’s interpretation that the authority given to the Governing Board of state universities and colleges is not plenary and absolute. It is clear in Section 4 that the powers of the Governing Board are subject to limitations. This belies BSU's claim of plenary and absolute authority. 
+
+ 
+
+Neither can BSU find solace in the academic freedom clause of the Constitution. Academic freedom as adverted to in the Constitution and in R.A. No. 8292 only encompasses the freedom of the institution of higher learning to determine for itself, on academic grounds, who may teach, what may be taught, how it shall be taught, and who may be admitted to study. The guaranteed academic freedom does not grant an institution of higher learning unbridled authority to disburse its funds and grant additional benefits sans statutory basis. Unfortunately for BSU, it failed to present any sound legal basis that would justify the grant of these additional benefits to its employees. (emphasis supplied) 
+
+ 
+
+xxx 
+
+ 	 
+
+The grant of Productivity Incentive Allowance under monetary PRAISE incentive to its officials and employees, without prior recommendation and approval of the DBM and Office of the President, respectively, is without legal basis, thus, may be subject to refund by the recipient- personnel of the College. 
+
+ 
+
+According to Management, prior approval of the President and DBM is no longer necessary because PRAISE is categorized as Incentives under the Total Compensation Framework by virtue of Section 9 of RA 11466 and No. 1.0 of NBC 579 dated January 24, 2020 and in relation to CSC MC No. 01 s. 2001 and Administrative Order No. 01 s. 2013 on the PRAISE of the College, as Amended, duly approved by CSC on August 1, 2013.
+
+
+
+As to the issue that the PRAISE guidelines did not provide any criteria on how the accomplishments of the personnel will result in monetary savings, the justification of the Management is quoted as follows: 
+
+
+
+“it is hereby reiterated that the Circular only provides that the suggestions, inventions, superior accomplishments and other personal efforts resulted in monetary savings. Setting up criteria would limit the purpose of granting PRAISE to cost-effectiveness as oppose to an incentive which is to recognize, acknowledge and reward productive, creative, innovative and ethical behavior of employees through formal and informal mode which is not measurable and quantifiable but can only be seen on the results thereof. Hence, a criterion on how the accomplishments of the personnel will generate savings is not necessary”
+
+
+
+The full text of Management’s reply on the issued AOM is attached as Annex B.
+
+
+
+The Audit Team maintains its stand that the monetary incentive granted to officials and employees was not in accordance with Item 6 of CSC MC No. 01 s. 2001 as there were no documents submitted showing that the suggestions, inventions, superior accomplishments and other personnel efforts have resulted to monetary savings. Proof that indeed monetary savings have been generated is a requirement because what was granted to the employees was a monetary award, hence, the source of funds where the amount disbursed was taken must be established, which should not exceed 20 percent of the savings generated. As to the giving of recognition on the productive, creative, innovative and ethical behavior of employees through formal and informal mode, the CSC MC is encouraging the granting of a non-monetary awards. 
+
+
+
+Although the PRAISE was categorized as incentive component of the Total Compensation Framework under Section 9 of RA No. 11466, which took effect on January 1, 2020, the CSC has not yet issued the required implementing guidelines on the monetary and/or non-monetary rewards for recognition of personnel under the PRAISE, hence, the existing guidelines on the grant of monetary award under CSC MC No. 01 s. 2001 still prevail. The specific provision of Section 9 of RA No. 11466 is quoted hereunder:
+
+
+
+The PRAISE instituted by the Civil Service Commission (CSC) pursuant to the provisions of Executive Order No. 292 (Administrative Code of 1987) stipulating the establishment of an employee suggestions and incentive component of the Total Compensation Framework. The guidelines on the monetary and/or non-monetary rewards for recognition of personnel under the PRAISE shall be issued by the CSC in consultation with the DBM.
+
+
+
+We recommended that Management comply with the following recommendations: 
+
+ 
+
+			a)	Submit documents to show that there were acceptable exemplary achievements which resulted in monetary savings that made the personnel of the College eligible to receive said incentive; 
+
+
+
+			b)	Submit proof that there were available savings from Personnel Services of the General Appropriations Act in FY 2020; and
+
+
+
+			c)	Refrain from granting allowances, benefits and incentives without legal basis to avoid possible disallowance in audit.
+
+
+
+
+
+5)	Six motor vehicles owned and used by the College valued in the books at ₱11.78 million were not marked with “For Official Use Only”. 
+
+ 
+
+COA Circular No. 77-61 dated September 26, 1977 provides that: 
+
+ 
+
+All motor vehicles owned by the government should be plainly marked, “For Official Use Only” (3 inches), under which should be written the corresponding name of the Office operating or using the same. The mark should appear on each side of the motor vehicle. When there is no sufficient space on each side, the same should appear at the back and on the front just below the windshield of the motor vehicles.
+
+
+
+Verification of records disclosed that for CY 2020, the College owned ten motor vehicles valued in the books at ₱13.35 million. Out of the ten, four were unserviceable and six are being used as school service. Details are presented as follows: 
+
+ 
+
+  
+
+Description 
+
+Property No. 
+
+Amount 
+
+Marked with “For 
+
+Official Use 
+
+Only” 
+
+With logo and/or 
+
+name of 
+
+Agency 
+
+1 
+
+Isusu Hilander Wagon Cosswind 
+
+03-611-241-05 
+
+₱     885,000.00 
+
+x 
+
+x 
+
+2 
+
+Mitsubishi L3600 FB Utility Vehicle 
+
+08-16-06-611241 
+
+665,934.00 
+
+x 
+
+√ 
+
+3 
+
+Passenger Bus 41 seating capacity and Access. 
+
+6-3-13-97 
+
+4,695,000.00 
+
+x 
+
+√ 
+
+4 
+
+Toyota Fortuner 
+
+2014 
+
+1,795,000.00 
+
+x 
+
+x 
+
+5 
+
+Golden Dragon Mini Bus XML6700 
+
+5-9-17-164-42 
+
+2,780,000.00 
+
+x 
+
+√ 
+
+6 
+
+Toyota Innova 2.5J 
+
+DSL MT/T 
+
+3/30/2012 
+
+956,000.00 
+
+x 
+
+x 
+
+  
+
+Total 
+
+  
+
+₱11,776,934.00 
+
+  
+
+  
+
+ 
+
+It was noted that all of the serviceable motor vehicles used for operations were not properly marked with “FOR OFFICIAL USE ONLY” while three of the said vehicles only bear the name and logo of the College.  
+
+  
+
+For monitoring and control on the proper use of the government motor vehicles, Management should follow the above stated regulations. The absence of proper marking on all motor vehicles of the College may result in unnecessary and unauthorized use or misuse of government property.  
+
+ 
+
+We recommended and Management agreed to observe the rules and regulations on the proper marking of all government motor vehicles with “FOR OFFICIAL USE ONLY” in three inches size and a corresponding name of the College on both sides of the vehicle pursuant to COA Circular No.  77-61. 
+
+ 	 
+
+
+
+A)	COMPLIANCE WITH GENDER AND DEVELOPMENT
+
+
+
+6)	The College allocated ₱12.85 million or 4.78 per cent of its total budget in 2020 for its Gender and Development (GAD) activities which is less than the required budget and was not able to conduct gender analysis. 
+
+
+
+Section 31, Paragraph 2 of the General Provisions of General Appropriations Act (GAA) for FY 2020 provides that:
+
+
+
+The GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five percent (5%) of their budgets. For this purpose, activities currently being undertaken by agencies which relate to GAD or those that contribute to poverty alleviation, economic empowerment especially of marginalized women, protection, promotion, and fulfillment of women’s human rights, and practice of gender-responsive governance are considered sufficient compliance with said requirement. Utilization of the GAD budget shall be evaluated based on the GAD performance indicators identified by said agencies.
+
+
+
+Management’s annual GAD Budget for CY 2020 is presented hereunder:
+
+
+
+Agency’s Total Appropriation
+
+ 
+
+5% of Agency’s Total Appropriation
+
+Actual GAD Budget
+
+% of Actual GAD Budget to Agency’s Total Appropriations
+
+Actual Expenditure on GAD Related Activities 
+
+% of Actual Expendi-ture to Actual GAD Budget
+
+₱257,079,100.00
+
+₱12,853,955.00
+
+₱12,300,000.00
+
+4.78%
+
+₱11,200,000.00
+
+91.06%
+
+
+
+The data showed that Management was able to establish GAD Budget. However, the amount allocated is less than the required budget of at least five per cent of the Agency’s total budget appropriation. A proper allocation of budget should be done to provide assistance in realizing the goals towards gender equality and women empowerment of the agency.
+
+
+
+The GAD Focal Point was not able to conduct gender analysis identifying the gender issues present in the Agency. This is an important basis to confirm that the programs, projects and activities are established and responsive. Hence, it is likely that the underlying gender issues have not been identified and addressed due to inability to undertake gender analysis.
+
+
+
+Also, the GAD Accomplishment Report was not submitted to the Philippine Commission on Women (PCW), hence, was not reviewed and endorsed by PCW, contrary to Item No. 8.0 of PCW-National Economic Development Authority (NEDA)-Department of Budget and Management (DBM) Joint Circular No. 2012-01. Thus, review of the accomplishments was not done by the appropriate governing bodies and may not be within the context of the Agency’s mandate. It was likewise noted that the abovementioned report was not approved by the Agency Head.
+
+
+
+Further, the GAD Plan and Budget (GPB) was not submitted to the Auditor within the period prescribed under Item No. V of COA Circular No. 2014-001 dated March 18, 2014.
+
+
+
+
+
+
+
+
+
+We recommended and Management agreed to comply with the following courses of action:
+
+
+
+a)	Prioritize GAD by allocating at least five per cent of the Agency’s total appropriation;
+
+
+
+b)	Conduct gender analysis to identify and confirm existing gender issues and ensure that the programs, projects and activities are responsive to the said issues; and
+
+
+
+c)	Ensure the submission of the Annual GPB and GAD Accomplishment Report to PCW, Agency Head and Auditor within the prescribed period.
+
+
+
+
+
+B)	COMPLIANCE WITH GSIS, Pag-IBIG and PhilHealth
+
+
+
+7)	Remittances of contribution/repayments to GSIS and PhilHealth were not reconciled with the amounts withheld. Also, the abnormal balance of the Due to Pag-IBIG account in the amount of ₱(54,164) remained unacted upon. 
+
+ 
+
+ 	Section 14 of the revised IRR of RA No. 8291 or Government Service Insurance Act of 1997 provides that:
+
+
+
+Each government agency shall remit directly to the GSIS the employees’ and government agency’s contributions within the first 10 days of the calendar month following the month to which the contributions apply. The remittance by the government agency of the contributions to the GSIS shall take priority over and above the payment of any and all obligations, except salaries and wages of its employees.
+
+ 
+
+Also, Section 3(a) of RA No. 9679 or Home Development Mutual Fund Law of 2009 requires that:
+
+
+
+All employers shall remit to the fund their contributions and the contributions of their covered employees as well as the latter’s loan amortizations or payments to the fund within 15 days from the date the same were collected unless another period is previously agreed between the employer and the Fund, or within such periods as the fund may prescribe otherwise the date the contributions fall due until paid. 
+
+
+
+Further, Section 5.1, Rule No. III of the IRR of RA No. 7875 or the National Health Insurance Act of 2013 states that: 
+
+
+
+a)	The member’s monthly contribution shall be deducted and withheld automatically by the employer from the former’s salary wage or earnings. The premium contributed shall be divided equally between the employer and the employed. The employer’s counterpart shall not in any manner be charged to the employee; 
+
+
+
+b)	The monthly premium contribution of employed members shall be remitted by the employer on or before the date prescribed by the corporation; and
+
+ 
+
+c)	The remittance of premium contribution by the employer shall be supported by a Remittance List to be submitted regularly to the Corporation. 
+
+ 	 
+
+Audit of the Inter-Agency Payables accounts showed that the College was not able to comply with the requirements of the above-mentioned regulations. Our verification revealed that funds withheld that are due to the GSIS, Pag-IBIG and PhilHealth, were not remitted intact by the Agency, resulting in the unremitted balances. As of December 31, 2020, the outstanding balances of the accounts Due to GSIS (Fund 101 and 164), Due to Pag-IBIG (Fund 101 and 164) and Due to PhilHealth (Fund 101) amounted to ₱241,109, ₱133,995 and ₱14,483, respectively. Further analysis showed that the unremitted balances include contributions pertaining to prior years. The summary is shown in the table below:  
+
+
+
+Particulars 
+
+Due to GSIS 
+
+Due to Pag-IBIG 
+
+Due to PhilHealth 
+
+Total  
+
+  
+
+
+
+Consolidated Amount 
+
+
+
+Balance 1/1/2020 
+
+₱  289,054.85
+
+₱ (31,949.95)
+
+₱   14,124.42
+
+₱    271,229.32
+
+Add: Withheld Amount  
+
+13,016,402.69
+
+2,121,195.55
+
+1,194,532.01
+
+16,332,130.25
+
+Total 
+
+13,305,457.54
+
+2,089,245.60
+
+1,208,656.43
+
+16,603,359.57
+
+Less: Remittance 
+
+13,064,348.67
+
+1,955,250.33
+
+1,194,173.76
+
+16,213,772.76
+
+Balance 12/31/2020 
+
+241,108.87
+
+133,995.27
+
+14,482.67
+
+389,586.81
+
+Deducted 2020 remitted 
+
+Jan. 2021 
+
+6,803.48
+
+188,159.40
+
+0.00
+
+194,962.88
+
+Unreconciled/unremitted Amount 
+
+₱  234,305.39
+
+₱ (54,164.13)
+
+₱  14,482.67
+
+₱   194,623.93
+
+
+
+As can be gleaned from the table above, the College was not able to remit the amounts of ₱234,305 and ₱14,483 to GSIS and PhilHealth, respectively, pertaining to the December 31, 2020 unremitted balances while the Due to Pag-IBIG account registered a net over remittance of ₱54,164.  
+
+ 
+
+Further verification of the composition of the negative balance of Due to Pag-IBIG account revealed that it pertains to the General Fund (Fund 101) wherein the recorded over remittance balance even increased from ₱(55,680) as of January 2020 to ₱(80,108) as at December 31, 2020 while the Internally Generated Fund (Fund 164) balance as at year-end was not remitted to the concerned agency. The said deficiencies are indicative that errors and non/under deduction of contribution and or amortization from member-employees were continuously committed and remained undetected/unacted upon. The details of the Due to Pag-IBIG are shown in the table below: 
+
+ 
+
+Due to Pag-IBIG
+
+Particulars 
+
+Fund 101 
+
+Fund 164 
+
+Total 
+
+Balance 1/1/2020 
+
+₱     (55,680.38)
+
+₱       23,730.43
+
+₱     ( 31,949.95)
+
+Add: Deductions during the year 
+
+      2,080,392.39
+
+40,803.16
+
+      2,121,195.55
+
+Total 
+
+       2,024,712.01
+
+         64,533.59
+
+        2,089,245.60
+
+Less: Remittance during the year 
+
+       1,916,660.97
+
+38,589.36
+
+        1,955,250.33
+
+Balance December 31, 2020 
+
+          108,051.04
+
+         25,944.23
+
+           133,995.27
+
+Less: Remittance Jan. 2020 
+
+          188,159.40
+
+0.00
+
+         188,159.40
+
+Unreconciled/Unremitted Balance
+
+₱    (80,108.36)
+
+
+
+₱       25,944.23
+
+₱     (54,164.13)
+
+ 
+
+It was also noted that, during the year, there was no recorded remittance made to GSIS for Fund 164 totaling ₱238,915, broken down as follows:
+
+ 
+
+Beginning Balance January 1, 2020 Fund 164
+
+₱     192,982.58
+
+Deductions (credits) Jan. 1, 2020-Dec. 31, 2020           
+
+45,932.04
+
+Total   
+
+₱    238,914.62
+
+			
+
+		The unremitted/unreconciled beginning balances in the total amount of ₱271,229 were already noted and communicated to Management in the prior years’ audits, however, no reconciliation was done yet by the Accounting personnel to establish the correct balances. Also, subsidiary ledgers were not maintained for the Trust Liability accounts, hence, the names of employees with unremitted premiums and contributions cannot be immediately established.  
+
+		
+
+None or delayed remittance of deductions to these agencies will result in interest payments and penalties on the College which should be a personal liability of the officer or employee who caused the delay. This is also detrimental to the member-employees of the college since they will be deprived of the benefits that they should be entitled to and could have enjoyed during their employment until retirement. Likewise, non-reconciliation of the Due to GSIS, PhilHealth and HDMF accounts as to the over/under recording of remittances renders the accuracy of the balances of the affected accounts doubtful.
+
+
+
+		We reiterated our recommendations that Management:  
+
+		
+
+a)	Require the Accountant to conduct a detailed review of the transactions affecting the Inter-Agency Payables to ascertain the correctness of the balances; 
+
+ 
+
+b)	Instruct the Accountant to prioritize the reconciliation of the Agency’s records with that of the GSIS, HDMF and PhilHealth to arrive at reliable balances and effect the necessary adjustments in the books, if warranted; and  
+
+ 
+
+c)	Give the highest priority on the immediate remittance to the concerned agencies of the unremitted balances. Henceforth, ensure that future collections are remitted promptly and intact to avoid penalties that maybe imposed by the said agencies for late remittance. 
+
+
+
+Management Comment:
+
+
+
+The Accountant assured compliance with the recommendations of the Auditor.
+
+
+
+
+
+C)	SUMMARY OF TOTAL SUSPENSIONS, DISALLOWANCES AND CHARGES AS OF YEAR-END
+
+
+
+Review of available records on audit suspensions, disallowances and charges disclosed that no settlements were made during the year for the prior years’ issued Notice of Suspension (NS) and Notice of Disallowances (ND). Details are shown as follows:
+
+
+
+
+
+
+
+
+
+
+
+Beg. Balance 
+
+As of 
+
+12/31/2019
+
+This Period
+
+January 1 to December 31, 2020
+
+Ending Balance
+
+As of 12/31/2020
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension
+
+₱       10,138.89
+
+₱                 0.00
+
+₱                0.00
+
+₱       10,138.89
+
+Notice of Disallowance
+
+343,009.54
+
+0.00
+
+0.00
+
+343,009.54
+
+Notice of Charge
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Total
+
+₱     353,148.43
+
+₱                 0.00
+
+₱                0.00
+
+₱     353,148.43
+
+	
+
+Details of the NS and ND balances are shown below:
+
+
+
+NS/ND No.
+
+Date
+
+Amount
+
+Remarks
+
+
+
+
+
+NS
+
+ND
+
+
+
+NS-09-008-STF-(09)
+
+08/19/09
+
+3,898.69
+
+0.00
+
+Already matured into disallowance. No record of ND issued
+
+NS-09-036-101-(09)
+
+12/05/09
+
+3,520.00
+
+0.00
+
+Already matured into disallowance. No record of ND issued
+
+NS-09-037-101-(09)
+
+12/05/09
+
+2,720.00
+
+0.00
+
+Already matured into disallowance. No record of ND issued
+
+Total NS
+
+
+
+
+
+10,138.69
+
+
+
+
+
+
+
+ND-09-001-101-(TF)
+
+08/28/09
+
+0.00
+
+5,840.00
+
+No NFD and COE issued 
+
+ND-09-002-101-(TF)
+
+08/27/09
+
+0.00
+
+1,000.00
+
+No NFD and COE issued
+
+ND-09-003-101-(TF)
+
+08/28/09
+
+0.00
+
+14,750.00
+
+No NFD and COE issued
+
+ND-09-006-101-(TF)
+
+08/28/09
+
+0.00
+
+3,900.00
+
+No NFD and COE issued
+
+ND-09-009-101-(09)
+
+09/14/09
+
+0.00
+
+6,203.50
+
+No NFD and COE issued
+
+ND-09-017-101-(09)
+
+09/16/09
+
+0.00
+
+3,500.00
+
+No NFD and COE issued
+
+ND-09-018-101
+
+09/16/09
+
+0.00
+
+1,324.00
+
+No NFD and COE issued
+
+ND-09-023-101
+
+09/16/09
+
+0.00
+
+5,120.51
+
+No NFD and COE issued
+
+ND-09-024-101
+
+09/17/09
+
+0.00
+
+4,190.00
+
+No NFD and COE issued
+
+ND-09-025-101
+
+09/23/09
+
+0.00
+
+4,350.00
+
+No NFD and COE issued
+
+ND-09-027-101
+
+09/23/09
+
+0.00
+
+2,768.00
+
+No NFD and COE issued
+
+ND-09-028-101
+
+09/23/09
+
+0.00
+
+14,081.00
+
+No NFD and COE issued
+
+ND-09-002-STF
+
+08/27/09
+
+0.00
+
+(2,069.00)
+
+Overpayment not yet adjusted
+
+
+
+
+
+
+
+
+
+64,958.01
+
+
+
+
+
+ND-09-001-STF-(09)
+
+08/27/09
+
+0.00
+
+27,000.00
+
+with pending appeal
+
+ND-2014-03-101-(2013)
+
+06/30/14
+
+0.00
+
+131,051.53
+
+with pending appeal
+
+
+
+
+
+
+
+
+
+158,051.53
+
+
+
+
+
+ND 09-034-101
+
+12/10/09
+
+0.00
+
+120,000.00
+
+COA Order of Execution (COA) Dated May 29, 2017. No record of settlement made as the Persons  found liable  already retired.
+
+TOTAL ND
+
+
+
+0.00
+
+343,009.54
+
+
+
+NS/NDs GRAND TOTAL
+
+10,138.69
+
+343,009.54
+
+
+
+
+
+31
+
+50
+
+
+
+
+
+
+
+
+
+
+

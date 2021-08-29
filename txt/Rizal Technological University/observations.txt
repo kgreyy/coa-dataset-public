@@ -1,0 +1,6134 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+ 
+
+36 
+ 
+
+PART II – OBSERVATIONS AND RECOMMENDATIONS 
+
+ 
+
+FINANCIAL AUDIT 
+
+ 
+
+Accounting Errors/Omissions  
+
+ 
+
+1. Misstatements in the aggregate amount of P18,126,525.43 due to accounting 
+
+errors and omissions in the accounts Cash and Cash Equivalents, Receivables, 
+
+Property, Plant and Equipment and Payables exceeded the materiality 
+
+threshold of P5,588,256.07, computed at one percent of the total Expenses of 
+
+P558,825,606.68 for the year ended December 31, 2020.  
+
+ 
+
+1.1 Section 27 of the International Public Sector Accounting Standards 
+
+(IPSAS) 1 and Section 15, Chapter 2, Government Accounting Manual 
+
+(GAM) for National Government Agencies (NGAs), Volume I, states that 
+
+“The financial statements (FSs) shall present fairly the financial position, 
+
+financial performance and cash flows of an entity.  Fair presentation 
+
+requires the faithful representation of the effects of transactions, other 
+
+events, and conditions in accordance with the definitions and recognition 
+
+criteria for assets, liabilities, revenue and expenses set out in PPSAS1.  The 
+
+application of PPSAS,1 with appropriate disclosures, if necessary would 
+
+result in fair presentation of the FSs.” 
+
+ 
+
+1.2 Likewise, Section 111 of PD No. 1445 requires agencies to keep the 
+
+accounts in such detail as necessary to meet the needs of the agency and at 
+
+the same time be adequate to furnish information needed by fiscal or 
+
+control agencies of the government and that the highest standard of 
+
+honesty, objectivity and consistency shall be observed in the keeping of 
+
+accounts to safeguard against inaccurate or misleading information.  
+
+Furthermore, Section 112 thereof requires that government agency shall 
+
+record its financial transactions and operations conformably with generally 
+
+accepted accounting principles and in accordance with pertinent laws and 
+
+regulations. 
+
+ 
+
+1.3 Audit of the accounts of RTU as of December 31, 2020 disclosed errors 
+
+and omissions that misstated the account balances in the FS by an 
+
+aggregate amount of P18,126,525.43.  The details are tabulated as follows 
+
+and discussed in the succeeding paragraphs: 
+
+ 
+
+Table 1. Summary of Misstatements of Accounts in CY 2020 FSs  
+
+                                                           
+1 Renamed to International Public Sector Accounting Standards (IPSAS) with corresponding Philippine Application 
+
+Guidance, pursuant to COA Resolution  No. 2020-001 dated January 9, 2020 
+
+
+
+ 
+
+37 
+ 
+
+Account 
+
+Classification 
+
+Account Balance as 
+
+of December 31, 
+
+2020  
+
+(In PhP) 
+
+Amount of 
+
+Misstatement 
+
+(In PhP) 
+
+Assertions 
+
+Cash and Cash 
+
+Equivalents 
+
+930,213,228.80 6,772,414.05 Accuracy, 
+
+Classification, 
+
+Completeness; 
+
+Cut-off 
+
+Receivables (5,669,113.96) 253,373.30 Accuracy, 
+
+Completeness, 
+
+Cut-Off 
+
+Property, Plant 
+
+and Equipment 
+
+(PPE) 
+
+795,594,958.54 686,594.50 Completeness, 
+
+Valuation; 
+
+Classification, 
+
+Cut-Off 
+
+Payables 178,592,850.74 10,414,143.58 Accuracy, 
+
+Classification, 
+
+Completeness, 
+
+Cut-Off 
+
+Total 
+
+Misstatements 
+
+ 18,126,525.43  
+
+Total 
+
+Expenses 
+
+ 558,825,606.68  
+
+Materiality 
+
+Threshold for 
+
+Expense-
+
+driven Entity 
+
+(1% of Total 
+
+Expenses) 
+
+ 5,588,256.07  
+
+Excess of Total 
+
+Misstatement 
+
+over 
+
+Materiality 
+
+Threshold 
+
+ 12,538,269.36  
+
+Percentage of 
+
+Excess of 
+
+Misstatement 
+
+over 
+
+Materiality 
+
+ 224%  
+
+ 
+
+Cash and Cash Equivalents Account Misstatements – P6,772,414.05 
+
+ 
+
+1.4 The Cash and Cash Equivalents account balances in the total amount 
+
+of P930,213,228.80 is misstated in the total amount of P6,772,414.05 
+
+representing unadjusted net reconciling items of P4,512,986.32 and   
+
+balance of Cash -Treasury Agency deposit, Regular of P2,259,427.73, 
+
+which should have been closed at the end of the year to the 
+
+Accumulated Surplus/(Deficit) account.  
+
+ 
+
+
+
+ 
+
+38 
+ 
+
+1.5 The details of the misstatement are  summarized in the table below: 
+
+                
+
+Table 2. Summary of Misstatements in Cash and Cash Equivalents Account 
+
+Particulars 
+
+Amount of 
+
+Misstatement 
+
+(In PhP) 
+
+Affected 
+
+Accounts 
+
+Under (Over) 
+
+Statement 
+
+(In PhP) 
+
+CIB-LCCA    
+
+Unrecorded Credit Memos 
+
+(CMs) 
+
+3,762,345.00 CIB-LCCA 
+
+Income 
+
+3,762,345.00 
+
+3,762,345.00 
+
+Unrecorded Debit Memos 
+
+(DMs) 
+
+(6,000.00) CIB-LCCA 
+
+Expense 
+
+(6,000.00) 
+
+6,000.00 
+
+Stale Checks not reverted back 
+
+to Cash and Payables as at 
+
+yearend 
+
+684,417.39 CIB-LCCA 
+
+Payables 
+
+684,417.39 
+
+684,417.39 
+
+Unrecorded Interest Income 66,223.93 CIB-LCCA 
+
+Income 
+
+66,223.93 
+
+66,223.93 
+
+Net understatement 
+
+(unrecorded net reconciling 
+
+items) 
+
+      4,512,986.32 
+
+Cash in Agency Treasury 
+
+Deposit 
+
+   
+
+Cash in Treasury not closed to 
+
+Surplus account 
+
+2,259,427.73 Cash in Agency 
+
+Treasury Deposit 
+
+Accumulated 
+
+Surplus/(Deficit) 
+
+(2,259,427.73) 
+
+ 
+
+(2.259,427.73) 
+
+Total Misstatements       6,772,414.05 
+
+ 
+
+1.6 The CMs and DMs in the amounts of P3,762,345.00 and P6,000.00, 
+
+respectively, were not taken up in the books of accounts due to the absence 
+
+of copies of the said Memos.  Likewise, upon further verification, it was 
+
+also noted that two stale checks with Check Nos. 211990 and 212089 in the 
+
+amounts of P2,400.00 and P682,017.39 or a total of P684,417.39 were not 
+
+reverted at yearend.  
+
+ 
+
+1.7 The Interest Income in the total amount of P66,223.93 was not taken up in 
+
+the books, which could be attributed to late submission of the Bank 
+
+Statements by the LBP to the Accounting Office of the University resulting 
+
+in non/delayed preparation and submission of BRS.  As noted, no BRS was 
+
+prepared and submitted for CYs 2016 to 2018. 
+
+ 
+
+1.8 Cash is the most vulnerable asset of an organization.  Sound internal 
+
+control on cash requires prompt and correct recording and reporting of 
+
+transactions to ensure that financial information is reliable, accurate and 
+
+reported within the given accounting period.  Thus, bank reconciliation 
+
+provides necessary control mechanism to uncover possible irregularities. 
+
+ 
+
+
+
+ 
+
+39 
+ 
+
+1.9 The misstatement in the Cash and Cash Equivalents account occurred due 
+
+to non-adherence with certain rules and regulations as provided in the 
+
+GAM for NGAs, Volume I, as cited in succeeding paragraphs. 
+
+ 
+
+1.10 Section 6, Chapter 21 - the Chief Accountant shall prepare a Journal Entry 
+
+Voucher (JEV) to recognize all reconciling items that require adjustments 
+
+and corrections in the books of accounts.  Furthermore, Section 7 of the 
+
+same regulation requires the Chief Accountant to submit the BRS within 
+
+twenty (20) days upon receipt of the monthly Bank Statements with all the 
+
+supporting documents and JEV to the COA Auditor. 
+
+ 
+
+1.11 Section 44, Chapter 6 -Accounting for Cancelled Checks, checks may be 
+
+cancelled when they become stale, voided or spoiled.  The depository bank 
+
+considers a check as stale if it has been outstanding for over six (6) months 
+
+from date of issue.  A stale, voided or spoiled check shall be marked 
+
+cancelled on its face and reported as follows:  a) voided, spoiled or 
+
+unclaimed stale checks with the cashier shall be reported as cancelled in the 
+
+List of Unreleased Checks that will be attached to the Report of Checks 
+
+Issued (RCI).  New checks may be issued for the replacement of 
+
+stale/spoiled checks in the hands of the payee or holder in due course, upon 
+
+submission of the stale/spoiled checks to the Accounting Division/Unit.  A 
+
+certified copy of the previously paid DVs shall be attached to the request 
+
+for replacement.  A JEV shall be prepared to take up the cancellation.  The 
+
+replacement check shall be reported to the RCI. 
+
+ 
+
+1.12 Section 57, Chapter 19- the balance of all Cash – Treasury/Agency 
+
+Deposit, Regular shall be closed at the end of the year to the Accumulated 
+
+Surplus/(Deficit) account. 
+
+ 
+
+1.13 We recommended and the Management agreed, to: 
+
+ 
+
+a. thru the Chief Accountant, effect correcting entries for the 
+
+unrecorded CM, DMs and Income in the amounts of 
+
+P3,762,345.00; P6,000.00 and P66,223.93, respectively, to be 
+
+supported with complete documentation;  
+
+ 
+
+b. cause the reversion of the stale checks amounting to P684,417.39 
+
+to Cash and Payable accounts; and 
+
+ 
+
+c.  close the Cash – Treasury/Agency Deposit, Regular account to 
+
+Accumulated Surplus/(Deficit) as required by existing 
+
+regulations. 
+
+ 
+
+
+
+ 
+
+40 
+ 
+
+Receivables Account Misstatement – P253,373.30 
+
+ 
+
+1.14 Erroneous recording of settlement of disallowances resulted in the 
+
+misstatement/overstatement of P253,373.30 in the reported balance of 
+
+Receivables-Disallowances/Charges of P8,449,359.50.  
+
+ 
+
+1.15 Section 46, Chapter 6 of the GAM for NGAs, Volume I, states that 
+
+disallowances shall be taken up in the books of accounts only when they 
+
+become final and executory, by a debit to Receivables-
+
+Disallowances/Charges and a credit to appropriate account for the current 
+
+year or Accumulated Surplus/(Deficit) account if pertaining to expenses of 
+
+prior years. 
+
+ 
+
+1.16 The Receivables – Disallowances/Charges was debited in CY 2009 and 
+
+2010 in the amounts of P5,947,509.25 and P8,418,620.34, respectively, to 
+
+recognize the Notices of Disallowance (NDs) issued for the unauthorized 
+
+payment of emergency cost of living allowance (ECOLA) that had become 
+
+final and executory after no appeal was filed within the reglementary 
+
+period. 
+
+ 
+
+1.17 The financial statements (FSs) and other accounting reports as of 
+
+December 31, 2020 submitted to the Office of the Auditor showed a 
+
+balance of disallowances in the amount of P8,449,359.50.  Audit revealed 
+
+that there were erroneous entries dating back to CYs 2011, 2013 and 2019 
+
+to 2020 on the settlement of the disallowances that overstated the 
+
+Receivables – Disallowances/Charges account by P253,373.30, thereby 
+
+overstating the Accumulated Surplus/Deficit by the same amount as 
+
+presented in the table below: 
+
+ 
+
+Table 3. Erroneous Entries on the Settlement of the Disallowances 
+
+Date JEV No. Particulars 
+Amount 
+
+(In PhP) 
+Remarks 
+
+12/22/11 11-12-1401 CKDJ, December 
+
+2011, refund of 
+
+ECOLA of 
+
+various retirees 
+
+per year-end 
+
+bonus payroll 
+
+34,726.95 This was debited 
+
+to Receivables-
+
+Disallowances/ 
+
+Charges account 
+
+when this should 
+
+have been credited 
+
+to deduct the 
+
+amount remitted to 
+
+BTr 
+
+02/06/13 13-02-0172 CKDJ, February, 
+
+2013 remittance 
+
+of ECOLA 
+
+balance due from 
+
+37,683.23 Erroneous 
+
+recording. 
+
+This was also 
+
+recorded as a debit 
+
+
+
+ 
+
+41 
+ 
+
+Table 3. Erroneous Entries on the Settlement of the Disallowances 
+
+Date JEV No. Particulars 
+Amount 
+
+(In PhP) 
+Remarks 
+
+John Ancheta to Receivables- 
+
+Disallowances/ 
+
+Charges  
+
+04/22/19 19-04-396  Receivables-
+
+Disallowances/ 
+
+Charges account 
+
+was not credited 
+
+for the remittance 
+
+to the BTR in 
+
+2018 of the 
+
+refund of 
+
+ECOLA by Ms. 
+
+Arsenia A. Allam  
+
+11,625.49 Unrecorded 
+
+remittance of 
+
+settlement 
+
+12/27/19 19-12-1643 AJE- To take up 
+
+payment of F101 
+
+obligations which 
+
+was paid through 
+
+164.  JEV No. 
+
+19-11-1279 
+
+43,324.03 This was debited 
+
+to account 
+
+Receivables-
+
+Disallowances/ 
+
+Charges instead of 
+
+credit to the said 
+
+account 
+
+01/31/20 20-01-0017 AJE - to 
+
+adjust/reclassify 
+
+account 
+
+32,093.75          -do- 
+
+02/28/20 20-02-0144 Remittance of 
+
+balance of 
+
+ECOLA of Ms. 
+
+Noraida N. La 
+
+Rosa 
+
+20,484.16           -do- 
+
+06/04/20 20-06-3363 Remit the refund 
+
+of ECOLA for 
+
+May, 2020 
+
+19,485.00           -do- 
+
+07/28/20 20-07-426 Remittance to 
+
+BTR the ECOLA 
+
+of Ms. Teresita 
+
+Paez 
+
+31,856.04           -do- 
+
+12/03/20 20-12-966  Remittance to 
+
+Provident Loan 
+
+Repayments of 
+
+Mr. Ver Tapar 
+
+ 22,094.65 Erroneous 
+
+recording. 
+
+This was debited 
+
+to Receivables -
+
+Disallowances/ 
+
+Charges 
+
+Total   253,373.30  
+
+ 
+
+1.18 Verification disclosed that above transactions were actually deductions 
+
+from the salaries of the employees in partial payment/refund of the 
+
+disallowances. However, instead of debiting said amounts to decrease the 
+
+
+
+ 
+
+42 
+ 
+
+balance of the Receivables –Disallowances/Charges, they were recorded 
+
+otherwise, thus the overstatement.   
+
+ 
+
+1.19 Also, tracing back from the submitted DVs, JEVs and GL, it was found out 
+
+that the total refunds made from CYs 2010 to 2020 in the records of the 
+
+Accounting Office and per audit has a difference of P1,821,146.07 as 
+
+shown in the table below: 
+
+ 
+
+Table 4. Summary of Settlements per Books vs. per Audit 
+
+Year Per Accounting Per Audit Variance 
+
+2010 P565,390.04 P565,390.04 - 
+
+2011 621,471.49 1,153,634.56 P627,555.87 
+
+2012 1,159,718.94 
+
+2013 639,872.81 595,419.83 44,452.98 
+
+2014 649,560.45 441,103.75 208,456.70 
+
+2015 740,495.78 493,346.46 247,149.32 
+
+2016 460,564.74 337,985.00 122,579.74 
+
+2017 568,769.76 367,073.54 201,696.22 
+
+2018 576,600.98 327,971.03 248,629.95 
+
+2019 455,842.82 388,641.08 67,201.74 
+
+2020 331,454.50 278,030.95 53,423.55 
+
+Total P6,769,742.31 P4,948,596.24 P1,821,146.07 
+
+               
+
+1.20 The Team had a hard time verifying the records of the Accounting Office 
+
+since they did not prepare and maintain subsidiary ledgers (SLs) for each 
+
+official/employee determined to be liable/responsible for amount 
+
+disallowed, and there are no indices being prepared by the Human 
+
+Resource Development Center (HRDC) to keep track of the deductions 
+
+being made from each official/employee. 
+
+ 
+
+1.21 We recommended, and the Management agreed: 
+
+ 
+
+a. thru the HRDC Director, to reconcile records with the 
+
+Accounting Office of the total deductions appearing in the 
+
+payroll and the records of the Accounting to ensure proper 
+
+monitoring of the balances of disallowances as well as the 
+
+settlement of the balances through employee payroll deduction; 
+
+and 
+
+ 
+
+b. thru the Accountant, (i) to prepare a JEV for the 
+
+adjustments/corrections affecting said accounts; (ii) to prepare 
+
+and maintain SLs for each official/employee with disallowance; 
+
+and (iii) to submit to COA the revised report, together with the 
+
+complete documents to support the balance presented in the FS. 
+
+
+
+ 
+
+43 
+ 
+
+                    
+
+1.22 Management commented that actions were already taken on the 
+
+observations and recommendations aforementioned.  The HRDC Director 
+
+and the Accountant are to reconcile records once documents and other 
+
+records become available. 
+
+ 
+
+1.23 The Audit Team will continue to monitor the implementation by the 
+
+Management of the recommendations. 
+
+ 
+
+Property, Plant and Equipment Account Misstatement – P686,594.50 
+
+ 
+
+1.24 The balance of Property, Plant and Equipment in the amount of 
+
+P795,594,958.54 is misstated by P686,594.50 due to the under 
+
+recording of the carrying values of Land Account at P29,027,807.50 
+
+instead of P29,714,402.00, the actual values of the various parcels of 
+
+land.   
+
+ 
+
+Table 5. Under Recording of the Land Account 
+
+TCT* Particulars Valuation 
+
+23719 200 sq. m. located in Mandaluyong 
+
+Campus 
+
+P2,600,000.00 
+
+23720 199 sq. m. Mandaluyong Campus     2,587,000.00 
+
+23721 368 sq. m. Same location     4,784,000.00 
+
+23722 309 sq. m. Same location     4,017,000.00 
+
+23723 199 sq. m. Same location     2,587,000.00 
+
+23724 200 sq. m..Same location     2,600,000.00 
+
+23725 200 sq. m. Same location     2,600,000.00 
+
+23726 200 sq. m.     2,600,000.00 
+
+36365 102,189 sq. m. Baras, Rizal      1,839,402.00 
+
+80056 10,000 sq.m.     3,500,000.00 
+
+108180 15,429 sq.m. Mandaluyong City, no cost 
+
+(Donated property as per PD No. 1431-
+
+A) 
+
+- 
+
+Total  P29,714,402.00 
+*TCT – Transfer Certificate of Title 
+
+ 
+
+1.25 According to IPSAS 17, the cost of an item of PPE shall be recognized if, 
+
+and only if (a) it is probable that future economic benefits or service 
+
+potential associated with the item will flow to the entity, and (b) the cost or 
+
+fair value of the item can be measured reliably. 
+
+ 
+
+1.26 Moreover, Sections 14, and 15 of Chapter 10 of the GAM for NGAs, 
+
+Volume I, prescribe that intra-agency transfers of PPE shall be recognized 
+
+at the carrying amount of asset received.  The receiving office shall 
+
+
+
+ 
+
+44 
+ 
+
+recognize the asset at its original historical cost less accumulated 
+
+depreciation and impairment loss.  For inter-agency transfer of PPE, 
+
+transfer from one government entity to another shall be recognized by the 
+
+recipient entity at net carrying value.  The transferor shall derecognize the 
+
+PPE account upon transfer. 
+
+ 
+
+1.27 The parcel of land donated by the Mandaluyong City Government, with an 
+
+area of 15,429 square meters which houses the old buildings of the 
+
+University was only recorded as one of the properties of the University but 
+
+no value was assigned in the books, thus making the Land account 
+
+understated.  The Management should have verified with the Assessor’s 
+
+Office and secured a copy of the Tax Declaration wherein the value of the 
+
+property can be sourced so that correct valuation will be recorded in the 
+
+books and the correct total Land account balance will be reflected in the 
+
+FSs. 
+
+ 
+
+1.28 We recommended that Management: 
+
+ 
+
+a. thru the Accountant, prepare a JEV to adjust the recorded 
+
+balance of the 10 parcels of land to P29,714,402.00 and not 
+
+P29,027,807.50, to come up with correct Land account balance 
+
+in the FS; 
+
+ 
+
+b. thru the Property Officer, secure from the Assessor’s Office of 
+
+Mandaluyong City (transferor), copy of the Tax Declaration of 
+
+the donated property to get the proper valuation of the said 
+
+property; and 
+
+ 
+
+c. thru the Accountant, record the correct value of the donated 
+
+property upon receipt of the Tax Declaration of the donated 
+
+property with the proper valuation. 
+
+ 
+
+1.29 The Management commented that the Accounting Office is in constant 
+
+communication with the Administrative Services Center with regard to the 
+
+processing of the transfer of ownership from the Mandaluyong City to the 
+
+University as well as with the Supply and Property Office for the proper 
+
+valuation of the donated land. 
+
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+1.30 The Audit Team clarified with the RTU officials the difference between the 
+
+recorded balance of the Land account and the balance per audit of the 
+
+documents pertaining to parcels of land owned by the University.  Also, we 
+
+
+
+ 
+
+45 
+ 
+
+emphasized the need to provide timelines to ensure compliance with the 
+
+audit recommendations. 
+
+ 
+
+Payables Misstatement - P10,414,143.58 
+
+ 
+
+1.31 The Payables account is misstated by P10,414,143.58 pertaining to 
+
+Accounts Payable for abandoned construction projects and unclaimed 
+
+allowances of scholars since CY 2016, which should have been reverted 
+
+to the Accumulated Surplus/(Deficit) account.  
+
+ 
+
+1.32 Executive Order No. 87 dated August 13, 2019 of the President of the 
+
+Philippines directs that all accounts payable which remained outstanding 
+
+for two years or more in the books of the National Government Agencies 
+
+be reverted to the Accumulated Surplus/(Deficit) of the General Fund or 
+
+the Cumulative Results of Operations of the National Government. 
+
+ 
+
+1.33 Section 98 of PD No. 1445 also provides that any unliquidated balances of 
+
+accounts payable in the books of the National Government which has been 
+
+outstanding for two (2) years or more and against which no actual claim, 
+
+administrative or judicial, has been filed or which is not covered by 
+
+perfected contract on record may be reverted to the unappropriated surplus 
+
+of the General Fund of the National Government Agencies, except for 
+
+unliquidated balances of accounts payable in trust funds as long as the 
+
+purposes for which the funds were created have been accomplished. 
+
+ 
+
+1.34 Audit of the Payables accounts of the University as of December 31, 2020, 
+
+particularly the Accounts Payable with a balance of P97,998,212.82,   
+
+revealed that based on the Schedule of Accounts Payable, the balance of 
+
+Accounts Payables as of December 31, 2020 includes payable to 
+
+contractors for abandoned/unfinished projects of more than two to five 
+
+years, and unclaimed scholarship grants since 2016 in the total amount of 
+
+P10,414,143.58, which rendered the Payables account overstated by the 
+
+same amount considering that these payables should have been reverted to 
+
+the Accumulated Surplus/(Deficit). 
+
+ 
+
+1.35 We recommended that Management effect the reversion of the 
+
+dormant payables to Accumulated Surplus/(Deficit) account in 
+
+accordance with EO No. 87 dated August 13, 2019. 
+
+ 
+
+1.36 The Accountant responded that analysis of the Accounts Payable account 
+
+will be made and they will trace past records to effect reversion, if 
+
+warranted. 
+
+ 
+
+
+
+ 
+
+46 
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+1.37 We would like to emphasize that it is imperative that the Management 
+
+specify timeline concerning the tracing of documents related to the dormant 
+
+Liability accounts and the preparation of the resulting adjustment, if any, in 
+
+the books. 
+
+ 
+
+Other Accounting Controls Deficiencies 
+
+ 
+
+2. Four accounts with year-end aggregate balance of P1.121 billion are of 
+
+doubtful validity due to the various accounting deficiencies in the total amount 
+
+of P235,219,588.56 and control lapses, which affected the accuracy and 
+
+completeness of the reported balances in the FSs.   
+
+ 
+
+Table 6. Summary of Other Accounting Control Deficiencies 
+
+Accounts Affected Deficiencies 
+Amount  
+
+(In PhP) 
+
+Total per FSs 
+
+(In PhP) 
+
+Cash and Cash 
+
+Equivalents 
+
+Unaccounted 
+
+discrepancy between the 
+
+book and bank balances 
+
+58,093,355.08  930,213,228.80 
+
+Receivables Undocumented negative 
+
+balance of Due from 
+
+Other Funds 
+
+57,191,192.01 57,191,192.07 
+
+Discrepancy between the 
+
+Accounting record and 
+
+per audit of the 
+
+Receivables- 
+
+Disallowances/Charges 
+
+1,821,146.07 8,449,359.50 
+
+Advances Misclassification in the 
+
+recording of cash 
+
+advances 
+
+1,772,671.36 5,105,078.95 
+
+Trust Liabilities Non-moving Trust 
+
+Liabilities of more than 
+
+two years 
+
+            
+
+43,096.32 
+
+43,096.32 
+
+Other Payables Other Payables with no 
+
+SLs /documents on 
+
+record  
+
+   
+
+116,298,127.72 
+
+119,871,157.96 
+
+Total  235,219,588.56 1,120,873,113.60 
+
+ 
+
+Cash and Cash Equivalents  
+
+ 
+
+Unaccounted discrepancy between the book and bank balances. 
+
+ 
+
+
+
+ 
+
+47 
+ 
+
+2.1 As per result of the bank confirmation, the University has a total of 20 bank 
+
+accounts, nine for Current Account, 10 for Saving Account, and one for 
+
+Cash Foreign Currency with a balance of $2,566.19 (amount shown in the 
+
+table is the conversion of P48.036 per dollar rate at year-end), with a total 
+
+balance of P869,317,274.32, which does not reconcile with the book 
+
+balance  of P927,410,629.40, or a difference of P58,093,355.08, presented 
+
+in the table below: 
+
+ 
+
+Table 7. Summary of Deficiencies of Cash Account 
+Bank Account 
+
+No. 
+
+Bank Balance 
+
+(In PhP) 
+
+Book Balance 
+
+(In PhP) 
+
+Variance 
+
+(In PhP) 
+
+Current Account/LBP 
+
+23xx-1xxx-13 3,130,818.24 
+
+832,548,650.93 (64,269,365.72) 
+
+xxxxxxxx-37 468,470,064.58 
+
+xxxxxxxxx-45 99,275,653.55 
+
+xxxxxxxxx-55 2,542,851.04 
+
+xxxxxxxxx-49 4,557,571.88 
+
+xxxxxxxxx-81 335,876.00 
+
+xxxxxxxxx-84 65,121,446.58 
+
+xxxxxxxxx-22 109,165,337.34 
+
+DBP/Current  
+
+0xxx-5xxx-xxx-3 15,679,666.00 
+
+Subtotal 768,279,285.21 832,548,650.93 (64,269,365.72) 
+
+0xxxxxxxx-32 123,269.50 45,028.70 78,240.80 
+
+Savings (HYSA)Account/LBP 
+
+23xx-0xxx-19 21,609,008.42 
+
+94,816,949.77 6,097,769.84 
+
+xxxxxxxxx-27 21,609,008.42 
+
+xxxxxxxxx-59 21,130,891.16 
+
+xxxxxxxxx-67 10,565,445.57 
+
+xxxxxxxxx-75 10,565,445.57 
+
+xxxxxxxxx-43 5,383,496.36 
+
+xxxxxxxxx-35 5,383,496.36 
+
+xxxxxxxxx-26 2,477,830.26 
+
+xxxxxxxxx-xx 1,363,899.49 
+
+DBP/Savings  
+
+Xx5-xxxxx-xxx-0 826,198.00 
+
+Subtotal 100,914,719.61 94,816,949.77 6,097,769.84 
+
+Total 869,317,274.32 927,410,629.40 (58,093,355.08) 
+
+ 
+
+2.2 Among the identified reasons for the unadjusted discrepancy in the book 
+
+and bank balances are as follows: 
+
+ 
+
+a) Non-maintenance of GL by the previous Accountant and the non-
+
+preparation of BRS for the previous years; 
+
+ 
+
+b) Accumulation of reconciling items in prior years, which remained 
+
+unadjusted/unrecorded in the books as per BRS submitted by the 
+
+
+
+ 
+
+48 
+ 
+
+Accounting Office for three major bank accounts for CY 2020 in 
+
+the total amount of P22,237,140.81; and 
+
+ 
+
+c) Understatement of Cash Foreign Currency account with a bank 
+
+balance of $2,566.19 when converted to cash as of audit date with a 
+
+conversion rate of P48.036, the amount to be recorded in the books 
+
+should be P123,269.50 ($2,566.19 X P48.036). 
+
+ 
+
+2.3 We recommended that Management: 
+
+ 
+
+a. thru the Accountant, trace the discrepancies between the bank 
+
+and book balances and reconcile said discrepancies so that the 
+
+correct balance of Cash and Cash Equivalents account shall be 
+
+reported in the Statement of Financial Position; 
+
+ 
+
+b. see to it that Bank Reconciliation Statement shall be prepared 
+
+for all bank accounts regularly and within the prescribed 
+
+period; 
+
+ 
+
+c. prepare and submit prior years’ BRS to adjust the accumulated 
+
+reconciling items of P22,237,140.81, which is captioned as 
+
+outstanding balances from previous years; and  
+
+ 
+
+d. prepare the corresponding JEV to correct the discrepancy in   
+
+recording the conversion to peso of the dollar account to the 
+
+Cash in Bank - Foreign Currency account. 
+
+ 
+
+2.4 During the exit conference, the Management assured that they will look 
+
+into the above observations and promised to abide by the 
+
+recommendations. 
+
+ 
+
+2.5 The Audit Team will coordinate with the Accounting Office and continue 
+
+to monitor the implementation of the recommendations. 
+
+ 
+
+Receivables  
+
+ 
+
+Undocumented negative balance of Due from Other Funds and discrepancy 
+
+between the Accounting record and per audit of the Receivables- 
+
+Disallowances/Charges 
+
+ 
+
+2.6 The accounting deficiencies on Receivables are summarized as follows: 
+
+ 
+
+
+
+ 
+
+49 
+ 
+
+Table 8. Summary of Accounting Deficiencies on 
+
+Receivables 
+
+Noted Deficiencies Amount 
+
+a. Undocumented negative balance of Due from 
+Other Funds, 
+
+ 
+
+- The negative balance in this account increased 
+to P57,191,192.01 in CY 2020 from its CY 
+
+2019 negative balance of P33,250,902.34, 
+
+which cannot be readily traced due to absence 
+
+of documents and the non-preparation of SLs 
+
+57,191,192.01 
+
+b. Discrepancy between the Accounting Office 
+records and per audit of the Receivable- 
+
+Disallowances/Charges (see Table 4) 
+
+1,821,146.07 
+
+Total  59,012,338.08 
+
+ 
+
+2.7 We recommended, and Management agreed, to: 
+
+ 
+
+a. analyze the Due from other Funds account and review the 
+
+transactions to determine the cause and details of the huge 
+
+negative balance of the account; and 
+
+ 
+
+b. prepare adjusting entries to correct the balances of the 
+
+accounts. 
+
+ 
+
+Advances 
+
+ 
+
+Misclassification in the recording of cash advances 
+
+ 
+
+2.8 Recording errors, which are not in conformity with Chapter 3 on 
+
+Description of Accounts of the GAM for NGAs, Volume III on Advances, 
+
+were also noted, where seven out of 39 of the cash advances granted to the 
+
+Agency’s AOs for the special purpose/time-bound undertakings were 
+
+recorded as Advances to Officers and Employees instead of Advances to 
+
+Special Disbursing Officers.  Also, four of the cash advances granted to the 
+
+Head Cashier, a regular DO, for payment of incentives due to officers and 
+
+employees were recorded under Advances to Special Disbursing Officers 
+
+instead of Advances for Payroll. 
+
+  
+
+2.9 Out of the year-end balance of Advances to Officers and Employees and 
+
+Advances to Special Disbursing Officers, cash advances amounting to 
+
+P831,921.36 and P940,750.00, should have been recognized as Advances 
+
+to Special Disbursing Officer and Advances for Payroll, respectively.  
+
+ 
+
+
+
+ 
+
+50 
+ 
+
+2.10 We recommended that Management, thru the Accountant, ensure the 
+
+proper recording of the Advances account. 
+
+ 
+
+Trust Liabilities and Other Payables 
+
+ 
+
+                         Non-moving Trust Liabilities of more than two years and Other Payables with no 
+
+SLs /documents on record 
+
+ 
+
+2.11 The accuracy, existence and completeness of the Trust Liabilities and Other 
+
+Payables with year-end balances of P43,096.32 and P116,298,127.72, 
+
+respectively, could not be ascertained as they represent inactive, non-
+
+moving and outstanding balances for more than three years.   
+
+ 
+
+2.12 Audit of the Trust Liabilities and Other Payables accounts disclosed that 
+
+their balances were inactive, non-moving and remained outstanding for 
+
+more than two years, as follows: 
+
+ 
+
+Table 9. Outstanding Liabilities Accounts for More Than Two Years 
+
+Account 
+
+Title 
+
+Balance as of 
+
+December 31, 2020 
+
+In PhP 
+
+Age of 
+
+Dormancy 
+Remarks 
+
+Other 
+
+Payables 
+
+   116,298,127.72 2 to 5 years No SLs and documents 
+
+on record 
+
+Trust 
+
+Liabilities 
+
+            43,096.32 More than 2 
+
+years 
+
+ 
+
+Total 116,341,224.04   
+
+ 
+
+2.13 We recommended that Management thru the Accountant: 
+
+ 
+
+a. prioritize the documentation of the Other Payables account to 
+
+substantiate the huge balance thereof and periodically monitor 
+
+the same; and  
+
+ 
+
+b. revert the dormant payables to Accumulated Surplus/Deficit in 
+
+accordance with EO No.  87 and Section 98 of PD No. 1445.  
+
+ 
+
+COMPLIANCE AUDIT 
+
+ 
+
+Audit of COVID-19 Fund Utilization 
+
+ 
+
+3. Funds received from the Commission on Higher Education (CHED), through 
+
+its Higher Education Development Fund (HEDF), as grant for the Project of 
+
+Production of Alcohol-Based Hand Rub Sanitizer as part of the activities to 
+
+combat COVID-19, amounting to P1,458,897.50 remained unutilized due to:           
+
+
+
+ 
+
+51 
+ 
+
+(i) delayed implementation of the scheduled activities; and (ii) the 
+
+unpreparedness of the chosen facility or laboratory for the production of the 
+
+alcohol-based hand sanitizer. Also, RTU has failed to provide the Audit Team 
+
+the weekly reports and SLs submitted to CHED to monitor project 
+
+implementation. 
+
+ 
+
+Part 1 – Authority to Conduct Research 
+
+ 
+
+3.1 President Rodrigo Roa Duterte, through Proclamation No. 922 dated March 
+
+8, 2020, declared the Philippines under the State of Public Health 
+
+Emergency upon confirmation of local transmission of Corona Virus 
+
+Disease (COVID-19) in the Philippines.  Section 2 of Proclamation No. 
+
+922 states that:  
+
+ 
+
+“All government agencies and LGUs are hereby enjoined to 
+
+render full assistance and cooperation and mobilize the 
+
+necessary resources to undertake critical, urgent, and 
+
+appropriate response and measure in a timely manner to 
+
+curtail and eliminate the COVID-19 threat.” 
+
+ 
+
+3.2 Under Section 4 (y) of Republic Act No. 11469, also known as “Bayanihan 
+
+to Heal as One Act,” the President is authorized to allocate cash, funds, 
+
+investments, including unutilized or unreleased subsidies and transfers, 
+
+held by any GOCC or any national government agency in order to address 
+
+the COVID-19 emergency. 
+
+ 
+
+3.3 CHED Memorandum Order No. 1 s. 2020, effective April 2, 2020, 
+
+prescribes the Guidelines for the Grant of Assistance to State Universities 
+
+and Colleges to Combat COVID-19.  SUCs are authorized by law/charter 
+
+to conduct research and extension services, including projects that will 
+
+improve and intensify the government’s existing COVID-19 responses. 
+
+CHED undertakes its efforts to mobilize HEIs to assist in the production 
+
+and distribution of items (such as disinfectants, alcohol, face shields, etc.) 
+
+for use by frontline service providers.  The CHED issues guidelines in 
+
+response to the national emergency by allocating/utilizing its funds towards 
+
+mitigating the social, economic, and financial impact of COVID-19 on 
+
+Filipinos. Under the same Memorandum, the grant is open to SUCs to 
+
+conduct extension and public service programs to combat COVID-19.  
+
+ 
+
+3.4 Section III of the same memorandum provides the documentary 
+
+requirements which shall include the following: 
+
+a. Certification by the President that the SUC has the 
+
+expertise to undertake the proposed project with CVs or 
+
+
+
+ 
+
+52 
+ 
+
+short biosketches of experts (for Items 2.a and 2.b) or 
+
+number of potential volunteers (for Item 2.c) and that it has 
+
+the equipment, raw materials or access thereof, and 
+
+facilities to undertake the project including a description 
+
+thereof; 
+
+b. Full-blown proposal (see attached template) with the 
+
+following information: 
+
+i. Line item budget; 
+
+ii. Work Plan; 
+
+iii. Terms of Reference/scope of the project; 
+
+iv. Log frame; 
+
+v. Description of the significance of the project in 
+
+terms of its benefits to the community as well as the 
+
+expected outcome of the activity 
+
+vi. Method 
+
+vii. Distribution plan for products with the following 
+
+prioritization: 1) LGUs using SUCs facility as 
+
+quarantine/community isolation units; 2) LGUs, 
+
+with little or no capacity of producing the proposed 
+
+products. 
+
+viii. Email and mobile numbers of proponents; 
+
+c. Proof of coordination with the local government, the 
+
+Department of Health, or the local security forces, as 
+
+applicable, to ensure reasonable compliance with their 
+
+policies, standards or guidelines related to the project, as 
+
+evidenced by a letter sent and duly received by the 
+
+concerned offices. 
+
+d. Proposed Memorandum of Agreement signed by the SUC 
+
+President and a witness which will be processed if the 
+
+proposal is approved; 
+
+e. Certification by the President that the proposed projects are 
+
+subject to ratification by the Governing Board of the SUC 
+
+concerned and that it has been forwarded to the Board 
+
+Chair for approval via referendum; and 
+
+f. Project Summary Sheet 
+
+ 
+
+3.5 The Project Team headed by Prof. Marita Geroy, forwarded the above 
+
+listed documents on December 17, 2020 upon request of the COA Audit 
+
+Team. However, the submitted Certification by Dr. Yangco as University 
+
+President for Item 1 of the required documents is lacking of short 
+
+biosketches or CV of experts as required by aforesaid provisions. 
+
+ 
+
+
+
+ 
+
+53 
+ 
+
+3.6 The RTU, in reference to the submitted certifications dated April 22, 2020, 
+
+submitted three projects, namely: 
+
+a. Vegetable Production using the RTU Developed Urban Planting 
+
+Structures for Sustainability and Livelihood; 
+
+b. Production of Alcohol-based Hand Rub Sanitizer; and 
+
+c. Urban Production and Processing of Edible Mushrooms as Relief and 
+
+Rehabilitation Functions during National Crisis. 
+
+ 
+
+3.7 The Memorandum of Agreement (MOA) between CHED as First Party and 
+
+RTU as Second Party, signed June 8, 2020, stipulates that the First Party 
+
+will render additional financial support to the Second Party in order to 
+
+upgrade their institutional capability and sustain the production of much 
+
+needed goods and/or delivery of important services. 
+
+ 
+
+3.8 Furthermore, the MOA provides that the First Party, through its HEDF, 
+
+shall provide funding assistance to the Second Party in the amount of 
+
+P1,458,897.50.  This amount was received by the Second Party on October 
+
+22, 2020, and issued Official receipt (OR) No. 8683660 dated October 22, 
+
+2020. 
+
+ 
+
+3.9 Section I of the MOA provides the roles and responsibilities of the Second 
+
+Party. Among the listed roles and responsibilities of the University is the 
+
+preparation and submission of weekly reports and SLs that serve as 
+
+monitoring of project implementation, which to date, remained 
+
+unsubmitted to the Office of the Auditor. 
+
+ 
+
+Part 2 – Project Preparation and Implementation 
+
+ 
+
+3.10 Section 4 (k) of RA No. 11469 mandates the Government to procure in the 
+
+most expeditious manner, as an exemption from the provisions of RA No. 
+
+9184, including the medical goods, supplies and equipment that are 
+
+necessary to mitigate, if not contain, the transmission of COVID-19, goods 
+
+and services for social amelioration measures, utilities, telecommunications 
+
+and other critical services; lease of real property or venue, and 
+
+establishment, construction, and operation of temporary medical facilities. 
+
+ 
+
+3.11 The GPPB, under Resolution No. 03-2020 dated March 9, 2020, approved 
+
+the list of items submitted by the DOH, which are needed to address the 
+
+current State of Public Health Emergency as shown in Annex B of the same 
+
+resolution, of which includes alcohol and sanitizer as Item Nos. 1 and 2, 
+
+respectively. 
+
+ 
+
+
+
+ 
+
+54 
+ 
+
+3.12 Section 5 (2) of the CHED Memorandum Order No. 1 s. 2020 on the 
+
+Guidelines for the Grant of Assistance to SUCs to Combat COVID-19 
+
+limits the grant for a period of 2 to 3 months from the release of funds.  In 
+
+compliance with the MOA between CHED and RTU, Section XI provides 
+
+that the agreement shall take effect upon the release of funds to the 
+
+concerned HEI for the project implementation and shall be in effect for a 
+
+period of three months from the release. 
+
+ 
+
+3.13 Submitted copy of Approved Project Proposal detailed the Activities of the 
+
+Project in the following manner and schedule: 
+
+ 
+
+Table 10. Approved Project Proposal – Activities of the Project 
+
+Schedule Activities 
+
+Actual Deadline 
+
+Status 
+
+Supporting 
+
+Documents/ 
+
+Output 
+
+Start 
+
+Date 
+
+End 
+
+Date 
+
+Week 1 - 
+
+Week 4 
+
+Initial Preparation 
+
+10/22/  
+
+2020 
+
+11/22/ 
+
+2020 
+
+    
+
+1 Identification 
+
+of Personnel 
+
+Involved 
+
+Accomplished List of 
+
+Personnel 
+
+2 Identification 
+
+of Production 
+
+Facility 
+
+Partially 
+
+Accomplished 
+
+Production 
+
+Layout 
+
+3 Meeting prior 
+
+to execution of 
+
+the project 
+
+Not yet 
+
+determined 
+
+Minutes of 
+
+the Meetings 
+
+Procurement of 
+
+Supplies, 
+
+Materials and 
+
+Equipment 
+
+Ongoing   
+
+1
+
+  
+
+Procurement of 
+
+chemicals, 
+
+supplies and 
+
+fabrication of 
+
+equipment 
+
+  Procurement 
+
+Documents 
+
+Week 5 - 
+
+Week 12 
+
+Production of 
+
+Alcohol-based 
+
+Hand Rub 
+
+Sanitizer 11/23/ 
+
+2020 
+
+01/22/ 
+
+2021 
+
+    
+
+1 Production Pending Actual 
+
+Product 
+
+2 Distribution of 
+
+the Product 
+
+Pending Delivery/ 
+
+Distribution 
+
+  
+
+3.14 Upon interview and inquiry with the Project Team, Supply Office, and Bids 
+
+and Awards Committee (BAC), the project is still in the phase of 
+
+procurement.  Supplies and materials are partially delivered while 
+
+chemicals, drums and mixers and printer are pending delivery. 
+
+
+
+ 
+
+55 
+ 
+
+ 
+
+3.15 It is noted that there was   delay in the project implementation, contrary to 
+
+the MOA and Approved Schedule of Activities in the Proposal.  The delay 
+
+was due to the slow procurement process of the supplies and materials, and 
+
+equipment needed. 
+
+ 
+
+3.16 Furthermore, upon ocular inspection by the COA Audit Team on December 
+
+28, 2020, it was observed that the chosen facility or laboratory is not fully 
+
+prepared for the production of the alcohol-based hand sanitizer project.  It 
+
+was observed that some parts of the laboratory need minor repairs and 
+
+thorough cleaning for an efficient process during production. 
+
+ 
+
+3.17 We recommended that Management: 
+
+ 
+
+a. review the current status of the project, immediately process 
+
+the request of extension of project implementation from CHED 
+
+and observe the schedule set in the approved extended schedule 
+
+of activities; 
+
+ 
+
+b. thru the BAC Office and other involved offices, expedite the 
+
+procurement and delivery process of the materials and 
+
+equipment needed; 
+
+ 
+
+c. prepare the facility or laboratory to its working condition while 
+
+waiting for the materials and equipment; and 
+
+ 
+
+d. submit and continuously copy furnish the COA Office of the 
+
+weekly reports as well as SLs submitted to CHED as required 
+
+under the MOA. 
+
+ 
+
+3.18 Management commented that the reasons for the delay were due to:                
+
+(a) lockdowns implemented since the signing of the MOA with CHED 
+
+where the University cannot function at full capacity when some of the 
+
+members of the workforce were infected with the virus; (b) problems 
+
+encountered with the PhilGEPS wherein it was a challenge to post from the 
+
+month of October until December 2020; and (c) the non-responsiveness of 
+
+suppliers because of the cost declared in the Terms of Reference (TOR) 
+
+dictated by the CHED.  Also, though delayed, the production of the project 
+
+- alcohol-based hand sanitizer, is already near completion which will be 
+
+ahead of the extended completion date set by the CHED. 
+
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+
+
+ 
+
+56 
+ 
+
+3.19 The Audit Team reminded the RTU officials concerned of the above 
+
+recommendations wherein pertinent documents as well as updates on the 
+
+status of the project should be submitted to the Auditor’s Office.  The said 
+
+CHED-approved extension of deadline for the completion of the project 
+
+remained unsubmitted by the Management. 
+
+ 
+
+Delayed Tertiary Education Subsidy (TES) Benefits 
+
+ 
+
+4. The delayed processing of the TES grants to qualified beneficiaries deferred 
+
+the benefit of providing allowances to qualified students to support their 
+
+education-related expenses.  Moreover, inability to take an action on the 
+
+decreasing number of the CHED-identified, as well as, enrolled/admitted 
+
+student-TES grantees denies the University’s other poor but deserving 
+
+students the chance to enjoy the benefits of the government’s programs and 
+
+projects contrary to the provisions of Section 7 of RA No. 10931 and Section 22 
+
+of the Implementing Rules and Regulations (IRR) thereof. 
+
+ 
+
+4.1 Section 7 of RA 10931, known as the “Universal Access to Quality 
+
+Tertiary Education Act,” established a Tertiary Education Subsidy (TES) 
+
+for Filipino students who shall enroll in undergraduate-post-secondary 
+
+programs of State Universities and Colleges (SUCs), CHED-Recognized 
+
+Local Universities and Colleges (LUCs), private Higher Education 
+
+Institutions (HEIs), and all Technical Vocational Institutions (TVIs). 
+
+ 
+
+4.2 Section 22 of the IRR of RA 10931 stipulates that the TES shall support the 
+
+cost of tertiary education or any portion thereof.  Financial benefits under 
+
+the TES mechanism entitles a student-grantee enrolled in SUCs and 
+
+CHED-recognized LUCs to a maximum of Forty Thousand Pesos 
+
+(P40,000.00) as grant per academic year or Twenty Thousand Pesos 
+
+(P20,000.00) as grant per semester.  It covers, among others, allowance for 
+
+books, supplies, transportation and miscellaneous personal expenses 
+
+including a reasonable allowance for the documented rental or purchase of 
+
+a personal computer or laptop and other education-related expenses and, 
+
+allowance for room and board costs incurred by the students. 
+
+ 
+
+4.3 Summary of fund transfers from the CHED of the TES financial benefit as 
+
+well as the administrative cost of three percent for the AYs 2018 to 2019 
+
+and 2019 to 2020, is shown below: 
+
+ 
+
+                    Table 11. Summary of TES Fund Transfers from the CHED 
+
+AY 
+Semester 
+
+Covered 
+
+No. of 
+
+Grantees 
+Stipend 
+
+Administrative 
+
+Support Cost 
+Total 
+
+2018 - 
+
+2019 
+
+First and 
+
+Second 
+
+18 P720,000.00 P21,600.00 P741,600.00 
+
+116 4,640,000.00 139,200.00 4,779,200.00 
+
+
+
+ 
+
+57 
+ 
+
+AY 
+Semester 
+
+Covered 
+
+No. of 
+
+Grantees 
+Stipend 
+
+Administrative 
+
+Support Cost 
+Total 
+
+Subtotal 5,360,000.00 160,800.00 5,520,800.00 
+
+2019 -
+
+2020 
+
+First 91 1,820,000.00 54,600.00 1,874,600.00 
+
+Second 95 1,900,000.00 57,000.00 1,957,000.00 
+
+Subtotal 3,720,000.00 111,600.00 3,831,600.00 
+
+Total Subsidy 9,080,000.00 272,400.00 9,352,400.00 
+
+ 
+
+4.4 Review of the submitted disbursement vouchers (DVs), liquidations/report 
+
+of disbursements, ORs, and JEVs showed that only P5,960,000.00 or 65.64 
+
+percent of the total stipend was utilized and/or disbursed to the TES 
+
+grantees as of December 31, 2020. 
+
+ 
+
+4.5 Though partial amount of the TES subsidy for AYs 2018-2019 and 2019- 
+
+2020 had been received by some of the intended beneficiaries, the 
+
+remaining P2,800,000.00 or 30.84 percent of the total TES benefit 
+
+remained idle in the University’s Trust Fund pending claims by the 
+
+remaining grantees.   
+
+ 
+
+4.6 Moreover, only P20,000.00 of the total amount of P320,000.00 
+
+representing excess of the transferred funds was returned to CHED. The 
+
+said excess was due to the difference between the list of CHED-validated 
+
+number of grantees versus those enrolled and/or admitted in the University. 
+
+  
+
+4.7 Further, audit of the Administrative Support Cost (ASC) amounting to 
+
+P272,400.00, of which P21,600.00 was already refunded to the CHED, 
+
+showed zero utilization rate to date.  The ASC should have been used to 
+
+monitor the receipt and utilization of the budget as well as processing of the 
+
+liquidation of the fund transfers from CHED.  Likewise, the ASC can be 
+
+used for notarization of documents, office supplies and materials, salary of 
+
+project technical staff or job order, communication, transportation/travel, 
+
+remedial/mentoring program, and meetings/orientation/seminars/general 
+
+assembly. 
+
+ 
+
+4.8 This low utilization/zero rate of the stipend and ASC, respectively, 
+
+manifests a slow program/project implementation.  It also shows the 
+
+inability of the University to maximize the use of the budget provided to it, 
+
+which directly affects the delivery of services to the public. 
+
+ 
+
+4.9 The purpose of the TES subsidy, as stated in the IRR of RA No. 10931, 
+
+intends to support, among others, education-related expenses that include 
+
+basic necessities of the students. ASC, on the other hand, aims to provide 
+
+budget for the University to execute and properly comply with the 
+
+functions, roles and responsibilities of the agency with regard to the TES 
+
+
+
+ 
+
+58 
+ 
+
+program.  Delay in the release of the grants may hinder the continuing 
+
+education of the grantee as well as maximizing the limited resources of the 
+
+government. 
+
+ 
+
+4.10 The audit also showed that the Management did not comply with its 
+
+responsibility to ensure prompt monitoring and recording of the receipt of 
+
+funds as well as the liquidation/disbursement of funds to student grantees.  
+
+TES subsidy amounting to P2,612,200.00 was belatedly recorded while 
+
+P1,957,000.00 remained unrecorded.  The table below presents the delays 
+
+incurred: 
+
+ 
+
+Table 12.  Delay in the Recording of Receipt and Disbursement of Funds 
+
+to Student Grantees 
+
+Date Funds 
+
+are Credited 
+
+in the Bank 
+
+Date Receipt 
+
+of Funds is 
+
+Recorded 
+
+Date Funds 
+
+are Disbursed 
+
+to Grantees 
+
+No. of Days Delayed 
+
+Recording of 
+
+Funds Received 
+
+Disbursement 
+
+of Funds 
+
+(a) (b) (c)  (d) = (b) - (a) (e) = (c) - (a) 
+
+12/21/18 12/31/18 
+04/10/19 
+
+10 
+110 
+
+06/17/19 178 
+
+01/31/20 01/31/20 
+07/30/20 
+
+ - 
+181 
+
+12/22/20 326 
+
+06/01/20 06/30/20 11/03/20 29 155 
+
+12/17/20 Unrecorded   69* 69* 
+
+No. of Days Delayed  10 - 69 69 - 326 
+* as at AOM date 
+
+ 
+
+4.11 The remaining balance of the subsidy and ASC, the amount to be refunded, 
+
+as well as the stipends released to student grantees in the total amount of 
+
+P9,310,800.00 remained unliquidated with the CHED pending submission 
+
+of the required Fund Utilization Report (FUR) and other documentary 
+
+requirements. 
+
+ 
+
+4.12 Furthermore, the number of qualified TES grantees identified by the CHED 
+
+decreased from a total of 134 in AY 2018 – 2019 to 91-95 in AY 2019 – 
+
+2020.  The same case of declining rate is also true of beneficiaries 
+
+enrolled/admitted in the University, as presented in the table as follows: 
+
+ 
+
+Table 13.  Declining Rate of Beneficiaries Enrolled/Admitted 
+
+
+
+ 
+
+59 
+ 
+
+0
+
+50
+
+100
+
+150
+
+First Second First Second
+
+2018 - 2019 2019 -2020
+
+Tertiary Education Subsidy (TES) Grantee
+
+No. of Grantees Identified by CHED
+
+Table 13.  Declining Rate of Beneficiaries Enrolled/Admitted 
+
+ 
+
+  
+
+ 
+
+4.13 The result of the review counters the objectives and goals of the University, 
+
+namely, to ensure increased relevance and quality tertiary education to 
+
+achieve inclusive growth and access of deserving but poor students to 
+
+quality tertiary education. 
+
+ 
+
+4.14 We recommended that Management: 
+
+ 
+
+a. expedite the release to the remaining student grantees of the 
+TES subsidy amounting to P2,800,000.00; 
+
+ 
+
+b. revert to the CHED the amount of P300,000.00 excess fund 
+transfers computed as the difference between the list of CHED-
+
+validated number of grantees versus those enrolled and/or 
+
+admitted in the University multiplied by the amount of subsidy 
+
+per semester; 
+
+ 
+
+c. submit to the Office of the Auditor the budget plan for the use 
+of the remaining ASC; 
+
+ 
+
+d. immediately settle the unliquidated cash advances with the 
+CHED in order to avail of the ASC for the continuing TES 
+
+program; 
+
+ 
+
+e. thru the Accountant, (i) draw JEV to record the TES subsidy of 
+P1,957,000.00 received on December 17, 2020; (ii) adjust the 
+
+accounts affected to fairly present the same on the FSs; (iii) 
+
+monitor the fund transfers from CHED (Due to NGAs account) 
+
+to properly recognize in the books the receipt of funds as well as 
+
+the disbursement/liquidation from such; and 
+
+ 
+
+
+
+ 
+
+60 
+ 
+
+f. thru the Head of Scholarship and Grants Office, ensure proper 
+coordination with current TES student-grantees as well as the 
+
+population of poor but deserving students for receipt and/or 
+
+application of TES financial benefits with CHED. 
+
+ 
+
+4.15 The Management, in consultation with CHED-TES-in-Charge, will release 
+
+the remaining TES subsidy upon the availability of a written directive and 
+
+explanation from the UniFAST representative, clarifying the “retention” 
+
+policies of the student-grantees.  Also, RTU officials concerned in the 
+
+implementation of the TES stated that fund transfers to the University for 
+
+numerous scholarships and grants were delayed, thus deferred benefits to 
+
+the recipients. 
+
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+4.16 We would like to emphasize that the Management should: a) follow up the 
+
+needed document from the UniFAST representative; and b) implement 
+
+additional measures to ensure compliance with the CHED rules and 
+
+regulations for the TES grants. 
+
+ 
+
+Non-compliance with Rules and Regulations on the Release of the TES-ESGPPA 
+
+Financial Benefits 
+
+ 
+
+5. The UniFAST Memorandum Circular (MC) No. 2018-0001 dated March 26, 
+
+2018 was not strictly adhered to by the University,  in view of : a) one-time 
+
+receipt by student grantees of the P4,760,000.00 TES-ESGP-PA benefits for 
+
+AY 2018 – 2019; b) delay by 77 to 604 days as of reporting date  in the release 
+
+of the P1,860,000.00   financial benefits to the intended student beneficiaries, 
+
+thus were denied the use of the funds for their  immediate needs; and c) the 
+
+non-liquidation to CHED as of December 31, 2020 of the P6,665,000.00 fund 
+
+transfers.  Moreover, the fund transfer for AY 2019-2020 in the amount of 
+
+P1,545,000.00 was not recorded in the books at yearend, while P5,644,400.00 
+
+was not posted in the GL and SLs for monitoring.   
+
+ 
+
+5.1 The Expanded Student’s Grants-in-Aid Program for Poverty Alleviation 
+
+(ESGP-PA) is an existing joint program of the CHED, DBM, Department 
+
+of Social Welfare and Development (DSWD) and the Department of Labor 
+
+and Employment (DOLE).  As stipulated in the CHED-DBM-DSWD-
+
+DOLE Joint Memorandum Circular No. 01 dated June 23, 2016 regarding 
+
+the ESGP-PA program coverage, “the ESGP-PA shall eventually be under 
+
+the umbrella of RA 10687, otherwise known as ‘Unified Student Financial 
+
+Assistance System for Tertiary Education (UNIFAST) Act,’ which covers 
+
+all existing modalities of Student Financial Assistance Programs 
+
+
+
+ 
+
+61 
+ 
+
+(StuFAPs) for Tertiary Education and Special Purpose Education 
+
+Assistance in both public and private institutions.” 
+
+ 
+
+5.2 Consequently, under both RA No. 10687 and RA No. 10931, the 
+
+continuing ESGP-PA student-grantees are considered included and covered 
+
+by RA No. 10931 through the TES program. 
+
+ 
+
+5.3 Item 4.1 of the UniFAST MC No. 2018-0001 dated March 26, 2018 
+
+promulgates the TES grant to ESGP-PA student grantees as follows: 
+
+ 
+
+A student-grantee shall be entitled to a maximum of Forty 
+
+Thousand Pesos (P40,000.00) as grant per academic year or 
+
+Twenty Thousand (P20,000.00) as grant per semester.  The grant 
+
+is intended to cover academic and extra-curricular expenses, 
+
+purchase of textbooks, board and lodging, transportation, 
+
+clothing, admission/entrance fees, health and other valid related 
+
+education expenses and support services to complete the student-
+
+grantee’s degree program. 
+ 
+
+Table 14. TES Entitlement of Student-grantee’s 
+
+Degree Program  
+
+Particulars 
+Unit Cost  
+
+(In PhP) 
+
+Total Cost / 
+
+Year  
+
+(In PhP) 
+
+1. Textbook / other learning 
+
+materials 
+
+2,500.00 / 
+
+semester 
+
+5,000.00 
+
+2. Stipend (to include food, 
+
+lodging, clothing, 
+
+transportation, health/ 
+
+medical needs, basic school 
+
+supplies and other related 
+
+costs) 
+
+3,500.00 per 
+
+month for 10 
+
+months 
+
+35,000.00 
+
+Total   40,000.00 
+
+ 
+
+5.4 Stated under 6.4 of MC No. 2018-0001 are the requirements and processes 
+
+for the release of funds by SUCs to students, among which, are: (i) stipends 
+
+due to the beneficiary shall be released by the SUC on a monthly basis 
+
+while (ii) book allowance shall be released on a semestral basis. 
+
+ 
+
+5.5 Also discussed in the same MC is the Administrative and Miscellaneous 
+
+Cost (AMC) of three percent for SUCs which shall cover activities such as 
+
+monitoring, office supplies and materials, hiring of project technical staff/s 
+
+or job order, communication, transportation/travel, information technology 
+
+
+
+ 
+
+62 
+ 
+
+(IT) equipment, remedial/mentoring program, and 
+
+meetings/orientation/general assembly. 
+
+ 
+
+5.6 Review of the documents received by the Office of the Auditor concerning 
+
+TES-ESGP-PA for AYs 2018-2019 and 2019 – 2020 showed that total fund 
+
+transfers from CHED amounted to P7,189,400.00, which was received 
+
+from July 2019 to December 2020.  The amount covered book allowance 
+
+and stipends of P6,980,000.00 and AMC of P209,400.00. 
+
+ 
+
+5.7 Of the total educational allowance, the amount of P4,760,000.00 TES-
+
+ESGP-PA benefits for AY 2018 – 2019 had been received one-time by 
+
+student grantees, each receiving the total grant of P40,000.00, contrary to 
+
+Item 6.4 of MC No. 2018-0001 dated March 26, 2018. 
+
+ 
+
+5.8 The remaining financial benefits of P360,000.00 and P1,500,000.00 for 
+
+AYs 2018 – 2019 and 2019 – 2020, respectively, totaling P1,860,000.00 
+
+had not been received by the other student-grantees incurring delays of 77 
+
+to 604 days, denying the use of the fund for the immediate needs of the 
+
+student beneficiaries. 
+
+ 
+
+5.9 Also, the three percent AMC totaling P209,400.00 was not utilized for the 
+
+same purpose it was intended.  The non-utilization of the AMC affected the 
+
+proper monitoring of the receipts and utilizations of funds since it could 
+
+have been used to employ additional workforce for the Scholarship and 
+
+Grants Office, which remained undermanned with just one contractual 
+
+employee and the Head of the Office.  Moreover, the budget could be used 
+
+to purchase additional IT equipment such as scanners designed for high-
+
+volume management and archiving of documents, as to ensure all 
+
+documentary requirements of TES grantees as well as liquidation reports 
+
+can be kept intact for reporting and future reference. 
+
+ 
+
+5.10 Moreover, audit showed that:(a) stipend and AMC for AY 2018 – 2019 in 
+
+the amount of P5,644,400.00 recorded under JEV No. 19-07-0733 dated 
+
+July 31, 2019 was not posted in the GL and SL; and (b) subsidies for the 
+
+first and second semesters of AY 2019 - 2020 in the amount of 
+
+P1,545,000.00 remained unrecorded in the books of accounts.  The 
+
+aforesaid deficiency resulted in the abnormal balance of the Due to NGAs 
+
+account of Fund 164 as at year ended December 31, 2019 and understated 
+
+liabilities of the Agency as at year ended December 31, 2020, contrary to 
+
+Section 7, Chapter 19 of the GAM for NGAs, Volume I, to wit: 
+
+ 
+
+Financial statements shall present fairly the financial position, 
+
+financial performance and cash flows of an entity. Fair 
+
+
+
+ 
+
+63 
+ 
+
+presentation requires the faithful representation of the effects of 
+
+transactions, other events, and conditions in accordance with the 
+
+definitions and recognition criteria for assets, liabilities, revenue, 
+
+and expenses set out in IPSAS. The application of IPSAS, with 
+
+additional disclosures when necessary, is presumed to result in 
+
+financial statements that achieve a fair presentation. (Par. 27, 
+
+IPSAS 1) 
+
+ 
+
+5.11 Further, communication and verification with the CHED disclosed that the 
+
+92.71 percent of total fund transfers for the TES-ESGP-PA financial 
+
+benefits received by the University or P6,665,000.00 remained 
+
+unliquidated, thus not in accordance with UniFAST rules and regulations 
+
+on semestral fund transfer liquidation. 
+
+ 
+
+5.12 We recommended that Management: 
+
+ 
+
+a. comply with the requirements and processes for the release of 
+funds to TES-ESGP-PA beneficiaries, that is, stipends due to 
+
+the beneficiary shall be released by the SUC on a monthly basis 
+
+while book allowance shall be released on a semestral basis in 
+
+accordance with Item 6.4 of UniFAST MC No. 2018-0001 dated 
+
+March 26, 2018; 
+
+ 
+
+b. release immediately the remaining financial benefits of 
+P1,860,000.00 to the student-grantees; 
+
+ 
+
+c. through the Head of Scholarship and Grants Office, plan and 
+implement the effective use of the three percent AMC in 
+
+accordance with existing rules and regulations; 
+
+ 
+
+d. through the Accountant, (i) prepare JEV to record the fund 
+transfer of P1,545,000.00 for TES-ESGP-PA financial benefits 
+
+for AY 2019 – 2020; (ii) monitor the fund transfers for TES-
+
+ESGP-PA to facilitate the accounting and liquidation thereof; 
+
+and  
+
+ 
+
+e. settle the unliquidated cash advances with the CHED in 
+accordance with UniFAST rules and regulations on semestral 
+
+fund transfer liquidation. 
+
+ 
+
+5.13 The Management commented that there will be difficulty complying with 
+
+the scheduled monthly release of the stipend because the TES-ESGP-PA 
+
+funds from CHED had been delayed since 2018.  Also, actions were 
+
+
+
+ 
+
+64 
+ 
+
+already taken for the release of the remaining benefits as well as 
+
+compliance with the other audit observations. 
+
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+5.14 The Audit Team reminds the RTU officials concerned with the 
+
+implementation of TES-ESGP-PA financial benefits to provide timelines 
+
+and proper monitoring to ensure realization of the objectives of the project. 
+
+ 
+
+Deficient Budget Execution, Monitoring and Reporting 
+
+ 
+
+6. The Budget Office did not a) maintain the required Registries for monitoring 
+
+of the University budget; and b) comply with the procedures in monitoring and 
+
+recognizing revenue and other receipts, recording of budgetary accounts and 
+
+monitoring budget, utilizations and disbursements charged to Retained 
+
+Income, Revolving Funds and Trust Receipts/Custodial funds, contrary to 
+
+Chapter 3, GAM for NGAs, Volume I. 
+
+ 
+
+6.1 Chapter 3 of the GAM for NGAs, Volume I, prescribes the guidelines in 
+
+monitoring, accounting and reporting of the budget in the FSs.  It also 
+
+prescribes the records to be maintained by the NGAs, forms to be used and 
+
+reports to be prepared to effectively monitor the budget as well as the 
+
+required information disclosure and presentation of budget information in 
+
+the FSs in accordance with IPSAS 24. 
+
+ 
+
+6.2 Sections 6, 8, 10 and 18 of the same Manual, enumerate the Registries that 
+
+should be maintained by the Budget Office, as follows: 
+
+ 
+
+a. Registries of Revenue and Other Receipts (RROR) (Appendices 7, 7A, 
+7B, 7C and 7D); 
+
+b. Registry of Appropriations and Allotments (RAPAL) (Appendix 8); 
+c. Registries of Allotments, Obligations and Disbursements (RAOD) 
+
+(Appendices 9A, 9B, 9C, 9D); and 
+
+d. Registries of Budget, Utilization and Disbursements (RBUD) 
+(Appendices 10A, 10B, 10C, 10D). 
+
+ 
+
+6.3 Review of the procedures of the Budget Office with regard to the 
+
+monitoring and recognizing revenue and other receipts revealed that the 
+
+Estimated Revenue per Approved Budget of the Agency (ERABA) was not 
+
+prepared by Management.  It was also found out that the Offices of the 
+
+Cashier and Accounting did not provide the Budget Office with a copy of 
+
+the Report of Collections and Deposits (RCD) and Tax Remittance Advice 
+
+(TRA), respectively.  The aforesaid documents are the bases in recording 
+
+
+
+ 
+
+65 
+ 
+
+the estimated revenue/other receipts/constructive receipts of revenue in the 
+
+RROR.  
+
+ 
+
+6.4 The Budget Office does not maintain the RABUD, thus recording and 
+
+monitoring of budget utilizations and disbursements under the STF and 
+
+other trust receipts/custodial funds are inadequate and could not be relied 
+
+upon.  The RBUD, which shall also be prepared by the Budget Office, is 
+
+the Registry used to record approved special budget and corresponding 
+
+utilizations and disbursements charged to retained income under RA No. 
+
+8292 for SUCs and other retained income collection of the agency with 
+
+similar authority, Revolving Funds and Trust Receipts/Custodial Funds. 
+
+ 
+
+6.5 Furthermore, based on the RTU processes/procedures in the disbursements 
+
+and obligations of allotments, it was observed that: 
+
+ 
+
+a. It has been the practice of the University that the Office requesting 
+for the incurrence of an obligation only prepares the supporting 
+
+documents such as Payroll, Contract/Purchase Order (PO) and other 
+
+SDs.  Preparation of ORS/BURS is passed to the Budget Office, 
+
+and the DV to the Accounting Office.  The GAM requires the 
+
+Requesting Office to prepare both the ORS/BURS and DV for the 
+
+obligation requested for budget. 
+
+ 
+
+b. The Director of the FSC certifies in Section A of the ORS/BURS, 
+the necessity and legality of charges to the budget and validity, 
+
+propriety and legality of SDs. Section 36 (e, f), Chapter 2, of the 
+
+GAM for NGAs, Volume I, discusses that it is the responsibility of 
+
+the Head of the Requesting Office to ensure that the disbursements 
+
+of government funds are legal and in conformity with applicable 
+
+rules and regulations as well as the submission of proper evidence 
+
+to establish validity of the claim.  Accordingly, the Head of the 
+
+Requesting Office shall certify   the necessity and legality of 
+
+charges to allotments under his/her supervision as well as the 
+
+validity, propriety and legality of supporting documents. 
+
+ 
+
+c. The Budget Office does not maintain the RAOD, thus proper 
+monitoring and prevention of incurrence of obligations in excess of 
+
+allotment and overdraft in disbursements against obligations 
+
+incurred could not be ascertained. 
+
+ 
+
+d. The Accounting Office does not prepare Notice of Obligation 
+Request and Status Adjustment (NORSA)/Notice of Budget 
+
+Utilization Request and Status Adjustment (NBURSA) which is 
+
+used in adjusting the original amount obligated to the actual 
+
+obligations incurred in the RAOD. 
+
+
+
+ 
+
+66 
+ 
+
+ 
+
+e. The Cashier/Accounting Office did not provide and submit copies 
+of the RCI, RADAI, JEV and NORSA/NBURSA to the Budget 
+
+Office that should serve as bases for posting in Section C of the 
+
+ORS/BURS and recording in the RAOD/RBUD. 
+
+ 
+
+6.6 We recommended that the Management: 
+
+ 
+
+a. thru the Budget Office: i) prepare and maintain the registries 
+enumerated under Sections 6, 8, 10, and 18, Chapter 3, of the 
+
+GAM for NGAs, Volume I; and ii) follow the budget execution, 
+
+monitoring and reporting procedures required of the Office 
+
+discussed in the same Chapter; 
+
+ 
+
+b. prepare and submit to this Office the Estimated Revenue per 
+Approved Budget of the Agency (ERABA) for CY 2020; 
+
+ 
+
+c. thru the Cashier, furnish the Budget Office copies of the:           
+i) RCD for proper recording of collections of revenue/other 
+
+receipts/constructive receipts of revenue in the RROR; and ii) 
+
+RCI and RADAI for posting of budget utilizations and 
+
+disbursements in the ORS and RAOD;  
+
+ 
+
+d. enforce the procedure on the preparer of the DV, ORS/BURs 
+and certifying office, both should be the Head of Requesting 
+
+Office, in Section A of the ORS/BURS the necessity and legality 
+
+of charges to allotments under his/her supervision as well as the 
+
+validity, propriety and legality of supporting documents, as 
+
+provided in Section 36 (e, f), Chapter 2, of the GAM for NGAs, 
+
+Volume I; and  
+
+  
+
+e. thru the Accounting Office, furnish the Budget Office copies of 
+the TRA, JEV and NORSA/NBURSA for proper recording and 
+
+posting of budget utilizations, disbursements and adjustment of 
+
+obligations by the University. 
+ 
+
+6.7 Management commented that the Standard Operating Procedure (SOP) for 
+
+the budget execution, monitoring and reporting processes will be updated.  
+
+As soon as the updated SOP becomes available, reorientation on the budget 
+
+process for all department heads and concerned offices will be provided to 
+
+ensure compliance with the audit recommendations. 
+
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+
+
+ 
+
+67 
+ 
+
+6.8 The Audit Team noted the actions taken by the Management, in 
+
+compliance with some of the audit recommendations.  However, the 
+
+ERABA remained unsubmitted to the Office of the Auditor. 
+
+  
+
+Inadequate Disbursement Procedures implemented by the University 
+
+ 
+
+7. The Accounting Office did not observe the proper procedures in the processing 
+
+of disbursements by cash and check as well as the maintenance of accounting 
+
+records, forms and reports, contrary to Chapter 6 of the GAM) for NGAs), 
+
+Volume I, thus reliability and propriety of the recorded transactions are in 
+
+question. 
+
+ 
+
+7.1 Chapter 6 of the GAM for NGAs, Volume I covers the rules and 
+
+regulations to be followed in the disbursement of public funds, the 
+
+monitoring of receipt and utilization of NCA/NTA, preparation and 
+
+processing of DV/Payroll; preparation and issue of checks; payment by 
+
+cash; granting, utilization and liquidation/replenishment of cash advances; 
+
+payments through Advice to Debit Account (ADA); remittance of taxes 
+
+withheld through Tax Remittance Advice (TRA); availment of foreign 
+
+loans through suppliers’ credit/constructive cash; and payment of operating 
+
+requirements on Foreign Service Posts (FSPs) through Cash Disbursement 
+
+Ceiling (CDC). 
+
+ 
+
+7.2 The modes of disbursements presented under the same chapter are: (a) 
+
+checks (MDS or commercial checks), (b) cash (out of cash advance granted 
+
+to authorized Disbursing Officer), (c) advice to debit the account, (d) TRA, 
+
+(e) working Fund/CDC, and (f) direct payment method. 
+
+ 
+
+7.3 Section 8, Chapter 6 of the GAM for NGAs, Volume I, discusses 
+
+disbursements by check. It states that checks shall be drawn only on duly 
+
+approved DV or Payroll.  Also, Sections 9, 10 and 12 provide the 
+
+documentary requirements; accounting books, records, forms and reports to 
+
+be prepared and maintained; and procedures for expenditures through 
+
+checks, respectively.  Moreover, disbursement through List of Due and 
+
+Demandable Accounts Payable-ADA (LDDAP-ADA) under Section 50 
+
+thereof, is a mode of settlement of accounts payable due the 
+
+creditors/payees of all NGAs and their Operating Units (OUs) prescribed 
+
+under Department of Budget and Management (DBM) Circular Letter No. 
+
+2013-16 dated December 23, 2013, which implemented the Expanded 
+
+Modified Direct Payment Scheme (ExMDPS), amended by DBM Circular 
+
+Letter Nos. 2013-16A and 2013-16B dated February 6, 2014 and February 
+
+25, 2014, respectively. 
+
+ 
+
+
+
+ 
+
+68 
+ 
+
+7.4 Review of the processes implemented by the University in disbursing by 
+
+checks (MDS or commercial checks) and LDDAP-ADAs disclosed the 
+
+following: 
+
+ 
+
+a. The DV is prepared in three copies only instead of four, thus does 
+
+not conform with Appendix 32 of the GAM for NGAs, Volume II; 
+
+ 
+
+b. The last posting in the Index of Payments is as of CY 2018, thus 
+
+the risks of double/over payment is high; 
+
+ 
+
+c. The Registry of Allotments and Notice of Cash Allocation 
+
+(RANCA) and Registry of Allotments and Notice of Transfer of 
+
+Allocation (RANTA) are not prepared to determine availability 
+
+and sufficiency of the NCA; 
+
+ 
+
+d. The Accounting Office submits the JEVs for check disbursements 
+
+to the Audit Team without the original copy of the paid 
+
+DVs/payroll, copy of the validated LDDAP-ADAs/check and 
+
+supporting documents (SDs). 
+
+ 
+
+e. The Internal Audit Services (IAS) performs the (a) review of 
+
+claims for disbursement amounting to P100,000.00 and above, (b) 
+
+pre-audit of vouchers, a primary responsibility of the Accounting 
+
+Office, c) counter-signing on the DVs for the Head of the Agency 
+
+of IAS Director, which are not in accordance with the functions of 
+
+the IAS, thereby affecting the effective discharge of its mandated 
+
+function.   
+
+ 
+
+7.5 Section 1.1 of AO No. 278, s.1992 states that: “The Internal Audit Service 
+
+(IAS) shall be an integral part of the office/organization and shall assist the 
+
+institution management in the effective discharge of its responsibilities 
+
+insofar as the same would not encroach on or be adversarial with those of 
+
+the auditors of the Commission on Audit. It shall function in accordance 
+
+with the policies established by the provisions of RA No. 3456, as amended 
+
+by RA No. 4177, and shall perform staff functions with primary 
+
+responsibilities encompassing the examination and evaluation of the 
+
+adequacy and effectiveness of internal control and the quality of 
+
+performance.”  
+
+ 
+
+7.6 In addition to the above duties, the same AO stated that IAS shall not be 
+
+responsible for or required to participate in procedures which are 
+
+essentially a part of regular operating activities or in operations which are 
+
+the primary responsibility of another unit in the organization. The IAS shall 
+
+
+
+ 
+
+69 
+ 
+
+be detached from all functions of routine operating character, such as the 
+
+following: 
+
+ 
+
+• Pre-audit of vouchers and counter-signature of checks; 
+
+• Inspection of deliveries, although the internal auditor may, as part of 
+his examination, observe inspection; 
+
+Preparation of treasury and bank reconciliation statements; 
+
+• Development and installation of systems and procedures; however, 
+in exceptional cases, the internal auditor may assist by way of giving 
+
+suggestions; 
+
+• Taking physical inventories; however, the internal auditor may 
+review the plans in advance and observe and test-check the accuracy 
+
+of counting, costing and summarizing; 
+
+• Maintaining property records; and 
+
+• All other activities related to operations. 
+ 
+
+7.7 We recommended, and the Management agreed, to: 
+
+  
+
+a. implement the correct procedures in the preparation and 
+processing of DVs, that is, the requesting office/unit shall 
+
+prepare the DV in four copies; 
+
+ 
+
+b. thru the Accounting Office, (i) maintain updated Index of 
+Payments for proper monitoring of payments made to each 
+
+creditor/payee to avoid over/double payment; (ii) prepare and 
+
+maintain the RANCA and RANTA to ensure availability and 
+
+sufficiency of NCA; and (iii) submit to the Office of the Auditor 
+
+the JEV for check disbursements with complete supporting 
+
+documents; and  
+
+ 
+
+c. transfer the pre-audit function of financial transactions from 
+the IAS to the Accounting Office.  
+
+ 
+
+Non-submission of Documents to Support the Payment of Tax Amnesty 
+
+ 
+
+8. The payment made to the Bureau of Internal Revenue (BIR) for tax amnesty 
+
+amounting to P10.448 million, as a result of a tax investigation for the taxable 
+
+period January 1 to December 31, 2015, lacked the documentary requirements 
+
+required in BIR Revenue Regulations No. 4-2019 dated April 5, 2019, hence 
+
+the validity cannot be ascertained.  Further, disbursement for the transaction 
+
+was taken from Fund 164, of which utilization of said fund has limitation. 
+
+ 
+
+8.1 Revenue Regulations (RR) No. 4-2019 dated April 5, 2019 prescribed the 
+
+implementing Rules and Regulations of Republic Act No. 71213, 
+
+
+
+ 
+
+70 
+ 
+
+Otherwise known as the "Tax Amnesty Act", Providing for the Guidelines 
+
+on the Processing of Tax Amnesty Application on Tax Delinquencies. 
+
+ 
+
+8.2 Section 2 of the RR defines delinquent accounts as tax due from a taxpayer 
+
+arising from the audit of the BIR which had been issued Assessment 
+
+Notices that have become final and executory due to the following 
+
+instances: 
+
+ 
+
+a. Failure to pay the tax due on the prescribed due date provided in the 
+
+Final Assessment Notice (FAN) Formal Letter of Demand (FLD) 
+
+and for which no valid Protest, whether a request for reconsideration 
+
+or reinvestigation, has been filed within 30 days from receipt thereof;  
+
+ 
+
+b. Failure to file an appeal to the Court of Tax Appeal (CTA) or an 
+
+administrative appeal before the Commissioner of Internal Revenue 
+
+(CIR) within 30 days from receipt of the decision denying the 
+
+request for reinvestigation or reconsideration; or 
+
+ 
+
+c. Failure to file an appeal to the CTA within 30 days from receipt of 
+
+the Decision of the CIR denying the taxpayer's administrative appeal 
+
+to the Final Decision on Disputed Assessment (FDDA). 
+
+ 
+
+8.3 Also, Section 3 of the RR prescribes who can avail of the tax amnesty, 
+
+which includes all persons, whether natural or juridical, with internal 
+
+revenue tax liabilities covering taxable year 2017 and prior year.  
+
+Delinquent accounts explicitly include delinquent withholding tax 
+
+liabilities arising from non-withholding of tax and Withholding Tax 
+
+liabilities of withholding agents arising from their failure to remit withheld 
+
+taxes. 
+
+ 
+
+8.4 In order to avail of the amnesty tax, the following documentary 
+
+requirements must be submitted: 
+
+ 
+
+a. Tax Amnesty Return (TAR) (BIR Form No.2118-DA, Annex "A"), 
+
+completely and accurately accomplished and made under oath;  
+
+b. Acceptance Payment Form (APF) (BIR Form No. 0621-DA, Annex 
+
+"B") duly validated by the Authorized Agent Banks (AABs) or APF 
+
+duly stamped "received" with accompanying bank deposit slip duly 
+
+validated by the concerned AABs or Revenue Official Receipt 
+
+(ROR) issued by the Revenue Collection Officers (RCOs);  
+
+c. Certificate of Tax Delinquencies/Tax Liabilities issued by 
+
+concerned BIR offices (Annex "c"); and  
+
+
+
+ 
+
+71 
+ 
+
+d. In case of applications under Section 3(AX2) of these Regulations, 
+
+a copy of the assessment found in the FAN/FDDA: Provided that, 
+
+in cases of applications under Section 3(D), either delinquent 
+
+account or not, with or without FAN/FDDA, the Preliminary 
+
+Assessment Notice (PAN)/ Notice for Informal Conference or 
+
+equivalent document is sufficient. 
+
+ 
+
+8.5 On October 23, 2019, the RTU availed of the tax amnesty and had paid 
+
+P10.448 million.  Audit conducted on the payment of the tax amnesty 
+
+approved under DV No. 19-10-1985 dated October 22, 2019, paid under 
+
+Check No. 227466 dated October 23, 2019 and recorded under JEV No. 
+
+19-10-1129 dated October 23, 2019, disclosed that it was charged to Fund 
+
+164 and was supported by the following: 
+
+ 
+
+a. Original BIR Certificate of Tax Delinquencies/Tax Liabilities 
+
+issued October 17, 2019, and signed by RR7B-East NCR Collection 
+
+Division Chief;  
+
+ 
+
+b. Copy of Letter from the University President to the Revenue 
+
+Officer of BIR Collection Division with subject Request to avail 
+
+Tax Amnesty under RA No. 11213 Assessment No. 041-2018-
+
+8056-15 for 2015 dated December 17, 2018;  
+
+ 
+
+c. Copy of Letter of Indorsement from the University President to the 
+
+University Chief Legal Counsel a certain Board Resolution No. 
+
+936;  
+
+ 
+
+d. Copy of the Secretary’s Certificate of the Resolution No. 936 
+
+attested by the University President; and  
+
+ 
+
+e. Copies of identification cards of the University President and the 
+
+University Chief Legal Counsel. 
+
+ 
+
+8.6 From the foregoing, it can be gleaned that only requirement letter c of RR 
+
+4-2019 (Original BIR Certificate of Tax Delinquencies/Tax Liabilities 
+
+issued October 17, 2019, and signed by RR7B-East NCR Collection 
+
+Division Chief) was presented to the Audit Team. All other three basic 
+
+requirements were not presented although it was alleged to have been with 
+
+the Office of the Accountant. 
+
+ 
+
+8.7 Moreover, the Management failed to present the following documentary 
+
+requirements, which are necessary to ascertain that the examination made 
+
+
+
+ 
+
+72 
+ 
+
+by BIR examiners and the payment made by RTU are proper and with 
+
+basis: 
+
+  
+
+Documents Relevance 
+
+1. Letter of Authority (LOA) of 
+the RO 
+
+Authorizes the BIR examiner to audit the 
+
+University’s books of accounts and other 
+
+accounting records. 
+
+ 
+
+2. Notice of Initial Conference 
+(NIC) inviting the RTU to 
+
+explain the tax deficiencies 
+
+found 
+
+It is to invite the taxpayer for a conference 
+
+within 30 days from the receipt of the NIC.  
+
+The conference will allow the taxpayer to 
+
+present and explain its side to the BIR. 
+
+ 
+
+3. Preliminary Assessment 
+Notice (PAN) with the 
+
+computation of the 
+
+deficiency tax, as well as the 
+
+facts on which the proposed 
+
+deficiency is based 
+
+The PAN is issued when the taxpayer and 
+
+the BIR fail to resolve the issues during the 
+
+informal conference stage. 
+
+ 
+
+The taxpayer may reply in writing within 
+
+15 days of receipt. 
+
+ 
+
+4. Formal Letter of Demand 
+(FAN/FLD) 
+
+Within another 15 days from the 
+
+taxpayer’s reply to the PAN, the BIR shall 
+
+issue a Final Assessment Notice and a 
+
+FLD/FAN. 
+
+ 
+
+5. Protest and or responses sent 
+to the Bureau duly received 
+
+by authorized personnel 
+
+To prove that the RTU had contested the 
+
+assessment done by the BIR. 
+
+ 
+
+Use of Fund 164 to pay the Amnesty Tax 
+
+ 
+
+8.8 Section 4(d) of Republic Act (R.A.) No. 8292, the Higher Education 
+
+Modernization Act of 1997, authorized SUCs to deposit in any AGDB and 
+
+treat as Special Trust Funds (STF), income from tuition fees and other 
+
+necessary school charges, such as; matriculation fees, graduation fees, and 
+
+laboratory fees. The law further authorized the Board of Regents/Trustees 
+
+(BOR/T) of SUCs to disburse such income and other charges, as well as 
+
+those generated from the operation of auxiliary services and land grants, for 
+
+instruction, research, extension or other programs/projects of the university 
+
+or college. Such disbursements require a special budget duly approved only 
+
+by the BOR/T which is now empowered by R.A. No. 8292 to appropriate 
+
+the income of the university/college and allocate funds with flexibility. 
+
+ 
+
+8.9 The charging of the payment of amnesty tax to STF is not among the 
+
+purpose for which such fund was created. Hence, we disagree with the 
+
+
+
+ 
+
+73 
+ 
+
+statement of the Vice President for Academic Affairs who signed and 
+
+approved the payment ensures that the charging for the payment of tax 
+
+amnesty to Fund 164, is legal and in conformity with applicable rules and 
+
+regulations. 
+
+ 
+
+8.10 We recommended that Management: 
+
+ 
+
+a. submit the lacking documentary requirements enumerated 
+
+under paragraphs 8.5 hereof (b-e) and 8.7 to support the 
+
+validity of the disbursement; and 
+
+ 
+
+b. through the VPAA, furnish this Office with the explanation why 
+
+the payment was charged to Fund 164. 
+
+ 
+
+8.11 The University Accountant claimed that the tax assessment is not in 
+
+consonance with existing revenue guidelines and the lapse of the prescribed 
+
+period, which necessitates the payment of the tax amnesty, is through no 
+
+fault of the accountable official/s. 
+
+ 
+
+8.12 Management commented that the audited BIR assessment happened 
+
+months before the oath taking of the now President of the University and 
+
+the documentation for the transaction and events were with the then 
+
+University Accountant which were not turned over to the Finance Director 
+
+and/or to the current Accountant.  The payment of the tax amnesty for the 
+
+tax deficiencies assessed and demanded for payment by the BIR is in 
+
+response to the: (i) FLD received; (ii) lapsed opportunity to protest the tax 
+
+assessment through no fault of the RTU officials; and (iii) receipt of a copy 
+
+of a Warrant of Garnishment and a letter informing the University of the 
+
+standing of its bank accounts from the Landbank of the Philippines (LBP).  
+
+For this, the RTU officials requested that they be given ample time to 
+
+complete the lacking documentary requirements, and seek the assistance 
+
+and guidance of the Commission, to handle the transaction i.e., the Fund 
+
+used and the necessary action to correct, if any, the procedures made in 
+
+response with the Warrant of Garnishment received by the University from 
+
+the LBP. 
+
+ 
+
+Auditor’s Rejoinder: 
+
+ 
+
+8.13 Assuming arguendo that the tax assessment is not in consonance with 
+
+existing revenue guidelines, the Accountant could have advised the 
+
+Management to file a protest before the period had lapsed.  We also 
+
+disagree that the Management cannot be faulted because there is always a 
+
+need to delegate or immediately assign staff in instances where responsible 
+
+
+
+ 
+
+74 
+ 
+
+officials entrusted with responsibilities, becomes ill or had been absent for 
+
+quite a time.  These inactions caused the RTU P10.448 million, which 
+
+could have been used to finance projects that will enhance the operations of 
+
+the University. 
+
+ 
+
+Deficiencies in the Grants and Liquidation of Cash Advances 
+
+ 
+
+9. Non-compliance with Section 14, Chapter 6 of the  GAM for  NGAs, Volume I 
+
+and COA Circular No. 2012-001 dated June 14, 2012 was observed in the 
+
+following: a) Petty Cash and advances for operational expenses  were  
+
+deposited in the personal account of the Cashier/accountable officer (AO)  
+
+instead of keeping the same in a safety vault; b) six AOs  without or with 
+
+expired Fidelity Bonds were granted cash advances in the total amount of 
+
+P7,557,448.57; c) the Report of Cash Disbursements (RCDisb) and Cash 
+
+Disbursements Record (CDRec) were not prepared/maintained; and d) 
+
+liquidation and refund by the Head Cashier  of unused cash advances in the 
+
+amount of P8,807,508.69 and P1,905,095.29, respectively, were delayed ranging 
+
+from four to 165 days.  
+
+ 
+
+9.1 Section 14, Chapter 6 of the GAM for NGAs, Volume I, provides, among 
+
+others, that: 
+
+ 
+
+a. A cash advance shall be reported on and liquidated as soon as the 
+purpose for which it was given has been served; and 
+
+ 
+
+b. Except for cash advance for official travel, no officer or employee 
+shall be granted cash advance unless he/she is properly bonded in 
+
+accordance with existing laws or regulations. The amount of cash 
+
+advance which may be granted shall not exceed the maximum cash 
+
+accountability covered by his/her bond; 
+
+ 
+
+9.2 As discussed in Item 1.2 of the Revised Documentary Requirements for 
+
+Common Government Transactions prescribed under COA Circular No. 
+
+2012-001 dated June 14, 2012, the following cash advances shall be 
+
+liquidated as follows: 
+
+ 
+
+• Salaries, Wages, Allowances, Honoraria and Other Similar Payments – 
+within five calendar days after the end of the pay period 
+
+• Field Operating Expenses – within 20 calendar days after the end of 
+the year subject to replenishment as frequently as necessary during the 
+
+year 
+
+• Petty Cash Fund (PCF) – as soon as the disbursement reaches 75 
+percent or as needed, the PCF shall be replenished which shall equal to 
+
+the total amount of expenditures made therefrom.  In case of 
+
+
+
+ 
+
+75 
+ 
+
+termination, resignation, retirement or dismissal of the PCF custodian, 
+
+immediately thereafter. 
+
+• Special Purpose – as soon as the purpose of the cash advance has been 
+served. 
+
+ 
+
+9.3 Examination of the procedures implemented by the University for 
+
+disbursements out of advances showed breakdown in internal controls, 
+
+exposing the funds to the risk of loss or misuse, such as: 
+
+ 
+
+a. Advances for Petty Cash/operational expenses to the Disbursing 
+Officers (DOs) were not kept in safety vaults but deposited in the 
+
+personal accounts of the DOs, which were occasionally withdrawn 
+
+only when needed.   
+
+ 
+
+b. 21 out of 39 or 54 percent of the cash advances for payroll and time-
+bound/specific purpose granted to officers and employees for the 
+
+months of January to October 2020 amounting to P7,557,448.57 
+
+were not covered by Fidelity Bonds.  Details are presented in the 
+
+table below: 
+
+ 
+
+Table 16. Cash Advances Not Covered by Fidelity Bonds  
+
+Month 
+
+Covered 
+
+Total 
+Covered by Fidelity 
+
+Bond 
+
+Not Covered by 
+
+Fidelity Bond 
+
+No. of 
+
+Cash 
+
+Advan
+
+ces  
+
+Amount 
+
+(In PhP) 
+
+No. of 
+
+Cash 
+
+Advan
+
+ces 
+
+Amount 
+
+(In PhP) 
+
+No. of 
+
+Cash 
+
+Advan
+
+ces 
+
+Amount 
+
+(In PhP) 
+
+January 9 1,753,907.68 9 1,753,907.68 - - 
+
+February 10 5,103,799.59 5 562,955.59 5 4,540,844.00 
+
+March 5 609,511.24 - - 5 609,511.24 
+
+April 1 70,000.00 - - 1 70,000.00 
+
+May 1 178,000.00 - - 1 178,000.00 
+
+June 2 173,850.00 - - 2 173,850.00 
+
+ July - - - - - - 
+
+August 6 1,915,243.33 - - 6 1,915,243.33 
+
+September 1 70,000.00 - - 1 70,000.00 
+
+October 4 138,865.00 4 138,865.00 - - 
+
+Total 39 10,013,176.84 18 2,455,728.27 21 7,557,448.57 
+
+ 
+
+c. Three AOs were issued cash advances without Fidelity Bonds 
+totaling P122,194.00 while cash advances amounting to 
+
+P7,435,254.57 were given to three AOs with expired Fidelity bonds, 
+
+exposing the Agency to the risk of not being indemnified or 
+
+compensated in case of loss through theft or misappropriation to the 
+
+disadvantage of the government, contrary to Section 314 of the 
+
+Public Bonding Law (PBL) of Republic Act No. 2711 and Treasury 
+
+Circular No. 02-2009,  as follows: 
+
+ 
+
+
+
+ 
+
+76 
+ 
+
+Without Fidelity Bonds    
+
+1 Dr. Emmie T. Ribaya 1  P13,194.00 
+
+2 Julian B. Santos Jr. 1  39,000.00 
+
+3 Dr. Kathryn D. Tria 1  70,000.00 
+
+Total CAs not covered by Fidelity Bonds 3  122,194.00 
+     
+
+With Expired Fidelity Bonds    
+
+1 Paz Tessie R. Quilang 16  7,164,854.57 
+
+2 Dr. Ma. Eugenia M. Yangco 1  135,400.00 
+
+3 Engr. Corleto R. Bravo 1  135,000.00 
+
+Total CAs covered by expired Fidelity Bonds 18  7,435,254.57 
+
+    
+
+Total CAs not covered by Fidelity Bonds 21  P 7,557,448.57 
+
+ 
+
+d. The AOs/Special Disbursing Officers (SDOs) did not 
+prepare/maintain the required Report of Cash Disbursements 
+
+(RCDisb) and Cash Disbursements Record (CDRec), consequently, 
+
+monitoring and control in the grants and utilization of cash advances 
+
+are insufficient. 
+
+ 
+
+e. The liquidation of cash advances for special purpose and Payroll, 
+and return of unused cash advances by the Head Cashier showed 
+
+delays ranging from four to 165 days and seven to 165 days, 
+
+respectively. 
+
+ 
+
+9.4 We recommended, and the Management agreed, to: 
+
+ 
+
+a. provide safety vaults to DOs handling Petty Cash/cash advance 
+for operational expenses and refrain from depositing 
+
+government funds to the AO’s personal account to safeguard 
+
+government funds against loss/misappropriation; 
+
+ 
+
+b. make sure that all designated AOs have Fidelity Bonds and, 
+through the Head Cashier, provide the Audit Team with copies 
+
+of approved Fidelity Bonds as reference in audit; and 
+
+ 
+
+c. through the DOs, (i) comply within the prescribed period, 
+liquidation and return of unused cash advances; and (ii) 
+
+prepare and maintain the RCDisb and CDRec for appropriate 
+
+monitoring and control of grants and utilizations of cash 
+
+advances. 
+
+ 
+
+Incurrence of unnecessary expenses 
+
+ 
+
+10. RTU incurred unnecessary expenses of P249,391.49 from the total expended 
+
+amount of P1,138,000.00 for transportation and accommodation with meals 
+
+
+
+ 
+
+77 
+ 
+
+during the Staff Development Program – Phase 2 on December 19-20, 2019 at 
+
+Canyon Woods Resort, Batangas due to non-attendance of 22 percent or 103 
+
+employees out of 470 estimated number of participants. Moreover, the DV 
+
+lacked documentary requirements to further determine the propriety of 
+
+disbursement. 
+
+ 
+
+10.1 Under Office Order No. 2209 s. 2019 dated December 12, 2019, issued by 
+
+Dr. Ma. Eugenia Yangco, RTU University President, regular employees 
+
+including permanent and temporary, and contractual employees who have 
+
+been assigned to various committees are enjoined to participate in the 2019 
+
+RTU Staff Development Program – Phase 2 and Christmas Party on 
+
+December 19-20, 2019 at the Canyon Woods Resort, Laurel, Batangas. 
+
+ 
+
+10.2 The Office Order did not specify the specific personnel included in the 
+
+Staff Development Program – Phase II as it generalizes regular (permanent 
+
+or temporary) and contractual employees (with assigned committee). 
+
+ 
+
+10.3 The 2019 Staff Development Program – Phase 2, based on the proposal 
+
+letter and training program submitted, is a continuation of the 1st Phase 
+
+with the theme RTU@50: Raising the Banner Gold and Blue which was 
+
+concentrated on Work-Life integration.  Also, the event was used as an 
+
+avenue to appreciate and thank RTU administrative and faculty personnel's 
+
+inputs and contributions to the continued success of the organization and its 
+
+future endeavors.  Objectives of the training conducted are enumerated as 
+
+follows: 
+
+ 
+
+• Helping employees to integrate work and life; 
+
+• Promoting a healthy workplace that encourages employees to feel 
+
+good about life; 
+
+• Establishing habits and activities that could help employees 
+
+alleviate stress and burn-out; and 
+
+• Providing practical tips on how to meet deadlines without 
+
+compromising employees’ welfare. 
+
+ 
+
+10.4 For CY 2019, the Annual Procurement Plan (APP) includes Employees and 
+
+Seminar Trainings in December, with the budgeted amount of P5,000,000.  
+
+The Board Resolution approving the APP for CY 2019 remains 
+
+unsubmitted to the Audit Team despite repeated requests.  
+
+ 
+
+10.5 RTU is composed of 437 regular, 220 part-time, and 123 contractual 
+
+employees totaling of 780 employees as of December 2019.  Technical 
+
+Proposal for the said program estimates 470 participants, upon verification 
+
+
+
+ 
+
+78 
+ 
+
+of the actual attendance sheet, attendees were only 78 percent thereof or 
+
+367, composed of: 
+
+                                 
+
+Table 18.  Composition of Actual Attendees 
+
+  Per Attendance 
+Per Proposal of 
+
+the Program 
+
+Per List of 
+
+Employees 
+
+Regular 305 
+
+470 
+
+437 
+
+Part-time 17 220 
+
+Contractual 32 123 
+
+Others* 13   
+
+Total 367 470 780 
+
+*Others include three representatives from MSS Business Solution and 
+
+10 unverified names of employees thru the list of employees as of Dec. 
+
+31, 2019 given by the Personnel 
+
+ 
+
+10.6 For the 2019 RTU Staff Development Program – Phase 2, related 
+
+disbursements totaling P1,138,000.00, based on 470 participants were 
+
+charged from Fund 164: 
+ 
+
+Table 19. Disbursements for 2019 Staff Development Program-Phase 2 
+
+Check DV 
+
+No. 
+Payee Nature of Payment 
+
+Amount 
+
+(In PhP) Date No. 
+
+12/18/19 234189 19-
+
+12-
+
+2396 
+
+Superventure 
+
+Tour 
+
+Services Inc. 
+
+Rental of buses to 
+
+transport emp. to 
+
+venue of Staff Dev't 
+
+Prog 
+
+198,000.00 
+
+12/18/19 234190 19-
+
+12-
+
+2395 
+
+Canyon 
+
+Woods 
+
+Resort Club, 
+
+Inc 
+
+Accommodation of 
+
+employees (470 
+
+pax) for Staff Dev't 
+
+Prog. Phase 2 
+
+940,000.00 
+
+Total  1,138,000.00  
+
+ 
+
+10.7 As a result, RTU incurred unnecessary expenses of P249,391.49 equivalent 
+
+to the amount expended for the 103 non-attending employees.  The actual 
+
+expenses per participant exceeded the estimated budget per participant due 
+
+to non-attendance of the 22 percent expected participants or 103 
+
+employees.  
+
+ 
+
+10.8 As defined in COA Circular No. 2012-003 dated October 29, 2012, 
+
+unnecessary expenditure refers to expenditures which could not pass the 
+
+test of prudence or the diligence of a good father of a family, thereby 
+
+denoting non-responsiveness to the exigencies of the service. Unnecessary 
+
+expenditures are those not supportive of the implementation of the 
+
+objectives and mission of the agency relative to the nature of its operation.  
+
+
+
+ 
+
+79 
+ 
+
+ 
+
+10.9 Further documentary and procedural deficiencies in the procurements of 
+
+services thru Small Value Procurement were observed, such as: 
+
+ 
+
+a. Delays from 35 to 48 days in the submission to the Audit Team of 
+
+required documents for contract review, contrary to COA Circular 
+
+2009-001 dated February 12, 2009 which prescribes the submission 
+
+within five working days from the execution of a contract; 
+
+ 
+
+b. Lacking documents to support the disbursements: 
+
+ 
+
+i. Proof of posting of invitation or request for submission of 
+
+price quotation in the PhilGEPS website, website of the 
+
+procuring agency and any conspicuous place; 
+
+ii. Letter/invitation to submit proposals 
+
+iii. Notice of Award (NOA) 
+
+iv. Proof of Posting of NOA 
+
+v. Approved Procurement Plan 
+
+vi. Eligibility Data Sheet 
+
+vii. Eligibility Documents of Supplier/s 
+
+viii. Results of Eligibility Check/Screening 
+
+ix. Bidding Documents 
+
+x. Statement of the prospective bidder that it is not blacklisted 
+
+or barred from bidding by the Government or any of its 
+
+agencies, offices, corporations or LGUs. 
+
+xi. Sworn affidavit of the bidder that it is not related to the HoPE 
+
+by consanguinity or affinity up to the third civil degree. 
+
+xii. Bidder’s Technical and Financial Proposals 
+
+xiii. Minutes of Bid Opening 
+
+xiv. Post Qualification Report of the Technical Working Group 
+
+xv. Certificate of Availability of Funds 
+
+xvi. Notice to Proceed 
+
+ 
+
+c. Discrepancies in the Terms of Reference based on comparison of the 
+
+Terms of Reference and Quotations submitted by the bidders as listed 
+
+in the Abstract of Quotations, as shown below; 
+
+ 
+
+Table 20.  Comparison of the Terms of Reference and Quotations 
+
+Particulars 
+
+Terms of 
+
+Reference 
+
+(Abstract of 
+
+Quotation) 
+
+Bidder’s 
+
+Quotation 
+Observation/s 
+
+
+
+ 
+
+80 
+ 
+
+Table 20.  Comparison of the Terms of Reference and Quotations 
+
+Particulars 
+
+Terms of 
+
+Reference 
+
+(Abstract of 
+
+Quotation) 
+
+Bidder’s 
+
+Quotation 
+Observation/s 
+
+Procurement of 
+
+rental of buses 
+
+for 
+
+transportation 
+
+of employees 
+
+Number of buses: 
+
+10 buses 
+
+Bus Capacity: 47-
+
+49 pax 
+
+Total No. of Est. 
+
+Participants: 470 
+
+pax 
+
+Number of buses: 
+
+9 buses 
+
+Bus Capacity: 49 
+
+pax 
+
+Total No. of 
+
+Accommodated 
+
+Participants: 441 
+
+pax 
+
+ 
+
+The bidder’s   
+
+quantity of buses 
+
+is different from 
+
+the listed items 
+
+and description 
+
+per end-user. 
+
+Procurement of 
+
+accommodation 
+
+for employees  
+
+Food (Meals) 
+
+Accommodation 
+
+Day 1 – AM 
+
+Snacks, Lunch, 
+
+PM Snacks, and 
+
+Dinner 
+
+Day 2 – Breakfast, 
+
+AM Snacks, 
+
+Lunch 
+
+Foods and 
+
+Beverage 
+
+Day 1: Lunch, PM 
+
+snack, Dinner 
+
+Day 2: Breakfast 
+
+The bidder does 
+
+not comply with 
+
+the items and 
+
+description of end- 
+
+user. 
+
+ 
+
+10.10 We recommended that Management submit the following as basis in 
+
+rendering a decision in audit: 
+
+ 
+
+a. valid justification for the incurrence of unnecessary expenses 
+for the 103 non-participating personnel and private individuals; 
+
+ 
+
+b. verifiable output from the Staff Development Program 
+conducted; 
+
+ 
+
+c. the list of actual hotel registration of the participants, certified 
+by the venue owner/representative; and 
+
+ 
+
+d. lacking documentary requirements as enumerated in 
+paragraph 10.9 (b). 
+
+ 
+
+Deficiencies in the Purchase of Transport Materials  
+
+ 
+
+11. The purchase of transport materials for the repairs and maintenance was paid 
+
+in the absence of the required documents per COA Circular No. 2012-001, 
+
+without any deduction for liquidated damages corresponding to delay of 66 
+
+days in the delivery of goods and was set up as Accounts Payable even before 
+
+their delivery.  
+
+
+
+ 
+
+81 
+ 
+
+  
+
+11.1 The Fundamental Principles governing the financial transactions of the 
+
+government require, among others, that all claims against government 
+
+funds shall be supported with complete documentation; and all laws and 
+
+regulations applicable to financial transactions shall be faithfully adhered 
+
+to. 
+
+ 
+
+11.2 Audit of the said   claim revealed that it was supported by Purchase Order 
+
+No. SPO-PO-2019-11-034 dated November 7, 2019, received by the 
+
+Supplier on November 15, 2019 and Delivery Receipt No. 2050 dated 
+
+January 22, 2020, noted as inspected and accepted dated January 24 and 28, 
+
+2020, respectively. 
+
+ 
+
+11.3 The DV was processed and paid even with deficiencies on the documents 
+
+required to support the repair and maintenance of the vehicle: 
+
+ 
+
+a. Pre-repair inspection stating the list of part/s to be replaced and the 
+
+extent of work to be performed; 
+
+b. Warranty Certificate stating the period of warranty of the items 
+
+delivered; and 
+
+c. The attached APP does not bear the approval of the Head of the 
+
+Procuring Entity; 
+
+d. Report of Waste Materials stating the manner of disposal of the 
+
+waste materials to be submitted to the Auditor within 24 hours from 
+
+date of inspection and acceptance by Management; and 
+
+e. The Request for Quotation was not signed by the BAC Chairperson 
+
+ 
+
+11.4 It was also found out that delay was incurred by the Supplier in fulfilling its 
+
+obligation to deliver the procured goods.  The PO was received by the 
+
+Supplier on November 15, 2019 and the delivery shall be made within 15 
+
+days from the date of receipt of PO/contract by the Supplier.  Delivery was 
+
+made on January 22, 2020, which was 66 days delayed.  Despite the 
+
+provision of   liquidated damages of 1/10 of 1 percent for every day of 
+
+delay in the PO, still the Supplier was paid the entire claim without 
+
+deduction for liquidated damages. 
+
+ 
+
+11.5 It was further revealed that JEV No. 19-12-1517 dated December 27, 2019 
+
+was drawn to set up the liability account, when there was no valid 
+
+obligation yet as there was no delivery made during that time.  The setting 
+
+up of Accounts Payable should only be made when goods or services have 
+
+been delivered/rendered/completed and accepted by Management. 
+
+ 
+
+ 
+
+
+
+ 
+
+82 
+ 
+
+11.6 Section 2, Chapter 6 of the GAM for NGAs, Volume I, defines Accounts 
+
+Payable as valid and legal obligation of NGAs/OUs, where 
+
+goods/services/projects have been delivered/rendered/completed and 
+
+accepted regardless of the year when these obligations were incurred. 
+
+ 
+
+11.7 We recommended that Management, to preclude the issuance of Notice 
+
+of Suspension/Disallowance: 
+
+ 
+
+a. submit the required documents as enumerated in paragraph 
+11.3 within five days from receipt; and 
+
+ 
+
+b. require the Supplier to pay for the liquidated damages for the 
+delayed delivery of the items procured.  
+
+ 
+
+Non-submission of Procurement Monitoring Reports 
+
+ 
+
+12. The Procurement Monitoring Report (PMR) for CYs 2019 and 2020 required 
+
+under Sections 11 and 12 of the 2016 Revised Implementing Rules and 
+
+Regulations (IRR) of Republic Act No. 9184, approved by the Head of the 
+
+Procuring Entity (HoPE) and with proof of submission to the GPPB pursuant 
+
+to GPPB Circular No. 03-2015 dated March 20, 2015, and Section 12.2 of the 
+
+2016 Revised IRR of RA No. 9184, were not submitted, thus monitoring of 
+
+project implementations was not done. 
+
+ 
+
+12.1 Section 11.1.1 of the 2016 Revised IRR of RA No. 9184 provides that, 
+
+“each Procuring Entity shall establish in its head office a single Bids and 
+
+Awards Committee (BAC) to undertake the functions specified in Section 
+
+12 of this IRR in order to facilitate professionalism and harmonization of 
+
+procedures and standards.” 
+
+ 
+
+12.2 Also, Section 12.2 of the same law requires that: 
+
+ 
+
+The BAC shall be responsible for ensuring that the Procuring 
+
+entity abides by the standards set forth by the Act and its IRR 
+
+and it shall prepare a Procurement Monitoring Report (PMR) 
+
+in the form prescribed by the Government Procurement 
+
+Policy Board (GPPB).  The PMR shall cover all procurement 
+
+activities specified in the Annual Procurement Plan (APP) 
+
+whether ongoing or completed, from the holding of the pre-
+
+procurement conference to the issuance of Notice of Award 
+
+and the approval of the contract including the standard and 
+
+actual time for each major procurement activity.  The PMR 
+
+shall be approved and submitted by the HoPE to the GPPB in 
+
+printed and electronic format within fourteen (14) calendar 
+
+
+
+ 
+
+83 
+ 
+
+days after the end of each semester.  The PMR shall likewise 
+
+be posted in accordance with E.O. 662, series of 2007, as 
+
+amended. 
+
+ 
+
+12.3 Verification of records revealed that the BAC did not submit to COA the 
+
+required PMR for CYs 2019 and 2020. 
+
+ 
+
+12.4 Further review of the ongoing and completed major projects of the 
+
+University revealed that there are projects which were already awarded and 
+
+had been started in CY 2020 but have not yet been completed as of this 
+
+date.  There are also projects started three years ago but have not been 
+
+completed as of this date. No action was taken by Management to rescind 
+
+the contracts and require the contractor to pay liquidated damages. This 
+
+should have been monitored had the BAC prepared and submitted the said 
+
+report to COA. 
+
+ 
+
+12.5 PMR is a tool which enhances the transparency of the procurement process 
+
+that covers major activities from the holding of pre-procurement to the 
+
+issuance of Notice of Award of the contract, approval of the contract, 
+
+delivery/completion and acceptance/turnover, including the standard and 
+
+actual time for each major procurement activity.  Failure to prepare said 
+
+report as well as delays in its submission defeat its purpose. 
+
+ 
+
+12.6 We recommended that Management thru the BAC, furnish the Office 
+
+of the Auditor with the PMR for CYs 2019 and 2020, duly approved by 
+
+the HoPE with proof of submission to the GPPB pursuant to GPPB 
+
+Circular No. 03-2015 dated March 20, 2015 and Section 12.2 of the 
+
+2016 Revised IRR of RA No. 9184. 
+
+ 
+
+OTHER COMPLIANCE AUDIT 
+
+ 
+
+Gender and Development (GAD) 
+
+ 
+
+13. Based on the CY 2020 GAD Plan with a total budget of P19,925,000.00, which 
+
+represents five percent of the total budget of the RTU, various 
+
+programs/targets of the University were met, others were cancelled due to the 
+
+cancellation of classes brought about by the pandemic, but COVID-19 
+
+response activities were initiated to support and undertake urgent needs of its 
+
+clients, employees, students and stakeholders, with end in view of promoting 
+
+gender equality and women’s empowerment. As the GAD activities were 
+
+conducted via Zoom/Webinars, only P43,840.00 was spent, out of the total 
+
+GAD budget. 
+
+ 
+
+
+
+ 
+
+84 
+ 
+
+13.1 Joint Circular No. 2004-1 of the DBM-, NEDA and the National 
+
+Commission on the Role of Filipino Women ((NCRFW), now the 
+
+Philippine Commission on Women (PCW), provides that at least 5 percent 
+
+of the total agency’s budget authorized under the annual GAA shall be set 
+
+to support GAD plans and projects, and shall be integrated in the regular 
+
+activities of the agencies. 
+
+ 
+
+13.2 PCW-NEDA-DBM Joint Circular No. 2012-001 provides for the 
+
+preparation of the Annual GAD plan to implement the Magna Carta for 
+
+Women. As provided in the guidelines, one of the essential elements to 
+
+enable agencies to effectively plan and implement their programs on GAD 
+
+is the regular conduct of trainings, capacity building, orientation of agency 
+
+personnel to have a wider appreciation of GAD programs and projects 
+
+related to women empowerment and related laws, rules and regulations. 
+
+ 
+
+13.3 For CY 2020, the University allocated a total GAD budget of 
+
+P19,925,000.00 or equivalent to five percent of the total budget under the 
+
+CY 2020 General Appropriations Act, of which P43,840.00 was spent for 
+
+GAD programs, activities and projects during the year. 
+
+ 
+
+13.4 Due to the onslaught of COVID-19 and notwithstanding its threat to 
+
+people, the University’s organizational-focused GAD activities as well as 
+
+client-focused activities were conducted to enhance awareness of its 
+
+personnel and students by conducting trainings, seminar via Zoom, 
+
+webinars only, thus the minimal amount spent from the said funds. 
+
+ 
+
+13.5 According to the GAD Focal Person, had it not for the pandemic, most of 
+
+their programmed activities were already in place specially that, for the 
+
+first time it was submitted and approved by the PCW. 
+
+ 
+
+13.6 We recommended Management to continue its active role in attaining 
+
+GAD responsive programs, activities and projects in support to the 
+
+government’s commitment to empower women and promote gender 
+
+equality. 
+
+ 
+
+Senior Citizens and Differently-Abled Persons 
+
+ 
+
+14. To respond to the needs of the senior citizens and differently-abled persons, the 
+
+University abided by the recommendation of the Audit Team in last year’s 
+
+audit observation to construct or enhance special lanes for differently-abled 
+
+persons and catwalks for senior citizens for their convenience and safety. 
+
+ 
+
+Remittances to GSIS, BIR, PhilHealth and Pag-IBIG Fund 
+
+
+
+ 
+
+85 
+ 
+
+ 
+
+15. For CY 2020, RTU has faithfully deducted from the salaries of its personnel 
+
+the required taxes and premiums and remitted the same as well as the 
+
+government share within the prescribed period to the concerned institutions or 
+
+agencies as provided under pertinent rules and regulations. Ending balances of 
+
+Due to BIR and Due to PhilHealth were found with discrepancies of 
+
+P8,563,576.64 and P907.18, respectively, requiring further analysis and 
+
+reconciliation by the Accounting Office. 
+
+ 
+
+15.1 Below is the status of compliance by RTU on pertinent rules and 
+
+regulations on withholding and remittances of deductions to concerned 
+
+government agencies. 
+
+ 
+
+Table 21. Status of Compliance with the Withholding and 
+
+Remittances of Deductions 
+
+Area 
+Accounts 
+
+Affected 
+Status 
+
+Compliance 
+
+with Tax Laws 
+Due to BIR Due to BIR has a beginning balance of 
+
+P8,378,201.77, in CY 2020.  The University  
+
+withheld tax dues from salaries and benefits of 
+
+employees, claims of creditors from services 
+
+rendered, purchases of supplies and materials 
+
+and other related procurements in the total 
+
+amount of P44,665,864.48 and remitted to BIR 
+
+the total amount of P38,636,828.81, leaving a 
+
+balance of P14,407,236.67 representing the 
+
+unremitted of P6,029,035.67 and the balance 
+
+from prior years in the amount P8,378,201.77, 
+
+contrary to the stated balance of P5,843,660.03 
+
+thereby understating the Due to BIR the 
+
+amount of P8,563,576.64  in the Statement of 
+
+Financial Performance. 
+Deduction and 
+
+Remittance of 
+
+GSIS 
+
+Premiums/ 
+
+deductions 
+
+Due to 
+
+GSIS 
+In compliance with RA No. 8291, or the GSIS 
+
+Act of 1997 dated May 30, 1997, the 
+
+University deducted from its officials and 
+
+employees the GSIS personal and government 
+
+shares and various loans for CY 2020 in the 
+
+total amount of P21,160,481.87 and was 
+
+remitted to GSIS in the total amount of 
+
+P19,615,758.80 as of December 31, 2020. The 
+
+amount of P1,544,723.07 representing 
+
+collection for December, 2020 was remitted in 
+
+January, 2021. 
+Deduction and 
+
+Remittance of 
+
+PhilHealth 
+
+Premiums 
+
+Due to 
+
+PhilHealth 
+The University is generally compliant with RA 
+
+No. 9241 or the National Health Insurance Act 
+
+of 1995 and DBM Circular No. 2017-3 dated 
+
+January 3, 2017, which prescribes the policies 
+
+and procedures on    Government Share on the 
+
+
+
+ 
+
+86 
+ 
+
+Table 21. Status of Compliance with the Withholding and 
+
+Remittances of Deductions 
+
+Area 
+Accounts 
+
+Affected 
+Status 
+
+Health Insurance Premium (HIP) contributions 
+
+of Government Employees to the PhilHealth 
+
+effective FY 2017.   It deducted from its 
+
+officials and employees the total amount of 
+
+P4,452,811.14 and remitted to PhilHealth as of 
+
+December 31, 2020 the amount of 
+
+P3,984,902.76 representing deductions made 
+
+from January to November, 2020 and the 
+
+remaining amount of P467,908.38 representing 
+
+deductions for the month of December 2020 to 
+
+be remitted in January 2021 
+
+ 
+
+However, review of the GL of Due to 
+
+PhilHealth revealed that the balance presented 
+
+in the FS is P468,815.56, resulted in a 
+
+difference   of P907.18, thus overstating the 
+
+said account by the same amount. 
+Deduction and 
+
+Remittance of 
+
+Pag-IBIG 
+
+Premiums 
+
+Due to 
+
+Pag-IBIG 
+Pursuant to Republic Act No. 9679 or the 
+
+Home Mutual Fund Law of 2009, otherwise 
+
+known as Pag-IBIG Fund, the RTU deducted 
+
+from officials and employees of the University 
+
+for CY 2020 the total amount of P5,063,797.19 
+
+and remitted the total amount of P4,944,614.84 
+
+representing government share and personal 
+
+share and loans of employees as of December 
+
+31, 2020, and the remaining balance of 
+
+P119,182.35 representing December 
+
+deductions was remitted in January, 2021 
+
+ 
+
+15.2 We recommended that Management require the Accountant to 
+
+reconcile the difference in the data pertaining to the deductions in 
+
+favor of BIR and PhilHealth and draw a JEV, if warranted. 
+
+ 
+
+Status of Audit Suspensions, Disallowances and Charges 
+
+  
+
+16. The total audit suspensions and disallowances amounting to P5,867,944.75 and 
+
+P111,508,113.25, respectively, remained unsettled as of December 31, 2020.  
+
+The mode of settlements of disallowances thru installment basis, which from 
+
+September 2015 to December 31, 2020 amounted to P2,248,116.78 has no 
+
+approval from the Commission on Audit, contrary to COA Resolution No. 
+
+2015-031 dated August 20, 2015.  Moreover, disallowances deemed final and 
+
+executory amounting to P9,417,533.35 remained unsettled for a period of nine 
+
+to 11 years, thus depriving the government the use of this fund for other 
+
+priority projects. 
+
+
+
+ 
+
+87 
+ 
+
+ 
+
+16.1 Section 7.1.1 of COA Circular 2009-006 prescribing the Rules and 
+
+Regulations on Settlement of Accounts (RRSA) provides, among others, 
+
+that: 
+
+ 
+
+The Head of the Agency, who is primarily responsible for 
+
+all government funds and property pertaining to his agency, 
+
+shall ensure that: (a) the required financial and other reports 
+
+and statements are submitted by the concerned agency 
+
+officials in such forms and within the period prescribed by 
+
+the Commission; (b) the settlement of disallowances and 
+
+charges is made within the prescribed period; (c) the 
+
+requirements of transactions suspended in audit are 
+
+complied with; and (d) appropriate action are taken on the 
+
+deficiencies noted as contained in the AOM. (Underscoring 
+
+supplied) 
+
+ 
+
+16.2 As of December 31, 2020, unsettled audit suspensions and disallowances 
+
+amounted to P5,867,944.75 and P111,508,113.25 respectively.  
+
+Transactions suspended in audit were disbursements for repair, renovation 
+
+and construction projects due to lacking supporting papers and for issuance 
+
+of Notice of Disallowance (ND) and/or Notice of Settlement of 
+
+Suspension/Disallowance/Charge (NSSDC) after evaluation of the 
+
+documents submitted by the Management. 
+
+ 
+
+16.3 The status of audit disallowances amounting to P111,508,113.25 is 
+
+presented in the table, as follows: 
+
+ 
+
+Table 22. Status of Audit Disallowances 
+
+Notice of Disallowance 
+
+Number Date 
+Amount 
+
+(In PhP) 
+
+Description/
+
+Nature 
+Status 
+
+2009-
+
+001-
+
+101(05) 
+
+12/02/09 5,947,509.25 Unauthorized 
+
+payment of 
+
+ECOLA 
+
+Notice of Finality of 
+
+Decision (NFD) dated 
+
+August 05, 2011 was 
+
+issued. 
+
+11-001-
+
+162-(05-
+
+10) 
+
+02/25/11 1,056,000.00 Legal fees as 
+
+Consultant 
+
+Appealed with COA-
+
+NGS-Cluster 5 
+
+Director and the 
+
+Appeal was DENIED 
+
+per NGS-Cluster 5 
+
+Decision No. 2014-
+
+016 dated November 
+
+28, 2014 
+
+
+
+ 
+
+88 
+ 
+
+Table 22. Status of Audit Disallowances 
+
+Notice of Disallowance 
+
+Number Date 
+Amount 
+
+(In PhP) 
+
+Description/
+
+Nature 
+Status 
+
+2015-
+
+001-164 
+
+(13) 
+
+10/09/15 4,292,000.00 Unauthorized 
+
+grant of 
+
+Christmas Gift 
+
+Certificates for 
+
+CY 2013 
+
+Appealed with COA-
+
+NGS-Cluster 5 
+
+Director and the 
+
+Appeal was DENIED 
+
+per NGS-Cluster 5 
+
+Decision No. 2016-
+
+040 dated 8/26/16; and 
+
+Petition for Review 
+
+was filed with the 
+
+COA Commission 
+
+Proper per COA CP 
+
+Case No.  2017-124 
+
+dated 2/15/17 
+
+2015-
+
+002-164 
+
+(14) 
+
+10/26/15 4,818,000.00 Unauthorized 
+
+grant of 
+
+Christmas Gift 
+
+Certificates for 
+
+CY 2014 
+
+Appealed with COA-
+
+NGS-Cluster 5 
+
+Director and the 
+
+Appeal was DENIED 
+
+per NGS-Cluster 5 
+
+Decision No. 2016-
+
+040 dated 8/26/16; and 
+
+Petition for Review 
+
+was filed with COA 
+
+CP per COA CP Case 
+
+No.  2017-124 dated 
+
+2/15/17 
+
+2016-003-
+
+164 
+
+(2012-
+
+2013) 
+
+01/26/16 77,637,625.00 Payment of 
+
+Remunerative 
+
+Incentives for 
+
+BOR members 
+
+for CY 2012 
+
+to 2013 
+
+Appealed with COA-
+
+NGS-Cluster 5 
+
+Director and the 
+
+Appeal was DENIED 
+
+per NGS-Cluster 5 
+
+Decision No. 2017-
+
+026 dated 3/27/17; and 
+
+Petition for Review 
+
+was filed with COA 
+
+CP per COA CP Case 
+
+No. 2017-317 dated 
+
+4/26/17 
+
+2016-
+
+004-164 
+
+(15) 
+
+02/01/16 4,823,000.00 Payment of 
+
+Health Care 
+
+Insurance 
+
+Appealed with COA-
+
+NGS-Cluster 5 
+
+Director and the 
+
+Appeal was DENIED 
+
+per NGS-Cluster 5 
+
+Decision No. 2017-
+
+
+
+ 
+
+89 
+ 
+
+Table 22. Status of Audit Disallowances 
+
+Notice of Disallowance 
+
+Number Date 
+Amount 
+
+(In PhP) 
+
+Description/
+
+Nature 
+Status 
+
+004 dated 1/18/17; and 
+
+Petition for Review 
+
+was filed with COA 
+
+CP per COA CP Case 
+
+No.  2017-123 dated 
+
+2/14/17 
+
+2016-
+
+005-164  
+
+(12 & 
+
+13) 
+
+ 1,220,000.00 Payment of 
+
+Remunerative 
+
+Incentives for 
+
+BOR members 
+
+for     CY 
+
+2012-2013 
+
+Order to Answer on 
+
+the Appeal 
+
+Memorandum was 
+
+forwarded to COA-
+
+RTU Office on August 
+
+1, 2017. Answer to 
+
+Appeal Memorandum 
+
+and EDSE were 
+
+submitted to NGS-
+
+Cluster 5 Office on 
+
+9/27/17. No decision 
+
+yet is received by the 
+
+COA-RTU Office. 
+
+2019-
+
+001-101-
+
+184-MP 
+
+(14-17) 
+
+12/12/19 1,163,979.00 Payment of 
+
+Cash 
+
+Allowance to 
+
+the Technical 
+
+Operation 
+
+Committee 
+
+and RTU 
+
+Employees 
+
+using the 3% 
+
+AMC of the 
+
+ESGP-PA 
+
+The ND was received 
+
+by the Management on 
+
+12/18/19. No Appeal 
+
+was received from 
+
+Management as of 
+
+reporting date.  For 
+
+preparation of NFD 
+
+2019-
+
+002-164 
+
+(16) 
+
+12/12/19 10,550,000.00 Cash Grant 
+
+not in 
+
+accordance 
+
+with Republic 
+
+Act (RA) 8292 
+
+and the Salary 
+
+Standardizatio
+
+n Law of CY 
+
+2009 
+
+The ND was received 
+
+by the Management on 
+
+12/18/19. No Appeal 
+
+was received from 
+
+Management as of 
+
+reporting date.  For 
+
+preparation of NFD 
+
+Total  111,508,113.25   
+
+ 
+
+
+
+ 
+
+90 
+ 
+
+16.4 Of the NFDs issued in years 2009 and 2011 in the amount of 
+
+P5,947,509.25 and P8,418,620.34, respectively, only P4,928,112.08 was 
+
+refunded. (See Table 4) The presence of unsettled disallowances amounting 
+
+to P9,417,533.35, dating back to 2009 and 2010 with nine to 11 years of 
+
+delay, indicated lapses by the Management on the required enforcement 
+
+and monitoring of all final and executory decisions issued by the 
+
+Commission. 
+
+ 
+
+16.5 COA Resolution No. 2015-031 dated August 20, 2015 promulgated the 
+
+policy guidelines on all requests to pay audit disallowances on installment 
+
+basis, to wit: 
+
+ 
+
+• Only disallowed salaries and personal benefits, allowances, 
+or emoluments may be allowed to be settled by installments. 
+
+ 
+
+• The maximum number of monthly installment payments 
+shall be in accordance with the following schedule: 
+
+ 
+
+Table 23. Schedule for Maximum Number of Monthly 
+
+Installment Payments 
+
+Amount of Disallowance 
+
+Maximum Number 
+
+of Monthly 
+
+Installment 
+
+Payments 
+
+Not exceeding P1,000.00 Three (3) 
+
+Above P1,000.00 up to P10,000.00 Six (6) 
+
+Above P10,000.00 up to P20,000.00 Twelve (12) 
+
+Above P20,000.00 up to P40,000.00 Eighteen (18) 
+
+Above P40,000.00 Twenty-four (24) 
+
+ 
+
+• The monthly payment shall be deducted from the salary of 
+the person liable, subject to the minimum take-home pay 
+
+requirement under the General Appropriations Act.  Any 
+
+deficiency in the installment payment for a given month 
+
+after effecting the salary deduction shall be paid directly by 
+
+the person liable to the agency cashier within five (5) days 
+
+after the due date of the installment payment. 
+
+ 
+
+• In case the person liable retires, resigns, or is otherwise 
+separated from the service before the disallowance is settled 
+
+in full, the person liable may execute an undertaking 
+
+authorizing the application of his remaining salary, accrued 
+
+leave credits, and other separation benefits to satisfy the 
+
+deficiency.  Any unsettled balance after all such salaries and 
+
+benefits have been applied shall be paid by the person liable 
+
+
+
+ 
+
+91 
+ 
+
+directly to the agency cashier within fifteen (15) days from 
+
+the date of receipt of notice/demand from the accountant or 
+
+concerned officer. 
+
+ 
+
+• All requests for installment payments shall be acted upon by 
+the Director of the Prosecution and Litigation Office, and 
+
+subject to review by the Assistant Commissioner of the 
+
+Legal Services Sector (LSS), in accordance with the above 
+
+schedule. 
+
+ 
+
+16.6 Review of the DVs, ORs, and JEVs submitted to the Audit Team, 
+
+pertaining to the remittances to   the Bureau of the Treasury (BTr) from 
+
+years 2010 to 2020, showed that settlements made for disallowances 
+
+deemed final and executory totaled P4,928,112.08.  Of this amount, 
+
+settlements/ remittances to the BTr from September 2015 to December 
+
+2020 totaling P2,248,116.78 were made in installment without complying 
+
+with COA Resolution No. 2015-031 dated August 20, 2015, summarized in 
+
+the following table: 
+
+ 
+
+Table 24. Summary of Settlement of Disallowances thru 
+
+Installment Basis  
+
+Year Reported Number of Payments 
+ Amount  
+
+(In PhP)  
+
+2015 11 299,307.32 
+
+2016 18 460,564.74 
+
+2017 22 514,085.82 
+
+2018 15 327,971.03 
+
+2019 16 388,641.08 
+
+2020 13 257,546.79 
+
+Total  2,248,116.78 
+
+ 
+
+16.7 Settlement of disallowed salaries and personal benefits, allowances or 
+
+emoluments may be allowed to be settled by installment only if approved 
+
+by the COA through the Prosecution and Litigation Office of the Legal 
+
+Services Sector.  The Management did not present proof that a request for 
+
+installment payment of disallowances was made and/or approved by the 
+
+COA, thus the process implemented by the University in the settlement of 
+
+disallowances was not in accordance with the abovementioned COA 
+
+regulation. 
+
+ 
+
+16.8 Also, actions taken by previous and current Managements on the 
+
+enforcement and monitoring of disallowances deemed final and executory 
+
+showed non-compliance with the RRSA: 
+
+ 
+
+
+
+ 
+
+92 
+ 
+
+a. Through the issuance of Memorandum No. 1, series of 2010 dated 
+January 12, 2010 the then RTU President, among others, 
+
+encouraged all officials and employees who received the amount 
+
+disallowed and covered by the NFD or ND the voluntary 
+
+compliance with the dispositive portion of the NFD, which states 
+
+that: 
+
+ 
+
+ Accordingly, the above persons liable shall pay the 
+
+above amount immediately to the agency cashier.  
+
+Failure to pay the same shall authorize the agency 
+
+cashier to withhold payment of salary and other 
+
+money due to persons liable in accordance with COA 
+
+Order of Execution to be issued to the agency cashier. 
+
+ 
+
+b. Withholding of the amount opted by the concerned officials and 
+employees as a monthly deduction from their respective salaries, 
+
+and remittances of the same to the BTr since January 2010 up to 
+
+the present. 
+
+ 
+
+15.8 We recommended that Management: 
+
+ 
+
+a. prepare a request for the settlement of audit disallowances on an 
+installment basis based on the schedule to be prepared by the 
+
+Accounting Office, and submit the request to the Prosecution and 
+
+Litigation Office of the Legal Services Sector of the COA for 
+
+approval; and 
+
+ 
+
+b. observe the procedures in the settlement of disallowances, as 
+provided in the RRSA and the aforesaid COA Resolution. 
+
+
+
+

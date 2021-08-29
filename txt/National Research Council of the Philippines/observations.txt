@@ -1,0 +1,2110 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+41 
+ 
+
+PART II – OBSERVATIONS AND RECOMMENDATIONS 
+ 
+Financial Audit  
+
+   
+Accounting Errors and Omissions  
+
+ 
+1. The asset and equity accounts of the National Research Center of the 
+Philippines (NRCP) had misstatements totaling ₱114,895,589.20 and ₱4,323,006.24, 
+respectively, which represent 54.68 percent and 3.18 percent of its total assets and 
+
+equity, correspondingly. Due to the significant impact of such misstatements on the 
+
+reported balances of the affected accounts, Management’s assertions as to the 
+
+accuracy, existence, classification and completeness of the said accounts could not be 
+
+relied upon.  
+
+ 
+
+2. Paragraph 15 of the International Public Sector Accounting Standards (IPSAS) 1 
+and Section 3, Chapter 19 of the Government Accounting Manual (GAM), Volume I, states 
+that “Financial statements are a structured representation of the financial position and 
+financial performance of an entity. The objectives of general purpose financial statements 
+are to provide information about the financial position, financial performance and cash 
+flows of an entity that is useful to a wide range of users in making and evaluating decisions 
+about the allocation of resources.” The standards further states that specifically, the 
+objectives of the general purpose financial reporting in the public sector should be to 
+provide information useful for decision making, and to demonstrate the accountability of 
+the entity for the resources entrusted to it. 
+
+ 
+3. Paragraph 27 of IPSAS 1 provides that Financial Statements (FSs) shall present 
+fairly the financial position, financial performance, and cash flows of an entity. Fair 
+presentation requires the faithful representation of the effects of transactions, other events, 
+and conditions in accordance with the definitions and recognition criteria for assets, 
+liabilities, revenue and expenses set out in IPSASs. The application of IPSASs, with 
+additional disclosures when necessary, is presumed to result in FSs that achieve a fair 
+presentation. 
+
+ 
+4. Moreover, Sections 111 and 112 of Presidential Decree (PD) No. 1445 requires 
+agencies to keep the accounts in such detail as necessary to meet the needs of the agency 
+and at the same time be adequate to furnish the information needed by fiscal or control 
+agencies of the government; and that the highest standard of honesty, objectivity and 
+consistency shall be observed in the keeping of accounts to safeguard against inaccurate 
+and misleading information. Each government agency shall record its financial transactions 
+and operations conformably with IPSAS and in accordance with pertinent laws and 
+regulations. 
+ 
+5. Our audit revealed various accounting errors/omissions resulting in misstatements 
+in account balances reported in the FSs of the NRCP and affecting Management’s 
+assertions that all transactions and events: should be recorded and have been recorded 
+
+
+
+42 
+ 
+
+(Completeness), were recorded without error (Accuracy), and in the proper accounts 
+(Classification) as summarized in Table 1.  
+ 
+
+Table I. Summary of Accounting Errors and Omissions 
+
+Errors/ 
+Omissions 
+
+Amount in PHP (Overstated)/ Understated 
+
+Standards 
+
+Assets Net Assets/ 
+Equity 
+
+(Including 
+Income & 
+Expenses) 
+
+Due from 
+NGAs 
+
+Due from 
+NGOs/POs 
+
+Other 
+Receivables 
+
+ 
+Building Construction 
+
+in progress 
+
+a. Misclassification 
+of receivable 
+accounts 
+
+(36,055,455.71) 18,439,347.93 17,616,107.78 
+  
+
+ 
+Chapter 3, 
+GAM, 
+Volume III  
+
+b. Outright 
+charging to expense 
+account 
+
+800,000.00 
+
+    
+
+800,000.00 
+
+Chapter 3, 
+GAM, 
+Volume III; 
+and Section 
+20 of (RA 
+11465) FY 
+2020 
+General 
+Appropriati
+ons Act 
+(GAA) 
+
+c. Non-
+reclassification of 
+account 
+Construction-In-
+Progress to Building 
+account 
+
+ 
+
+   
+ 
+
+21,792,338.89 
+
+ 
+ 
+
+(21,792,338.89) 
+ 
+
+Section 8, 
+Chapter 10 
+of the GAM, 
+Volume I 
+
+d. Misclassification 
+of expense accounts 
+
+ 
+
+    
+
+3,523,006.24** 
+(3,523,006.24) 
+
+ 
+
+Net of 
+Misstatements 
+
+(35,255,455.71) 18,439,347.93 17,616,107.78 21,792,338.89 (21,792,338.89) 800,000.00  
+
+A = L + E 800,000.00 800,000.00  
+
+Total Accounting 
+Errors/Omissions 
+Per Account Title in 
+Absolute Amount 
+(See Tables in 
+discussion) 
+
+35,255,455.71 18,439,347.93 17,616,107.78 21,792,338.89 21,792,338.89 4,323,006.24   
+
+TOTAL 
+ACCOUNTING 
+ERRORS IN 
+ABSOLUTE 
+AMOUNT (a) 
+
+114,895,589.20 4,323,006.24  
+
+Financial 
+Statement 
+Balances (b) 
+
+                                                                      
+210,127,188.99 135,872,988.44 
+
+ 
+
+Percentage of 
+Misstatements  
+(c= a/b) 
+
+54.68% 3.18% 
+ 
+
+Note: **Single amount of misstatement carried in absolute for the reclassification error classified as material and with 
+financial impact under Reporting Phase – Item 4.3, COA Resolution No. 2019-016 date 25 June 2019, re: “Determining 
+and Using Materiality Thresholds in Financial Audit”. 
+ 
+ 
+ 
+ 
+
+
+
+43 
+ 
+
+a)  Misclassification of receivable accounts- ₱49,536,080.47   
+ 
+
+6. The NRCP transfers funds to other National Government Agencies (NGAs), Non-
+Government Organizations (NGOs)/People’s Organizations (POs), and various 
+private institutions or Higher Education Institutes (HEIs) or private individuals such 
+as the Research Development Leaders (RDLs), for the implementation of basic 
+research under its Grant-in-Aid (GIA) Program. The fund transfers (FTs) are 
+covered with a Memorandum of Agreement (MOA) which identifies the NRCP as 
+the source agency (SA) and the recipient government agencies, NGOs/POs and 
+private institutions to which the RDL is connected as implementing agencies (IAs). 
+
+ 
+7. Chapter 3 of the GAM, Volume III, provides the description of the following 
+accounts: 
+
+ 
+ Due from National Government Agencies (10303010) is used to recognize advances 
+
+for purchases of goods/services as authorized by law, fund transfers to the NGAs 
+for implementation of projects and other receivables from NGAs. Credit this 
+account upon receipt of goods/services, and liquidation of fund 
+transfers/receivables. 
+
+ 
+ Due from Non-Government Organizations/People's Organizations (10305030) is 
+
+used to recognize amount of advances granted to Non-Government Organizations 
+(NGOs)/People’s Organizations (POs) for implementation of specific projects. 
+Credit this account for liquidation of advances. 
+
+ 
+ Other Receivables (10305990) is used to recognize amount due from debtors and 
+
+other agencies not falling under any of the specific receivable account. This also 
+includes receivables from individuals or entities intended for specific projects or 
+purpose not falling under any of the specific receivable account. Credit this account 
+for payment/liquidation of receivables. 
+
+  
+8. Examination of the Due from NGAs and Other Receivables accounts showed the 
+following observations:  
+                                                          
+
+ Due from NGAs account included funds transferred to a foundation and private 
+individuals for the implementation of its research projects amounting to 
+₱38,960,473.66 as shown in Table 2. 
+
+ 
+Table 2. List of recipients of funds included in the Due from NGAs account 
+
+RECIPIENTS AMOUNT REMARKS 
+
+NGOs/POs/ Foundation   
+
+University of the Philippines – Los Banos 
+Foundation Inc. (UPLBFI) 
+
+P 10,768,759.07 
+Should have been recorded 
+under Due from NGOs/POs 
+
+Private Persons   
+
+RDL (17 persons) 28,191,714.59 
+Should have been recorded 
+under Other Receivables 
+
+Total P38,960,473.66  
+
+
+
+44 
+ 
+
+ 
+ Other Receivables account included funds transferred to NGAs and NGOs/POs, 
+
+amounting to ₱10,575,606.81, details in Table 3.  
+ 
+
+Table 3. List of recipients of funds included in the Other Receivables account 
+
+RECIPIENTS  AMOUNT REMARKS 
+
+NGAs/HEIs - State 
+Universities and Colleges 
+(SUCs)  
+
+  
+
+Should have been 
+recorded under Due 
+from NGAs 
+
+ MSU            P       1,877,196.41  
+
+ PNU       542,195.48  
+
+ PNRI        314,185.31  
+
+ UP Baguio Trust Fund        135,708.25  
+
+ UP-Manila      35,732.50  
+
+         Sub-Total  2,905,017.95 
+
+NGOs/POs/ Foundation   
+
+Should have been 
+recorded under Due 
+from NGOs/POs 
+
+ Southeast Asian Fisheries Dev. 
+Center  
+
+  483.98  
+
+ Philippine Heart Association, 
+Inc.  
+
+  2,500,000.00  
+
+ UPLB Foundation, Inc    5,170,104.88  
+
+         Sub-Total  7,670,588.86 
+
+Total   P10,575,606.81  
+
+ 
+
+9. The lack of prudent monitoring-analysis of the transactions involved resulted in the 
+misclassification of accounts which runs counter to the GAM, Volume III; thus, overstating 
+Due from NGAs by P36,055,455.71 and understating Due from NGOs/POs and Other 
+Receivables accounts by P18,439,347.93 and P17,616,107.78, respectively. 
+
+ 
+10. We recommended and Management agreed to: 
+
+ 
+
+a. require the Accountant to reclassify the affected accounts namely: Due 
+from NGAs, Due from NGOs/POs and the Other Receivables to present the 
+
+correct nature of the accounts in the FS; and 
+ 
+
+b. henceforth, observe consistency in the keeping of the accounts to 
+safeguard against inaccurate and misleading information. 
+
+ 
+b) Outright charging to expense account - ₱800,000.00 
+
+  
+11. Section 20 of the GAA, provides that all agencies of the government shall purchase 
+its common-use supplies requirements from Procurement Service (PS) as mandated under 
+LOI No. 755 dated October 18, 1978, EO No. 359, AO No. 17, s. 2011 and such other 
+guidelines issued thereon. 
+ 
+12. The NRCP expended a total of ₱1,297,863.38 for Travelling Expenses as of 
+December 31, 2020. The amount included advance payment of ₱800,000.00 to PS – DBM 
+
+
+
+45 
+ 
+
+for its government fares agreement (GFA); and the procured airline tickets of ₱235,150.00 
+from the three travel agencies. 
+
+ 
+13. The procurement from travel agencies were used for the official travels of various 
+NRCP employees, consultants, resource speakers and other guests for seminars, trainings 
+and conferences.    
+ 
+14. Airline tickets are one of the most commonly-requested items in the procurement 
+activities of government agencies. In fact, the Procurement Service (PS), an attached 
+agency of the Department of Budget and Management (DBM), had listed airline tickets in 
+its catalog as one of the Common-use Supplies and Equipment (CSE). It’s for this purpose 
+that the DBM has adopted a “whole-of-government” approach in procuring airline tickets.  
+ 
+15. In connection with that, the NRCP entered into a fare agreement with the PS-DBM 
+for their airfare tickets requirements. For CY 2020 a total amount of ₱800,000.00 was paid 
+to the PS-DBM as advance payment for the airfare tickets.  Examination revealed that 
+Management inadvertently effected this amount by directly charging it to Travelling 
+Expense account, instead of debiting Due from NGAs - PS-DBM account.  The direct 
+charging to expense account of the advance payment resulted in the overstatement of 
+Travelling Expense and the understatement of Due from NGAs - PS-DBM, both accounts 
+of the same amount, respectively.  
+
+ 
+16. We recommended and Management agreed to require the Accountant to: 
+
+ 
+
+a. make the necessary adjusting entry by debiting Due from NGAs (PS- 
+DBM) account and crediting Accumulated Surplus/(Deficit) account; and  
+
+ 
+
+b. stop the practice of directly charging to expense account any advance 
+payment to the PS-DBM.  
+
+ 
+c) Non-reclassification of the completed building – ₱21,792,338.89 
+
+ 
+17. Our previous year’s finding showed that the account Construction in Progress 
+(CIP) - Office Building with a General Ledger (GL) balance of ₱21,792,338.89 as at 
+December 31, 2020 pertained to the total cost for the construction of the NRCP building 
+that has not yet been turned over due to some finishing touches to be completed by the 
+Contractor.  Although abandoned by the Contractor, the building has been occupied and 
+used by the NRCP since 2014, with the NRCP neither seeking any legal action against the 
+Contractor nor recommending to the Government Procurement Policy Board (GPPB) that 
+the Contractor be blacklisted.  Hence, aggravating the non-reclassification of the CIP to its 
+proper specific account that consequently overstated and understated the affected accounts.  
+Likewise, the corresponding depreciation for the said asset has not been recognized as 
+required in Sections 8 and 27, Chapter 10 of the GAM, Volume I, to wit:    
+
+ 
+18. Section 8 –  
+
+ 
+
+
+
+46 
+ 
+
+“Construction of PPE. During the construction period, all expenses incurred 
+in relation to the construction of the PPE shall be taken up in the books as 
+Construction in Progress (CIP) with the appropriate asset classification. As 
+soon as the construction is completed, the “Construction in Progress” 
+account shall be reclassified to the proper asset account” 
+ 
+Section 27 –   
+ 
+“PPE gradually loses its ability to provide service over the course of time. 
+Because of this, its cost needs to be distributed on a systematic basis over its 
+useful life. The allocated cost is referred to as depreciation. The depreciation 
+charge for each period shall be recognized as expense unless it is included in 
+the carrying amount of another asset. 
+
+ 
+19. Management has been consistently trying to communicate with the Contractor but 
+no response was received. The Notice of Termination was issued only in 2018 or four (4) 
+years after the abandonment of the project. With this delay, Management has been hesitant 
+to issue a blacklisting order as it seemed no longer feasible. 
+
+ 
+20. We reiterated our recommendation and Management agreed to require the 
+Accountant to: 
+
+ 
+
+a. reclassify the Construction-in-Progress to Office Building account to reflect 
+the correct balance of the account in the FS; 
+ 
+
+b. provide depreciation for the years the building has been used; and 
+ 
+
+c. issue a Blacklisting Order, if applicable, to be submitted along with the 
+Delisting Order to the GPPB, within seven (7) days after its issuance 
+
+pursuant to the Uniform Guidelines for Blacklisting of Contractors. 
+ 
+
+d) Misclassification of expense accounts - ₱3,523,006.24 
+ 
+
+21. The NRCP engaged the professional services of private consultants or project 
+leaders for their individual expertise to implement its various basic research projects.  The 
+said undertakings are covered with Contracts of Service or Memoranda of Agreement 
+(MOAs) which identifies the NRCP as the Implementing Agency (IA). 
+
+ 
+22. Chapter 3 of the GAM, Volume III provides the description of the following 
+accounts: 
+ 
+
+ Consultancy Services (50211030) is used to recognize the cost of services rendered 
+by consultants contracted to perform particular outputs or services primarily 
+advisory in nature and requiring highly specialized or technical expertise which 
+cannot be provided by the regular staff of the agency. 
+
+ 
+
+
+
+47 
+ 
+
+ Other Professional Services (50211990) is used to recognize the cost of other 
+professional services contracted by the agency not otherwise classified under any 
+of the specific professional services accounts.  
+
+ 
+
+23. Further, Section 5 of the 2016 Revised Implementing Rules and Regulations 
+(RIRR) of Republic Act (RA) 9184 provides, Consulting Services as services for 
+infrastructure projects and other types of projects or activities of the Government of the 
+Philippines (GoP) requiring adequate external technical and professional expertise that are 
+beyond the capability and/or capacity of the GoP to undertake such as, but not limited to: 
+(i) advisory and review services; (ii) pre-investment or feasibility studies; (iii) design; (iv) 
+construction supervision; (v) management and related services; and (vi) other technical 
+services or special studies.  
+                                                  
+24. The Other Professional Services expense account includes payment of the salaries 
+of Contractual personnel and payments to various Consultants and RDLs which were hired 
+for their individual field of expertise, for the implementation of the various basic research 
+projects of NRCP. 
+
+ 
+25. Payments showed that the Disbursement Vouchers (DVs) were supported with 
+either the tripartite MOA between the NRCP, the selected Higher Education Institutes 
+(HEIs) and the RDL, or the Contract of Service of consultants with Terms of Reference 
+(TOR) and deliverables.  RDLs were hired by the NRCP for their individual fields of 
+expertise and payments were made/released to them in two or three tranches ranging from 
+20% to 50% of the contract cost as stipulated in the MOA.  Moreover, advance payments 
+were made/released upon the perfection of the contract. Hence, the transactions were 
+consultancy in nature, not to mention that the approved budget for Other Professional 
+Services (OPS) did not cover the amount disbursed for the payment to consultants and 
+RDLs. As such, said payments should have been appropriately charged to the Consultancy 
+Services account. This showed the Accountant’s lack of prudent analysis/scrutiny in the 
+classification of expenses and non-consideration of the approved budget of the targeted 
+account. 
+
+ 
+26. Payment to consultants and RDLs amounted to ₱3,523,006.24 that were debited to 
+the account Other Professional Services rather than Consultancy Services, which 
+contradicts the aforementioned provision of the GAM, Volume III resulting in the 
+overstatement and understatement of the Other Professional Services and the Consultancy 
+Services accounts, respectively, by the same amount.  
+
+ 
+
+27. We recommended and Management agreed to require the Accountant: 
+ 
+
+a. to reclassify the affected accounts, namely: Other Professional Services and 
+Consultancy Services to present the correct nature of the accounts in the 
+
+FS; and  
+
+ 
+
+
+
+48 
+ 
+
+b. thereafter, to confer with the Budget Officer on similar transactions 
+requiring prudent analysis/scrutiny, if within the approved budget of the 
+
+targeted account, before any payment can be made. 
+
+ 
+
+28. In summary, the total misstatements of Due from NGAs, Due from NGOs/COs, 
+Other Receivables, Building and CIP-Building accounts amounting to P114,895,589.20, 
+represent 54.68 percent of the agency’s total assets, while misstatements of Net 
+Assets/Equity amounting to P4,323,006.24 represent 3.18 percent of its total amount.  Due 
+to the significant impact of these misstatements on the financial statements, we rendered a 
+Qualified Opinion on the financial statements of the NRCP as at year-end. 
+ 
+
+Accounting Deficiencies 
+
+ 
+
+Improper classification and recording of fund transfers - ₱48,741,447.46 
+ 
+
+29. Fund transfers to various Implementing Agencies/project leaders amounting 
+to ₱48,741,447.46 were recorded as Subsidy-Others expense account upon payment 
+
+but with semestral adjustments of reverting to Due from NGAs or Other Receivables 
+
+accounts, contrary to Section 109, Chapter 1 of PD 1445 and Chapter 3 of the GAM 
+
+Volume III; thus, the Financial Statements (FS) are not fairly presented at a given 
+
+time.  
+
+ 
+
+30. Section 109, Chapter 1 of PD 1445 provides that Government accounting 
+encompasses the processes of analyzing recording, classifying, summarizing and 
+communicating all transactions involving the receipt and disposition of government funds 
+and property, and interpreting the results thereof. 
+ 
+31. Chapter 3 of the GAM, Volume III provides the description of Due from NGAs 
+account, as already provided in the above observations, and Subsidies-Others account as: 
+
+ 
+Subsidies-Others (50214990) is used to recognize the financial assistance 
+given to individuals and institutions other than government agencies or 
+NGOs/POs for government programs/projects/activities. This account shall be 
+closed to the Revenue and Expense Summary account. 
+
+ 
+
+32. Fund transfers (FTs) to various Implementing Agencies/project leaders amounting 
+to ₱48,741,447.46 were recorded as Subsidies-Others upon payment, but with semestral 
+adjustments of reverting to Due from NGAs or Other Receivables. Verification of the 
+various DVs issued showed that the payments were releases to IAs/recipients for the grants 
+on the implementation of NRCP Grant-in-Aid projects. 
+ 
+33. Inquiry with the Accountant disclosed that they were only following the object code 
+(as expense) as suggested by the Budget Officer based on the issued Budget Utilization 
+Request and Status (BURS).  Eventually at the end of every semester, the account 
+Subsidies-Others was being reverted to either Due from NGAs or Other Receivables 
+accounts to establish accountability. 
+
+
+
+49 
+ 
+
+ 
+34. The fact that there is a semestral adjustment of the fund transfers is an admission 
+of error in the classification pursuant to the GAM, Volume III.  The corrective measure of 
+recording the fund transfers to Due from NGAs or Other Receivables accounts should not 
+only be effected in the Accounting records, but also with the Budget documents since the 
+latter became the basis of the Accountant in recording the FTs as Subsidies-Others. The 
+improper treatment of fund transfers affected the fair presentation of the FS of the NRCP 
+at a given time. 
+
+ 
+35. We recommended and Management agreed to require the Accountant, in 
+coordination with the Budget Officer, to practice a careful analysis of the transactions 
+
+to come up with an accurate classification in order to present the correct nature of 
+
+the accounts in the FS. 
+
+ 
+
+Compliance audit 
+
+ 
+
+Unreliable balance of Cash in Bank – LCCA - ₱436,035.45 
+ 
+
+36. The Cash in Bank - Local Currency Current Account (LCCA) account with 
+GL balance of ₱436,035.45 cannot be ascertained due to: (a) non-preparation of Bank 
+
+Reconciliation Statement (BRS), resulting in a variance of ₱512,560.71 between the 
+
+book and bank balances, which is not in accordance with Section 3, Chapter 21 of the 
+
+GAM, Volume I; and (b) collections from different sources maintained in the bank 
+
+by the NRCP were not remitted to the Bureau of the Treasury (BTr), contrary to 
+
+Section 2 of Executive Order No. 338, thus, affecting the fair presentation of the Cash 
+
+in Bank balance in the FS and impeding the use of funds for other government 
+
+projects.  
+
+ 
+37. Section 3, Chapter 21 of the GAM, Volume I provides that the Bank Reconciliation 
+Statement (BRS) shall be prepared in order to: (a) check correctness of both the bank’s and 
+agency’s/entity’s records, (b) serve as a deterrent to fraud, and (c) enable the agency/entity 
+or bank to take up charges or credits recognized by the bank or agency/entity but not yet 
+known to the agency/entity or bank.  
+
+ 
+38. Section 74 of PD 1445 requires the head of the agency to see to it that reconciliation 
+is made between the balance shown in the monthly reports of depositories (bank 
+statements) and the balance found in the books of the agency.  COA Circular No. 92-125A 
+dated March 4, 1992 requires the Accountant to prepare the Bank Reconciliation 
+Statements (BRS) based on the bank statements from the bank and submit the same within 
+15 days after the end of each month to the Auditor concerned. 
+ 
+39. Verification of the account Cash in Bank - LCCA of NRCP amounting to 
+₱436,035.45 as at December 31, 2020, revealed the following: 
+
+ 
+ 
+ 
+
+
+
+50 
+ 
+
+a) Non-preparation of BRS, resulted in variance of ₱512,560.71 
+ 
+
+40. The NRCP maintains a current bank account with the Land Bank of the Philippines 
+with the confirmed bank balance of ₱948,596.16 vis-à-vis agency’s book balance of 
+₱436,035.45 as at December 31, 2020 resulting in a P512,560.71 variance, the details of 
+which are shown in Table 4.  
+
+ 
+Table 4. Summary of variance 
+
+Bank 
+Account No. 
+
+Description 
+(per notes to FS) 
+
+Per Book 
+balance 
+
+Per Bank 
+balance ( bank 
+confirmation) 
+
+Variance 
+
+1822-1045-48 
+
+Grant received from International 
+Development Research Center (IDRC) 
+
+ 
+₱207,315.33 
+
+948,596.16 512,560.71 Collection of registration fees during the 
+17th Scientific Conference of Asia dated 1 
+June 2017 
+
+228,720.12 
+
+ Total ₱436,035.45 948,596.16 512,560.71 
+ 
+
+41. The noted variance between the book and bank balances of ₱512,560.71 cannot be 
+determined due to non-preparation of BRS.  Said error could have been detected and 
+balances could have been reconciled if the Accountant had prepared the BRS pursuant to 
+the above regulations. 
+ 
+42. The Accountant did not prepare the BRS for this account for the reason that the 
+account was already dormant and was intended to be closed. 
+
+ 
+43. The non-preparation of BRS resulted in a material amount of variance between the 
+book and bank balances of Cash in Bank - LCCA account, affecting its fair presentation in 
+the FS. 
+
+ 
+b) Collections not remitted to BTr - ₱436,035.45 
+
+ 
+44. Section 2 of Executive Order (EO) No. 338 provides that “all government offices 
+and agencies are hereby required to immediately transfer all public moneys deposited with 
+depository banks and other institutions to the Bureau of the Treasury (BTR), regardless of 
+income source.” 
+ 
+
+45. Section 4 of the General Provisions of the FY 2020 GAA provides that as a general 
+rule, all fees, charges, assessments, and other receipts or revenues collected by 
+departments, bureaus and offices of the National Government, including Constitutional 
+Offices enjoying fiscal autonomy in the exercise of their mandated functions, at such rates 
+as are now or may be approved by the appropriate approving authority shall be deposited 
+with the National Treasury as income of the General Fund. 
+  
+46. It can be gleaned on the above Table that the book balance of ₱436,035.45 consists 
+of trust receipts balances on the collection of grant received from IDRC and the registration 
+fees during the 17th Scientific Conference of Asia dated 1 June 2017, held in Pasay City. 
+ 
+
+
+
+51 
+ 
+
+47. The wisdom of regulating government cash balances by the National Treasury boils 
+down to the urgent fiscal decision of the government to properly dispose of the available 
+funds; hence, the continued practice of non-remittance to the National Treasury of the trust 
+receipts may adversely affect fiscal governance of our country and we find the NRCP not 
+compliant with Section 2 of Executive Order No. 338 and Section 4 of the General 
+Provisions of the FY 2020 GAA which states that all government offices and agencies are 
+required to immediately transfer all public moneys deposited at any Authorized 
+Government Depository Bank (AGDB) to the BTr for funds can be used for other 
+government projects . 
+
+ 
+48. Management commented that the balance was the partial released fund from 
+pending/uncompleted project of IDRC and no instructions were given to them by the source 
+agency to close the account despite being dormant, therefore, the balance was not 
+immediately reverted to the BTr. 
+ 
+
+49. We recommended and Management agreed to require the Accountant to: 
+ 
+
+a. prepare the BRS and determine the reconciling items and record the same 
+in the books to reflect the correct balance of the account in the FS;  
+
+ 
+
+b. effect the immediate transfer of the bank balance of the account to the 
+BTr pursuant to the afore-cited provisions of laws, rules and regulations 
+
+and the compliance thereafter; and 
+ 
+
+c. make the necessary coordination with the LBP for the closing of the 
+account. 
+
+ 
+Unliquidated fund transfers for completed research projects- ₱46,791,795.50 
+ 
+50. Fund transfers totaling ₱46,791,795.50 recorded under the accounts Due from 
+NGAs, and Other Receivables remained unliquidated due to inadequate project 
+
+monitoring, particularly on the submission of Financial Reports (FRs) and refund of 
+
+unexpended balances, contrary to COA Circular No. 94-013 dated December 13, 
+
+1994, and DOST Administrative Order No. 009 series of 2017. Further, Other 
+
+Receivables account includes fund transfer to undocumented research grants 
+
+amounting to ₱1,806,579.50 to 18 private individuals. 
+
+ 
+51. As at December 31, 2020, the outstanding balance of receivable accounts consists 
+of Due from NGAs and Other Receivables accounts amounting ₱82,544,667.95 and 
+₱28,353,915.67, respectively, or a total of ₱110,898,583.62.  These balances account for 
+the funds transferred by the NRCP to various NGAs/NGOs/POs/private entities/ 
+individuals for the research grant which remained unliquidated at year-end.  
+
+ 
+Analysis of the accounts revealed the following deficiencies: 
+ 
+
+
+
+52 
+ 
+
+a) Unliquidated fund transfers pertaining to completed research grants-  
+₱46,791,795.50 
+
+ 
+52. The fund transfers (FTs) are subject to the provisions of DOST Administrative 
+Order (AO) No. 005, series of 2013, which sets forth the guidelines for the Grants-in-Aid 
+(GIA) funds of the DOST and its attached agencies.  The GIA program provides grants for 
+the implementation of programs/projects identified in the current DOST priorities and 
+thrusts and supports S&T activities classified in the General Appropriations Act. 
+
+ 
+53. The AO under Section 6.3.3.2 provides that for liquidation purposes, the Project 
+Leader duly noted by the Head of the Agency or designated/authorized representative shall 
+submit Financial Report (FR) certified by the agency accountant on grants received within 
+two months after the end of every year for government agency as implementing agency. 
+For NGOs or privately-owned institutions, the annual audited financial report (AFR) shall 
+be submitted certified by a licensed independent accountant with an Audit Certificate 
+Report.  A Terminal AFR shall be submitted within three (3) months after the completion 
+of the project, both for government and private entity as proponents. 
+
+ 
+54. While Section 6.3.4.e of the same AO provides that upon project completion/ 
+termination, all balances/savings and income/interest shall be reported and reverted to the 
+Funding Agency within three (3) months after the end of project period. 
+
+ 
+55. Moreover, Section 6.3.6 states that the standard procedure in case of non-
+submission of requirements by the Project Leader which states that for failure to submit 
+within six (6) months the required financial, technical and other reports after the prescribed 
+deadlines, a demand letter shall be sent to the Project Leader and Head of Agency of the 
+IA.  Upon the recommendation of the Monitoring Agency, the Project Leader is prevented 
+from receiving further grants or any kind of support from within the DOST System until 
+he/she is cleared from all obligations pertinent to the previous GIA grant.   
+
+ 
+56. In addition, COA Circular No. 94-013 dated December 13, 1994 covers the rules 
+and regulations in the grant, utilization and liquidation of funds transferred to IAs to ensure 
+that the transfer is properly taken up in the books of the Source Agency (SA) and 
+Implementing Agency (IA) and used only for the intended purpose and that proper 
+accounting and reporting is made of the utilization of the funds. 
+
+  
+57. Verification revealed that the receivable balances at year-end totaling 
+₱46,791,795.50 or 43 percent pertains to unliquidated balances of FTs for research grants 
+that were already completed from CYs 2004 up to 2020, as summarized in Table 5. 
+ 
+
+Table 5. Summary of Unliquidated FTs but Completed Projects 
+
+Account 
+Balance as of 
+Dec. 31, 2020 
+
+Completed 
+Projects 
+
+% to total 
+balance 
+
+Due from National Government Agencies (NGAs)  82,544,667.95 24,526,836.68 30% 
+
+Other Receivables 28,353,915.67 22,264,958.82 79% 
+
+Total 110,898,583.62 46,791,795.50 43% 
+
+
+
+53 
+ 
+
+ 
+58. Had Management pursued liquidations from NGAs and Implementing Agencies 
+(IAs)/private individuals, the receivable balance could have been lessened and as a result 
+of the submission of documents of various research grants, Management may be guided in 
+selecting appropriate researches needing support from the government. 
+
+ 
+59. Furthermore, FT balances for completed researches/grants were unliquidated for 
+the period ranging from less than one year up to more than 16 years, as shown in Table 6. 
+
+ 
+Table 6. Aging of completed researches 
+
+Accounts 
+
+Aging of completed projects 
+
+Less than 1 
+year to 1 year 
+
+More than 1 
+year to 2 years 
+
+More than 2  
+years to 4 
+
+years 
+
+More than 4 
+years to 7 
+
+years 
+
+More than 
+7 years to 
+10 years 
+
+More than 
+10 years to 
+
+16 
+Total 
+
+Due from NGAs 19,334,155.79 4,350,578.73 89,352.76 752,749.40 - - 24,526,836.68 
+
+Other 
+
+Receivables 
+10,318,667.82 1,715,793.35 7,549,509.64 2,007,058.92 112,500.00 561,429.09 22,264,958.82 
+
+Total 29,652,823.61 6,066,372.08 7,638,862.40 2,759,808.32 112,500.00 561,429.09 46,791,795.50 
+
+ 
+60. As shown in Table 6, the balance of ₱561,429.09 had been outstanding for 11 to 16 
+years, without any refund or liquidation made in CY 2020. 
+
+ 
+61. The existence of long outstanding balances attributed to the inadequate monitoring 
+by the concerned Project Officers/Division Chiefs to exercise sound and strong judgment 
+to constrain the Project Leaders to submit liquidation documents to avoid the perennial 
+problem of unliquidated FTs due to weak enforcement of the aforementioned DOST AO 
+and COA Circular, especially the provision of the DOST AO on the standard procedure in 
+case of non-submission of requirements by the Project Leader that for failure to submit 
+within six months the required financial, technical and other reports after the prescribed 
+deadlines, a demand letter shall be sent to the Project Leader and Head of Agency of the 
+IA.  Further, it states that the Funding Agency (FA) may undertake legal measures against 
+the Project Leader for non-submission of requirements. 
+ 
+
+b) Researchers without records on file - ₱1,806,579.50 
+ 
+62. Other Receivables account includes 18 IAs/recipient researchers with an 
+unliquidated fund transfer amounting to ₱1,806,579.50, found to be without records on file 
+or no date of completion stated in the schedule.  These FTs were granted to the recipients 
+from CYs 2005 to 2015 aged ranging from 4 to 15 years of unliquidated funds.  Query 
+from the accounting office personnel disclosed that these unliquidated fund transfers have 
+long been in the books of the NRCP long before their employment at the agency in CY 
+2017. The absence of records on file of the recipient of the grants resulted in lesser chance 
+to recover the unliquidated FTs and the liability of the recipients was not fully established. 
+This has been observed in the prior years and was earlier reported in the CY 2019 audit 
+report. 
+
+
+
+54 
+ 
+
+ 
+
+63. The inadequate monitoring of FTs resulted in: (1) accumulation of long-outstanding 
+FTs in the books of accounts; (2) unused balances not reverted to the Source Agency; (3) 
+lost supporting documents; (4) control lapses; and (5) the impression that research/grant 
+were not completed with the possibility of misuse of GIA funds. 
+ 
+
+64. We reiterated our prior year’s recommendations and Management agreed to 
+require: 
+
+ 
+
+a. Project Officers/Division Chiefs to regularly and closely monitor the 
+research grants which were subject of FTs and strictly enforce the 
+
+provisions of DOST AO No. 005 on the reporting requirements for the 
+
+grants, not only on the submission of technical reports but also of the 
+
+financial reports; 
+
+ 
+
+b. Project Division personnel to send demand letters to IAs/project leaders, 
+stating definite deadlines and the possible blacklisting/legal actions that 
+
+may be instigated against them in case of non-compliance to exhaust all 
+
+possible remedies to compel the IAs/private individuals to liquidate their 
+
+long-outstanding balances; and 
+
+ 
+
+c. Project Officers/Division Chiefs to exert effort in locating those supporting 
+documents that were not on file to establish the liability of the recipients 
+
+and its whereabouts.  
+
+ 
+
+Fund transfers without Official Receipts - ₱26,128,515.00 
+ 
+
+65. Fund Transfers to NGAs amounting to ₱26,128,515.00 with prepared DVs 
+were not properly documented, which is not in accordance with Section 4 of PD 1445, 
+
+thus, transactions are doubtful. 
+
+ 
+
+66. Item 6, Section 4 of Presidential Decree No. 1445 (PD 1445) states that “Claims 
+against government funds shall be supported with complete documentation.” 
+
+ 
+67. Verification of the DVs on the FTs to 11 NGAs, which were released through an 
+Advice/Authority to Debit Account (ADA), lacked the primary supporting documents such 
+as the Official Receipts (ORs) in violation of Item 6, Section 4 of PD 1445.  Management 
+averred that these were the late ORs coming from the NGAs located in the Visayas and 
+Mindanao.  Nonetheless, the weak resolve of Management on the strict compliance with 
+documentation requirements kept the transactions doubtful due to incomplete 
+documentation. 
+
+ 
+68. We recommended and Management agreed to enjoin the Accountant/ Project 
+Leaders/Division Heads to require the recipients of grants to submit the needed ORs 
+
+for proper documentation of the transactions to avoid future disallowance in audit. 
+
+ 
+
+ 
+
+
+
+55 
+ 
+
+Unreliable PPE balance – ₱36,124,827.24 
+ 
+
+69. The accuracy and reliability of the PPE accounts balance of ₱67,440,842.42   
+could not be ascertained due to: (a) discrepancies of ₱36,124,827.24 between the GL 
+
+balances and the Report on the Physical Count of PPE (RPCPPE) attributable to: (i) 
+
+dropped balances of the unserviceable PPE in the property records; and (ii) lack of 
+
+regular reconciliation between accounting and property records; and (b) non-
+
+disposal of unserviceable PPEs amounting to ₱5,906,806.86. 
+
+  
+
+70. International Public Sector Accounting Standards (IPSAS) 17 prescribes the 
+standards on the recognition, measurement, depreciation, impairment, derecognition and 
+disclosure requirements dealing with transactions and events affecting property, plant and 
+equipment of the public sector so that users of the financial statements can discern 
+information about an entity’s investment in its PPE and the changes in such investment. 
+
+ 
+71. As at December 31, 2020, the NRCP’s PPE accounts amounted to ₱67,440,842.42, 
+with net book value of ₱37,598,402.21, as presented in Table 7. 
+
+ 
+Table 7. PPE Balances as of December 31, 2020 
+
+PPE Accounts Cost 
+Accumulated 
+Depreciation 
+
+Net Book Value 
+
+Land Improvements 8,021,687.27 1,869,937.47 6,151,749.80 
+
+Office Buildings 5,794,274.09     5,214,846.68 579,427.41   
+
+Office Equipment 2,575,521.49 2,207,991.80  367,529.69 
+
+Information and Communication 
+Equipment 
+
+21,587,171.14 15,209,373.15 6,377,797.99 
+
+Communication Equipment 389,670.00 61,799.76 327,870.24 
+
+Technical and Scientific Equipment 508,486.77 457,638.09 50,848.68 
+
+Sports Equipment 83,993.00 28,977.60 55,015.40 
+
+Other Machineries and Equipment 815,435.64 580,809.31 234,626.33 
+
+Motor Vehicles 2,793,437.00 2,692,924.20 100,512.80 
+
+Furniture and Fixtures 1,605,023.01 1,311,892.72 293,130.29 
+
+Books 54,153.56 16,546.80 37,606.76 
+
+Other Property, Plant and 
+Equipment 
+
+462,638.42 189,702.65 272,935.77 
+
+Construction in Progress – Office 
+Buildings 
+
+21,792,338.89 - 21,792,338.89 
+
+Other Assets 366,415.10 - 366,415.10 
+
+Computer Software 590,597.04 - 590,597.04 
+
+Total ₱ 67,440,842.42 ₱ 29,842,440.23 ₱ 37,598,402.19 
+ 
+72. Analysis of the PPEs revealed the following deficiencies/errors which affected the 
+determination of accuracy and reliability of the reported balances: 
+
+ 
+
+ 
+
+ 
+
+
+
+56 
+ 
+
+a.   Discrepancy between accounting and property records – ₱36,124,827.24 
+ 
+73. Section 38, Chapter 10 of the GAM, Volume I, requires that: “The entity shall have 
+a periodic physical count of PPE, shall be done annually and presented on the Report on 
+the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 73) as at 
+December 31, of each year.  This shall be submitted to the Auditor concerned not later than 
+January 31 of the following year. Equipment found at station and losses discovered during 
+the physical count shall be reported to the Accounting Division/Unit for proper 
+accounting/recording”. (emphasis ours) 
+
+ 
+74. Moreover, Section 42 of the same manual also states that the Chief Accountant 
+shall maintain Property Plant and Equipment Ledger Card (PPELC) for each category of 
+PPE. PPELC shall be kept to record promptly the acquisition, description, custody, 
+estimated useful life, depreciation, impairment loss, disposal and other information about 
+the asset. For check and balance, the Property and Supply Office/Unit shall likewise 
+maintain Property Card (PC) for PPE in their custody to account for the receipt and 
+disposition of the same. The balance per PC shall be reconciled with PPELC maintained 
+by the Accounting Division/Unit. They shall also be reconciled with other property records 
+like Property Acknowledgement Receipt (PAR). (emphasis ours) 
+
+ 
+75. Verification of accounting and property records showed the GL balances of various 
+PPE accounts totaling ₱67,440,842.42 were not reconciled with the RPCPPE prepared by 
+the Supply and Maintenance Section with only ₱31,316,015.18 total balance, resulting in 
+a substantial difference of ₱36,124,827.24, as shown in Table 8: 
+ 
+
+Table 8. Comparison of PPE accounts between GL and RPCPPE 
+
+Particulars 
+2020 RPCPPE 
+
+Balance 
+Book Balance 
+
+Unreconciled 
+Balance 
+
+(Absolute Value 
+PhP) 
+
+Land Improvements    ₱683,227.62    ₱8,021,687.27     ₱7,338,459.65  
+Office Building  5,794,274.00   5,794,274.09     0.09  
+
+Office Equipment  1,741,706.76    2,575,521.49    833,814.73  
+
+Office Equipment for Disposal 
+unserviceable 
+
+ 2,989,495.38  -   2,989,495.38 
+
+Information and Communication 
+Equipment 
+
+14,082,163.18   21,587,171.14    7,505,007.96  
+
+Communication Equipment 55,260.00     389,670.00    334,410.00  
+
+Technical and Scientific Equipment   1,858,158.82    508,486.77   1,349,672.05 
+
+Sports Equipment   83,993.00    83,993.00                  -    
+
+Other Machineries and Equipment -    815,435.64     815,435.64  
+
+Motor Vehicles  2,700,637.00      2,793,437.00    92,800.00  
+
+Furniture and Fixtures    1,327,099.42      1,605,023.01   277,923.59  
+
+Books -  54,153.56    54,153.56  
+
+Other Property, Plant and Equipment -    462,638.42      462,638.42  
+
+Construction in Progress – Building 
+(CIP) 
+
+-     21,792,338.89   21,792,338.89  
+
+Other Assets -  366,415.10    366,415.10  
+
+Computer Software -    590,597.04     590,597.04  
+
+Total  ₱31,316,015.18  ₱67,440,842.42    ₱36,124,827.24  
+
+
+
+57 
+ 
+
+ 
+76. One of the attributable causes of the above variance is the non-inclusion of balances 
+of the unserviceable property in the RPCPPE. In the conduct of the physical count, the 
+Supply Office personnel prepared a separate list for PPE inventory found to be 
+unserviceable during the physical count instead of using the Inventory and Inspection 
+Report of Unserviceable Property (IIRUP). The immediate exclusion of the identified 
+unserviceable property from the RPCPPE contributed to the variance between accounting 
+and property records.   
+
+ 
+77. Moreover, the perennial lack of regular reconciliation between the accounting and 
+property offices’ records resulted in undetected variance of ₱36,124,827.24; thus, casting 
+doubt on the existence of PPE as well the accuracy of the PPE account balances as at 
+December 31, 2020.  
+
+ 
+78. We recommended and Management agreed to require:  
+ 
+
+a. The Supply Officer to conduct physical inventory of PPE in accordance 
+with Section 38, Chapter 10 of the GAM, Volume I and prepare the IIRUP 
+
+for the unserviceable property found; and  
+
+ 
+
+b. The Accountant and the Supply Officer to, thereafter, conduct regular 
+reconciliation of the PPEs account reported in the RPCPPE with the GL 
+
+balances, investigate any discrepancies noted and make the corresponding 
+
+adjustments.   
+
+ 
+
+b. Non-disposal of unserviceable PPEs - ₱5,906,806.86 
+ 
+
+79. Section 79 of Presidential Decree (PD) No. 1445 provides that, “When the 
+government property has become unserviceable for any cause, or is no longer needed, it 
+shall, upon, application of the officer accountable therefore, be inspected by the head of 
+the agency or his duly representative xxx and if found to be valueless or unsaleable, it may 
+be destroyed. If found to be valuable, it may be sold at public auction to the highest bidder 
+under the supervision of the proper committee on award or similar body xxx. In the event 
+that public auction fails, the property may be sold at a private sale at such prices as may be 
+fixed by the same committee or body concerned xxx.”  
+
+ 
+80. Moreover, IPSAS 17 states that, “The carrying amount of an item of property, plant, 
+and equipment shall be derecognized: (a) on disposal; or (b) when no future economic 
+benefits or service potential is expected from its use or disposal.”  
+  
+81. As at December 31, 2020, the unserviceable properties which remained in the 
+NRCP’s books of accounts amounted to ₱5,906,806.86 consisting of various defective and 
+obsolete Office Equipment, Information and Technology Equipment, Communication 
+Equipment, Other Property Plant and Equipment and Other Assets.  It was observed that 
+these unserviceable properties continue to gather dust and occupy spaces in the NRCP’s 
+storage room.  A summary thereof is shown in Table 9. 
+
+
+
+58 
+ 
+
+ 
+ 
+
+Table 9. Summary of unserviceable PPEs 
+
+Account Title 
+Year declared unserviceable by 
+
+property office Total 
+CY 2019 CY 2020 
+
+Office Equipment  ₱166,587.08 ₱2,989,495.38 3,156,082.46 
+Information and Technology 
+Equipment 
+
+2,297,189.30 - 2,297,189.30 
+
+Communication Equipment 60,540.00 - 60,540.00 
+
+Other Property, Plant and 
+Equipment 
+
+26,580.00 - 26,580.00 
+
+Other Assets - 366,415.10 366,415.10 
+
+Total ₱2,550,896.38 ₱3,355,910.48 ₱5,906,806.86 
+ 
+
+82. Due to non-disposal, the carrying amounts of these assets are continuously carried 
+in the books of accounts and reported in the Financial Statements (FS) as assets, although 
+these are already without use or service potential, which could possibly mislead the 
+users/readers of the FS.  Moreover, the deferment of the disposal of unserviceable 
+properties resulted in their further deterioration and reduction of saleable value. 
+
+ 
+
+83. We recommended and Management agreed to require: 
+ 
+
+a. The Disposal Committee to appraise and dispose the unserviceable 
+properties to avoid deterioration and accordingly, maximize the potential 
+
+income that could be derived from their sale; and  
+
+ 
+
+b. The Accountant to prepare, after the disposal, the necessary accounting 
+entries to derecognize the said PPEs from the book of accounts. 
+
+ 
+
+Non-compliance with RA 9184 
+
+84. The procurement of supply of labor and materials for the roofing extension of 
+NRCP Atrium building, amounting to ₱391,410.84 is not advantageous to the 
+
+government due to: (a) absence of competitive bidding; (b) lack of detailed 
+
+information in the agency’s Annual Procurement Plan (APP); (c) lack of 
+
+documentary requirements; and (d) advance payment of 50% of the contract cost 
+
+which is in violation of the revised IRR of RA 9184 and PD 1445.   
+
+ 
+
+85. Item I of Annex H of the 2016 Revised Implementing Rules and Regulations (IRR) 
+of Republic Act (RA) 9184 provides the policy statement that as a general rule, all 
+procurement shall be through Competitive Bidding. However, whenever justified by the 
+conditions provided in RA 9184 and its revised IRR, the Procuring Entity may, in order to 
+promote economy and efficiency, resort to any of the alternative methods of procurement 
+provided in Rule XVI of the revised IRR of RA 9184.  
+
+ 
+ 
+
+
+
+59 
+ 
+
+ 
+86. The Alternative Methods of Procurement shall be resorted to only in the highly 
+exceptional cases provided for in this Guidelines and subject to the prior approval of the 
+Head of the Procuring Entity (HoPE) upon recommendation of the Bids and Awards 
+Committee (BAC). In all instances, the Procuring Entity shall ensure that the most 
+advantageous price for the Government is obtained. 
+ 
+87. Section V.C.1 Annex H of the 2016 IRR of RA 9184 defines “Shopping” as a 
+method of procurement of goods whereby the Procuring Entity simply requests for the 
+submission of price quotations for readily available off-the-shelf goods or ordinary/regular 
+equipment to be procured directly from suppliers of known qualifications. This method of 
+procurement shall be employed in any of the following cases:  
+ 
+
+a. When there is an unforeseen contingency requiring immediate purchase, the 
+amount shall not exceed, for NGAs, GOCCs, GFIs, SUCs, and Autonomous 
+Regional Government, Two Hundred Thousand Pesos (₱200,000.00) 
+
+ 
+b. Procurement of ordinary or regular office supplies and equipment not available 
+
+in the DBM-PS, in the amount not to exceed, for NGAs, GOCCs, GFIs, SUCs, 
+and Autonomous Regional Government, One Million Pesos (₱1,000,000.00) 
+
+ 
+88. The phrase “ordinary or regular office supplies” shall be understood to include 
+those supplies, commodities, or materials which are necessary in the transaction of its 
+official businesses, and consumed in the day-to-day office operations. 
+ 
+89. The NRCP entered into job order agreement with a single proprietorship company, 
+through Job Order No. 19-12-091 dated December 23, 2019, with a contract cost of 
+₱391,410.84 for the supply of labor and materials for the roofing extension of NRCP’s 
+Atrium. In the verification of the Repairs and Maintenance expense account and the DVs, 
+we observed the following: 
+ 
+
+a) Absence of competitive bidding - ₱391,410.84 
+ 
+90. Verification of the documents attached in the DV revealed that a Purchase Request 
+(PR) was prepared dated December 12, 2019, with an item description of one lot for supply 
+of labor and materials for the roofing extension of NRCP Atrium. On December 19, 2019, 
+the Request for Quotation (RFQ) was posted in the PhilGEPS website with a closing date 
+on December 23, 2019, in compliance with the posting requirement of RA 1984.  Further, 
+audit revealed that the RFQ has an Approved Budget of the Contract (ABC) of ₱400,000.00 
+and the mode of procurement was shopping.   
+ 
+91. The NRCP’s procurement with an ABC amounting to ₱400,000.00 for the 
+construction of roofing extension of the Atrium, is not qualified for shopping, rather it 
+requires competitive bidding.  Further, alternative modes of procurement like Shopping, 
+
+
+
+60 
+ 
+
+Small Value Procurement and other modes of procurement can be availed only if the 
+conditions for such are met.  Likewise, NRCP’s BAC did not issue any resolution or 
+minutes of meetings for the said undertaking. 
+
+ 
+92. The above-stated regulations provide, as a general rule, all procurement shall be 
+through Competitive Bidding. The Alternative Methods of Procurement shall be resorted 
+to only for highly exceptional cases provided for in the revised IRR of RA 9184 and subject 
+to the prior approval of the HoPE upon recommendation of the BAC.  It further states that 
+the alternative mode of procurement like Shopping is only applicable to procurement of 
+ordinary or regular office supplies and equipment not available in the PS-DBM. 
+
+ 
+93. The non-conduct of competitive bidding is a clear violation of the revised IRR of 
+RA 9184, thus, indicative of poor planning of the agency’s procurement process and the 
+government is not afforded with the most advantageous and reasonable price. 
+
+ 
+b) Lack of detailed information of the project in the Annual Procurement Plan (APP) 
+
+ 
+94. Section 7.2 of the 2016 Revised IRR of RA 9184 provides that no procurement 
+shall be undertaken unless it is in accordance with the approved APP, including approved 
+changes thereto. The APP must be consistent with the duly approved yearly budget of the 
+Procuring Entity and shall bear the approval of the HoPE. 
+
+ 
+95. The construction of the roofing extension of the NRCP Atrium was not clearly 
+indicated in the Agency’s APP nor was a Project Procurement Management Plan (PPMP) 
+prepared by the Property Office which is the concerned end-user unit.  The project on the 
+construction of roof extension with an ABC of ₱400,000.00 should be clearly indicated in 
+the APP which also suggests the mode of procurement. The implementation of a project 
+that is not clearly indicated in the APP not only indicates the agency’s non-compliance 
+with pertinent provisions of RA 9184 but also shows the laxity of the concerned officials 
+to meticulously and prudently plan the procurement of this specific project. 
+
+ 
+c) Lack of documentary requirements 
+
+ 
+c.1. No contract of agreement, inspection report and certificate of acceptance 
+ 
+
+96. Item V.D.8 of Annex H of the IRR of RA 9184 which provides the specific 
+guidelines/procedures for Shopping or Small Value Procurement states that BAC shall 
+prepare and send the Request for Quotations or Request for Proposals (RFQs/RFPs) to at 
+least three (3) suppliers, contractors or consultants of known qualifications.  This, 
+notwithstanding, those who responded through any of the required postings shall be 
+allowed to participate. Receipt of at least one (1) quotation is sufficient to proceed with the 
+evaluation thereof.  It further provides that except for those with ABCs equal to Fifty 
+Thousand Pesos (₱50,000.00) and below, RFQs shall be posted for a period of three (3) 
+calendar days in the PhilGEPS website, website of the Procuring Entity, if available, and 
+at any conspicuous place reserved for this purpose in the premises of the Procuring Entity. 
+
+ 
+
+
+
+61 
+ 
+
+97. The agency posted the RFQ in the PhilGEPS website on December 19, 2019 up to 
+December 23, 2019, but it was not posted in the NRCP’s website.  Likewise, there was no 
+proof that the RFQ was posted in conspicuous places within the agency premises nor did 
+the NRCP send the RFQ to at least three contractors to have a comparison of a reasonable 
+cost, since no abstract of quotation was attached to the DV of the advance payment.  
+
+ 
+98. Relatively, the proponent submitted the quotation on December 17, 2019 with the 
+project cost of ₱391,410.84, but the NRCP did not prepare a contract of agreement for the 
+project, instead it issued to the contractor Job Order No. 19-12-091 dated December 23, 
+2019 with the project cost of the same amount. 
+
+ 
+99. Further, the DV for the final payment is not supported with the Inspection Report 
+and the Certificate of Acceptance, as proof on the completion of the project.  On the 
+contrary, the Abstract of Quotation was attached to the final payment which should be a 
+supporting document of the advance payment. 
+
+ 
+100. The condition cited above is not indicative of the widest possible dissemination of 
+the RFQ; thus, it could not be said that equal opportunity was given to private contracting 
+parties who are eligible and qualified to participate in the proposals and the government 
+was not afforded with the most advantageous and reasonable price. 
+
+ 
+c.2. No official receipts - ₱391,410.84 
+ 
+
+101. Item 6, Section 4 of Presidential Decree No. 1445 (PD 1445) states that “Claims 
+against government funds shall be supported with complete documentation.” 
+
+ 
+102. Verification of the DVs showed that payment was not supported with the Official 
+Receipts (OR) as a proof of the payment, thus, in violation of the provision in PD 1445, as 
+detailed in Table 10 below. 
+ 
+
+Table 10. Summary of transactions without OR 
+Date LDDAP /DV No. Particulars Amount Remarks 
+
+5-Feb-2020 
+LDDAP-
+ADA. 
+6602 
+
+50% payment for the supply 
+and labor for the roofing 
+extension of NRCP Atrium 
+
+195,705.42 
+No OR attached to the 
+DV 
+
+16-Mar-2020 
+LDDAP-ADA. 
+6750 
+
+Full payment for the supply of 
+labor and materials for the 
+roofing extension of NRCP 
+Atrium 
+
+195,705.42 
+
+Sales invoice attached 
+to the DV for the whole 
+contract price, no 
+inspection report and 
+certificate of acceptance 
+
+  Total ₱391,410.84  
+ 
+
+103. The above procurement cannot be ascertained or validated due to incomplete 
+documentation, thus affecting the validity of the claims/payment. 
+
+ 
+ 
+ 
+ 
+
+
+
+62 
+ 
+
+d) Advance payment of 50% of the contract price - ₱195,705.42 
+ 
+
+104. Section 4.1. Annex E of the IRR of RA 9184 provides that the procuring entity 
+shall, upon a written request of the contractor which shall be submitted as a contract 
+document, make an advance payment to the contractor in an amount not exceeding fifteen 
+percent (15%) of the total contract price, to be made in lump sum or, at the most, two 
+installments according to a schedule specified in the Instructions to Bidders and other 
+relevant tender documents. 
+
+ 
+105. Verification of the documents attached in the DV revealed that the contractor 
+submitted its work plan showing the work weeks and the date when to start the project.  It 
+was indicated in the work plan that the project started January 27, 2020 and will be 
+completed February 23, 2020. 
+
+ 
+106. It can be gleaned from Table 10 that the NRCP made an advance payment to the 
+contractor on February 5, 2020, equivalent to 50% of the contract price which amounted 
+to ₱195,705.42.  Hence, a clear violation of the above provision, to make an advance 
+payment to the contractor in an amount not exceeding fifteen percent (15%) of the total 
+contract price. Management commented that they failed to consider the applicability of the 
+15% provision as the project will be completed in a month’s time. 
+
+ 
+107. The conditions and deficiencies noted clearly denote that the NRCP Management 
+did not fully comprehend several provisions in the 2016 revised IRR of RA 9184, otherwise 
+known as the Government Procurement Reform Act, thus, NRCP demonstrated poor 
+planning in their procurement process and the government is not afforded with the most 
+advantageous and reasonable price. 
+
+ 
+108. We recommended and Management agreed to: 
+
+ 
+
+a. submit a written explanation for the: (i) non-conduct of the competitive 
+bidding; (ii) no detailed information of the undertaking in the APP; (iii) no 
+
+contract of agreement; and (iv) 50% advance payment;  
+ 
+
+b. require the contractor to submit the OR of the two payments, to avoid 
+audit disallowance;  
+
+ 
+c. henceforth, comply with the requirements of the provisions in the 2016 
+
+revised IRR of RA 9184 to have transparency in the procurement process 
+
+and the full dissemination of bid opportunities to suppliers and contractors 
+
+of known qualifications; and 
+ 
+
+d. require the BAC and/or the Property Officer to review and comply with 
+the provisions under the 2016 revised IRR of RA 9184 as a guide in all the 
+
+procurement activities of the NRCP.  
+ 
+
+ 
+
+
+
+63 
+ 
+
+Procurement of airline tickets from travel agencies - ₱235,150.00 
+ 
+109. Airline tickets for official travels with the total cost of ₱235,150.00 were 
+procured from various travel agencies, contrary to Section 20 of the FY 2020 General 
+
+Appropriations Act; thus, it could not be determined if the government was afforded 
+
+with the most advantageous price of transportation. 
+ 
+110. Section 20 of RA 11465 or the FY 2020 General Appropriations Act (GAA), 
+provides that all agencies of the government shall purchase its common-use supplies 
+requirement from the Procurement Service (PS) as mandated under LOI No. 755 dated 
+October 18, 1978, EO No. 359, AO No. 17, s. 2011 and such other guidelines issued 
+thereon. 
+ 
+111. Since airline tickets were already considered as common-use supplies, based on the 
+guidelines set by the DBM, all common-use supplies should be purchased from the PS-
+DBM.  The procurement by the NRCP of the plane tickets from various travel agencies 
+which amounted to ₱235,150.00 is a clear violation of Section 20 of the FY 2020 GAA 
+aside from the fact that the NRCP has already have a GFA with the PS-DBM and advance 
+payment was already made.  
+
+ 
+112. Management reasoned that these procurements are for the travel requirements of 
+the DOST-GIA projects, charged to trust fund. Due to convenience, considering these are 
+small projects, they resorted to procure airline tickets from various travel agencies instead 
+of making an advance payment to the PS-DBM for trust fund. 
+
+ 
+113. Due to this practice, there is no proof that the most advantageous price and terms 
+were obtained for the government considering that the cost of airfare as well as the terms 
+vary from one travel agency to another. 
+
+ 
+114. We recommended and Management agreed to stop the practice of procuring 
+airline tickets from private travel agencies. 
+
+ 
+
+Advance payment of 50 percent of the contract cost 
+ 
+
+115. The advance payment of 50 percent of the contract cost to consultants and 
+project leaders is in violation of the 2016 revised IRR of RA 9184.  
+
+ 
+
+116. The NRCP engaged the professional services of private consultants or project 
+leaders, for their individual expertise to implement the various basic research projects of 
+the former.  The said undertakings are covered with Contract of Service or Memorandum 
+of Agreement (MOA) which identifies the NRCP as the Implementing Agency. 
+ 
+
+117. Section 1, Annex F of the 2016 revised IRR of RA 9184 provides the contract 
+implementation guidelines for the procurement of consulting services.  The government, 
+as it considers fair and reasonable, may allow advance payment to the Consultant in the 
+amount which shall not exceed fifteen percent (15%) of the contract amount to cover the 
+
+
+
+64 
+ 
+
+cost of mobilization, subject to the posting of an irrevocable standby letter of credit issued 
+by an entity acceptable to the agency and of an amount equal to the advance payment. The 
+advance payment shall be repaid by the Consultant by deducting from his progress 
+payments such sum as agreed upon during the contract negotiations until fully liquidated 
+within the duration of the contract. 
+ 
+118. Advance payments were made to consultants and RDLs by the NRCP more than 
+the threshold of 15 percent of the contract cost, which is a clear violation of the above 
+provision in the 2016 revised IRR of RA 1984. Percentage of advance payment ranges 
+from 20% to 50% of the contract cost, resulting in the government funds being tied up in 
+the hands of these private individuals which could have been used for other government 
+priority projects. 
+
+ 
+119. According to Management, payments for consultants and RDLs are output-based 
+as stipulated in the MOA; therefore, initial payments are based on the percentage of output. 
+     
+120. We recommended and Management agreed to comply with the requirements 
+of the provisions in the IRR of RA 9184 with regard to the advance payment and all 
+
+procurement activities of the NRCP.  
+ 
+
+Other Compliance Issues 
+
+ 
+
+Compliance with Mandatory Accounts 
+ 
+
+121. For CY 2020, the status of compliance by the NRCP on the withholding and 
+remittance of taxes, premiums and loan installments to concerned government institutions 
+is summarized in Table 11. 
+ 
+
+Table 11.  Status of Compliance by NRCP on Tax Laws, GSIS, PhilHealth and Pag-IBIG 
+
+Area 
+Account 
+Affected 
+
+Year-End 
+Balances 
+
+Remarks 
+
+Compliance 
+with Tax Laws 
+
+Due to BIR P628,993.58 
+
+The Council complied with BIR regulations on the 
+withholding of taxes from taxable income of employees 
+and from payments to suppliers/dealers. During CY 2020, 
+the Council deducted a total amount of ₱5,675,554.49 for 
+compensation, VAT, Expanded and Percentage Taxes 
+and remitted a total of P5,046,560.91. The balance of 
+Due to BIR of P628,993.58 was remitted in January 2021. 
+
+Deduction and 
+Remittance of 
+GSIS premiums 
+
+Due to 
+GSIS 
+
+P49,922.80 
+
+The Council complied with prompt remittances to the 
+GSIS. During CY 2020, the Council deducted a total 
+amount of ₱3,666,585.56 and remitted a total of 
+P3,616,662.76.  The balance of Due to GSIS of 
+P49,922.80 was remitted to the GSIS in January 2021.  
+
+Deduction and 
+Remittance of 
+PhilHealth 
+premiums 
+
+Due to 
+PhilHealth 
+
+P8,094.63 
+
+The Council complied with prompt remittances to 
+PhilHealth. During CY 2020, the Council deducted a total 
+amount of ₱247,367.43 and remitted a total of 
+P239,272.80. The balance of Due to PhilHealth of 
+P8,094.63 was remitted to PhilHealth in January 2021. 
+
+
+
+65 
+ 
+
+Area 
+Account 
+Affected 
+
+Year-End 
+Balances 
+
+Remarks 
+
+Deduction and 
+Remittance of 
+Pag-IBIG 
+premiums 
+
+Due to 
+Pag-IBIG 
+
+P67,088.60 
+
+The Council complied with prompt remittances to Pag-
+IBIG. During CY 2020, the Council deducted a total 
+amount of. amounting to ₱778,078.99 and remitted a 
+total of P710,990.39, leaving a balance of P67,088.60. 
+
+ 
+
+Gender and Development  
+ 
+122. The NRCP allocated P4,820,059.00 or 5.25 percent of its total appropriations 
+for GAD activities pursuant to GAA FY 2020 provisions and Joint Circular No. 2012-
+
+01 of the Philippine Commission on Women, National Economic and Development 
+
+Authority, and Department of Budget and Management (PCW-NEDA-DBM). 
+
+However, only P1,179,445.32 or 24.47 percent of the GAD budget was expended.  
+
+ 
+123. Section 31 of the General Provisions of the General Appropriations Act for FY 
+2020 states that all agencies of the government shall formulate a GAD Plan designed to 
+address gender issues within their concerned sectors or mandate and implement the 
+applicable provisions under RA 9710 or Magna Carta of Women, Convention on the 
+Elimination of all Forms of Discrimination Against Women, the Beijing Platform for 
+Action, the Philippine Plan for Gender-Responsive Development (1995-2025) and the 
+Philippines Development Plan (2017-2022). 
+ 
+124. Further, it provides that the GAD Plan shall be integrated in the regular activities 
+of the agencies, which shall be at least five percent (5%) of their budgets for activities 
+which relate to GAD. For this purpose, activities currently being undertaken by agencies 
+which shall relate to GAD or those that contribute to poverty alleviation, economic 
+empowerment especially of marginalized women, protection, promotion and fulfillment of 
+women’s human rights, and practice of gender-responsive governance are considered 
+sufficient compliance with said requirement.  The preparation and submission of the annual 
+GAD Plan and Budget (GPB) and annual GAD Accomplishment Report shall be subject 
+to the guidelines issued by the agencies concerned. 
+  
+125. Item 3.4 of the PCW-NEDA-DBM Joint Circular No. 2012-01 provides that 
+mainstreaming gender perspectives in agency PAPs to attain the desired outcomes for GAD 
+shall be a priority in GAD planning and budgeting. Using the 5% GAD budget for gender 
+mainstreaming is a way for agencies to influence the entire agency program, plan and 
+budget. To aid gender mainstreaming, agencies shall perform gender analysis using 
+existing tools, such as the Harmonized Gender and Development Guidelines (HGDG), to 
+ensure that the different concerns of women and men are addressed equally and equitably 
+in their PAPs. Activities to address these differential concerns through capacity 
+development on GAD or GAD-focused activities shall be included in agency GAD Plan 
+and Budgets (GPBs). 
+ 
+ 
+ 
+
+
+
+66 
+ 
+
+126. Audit of the NRCP GAD activities showed that the agency was able to allocate 
+P4,820,059.00 or 5.25 percent of its total appropriations. However, it failed to maximize 
+the allocated budget because two of the attributed programs/projects funded in 2020 were 
+scheduled to be implemented in 2021, thus, there is no accomplishment yet to be included 
+in the GAD AR for 2020. The said programs/projects make the 74.16 percent of the GAD 
+budget, adversely affecting its accomplishment and utilization. 
+
+ 
+127. We recommended and Management agreed to require the Focal Person for 
+GAD to diligently prepare the GAD plan for every year taking into consideration the 
+
+timeline of attributed programs, and maximize its allocated budget by implementing 
+
+activities as planned.  
+
+ 
+
+Hiring and payment of Contractual and Job Order Personnel 
+ 
+128. A total of 37 Contractual Personnel were hired by the NRCP as at December 31, 
+2020. These employees performed administrative works and other functions needed by 
+Management. Their wages were recorded under the Other Professional Services account 
+totaling ₱9,677,328.30. 
+ 
+
+Implementation of Senior Citizens and Differently-abled Persons Program 
+ 
+
+129. Management failed to submit plans, projects and activities for CY 2020, 
+together with the accomplishments to address the concerns of senior citizens and 
+
+differently-abled persons, insofar as it relates to their mandated functions, pursuant 
+
+to Section 32 of the General Provisions of Republic Act (RA) No. 11465, otherwise 
+
+known as the General Appropriations Act (GAA) for FY 2020. 
+
+ 
+
+130. Section 32 of RA 11465 provides that: 
+ 
+
+ “All agencies of the government shall formulate plans, programs and projects 
+intended to address the concerns of senior citizens and person with disability, 
+in so far as it relates to their mandated functions, and integrate the same in 
+their regular activities.  Moreover, all government infrastructure and facilities 
+shall provide architectural or structural features, designs or facilities that will 
+reasonably enhance the mobility, safety and welfare of persons with disability 
+pursuant to Batas Pambansa Blg. 344 and R.A. No. 7277, as amended.” 
+
+ 
+131. Despite follow-ups with Management, the NRCP failed to submit plans, projects 
+and activities, together with their accomplishments to address the concerns of Senior 
+Citizens and Differently-Abled Persons for CY 2020.   
+ 
+132. We recommended and Management agreed to, henceforth, formulate and 
+implement plans, programs and projects intended to address the concerns of senior 
+
+citizens and differently-abled persons, and submit the accomplishment reports to 
+
+COA for validation and reporting purposes, in compliance with existing laws, rules 
+
+and regulations. 
+
+ 
+
+
+
+67 
+ 
+
+Youth Development 
+ 
+133. The Council failed to conduct programs/activities related to youth development as 
+required under Section 33 of the General Provisions of RA 11465 due to pandemic 
+restrictions. However, the NRCP conducted a series of webinars called “Kapakanan ng Tao 
+sa Oras ng Pandemya” (KTOP) and included a topic regarding teenage pregnancy during 
+COVID-19 pandemic. 
+ 
+134. We recommended and Management agreed to conduct programs/activities 
+related to youth development, and thereafter, submit its accomplishment report to 
+
+the Audit Team for validation and reporting purposes. 
+ 
+Compliance with Property Insurance Law   
+ 
+135. The Council insured all their insurable property, assets and interest with the General 
+Insurance Fund (GIF) administered by the Government Service Insurance System (GSIS).  
+The total insurance expense for CY 2020 amounted to ₱65,576.85.  
+ 
+Enforcement of Settlement of Suspensions, Disallowances and Charges (SASDC) 
+ 
+136. The total suspensions, disallowances and charges found in the audit of various 
+transactions as at December 31, 2020, based on the Notices of Suspension 
+(NS)/Disallowance (ND)/Charge (NC)/Settlement of Suspension/Disallowance/Charge 
+(NSSDC) issued by this Commission, is summarized in Table 12 below. 
+ 
+
+Table 12. Statement of Audit Suspensions, Disallowances and Charges (SASDC) 
+
+Particulars 
+Beginning 
+Balance 
+
+(As of 12/31/2019) 
+
+This period 
+January 1 to December 31, 2020 
+
+Ending 
+Balance 
+
+(As of 12/31/2020)  NS/ND/NC  NSSDC  
+
+NS P - - - - 
+
+ND  4,366,055.55 P 99,893.99 - 4,465,949.54 
+
+NC  - - -  
+
+Total P 4,366,055.55 P 99,893.99 - 4,465,949.54 
+
+ 
+137.   The balance as at December 31, 2020, pertains to the Longevity Pay (LP) for CYs 
+2016, 2017 and 2018. 
+ 
+138. We recommended and Management agreed to strictly enforce the settlement 
+of all disallowances pursuant to Section 7 of the 2009 Rules and Regulations on 
+
+Settlement of Accounts (RRSA). 
+  
+
+
+
+

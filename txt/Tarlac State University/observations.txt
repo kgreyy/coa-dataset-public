@@ -1,0 +1,5410 @@
+
+
+
+
+
+
+PART II –AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+The audit of financial transactions and operations of the Tarlac State University (TSU) for calendar year 2020 disclosed some observations that needed improvements and/or corrections. Our observations with the corresponding recommendations are discussed in detail in the succeeding paragraphs.
+
+
+
+Financial and Compliance Audit
+
+
+
+Improper procedures in the disbursement, recording and reporting of Petty Cash Fund-₱184,246.54 
+
+
+
+1)	The procedures in the disbursement, recording and reporting of the Petty Cash Fund (PCF) were not properly observed, inconsistent with Section 35 of Chapter 6 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I and Appendix 48, Volume II of the same Manual, resulting in the improper use of the PCF in the payment of Fund 01 payables and regular operating expenses amounting to ₱153,895.94 and ₱30,350.60, respectively. Moreover, in the absence of necessary check marks in Boxes C and D on the Petty Cash Vouchers (PCVs), the responsibility and accountability of the requesting personnel/certifying officers were not established, thus, unnecessarily placing the University Funds at the risk of being misused. 
+
+
+
+1)	Petty Cash Fund (PCF), as defined in Section 2(r), Chapter 6 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, refers to the amount granted to duly designated Petty Cash Fund Custodian (PCFC) for payment of authorized petty or miscellaneous expenses which cannot be conveniently paid through checks/ List of Due and Demandable Accounts Payable-Advice to Debit Accounts (LDDAP-ADA).
+
+
+
+2)	For CY 2020, a PCF under Fund 05 amounting to ₱20,000.00 was established, approved and granted to the designated PCFC. In the audit of the Fund, the Audit Team noted the following deficiencies:
+
+
+
+--	Misuse of PCF to pay withheld contributions from employees’ salaries under Fund 01
+
+3)	Verification of the replenishments of petty cash expenses disclosed that approved Fund 01 disbursement vouchers (DVs) covering payment of the contractual employees’ monthly healthcare insurance and the Tarlac State University (TSU) non-academic association contributions withheld from their monthly salaries were paid thru the PCF. The journal entry voucher (JEV) drawn to recognize the replenishment of the Fund 01 payables charged against the Fund, showed the following journal entries:
+
+
+
+
+
+
+
+Fund 05 –PCF Disbursement
+
+Fund 01- Disbursement
+
+Account Description
+
+Debit
+
+Credit
+
+Account Description
+
+Debit
+
+Credit
+
+Due from Other Funds
+
+₱11,790.00
+
+
+
+Other Payables
+
+₱11,800.00
+
+
+
+Office Supplies Expenses
+
+    629.25
+
+
+
+Bank Charges - Loans/ Borrowings
+
+       50.00
+
+
+
+Other Maintenance and Operating Expenses  
+
+ 5,888.12
+
+
+
+Due to Other Funds
+
+
+
+₱11,790.00
+
+Cash in Bank - Local Currency, Current Account
+
+
+
+18,307.37
+
+Other Payables
+
+
+
+       60.00
+
+
+
+4)	As could be gleaned from the aforementioned journal entries, the expenses payable under Fund 01, representing withheld monthly healthcare insurance and organization contributions of employees, were fully replenished through the use of the PCF by treating them as regular intra-fund transfer transactions.  This practice is a departure from Section 35, Chapter 6 of the GAM for NGAs, Volume 1, particularly in the observance of the Imprest System in managing the PCF, which requires that all replenishments shall be directly charged to the expense account and at all times, the PCF shall be equal to the total cash on hand and the unreplenished expense. As such, the simple accounting of petty cash transaction turned out to be a circuitous recording of intra-fund transfer transactions.  The Chief of Finance and the PCFC allowed the improper use of the Fund for transactions which were not in essence a petty or miscellaneous expense that cannot be paid by checks. (Underscoring and emphasis supplied.)
+
+
+
+5)	As observed, the payment/replenishment of the Fund 01 payables was not appropriately supported by approved Petty Cash Vouchers (PCVs), instead DVs were attached.  Based on the documentation, it is apparent that the disbursements were purposely for payment thru Advice to Debit Account (ADA). Based on our audit, summarized below are the disbursements charged to the PCF, details of which are shown in Appendix A; to wit:
+
+
+
+Period Covered
+
+Disbursements Paid from the PCF
+
+
+
+Fund 01
+
+Fund 05
+
+Total
+
+July 2019
+
+₱13,722.87
+
+₱3,495.00
+
+₱17,217.87
+
+August 2019
+
+22,407.45
+
+912.00
+
+23,319.45
+
+September 2019
+
+12,090.23
+
+14,772.24
+
+26,862.47
+
+October 2019
+
+13,289.67
+
+4,857.00
+
+18,146.67
+
+November 2019
+
+10,418.55
+
+5,205.25
+
+15,623.80
+
+December 2019
+
+1,121.12
+
+7,759.83
+
+8,880.95
+
+January 2020
+
+16,842.29
+
+1,761.00
+
+18,603.29
+
+February 2020
+
+11,227.24
+
+4,688.45
+
+15,915.69
+
+March 2020
+
+0.00
+
+6,553.06
+
+6,553.06
+
+April 2020
+
+3,400.00
+
+0.00
+
+3,400.00
+
+May 2020
+
+10,122.24
+
+0.00
+
+10,122.24
+
+June 2020
+
+9,790.00
+
+12,281.43
+
+22,071.43
+
+July 2020
+
+11,416.16
+
+2,451.00
+
+13,867.16
+
+August 2020
+
+14,446.12
+
+5,324.00
+
+19,770.12
+
+September 2020
+
+3,600.00
+
+12,912.12
+
+16,512.12
+
+Total
+
+₱153,893.94
+
+₱82,972.38
+
+₱236,866.32
+
+Percentage of Utilization
+
+65%
+
+35%
+
+100%
+
+
+
+6)	As could be gleaned from the above 	data, the mischarges to the PCF constituted a bigger portion of the total reported disbursements.  
+
+
+
+--	PCF utilized for payment of ineligible expenses-₱30,350.60
+
+7)	Further verification showed that the PCF was also utilized for the defrayment of Fund 05 regular/mandatory obligations amounting to ₱30,350.60 which are not eligible for payment out of the PCF as shown in the following transactions:
+
+
+
+DATE
+
+PCV No.
+
+Payee
+
+Particulars
+
+Amount
+
+06/09/2019
+
+PCF19009141
+
+Motor Pool/LTO/Glorias Emission Testing Center
+
+Registration, smoke test, and stencil
+
+ ₱5,458.12 
+
+17/09/2019
+
+PCF19009143
+
+Motor Pool/LTO/Glorias Emission Testing Center
+
+Registration, smoke test, and stencil
+
+ 5,578.12 
+
+12/03/2020
+
+PCF20003197
+
+Motor Pool/LTO/Glorias Emission Testing Center
+
+Registration Fee, smoke test & stencil of engine & chassis
+
+ 3,029.06 
+
+05/06/2020
+
+PCF20006198
+
+Motor Pool/LTO/Glorias Emission Testing Center
+
+Registration Fee, smoke test & stencil of engine & chassis, SLF 324
+
+ 2,829.06 
+
+17/06/2020
+
+PCF20006201
+
+Motor Pool/LTO/Glorias Emission Testing Center
+
+Registration Fee, smoke test & stencil of engine & chassis, SHK 314
+
+ 2,829.06 
+
+30/06/2020
+
+PCF20006206
+
+Motor Pool/LTO/Glorias Emission Testing Center
+
+Registration Fee, smoke test & stencil of engine & chassis, 
+
+ 2,879.06 
+
+03/09/2020
+
+PCF20009226
+
+Motor Pool/LTO/Glorias Emission Testing Center
+
+Registration Fee, smoke test & stencil of engine & chassis, SKV 635
+
+ 4,969.06 
+
+08/09/2020
+
+PCF20009227
+
+Motor Pool/LTO/Glorias Emission Testing Center
+
+Registration Fee, smoke test & stencil of engine & chassis, SLF 159
+
+ 2,779.06 
+
+Total
+
+
+
+
+
+
+
+₱30,350.60
+
+
+
+8)	Moreover, the copy of the Land Transportation Office (LTO) Registration paid under PCF 20006198 dated June 5, 2020 was not attached to the paid DV.
+
+
+
+--	Improperly filled-up PCV
+
+9)	Scrutiny of Boxes C and D of the Fund 05 PCF vouchers showed that the accountable personnel concerned failed to indicate the proper check marks on the appropriate boxes to signify compliance with the requirement that all disbursements out of the PCF shall be covered by duly accomplished and approved PCVs supported with cash invoices, ORs or other evidences of disbursement. From the collated evidences, a sum of ₱82,401.05 out of ₱82,972.38 or 99.31% of the paid expenses were not backed up by properly accomplished PCVs, as detailed in Appendix B and summarized in the table below:
+
+
+
+Period Covered
+
+Total Paid Expenses
+
+With Improperly filled-up PCVs
+
+With Properly Filled-up PCV
+
+July 2019
+
+₱      3,495.00
+
+₱        3,495.00
+
+₱         0.00
+
+August 2019
+
+912.00
+
+912.00
+
+0.00
+
+September 2019
+
+14,772.24
+
+14,772.24
+
+0.00
+
+October 2019
+
+4,857.00
+
+4,857.00
+
+0.00
+
+November 2019
+
+5,205.25
+
+5,205.25
+
+0.00
+
+December 2019
+
+7,759.83
+
+7,188.50
+
+ 571.33
+
+January 2020
+
+1,761.00
+
+1,761.00
+
+0.00
+
+February 2020
+
+4,688.45
+
+4,688.45
+
+0.00
+
+March 2020
+
+6,553.06
+
+6,553.06
+
+0.00
+
+April 2020
+
+0.00
+
+0.00
+
+0.00
+
+May 2020
+
+0.00
+
+0.00
+
+0.00
+
+June 2020
+
+12,281.43
+
+12,281.43
+
+0.00
+
+July 2020
+
+2,451.00
+
+2,451.00
+
+0.00
+
+August 2020
+
+5,324.00
+
+5,324.00
+
+0.00
+
+September 2020
+
+12,912.12
+
+12,912.12
+
+0.00
+
+Total
+
+₱     82,972.38
+
+₱ 82,401.05
+
+₱    571.33
+
+Percentage
+
+100%
+
+99.31%
+
+0.69%
+
+
+
+10)	The afore-cited deficiencies described above may open up opportunity for Agency Officials/personnel to simply bypass the usual disbursement procedures and documentation required by law, rules and regulations. If not properly monitored, eventually, such practice may lead to the misappropriation of the University funds.
+
+
+
+11)	We recommended and management agreed to direct the Chief of Finance and the Petty Cash Fund Custodian to take the following courses of action:
+
+
+
+	a)	 Stop the practice of using the PCF in paying Fund 01 payables for the withheld employees’ healthcare and association’s contributions; 
+
+
+
+	b)	 Ensure that disbursements are directly made under Fund 01 to avoid the circuitous recording of financial transactions, since intra-fund transfers are not eligible for payment out of the PCF; 
+
+
+
+	c)	Stop the practice of using the PCF in paying mandatory obligations and/or regular operating expenses. Bear in mind that the PCF is maintained for payment of authorized petty or miscellaneous expenses which cannot be conveniently paid through checks/LDDAP-ADA; 
+
+
+
+	d)	Substantiate all disbursement claims, though petty in nature, with the required documentation;
+
+ 
+
+	e)	Observe the proper use and accomplishment of the PCF Voucher as directed in the Instructions of Appendix 48, GAM for NGAs, Volume II to identify responsibility and accountability on the use of the Fund; and
+
+  
+
+	f)	Strictly follow the procedures in the utilization and liquidation of PCF as provided under Section 35, Chapter 6 of the same Manual, Volume I.
+
+
+
+12)	Management commented that they have resolved the matter by initially opening a new Petty Cash Fund under Fund 01 and closed the PCF for Fund 05 ensuring that PCF disbursement is directly made under Fund 01.
+
+
+
+Insufficient supporting documents of reported Accounts Receivables-₱7,344,551.61  
+
+
+
+2)	The validity and collectability of some items included under Accounts Receivable  amounting to ₱7,344,551.61  were doubtful due to (i) lack of supporting documents to prove the balance of ₱3,227,950.95  in the subsidiary records; (ii) failure of the University personnel concerned to exhaust available remedies to collect long outstanding student loans of  ₱782,300.00 and unpaid student tuition fees of ₱3,334,300.66; and (iii) failure of management  to file request for authority to write –off dormant receivables contrary  to COA Circular No. 2016-005 dated December 19, 2016, depriving the University of the funds for its operation and affecting the fair presentation of the accounts in the financial statements. 
+
+
+
+1)	Item 5.4 of COA Circular No. 2016-005 defines Dormant Receivable Account as accounts which balances remained inactive or non-moving in the books of accounts for ten years or more and where settlement/collectability could no longer be ascertained.
+
+2)	The records for receivables disclosed uncollected student tuition fees of ₱6,562,251.61 and outstanding loans of ₱782,300.00 which were extended to students under the CHED Student Financial Assistance Program (STUFAP) and recognized in the Fund 05 books of accounts since the years 2007 to 2010, as detailed below:
+
+
+
+Name
+
+Date recorded
+
+Fund
+
+Particulars
+
+Amount
+
+HCMI
+
+12/24/2008
+
+05
+
+To set up receivable from HCMI for the period April 1 to October 31, 2008 (3rd billing) for hostel accommodation of foreign students
+
+₱3,227,950.95
+
+Student Financial Assistance Program (STUFAP)
+
+12/28/2007
+
+05
+
+To take up loans granted to students (STUFAP)
+
+782,300.00
+
+Unpaid Tuition Fees of Students
+
+2006-2010
+
+05
+
+To take up uncollected tuition fees from students
+
+3,334,300.66
+
+Total
+
+
+
+
+
+
+
+₱7,344,551.61
+
+
+
+3)	The above receivables, which represents 20% of the total Accounts Receivable of   ₱37,580,024.76, have been in a state of dormancy for over ten to 13 years. Likewise, the provision for impairment loss on dormant accounts as of December 31, 2020 was  set by management at 5% only, thus, inadequate. 
+
+
+
+4)	Further audit revealed the following particularity and other information about the aforementioned receivables; to wit:
+
+
+
+--	The Accounting Department failed to provide the supporting documents to prove the propriety of the HCMI claim and the correctness of the posting in the subsidiary ledger (SL). The Audit Team obtained a copy of the Minutes of the 62nd Regular Meeting of the TSU Board of Regents held on May 18, 2006 which included under Part IV-A the description of the HCMI as a multinational institution specializing in Health Care management. A discussion for a possible Memorandum of Agreement (MOA) with HCMI was presented during the meeting with the adoption of Resolution No. 30, s. 2006, approving in principle the MOA entered into by and between the Tarlac State University and the HCMI subject to compliance with all the legal requirements as prescribed by law. However, the Accounting Office was not able to provide the Audit Team with a copy of the approved MOA ever since its execution. 
+
+
+
+--	The past years’ documents taken from the archive showed that a receivable was set up on December 24, 2008 under Journal Entry Voucher (JEV) No. 2008-12-010437 covering the 3rd billing for the payment of accommodation of foreign students who stayed in the University Hostel for the period covering April 1 to October 31, 2008.  The students concerned stopped paying their remaining balances thereafter. 
+
+
+
+--	Non-interest bearing loans were granted under the STUFAP to finance the educational expenses of less privileged but deserving students. About 235 student-borrowers availed financial loans for educational expenses of the less-privileged but deserving students. Verification of loan documents showed that in the year 2019, the University required from the student borrowers the submission of Accomplishment Report to the Endowment and Scholarship Office. The last loan repayment was received by the University on July 26, 2019 as per OR No. 9971909 amounting to ₱16,484.96. From then on, no movement was noted on the Accounts Receivable –STUFAP.
+
+
+
+	The Scholarship Office tried a house-to-house visitation of students who have outstanding obligations, but due to the COVID-19 pandemic, they temporarily stopped such collection strategy.
+
+
+
+--	For the unpaid tuition fees of students covering the period from the 1st Semester of AY 2006-2007 to the 1st Semester of AY 2010-2011, no collection was reported for the past ten years.
+
+
+
+5)	The Audit Team earlier reminded the Chief of Finance about the provisions of COA Circular No. 2016-005 for the possible write-off of the dormant accounts.  Write-off of dormant accounts is the process of derecognizing the Asset account and the corresponding Allowance for Impairment from the books of accounts and transferring the same to the Registry of Accounts Written-Off (RAWO). This does not mean condoning/extinguishing the obligation of the accountable officer/debtor (Item 5.9 of COA Circular No. 2016-005). Nonetheless, due to the intricate requirements of the Circular, management has yet to file its request for the write-off of the dormant receivables as of year-end.
+
+
+
+6)	We recommended and management agreed to: 
+
+
+
+a)	Direct the Chief of Finance to (i) ensure that the recorded receivables are substantiated by valid and complete documents to prove their existence and propriety; (ii) conduct regular and periodic verification, analysis, and validation of receivables to determine the debtors concerned; and (iii) monitor past due/dormant accounts for appropriate write-off supported with the required documents under Item 8.3 of COA Circular No. 2016-005;
+
+
+
+b)	Require the personnel in charge of collecting the STUFAP loan to exhaust all possible remedies in collecting the receivables, both active and inactive accounts, in order to raise more funds to assist the needy but deserving students who are financially challenged; 
+
+
+
+c)	Re-assess the University’s provision for impairment based on current and historical data and in accordance with the International Public Sector Accounting Standards (IPSASs); and 
+
+
+
+d)	Pursue the filing of request from the Commission on Audit for write-off of dormant receivable accounts, supported with the required documents enumerated in Item 8.0, supra, thru the Office of the Audit Team Leader and/or Supervising Auditor. 
+
+
+
+1)	Management responded that the receivable from HCMI has insufficient document to ascertain the validity, existence, and propriety of the transaction, and the debtor has not been located for a long time. The Personnel in charge of the collection of STUPAP loans was directed to exhaust all possible remedies to collect the loans.  Also, the Chief of Finance has been instructed to re-assess the University’s provision for impairment.  They shall also pursue the filling of request for write-off of dormant receivables to the Commission on Audit.
+
+
+
+
+
+Inaccurate information on the balances of the Property, Plant and Equipment accounts- ₱1,944,820.19
+
+
+
+3)	The accuracy of the year-end balance of the  Property, Plant and Equipment (PPE) accounts remained doubtful because of the (a) misclassification of PPE accounts; (b) inclusion of missing/unlocated items of ₱782,795.99; (c) non-derecognition of already demolished structures and unserviceable motor vehicles of ₱1,162,024.20; and (d) unrecorded buildings and equipment found in station inconsistent with Section 111 of Presidential Decree (P.D.) No. 1445 and Section 38, Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I.
+
+
+
+1)	Section 111 of P.D. No. 1445 provides that (1) the accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government; (2) the highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+2)	Section 38 of Chapter 10, GAM for NGAs, Volume I, also provides that the entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 71) as at December 31 of each year. This shall be submitted to the Auditor concerned not later than January 31 of the following year. Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division/Unit for proper accounting/recording. (Underscoring supplied.)
+
+
+
+3)	For CY 2020, the University President created an Inventory Team to conduct the physical count of all properties of the University. The physical count commenced on September 1, 2020 with a representative from the Audit Team. A Report on the Physical Count of Property, Plant and Equipment (RPCPPE) was submitted to the Commission on Audit on February 2, 2021.
+
+
+
+4)	The Audit Team acknowledged the effort exerted by the Inventory Team to undertake an actual physical count of all PPEs owned and acquired by the University and reconciliation of the results of the physical count with the balances of the PPE in the accounting records, for the first time in several years, as claimed by management.  The Report of Physical Count of PPE (RPCPPE) as of December 31, 2020 was reconciled with the amounts recorded in the accounting books, summarized as follows:
+
+
+
+Account Name
+
+Per Accounting Records
+
+Per RPCPPE
+
+Land
+
+₱ 35,332,303.62
+
+₱ 35,332,303.62
+
+Land Improvements
+
+52,448,449.26
+
+52,448,449.26
+
+Buildings
+
+43,487,172.56
+
+43,487,172.56
+
+School Buildings
+
+662,964,120.30
+
+662,964,120.30
+
+Hospitals and Health Centers
+
+3,961,387.82
+
+3,961,387.82
+
+Hostels and Dormitories
+
+4,378,986.00
+
+4,378,986.00
+
+Other Structures
+
+0.00
+
+0.00
+
+Machinery 
+
+36,497,612.85
+
+36,497,612.85
+
+Office Equipment
+
+72,361,159.40
+
+72,361,159.40
+
+Information and Communications Technology Equipment
+
+142,424,196.79
+
+142,424,196.79
+
+Communication Equipment
+
+2,370,382.77
+
+2,370,382.77
+
+Construction and Heavy Equipment
+
+84,000.00
+
+84,000.00
+
+Disaster Response and Rescue Equipment
+
+3,292,600.00
+
+3,292,600.00
+
+Sports Equipment
+
+2,023,184.24
+
+2,023,184.24
+
+Technical and Scientific Equipment
+
+113,845,441.81
+
+113,845,441.81
+
+Motor Vehicles
+
+34,922,424.20
+
+34,922,424.20
+
+Furniture and Fixtures
+
+11,362,789.94
+
+11,362,789.94
+
+Books
+
+1,805,723.37
+
+1,805,723.37
+
+Other Property, Plant and Equipment
+
+8,166,377.75
+
+8,166,377.75
+
+Total
+
+1,231,728,312.68
+
+₱1,231,728,312.68
+
+Accumulated Depreciation
+
+(410,405,199.48)
+
+
+
+Carrying Value
+
+821,323,113.20
+
+
+
+Construction in Progress (CIP) -Buildings and Other Structures
+
+93,640,870.30
+
+
+
+Total PPE
+
+₱ 914,963,983.50
+
+
+
+
+
+
+
+--	Misclassification of PPE
+
+
+
+5)	Verification of the inventory report showed misclassifications from one account to another as exemplified in the following items:
+
+
+
+
+
+Recorded As
+
+Should be Recorded as
+
+Amount
+
+Account Name
+
+Property No.
+
+
+
+
+
+1)	Land Improvements
+
+
+
+
+
+
+
+--	RFID Shed
+
+205459
+
+Other Structures
+
+₱173,702.33
+
+--	Covered Court, San Isidro Campus
+
+207501
+
+Other Structures
+
+5,156,319.08
+
+2.   School Buildings
+
+
+
+
+
+
+
+--	GAD Building
+
+202079
+
+Buildings
+
+2,192,854.50
+
+--	Garage for Car
+
+B00042
+
+Other Structures
+
+186,735.00
+
+--	Gymnasium
+
+B00018;B00054;201126
+
+Buildings
+
+16,810,591.40
+
+--	TSU Canteen
+
+208815;208814
+
+Buildings
+
+6,081,637.56
+
+--	Steel Catwalk
+
+201129
+
+Other Structures
+
+78,900.00
+
+--	Food House Building
+
+202077
+
+Buildings
+
+8,413,912.86
+
+--	Multi-Purpose Commercial Building
+
+202076;209298
+
+Buildings
+
+23,718,699.89
+
+--	Smith Hall Hallway-concreting
+
+209208
+
+Land Improvement
+
+186,930.45
+
+--	Basketball Court, Lucinda Campus
+
+209312
+
+Other Structures
+
+305,240.75
+
+--	4 storey International Guest House, Hostel
+
+202078;208806;209119;209296;209354;209308;209272
+
+Hostels and Dormitories
+
+60,661,208.65
+
+--	2-storey Institutional Library
+
+205901;206847
+
+Buildings
+
+₱15,568,906.72
+
+--	Power Room and Guard House, San Isidro Campus
+
+206846
+
+Other Structures
+
+922,000.00
+
+3.  Hospital and Health Centers
+
+
+
+
+
+
+
+--	Hospital bed
+
+202098;209172
+
+Medical Equipment
+
+32,200.00
+
+--	Utility cart/Hospital Trolley
+
+209162
+
+
+
+22,000.00
+
+--	Pediatric bed crib
+
+209171
+
+
+
+58,000.00
+
+--	NAL Lavatory sink
+
+209173
+
+
+
+60,000.00
+
+--	Surgical sink
+
+209214
+
+
+
+160,000.00
+
+4. Hostels and Dormitories
+
+
+
+
+
+
+
+--	All 37 items under this PPE account enumerated in the RPCPPE are Hostel’s Restaurant Equipment
+
+various
+
+Other Machinery and Equipment
+
+4,378,986.00
+
+5.  Technical and Scientific Equipment
+
+
+
+
+
+--	Dental chair
+
+200002
+
+Medical Equipment
+
+119,800.00
+
+--	Orthopedic bed
+
+200799
+
+
+
+60,000.00
+
+--	Hospital bed,
+
+20080
+
+
+
+45,000.00
+
+
+
+6)	The PPE accounts to be used should conform with the account descriptions provided for in the Revised Chart of Accounts, GAM for NGAs, Volume III, as amended.
+
+
+
+--	Missing /unlocated PPE items at the time of inventory-taking- ₱782,795.99
+
+
+
+7)	During the inventory-taking, various PPE items amounting to ₱782,795.99 were found missing or were unlocated by the Inventory Team, as enumerated below:
+
+
+
+PPE Classification
+
+Name of End-User
+
+Property No.
+
+Amount
+
+1.  Machinery 
+
+
+
+
+
+
+
+--	Pressure pump 22hp
+
+Micheal Sinio
+
+206473
+
+₱18,200.00
+
+--	Deep well motor pump
+
+Micheal Sinio
+
+207235
+
+39,000.00
+
+2.  Office Equipment
+
+
+
+
+
+
+
+--	Airconditioner 2.5 hp window type
+
+J. Manalo-
+
+20254
+
+24,500.00
+
+--	Airconditioner 1.5 hp window type
+
+L. Tatu
+
+208826
+
+16,700.00
+
+--	Aircondioner 2 hp, window type
+
+A. Medrano-
+
+H00436
+
+20400.00
+
+--	Airconditioner 2 hp, window type
+
+R. Chico
+
+H00437
+
+20,400.00
+
+--	Airconditioner 2hp, window type
+
+R. Chico
+
+H 00446
+
+61,800.00
+
+--	Typewritter, Olympia
+
+M. Bayona
+
+H00449
+
+16,380.00
+
+--	Sound system
+
+W. Luis
+
+H00619
+
+19,999.99
+
+--	Airconditioner 1.5hp, window type
+
+R. Chico
+
+H00913
+
+17,200.00
+
+3.  Information and Communications Technology Equipment
+
+
+
+--	Printer laser jet
+
+A. Medrano
+
+000211
+
+16445.00
+
+--	Computer intelcore,1set
+
+A. Medrano
+
+200594
+
+26801.00
+
+--	Camera digital
+
+W. Luis-
+
+200831
+
+16,000.00
+
+--	Computer laptop
+
+A. Medrano
+
+200833
+
+85,500.00
+
+--	Camera, Digital
+
+W. Luis
+
+201496
+
+15,950.00
+
+--	Computer server
+
+Jhonel Panlilio
+
+201588
+
+79,920.00
+
+--	Computer intel core set
+
+Not identified
+
+203008
+
+22,000.00
+
+--	Projector lcd
+
+Not identified
+
+204916
+
+21,000.00
+
+--	Computer intel i3
+
+E. Caoleng
+
+204926
+
+23,700.00
+
+--	Computer intelcore,
+
+Not identified
+
+205639
+
+24,800.00
+
+--	Computer laptop, 2 units
+
+Not identified
+
+207435
+
+72,400.00
+
+--	Computer laptop
+
+A. Medrano
+
+207453
+
+28,800.00
+
+--	Computer intel i7
+
+A. Medrano
+
+207847
+
+34,400.00
+
+4.  Communication Equipment
+
+
+
+
+
+
+
+--	Cellular phone
+
+Romeo Mendoza
+
+202586
+
+20,500.00
+
+5.  Other Property, Plant and Equipment
+
+
+
+
+
+--	Stove conventional 4 burner
+
+V. Reyes
+
+203215
+
+40,000.00
+
+Total
+
+
+
+
+
+₱782,795.99
+
+
+
+8)	As of year-end, no request for relief from property accountability was received by the Commission on Audit on any of the missing/lost properties. Likewise, the Chief of Finance has not drawn the necessary adjustment for the subject properties; thus, the cost of which were still carried in the accounting books as at year-end.
+
+
+
+9)	There were reported demolished building and unserviceable motor vehicle amounting to ₱1,162,024.20 that needed to be adjusted in the accounting books, summarized as follows:
+
+
+
+PPE Classification
+
+Property No.
+
+Amount
+
+Status
+
+1. School Buildings
+
+
+
+
+
+
+
+--	Two-storey Home Economics Building
+
+B00047
+
+₱888,750.00
+
+Demolished
+
+2. Motor Vehicles
+
+
+
+
+
+
+
+Motorcycle with Plate no.SM 2322
+
+200004
+
+65,500.00
+
+Unserviceable
+
+Jeep semi stainless Plate #SAE 775
+
+E00028
+
+147,774.20
+
+
+
+Toyota Chariot FB Plate # SEY 536
+
+E00030
+
+60,000.00
+
+
+
+Total
+
+
+
+₱1,162,024.20
+
+
+
+
+
+
+
+--	Inventory items found at station during the physical count
+
+
+
+10)	The Inventory Committee found items at station during the count as follows:
+
+
+
+Location of the Items Found at Station
+
+Description
+
+College of Computer Science
+
+Printer and computer
+
+College of Business Administration
+
+Desktop Computers, printers and monitors
+
+College of Criminal Justice Education
+
+DVD player
+
+College of Public Administration and Governance
+
+Amplifiers, microphone and DVD player
+
+College of Engineering and Technology
+
+CPU and Airconditioning units
+
+Budget Office
+
+Adding machine
+
+RED Building
+
+Wooden cabinets
+
+Admission and Registration Office
+
+Computers, swivel chairs, printers and AVR
+
+Lucinda campus
+
+Unrecorded buildings: Amphitheater building; covered court and Alumni building
+
+Main campus
+
+Supply and Property Management Unit building
+
+San Isidro campus
+
+Guidance office building
+
+
+
+11)	The properties were not included in the list of PPEs used as reference in the inventory taking but were found at station during the actual physical count.  Since no one claimed that the movable items were personal property of any individual, the Inventory team listed the items as found at station, until someone will claim said items as their personal property.
+
+
+
+12)	The RPCPPE was not prepared by Fund Cluster. As such, property acquired from Fund 01, Fund 05 and Fund 06 were not easily identifiable similar to the presentation by fund cluster in the accounting books.  Segregation of PPE by fund cluster should be first made to easily draw adjustments in the PPE records.
+
+
+
+13)	 The deficiencies were discussed with the Head of the Supply and Property Management Unit (SPMU), who was also the Chairman of the Inventory Team, and assured us that all the deficiencies and other findings of the Committee will be acted upon until such time that the PPE records are duly reconciled.
+
+
+
+14)	We recommended and management agreed to take the following courses of action:
+
+
+
+a)	Direct the Chief of Finance and the Inventory Team to discuss the deficiencies noted and take the necessary steps to segregate the PPE by fund cluster and reclassify the misclassified PPE based on the account descriptions under the Revised Chart of Accounts, GAM for NGAs, Volume III, as amended; 
+
+
+
+b)	Require the Head of the SPMU to inform all accountable officers with missing property accountabilities following the procedures provided under Item 7 of the COA Circular No. 2020-006 dated January 31, 2020; 
+
+
+
+c)	Instruct the Chief of Finance to observe the procedures in Items 7, 8 and 9 of the same COA Circular for the disposition and derecognition of non-existing/missing PPEs and the required accounting entries and disclosures in the financial statements; and
+
+
+
+d)	Take the initiative to implement COA Circular No. 2020-006 which is the authority given by the Commission on Audit for a one-time cleansing of PPE accounts of government agencies to establish PPE balances that are verifiable as to existence, condition, and accountability. 
+
+Inaccurate information on the balances of the Inventory accounts- ₱20,038,386.38
+
+
+
+1)	The accuracy and correctness of the balances of the Inventories accounts amounting to ₱20,038,386.38 as at year-end were uncertain due to (a) inconsistent classification of inventory items; (b) overstatement of the account balances by ₱368,694.05 due to unadjusted recording errors; and (c) the inclusion of expired, defective, damaged and idle or non-moving items  no longer needed in the operation of the University, resulting to inaccurate and misleading inventory data and information inconsistent with Section 111 of Presidential Decree (P.D.) No. 1445.
+
+
+
+1)	Section 111 of P.D. No. 1445 provides that (1) the accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government; (2) the highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+2)	The physical count of inventory was conducted on January 5, 2021 and the Report on the Physical Count of Inventories (RPCI) was submitted to the Commission on Audit (COA) on February 3, 2021.  The inventory count was conducted by the Inventory Committee and was witnessed by a COA representative.
+
+
+
+3)	The Audit Team recognized the effort exerted by the Inventory Committee to successfully complete the physical count and facilitate the reconciliation of the inventory records of the Accounting Unit and the Supply and Property Management Unit (SPMU).
+
+
+
+4)	Review of the RPCI submitted, however, showed the following deficiencies:
+
+
+
+--	Inconsistent use of inventory account for similar items recorded in the accounting books under Fund 01 and Fund 05 
+
+
+
+5)	Review of inventory records showed that different inventory accounts were used to record the same or similar items of inventory as exemplified in the following captured data (details shown in Appendix C)
+
+
+
+Inventory Code
+
+Inventory Item Description
+
+Inventory Accounts Used in Recording
+
+Fund Cluster
+
+10404130-00-32749
+
+Bar, Deformed Steel 10mm
+
+Construction Materials Inventory
+
+05
+
+10404990-02-32749
+
+Bar, Deformed Steel 10mm -1
+
+Other Supplies Inventory
+
+05
+
+10404130-00-41684
+
+Bar, Square 10mm X 6.0m
+
+Construction Materials
+
+01
+
+10404990-02-41684
+
+Bar, Square 10mm X 6.0m-1
+
+Other Supplies and materials Inventory
+
+01
+
+10404130-00-47467
+
+Blade, Circular Saw 10" 30
+
+Construction Materials
+
+01
+
+10404990-02-47468
+
+Blade, Circular Saw 10" 40
+
+Other Supplies and Materials Inventory
+
+01
+
+10404130-00-47468
+
+Blade, Circular Saw 10" 40
+
+Construction Materials
+
+01
+
+10404130-00-33118
+
+Blade, Hacksaw
+
+Construction Materials
+
+01
+
+10404990-02-33118
+
+Blade, Hacksaw-1
+
+Other Supplies and Materials Inventory
+
+01
+
+10404990-02-52239
+
+Bolt and Nut,1/2" x 1"w/ washer
+
+Other Supplies and Materials Inventory
+
+01
+
+10404130-00-52239
+
+Bolt and Nut,1/2" x 1"w/ washer
+
+Construction Materials
+
+01
+
+10404990-02-50227
+
+Bolt and Nut,1/4" x 4"w/ washer
+
+Other Supplies and Materials Inventory
+
+01
+
+10404130-00-50227
+
+Bolt and Nut,1/4" x 4"w/ washer
+
+Construction Materials
+
+01
+
+10404990-01-35154
+
+Box Utility PVC 2 X 4 (Orange)
+
+Other Supplies and Materials Inventory
+
+01
+
+10404130-00-35154
+
+Box Utility PVC 2 X 4 (Orange)
+
+Construction Materials
+
+01
+
+10404130-00-32949
+
+Brush, Paint 2"
+
+Construction Materials
+
+01
+
+10404130-00-32949
+
+Brush, Paint 2"
+
+Construction Materials Inventory
+
+05
+
+10404990-03-32949
+
+Brush, Paint 2"
+
+Other Supplies Inventory
+
+05
+
+10404990-06-42051
+
+Capacitor, 1.5 UF-1
+
+Other Supplies and Materials Inventory
+
+01
+
+10404130-00-59839
+
+Capacitor, 15uF + 1.5%
+
+Construction Materials
+
+01
+
+10404990-06-42052
+
+Capacitor, 2 UF-1
+
+Other Supplies and Materials Inventory
+
+01
+
+10404130-00-59837
+
+Capacitor, 20uF + 5%
+
+Construction Materials
+
+01
+
+10404990-06-59491
+
+Capacitor, 30 + 3uf + 5%
+
+Other Supplies Inventory
+
+05
+
+10404990-06-42899
+
+Capacitor, 35UF-1
+
+Other Supplies and Materials Inventory
+
+01
+
+10404130-00-42901
+
+Capacitor, 40UF
+
+Construction Materials
+
+01
+
+10404990-06-42901
+
+Capacitor, 40UF-1
+
+Other Supplies and Materials Inventory
+
+01
+
+10404990-02-50208
+
+Hinges, Concealed C-1 overlap
+
+Other Supplies and Materials Inventory
+
+01
+
+10404130-00-50208
+
+Hinges, Concealed C-1 overlap
+
+Construction Materials
+
+01
+
+10404130-00-33119
+
+Lock, Drawer W/ KEY
+
+Construction Materials Inventory
+
+05
+
+10404990-02-33119
+
+Lock, drawer with key
+
+Other Supplies Inventory
+
+05
+
+10404130-00-34161
+
+Moulding, PVC 1/2"
+
+Construction Materials Inventory
+
+05
+
+10404990-01-34161
+
+Moulding, PVC 1/2"-1
+
+Other Supplies Inventory
+
+05
+
+10404130-00-33235
+
+Moulding, PVC 3/4"
+
+Construction Materials
+
+01
+
+10404990-06-32787
+
+Nail, Finishing 1"
+
+Other Supplies and Materials Inventory
+
+01
+
+10404130-00-32787
+
+Nail, Finishing 1"
+
+Construction Materials
+
+01
+
+10404990-06-32787
+
+Nail, Finishing 1"
+
+Other Supplies Inventory
+
+05
+
+10404990-06-32788
+
+Nail, Finishing 1-1/2"
+
+Other Supplies and Materials Inventory
+
+01
+
+
+
+6)	It appeared that the inventory items of the same or similar description, as conveyed by the sample transactions above, were not consistently recorded in the appropriate Inventory accounts, thus, providing inaccurate data and misleading information. 
+
+7)	The Commission on Audit prescribed the chart of accounts for use by government agencies, the latest of which is COA Circular No. 2020-001 dated January 8, 2020 prescribing the use of Volume III-Revised Chart of Accounts (Updated 2019) to replace Volume III-The Revised Chart of Accounts (Updated 2015) of the Government Accounting Manual (GAM) for National Government Agencies (NGAs).  It was strengthened by the issuance of the Commission on Audit/ Department of Budget and Management/ Department of Finance Joint Circular No. 2013-1 dated  August 6, 2013, and its amendments, which   prescribes the use of the Unified Accounts Code Structure (UACS) by all government agencies and instrumentalities  for the purpose, among others, of harmonizing budgetary and accounting classifications and structures,  simplifying and consolidating financial reports; ensuring consistency with the classification system of the Public Sector Accounting Standards (Philippines and International standards), and the Government Finance Statistics; and strengthening financial controls and accountability.  Even with these promulgated rules, the Chief of Finance, had overlooked the consistent use of the appropriate inventory accounts.
+
+
+
+8)	The Chief of Finance justified that there were inventory accounts that were left un-classified to the appropriate account names from the time the financial statement accounts were migrated from the manual NGAS to the electronic NGAS, which they are presently using. He, however, promised to look at the improper classification of inventory items and take the necessary corrections and adjustments.
+
+
+
+--	Unadjusted recording errors- ₱368,694.05
+
+
+
+9)	The initial reconciliation of inventory records with the results of the physical count disclosed several items of inventory that needed adjustments due to the following recording errors:
+
+
+
+Inventory Accounts
+
+Balances per Ledger
+
+Amount per RPCI
+
+Difference
+
+Fund 01
+
+
+
+Office Supplies Inventory
+
+₱3,100,715.99
+
+₱3,098,874.29
+
+₱1,841.70
+
+Construction Materials Inventory
+
+2,939,614.24
+
+2,911,958.16
+
+27,656.08
+
+Other Supplies and Materials Inventory
+
+498,095.02
+
+494,430.66
+
+3,664.36
+
+Totals for Fund 01
+
+6,538,425.25
+
+6,505,263.11
+
+33,162.14
+
+Fund 05
+
+
+
+Office Supplies Inventory
+
+843,404.02
+
+823,407.17
+
+19,996.85
+
+Construction Materials Inventory
+
+1,940,024.37
+
+1,898,025.02
+
+41,999.35
+
+Other Supplies and Materials Inventory
+
+361,404.07
+
+87,868.36
+
+273,535.71
+
+Totals for Fund 05
+
+3,144,832.46
+
+2,809,300.55
+
+335,531.91
+
+Total Difference
+
+₱9,683,257.71
+
+₱9,314,563.66
+
+₱368,694.05
+
+
+
+Details are shown in Appendix D.
+
+10)	As could be gleaned from the above data, the ledger balances of the Inventory accounts were overstated by an aggregate amount of ₱368,694.05 due to the following causes:
+
+
+
+--	For Fund 01
+
+
+
+Inventory Accounts
+
+Amount
+
+Reason/s for Overstatement
+
+Office Supplies Inventory
+
+₱ (128.30)
+
+Costing error for issued inventories
+
+
+
+1,970.00
+
+Undocumented issued inventory 
+
+Sub-total
+
+1,841.70
+
+
+
+Construction Materials Inventory
+
+(1,968.88)
+
+Costing error for issued inventories
+
+
+
+29,624.96
+
+Unrecorded inventories issued under RIS No. 2020-08-1454 dated August 3,2020
+
+Sub-total
+
+27,656.08
+
+
+
+Other Supplies and Materials Inventory
+
+3,536.00
+
+Undocumented issued inventory
+
+
+
+128.36
+
+Costing error for issued inventories
+
+Sub-total
+
+3,664.36
+
+
+
+Total
+
+₱ 33,162.14
+
+
+
+
+
+--	For Fund 05
+
+
+
+Inventory Accounts
+
+Amount
+
+Reason/s for Overstatement
+
+Office Supplies Inventory
+
+₱   18,969.84
+
+Already issued inventories
+
+
+
+1,017.92
+
+Undocumented issued inventory
+
+
+
+9.09
+
+Costing error for issued inventories
+
+Sub-total
+
+19,996.85
+
+
+
+Construction Materials Inventory
+
+42,000.00
+
+Undocumented issued inventory
+
+
+
+(.65)
+
+Costing error for issued inventories
+
+Sub-total
+
+41,999.35
+
+
+
+Other Supplies and Materials Inventory
+
+3,622.50
+
+Undocumented issued inventory
+
+
+
+270.208.59
+
+Already issued inventories
+
+
+
+(295.38)
+
+Costing error for issued inventories
+
+Sub-total
+
+273,535.71
+
+
+
+Total
+
+₱ 335,531.91
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11)	Under Fund 01, the Audit Team gathered that the issued construction materials under Request and Issue Slip (RIS) No. 2020-08-1454 dated August 31, 2020 amounting to ₱29,624.96 were not yet recorded in the accounting books as of year-end with the following details:
+
+
+
+Inventory Code
+
+Item Description
+
+Inventory Account Used
+
+Fund Cluster
+
+Amount
+
+10404130-00-61050
+
+ Valve, Gate PPR 1-1/2"
+
+Construction Materials
+
+01
+
+₱1,840.00 
+
+10404130-00-61046
+
+Adapter, PPR female 1-1/2"
+
+Construction Materials
+
+01
+
+1,440.00 
+
+10404130-00-61047
+
+Adapter, PPR female 3/4"
+
+Construction Materials
+
+01
+
+440.00 
+
+10404130-00-61072
+
+Adapter, PPR male 1-1/2"
+
+Construction Materials
+
+01
+
+2,400.00 
+
+10404130-00-61045
+
+Adapter, PPR male 3/4"
+
+Construction Materials
+
+01
+
+480.00 
+
+10404130-00-59467
+
+Adapter, PPR, MALE 1"
+
+Construction Materials
+
+01
+
+1,749.96 
+
+10404130-00-59401
+
+Coupling Reducer,PPR 1-1/2"x 1"
+
+Construction Materials
+
+01
+
+60.00 
+
+10404130-00-59460
+
+Coupling, PPR 1"
+
+Construction Materials
+
+01
+
+160.00 
+
+10404130-00-61049
+
+Coupling, PPR 3/4"
+
+Construction Materials
+
+01
+
+40.00 
+
+10404130-00-61048
+
+Elbow, PPR 1-1/2"
+
+Construction Materials
+
+01
+
+1,280.00 
+
+10404130-00-59405
+
+Patente, Union, PPR, 1"
+
+Construction Materials
+
+01
+
+160.00
+
+10404130-00-61043
+
+Pipe, PPR 1" x 4m
+
+Construction Materials
+
+01
+
+4,635.00
+
+10404130-00-61042
+
+Pipe, PPR 1-1/2" x 4m
+
+Construction Materials
+
+01
+
+11,900.00
+
+10404130-00-61044
+
+Pipe, PPR 3/4" x 4m.
+
+Construction Materials
+
+01
+
+1,180.00
+
+10404130-00-61051
+
+Valve, Gate PPR 3/4"
+
+Construction Materials
+
+01
+
+1,440.00
+
+10404130-00-59465
+
+Valve, Gate, PPR 1"
+
+Construction Materials
+
+01
+
+420.00
+
+
+
+Total
+
+
+
+
+
+₱29,624.96
+
+
+
+12)	The prepared RIS appeared to have been missed out in the monthly Report of Supplies and Materials Issued (RSMI) for the month of August 2020.  The SPMU personnel in charge of preparing the RSMI from August 2020 to December 2020 failed to check and monitor if all approved and issued RIS during the said period were included in the monthly report of issued inventories. As such, issued inventories remained unrecorded.  
+
+
+
+13)	On the other hand, issued inventories of ₱52,146.42 were undocumented by the SPMU, thus, remained in the accounting books as of year-end, with the following details:
+
+
+
+
+
+
+
+
+
+Inventory Code
+
+Item Description
+
+Inventory Account Used
+
+Fund Cluster
+
+Amount
+
+10404010-01-50143
+
+Laminating film, glossy 50" x 164
+
+Office Supplies Inventory
+
+01
+
+₱1,970.00
+
+10404990-06-33740
+
+Running Capacitor 30 UF-1
+
+Other Supplies Inventory
+
+01
+
+2,000.00
+
+10404990-02-46543
+
+Tile, Granite 60cm x 60cm (White)
+
+Other Supplies Inventory
+
+01
+
+1,536.00
+
+10404130-00-36165
+
+Soil, Garden (16cu.m./TL)
+
+Construction Materials Inventory
+
+05
+
+42,000.00
+
+10404010-01-38061
+
+Ink, HP 60 CC643W Tricolor (HP D2560)
+
+Office Supplies Inventory
+
+05
+
+646.50
+
+10404010-01-32918
+
+Tape, Masking 2"-01
+
+Office Supplies Inventory
+
+05
+
+371.42
+
+10404990-05-41754
+
+Cleaner, Toilet-2
+
+Other Supplies Inventory
+
+05
+
+3,622.50
+
+
+
+Total
+
+
+
+
+
+₱52,146.42
+
+
+
+14)	Reported unused inventories from TSU Hotel operation amounting to ₱289,178.43 was erroneously adjusted back to the Inventory account by the accounting personnel without the actual return of the unused inventories to the SPMU, overstating the balances of the affected inventory account/s, as follows:
+
+
+
+Inventory Code
+
+Item Description
+
+Inventory Account Used
+
+Fund Cluster
+
+Amount
+
+10404990-00-Hotel-various
+
+Hotel Various Other Supplies
+
+Other Supplies Inventory
+
+05
+
+₱270,208.59
+
+10404010-00-Hotel
+
+Hotel Office Supplies
+
+Office Supplies Inventory
+
+05
+
+18,969.84
+
+
+
+Total
+
+
+
+
+
+₱289,178.43
+
+
+
+--	Obsolete, expired and defective inventory -₱14,497.80
+
+
+
+15)	The Inventory Committee had identified obsolete, expired and defective inventory items during the physical count.  Validation of the accounting records showed that the obsolete, expired and defective items amounting to ₱14,497.80 were still included in the inventory balance per ledger, with the following details:  
+
+
+
+Inventory Code
+
+Description
+
+Inventory Account
+
+Amount per Ledger
+
+Fund Cluster
+
+Remark
+
+10404130-00-32994
+
+Valve, Gate1/2"
+
+Construction Materials Inventory
+
+₱3,304.00
+
+01
+
+2 units defective
+
+
+
+
+
+Inventory Code
+
+Description
+
+Inventory Account
+
+Amount per Ledger
+
+Fund Cluster
+
+Remark
+
+10404130-00-36527
+
+Paint, Reducer Acreex
+
+Construction Materials Inventory
+
+4,752.00
+
+01
+
+Contents have evaporated
+
+10404010-01-46448
+
+Software, Antivirus  1 User (Kaspersky)
+
+Office Supplies Inventory
+
+645.00
+
+01
+
+Expired
+
+
+
+10404130-00-33214
+
+Neutralizer, Wood Bleach
+
+Construction Materials Inventory
+
+575.00
+
+05
+
+Expired
+
+10404130-00-38328
+
+Paint, Ready Mix Enamel (Petal/ gal)
+
+Construction Materials Inventory
+
+945.00
+
+05
+
+Expired
+
+10404130-00-36022
+
+Paint, Remover (Stripsol)
+
+Construction Materials Inventory
+
+3,000.00
+
+05
+
+Expired
+
+
+
+10404130-00-36888
+
+Rust Converter
+
+Construction Materials Inventory
+
+1,276.80
+
+05
+
+Expired
+
+
+
+
+
+
+
+Total
+
+₱14,497.80
+
+
+
+
+
+
+
+
+
+16)	There were other inventory items amounting to ₱22,737.00 that needed checking with the Information Technology Unit and the Motor Pool, which were considered non-moving for a period of three years or more, to determine if the said items are still functioning, usable and needed in its operations, described as follows:
+
+
+
+Inventory Code
+
+Description
+
+Inventory Account
+
+Amount per Ledger
+
+Fund Cluster
+
+10404990-06-40010
+
+Bearing, Ball 12mm Sealed type-1
+
+Other Supplies and Materials Inventory
+
+₱90.00 
+
+
+
+01
+
+10404990-06-34659
+
+Bearing, Conveyor-1
+
+Other Supplies and Materials Inventory
+
+540.00 
+
+
+
+01
+
+10404990-06-34538
+
+Fan, Cooling (CPU)-1
+
+Other Supplies and Materials Inventory
+
+500.00 
+
+
+
+01
+
+10404990-06-41733
+
+Hard Disk, 500 GB-1
+
+Other Supplies and Materials Inventory
+
+2,450.00
+
+01
+
+10404990-06-34030
+
+Lancard CNET  PCI/DLink-1
+
+Other Supplies and Materials Inventory
+
+1,080.00
+
+01
+
+10404990-06-41594
+
+Lancard, 100/1000 MBPS (TPLink TG-3269)-1
+
+
+
+
+
+Other Supplies and Materials Inventory
+
+6,688.00
+
+
+
+01
+
+
+
+Inventory Code
+
+Description
+
+Inventory Account
+
+Amount per Ledger
+
+Fund Cluster
+
+10404990-06-38292
+
+Memory, 2GB DDR2 PC800 (Kingston)
+
+Other Supplies and Materials Inventory
+
+
+
+3,069.00
+
+01
+
+10404990-06-33746
+
+Motherboard (FC-PGA 370 )-1
+
+Other Supplies and Materials Inventory
+
+2,110.00
+
+01
+
+10404990-06-40129
+
+PCI  Adapter,  Wireless   IEEE802.11B/G/N 32-BIT (EW-7111LN)-1
+
+Other Supplies and Materials Inventory
+
+4,500.00
+
+01
+
+10404990-06-36049
+
+Socket, Headlights
+
+Other Supplies and Materials Inventory
+
+450.00
+
+01
+
+10404990-06-37149
+
+Early Warning Device (EWD)
+
+Other Supplies and Materials Inventory
+
+500.00
+
+01
+
+10404990-06-42013
+
+Spark Plug (4 Stroke)
+
+Other Supplies and Materials Inventory
+
+760.00
+
+01
+
+
+
+
+
+Total
+
+₱22,737.00
+
+
+
+
+
+17)	The Supply and Property Officer and the Chief of Finance commented that they shall continue to coordinate in correcting the recording errors and reconciling/adjusting inventory records before the end of the second quarter of CY 2021.
+
+
+
+18)	We recommended and management agreed to implement the following courses of action:
+
+
+
+a)	Direct the Supply Officer and the Chief of Finance to (i) strictly use and maintain the inventory account names prescribed under COA Circular No. 2020-001 in recording and reporting received and issued inventories; (ii) refrain from using different inventory accounts for items with the same description.  If necessary, personnel in charge of recording inventory in the Accounting and Supply Units regularly check the consistent use of inventory accounts to prevent misleading balances and information; and (iii) make the necessary adjustment in the inventory accounts that were misclassified;  
+
+
+
+b)	Instruct the Chief of Finance and the accounting personnel concerned to (i) check the mathematical accuracy of the weighted moving average cost before applying to issued inventories to avoid the accumulation of immaterial amount of miscalculated cost; (ii) draw the corrective entry for unused Hostel inventories amounting to ₱289,178.43 that were already issued and in the hands of the end-users; (iii) refrain from adjusting in the accounting books unused inventories from the different Units, unless a proof that the items have been physically returned to the Supply Officer; (iv) Quantity of inventory on hand per accounting records should be reconciled with the Supply’s inventory record on a quarterly basis in order to immediately check  possible  errors in recording receipts of delivered and accepted items of inventories and undocumented or delayed documentation of issued inventories; (v) adjust all valid recording errors committed; (vi) document and properly dispose of the inventories that are obsolete, expired and deteriorated; and (vii)  furnish the Commission on Audit with copies of the Journal Entry Vouchers (JEVs) drawn to adjust the inventory account balances for audit reference; and
+
+
+
+c)	Require the Inventory Committee to conduct the semi-annual physical count of inventories regularly as a measure of check and balance of the receipt and issuance of inventories and facilitate reconciliation of inventory on hand with the inventory records for the early detection of recording errors, unnecessary obsolescence, and expiration of inventories during the accounting period.  
+
+
+
+ 
+
+Infractions in the grant of monthly Representation and Transportation Allowance-₱2,463,500.00
+
+
+
+1)	Various infractions were noted in the grant of monthly  Representation and Transportation Allowance (RATA) to 20 designated University officials for the year 2020, such as (a) absence of a stipulation in their respective Designation Order on their entitlement to RATA as required under Section 8.1.1 of National Budget Circular (NBC)  No. 548 dated May 15, 2013;  (b) grant of said allowance in the total amount of  ₱340,000.00 to three designees whose designations were not among the authorized positions to receive RATA under NBC No. 404 dated  March 29, 1989; (c) improper charges against the Special Trust Fund (Fund 05) in the sum of  ₱160,000.00,  inconsistent with CHED Memorandum No. 20, Series of 2011 dated August 4, 2011 ; (d) improper charges against the Fund 01 Other Maintenance and Other Operating Expenses (MOOE) without the DBM approved modification of allotment  inconsistent with Item 5.2. of NBC No. 578 dated January 6, 2020- ₱1,819,500.00; and (e) approval of claims with insufficient documentation contrary to Section 4 of Presidential Decree (P.D.) No. 1445 as implemented under COA Circular No. 2012-001 dated June 14, 2012, denoting irregular disbursement of government funds. 
+
+
+
+1)	COA Circular No. 2012-003 dated October 29, 2012 defines irregular expenditure as an expenditure incurred without adhering to established rules, regulations, procedural guidelines, policies, principles or practices that have gained recognition in laws. Irregular expenditures are incurred if funds are disbursed without conforming to prescribed usages and rules of discipline. There is no observance of an established pattern, course, mode of action, behavior, or conduct in the incurrence of an irregular expenditure. A transaction conducted in a manner that deviates or departs from, or which does not comply with standards set is deemed irregular. A transaction which fails to follow or violates appropriate rules of procedure is, likewise, irregular.
+
+
+
+2)	Review and evaluation of the Representation and Transportation Allowance (RATA) disbursed for the calendar year 2020 disclosed the following observed deficiencies:
+
+--	Designation Order of the University officials bear no stipulation of their entitlement to RATA as required under Section 8.1.1 of DBM NBC No. 548 dated May 15, 2013.
+
+
+
+3)	Item 12.1.1 of Department of Budget and Management (DBM) National Budget Circular (NBC) No. 548 states that a faculty member designated as Vice President, Dean of a college, Director of center/institute/service or a satellite campus, or a department head in a State University and Colleges (SUC) may be authorized to collect RATA for the virtual position on reimbursable basis, if stipulated in the office order designating him/her as such. (Underscoring and emphasis supplied.)
+
+
+
+4)	For CY 2020, the total amount of ₱2,463,500.00 was paid for the monthly RATA of two officials on commutable basis and 20 designated faculty members to various administrative positions on reimbursable basis, summarized as follows:
+
+
+
+Position Reference
+
+
+
+Position
+
+Total RATA Received for CY 2020
+
+
+
+
+
+Fund 01
+
+Fund 05
+
+Total
+
+
+
+
+
+PS
+
+Other MOOE
+
+Other MOOE
+
+
+
+Plantilla
+
+University President
+
+₱240,000.00
+
+
+
+
+
+₱240,000.00
+
+Plantilla
+
+Director, Finance
+
+120,000.00
+
+
+
+
+
+120,000.00
+
+Designated
+
+Vice President- Academic Affairs
+
+204,000.00
+
+
+
+
+
+204,000.00
+
+Designated
+
+OIC –Vice President Planning Quality Assurance
+
+
+
+₱204,000.00
+
+
+
+204,000.00
+
+Designated
+
+Vice President-Administration and Finance
+
+
+
+153,000.00
+
+
+
+153,000.00
+
+Designated
+
+Vice President-Research and Extension
+
+
+
+199,750.00
+
+
+
+199,750.00
+
+Designated
+
+Director, Research Office
+
+
+
+120,000.00
+
+
+
+120,000.00
+
+Designated
+
+Director, Extension Services
+
+
+
+50,000.00
+
+
+
+50,000.00
+
+Designated
+
+Dean, Student Affairs
+
+
+
+120,000.00
+
+
+
+120,000.00
+
+Designated
+
+Dean, College of Engineering ET
+
+
+
+120,000.00
+
+
+
+120,000.00
+
+Designated
+
+Dean, College of Computer Science/ Vice President-Administration and Finance
+
+
+
+141,000.00
+
+
+
+141,000.00
+
+Designated
+
+Dean, College of Arts and Social Sciences
+
+
+
+120,000.00
+
+
+
+120,000.00
+
+Designated
+
+Dean, College of Teacher Education
+
+
+
+120,000.00
+
+
+
+120,000.00
+
+Designated
+
+Dean, College of Business Administration
+
+
+
+
+
+120,000.00
+
+
+
+120,000.00
+
+Designated
+
+Director, Business and Auxiliary
+
+
+
+120,000.00
+
+
+
+120,000.00
+
+Designated
+
+Director, Internal Audit Services
+
+10,000.00
+
+70,000.00
+
+₱40,000.00
+
+120,000.00
+
+Designated
+
+Director, Administrative Services
+
+70,000.00
+
+10,000.00
+
+40,000.00
+
+120,000.00
+
+Designated
+
+Dean, COS
+
+10,000.00
+
+70,000.00
+
+40,000.00
+
+120,000.00
+
+Designated
+
+
+
+Director, FDMO and Campus Director
+
+10,000.00
+
+50,000.00
+
+40,000.00
+
+100,000.00
+
+Designated
+
+OIC-Vice President-Research and Extension
+
+
+
+4,250.00
+
+
+
+4,250.00
+
+Designated
+
+OIC-Director, Extension Services
+
+
+
+17,500.00
+
+
+
+17,500.00
+
+Designated
+
+OIC- Dean, College of Computer Science
+
+
+
+10,000.00
+
+
+
+10,000.00
+
+
+
+Total
+
+₱664,000.00
+
+₱1,819,500.00
+
+₱160,000.00
+
+₱2,463,500.00
+
+
+
+5)	We reviewed the latest Administrative Order (AO) No. 27-2020 issued by the University President on June 2, 2020 providing the redesignation/designation of VPs, Deans, Directors for a two-year term from April 2020 to March 2022, and noted that the stipulation on the entitlement of RATA was not categorically provided, summarized as follows:  
+
+
+
+Designation
+
+Administrative Order / Date
+
+Conditions in the Redesignation Orders
+
+Vice President for Academic Affairs
+
+(a)TSU Administrative Order No. 09, s. 2018 dated March 16, 2018- Designation of Key Officials of the Tarlac State University from April 1, 2018 to March 31, 2020;
+
+
+
+--	TSU Administrative Order No 2, s. 2019 dated December 26, 2019-designation of Dr. Nino B. corpus as OIC Of the Office of the Vice President for Planning and Quality Assurance effective January 1, 2020 to March 31, 2020;
+
+
+
+
+
+--	TSU Administrative Order No 4, s. 2020 dated January 3, 2020- designation of Edjie M. De Los Reyes as Director of Research Office effective January 1, 2020 to March 31, 2020.
+
+
+
+
+
+
+
+--	TSU Administrative Order No 51, s. 2019 dated September 5, 2019- designation of Ar. Ferdinand S. Valencia as Campus Director of the Lucinda and San Isidro Extension Campuses.
+
+ 
+
+(b)TSU Administrative Order No. 27-2020 dated June 2, 2020. -Redesignation/designation of VPs, Deans, Directors for a two-year period from April 2020 to March 2022
+
+
+
+(Note: There were two TSU Order No. 27, s. 2020 dated June 2, 2020 issued. It is unclear which one is the official Order.)
+
+
+
+(a)The designated officials are expected to discharge their duties and responsibilities provided for in the University Code pertaining to the Offices where they are assigned and perform such other functions as may deemed necessary. They will be entitled to all the benefits and privileges provided by existing laws, rules and regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b)No condition stipulated in the Redesignation Orders of the University Faculty concerned.
+
+Vice President for Administration and Finance (until October 2020)
+
+
+
+
+
+Vice President for Planning and Quality Assurance
+
+
+
+
+
+Vice President for Research and Extension Service
+
+
+
+
+
+Director, Internal Audit Service
+
+
+
+
+
+Dean, College of Arts and Social Sciences
+
+
+
+
+
+Dean, College of Business and Accountancy
+
+
+
+
+
+Dean, College of Teacher Education
+
+
+
+
+
+Dean, College of Engineering and Technology
+
+
+
+
+
+Dean, College of Science
+
+
+
+
+
+Campus Director of Lucinda and San Isidro Extension Campuses
+
+
+
+
+
+Director, Business and Auxiliary Service
+
+
+
+
+
+Director, Administrative Service Office
+
+
+
+
+
+Director-Research Office
+
+
+
+
+
+Director, Extension Services (until June 2020)
+
+
+
+
+
+Dean, Student Affairs Service
+
+
+
+
+
+
+
+(a)TSU Administrative Order No. 42, s.2020 dated August 27, 2020 (for Aug. 4-31, 2020 only)
+
+
+
+
+
+
+
+(b)TSU Administrative Order No. 51, s. 2020 dated October 22, 2020
+
+ As (OIC) Vice President for Administration and Finance, he will perform the functions stated in the New TSU Code, Book I, Tittle III, chapter 2, Article 28, Section 1-3 page 20. He will be entitled to all the benefits and privileges due his designation, subject to accounting and auditing rules and regulations.
+
+
+
+OIC- Office of the Director for Extension services 
+
+AO No. 32-2020 dated June 9, 2020 (for the period covered June 9, 2020 to March 31, 2021)
+
+He will be entitled to all the benefits and privileges due his designation, subject to accounting and auditing rules and regulations.
+
+
+
+6)	The Budget Officer earlier commented that the original Designation Orders of the officials who were re-designated to the same positions included the statement that they will be entitled to all the benefits and privileges provided by existing laws, rules, and regulations, which impliedly included the RATA. 
+
+
+
+7)	In the previous year, designation orders of the same batch of designated faculty members issued in CY 2018 and randomly in CY 2019 provided the stipulations that the designated officials are expected to discharge their duties and responsibilities provided for in the University Code pertaining to the Offices where they are assigned and perform such other functions as may deemed necessary. They will be entitled to all the benefits and privileges, subject to accounting and auditing rules and regulations. NBC No. 548 was quite specific when it provided that the designees may be authorized to collect RATA for the virtual position on reimbursable basis, if stipulated in the office order designating him/her as such. For the entitlement of RATA, the requirement is to be clearly stipulated in the designation orders. (Underscoring supplied.)
+
+
+
+
+
+--	Grant of RATA to three designees whose designations were not among the authorized positions to receive RATA under NBC No. 404 dated March 29, 1989- ₱340,000.00 
+
+ 
+
+8)	  DBM NBC No. 404 identifies the SUC officials entitled to RATA and were likewise provided in Items 7.3.2 and 7.13.3, Chapter 7 of the DBM Manual on Position Classification Scheme for Faculty Position. Review of RATA payroll for CY 2020 showed three designees who were granted the allowance but whose positions are not entitled to such.  The table below shows the designations of the officials concerned and the amount of RATA received by each for a sum of ₱340,000.00, to wit:
+
+Designation
+
+Period Covered
+
+RATA from Fund 01
+
+RATA from Fund 05
+
+Total
+
+Director, FDMO & Campus Director
+
+May 2020 to October 2020
+
+₱ 60,000.00
+
+₱ 40,000.00
+
+₱100,000.00
+
+Dean, Student Affairs
+
+January 2020 to December 2020
+
+0.00
+
+120,000.00
+
+120,000.00
+
+Director, IAS
+
+
+
+January 2020 to December 2020
+
+80,000.00
+
+40,000.00
+
+120,000.00
+
+Total
+
+
+
+₱140,000.00
+
+₱200,000.00
+
+₱340,000.00
+
+
+
+9)	The Budget Officer (B.O.) justified that one of the designees stopped receiving the allowance effective November 2020 because after evaluating that the designation as Campus Director was not in conformity with the criteria for RATA, management has decided not to grant the same. For the designee to the position as Dean of Student Affairs, the designation title may have been overlooked.  The designation mentioned in the said Budget Circular was Director for Student Affairs.  Besides, there are no curricular programs under the Student Affairs; thus, the designation of a Dean is inappropriate. Lastly, for the designated Director for Internal Audit Service, the B.O. clarified the matter with the DBM Regional Office which confirmed that the position is entitled to RATA.
+
+
+
+10)	Considering that the designees’ positions were not among those entitled to RATA based on the existing rules and regulations, the amount paid shall be questioned in audit, unless management can show valid evidence that such designated positions are among the DBM approved SUCs positions entitled to said allowance.
+
+
+
+--	Improper charging against Special Trust Fund (Fund 05) inconsistent with CHED Memorandum No. 20, Series of 2011 dated August 4, 2011- ₱160,000.00
+
+
+
+11)	For CY 2020, the RATA of designated University officials amounting to ₱160,000.00 was improperly charged against Fund 05.  The collection and utilization of the Special Trust Fund (STF) is governed by CHED Memorandum Order (CMO) No. 20 series of 2011.  In the said Memorandum, the purpose in the use of the fund is specific and quantified. As such, the STF can only be utilized for the purpose it was created. Relatedly, the payment of the additional compensation of regular employees, like the RATA, is not one of the purposes for its creation. 
+
+12)	 Paragraph 13 of DBM NBC No. 548, however, bears instructions on the funding source of RATA. The amounts required for the grant of commutable or reimbursable RATA to incumbents or OICs of regular positions and the designated officials in SUCs shall be charged to the respective agency appropriations/budgets for the purpose. In case of deficiencies, the same shall be charged against agency savings from the regular fund.
+
+13)	Similar issue was likewise discussed in detail in the CY 2019 Annual Audit Report (AAR) Finding No. 7 with the recommendation, among others, to refrain from charging RATA against the STF pursuant to the foregoing DBM regulation.
+
+14)	During the discussion with management regarding the above issue, we were informed that the practice was put to stop effective May 2020.  As observed, the RATA of the designees for the period covered May to December 2020 were paid and charged against Fund 101 under Other Maintenance and Other Operating Expenses.  
+
+--	Improper charging against Fund 01-Other Maintenance and Other Operating Expenses (MOOE) inconsistent with Item 5.2. of NBC No. 578 dated January 6, 2020- ₱1,819,500.00
+
+
+
+15)	For CY 2020, the amount of ₱1,819,500.00 for the payment of RATA of designated faculty members was charged against Fund 01- Other MOOE allotment without the appropriate authority for the modification of allotment as specified under Item 5.2.3 of NBC No. 578; to wit:
+
+
+
+5.2.3.1 Head of Agencies for: xxx
+
+
+
+5.2.3.2 DBM: (i) from one allotment class to another; (ii) from one operating unit to another; xxx   
+
+
+
+16)	This matter has been brought to the attention of management in the CY 2019 AAR and recommended, among others, to refrain from charging RATA against any expenditure object/account other than the RATA account in the University approved appropriations/allotment for the purpose. However, management insisted that the RATA can be directly charged against Other MOOE. Reportedly, they requested from the DBM Regional Office a clarification on the use of MOOE for payment of RATA in which the DBM Regional Office Director, in her letter to the University President dated July 17, 2020, informed that there is no need to release additional funds for the purpose in view of Items 12.1.1. and 13.1.1 of NBC No.548, and quoted the specific provisions of the Circular.  
+
+
+
+17)	With the DBM Director’s opinion, RATA was continuously charged against MOOE without considering the DBM issued NBC No. 578 containing the guidelines on the release of funds for FY 2020, specifically Item 5.2.3.2 which requires the approval of the DBM for the use of MOOE allotment for PS purposes.  The supporting documents for the modification of allotment are enumerated in Items 5.2.1 and 5.2.2 of the same Budget Circular.  
+
+
+
+18)	The Audit Team agrees that the RATA can be charged against MOOE, provided, however, that management shall comply with the requirements of Item 5.2.3.2 of NBC 578. Otherwise, the RATA disbursed from the Other MOOE allotment are considered irregular.
+
+
+
+--	Insufficient valid supporting documents inconsistent with Section 4 of P.D. No. 1445 as implemented under COA Circular No. 2012-001 dated June 14, 2012
+
+19)	Section 4(6) of Presidential Decree (P.D.) No. 1445 requires, among others, that claims against government funds shall be supported with complete documentation.  COA Circular No. 2012-001 prescribes the following documentary evidences that shall support the RATA claims:
+
+
+
+a)	Certification that the official/employee did not use government vehicle and is not assigned any government vehicle;
+
+b)	Certificate or evidence of service rendered or approved Daily Time Records;
+
+c)	For reimbursable RATA, receipts or Certificate to the effect that the expenses had been incurred in accordance with the purpose for which the allowance is granted (Sec. 386, Article 1, Chapter 5, Vol. I, GAAM) 
+
+20)	For CY 2020, the only supporting documents attached to the disbursement vouchers (DVs) were hard copies of RATA payrolls; Journal Entry Vouchers (JEVs); Obligation Request and Status (OBRS); and copy of designation orders of the claimants. Since the payments were made thru Advice to Debit Account (ADA), copy of bank payroll register and the approved ADA were not attached. DTRs of the designees were not also attached.  The payrolls for the reimbursable RATA for the designees did not bear the signatures opposite their names in the provided column. The receipts or certifications that the expenses had been incurred in accordance with the purpose for which the allowance was granted were not attached. However, when the attention of the concerned administrative staff was called on such deficiency, they later submitted the required certifications.
+
+
+
+21)	Meanwhile, the audit of the paid RATA payrolls was not timely performed because of the delayed submission of the monthly accounts of the University which may be attributed to the COVID-19 lockdown and the protocols required to be observed nationwide and in all government agencies.  Nonetheless, government rules and regulations governing financial transactions shall be strictly adhered to and consistently applied by all concerned.  Otherwise, the regularity of the transactions shall be questioned.
+
+
+
+22)	We recommended and management agreed to undertake the following courses of action:
+
+
+
+a)	Direct the Chief Administrative Officer to (i) check and monitor official designations of faculty members entitled to RATA to include stipulations on their entitlement to such, as required by DBM NBC 548 before approval by the University President. The absence of which shall be construed that the University President does not allow the designees to receive the reimbursable RATA; 
+
+b)	Require all three identified designees without valid authority to receive the monthly RATA to refund immediately the amount of ₱340,000.00, unless a DBM approved authority shall be submitted;
+
+c)	Direct the Chief Administrative Officer, the Budget Officer and the Chief Finance Officer to (i) refrain from processing and charging RATA against Special Trust Funds; (ii) strictly comply with the use of savings of the regular fund to cover the deficiency on the approved budget for RATA; and (iii) Charge RATA against savings of the Personal Services (PS) only upon the approval of the Head of the Agency, and if charging is to be made against the Other Maintenance and Other Operating Expenses (MOOE), secure first the approval of the DBM as provided for in Section 70 of the CY 2020 GAA as implemented under Paragraph 5.2 of DBM NBC No.578 dated January 6, 2020; and
+
+d)	The Chief Administrative Officer, the Budget Officer the Chief Finance Officer and the Human Resource and Management Officer to (i) require all RATA payees to immediately affix their signatures on the RATA payrolls for CY 2020 in acknowledgement that the corresponding amounts are correct and actually received by them. Henceforth, all reimbursable RATA payrolls shall bear the signature of the payees; (ii) require all payees concerned to immediately submit the duly signed monthly certifications. We shall be constrained to suspend in audit those payrolls which are non-compliant with the aforesaid documentary requirements. 
+
+1)	Management justified that (i) the University President allowed the designees to receive a reimbursable RATA as evidenced by the issued addendum to Administrative Order No. 27, s. 2020. However, the Audit Team has yet to be furnished with  a copy of the Addendum Order; (ii) the RATA of the Internal Auditor is considered to be of equivalent rank to those holding regular position entitled to RATA because, according to them, Item 2.5 of DBM Circular Letter No. 2008-5 dated April 14, 2008 complies with the requirement of equivalent rank; and (iii) Management believe that the function of the Dean of Student Affairs is the same as the Director of the Student Affairs cited in NBC No. 404. The designation as Dean of Student Affairs was adopted from the CHED Memorandum Order No 9, series of 2013.
+
+
+
+
+
+Irregular monthly allowance paid to the Office of the Solicitor General Officials-₱788,750.00
+
+
+
+2)	The monthly allowances granted to the Office of the Solicitor General (OSG) Officials, ranging from ₱18,000.00 to ₱21,000 per head for the period covered October 2019 to December 2020 has no legal basis and irregular pursuant to Section 12 of Republic Act (R.A.) No. 6758, or the Compensation and Position Classification Act of 1989 and other related rules and regulations. 
+
+
+
+1)	The Tarlac State University (TSU) executed a Memorandum of Agreement (MOA) dated October 4, 2019 and an undated MOA for the year 2020 with four Office of the Solicitor General (OSG) officials for the grant of their monthly allowances in payment for the legal services rendered to the University in the following rates:
+
+
+
+Names of the OSG Officials
+
+Designation
+
+CY 2019 Monthly Allowance 
+
+CY 2020 Monthly  Allowance 
+
+Jose C. Calida
+
+Solicitor General 
+
+₱20,000.00
+
+ ₱21,000.00
+
+Renan E. Ramos
+
+Assistant Solicitor General
+
+     20,000.00
+
+
+
+James Lee Cundangan 
+
+Senior State Solicitor/ Asst. Solicitor General)
+
+     20,000.00
+
+      20,000.00
+
+Mark Jorel O. Calida
+
+Head Executive Assistant
+
+     20,000.00
+
+      19,000.00
+
+Lilian C. Abenojar
+
+Senior State Solicitor
+
+
+
+     18,000.00
+
+Total
+
+
+
+₱80,000.00
+
+ ₱78,000.00
+
+ 
+
+2)	Records showed that based on the above agreed rates, the OSG officials actually received a sum of ₱788,750.00 for the period covered October 2019 to December 2020 as detailed below:
+
+
+
+Payees
+
+Period Covered/
+
+ADA/DV No.
+
+Period Covered/
+
+ADA/DV No.
+
+Period Covered/
+
+ADA/DV No.
+
+Period Covered/
+
+ADA/DV No.
+
+Total
+
+
+
+July 2020 – Dec. 2020/
+
+101-12-563-2020/ 20122000
+
+January 2020/    101-01-012-2020/ 20010072
+
+Oct. 2019 to Nov.2019/  101-12-833-2019/ 19112489
+
+December 2019/
+
+101-12-885-2019/ 19122653
+
+
+
+Jose Calida
+
+₱126,000.00
+
+₱20,000.00
+
+₱40,000.00
+
+₱20,000.00
+
+₱206,000.00
+
+Renan E. Ramos
+
+0.00
+
+0.00
+
+40,000.00
+
+20,000.00
+
+60,000.00
+
+James Lee Cundangan
+
+120,000.00
+
+20,000.00
+
+40,000.00
+
+20,000.00
+
+200,000.00
+
+Mark Jorel O. Calida
+
+114,000.00
+
+20,000.00
+
+40,000.00
+
+20,000.00
+
+194,000.00
+
+Lilian C. Abenojar
+
+108,000.00
+
+20,000.00
+
+0.00
+
+0.00
+
+128,000.00
+
+Bank Charge paid
+
+
+
+250.00
+
+250.00
+
+250.00
+
+750.00
+
+Total
+
+₱468,000.00
+
+₱80,250.00
+
+₱160,250.00
+
+₱80,250.00
+
+₱788,750.00
+
+
+
+3)	The contracting parties invoked Section I (l) of Presidential Decree (P.D.) No. 478 and Section 35(9), Chapter 12, Title III, Book IV of Executive Order No. 292 as their legal bases in entering into the said MOA.  However, it was long held that the legal bases referred to can no longer be validly invoked pursuant to COA Circular No. 88-289 dated July 19, 1988, which embodied the Letter from the Secretary, Department of Budget and Management regarding payment of additional compensation to the Office of the Solicitor General lawyers, Government Corporate Counsel lawyers and Prosecution staffs of the Department of Justice.  The said COA Circular clarified that although P.D. No. 478, also known as the Charter of the Office of the Solicitor General, and the Revised Administrative Code of 1987 provides that the Solicitor General and his staff are specifically authorized to received allowances as may be provided by the government offices, instrumentalities and corporations whom the OSG renders legal services, the said authority was repealed by P.D. No. 985, as amended by P.D. No. 1597, s. 1979, or the Further Rationalizing the System of Compensation and Position Classification in the National Government which reads:
+
+
+
+Section 5. Allowances, Honoraria, and Other Fringe Benefits.  Allowances, honoraria, and other fringe benefits which may be granted to government employees, whether payable by their respective offices or by other agencies of government, shall be subject to the approval of the President upon the recommendation of the Commissioner of the Budget.  For this purpose, the Budget Commission shall review on a continuing basis and shall prepare, for the consideration and approval of the President, policies and levels of allowances and other fringe benefits applicable to government personnel, including honoraria or other forms of compensation for participation in projects which are authorized to pay additional compensation
+
+
+
+4)	Management may argue that the granting of monthly allowances by the University was also in pursuant to Section 8 of R.A. No 9417, or the Act to Strengthen the Office of the Solicitor General, by Expanding and Streamlining its Bureaucracy, Upgrading Employee Skills and Augmenting Benefits, and Appropriating Funds Therefor and for Other Purposes.  The said provision which was decreed consistent to Section 35(9), Chapter 12, Title III, Book IV of E.O. No.292 was subsequently revoked under Section 12 of R.A. No. 6758, or the Compensation and Position Classification Act of 1989 which provides:
+
+
+
+Section 12. Consolidation of Allowances and Compensation.- All allowances, except for representation and transportation allowances; clothing and laundry allowances; subsistence allowance of marine officers and crew on board government vessels and hospital personnel; hazard pay; allowances of foreign service personnel stationed abroad; and such other additional compensation not otherwise specified herein as may be determined  by the DBM, shall be deemed included in the standardized salary rates herein prescribed.
+
+
+
+5)	With the above-cited laws, rules and regulations, the MOA appeared to be unauthorized and the payment of the OSG allowance was irregular. 
+
+
+
+6)	Earlier, the Audit Team issued Audit Observation Memorandum (AOM) No. 2021-001(20) dated February 4, 2021, communicating to management that allowances granted to the OSG officials were over and above the authorized monthly Special counsel Allowance. Management, in their comment to our earlier audit observation, averred that the special counsel allowance provided under Sections 56 and 51 of the General Appropriations Act of Fiscal Years 2019 and 2020 were not applicable to the OSG lawyers as the provision of the said Sections pertains specifically to lawyers of departments, bureaus, and offices of the National Government deputized by the OSG to appear in court as special counsel in collaboration with the Solicitor General.
+
+7)	We recommended that management (a) stop the payment of the OSG officials monthly allowances, unless the receipt of such allowance has been approved by the Office of the President; and (b) initiate the immediate refund of the allowance irregularly paid to the OSG officials.  
+
+
+
+
+
+Gender and Development (GAD) – ₱31,476,004.96
+
+
+
+1)	The University utilized the amount of ₱31,476,004.96 or 81.89% of the allocated amount of ₱38,436,796.83 for the implementation of planned Gender and Development (GAD) activities that addressed gender issues in accordance with Joint Circular No. 2012-01 of the Philippine Commission on Women (PCW), Department of Budget and Management (DBM) and National Economic and Development Authority (NEDA).
+
+
+
+1)	Joint Circular No. 2012-01 of the Philippine Commission on Women (PCW), Department of Budget and Management (DBM) and National Economic and Development Authority (NEDA) states that pursuant to the Magna Carta of Women (MCW) and the General Appropriations Act (GAA), all government departments, including their attached agencies, offices, bureaus, state universities and colleges (SUCs), government-owned and controlled corporations (GOCCs), local government units (LGUs) and other government instrumentalities shall formulate their annual GAD plans and budgets within the context of their mandates to mainstream gender perspectives in their policies, programs and projects. GAD Planning shall be integrated in the regular activities of the agencies, the cost of implementation of which shall be at least five percent (5%) of their total budgets. The computation and utilization shall be implemented in accordance with the specific guidelines provided therein.           (Emphasis supplied.)
+
+
+
+2)	The Gender and Development (GAD) Office of the University formulated a GAD plan for CY 2020 to address the gender issues such as gender-responsive governance, protection and fulfillment of women’s human rights and promotion of women’s economic empowerment. The GAD budget for the year amounted to ₱38,436,796.83 or  6.91% of the University’s total budget of  ₱556,204,340.00, compliant with the requirement of the said Joint Circular.
+
+
+
+3)	As shown in the year-end accomplishment report which was validated by the Audit Team, various programs and seminar/workshops relevant to Gender Sensitivity Orientations were conducted and facilitated the holding of several development trainings for the TSU faculty, employees and students. Of the total budget, the amount of ₱31,476,004.96 was utilized on the following GAD activities:   
+
+
+
+Particulars
+
+Actual cost
+
+Seminar and Training on reproductive health, HIV/ AIDS, and teenage pregnancy.
+
+₱200,000.00
+
+Conduct of Anti-VAWC Seminar) with at least 200 students and personnel expected to attended Number of printed shirts - 100 to be printed Number of printed IEC Materials - 300 to be printed
+
+1,000,000.00
+
+Develop and distribute IEC materials and module on R.A 9262 and R.A. 7887 in a form of bookmarks or flyers.
+
+150,000.00
+
+Conduct of seminar on Occupational Health and safety and Labor Standards and Anti-Sexual Harassment Act or RA 7877 for OJT and graduating students.
+
+1,500,000.00
+
+Develop IEC materials on Magna Carta of Women within the university and in the community in a form of bookmarks or flyers.
+
+100,000.00
+
+Develop IEC materials relative to gender-fair education, Sexual harassment, MCW
+
+200,000.00
+
+To conduct Gender Sensitivity Orientation among newly hired faculty, personnel, and non-teaching teaching staff of Tarlac State University.
+
+250,000.00
+
+Seminar/Webinar with requesting LGU tackling different topics on GAD and establish linkages with the LGUs of Tarlac regarding the conduct of the seminar.
+
+250,000.00
+
+a) Conduct of Webinar on Stress Debriefing Towards the New Normal with Employees b) Provision of online counselling support to employees and students
+
+250,000.00
+
+Procurement and provision of personal protective equipment (PPEs), surgical masks, and sanitation materials such as alcohol and Sodium and Calcium Hypochlorite (bleach)Provision of personalized face mask to all employees of the university (both teaching and non-teaching personnel)
+
+1,692,524.00
+
+Procurement of rapid anti-body test kits for all employees of the university.
+
+960,000.00
+
+Provision of shuttle support for all TSU employees.
+
+1,500,000.00
+
+Facilitate in the conduct of the following seminars/workshop and Training related to Environment Safety, and Health: 1. Emergency Response Team Training2. Basic Life Support and First Aid Training.
+
+650,000.00
+
+Production and distribution of flyers regarding Republic Act 9442 also known as Magna Carta for Persons with Disabilities.
+
+100,000.00
+
+Conduct of at least 2 activities for the 2020 Women's Month Celebration Printing of T-shirt for the Women's Month Celebration Printing of IEC Materials for the Women's Month Celebration.
+
+800,000.00
+
+Provision of Child Care Services to children of faculty and Employees Operation of the Child Care Center Main Campus and Extension Office at the Lucinda Campus Establishment of Breastfeeding Station in both of the Child Centers of the University Provide Assistance and support to solo parents of the university with regards to the processing of documents needed.
+
+680,300.00
+
+Conduct of Gender and Development Research and Research Undertaking Facilitate the monitoring of GAD researches so that researches would be completed within the prescribed process time.
+
+3,089,674.47
+
+Source-out sex-disaggregation data within the university Analyze the sex-disaggregation Publish the findings on the data that were gathered that will serve as a baseline data for further gender studies in the University.
+
+75,000.00
+
+Participation to inter-agency meetings, FGDs Attendance to capacity building seminars/trainings of GFPS and GAD staff.
+
+250,000.00
+
+Provided financial assistance in the form of monthly and book allowances to the members of the marginalized group.
+
+1,680,000.00
+
+Construction of College of Computer Studies PWD Ramp.
+
+3,506,804.69
+
+Rehabilitation of Fences at Tarlac State University Lucinda Campus.
+
+6,616,078.07
+
+Rehabilitation of San Isidro Covered Courts, fence, bleachers, toilets.
+
+2,724,358.01
+
+Repair of Comfort Rooms of COS Building.
+
+100,000.00
+
+Construction of Gender-Neutral Comfort Rooms in all Buildings.
+
+500,000.00
+
+Institutional Sustainability Assessment (ISA) Visit in the different colleges in the University.
+
+106,072.80
+
+Accrediting Agency Chartered Colleges and Universities in the Philippines (AACUP) Accreditation Survey Visit in the different colleges in the University.
+
+274,057.00
+
+Provision of Livelihood Programs for the Depressed Communities in the Province of Tarlac
+
+497,582.00
+
+Repainting of Roofing, Exterior Wall and Various Repair of CPAG Building.
+
+1,773,553.92
+
+TOTAL
+
+₱31,476,004.96
+
+
+
+4)	We commended management, through its GAD Office, in its continuing efforts to address the identified gender issues of the University in the pursuit of its mandate.  However, we recommended that they further pursue programs/projects that are gender responsive and to continue increasing the level of gender mainstreaming in the University; to continue its proactive initiatives through the strategic partnership with other government agencies and private institutions and to reinforce the role of women in community-building. 
+
+
+
+
+
+Compliance of the curricular programs to the CHED policies, standards, and guidelines 
+
+
+
+1)	The 62 curricular courses offered by the University were aligned with the mandate explicitly mentioned in Section 2 of Republic Act (R.A.) No. 6764. However, (i) only 21 were included in the listed priority courses as identified in the Commission on Higher Education (CHED) Memorandum Order (CMO) No. 05, series of 2019; (ii) only five have no Certificates of Program Compliance (COPCs) as mandated under CMO No. 14, series of 2019; and (iii) four have not undergone the required independent accreditation under CMO No. 01, series of 2005,  raising doubt on the capacity of the University to deal with the national development plan on current manpower demands and its full compliance with the policies, standards, and guidelines of CHED ensuring that the existing programs of the State Universities and Colleges (SUCs) are quality-assured.
+
+
+
+1)	The general mandate of the University as mentioned in Section 2 of the governing charter of the University or Republic Act (R.A.) No. 6764 approved on October 13, 1989 is to provide advanced instruction in literature, philosophy, the sciences, and the arts, and shall also offer professional and technical training courses.
+
+
+
+2)	As of December 31, 2020, the University has 62 curricular courses in the fields of education, sciences, arts and engineering and technology, both in the undergraduate and graduate levels and one course for Continuing Professional Education which are aligned with its primary mandate as summarized in this chart.
+
+
+
+
+
+--	23 undergraduate priority courses not listed under CHED Memorandum Order No. 05, series of 2019
+
+3)	Of the 44 undergraduate curricular courses offered, 21 were listed in the updated priority courses under CHED Memorandum Order No. 05, series of 2019 which courses were offered way back in CYs 1969 to 2011.  A total of 23 other courses currently offered by the University were CHED priority programs under CMO No 04, Series of 2011 dated January 9, 2014 and CMO No. 01, Series of 2014 dated March 18, 2011, summarized as follows: 
+
+
+
+Curricular Courses Offered
+
+(Undergraduate Level)
+
+Year Started
+
+CHED Priority Programs
+
+
+
+
+
+CMO No. 04, Series of 2011
+
+CMO No.01, Series of 2014
+
+CMO No. 05, Series of 2019
+
+Bachelor of Science in Architecture
+
+1983
+
+
+
+√
+
+√
+
+Bachelor of Fine Arts
+
+1998
+
+
+
+√
+
+
+
+Bachelor of Science in Computer Science
+
+1996
+
+√
+
+√
+
+√
+
+Bachelor of Science in Information Systems (Business Analytics, Technical Service Management, Network and Administration, and Web and Mobile Application)
+
+1996
+
+√
+
+
+
+√
+
+Bachelor of Arts in Psychology
+
+1996
+
+
+
+√
+
+
+
+Bachelor of Arts in Communication
+
+1999
+
+
+
+√
+
+
+
+Bachelor of Arts in English Language Studies
+
+1999
+
+
+
+
+
+
+
+Bachelor of Science in Accountancy
+
+1990
+
+
+
+√
+
+
+
+Bachelor of Public Administration 
+
+2005
+
+
+
+
+
+
+
+Bachelor of Science in Business Administration (Financial Management, Business Economics, Marketing Management)
+
+1996-1997
+
+
+
+
+
+
+
+Bachelor of Science in Hotel and Restaurant Management
+
+2007
+
+
+
+
+
+√
+
+Bachelor of Science in Entrepreneurship
+
+1990
+
+
+
+
+
+
+
+Bachelor of Science in Civil Engineering
+
+1969
+
+
+
+√
+
+√
+
+Bachelor of Science in Electrical Engineering
+
+1969
+
+√
+
+√
+
+√
+
+Bachelor of Science in Mechanical Engineering
+
+1969
+
+√
+
+√
+
+√
+
+Bachelor of Science in Industrial Engineering
+
+1996
+
+
+
+√
+
+√
+
+Bachelor of Science in Electronics Engineering
+
+2001
+
+√
+
+√
+
+√
+
+Bachelor of Science in Industrial Technology (Electrical and Information Technology; and Mechatronics)
+
+1999
+
+
+
+
+
+√
+
+Bachelor in Industrial Technology (Automotive Technology and Electrical Technology)
+
+1984
+
+
+
+√
+
+√
+
+Bachelor of Secondary Education (English, Filipino, Math, Science, Social Studies)
+
+1990
+
+√
+
+√
+
+
+
+Bachelor of Elementary Education
+
+1983
+
+
+
+
+
+
+
+Bachelor of Physical Education
+
+2014
+
+
+
+√
+
+
+
+Bachelor of Technology and Livelihood Education
+
+
+
+
+
+
+
+
+
+Bachelor of Technical Vocational Teacher Education
+
+
+
+
+
+
+
+
+
+Bachelor of Early Childhood Education
+
+2008
+
+
+
+√
+
+
+
+Bachelor of Science in Criminology
+
+2011
+
+
+
+
+
+√
+
+Bachelor of Science in Chemistry
+
+1990
+
+
+
+√
+
+√
+
+Bachelor of Science in Mathematics
+
+2001
+
+√
+
+√
+
+√
+
+Bachelor of Science in Environmental Science
+
+2004
+
+√
+
+√
+
+√
+
+Bachelor of Science in Nursing
+
+2003
+
+
+
+
+
+
+
+Bachelor of Science in Food Technology
+
+2000
+
+
+
+√
+
+√
+
+Bachelor of Laws
+
+2007
+
+
+
+
+
+
+
+ 
+
+4)	The Vice President for Academic Affairs (VPAA) recounted that currently, in compliance with the CHED priority courses required under CMO 05, the University has encouraged new students to take the priority courses and increased enrollees on the said courses, yet maintaining the other courses not in the priority list because these are the University’s flagship and many students have yet to finish the courses.  He, however, mentioned that the University shall implement the CMO in the succeeding school years.
+
+
+
+5)	It is worthy to mention that the priority courses identified by CHED were offshoots of the studies and deliberations conducted by the oversight government agencies in consultation with the private organizations in line with the national development plan on manpower demands. Hence, it is necessary that the University encourage new enrollees to take up the priority programs for them to avail of the scholarship support and obtain a job-ready profession upon graduation.  Failure of the University to consider the list of priority courses identified in the CMO might lead to over/undersupply of graduates ultimately resulting to a limited chance of employment in the field of professions with high demand and required competencies in the local and global labor market. 
+
+
+
+--	90% Issuance of Certificate of Program Compliance (COPC) under CMO No. 14, Series of 2019 
+
+6)	Section 10 of the R.A. No. 10931 or the Universal Access to Quality Tertiary Education Act requires that the CHED and the Technical Education and Skills Development Authority (TESDA) shall ensure quality standards in the review and consequent endorsement of the budget of the State Universities and Colleges (SUCs), Local University and Colleges (LUCs) and state-run Technical and Vocational Institutions, respectively.  To implement said provision, CHED issued CMO No. 14, series of 2019 dated November 13, 2019 which provides the policies and guidelines in the issuance of Certificate of Program Compliance (COPC) to SUCs and LUCs. The COPC, as defined in the CMO, is a recognition that the specific degree program being offered by the SUCs/LUCs are fully compliant with the policies, standards and guidelines of the CHED to ensure that their existing programs are quality assured.
+
+
+
+7)	Data and information gathered from the Office of the VPAA disclosed the following status of the COPC requirement of the degree programs offered by the University:
+
+
+
+Levels
+
+No. of Programs Offered
+
+CHED issued COPC
+
+% of compliance
+
+Remarks for programs without COPC
+
+
+
+
+
+With
+
+Without
+
+
+
+
+
+Undergraduates
+
+44
+
+42
+
+2
+
+95%
+
+One program waiting for the result of CHED evaluation; and one has no program standards and guidelines yet from CHED. 
+
+Graduate-Master’s Degree
+
+14
+
+11
+
+3
+
+79%
+
+Two courses are still being consulted with CHED and one waiting for result.
+
+Graduate-Doctorate Degree
+
+4
+
+4
+
+-
+
+100%
+
+
+
+Post Baccalaureate 
+
+1
+
+
+
+
+
+-
+
+Not qualified for COPC
+
+Total
+
+63
+
+57
+
+5
+
+90%
+
+
+
+
+
+8)	As could be gleaned from the above data, 95% of the programs offered in the undergraduate level have available COPC, 79% in the Master’s Programs and 100% for the Doctorate Programs.  The University, as of December 31, 2020, has a remarkable 90% overall compliance with the requirement of the CMO No. 14.  The validation of the COPC was based on the COA obtained report from the Office of the VPAA. 
+
+
+
+9)	The VPAA commented that they are very conscious of the CHED requirement of securing the COPC to achieve full compliance of the policies, standards and guidelines of the CHED in ensuring quality assured curricular programs and continuously uphold academic excellence and achieve the development goals of the University. He further mentioned that the University received the recognition as Center of Development (COD) from the CHED for its 20 curricular courses, showing that the University has been recognized for its above average performance in teaching, research, and extension functions.
+
+
+
+10)	The University, however, for the five curricular courses, had to comply with the two year-grace period from the date of the CMO’s effectivity to continuously avail of the benefits and privileges accorded by the government to SUCs and likewise ensure a quality assured degree program offering to the public.
+
+
+
+--	  Independent accreditation of curricular courses under CMO No. 01, Series of 2005
+
+11)	It is the declared policy of the State to encourage and assist, through the CHED, higher education institutions which desire to attain standards of quality over and above the minimum required by the State. For this purpose and in aid of the exercise of its regulatory functions, CHED adopted policies, the latest of which is CMO No. 01, Series of 2005 dated February 15, 2005, providing the Revised Policies and Guidelines on Voluntary Accreditation in Aid of Quality and Excellence in Higher Education, to encourage both private and public sector institutions the use of voluntary non-governmental accreditation system, through the CHED accredited Accrediting agencies. Accreditation, as defined in the CMO, is a process for assessing and upgrading the educational quality of higher education institutions and programs through self-evaluation and peer judgment. It leads to the grant of accredited status by an accredited agency and provides public recognition and information on educational quality.
+
+ 
+
+12)	 The University has been a recipient, for years, of the different levels of program accreditation given by the Accrediting Agency of Chartered Colleges and Universities in the Philippines (AACCUP).  However, based on verified documents, the following observation was noted:
+
+
+
+a)	Out of the 44 curricular courses of the Undergraduate level, 36 courses have valid accreditation until years 2021 to 2024; four programs have expired validity period of AACCUP program accreditation, and another four programs have yet to meet the accreditation requirements, summarized as follows:  
+
+Accreditation Level
+
+Summary of Status of Accreditation in Quantity
+
+
+
+Within Accreditation Validity Period
+
+With Lapsed Accreditation Validity Period
+
+Without Accreditation
+
+Accredited Level I
+
+3
+
+
+
+
+
+Re-accredited Level II
+
+7
+
+
+
+
+
+Qualified for Level III
+
+2
+
+
+
+
+
+Level III
+
+1
+
+
+
+
+
+Re-accredited Level III
+
+7
+
+2
+
+
+
+Qualified for Level IV
+
+8
+
+2
+
+
+
+Re-accredited Level IV
+
+8
+
+
+
+
+
+No Program Accreditation
+
+
+
+
+
+4
+
+Total
+
+  36
+
+4
+
+4
+
+
+
+		The Vice President for Planning and Quality Assurance informed the Audit Team that they are waiting for the result of the reaccreditation to Level III of the Bachelor of Science in Industrial Technology Program with two courses offered and evaluation on Level IV Phase 2 of the Bachelors of Science in Civil Engineering and Chemistry programs. On the other hand, the four programs without accreditation are not yet qualified for accreditation because of the two-year graduate requirement of the courses. 
+
+
+
+	The COVID-19 pandemic also limited the facility of the evaluation process of the accreditation of the curricular programs of the University.
+
+
+
+b)	The 11 curricular programs, consisting of 18 courses, in the graduate levels have valid accreditations until the years 2021 to 2023, summarized as follows:
+
+Graduate Programs
+
+Status
+
+Validity
+
+Master of Science in Civil Engineering
+
+Re-accredited Level II
+
+May 16, 2018-May 15, 2022
+
+Master of Science in Electrical Engineering
+
+Re-accredited Level II
+
+May 16, 2018-May 15, 2022
+
+* Master of Arts in Education (Specializations: English, Filipino, Physical Science, Pre-School Education) (Cluster 1)
+
+Re-accreditedLevel II
+
+May 1, 2018-Apr 30, 2022
+
+Master of Information Technology
+
+Re-accreditedLevel II
+
+May 1, 2018-Apr 30, 2022
+
+Master of Arts in Nursing
+
+Re-accreditedLevel II
+
+May 1, 2018-Apr 30, 2022
+
+Doctor of Business Administration
+
+Re-accredited Level II
+
+May 16, 2018-May 15, 2022
+
+Sub-total
+
+9
+
+ 
+
+Doctor of Education (Specializations: Educational Management, Industrial Educational Management)
+
+Qualified for Level IV (On-going evaluation on Level IV Phase 2)
+
+Oct 2020-Sept 2021
+
+Sub-total
+
+2
+
+ 
+
+Master of Business Administration
+
+Re-accredited Level IV
+
+Nov 1, 2019-Oct 31, 2023
+
+Doctor of Public Administration
+
+Re-accredited Level IV
+
+Dec 1, 2019-Nov 30, 2023
+
+Master of Public Administration
+
+Re-accredited Level IV
+
+Dec 1, 2019-Nov 30, 2023
+
+* Master of Arts in Education (Specializations: Guidance & Counseling, Educational Management, Technology and Livelihood Education, Mathematics) (Cluster 2)
+
+Re-accredited Level IV
+
+Oct 1, 2019-Sept 30, 2023
+
+Sub-total
+
+7
+
+ 
+
+Total
+
+18
+
+
+
+ 
+
+13)	The University had to comply with the CHED guidelines in order to gain the benefits offered by the government and be assured of high standard quality curricular programs. 
+
+
+
+14)	We recommended and management agreed to undertake the following courses of action: 
+
+
+
+a)	Require the Vice President for Academic Affairs (VPAA) to (i) consider the identified priority courses under the latest CMO in the alignment of old curricular programs and in pursuing new curricular programs; (ii) continue encouraging students during registration and enrollment to take up priority courses for them to avail of the CSPs and benefit in terms of a job-ready profession in the local and global labor market; and (iii) follow-up the progress of consultation with CHED on the Master’s degree programs in Civil and Electrical Engineering and the Bachelor of Science in Mechanical Engineering program of the undergraduate. For the Bachelor of Science in Industrial Technology program, the University, while waiting for the program standards and guidelines from CHED, adopt standards and best practices of private and international institutions, if necessary, to meet the competency and skills of their graduates needed in the labor market;  
+
+b)	Direct the Vice President of Planning and Quality Assurance to (i) closely monitor the lapsed accreditation statuses of the different programs of the University for updating or upgrading on or before the end of the grace period; and (ii) ascertain that all curricular programs are subjected to AACCUP accreditation as soon as graduates are produced in order to enjoy the benefits thereon; and
+
+c)	Furnish the Audit Team of the copy of the CHED issued COPCs and AACCUP accreditation documents for reference in audit. 
+
+
+
+Compliance with Tax Laws
+
+
+
+2)	Withheld taxes due the Bureau of Internal Revenue (BIR) were not remitted in full, leaving a balance of ₱8,263,193.12 as at year-end in violation of the BIR Memorandum Circular No. 23-2007 dated March 23, 2007 and Revenue Regulations No. 10-2008 dated July 8, 2008.
+
+
+
+1)	Records showed that for CY 2020, the University withheld taxes from the compensation of the University officials and employees and from suppliers/contractors for executed contracts amounting to ₱50,619,313.26 and remitted the amount of ₱48,087,279.92 to the Bureau of Internal Revenue (BIR) in compliance with the BIR Memorandum Circular No. 23-2007 dated March 23, 2007 and Revenue Regulations No. 10-2008 dated July 8, 2008, as quoted below:
+
+
+
+BIR Memorandum Circular No. 23-2007 states that purchases of the government that are covered by Purchase Orders duly signed by the authorized official/s as well as purchases using the Petty Cash Fund shall be subject to the 5% final VAT withholding while Section 2.79 requires that every employer must withhold.  
+
+Revenue Regulation No. 10-2008 likewise states that every employer must withhold from compensation paid an amount computed in accordance with these Regulations. 
+
+
+
+2)	The following table shows the details of the amounts withheld and the corresponding remittances to the BIR:
+
+
+
+Month
+
+Withheld
+
+
+
+Tax Refund
+
+Remitted
+
+ Ending Balance 
+
+Beg. Balance 1.1.2020
+
+
+
+
+
+₱0.00
+
+₱7,629,551.44
+
+January
+
+₱ 0.00
+
+₱1,898,391.66
+
+2,524,692.69
+
+3,206,467.09
+
+February
+
+1,238,997.81
+
+
+
+2,402,688.71
+
+2,042,776.19
+
+March
+
+5,300,041.55
+
+
+
+3,312,570.32
+
+4,030,247.42
+
+April
+
+6,128,711.09
+
+
+
+3,389,057.18
+
+6,769,901.33
+
+May
+
+1,953,287.99
+
+
+
+4,736,920.02
+
+3,986,269.30
+
+June
+
+4,309,178.95
+
+
+
+3,294,933.08
+
+5,000,515.17
+
+July
+
+3,384,645.21
+
+
+
+3,504,146.01
+
+4,881,014.37
+
+August
+
+4,811,484.83
+
+
+
+5,341,938.23
+
+4,350,560.97
+
+September
+
+3,805,927.30
+
+
+
+4,514,378.22
+
+3,642,110.05
+
+October
+
+2,062,873.19
+
+
+
+2,613,533.39
+
+3,091,449.85
+
+November
+
+6,762,859.09
+
+
+
+5,417,998.68
+
+4,436,310.26
+
+December
+
+10,861,306.25
+
+
+
+7,034,423.39
+
+8,263,193.12
+
+Total
+
+₱50,619,313.26
+
+
+
+₱1,898,391.66
+
+₱48,087,279.922
+
+₱8,263,193.12
+
+
+
+3)	Records showed that the ending balance of ₱8,263,193.12 was remitted in January 2021.
+
+
+
+4)		We recommended and management agreed to continuously observe diligence in ensuring the timely remittance of withheld taxes to the BIR to raise funds for the developmental projects and programs of the government. 
+
+	
+
+	
+
+--	Compliance with RA No.8291, the Government Service Insurance System Act of 1997 
+
+
+
+1)	Remittances of withheld deductions for employees’ contributions/premiums and loans due the Government Service Insurance System (GSIS), including employer’s share, were substantially complied with in adherence to Republic Act (R.A.) No. 8291.  
+
+
+
+1)	The University withheld the amount of ₱54,879,878.22 and remitted the amount of ₱52,582,890.26  for CY 2020 from the employees’ and employer’s contributions to the Government Service Insurance System (GSIS) including the employees loan amortization in compliance with R.A. No. 8291 or the GSIS Act of 1997 which provide that:
+
+ 
+
+Section 14 Remittance of Contributions-
+
+ 
+
+14.1 Each government agency shall remit directly to the GSIS the employees’ and government agency’s contributions within the first Ten (10) days of the calendar month following the month to which the contributions apply. The remittance by the government agency of the contributions to the GSIS shall take priority over and above the payment of any and all obligations, except salaries and wages of its employees. 
+
+
+
+14.2 The government agency shall also deduct from the fixed monthly compensation of the employee the loan amortizations (consolidated loans, policy loan, emergency loan, housing loan, and other loans), premium payments (optional, pre-need and other non-life insurance) and other amounts due the GSIS. 
+
+
+
+14.3 The said amounts shall be remitted to the GSIS within the first Ten (10) days of the calendar month following the month when the deductions were effected, accompanied by supporting lists in the form prescribed by the GSIS. 
+
+
+
+14.4 The member has the corresponding responsibility to ensure that the required premium contributions and other amounts due the GSIS that were deducted from his compensation are promptly remitted to GSIS.
+
+
+
+2)	The following table shows the details of the amounts withheld and the corresponding remittances to the GSIS:
+
+
+
+Month
+
+Withheld
+
+Remitted
+
+ Ending Balance 
+
+Beg. Balance 1.1.20
+
+
+
+            0.00
+
+₱6,263,916.93          
+
+January, 2020
+
+3,261,312.84 
+
+   6,289,510.00 
+
+3,235,719.77 
+
+February
+
+  3,472,166.69 
+
+    3,269,427.90 
+
+3,438,458.56 
+
+March
+
+  3,918,752.06 
+
+3,502,250.09 
+
+3,854,960.53 
+
+April
+
+ 6,776,249.85 
+
+7,293,333.59 
+
+3,337,876.79 
+
+May
+
+1,824,737.53 
+
+31,391.54 
+
+  5,131,222.78 
+
+June
+
+5,737,429.01 
+
+10,066,222.26 
+
+802,429.53 
+
+July
+
+3,648,338.25 
+
+146,039.64 
+
+4,304,728.14 
+
+August
+
+7,337,780.19 
+
+7,037,184.74 
+
+4,605,323.59 
+
+September
+
+3,828,506.67 
+
+4,112,810.05 
+
+4,321,020.21 
+
+October
+
+  3,838,211.19 
+
+3,806,601.47 
+
+4,352,629.93 
+
+November
+
+1,550,456.13 
+
+3,728,106.70 
+
+ 2,174,979.36 
+
+December
+
+  3,422,020.88 
+
+3,300,012.28 
+
+2,296,987.96 
+
+Total
+
+₱54,879,878.22
+
+₱52,582,890.26
+
+₱2,296,987.96
+
+	
+
+3)	The balance of ₱2,296,987.96 was remitted in January 2021.
+
+
+
+4)	We recommended and management agreed to strictly observe the provisions of the GSIS Act of 1997 in order for the employees to freely enjoy the benefits of the insurance coverage and other benefits/loan facility from the GSIS.
+
+	
+
+
+
+Compliance with the provisions of R.A. No. 9679 or the HDMF Act of 2009
+
+
+
+1)	The employees’ contributions and employer’s share in the Pag-IBIG Fund were substantially remitted to the Home Development Mutual Fund (HDMF) in accordance with Republic Act (R.A.) No. 9679. 
+
+	
+
+1)		The University withheld the amount of ₱2,701,016.99 from the employees’ contributions and employer’s share and remitted the amount of ₱2,741,516.99 for CY 2020 to the Home Development Mutual Fund (HDMF) as well as the repayments of loans granted in compliance with the provisions of R.A. No. 9679 or the HDMF Act of 2009 which partly provide that:
+
+Section 3. Remittance of Collections.
+
+a. All employers shall remit to the Fund their contributions and the contributions of their covered employees as well as the latter’s loan amortizations or payments to the Fund, as provided for under Section 2 of this Rule, when applicable, within fifteen (15) days from the date the same were collected unless another period is previously agreed upon between the employer and the Fund, or within such periods as the Fund may prescribe otherwise. The Fund may prescribe a different remittance schedule for Filipinos employed by foreign based employers depending on the nature of their contracts or manner of their deployment abroad.
+
+b. Every employer required to set aside and remit such contributions as prescribed under R.A. No. 9679 and these Rules shall be liable for their payment, and non-payment thereof shall further subject the employer to a penalty of three percent (3%) per month of the amounts payable from the date the contributions fall due until paid. Every employer who actually deducts from the salary of his employee the latter’s loan amortization or payments to the Fund, as provided for under these Rules, shall be liable for their payment, and non-payment thereof shall likewise further subject the employer to a penalty of three percent (3%) per month of the amounts payable from the date the loan amortizations or payments fall due until paid.
+
+2)		In CY 2020, Management had sufficiently complied with R.A. No. 9679 or the Home Development Mutual Fund Act of 2009, by deducting properly and remitting promptly the HDMF premiums, loan amortizations and other premiums due to the HDMF as presented hereunder:
+
+	
+
+	Month
+
+	Withheld
+
+	Remitted
+
+	Ending Balance
+
+	As of Dec. 31, 2019
+
+	
+
+	₱43,900.00
+
+	January
+
+	₱176,647.47
+
+	₱174,951.47
+
+	45,596.00
+
+	February
+
+	187,199.03
+
+	230,299.03
+
+	2,496.00
+
+	March
+
+	326,275.35
+
+	129,935.56
+
+	198,835.79
+
+	April
+
+	421,225.08
+
+	238,484.43
+
+	381,576.44
+
+	May
+
+	189426.74
+
+	379,280.44
+
+	191,722.74
+
+	June
+
+	235,739.97
+
+	418,176.62
+
+	9,286.09
+
+	July
+
+	167,743.63
+
+	10,905.91
+
+	166,123.81
+
+	August
+
+	307,094.64
+
+	471,117.06
+
+	2,101.39
+
+	September
+
+	193,233.19
+
+	188,710.17
+
+	6,624.41
+
+	October
+
+	90,755.35
+
+	96,067.59
+
+	1,312.17
+
+	November
+
+	200,620.88
+
+	7,799.70
+
+	194,133.35
+
+	December
+
+	205,055.66
+
+	395,789.01
+
+	3,400.00
+
+	Total 
+
+	₱2,701,016.99
+
+	₱2,741,516.99
+
+	₱3,400.00
+
+
+
+3)	The balance of ₱3,400.00 was remitted in January 2021.
+
+
+
+4)	We recommended that management closely abide with the provisions of the HDMF Act of 2009 in order for the employees to receive the benefits of the HDMF contribution to their greater advantage.
+
+
+
+
+
+Compliance with PHIC Premium Contributions and Remittance
+
+
+
+1)	The University withheld ₱3,878,957.51 from the employees’ contributions and employer’s share and remitted to the Philippine Health Insurance Corporation the amount of ₱3,994,095.11 for CY 2020 in compliance with the Implementing Rules and Regulations (IRR) of Republic Act (R.A.) No. 7875 as amended, or the National Health Insurance Act of 2013. 
+
+
+
+1)	Section 18 of the Implementing Rules and Regulations (IRR) of Republic Act (R.A.) No. 7875 as amended by R.A. Nos. 9241 and 10606 also known as the National Health Insurance Act of 2013. The Act states that the monthly premium contribution of employed members shall be remitted by the employer on or before the date prescribed by the Corporation.
+
+
+
+2)	Review of the records disclosed that as of December 31, 2019, the University withheld the amount of ₱3,878,957.51, and remitted the amount of ₱3,994,095.11  to the Philippine Health Insurance Corporation or PhilHealth, summarized as follows:
+
+
+
+Month
+
+Withheld
+
+Remitted
+
+ Ending Balance 
+
+Beg. Balance 1.1.20
+
+
+
+₱         0.00
+
+ ₱481,585.46 
+
+January
+
+₱ 225,407.90 
+
+ 381,679.55 
+
+325,313.81
+
+February
+
+ 212,759.07 
+
+ 216,596.71 
+
+321,476.17
+
+March
+
+ 253,688.67 
+
+ 217,118.78 
+
+358,046.06
+
+April
+
+ 843,066.33 
+
+ 852,083.91 
+
+349,028.48
+
+May
+
+ 229,366.84 
+
+ 217,819.87 
+
+360,575.45
+
+June
+
+ 259,792.78 
+
+ 255,724.80 
+
+364,643.43
+
+July
+
+ 216,596.67 
+
+ 221,384.70 
+
+359,855.40
+
+August
+
+ 321,763.44 
+
+ 321,172.41 
+
+360,446.43
+
+September
+
+ 227,506.41 
+
+ 431,395.97 
+
+156,556.87
+
+October
+
+ 219,055.71 
+
+ 229,978.90 
+
+145,633.68
+
+November
+
+ 218,708.67 
+
+ 480.79 
+
+363,861.56
+
+December
+
+ 651,245.02 
+
+ 648,658.72 
+
+366,447.86
+
+Total
+
+₱3,878,957.51 
+
+3,878,957.51
+
+
+
+3,878,957.51
+
+
+
+3,878,957.51
+
+ 
+
+ ₱3,994,095.11 
+
+ ₱366,447.86 
+
+
+
+	1)		The balance of ₱366,447.86 was remitted in January 2020.
+
+	
+
+	2)		We recommended and Management agreed to comply faithfully with the provisions of the IRR of R.A. No. 7875, as amended, or the National Health Insurance Act of 2013. 
+
+
+
+
+
+Status of Suspensions, Disallowances and Charges
+
+
+
+14. 	As of December 31, 2020, unsettled disallowances amounted to ₱2,399,839.07. There were no outstanding audit suspensions and charges as at year-end.
+
+
+
+14.1	During CY 2020, the management had substantially complied with the rules and regulations on the receipt and use of government funds as evidenced by the absence of transactions that were suspended, disallowed or charged, as shown in the succeeding page.
+
+
+
+
+
+
+
+
+
+Particulars
+
+Beginning Balance
+
+NS/ND/DC
+
+NSSDC
+
+Ending Balance
+
+
+
+(As of December 31, 2019)
+
+(January 1, to December 31, 2020)
+
+(January 1, to December 31, 2020)
+
+(As of December 31, 2020)
+
+Notice of Disallowance
+
+₱2,405,339.07
+
+₱        0.00
+
+₱5,500.00
+
+₱2,399,839.07
+
+Total
+
+₱2,405,339.07
+
+₱        0.00
+
+₱5,500.00
+
+₱2,399,839.07
+
+
+
+14.2	The beginning balance of ₱2,405,339.07 pertains to the disallowed unauthorized Cost of Living Allowance (COLA) and honoraria granted to employees but have remained unsettled under the following Notices of Disallowance (NDs):
+
+
+
+ND No./Date
+
+Particulars
+
+Amount
+
+Remarks
+
+RLAO 2004-026/ 7/9/2004
+
+Unauthorized COLA of employees
+
+₱2,094,842.26
+
+Unsettled COLA of retired/deceased/resigned employees
+
+RLAO 2004-27/ 9/13/2004
+
+
+
+
+
+
+
+2014-01/ 6/11/2014
+
+Overpaid Honoraria
+
+304,996.81
+
+With authority for settlement thru installment.
+
+Total
+
+
+
+₱2,399,839.07
+
+
+
+
+
+14.3	As of year-end, only ₱5,500.00 was refunded by the persons liable during the year through installment payments as approved by the COA Commission Proper.
+
+
+
+We recommended and the management agreed to continually enforce the settlement of the remaining disallowance of ₱2,399,839.07.  
+
+44
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5342 @@
+PART II - OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+A)	FINANCIAL AUDIT
+
+
+
+Unrecorded reconciling items
+
+1)	The balance of the Cash in Bank – Local Currency Current Account (CIB-LCCA) amounting to ₱317,913,336.42 as of December 31, 2020 is understated by ₱7,076,068.66 due to unrecorded reconciling items contrary to Sections 5 and 6, Chapter 21 of the Government Accounting Manual for National Government Agencies (GAM for NGAs) Volume I; thus, affecting the fair presentation of the financial statements. 
+
+
+
+	1)		Chapter 21, of the GAM for NGAs, Volume I provides the following provisions governing the preparation and submission of Bank Reconciliation Statements (BRS):
+
+
+
+Section 5.  Preparation of the Bank Reconciliation Statement. The Chief Accountant/Designated Staff shall within ten days from receipt of the monthly Bank Statement (BS) together with the paid checks, original copies of Debit Memoranda (DM)/Credit Memoranda (CM) from the GSB, reconcile the BS with the GL and prepare the BRS in four copies.
+
+Section 6.   Recognition of Adjustments.  The Chief Accountant/Designated Staff shall prepare a JEV to recognize all reconciling items that require adjustment and correction in the books of accounts.
+
+
+
+	2)		As of December 31, 2020, the Cash in Bank –Local Currency Current Account has a consolidated balance of ₱317,913,336.42. 
+
+	
+
+	3)		The PN maintained the Philippine Navy Trust Receipt (PNTR) account with the Land Bank of the Philippines (LBP). The account is intended for the collection of electricity, water and light, proceeds from sale of documents, liquidated damages, among others. Likewise, the Philippine Navy Finance Center (PNFC) maintained LBP account no. 1682-1026-39 intended for the payment of pay and allowances of all PN personnel.
+
+	
+
+	4)		Verification of records pertaining to the two bank accounts disclosed a total balance per Subsidiary Ledger (SL) of ₱174,782,311.28 and per bank of ₱103,422,878; thus, a difference of ₱71,359,432.63, detailed below:
+
+
+
+Unit
+
+Book Balance
+
+Bank Balance
+
+Variance
+
+HPN (PNTR)
+
+₱77,202,420.47
+
+₱85,005,227.00
+
+(₱7,802,806.53)
+
+PNFC
+
+97,579,890.81
+
+18,417,651.65
+
+79,162,239.16
+
+Total
+
+₱174,782,311.28
+
+₱103,422,878.65
+
+₱71,359,432.63
+
+
+
+	5)		Reconciliation disclosed that the noted difference of ₱71,359,432.63 was due to various reconciling items affecting book and bank balances (Annex C). Further verification revealed that the book reconciling items are still uncorrected, unrecorded and unaccounted for which resulted in a net understatement of the account CIB – LCCA by ₱7,076,068.66; hence, propriety of the reported balance cannot be ascertained. Details are shown below:
+
+
+
+Unit
+
+Particulars
+
+Amount
+
+HPN (PNTR)
+
+a)	Unrecorded deposit
+
+₱8,544,631.14
+
+
+
+b)	Unrecorded interest income
+
+82,907.63
+
+
+
+c)	Errors (₱11,012.70  - ₱700.00)
+
+            (₱700.00 - ₱700.00)
+
+10,312.70
+
+
+
+d)	Unreconciled amount in Prior Year
+
+(211,660.94)
+
+
+
+e)	Undetermined debit memos
+
+(22,841.73)
+
+PNFC
+
+f)	Unsupported credit memos
+
+666,266.63
+
+
+
+g)	Unsupported debit memos
+
+(1,993,546.77)
+
+(Over)/Understatement of Cash in Bank - LCCA
+
+₱7,076,068.66
+
+
+
+	6)		Review and analysis of the BRS for PNTR account revealed that various book reconciling items totaling ₱8,873,754.24 (Annex D) remained unrecorded as summarized below:
+
+
+
+Particulars
+
+less than 30 days
+
+31- 90 days
+
+91- 365 days
+
+Over   1    Year
+
+Total
+
+Unrecorded Deposits
+
+
+
+
+
+
+
+
+
+
+
+  CA Cash  
+
+     Dep
+
+
+
+₱1,124,372.00 
+
+₱1,050,584.70 
+
+
+
+₱2,174,956.70 
+
+  CA CM Ord
+
+₱124,946.50 
+
+683,546.66 
+
+334,779.14 
+
+₱920,749.43 
+
+2,064,021.73 
+
+  CA CM 
+
+    Payroll
+
+
+
+
+
+
+
+290,684.66 
+
+290,684.66 
+
+  CA ONUS 
+
+    CK
+
+
+
+
+
+95,566.49
+
+
+
+95,566.49 
+
+  CM Remit
+
+
+
+
+
+
+
+   1,878,136.35 
+
+1,878,136.35 
+
+  EGPS   
+
+   Payment
+
+10,587.50 
+
+75,000.00 
+
+311,610.73 
+
+   1,644,067.08 
+
+2,041,265.31 
+
+Sub total 
+
+135,534.00 
+
+1,882,918.66 
+
+1,792,541.06 
+
+4,733,637.52 
+
+8,544,631.24 
+
+Unrecorded Interest/s earned 
+
+                82,907.63 
+
+
+
+
+
+
+
+                  82,907.63
+
+Errors which overstate the book balance
+
+                      700.00 
+
+
+
+
+
+
+
+                       700.00 
+
+Errors which understate the book balance
+
+                11,000.00 
+
+                            0.90 
+
+                 11.80 
+
+
+
+                  11,012.70 
+
+Unreconciled amount PY 
+
+
+
+
+
+
+
+           211,660.94 
+
+                211,660.94 
+
+Undetermined Debit to the accounts
+
+
+
+
+
+
+
+             22,841.73 
+
+                  22,841.73 
+
+Total
+
+₱230,141.63 
+
+₱1,882,919.56 
+
+₱1,792,552.86 
+
+₱4,968,140.19 
+
+₱8,873,754.24 
+
+
+
+	7)		Based on the above table, ₱4,968,140.19 or 56 percent of the unrecorded reconciling items pertain to prior years’ transactions due to non-submission of bank credit memos, deposit slips, report of actual remittances, debit memos and other relevant supporting documents necessary to show details of transactions credited/debited to the Agency’s bank account.
+
+	
+
+	8)		The unrecorded deposits totaling ₱8,544,631.24 pertains to credit memoranda which remained undetermined at year-end. Of the total amount, 55.40 percent or ₱4,733,637.52 pertains to FY 2019 transactions.  
+
+	
+
+	9)		The unrecorded interest amounting to ₱82,907.63 and unadjusted errors of ₱11,712.70 (₱700.00 + ₱11,012.70) for erroneous recording pertain to current year’s transactions which were not adjusted at year-end.
+
+
+
+	10)		The unreconciled amount in prior years and undetermined debit Memoranda amounting to ₱211,660.94 and ₱22,841.73, respectively, have no available information; hence, the reason for non-recording.
+
+
+
+	11)		In addition, included as reconciling items were deposits in transit totaling ₱610,342.27. Verification disclosed that the amount of ₱495,973.13 were deposited to the bank prior to September 30, 2020 but was not reflected in the bank statements (BS) at year-end. Normally, deposit in transit is recorded by the bank on the following month after it was deposited. However, despite the lapse of more than one month, the deposits in transit have yet to be adjusted in the bank balance thereby casting doubt on the validity of the transaction.  Further, it was also noted that deposits made on January 4, 2021 totaling ₱114,369.14 were included as reconciling item in the BRS as of December 31, 2020.  Details are as follows:
+
+
+
+Date deposited
+
+Concerned unit
+
+Amount
+
+January 9, 2020
+
+Headquarters Philippine Navy
+
+₱177,440.12
+
+March 10, 2020
+
+Naval Installation Facilities -Eastern Mindanao (NIF-EM)
+
+225,180.88
+
+September 21, 2020
+
+NIF-EM
+
+93,352.13
+
+ Sub total 
+
+
+
+495,973.13
+
+January 4, 2021
+
+Bonifacio Naval Station (BNS)
+
+54,803.79
+
+January 4, 2021
+
+BNS
+
+59,565.35
+
+    Sub total
+
+
+
+114,369.14
+
+Total
+
+
+
+₱610,342.27
+
+	
+
+	12)		On the other hand, the reconciling items noted in the BRS of PNFC pertain to credit and debit memoranda amounting to ₱666,266.63 and ₱1,993,546.77; respectively, which cannot be validated due to absence of documents/information.
+
+	
+
+	13)		The delayed/non-adjustment of the reconciling items is contrary to Sections 5 and 6, Chapter 21 of the GAM for NGAs, Volume I; hence, resulted in the understatement of the account CIB - LCCA and other affected accounts by ₱7,076,068.66.
+
+
+
+	14)		We recommended that Management instruct the:
+
+
+
+a)	Navy Finance Service Unit (NFSU)-Manila and Disbursement and Remittance Unit (DRU) to request for documents from the bank to support the unrecorded debit and credit memoranda;
+
+
+
+b)	NFSU-Manila to inquire from the depository bank the status of deposits in transit which have outstanding for three months or more; and
+
+
+
+c)	Naval Accounting Service Office (NASO) to prepare JEV on reconciling items to reflect correct balance of the account and submit explanation on the inclusion of deposits made in January 2021 in the BRS for the month of December 31, 2020.
+
+
+
+Management Comment
+
+
+
+	15)		PNFC explained that the files for FYs 2016-2018 are no longer available with LBP due to wear and tear and disintegrated condition, as per letter dated February 2, 2020 of LBP to PNFC. The Commanding Officer (CO), DRU has issued Memorandum providing guidelines and procedures to be observed by its personnel in handling the LCCA 1682-1026-39 account to avoid the same deficiency in the future.  Further, NFSU-Manila is coordinating with Land Bank of the Philippine – Fort Bonifacio to update the status of deposits in transit outstanding for three months or more.
+
+
+
+
+
+Unreliable Inventory balance
+
+
+
+2)	The Inventory balance of ₱1,729,213,542.37 as of December 31, 2020 is unreliable due to unreconciled difference amounting to ₱418,474,740.25 between the accounting records and the property records, contrary to Section 17 Chapter 8 and Section 6 Chapter 21 Volume I of the GAM for NGAs.
+
+
+
+	1)		Section 17(i), Chapter 8 Volume I of the GAM for NGAs provides that, the Report on the Physical Count of Inventories (RPCI) shall be used to report physical count of supplies by type of inventory as at a given date. It shows the balance of inventory items per card and per count and shortage/overage, if any.  These include the semi-expendable property wherein the issue is covered by Inventory Custodian Slip.
+
+
+
+	2)		Section 6, Chapter 21, Volume I of the same manual requires that, the Chief Accountant/Designated Staff shall prepare a Journal Entry Voucher (JEV) to recognize all reconciling items that require adjustments and correction in the books of accounts.
+
+
+
+	3)		Three PN units have verified that the Inventory balance recorded in books differs with the balance as reported in the RPCI as presented below:
+
+
+
+Unit
+
+Accounting records
+
+Property records
+
+Discrepancy
+
+BNS
+
+₱11,451,750.74
+
+₱8,434,420.74
+
+₱3,017,330.00
+
+NIFSL
+
+1,722,908.04
+
+13,946.79
+
+1,708,961.25
+
+NLC
+
+1,573,991,109.58
+
+1,160,242,660.58
+
+413,748,449.00
+
+Total
+
+₱1,587,165,768.36
+
+₱1,168,691,028.11
+
+₱418,474,740.25
+
+
+
+	4)		Reconciliation and verification revealed the following:
+
+	
+
+a)	In BNS, the accounting and property records were not reconciled due to absence of regular updating of Supplies Ledger Cards (SLC)/Stock Cards (SC). Receipts and issuances of each inventory item were not regularly updated which resulted in errors in recording and the inaccurate report of physical count of inventory;
+
+
+
+b)	In NIFSL, the noted discrepancy cannot be ascertained due to some inaccuracies in the RPCI; and
+
+
+
+c)	In NLC, the discrepancy had been noted in prior years audit report from the total amount of ₱547,936,611.61 for which the Field Accounting Service Unit (FASU) have recorded issuances totaling ₱134,188,162.61; hence, leaving a balance of ₱413,748,449.00.
+
+
+
+	5)		We recommended that Management require the concerned Field Service Property and Accountability Office (FSPAO) and Field Accounting Service Unit (FASU) to reconcile their records regularly in order to detect discrepancies and effect immediate corrections of the inventory accounts.
+
+	
+
+	Management Comment
+
+	
+
+	6)		BNS commented that constant coordination between the FASU-BNS, Supply Manila Naval Hospital and FSPAO is being made for the updated and timely submission of reports of inventories, Delivery Receipt, Inspection and Acceptance Report and Purchase Orders while for FASU, to reconcile and to properly record transactions in the JEV.
+
+
+
+	7)		Supply Officer and Accountant of NIFSL have yet to prepare the RSMI and adjusting entries. The SO has maintained SCs and updated in accordance with the prescribed form. The Accountant has monitored monthly the correct balance of Supply Ledger Cards (SLCs) with the Inventory accounts.
+
+
+
+	8)		NLC commented that they continue to reconcile their records involving the “Task Force Reconcile” consisting of the O/LC4, O/LC10, FASU and FSPAO to address the observation.
+
+
+
+
+
+Lack of regular reconciliation of records of fund transfers 
+
+
+
+3)	Receivable from Procurement Service – Department of Budget and Management (PS-DBM)  for various fund transfers totaling ₱37,215,537.49 cannot be ascertained due to discrepancy of ₱10,938,419.13 between the PN book balance and the PS-DBM confirmation reply which is attributed to lack of regular reconciliation of records and coordination between the two agencies contrary to Section 7, Chapter 19 of the GAM for NGAs, Volume I, thereby casting doubt on the accuracy of the Due from National Government Agencies account  balance  of ₱37,227,073.94 as at year-end.
+
+
+
+	1)		Section 7, Chapter 19 of the GAM for NGAs, Volume I provide that: xxx. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in IPSASs. xxx
+
+	
+
+	2)		Verification of the consolidated financial statements of PN as of December 31, 2020 showed that the Due from NGAs account has a balance of ₱37,227,073.94 of which ₱37,215,537.49 pertains to the outstanding balance of the funds transferred to PS-DBM, broken down below:
+
+
+
+Unit
+
+Amount
+
+Headquarters Philippine Navy
+
+₱13,816,178.48
+
+Headquarters Support Group
+
+31,616.12
+
+Bonifacio Naval Station
+
+99,302.22
+
+Naval Intelligence and Security Force
+
+304,894.99
+
+Fleet Marine Ready Force
+
+2,793.86
+
+Naval Logistic Center
+
+22,928,766.57
+
+Naval Installation and Facilities- North Luzon
+
+11,409.17
+
+Naval Installation and Facilities - West
+
+20,576.08
+
+Total
+
+₱37,215,537.49
+
+
+
+	3)		On January 21, 2021, a letter was sent thru e-mail to PS-DBM requesting for confirmation of the correctness of the balance as recorded in the books.  However, PS-DBM confirmed only a balance of ₱392,581.78 per Confirmation Reply dated February 15, 2021 showing a difference of ₱36,822,955.71 as compared to the balance recorded in the PN books.
+
+	
+
+	4)		NASO explained that PN transactions are recorded by PS-DBM under six customer codes. They also explained that the balance confirmed by the PS-DBM pertains only to one Customer Code (0088). NASO provided a Summary of PS-DBM account balances per Unit as reflected in the books and the corresponding balances per Customer Code as follows:
+
+
+
+	Unit
+
+	PN Balance
+
+	Customer Code
+
+	PS-DBM Balance
+
+	Variance
+
+	HPN
+
+	₱13,816,178.48
+
+	0028
+
+	₱14,254,681.50
+
+	₱(406,886.90)
+
+	HSG
+
+	31,616.12
+
+	
+
+	
+
+	
+
+	Subtotal
+
+	13,847,794.60
+
+	
+
+	
+
+	
+
+	NLC
+
+	22,928,766.57
+
+	0029
+
+	11,595,076.32
+
+	11,333,690.25
+
+	FMRF
+
+	2,793.86
+
+	
+
+	
+
+	
+
+	Subtotal
+
+	22,931,560.43
+
+	
+
+	
+
+	
+
+	NISF
+
+	304,894.99
+
+	0088
+
+	392,581.78
+
+	11,615.43
+
+	BNS
+
+	99,302.22
+
+	
+
+	
+
+	
+
+	NPMC
+
+	-
+
+	
+
+	
+
+	
+
+	Subtotal
+
+	404,197.21
+
+	
+
+	
+
+	
+
+	NRC
+
+	-
+
+	0089
+
+	0.15
+
+	(0.15)
+
+	NFW
+
+	20,576.08
+
+	OR4B000000
+
+	012
+
+	20,575.58
+
+	0.50
+
+	NFNL
+
+	11,409.17
+
+	OR0100000
+
+	000013
+
+	11,409.17
+
+	-
+
+	Total
+
+	₱37,215,537.49
+
+	
+
+	₱26,274,324.50
+
+	₱10,938,419.13
+
+	
+
+	5)		We noted that only two Customer Codes were covered with documents secured from PS-DBM. Further verification disclosed that there is difficulty in reconciling the two records because the Statement of Accounts (SOA) provided by PS-DBM pertained to transactions of all PN units and there were no details provided for the name of the unit; hence, some amounts reflected in the books cannot not be traced. In addition, the SL for fund transfers are being maintained by each PN unit.
+
+	
+
+	6)		In our letter dated June 9, 2020, we informed the Assistant Chief of Naval Staff for Logistics (O/N4), PN and the Chief Accountant, Navy Accounting Service Office (NASO) on the existence of funds transferred to PS-DBM by PN - Naval Procurement Service and PN-Cavite amounting to ₱21,596,680.00 and ₱8,028,405.00, respectively or a total of ₱29,625,085.00 that remained idle for more than two to four years. These amounts are reflected in the Accomplishment Report of the Procurement Service (PS) Interagency Task Force (IATF). O/N4 and the Chief Accountant, NASO were advised to coordinate with PS-DBM and demand for its immediate refund. However, the status of coordination made, if any, has yet to be received by the Audit Team as to date. 
+
+
+
+	7)		We recommended that Management require the:
+
+
+
+a)	O/N4 and NASO to submit status of idle funds totaling ₱29,625,085.00 as reported in the Accomplishment Report of the PS- IATF and related documents pertaining thereto;
+
+
+
+b)	 O/N4 and NASO to exert efforts to immediately reconcile their records with the PS-DBM to reflect the correct balances and request for the return of long outstanding fund transfers; and
+
+
+
+c)	NASO to instruct the respective FASUs to coordinate with concerned units of Logistics Office and Supply Office for the submission of lacking liquidation documents from PS-DBM for recording in the books. 
+
+
+
+
+
+
+
+
+
+
+
+	Management Comment
+
+
+
+	8)		O/N4 commented that a letter dated March 12, 2021 was sent to PS-DBM requesting for the status and updates on the unutilized/dormant PS-DBM balances to be returned to the BTr as recommended by FOIC, PN.
+
+
+
+	9)		NASO commented that FASUs were directed to coordinate with their respective units and with PS-DBM. SOA and SLs were requested from PS-DBM to facilitate reconciliation. However, only in CY 2021 that documents were provided to PN. Hence, reconciliation is currently ongoing.
+
+	
+
+	
+
+Unreliable Balance of Due from GOCCs
+
+
+
+4)	The balance of the Due from Government Owned and/or Controlled Corporations account of ₱2,078,751,871.98 as at year-end is unreliable due to accounting errors totaling ₱63,550,987.18 affecting fund transfers to the Philippine Trading International Corporation (PITC) and accounting deficiency attributed to inadequate reconciliation of the Philippine Navy (PN) and PITC records with a variance of ₱110,286,343.99; thus, affecting the fair presentation of the financial statements. Furthermore, residual balances totaling ₱1,973,234.14 were not returned/refunded to PN while projects totaling ₱2,011,860,224.60 remained uncompleted at year-end despite the lapse of more than two years.
+
+
+
+	1)		Section 15 Chapter I, Volume I of the GAM for NGAs states that, Fair Presentation. The FSs shall present fairly the financial position, financial performance and cash flow of the entity. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenues, and expenses set out in the PPSAS. The application of PPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.”
+
+
+
+	2)		Memorandum of Agreement (MOA) between the AFP and PITC provides that interest from deposits of the transferred funds and all the damages/penalties imposed by PITC against defaulting suppliers shall be for the benefit of PN/AFP.
+
+
+
+	3)		The Due from Government Owned and/or Controlled Corporations account has a balance of ₱2,078,751,871.98 as at December 31, 2020 which includes funds transferred to PITC amounting to ₱2,076,817,059.28 for procurements of supplies, materials, equipment, and infrastructure projects through the use of Agency Outsourcing Request (AOR). This account is credited upon submission of liquidating documents pertaining to deliveries of procured items. 
+
+
+
+	4)		Verification showed that the book balance of Due from GOCCs-PITC account differs by ₱356,448,623.16 from the balance confirmed by PITC as shown below:
+
+
+
+Unit
+
+Balance per records of
+
+Difference
+
+
+
+PN
+
+PITC
+
+
+
+HSG
+
+      ₱21,556,494.18 
+
+ ₱14,606,556.78 
+
+     ₱6,949,937.40 
+
+NCEBde
+
+    416,260,387.86 
+
+    271,953,924.20 
+
+  144,306,463.66 
+
+PMC
+
+    453,203,020.42 
+
+    423,400,443.20 
+
+    29,802,577.22 
+
+NINFL
+
+        6,260,989.79 
+
+        6,158,091.86 
+
+        102,897.93 
+
+NIF-C
+
+      36,382,536.41 
+
+      35,727,886.63 
+
+        654,649.78 
+
+NIF-EM
+
+      14,892,593.22 
+
+        1,645,098.89 
+
+    13,247,494.33 
+
+NIF-W
+
+      25,398,438.59 
+
+      21,865,393.48 
+
+     3,533,045.11 
+
+NETDC
+
+      49,295,572.99 
+
+                       -   
+
+    49,295,572.99 
+
+NSSC
+
+    122,478,785.05 
+
+    120,857,303.21 
+
+     1,621,481.84 
+
+NBC
+
+    241,801,462.22 
+
+    226,274,170.98 
+
+    15,527,291.24 
+
+NLC
+
+    689,286,778.55 
+
+    597,879,566.89 
+
+    91,407,211.66 
+
+Total
+
+ ₱2,076,817,059.28 
+
+ ₱1,720,368,436.12 
+
+₱356,448,623.16 
+
+
+
+	5)		Results of reconciliation of Subsidiary Ledgers (SLs) of PN and PITC as of December 31, 2020 disclosed various unrecorded transactions in the PN books totaling ₱356,448,623.16 as shown below: 
+
+
+
+Particulars
+
+PN Books
+
+PITC Books
+
+Difference
+
+Balance 12/31/2020
+
+₱2,076,817,059.28
+
+₱1,720,368,436.12
+
+₱356,448,623.16
+
+Add/(Deduct)
+
+ 
+
+ 
+
+ 
+
+PN reconciling items
+
+ 
+
+ 
+
+ 
+
+Unrecorded completed projects/ deliveries
+
+(55,451,310.93)
+
+ 
+
+(55,451,310.93)
+
+Unrecorded residual balances refunded by the PITC to PN
+
+(7,815,982.93)
+
+ 
+
+(7,815,982.93)
+
+Unrecorded liquidated damages (LDs) remained in records of PITC pending refund to PN
+
+103,387.60
+
+ 
+
+103,387.60
+
+Unrecorded interest earned
+
+180,305.72
+
+ 
+
+180,305.72
+
+PITC reconciling items
+
+ 
+
+ 
+
+ 
+
+Service fees deducted by PITC upon Award of the Contract per MOA
+
+ 
+
+20,488,735.21
+
+(20,488,735.21)
+
+Partial payment of PITC to suppliers/ contractors for partial delivery or progress billings
+
+
+
+162,689,943.42
+
+(162,689,943.42)
+
+Net amount of balances which cannot be identified in both records due to different information or amounts
+
+
+
+110,286,343.99
+
+(110,286,343.99)
+
+Balance per Audit
+
+₱2,013,833,458.74
+
+₱2,013,833,458.74
+
+-
+
+
+
+	6)		As can be gleaned from the above table, the concerned PN units failed to record seven deliveries made by PITC totaling ₱55,451,310.93, as enumerated below:
+
+	
+
+Unit
+
+Particulars
+
+Amount
+
+NCEBde
+
+Supply and Delivery of Construction Materials for the Repairs and Maintenance of RTHO Bldg. at NSJF, Fort Bonifacio, Taguig City
+
+                    ₱1,410,932.59 
+
+
+
+Supply and Delivery of Labor and Materials for the Repairs/Repartitioning f N5 office
+
+                    1,078,801.90 
+
+
+
+Supply and Delivery of Construction Materials for Enhancement of Communication Tower at Pag-asa
+
+                    1,218,800.00 
+
+ 
+
+Sub-total
+
+3,708,534.49 
+
+PMC
+
+Supply and delivery of spare parts of KM450 Trucks.
+
+6,721,259.94 
+
+NIF-EM
+
+Repair of Seawall NSFA
+
+11,158,182.05 
+
+
+
+Repair of Capt Feranil Pier (Installation of Elevated Water Tank)
+
+                    1,579,793.26 
+
+
+
+Sub-total
+
+12,737,975.31 
+
+NIF-W
+
+ Upgrading of Emergency Distribution System at NSAJ
+
+ 
+
+3,034,261.19 
+
+NLC
+
+2.75 Inch Rockets MOD 2
+
+29,249,280.00 
+
+
+
+Total
+
+₱55,451,310.93 
+
+
+
+	7)		In addition, residual balances of fund transfers for various projects refunded by PITC to various PN units totaling ₱7,815,982.93 were not reflected in their respective books of accounts, details are as follows:
+
+	
+
+Unit
+
+Particulars
+
+Amount
+
+NCEBde
+
+Repairs and Maintenance of various ICT Equipment of NCEBde for PN
+
+        ₱213,767.20 
+
+NETDC
+
+Asphalt overlay
+
+648,731.46 
+
+ 
+
+Waterproofing of NOCC roof slab
+
+        117,873.36 
+
+ 
+
+Waterproofing of Jurado Hall Roof slab
+
+
+
+ 
+
+Repair of NCSC barracks
+
+464,129.56 
+
+ 
+
+Sub-total
+
+1,230,734.38 
+
+NSSC
+
+Supply and Delivery of Labor and Materials for the Proposed Woodhull Shop Arrangement for MPAC MK III
+
+          78,372.88 
+
+NBC
+
+Rehabilitation of Commo Brown Breaching Area Shore Power Connection System and Perimeter Lights NBHA Cavite City
+
+        102,679.29 
+
+
+
+Installation of Street Lights at NBHA and NSPL
+
+
+
+
+
+Repair of PN Orchestra Barracks NBHA Cavite City
+
+
+
+
+
+Repair of DTS Barracks NBHA Cavite City
+
+
+
+
+
+Repair of Sta Barbara Drainage System NBHA Cavite City
+
+
+
+
+
+Repair of NIC Male and Female Barracks at NBHA Cavite City
+
+
+
+
+
+Rehab of Commo Posadas Wharf Shore Power System NSPL Cavite City
+
+
+
+
+
+Painting of Military Quarters at NBHA and NSPL Cavite City
+
+
+
+
+
+Asphalt Overlay of Balayan Concepcion and Taaleno Streets of PHILFLT Area NBHA Cavite City
+
+
+
+
+
+Repair of Rehab of NAVSOG Airborne Tower at NBHA Cavite City
+
+
+
+
+
+Repair of Rehab of OCF Crews Berth at NBHA
+
+
+
+
+
+Repair/ Rehabilitation of CNH Multi-Purpose Hall
+
+2,773,399.53 
+
+
+
+Upgrade of MRT Shop Bldg./Port Facilities
+
+128,878.71 
+
+
+
+Rehabilitation of B-PWC Annex Bldg. NSPL-NBC
+
+1,812,000.01 
+
+
+
+Rehabilitation of Generator #2 NBC
+
+1,200,000.00 
+
+ 
+
+Sub-total
+
+6,016,957.54 
+
+NLC
+
+CTG 81MM (12,770) HE & Hand Grenade, Smoke (3,200)
+
+8,704.00 
+
+ 
+
+Runflat insert for LAV Tires of PMC V300 and V150
+
+237,440.00 
+
+ 
+
+Growth/ Additional Repairs for the Dry Docking and Other Related Repairs (DDOR) of 17-TFC
+
+          10,822.26 
+
+ 
+
+Pixilated Battle Dress Uniform (BDU), PHILMARPAT Combat Boots, General Office Attire (GOA), Shoes Wet look, T-Shirt Olive Drab (OD), Pants Short Olive Drab (OD), Combat Rig, Pack Marching (OD), Sword with Scabbard, Belt Sam Brown 
+
+       2,480.00 
+
+ 
+
+Growth and Additional Repairs on the structural and other equipment of BRP ANG PANGULO (AY 25)
+
+          16,704.67 
+
+ 
+
+Sub-total
+
+  276,150.93 
+
+
+
+Total
+
+₱7,815,982.93
+
+
+
+	8)		Reconciliation also showed that the SL maintained by PITC for PN reflected liquidated damages and interests earned amounting to ₱103,387.60 and ₱180,305.72, respectively, or a total of ₱283,693.32 which were not remitted to PN; hence, not recorded in the book. Details are shown below:
+
+	
+
+Unit
+
+Particulars
+
+Amount
+
+NCEBde
+
+Supply and Delivery of Construction Materials for the Development of Eight (8) KIG Detachments at KIG, Palawan
+
+        ₱91,991.60 
+
+
+
+NLC
+
+Pixilated Battle Dress Uniform (BDU), PHILMARPAT Combat Boots, General Office Attire (GOA), Shoes Wet look, T-Shirt Olive Drab (OD), Pants Short Olive Drab (OD), Combat Rig, Pack Marching (OD), Sword with Scabbard, Belt Sam Brown
+
+11,396.00 
+
+Total Liquidated Damages
+
+103,387.60
+
+NLC
+
+Interest earned on deposit with LBP-PITC-PN for the 4th Quarter ending December 31, 2020 net of withholding tax of 45,076.43
+
+180,305.72,
+
+Total
+
+₱283,693.32
+
+
+
+	9)		Inquiry with the personnel of NASO revealed that the non-recording of transactions was due to absence of information and documents to support the same.
+
+
+
+	10)		Furthermore, service fees totaling ₱20,488,735.21 charged by PITC as provided in the MOA (Annex E), upon issuance of the Notice of Award (₱19,223,436.29) and completion of contract (₱1,265,298.92), were deducted from funds transferred (as shown in the SL of PN) but were not recorded in the PN books due to absence of documents, as summarized on the next page: 
+
+	
+
+Units
+
+Upon issuances of the NOA
+
+Contract completed
+
+Total
+
+HSG
+
+₱352,959.35
+
+₱129,352.52 
+
+₱482,311.87
+
+NCEBde
+
+7,132,861.75
+
+392,411.98
+
+7,525,273.73
+
+PMC
+
+748,924.54
+
+134,425.20
+
+883,349.74
+
+NIF-NL
+
+102,897.93
+
+-
+
+102,897.93
+
+NIF-C
+
+654,649.78
+
+-
+
+654,649.78
+
+NIF-EM
+
+509,519.02
+
+-
+
+509,519.02
+
+NIF-W
+
+438,098.70
+
+60,685.22
+
+498,783.92
+
+NSSC 
+
+1,543,108.96
+
+-
+
+1,543,108.96
+
+NBC
+
+4,134,127.45
+
+-
+
+4,134,127.45
+
+NLC
+
+3,606,288.81
+
+548,424.00
+
+4,154,712.81
+
+Total
+
+₱19,223,436.29
+
+₱1,265,298.92
+
+₱20,488,735.21
+
+
+
+	11)		It was noted that another cause of variance was due to amount paid to suppliers/contractors by PITC totaling ₱162,689,943.42 (Annex F) representing partial delivery or progress billings, as summarized below: 
+
+	 
+
+Units
+
+   Amount 
+
+HSG
+
+₱   6,467,625.53
+
+NCEBde
+
+101,572,430.74
+
+PMC
+
+22197,967.54
+
+NBC
+
+5,376,206.25
+
+NLC
+
+27,075,713.36
+
+Total
+
+₱162,689,943.42
+
+
+
+	12)		Despite identification of reconciling items in both records, there is still a noted variance of ₱110,286,343.99 (Annex G),  between the records of PN and PITC with balances amounting to ₱412,335,646.94 and ₱302,049,302.95, respectively,  which is difficult to reconcile/identify because the amount recorded in the PN records is different from those recorded in the PITC. Moreover, some amounts could no longer be traced. 
+
+	
+
+	13)		The lack of coordination and reconciliation by the concerned offices of PN with the PITC on the status of balances of the transferred funds for projects resulted in the misstatement of the affected accounts in the financial statements.   
+
+	
+
+    Uncompleted projects
+
+
+
+	14)		Review of the fund balances revealed that in CY 2019 there was realignment of the prior years’ fund transfer to PITC amounting to ₱108,297,159.17.  Details and corresponding ageing are as follows:
+
+
+
+Year of FT
+
+Unliquidated Balances
+
+Aging of Unliquidated balances of FT
+
+
+
+
+
+Over 1 year but less than 2 years
+
+2 years but less than 3 years
+
+ Over 3 years
+
+2011
+
+            ₱8,704.00
+
+₱-
+
+₱-
+
+           ₱8,704.00 
+
+2012
+
+         2,272,756.36
+
+-
+
+-
+
+      2,272,756.36 
+
+2013
+
+         2,282,300.00
+
+-
+
+-
+
+      2,282,300.00 
+
+2014
+
+       20,261,041.59
+
+-
+
+-
+
+    20,261,041.59 
+
+2015
+
+                       0.05
+
+-
+
+-
+
+                    0.05 
+
+2016
+
+     201,664,076.33 
+
+-
+
+-
+
+   201,664,076.33 
+
+2017
+
+     799,447,686.70 
+
+-
+
+-
+
+     799,447,686.70 
+
+2018
+
+     942,583,335.08 
+
+-
+
+942,583,335.08   
+
+-
+
+2019
+
+   108,297,159.17 
+
+   108,297,159.17 
+
+-
+
+-
+
+Total
+
+₱2,076,817,059.28 
+
+ ₱108,297,159.17
+
+₱942,583,335.08 
+
+₱1,025,936,565.03 
+
+
+
+	15)		Of the outstanding balance of ₱2,076,817,059.28, the amount of ₱2,013,833,458.74 was identified to be outstanding in both records of PN and PITC as shown in the reconciliation presented in paragraph 4.5. Of this amount, ₱1,973,234.14 (Annex H) pertains to residual balances not yet returned to PN while the amount of ₱2,011,860,224.60 pertains to undelivered/uncompleted projects. Failure of the implementing agency to return the residual balances is contrary to Section 49 of COA Circular. 94-013 dated December 13, 1994 which states that the Implementing Agency shall return to the Source Agency (SA) any unused balance upon completion of the project.
+
+	
+
+	16)		It is worthy to mention that out of the ₱2,011,860,224.60 fund transfers with uncompleted projects, ₱183,178,678.63 was already utilized by PITC consisting of service fees and partial payment to suppliers/contractors amounting to ₱20,488,735.21 and ₱162,689,943.42, respectively, leaving an unutilized balance of ₱1,828,681,545.97 which represents 88.05 percent of the outstanding balance per books. Moreover, it should be noted that out of the balance of fund transfers of ₱2,151,570,818.60 as of December 31, 2019, only ₱72,634,507.58 or 3.38 percent was served or delivered during CY 2020; thus, defeated the intention of facilitating the procurement process for which the PN engaged the services of the PITC.  
+
+	
+
+Unit
+
+
+
+(a)
+
+Beginning Balance
+
+As of 1/1/2020
+
+(b)
+
+Delivered
+
+
+
+(c)
+
+Returned/
+
+Refunded
+
+
+
+(d)
+
+Ending Balance 
+
+As of 12/31/2020
+
+(e)
+
+ (b-c-d)
+
+HSG
+
+₱21,556,494.18 
+
+₱           -
+
+₱          -
+
+₱21,556,494.18
+
+BNS
+
+2,946,768.61 
+
+1,688,552.32
+
+1,258,216.29
+
+-
+
+NCBde
+
+416,454,264.66 
+
+193,876.80
+
+-
+
+416,260,387.86
+
+PMC
+
+453,203,020.42 
+
+-
+
+-
+
+453,203,020.42
+
+NSSC
+
+128,837,677.22 
+
+6,358,892.17
+
+-
+
+122,478,785.05
+
+NLC
+
+741,654,054.68 
+
+51,506,240.68
+
+861,035.45
+
+689,286,778.55
+
+NBC
+
+254,688,407.83 
+
+12,886,945.61
+
+-
+
+241,801,462.22
+
+NIF-NL
+
+6,260,989.79 
+
+-
+
+-
+
+6,260,989.79
+
+NIF-W
+
+25,398,438.59 
+
+-
+
+-
+
+25,398,438.59
+
+NIF-EM
+
+		14,892,593.22 
+
+-
+
+-
+
+				14,892,593.22 
+
+NIF-C
+
+36,382,536.41 
+
+-
+
+-
+
+36,382,536.41
+
+NETC
+
+49,295,572.99 
+
+
+
+-
+
+49,295,572.99
+
+Total
+
+₱2,151,570,818.60 
+
+₱72,634,507.58
+
+₱2,119,251.74
+
+₱2,076,817,059.28
+
+Percentage (72,634,507.58/2,151,570,818.60) = 3.38
+
+	
+
+	17)		We recommended that Management direct the: 
+
+
+
+a)	O/N4 to coordinate with PITC and request for documents pertaining to PN reconciling items for subsequent submission to NASO; 
+
+	
+
+b)	NASO to prepare necessary journal entries to record reconciling items upon receipt of documents from the O/N4;
+
+	
+
+c)	O/N4 and NASO to reconcile their records with PITC for variance amounting to ₱110,286,343.99; and 
+
+
+
+d)	O/N4 and the respective unit’s logistics office to request the immediate delivery of uncompleted projects and to demand the refund of the residual balances amounting to ₱1,973,234.14.
+
+
+
+	Management Comment
+
+	
+
+	18)		NASO received various PITC Project Completion Reports dated February 19, 2021 and April 14, 2021. These liquidations have to be recorded in the books by NASO and the FASUs in the total amount of ₱189,948,988.72. FASUs have been directed to coordinate with respective Unit liaisons on the coordination with PITC and to request for the submission of a per unit schedule of accounts to facilitate recording.
+
+	
+
+	19)		O/N4 explained that the unreconciled variances were addressed by the reconciliation efforts of O/N4 together with PITC which started on 15 December 2020 until March 23, 2021. Likewise, the report on the status of funds as of March 31, 2021 provides all the project’s items as supervised by cognizant staff (N4, N6, N11).
+
+	
+
+	20)		O/N4 submitted the recent status of the projects to the Office of the Auditor relative to projects under the Due from GOCCs, PITC account.
+
+
+
+
+
+Unreliable balance of Other Prepayments
+
+
+
+5)	The balance of Other Prepayments account amounting to ₱1,274,150,179.20 as of December 31, 2020 is unreliable due to deliveries totaling ₱47,212,664.04 that remained unrecorded caused by delayed/non-submission of liquidation reports contrary to the requirements of Section 15, Chapter I of the GAM for NGAs, Volume I; thus, resulted in the misstatements of the affected accounts in the financial statements. Furthermore, the balance includes CY 2018 and prior years’ fund transfers to foreign banks amounting to ₱398,887,523.85 for various procurements which remained undelivered or partially delivered as at year-end.
+
+	
+
+	1)		Verification of the Other Prepayments account as of December 31, 2020 showed a balance of ₱1,274,150,179.20 which consists of funds maintained with foreign banks and suppliers, detailed as follows:
+
+
+
+Date
+
+Check
+
+Particulars
+
+
+
+Balance
+
+HPN
+
+29-Dec-16
+
+456944
+
+Support Maintenance and Repair requirements of Del Pilar Class Frigates (DPCFs)
+
+Federal Reserve Bank of NY
+
+₱102,738,966.06
+
+30-Jun-17
+
+457050
+
+Support the planned Maintenance Schedule (PMS) Funds of DPCFs
+
+
+
+44,172,880.48
+
+29-Nov-17
+
+527358
+
+Support delivery of requested gas mask Kits for Marawi
+
+US Treasury Bank
+
+
+
+368,317.19
+
+30-Apr-18
+
+527416
+
+Support the procurement of 9,500 rds 25MM HEI-T ammunition
+
+
+
+46,844,346.85
+
+
+
+527417
+
+
+
+
+
+
+
+30-Apr-19
+
+533638
+
+
+
+
+
+
+
+Federal Reserve Bank of NY
+
+
+
+792,335.97
+
+30-Nov-18
+
+533552
+
+Support the PMS/CMAV funds of DPCFs and AGR702
+
+
+
+251,975,677.31
+
+27-Dec-19
+
+536268
+
+Support Supply and Delivery and Delivery of Spare Parts and Services for CMAV Funds of FF15, FF16, FF17, AGR702, PS38 and Supply and Delivery of Spare Parts and services for the DDORR Funds of AGR702 and PS38
+
+
+
+517,915,209.70
+
+28-Jul-20
+
+536287
+
+Freight Forwarding of FMS Shipments
+
+
+
+8,928,444.75
+
+23-Sep-20
+
+536289
+
+Supply and delivery of spare parts for CMAV of FF15/FF16/AGR702/PS38
+
+
+
+294,144,250.89
+
+NICTC
+
+
+
+
+
+Pertains to the unconsumed Electronic Load Call and Text for satellite phone ISATPHONE and Electronic Load for BGAN which were procured from and delivered by One Commerce International Corporation.
+
+
+
+6,269,750.00
+
+Total
+
+
+
+₱1,274,150,179.20
+
+
+
+	2)		Examination disclosed that projects totaling ₱47,212,664.04 were already delivered but remained unrecorded as of December 31, 2020, details presented as follows:
+
+
+
+Particulars
+
+Balance
+
+Percentage of delivery
+
+Remarks
+
+A. Delivered but not recorded
+
+Support the procurement of 9,500 rds 25MM HEI-T ammunition
+
+
+
+46,844,346.85
+
+
+
+100
+
+The ammunitions were delivered to NLC as evidenced by Tally-In dated January 19, 2018
+
+Support the delivery of requested gas mask Kits for Marawi
+
+
+
+
+
+368,317.19
+
+
+
+
+
+100
+
+Items were received by NSPAO on September 7, 2017. Payment successfully transferred on November 10, 2017
+
+Total
+
+₱47,212,664.04
+
+
+
+ 
+
+
+
+	3)		Inquiry with NASO personnel revealed that the non-recognition of deliveries was due to non-submission of liquidation reports as basis in recording. The O/N4 explained that they already submitted the liquidation documents to NASO for recording. 
+
+
+
+	4)		Nevertheless, the non-recognition of deliveries amounting to ₱47,212,664.04 is contrary to Section 15, Chapter I of the GAM for NGAs, Volume I; hence, resulted in the overstatement of the Other Prepayments account and the understatement of the corresponding expense/PPE accounts both by said amount.
+
+	
+
+	Undelivered Projects
+
+	
+
+	5)		We noted also the balance of ₱398,887,523.85 pertaining to FY 2018 and prior years’ FT to foreign banks but remained undelivered or partially delivered as at year-end, details on next page:
+
+	
+
+Particulars
+
+Balance
+
+Percent of delivery
+
+Remarks
+
+Fund transfer in FY 2018 and prior years
+
+Support Maintenance and Repair requirements of Del Pilar Class Frigates (DPCFs)
+
+₱102,738,966.06
+
+48
+
+The Program Manager (PMS326) submitted to NASO the LR of partially completed projects on March 9, 2021 amounting to $90,296, 810.26 per inquiry with O/N4.
+
+
+
+Support the PMS Funds of DPCFs
+
+44,172,880.48
+
+79
+
+
+
+Support the PMS/CMAV funds of DPCFs and AGR702
+
+251,975,677.31
+
+
+
+
+
+   Sub total
+
+398,887,523.85
+
+
+
+
+
+Fund transfer in FY 2019 to CY 2020
+
+Support Supply and Delivery and Delivery of Spare Parts and Services for CMAV Funds of FF15, FF16, FF17, AGR702, PS38 and Supply and Delivery of Spare Parts and services for the DDORR Funds of AGR702 and PS38
+
+517,915,209.70
+
+
+
+
+
+Support the procurement of 9,500 rds 25MM HEI-T ammunition
+
+792,335.97
+
+
+
+
+
+Freight Forwarding of FMS Shipments
+
+8,928,444.75
+
+
+
+
+
+
+
+
+
+No requisition/ delivery due to COVID -19 pandemic.
+
+Supply and delivery of spare parts for CMAV of FF15/FF16/AGR702/PS 8
+
+294,144,250.89
+
+
+
+-
+
+Sub total
+
+821,780,241.31
+
+
+
+ 
+
+Total
+
+₱1,220,667,765.16
+
+
+
+ 
+
+	
+
+	6)		We recommended that Management instruct the:
+
+	
+
+a)	O/N4 to exert efforts in gathering liquidating documents for submission to NASO as basis in recording in the books of accounts;
+
+ 
+
+b)	NASO to prepare JEV upon receipt of documents; and
+
+
+
+c)	O/N4 to request the immediate delivery of uncompleted projects.
+
+	Management Comment
+
+
+
+	7)		O/N4 submitted expenditure reports to NASO pertaining to the project in  support of the DPCFs PMS fund amounting to ₱44,172,880.48. The balance of ₱368,317.19 is under review as explained by NASO.
+
+	
+
+	8)		Liquidation documents for the project Support Maintenance and Repair requirements of DPCFs in the total amount of ₱185,367,374.88 were submitted to NASO on March 10, 2021 and subsequently taken up in the books in March 2021.
+
+	
+
+
+
+Unreliable RMC fund balance
+
+
+
+6)	The accuracy of the Repairs, Maintenance and Construction (RMC) Fund balance amounting to ₱287,762,426.03 as of December 31, 2020 for rebates and patronage discounts from Petron Corporation is unreliable due to variance amounting to ₱7,352,747.75 between the accounting records and the Program of Expenditures (POE) for RMC Funds; thus, affecting the fair presentation of the Other Receivables account and related accounts in the financial statements. Further, ten completed/delivered projects amounting to ₱102,753,930.83 charged against the Fund were not recognized in the books; thereby misstating the appropriate PPE account and the Accumulated Surplus/(Deficit) account.  Moreover, 18 programmed projects covering FYs 2015 to 2018 remained uncompleted/undelivered as at year-end.
+
+
+
+	1)		The RMC Fund partakes of rebates or patronage discounts for which the agency is entitled based on the Memorandum of Agreement (MOA) entered into by and between the DND and Petron Corporation for the supply and delivery of DND-Wide Petroleum (Lot 1), Oil, Lubricants (Lot 2) and e-POL Card Requirements (Lot 3) Nationwide from FYs 2015 to CY 2020.
+
+	
+
+	2)		Under the MOA, the procuring entity shall program its utilization of RMC Fund through the preparation of Program of Expenditure (POE) by each command/unit to be approved by the Head of the Agency and shall be the basis of Petron Corporation to directly coordinate and negotiate with the accredited contractors to undertake the RMC projects.
+
+	 
+
+	3)		The Agreement also provides that the RMC Fund earned from FYs 2015 to 2018 shall be maintained by Petron Corporation while RMC Fund for FY 2019 and CY 2020 shall automatically be deducted from the Contract Price upon payment of the delivered POL products to be remitted by the AFP (PN) to the BTr intended for the repair, maintenance, rehabilitation and construction of POL facilities, as well as procurement of additional POL equipment in accordance with the duly approved POE. 
+
+	
+
+	4)		The RMC Fund for FYs 2015 to 2018 is recorded in the books under the Other Receivables account while that of FY 2019 to CY 2020 is taken up under the Cash in Bank - Local Currency Current Account. 
+
+
+
+	5)		 Verification of records disclosed that the RMC Fund has a balance of ₱287,762,426.03 as at year-end consisting of the balance recognized as Other Receivables for amount earned from FYs  2015 to 2018 and the balance recognized as Cash in Bank - Local Currency Current Account for amount earned from FY 2019 to CY 2020, details are shown below.
+
+
+
+Account Title
+
+Period covered
+
+Amount
+
+Other Receivables
+
+2015
+
+       ₱41,219,668.15 
+
+
+
+2016
+
+         67,367,954.54 
+
+
+
+2016 RO
+
+          17,814,583.59 
+
+
+
+2017
+
+         61,405,162.89 
+
+
+
+2018
+
+          54,959,699.77 
+
+
+
+Total
+
+       242,767,068.94 
+
+Cash in Bank - Local Currency Current Account
+
+2019
+
+          23,305,539.98 
+
+
+
+2019 RO
+
+           5,550,976.77 
+
+
+
+2020
+
+          16,138,840.34 
+
+
+
+Total
+
+         44,995,357.09 
+
+Total
+
+     ₱287,762,426.03 
+
+
+
+	6)		Originally, the POE for RMC Fund covering FYs 2015 to 2018 disclosed 30 projects where three of which were realigned and consolidated into one project in CY 2020 or a total of 28 projects per revised POE. Of the 28 projects, 10 were already completed while 18 were still on-going implementation as summarized below: (details in Annex I):
+
+
+
+Year
+
+No. of 
+
+Projects
+
+Program of Expenditures
+
+Delivered as of 12/ 31/2020
+
+Balance as of 12/31/2020 per POE
+
+2015
+
+7
+
+₱51,684,746.79
+
+₱56,940,504.76
+
+₱(5,255,757.97)
+
+2016
+
+3
+
+38,213,426.07
+
+37,813,426.07
+
+400,000.00
+
+2016 RO
+
+4
+
+19,003,835.90
+
+0.00
+
+19,003,835.90
+
+2017
+
+6
+
+70,380,000.00
+
+8,000,000.00
+
+62,380,000.00
+
+2018
+
+7
+
+93,886,243.26
+
+-
+
+93,886,243.26
+
+Realignment
+
+1
+
+65,000,000.00
+
+-
+
+65,000,000.00
+
+Total
+
+28
+
+₱338,168,252.02
+
+₱102,753,930.83
+
+₱235,414,321.19
+
+
+
+	7)		Verification also revealed that out of the 10 completed projects, only five projects pertaining to FY 2015 reflected the actual project cost in the Report on the Status of Project submitted to the Office of the Auditor while the remaining five projects had no information on the actual cost incurred. To arrive at the cost of completed projects, we used the amount reflected in the POE for projects without actual cost; thus, amounted to ₱102,753,930.83. While the cost of these completed projects were deducted from or charged against RMC Fund, however, the same were not recorded in the Naval Logistics Center books of accounts which should be recognized as PPE. As can be gleaned from the above table, the cost of completed projects in FY 2015 had exceeded the cost of projects in the POE by ₱5,255,757.97. As of December 31, 2020, the balance of RMC fund after considering the completed projects should be ₱235,414,321.19. 
+
+
+
+	8)		Comparison of the balances of RMC Fund appearing in the POE and in the books of accounts of the NLC as of December 31, 2020 showed a variance of ₱7,352,747.75, details are as follows:
+
+
+
+Year
+
+Balance per POE
+
+Balance per books of NLC
+
+Variance
+
+2015
+
+₱(5,255,757.97)
+
+₱41,219,668.15
+
+₱(46,475,426.12)
+
+2016
+
+400,000.00
+
+67,367,954.54
+
+(66,967,954.54)
+
+2016 RO
+
+19,003,835.90
+
+17,814,583.59
+
+1,189,252.31
+
+2017
+
+62,380,000.00
+
+61,405,162.89
+
+974,837.11
+
+2018
+
+93,886,243.26
+
+54,959,699.77
+
+38,926,543.49
+
+Realignment
+
+65,000,000.00
+
+-
+
+65,000,000.00
+
+Total
+
+₱235,414,321.19
+
+₱242,767,068.94
+
+₱(7,352,747.75)
+
+
+
+	9)		The presence of the variance amounting to ₱7,352,747.75 casted doubt on the accuracy of the reported balance of the Fund as well as the affected accounts in the financial statements.
+
+
+
+	10)		 We recommended that Management instruct the:
+
+
+
+	a)	AC of NS for Logistics, O/N4 to: 
+
+
+
+		i)	coordinate with the Petron Corporation and request the submission of documents relative to completed projects as basis of recording in the books of accounts;
+
+
+
+		ii)	reconcile its records with that of the Naval Logistics Center and eventually with the records of Petron Corporation;
+
+
+
+		iii)	request from Petron Corporation to fast track the implementation of the remaining 18 projects; and
+
+
+
+	b)	NASO to require the FASU of Naval Logistics Center to recognize in the books the completed projects totaling ₱102,753,930.83 and prepare adjusting entry on the remaining balance of RMC Fund after reconciliation.
+
+
+
+	Management Comment
+
+
+
+	11)		O/N4 commented that they conducted reconciliation meeting with Petron Corporation on April 27, 2021 via zoom together with FASU, NLC, Petron Accountant and Petron RMC project personnel in-charge. It was agreed that Petron Corporation will furnish copy of documents of completed projects not later than May 7, 2021.
+
+	
+
+	12)		Petron Accountant and FASU, NLC are regularly conducting RMC Fund reconciliation on a monthly basis. A reconciliation sheet duly signed by both parties is accomplished for future references. 
+
+
+
+	13)		Status of the 18 projects as of second quarter of 2021 follows:
+
+
+
+	No. of Projects
+
+	Status
+
+	5
+
+	Letter was sent to Petron Corporation requesting for implementation.
+
+	5
+
+	For scheduling of site inspection upon lifting of travel restriction due to pandemic.
+
+	1
+
+	For realignment to other project
+
+	1
+
+	For evaluation of BOMCE DAEP
+
+	3
+
+	For shopping cart preparation
+
+	3
+
+	For finalization of project’s specification
+
+	 
+
+	14)		NASO issued Memorandum No. 2021-013 dated 22 April 2021 to FASU, NLC on the recognition of the Repair/Rehabilitation of NETDC POL Station at NSLG, San Antonio, Zambales costing ₱6,293,852.02 which was funded under CY 2016 POL RMC Fund.
+
+	
+
+	15)		FASU, NLC has recorded five completed projects in the total amount of ₱83,707,180.11 through JEV No. 2021-01-018 dated January 31, 2021 and additional RMC Fund for CY 2015 – CY 2019 amounting to ₱20,815,681.34 through JEV No. 2021-01-013 dated 31 January 2021. 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Doubtful balance of PPE
+
+
+
+7)	The accuracy of the Property, Plant and Equipment account balance aggregating ₱17,578,423,328.90 as at year-end is doubtful due to:                     (a) unrecorded PPEs  found-at-station  of two PN units due to absence of information/documents; (b) unrecorded transfer to Naval Logistics Center of motor vehicle amounting to ₱388,888.89; and (c) unrecorded transfer to Philippine Fleet of unserviceable equipment with net book value of ₱37,206.00. Moreover, appraised values of found at station PPEs were not supported with documents. 
+
+
+
+	1)		COA Circular No. 2020-006 dated January 31, 2020 provides the guidelines and procedures in the conduct of Physical Count of Property, Plant and Equipment (RPCPPE), recognition of items found at station and disposition for non- existing/missing PPE items, for the one-one time cleansing of PPE account balances of government agencies. 
+
+	
+
+	2)		As of December 31, 2020, the PPE accounts have a consolidated balance of ₱17,578,423,328.90. Verification of the records of the five PN units revealed the following observations:
+
+	
+
+Unit
+
+Observation
+
+Amount
+
+NISF
+
+One Building with undetermined value was not recognized in the books nor reported in the RPCPPE maintained by the FASU and FSPAO; respectively.
+
+Undetermined
+
+NIFSL
+
+Various PPE reported in the List of Unrecorded Equipment Found-in-Station have no unit cost or without data/information.
+
+Undetermined
+
+HSG
+
+Motor vehicles M-35 Truck B56 with Plate No. SJL-896 was transferred by the former FSPAO to NLC sometime in 2012 for repair. The transfer was not documented and was not properly turned-over to the current FSPAO; hence, not derecognized from the books of HSG.  
+
+₱388,888.89
+
+NIF-W
+
+Unserviceable life rafts amounting to ₱372,060.00 with net book value of ₱37,206.00, installed at Barko ng Republika ng Pilipinas Sierra Madre but under the actual custody of the Philippine Fleet were not dropped from the books and records of Naval Installation and Facilities West. 
+
+37,206.00
+
+CMOG
+
+Appraised values of various properties found-in-station recorded as Machineries and ICT Equipment amounting to ₱82,500.00 and ₱221,600.00, respectively, were not supported with documents.
+
+304,100.00
+
+
+
+	3)		The accounting errors and deficiencies resulted in the misstatement of the affected accounts in the financial statements.
+
+	
+
+	4)		We recommended that Management instruct the:
+
+	
+
+a)	FSPAO of concerned units to exert efforts to appraise the value of PPEs found at station and record the same in the books of accounts;  
+
+
+
+b)	implement the guidelines prescribed in COA Circular No. 2020-006 dated January 31, 2020, in cleansing the PPE accounts; and
+
+
+
+c)	FASU of NIF-W to prepare necessary adjusting entry to drop the life rafts from the books of accounts duly supported with documents.
+
+
+
+	Management Comment
+
+
+
+	5)		NISF coordinated with Navy Chief of Engineers (NCE) for the conduct of cost valuation of the building. The appraised value of the building is ₱692,946.00. Subsequently, it was coordinated with FASU for the adjustments in the books of accounts.
+
+	
+
+	6)		NIFSL issued Special Order (SO) No. 1 dated January 15, 2021 on the composition of appraisal Committee to conduct canvassing of the market value of unrecorded equipment. 
+
+
+
+	7)		HSG is still waiting for the approved Property Turn in Slip from NLC.
+
+
+
+	8)		The Field Supply and Property Accountable Officer (FSPAO), NIF-West made coordination with the FSPAO, Philippine Fleet (PHLFLT) regarding the transfer of booking of the unserviceable items. However, the NIF-West will endeavor to facilitate the turn-in of properties. Initial coordination has been done with the Commanding Officer (CO) of BRP Sierra Madre (LS57) at Ayungin Detachment and the CO mentioned that the items will be transported during the upcoming rotation and re-provisioning. Subsequently, the unserviceable life rafts will be turned-in at Naval Supply Depot Palawan for proper disposition. Necessary documents such as PTIS and IIRUP will be forwarded to the FASU, NIF-W for dropping from the list of PPEs. 
+
+
+
+	9)		FASU already made the necessary adjustment under JEV No. 2020-12-108 dated 31 December 2020 (supported with Property Transfer Receipt with date of acquisition as basis in computing the depreciation of property found at station).
+
+
+
+
+
+B)	COMPLIANCE AUDIT
+
+
+
+Unremitted collections  to the Bureau of the Treasury  
+
+
+
+8)	Collections for various receipts totaling ₱52,496,154.71 were deposited to the PN Trust Receipt account instead of the Bureau of the Treasury (BTr) as required in Section 4 of the General Provisions of R.A. No. 11465 or GAA of CY 2020, and Section 2 of Special Provisions of PN.
+
+
+
+	1)		Pertinent provisions of relevant issuances in connection with the treatment of collections maintained in the Trust Receipts Fund provides the following:
+
+
+
+Section 4 of the General Provisions of R.A. No. 11465 or the GAA of CY 2020 states that:  As a general rule, all fees, charges, assessments, and other receipts or revenues collected by departments, bureaus and offices of the National Government, including Constitutional Offices enjoying fiscal autonomy in the exercise of their mandated functions, at such rates as are now or may be approved by the appropriate approving authority shall be deposited to the National Treasury as income of the General Fund pursuant to Section 44, Chapter 5, Book VI of EO No. 292, s. 1987 and Section 65 of PD No. 1445.
+
+While, Section 2 of Special Provisions of PN under R.A. No. 11465 provides that: Trust Receipts from the Use of Equipment and Facilities. Fees and charges from the use of equipment and facilities collected by the Philippine Navy shall be used to augment its operating requirements in accordance with Section 1 of E.O. No. 1002, s. 1985. Said amount shall be deposited with the National Treasury and recorded as trust receipt in accordance with E.O. No. 338, s.1996.
+
+
+
+	2)		Verification of the Cash in Bank – Local Currency Current Account- PNTR disclosed a balance of ₱77,202,420.47 as of December 31, 2020 consisting of various receipts from concessionaires/tenants, suppliers/contractors, PN personnel, etc., where   the amount of ₱52,496,154.71 warrants remittance to the BTr as required in Section 4 of the General Provisions of the GAA for CY 2020 and its Special Provisions, details on the next page:
+
+
+
+Particulars
+
+Balance as of 12/31/2020
+
+For remittance to BTr
+
+Electricity
+
+₱ 6,136,179.41 
+
+-
+
+Water
+
+      490,988.70 
+
+-
+
+Rental
+
+   4,151,851.56 
+
+ ₱4,151,851.56 
+
+Other Collections
+
+      150,058.28 
+
+    150,058.28 
+
+Liquidated Damages
+
+ 3,167,992.23 
+
+3,167,992.23
+
+Repair and Maintenance and Construction (RMC) Fund
+
+44,995,357.09
+
+44,995,357.09
+
+Interest
+
+        21,701.27 
+
+      21,701.27 
+
+Proceeds from Sale of Bid Documents
+
+      958,724.50 
+
+-
+
+Globe Post paid
+
+          9,194.28 
+
+       9,194.28 
+
+Insurance Proceeds (PN Aircraft NHT-423)
+
+  17,000,000.00 
+
+-
+
+Service Fee of Reenlistment Clothing Allowance
+
+15,630.40 
+
+-
+
+Donation to military personnel who were Killed In Action/Wounded In Action during Marawi siege and Incentives to female military personnel.
+
+          104,742.75 
+
+-
+
+Total
+
+ ₱77,202,420.47 
+
+₱52,496,154.71 
+
+
+
+	3)		The RMC Fund of ₱44,995,357.09 is required to be deposited to the BTr pursuant to the MOA between the DND and Petron Corporation. As earlier discussed, the Agreement provides that the RMC Fund earned from FYs 2015 to 2018 shall be maintained by Petron Corporation while RMC Fund for FY 2019 and CY 2020 shall automatically be deducted from the Contract Price upon payment of the delivered POL products to be remitted by the AFP (PN) to the BTr for the repair, maintenance, rehabilitation and construction of POL facilities. 
+
+
+
+	4)		On the other hand, the collection for payment of electric and water consumption of concessionaires, military quarters and non-PN tenants has yet to be remitted to the BTr because electric and water consumptions for the remaining months of CY 2020 are not yet paid by the PN. Likewise, the honoraria of the Technical Working Group/Bids and Awards Committee for the months of October to December 2020 have yet to be paid from proceeds on sale of bid documents. Thus, any remaining balance after payment of utilities and honoraria should be remitted to the BTr, as required. 
+
+
+
+	5)		Furthermore, the donation to military personnel who were Killed-in-Action/ Wounded-in-Action during Marawi Siege and incentives to female military personnel has not yet been disbursed considering that the fund was received in FY 2018.
+
+
+
+	6)		We recommended that Management instruct the PNFC and NASO to facilitate the payment of utilities and honoraria for CY 2020 and remit to the BTr the balance, if any, including the amount of ₱52,496,154.71. 
+
+
+
+	Management Comment
+
+	
+
+	7)		AC of NS for Navy Financial Management, N10 commented that the payment of honoraria for CY2020 has been delayed as the Command is still adjusting with the newly issued policy regarding the payment process. Further, the payment of utilities is still on process. O/N10, in coordination with NASO is currently monitoring the average electric and water consumption of all PN Units and offices for its programming in the PN Annual Plan and Budget for FY 2022. Moreover, the PNTR balance will be identified and remitted to BTr upon completion of aforementioned transactions.
+
+
+
+	8)		PNFC forwarded a letter request dated April 23, 2021 to O/N4 requesting  authority and guidance in the remittance of the amount to BTr.
+
+	
+
+	
+
+Accumulation of fund balances due to undelivered projects
+
+
+
+9)	Out of the projects amounting to ₱1,495,104,593.84 procured through Deposits on Letters of Credit (DLC), 8.78 percent or ₱131,238,452.76 of which pertained to prior years’ transactions that remained uncompleted or unliquidated as at year-end resulting in the accumulation of the DLC balance which affects the efficiency of the agency’s operation. 
+
+
+
+	1)		Verification of the consolidated Statement of Financial Position as of December 31, 2020 showed that the Deposits on Letters of Credit account has a balance of ₱1,495,104,593.84, details are as follows: 
+
+
+
+Units
+
+AGDB
+
+Particulars
+
+Amount 
+
+Current
+
+HPN
+
+UCPB
+
+Luzviminda Engineering 
+
+₱18,702,595.62
+
+NLC
+
+
+
+Rheinmetal Denel Munition 
+
+16,900,000.00
+
+
+
+
+
+Rheinmetal Denel Munition  
+
+10,621,298.00
+
+
+
+
+
+Holdings Koporacija krusik-ad Valjevo 
+
+31,556,000.00
+
+
+
+
+
+Expal Systems 
+
+135,313,710.00
+
+
+
+
+
+Rheinmetal Denel Munition 
+
+90,992,960.00
+
+
+
+
+
+Joint Venture (JV) of Hanwha Corp. Korea & Korea CNO Tech Co. Ltd. 
+
+59,976,000.00
+
+
+
+
+
+Rheinmetal Denel Munition 
+
+59,749,822.08
+
+
+
+
+
+Expal Systems 
+
+54,910,000.00
+
+
+
+
+
+Expal Systems 
+
+119,866,644.00  
+
+
+
+
+
+Companhia Brasiliera De Cartuchos 
+
+139,954,412.00
+
+
+
+
+
+Rheinmetal Denel Munition 
+
+101,000,000.00
+
+
+
+
+
+Gespi Industria E Commercio De Equipamentos Aeronauticos SA 
+
+98,205,975.00
+
+
+
+
+
+Rheinmetal Denel Munition 
+
+249,872,327.00
+
+
+
+LBP
+
+Nashe Enterprise 
+
+318,030.05
+
+
+
+
+
+Nashe Enterprise 
+
+371,455.17  
+
+
+
+
+
+JV of Stone of David Corp. & Holding Corp. Krusik Ad Valvejo & APO Philtrade & Trdg Svc Inc 
+
+56,993,739.00
+
+
+
+
+
+JV between Elbit System Land and C41 and IMI System Ltd 
+
+74,633,136.00
+
+
+
+
+
+JV between Elbit System Land and C41 and IMI System Ltd 
+
+94,886,036.00  
+
+PMC
+
+UCPB
+
+Dalaz Enterprises
+
+354,222.00
+
+
+
+
+
+JV of Hyundai Motors And Kia Motors Corp
+
+27,511,380.00
+
+Subtotal
+
+1,442,689,741.92
+
+Noncurrent
+
+ 
+
+NSSC
+
+52,414,851.92
+
+Total
+
+₱1,495,104,593.84
+
+
+
+	2)		Of the total balance of DLC, the amount of ₱131,238,452.76 pertains to DLC opened in FY 2018 and prior years for the procurement of the operational requirements of the PN which remained uncompleted/undelivered as at year-end. Details are as follows: 
+
+
+
+Unit
+
+2020
+
+2019
+
+2018 and Prior years
+
+Total
+
+HPN
+
+₱           -
+
+₱           -
+
+₱18,702,595.62 
+
+₱18,702,595.62 
+
+NLC
+
+883,535,180.08
+
+452,819,581.00
+
+59,766,783.22
+
+  1,396,121,544.30 
+
+PMC
+
+27,511,380.00
+
+-
+
+         354,222.00 
+
+27,865,602.00 
+
+NSSC
+
+-
+
+-
+
+52,414,851.92
+
+52,414,851.92
+
+Total
+
+₱911,046,560.08
+
+₱452,819,581.00
+
+₱131,238,452.76
+
+₱1,495,104,593.84
+
+
+
+	3)		The delay in the delivery or completion of requested items deprived the PN of its immediate use which may affect the efficiency of the Agency’s operation. 
+
+	
+
+	4)		We recommended that Management direct the O/N4 and the concerned unit’s logistics office to request from contractor/supplier the immediate delivery or fast track implementation of projects.
+
+	
+
+	
+
+	Management Comment
+
+	
+
+	5)		O/N4 initiated Letter to PMC, NLC and NSSC to submit liquidation documents pertaining to completed projects and fast track the implementation of projects under their purview outstanding under DLC account.
+
+	
+
+
+
+Accumulated balance of Due from Officers and Employees account
+
+
+
+10)	Out of the overpayments made to officials and employees amounting to ₱27,811,425.46, only 53.56 percent or ₱14,895,932.09 was collected during the year leaving a balance of ₱12,915,493.37 as at year-end which signifies weak internal control over collection thereby resulting in the accumulation of receivable from officers and employees.  
+
+
+
+	1)		Annex A of COA Circular 2020-001 defines, Due from Officers and Employees account that is used to recognize amount of claims from agency's officers and employees for overpayment (not covered by ND), cash shortage, loss of assets and other bills issued by the agency. Credit this account for collection of receivables.
+
+
+
+	2)		The Due from Officers and Employees account was used by NASO to recognize overpayments of salaries and collateral entitlements to active PN personnel. These overpayments were caused by lengthy procedures that make it impossible to effect immediately the changes in the payroll system before payment.
+
+
+
+	3)		Verification of the Due from Officers and Employees account showed a balance of ₱13,270,333.41 as of December 31, 2020.  Further verification showed that recorded overpayments during the year amounted to ₱27,811,425.46. Of this amount only 53.56 percent or ₱14,895,932.09 was collected as of December 31, 2020. Details are as follows:
+
+
+
+Month
+
+Overpayment
+
+Collections
+
+January
+
+₱2,796,809.36 
+
+₱2,796,809.36 
+
+February
+
+535,979.74
+
+434,062.71
+
+March
+
+       244,451.20 
+
+       244,451.20 
+
+April
+
+    5,655,527.58 
+
+       356,736.52 
+
+May
+
+    2,939,748.25 
+
+       324,474.57 
+
+June
+
+       750,697.89 
+
+       237,344.91 
+
+July
+
+    1,759,564.91 
+
+       543,601.59 
+
+August
+
+    1,762,522.18 
+
+       384,611.08 
+
+September
+
+   4,167,038.37 
+
+       374,645.50 
+
+October
+
+   3,912,535.77 
+
+   1,698,278.57 
+
+November
+
+         74,341.51 
+
+       350,239.31 
+
+December
+
+3,212,208.70
+
+7,150,676.77
+
+Total
+
+₱27,811,425.46
+
+14,895,932.09
+
+Balance as of December 31, 2020
+
+₱12,915,493.37
+
+Percentage of Collection (14,895,932.09/27,811,425.46)
+
+53.56
+
+	
+
+	4)		Inquiry with Centralized Payroll Management Unit (CPMU) personnel revealed that demand letters were sent by NFSU to concerned PN personnel for immediate settlement of overpayments. Difficulty in collection of overpayments was attributed to the following:
+
+
+
+a)	Some active PN personnel have been reassigned to other PN units and did not receive their demand letters; and
+
+
+
+b)	Some active PN personnel refused to pay their overpayments upon receiving demand letter.
+
+
+
+	5)		It is informed that CPMU is formulating a policy/SOP to strengthen the internal control on collections of overpayments. 
+
+
+
+	6)		While the CPMU exerted efforts to collect overpayments by sending demand letters to concerned personnel, only 53.56 percent was collected out of overpayments for the year; thus, there is need to devise another system to facilitate collections of overpayments and minimize incurrence of the same.  
+
+
+
+	7)		Considering the fact that payment of pay and allowances of PN personnel is centrally managed by PN, CPMU should have notified employees concerned with overpayment and indicate the period within which to settle the same.  Failure of concerned employees to settle within the specific period, the amount of overpayment should have been deducted/withheld from their salaries in the same way that when AOs fail to liquidate CA within the prescribed period. 
+
+
+
+	8)		Failure of CPMU to fully collect the refund of overpayments from concerned personnel in a timely manner resulted in the accumulation of the Due from Officers and Employees account balance and may result in the loss of government funds. 
+
+
+
+	9)		We recommended that Management require the Centralized Payroll Management Unit (CPMU) to: 
+
+
+
+a)	fast track the formulation of policy/Standard Operating Procedures; 
+
+
+
+b)	deduct the overpayment from salaries of concerned personnel until full recovery of the amount; and
+
+
+
+c)	instruct the NFSU to coordinate with the Office of the Assistant Chief of Naval Staff for Personnel, N1 for the current assignment of concerned personnel prior to sending of Demand Letter/Notices.
+
+
+
+	Management Comment
+
+
+
+	10)		PNFC exerted efforts in the collection of overpayments from PN personnel especially in the 4th quarter of CY 2020. 
+
+
+
+	11)		In order to institutionalize the procedure in the Prevention and Recovery of Overpayment, the Center crafted a Personnel Directive (PD) on “Prevention, Recovery and Monitoring of Overpayment from Pay and Allowances and Other Unauthorized Claims of PN Personnel” which was already forwarded to the Higher Headquarters last 16 April 2021 for approval. 
+
+
+
+	12)		To ensure collection of overpayments, the Center made coordination with Higher Headquarters (Attn: N1) last 16 February 2021 for the implementation of collection of overpayments thru salary deduction. The proposed scheme of collection of overpayments was approved by HHQS last 22 March 2021. Moreover, collection of overpayments thru salary deduction was implemented in the pay and allowance of overpaid personnel for April 2021.
+
+	
+
+	13)		Lastly, report of collection of overpayments is being submitted to NASO on a monthly basis not later than 10th day of the following month.
+
+	
+
+	14)		The role and responsibilities of NFSUs in determining proper disposition of PN personnel with overpayments are already embedded in the proposed Personnel Directive.
+
+
+
+
+
+Unrefunded long outstanding Retention Money 
+
+11)	Retention money amounting to ₱2,284,541.50 to guaranty the delivery/performance of the project remained outstanding in the books despite project completion and lapse of warranty period for more than two years due to failure of the concerned suppliers to claim the same contrary to Section 62.1 of the Revised Implementing Rules and Regulations of Republic Act No. 9184.  
+
+
+
+	1)		Section 62 of the RIRR of RA 9184, states the following: 
+
+ 	
+
+
+
+
+
+
+
+Section 62. Warranty  
+
+62.1. For the procurement of goods, in order to assure that manufacturing defects shall be corrected by the supplier, a warranty security shall be required from the contract awardee for a minimum period of three (3) months, in the case of Expendable Supplies, or a minimum period of one (1) year, in the case of Non-expendable Supplies, after acceptance by the procuring entity of the delivered supplies. The obligation for the warranty shall be covered by either retention money in an amount equivalent to at least ten percent (10%) of every progress payment, or a special bank guarantee equivalent to at least ten percent (10%) of the total contract price. The said amounts shall only be released after the lapse of the warranty period or, in the case of Expendable Supplies, after consumption thereof: Provided, however, That the supplies delivered are free from patent and latent defects and all the conditions imposed under the contract have been fully met. 
+
+62.2. For the procurement of infrastructure projects, the following warranties shall be made:  
+
+62.2.1. From the time project construction commenced up to final acceptance, the contractor shall assume full responsibility for the following: 60 Refer to Appendix 2 for the Guidelines for Contract Price Escalation. 61 Refer to Appendix 8 for the Guidelines on Procurements Involving Foreign-Denominated Bids, Contract Prices, and Payment Using Letters of Credit. Revised Implementing Rules and Regulations 95 a) any damage or destruction of the works except those occasioned by force majeure; and b) safety, protection, security, and convenience of his personnel, third parties, and the public at large, as well as the works, equipment, installation and the like to be affected by his construction work;(a)  
+
+62.2.2. One (1) year from project completion up to final acceptance or the defects liability period. 
+
+	2)		As of December 31, 2020, the aging schedule of Guaranty/Security Deposits Payable of Philippine Fleet showed an outstanding balance of ₱31,178,851.77, representing 10 percent retention money from various suppliers. This retention money shall guarantee any factory defect for replacement/repair/refund within the warranty period. The amount retained shall only be released after the lapse of the warranty period or in the case of Expendable Supplies after consumption thereof. 
+
+	
+
+	3)		However, further verification showed that the outstanding balance of ₱31,178,851.77 includes balances totaling ₱2,284,541.50 pertaining to FYs 2015 and 2018 transactions which are due for refund to concerned contractors/suppliers. Details are as follows: 
+
+	
+
+Year
+
+AMOUNT
+
+No. Of Years Lapsed
+
+  2015
+
+₱257,205.00
+
+5 years
+
+  2018
+
+       2,027,336.50
+
+2 years
+
+Due for Refund
+
+₱2,284,541.50
+
+
+
+  2019
+
+       1,394,366.05
+
+1 year
+
+  2020
+
+     27,499,944.22 
+
+
+
+     Total
+
+₱31,178,851.77 
+
+
+
+	
+
+	4)		Had the FASU informed concerned suppliers/contractors on the retention money subject to refund, the accumulation of unclaimed Guaranty/Security Deposits could have been avoided.  
+
+	
+
+	5)		We recommended that Management instruct the Field Accounting Service Unit – Philippine Fleet (FASU-PF) to inform concerned suppliers/contracts of the refund of their retention money/guaranty deposits. 
+
+	
+
+	Management Comment
+
+	
+
+	6)		FASU-PF already coordinated with 302nd Contracting Office for the facilitation of documentary requirements necessary for the release of retention money.
+
+	
+
+	
+
+Long outstanding balance of Other Receivables
+
+
+
+12)	The accuracy and reliability of the Other Receivables account balance of ₱263,791,542.29 as of December 31, 2020 cannot be ascertained due to non-reconciliation of the Field Accounting Service Unit (FASU) records and the Support Facility Administration (SFA) reports of the Bonifacio Naval Station (BNS) with a variance amounting to ₱357,101.12. Moreover, the balance includes long outstanding accounts in two PN units totaling ₱8,236,259.76 deemed uncollectible. 
+
+
+
+	1)		Under COA Circular 2020-01, Other Receivables account is used to recognize amount due from debtors and other agencies not falling under any of the specific receivable account. This also includes receivables from individuals or entities intended for specific projects or purpose not falling under any of the specific receivable account. This account is credited for receipt of payment, liquidation, write-off, and/or adjustments.
+
+
+
+	2)		The Other Receivables account has a balance of ₱263,791,542.29 as of December 31, 2020. In the audit of the said account, the following observations were noted during CY 2020:
+
+
+
+a)	Non-reconciliation of FASU records and SFA reports of BNS amounting to ₱357,101.12
+
+
+
+	3)		As of December 31, 2020,  the recorded balance of Other Receivable account in the Bonifacio Naval Station amounted to ₱12,524,366.78 that pertains to billings and collections of electric and water consumption, space rental, and garbage collection of military quarters occupants and concessionaires.
+
+
+
+	4)		Audit disclosed that the balance per books of ₱12,524,366.78 did not reconcile with the Support Facility Administration report of ₱12,167,265.66 or a difference of ₱357,101.12. 
+
+
+
+Particulars
+
+FASU
+
+records
+
+SFA
+
+report
+
+Variance
+
+Beginning balance, Jan 1, 2020
+
+₱10,511,039.57
+
+₱10,488,690.92
+
+₱22,348.65a
+
+I. Billings issued 
+
+    (Dec 2019- Nov 2020)
+
+
+
+
+
+
+
+Electric 
+
+17,429,585.49
+
+17,429,585.49
+
+-
+
+Water 
+
+1,254,941.70
+
+1,254,941.70
+
+-
+
+Space Rental 
+
+4,359,963.30
+
+4,378,453.93
+
+(18,490.63)
+
+Garbage
+
+96,000.00
+
+95,700.00
+
+300.00
+
+    Subtotal
+
+23,140,190.49
+
+23,158,681.12
+
+(18,190.63)b
+
+II. Adjustments in the beg. balance
+
+3,564.83
+
+3,564.83
+
+-
+
+III. Collections (Dec 2019- Nov 2020)
+
+
+
+
+
+
+
+           Cash Collections
+
+
+
+
+
+
+
+           Electric 
+
+15,971,689.92
+
+15,974,283.10
+
+(2,593.18)
+
+ Water 
+
+973,251.19
+
+973,251.19
+
+-
+
+ Space Rental 
+
+3,936,377.70
+
+3,936,377.70
+
+-
+
+ Garbage
+
+73,200.00
+
+73,200.00
+
+-
+
+      Subtotal
+
+20,954,518.81
+
+20,957,111.99
+
+(2,593.18)c
+
+     Salary Deduction 
+
+       (B5 deduction)
+
+
+
+
+
+
+
+       LT Kenneth C Villanueva
+
+39,000.00
+
+36,000.00
+
+3,000.00
+
+       CAPT Silvestre L Rubite
+
+12,200.00
+
+6,800.00
+
+5,400.00
+
+      Sub total
+
+51,200.00
+
+42,800.00
+
+8,400.00d
+
+IV. Write-off Granted 
+
+125,009.30
+
+125,009.30
+
+-
+
+V.  Errors
+
+Problem Accord 2 (Treated as addition in the computation in the SFA report)
+
+-
+
+75,986.56
+
+(75,986.56)e
+
+Problem Accord 1 (Treated as deduction in the computation in the SFA Report)
+
+-
+
+395,893.47
+
+395,893.47e
+
+Errors in computations and Net changes in balances forwarded in the next month's report 
+
+-
+
+38,843.01
+
+38,843.01f
+
+Total as of December 31, 2020
+
+₱12,524,366.78
+
+₱12,167,265.66
+
+₱357,101.12
+
+
+
+	5)		Review and analysis of the account showed that the difference of ₱357,101.12 was due to the following:
+
+
+
+a)	Unreconciled prior year ending balances amounting to ₱22,348.65;
+
+
+
+b)	Difference in reported amounts in the Summary of Total Balances pertaining to garbage billings and space rental billings. Details are as follows:   
+
+
+
+BNS Concessionaires
+
+Particulars
+
+Amount
+
+January 2020 Billing for Garbage 
+
+Amount reported in the summary
+
+  ₱7,800.00 
+
+
+
+Computation of billings in the supporting documents
+
+      7,500.00 
+
+ 
+
+Variance
+
+       300.00 
+
+September 2020 Billing for Space
+
+Amount reported in the summary
+
+170,835.12
+
+
+
+Computation of billings in the supporting documents
+
+  189,325.75 
+
+ 
+
+Variance
+
+₱18,490.63
+
+
+
+c)	The total collections deposited for the month of August was ₱1,412,883.79 while reported collection in the SFA report amounted to ₱1,411,883.88 or a difference of ₱999.90. There is also unrecorded collections for November MECQ BNS Active Vacated amounting to ₱3,593.08; 
+
+
+
+d)	Non recognition of B5 deductions of Collection and Remittance Branch Philippine Navy Finance Center in the report of SFA for the months of April to June and September to December totaling  ₱8,400.00;
+
+
+
+e)	Inquiry with SFA personnel disclosed that columns for Problem Accord 1 and Problem Accord 2, amounting to ₱395,893.47 and ₱75,986.56, respectively, were adjustments made to correct the balances in the individual occupants’ ledgers, which pertained to overpayments and incorrect postings of collections. Also, these adjustments were discussed with and communicated to FASU and SFA. However, we were not furnished with a copy of the supporting documents for the adjustments made  to check the validity and correctness of the balances; and
+
+
+
+f)	Errors in computations and inconsistencies/changes in balances being forwarded in the following month report of the SFA amounting to ₱38,843.01.
+
+
+
+	6)		It was noted that FASU used the summary of collections and total balances submitted by SFA as a basis in recording billings and collection, however, due to delayed submission of SFA reports together with supporting documents, the balances were not regularly reconciled.
+
+
+
+	7)		As of year-end, there was no adjustment made on the noted reconciling items. Inquiry with FASU and SFA disclosed that they are still in the process of reconciliation. 
+
+
+
+b)	Inclusion of long outstanding accounts deemed uncollectible in two PN units - ₱8,236,259.76 
+
+
+
+	8)		COA Circular No. 2016-005 defines Dormant Receivable accounts, as accounts which balances remained inactive or non-moving in the books of accounts for 10 years or more and where settlement/collectability could no longer be ascertained.
+
+
+
+	9)		As of December 31, 2020, the consolidated balance of Other Receivables account amounted to ₱295,270,975.53 consisting of Receivables-Disallowances/ Charges, RMC Fund and receivables from employees and concessionaires. Out of the receivables from employees amounting to ₱13,270,333.41, the amount of ₱8,236,259.76 pertains to the dormant accounts of two PN units which have been non-moving for more than six years, detailed below:
+
+
+
+	Unit
+
+	Age in Years
+
+	Amount
+
+	BNS
+
+	More than 6 years
+
+	₱7,079,467.84
+
+	NBC
+
+	More than 10 years
+
+	1,156,791.92
+
+	Total
+
+	
+
+	₱8,236,259.76
+
+
+
+	10)		On November 20, 2020, the BNS filed a request for write-off of dormant receivable amounting to ₱7,092,060.92 which remained outstanding as of September 30, 2020. 
+
+
+
+	11)		On the other hand, the submitted aging of Other Receivables as of December 31, 2020 showed long outstanding receivables, to wit:                
+
+
+
+Particulars
+
+Less than 1 year
+
+Over 1 yr. but less than 2 yrs.
+
+Over 2 yrs. but less than 3 yrs.
+
+Over 6 yrs. and beyond
+
+Total
+
+Active Accounts
+
+
+
+
+
+
+
+a. Active Senior Officers Quarters (SOQ)
+
+₱190,626.19
+
+₱166,982.97
+
+₱-
+
+₱-
+
+₱357,609.16
+
+b. Officers Condo
+
+32,461.73
+
+3,254.44
+
+2,082.39
+
+-
+
+37,798.56
+
+c. Active Duplex
+
+87,084.67
+
+-
+
+-
+
+-
+
+87,084.67
+
+d. Active Apartment
+
+108,185.06
+
+106,480.85
+
+-
+
+-
+
+214,665.91
+
+e. Active BNS
+
+500,303.84
+
+536.40
+
+-
+
+-
+
+500,840.24
+
+f. Active CC
+
+517,910.60
+
+2,864.18
+
+1,194.15
+
+-
+
+521,968.93
+
+g. BNS Concessionaires
+
+1,575,655.02
+
+184,003.21
+
+1,420.25
+
+-
+
+1,761,078.48
+
+h. Marines 
+
+  concessionaires
+
+1,118,247.35
+
+428,479.77
+
+60,024.75
+
+-
+
+1,606,751.87
+
+Subtotal
+
+4,130,474.46
+
+892,601.82
+
+64,721.54
+
+-
+
+5,087,797.82
+
+Dormant Accounts
+
+
+
+
+
+
+
+
+
+a.  Closed Concessionaires
+
+-
+
+-
+
+-
+
+341,637.94
+
+341,637.94
+
+ b.  Active Military personnel who vacated the qtrs.
+
+-
+
+-
+
+-
+
+112,817.10
+
+112,817.10
+
+c.Retired/Deceased military personnel
+
+-
+
+-
+
+-
+
+1,445,465.58
+
+1,445,465.58
+
+d. Retired and Discharged from Military service who vacated the quarters
+
+-
+
+-
+
+-
+
+5,179,547.22
+
+5,179,547.22
+
+Subtotal
+
+-
+
+-
+
+-
+
+7,079,467.84
+
+7,079,467.84
+
+Total
+
+₱4,130,474.46
+
+₱892,601.82
+
+₱64,721.54
+
+₱7,079,467.84
+
+₱12,167,265.66
+
+
+
+	12)		Initial evaluation of documents supporting the request for write off disclosed the following deficiencies:
+
+
+
+a)	Balances reported in the SL and the amount requested for write-off as shown in the Aging of Dormant Accounts, did not tally with supporting documents or in the individual record card of occupants; 
+
+
+
+b)	Incomplete details in the record card, such as billing dates and amount; thus, difficulty in tracking balances and determining correct amount; and
+
+
+
+c)	Deceased personnel accounts were not supported with copy of death certificates due to refusal of the Philippine Statistics Authority (PSA) to issue certificates on grounds of restrictions under Data Privacy Act (DPA).
+
+
+
+	13)		Documents to support the request for write off was incomplete and insufficient to serve as basis in establishing correct amount to be written off pursuant to COA Circular 2016-005 dated December 19, 2016.
+
+	
+
+	14)		In NBC, the balance of ₱1,156,791.92 pertains to receivables from concessionaires and occupants of military quarters that have been outstanding since FY 2003. Management exerted efforts to send demand letters and search for current addresses and whereabouts of concerned officials/concessionaires, however, the collectability of said receivables remained futile.
+
+	
+
+	15)		We recommended that Management direct the:
+
+
+
+a)		FASU and SFA of BNS to
+
+
+
+i)	trace unreconciled balance and FASU to prepare necessary adjusting entries to reflect correct balance of accounts and SFA to submit documents to support the adjustments;
+
+
+
+ii)	regularly coordinate and reconcile books/records and carefully review and check accuracy of amounts indicated in the reports; and 
+
+	
+
+iii)	make sure that all supporting documents are complete, and the amounts requested for write-off are accurate.  
+
+	
+
+b)		Commanding Officer and the Collecting and Remittance Officer (CRO) of Community and Special Service Unit (CSSU) formerly SFA, NBC to analyze receivables which are dormant/ non-moving for more than 10 years for proper disposition and derecognition.  File a request for authority to write-off dormant accounts from COA for receivables which could no longer be collected, duly supported with documents.
+
+
+
+	Management Comment
+
+	
+
+	16)		CSSU and FASU, BNS have 50 percent completed reconciliation of records to ensure accuracy and reliability of balances of the account. 
+
+	
+
+	17)		FASU, NBC prepared a request for write-off of dormant Other Receivables amounting ₱1,156,791.92 from COA. The Ageing of Other Receivable accounts for write-off was based on initial submission of CSSU. Negative ₱8,605.97 pertains to the difference of monthly salary deductions (B5) as against the actual monthly Electric Consumptions. The negative balance was reflected as such since the concerned personnel are still active and continuously occupying Military Quarters. The same will be credited as additional payment for the next reportorial period. 
+
+
+
+	18)		Office of CSSU, NBC exerted efforts to gather necessary data and requirements to support the request for authority to write-off. 
+
+
+
+
+
+COVID-19 Fund Utilization
+
+
+
+13)	Of the realigned/received funds amounting to ₱260,370,972.17 for COVID-19 related expenses, 99.78 percent or ₱259,789,527.17 was obligated/utilized during the year, leaving a balance of ₱581,445.00.  Moreover, various deficiencies were noted in the utilization of funds contrary to the existing rules and regulations.
+
+
+
+	1)		Section 3 of RA No. 11469 or the “Bayanihan to Heal As One Act” provides that: the COVID-19 pandemic has greatly affected nations worldwide, including the Philippines, and has caused and is continuing to cause loss of lives and disruption to the economy. Thus, there is an urgent need to: (a) mitigate, if not contain, the transmission of COVID-19; xxx.
+
+
+
+	2)		During the year, the allotted fund of the PN for COVID-19 related expenses totaled to ₱260,370,972.17. The fund consists of realigned amount from Regular Agency Fund, National Disaster Risk Reduction and Management Fund (NDRRMF) and fund received from AFP GHQ. Of the total amount, 99.78 percent or ₱259,789,527.17 was obligated/utilized during the year leaving an unobligated balance of ₱581,445.00, summarized below and detailed in Annex J:
+
+
+
+		Fund Source
+
+		Amount
+
+		Obligated 
+
+		Balance
+
+		Utili-zation Rate
+
+		 Realignment 
+
+		  Agency 
+
+		   Budget
+
+		₱242,417,392.17
+
+		₱242,266,776.67
+
+		₱150,615.50
+
+		99.94
+
+		NDDRMF
+
+		15,501,675.00
+
+		15,074,045.50
+
+		427,629.50
+
+		97.24
+
+		AFP GHQ
+
+		2,451,905.00
+
+		2,448,705.00
+
+		3,200.00
+
+		99.87
+
+		Total
+
+		₱260,370,972.17
+
+		₱259,789,527.17
+
+		₱581,445.00
+
+		99.78
+
+
+
+	3)		Verification of transactions of the concerned units on the utilization of funds revealed the following:
+
+
+
+Delay in the delivery of procured items amounting to ₱489,825.50 
+
+
+
+	4)		In Headquarters Service Group (HSG), two procurements of Other Supplies and Materials amounting ₱489,825.50 were not delivered as of December 31, 2020. Of this amount, ₱390,125.50 pertains to the cost of 2,663 washable Sailor Battle Dress Uniform cloth face masks which were delivered beyond delivery term of 15 calendar days upon receipt of Notice to Proceed (NTP); thus, incurring delay of eight calendar days for late delivery. On the other hand, the NTP of the other procurement in the amount of ₱99,700.00 was issued only on January 14, 2021. Details are presented below:
+
+
+
+
+
+Date
+
+Purchase Order (PO) No.
+
+Supplier
+
+Amount
+
+NTP Issuance
+
+Delivery Terms
+
+No. of Days Late
+
+10/05/20
+
+PNPC-GSM-323-HPN&HSG-2020
+
+CK Diaz General Mdse.
+
+₱390,125.50 
+
+12/7/20
+
+15 CD
+
+8 CD
+
+12/11/20
+
+PNPC-GSM-438-HPN&HSG-2020
+
+Renie Shanel Consumer Goods Trading
+
+    99,700.00 
+
+1/14/21
+
+15 CD
+
+0 CD
+
+Total
+
+
+
+
+
+₱489,825.50
+
+
+
+
+
+
+
+
+
+	5)		Inquiry with the Assistant Chief of Staff for Logistics, S4 and Assistant Chief of Staff for Financial Management, S10 on the status of procurement amounting to ₱390,125.50 revealed that procured items were delivered in 2021. However, the Inspection and Acceptance Report and the Delivery Receipt have yet to be submitted to the Office of the Auditor as to date.
+
+
+
+Difficulty in identification of expenses charged with COVID-19 Fund
+
+
+
+	6)		In Fleet Marine Ready Force (FMRF), cash advances for COVID 19 related expenses and for other purposes were granted to Special Disbursing Officer at the same and charged under one object of expenditure; thus, actual expenses incurred for COVID 19 could not be easily identified. 
+
+	
+
+Check No./ Date
+
+SDO
+
+Particulars
+
+Amount of Cash Advance Granted
+
+
+
+
+
+
+
+COVID-19 Funds
+
+Other Activities
+
+Total
+
+346928 dated June 8, 2020
+
+LT Mark Anthony Arancon
+
+To CA for the support operational requirement of Task Force, Administrative and logistical requirement of FMRF
+
+₱2,126,800
+
+₱714,393.26
+
+₱2,841,193.26
+
+346930 dated July 9, 2020
+
+LT Mark Anthony Arancon
+
+To CA to support operational and administrative requirement of HFMRF related to COVID-19
+
+668,400.00
+
+255,000.00
+
+923,400.00
+
+346933 dated August 27, 2020
+
+LT Mark Anthony Arancon
+
+To CA to support operational requirements of Task Force, sustainment of CDM during national emergencies, monitoring and development during national holidays and operational sustainment of FMRF
+
+1,200,625.00
+
+468,096.00
+
+1,668,721.00
+
+Total
+
+
+
+₱3,995,825.00
+
+₱1,437,489.26
+
+₱5,433,314.26
+
+
+
+Incomplete supporting documents for actual issuances to end-users of procured items amounting to ₱6,901,160.00
+
+
+
+	7)		In Bonifacio Naval Station (BNS), the total amount of ₱7,071,961.25 was utilized for COVID related expenses of which ₱6,901,160.00 pertained to procured items recorded as inventory and issued during the year. Verification of JEV for issued inventories totaling ₱6,901,160.00 disclosed that Requisition and Issue Slip was signed by the Supply Officer as requesting personnel who received the items, instead of the actual end- users; casting doubt on the accuracy of report for inventories and legitimacy of the transaction. 
+
+	
+
+	8)		Inquiry with the FSPAO disclosed that procured items were issued to various recipients, such as the MBLT12, PN Contingent and Reservist, NPMC, quarantine facility located at NCEBde compound and Manila Naval Hospital, among others. 
+
+Incomplete documentation
+
+
+
+	9)		In Naval Logistic Center (NLC), audit of financial transactions disclosed that the PN represented by the Naval Task Force (NTF) Commander and Naval Task Group (NTG) 80.50 Commander entered a contract agreement with Syarikat Maju Chantan Shipping and Forwarding for procurement of Supply Husbanding Services of two vessels (LS 602 and PS16) for transport mission to Sri Lanka, Xiamen, China and Muscat, Oman in the total amount of P67,142,923.58 ( ₱26,311,433.98+ ₱4,549,058.52+ ₱36,282,431.08). 
+
+
+
+	10)		Examination of DVs revealed absence of the following basic documentary requirements to support the claims which renders the propriety and validity of disbursements doubtful:
+
+
+
+--	Original copy of approved/notarized Contracts for the Supply of Ports and Husbanding Services of two vessels
+
+--	BAC Resolution recommending to conduct procurement activities/ negotiated contracts; and
+
+--	Directive of the Flag Officer In Command (FOIC, PN) authorizing the NTF Commander and NTG 80.50 Commander to enter into a Negotiated Contracts with Syarikat Maju Chantan Shipping and Forwarding
+
+Contracts totaling ₱2,448,705.00 were made beyond the prescribed period
+
+
+
+	11)		Section 37.2.1 of 2016 RIRR of RA No. 9184 provides that the winning bidder shall enter into contract with the Procuring Entity within 10 calendar days from receipt by the winning bidder of the notice of award (NOA).
+
+
+
+	12)		Also, Item V.D.8.b.vi of Annex H (Consolidated Guidelines for the Alternative Methods of Procurements) of the same regulation state that the BAC shall recommend to the HOPE the award of contract in favor of the supplier/ contractor with the Single or Lowest Calculated and Responsive Quotation, in case of approval, the HOPE shall immediately enter into contract with the said supplier/contractor.
+
+
+
+	13)		Post–audit of related DVs and supporting documents of the procurement made showed that contracts are entered into by the suppliers with the Philippine Fleet (PFLT) 42 days from receipt of NOA; hence, contrary to the required period of action pursuant to the pertinent provisions of RA 9184,  as shown on the next page: 
+
+
+
+Supplier / Procurement Activity
+
+PO No. / Date
+
+Amount
+
+NOA
+
+(date received by the supplier)
+
+Date of conforme by the supplier in the PO
+
+No. of days from date receipt of NOA to date of conforme in the PO
+
+No. of days delay
+
+JSR Trading & General Merchandise / Medical Equipment requirement for BRP ANG PANGULO (ACS25)
+
+302CO-PF-SAF-070-20 /Jul. 30, 2020
+
+₱688,955.00
+
+Jul. 30, 2020
+
+Sep. 10, 2020
+
+42
+
+32
+
+CL SIA Trading / logistical supplies for BRP ANG PANGULO (ACS25)
+
+302CO-PF-SAF-071-20 / Jul. 30, 2020
+
+838,000.00
+
+Jul. 30, 2020
+
+Sep. 10, 2020
+
+42
+
+32
+
+CL SIA Trading / essential medical supplies for BRP ANG PANGULO (ACS25)
+
+302CO-PF-SAF-069-20 / Jul. 30, 2020
+
+921,750.00
+
+Jul. 30, 2020
+
+Sep. 10, 2020
+
+42
+
+32
+
+Total
+
+₱2,448,705.00
+
+
+
+
+
+
+
+
+
+
+
+	14)		We recommended that Management require the: 
+
+
+
+	a)	FSPAO, HSG to submit photocopy of Inspection and Acceptance Report with Delivery Receipt to the Office of the Auditor for procurement amounting to ₱390,125.00;
+
+
+
+	b)	Field Accountant and the SDO of FMRF to adhere to the provisions of COA Circular No. 97-002 relative to the manner of granting and liquidation of CAs; 
+
+
+
+	c)	FSPAO and Logistics Office of BNS to submit additional supporting documents on the distribution of procured items to all recipients; 
+
+
+
+	d)	Field Accountant of NLC to submit required documents immediately to avoid suspension in audit of transactions. Likewise, require the Commander to instruct the Field Accountant to scrutinize supporting documents of claims and ensure that claims are supported with complete documents before payment is mad; and
+
+
+
+	e)	Chief of the 302nd Contracting Office of Philippine Fleet to properly observe period of action of procurement activities pursuant to RA No. 9184.
+
+
+
+	Management Comment
+
+
+
+	15)		FMRF commented that the findings were noted. However, the Command maximized the Maximum Cash Accountability (MCA) of the SDO for CA because of immediate requirements of the Command that needs to be addressed especially deployment of personnel as front liners in different quarantine stations to implement the NG Guidelines on IATF for the Management of Emerging Infectious Disease (IATF-MEID) to prevent the spread of COVID-19. In the succeeding CAs, LRs will be according to activities based on funds released from Higher Headquarters and in accordance with COA Circulars. Rest assured that the observation is taken positively while recommendations will be complied accordingly. Further, this Command will continue to adhere to auditing and accounting rules and guidelines set by COA and other authorities.
+
+	
+
+	16)		BNS explained that fund amounting to ₱6,901,160.00 was intended for the use of MBLT 12 of the MBLT 12/PMC and NTG NCR, FMRF who were deployed to different checkpoints as security detail during the heightened alert brought about by the COVID-19 pandemic. The Supply Officer, BNS received the procured items because the end-users from NTG/FMRF and MBLT 12 were deployed to the different boundary checkpoints at the time the same were delivered. It is assured that the items were distributed to the intended end- users (MBLT 12 & NTG/FMRF). 
+
+
+
+	17)		NLC through FASU-NLC submitted the required documents to the Resident Auditor on 08 April 2021 such as BAC Resolution, Approved SOP dated 06 August 2019- Authority from FOIC PN to enter into negotiated contract and Original Contracts. 
+
+
+
+
+
+
+
+
+
+High Utilization rate for Regular Agency (RA) Budget
+
+
+
+14)	The PN posted absorptive capacity of 99.14 and 94.30 percent on allotment over appropriations and obligation over allotments; respectively, which manifests its commitment towards the attainment/accomplishment of programs, projects and activities. 
+
+
+
+	1)		Shown below is the Appropriations, Allotments and Obligations of the PN for CY 2020 as presented in the Financial Accountability Reports (FAR) 1 and 1A also known as Statement of Appropriation, Allotments, Obligations, Disbursements and Balances with the corresponding absorptive capacity as computed:
+
+   Allotment over Appropriations
+
+Particulars
+
+Appropriations
+
+Allotment
+
+Unreleased
+
+Percen-tage
+
+
+
+(a)
+
+(b)
+
+(a-b) 
+
+(b/a)
+
+Current Year
+
+ 
+
+ 
+
+ 
+
+ 
+
+A. Agency Specific 
+
+        Budget
+
+28,625,240,606.00
+
+28,369,161,842.00
+
+256,078,764.00
+
+99.11
+
+     PS
+
+  19,944,166,000.00 
+
+19,712,087,236.00 
+
+232,078,764.00 
+
+98.84
+
+     MOOE
+
+    7,416,229,480.00 
+
+7,416,229,480.00 
+
+                    -   
+
+100
+
+     FE
+
+                             -   
+
+ 
+
+                        -   
+
+-
+
+     CO
+
+1,264,845,126.00
+
+1,240,845,126.00
+
+ 24,000,000.00 
+
+98.10
+
+B. Automatic  
+
+       Appropriation
+
+50,501,875.00
+
+50,501,875.00
+
+0.00
+
+100
+
+     RLIP (PS)
+
+7,954,932.00
+
+7,954,932.00
+
+-
+
+100
+
+     Taxes, Duties 
+
+        and Licenses      
+
+        (MOOE)
+
+42,546,943.00
+
+42,546,943.00
+
+-
+
+100
+
+C. Special Purpose 
+
+        Fund
+
+1,168,045,610.00
+
+1,168,045,610.00
+
+-
+
+100
+
+      Pension and  
+
+        Gratuity Fund
+
+673,023,659.00
+
+673,023,659.00
+
+-
+
+100
+
+      Miscellaneous 
+
+        Personnel 
+
+        Benefits Fund   
+
+479,520,276.00
+
+479,520,276.00
+
+-
+
+100
+
+      Calamity Fund– 
+
+         NDRRMF
+
+            15,501,675.00 
+
+      15,501,675.00 
+
+-
+
+100
+
+D. Other Releases
+
+5,721,695.52
+
+5,721,695.52
+
+-
+
+100
+
+      MOOE
+
+5,721,695.52
+
+5,721,695.52
+
+-
+
+100
+
+Total Agency 
+
+   Budget
+
+29,849,509,786.52
+
+29,593,431,022.52
+
+256,078,764.00
+
+99.14
+
+
+
+
+
+
+
+
+
+
+
+Obligation over Allotment
+
+
+
+Particulars
+
+Allotment
+
+Obligation
+
+Unutilized
+
+Perce-tage
+
+
+
+a
+
+b
+
+(a-b) 
+
+(b/a)
+
+Current Year
+
+ 
+
+ 
+
+ 
+
+ 
+
+A. Agency Specific 
+
+        Budget
+
+28,369,161,842.00
+
+26,696,219,530.91
+
+1,672,942,311.09
+
+94.10
+
+     PS
+
+ 19,712,087,236.00 
+
+ 19,361,357,510.14 
+
+350,729,725.86
+
+98.22
+
+     MOOE
+
+   7,416,229,480.00 
+
+   6,368,485,353.80 
+
+1,047,744,126.20
+
+85.87
+
+     FE
+
+ 
+
+ 
+
+-
+
+-
+
+     CO
+
+1,240,845,126.00
+
+      966,376,666.97 
+
+274,468,459.03
+
+77.88
+
+B. Automatic 
+
+       Appropriation
+
+50,501,875.00
+
+50,501,874.44
+
+0.56
+
+100
+
+     RLIP (PS)
+
+7,954,932.00
+
+          7,954,931.44 
+
+0.56
+
+100
+
+     Taxes, Duties 
+
+        and Licenses   
+
+        (MOOE)
+
+42,546,943.00
+
+        42,546,943.00 
+
+0.00
+
+100
+
+C. Special Purpose 
+
+        Fund
+
+1,168,045,610.00
+
+1,155,538,884.18
+
+12,506,725.82
+
+98.93
+
+      Pension and 
+
+        Gratuity Fund
+
+673,023,659.00
+
+      668,927,371.66 
+
+4,096,287.34
+
+99.39
+
+      Miscellaneous 
+
+         Personnel   
+
+         Benefits 
+
+         Fund   
+
+479,520,276.00
+
+      471,367,443.02 
+
+8,152,832.98
+
+98.30
+
+      Calamity Fund– 
+
+         NDRRMF
+
+        15,501,675.00 
+
+        15,244,069.50 
+
+257,605.50
+
+98.34
+
+D. Other Releases
+
+5,721,695.52
+
+4,651,570.68
+
+1,070,124.84
+
+81.30
+
+      MOOE
+
+5,721,695.52
+
+          4,651,570.68 
+
+1,070,124.84
+
+81.30
+
+Total Agency 
+
+    Budget
+
+29,593,431,022.52
+
+27,906,911,860.21
+
+1,686,519,162.31
+
+94.30
+
+
+
+	2)		It is commendable that the agency had a high absorptive capacity in CY 2020 on allotment over appropriations and obligations over allotment of 99.14 and 94.30 percent, respectively. 
+
+
+
+	3)		The high utilization rate of the agency of the appropriated funds for CY 2020 manifests its commitment towards attainment/accomplishment of programs, projects and activities within the targeted budget.
+
+
+
+	4)		We recommended that Management instruct the Naval Accounting Service Office (NASO) and Office of the Assistance Chief of Naval Staff for Financial Management, O/N10 to continue its commendable efforts in the attainment of a high absorptive capacity in the Agency’s allotment over appropriations and obligation over allotment.
+
+
+
+Gender and Development (GAD) Activities
+
+
+
+15)	The PN had implemented Gender and Development (GAD) responsive projects, activities and programs with attributed cost of ₱10,211,899,692.95 or 35.15 percent of its total appropriations for CY 2020.  However, the GAD Plan and Budget and the corresponding GAD Accomplishment Report were not submitted to the Philippine Commission on Women (PCW) for review and endorsement as required in PCW-DBM-NEDA Joint Memorandum Circular (JMC) No. 2012-01.
+
+
+
+	1)		Section 8.2 of PCW-DBM-NEDA JMC No. 2013-01 or Guidelines for the Preparation of Annual GAD Plans and Budgets (GPB) and Accomplishment Reports (AR) to Implement the Magna Carta of Women provides that: The GAD Focal Point System (GFPS) shall submit the final GPBs and the corresponding GAD ARs to PCW for review and endorsement to DBM.
+
+
+
+	2)		For CY 2020, the consolidated GAD report showed that PN implemented GAD responsive projects, programs and activities with attributed cost of ₱10,211,899,692.95 equivalent to 35.15 percent of its total appropriations, presented as follows:
+
+
+
+Unit/Command
+
+Amount
+
+Headquarters Philippine Navy (HPN)
+
+₱384,504,523.55
+
+Headquarters Service Group (HSG)
+
+50,005,320.34
+
+Philippine Navy Finance Center (PNFC)
+
+20,217,182.31
+
+Naval Intelligence and Security Force (NISF)
+
+90,057,774.00
+
+Naval Reserve Command (NRC)
+
+44,886,223.36
+
+Naval Personnel Management Center (NPMC)
+
+37,225,675.25
+
+Bonifacio Naval Station (BNS)
+
+77,097,467.18
+
+Philippine Marine Corps (PMC)
+
+382,581,620.03
+
+Civil Military Operations Group (CMOG)
+
+31,696,187.00
+
+Naval Combat Engineering Brigade (NCEBde)
+
+76,922,740.12
+
+Naval Sea Systems Command (NSSC)
+
+110,326,091.19
+
+Naval Logistic Center (NLC)
+
+1,977,863,317.72
+
+Philippine Fleet (PFLT)
+
+3,968,361,003.82
+
+Naval Installation Command (NIC)
+
+1,095,644,439.82
+
+Fleet-Marine Ready Force (FMRF)
+
+144,719,409.24
+
+Naval Info and Communication Technology Center (NICTC)
+
+638,281,317.81
+
+Naval Station Leovigildo Gantioqui (NSLG) (Former NETDC)
+
+76,015,926.60
+
+Naval Installation Facility- Northern Luzon (NIF-NL)
+
+104,590,490.94
+
+Naval Installation Facility- West (NIF-W)
+
+142,998,807.03
+
+Naval Installation Facility- Southern Luzon (NIF-SL)
+
+72,449,961.22
+
+Naval Installation Facility- Central (NIF-C)
+
+75,391,494.91
+
+Naval Installation Facility- Western Mindanao (NIF-WM)
+
+479,424,331.81
+
+Naval Installation Facility- Eastern Mindanao (NIF-EM)
+
+130,638,387.70
+
+Total
+
+₱10,211,899,692.95
+
+
+
+	3)		It is commendable that PN had a high rate of accomplishment of GAD Plan and Budget (GPB) as presented above. However, we noted that PN GAD Center failed to submit the GPB and corresponding GAD Accomplishment Report to PCW for review and endorsement to DBM as required in PCW-DBM-NEDA JMC No. 2012-01. 
+
+
+
+	4)		We recommended that Management require the PN GAD Center to:
+
+
+
+a)	continue its commendable efforts to identify and implement GAD related programs, projects and activities; and
+
+
+
+b)	ensure compliance to requirements of the Circular on submission, review and endorsement of GAD Plan and Budget and the corresponding GAD Accomplishment Report.
+
+
+
+Management Comment
+
+	5)		PN GAD Center commented that PN had no online access to its Gender Mainstreaming Monitoring System (GMMS); thus, the non-submission. The GMMS is the platform for the paperless and online submission of GPB and GAD AR. They already communicated with PCW and requested for access credentials and training on the system but still awaiting reply due to pandemic.
+
+	
+
+16)	Senior Citizens (SCs) and Persons with Disability (PWDs)
+
+
+
+	1)		The PN implemented programs, projects and activities with a total expenditure of ₱2,229,332.44 for CY 2020 intended to address the concerns of SCs and PWDs.
+
+	
+
+PN Unit
+
+Projects/Activities
+
+Amount
+
+HSG
+
+Fabrication of parking signs and installation of railings for SCs and Differently-Abled Persons (DAPs) inside the Headquarters 
+
+       ₱15,850.00 
+
+PNFC
+
+Replacement of bathroom fixtures and rebuilt ramps
+
+      28,025.00 
+
+
+
+Repainting and rebuilt ramps
+
+      20,947.00 
+
+NISF
+
+Employment of three Senior Citizens
+
+   524,235.00 
+
+
+
+Employment of one differently-abled person
+
+    120,950.00 
+
+
+
+Maintenance of Ramp
+
+        7,295.00 
+
+NRC
+
+Employment of One Senior Citizen
+
+    291,976.00 
+
+
+
+Maintenance of Ramp
+
+           900.00 
+
+NPMC
+
+Procurement of one (1) wheelchair
+
+        5,000.00 
+
+
+
+Installation of railings inside male and female comfort rooms
+
+        8,500.00 
+
+
+
+Gift-giving to the Elderly at San Lorenzo Ruiz Home for the Elderly
+
+      26,000.00 
+
+BNS
+
+Procurement of Walker/ Cane
+
+        7,000.00 
+
+
+
+Procurement of Wheelchair
+
+      15,000.00 
+
+CMOG
+
+Senior Citizens and PWDs parking signage and wheelchair ramps in front of HCMOG-PN building and maintenance of toilet for PWD at visitors’ lounge
+
+        2,300.00 
+
+
+
+Additional parking space and installation of flood lights pole for personnel especially SCs and PWDs 
+
+      46,999.00 
+
+
+
+Replacement of broken tiles for safety purposes of SCs and PWDs
+
+        8,525.00 
+
+
+
+New water filter at Galley HCMOG-PN building and newly installed at male barracks to make sure that  personnel especially SCs will prevent disease cause of dirty water
+
+        5,712.00 
+
+
+
+Daily routine for disinfecting the HCMOG-PN male and female barracks for safety purposes and especially for SCs health status
+
+      48,067.64 
+
+
+
+Humanitarian assistance and disaster relief operation where SCs are among participants 
+
+    688,706.80 
+
+
+
+Participation and recognition of retiring PN military personnel
+
+      16,670.00 
+
+PMC
+
+Construction of MAS and WWRP Office
+
+    100,330.00 
+
+
+
+Restroom at Budget Branch Office, MC1
+
+      77,060.00 
+
+NCEBde
+
+Conduct of Parent and Child Counseling
+
+      19,503.00 
+
+
+
+Conduct of Out-Reach Program for Elderly People 
+
+      68,360.00 
+
+NETDC
+
+Support to community relations (Feeding Program)
+
+      70,120.00 
+
+NIFC
+
+Construction of ramp at the gymnasium for PWD and SC
+
+          5,301.00 
+
+ 
+
+Total
+
+₱2,229,332.44 
+
+	
+
+17)	Enforcement/Status of Audit Suspensions, Disallowances and Charges
+
+
+
+	1)		No audit suspension, disallowances and charges were issued during CY 2020. Of the outstanding balance of disallowances of ₱18,210,129.83, only ₱1,030.00 was settled during the year, leaving a balance of ₱18,209,099.83 as at year-end, details as follows:
+
+	
+
+	
+
+Unit
+
+Prior Years
+
+(a)
+
+Issued
+
+(b)
+
+Settled
+
+(c)
+
+Balance
+
+(a+b-c)
+
+(d)
+
+HPN
+
+ ₱6,600,915.36 
+
+		₱	 -
+
+₱-
+
+ ₱6,600,915.36 
+
+HSG
+
+       43,923.37 
+
+-
+
+-
+
+       43,923.37 
+
+PMC
+
+  1,590,173.66 
+
+-
+
+-
+
+  1,590,173.66 
+
+PFLT
+
+       37,419.04 
+
+-
+
+-
+
+       37,419.04 
+
+NIF-C
+
+  7,758,347.46 
+
+-
+
+-
+
+  7,758,347.46 
+
+NFWM
+
+  2,179,350.94 
+
+-
+
+(1,030.00)
+
+  2,178,320.94 
+
+Total
+
+₱18,210,129.83 
+
+-
+
+₱(1,030.00)
+
+₱18,209,099.83
+
+
+
+18)	Compliance with Tax Laws, R.A. No. 8291 (GSIS Law) and R.A. No. 9679 (Pag-IBIG Law)
+
+
+
+	1)		The PN complied with the timely remittance to the Bureau of Internal Revenue (BIR), Government Service Insurance System (GSIS), PhilHealth, and Pag-IBIG of mandatory deductions/contributions, including loan amortizations, pursuant to applicable laws, rules and regulations. As of December 31, 2020, the following outstanding balances of amount withheld were remitted in January 2021: 
+
+
+
+Account
+
+	Balance as of 12/31/ 2020
+
+
+
+	
+
+	Due to BIR
+
+₱117,243,076.83 
+
+	Due to GSIS
+
+66,216.26
+
+	Due to PhilHealth
+
+217,539.04
+
+	Due to Pag-IBIG
+
+	19,927,205.67
+
+	Total
+
+₱137,454,037.80
+
+
+
+19)	Compliance with GSIS Property Insurance Law
+
+
+
+	1)		 The PN paid ₱40,349,877.95 in 2020 for the insurance premium and documentary stamp tax of its insurable assets.
+
+	
+
+20)	Compliance with COA Circular No. 2015-001 (Dormant Accounts)
+
+
+
+	1)		The PN did not maintain dormant/idle/inactive bank accounts as of December 31, 2020.
+
+	 
+
+21)	Marawi Funds
+
+
+
+	1)		The Funds received in prior years for financial assistance to the beneficiaries of PN personnel who were wounded or killed during Marawi crisis were already utilized. Only ₱104,742.75 pertaining to stale checks remained undisbursed as of December 31, 2020. No additional fund was received in CY 2020.
+
+	
+
+22)	National Task Force to End Local Communist Armed Conflict (NTF-ELCAC) Funds
+
+
+
+	1)		For CY 2020, PN did not receive funds for NTC-ELCAC.
+
+90
+
+
+
+
+
+
+
+
+
+
+

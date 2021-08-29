@@ -1,0 +1,4160 @@
+PART II
+
+
+
+OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+Financial and Compliance
+
+
+
+Doubtful accuracy of PPE due to various deficiencies
+
+
+
+1)		The existence, accuracy and completeness of the Property, Plant and Equipment (PPE) accounts reported at a net book value of P665,307,994.60 as of December 31, 2020 could not be ascertained due to the following: (a) net discrepancy of the balances between the Statement of Financial Position, and the Report on the Physical Count of PPE (RPCPPE) totaling P92,499,861.88; (b) semi-expendable supplies recorded in the RPCPPE totaling P7,356,211.50; (c) PPE recorded in the books but not reported in the RPCPPE and vice-versa; and (d) reports and records of PPE in the Supply Office and the Accounting Office of the Main Campus containing items described as “Reconciling SL,” thus affecting the fair presentation of the accounts in the financial statements.
+
+
+
+	1)		Sections 111 and 112 of Presidential Decree (PD) No. 1445, otherwise known as the Government Auditing Code of the Philippines, provide:
+
+
+
+SECTION 111. Keeping of accounts.
+
+
+
+	(1)	The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government. 
+
+
+
+	(2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+SECTION 112. Recording of financial transaction.  Each government agency shall record its financial transactions and operations conformably with generally accepted accounting principles and in accordance with pertinent laws and regulations.
+
+
+
+	2)		Pertinent provisions of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), Volume I, are as follows:
+
+
+
+Chapter 2
+
+
+
+GENERAL PROVIDIONS, BASIC STANDARDS AND POLICIES
+
+
+
+Sec. 15.  Fair Presentation. The FSs shall present fairly the financial position, financial performance and cash flows of an entity. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in PPSAS.  The application of PPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.
+
+
+
+x x x
+
+
+
+Chapter 8
+
+
+
+INVENTORIES
+
+
+
+Sec. 10.  Semi-expendable Property.  Tangible items below the capitalization threshold of P15,000 shall be accounted as semi-expendable property.  The following policies apply as follows:
+
+
+
+a)		Semi-expendable property which were recognized as PPE shall be reclassified to the affected accounts.
+
+
+
+b)		These tangible items shall be recognized as expenses upon issue to the end-user.
+
+
+
+Sec. 17.  Records, Forms and Reports to be prepared and/or maintained.  The following records, forms and reports are prescribed for use:
+
+
+
+X x x
+
+
+
+a)		Report on the Physical Count of Inventories (RPCI) (Appendix 66)–shall be used to report the physical count of supplies by type of inventory as at a given date.  It shows the balance of inventory items per card and per count and shortage/overage, if any. These include the semi-expendable property wherein the issue is covered by ICS.                                                                                                                                                                                                                              
+
+
+
+x x x
+
+
+
+Chapter 10
+
+
+
+PROPERTY, PLANT AND EQUIPMENT
+
+
+
+Sec. 3.  Criteria for Recognition.  The cost of an item of PPE shall be recognized as assets if, and only if:
+
+
+
+a)		it is probable that the future economic benefits or service potential associated with the item will flow to the entity;
+
+
+
+b)		the cost or fair value of the item can be measured reliably;
+
+
+
+c)		beneficial ownership and control clearly rest with the government;
+
+
+
+d)		the asset is used to achieve government objectives; and
+
+
+
+e)		it meets the capitalization threshold of P15,000.
+
+
+
+Under this recognition principle, an entity shall evaluate all its PPE costs at the time they are incurred.  These costs include cost incurred initially to acquire or construct an item of PPE and costs incurred subsequently to add to, replace part of, or service the PPE.
+
+
+
+X x x.
+
+
+
+Sec. 38.  Physical Count of PPE.  The entity shall have a periodic physical count of PPE, which shall be done annually and presented on the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) (Appendix 73) as at December 31 of each year.  This shall be submitted to the Auditor concerned not later than January 31 of the following year. Equipment found at station and losses discovered during the physical count shall be reported to the Accounting Division/Unit for proper accounting/recording.
+
+
+
+X x x.
+
+
+
+Sec. 42.  Accounting and Property Records to be maintained for PPE.  The Chief Accountant shall maintain the PPELC for each category of PPE including work and other animals, livestock etc.  The PPELC shall be kept to record promptly the acquisition, description, custody, estimated useful life, depreciation, impairment loss, disposal and other information about the asset.  For check and balance, the Property and Supply Office/Unit shall likewise maintain PC for PPE in their custody to account for the receipt and disposition of the same.  The balance per PC shall be reconciled with PPELC maintained by the Accounting Division/Unit.  They shall also be reconciled with other property records like PAR.
+
+
+
+	3)		The consolidated net book value of SSU’s PPE accounts amounted to P665,307,994.60, broken down as follows:
+
+
+
+  Table 1.  Breakdown of the Consolidated PPE accounts at Year end
+
+Account Title
+
+Cost
+
+Acc. Depreciation
+
+Net Book Value
+
+Land
+
+P136,863,160.00
+
+P                       -   
+
+P136,863,160.00 
+
+Other Land Improvements
+
+1,490,300.00 
+
+123,800.00 
+
+1,366,500.00 
+
+Road Networks
+
+718,600.00 
+
+17,066.76 
+
+701,533.24 
+
+Power Supply Systems
+
+1,495,141.24 
+
+220,948.56 
+
+1,274,192.68 
+
+Other Infrastructure Assets
+
+15,730,849.17 
+
+1,339,283.66 
+
+14,391,565.51 
+
+Buildings
+
+96,486,734.44 
+
+20,084,101.28 
+
+76,402,633.16 
+
+School Buildings 
+
+192,919,565.80 
+
+95,790,597.74 
+
+97,128,968.06 
+
+Other Structures
+
+58,535,805.59 
+
+22,767,252.41 
+
+35,768,553.18 
+
+Machinery
+
+795,083.60 
+
+392,885.96 
+
+402,197.64 
+
+Office Equipment
+
+18,256,324.03 
+
+8,037,746.24 
+
+10,218,577.79 
+
+Information and Communication Technology Equipment 
+
+82,194,106.92 
+
+39,367,056.27 
+
+42,827,050.65 
+
+Agricultural and  Forestry Equipment
+
+23,190.00 
+
+119,795.98 
+
+(96,605.98)
+
+Marine and Fishery Equipment
+
+2,214,847.00 
+
+241,372.11 
+
+1,973,474.89 
+
+Communication Equipment
+
+6,308,345.60 
+
+3,380,673.02 
+
+2,927,672.58 
+
+Construction and Heavy Equipment
+
+67,048.00 
+
+36,685.95 
+
+30,362.05 
+
+Disaster Response and Rescue Equipment
+
+115,100.00 
+
+28,499.99 
+
+86,600.01 
+
+Medical Equipment
+
+5,696,638.11 
+
+2,269,745.11 
+
+3,426,893.00 
+
+Printing Equipment
+
+1,672,635.00 
+
+1,111,395.55 
+
+561,239.45 
+
+Sports Equipment
+
+1,899,465.00 
+
+690,329.48 
+
+1,209,135.52 
+
+Technical and Scientific  Equipment 
+
+89,062,093.06 
+
+50,433,280.39 
+
+38,628,812.67 
+
+Other Machinery and Equipment 
+
+65,661,522.79 
+
+23,216,446.35 
+
+42,445,076.44 
+
+Motor Vehicles
+
+6,344,986.54 
+
+4,884,651.19 
+
+1,460,335.35 
+
+Watercrafts
+
+1,534,157.36 
+
+-   
+
+1,534,157.36 
+
+Furniture and Fixtures 
+
+8,611,446.42 
+
+1,957,731.26 
+
+6,653,715.16 
+
+Books 
+
+2,595,058.48 
+
+314,913.14 
+
+2,280,145.34 
+
+Other Property, Plant and Equipment
+
+0,000.00 
+
+-   
+
+50,000.00 
+
+Construction in Progress - Buildings and Other Structures
+
+144,792,048.85 
+
+-   
+
+144,792,048.85 
+
+Total
+
+P 942,134,253.00 
+
+P276,826,258.40 
+
+P 665,307,994.60 
+
+	4)		Audit of the PPE accounts  for Calendar Year (CY) 2020 disclosed the following deficiencies which have affected the fair presentation in the Financial Statements, to wit:
+
+
+
+a)		Discrepancies in PPE balances between the FSs and the RPCPPEs – P92,499,861.88
+
+
+
+	5)		The PPE balances reported in the General Ledgers (GL) and the balances in the RPCPPEs maintained by the Supply Office as of December 31, 2020 had a net discrepancy totaling P92,499,861.88, summarized below
+
+
+
+Table 2.  Summary of Variances per Fund Cluster (PPE Accounts Balances per FSs & GL vis-   à- vis RPCPPE Maintained at the Supply Office)
+
+Fund Cluster
+
+Reference
+
+Total Variance
+
+Regular Agency Fund (RAF)
+
+Annex A
+
+P91,025,093.29
+
+Internally Generated Fund (IGF)
+
+Annex B
+
+(8,029,555.56)
+
+Business Related Fund (BRF)
+
+Annex C
+
+(33,308.92)
+
+Trust Receipts Fund (TRF)
+
+Annex D
+
+9,537,633.07
+
+Total
+
+
+
+P92,499,861.88
+
+
+
+	6)		Audit  revealed the following reasons for the discrepancies in the PPE balances, which are explained in detail in Annexes A to D:
+
+
+
+		a)	Under the RAF, the variance reported in the land account amounting to P3,857,760.00 can be traced to the recording of the land of SSU-Mercedes Campus at P7,000,000.00.  However, records at the RPCPPE and per Tax Declaration of Real Property with TD No. 01-0044-01175, the cost is reported at P10,857,760.00.  
+
+
+
+		b)	Also under Annex A, variances can be traced to items not reported either in the Accounting ledgers or in the Supply Section: the substantial variances of P3,163,745.00; P10,712,341.40; ,and P36,671,010.91 can be traced to the Buildings, School Buildings and Other Structures being recorded in the Supply Section but not recorded at the Accounting books.
+
+
+
+		c)	Likewise under RAF, the substantial variance of P144,733,623.98 under the Construction in Progress- Buildings and Other Structures account can be traced to records maintained for the account at the Accounting Office yet none are carried at the Supply Office.
+
+
+
+		d)	For Annexes B to D, the variances can be traced to non-reconciliation of the records maintained at the Accounting Section with those of the Supply Office. This is caused by non-maintenance of complete and updated PPE Ledger Cards (PPELCs) by the Accounting Office and Property Cards (PCs) by the Supply Office of the Main Campus
+
+
+
+		e)	The PPELCs of the Accounting Section are not properly maintained.  Multiple PPELCs for a particular class of PPE were noted.  Noted also was a new PPELC prepared for every purchase instead of just updating the existing records for the same item.  This is contrary to Appendix 70 of GAM for NGAs, Volume III, which provides that: “The PPELC shall be kept in the Accounting Division/Unit for each class of PPE.”
+
+
+
+		f)	As also noted was the existence of a ledger described as “Reconciling SL” containing the record for various PPE items.
+
+
+
+		g)	Further, no PPELCs were maintained specifically and separately for the external campuses, instead PPE of the Mercedes and Paranas Campuses were merged with the PPE of the Main Campus in their PPELCs.  This practice has caused the existence of various substantial discrepancies between the PPELCs and the RPCPPE.
+
+
+
+		h)	On the other hand, PCs maintained by the Supply Section of the Main Campus are incomplete and lacked details such as date of acquisition of the items purchased, and the fund cluster used to procure the items.  In fact, a new set of PCs were prepared every year.  This practice has resulted in the difficulty of reconciling the property records between the Accounting and the Supply Sections.
+
+
+
+
+
+b)		Semi-Expendable Supplies recorded in the RPCPPE, P7,356,211.50
+
+
+
+	7)		Audit also revealed that semi-expendable supplies were recorded in the RPCPPE thereby overstating the PPE account even more by P7,356,211.50.  The details of these items are shown in Annex E and summarized below:
+
+
+
+Table 3.  Summary of Semi-Expendable Items Recorded in the RPCPPE Under the Various Funds
+
+Campus
+
+Amount
+
+
+
+RAF
+
+IGF
+
+BRF
+
+TRF
+
+Total
+
+Main
+
+P2,314,475.81 
+
+P3,117,859.03 
+
+P402,965.09 
+
+P978,985.57 
+
+P6,814,285.50 
+
+Mercedes
+
+0.00 
+
+23,100.00 
+
+13,900.00 
+
+0.00 
+
+37,000.00 
+
+Paranas
+
+166,566.00 
+
+338,360.00 
+
+0.00 
+
+0.00 
+
+504,926.00 
+
+Totals
+
+P2,481,041.81 
+
+P3,479,319.03 
+
+P416,865.09 
+
+P978,985.57 
+
+P7,356,211.50 
+
+
+
+	8)		The semi-expendable items should not form part of the PPE records, and instead should be properly recorded as semi-expendables.
+
+	
+
+c)		PPEs recorded in the books but not reported in the RPCPPE and vice-versa
+
+
+
+	9)		During the audit, it was noted that several PPE items totaling P1,435,914.40, which were recorded in the books, but could not be traced to the RPCPPEs (Annex F).  Likewise, those PPEs totaling P86,111,418.07 were reported in the RPCPPEs, but could not be traced to the books (Annex G).  These items are summarized in the tables below:
+
+
+
+Table  4.  Summary of PPE Recorded in the Books but not in the RPCPPE
+
+PPE Account Title
+
+Amount
+
+Machinery
+
+P      272,933.60
+
+ICT Equipment
+
+1,010,897.90
+
+Disaster Response and Response Equipment
+
+52,750.00
+
+Books
+
+99,332.90
+
+Total
+
+P  1,435,914.40
+
+
+
+Table 5.  Summary of PPE Recorded in the RPCPPE but not in the Books
+
+PPE Account
+
+Amount
+
+Buildings
+
+P    3,163,745.00 
+
+School Buildings
+
+10,712,341.40 
+
+Other Structures
+
+63,131,319.38 
+
+Office Equipment
+
+474,235.00 
+
+ICT Equipment
+
+686,830.00 
+
+Marine & Fishery Equipment
+
+2,484,347.00 
+
+Medical Equipment
+
+140,269.79 
+
+Technical & Scientific Equipment
+
+5,230,630.50 
+
+Furnitures and Fixtures
+
+87,700.00 
+
+Total
+
+P86,111,418.07 
+
+
+
+	10)		Moreover, the PPE of the Basey Campus, which are included in the RPCPPE of the Main Campus, have not been validated by an actual physical inventory-taking according to the former Supply Officer of the Main Campus.
+
+
+
+	11)		The foregoing conditions resulted in difficulty of ascertaining the existence, completeness and accuracy of the reported PPE at year end, as well as, in monitoring the condition of SSU’s properties.
+
+
+
+
+
+d)		Items in the PPE recorded in the Supply Office and the Accounting Office of the Main Campus are taken up in a ledger labelled as  “Reconciling SL”
+
+
+
+	12)		Examination of the RPCPPEs submitted by the Main Campus also revealed that some PPE accounts balances were reconciled with the balances in the FSs totaling P52,379,706.68, however were not specifically identified.  Instead they were recorded and described therein as “Reconciling SL.”  A verification of these items revealed that there were no PCs or other records in the Supply Section to support these balances.  Interview with the personnel  at the Supply Section who prepared the RPCPPEs  revealed that these were balances from the Accounting Section noted by them for validation and reconciliation, summary of which is as follows:
+
+
+
+Table 6.  Summary of PPE items described as Reconciling SL in the RPCPPE
+
+PPE Accounts
+
+Amount
+
+
+
+RAF
+
+IGF
+
+BRF
+
+TRF
+
+Total
+
+Other Land Improvement
+
+P1,071,100.00 
+
+
+
+
+
+ 
+
+P1,071,100.00 
+
+Road Networks
+
+ 
+
+718,600.00 
+
+ 
+
+ 
+
+718,600.00 
+
+School Buildings
+
+1,953,115.60 
+
+
+
+ 
+
+ 
+
+1,953,115.60 
+
+Machinery
+
+ 
+
+590.00 
+
+ 
+
+ 
+
+590.00 
+
+Office Equipment
+
+ 
+
+468,867.20 
+
+ 
+
+ 
+
+468,867.20 
+
+Information and Communications Technology
+
+ 
+
+1,080,755.37 
+
+ 
+
+42,570.00 
+
+1,123,325.37 
+
+Communication Equipment
+
+ 
+
+29,441.38 
+
+ 
+
+ 
+
+29,441.38 
+
+Marine and Fishery Equipment
+
+65,000.00 
+
+19,500.00 
+
+ 
+
+ 
+
+84,500.00 
+
+Construction and Heavy Equipment
+
+18,300.00 
+
+14,200.00 
+
+ 
+
+ 
+
+32,500.00 
+
+Technical and Scientific Equipment
+
+18,877,523.54 
+
+ 
+
+ 
+
+ 
+
+18,877,523.54 
+
+Medical Equipment
+
+ 
+
+1,044,714.90 
+
+ 
+
+ 
+
+1,044,714.90 
+
+Sports Equipment
+
+ 
+
+139,750.00 
+
+ 
+
+ 
+
+39,750.00 
+
+Other Machinery and Equipment
+
+16,614,551.65 
+
+ 
+
+ 992,100.00 
+
+80,000.00 
+
+17,686,651.65 
+
+Watercrafts
+
+1,534,157.36 
+
+ 
+
+ 
+
+ 
+
+1,534,157.36 
+
+Furniture and Fixture
+
+4,557,747.85 
+
+1,746,890.02 
+
+37,265.55 
+
+ 
+
+6,341,903.42 
+
+Books
+
+1,222,966.26 
+
+ 
+
+ 
+
+ 
+
+1,222,966.26 
+
+Other PPE
+
+50,000.00 
+
+ 
+
+ 
+
+ 
+
+50,000.00 
+
+Total
+
+P45,964,462.26 
+
+P5,263,308.87 
+
+P1,029,365.55 
+
+P122,570.00 
+
+P 52,379,706.68 
+
+
+
+	13)		On the other hand, the schedules of PPE maintained at the Accounting Section revealed that PPEs with total net book value of P28,772,472.22 were likewise described therein as “Reconciling SL.”  There were no details provided as to the type of PPE, summarized hereunder:
+
+
+
+Table 7.  Summary of PPE items described as Reconciling SL in the Books
+
+Description
+
+Acquisition Cost
+
+Acc. Depreciation
+
+Net Book Value
+
+Regular Agency Fund
+
+Other Structures
+
+P24,743,257.15
+
+P15,041,297.54
+
+P 9,701,959.61
+
+School Buildings
+
+1,944,131.64
+
+-
+
+1,944,131.64
+
+Machinery
+
+272,933.60
+
+-
+
+272,933.60
+
+Information and Communication Technology Equipment
+
+2,773,381.53
+
+-
+
+2,773,381.53
+
+Agricultural and Forestry Equipment
+
+8,990.00
+
+119,795.98
+
+(110,805.98)
+
+Communication Equipment
+
+559,585.95
+
+166,176.27
+
+393,409.68
+
+Construction and Heavy Equipment
+
+18,300.00
+
+2,292.75
+
+16,007.25
+
+Disaster Response and Rescue Equipment
+
+115,100.00
+
+28,499.99
+
+86,600.01
+
+Medical Equipment
+
+(125,270.79)
+
+-
+
+(125,270.79)
+
+Printing Equipment
+
+141,806.00
+
+-
+
+141,806.00
+
+Sports Equipment
+
+14,285.00
+
+-
+
+14,285.00
+
+Watercrafts
+
+1,534,157.36
+
+-
+
+1,534,157.36
+
+Furniture and Fixtures
+
+4,150,102.85
+
+-
+
+4,150,102.85
+
+Books
+
+1,322,299.16
+
+81,280.42
+
+1,241,018.74
+
+Other PPE
+
+50,000.00
+
+-
+
+50,000.00
+
+Sub-total
+
+37,523,059.45
+
+15,439,342.95
+
+22,083,716.50
+
+Internally Generated Fund
+
+Machinery
+
+590.00 
+
+0.00 
+
+590.00 
+
+Office Equipment
+
+165,077.20 
+
+165,077.20 
+
+0.00 
+
+Medical Equipment
+
+311,105.90 
+
+2,123.40 
+
+308,982.50 
+
+Marine and Fishery Equipment
+
+65,000.00 
+
+30,360.36 
+
+34,639.64 
+
+Other Machinery and Equipment
+
+6,286,237.56 
+
+610,587.28 
+
+5,675,650.28 
+
+Books
+
+74759.32
+
+12335.49
+
+62,423.83
+
+Sub-total
+
+6,902,769.98 
+
+820,483.73 
+
+6,082,286.25 
+
+Business Related Fund
+
+Other Machinery and Equipment
+
+637,000.00 
+
+30,530.53 
+
+606,469.47 
+
+Sub-total
+
+637,000.00 
+
+30,530.53 
+
+606,469.47 
+
+Grand Total
+
+P45,062,829.43 
+
+P16,290,357.21 
+
+P28,772,472.22 
+
+
+
+	14)		The Audit Team further noted that a majority of these items identified as “Reconciling SL” is from September 30, 2018.  Interview with the Accounting Office revealed that this is the date when these balances were entered or established in the e-NGAs and not the actual date of acquisition.
+
+
+
+	15)		These reconciling items need to be adjusted so that the account balances are fairly presented in the records and the financial statements of the University.
+
+
+
+	16)		The aforementioned deficiencies created doubt on the existence, accuracy and reliability of the balances of PPE accounts as of year end.
+
+
+
+	17)		We recommended that the President require the:
+
+
+
+a)	Accountant to make the necessary adjustments to correct the overstatements/understatements of the PPE accounts and other affected accounts;
+
+
+
+b)	Accountant and the respective Supply Officers to:
+
+
+
+1)	reclassify semi-expendable properties to their proper inventory or expense account and properly report the same in the RPCI;
+
+
+
+2)	properly maintain and update the PCs and PPELCs pursuant to Section 42, Chapter 10 of the GAM for NGAs, Volume I;
+
+
+
+3)	conduct periodic physical count of PPE of Basey Campus and thereafter, prepare and submit the RPCPPE as prescribed under Section 38, Chapter 10 of the GAM for NGAs, Volume I; 
+
+
+
+4)	conduct immediate reconciliation of records and make the necessary adjustments to come up with correct and reconciled balances; and
+
+
+
+5)	validate the recorded Reconciling SL to properly account the same.
+
+
+
+	18)		The Accountant III commented that a) they shall be submitting reports and documents to effect the adjustments on the net  discrepancy on the balances between the FS and the RPCPPE; they shall submit JEV for the corrections and adjustments of the PPELCs;  b)  PPE  are still validated, verified and checked before the same are recorded in the books; and c) she still has to look for the previous years’ documents particularly 2015 and beyond to be able to identify those PPE items, and submit the JEV for the adjusted accounts.
+
+
+
+	19)		The Supply Officer of SSU – Paranas Campus also commented that the RPCPPE was submitted however, she is in the process of reclassification of semi-expendable properties and she will submit the report to the office concerned  the soonest time possible.
+
+
+
+	20)		The Accountant III submitted a JEV for the adjustment of the Land under RAF SSU Mercedes Campus.  This JEV and its supporting document are still subject for validation by the audit team. 
+
+
+
+
+
+Non-provision with depreciation of PPE items, P46,456,282.86
+
+
+
+2)		PPE totaling P46,456,282.86 were not provided with depreciation, which is contrary to Section 27 of Chapter 10 of the GAM for NGAs, Volume I.
+
+
+
+	1)		Section 27 of Chapter 10, GAM for NGAs, Volume I, provides:
+
+
+
+Sec. 27.  Depreciation.  PPE gradually loses its ability to provide service over the course of time.  Because of this, its cost needs to be distributed on a systematic basis over its useful life.  The allocated cost is referred to as depreciation.  The depreciation charge for each period shall be recognized as expense unless it is included in the carrying amount of another asset.  For example, the depreciation of manufacturing plant and equipment is included in the costs of conversion of inventories.  Similarly, depreciation of PPE used for development activities may be included in the cost of an intangible asset recognized.  The following are policies regarding depreciation of PPE:
+
+
+
+		a)	There are three factors an entity must consider in determining depreciation:
+
+
+
+1. Initial cost,
+
+2. Useful life, and
+
+3. Expected residual value at the end of its useful life.
+
+
+
+		b)	Except for land and not recognized heritage assets, all PPE shall be depreciated.
+
+
+
+		c)	Depreciation of an asset begins when it is available for use such as when it is in the location and condition necessary for it to be capable of operating in the manner intended by management.  For simplicity and to avoid proportionate computation, depreciation shall be for one month if the PPE is available for use on or before the 15th of the month.  However, if the PPE is available for use after the 15th of the month, depreciation shall be for the succeeding month.
+
+
+
+		d)	Depreciation of an asset ceases when the asset is derecognized.  Therefore, depreciation does not cease when the asset becomes idle or is retired from active use and held for disposal unless the asset is fully depreciated.
+
+
+
+		e)	The straight line method of depreciation shall be adopted unless another method is more appropriate for entity operation.  That method is applied consistently from period to period unless there is a change in the expected pattern of consumption of those future economic benefits or service potential.
+
+
+
+		f)	The estimation of the useful life of the asset is a matter of judgment based on the experience of the entity with similar assets.  The agency/entity is in the best position to estimate the expected useful life of its PPE. xxx
+
+
+
+x x x
+
+
+
+a)	A residual value equivalent to at least five percent (5%) of the cost shall be adopted unless a more appropriate percentage is determined by the entity based on its operation subject to the approval of COA. 
+
+
+
+Generally, infrastructure assets have no residual value.  In case, the residual value of parts of the infrastructure assets can be determined, the policy of at least five percent (5%) of the cost of that part shall be applied.
+
+
+
+	2)		Verification of the records of the University disclosed that PPE items totaling P46,456,282.86 were not provided with Depreciation, as summarized in the table below:
+
+
+
+Table 8.  Summary of PPE Accounts not Provided with Depreciation
+
+PPE Account
+
+Acquisition Cost
+
+Acc. Depreciation
+
+Net Book Value
+
+RAF
+
+Machinery 
+
+P272,933.60
+
+P                  -
+
+P 272,933.60
+
+Communications Equipment
+
+577,885.95
+
+168,469.02
+
+409,416.93
+
+Disaster Response and Rescue Equipment
+
+115,100.00
+
+28,499.99
+
+86,600.01
+
+Information and Communication Technology Equipment
+
+2,845,789.30
+
+-
+
+2,845,789.30
+
+Other Machinery and Equipment
+
+16,329,654.95
+
+-
+
+16,329,654.95
+
+Printing Equipment
+
+141,806.00
+
+-
+
+141,806.00
+
+Technical and Scientific Equipment
+
+646,287.59
+
+-
+
+646,287.59
+
+Watercraft
+
+1,534,157.36
+
+-
+
+1,534,157.36
+
+Furniture and Fixture
+
+4,150,102.85
+
+-
+
+4,150,102.85
+
+Books
+
+1,322,299.16
+
+81,280.42
+
+1,241,018.74
+
+Other PPE
+
+50,000.00
+
+-
+
+50,000.00
+
+Sub-total
+
+P27,986,016.76
+
+P278,249.43
+
+P27,707,767.33
+
+IGF
+
+Information and Communication Technology Equipment
+
+18,536,879.99
+
+0.00
+
+18,536,879.99
+
+Marine and Fishery Equipment
+
+65,000.00
+
+30,360.36
+
+34,639.64
+
+Medical Equipment
+
+176,995.90
+
+0.00
+
+176,995.90
+
+Sub-total
+
+P18,778,875.89
+
+P30,360.36
+
+P18,748,515.53
+
+Grand Total
+
+P46,764,892.65
+
+P308,609.79
+
+P46,456,282.86
+
+
+
+	3)		During the audit, it was noted that of these PPE items, a total of P28,228,012.66 or 60.76% were described as Reconciling Items, and recorded in a separate ledger whereby the acquisition date was indicated therein stating not the actual acquisition date of the items, but the date when these items were established in the e-NGAS.  Likewise, no other details, such as the date when these were purchased or acquired, were provided for these items, and the recalculation of their corresponding depreciation.
+
+
+
+	4)		Also, these PPE items were not depreciated since October 2018.
+
+
+
+	5)		The non-provision of depreciation for the PPE accounts understates the expense and accumulated depreciation accounts for the period, therefore, resulting in the incorrect valuation of PPE.
+
+	1)		We recommended that the President require the Accountant to provide for the depreciation of PPE items totaling P46,456,282.86 pursuant to Section 27, Chapter 10 of the GAM for NGAs, Volume I, in order to reflect their correct net carrying value in the financial statements.
+
+
+
+	6)		The Accountant III commented that PPE items were not identified, and  they do not  have the factors in determining depreciation, hence these items were not provided with depreciation.  The Accounting Unit shall continue   looking for previous years documents particularly FY 2015 and beyond to be able to identify the PPE and rename the reconciling SL to a specific PPE SL account.
+
+
+
+
+
+Doubtful accuracy of Inventory accounts amounting to P49,310,405.15
+
+
+
+3)		The existence, accuracy and completeness of the Inventory accounts reported at a net book value of P49,310,405.15 as of December 31, 2020 could not be ascertained due to the following: (a) overstatement of the Inventory accounts balance by P549,120.06 due to erroneous recording of transactions; (b) records of Inventories in the Accounting Office containing Items described as “Reconciling SL” totaling P25,822,594.73; and (c) failure to conduct a physical count of Inventories by the Main and Paranas Campuses, thus affecting the fair presentation of the accounts in the financial statements.
+
+
+
+	1)		Sections 111 and 112 of Chapter 2 of Title III of Presidential Decree (PD) No. 1445 provide:
+
+
+
+SECTION 111.  Keeping of Accounts. – (1) The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+1)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+SECTION 122.  Recording of financial transaction.  Each government agency shall record its financial transactions and operations in conformity with generally accepted accounting principles and in accordance with pertinent laws and regulations
+
+
+
+	2)		The GAM for NGAs, Volume I, pertinently provides:
+
+
+
+
+
+
+
+Chapter 8
+
+
+
+INVENTORIES
+
+
+
+Sec. 6. Weighted Average Method.  The weighted average method shall be used for costing inventories.  This method calls for the re-calculation of the average cost of all items in stock after every purchase.  Therefore, the weighted average cost is the total cost of all units subsequent to the latest purchase, divided by their total number of units available.  The Accounting Division/Unit shall be responsible in computing the cost of inventory on a regular basis as shown in the following sample Supplies Ledger Card (SLC) (Appendix 57).
+
+
+
+x x x 
+
+
+
+Sec. 13. Inventory Accounting System. The Inventory Accounting System consists of the system of monitoring, controlling and recording of acquisition and disposal of inventory. xxx
+
+
+
+x x x
+
+
+
+Physical count/inventory, which is required semi-annually, is an indispensable procedure for checking the integrity of property custodianship.
+
+
+
+Sec. 17. Records, Forms and Reports to be prepared and/or maintained.  The following records, forms and reports are prescribed for use:
+
+
+
+x x x
+
+
+
+b.   Stock Card (SC) (Appendix 58) – shall be used to record all receipts and issues of supplies and the balance in quantity at any time. It shall be maintained by the Property and/or Supply Division/Unit for each item in stock.  The IAR, RIS, PO and DR serve as the original sources of information for making entries on the card.
+
+
+
+a)	Supplies Ledger Card (SLC) (Appendix 57) – shall be used to record materials received, issued and the balance both in quantity and amount at any time. It shall be maintained by the Accounting Division/Unit for each kind of supplies and materials.  The IAR, RIS, RSMI, PO and DR serve as the original sources of information for making entries on the card.
+
+
+
+x x x
+
+
+
+a)		Report on the Physical Count of Inventories (RPCI) (Appendix 66) – shall be used to report the physical count of supplies by type of inventory as at a given date.  It shows the balance of inventory items per card and per count and shortage/overage, if any.  These include the semi-expendable property wherein the issue is covered by ICS.
+
+
+
+b)		Inspection and Acceptance Report (IAR) (Appendix 62) – shall be used for inspection and acceptance of purchased and delivered property, supplies and materials.
+
+
+
+	3)		The GAM for NGAs, Volume II, provides the instructions for accomplishing the RPCI (Appendix 66), as follows:
+
+
+
+x x x
+
+
+
+	C.	The report shall be reconciled with the SLCs and SCs maintained by the Accounting Division/Unit, and Property and/or Supply Division/Unit, respectively.  Any discrepancy shall be verified and/or adjusted accordingly.
+
+
+
+	4)		The consolidated balance of the Inventory accounts of the University as of December 31, 2020 amounted to P49,310,405.15, itemized as follows:
+
+
+
+Table 9.  Breakdown of Consolidated Balances of Inventory Accounts at year end
+
+Account Title
+
+Account Code
+
+Amount
+
+Merchandise Inventory
+
+10401010
+
+P 5,687,282.16
+
+Office Supplies Inventory
+
+10404010
+
+21,591,278.22
+
+Accountable Forms, Plates and Stickers Inventory
+
+10404020
+
+1,428.50
+
+Non-Accountable Forms Inventory
+
+10404030
+
+8,120.00
+
+Drugs and Medicines Inventory
+
+10404060
+
+782,566.01
+
+Medical, Dental and Laboratory Supplies Inventory
+
+10404070
+
+630,715.95
+
+Fuel, Oil and Lubricants Inventory
+
+10404080
+
+117,774.24
+
+Agricultural and Marine Supplies Inventory
+
+10404090
+
+439,635.71
+
+Textbooks and Instructional Materials Inventory
+
+10404100
+
+1,794,035.24
+
+Chemical and Filtering Supplies Inventory
+
+10404120
+
+85,710.00
+
+Construction Materials Inventory
+
+10404130
+
+813,117.41
+
+Other Supplies and Materials Inventory
+
+10404990
+
+10,724,039.82
+
+Semi-Expendable Machinery
+
+10405010
+
+73,066.00
+
+Semi-Expendable Office Equipment
+
+10405020
+
+1,234,441.00
+
+Semi-Expendable Information and Communications Technology Equipment
+
+10405030
+
+1,164,198.20
+
+Semi-Expendable Communications Equipment
+
+10405070
+
+75,391.50
+
+Semi-Expendable Disaster Response and Rescue Equipment
+
+10405080
+
+40,065.00
+
+Semi-Expendable Medical Equipment
+
+10405100
+
+160,912.00
+
+Semi-Expendable Printing Equipment
+
+10405110
+
+114,461.00
+
+Semi-Expendable Sports Equipment
+
+10405120
+
+9,500.00
+
+Semi-Expendable Technical and Scientific Equipment
+
+10405130
+
+254,388.19
+
+Semi-Expendable Other Machinery and Equipment
+
+10405190
+
+1,744,019.90
+
+Semi-Expendable Furniture and Fixtures
+
+10406010
+
+979,209.30
+
+Semi-Expendable Books
+
+10406020
+
+785,049.80
+
+Total
+
+P 49,310,405.15
+
+
+
+	5)		Audit of these Inventory accounts during the year disclosed the following deficiencies:
+
+
+
+a)		Overstatement of the Inventory account balances by P549,120.06 due to the erroneous recording of transactions 
+
+
+
+	6)		The consolidated Inventory account balance at year end is overstated by P549,120.06, due to the following errors:
+
+
+
+Table 10.  Summary of Overstatements from CY 2020 Transactions
+
+Check
+
+DV No.
+
+Amount
+
+
+
+
+
+
+
+Date
+
+Serial No.
+
+
+
+
+
+September
+
+9/29/2020
+
+11058202
+
+2020090641
+
+P2,096.62
+
+
+
+
+
+2020070514
+
+20,584.00
+
+
+
+
+
+
+
+1,102.08
+
+
+
+
+
+B-2020070060
+
+2,221.00
+
+
+
+
+
+B-2020070059
+
+5,440.00
+
+
+
+
+
+
+
+6,529.60
+
+
+
+
+
+2020070509
+
+368,000.00
+
+
+
+
+
+
+
+28,801.90
+
+
+
+
+
+
+
+12,118.00
+
+
+
+
+
+
+
+43,200.00
+
+November
+
+11/4/2020
+
+11058207
+
+MC-2020060178
+
+23,908.02
+
+
+
+
+
+2020090642
+
+6,863.66
+
+
+
+
+
+
+
+703.68
+
+December
+
+12/2/2020
+
+11058216
+
+MC-200200054
+
+12,796.50
+
+
+
+
+
+MC-2020200055
+
+14,755.00
+
+Total
+
+P549,120.06
+
+	
+
+	7)		The above transactions pertain to advances paid to the Department of Budget and 
+
+	Management (DBM) – Procurement Services (PS) for the acquisition of inventory items that were immediately recorded as Inventory without them being delivered.
+
+
+
+	8)		The Audit Team noted that upon payment to the DBM-PS a compound entry is made to record the advance payment and the booking-up of the item into its specific inventory account.  To record the transactions, the Accountant should have made the following entries: 
+
+
+
+Per Accounting
+
+Per GAM
+
+
+
+
+
+Upon Payment
+
+Upon Payment
+
+     Due from NGAs                                        xxx
+
+     Due from NGAs                                       xxx
+
+     Specific Inventory account                      xxx
+
+        Cash in Bank-Local Currency or
+
+        Cash in Bank-Local Currency or
+
+        Cash-Modified Disbursement System             xxx
+
+        Cash-Modified Disbursement System            xxx
+
+
+
+        Due form NGAs                                                   xxx
+
+        Due form NGAs
+
+
+
+
+
+Upon Receipt of Delivery
+
+Upon Receipt of Delivery
+
+No entry
+
+Specific Inventory account                            xxx
+
+
+
+        Due form NGAs                                                       xxx
+
+
+
+
+
+
+
+	9)		All advances paid to the DBM - PS were immediately recorded as Inventory upon payment regardless of whether the items were delivered or not.  The prevailing practice was that recognition of these transactions was made in the Accounting Office, and not by how deliveries were received and accepted during the year.  This practice has resulted in the misstatements in the affected accounts in the financial statements.
+
+
+
+	10)		The Audit Team has emphasized that pursuant to the GAM for NGAs, Volume I, recording of Inventories is based on the Inspection and Acceptance Reports, together with the Purchase Orders and Delivery, hence the absence of these documents means that there was no basis in recording the same.
+
+
+
+
+
+b)		Records of inventories in the Accounting Office contain items described as “Reconciling SL” totaling P25,822,594.73
+
+
+
+	11)		During the audit, it was also noted that no details or specifications were provided for the following several Inventory items totaling P25,822,594.73, which were recorded in the books:
+
+
+
+Table 11.  Schedule of Inventory Items Described as Reconciling SL in the Various Funds:
+
+Inventory Account
+
+Account Code
+
+Description
+
+Amount
+
+RAF
+
+Merchandise Inventory
+
+10401010
+
+Others (Reconciling SL)
+
+4,278,302.16 
+
+Sub-total
+
+4,278,302.16 
+
+Office Supplies Inventory
+
+10404010
+
+RAF (Reconciling SL - Main)
+
+6,426,371.99 
+
+
+
+
+
+RAF (Reconciling SL - MC)
+
+9,251,959.10 
+
+
+
+
+
+RAF (Reconciling SL)
+
+498,614.66 
+
+Sub-total
+
+16,176,945.75 
+
+Accountable Forms, Plates and Stickers Inventory
+
+10404020
+
+RAF (Reconciling SL - Main)
+
+804.50 
+
+Sub-total
+
+804.50 
+
+Drugs and Medicines Inventory
+
+10404060
+
+RAF (Reconciling SL - Main)
+
+177,453.01 
+
+
+
+
+
+RAF (Reconciling SL - MC)
+
+20,863.90 
+
+
+
+
+
+RAF (Reconciling SL - PC)
+
+43,331.95 
+
+Sub-total
+
+241,648.86
+
+Medical, Dental and Laboratory Supplies Inventory
+
+10404070
+
+RAF (Reconciling SL - Main)
+
+397,795.85 
+
+
+
+
+
+RAF (Reconciling SL - MC)
+
+58,708.65 
+
+
+
+
+
+RAF (Reconciling SL - PC)
+
+27,237.30 
+
+Sub-total
+
+483,741.80
+
+Fuel, Oil and Lubricants Inventory
+
+10404080
+
+RAF (Reconciling SL - Main)
+
+400.00 
+
+
+
+
+
+RAF (Reconciling SL - MC)
+
+35,806.83 
+
+Sub-total
+
+36,206.83 
+
+Agricultural and Marine Supplies Inventory
+
+10404090
+
+RAF (Reconciling SL - Main)
+
+273,360.71 
+
+
+
+
+
+RAF (Reconciling SL - MC)
+
+162,400.00 
+
+
+
+
+
+RAF (Reconciling SL - PC)
+
+3,875.00 
+
+Sub-total
+
+439,635.71 
+
+Textbooks and Instructional Materials Inventory
+
+10404100
+
+RAF (Reconciling SL - Main)
+
+877,219.02 
+
+
+
+
+
+RAF (Reconciling SL - MC)
+
+11,872.54 
+
+
+
+
+
+RAF (Reconciling SL - PC)
+
+60,246.80 
+
+Sub-total
+
+949,338.36 
+
+Total under RAF
+
+22,606,623.97 
+
+IGF
+
+Office Supplies Inventory
+
+10404010
+
+Others (Reconciling SL)
+
+61,376.58 
+
+Non-Accountable Forms Inventory
+
+10404030
+
+Others (Reconciling SL)
+
+8,120.00 
+
+Drugs and Medicines Inventory
+
+10404060
+
+OTHERS (Reconciling SL)
+
+380,368.65 
+
+Medical, Dental and Laboratory Supplies Inventory
+
+10404070
+
+OTHERS (Reconciling SL)
+
+72,680.15 
+
+Fuel, Oil and Lubricants Inventory
+
+10404080
+
+OTHERS (Reconciling SL)
+
+16,500.00 
+
+Construction Materials Inventory
+
+10404130
+
+OTHERS (Reconciling SL)
+
+79,971.90 
+
+Other Supplies and Materials Inventory
+
+10404990
+
+Others (Reconciling SL)
+
+1,016,423.94 
+
+Total under IGF
+
+1,635,441.22 
+
+BRF
+
+Merchandise Inventory
+
+10401010
+
+Others (Reconciling SL)
+
+1,408,980.00 
+
+Office Supplies Inventory
+
+10404010
+
+Others (Reconciling SL)
+
+2,694.54 
+
+Other Supplies and Materials Inventory
+
+10404990
+
+Others (Reconciling SL)
+
+168,855.00 
+
+Total under BRF
+
+1,580,529.54 
+
+Grand Total
+
+P25,822,594.73 
+
+
+
+	12)		Upon verification by the Audit Team, it was revealed that the above balances pertain to those balances that were established when the e-NGAs was installed, but are still subject for reconciliation and proper identification.  These items should be identified and reconciled so that they can be adjusted, if needed, and the correct amounts presented in the records and the financial statements of the University.  Further, there was no explanation for the account in the Notes to the Financial Statements for the year.
+
+
+
+c)		Failure to conduct the required physical count of inventories at the Main Campus and Paranas Campus
+
+
+
+	13)		The SSU Main campus and the Paranas Campus have failed to conduct the required physical count of its inventories as of December 31, 2020, and no RPCI as of December 31, 2020 was submitted to the Audit Team by these campuses.  These procedures are crucial as they will not only ascertain the existence and accuracy of the items in custody, they will also assure us of the custodianship of these inventories.
+
+
+
+d)		Other Deficiencies Noted
+
+
+
+	14)		Further review and validation of records of SSU disclosed the following deficiencies:
+
+
+
+1)		There was no reconciliation of inventory records between the Accounting and the Supply Offices causing the SLCs maintained by the Accounting Office to be all the more outdated.
+
+
+
+2)		The SLCs in the Accounting Office were not properly maintained, such that a new SLC is prepared for every purchase despite an existing SLC for the same type of inventory.  The maintenance of multiple SLCs for a particular type of Inventory has resulted in the difficulty of monitoring inventories, determining the weighted average cost of all items in stock, and in reconciling records between the Accounting and the Supply Offices.
+
+
+
+3)		The SCs of the Main Campus lacked details such as Fund Cluster, Stock Number and Reorder Point.  Likewise, new sets of SCs were prepared every year.  This could result in the difficulty of validating the balances of inventory items.
+
+
+
+	The non-updating and improper maintenance of SCs and SLCs, and improper recording of inventory items in SCs and SLCs of the Main Campus resulted in the difficulty of ascertaining the existence, valuation and monitoring the quantity of inventories at year end or at a certain period.
+
+
+
+4)		The Requisition and Issue Slips (RIS) are still prepared in the Supply Office-Main Campus, contrary to Appendix 63 of the GAM for NGAs, Volume II.  An interview with the Supply Officer - Main Campus revealed that once inventory items were delivered and accepted by the Office, the RISs were likewise prepared based on the Purchase Orders, and items were immediately reported as issued even when that office or department did not request for the items.  This practice could result in the overstocking of these items in the different offices or departments of SSU.
+
+
+
+	15)		These deficiencies have affected the accuracy, valuation, existence and reliability of Inventory accounts balances as of year end, thus affecting their fair presentation in the financial statements.
+
+
+
+	2)		We recommended that the President require the:
+
+
+
+a)	Accountant to make the necessary adjustments to correct the overstatements of the Inventory Accounts and other affected accounts;
+
+
+
+b)	Accountant to stop recording Inventory without delivery, inspection and acceptance;
+
+
+
+c)	Accountant and respective Supply Officers to:
+
+
+
+	1)		properly maintain and update the SCs and SLCs pursuant to the pertinent provisions of the GAM for NGAs, Volume I;
+
+
+
+	2)		prepare and accomplish the RIS based on the instructions provided in the GAM for NGAs, Volume II;
+
+
+
+	3)		conduct the physical inventory-taking for the inventory items of the Main Campus and Paranas Campus, and thereafter prepare and submit the RPCI pursuant to the pertinent provisions of the GAM for NGAs, Volume I; 
+
+
+
+	4)		undertake the immediate reconciliation of their records and make the necessary adjustments to come up with correct and reconciled balances.; and
+
+
+
+	5)		validate the recorded Reconciling SL to properly account the same.
+
+
+
+
+
+Understated Construction in Progress – Building and Other Structures account, P12,986,620.78
+
+
+
+4)		The Construction in Progress – Buildings and Other Structures account balance is understated by the net amount of P12,986,620.78  due to errors in recording and the improper accounting for mobilization and retention, thus affecting the fair presentation of the account balance in the financial statements as of year end,  contrary to pertinent provisions of the GAM for NGAs, Volume I.
+
+	1)		Pertinent provisions of the GAM for NGAs, Volume I, provide:
+
+
+
+Chapter 2
+
+
+
+GENERAL PROVISIONS, BASIC STANDARDS AND POLICIES
+
+
+
+Sec. 15. Fair Presentation.  The FSs shall present fairly the financial position, financial performance and cash flows of an entity.  Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in PPSAS.  The application of PPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.
+
+
+
+
+
+x x x
+
+
+
+
+
+Chapter 10
+
+
+
+PROPERTY, PLANT AND EQUIPMENT
+
+
+
+Sec. 8. Purchase of PPE. X x x.
+
+
+
+X x x
+
+
+
+a)	Construction of PPE.  During the construction period, all expenses incurred in relation to the construction of the PPE shall be taken up in the books as Construction in Progress with the appropriate asset classification.  As soon as the construction is completed, the “Construction in Progress” account shall be reclassified to the proper asset account.  Likewise, all expenses such as interests, license fees, etc., during the construction period shall be capitalized.
+
+
+
+X x x. 
+
+
+
+	2)		As of December 31, 2020, the Construction in Progress-Buildings and Other Structures account in the Financial Statements amounted to P144,792,048.85, summarized as follows: 
+
+
+
+
+
+
+
+
+
+	
+
+	Table 12.  Breakdown of Construction in Progress Year-end Balance Per Fund Cluster
+
+Fund Cluster
+
+Amount
+
+RAF
+
+P144,733,623.98
+
+IGF
+
+58,424.87
+
+Total
+
+P 144,792,048.85
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	3)		Our audit of transactions and records of SSU disclosed that the Construction in Progress account is understated by a net amount of P12,986,620.78 because of  errors in recording of several transactions, shown in the following table:
+
+
+
+Table 13.  Summary of Net Understatement in the Construction in Progress Account
+
+Project Name
+
+Overstatement/(Understatement)
+
+1)		Construction and/or Rehabilitation of Multi-Purpose Building and Sports Facilities
+
+(P3,328,114.15)
+
+2)		Completion of College of Arts and Sciences-Academic Building
+
+(10,525,738.65)
+
+3)		Completion of CAS-Academic Building, additional Works
+
+867,232.01
+
+Net Effect 
+
+P12,986,620.78
+
+
+
+	4)		The details of the net understatement under Item Nos. 1 and 2 are shown below:
+
+
+
+Table 14.  Summary of Understatements due to Improper Computation CIP as of December 31, 2020
+
+Project Name
+
+% of Work Accomplished
+
+Amount Recorded in the CIP
+
+Overstatement
+
+/(Understatement)
+
+
+
+
+
+Per Accounting
+
+Should be
+
+
+
+1)	Construction and/or Rehabilitation of Multi-Purpose Building and Sports Facilities; 
+
+CP -P19,722,157.90
+
+33%
+
+P4,881,234.07
+
+P 6,508,312.11
+
+(P1,627,078.04 )
+
+
+
+56.08%
+
+5,557,743.54
+
+4,551,874.04
+
+1,005,869.50
+
+
+
+75%
+
+1,024,526.67
+
+3,731,432.27
+
+(2,706,905.60)
+
+Sub-total
+
+P11,463,504.28
+
+P14,791,618.43
+
+(P  3,328,114.15)
+
+2)	Completion of College of Arts and Sciences (CAS)-Academic Building; 
+
+CP = P76,956,597.71
+
+28.39%
+
+18,570,781.38
+
+ 21,847,978.09
+
+( 3,277,196.71)
+
+
+
+54.71%
+
+13,006,434.58
+
+20,254,976.52
+
+(7,248,541.94)
+
+Sub-total
+
+P 31,577,215.96
+
+P42,102,954.61
+
+(P10,525,738.65 )
+
+
+
+	5)	During the audit, it was noted that the net understatements in the Construction in Progress account were due to improper accounting for the 15% mobilization and 10% retention money in the computation of progress payments.  In the computation made by the Accounting Section, the mobilization and the retention money were deducted from the contract price first, and the remaining amount was then multiplied to the percentage of work accomplished.
+
+
+
+	6)		The GAM for NGAs requires that the contract price is directly multiplied by the percentage of work accomplished and this amount is recognized and recorded in the Construction in Progress account.  Due to the wrong computations, the recorded costs of above-mentioned projects were understated.
+
+
+
+	7)		Moreover, the Completion of the CAS-Academic Building, reflected in Table 14 is a completed project.  Audit of the transaction revealed that while the total cost of the project that was recorded in the Construction in Progress account was P7,483,879.97, the corresponding amount credited to the Construction in Progress account upon the project completion was P8,351,111.98.  This is because the Construction in Progress account was deducted by P867,232.01 more than what was credited to it initially as shown in Table 13.  The over deduction has therefore understated the Construction in Progress account by the same amount.
+
+
+
+	8)		Also, the Accounting Unit only records progress billings at year end.  They do not set up the Accounts Payable and Construction in Progress accounts upon receipt of progress billings.  The recording of the Construction in Progress for a particular infrastructure project is only done once there are progress payments.  Likewise, no recoupment of advances to contractors was recorded in the books.  The journal entry made during payment of the 15% mobilization was just reversed upon completion of a project, and no recoupment of the same was made for every progress payment.
+
+
+
+	9)		The foregoing conditions were not compliant with the provisions on the proper computation in Chapter 10 of the GAM for NGAS, Volume I, thereby casting doubt on the reliability and accuracy of the Construction in Progress account at year end, and affecting the fair presentation of the accounts in the financial statements.
+
+
+
+	3)		We recommended that the President require the Accountant to:
+
+
+
+a)	compute for the correct cost  of the University’s Construction in Progress account, and recognize Construction in Progress for all Infrastructure Projects upon receipt of progress payment billings;
+
+
+
+b)	to strictly follow the provisions of the GAM for NGAs on the correct accounting and recording of the 15% mobilization and 10% retention; and
+
+
+
+c)	make the necessary adjustments to correct the net understatement in the Construction in Progress account.
+
+
+
+	10)		The Accountant mentioned in a letter dated June 28, 2021 that she already submitted some Journal Entry Vouchers (JEVs) drawn for the correction and adjustment of the Construction in Progress accounts.  These JEVs are still subject for validation by the audit team.
+
+	
+
+	
+
+Unreliable Accounts Receivable totaling P3,742,104.00; and unsubstantiated adjustments, P23,089,860.42
+
+
+
+5)		The accuracy of the Accounts Receivable balance amounting to P5,271,926.19 as of year end could not be relied upon due to the following: (a) absence of details/names of specific debtors for the recorded receivables totaling P4,089,026.57; (b) understatement of Accounts Receivable due to unrecorded receivables from tuition and other fees totaling P3,169,649.50; and (c) the presence of negative or abnormal balances appearing in the Student Information and Accounting Systems (SIAS) amounting to P1,805,579.30, contrary to the pertinent provisions of PD No. 1445; Section 2 of COA Circular Letter No. 2004-002 dated September 30, 2004; and GAM for NGAs, Volume I, thus affecting the fair presentation of the account in the financial statements.
+
+
+
+	1)		Sections 111 and 114 of PD No. 1445 state thus:
+
+
+
+SECTION 111.  Keeping of Accounts. – (1) The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+1)		The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+SECTION 114.  The general ledger. – (1) The government accounting system shall be on a double entry basis with a general ledger in which all financial transactions are recorded.
+
+
+
+1)		Subsidiary records shall be kept where necessary.
+
+
+
+	2)		Likewise, Section 15 of Chapter 2 of GAM for NGAs, Volume I, provides:
+
+
+
+Chapter 2
+
+
+
+GENERAL PROVISIONS, BASIC STANDARDS AND POLICIES
+
+
+
+X x x
+
+
+
+Sec. 15. Fair Presentation.  The FSs shall present fairly the financial position, financial performance and cash flows of an entity. Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue, and expenses set out in PPSAS.  The application of PPSAS, with appropriate disclosures, if necessary, would result in fair presentation of the FS.
+
+
+
+	3)		Section 2 of COA Circular Letter No. 2004-002 dated September 30, 2004, provides the accounting guidelines and procedures on the proper recording of income from tuition fees of State Universities and Colleges (SUCs) as follows:
+
+
+
+	--	GENERAL GUIDELINES AND PROCEDURES
+
+
+
+	--	The accrual method of accounting shall be used in recording income from tuition fees and it shall be recorded in the Regular Agency (RA) Book. Based on the final assessment of students upon enrollment, the Accounting Unit shall record the "Accounts Receivable" with the corresponding credit to income account "Tuition Fees".
+
+
+
+	--	At the end of the year, the amount corresponding to income of the ensuing year shall be adjusted to "Other Deferred Credits".  This adjustment shall be reversed immediately on the first working day of the ensuing year.
+
+
+
+	4)		Chapter 2 of the GAM for NGAs, Volume I, then defines accrual basis as follows:
+
+
+
+Chapter 2
+
+
+
+GENERAL PROVISIONS, BASIC STANDARDS AND POLICIES
+
+
+
+Sec. 2. Definition of Terms.  For the purpose of this Manual, the terms used as stated below shall be construed to mean as follows:
+
+
+
+	a.	Accrual basis – means a basis of accounting under which transactions and other events are recognized when they occur (and not only when cash or its equivalent is received or paid).  Therefore, the transactions and events are recognized in the accounting records and recognized in the financial statements of the periods to which they relate.  The elements recognized under accrual accounting are assets, liabilities, net assets/equity, revenue, and expenses.
+
+
+
+X x x
+
+
+
+Sec. 8. Financial Reporting System for the National Government.  The financial reporting system of the Philippine government consists of accounting system on accrual basis and budget reporting system on budget basis under the statutory responsibility of the NGAs, Bureau of the Treasury (BTR), DBM, and the COA.
+
+
+
+	5)		Our verification of the University’s records disclosed that the agency maintains Subsidiary Ledgers (SLs) for the Accounts Receivable balance of P5,271,926.19 as of year end, broken down as follows:
+
+
+
+	Table 15.  Breakdown of Accounts Receivable as of December 31, 2020
+
+Particulars
+
+Year-End Balance
+
+Remarks
+
+AR CHED
+
+P4,011,006.57
+
+This SL consists of forwarded balances from the transferred AR FC 01 to FC 05 amounting to P951,362.19 pertaining to December 2016 balance.
+
+AR Others
+
+78,020.00
+
+This SL consists of forwarded balances amounting to P78,020.00.
+
+AR (individual name of CGS students)
+
+1,182,899.62
+
+This SL consists of balances from the identified debtors of SSU particularly those enrolled students from the Masteral and Doctoral Programs.
+
+TOTAL
+
+P5,271,926.19
+
+
+
+
+
+	6)		Audit of the above balances revealed the following deficiencies:
+
+
+
+a)		Absence of details/specifics concerning debtors for Accounts Receivable amounting to P4,089,026.57  
+
+
+
+	7)		Comparison of the SLs, maintained by the Accounting Section, with the Schedule of Accounts Receivable (SAR) revealed that Accounts Receivable amounting to P4,089,026.57 did not include any details as to who the specific debtors were for this amount.  Rather, the lump sum amounts were recorded under the ledger of AR CHED amounting to P4,011,006.57 and AR Others amounting to P78,020.00 when these ledgers should have been supported by detailed schedules of who owed the University tuition fees.  Because of the lack of details, the Audit Team could not send out any confirmation letters to determine the accuracy of the balances on record.
+
+
+
+	8)		This is a reiteration of the CYs 2018 and 2019 audit observations because of the failure of management to implement the audit recommendations.
+
+
+
+b)		Overstatement of Accounts Receivable amounting to P3,169,679.50 
+
+
+
+	9)		Audit also disclosed the existence of Accounts Receivable amounting to P3,169,649.50 which has overstated the Accounts Receivable for the year.  The SSU records school fees on a cash basis as it recognizes income only once payment is received, whether for the current year or prior years.  Data extracted from the SIAS of the SSU Main Campus disclosed unrecorded receivables and/or adjustments to the Accounts Receivable (Annex H), summarized as follows:
+
+
+
+Table 16.  Computation for the Overstatement of the Accounts Receivable Balance
+
+Particulars
+
+Amount
+
+Accounts Receivable, January 1, 2020
+
+P 4,693,466.19
+
+Add: Income from School fees upon enrollment (Annex H – Figure 1 and Annex I)
+
+57,390,003.50
+
+Less: Collections from students and CHED (Annex H – Figure 2)
+
+(43,839,383.00)
+
+Less: Adjustments made during CY 2020 (Annex H – Figure 3)
+
+(16,141,810.00)
+
+Accounts Receivable, ending balance
+
+2,102,276.69
+
+Accounts Receivable, ending balance per GL
+
+5,271,926.19
+
+Overstatement of Accounts Receivable as of Dec.ember31,2020
+
+P 3,169,649.50
+
+
+
+	10)		The overstatement of Accounts Receivable was due to the non-recording of tuition and other fees upon enrollment of P18,072,113.50, and the collections totaling P21,241,763.00.
+
+
+
+	11)		Moreover, the Audit Team was not able to gather enough documents relative to the correct amounts of the Accounts Receivable for CY 2020 because the external campuses did not maintain records of enrolled students as of year end.  The submitted report on the breakdown of fees for the Second Semester of AY 2019-2020 and 2020-2021 of the Free Higher Education Program for the external campuses did not include the CY 2020 School Fees.
+
+
+
+	12)		The recording of income from school fees on cash basis is inconsistent with the accounting policy of the school which is disclosed in the Notes to Financial Statements under Item No. 3.6, which states that, “The university uses accrual basis of accounting xxx Income is also on accrual basis.”
+
+
+
+	13)		The failure of SSU to accrue and record receivables from tuition and other school fees for the AY 2019-2020 and 2020-2021 has understated the balances of the Accounts Receivable account and the corresponding Service and Business Income as of December 31, 2020.
+
+
+
+c)		Negative or abnormal balances appearing in the SIAS amounting to P1,805,579.30  
+
+
+
+	14)		Audit also disclosed that the balances included overpayments made by the students which caused the abnormal balances.
+
+
+
+	15)		Interview with the Director of the Information Technology Center revealed that the abnormal balances appearing in the SIAS were caused by the overpayment of school fees by the students, which is due for refund upon verification by the Cashier, the Accountant and the Officer-in-Charge of the Information Technology Department.
+
+
+
+	16)		These negative or abnormal balances understate the Accounts Receivable even more as the existence of overpayments by students has reduced the actual balance of total receivables.  By year end the total negative balances has accumulated to as much as P1,805,579.30, summarized in the table below:
+
+
+
+Table 17.  Summary of Negative Balances appearing in the SIAS
+
+Program
+
+	Second Semester, AY 2019-2020
+
+Summer and/or Bridging Program
+
+First Semester, AY 2020-2021
+
+Second Semester, AY 2020-2021
+
+Total
+
+College
+
+(P874,705.30)
+
+(P 90,033.00)
+
+(P 417,985.00)
+
+(P 412,003.00)
+
+(P1,794,726.30)
+
+Masteral
+
+(1,597.00)
+
+(3,579.00)
+
+(1,579.00)
+
+(391.00)
+
+(7,146.00)
+
+Doctoral
+
+(1,345.00)
+
+(1,799.00)
+
+(563.00)
+
+-
+
+(3,707.00)
+
+Total
+
+(P 877,647.30)
+
+(P 95,411.00)
+
+(P 420,127.00)
+
+(P 412,394.00)
+
+(P1,805,579.30)
+
+
+
+	17)		These abnormal balances should have been reviewed, analyzed and adjusted, where necessary, to accurately reflect the Accounts Receivable amount in the financial statements.
+
+
+
+	4)		We recommended that the President require the Accountant to:
+
+
+
+a)	provide the name of specific debtors and other details in the Schedule of Accounts Receivable to facilitate recording in the SLs;
+
+
+
+b)	record the accrual of Accounts Receivable and recognize the related income accounts pursuant to Section 2, COA Circular Letter No. 2004-002; and Section 2, Chapter  2 of GAM for NGAs, Volume I; and 
+
+
+
+c)	review, analyze and adjust, if necessary, the negative balances reflected in the SIAS in order to come up with the correct account balance, so that Accounts Receivable are reported accurately.
+
+
+
+	18)		The Accountant III commented that:  a)  they will update the report upon receipt of necessary record/documents; b) they will evaluate all accounts to correct the understated AR; and c)  for the presence of negative or abnormal balances in the SIAS, the request for refund from the students are processed, and that such request are validated and reviewed.
+
+
+
+
+
+Non-provision of Allowance for Impairment of Account Receivable in CYs 2010-2020
+
+
+
+6)		The balance of the Allowance for Impairment of Accounts Receivable of P81,104.14 pertains to CY 2009; but none was computed and recorded for the eleven-year period from CY 2010 to CY 2020, contrary to Section 10, Chapter 7 of GAM for NGAs, Volume I.
+
+	
+
+	1)		Section 10, Chapter 7, GAM for NGAs, Volume I, provides:
+
+
+
+Chapter 7
+
+
+
+FINANCIAL INSTRUMENTS
+
+
+
+Sec. 10. Impairment of Financial Assets. xxx. 
+
+
+
+In case of Accounts Receivable, the Allowance for Impairment shall be provided in an amount based on collectability of receivable balances and evaluation of such factors as aging of accounts, collection experiences of the agency, expected loss experiences and identified doubtful accounts.
+
+
+
+x x x
+
+
+
+	2)		COA Circular No. 2020-001 dated January 8, 2020 describes the account Allowance for Impairment-Accounts Receivable and the related expense Impairment Loss-Loans and Receivables, as follows: 
+
+
+
+Account Title 
+
+
+
+Account Number 
+
+Normal Balance 
+
+
+
+Description 
+
+Allowance for Impairment-Accounts Receivable 
+
+10301012
+
+Credit 
+
+
+
+This account is credited upon recognition of impairment which may arise from non-collection.  This account is debited upon collection, transfers, reversal of impairment, write-off, and/or adjustments of receivables. 
+
+
+
+Account Title 
+
+Account Number 
+
+Normal Balance 
+
+
+
+Description 
+
+Impairment Loss-Loans and Receivables 50503020 
+
+Debit 
+
+
+
+This account is debited to recognize the loss in the future economic benefits or service potential of loans and receivables and other financial assets where amortized cost is greater than the value of estimated future cash flows discounted at original effective interest rate.  This account is credited, at year-end, to close to the Revenue and Expense Summary account, and/or adjustments. 
+
+
+
+	3)		Verification of the individual CY 2020 Financial Statements of SSU disclosed that for the eleven-year period from January 1, 2010 to December 31, 2020, there was no provision of Allowance for Impairment on their Accounts Receivable balances.
+
+
+
+	4)		Review of the records also disclosed that the amount of P81,104.14 for the account Allowance for Impairment-Accounts Receivable was a forwarded balance from CY 2009.  This was disclosed in the Notes to Financial Statements for that year, and was computed based on the statistical information on the percentage of dropped out students for the 2nd Semester AY 2003-2004, Summer 2004 and 1st Semester AY 2004-2005.
+
+
+
+	5)		According to the Accountant, during interview, she did not set up the Allowance for Impairment of Accounts Receivable because of the free tuition and miscellaneous fees paid by CHED.
+
+
+
+	6)		The non-recognition of the expense Impairment Loss - Accounts Receivable for each year of operation, and the non-provision of the Allowance for Impairment has overstated the net book value of the Accounts Receivable account while understating the expense account for Impairment Loss - Accounts Receivables.  All these deficiencies have affected the fair presentation of said accounts in the financial statements
+
+
+
+	5)		We recommended that the President direct the Accountant to provide for the expense Impairment Loss - Accounts Receivables and set up the Allowance for Impairment - Accounts Receivable, in accordance with the GAM for NGAs, Volume I. 
+
+
+
+	7)		The Accountant III commented that they will submit the JEVs to effect the provision for postgraduate studies  and undergraduate studies after identifying the drop out rate of students during the academic year.
+
+
+
+
+
+Unreliable Due to BIR account owing to the improper use of SL and cash incentives granted during the year had no deductions for withholding taxes
+
+
+
+7)		The Due to BIR account reported at P4,697,236.36 as of year end is unreliable because of the improper use of SLs resulting in the existence of abnormal balances appearing in the SL, contrary to Section 111 of PD No. 1445 and Section 15, Chapter 2 of the GAM for NGAs, Volume I.  Likewise, cash incentives granted during the year had no deductions for withholding of taxes, contrary to Chapter III, Title II of Republic Act (R.A.) No. 10963.
+
+
+
+	1)		Section 111 of PD No. 1445, provides:
+
+
+
+SECTION 111.  Keeping of accounts.  - (1) The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+(2)  The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+	2)		Likewise, Section 15, Chapter 2 of the GAM for NGAs, Volume I, pertinently provides:
+
+
+
+Chapter 2
+
+
+
+GENERAL PROVISIONS, BASIC STANDARDS AND POLICIES
+
+
+
+Sec. 15. Fair Presentation.  The FSs shall present fairly the financial position, financial performance and cash flows of an entity.  Fair presentation requires the faithful representation of the effects of transactions, other events, and conditions in accordance with the definitions and recognition criteria for assets, liabilities, revenue and expenses set out in PPSAS. X x x 
+
+
+
+	3)		Moreover, Section 25, Chapter III, Title II of RA No. 10963, provides:
+
+
+
+Chapter III
+
+
+
+TAX ON INDIVIDUALS
+
+
+
+(B) Rate of Tax on Certain Passive Income: - 
+
+
+
+(1) Interests, Royalties, Prizes, and Other Winnings. – A final tax at the rate of twenty percent (20%) is hereby imposed upon the amount of interest from any currency bank deposit and yield or any other monetary benefit from deposit substitutes and from trust funds and similar arrangements; royalties, except on books, as well as other literary works and musical compositions, which shall be imposed a final tax of ten percent (10%); prizes (except prizes amounting to Ten thousand pesos (P10,000) or less which shall be subject to tax under Subsection (A) of Section 24; and other winnings (except winning amounting to Ten thousand pesos (P10,000) or less from Philippine Charity Sweepstakes and Lotto which shall be exempt), derived from sources within the Philippines: xxx
+
+
+
+	4)		Audit of records pertaining to the Due to BIR account of SSU disclosed that the SLs substantiating the account were not properly accomplished, thereby resulting in:
+
+
+
+1)	abnormal balances totaling P1,521,110.14 appear in the SL;
+
+2)	the existence of an SL account that serves as a reconciling SL; and 
+
+3)	dormant accounts in the SL of the Due to BIR account remained the same in the ending balance, and no transactions or updates were reflected for CY 2020.
+
+
+
+	5)		Verification of the balances of the Due to BIR account revealed that because of the existence of multiple accounts for payees, abnormal balances totaling P1,521,110.14 (Annex J) have been reported.  These deficiencies have been attributed to the fact that for a single payee for example, several subsidiary ledgers are maintained for his transactions.  Also, several errors were made in recording other transactions that do not belong to that particular payee.  Further, the Accounting Section created a reconciling ledger whereby the taxes due were recorded in this SL, while the remittances and payment of these taxes were recorded in the subsidiary ledger account of the payee.  This practice has either overstated or understated the accounts involved in the transactions.
+
+
+
+	6)		The Accountant explained that these reconciling SLs were created as it was faster to record the transactions in a single account than posting them in the individual accounts of the payee. 
+
+
+
+	7)		The existence of dormant accounts amounting to P42,769.24 (Annex K) was also noted, which dormant accounts have been in the balances of the CY 2019 accounts and included in the audit observation for the previous year.
+
+
+
+	8)		The Accountant informed the Audit Team that the unadjusted balances from the CY 2019 financial statements still existed because she was not able to complete tracing the transactions.
+
+
+
+	9)		These improper uses of the SL and unadjusted balances have resulted in the non-determination of the balances of the Due to BIR account.
+
+
+
+	10)		Also during the audit, we noted that the Accountant did not withhold taxes from the grant to various recipients of incentives totaling P1,170,000.00, itemized as follows:
+
+
+
+Table 18.  Schedule of Cash Incentives and Awards Granted to Various Recipients Without Deducting Final Withholding Taxes as of December 31, 2020
+
+Name
+
+Particulars
+
+Amount
+
+Internally Generated Fund – Awards/Rewards Expenses
+
+Harold Panganoron
+
+Cash incentive for the research “Hydrothermally Carbonized Waste Biomass as Electrocatalyst
+
+P50,000.00
+
+Floretes, Nikko Ardel P.
+
+RDE incentive for research publication
+
+50,000.00
+
+Amascual, Ruel H.
+
+Cash incentive for the research titled “Histamine Profile of Dried-Salted Fish Sold in Local Supermarkets in Samar, Philippines”
+
+50,000.00
+
+Arcales, Julie Ann A.
+
+RDE incentive for publication entitled "Quality Changes of Chilled Green Mussel (Perna viridis) Pre-treated with Organic Acids and Sodium Tripolyphospate"
+
+50,000.00
+
+Tabiongan, Raven C.
+
+Claim of incentive for the SCOPUS Journal Publication of the Article entitiled "Bilateral Communication Device for Deaf-mute and Normal People" to the Advances in Science, Technology and Engineering Systems Journal
+
+50,000.00
+
+Boco, Nicolas Jr.
+
+Claim of incentive for the SCOPUS Journal Publication of the Article entitiled "The Existence of Out of Field Science Teacher: A Case in Samar National School, Catbalogan City, Philippines" and "Teachers Misconceptions on Climate
+
+120,000.00
+
+Panganoron, Harold O.
+
+RDE incentive for citation Hypothermally Carbonized Waste Biomass as Electrocatalysts Support for a-MnO2 in Oxygen Reduction Reaction
+
+15,000.00
+
+Apacible, Rose Ann R.
+
+RDE incentive for "A Process of Making a Pickled Small Rock Oyster (Saccostrea cucullata)" "Shrimp Nuggets" "A Process of Making Shrimp Nuggets"
+
+45,000.00
+
+Esteban Malindog, Jr.
+
+Claim of incentive for the publication of articles in the SCOPUS Journal Publication.
+
+120,000.00
+
+Vivian L. Moya, et al.
+
+2020 SULO Awards for SSU personnel (Annex L)
+
+335,000.00
+
+Sherrie Ann Labid
+
+R&D incentive for published research entitled "Health Service Delivery: What we Know, What we have Availed of, How Satisfied We Are and Where are we Heading to?"
+
+25,000.00
+
+Lanie Pacadaljen
+
+R&D incentive for published paper entitled "General Analogies and Conceptual Understanding of Chemistry Teachers."
+
+50,000.00
+
+Mary Jane Cinco
+
+R&D incentive for published journal entitled "Students' Happiness and Social Participation: The Moderating Role of Resilience"
+
+50,000.00
+
+Emma Tenedero
+
+R&D incentive for published journal entitled "Extent of Technology Integration in Teaching Stat: 15 implication to Students' Achievement"
+
+50,000.00
+
+Cynthia Honrales
+
+R&D incentive for published journal entitled "Solving the Tower HANOI using Three Realias."
+
+50,000.00
+
+Jhone Genny Ortega
+
+R&D incentive for published journal entitled "Cassava Rotary Sieve Machine"
+
+60,000.00
+
+TOTAL
+
+P1,170,000.00
+
+
+
+	11)		The Accountant explained the non-deduction, that is, these claimants’ total compensation did not reach the amount that was taxable.  The reasoning is erroneous because under the Tax Code, prizes granted to individuals are classified as passive income and as such are imposed a 10% final tax on winnings.
+
+
+
+	12)	In view of these noted deficiencies, the balance of the Due to BIR account is unreliable.
+
+
+
+	6)		We recommended that the President require the Accountant to:
+
+
+
+a)	review, analyze and adjust, if necessary, the errors noted as reflected in the subsidiary ledgers of Due to BIR, and all other affected accounts in order to come up with the correct account balances;
+
+
+
+b)	henceforth, undertake the correct recording of all transactions in the Due to BIR account so that balances are correctly recorded, and investigate any negative balances for adjustments and corrections; and
+
+
+
+c)	bill all winners and recipients of cash incentives for the final withholding taxes in accordance with Section 24, Chapter III, Title II of RA No. 10963.
+
+
+
+
+
+Unsubstantiated  IGP net loss at year end totaling P2,417,342.72 
+
+
+
+8)		The accuracy of the Income Generating Project (IGP) reported net loss at year end totaling P2,417,342.72 could not be ascertained due to the absence of the financial statements, journals and ledgers for each project, contrary to Chapter VII of the Manual of Operations for IGPs of State Universities and Colleges (SUCs) in Region 8, and pertinent provisions of PD No. 1445.
+
+
+
+	1)		Sections 111 and 122 of PD No. 1445 provide:
+
+
+
+SECTION 111.  Keeping of Accounts. – (1) The accounts of an agency shall be kept in such detail as is necessary to meet the needs of the agency and at the same time be adequate to furnish the information needed by fiscal or control agencies of the government.
+
+
+
+2)	The highest standards of honesty, objectivity and consistency shall be observed in the keeping of accounts to safeguard against inaccurate or misleading information.
+
+
+
+SECTION 122.  Submission of reports. – (1) Whenever deemed necessary in the exigencies of the service, the Commission may under regulations issued by it require the agency heads, chief accountants, budget officers, cashiers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla of personnel, and such other reports as may be necessary for the exercise of its functions. 
+
+
+
+(2) Failure on the part of the officials concerned to submit the documents and reports mentioned herein shall automatically cause the suspension of payment of their salaries until they shall have complied with the requirements of the Commission.
+
+
+
+	2)		Likewise, Chapter VII of the Manual of Operations for IGPs of SUCs in Region 8, provides:
+
+
+
+ACCOUNTING FOR INCOME GENERATING PROJECTS (IGPs)
+
+
+
+X x x
+
+
+
+The books of accounts for IGPs must be maintained separately.  All financial transactions of the IGP must be reported to the facilitative staff as basis for recording in the books of accounts, as follows:
+
+
+
+1)		Sales Journal
+
+(Sales Books)
+
+-used to record sales
+
+2)		Purchase Journal
+
+(Purchase Books)
+
+-used to record purchases
+
+3)		Cash Receipts Journal
+
+(Cash Receipts Book)
+
+-used to record cash receipts
+
+4)		Cash Payments Journal
+
+(Cash Payment Book/ Cash Disbursement Book)
+
+-used to record payments of cash/ checks
+
+5)		General Journal
+
+-used to record transactions not mentioned in the first four books.
+
+6)		General Ledger
+
+-used to summarize each financial   transactions recorded in the journals.
+
+7)		Subsidiary Ledger
+
+-contains pages where the details of an account in the general ledger are summarized.
+
+8)		Trial Balance
+
+-is a list of all the accounts with open balances in the general ledger (Illustrated in Table 7).
+
+
+
+
+
+A. Financial Reports
+
+
+
+The Facilitative Staff based on inputs submitted by project managers as follows should prepare financial Statements for IGP Operations:
+
+
+
+1.	Income Statement
+
+2.	Cash Flow Statement
+
+3.	Balance Sheet
+
+4.	Other statements which may be required if deemed necessary
+
+
+
+	3)		Records showed that SSU’s Statement of Financial Performance for IGPs reported a total net loss of P2,417,342.72 as of December 31, 2020.  However, audit disclosed the following observations/deficiencies:
+
+a)	The net loss of P2,417,342.72 as of year end was not supported with subsidiary records and IGP financial reports.
+
+
+
+b)	While the University Accountant prepares and maintains GLs and SLs for Fund Cluster 05 (BRF), these are not considered full compliance with the abovementioned requirements, which provide that separate financial reports shall be maintained for each IGP.
+
+
+
+c)	The Financial Statements, Journals and GLs and other financial reports for each IGP were not prepared and maintained by SSU as of year end.
+
+
+
+	4)		The Chief Administrative Officer of the Finance Services was only able to submit some of the CYs 2017 and 2018 financial statements and records for some IGPs, thus, the Audit Team cannot reconcile and undertake the complete audit due to incomplete reports and records to the existing books of account for BRF.
+
+
+
+	5)		The absence of the required financial statements, journals and ledgers for each IGP in CY 2020 weakens accounting controls over transactions involving the IGPs making it difficult to ascertain the accuracy of the reported net income or loss.
+
+
+
+	7)		We recommended that the President require the Accountant and all personnel concerned to:
+
+
+
+a)		prepare and submit the financial statements and separate journals and ledgers for each IGP; and
+
+
+
+b)		regularly update, maintain and submit the required financial reports as prescribed in Chapter VII of the Manual of Operations for IGPs of SUCs in Region 8 and the pertinent provisions of PD No. 1445.
+
+
+
+	6)		The Accountant III mentioned that the net loss was due to some income of FY 2020 which was collected only this year, and; the recorded prior years’ depreciation for BRF amounting to P2,790,272.87.
+
+
+
+	7)		The guidelines on accounting for IGPs mentioned in the IGP Manual should be in accordance with GAM for NGAs.
+
+
+
+
+
+Procurement of supplies of COVD-19 through cash advances
+
+
+
+9)	The procurement of supplies to help prevent the spread of COVID 19 amounting to P743,000.00 was made through cash advances, which is not in accordance with Government Procurement Policy Board (GPPB) Resolution No. 03-2020 dated March 09, 2020; GPPB Circular 04-2016 dated 20 December 2016; and the COA and GPPB Joint Memorandum Circular (JMC) No. 1 dated March 26, 2020.
+
+
+
+	1)		GPPB Resolution No. 03-2020 dated March 9, 2020 states that:
+
+	
+
+	NOW, THEREFORE, for and in consideration of the foregoing, WE, the Members of the GOVERNMENT PROCUREMENT POLICY BOARD, by virtue of the powers vested on US, by law and other executive issuances, hereby RESOLVE, to confirm, adopt, and approve, as WE hereby confirm, adopt, and approve the following: 
+
+
+
+	x x x
+
+
+
+	(3) AUTHORIZE the HoPE [Head of the Procuring Entity] to delegate to either the BAC or the End-user unit or any other appropriate bureau, committee, support or procuring unit the authority to directly negotiate with a legally, technically, and financially capable supplier, contractor, or consultant for procurement undertaken through any of the allowable instances of Negotiated Procurement (Emergency Cases) under Section 53.2 of the 2016 revised IRR and Item V(D)(2a) of Annex “H” of the same IRR; 
+
+
+
+	x x x
+
+
+
+	2)		GPPB Circular 04-2016 dated 20 December 2016  entitled, “Clarification on Negotiated Procurement under Emergency Cases modality embodied in Section 53.2 of the 2016 Revised Implementing Rules and Regulations of (IRR) of Republic Act (RA) No 9184 has been amended to include:
+
+
+
+Procedures
+
+
+
+4.1.1  x x x
+
+
+
+4.1.3 The HoPE may delegate to either the BAC or the End-user unit or any other appropriate bureau, committee, support or procuring unit the authority to directly negotiate with a legally, technically, and financially capable supplier, contractor, or consultant for procurement undertaken through any of the allowable instances of Negotiated Procurement (Emergency Cases) under Section 53.2 of the 2016 revised IRR. 
+
+
+
+	3)		Likewise the COA and GPPB JMC No. 1 dated March 26, 2020 prescribes the guidelines on Emergency Procurement by the government during a State of Public Health Emergency Arising from the COVID-19, stating thus:
+
+
+
+	3.0	General Provisions
+
+
+
+	3.1	x x x
+
+
+
+	3.2	During the State of Public Health Emergency declared by the President, Procuring Entities are allowed to resort to Negotiated Procurement (Emergency Cases) under Section 53(b) of RA No. 9184, Section 53.2 of its 2016 IRR and associated issuances for the procurement of Goods, Infrastructure Projects and Consulting Services that are directly related to the mitigation and containment of the transmission of COVID-19, in order for Procuring Entities to properly and timely respond to this Public Health Emergency.
+
+
+
+	4)		The implementing guidelines for Emergency Procurement are laid out under GPPB Circular No. 01-2020 dated April 6, 2020, and formulated to expedite the procurement of highly needed supplies, materials, equipment, utilities, telecommunications, and other critical services authorized under RA No. 11469 or the Bayanihan to Heal as One Act (Bayanihan Act) at the most advantageous price to the government, stating thus:
+
+
+
+	3.0	Procedure
+
+
+
+	x x x
+
+
+
+	3.3	PEs shall then directly negotiate or procure from a legally, technically, and financially capable supplier, distributor, manufacturer, contractor, or consultant.  The HoPE is encouraged to delegate the authority to directly negotiate or conduct the procurement activities to the End-user unit or any other appropriate bureau, committee, support or procuring unit.  If no delegation is made, the Bid and Awards Committee (BAC) shall be the one to undertake the negotiation or procurement.
+
+
+
+	5)		In connection with the procedures above, Section 9.2 of COA Circular No. 2012-001 dated June 14, 2012 enumerates the basic requirements common to all purchases under the alternative mode.
+
+
+
+	6)		Review of the transactions involving procurements of SSU for COVID-19 supplies showed that a total of P743,000.00 procurements were made through cash advances, as shown in Table 19.
+
+
+
+Table 19.  Cash advances taken out for the Procurement of supplies for COVID-19
+
+Cash Advance Date Granted
+
+Accountable
+
+Officer
+
+Items Procured
+
+Amount Liquidated
+
+3/16/2020
+
+Ma. Lourdes P. Amante
+
+Cash Advance for the emergency purchase of Medical supplies for University use due to COVID 19 Pandemic
+
+P300,000.00
+
+5/6/2020
+
+Ronald L. Orale
+
+Cash Advance for the expenses incurred for the SSU-Bantay COVID 19 Projects Implementation such as production and distribution of hand based sanitizer and face shields
+
+100,000.00
+
+5/8/2020
+
+Lydia A. Gonzales
+
+Cash Advance for  the production of Hand Washing Station and Sanitizing Footbath
+
+328,000.00
+
+6/30/2020
+
+Mirador G. Labrador
+
+Cash Advance to defray the expenses of Bantay COVID, Production of Medically Acceptable Face Shields and Chlorine Based Hand Sanitizer from the donations
+
+15,000.00
+
+TOTAL
+
+P743,000.00
+
+
+
+	7)		These cash advances do not fall under any of the instances allowed for the grant of cash advances enumerated under COA Circular No. 97-002 dated February 10, 1997.
+
+
+
+	8)		Further, since the aforementioned transactions were made through cash advances, there were no Purchase Orders and quotation documents submitted to support the procurement, except for Purchase Request; Requisition and Issue Slip; and Inspection and Acceptance Reports, contrary to COA Circular No. 2012-001 dated June 14, 2012.
+
+
+
+	8)		We recommended that the University President stop the practice of procuring supplies and materials for COVID-19 through cash advances, and instead follow the procurement methods recommended under GPPB Resolution No. 03-2020 dated March 09, 2020, GPPB Circular 04-2016 dated 20 December 2016, and COA and GPPB Joint Memorandum Circular No. 1 dated March 26, 2020, and the guidelines enumerated under the GPPB Circular No. 01-2020 dated April 6, 2020, so that government resources are utilized efficiently and safeguarded against misappropriation.
+
+
+
+	9)		Management commented that the primary reasons why such procurement for COVID-19 supplies was made through cash advances were due to the immediate need to produce the goods for urgent utilization, the mobility restrictions, the limited access to stores due to closures and the need to protect the safety and well-being of the SSU personnel, students, immediate community and other stakeholders.  However, the President mentioned that the University shall be implementing the procurement methods under the applicable rules and regulations.
+
+
+
+
+
+
+
+GAD AR not in accordance with the prescribed format and not endorsed by PCW
+
+
+
+10)		The GAD Accomplishment Report (AR) of SSU was neither submitted to the Audit Team on time nor properly accomplished.  Likewise, there were underutilized GAD Funds, contrary to Philippine Commission on Women-National Economic Development Authority-Department of Budget and Management (PCW-NEDA-DBM) Joint Circular (JC) No. 2012-01 and COA Circular No. 2014-001.
+
+
+
+	1)		The Philippine Commission on Women (PCW) Memorandum Circular No. 2021-01 dated January 20, 2021 provides the timeline for the submission of GAD AR for CY 2020 as follows:
+
+
+
+Table 20. Timeline of Submission of GAD AR for CY 2020
+
+Particulars
+
+Required Report
+
+Submitted for Review to 
+
+Manner of Submission
+
+Criteria
+
+2020 GAD AR
+
+GAD Accomplishment Reports of SUCs shall be submitted to, and reviewed by, the regional offices of CHED
+
+CHED RO VIII (shall forward the reviewed SUC GAD AR to PCW on or before March 26, 2021)
+
+Submission, review and endorsement shall be coursed through the Gender Mainstreaming Monitoring System (GMMS), the PCW online system for managing GAD profiles, GPBs  and GAD ARs
+
+PCW MC 2021-01
+
+
+
+	2)		Whereas, item V of COA Circular No. 2014-001 dated March 18, 2014 provides:
+
+
+
+	V.	RESPONSIBILITY OF THE AUDITED AGENCY
+
+
+
+The Audited agency shall submit a copy of the Annual GAD Plan and Budget (GPB) to the COA Audit Team assigned to the agency within five (5) working days from the receipt of the approved plan from the PCW or their mother or central offices as the case maybe.  Likewise, a copy of the corresponding Accomplishment Report shall be furnished the said Audit Team within five (5) working days from the end of January of the preceding year. 
+
+
+
+	3)		The pertinent provisions of PCW-NEDA-DBM JC No. 2012-01 are as follows:
+
+
+
+6.0	COSTING AND ALLOCATION OF THE GAD BUDGET
+
+
+
+	6.1	At least five percent (5%) of the total agency budget appropriations authorized under the annual GAA shall correspond to activities supporting GAD plans and programs.  The GAD Budget shall be drawn from the agency’s maintenance and other operating expenses (MOOE), capital outlay (CO), and personal services (PS).  It is understood that the GAD budget does not constitute an additional budget over an agency’s total budget appropriations.
+
+
+
+	x x x
+
+
+
+	6.4	Attributing agency major programs to the GAD Budget.  Attribution to the GAD Budget of a portion or the whole of the budget of an agency’s major programs is a means toward gradually increasing the gender responsiveness of government programs and budgets.
+
+
+
+	6.4.1	If an agency intends to attribute a portion or the whole budget of major programs during the GAD planning and budgeting phase, it may subject the program to gender analysis using the HGDG tool.  If the agency is not yet trained on the use of the tool, it may include said training in its GPB and may seek the assistance of an expert on gender analysis using the HGDG.
+
+
+
+X x x
+
+
+
+	10.0	PREPARATION AND SUBMISSION OF GAD ACCOMPLISHMENT REPORTS
+
+
+
+	x x x
+
+
+
+	10.1	x x x. The agency GFPS shall prepare the annual GAD AR based on PCW-endorsed GPB of the GPB adjusted to the approved GAA following the form prescribed in Annex B.  Activities completed until the end of the year may be included in the final GAD AR of agency submitted to PCW in January. 
+
+
+
+	x x x
+
+
+
+	10.4	The annual GAD AR shall be accompanied by the following: (1) brief summary of the reported program or project; (2) copies of reported policy issuances; (3) results of HGDG tests, if any; and (4) actions taken by the agency on the COA audit findings and recommendations, if any.
+
+
+
+	4)		Audit of the GAD activities for the year disclosed the following:
+
+
+
+a)		Late submission of the GAD AR to the Audit Team 
+
+
+
+	5)		The GAD AR for CY 2020 was not submitted to the Audit Team within the prescribed period, thus affecting the timely audit of the allocation and utilization of the GAD fund.  Details are as follows:
+
+
+
+Table 21.  Deadline of Submission of GAD AR for CY 2020 to COA
+
+Particulars
+
+Deadline of Submission
+
+Date Submitted
+
+No. of Days Delayed
+
+2020 GAD AR
+
+02/05/21
+
+04/30/21
+
+84
+
+
+
+b)		The GPB and GAD AR were not properly accomplished 
+
+
+
+	6)		Review of the GAD AR and the GPB submitted by the University reported the following figures for the year:
+
+
+
+Table 22.  GAD Budget and Actual Expenditures for CY 2020
+
+Gender Issue and / or GAD Mandate
+
+(a)
+
+GAD Budget
+
+
+
+
+
+(b)
+
+Total Agency Approved Budget
+
+
+
+(c)
+
+Actual Cost Expenditure
+
+
+
+(d)
+
+Variance
+
+
+
+
+
+
+
+
+
+
+
+
+
+e=b-c
+
+
+
+
+
+f=c-d
+
+Client-Focused
+
+P 5,600,0 00.00
+
+P     64,270.00
+
+P    64,270.00
+
+P 5,535,730.00
+
+P 0.00
+
+Organization Focused
+
+13,800,000.00
+
+5,495,420.82
+
+5,495,420.82
+
+8,304,579.18
+
+0.00
+
+Total
+
+P19,400,000.00
+
+P5,559,690.82
+
+P5,559,690.82
+
+P13,840,309.18
+
+P0.00
+
+
+
+	7)		The following deficiencies were also noted during audit of the submitted reports:
+
+
+
+a)	In the report above and in the Annual GAD AR for FY 2020 submitted by the University President (Annex M), the expenditures for the year were reported at P5,559,690.82 but the report submitted by the Accountant totaled P4,729,261.87, thereby resulting in a variance of P830,428.95.
+
+
+
+If the variance of P830,428.95 was actually expended, then this was not supported with adequate documentation for validation: such as the Disbursement Voucher Number, Check details and other supporting documents.
+
+
+
+b)	Also in the table above, there is no difference between the Total Agency Approved Budget, and Actual Cost Expenditure amounting to P5,559,690.82, which has resulted in a zero variance of the GAD AR.
+
+
+
+During our interview with the GAD Director she explained that the basis for recording of the Total Agency Approved Budget was the Approved Project/Activity Proposal by the SSU President and the list of final/actual expenditures prepared by the Accountant.  The amount reflected in the Total Agency Approved Budget was automatically recorded as the same amount under the Actual Cost Expenditure, thereby showing no differences.
+
+Moreover, the total amount of actual expenditures for CY 2020 cannot be determined due to limited data available and documents submitted by the Accountant.  Without this information, the variances that should have been stated in the Remarks column of the GAD AR cannot be identified and the linkage between the GAD budget to the actual cost of implementation of the GAD activities could not be properly evaluated.
+
+
+
+c)		Underutilized GAD Funds 
+
+
+
+	8)		The University’s GPB for Fiscal Year 2020 shows that a total amount of P19,400,000.00 was initially planned and budgeted for GAD-related programs, activities and projects (PAPs).  This amount is 5.69% of the total budget appropriations of P340,688,956.00 for the year.
+
+
+
+	9)		The submitted GPB and GAD AR for FY 2020 showed that only P5,559,690.82 or 28.66% of the total budget was utilized while the PAPs with allocation of P13,840,309.18 were not implemented as of end of the year, summarized as follows:
+
+
+
+Table 23.  Summary of Programs & Projects Not Implemented as Indicated in GAD AR
+
+
+
+Client Focused
+
+Organization Focused
+
+Total
+
+GPB
+
+P5,600,000.00
+
+P13,800,000.00
+
+P19,400,000.00
+
+Annual GAD AR
+
+64,270.00
+
+5,495,420.82
+
+5,559,690.82
+
+Not Implemented as indicated in GAD AR
+
+P5,535,730.00
+
+P8,304,579.18
+
+P13,840,309.18
+
+
+
+	10)		During the audit, it was also noted that the guidelines set by PCW-NEDA-DBM Joint Circular No. 2012-01 were not properly applied, thus making it difficult for the Audit Team to compare the activities between the GPB and GAD AR.
+
+
+
+d)		Salary attribution was not in accordance with the PCW-NEDA-DBM Joint Circular No. 2012-01 
+
+
+
+	11)		Interview with the Accountant revealed that the salary attribution totaling P4,699,663.37 was equivalent to two months’ salary of SSU personnel whereby P2,798,214.40 was for the month of March 2020, while the remaining P1,901,448.97 was for the month of December 2020.
+
+
+
+	12)		The list of GAD activities for the months of March and December 2020 are itemized in the table below: 
+
+
+
+Table 24.  Salaries Attributed to the Conduct of GAD Activities
+
+Date
+
+Activities
+
+Participants
+
+Attributed
+
+Remarks
+
+	March 09, 2020
+
+Launching: 2020 Women’s Month Celebration (Main and External Campuses)
+
+Activities Conducted:
+
+*Wearing of Purple T-shirts every Wednesday of March
+
+*Mob Dance
+
+*Fun Walk
+
+*Distribution of IEC Materials
+
+200 employees and students
+
+P2,798,214.40
+
+Attributed the salary of SSU employees for the whole month of March 2020
+
+December 09 -10, 2020
+
+Distribution of 400 pcs. VAWC Mask
+
+No data
+
+P1,901,448.97
+
+Attributed the salary of SSU employees for the whole month of December 2020
+
+Total
+
+P4,699,663.37
+
+
+
+ 
+
+	13)		The data in the above table show that there was only a one-day activity conducted for the month of March, and a two-day activity for the month of December 2020 utilizing P4,699,663.37 of the total budget.
+
+
+
+	14)		Interview with the Accountant also revealed that the amounts for the salary attributions were equivalent to one month salary of the employees, and no Harmonized Gender and Development Guidelines (HGDG) tests were conducted.  Thus, there is an inappropriate attribution of salary because salary attribution should have been allocated only for the days when the GAD activities were conducted. 
+
+
+
+	9)		We recommended that the President require the GAD Focal Person and other personnel concerned to:
+
+
+
+1)	ensure that the GAD AR is submitted to the Audit Team within the period prescribed in item V of COA Circular No. 2014-001;
+
+
+
+2)	ensure that the GAD AR is prepared in accordance with Annex B of PCW-NEDA-DBM Joint Circular No. 2012-1;
+
+
+
+3)	monitor the actual expenditures relative to GAD Funds and provide the summary of expenses with details of Check Date and Number, Disbursement Voucher Number and Payee to facilitate validation;
+
+
+
+4)	maximize the utilization of the GAD funds through the implementation of GAD-related programs and projects in order to attain the objective for which these funds were provided; and
+
+
+
+5)	strictly comply with item 6.4 of PCW-NEDA-DBM Joint Circular No. 2012-01 in attributing GAD Funds.
+
+
+
+	15)		The GAD Director mentioned that the required recommendations cited in the AOM are highly acknowledged for compliance.
+
+
+
+
+
+Compliance with GSIS Act of 1997
+
+
+
+	11.	For CY 2020, SSU complied with the requirements on withholding and remittance of GSIS contributions for CY 2020 pursuant to RA No. 8291, as shown below:
+
+
+
+Particulars
+
+Amount
+
+Beginning Balance, 1/1/2020
+
+P     638,956.39
+
+Withheld in CY 2020
+
+24,720,355.43
+
+Remittance in CY 2020
+
+24,625,626.74
+
+Ending Balance, 12/31/2020
+
+P     733,685.08
+
+
+
+
+
+Status of Settlements of Audit Suspensions, Disallowances and Charges
+
+
+
+	12.	The status of compliance with the audit suspensions, disallowances and charges issued in prior years and during CY 2020 is summarized in the following table.
+
+
+
+		A)	Upon the effectivity of the Rules and Regulations on Settlement of Accounts (RRSA) 
+
+
+
+	Particulars
+
+	Beginning Balance
+
+	Jan. 1, 2020
+
+	Issued During the Year
+
+	Settlement During the Year
+
+	Ending Balance
+
+	Dec. 31, 2020
+
+	Audit Suspensions
+
+	
+
+	
+
+	
+
+	
+
+--		Main
+
+	P                    -
+
+	P                 -
+
+	P                -
+
+	P                    -
+
+--		Paranas
+
+	-
+
+	-
+
+	-
+
+	-
+
+--		Mercedes
+
+	
+
+	
+
+	
+
+	
+
+	Total
+
+	-
+
+	-
+
+	-
+
+	-
+
+	Audit Disallowances
+
+	
+
+	
+
+	
+
+	
+
+--		Main
+
+	4,310,118.45
+
+	-
+
+	-
+
+	4,310,118.45
+
+--		Paranas
+
+	2,355,291.50
+
+	-
+
+	-
+
+	2,355,291.50
+
+--		Mercedes
+
+	744,915.00
+
+	-
+
+	
+
+	744,915.00
+
+	Total
+
+	P7,410,324.95
+
+	P                 -
+
+	P                -
+
+	P 7,410,324.95
+
+
+
+
+
+
+
+
+
+
+
+		B)	Prior to the effectivity of the RRSA
+
+
+
+Particulars
+
+Beginning Balance
+
+Jan. 1, 2020
+
+Issued During the Year
+
+Settlement During the Year
+
+Ending Balance 
+
+Dec. 31, 2020
+
+Audit Disallowances -
+
+--	Main
+
+P1,489,474.34
+
+P                 -
+
+P                -
+
+P1,489,474.34
+
+--	Paranas
+
+-
+
+-
+
+-
+
+-
+
+--	Mercedes
+
+177,850.00
+
+-
+
+-
+
+177,850.00
+
+Total
+
+P1,667,324.34
+
+P                 -
+
+P                -
+
+P1,667,324.34
+
+
+
+70
+
+
+
+
+
+
+
+
+

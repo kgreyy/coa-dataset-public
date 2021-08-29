@@ -1,0 +1,2928 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART II – AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+	AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+	A.	Financial and Compliance
+
+
+
+1)	The Report on the Physical Count of Property, Plant & Equipment (RPCPPE) as of December 31, 2020 was not submitted to the Audit Team, contrary to the pertinent provisions of the Government Accounting Manual (GAM) for National Government Agencies (NGAs) and Presidential Decree (PD) No. 1445, from which the existence, completeness, and accuracy of the Property, Plant, and Equipment (PPE) accounts amounting to ₱128.665 million could not be verified.
+
+
+
+	Section 38, Chapter 10 of the GAM for NGAs, Volume I, provides:
+
+
+
+
+
+“The entity shall have a periodic physical count of PPE, which shall be done annually and presented on the RPCPPE as at December 31 of each year.”
+
+
+
+Further, pertinent provisions of the GAM require the following reports/forms to be prepared, maintained and submitted:
+
+
+
+Particulars
+
+Prepared/ Maintained by
+
+Deadline of Submission to COA
+
+Criteria                     (GAM for NGAs)
+
+Report on the Physical Count of Property, Plant and Equipment (RPCPPE)
+
+Inventory Committee
+
+Not later than January 31 of succeeding year
+
+Appendix 73 (Instructions), Volume II
+
+Property Cards (PCs)
+
+Supply Unit
+
+Not required
+
+Appendix 69, (Instructions), Volume II
+
+Property, Plant and Equipment Ledger Cards (PPELCs)
+
+Accounting Unit
+
+Not required
+
+Appendix 70, (Instructions), Volume II
+
+
+
+
+
+The PPELCs shall be reconciled with the report on the physical count of the PPE, PCs and the control accounts. Any discrepancies shall be immediately verified and adjusted.
+
+
+
+As of December 31, 2020, items under the PPE account of GSC have the following financial statement balances:
+
+
+
+Table 1 - 2020 Net Amount of Balances of PPE in the Financial Statements
+
+
+
+Account Titles
+
+Cost
+
+Accumulated Depreciation
+
+Net Amount
+
+Land
+
+₱         50,000.00 
+
+	₱                   0.00   
+
+₱          50,000.00 
+
+Other Land Improvements
+
+ 45,889.50 
+
+ 0.00  
+
+ 45,889.50 
+
+Power Supply Systems
+
+ 913,047.10 
+
+ (624,269.24)
+
+ 288,777.86 
+
+Buildings
+
+ 36,627,117.46 
+
+ (3,492,008.59)
+
+ 33,135,108.87 
+
+School Buildings
+
+ 52,707,145.26 
+
+ (13,277,622.17)
+
+ 39,429,523.09 
+
+Hostels and Dormitories
+
+ 227,563.91 
+
+ 0.00   
+
+ 227,563.91 
+
+Other Structures
+
+ 17,361,533.36 
+
+ (5,191,167.23)
+
+ 12,170,366.13 
+
+Machinery
+
+ 1,124,796.22 
+
+ (799,115.27)
+
+ 325,680.95 
+
+Office Equipment
+
+ 9,358,353.67 
+
+ (4,512,432.50)
+
+ 4,845,921.17 
+
+ICT Equipment
+
+ 48,671,564.38 
+
+ (21,803,720.37)
+
+ 26,867,844.01 
+
+Agricultural and Forestry Equipment
+
+ 2,998,000.00 
+
+ (1,618,920.00)
+
+ 1,379,080.00 
+
+Communication Equipment
+
+ 626,956.00 
+
+ (683,302.04)
+
+ (56,346.04)
+
+Disaster Response and Rescue Equipment
+
+ 141,796.00 
+
+ (103,207.93)
+
+ 38,588.07 
+
+Medical Equipment
+
+ 481,343.55 
+
+ (364,516.99)
+
+ 116,826.56 
+
+Sports Equipment
+
+ 2,854,584.99 
+
+ (1,274,838.98)
+
+ 1,579,746.01 
+
+Technical and Scientific Equipment
+
+ 5,576,461.13 
+
+ (3,191,721.79)
+
+ 2,384,739.34 
+
+Other Machineries and Equipment
+
+ 27,375,357.42 
+
+ (5,340,723.37)
+
+ 22,034,634.05 
+
+Motor Vehicles
+
+ 5,031,000.05 
+
+ (658,116.00)
+
+ 4,372,884.05 
+
+Furniture and Fixtures
+
+ 10,772,512.27 
+
+ (5,423,817.19)
+
+ 5,348,695.08 
+
+Books
+
+ 10,091,493.22 
+
+ (6,347,896.98)
+
+ 3,743,596.24 
+
+Work/Zoo Animals
+
+ 70,730.00 
+
+ 0.00   
+
+ 70,730.00 
+
+Other Property, Plant and Equipment
+
+ 94,649.76 
+
+ (101,180.26)
+
+ (6,530.50)
+
+Construction in Progress
+
+ 59,657,525.54 
+
+0.00   
+
+ 59,657,525.54 
+
+Total
+
+₱ 292,859,420.79 
+
+₱ (74,808,576.90)
+
+₱ 218,050,843.89 
+
+
+
+Verification of the PPE account as of year-end revealed the following observations:
+
+
+
+a)		The Property Officer has not submitted the RPCPPE as at December 31 2020, thus, the existence, completeness and accuracy of the reported PPE balance in the financial statement at year-end could not be established with certainty.
+
+	
+
+b)			The update of the PPELCs and PCs by the Accountant and the Property Officer respectively is still on-going, thus, reconciliation of both records is not facilitated.
+
+		
+
+c)	Some items of PPE have negative book balances in the General Ledger (GL) due to continuous recording of depreciation that already exceeded the cost, as shown in Table 2 on the next page (Annex A):
+
+Table 2 - 2020 PPE Net Amount Balances in the GL
+
+Account Titles
+
+Fund Source
+
+Cost
+
+Accumulated Depreciation
+
+Net Amount
+
+Remarks
+
+Machinery
+
+F164
+
+203,710.64
+
+(224,642.99)
+
+(20,932.35)
+
+Continually depreciated in 2020
+
+Communication Equipment
+
+F101
+
+363,915.00
+
+(390,050.90)
+
+(26,135.90)
+
+Not depreciated in 2020
+
+
+
+F164
+
+263,041.00
+
+(293,251.14)
+
+(30,210.14)
+
+Continually depreciated in 2020
+
+Books
+
+F101
+
+305,330.48
+
+(664,789.54)
+
+(359,459.06)
+
+Continually depreciated in 2020
+
+Other Property, Plant and Equipment
+
+F164
+
+94,649.76
+
+101,180.26
+
+(6,530.50)
+
+Not depreciated in 2020
+
+
+
+This observation was included in the previous audit reports, however, some items of the PPE remained to be depreciated beyond their cost, thus, affecting the accuracy of the year-end balance of the PPE accounts. 
+
+
+
+Likewise, the above practice contradicts the Management’s accounting policy that a residual value of at least 10 percent shall be applied in the computation of depreciation expense. 
+
+
+
+d)	Fully depreciated PPE items were not disclosed in the Notes to the Financial Statements as shown in Annex A. Under the pro-forma Notes to the Financial Statements for PPEs, disclosure of the carrying amount of temporarily idle PPE, fully depreciated PPE still in use and PPE retired from active use and held for disposal, and the fair value of PPE when this is materially different from the carrying amount, must be stated subsequent to its corresponding notes.
+
+
+
+This does not, however, preclude its non-presentation in the financial statements as Sec. 40.b Chapter 10 of the GAM for NGAs Volume 1 states that:
+
+
+
+“Xxxxx. The cost of fully depreciated assets remaining in service and the related accumulated depreciation and accumulated impairment losses shall not be removed from the accounts.”
+
+
+
+e)	Review of the Statement of Financial Position as of December 31, 2019 & 2020 revealed that the account for Land Improvements amounting to ₱45,889.50 was not depreciated. Further analysis of the GL revealed that the Furnitures and Fixtures account with net value of ₱0.761 million under Fund 101 was not depreciated for the year 2020 (Annex A).
+
+
+
+
+
+
+
+Sec. 27.b Chapter 10 of the GAM for NGAs Volume 1 states that:
+
+
+
+“Except for land and not recognized heritage assets, all PPE shall be depreciated.”
+
+
+
+The non-depreciation of such PPE items resulted in an understatement of depreciation expenses, thus, affecting the accuracy and reliability of the balance of these PPE accounts.
+
+
+
+f)	Machinery Account under Fund 101 was provided a uniform depreciation expense of ₱1,006.50 each year from 2017 to 2020 despite noted additions made as indicated below. (Annex A)
+
+
+
+Table 3 - Balance of the Machinery (Fund 101) Account
+
+Year
+
+Recorded Depreciation (per GL)
+
+Additions/ (Deductions) to Gross
+
+Gross
+
+Accumulated Depreciation
+
+Net Amount
+
+2016
+
+
+
+
+
+98,550.00
+
+97,543.50
+
+1,006.50
+
+2017
+
+1,006.50
+
+
+
+98,550.00
+
+98,550.00
+
+0.00
+
+2018
+
+1,006.50
+
+104,690.22
+
+203,240.22
+
+99,556.50
+
+103,683.72
+
+2019
+
+1,006.50
+
+
+
+203,240.22
+
+100,563.00
+
+102,677.22
+
+2020
+
+1,006.50
+
+161,095.00
+
+364,335.22
+
+101,569.50
+
+262,765.72
+
+
+
+The Property, Plant and Equipment accounts of the Guimaras State College significantly constitute 71.29 percent or more than half of the total assets, therefore, assurance of their physical existence is of considerable importance. Conduct of physical count is necessary since there is a need to assess the existence and condition of the assets in order to determine their productivity. Further, examination of the condition of the assets classified as PPEs is important to ascertain whether the cost of disposition and replacement of obsolete assets outweigh the cost of their maintenance.
+
+
+
+
+
+The Audit Team, nevertheless, conducted physical inspection of the following structures and transportation equipment which were found to be existing and in good condition, to wit:
+
+
+
+Table 4 - Balance of Unverified PPE Accounts
+
+
+
+Particulars
+
+Amount
+
+Balance of PPE per FS 2020
+
+
+
+₱     218,050,843.89
+
+Less: PPE which are found to be existing due to application of alternative audit procedures
+
+
+
+
+
+   Land
+
+₱          50,000.00
+
+
+
+   Buildings 
+
+ 33,135,108.87 
+
+
+
+   School Buildings
+
+ 39,429,523.09 
+
+
+
+   Hostels and Dormitories
+
+ 227,563.91 
+
+
+
+   Other Structures
+
+     12,170,366.13
+
+
+
+   Motor Vehicles
+
+       4,372,884.05
+
+          89,385,446.05
+
+Balance of unverified PPE
+
+
+
+₱     128,665,397.84
+
+	The failure to submit the RPCPPE on the prescribed deadline is a recurring observation and the failure to update and reconcile the required property ledger cards and property cards, precluded substantiation of the reported balances, which rendered the existence and accuracy of the balance of the properties unreliable and affected the fairness of presentation of the balance of the PPE accounts in the Financial Statements at year-end totaling ₱128.665 million. 
+
+	
+
+According to the Property Officer, the physical count of the PPE was completed on its Mosqueda and Baterna campuses, however, reports on the result of the count are still being prepared while actual physical count on the Salvador (Main) Campus is still ongoing. Also, the main reason for the delay in the submission of reports and the non-prompt completion of the physical count was due to lack of manpower in the Supply Office.
+
+
+
+To address issues on its procurement and property monitoring system, the Management expressed its plan to procure an Asset Management System that will enable an efficient recording, reporting and monitoring of its properties.
+
+
+
+We recommended and the Management agreed to:
+
+	
+
+a)	Immediately prepare a work plan indicating the timelines and persons responsible for the completion of the conduct of actual physical count and the corresponding report and to submit to the Auditor a copy thereof;
+
+b)		Require the Inventory Committee to prepare and submit the RPCPPE on the prescribed deadline, as required in the pertinent provisions of the GAM for NGAs, to allow the audit team to conduct a timely verification thereof; 
+
+	
+
+c)		Require the Accountant and Property Officer to update the PPELCs and PCs respectively and conduct a periodic reconciliation thereafter;
+
+	
+
+d)		Direct the Accountant to evaluate the PPE accounts with negative balances and effect adjustments as necessary; 
+
+
+
+e)		Evaluate the existence of fully depreciated PPEs and make proper disclosure in the Notes to the Financial Statements.
+
+
+
+
+
+2)	The Report on Physical Count on Inventories (RPCI) was not submitted to the Audit Team contrary to pertinent provisions of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), which rendered the existence and accuracy of semi-expendable properties amounting to ₱169,990.00 unreliable.
+
+
+
+Pertinent provisions of the GAM for NGAs require the following to be prepared, maintained and submitted:
+
+
+
+Particulars
+
+Prepared/ Maintained by
+
+Deadline of Submission to COA
+
+Criteria
+
+(GAM for NGAs)
+
+Report on the Physical Count of Inventories (RPCI)
+
+Inventory Committee
+
+July 31 of current year and January 31 of succeeding year (semi-annually)
+
+Appendix 66 (Instructions), Volume II
+
+Stock Cards (SCs)
+
+Supply Unit
+
+Not required
+
+Appendix 58, (Instructions), Volume II
+
+Supplies Ledger Cards (SLCs)
+
+Accounting Unit
+
+Not required
+
+Appendix 57, (Instructions), Volume II
+
+Report of Supplies and Materials Issued (RSMI)
+
+Supply Unit
+
+10th day of the succeeding month together with the JEV as consolidated by the Accounting Office
+
+Appendix 64, (Instructions), Volume II
+
+	
+
+Pursuant thereto, the agency shall conduct a semestral physical count of inventories. The report shall be reconciled with the SLCs and SCs maintained by the Accounting Division/Unit and Property and/or Supply Division/Unit, respectively. Any discrepancy shall be verified and/or adjusted accordingly. The semi-expendable properties wherein the issuances are covered by Inventory Custodian Slips (ICS) shall also be included in the RPCI.
+
+
+
+The Inventories account of GSC has a balance of ₱169,990.00 recorded in the General Ledger (GL) as of December 31, 2020, all of which are semi-expendable properties broken down as follows. 
+
+
+
+Table 5 - Balances of the Inventories Account
+
+
+
+Inventory Items
+
+Amount 
+
+Semi-expendable Office Equipment
+
+₱                62,390.00 
+
+Semi-Expendable Machinery and Equipment
+
+ 8,700.00 
+
+Semi-Expendable Furniture, Fixtures and Books
+
+ 98,900.00 
+
+Totals
+
+₱              169,990.00   
+
+
+
+The following observations were noted:
+
+
+
+a)	The Property Officer has not submitted the RPCIs within the prescribed deadline, thus, the existence and accuracy of the reported Inventory balance of ₱169,990.00 in the agency’s financial statements could not be verified.
+
+
+
+b)	The Property Officer and the Accountant were still in the process of updating and reconciling the SCs and SLCs.
+
+
+
+c)	Inventories amounting to ₱169,990.00, which according to the Property Officer were already issued in 2019, were still included in the balance of the Inventories account for the year 2020. (Annex B.1)
+
+
+
+d)	Expenses pertaining to Drugs and Medicines were erroneously posted to the Medical, Dental, and Laboratories account in the general ledger, thus, resulting in a variance between the Statement of the Financial Performance (SFPer) and the GL, to wit: (Annex B.2)
+
+
+
+
+
+Table 6 - Comparison of Balances of Inventory Expense Accounts posted on the SFPer and the GL
+
+
+
+Supplies & Materials Expense Accounts
+
+Per Statement of Financial Performance
+
+Per General Ledger
+
+Difference
+
+Office Supplies Expense
+
+₱      3,234,537.42
+
+₱   3,234,537.42   
+
+₱             0.00
+
+Accountable Forms Expenses
+
+ 402,596.00 
+
+402,596.00
+
+ 0.00
+
+Drugs & Medicine Expenses
+
+422,978.44
+
+350,989.44
+
+71,989.00
+
+Medical, Dental and Lab Expenses
+
+0.00
+
+71,989.00
+
+(71,989.00)
+
+Fuel, Oil, and Lubricants Expenses
+
+ 338,347.90
+
+ 338,347.90
+
+0.00
+
+Other Supplies and Materials Expense
+
+6,696,353.76
+
+6,696,353.76
+
+0.00
+
+Total
+
+₱    11,094,813.52
+
+₱ 11,094,813.52
+
+₱              0.00
+
+
+
+e)	Expense accounts related to inventory (Annex B.2) revealed that the Accountable Forms Expense account included a reimbursement for telephone landline expenses amounting to ₱2,596.00.
+
+
+
+f)	Entries for the issuance of such inventories were belatedly made through Journal Entry Vouchers (JEVs) at year-end, contrary to the provisions under the GAM that an inventory item must be taken up as expense upon issuance. It was also observed that the JEVs covering inventory issuances amounting to ₱9.320 million did not have documentary support such as the Report of Supplies and Materials Issued and the Requisition and Issue Slips. (Annex B.3) 
+
+
+
+Table 7 - Amounts of the Inventories Issued through JEVs without supporting documents
+
+
+
+Inventory Accounts Expensed as Issued
+
+Fund
+
+Amount
+
+Office Supplies and Materials Inventory
+
+101
+
+₱   1,149,736.00
+
+
+
+164
+
+1,875,689.00
+
+Accountable Forms, Plates and Stickers Inventory
+
+164
+
+400,000.00
+
+Drugs and Medicines Inventory
+
+164
+
+346,989.44
+
+Medical, Dental & Laboratory Supplies Inventory
+
+164
+
+71,989.00
+
+Fuel, Oil and Lubricants Inventory
+
+164
+
+109.00
+
+Construction Materials Inventory
+
+164
+
+377,000.00
+
+Other Supplies and Materials Inventory
+
+101
+
+881,500.00
+
+
+
+164
+
+3,977,635.07
+
+
+
+168
+
+239,748.00
+
+Total
+
+₱   9,320,395.51
+
+According to the Property Officer, the physical count of the Inventories was completed on its Mosqueda and Baterna campuses with the report on the results of the count still being prepared while actual physical count on the Salvador (Main) Campus is still ongoing. Lack of manpower on the Supply Office was also the reason for the delay in the submission of its reports and the non-prompt completion of the physical count.
+
+	
+
+The Management has expressed its plan to procure the same Asset Management System as mentioned in the previous audit observation to aid in the procurement and monitoring of inventories.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Direct the Accountant to provide supporting documents for the journal entry vouchers made on the issuance of inventories;
+
+
+
+b)	Direct the Inventory Committee to strictly adhere with the provisions of the GAM on the conduct of actual physical count of Inventories and Semi-Expendable Properties covered by ICS semi-annually, as well as the prompt submission of the corresponding Report on Physical Count of Inventories not later than July 31 and January 31 of each year for the first and second semester, respectively; and
+
+
+
+c)	Direct the Accountant and Property Officer to update the Supply Ledger Cards and Stock Cards, respectively, to allow proper reconciliation of the two records and proper monitoring of the availability of inventories. A workplan with timelines concerning such should be prepared and submitted to the Auditor for this purpose.
+
+
+
+ 
+
+3)	Disbursements amounting to ₱211,304.55 for the COVID-19 Hazard Pay of its personnel were not supported with the required documents contrary to DBM Budget Circular No. 2020-1 dated March 24, 2020, thus, the propriety of the reported expenditures could not be verified. 
+
+
+
+DBM Circular No. 2020-1 dated March 24, 2020 sets the guidelines and conditions on the grant of COVID-19 hazard pay. Section 4.3 of which states, “The personnel/workers have been authorized to physically report for work at their respective offices or work stations on the prescribed official hours by the head of the agency/office during the period of implementation of Enhanced Community Quarantine/Quarantine measures in the area of such office or work station.”
+
+
+
+It can be gleaned from the foregoing Circular that the three (3) requirements for the grant of COVID-19 hazard pay are as follows:
+
+
+
+a)	Authority to physically report to Office from the head of the agency;
+
+
+
+b)	Use of prescribed office hours; and
+
+
+
+c)	Work during the implementation of Enhanced Community Quarantine (ECQ) measures in the area.
+
+
+
+Post-audit of disbursements relative to the grant of COVID-19 Hazard Pay for the period April 16, 2020 to April 30, 2020 amounting to ₱211,304.55 revealed the following observations:
+
+
+
+a)	There was no Memorandum authorizing the personnel concerned to physically report for work at their respective work station issued by the Head of the Agency during the period of implementation of the ECQ. Nevertheless, a memorandum (Annex C.2), was issued on April 13, 2020 directing all GSC personnel to physical report to their respective offices on May 02, 2020, as the province was placed under the ECQ only from April 15, 2020 until April 30, 2020.
+
+
+
+b)	Except for the signatures of personnel reporting to office, the attendance sheets/ daily time records did not indicate the time in and out in 221 instances involving 40 personnel. (Annex C.1)
+
+
+
+c)	Accomplishment reports of the personnel on the grant of the hazard pay allowance were not among the supporting documents attached to the claims. (Annex C.1)
+
+
+
+Paragraph 5 of the Administrative Order No. 26, s. 2020 of the President of the Philippines on the authorization on the grant of hazard pay to government personnel who physically report for work during the period of implementation of enhanced community quarantine, describes one of the conditions on such grant which states that:
+
+
+
+	“WHEREAS, government employees and workers engaged through the contract of service (COS) or job order (JO), whose services are urgently necessary and who physically report for work during the period of an Enhanced Community Quarantine are inevitably exposed to health risks and hazards; and”
+
+
+
+In addition to this, CHED COVID Advisory No. 5 dated March 17, 2020 hereby provides that:
+
+
+
+“HEIs shall direct all its employees to work from home except for offices which will require a skeletal workforce that will ensure the provision of essential basic services such as processing of salary, janitorial services to clean and disinfect facilities and offices and security services. HEIs with skeletal workforce must ensure its strict compliance with the precautionary measures directed by the DOH and quarantine measures enforced by the DILG and its respective local government. This arrangement should remain in effect until the enhanced community quarantine has been lifted.”
+
+
+
+While the guidelines on the grant of COVID-19 Hazard Pay did not specifically provide for the kind of work to be accomplished by the personnel physically reporting during ECQ or to produce accomplishment reports in that matter, it is imperative that only essential and urgently necessary functions of the College shall warrant the adoption of a strict skeletal work force to support the operations of the College. Thus, the accomplishment reports would be able to substantiate the necessity of reporting to work by the agency’s personnel.
+
+
+
+As a result of the failure of the Management to properly accomplish the daily time records and submit the other required supporting documents, the propriety of the reported disbursements could not be verified.
+
+
+
+The Management, however, had informed the Audit Team that it will furnish the team with the required supporting documents, which will be subjected for evaluation upon receipt.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Direct the Accountant to strictly comply with the provisions of DBM Budget Circular No. 2020-1 on the grant of COVID -19 Hazard Pay to government personnel;
+
+
+
+b)	Direct the Accountant to submit the other required supporting documents to substantiate the disbursements made; and
+
+
+
+c)	Observe conditions set and submit required documents on future payments of hazard pay prior to disbursement.
+
+
+
+
+
+4)	Payments for Buildings and Other Structures totaling ₱9.775 million were not supported with complete documentation, contrary to Sec. 4.6 of Presidential Decree (PD) No. 1445, thus, propriety and validity of disbursements are not ensured.
+
+
+
+Presidential Decree No. 1445 sets forth the governing fundamental principles on financial transactions and operations of any government agency, Section 4.6 of which states:
+
+
+
+“Claims against government funds shall be supported with complete documentation.”
+
+
+
+Likewise, Section 9.1.1 of COA Circular 2012-001 dated June 14, 2012 further prescribes the documentary requirements on payment of infrastructure projects. 
+
+
+
+Payments on claims to advance payment, progress billing, and completion pertaining to the construction of buildings and other structures lacked complete documentation or were devoid of the necessary information to warrant the propriety and validity of the agency’s obligation.
+
+
+
+Likewise, disbursements amounting to ₱9.775 million had insufficient supporting documents. 
+
+
+
+Table 8 - Payments for Infrastructure Projects with insufficient supporting documents
+
+
+
+Infrastructure Project
+
+Amount
+
+Repair and Maintenance of School Buildings (BIT) - Salvador Campus
+
+₱   1,853,911.57 
+
+Construction of Laboratory for the College of Criminal Justice Education
+
+     1,081,037.26 
+
+Rehabilitation of College Dormitory-Salvador Campus
+
+        827,195.19 
+
+Completion of Academic Building
+
+     6,013,113.86 
+
+Total
+
+₱   9,775,257.88 
+
+
+
+The table below shows the deficiencies noted in transactions covering Advance Payments (AP) and Progress Payments (PP) on infrastructure projects of Guimaras State College, as summarized in Annex D.1 and with details on Annexes D.2 to D.5:
+
+
+
+Table 9 - Deficiencies in the Payment for Infrastructure Projects
+
+
+
+Attribute No.
+
+Documentary Requirement
+
+Payments on Projects with Deficiencies
+
+Audit observations
+
+2
+
+For advance payment - bank guarantee or a surety bond of equivalent value 
+
+Rehabilitation of College Dormitory-Salvador Campus – AP
+
+Receipt of payment for surety bond is unattached
+
+
+
+
+
+Completion of Academic Building – AP
+
+No documentation submitted
+
+3
+
+Letter request from contractor for advance/progress/final payments/release of retention money
+
+Rehabilitation of College Dormitory-Salvador Campus – AP
+
+No documentation submitted
+
+
+
+
+
+Completion of Academic Building – AP
+
+
+
+4
+
+Statement of Work Accomplished (SWA) or Progress Accomplishment prepared by the contractor
+
+Repair and Maintenance of School Buildings (BIT) – 1st PP
+
+Project Accomplishments are not presented in such detail that will show specific and itemized works for validation of Agency Engineer. Further, the agency approved the SWA of the contractor despite variance in assessment of work accomplished with agency’s SWA
+
+
+
+
+
+Construction of Laboratory for the College of Criminal Justice Education – 1st PP
+
+
+
+
+
+
+
+Rehabilitation of College Dormitory-Salvador Campus – 1st PP
+
+
+
+5
+
+Inspection Report by Agency’s Authorized Engineer
+
+Repair and Maintenance of School Buildings (BIT) – 1st PP
+
+No documentation submitted
+
+
+
+
+
+Repair and Maintenance of School Buildings (BIT) – 2nd PP
+
+
+
+
+
+
+
+Construction of Laboratory for the College of Criminal Justice Education – 1st PP
+
+Information on whether the works undertaken on the projects were on schedule or not, were not indicated in the report to provide a basis for deduction of retention money for progress accomplishments beyond 50%. Inspection Reports attached were in the form of a certification.
+
+
+
+
+
+Rehabilitation of College Dormitory-Salvador Campus – 1st PP
+
+
+
+
+
+
+
+Completion of Academic Building – 1st PP
+
+
+
+
+
+
+
+Completion of Academic Building – 2nd PP
+
+
+
+6
+
+Validated pictures during, before and after construction
+
+Repair and Maintenance of School Buildings (BIT) – 1st PP
+
+Pictures attached were not labeled if such were taken before, during and after and some were without validation by the assigned Agency Engineer
+
+
+
+
+
+Repair and Maintenance of School Buildings (BIT) – 2nd PP
+
+
+
+
+
+
+
+Construction of Laboratory for the College of Criminal Justice Education – 1st PP
+
+
+
+
+
+
+
+Rehabilitation of College Dormitory-Salvador Campus – 1st PP
+
+
+
+
+
+
+
+Completion of Academic Building – 1st PP
+
+
+
+
+
+
+
+Completion of Academic Building – 2nd PP
+
+
+
+15
+
+Result of Test Analyses (a. Soil exploration test (for 3 story and over)- to be undertaken by the Agency; b. Strength of concrete, foundation and columns; compaction test)
+
+Rehabilitation of College Dormitory – 1st PP
+
+No documentation submitted
+
+	
+
+The above documentary requirements are part of the control measures to substantiate the validity of the claims of the Contractors. Likewise, these documents are essential to ensure that projects were undertaken by the contractors in accordance with the specifications and timelines stipulated in the contract.
+
+
+
+As a result of the deficiencies in the supporting documents, the propriety and validity of disbursements were not ensured.
+
+
+
+The Management acknowledged the deficiencies noted above, which was due to non-thorough review of required documents, and assured the team that they will submit the required documents and to strictly abide by the regulations for ensuing similar transactions.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Direct the Accountant and the Planning Director to, henceforth, ensure compliance with Section 4.6 of P.D. No. 1445 and Section 9.1.1 of COA Circular 2012-001 dated June 14, 2012 on the submission of documentary requirements to support disbursements; and
+
+
+
+b)	Require the Planning Director to submit the required supporting documents of the building project.
+
+
+
+
+
+5)	The guidelines on the 10% Retention Money from progress payments to contractors of infrastructure projects were not strictly complied with, contrary to Items 6.1 and 6.2, Annex “E” of the 2016 Revised IRR of RA No. 9184, as amended, resulting in deficiencies in retention money amounting to ₱191,449.05, thus, the projects were not adequately protected from uncorrected defects and third-party liabilities.
+
+
+
+Items 6.1 and 6.2, Annex “E” of the Revised Implementing Rules and Regulations (IRR) of the Republic Act (RA) No. 9184, entitled Contract Implementation Guidelines for the Procurement of Infrastructure Projects provides:
+
+
+
+“6.1 Progress payments are subject to retention of ten percent (10%) referred to as the "retention money." Such retention shall be based on the total amount due to the contractor prior to any deduction and shall be retained from every progress payment until fifty percent (50%) of the value of works, as determined by the procuring entity, are completed. If, after fifty percent (50%) completion, the work is satisfactorily done and on schedule, no additional retention shall be made; otherwise, the ten percent (10%) retention shall be imposed.” Emphasis ours
+
+
+
+6.2 Xxxxx. The contractor may, however, request the substitution of the retention money for each progress billing with irrevocable standby letters of credit of from a commercial bank, bank guarantees or surety bonds callable on demand, of amounts equivalent to the retention money substituted for and acceptable to Government, provided that the project is on schedule and is satisfactorily undertaken. Otherwise, the ten percent (10%) retention shall be made. Xxxxx.”
+
+
+
+		Audit of the progress payments made to various contractors in the Calendar Year 2019 and 2020 disclosed that retention money from progress payments to contractors were deficient by ₱191,449.05, contrary to Items 6.1, Annex “E” of the Revised IRR of the RA No. 9184.
+
+		
+
+		Perusal of the documents revealed that some billings of the building projects were not subjected to 10 percent retention, while others had minor computational errors. The data are presented in the table below with details shown in Annex E.
+
+		
+
+		Table 10 - Variances on the Computation Retention Money on Building Projects
+
+		
+
+		WP Ref No/
+
+		Infrastructure Project
+
+		Percentage of Completion
+
+		10% Retention Money imposed per DV
+
+		10% Retention Money per audit
+
+		Variance
+
+		Repair and Maintenance of School Buildings (BIT) - Salvador Campus
+
+49.41% (1st Billing)
+
+		132,152.72
+
+		132,159.55
+
+		6.83
+
+		
+
+82.76% (2nd Billing)
+
+		89,209.85
+
+		89,203.02
+
+		(6.83)
+
+		Construction of Laboratory for the College of Criminal Justice Education
+
+70.00% (1st Billing)
+
+		0.00
+
+		115,306.21
+
+		115,306.21
+
+		Rehabilitation of College Dormitory-Salvador Campus
+
+50.19% (1st Billing)
+
+		0.00
+
+		76,142.89
+
+		76,142.89
+
+		Completion of Academic Building
+
+26.16% (1st Billing)
+
+		212,888.90
+
+		212,888.87
+
+		(0.03)
+
+		Total
+
+		434,251.47
+
+		625,700.52
+
+		191,449.05
+
+		
+
+		It can be gleaned from the table above that the 10 percent retention money on the two (2) billings were not imposed despite the fact that accomplishments were already beyond the 50 percent value of their works.
+
+  
+
+The above lapses resulted in incurrence of deficiencies in retention money amounting to ₱191,449.05, thus, the works were not adequately protected from uncorrected defects and third-party liabilities, contrary to the pertinent provisions of IRR of RA 9184.
+
+
+
+Other noted minor deficiencies have also been observed with regard to the computation on the payments made on the above-mentioned infrastructure projects. (Annex E)
+
+
+
+The Management admitted its error in interpretation of the procurement guidelines and assured to strictly follow the regulations on ensuing transactions.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+	a)	Direct the accountant and planning director to thoroughly review the computations made on the payment of infrastructure projects; and
+
+
+
+	b)	Henceforth, strictly comply with the rules and regulations on conditions set forth under Items 6.1 and 6.2, Annex “E” of the Revised Implementing Rules and Regulations of the Republic Act No. 9184 on the guidelines for the Procurement of Infrastructure Projects.
+
+
+
+
+
+6)	Claims for 15 percent advance payment on infrastructure projects amounting to ₱1.448 million were improperly charged to the buildings account contrary to the rules set under Chapter 10 of the Government Accounting Manual (GAM) for National Government Agencies (NGAs), resulting in the overstatement of the Buildings account and understatement of the Advances to Contractor accounts.
+
+
+
+Chapter 10 of the GAM of NGAs covers accounting for Property, Plant and Equipment (PPE) which includes land and land improvements, buildings and other structures, machinery and equipment, transportation equipment, furniture, fixtures and books, leasehold improvements, and other PPE including specialist military equipment, infrastructure assets, and heritage assets. It also, covers the accounting treatment, recognition, measurement, derecognition to ensure that all PPEs are properly valued and recorded, and the disclosure requirements in reporting PPE. 
+
+
+
+Section 8.g of the same chapter shows illustrative accounting entries for construction of PPE undertaken by contract, particularly on the accounting treatment for the transaction involving advance payment, from which the following entry should be made:
+
+	
+
+	“Advances to Contractor 			xxxxx
+
+			Cash in Bank 					xxxxx”
+
+
+
+Audit of the payments made on the 15 percent advance payment to contractors for infrastructure projects revealed errors in the charging of amounts to proper accounts as shown in the table below:
+
+
+
+Table 11 - Accounting Entries made on the Claims for Advance Payment on Infrastructure Projects
+
+
+
+Infrastructure Project
+
+Accounting Entry Made
+
+Correct Entry
+
+Rehabilitation of College Dormitory-Salvador Campus (Advance Payment)
+
+
+
+Building – 227,563.91
+
+
+
+                 Cash in Bank - 227,563.91
+
+
+
+Advances to Contractor - 227,563.91
+
+
+
+                      Cash in Bank - 227,563.91
+
+Completion of Academic Building (Advance Payment)
+
+
+
+Building - 1,220,693.04
+
+
+
+                 Cash in Bank - 1,220,693.04
+
+
+
+Advances to Contractors - 1,220,693.04
+
+
+
+                      Cash in Bank - 1,220,693.04
+
+
+
+The improper charging of advance payment to contractors amounting to ₱1.448 million to the Buildings account resulted in the overvaluation of the Buildings account and the undervaluation of the Advances to Contractors account, as the latter will be continually reduced upon recoupment of the advance payment through its progress billings. 
+
+	
+
+We recommended and the Management agreed to:
+
+
+
+a)	Instruct the accountant make adjusting entries to correct the improper charging of the advance payment to the Buildings account; and
+
+
+
+b)	Strictly comply with the rules and regulations under Chapter 10 of the GAM for NGAs, particularly on the proper accounting procedures on the payment for infrastructure projects.
+
+
+
+
+
+7)	The formulation and revision of Project Procurement Management Plan (PPMP) and the Annual Procurement Plan (APP) of Guimaras State College (GSC) were not compliant with the provisions of Section 7, Rule II of the 2016 Revised Implementing Rules and Regulations of R.A. 9184 or the Government Procurement Reform Act, thus, defeating their usefulness as effective tools to sustain a meticulous and judicious procurement planning.
+
+
+
+The Annual Procurement Plan (APP) is a required document that the agency must prepare to reflect the necessary information on the entire procurement activities that it plans to undertake within the calendar year. On the other hand, the Project Procurement Management Plan (PPMP) contains the initial list of projects/requirements of each PMO/end-user unit and the corresponding estimated budgetary requirement. The Bids and Awards Committee (BAC) consolidates the various PPMPs submitted by the Project Management Offices (PMOs) and end-user units within the Procuring Entity (PE) into an APP.
+
+
+
+Section 7, Rule II of the 2016 Revised Implementing Rules and Regulation of R.A. 9184 or the Government Procurement Reform Act, provides:
+
+
+
+“7.1 Xxxx
+
+
+
+7.2  No procurement shall be undertaken unless it is in accordance with the approved APP, including approved changes thereto. The APP must be consistent with the duly approved yearly budget of the Procuring Entity and shall bear the approval of the HOPE or second-ranking official designated by the HOPE to act on his behalf. 
+
+
+
+Changes in the APP, if any, for the budget year shall be submitted to the GPPB in July of the current budget year, and in January of the following budget year.
+
+
+
+			7.5.Except for procurement projects undertaken through early procurement activities (EPA), the ABC as reflected in the approved APP shall be at all times consistent with the appropriations for the project authorized in the GAA, continuing, and automatic appropriations, the corporate budget, and the appropriations ordinance, as the case may be.”
+
+
+
+A review of the PPMP and APP of GSC revealed that these documents are wanting of information and processes necessary to enable a meticulous and judicious planning. The following are the deficiencies noted (Annex F.1):
+
+
+
+a)	A documented market research to support the budget requirement of identified project/program/activity was not attached by the end-user to the PPMP, thus, prices obtained may not be the most advantageous for the government.
+
+
+
+b)	The Schedule/ Milestone of Activities was not indicated in the PPMP, contrary to Section 7.3.4, Rule II of the 2016 Revised IRR of RA 9184, hence, timelines for carrying out each step in the procurement process was not established to serve as a guide in monitoring the procurement activities so that an efficient and effective delivery of services can be assured.
+
+
+
+c)	The mode of procurement in the approved APP, and the Purchase Orders/Contracts were not traceable to the PPMP for transactions totaling ₱7.736 million (Annex F.1). The audit team reviewed selected PPMPs prepared by the end-users and found out that all PPMPs except one had the mode of procurement indicated therein, contrary to Section 7.3.4, Rule II of the 2016 Revised IRR of RA 9184.
+
+
+
+d)	There was no specific method being adopted in the consolidation of PPMP into an APP which facilitates the establishment of a procurement strategy so that a cost-effective option can be made.
+
+
+
+Section 3 of the Generic Procurement Manual discusses the strategies in consolidating the PPMP into an APP. The preparation of APP depends on the internal policy of the Procuring Entity. APP could be prepared by type such as making APP for goods, infrastructure, consulting services, CSE (common-use supplies and equipment) and non-CSE or by mode of procurement, at the option of the PE. A well-planned consolidation of PPMP to APP allows for the merging of similar project requirements under one contract or the division of a requirement into several contract packages so that the best value for money can be obtained.
+
+
+
+e)	Changes in the mode of procurement from the original mode specified in the approved APP were not covered with a BAC Resolution recommending the change in the mode of procurement, subject to approval by the Head of the Procuring Entity (HOPE).
+
+
+
+Section 48.3, Rule XVI of the 2016 Revised IRR of RA 9184, provides: 
+
+
+
+“The method of procurement to be used shall be as indicated in the approved APP. If the original method of procurement recommended in the APP was competitive bidding but cannot be ultimately pursued, the BAC, through a resolution, shall justify and recommend the change in the method of procurement to be approved by the HOPE. Such changes must be reflected in the APP to be submitted to the GPPB, pursuant to Section 7.4 of this IRR.”
+
+
+
+Further, Section 7.2, Rule II of the same IRR, explicitly states: 
+
+
+
+“No procurement shall be undertaken unless it is in accordance with the approved APP, including approved changes thereto. Xxxx.”
+
+
+
+Verification also revealed that out of the total ₱7.893 million sampled Purchase Orders/ Contracts, ₱1.645 million (Annex F.2) were procured adopting a different mode of procurement from that originally stated in the APP. Without the covering BAC Resolution duly approved by the HOPE, recommending a change in the mode of procurement, such use of a different procurement modality is not properly authorized.
+
+
+
+f)	Moreover, a review of the APP disclosed the following:
+
+
+
+a)	Programs/Activities/Projects (PAPs) code was not indicated.
+
+
+
+b)	No information was provided indicating whether or not the project is an Early Procurement Activity.
+
+
+
+c)	Projects were not properly described in the Remarks column.
+
+
+
+As a result of the above deficiencies, the usefulness of the PPMP and APP as effective tools in procurement planning was not maximized.
+
+
+
+According to the Management, one of the main reasons for the above-noted observation was that the members of the BAC lack the basic knowledge and competence necessary for the proper and efficient performance of their procurement duties and functions. This is due to its members having also principal obligations as members of the academe and as full-time administrative personnel.
+
+With this, the agency recognized the above deficiencies and to rectify such, informed that it will prioritize the attendance of the BAC to trainings on R.A. 9184.
+
+
+
+We recommended and the Management agreed that:
+
+
+
+a)	The End User Office and the BAC strictly adhere to the rules and regulations governing the formulation and revision of Project Procurement Management Plan (PPMP) and Annual Procurement Program (APP), in accordance with Section 7, Rule II of the 2016 Revised Implementing Rules of R.A. 9184 or the Government Procurement Reform Act and its Manual of Procedures, Volume 1;
+
+
+
+b)	The End User Office and the BAC adopt the prescribed processes and forms in the preparation and revision of PPMP and APP, to include milestone of activities, mode of procurement, description of projects and other relevant information as mandated by R.A. 9184; 
+
+
+
+c)	The College President seek authority from the Head of the Procuring Entity (Board of Trustees) to approve Supplemental Annual Procurement Plans and revisions of the procurement modality in the APP, and subsequently, the BAC to effect changes thereto, in compliance with the requirements of Section 48.3, Rule XVI and Section 7.2, Rule II of the 2016 Revised IRR of RA 9184, in cases where the original mode of procurement indicated in the APP cannot be ultimately pursued; and
+
+
+
+d)	The BAC formulate a method to be employed in the consolidation of PPMP into the APP to facilitate the establishment of a procurement strategy that will provide a cost-effective option such as preparing the APP according to the types of goods or services to be procured or by mode of procurement, all at the option of the procuring entity.
+
+
+
+
+
+8)	The procurement of airline tickets through direct retail purchase amounting to ₱211,030.00 was not compliant with the rules and regulations embodied in Section 53.14 of the 2016 Revised IRR of RA 9184 or the Government Procurement Reform Act (GPRA), thus, the propriety, economy and efficiency in the procurement of thereof were not ensured.
+
+
+
+The Government Procurement Policy Board confirmed, adopted, and approved the issuance of GPPB Resolution No. 24-2019 dated October 30, 2019, approving the inclusion of Section 53.14 in the 2016 revised IRR of RA No. 9184 (GPRA) on the direct retail purchase of airline tickets, among others, and the amendments to the affected provisions of its Annex “H” entitled “Consolidated Guidelines for the Alternative Methods of Procurement” " and made an integral part hereof.
+
+
+
+As a matter of policy, procurement of airline tickets shall be done through competitive bidding, except when the Procuring Entity has determined that Direct Retail Purchase is the best modality to be used, as may be warranted by circumstances.
+
+
+
+Also, Item J of Annex H of the GPRA states that, the conduct of Direct Retail Purchase of airline tickets shall be delegated to specific officials, personnel, committee or office in the Procuring Entity, through a Resolution and Issuance for the purpose by the Bids and Awards Committee (BAC) and the Head of the Procuring Entity (HOPE), respectively, in order to efficiently and expeditiously deal with the pressing need sought to be addressed.
+
+
+
+Verification of the sampled disbursements for the payment of travel expenses of officers and employees of Guimaras State College revealed that the management adopted the Direct Retail Purchase as mode of procurement on airline tickets. However, the following deficiencies were observed and were already brought to the attention of the BAC by the management (details in Annex G):
+
+
+
+a)	Airline tickets of the officers and employees were procured from Travel Agencies, instead of direct purchase from commercial airlines, contrary to the above stated regulations, thus, efficiency and economy was not ensured.
+
+Of the sampled payments on airline tickets amounting to ₱211,030.00 for the period November 2019 to March 2020, ₱122,116.00 or 58.02 percent were obtained from various travel agencies contrary to the above guideline
+
+
+
+b)	Procurement of airfares through Negotiated Procurement - Direct Retail Purchase were not reflected in the Annual Procurement Plan (APP), contrary to Section 7.2 of the 2016 Revised IRR of RA 9184 and the conditions stated in its Annex “H”, thus, the method of procurement being adopted was without proper authority by the Head of Procuring Entity (HOPE) or his authorized representative.
+
+c)	The conduct of Direct Retail Purchase of airline tickets was delegated to end-users without a Resolution of the BAC and issuance of an order by the HOPE, respectively, contrary to Item J, Annex H of the 2016 Revised IRR of RA 9184.
+
+d)	Claims for airfare amounting to ₱95,832.00 were not supported with official receipts to confirm acknowledgment of payment by the supplier, thus, veracity of payment could not be established.
+
+In the perusal of the disbursement vouchers for travel claims, it was found out that the attached copies of the airline tickets were mostly electronically generated. In some cases, these e-tickets were purchased online and then printed by the end-user, thus, without the official receipt, such that confirmation of the authenticity of the document and the veracity of the amount of airfare claimed as stated in the e-ticket is difficult to determine.
+
+
+
+With the above deficiencies in the procurement of airline tickets, propriety, economy and efficiency was not ensured.
+
+
+
+The Management agreed with the deficiencies noted and committed to abide by the requirements of the Procurement Law.
+
+
+
+We recommended and the Management agreed that the Head of the Agency direct the Accountant to:
+
+
+
+a)	Strictly follow the guidelines on the procurement of airline tickets under Section 53.14 and Annex “H” of the 2016 Revised IRR of R.A. 9184 or the Government Procurement Reform Act;
+
+b)	Procure airline tickets directly from commercial airlines to obtain the most advantageous price to the government;
+
+c)	Require the Bids and Awards Committee, subject to the approval of the Head of Procuring Entity, to issue a resolution delegating officials and employees to purchase airline tickets through direct retail purchase; 
+
+d)	Direct the end-users to attach official receipts issued by commercial airlines; and
+
+e)	Include in the Annual Procurement Plan the procurement of airline tickets and the modality to be adopted for propriety and authority.
+
+
+
+
+
+9)	The procurement of Petroleum Fuel, Oil and Lubricants amounting to ₱0.538 million through the direct retail purchase did not adhere to Section 53.14 of the 2016 Revised IRR of R.A. 9184 or the Government Procurement Reform Act (GPRA), hence, the propriety, economy and efficiency in the procurement of thereof were not ensured.
+
+
+
+The Government Procurement Policy Board (GPPB) confirmed, adopted, and approved the issuance of GPPB Resolution No. 24-2019 dated October 30, 2019, approving the inclusion of Section 53.14 in the 2016 revised IRR of RA No. 9184 (GPRA) on the direct retail purchase of petroleum fuel, oil and lubricant (POL), among others, and the amendments to the affected provisions of its Annex “H” entitled “Consolidated Guidelines for the Alternative Methods of Procurement” and made an integral part hereof.
+
+
+
+As a matter of policy, procurement of POL shall be done through competitive bidding, except when the Procuring Entity has determined that Direct Retail Purchase is the best modality to be used, as may be warranted by circumstances.
+
+
+
+The management of Guimaras State College adopted the Direct Retail Purchase as a mode of procurement on POL products. A Petty Cash Fund was established for the payment of POL products and disbursements were made thru the Petty Cash Voucher accomplished by the requisitioning employee and approved by his Immediate Supervisor. Verification of sampled disbursements on the payment of POL products from November 2019 to November 2020 revealed the following: (details in Annex H):
+
+
+
+	a)	Procurement of  Petroleum fuel, Oil and Lubricants (POL) through Negotiated Procurement - Direct Retail Purchase modality amounting to ₱0.538 million was not reflected in the Annual Procurement Plan of the Guimaras State College, contrary to Section 7.2 of the 2016 Revised IRR of RA 9184 or the Government Procurement Reform Act and the conditions stated in its Annex “H”, thus, the procurement and the method resorted to is without proper authority by the Head of Procuring Entity (HOPE) or authorized representative.
+
+
+
+	b)	The conduct of Direct Retail Purchase of POL was delegated to officials and employees without a Resolution or Issuance for the purpose by the BAC and the HOPE, respectively, contrary to Item J, Annex H of the 2016 Revised IRR of RA 9184.
+
+
+
+The non-inclusion of the procurement of Petroleum fuel, Oil and Lubricants in the Annual Procurement Plan and non-determination of the modality being adopted in the APP as well as the improper delegation to the Agency personnel was contrary to Section 53.14 of the 2016 Revised IRR of RA 9184 or the Government Procurement Reform Act (GPRA), thus, regularity on procurement of POL products were not ensured.
+
+
+
+The above-noted deficiencies were recognized by management and informed that they had already called the attention of the BAC on this matter.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Strictly follow the guidelines on the procurement of Petroleum fuel, Oil and Lubricants (POL) in accordance with Section 53.14 and Annex “H” of the 2016 Revised IRR of 9184 or the Government Procurement Reform Act;
+
+b)	Include in the Annual Procurement Plan the procurement of POL and the modality to be adopted for propriety and authority; and
+
+c)	Require the Bids and Awards Committee, subject to the approval of the Head of Procuring Entity, to issue a resolution delegating officials and employees to purchase POL through direct retail purchase.
+
+
+
+10)	The management and control of Petty Cash Fund (PCF) having a General Ledger (GL) Balance of ₱485.000 as of year-end, did not adhere to Presidential Decree (P.D.) No. 1445, Section 35, Chapter 6 of Government Accounting Manual (GAM), Volume I, and Section 5.7 of COA Circular 97-002, thus, affecting the validity, propriety and accuracy of the petty cash expenses.
+
+
+
+Pertinent provisions of P.D. No. 1445 states:
+
+
+
+Section 4.6 “Claims against government funds shall be supported with complete documentation.”
+
+
+
+Section 4.7 “All laws and regulations applicable to financial transactions shall be faithfully adhered to.”
+
+
+
+The necessary documents required by COA Circular 2012-001 dated June 14, 2012 in the granting of cash advance and liquidation of petty operating expenses are as follows: 
+
+ 
+
+a)	 Granting of Petty Cash Advance  
+
+
+
+1)	Authority of an accountable officer issued by the Head of the Agency or his/her duly authorized representatives indicating the maximum accountability and purpose of cash advance (for initial cash advance); 
+
+
+
+2)	Certification from the Accountant that previous cash advances have been liquidated and accounted for in the books; and 
+
+
+
+3)	Approved application for bond and or Fidelity Bond for the year of cash accountability of	 P5,001 or more. 
+
+
+
+For initial cash advance:
+
+
+
+4)	Approved estimates of petty expenses for one month; and
+
+
+
+5)	Copy of policy for maintaining PCF under the imprest system  
+
+
+
+b)	 Liquidation of PCF 
+
+
+
+1)	Report on Paid Petty Cash Vouchers (RPPCV) (Appendix 49); 
+
+
+
+2)	Approved purchase request with certificate of Emergency Purchase if necessary; 
+
+
+
+3)	Bill, receipts, sales invoices;
+
+
+
+4)	Inspection and Acceptance Report (IAR) (Appendix 62); 
+
+
+
+5)	Waste Materials Report (WMR) (Appendix 65) in case of replacement/repair; 
+
+
+
+6)	Approved Trip Ticket, for gasoline/fuel expenses; 
+
+
+
+7)	Canvass from at least three suppliers for purchases involving P1,000 and above, except for purchases made while on official travel; 
+
+
+
+8)	Summary/Abstract of Canvass; 
+
+
+
+9)	PCVs duly accomplished and signed; 
+
+
+
+10)	Official Receipt in case of refund; 
+
+
+
+11)	For reimbursement of toll receipts; and 
+
+
+
+i)	Toll Receipts  
+
+		
+
+ii)	Trip Tickets  
+
+
+
+12)	Such other supporting document that may be required.  
+
+
+
+Audit of disbursements made in the CY 2020 amounting to ₱1.677 million (Annex I.1) from the petty cash fund handled by the several petty cash fund custodians revealed the following details: 
+
+
+
+Table 12 - Audited Petty Cash Funds
+
+
+
+Fund
+
+Amount of Fund per GL
+
+Expenses/Charges
+
+Total Amount Audited
+
+IGP
+
+200,000.00
+
+Food catering services and other operating expenses
+
+1,601,933.18
+
+IGP
+
+10,000.00
+
+IGP – Unit Expenses
+
+62,816.30
+
+GF
+
+150,000.00
+
+GSC Service Vehicle to be used in monitoring for the Implementation of Infrastructure Projects
+
+N/A
+
+STF
+
+5,000.00
+
+Student Development Office Expenses
+
+12,112.00
+
+Total
+
+365,000.00
+
+
+
+1,676,861.48
+
+
+
+Perusal of documents in the grant of Petty Cash Funds and charges thereto, showed that:
+
+
+
+a)	No authority was issued to the Petty Cash Custodian by the Head of the Agency, indicating the maximum accountability and the purpose of the PCF, thus, the Accountable Officer had no authority to handle the PCF. Instead, only a letter of request to handle the petty cash fund, approved by the Head of the Agency, was made as basis to handle the fund.
+
+b)	No policy was formulated to provide a reference in authorization, maintenance and recording of petty financial transactions.
+
+The Management had recognized the above-noted deficiencies and has agreed to undertake steps to address such.
+
+
+
+Also, a review of the status of all the petty cash funds totaling ₱485,000.00 per General Ledger (GL) as of December 31, 2020, as shown below (Annex I.2), disclosed the following:
+
+Table 13 - Petty Cash Fund Balance per GL
+
+
+
+Fund
+
+Amount of Fund per GL
+
+IGP
+
+210,000.00
+
+GF
+
+243,000.00
+
+STF
+
+32,000.00
+
+Total
+
+485,000.00
+
+a)	The schedule on the monitoring of PCF prepared by the accounting office revealed a total of ₱445,000.00 as of December 31, 2020. Meanwhile, the GL balance of the PCF account showed an ending balance as of the same period of ₱485,000.00 or a variance of ₱40,000.00. The discrepancy between the two sources of information affected the veracity of the balance of the PCF.
+
+b)	In some instances, the amount of PCF replenished exceeded the actual amount of PCF initially established, contrary to sound accounting practices.
+
+c)	It was also observed that PCF totaling ₱190,000.00 have not been liquidated despite non-utilization of the fund for more than two years, contrary to Section 5.7 of COA Circular 97-002, hence, the propriety and validity of disbursements made through the petty cash prior to non-utilization could not be determined. Also, related expenses were not booked in the year they were incurred.
+
+
+
+
+
+Table 14 - Unutilized Petty Cash Funds
+
+
+
+Fund
+
+Amount of PCF
+
+Particulars
+
+STF
+
+2,000.00
+
+Registrar’s Office’s Expenses
+
+GF
+
+150,000.00
+
+GSC Service Vehicle to be used in monitoring for the Implementation of Infrastructure Projects
+
+GF
+
+38,000.00
+
+Planning Office’s Expenses
+
+Total
+
+190,000.00
+
+
+
+
+
+Section 5.7 of COA Circular 97-002, on formulating the rules and regulations on the granting, utilization, and liquidation of cash advances, provides that:
+
+
+
+	“When a cash advance is no longer needed or has not been used for a period of two (2) months, it must be returned to or refunded immediately to the collecting officer.”
+
+
+
+The foregoing deficiencies and discrepancies affected the validity and propriety of petty cash expenses amounting to ₱1.677 million and the accuracy of the petty cash fund balance per GL of ₱485,000.00.
+
+
+
+The Management acknowledged that the said observation was not acted upon before and informed the Audit Team that it is currently addressing those issues noted and that a review of the reports and records concerning the PCF is being conducted as well.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Cause the issuance of authority to the PCF custodians indicating the maximum accountability and the purpose of the PCF, in compliance with Section 35, Chapter 6, Government Accounting Manual (GAM) Volume 1;
+
+b)	Formulate a policy on the management of PCF in harmony with the rules and regulations of the GAM to provide a comprehensive reference in the authorization, maintenance and recording of petty financial transactions; 
+
+c)	Require the Accountant to resolve the noted discrepancy on the PCF balance;
+
+d)	Require the liquidation of cash advances that have not been utilized and liquidated for a significant period of time, in compliance with Section 5.7 of COA Circular 97-002; and
+
+e)	Strictly comply with Section 35, Chapter 6, GAM, Volume 1 on the management and control of PCF.
+
+
+
+
+
+11)	Cash advances granted to officers and employees totaling ₱9.882 million as of December 31, 2020, per the agency’s status of unliquidated cash advances, remained outstanding, contrary to the Commission on Audit Circular No. 97-002 dated February 10, 1997, thus, it could not be determined whether or not the cash advances were spent in accordance with the purpose for which they were granted. Moreover, expenses were understated by the amount of unliquidated cash advances.
+
+
+
+		Section 4.1 of COA Circular No. 97-002 dated February 10, 1997 provides the general guidelines on the granting and utilization of cash advances as follows:
+
+
+
+		4.1.2 No additional cash advances shall be allowed to any official or employee unless the previous cash advance given to him is first settled or a proper accounting thereof is made. 
+
+		
+
+	4.1.3 A cash advance shall be reported on as soon as the purpose for which it was given has been served.
+
+	
+
+	Likewise, Section 5.1 further provides the period of liquidation of cash advances, to wit:
+
+	
+
+	5.1.1 Salaries, Wages, etc. - within five (5) days after each fifteen (15) day/end of the month pay period.
+
+	
+
+5.1.2 Petty Operating Expenses and Field Operating Expenses within -twenty (20) days after the end of the year; subject to replenishment as frequently as necessary during the year.
+
+	
+
+	5.1.3 Official Travel – within sixty (60) days after return to the Philippines in the case of foreign travel   or within thirty (30) days after return to his permanent official station in the case of local travel.
+
+	
+
+	Failure of the AO to liquidate his cash advance within the prescribed period shall constitute a valid cause for the withholding of his salary and the instruction of other sanctions as provided for under paragraphs 9.2 and 9.3 hereof.
+
+	
+
+	5.7	When a cash advance is no longer needed or has not been used for a period of two (2) months, it must be returned to or refunded immediately to the collecting officer.
+
+	
+
+	5.8 All cash advances shall be fully liquidated at the end of each year. Xxxxxx
+
+	
+
+	5.9	At the start of an ensuing year, a new cash advance may be granted, provided that a list of expenses against the previous cash advance is submitted. However, when no liquidation of the previous cash advance is received on or before January 20, the   Accountant   shall   cause   the withholding of the AOs salary.”
+
+
+
+Analysis of the unliquidated cash advances as of December 31, 2020 for all funds totaling ₱9.882 million, per the agency’s status of unliquidated cash advances, is shown in Table 15 on the next page (summarized in Annex J.1 with details in Annex J.2):
+
+
+
+
+
+
+
+
+
+
+
+Table 15 - Analysis of the Unliquidated Cash Advances
+
+
+
+Particulars
+
+Outstanding Balance
+
+Not due as of Dec 31, 2020
+
+Total Past due
+
+Age of Past Due Cash Advances
+
+
+
+
+
+
+
+
+
+1-30 days
+
+31-60 days
+
+61-365 days
+
+Over 1 year
+
+Advances for Payroll 
+
+9,457,919.49
+
+877,000.00
+
+8,580,919.49
+
+8,259,385.32
+
+0.00
+
+152,732.47
+
+168,801.70
+
+Advances to Officers and Employees
+
+83,617.25
+
+0.00
+
+83,617.25
+
+0.00
+
+0.00
+
+9,905.00
+
+73,712.25
+
+Advances to Special Disbursing Officer
+
+319,282.00
+
+0.00
+
+319,282.00
+
+0.00
+
+0.00
+
+296,782.00
+
+0.00
+
+Advances to Operating Expenses
+
+21,393.25
+
+0.00
+
+21,393.25
+
+0.00
+
+0.00
+
+0.00
+
+21,393.25
+
+Total
+
+9,882,211.99
+
+877,000.00
+
+9,005,211.99
+
+8,259,385.32
+
+0.00
+
+459,419.47
+
+263,907.20
+
+Percent 
+
+100.00%
+
+8.87%
+
+91.13%
+
+91.72%
+
+0.00%
+
+5.10%
+
+2.93%
+
+			
+
+			Based on the foregoing, we noted the following recurring deficiencies:
+
+	
+
+a)	₱9.005 million or 91.13 percent of the total recorded cash advances of ₱9.882 million were past due. 
+
+
+
+b)	Among the past due cash advances, a total of ₱263,907.20 million or 2.93 percent were unliquidated for over 1 year, ₱459,419.47 or 5.1 percent were 61-365 days past due, and ₱8.259 million or 91.72 percent were 1-30 days past its due date of liquidation.
+
+
+
+c)	Some of the past due cash advances which have been outstanding since CY 2017 totaling to ₱168,801.70, pertained to advances of the cashier for salaries of Jobhires and Student Assistants, Labor payroll, and financial assistance for scholars. One of the main reasons for the existence of these long overdue unliquidated cash advances were the non-reconciliation between the records of the Cashier and the Accountant.
+
+
+
+d)	Records also revealed that cash advances pertaining to Operating Expenses amounting to ₱21,393.25 which were drawn for the use of the National Service Training Program (NSTP), have been outstanding for more than 8 years, thus, the validity and existence of the expenses are doubtful. 
+
+
+
+e)	Three accountable officers with cash advances totaling ₱44,049.00 granted in CY 2005, 2006, 2014 and 2016 are no longer connected with the College, thus the possibility of settlement is remote.  ₱34,540.00 of the above-mentioned amount from one accountable office is still under litigation.
+
+
+
+f)	Additional cash advances were granted to officials and employees despite non-liquidation of their previous cash advances. 
+
+
+
+g)	A variance of ₱0.566 million was noted between the amount of recorded unliquidated cash advances per agency’s record (Agency’s Status of Unliquidated Cash Advances as of December 31, 2020) and the 2020 Statement of Financial Position. (Annex J.3). This was also noted in the prior years’ audit report.
+
+
+
+		Determination if the government funds were spent for the intended purpose can only be made upon proper settlement by the Accountable Officer of the cash advances through presentation of receipts and other evidence of payment.  Without such, there could be no assurance that the cash advances were spent for the purpose it was granted.
+
+
+
+The Management had taken note of the above-mentioned observations and informed the Audit Team that reconciliation of its records to address the same is being conducted
+
+
+
+		We recommended and the Management agreed to:
+
+			
+
+	a)			Provide a plan of action with timelines for addressing the deficiencies noted and furnish a copy thereof to the auditor;
+
+		
+
+	b)			Require the immediate liquidation of all past due cash advances particularly those whose purposes have long been completed, otherwise the Accountant shall cause the withholding of the salary of the concerned accountable officer as provided under Section 5.1.3 of the COA Circular;
+
+		
+
+	c)			Exhaust all possible remedies to collect or demand liquidation from the two accountable officers who are no longer connected with the College; 
+
+
+
+	d)			Reconcile discrepancies noted in the records and provide supporting documents or references upon resolving such differences; and
+
+		
+
+	e)			Strictly comply with the rules and regulations on the grant, utilization and liquidation of cash advances as provided under COA Circular No. 97-002 dated February 10, 1997.
+
+
+
+
+
+12)	The grant of honoraria to the Regional Director of Commission on Higher Education (CHED) Region VI as resource person during board meetings amounting to ₱19,125.00 for CY 2020 was not supported with adequate documentation and bereft of legal basis, thus, improper and disallowable in audit.
+
+
+
+Sections 53 and 58 of the General Provisions of the General Appropriations Act for FY 2020, respectively, provides that honoraria may be paid only to the following:
+
+
+
+a)	Teaching personnel of the DepEd, TESDA, SUCs and other educational institutions, engaged in actual classroom teaching, whose teaching load is outside of the regular office hours or in excess of the regular load;
+
+
+
+b)	Those who act as lecturers, resource persons, coordinators and facilitators in seminars, training programs, and other similar activities in training institutions;
+
+
+
+c)	Chairpersons and members of commissions, boards, councils, and other similar entities, including personnel thereof who are not paid salaries, nor per diems but compensated in the form of honoraria as provided by laws, rules and regulations;
+
+
+
+d)	Those who are involved in science and technological activities and render services beyond their regular workload;
+
+
+
+e)	Officials and employees assigned to special projects, xxx; and
+
+
+
+f)	Officials and employees authorized to receive honoraria under R.A. No. 9184 and its IRR.
+
+
+
+It was observed that for CY 2020, honoraria in the amount of ₱19,125.00 was paid by Guimaras State College to the CHED Regional Director for her attendance to SUC governing board meetings (Annex K). Perusal of documents revealed that the CHED Regional Director attended the meetings as resource person. 
+
+
+
+Apparently, this type of honoraria is not among those enumerated in the aforecited regulations for entitlement to honorarium, thus rendering the disbursement bereft of legal basis.
+
+
+
+Honoraria for those who act as lecturers and resource persons is governed by DBM Budget Circular 2007-1 dated April 23, 2007 which provides in part, the following:
+
+
+
+“Section 2.3 A resource person is any person who by virtue of his /her expertise on a specific subject area, serves as speaker in seminars, conferences, symposia, training programs and similar activities
+
+
+
+Section 4.5 Honoraria shall not be granted to the designated lecturer, resource persons and facilitators within their respective sponsoring agencies as such services are deemed part of the duties and responsibilities of their appointive positions to disseminate information, to clarify issues and concerns and to interact with clients and/or implementors of agency mandates.”
+
+
+
+One of the functions of the CHED Regional Office is to monitor and evaluate the performance of Higher Education Institutions in the region in terms of compliance to minimum standards for various higher education programs. Thus, it can be gleaned from the foregoing that the directive of the CHED Chairman for the CHED Regional Director to attend BOR meetings is in line with the pursuance of its mandate, deemed part of the duties and responsibilities of the CHED Regional Director’s appointive position and therefore covered by limitations provided in Section 4.5 of the DBM Budget Circular 2007-1.
+
+
+
+Likewise, the following deficiencies were also observed and such were recognized by the management:
+
+
+
+a)	Claims for honoraria were not supported with complete documentation such as office order/ invitation letter to the resource person to attend the board meetings, Coordinator’s report on lecturer’s schedule and Course Syllabus/ Program of Lectures or equivalents of such, which are the other documentary requirements for lecturers under Section 5.7.4 of COA Circular 2012-001 dated June 14, 2012.
+
+
+
+b)	There was also one instance where another person in lieu of the CHED Regional Director signed the payroll for liquidation but there was no document indicating authority to sign in behalf of the actual payee on the acknowledgment receipt for the honorarium.
+
+
+
+Due to the absence of legal basis and insufficiency of documents to support the payment, propriety and validity of the honoraria being granted to the Regional Director of CHED Region VI in connection with her attendance to BOR meetings could not be determined. 
+
+
+
+We recommended and the Management agreed to refund the disallowed amount once the corresponding Notice of Disallowance is issued. Henceforth, discontinue the practice of granting honoraria and other forms of allowances in the absence of legal basis.
+
+
+
+
+
+13)	The Annual Gender and Development (GAD) Plan and Budget and Accomplishment Report for CY 2020 were not submitted within the prescribed deadline, contrary to Section V of Commission on Audit (COA) Circular No. 2014-001 dated March 18, 2014 and Joint Circular No. 2012-01 of the Philippines Commission on Women (PCW), National Economic Development Authority (NEDA) and Department of Budget and Management (DBM), hence, evaluation of the GAD programs/projects, related activities and the costs incurred could not be made.
+
+
+
+	Section V of the COA Circular No. 2014-001 dated March 18, 2014 provides that:
+
+	
+
+	“The Audited agency shall submit a copy of the Annual GAD Plan and Budget (GPB) to the COA Audit Team assigned to the agency within five (5) working days from receipt of the approved plan from the PCW or their mother or central offices, as the case may be. Likewise, a copy of the corresponding Accomplishment Report shall be furnished the said Audit Team within five (5) working days from the end of January of the preceding year.”
+
+	
+
+	Further Section 2.3 of Joint Circular No. 2012-01 of the PCW, NEDA and DBM provides that:
+
+	
+
+	“Pursuant to the MCW and the General Appropriations Act (GAA), all government departments, including their attached agencies, offices, bureaus, state universities and colleges (SUCs), government-owned and controlled corporations (GOCCs), local government units (LGUs) and other government instrumentalities shall formulate their annual GPBs within the context of their mandates to mainstream gender perspectives in their policies, programs and projects. GAD Planning shall be integrated in the regular activities of the agencies, the cost of implementation of which shall be at least five percent (5%) of their total budgets. The computation and utilization shall be implemented in accordance with the specific guidelines provided therein.”
+
+	
+
+	The College has not submitted to the Audit Team their duly endorsed PCW GPB and the Accomplishment Report for CY 2020 on the prescribed deadlines. 
+
+	
+
+	The documents were nevertheless submitted on February 22, 2021. However, this delayed submission of the Accomplishment Report for CY 2020 did not provide the Audit team with enough time to review the disbursements made. Likewise, the CY 2016 recommendation about the development of a database of GAD information to include gender statistics and sex-disaggregated data as inputs or bases for planning, budgeting, programming, and policy formulation, as a requirement for the agency under Section 4.4 PCW-NEDA-DBM Joint Circular 2012-01pertaining to the agency’s GAD activities remained unimplemented.
+
+	
+
+	Such particular policy is about the institutionalization of GAD Database/Sex-disaggregated Data, and this requirement is considered as one of the essential elements in GAD Planning and Budgeting.
+
+	
+
+	The above deficiencies precluded the audit team from conducting a timely evaluation of the agency’s GAD initiatives, thus resulting in the difficulty of determining whether the PPAs were implemented as planned and the objectives of gender responsiveness were attained. 
+
+	
+
+	The Management acknowledged the foregoing lapses and explained that they have identified the causes of the improper execution of GAD activities and the deficiencies on reporting practices. Added to these is the restrictions on mobilization posed by the pandemic. However, the Management assured the team that a database of GAD information that will include gender statistics and sex-aggregated data will be developed within the year. Also, that officials the GSC will revisit the policies and the manuals of operations to improve the formulation of policies on planning, budgeting and programming.
+
+	
+
+We recommended and the Management agreed to:
+
+
+
+a)	Require the GAD Director to timely submit the CY 2020 PCW approved GAD Plan and Budget and the Accomplishment Report on GAD Implementation; and
+
+
+
+b)	Develop a database of GAD information to include gender statistics and sex-aggregated data as inputs or bases for planning, budgeting, programming, and policy formulation.
+
+
+
+
+
+14)	The Student Financial Assistance Programs (StuFAP)/ Student Assistance Fund for Education (SAFE) Loan Program of the College were not effectively and efficiently managed, contrary to CHED Memorandum Order No. 25 s. 2008, resulting in long overdue receivables of ₱1.082 million which consequently deprived other qualified students to avail of the benefits of the loan program.
+
+
+
+The Commission on Higher Education, in pursuit of its mandate, created STUFAP/SAFE for Loan Programs to provide assistance to financially needy students in order to avoid dropping off of students due to financial problems and to improve the number of graduates in colleges and universities.  Subsequently, the amount of ₱120,000.00 and ₱1 million for STUFAP and SAFE, respectively, were downloaded to Guimaras State College to attain the objectives of the Program. 
+
+
+
+Item IV.2 of CHED Memorandum Order No. 4 series of 2004 provides the duties, functions and responsibilities involved in the implementation and administration of the STUFAP. The participating Higher Education Institution shall, among others:
+
+
+
+a)			Perform the banking functions of lending students’ loans to qualified and deserving applicants and collecting payments and interest from loaners in accordance with guidelines;
+
+  
+
+       xxx
+
+
+
+a)	Recommend measures for the improvement of this program.
+
+
+
+Likewise, Item IX. B of CHED Memorandum Order No 25 series of 2008 provides the duties, functions and responsibilities involved in the implementation and administration of SAFE. The participating Higher Education Institution shall, among its functions:
+
+
+
+	ii.  Treat the Fund Transferred from the CHED Regional Office as Revolving Fund to expand the number of beneficiaries of the SAFE Loan Program;
+
+	
+
+                  xxx
+
+
+
+a)	Draw correspondingly duly notarized promissory note for repayment within 2 to 5 years after graduation, duly signed by the student borrower when grant of loan is awarded;
+
+
+
+xxx
+
+
+
+viii.  Maintain separate accounting records for the program that will be subjected to period monitoring by CHED and/or COA Audit Teams;
+
+
+
+         xxx 
+
+
+
+a)	Assist CHEDRO to monitor or track the whereabouts of the scholars after graduation in order that the latter properly comply with their obligation to refund the loan at the intended period of repayment.
+
+
+
+The criteria on the approval of student-loan provided set in the CHED guidelines were as follows: 
+
+
+
+Criteria
+
+StuFAP
+
+SAFE
+
+Student qualification
+
+3rd, 4th and graduating students
+
+3rd, 4th, 5th or graduating students
+
+Loanable amount
+
+Maximum of ₱8,000.00 per semester
+
+Maximum of ₱8,000
+
+Loan repayment
+
+--	Loans below ₱4,000 are payable within five years 
+
+--	Loans above ₱4,001 are payable within ten years
+
+--	Payment to start 2 years after graduation from college
+
+Within 2 to 5 years after graduation
+
+Documentary Requirement
+
+--	Loan agreement between the student-borrower and the School
+
+--	Application Form
+
+--	Loan agreement between the student-borrower and the School
+
+--	Application Form
+
+Co-borrower
+
+Parents/relatives or any person who is a GSIS/SSS member
+
+Not provided
+
+	
+
+Perusal of the financial records and available documents revealed the following deficiencies: (Annex L):
+
+
+
+	a)				The complete list of student-borrowers was not provided and was still not available. The Schedule of Loans Receivable as of December 31, 2020 showed only releases for SAFE Loan Program for CY 2008-2009 aggregating to ₱1.096 million while STUFAP released in CY 2004 is lacking. Moreover, no reference documents were available to provide basis for the Schedule of Receivable amounting to ₱1.096 million and collections amounting to ₱258,000.00, thus, management assertions on completeness, existence and accuracy of loans receivable account could not be substantiated.
+
+			
+
+	b)				The receivable account showing a book balance of ₱1.082 million as of December 31, 2020 had been outstanding in the books since December 31, 2008, which was already due and collectible since CY 2014, while the schedule submitted by the accountant as of December 31, 2017 showed only ₱0.828 million, hence, an unreconciled difference of ₱253,804.86.
+
+		
+
+		No collections were made since then, thus, defeating the purpose of expanding the beneficiaries who can avail of the benefits of the program and the variance between the above-mentioned records has not been settled.
+
+		
+
+	c)				Out of 137 SAFE Loan releases amounting to ₱1.12 million, only 106 releases or ₱0.848 million were covered by contracts and applications forms. Thirty-one (31) releases amounting to ₱248,000.00 were not supported with contracts, thus, validity of the loan balances could not be ascertained.
+
+	
+
+	d)				Verification revealed no demand for settlement of Loans Receivable from Student were made by management, thus, the low turnout of collections. 
+
+	
+
+It could be gleaned from the deficiencies noted, that the STUFAP and SAFE Loan Program of the College was not effectively and efficiently managed, thus, the existence of long overdue receivables of ₱1.082 million. This also deprived other financially needy and qualified students to avail of the program. 
+
+
+
+	According to the Management, the said long overdue problem on these receivables was common among other State Universities and Colleges (SUCs) around the country, but was among the priorities of Philippine Association of State Universities and Colleges (PASUC) National and the Commission on Higher Education (CHED) since 2019 in their meetings. The Management is now waiting for the results of the said meetings to be downloaded to the SUCs for them render to appropriate action for that matter.
+
+	
+
+	The Management, however, have been doing efforts on their own to contact trace the grantees of the above-mentioned Loan programs.
+
+
+
+We recommended and the Management agreed to:
+
+
+
+a)	Provide a workplan with timelines and persons responsible for the execution of activities to address the deficiencies;
+
+
+
+b)	Strengthen collections efforts on due and collectible STUFAP/SAFE loans totaling to ₱1.082 million to sustain the operations and objectives of the program; and
+
+
+
+c)	Direct the Accountant and the Director of the Office of Student Affairs to provide a complete, accurate and updated schedule of Loans Receivable – STUFAP/SAFE to support the balance appearing in the books so that all Student-borrowers can be identified, and collection can be enforced.
+
+
+
+
+
+15)	The ownership of the land, on which the Agency is situated was not duly evidenced by a Certificate of Land Title (CTL) upon acquisition, as required by Section 449 of the Government Accounting and Auditing Manual (GAAM), Volume I and Section 5 of the IRR of RA 10752, thus adversely affected its rights as owner of the said property.
+
+
+
+Section 449 of the GAAM, Volume I, provides that:
+
+
+
+“Land purchased by agencies of the government shall be evidenced with Torrens Title drawn in the name of the Republic of the Philippines, or such other documents satisfactory to the President of the Philippines that the title is vested in the government.”
+
+
+
+Correspondingly, Section 5 of IRR of the RA 10752 provides that:
+
+
+
+“Xxxx If the property owner agrees to donate the property to be acquired by the IA as ROW, a deed of donation shall be immediately prepared. xxxX
+
+
+
+Xxxx The donation must be accepted by the IA, which shall be indicated in the deed. The IA shall pay the documentary stamp tax, transfer tax and registration fees, while the donor shall pay any unpaid real property tax.”
+
+
+
+It was noted that the parcel of land of the GSC – Mosqueda Campus, occupied by the agency, with an area of approximately 60,000 square meters, was not evidenced by a Certificate of Land Title, showing ownership, which may affect the right of the College over this property. 
+
+
+
+In the latest Agency Action Plan and Status of Implementation (AAPSI) of the agency and as verified through our Acton Plan and Monitoring Tool (APMT), it showed that the recommendation for the above observation was still on the status of “partially implemented” since 2013. 
+
+
+
+Also, interview with the Property Officer revealed that there was already an executed Deed of Donation between the donor and the Guimaras State College, but the process of titling has been hindered because of the discrepancy in lot number between the deed of the donation executed by the donor and the approved subdivision plan of the Bureau of Lands.
+
+
+
+Since these are not lawfully owned by the University due to the absence of certificates of title to prove absolute ownership, construction of buildings, structures or any improvements thereon could be in jeopardy.
+
+
+
+The management, however, has already taken steps to reach out to the donor, for both parties to execute a new deed of donation, this time in the name of Guimaras State College, as previously it was in the former’s old name.
+
+
+
+We recommended and the Management agreed to submit periodic updates regarding the status of the titling process along with a work plan with corresponding timelines on the procedures further needed with regard to the long overdue titling of the land.
+
+
+
+
+
+16)	Disbursements vouchers for transactions totaling ₱3.064 million were lacking and financial documents and reports were not submitted by the Accountant within the reglementary period contrary to Section 122 of P.D. No. 1445 and Sections 59 & 60, Chapter 19 of GAM, Volume I, for NGAs, thus, precluding a timely review by the Audit Team as to the regularity, validity and occurrence of transactions.
+
+
+
+In accordance with the Section 122 of P.D. No. 1445, “Whenever deemed necessary in the exigencies of the service, the Commission may under regulations issued by it require the agency heads, chief accountants, budget officers, cashiers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla of personnel, and such other reports as may be necessary for the exercise of its functions.”
+
+
+
+Sections 59 and 60, Chapter 19 of Government Accounting Manual for National Government Agencies, Volume I, set the timelines in the submission of the monthly and quarterly financial reports including the supporting documents and schedules.
+
+
+
+Likewise, Section 7.2.1a of COA Circular No. 2009-006 dated September 15, 2009 provides that the Chief Accountant, Bookkeeper or other authorized official performing and/or bookkeeping functions of the audited agency shall ensure that the reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing month.
+
+
+
+We verified the submission of monthly and quarterly financial reports and documents for CY 2020 of Guimaras State College as of February 24, 2021 and noted the following deficiencies:
+
+
+
+a)	Reports were not submitted within the reglementary period with delays ranging from 3 to 280 calendar days as indicated below, which was noted as a recurring deficiency: (details in Annexes M.1 to M.4) 
+
+
+
+Table 16 – Analysis on the Submission of Required Reports
+
+
+
+Report/Documents
+
+Deadline of submission
+
+No. of days delayed 
+
+RCI/ DVs (Annex M.1)
+
+10 days after end of month
+
+1 - 61
+
+RCD/ORs (Annex M.2)
+
+10 days after end of month
+
+1 - 32
+
+Monthly Trial Balances (TB), SSs & SDs (Annex M.3)
+
+10 days after end of month
+
+34 - 289
+
+Quarterly TBs, FS, SDs (Annex M.3)
+
+10 days after the end of the quarter
+
+34 - 289
+
+Bank Reconciliation Statements (Annex M.4)
+
+10 days after end of month
+
+3 - 239
+
+
+
+Moreover, Bank Reconciliation Statements for the months of October 2020 to December 2020 for F168 and F164 remained unsubmitted. Although, the management had been on steps in acquiring accounting server to improve timeliness and efficiency of its report preparation and submission.
+
+
+
+b)	Transactions totaling ₱3.064 million were not supported with DVs; hence, regularity, validity and occurrence of the recorded transactions could not be ascertained, as shown in the following table below (Annex M.5):
+
+
+
+	Table 17 - Lacking DVs as of February 24, 2021
+
+Period Covered
+
+Fund 101
+
+Fund 164
+
+Fund 168
+
+Total
+
+CY 2015
+
+₱            4,433.33 
+
+₱        159,835.69 
+
+₱              0.00   
+
+₱         164,269.02 
+
+CY 2016
+
+ 22,700.00 
+
+ 251,647.87 
+
+0.00   
+
+ 274,347.87 
+
+CY 2017
+
+ 1,451,012.50 
+
+ 0.00   
+
+0.00   
+
+ 1,451,012.50 
+
+CY 2018
+
+ 7,490.00 
+
+ 69,673.20 
+
+ 2,925.00 
+
+ 80,088.20 
+
+CY 2019
+
+ 369,792.08 
+
+ 336,686.02 
+
+ 4,242.93 
+
+ 710,721.03 
+
+Total
+
+ 1,855,427.91 
+
+ 817,842.78 
+
+ 7,167.93 
+
+ 2,680,438.62 
+
+CY 2020
+
+ 232,464.19 
+
+ 149,616.36 
+
+ 1,080.00 
+
+ 383,160.55 
+
+Total
+
+₱     2,087,892.10 
+
+₱        967,459.14 
+
+₱       8,247.93 
+
+₱      3,063,599.17 
+
+
+
+It can be inferred from the above table that out of the amount of ₱3.064 million whose DVs were lacking, ₱2.680 million or 87.49 percent pertained to prior years amounts. However, a significant amount of lacking DVs as reported on the previous audit report were submitted during the current period as shown in Annex M.5.  
+
+
+
+The failure of the Accountant to prepare and submit financial documents and reports within the reglementary period prevented the timely auditorial review of transactions and accounts, and further defeats the purpose of providing relevant financial information to the users thereof. Likewise, verification on the regularity, validity and occurrence of recorded transactions totaling ₱3.064 million could not be made due to non-submission of the pertinent Disbursement Vouchers and their supporting documents.
+
+
+
+The Management made	 assurance to improve timeliness on report preparation and submission of financial documents and reports to the Office of the Auditor. On the issue on unsubmitted Disbursement Vouchers, one reason for their non-submission was due to lacking documents in the disbursement vouchers, although, extensive efforts are already being done to dig up files in the Accounting Office. 
+
+
+
+We recommended and the Management agreed to require the Accountant to:
+
+
+
+a)	Submit course/s of action for the above noted recurring deficiencies;
+
+
+
+b)	Strictly comply with the rules and regulations on the preparation and submission of required financial documents and reports within the reglementary period as prescribed in Sections 59 and 60, Chapter 19 of Government Accounting Manual for National Government Agencies, Volume I, to facilitate timely audit of the transactions;
+
+
+
+c)	Submit the Disbursements Vouchers and supporting documents for transactions involving ₱3.064 million in compliance with the Section 122 of PD No. 1445 and Section 7.2.1a of COA Circular 2009-006, dated September 15, 2009, otherwise the said transactions will be disallowed in audit; and
+
+
+
+d)	Withhold the salaries of the officials concerned, in case of unjustified failure on the part of the officials concerned to submit documents and reports, pursuant to the rules prescribed under Section 7.01 of COA Circular No. 95-006 dated May 18, 1995 and Section 122 of PD No. 1445. 
+
+
+
+
+
+
+
+Status of Suspensions, Disallowances and Charges as of December 31, 2020
+
+
+
+The following table shows the status of disallowances, including the issuances and settlements made therein during CY 2020:
+
+
+
+Particulars
+
+Beginning Balance as of December 31, 2019
+
+Issuance for the period January 1 to December 31, 2020
+
+Settlement for the period January 1 to December 31, 2020
+
+Ending Balance December 31, 2020
+
+Notice of Suspension
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Notice of Disallowance
+
+8,445,317.80
+
+1,147,941.83
+
+212,286.80
+
+9,380,972.83
+
+Notice of Charge
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Total
+
+8,445,317.80
+
+1,147,941.83
+
+212,286.80
+
+9,380,972.83
+
+
+
+
+
+
+
+
+
+46
+
+46
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

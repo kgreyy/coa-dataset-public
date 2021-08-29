@@ -1,0 +1,5170 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+39 
+
+OBSERVATIONS AND RECOMMENDATIONS 
+ 
+
+A. Financial Audit 
+ 
+
+Cash-Treasury/Agency Deposit, Special Account balance not confirmed by BTr 
+
+ 
+
+1. The absence of regular and periodic monitoring and reconciliation with BTr 
+of the agency’s Cash-Treasury/Agency Deposit, Special Account of 
+
+₱766,912,239.65, coupled with BTr’s lack of confirmatory reply, casted doubt 
+
+on the completeness and accuracy of the recorded transactions; hence, could 
+
+not be relied upon. 
+
+ 
+
+As described in the Revised Chart of Accounts (RCA) (Updated 2019), 
+
+Volume III of the Government Accounting Manual (GAM), the Cash-
+
+Treasury/Agency Deposit, Special Account is debited in the agency books to 
+
+recognize the amount of collections remitted to the BTr under the Special 
+
+Account in the General Fund (SAGF), and credited to recognize receipt of Notice 
+
+of Cash Allocation (NCA) and upon closing of the SAGF. In the BTr books, the 
+
+account is credited for remittance made by NGAs for SAGF and debited for 
+
+replenishments of agencies’ negotiated checks charged to respective MDS- 
+
+Special account. As such, the agency’s records for said account should always 
+
+reconcile with that of the BTr. 
+
+ 
+
+As at December 31, 2020, the agency’s Cash-Treasury/Agency Deposit, 
+
+Special Account had a balance of ₱766,912,239.65, consisting of the following: 
+
+ 
+
+Particulars Amount (₱) 
+Unreleased NCA  
+
+National Endowment Fund for Culture and the Arts (NEFCA) shares from the travel 
+
+tax collections of Tourism Infrastructure and Enterprise Zone Authority (TIEZA) 
+
+CY 1992- 2020 420,498,459.86 
+
+Intramuros Ecclesiastical Museum (CY 2009) 20,000,000.00 
+
+Various NCCA Projects 80,000,000.00 
+
+NCCA Annex Building 65,000,000.00 
+Reversion of unused/lapsed NCA  
+
+CY 2020 129,493,473.37 
+
+CY 2019 31,428,010.66 
+
+CY 2018 651,266.46 
+Refund of unutilized project funds and cash advances  
+
+CY 2020 3,199,875.88 
+
+CY 2019 8,926,373.71 
+
+CY 2018 2,070,917.68 
+
+CY 2017 1,469,025.46 
+
+CYs 2014 to 2016 4,174,836.57 
+
+Total   766,912,239.65 
+
+
+
+40 
+
+On February 16, 2021, the Audit Team sent a confirmation letter to the 
+
+BTr on the balance of the account as at December 31, 2020. However, the BTr 
+
+informed the Audit Team that it only maintains remittances; hence, it cannot yet 
+
+confirm the balance.  Further, BTr is still in the process of reconciling the Special 
+
+and Trust Accounts of various NGAs; hence, it requested all NGAs, including the 
+
+NCCA, to submit the Statement of Account (SOA) together with the List of 
+
+Remittances and Utilization Report for the year 2020 and prior years. 
+
+ 
+
+This has been a recommendation contained in CYs 2019 and 2018 Annual 
+
+Audit Reports (AARs), where the Audit Team recommended that NCCA submit 
+
+the documents required by BTr in order to facilitate the reconciliation process.  
+
+Thus, the Accounting and Budget Divisions were able to prepare and submit to 
+
+BTr the required documents for the years 2015 to 2019. 
+
+ 
+
+Verification of the account’s recorded transactions showed no deficiency, 
+
+however, the BTr did not confirm the balance; hence, it could not be validated 
+
+whether all transactions from the BTr were captured in the NCCA books and 
+
+accurately recorded. 
+
+ 
+
+On October 25, 2020, NCCA sent a letter to BTr reiterating its request for 
+
+reconciliation of records, however, no reconciliation has been done yet, allegedly 
+
+due to BTr having problems with its system. 
+
+ 
+
+The absence/lack of regular and periodic monitoring and reconciliation of 
+
+the Cash-Treasury/Agency Deposit, Special Account balance casted doubt on the 
+
+completeness and accuracy of the said account as of report date; hence, could not 
+
+be relied upon. 
+
+ 
+
+We reiterated our recommendation and Management agreed to 
+
+require the Chief Accountant to coordinate with the BTr for the expedition 
+
+of the reconciliation of the Cash- Treasury/Agency, Special Account to 
+
+establish its correct balance. 
+
+ 
+
+Management commented, during the exit conference, that the Office of the 
+
+Chief Accountant of NEFCA is continuously preparing the required documents 
+
+for years 2014 and prior, and they will coordinate with BTr for the reconciliation. 
+
+ 
+
+ 
+
+Erroneous measurement of funds held in trust by BTr in both books of NCCA and 
+
+BTr 
+
+ 
+
+2. Funds held in trust by the BTr are recorded in NCCA books of accounts at 
+fair market value (FMV) of ₱1,969,663,013.08 instead of at amortized cost 
+
+of ₱1,883,456,125.56, thereby overstating its receivable Due from NGAs 
+
+(BTr) and erroneously recognizing a gain Unrealized Gain (Loss) both 
+
+
+
+41 
+
+by ₱86,206,887.52, in non-conformity with Sections 7 and 8, Chapter 7, 
+
+Volume I of the GAM. 
+
+ 
+
+Chapter 7, Volume I of the GAM provides principles for presenting 
+
+financial instruments as liabilities or assets, and for recognizing and measuring 
+
+financial assets and financial liabilities.  Section 2(c) defines financial instruments 
+
+as any contract that gives rise to both a financial asset of one entity and a financial 
+
+liability or equity instrument of another entity. 
+
+ 
+
+Section 8 provides for the measurement of financial assets, to wit: 
+
+ 
+
+After initial recognition, an entity shall measure financial 
+
+assets, including derivatives that are assets, at their fair values, 
+
+without any deduction for transaction costs it may incur on sale 
+
+or other disposal, except for: 
+
+ 
+
+a. Loans and receivables and Held-to-maturity investments, 
+which shall be measured at amortized cost using the 
+
+effective interest method; and x x x (underscoring supplied) 
+
+ 
+
+While Section 7 defines Held-to-maturity (HTM) investments as non-
+
+derivative financial assets with fixed or determinable payments and fixed maturity 
+
+that an entity has the positive intention and ability to hold to maturity, whereas 
+
+Available-for-sale (AFS) financial assets are those non-derivative financial assets 
+
+that are designated as available for sale or are not classified as loans and 
+
+receivables, held-to-maturity investments or financial assets at fair value through 
+
+surplus or deficit. (underscoring supplied) 
+
+ 
+
+Pursuant to NCCA Board Resolution 2016-337, the Board of 
+
+Commissioners authorized the transfer of the NEFCA (Seed Capital and Interest) 
+
+to the BTr, in compliance with EO No. 338 issued on May 17, 1996, directing the 
+
+transfer of cash balances to the National Treasury. 
+
+ 
+
+On March 22, 2016, NCCA entered into an agreement with the BTr 
+
+wherein the latter was granted the authority to act as Fund Manager and manage 
+
+the NEFCA funds pursuant to EO No. 55 series of 2011.   
+
+ 
+
+ On March 27, 2017, a Memorandum of Agreement (MOA) was executed 
+
+between NCCA and BTr wherein a “NCCA Special Fund” was established.  As 
+
+contained in the MOA, the fund shall be under the management of BTr-Asset 
+
+Management Service (AMS). It is also stated in the MOA that NCCA shall issue 
+
+investment parameters and disbursement schedule to the BTr on the Special Fund.  
+
+On the other hand, the BTr shall manage the Special Fund with the objective of 
+
+maximizing returns and minimizing risks and shall apply prudence and due 
+
+professional care in all investment activities. 
+
+
+
+42 
+
+ As at December 31, 2020, the balance of account Due from NGS (BTr) 
+
+amounted to ₱2,891,653,336.17, with details as follows: 
+
+ 
+
+Particulars Amount (₱) 
+
+Cash Retained with LBP under BTr-NCCA Trust 
+
+Account No. 0011-3451-74 
+
+49,538.20 
+
+Cash retained with BSP- Treasury Single Account- 
+
+NEFCA 
+
+863,013,168.74 
+
+Cash Retained with BSP-Treasury Single Account- 
+
+NECA 
+
+58,927,616.15 
+
+Subtotal- Cash Retained in BTr 921,990,323.09 
+
+Investment in Treasury Bills 598,243,691.61 
+
+Investment in Treasury Bonds- NEFCA 816,765,554.79 
+
+Investment in Treasury Bonds- NECA* 554,653,766.68 
+
+Subtotal- Investments 1,969,663,013.08 
+
+Total 2,891,653,336.17 
+  *National Endowment for Culture and the Arts (R.A. No. 10066) 
+
+ 
+
+ Verification disclosed that the Cash Retained in BTr totaling 
+
+₱921,990.323.09 consisted of interest earned and matured investments that were 
+
+measured at cost, while the Investments in Treasury Bills and Bonds totaling 
+
+₱1,969,663,013.08 were measured at their fair market values. Said amounts were 
+
+based on the BTr’s Statement of Account as of December 31, 2020. 
+
+ 
+
+ Based on the above, the BTr classified the Investment as AFS instead as 
+
+HTM. However, inquiry revealed that it was the intention of NCCA to recognize 
+
+its investments as HTM. Also, NCCA, in its letter dated June 28, 2017, submitted 
+
+its Investment Distribution that was approved by the Board of Commissioners 
+
+under BR No. 2016-410 dated December 24, 2016, which shall serve how the 
+
+funds will be invested in various government instrumentalities. 
+
+ 
+
+ Review and analysis of the Investment Distribution submitted to BTr-
+
+AMS disclosed that NCCA provided the maturity dates for the marketable 
+
+securities investment, and the expected income that shall be derived, therefore, 
+
+there was no intention to gain income through selling the securities invested. 
+
+ 
+
+ A “zoom meeting” with representatives from BTr, officials of NCCA and 
+
+the Audit Team was conducted to further clarify and confirm the correct 
+
+classification of the special fund.  It was gathered from BTr that all investments 
+
+are treated/recorded in their books as Investment AFS to ensure flexibility in case 
+
+of withdrawal of the fund.  It was pointed out that what was previously agreed 
+
+upon is that the investment shall be classified as Investments HTM, however, BTr 
+
+still reported the investments in the SOA at FMV instead of at amortized cost. 
+
+
+
+43 
+
+ Since the investments were classified as AFS instead as HTM, the account 
+
+Due from NGAs (BTr), as at December 31, 2020, was overstated by 
+
+₱86,206,887.52, computed as follows: 
+
+ 
+
+Type of Investment Amortized Cost 
+
+ (HTM) 
+
+FMV 
+
+ (AFS) 
+
+Difference 
+
+(₱) 
+
+Investment in Treasury 
+
+Bills 
+
+594,281,228.47 598,243,691.61 3,962,463.14 
+
+Investment in Treasury 
+
+Bonds- NEFCA 
+
+789,174,897.09 816,765,554.79 27,590,657.70 
+
+Investment in Treasury 
+
+Bonds- NECA 
+
+500,000,000.00 554,653,766.68 54,653,766.68 
+
+Total 1,883,456,125.56 1,969,663,013.08 86,206,887.52 
+
+  
+
+ Further, considering that the investments of NCCA were measured at 
+
+FMV, the agency erroneously recognized cumulative unrealized gain of 
+
+₱86,206,887.52; thus, overstating the account Unrealized Gain (Loss). Classifying 
+
+investments as AFS will generate unrealized gain or loss reflecting the changes in 
+
+the FMV, unlike under HTM. 
+
+ 
+
+ It is of note that no investment certificates/portfolios were provided by 
+
+BTr to support the SOA being forwarded to the NCCA.  Provided in the MOA is 
+
+for BTr to provide the NCCA with a monthly report of portfolio investment 10 
+
+business days after end of each reference month.  
+
+ 
+
+  We recommended and Management agreed to: 
+
+ 
+
+a. issue a memorandum to BTr instructing the latter to revise the financial 
+qualification of NCCA’s investments from AFS to HTM; 
+
+ 
+
+b. instruct the Chief Accountant to prepare the necessary adjusting 
+journal entries to correct the account balances, and record future 
+
+investments initially at cost and subsequently at amortized cost, 
+
+pursuant to Sections 7 and 8, Chapter 7, Volume I of the GAM; and 
+ 
+
+c. direct the Chief Accountant to request from BTr copies of the 
+investment certificates/portfolios to support the monthly SOA. 
+
+ 
+
+Management, through the Office of the Chief Accountant of NEFCA, 
+
+informed the Audit Team during the exit conference that the proposed issuance of 
+
+memorandum shall be prepared by the Office of the Chairman. 
+
+  
+
+ 
+
+ 
+
+ 
+
+
+
+44 
+
+Unreliable Receivables 
+
+ 
+
+3. Unliquidated fund transfers to various government agencies totaling 
+₱12,929,702.42 that has been (a) dormant for more than ten years, and (b) 
+
+negative balances of ₱16,136,532.49 formed part of the Receivables with a 
+
+balance of ₱3,300,201,622.05 as at December 21, 2020, rendering the account 
+
+unreliable.  Moreover, the (c) variance of ₱33,767,609.04 between the 
+
+accounting records and confirmation replies aggravated the account’s 
+
+unreliability, in addition to the (d) delayed submission to the Office of the 
+
+Auditor of contracts/MOAs covering the fund transfers during the year, 
+
+precluding their timely review and evaluation. 
+
+ 
+
+The Receivables account with a balance of ₱3,300,201,622.05 as at 
+
+December 21, 2020, is broken down below: 
+
+ 
+
+Account Title GAA (GF) Trust NEFCA Amount (₱) 
+
+Inter-Agency Receivables 
+
+Due from National 
+
+Government Agencies 
+
+(NGAs) 
+
+22,287,539.82 - 2,975,152,733.05 2,997,440,272.87 
+
+Due from Local 
+
+Government Units 
+
+(LGUs) 
+
+26,540,095.12 - 41,580,885.12 68,120,980.24 
+
+Due from GOCC - - 10,959,966.79 10,959,966.79 
+
+Intra-Agency 
+
+Receivables 
+
+10,935.00 27,302.50 84,835.27 123,072.77 
+
+Other Receivables 
+
+Due from Non-
+
+Government 
+
+Organizations/People's 
+
+Organizations 
+
+(NGOs/POs) 
+
+86,472,546.32 - 124,537,097.09 211,009,643.41 
+
+Other Receivables 67,021.94 - 12,299,377.36 12,366,399.30 
+
+Receivables 
+
+Disallowances/Charges 
+
+- - 45,000.00 45,000.00 
+
+Due from Officers and 
+
+Employees 
+
+53,106.06 - 83,180.61 136,286.67 
+
+Total 135,431,244.26 27,302.50 3,164,743,075.29 3,300,201,622.05 
+
+ 
+
+Paragraph 27 of IPSAS 1 states that: 
+
+ 
+
+Financial statements shall present fairly the financial position, 
+
+financial performance, and cash flows of an entity.  Fair 
+
+presentation requires the faithful representation of the effects of 
+
+transactions, other events, and conditions in accordance with 
+
+
+
+45 
+
+the definitions and recognition criteria for assets, liabilities, 
+
+revenue, and expenses set out in IPSASs. 
+
+  
+ 
+
+a) Existence of dormant accounts 
+ 
+
+Analysis of the receivables totaling ₱3,300,201,622.05 disclosed the 
+
+existence of unliquidated fund transfers that has been dormant for more than ten 
+
+years aggregating ₱12,929,702.42 or 0.39 percent of the total receivables. 
+
+   
+
+The details of the dormant receivables are as follows: 
+
+ 
+Implementing 
+
+Agency/Entity 
+
+No. of 
+
+Grantee/ 
+
+Debtors 
+
+Outstanding 
+
+Balance 
+
+Aging Total 
+
+Dormant 
+
+Receivables 
+Current Past Due 
+
+0 - 1 year 2 - 4 years 5 - >20 years 
+
+GAA 
+
+      Due from NGAs 7 22,287,539.82 533,739.82 21,725,000.00 28,800.00 28,800.00 
+
+Due from LGUs 46 26,540,095.12 17,139,395.12 9,175,000.00 225,700.00 - 
+
+Due from NGOs/POs 38 86,472,546.32 42,263,607.00 43,800,000.00 408,939.32 408,939.32 
+
+Due from Officers and 
+Employees 
+
+1 53,106.06 - - 53,106.06 53,106.06 
+
+Other Receivables 3 67,021.94 19,833.32 - 47,188.62 47,188.62 
+
+Total 95 135,420,309.26 59,956,575.26 74,700,000.00 763,734.00 538,034.00 
+
+Intra-agency 
+
+Receivables 
+1 123,072.77 123,072.77 - - - 
+
+NEFCA 
+
+      Due from NGAs 124 2,975,152,733.05 2,918,595,155.18 24,430,820.91 32,126,756.96 3,329,297.18 
+
+Due from GOCC 1 10,959,966.79 8,406,900.00 2,167,397.10 385,669.69 135,296.77 
+
+Due from LGUs 246 41,580,885.12 12,265,442.08 21,261,399.02 8,054,044.02 1,418,375.04 
+
+Due from NGOs/POs 300 124,537,097.09 88,485,015.65 17,118,933.41 18,933,148.03 3,706,216.98 
+
+Due from Officers and 
+Employees 
+
+10 83,180.61 72,224.00 127.38 10,829.23 9,812.57 
+
+Receivables 
+
+Disallowances/Charges 
+
+3 45,000.00 - - 45,000.00 - 
+
+Other Receivables 99 12,299,377.36 2,540,881.71 2,830,716.52 6,927,779.13 3,792,669.88 
+
+Total 781 3,164,658,240.02 3,030,365,618.62 67,809,394.34 66,483,227.06 12,391,668.42 
+
+Grand Total 879 3,300,201,622.05 3,090,445,266.65 142,509,394.34 67,246,961.06 12,929,702.42 
+
+% of occurrence 
+
+ 
+100.00% 93.64% 4.32% 2.04% 0.39% 
+
+ 
+
+COA Circular No. 2016-005 dated December 19, 2016 defines Dormant 
+
+Receivable Accounts as accounts which balances remained inactive or non-
+
+moving in the books of accounts for 10 years or more and where 
+
+settlement/collectability could no longer be ascertained. 
+
+ 
+
+Section 8 of the same Circular provides for the procedures to request for 
+
+the write-off of dormant accounts, which must be filed by the head of the 
+
+government entity to the COA Audit Team Leader and/or Supervising Auditor.  
+
+
+
+46 
+
+Verification disclosed that the latest demand letters were sent by the 
+
+Accounting Division in November 2019 to two implementing agencies, however, 
+
+no replies were received. During the year, there were no more subsequent action 
+
+to demand settlement of the unliquidated fund transfers by the Accounting 
+
+Division due to the COVID-19 crisis, where operational capacity in the Agency 
+
+was limited.  
+
+ 
+
+The failure to compel the implementing agencies (IAs) to liquidate the 
+
+funds they received after completion of the project precluded the Audit Team in 
+
+evaluating the fund utilization, as well as verifying the status of the project 
+
+implementation. 
+
+ 
+
+It is also noted that if no further action is to be taken by the Management 
+
+to compel implementing agencies to liquidate the fund transfers, there is a great 
+
+possibility that the next 1.65 percent or equivalent to ₱54,317,258.64 
+
+(₱67,246,961.06 - ₱12,929,702.42) will also become dormant, as seen in the 
+
+Table. 
+
+   
+
+Section 8 of the COA Circular No. 2016-005 provides for the procedures 
+
+to request for the write-off of dormant accounts, which must be filed by the head 
+
+of the government entity to the COA Audit Team Leader and/or Supervising 
+
+Auditor.  
+
+ 
+
+ 
+
+b) Existence of negative balances 
+ 
+
+Verification further revealed negative balances totaling ₱16,136,532.49, 
+
+and a “For Reconciliation” status amounting to ₱149,225.95, as follows: 
+
+  
+
+Account Number of IAs Amount (₱) 
+
+Negative/Abnormal Balance     
+
+Due from NGAs 9  1,202,285.06 
+
+Due from LGUs 10      288,498.22  
+
+Due from NGOs/POs 44 14,645,372.97  
+
+Other Receivables 4 376.24 
+
+Total   16,136,532.49 
+
+For Reconciliation items  149,225.95 
+
+ 
+
+Interview with the Chief Accountant of NEFCA and his staff disclosed 
+
+that the incurrence of the negative balances was due to erroneous double 
+
+recording of liquidations. 
+
+ 
+
+Based on the analysis of the accounts provided by the Audit Team to the 
+
+Chief Accountant, the accounting personnel will prepare the adjusting journal 
+
+entry to correct the balances of the affected accounts. 
+
+
+
+47 
+
+c) Discrepancy of ₱33,767,609.04 between the accounting records and 
+confirmation replies  
+
+ 
+
+To determine the existence and accuracy of the account, confirmation 
+
+letters were sent out to selected IAs.  Out of the 116 confirmation letters sent, 28 
+
+replied. 
+
+ 
+
+The results of confirmation is summarized below: 
+
+ 
+Seq Implementing Agency Per SL Per IA Variance (₱) 
+
+Due from NGA's 
+
+1 National Historical Institute 
+
+(Commission of the Philippines) 
+
+16,561,025.09 4,925,190.48 11,635,834.61 
+
+2 Philippine Normal University 7,365,000.00 1,093,427.96 6,271,572.04 
+
+3 National Museum 9,711,673.74 5,147,871.83 4,563,801.91 
+
+4 Komisyon Sa Wikang Filipino 
+
+(Commission on Filipino Language) 
+
+1,013,237.97 4,503,590.10 3,490,352.13 
+
+5 National Library of the Philippines 3,230,888.84 526,000.80 2,704,888.04 
+
+6 National Mapping and Resource Info 
+
+Authority (NAMRIA) 
+
+1,403,961.00 - 1,403,961.00 
+
+7 Western Mindanao State University 
+
+Various Agency Transfer Fund 
+
+585,000.00 87,000.00 498,000.00 
+
+8 Municipality of Infanta, Quezon 500,000.00 170,573.00 329,427.00 
+
+9 Surigao State College of Technology 540,495.00 212,251.25 328,243.75 
+
+10 National Archives of the Philippines 
+
+(Records Mgmt & Archives Office) 
+
+3,062,486.05 2,829,313.03 233,173.02 
+
+11 Philippine Sports Commission- 
+
+National Sports Development Fund 
+
+112,500.00 - 112,500.00 
+
+12 Intellectual Property Philippines 111,273.00 - 111,273.00 
+
+13 DepEd Ormoc City Division 108,000.00 - 108,000.00 
+
+14 Leyte Normal University 300,000.00 202,454.32 97,545.68 
+
+15 Naval State University 90,000.00 - 90,000.00 
+
+16 Provincial Government of Sorsogon 300,000.00 225,365.00 74,635.00 
+
+17 Department of Education-Laoag City 58,500.00 - 58,500.00 
+
+18 Palawan State University 43,200.00 - 43,200.00 
+
+19 Department of Education 28,800.00 - 28,800.00 
+
+20 DepEd Division of Bulacan Trust Fund 25,000.00 - 25,000.00 
+
+21 Polytechnic University of the 
+
+Philippines 
+
+1,068,912.00 1,089,000.00 20,088.00 
+
+22 Pampanga State Agricultural 
+
+University 
+
+20,000.00 - 20,000.00 
+
+23 Dep-Ed Tagbilaran City School 
+
+Division MOOE (TF) 
+
+212,460.00 212,190.00 270.00 
+
+24 Dep-Ed Borongan City Division 45,000.00 44,845.00 155.00 
+
+Subtotal 46,497,412.69 21,269,072.77 32,249,220.18 
+
+Due from LGU 
+
+25 Provincial Government of Bohol 2,250,000.00 1,417,630.50 832,369.50 
+
+26 Municipal Government of Buguey, 
+
+Cagayan 
+
+500,000.00 232,000.00 268,000.00 
+
+27 City Government of Urdaneta, 500,000.00 259,931.50 240,068.50 
+
+
+
+48 
+
+Seq Implementing Agency Per SL Per IA Variance (₱) 
+
+Pangasinan 
+
+28 City Government of Passi 500,000.00 322,049.14 177,950.86 
+
+Subtotal 3,750,000.00 2,231,611.14 1,518,388.86 
+
+Total 50,247,412.69 23,500,683.91 33,767,609.04 
+
+ 
+
+On the other hand, the Audit Team was unable to send confirmation to 139 
+
+IAs due to the absence of records and documents and/or no available 
+
+addresses/location on file. 
+
+ 
+
+Inquiry from the Chief Accountant revealed that one of the reasons for the 
+
+discrepancies might be due to the delayed recording of IAs’ liquidation in the 
+
+books of NCCA since these are still to be scrutinized. 
+
+  
+
+The fairness of the presentation of the receivables account in the financial 
+
+statements is affected by the noted deficiencies. 
+
+ 
+
+d) Delayed submission of Contracts/Memorandum of Agreement (MOA) 
+ 
+
+Review of records showed that 14 copies of contracts/MOAs executed 
+
+during the year amounting to ₱15,925,000.00 were not submitted to the Auditor 
+
+within the reglementary period, with delays ranging from two to 111 days, as 
+
+shown below: 
+
+ 
+Seq Name of Projects Contract 
+
+Amount (₱) 
+
+Approval 
+
+Date 
+
+Due Date Date 
+
+Submitted 
+
+Days 
+
+Delayed 
+
+1 1st tranche for the 
+
+project: "Husay Sining: 
+
+Development of Modules 
+
+for Special Program in 
+
+the Arts MELCHYPEs 
+
+and National Teachers 
+
+HYPE Training on Arts 
+
+and Culture per 
+
+BR#2020-271 
+
+9,000,000.00 6/25/2020 7/2/2020 12/3/2020 111 
+
+2 1st tranche for the 
+
+project: "Dukit Festival 
+
+2020" per BR#2020-168 
+
+300,000.00 9/7/2020 9/14/2020 11/19/2020 49 
+
+3 1st Tranche of the project 
+
+"In-Depth Analysis of the 
+
+Tribal Judiciary System" 
+
+per BR#2020-001 
+
+425,000.00 8/19/2020 8/26/2020 10/14/2020 36 
+
+4 First tranche for project: 
+
+"Higyaw Mindanao" per 
+
+Br#2020-002 
+
+2,100,000.00 8/19/2020 8/26/2020 10/14/2020 36 
+
+5 1st tranche for the 
+
+project: "Webinar-
+
+Writeshop sa 
+
+Pamamahayag at 
+
+200,000.00 10/15/2020 10/22/2020 11/19/2020 21 
+
+
+
+49 
+
+Seq Name of Projects Contract 
+
+Amount (₱) 
+
+Approval 
+
+Date 
+
+Due Date Date 
+
+Submitted 
+
+Days 
+
+Delayed 
+
+Pagsulat ng Maikling 
+
+Kuwentong Pambata per 
+
+BR#2020-009 
+
+6 First tranche for project 
+
+"Pilot Inventory of 
+
+Intangible heritage and 
+
+profiling of Cultural 
+
+masters" per BR#2020-
+
+027 
+
+500,000.00 10/15/2020 10/22/2020 11/19/2020 21 
+
+7 1st tranche for the 
+
+project: "Tambayoyong 
+
+Dabawenyo 2020” per 
+
+BR#2020-006 
+
+500,000.00 10/15/2020 10/22/2020 11/19/2020 21 
+
+8 1st tranche for the project 
+
+"Production of Ubo 
+
+Indigenous Knowledge, 
+
+Systems and Practices" 
+
+per Br#2020-051 
+
+250,000.00 9/23/2020 9/30/2020 10/14/2020 11 
+
+9 1st tranche for the project 
+
+"Byay Hubahib: 
+
+Bantayan's Culture, Arts 
+
+and Creative Hub" per 
+
+BR#2020-071 
+
+500,000.00 9/23/2020 9/30/2020 10/14/2020 11 
+
+10 First tranche for project: 
+
+"Visayan Island Visual 
+
+Arts Exhibition Conf 16 
+
+(Viva Excon 16)" per 
+
+Br#2020-170 
+
+1,000,000.00 9/23/2020 9/30/2020 10/14/2020 11 
+
+11 1st tranche for the 
+
+project: "Pangalawang 
+
+Yugto: Konsiyerto ng 
+
+Pangalay, Tula, Salinawit 
+
+at Musika" per 
+
+BR#2020-108 
+
+250,000.00 2/24/2020 3/2/2020 3/12/2020 9 
+
+12 1st tranche for the 
+
+project: "Kayapa, Bakun 
+
+Cultural Festival" per 
+
+BR#2020-100 
+
+100,000.00 2/27/2020 3/5/2020 3/12/2020 6 
+
+13 Grant of financial 
+
+assistance for the project " 
+
+Luntiang Pook: 
+
+Participatory Dev HYPE 
+
+of Lanscape Design for 
+
+Integration of wellness, 
+
+Agriculture and Nutrition" 
+
+per BR# 2020-063 
+
+400,000.00 3/3/2020 3/10/2020 3/12/2020 3 
+
+14 1st tranche of the project: 
+
+"Artists on Creative 
+
+Spaces During COVID 
+
+19 per BR#2020-340 
+
+400,000.00 11/25/2020 12/2/2020 12/3/2020 2 
+
+ 
+Total 15,925,000.00 
+
+    
+
+
+
+50 
+
+The delayed submission of contracts/MOAs, contrary to COA Circular 
+
+No. 2009-001 precluded the Audit Team the timely review and evaluation of the 
+
+terms embodied in the contract. Likewise, the convey of the results of audit to 
+
+management are consequently delayed. 
+
+ 
+
+COA Circular No. 2009-001 dated February 12, 2009 states that: 
+
+ 
+
+Within five (5) working days from the execution of a contract 
+
+by the government or any of its subdivisions, agencies or 
+
+instrumentalities, including government-owned and controlled 
+
+corporations and their subsidiaries, a copy of said contract and 
+
+each of all the documents forming part thereof by reference or 
+
+incorporation shall be furnished to the Auditor of the agency 
+
+concerned. 
+
+ 
+
+We recommended and Management agreed to instruct the Chief 
+
+Accountant to: 
+
+ 
+
+a. send follow-up demand letters to concerned IAs and NGOs/POs with 
+unliquidated fund transfers; 
+
+ 
+
+b. exhaust all the possible measures to enforce the settlement of the 
+outstanding accounts; 
+
+ 
+
+c. if all measures are futile, request authority from the Commission on 
+Audit to write-off dormant unliquidated fund transfers in strict 
+
+compliance with the provisions of COA Circular No. 2016-005; 
+
+ 
+
+d. conduct an in-depth analysis on the negative and the “For 
+Reconciliation” amounts, and effect the necessary adjusting entries in 
+
+the books of accounts; 
+
+ 
+
+e. collaborate closely with the concerned IAs to resolve the discrepancy 
+between their records and NCCA records, and adjust the affected 
+
+accounts accordingly; and 
+
+ 
+
+f. ensure the submission of contracts/agreement and similar document to 
+the Auditor within the reglementary period to enable a timely review 
+
+and evaluation. 
+
+ 
+
+During the exit conference, Management informed the Audit Team that all 
+
+subsequent contracts/MOAs entered into will be centralized through the 
+
+Accreditation and Grants Processing Section (AGPS) for proper monitoring to 
+
+avoid delays in providing copies thereof to the Office of the Auditor within the 
+
+reglementary period. 
+
+
+
+51 
+
+Cash Advances (CAs) not liquidated within the prescribed period 
+
+ 
+
+4. Various deficiencies, contrary to the provisions of COA Circular No. 97-002, 
+were committed, such as (a) non-liquidation of CAs at the end of the year 
+
+and the grant of additional CAs to Special Disbursing Officers (SDOs) with 
+
+still unliquidated CAs, resulting in its accumulation to ₱1,639,929.21 at year-
+
+end; (b) delay in the liquidation of CAs from 20 to 325 days; and (c) delay of 
+
+refund of unutilized CAs aggregating ₱326,728.17; thus, making the CA 
+
+susceptible to loss or misuse or theft, and the possibility of misplaced or lost 
+
+supporting documents due to prolonged settlement. Moreover, (d) the 
+
+expenses and assets for CY 2020 were understated and overstated by 
+
+undetermined amount due to the non-submission of liquidation documents 
+
+by the end of the year, affecting the fair presentation of the financial 
+
+statements; and (e) the non-renewal/insufficiency of Fidelity Bond of SDOs. 
+
+which deprives the agency of indemnification in case of loss of funds. 
+
+ 
+
+The account Advances to SDOs is used to recognize the amount granted to 
+
+agency’s accountable officers and employees for special purpose/time-bound 
+
+undertakings to be liquidated within a specified period. 
+
+ 
+
+COA Circular No. 97-002 dated February 10, 1997 provides the following 
+
+pertinent rules on cash advances: 
+
+ 
+
+Section 4.1.2 No additional cash advances shall be allowed to 
+
+any official or employee unless the previous cash advance 
+
+given to him is first settled or a proper accounting thereof is 
+
+made. 
+
+ 
+
+Section 5.7 when a cash advance is no longer needed or has not 
+
+been used for a period of two (2) months, it must be returned to 
+
+or refunded immediately to the collecting officer. 
+
+ 
+
+Section 5.8 All CAs shall be fully liquidated at the end of each 
+
+year. Except for petty cash fund, the Accountable Officer shall 
+
+refund any unexpected balance to the Cashier/Collecting 
+
+Officer who will issue the necessary Official receipt. 
+
+ 
+
+ 
+
+a) non-liquidation at the end of the year; Grant of additional CAs to SDOs with 
+unliquidated CAs 
+
+ 
+
+As at December 31, 2020, the unliquidated CAs that were granted to 
+
+various SDOs out of the General Fund (GF) and NEFCA had accumulated to 
+
+
+
+52 
+
+₱394,152.50 and ₱1,245,776.71, respectively, or a total of ₱1,639,929.21, with 
+
+the following details: 
+
+ 
+
+Purpose Due Date Amount Total per SDO 
+
+GF    
+
+Training of Trainers on Safeguarding the 
+
+Viability of Intangible Cultural Heritage 
+
+Amidst Pandemic - Oct-Dec 2020 
+
+1/30/21     200,000.00  200,000.00 
+
+Buhay na Buhay Lecture on November 19-21, 
+
+28-29, 2019, December 4-7, 2019 
+
+2/20/21     148,092.50  148,092.50 
+
+ Planning/Preparatory meeting for Dance 
+Xchange-Aug. 23-26, 2019 
+
+ Preparatory meeting for 2020 Int’l Dance 
+Exchange on Jan 22-24, 2020 
+
+9/26/19 
+
+ 
+
+2/24/20 
+
+        1,060.00 
+
+ 
+
+45,000.00  
+
+ 
+
+ 
+
+46,060.00 
+
+Total GF   394,152.50 
+
+NEFCA   
+
+ Incidental expenses, meals and materials in 
+connection to the NCCA Capability building 
+
+activities for 100 pax secretariat on May 31 to 
+
+June 1, 2018 
+
+ Expenses during the NCCA’s Pangangaluluwa 
+/Trick or Treat on Oct 29, 2018 
+
+ Incentives/token for the 2018 Recognition of 
+employees and Year-end Salosalo on Dec 13 
+
+ NCCA's Government Employees Week 
+Celebration-Dec 5-6, 2018 
+
+7/1/19 
+
+ 
+
+ 
+
+ 
+
+11/29/18 
+
+ 
+
+1/13/19 
+
+ 
+
+1/6/19 
+
+      97,500.00 
+
+ 
+
+ 
+
+ 
+
+75,000.00  
+
+ 
+
+277,500.00 
+
+ 
+
+9,649.25  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+459,649.25 
+
+ Mobilization for the Strengthening of Local 
+Culture and Arts Councils 
+
+ NCCA Assistance Program for Cultural 
+Worker and Artist (CWA) 
+
+ NCCA Assistance Program for CWA 
+
+7/1/20 
+
+ 
+
+8/9/20 
+
+ 
+
+10/27/20 
+
+      20,667.72 
+
+ 
+
+235,634.00 
+
+ 
+
+5,121.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+261,422.72 
+
+ NCCA Cultural Heritage Exposure Tour, 
+Corregidor-May 30-31, 2019 
+
+ PH hosting of Korean War Memorial Peace 
+Concert on June 22-27, 2019 
+
+ Mobilization and Admin Fund of the IAS for 
+January - March 2020 
+
+ SR Quaran Tinig Patimpalak sa Pag-awit in 
+Celebration of Buwan ng Wika 2020 
+
+ IAS Section Planning 
+ 
+
+6/30/19 
+
+ 
+
+7/27/19 
+
+ 
+
+6/30/20 
+
+ 
+
+11/30/20 
+
+ 
+
+1/30/21 
+
+ 
+
+      21,200.00 
+
+ 
+
+76,068.76   
+
+ 
+
+8,408.75 
+
+ 
+
+120,000.00 
+
+ 
+
+15,000.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    240,677.51 
+
+ NAM Promotional Activities and other PAIS 
+Documentation 
+
+ Meals during the NCCA-QMS IQA activities 
+for September to December 2020 (Batch 2) 
+
+ Meals during the NCCA-QMS IQA activities 
+for September to December 2020 (Batch 2 
+
+4/30/20 
+
+ 
+
+1/11/21 
+
+ 
+
+12/19/20 
+
+    150,000.00 
+
+ 
+
+27,000.00   
+
+ 
+
+19,992.30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+196,992.30 
+
+
+
+53 
+
+Purpose Due Date Amount Total per SDO 
+
+ NAM 2019 Media Coverage for the Flagship 
+Projects and NAM Opening and other PAIS 
+
+promotional activities 
+
+ National Arts Month Promotional expenses 
+
+ Padayon /Kultura 101 with Catriona Gray 
+
+6/23/19 
+
+ 
+
+ 
+
+3/5/20 
+
+12/3/20 
+
+ 
+
+      61,198.59 
+
+ 
+
+ 
+
+6,586.52   
+
+20,000.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+87,785.11 
+
+ NEFCA Division Planning from February 12-
+13, 2020 
+
+ NCCA Assistance Program for Cultural; 
+Worker and Artist 
+
+6/30/20 
+
+ 
+
+7/12/20 
+
+      20,763.95  
+
+ 
+
+46,125.00 
+
+ 
+
+ 
+
+66,888.95 
+
+ SCCTA meetings 
+
+ SCCTA Cluster Election, meetings, subcom 
+meetings, regular meeting 
+
+7/30/19 
+
+12/6/19 
+
+25,955.19 
+
+648.87   
+
+       
+
+26,604.06  
+
+National Womens Month Celebration and 
+
+Workshop on the Harmonized Gender and 
+
+Devt Guidelines for March-April 2020 
+
+6/30/20         8,715.50  8,715.50 
+
+MGM Meeting in Iloilo on August 30 and 
+
+Interagency Meeting on September 11, 2019 
+
+10/11/19         5,000.00          5,000.00 
+
+Abnormal/Negative Balance/ Adjustments    (107,958.69) (107,958.69) 
+
+Total NEFCA 
+
+ 
+
+   1,245,776.71 
+
+Grand Total 
+
+ 
+
+   1,639,929.21 
+
+ 
+
+As seen from the preceding Table, various SDOs were continuously 
+
+granted additional CAs despite non-liquidation of their previous CAs, contrary to 
+
+Section 4.1.2 of COA Circular No. 97-002. Considering that said CAs were 
+
+granted with specific purpose and were time-bound, the SDOs are obligated to 
+
+submit liquidation documents as soon as the purpose of their CAs have been 
+
+served (Section 4.1.3 of COA Circular 97-001). 
+
+ 
+
+Moreover, to inculcate AOs of their responsibility, the Civil Service 
+
+Commission (CSC) issued CSC Memorandum Circular (MC) No. 23 s.2019 on 
+
+the revised guidelines on the settlement of cash advances and the penalty to be 
+
+imposed for failure to liquidate within the prescribed period. Section 5.4 thereof 
+
+states: 
+
+An Accountable Officer shall be held liable for Gross Neglect 
+
+of Duty and impose the penalty of dismissal from the service 
+
+for the first offence in any of the following instances, to wit: 
+
+ 
+
+a. the Accountable Officer who, after formal demand by the 
+State Auditor or Audit Team Leader, fails to make any 
+
+liquidation, whether partial or full, of the cash advances 
+
+within the prescribed period stated in the formal demand 
+
+letter. xxx 
+
+  
+
+ 
+
+
+
+54 
+
+b) delay in the liquidation of CAs from 20 to 325 days; 
+ 
+
+Verification also disclosed delay in the liquidation of CAs ranging from 
+
+20 to 325 days, with details shown below: 
+
+ 
+
+Liquidation 
+
+Report No. 
+
+Date Days 
+
+Delayed 
+Amount (₱) 
+
+Due Liquidation 
+
+LR#19-12-073 9/26/2019 12/26/2019 91 47,819.51 
+
+LR #20-12-025 2/7/2020 12/28/2020 325 21,907.50 
+
+LR# 20-04-007 1/18/2020 4/27/2020 100 96,231.30 
+
+LR #20-12-019 2/23/2020 12/21/2020 302 100,000.00 
+
+RD#20-07-184 12/26/2019 7/8/2020 195 20,573.00 
+
+RD#20-05-113 2/28/2020 5/5/2020 67 99,501.72 
+
+RD#20-07-201 2/28/2020 7/27/2020 150 23,799.00 
+
+RD#20-12-352 7/1/2020 12/29/2020 181 79,332.28 
+
+RD#20-04-100 3/25/2020 4/27/2020 33 162,733.05 
+
+RD#20-12-395 3/25/2020 12/29/2020 279 37,266.95 
+
+RD#20-08-213 6/30/2020 8/3/2020 34 44,243.08 
+
+RD#20-12-348 3/13/2020 12/29/2020 291 39,006.00 
+
+RD#20-10-245 6/30/2020 10/27/2020 119 29,577.75 
+
+RD#20-11-256 10/3/2020 11/17/2020 45 49,100.00 
+
+RD#20-12-307 10/30/2020 12/14/2020 45 64,297.20 
+
+RD#20-03-073 2/19/2020 3/10/2020 20 52,676.18 
+
+RD#20-12-324 6/30/2020 12/29/2020 182 18,212.00 
+
+RD#20-12-325 6/30/2020 12/29/2020 182 29,111.82 
+
+RD#20-12-389 11/11/2020 12/29/2020 48 80,000.00 
+
+RD#20-12-309 3/3/2020 12/15/2020 287 131,482.73 
+
+RD#20-12-326 3/2/2020 12/29/2020 302 186,582.61 
+
+RD#20-12-327 3/3/2020 12/29/2020 301 181,330.72 
+
+RD#20-12-349 11/30/2020 12/29/2020 29 200,000.00 
+
+RD#20-12-304 10/29/2020 12/9/2020 41 34,740.00 
+
+RD#20-05-114 3/15/2020 5/5/2020 51 7,317.00 
+
+RD#20-12-316 8/26/2020 12/29/2020 125 18,700.00 
+
+RD#20-12-306 10/24/2020 12/14/2020 51 8,371.00 
+
+RD#20-12-311 6/1/2020 12/17/2020 199 92,055.85 
+
+RD#20-12-303 10/23/2020 12/9/2020 47 13,000.00 
+
+RD#20-12-305 6/30/2020 12/9/2020 162 102,268.19 
+
+RD#20-08-222 6/30/2020 8/24/2020 55 58,852.50 
+
+RD#20-12-394 6/30/2020 12/29/2020 182 31,285.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+55 
+
+c) delay of refund of unutilized CAs 
+ 
+
+It was also verified from the accounting records that refund of excess CAs 
+
+aggregating ₱326,728.17 was delayed; hence, the government was unable to 
+
+utilized it for other purpose. The details are shown below: 
+
+ 
+
+ADA/ Check 
+
+No. 
+
+Date Amount 
+
+Refunded (₱) Grant Liquidation Refunded 
+
+20-02-0070 2/5/2020 None 2/3/2021 150,000.00 
+
+20-02-0100 
+  
+
+2/11/2020 
+  
+
+10/27/2020 
+  
+
+12/17/2020 21,000.00 
+
+12/28/2020 9,632.65 
+
+2377396 11/28/2019 7/8/2020 8/6/2020 9,427.00 
+
+2379649 2/17/2020 12/29/2020 1/28/2021 20,667.72 
+
+2379653 
+  
+
+2/18/2020 
+  
+
+5/5/2020 7/28/2020 13,635.00 
+
+7/27/2020 12/17/2020 63,064.28 
+
+20-10-2180 10/21/2020 None 2/11/2021 24,000.00 
+
+2379666 3/4/2020 12/29/2020 2/4/2021 8,715.00 
+
+1297995 1/23/2020 4/13/2020 1/28/2021 6,586.52 
+
+Total       326,728.17 
+
+ 
+
+It can be gleaned from the Tables above that there was no strict 
+
+monitoring on the liquidation of cash advances. 
+
+ 
+
+The longer the SDOs are unable to settle/liquidate their advances, the 
+
+more the cash in their possession is at risk of loss or misuse or theft, and the 
+
+possibility of misplaced or lost supporting documents. 
+
+ 
+
+Moreover, inquiry revealed that there were instances that disbursement of 
+
+cash advance was done by other than the SDO, exposing the fund to risk of 
+
+possible loss, and contrary to the provisions of COA Circular 97-002, to wit: 
+
+ 
+
+Section 4.1.6 Transfer of cash advance from one Accountable 
+
+Officer (AO) to another shall not be allowed 
+ 
+
+ 
+
+d) expenses and assets for CY 2020 was understated and overstated by 
+undetermined amount 
+
+ 
+
+Further review of the CAs showed that based on the purpose and date 
+
+indicated in the CAs, the following activities have already been completed as of 
+
+CY 2020, however, due to the non-submission of liquidation documents as at the 
+
+end of the year, expenditures were not recorded, thereby, resulting in the 
+
+
+
+56 
+
+understatement of expenses and overstatement of the corresponding advances by 
+
+undetermined amount. 
+
+ 
+
+Purpose Due Date Amount 
+
+Training of Trainers on Safeguarding the Viability 
+
+of Intangible Cultural Heritage Amidst Pandemic - 
+
+Oct-Dec 2020 
+
+1/30/21     200,000.00  
+
+Buhay na Buhay Lecture on November 19-21, 28-
+
+29, 2019, December 4-7, 2019 
+
+2/20/21     148,092.50  
+
+Planning/Preparatory meeting for Dance Xchange-
+
+Aug. 23-26, 2019 
+
+ 
+
+9/26/19 
+
+ 
+
+ 
+
+        1,060.00 
+
+ 
+
+ 
+
+Preparatory meeting for 2020 Int’l Dance 
+
+Exchange on Jan 22-24, 2020 
+
+2/24/20 45,000.00 
+
+Incidental expenses, meals, materials for the 
+
+NCCA Capability building activities for 100 pax 
+
+secretariat on May 31 to June 1, 2018 
+
+7/1/19 
+
+ 
+
+ 
+
+ 
+
+      97,500.00 
+
+ 
+
+ 
+
+Expenses during the NCCA’s 
+
+Pangangaluluwa/Trick or Treat on Oct 29, 2018 
+
+11/29/18 
+
+ 
+
+75,000.00  
+
+ 
+
+Incentives/token for the 2018 Recognition of 
+
+employees and Year-end Salosalo on Dec 13, 2018 
+
+1/13/19 
+
+ 
+
+277,500.00 
+
+ 
+
+NCCA's Government Employees Week 
+
+Celebration-Dec 5-6, 2018 
+
+1/6/19 9,649.25 
+
+NCCA Cultural Heritage Exposure Tour, 
+
+Corregidor-May 30-31, 2019 
+
+ 
+
+6/30/19 
+
+ 
+
+      21,200.00 
+
+ 
+
+ 
+
+PH hosting of Korean War Memorial Peace 
+
+Concert on June 22-27, 2019 
+
+7/27/19 
+
+ 
+
+76,068.76   
+
+ 
+
+Mobilization and Admin Fund of the IAS for 
+
+January - March 2020 
+
+6/30/20 
+
+ 
+
+8,408.75 
+
+ 
+
+SR Quaran Tinig Patimpalak sa Pag-awit in 
+
+Celebration of Buwan ng Wika 2020 
+
+11/30/20 
+
+ 
+
+120,000.00 
+
+ 
+
+Meals during the NCCA-QMS IQA activities for 
+
+September to December 2020 (Batch 2) 
+
+ 
+
+ 
+
+1/11/21 
+
+ 
+
+     
+
+27,000.00   
+
+ 
+
+Meals during the NCCA-QMS IQA activities for 
+
+September to December 2020 (Batch 2 
+
+12/19/20 19,992.30 
+
+NEFCA Division Planning, February 12-13, 2020 6/30/20 
+
+ 
+
+      20,763.95  
+
+ 
+
+National Women’s Month Celebration and 
+
+Workshop on the Harmonized Gender and Devt 
+
+Guidelines for March-April 2020 
+
+6/30/20         8,715.50  
+
+
+
+57 
+
+Purpose Due Date Amount 
+
+MGM Meeting in Iloilo on August 30 and 
+
+Interagency Meeting on September 11, 2019 
+
+10/11/19         5,000.00  
+
+Total  1,160,951.01   
+
+ 
+
+The above conditions also reflect laxity in the monitoring and enforcement 
+
+of regulations on the grant, utilization and liquidation of CAs.  Delays in the 
+
+submission of liquidation reports signify poor internal control system where an 
+
+adequate one could prevent possible loss and/or misappropriation.  
+
+ 
+
+  
+
+e) Non-renewal and insufficient Fidelity Bond 
+ 
+
+Items No. 4.1 and 4.8 of BTr Circular No. 02-2009 dated August 6, 2009 
+
+provides that: 
+
+ 
+
+4.1 Every officer, agent, and employee of the Government of 
+
+the Philippines whose duties require the possession, custody or 
+
+control of local government funds and properties shall be 
+
+properly bonded. 
+
+ 
+
+4.8 x x x Fidelity Fund shall be available for the purpose of 
+
+replacing defalcation, shortages, unrelieved losses in the 
+
+accounts of bonded public officers, for the payment of fees and 
+
+costs incident to civil proceedings brought against them to 
+
+recover sums paid on their account from said Fund. 
+
+ 
+
+Verification of Fidelity Bonds revealed instances where the Bond is 
+
+insufficient to cover the cash accountability of an SDO, as shown below. 
+
+ 
+
+Risk Nos. Amount of Accountability (₱) Date 
+
+Maximum Granted Grant Liquidation 
+
+Exceeded maximum cash accountability 
+
+D1A-20-088N 250,000.00 348,500.00 05-May-20 11-May-20 
+
+348,500.00 12-May-20 29-Dec-20 
+
+350,000.00 22-Jun-20 
+
+Insufficient despite additional bond 
+D1A-19-5912N 1,000,000.00 1,155,000.00 02-Jul-20 27-Jul-20 
+
+D1Q-20-0713R 2,000,000.00 102,500.00 02-Jul-20 
+
+  1,155,000.00 06-Jul-20 
+
+  1,155,000.00 09-Jul-20 
+
+  1,153,000.00 10-Jul-20 
+
+  1,153,000.00 14-Jul-20 
+
+  5,121.00 20-Jul-20 
+
+
+
+58 
+
+Risk Nos. Amount of Accountability (₱) Date 
+
+Maximum Granted Grant Liquidation 
+
+D1A-19-1420R 500,000.00 523,400.00 22-Jun-20 29-Dec-20 
+
+D1A-20-2699R 500,000.00 523,400.00 23-Jun-20 
+
+D1Q-20-0715R 750,000.00 523,400.00 25-Jun-20 
+
+  523,400.00 26-Jun-20 
+
+  523,400.00 01-Jul-20 
+
+D1A-19-5641R 250,000.00 400,000.00 10-Jun-20 01-Jul-20 
+
+D1E-20-0036R 500,000.00 400,000.00 22-Jun-20 15-Jul-20 
+
+  400,000.00 29-Jun-20 
+
+ 
+
+The grant of CA to unbonded AOs and/or beyond their maximum cash 
+
+accountability would deprive the agency of indemnification in case of loss or 
+
+misuse of funds. It also violates Section 101(2) of PD No. 1445 which states that 
+
+every accountable officer shall be properly bonded in accordance with law. 
+
+ 
+
+It is noted that during the 1st quarter of CY 2021, a total of ₱866,730.12 
+
+out of the ₱1,639,929.21 was liquidated by the SDOs. 
+
+ 
+
+We recommended and Management agreed to: 
+
+ 
+
+a. instruct the SDOs to liquidate their CAs within the prescribed period 
+and at the end of the year to ensure proper recording of all expenses in 
+
+the year they are incurred; 
+
+ 
+
+b. direct the Accountant and all concerned officials to strictly enforce the 
+provisions of COA Circular No. 97-002 and the PD No. 1445 pertaining 
+
+to the grant, utilization and liquidation of cash advances; and 
+
+ 
+
+c. direct all accountable officers to strictly comply with the provisions of 
+BTr Circular No. 02-2009 on the Fidelity Bond. 
+
+ 
+
+ 
+
+Erroneous recording of advanced payment of rental  
+
+ 
+
+5. Advance payment for the rental of exhibition space of Philippine Pavilion in 
+Venice, Italy amounting to ₱10,528,843.70 was erroneously recorded as 
+
+expense under Subsidies-Others account instead of Prepaid Rent, as 
+
+prescribed in the Revised Chart of Accounts (RCA) (Updated 2019), Volume 
+
+III of the GAM, resulting in the overstatement of expenses and 
+
+understatement of prepayments by the same amount. 
+
+ 
+
+Audit of the expense account Subsidies-Others showed that it included 
+
+rental expense amounting to ₱10,528,843.70, which pertained to the exhibition 
+
+space rental of Philippine Pavilion in Venice, Italy. 
+
+
+
+59 
+
+ The RCA (Updated 2019), Volume III of the GAM describes the account 
+
+Prepaid Rent as used to recognize the amount advanced/deposited for lease/rentals 
+
+of property, plant and equipment used in government operations. While the 
+
+account Subsidies-Others is described as used to recognize the financial assistance 
+
+given to individuals and institutions other than government agencies or 
+
+NGOs/POs for government programs/projects/activities.  
+
+  
+
+On February 3, 2020, the NCCA issued LBP Check no. 2379637 in the 
+
+amount ₱10,528,843.70 to LBP-Intramuros Branch for the account of La 
+
+Fondazione La Biennale Di Venezia (La Biennale) for the rental payment of the 
+
+exhibition space of the Philippine Pavilion inside the Artiglierie of the Arsenale in 
+
+Venice, Italy. 
+
+ 
+
+The rented space was in connection with the Philippine participation at the 
+
+17th Venice Architecture Biennale 2020, which shall be held in May 23-
+
+November 29, 2020 with preview on May 21-22, 2020. 
+
+ 
+
+However, due to the global pandemic, the exhibit was moved to August 
+
+29-November 29, 2020. On June 1, 2020, the La Biennale announced that the 17th 
+
+Venice Architecture Biennale 2020 Exhibition has again been rescheduled to May 
+
+22, 2021-November 21, 2021. 
+
+ 
+
+Further, the head of the NCCA-Philippine Arts of Venice Biennale 
+
+(PAVB) confirmed that since the event was indeed postponed, the amount paid in 
+
+February 3, 2020 for the rent of the exhibition space shall be applied in CY 2021. 
+
+ 
+
+ Examination of accounting records, however, disclosed that the said 
+
+advance payment for the rental of exhibition space, under JEV No. 03-2020-02-
+
+0091 on February 3, 2020, was taken up in the books as an outright expense under 
+
+Subsidies-Others account instead of Prepaid Rent account, in non-conformance 
+
+with the RCA (Updated 2019). 
+
+ 
+
+The noted deficiency resulted in the overstatement of Subsidies-Others 
+
+account by ₱10,528,843.70 and the understatement of the accounts Prepaid Rent 
+
+by the same amount, thereby affecting the fair presentation of the financial 
+
+statements. 
+
+ 
+
+We recommended and Management agreed to instruct the Chief 
+
+Accountant to draw the necessary Journal Entry Voucher (JEV) to correct 
+
+the erroneous entry. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+60 
+
+B. Compliance Audit 
+ 
+
+Non- inclusion of the required TOR in the MOAs and failure to require a 20 percent 
+
+equity 
+
+ 
+
+6. The non-compliance with the conditions cited under Section 4.5.3 of COA 
+Circular No. 2007-001 - on the incorporation of necessary Terms of 
+
+Reference (TORs) in the MOA and Section 4.5.4 - on the requirement for 
+
+NGOs/POs to sustain equity equivalent to 20 percent of total project cost, 
+
+manifested an inadequacy on the part of NCCA to properly administer the 
+
+funds intended to assist NGOs/POs and to monitor the projects’ 
+
+implementation, which eventually could lead to loss of government funds.  
+
+Likewise, the perfection of a MOA during or after a project implementation 
+
+may likely result in the inclusion, as part of project cost, of expenditures and 
+
+activities, which are not covered by the contract. 
+ 
+
+NCCA was created, among other functions, to formulate policies for the 
+
+development of culture and arts; implement these policies in coordination with 
+
+affiliated cultural agencies; coordinate the implementation of programs of these 
+
+affiliated agencies; and administer the NEFCA through giving grants for the 
+
+development, protection, preservation and dissemination of Philippine culture and 
+
+the arts. 
+
+ 
+
+Through the NEFCA, the NCCA provides assistance to Civil Society 
+
+Organizations (CSOs), People’s Organizations (POs), Indigenous People 
+
+Organizations (IPOs), Individuals, Local Government Units (LGUs), Government 
+
+Agencies (Gas), State Universities/ Colleges and Public Schools through its 
+
+NCCA Grants Program, and Institutional Programs such as Outreach Program, 
+
+Resource Persons and Experts Bureau Program, and the Technical Assistance 
+
+Program. 
+
+ 
+
+Section 4.5.3 of COA Circular No. 2007-001 – The Revised Guidelines in 
+
+the Granting, Utilization, Accounting and Auditing of the Funds released to 
+
+NGOs/POs - states that the government organization shall award the project to the 
+
+NGO/PO, and the project shall be covered by a MOA which shall embody TORs 
+
+such as: 
+
+  
+
+x x x 
+
+f. In case of construction projects like school buildings, 
+housing, and other similar structures, and acquisition of 
+
+assets like vehicles and equipment, a stipulation of ownership 
+
+or turnover of ownership of the infrastructure or fixed asset. 
+
+In the procurement of any type of asset out of the 
+
+government funds, the NGO/PO shall conduct simple 
+
+
+
+61 
+
+bidding or canvass to ensure the best terms and quality of 
+
+purchase; 
+
+g. In case the asset shall be owned by a specified beneficiary, 
+a stipulation that a Deed of Donation shall be executed by 
+
+the GO therefor; 
+
+x x x 
+
+ 
+
+k. In case of the dissolution of a recipient NGO/PO, voluntary 
+
+of involuntary, the lien of the granting GO on its assets, in 
+
+accordance with existing laws, to the extent of the 
+
+unexpended or unutilized potion of the fund; 
+
+l.    Maintenance by the NGO/PO of a separate savings account 
+
+for each fund received from the GO; 
+
+x x x 
+
+ 
+
+Section 4.5.4 requires the NGO/PO to have an equity equivalent to 20 
+
+percent of the total project cost, which may be in the form of labor, land for the 
+
+project site, facilities, equipment and the like, to be used in the project. 
+
+ 
+
+The terms provided in the MOA bind the parties to a common purpose; 
+
+hence, it is imperative for NCCA and the various NGOs/POs to integrate all the 
+
+essential TORs in the MOA. 
+
+ 
+
+ For CY 2019, NCCA appropriated a total of ₱61,450,000.00 for projects 
+
+with amounts of ₱10M and above, chargeable to NEFCA, as financial assistance 
+
+to grantee NGOs/POs as approved by the Board of Commissioners. The 
+
+₱61,450,000.00 was appropriated for the following projects: 
+
+ 
+
+Name of NGOs/POs 
+
+ 
+
+Board 
+
+Resolution No. 
+
+Grants Programs/ 
+
+Projects 
+
+Amount(₱) 
+
+National Music Competition 
+
+for Young Artist (NAMCYA) 
+
+2018-245 
+
+Nov. 20, 2018 
+
+Institutional 13,000,000.00 
+
+Philippine Educational Theater 
+
+Association (PETA) 
+
+2019-222 
+
+Dec. 13, 2018 
+
+Competitive 10,000,000.00 
+
+The Performance Laboratory, 
+
+Inc. (TPLI) 
+
+2019-242 
+
+Nov. 20, 2018 
+
+Institutional 10,000,000.00 
+
+Barasoian Kalinangan 
+
+Foundation, Inc. (BKFI) 
+
+2019-244 
+
+Nov. 20, 2018 
+
+Institutional 18,450,000.00 
+
+Escuela Taller De Filipinas 
+
+Foundation, Inc (ETDFFI) 
+
+2019-264 
+
+Nov. 20, 2018 
+
+Institutional 
+
+ 
+
+10,000,000.00 
+
+Total   61,450,000.00 
+
+ 
+
+Competitive grant is an open call for those qualified as prescribed by the 
+
+NCCA. The grants are in accordance with the defined priority of NCCA and of 
+
+the different national committees of the Commission, while Institutional programs 
+
+are the programs and activities implemented by the NCCA or by the affiliated 
+
+
+
+62 
+
+cultural and government agencies outside the competitive grants in order to 
+
+address concerns that cannot be possible covered by grants. This includes those 
+
+with directives or presidential proclamations, laws and resolutions. 
+
+ 
+
+ Review of the MOAs entered into by and between the NCCA and the 
+
+abovementioned NGOs/POs during CY 2019 revealed that some of the required 
+
+TORs were not stipulated therein; hence, did not conform with Section 4.5.3 of 
+
+the COA Circular, showing an inadequacy on the part of NCCA to properly 
+
+administer the funds intended to assist NGOs/POs and to monitor the projects’ 
+
+implementation. Below is the summary of the terms of references not embodied in 
+
+the MOAs: 
+
+  
+
+NGOs/POs Terms of references 
+
+f g k l 
+
+NAMCYA Not complied Not complied Complied Not complied 
+
+PETA Not complied Not complied Not complied Not complied 
+
+TPLI Not complied Not complied Not complied Not complied 
+
+BKFI Not complied Not complied Complied Not complied 
+
+ETDFFI Not complied Not complied Not complied Not complied 
+
+ 
+
+ In addition, one of the requisites for NGOs/POs’ entitlement of 
+
+government funds is their financial reports, which must show a stable financial 
+
+condition, and that the funds provided by the agency shall not be the NGOs/POs’ 
+
+sole source of funds. 
+
+ 
+
+ However, verification of the MOAs and the supporting financial reports 
+
+revealed a low percentage of equity/counterpart by the NGOs/POs in the 
+
+implementation of projects or none at all, contradicting the mandatory 
+
+requirement prescribed by the Circular, to wit: 
+
+ 
+
+NGOs/POs Approved 
+
+Budget  
+
+Required 
+
+20% Equity 
+
+Counterpart 
+
+by NGOs 
+
+% Difference 
+
+ 
+
+% 
+
+Amounts (P) 
+
+NAMCYA 13,000,000.00 2,600,000.00 1,194,353.47 9.20 1,405,646.53 10.80 
+
+PETA 10,000,000.00 2,000,000.00 371,103.69 3.71 1,628,896.31 16.29 
+
+TPLI 10,000,000.00 2,000,000.00 549,208.00 5.50 1,450,792.00 14.50 
+
+BKFI 18,450,000.00 3,690,000.00 - 0.00 3,690,000.00 20.00 
+
+ETDFFI 10,000,000.00 2,000,000.00 - 0.00 2,000,000.00 20.00 
+
+Total 61,450,000.00 12,290,000.00 2,114,665.16 
+ 
+
+10,175,334.84   
+
+  
+
+ The total required equity for the five projects should be ₱12,290,000.00, 
+
+however, the NGOs/POs counterpart amounted to only ₱2,114,665.16. It showed 
+
+that NCCA failed to require the equity equivalent to 20 percent of the total project 
+
+
+
+63 
+
+cost before the granting or release of funds/financial assistance, which eventually 
+
+could lead to loss of government funds. 
+
+ 
+
+ It is likewise noteworthy to mention that in the respective MOAs, the 
+
+durations and dates of project implementation were earlier than the dates when the 
+
+MOAs were actually notarized and signed by the parties; hence, expenditures and 
+
+activities before the perfection of the contract are likely to be included as part of 
+
+the project cost, which would be highly irregular. 
+
+  
+
+ We recommended and Management agreed to: 
+
+ 
+
+a. advise the Accreditation and Grants Processing Section to strictly 
+comply with the provisions of Sections 4.5.3 and 4.5.4 of COA Circular 
+
+No. 2007-001; and 
+
+b. advise the MANCOM to ensure that the project duration and 
+implementation embodied in the MOA are dated after the contracts are 
+
+perfected. 
+ 
+
+ Management acknowledged the recommendation on the strict adherence to 
+
+the provisions of Section 4.5.3 on the inclusion of all the necessary terms of 
+
+reference in the MOA entered into by and between NCCA and NGOs/POs. 
+
+ 
+
+ They informed that on October 22, 2019, the Chief Accountant issued 
+
+Memorandum MM-NEFCA-2019-10-002 addressed to the head of Accreditation 
+
+and Grants Processing Section requesting the latter to consider in the preparation 
+
+of MOAs for Competitive Grants and Institution projects, particularly those 
+
+entered unto with substantial amount, all the necessary terms of reference 
+
+enumerated in the abovementioned section of COA Circular No. 2007-001. 
+
+ 
+
+ They further asserted that since the required 20 percent equity was not 
+
+complied as provided under Section 4.5.4, the Chief Accountant recommended 
+
+that for the meantime, they will take over and oversee the implementation of the 
+
+project and carry out activities as required in the project proposal, which includes 
+
+directly paying its suppliers/ creditors. 
+
+ 
+
+ Moreover, the MANCOM agreed that only the date of implementation 
+
+will be reflected in the MOA and no projects will be implemented/to be 
+
+commenced without the complete execution of a notarized MOA. 
+
+ 
+
+ During the exit conference, they informed the Audit Team that they will 
+
+discuss with the proponents on how to impute the required equity in order to 
+
+properly present it in the Fund Utilization Reports (FURs). Likewise, they will 
+
+advise the concerned NGOs/POs to return the MOAs as soon as signed to avoid 
+
+conflict with the date of implementation of the project. A workshop shall also be 
+
+conducted to correct the audit deficiencies noted. 
+
+
+
+64 
+
+Inadequate monitoring resulted in double payment of the cash assistance 
+
+ 
+
+7. CAs for the payment of cash assistance to individuals under the “Arts 
+Program for Cultural Workers and Artists under the State of Calamity” in 
+
+the total amount of ₱49,548,752.74 were (a) granted to 16 designated SDOs 
+
+but disbursed by six personnel who were under Contract of Service (COS). 
+
+Likewise, cash assistance was (b) paid to 67 beneficiaries who already either 
+
+received the same benefit from another government agency or from the 
+
+NCCA. 
+ 
+
+During the year, upon the direction of the NCCA Board of 
+
+Commissioners, each Sub-Commissions/National Committees issued its 
+
+respective undated guidelines that would govern the assistance program for 
+
+cultural workers and artists under the state of calamity. 
+
+ 
+
+Under the said guidelines, the mode of disbursement in implementing said 
+
+program is thru cash advance. 
+
+ 
+
+For CY 2020, the cash assistance and administrative expenses amounting 
+
+to ₱48,312,025.79 and ₱1,236,726.95, respectively, were paid to 10,284 
+
+beneficiaries, broken down as follows (See Annex C for details): 
+
+ 
+Committee/Team No. of 
+
+Benefi-
+
+ciaries 
+
+Amount (₱) 
+
+Cash 
+
+Assistance 
+
+Administrative 
+
+Fees 
+
+Total 
+
+BR#2020-311: Arts Program as Quick Response for Natural and Human Induced Disaster 
+
+1. Subcommission on the Arts (SCA) 256 1,280,000.00 34,142.00 1,314,142.00 
+
+2. Subcommission on Cultural Communities 
+and Traditional Arts (SCCTA) 
+
+112 560,000.00 13,800.00 573,800.00 
+
+3. Subcommission on Cultural Dissemination 
+(SCD) 
+
+117 585,000.00 14,210.00 599,210.00 
+
+4. Subcommission on Cultural Heritage 
+(SCH) 
+
+93 455,000.00 5,750.00 470,750.00 
+
+5. Artists Welfare of the Philippines, Inc. 
+(AWPI) 
+
+318 636,360.00 39,322.00 675,682.00 
+
+6. TulongPanghanapbuhaysaating 
+Disadvantaged/Displaced Workers 
+
+Program (TUPAD) 
+
+37 173,880.00 25,121.00 199,001.00 
+
+7. Pasig City Museum 30 150,000.00 3,750.00 153,750.00 
+
+Subtotal 963 3,840,240.00 136,095.00 3,986,335.00 
+
+BR#2020-314: NCCA Assistance Program in response to the Call for Bayanihan to Heal as One 
+
+1. SCA 4,386 22,280,000.00 523,306.74 22,803,306.74 
+
+2. SCCTA 2,040 8,490,000.00 230,256.00 8,720,256.00 
+
+3. SCD 1,191 5,955,000.00 158,383.00 6,113,383.00 
+
+4. SCH 260 1,300,000.00 20,375.00 1,320,375.00 
+
+5. AWPI 249 847,470.00 16,896.00 864,366.00 
+
+6. Film Academy of the Philippines (FAP) 70 350,000.00 8,750.00 358,750.00 
+
+7. TUPAD 890 4,079,190.79 113,130.21 4,192,321.00 
+
+8. NCCA and MET Security Guard 16 75,125.00 375.00 75,500.00 
+
+
+
+65 
+
+Committee/Team No. of 
+
+Benefi-
+
+ciaries 
+
+Amount (₱) 
+
+Cash 
+
+Assistance 
+
+Administrative 
+
+Fees 
+
+Total 
+
+9. Pasig City Museum 11 55,000.00 2,978.00 57,978.00 
+
+Subtotal 9,113 43,431,785.79 1,074,449.95 44,506,235.74 
+
+BR#2020-220: SLT/ILT and Other related activities Financial Assistance under the State of Calamity 
+
+1. SCCTA 140 700,000.00 17,682.00 717,682.00 
+
+2. TUPAD 68 340,000.00 8,500.00 348,500.00 
+
+Subtotal 208 1,040,000.00 26,182.00 1,066,182.00 
+
+Total 10,284 48,312,025.79 1,236,726.95 49,548,752.74 
+
+ 
+
+Verification, however, of the grant of the cash assistance disclosed 
+
+deficiencies, as discussed below: 
+
+ 
+
+ 
+
+a) Transfer of accountability from one accountable officer to a COS personnel  
+ 
+
+Section 4.1.6 of COA Circular No. 97-002 provides that the transfer of CA 
+
+from one Accountable Officer (AO) to another shall not be allowed, while Section 
+
+4.1.4 provides that only permanently appointed officials shall be designated as 
+
+disbursing officers. 
+
+ 
+
+Under the NCCA’s “Guidelines on the NCCA Assistance Program for 
+
+Cultural Workers and Artists under the State of Calamity”, it provides that 
+
+NCCA’s Finance Units (NEFCA/GAA, Budget, and Cashier) shall facilitate the 
+
+disbursement of the financial assistance, which may be sent to the beneficiaries by 
+
+any of the available means such as bank deposit, GCash, or through remittance 
+
+centers (Palawan Express, MLhuillier, Cebuana Lhuiller, etc.). 
+
+ 
+
+On April 24, 2020, the NCCA issued Office No. OO-OED-2020-004-058 
+
+designating SDOs for each committee/team, as follows: 
+
+ 
+
+Committee/Team Designated SDO 
+
+Subcommission on the Arts (SCA) Planning Officer III 
+
+Senior Culture & Arts Officer 
+
+Subcommision on Cultural Communities and 
+
+Traditional Arts (SCCTA) 
+
+Planning Officer III 
+
+Administrative Officer II 
+
+Planning Officer IV 
+
+Subcommission on Cultural Dissemination (SCD) Planning Officer III 
+
+Public Relation Officer III 
+
+Subcommission on Culture Heritage (SCH) Planning Officer IV 
+
+Artists Welfare of the Philippines, Inc. (AWPI) 
+
+beneficiaries 
+
+Deputy Executive Director III 
+
+FAP beneficiaries and other Board Endorsements Supervising Officer for 
+
+Administration 
+
+
+
+66 
+
+Committee/Team Designated SDO 
+
+Tulong Panghanapbuhay sa Ating Disadvantaged/ 
+
+Displaced Workers (TUPAD) Program of DOLE 
+
+ED and whoever will be 
+
+available already 
+
+ 
+
+Also, on May 14 and June 25, 2020, the NCCA issued an authority to 
+
+Accountant III to transact with the three branches of Palawan remittance services, 
+
+namely: Del Pan, Tondo Branch, Moriones, Tondo Branch, and Intramuros, 
+
+Manila Branch. 
+
+ 
+
+Verification of the DVs and its corresponding liquidation reports disclosed 
+
+that the 13 designated SDOs transferred their accountability to 6 COS personnel. 
+
+ 
+
+The transfer of accountability itself was contrary to Section 4.1.6 and 
+
+transfer to a COS personnel was contrary to Section 4.1.4 of COA Circular No. 
+
+97-002. Such actions exposed the government to non-indemnification in case of 
+
+loss, misuse or theft of the fund. 
+
+ 
+
+b) Payment of cash assistance to 50 beneficiaries who already received 
+assistance from another government agency 
+
+ 
+
+On April 27, 2020, a Memorandum from the Office of the Executive 
+
+Secretary of the Philippines authorized NCCA to give a one-time grant of 
+
+financial assistance in the amount of P5,000.00 to each qualified beneficiary 
+
+under the Program for Cultural Workers and Artists under the State of Calamity 
+
+in light of the Covid-19 Outbreak in the Country. 
+
+ 
+
+In addition, Item No. 2 of the said Memorandum requires that the NCCA 
+
+shall coordinate with the Department of Labor and Employment, and other 
+
+relevant government agencies in the determination of the final list of qualified 
+
+beneficiaries to prevent duplication in the grant of assistance from the existing 
+
+Social Amelioration Programs per Joint Memorandum Circular No. 01, series of 
+
+2020. (emphasis ours) 
+
+ 
+
+Confirmation with the Film Development Council of the Philippines 
+
+(FDCP) disclosed that a one-time financial assistance of ₱5,000.00 under the 
+
+Disaster/Emergency Assistance and Relief (DEAR) Program was granted to 
+
+various movie workers and artists. From its website, it was noted that cash 
+
+assistance in the total amount of ₱250,000.00 was granted to 50 beneficiaries who 
+
+were also NCCA’s beneficiaries, to wit: 
+
+ 
+
+Particulars Number of 
+
+Beneficiaries 
+
+Total Amount (P) 
+
+Committee on Cinema 34 170,000.00 
+
+Dramatic Arts 7 35,000.00 
+
+Visual Arts 1 5,000.00 
+
+
+
+67 
+
+Particulars Number of 
+
+Beneficiaries 
+
+Total Amount (P) 
+
+Music 1 5,000.00 
+
+Film Academy of the 
+
+Philippines 
+
+4 20,000.00 
+
+TUPAD 2 10,000.00 
+
+Not Specified in the transaction 
+
+document 
+
+1 5,000.00 
+
+Total 50 250,000.00 
+
+ 
+
+c) Double payment of the cash assistance to NCCA’s beneficiaries 
+ 
+
+We likewise noted that there was double payment of the cash incentives to 
+
+17 NCCA qualified beneficiaries, as shown below: 
+
+ 
+
+Committee Number of 
+
+Beneficiaries 
+
+Total Amount (P) 
+
+Subcommission on the Arts 
+
+(SCA)/ Subcommission on 
+
+Cultural Dissemination (SCD) 
+
+11 115,000.00 
+
+Artist Welfare of the 
+
+Philippines, Inc. (AWPI) 
+
+1 4,000.00 
+
+Subcommission on Cultural 
+
+Communities and Traditional 
+
+Arts (SCCTA) 
+
+2 6,000.00 
+
+TUPAD 3 35,000.00 
+
+Total 17 160,000.00 
+
+ 
+
+Interview with the Chief Accountant revealed that to avoid double 
+
+payments, the submitted names went through the Management Information 
+
+System Section (MIS) to ensure that these beneficiaries are not covered in any 
+
+assistance given by other government agencies. 
+
+ 
+
+However, it is apparent that the MIS failed, which resulted in double 
+
+payment of cash assistance totaling ₱160,000.00. 
+
+ 
+
+d) Incomplete supporting documents 
+ 
+
+Section 4(6) of the PD No. 1445 requires that claims against government 
+
+funds shall be supported with complete documentation. 
+
+ 
+
+Verification of the submitted documents pertaining to the payment of cash 
+
+assistance revealed that under the respective guidelines of each Sub-
+
+Commissions/National Committee revealed that the liquidation of the CAs is to 
+
+be supported with the duly signed “Declaration as non-recipient of other COVID-
+
+19-related cash assistance programs of the government”. 
+
+
+
+68 
+
+Likewise, the following supporting documents, which are required in 
+
+order to avail the cash assistance, shall be attached: 
+
+ 
+
+1) Application form duly signed by the grantee; 
+2) Duly signed “Declaration as non-recipient of other COVID-19-
+
+related cash assistance programs of the government”; 
+
+3) Any proof or other document showing that: 
+a. artists and cultural workers are not under an employer-
+
+employee relationship; 
+
+b. artists and cultural workers are without regular income or 
+are working freelance; and 
+
+c. their source of income is gone due to COVID-19 crisis 
+during ECQ; and 
+
+4) Acknowledgment of cash assistance received. 
+ 
+
+Review of the liquidation reports (LRs) disclosed that all payments for 
+
+cash assistance totaling ₱48,312,025.79 lacked the required supporting document, 
+
+which indicated lapses on the part of the Chief Accountant in verifying the 
+
+completeness of the supporting documents before recording in the books; thus, 
+
+casts doubt on the validity and propriety of the disbursement. 
+
+ 
+
+Furthermore, the Audit Team observed that 36 LRs and/or Report of Cash 
+
+Disbursements (RCDisb) were not duly signed by the designated SDO and/or 
+
+Head of Accounting Division to ascertain the correctness and completeness of the 
+
+supporting documents. Moreover, the RCDisb used was not in accordance with 
+
+Appendix 41, Volume II of the GAM where the forms and instructions are 
+
+prescribed. 
+
+ 
+
+We recommended and Management agreed: 
+
+ 
+
+a. to instruct the Chief Accountant to only allow permanently appointed 
+officials who are bonded to handle disbursements of funds; 
+
+ 
+
+b. to instruct the Chief Accountant to demand from SDOs the complete 
+and proper documents to support the claims/liquidation before 
+
+recording in the books; 
+
+ 
+
+c. to discontinue the practice of transfer of accountability, in strict 
+compliance with COA Circular 97-002; and 
+
+ 
+
+d. to instruct the Administrative Division to send demand letters to the 
+concerned individuals for the refund of the cash assistance given to 
+
+them. 
+
+ 
+
+
+
+69 
+
+The Management instructed the Committee Heads to conduct a 
+
+verification with the DSWD, DOLE, FDCP, and other government agencies; and 
+
+ask refund from concerned grantees if found they have been paid twice. 
+
+ 
+
+ 
+
+C. Others 
+ 
+
+Audit of Coronavirus Disease 2019 (COVID-19) other related expenses 
+
+ 
+
+8. The NCCA was able to strategize to control the outbreak and slow the 
+transmission of COVID-19 in its workplace. The programs/projects/activities 
+
+below, costing ₱6,689,106.06 were implemented: 
+
+ 
+
+ 
+Program/Project/ 
+
+Activities 
+
+Particulars Expense 
+
+Account Used 
+
+Amount (₱) 
+
+GAA NEFCA Total 
+
+1. Provide safety 
+measures for its 
+
+officers and staff in 
+
+coming to and from 
+
+the NCCA office 
+
+a. Rental of van to 
+transport employees 
+
+from their place of 
+
+residence to the NCCA 
+
+and vice versa. 
+
+Rent/Lease 
+
+Expenses 
+
+- 3,151,863.00 3,151,863.00 
+
+2. Provision of a safe 
+and healthy 
+
+workplace 
+
+a. Disinfection and 
+Sanitation Treatment 
+
+of NCCA building and 
+
+Premises 
+
+Other 
+
+Maintenance and 
+
+Operating 
+
+Expenses 
+
+- 649,108.90 649,108.90 
+
+b. Procurement of the 
+protective gears, 
+
+thermal guns/scanner, 
+
+supplies 
+
+Officer Supplies 
+
+Expense/ Office 
+
+Supplies 
+
+Inventory 
+
+- 356,232.00 356,232.00 
+
+c. Reimbursement of 
+medical expenses for 
+
+personnel who had 
+
+symptoms or exposure 
+
+to COVID-19 
+
+Subsidies-Others - 250,947.36 250,947.36 
+
+d. Procurement of plastic 
+counter for every 
+
+office for the receiving 
+
+of documents 
+
+Furniture and 
+
+Fixtures/Semi-
+
+Expendable 
+
+Furniture and 
+
+Fixtures 
+
+- 245,000.00 245,000.00 
+
+e. Payment of honoraria 
+for the resource person 
+
+on COVID-19 
+
+Webinar 
+
+Other 
+
+Professional 
+
+Services 
+
+- 138,000.00 138,000.00 
+
+f. Provision of food for 
+skeletal workforce, 
+
+utility and security 
+
+personnel on site 
+
+during the ECQ 
+
+Representation 
+
+Expense 
+
+- 93,900.00 93,900.00 
+
+
+
+70 
+
+  
+
+ The required posting in the PhilGEPS of contract for the rental of service vehicles 
+
+was not made, however, to observe competition and transparency, the request for 
+
+quotations were sent to various PhilGEPS-registered service providers.  Management 
+
+explained that the non-posting in the PhilGEPS was due to time constraints and the 
+
+urgency to transport employees to and from their residences. 
+
+ 
+
+g. Provision for Alco 
+Pump /Sanitizer / Ultra 
+
+Violet Lumps 
+
+Semi-
+
+Expendable-
+
+Machinery and 
+
+Equipment 
+
+Expenses/Semi-
+
+Expendable 
+
+Office 
+
+Equipment 
+
+- 58,088.80 58,088.80 
+
+3. Provide Alternative 
+Work Arrangements 
+
+(RIGAWA) and 
+
+support mechanisms 
+
+for workers in the 
+
+government during 
+
+the period of State of 
+
+National Emergency 
+
+due to Covid-19 
+
+pandemic 
+
+a. Communication 
+allowance to all 
+
+personnel to support 
+
+the work from home 
+
+working scheme 
+
+Telephone 
+
+expense 
+
+- 748,750.00 748,750.00 
+
+4. Compliance with 
+Covid-19 related 
+
+issuances 
+
+a. Grant of hazard pay to 
+personnel who 
+
+physically reported on 
+
+site during 
+
+implementation of 
+
+ECQ and MECQ 
+
+pursuant to AO 26, 
+
+s.2020 and DBM 
+
+Circular 2020-1 
+
+Other 
+
+Maintenance and 
+
+Operating 
+
+Expenses/Other 
+
+Bonuses and 
+
+Allowances 
+
+150,500.00 695,900.00 846,400.00 
+
+b. Grant of the COVID-
+19 Duty Allowance to 
+
+those who volunteer 
+
+for deployment to the 
+
+COVID-19 Mega 
+
+Swabbing Facilities 
+
+Other 
+
+Maintenance and 
+
+Operating 
+
+Expenses 
+
+- 126,900.00 126,900.00 
+
+c. Provision of health 
+supplement for NCCA 
+
+employees and officers 
+
+ 
+
+Drugs and 
+
+Medicines 
+
+Inventory 
+
+- 73,200.00 73,200.00 
+
+5. Provide monitoring 
+device/application on 
+
+the performance of 
+
+the work done at 
+
+home by the NCCA 
+
+staff 
+
+a. Procurement of 
+Cellular Phone 
+
+software for the 
+
+monitoring of 
+
+attendance employees 
+
+during the pandemic 
+
+Other 
+
+Prepayments 
+
+- 77,616.00 77,616.00 
+
+Total 
+
+  
+
+150,500.00 6,538,606.06 6,689,106.06 
+
+
+
+71 
+
+ In view of the adoption of Alternative Work Arrangement (AWA) and other 
+
+precautionary measures in the light of the COVID-19 outbreak, the NCCA 
+
+acquired/provided the following: 
+
+ 
+
+a) ICT Software Program in the amount of ₱77,616.00 was charged under 
+the MOOE - ICT Software Subscription. Such disbursement was made to 
+
+monitor the NCCA’s employees/personnel daily attendance; and 
+
+ 
+
+b) Communication allowance to various officers and employees totaling 
+₱748,750.00 for their use in official transactions such as attending 
+
+meetings and online processing of documents for review and signatures. 
+
+ 
+
+ Other COVID-related expenses were supported with complete documents and 
+
+were incurred based on the conditions set by applicable rules and regulations. 
+
+ 
+
+ 
+
+Audit of National Task Force to End Local Communist Armed Conflict (NTF-
+
+ELCAC) 
+
+ 
+
+9. During the year, the NCCA did not receive funds from NTF-ELCAC or utilized 
+any of its funds for the purpose. 
+
+ 
+
+ 
+
+Accounts with Dormant balances 
+ 
+
+10. As of CY 2020, the dormant receivables for more than five years under the 
+NEFCA totaled ₱66,438,227.06 and ₱763,734.00 under the GF, or a total of 
+
+₱67,201,961.06. Likewise, dormant payables totaled ₱60,906.36. 
+
+ 
+
+The details of the dormant accounts follows: 
+
+ 
+Account/ 
+
+SL Details 
+
+Amount (P) Years 
+
+Dormant 
+
+Reasons  Action Taken by Other 
+
+Remarks ATL Management 
+
+A. RECEIVABLES 
+
+ 
+GF 
+
+       1 Due from 
+
+NGAs 
+
+28,800.00 10 - 15 
+
+years 
+
+with 
+
+issued 
+
+AOM 
+
+sent 
+
+Confirmation 
+
+Letters 
+
+sent Demand 
+
+Letters 
+
+ 
+
+ 2 Due from 
+
+LGUs 
+
+225,700.00 5 - 9 
+
+years 
+
+-do-   
+
+ 3 Due from 
+
+NGOs/POs 
+
+408,939.32 16 - 20 
+
+years 
+
+sent Demand 
+
+Letters 
+
+sent Demand 
+
+Letters 
+
+ 
+
+ 4 Due from 
+
+Officers 
+
+and 
+
+Employees 
+
+53,106.06 -do-    
+
+ 5 Other 
+
+Receivables 
+
+47,188.62 > 20 years    
+
+
+
+72 
+
+Account/ 
+
+SL Details 
+
+Amount (P) Years 
+
+Dormant 
+
+Reasons  Action Taken by Other 
+
+Remarks ATL Management 
+
+ 
+
+Subtotal 763,734.00 
+
+     
+
+ 
+NEFCA 
+
+       1 Due from 
+
+NGAs 
+
+32,126,756.96 5 - >20 
+
+years 
+
+with 
+
+issued 
+
+AOM 
+
+sent 
+
+Confirmation 
+
+Letters 
+
+sent Demand 
+
+Letters 
+
+ 
+
+ 2 Due from 
+
+GOCC 
+
+385,669.69 -do-  sent Demand 
+
+Letters 
+
+ 
+
+ 3 Due from 
+
+LGUs 
+
+8,054,044.02 -do- sent 
+
+Confirmation 
+
+Letters 
+
+  
+
+ 4 Due from 
+
+NGOs/POs 
+
+18,933,148.03 -do- sent Demand 
+
+Letters 
+
+  
+
+ 5 Due from 
+
+Officers 
+
+and 
+
+Employees 
+
+10,829.23 5 - 15 
+
+years 
+
+   
+
+ 6 Other 
+
+Receivables 
+
+6,927,779.13 5 - >20 
+
+years 
+
+   
+
+ 
+
+Subtotal 66,438,227.06 
+
+     
+
+ 
+
+Total 67,201,961.06 
+
+     B. PAYABLES 
+
+ 
+
+GF 
+
+       1 Due to 
+
+GSIS 
+
+17,302.88 8 - >16 
+
+years 
+
+ ongoing 
+
+reconciliation 
+
+ unreconciled 
+
+balances 
+
+ 2 Due to Pag 
+
+– IBIG 
+
+17,816.44 > 16 years  -do-  
+
+ 3 Due to 
+
+GOCCs 
+
+25,787.04 > 8 years  -do-  
+
+ 
+Total 60,906.36 
+
+      
+
+ 
+
+Implementation of Gender and Development (GAD) Plans and Budget  
+
+ 
+
+11. Only three out of nine Programs, Activities and Projects (PAPs) were 
+implemented during the year due to the COVID-19 pandemic; thus, limiting 
+
+the benefits that the public and the intended users/beneficiaries derived 
+
+therefrom.  
+
+ 
+
+Section 31 of the General Provisions (GP) of RA No. 11465 or the 
+
+General Appropriations Act (GAA) for FY 2020, requires that: 
+
+ 
+All agencies of the government shall formulate a GAD Plan  
+
+designed  to  address  gender  issues  within their concerned  
+
+sectors  or  mandate  and  implement applicable provisions 
+
+under R.A. 9170 or the Magna Carta of Women, Convention 
+
+on the Elimination of All Forms of Discrimination Against 
+
+Women, the Beijing Platform  for  Action,  the  Millennium  
+
+Development Goals  (2000-2015),  the Philippine Plan for 
+
+
+
+73 
+
+Gender- Responsive Development, (1995-2025), and the 
+
+Philippine Development Plan. The GAD plan shall be 
+
+integrated in the regular activities of the agencies, which shall 
+
+be at least five percent (5%) of their   respective   budgets.   
+
+For   this   purpose.   xxx activities that contribute to poverty 
+
+alleviation, economic empowerment xxx are considered 
+
+sufficient compliance with said requirement.  Utilization of 
+
+the GAD budget shall be evaluated based on the GAD 
+
+performance indicators identified by the said agency. 
+
+ 
+
+PCW-NEDA-DBM Joint Circular No. 2012-01 prescribed the guidelines 
+
+and procedures for the formulation, development, submission, implementation, 
+
+monitoring and evaluation including accounting of results of agency annual GPB 
+
+and GAD accomplishment reports (AR).   
+
+ 
+
+Paragraph 2.3 thereof requires that “x x x GAD Planning shall be 
+
+integrated in the regular activities of the agencies, the cost of implementation of 
+
+which shall be at least five (5%) of their total budgets xxx. 
+
+ 
+
+Section 1.5 of the PCW Memorandum Circular 2016-05 dated 30 
+
+September 2016 states that “Aside from implementing direct GAD PAPs to 
+
+address organization- or client-focused gender issues or GAD mandates, agencies 
+
+may attribute a portion or the whole budget/expenditure of the agency’s major 
+
+program/s or project/s to the GAD budget/expenditure using the Harmonized 
+
+Gender and Development Guidelines (HGDG) tool. Major programs/projects 
+
+subjected to the HGDG test shall be reflected under the GPB/GAD AR section on 
+
+"ATTRIBUTED PROGRAM”. 
+
+ 
+
+Further, Section 6.4 of the Joint Circular provides the guidelines in 
+
+utilizing the attribution of major programs of an agency to the GAD program and 
+
+the corresponding computation on the percentage of the budget for the ‘attributed 
+
+programs’ which might be attributed to the GAD Budget and the GAD 
+
+Accomplishment Report, depending on its HGDG scores. 
+
+ 
+
+For FY 2020, the agency had allocated the amount of ₱36,650,000.00 for 
+
+the implementation of nine GAD programs/activities; however, only the amount 
+
+of ₱249,417.00 or .68 percent was utilized due to the COVID-19 pandemic. The 
+
+related GAD accomplishment report showed that only three out of the nine 
+
+programmed activities were undertaken during the year, as shown in the Schedule 
+
+of Accomplished PAPs on the next page: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+74 
+
+Projects/Programs 
+
+No. 
+
+of 
+
+PAPs 
+
+No. of PAPs 
+
+Accomplished 
+
+GAD Budget 
+
+(in thousand 
+
+pesos) 
+
+Actual 
+
+Expenditures 
+
+(in thousand 
+
+pesos) 
+
+% of 
+
+Accom-
+
+plishment 
+
+1. Client-Focused 
+projects (CFPs) 
+
+6 0 1,320 0 
+ 
+
+2. Organization-
+focused projects 
+
+(OCPs) 
+3 3 330 249 
+
+ 
+
+3. Attributed 
+Programs 
+
+0 0 35,000 0 
+ 
+
+Total 9 3 36,650 249 0.68 
+
+ 
+
+Based on the preceding Table, the low percentage of accomplishment on 
+
+the implementation of the proposed PAPs indicated that Management was unable 
+
+to address the gender issues included in the FY 2020 GPB, thereby, limiting the 
+
+benefits that the intended beneficiaries derived from GAD PAPs such as poverty 
+
+alleviation, economic empowerment of women, protection and promotion of 
+
+women’s human rights and resolution of other gender issues. 
+
+ 
+It was informed that the non-implementation of all the PAPs was due to 
+
+the COVID-19 pandemic. 
+
+ 
+
+Further, the Audit Team noted that the agency’s 2020 GAD Plan and 
+
+Budget was not approved and endorsed by the PCW contrary to the above-cited 
+
+provision of PCW-NEDA-DBM JC No. 2012. 
+
+ 
+
+We recommended and Management agreed to: 
+
+ 
+
+a. formulate effective monitoring system/process to ensure 
+implementation of all identified PAPs so that the intended beneficiaries 
+
+shall enjoy benefits derived therefrom; and 
+
+ 
+
+b. strengthen coordination with PCW for the approval of its GAD’s Plan. 
+ 
+
+ 
+
+Programs and Projects related to Senior Citizens and Persons with Disability 
+
+ 
+
+12. The NCCA was not able to formulate any plans and programs/projects for Senior 
+Citizens and PWDs in conformity with Section 32 of the GP of RA No. 11465 or 
+
+the GAA for FY 2020 due to Covid-19 pandemic. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+75 
+
+Disaster Risk Reduction and Management and Climate Change Adaption and 
+
+Mitigation 
+
+ 
+
+13. In compliance with Section 36 of the GP of the GAA of FY 2020 and in response 
+to the Covid-19 pandemic, the NCCA during the year, conducted a nationwide 
+
+“Rapid Assessment on the Impact of COVID-19 Pandemic to the Culture Sector" 
+
+(July to September) thru the conduct of the following research methodologies: 
+
+ 
+
+1) Conduct of FGDs; 
+ 
+
+2) Online Survey for private and government institutions; individual 
+practitioners; culture and arts practitioners and non-practitioners; and 
+
+ 
+
+3) Key Informants Interview. 
+ 
+
+The said study was presented during the regional consultations and 
+
+planning workshop for the 4-island clusters (NCR-November 27-28; Visayas- 
+
+December 2-3; Luzon- December 10-11; and Mindanao- December 14-15). 
+
+ 
+
+ 
+
+Compliance with Tax Laws  
+
+ 
+
+14. Total taxes withheld from the salaries of employees and purchases of goods and 
+services from January to December 2020 amounted to ₱18,976,810.26. The 
+
+amount of ₱14,684,422.03 was remitted to BIR during the year and a total of 
+
+₱4,292,388.23 was remitted in January 2021 including the taxes withheld for the 
+
+month of ₱79,793.23. 
+
+ 
+
+ 
+
+General Insurance of Government Properties (RA No. 656) 
+
+ 
+
+15. NCCA insured all its properties with the General Insurance Fund (GIF) of the 
+Government Service Insurance System (GSIS) as required under COA Circular 
+
+No. 92-390 dated November 17, 1992. In CY 2020, NCCA paid insurance 
+
+premium of ₱3,108,365.13, consisting of prepaid insurance of ₱1,200,110.54 and 
+
+insurance expense of ₱1,908,860.84. The difference of ₱606.25 is subject to 
+
+reconciliation. 
+
+ 
+
+ 
+
+Compliance with PagIBIG Premium Deduction (RA No. 9679) 
+ 
+
+16. NCCA complied with the requirement to withhold and remit amounts due to Pag-
+IBIG on or before the 10th day of the succeeding month. For CY 2020, the agency 
+
+remitted to Pag-IBIG a total of ₱1,185,593.27. 
+
+ 
+
+
+
+76 
+
+Compliance with GSIS Premium Deduction (RA No. 8291) 
+ 
+
+17. NCCA complied with the requirement to withhold and remit amounts due to GSIS 
+on or before the 10th day of the succeeding month.  For CY 2020, the agency 
+
+remitted to GSIS a total of ₱4,117,246.51. 
+
+ 
+
+ 
+
+Compliance with PhilHealth Premium Deduction (RA No.7875) 
+
+ 
+
+18. NCCA complied with the requirement to withhold and remit amounts due to 
+PhilHealth on or before the 10th day of the succeeding month. For CY 2020, the 
+
+agency remitted to PHILHEALTH a total of ₱324,715.95. 
+
+ 
+
+ 
+
+Status of Audit Suspensions, Disallowances and Charges 
+
+ 
+
+19. The SASDC as of December 31, 2020, showed a balance of ₱45,000.00 
+pertaining to prior year’s balance and were settled on January 27, 2021 and 
+
+February 02, 2021, amounting to ₱25,000.00 and ₱20,000.00, respectively. 
+
+ 
+
+ 
+
+Fund Utilization 
+
+ 
+
+20. The projects of NCCA are detailed below: 
+ 
+
+a) GAA locally-funded projects 
+ 
+
+The overall disbursement rate for the CY 2020 locally-funded projects as 
+
+of December 31, 2020 decreased from 44.76 percent in 2019 to 25.00 percent in 
+
+the current year. 
+
+ 
+
+Table 1. Status of 2020 GAA projects as of December 31, 2020 
+
+ 
+Name of Project Allotment 
+
+(P) 
+
+Obligations 
+
+(P) 
+
+Disbursements 
+
+(P) 
+
+% of Utilization 
+
+2020 2019 
+
+(a) (b) (c) (d) (e=d/c) AAR 
+
+Page 59 
+
+A. Documentation, Publication, Promotion, Exhibition, Training and Film Production to Preserve and 
+
+Promote the Tangible and Intangible Filipino Heritage, including Documentation of Philippine 
+
+Participation in International Fair 
+
+1 Philippine Arts in Venice 
+
+Biennale and Participation to 
+
+other Contemporary Art 
+
+Exhibitions 
+
+4,237,491.26 4,217,799.30 3,644,759.30 86.41 85.51 
+
+2 Dayaw TV Program and other 
+
+TV Production and Promotion 
+
+281,163.94 276,218.00 276,218.00 100.00 11.01 
+
+
+
+77 
+
+Name of Project Allotment 
+
+(P) 
+
+Obligations 
+
+(P) 
+
+Disbursements 
+
+(P) 
+
+% of Utilization 
+
+2020 2019 
+
+(a) (b) (c) (d) (e=d/c) AAR 
+
+Page 59 
+
+3 Regional Development 
+
+Council: Assistance for the 
+
+Programs of RDP-Chapter 7 
+
+107,519.82 39,470.00 17,388.00 44.05 56.51 
+
+4 Dayaw Book Reprinting 124,740.00 124,740.00  0.00 8.58 
+
+5 Taclobo Baybayin 500,000.00 500,000.00 500,000.00 100.00 0.00 
+
+6 A Homage to: Important 
+
+Figures of Intangible Cultural 
+
+Heritage 
+
+255,000.00 253,160.00  0.00 9.64 
+
+7 Safeguarding of Intangible 
+
+Cultural Heritage 
+
+3,564,850.00 3,550,748.50 264,133.50 7.44 54.01 
+
+8 Support to GAMABA 
+
+Cultural Center 
+
+2,000,000.00 2,000,000.00 - 0.00 0.00 
+
+9 Dance Xchange: Philippine 
+
+International Dance Festival: 
+
+Preparatory Phase 
+
+734,750.00 696,374.99 689,943.88 99.08 13.83 
+
+10 Likhaan 2,000,000.00 1,998,959.42 1,600,879.63 80.09 0.00 
+
+11 Scholarship for the Arts 2,338,000.00 2,330,000.00 2,100,000.00 90.13 31.39 
+
+12 Buhay na Buhay Lecture Series 67,691.72 - - 0.00 80.88 
+
+13 Tulay TV Program and other 
+
+TV Production and Promotion 
+
+395,873.94 387,740.00 386,190.00 99.60 7.79 
+
+14 Assistance to Filipino Artisans 2,016,843.00 2,015,910.50 572,155.50 28.38 29.06 
+
+15 Filipino Values Formation 
+
+Program 
+
+7,033,552.87 7,007,565.00 2,107,565.00 30.08 70.09 
+
+16 Natural Indigo Dye Centers 1,500,000.00 1,500,000.00 - 0.00 0.00 
+
+17 Discovering Dayaw Book 2: 
+
+Our Knowledge, Our Pride 
+
+1,021,900.00 308,000.00 - 0.00 2.25 
+
+18 Creative Industries Assistance 
+
+Program 
+
+7,500,000.00 - - 0.00 0.00 
+
+19 The Philippine Epic Project 
+
+Phase 3 
+
+7,000,000.00 7,000,000.00 - 0.00 0.00 
+
+20 Gabaldon-Type School 
+
+Buildings Book 
+
+2,000,000.00 2,000,000.00 600,000.00 30.00 0.00 
+
+21 Everyday Culture: Production 
+
+of a Series of Books on the 
+
+SLT 
+
+8,000,000.00 7,950,000.00 - 0.00 0.00 
+
+22 Ma-aram: Documentation of 
+
+Vanishing Traditional and 
+
+Indigenous Forms of Cultural 
+
+Heritage 
+
+10,000,000.00 10,000,000.00 500,000.00 5.00 0.00 
+
+23 Institute of Living 
+
+Traditions/Traditional Village 
+
+10,000,000.00 7,362,000.00 750,000.00 10.19 0.00 
+
+24 Komedya: Sining at Pantaha 4,000,000.00 4,000,000.00 - 0.00 0.00 
+
+25 Initial Provision for the 
+
+Laguna Museum 
+
+1,000,000.00 - - 0.00 0.00 
+
+26 Establishment of the Sentro 
+
+Rizal Museum at the 
+
+Philippine Center 
+
+10,000,000.00 - - 0.00 0.00 
+
+
+
+78 
+
+Name of Project Allotment 
+
+(P) 
+
+Obligations 
+
+(P) 
+
+Disbursements 
+
+(P) 
+
+% of Utilization 
+
+2020 2019 
+
+(a) (b) (c) (d) (e=d/c) AAR 
+
+Page 59 
+
+27 Torogan: Design, Studies and 
+
+Architectural Plan 
+
+Development 
+
+6,000,000.00 6,000,000.00 - 0.00 0.00 
+
+28 Harana ng Puso - - - 0.00 90.00 
+
+29 Culture Appreciation through 
+
+Videos in Beginning Reading 
+
+- - - 0.00 30.00 
+
+30 Dokyu@100 - - - 0.00 88.27 
+
+31 Bantayog Wika - - - 0.00 100.00 
+
+Subtotal 93,679,376.55 71,518,685.71 14,009,232.81 19.59 0.00 
+
+B. Schools of Living Traditions 21,002,645.47 20,843,000.00 4,184,600.00 20.08 30.20 
+
+C. Cultural and Heritage 
+
+Mapping Project 
+
+10,818,244.86 9,551,430.00 7,781,930.00 81.47 43.00 
+
+D. Filipino Heritage Festival - - - 0.00 99.45 
+
+Total 125,500,266.88 101,913,115.71 25,975,762.81 25.49 44.76 
+
+ 
+
+The decrease in fund utilization rate was attributed to Management’s 
+
+failure to implement the 12 projects/activities planned in CY 2020 due to the 
+
+COVID-19 pandemic of which coordination with the concerned implementing 
+
+agencies and/or LGUs was limited. 
+
+ 
+
+ 
+
+b) NEFCA-Approved Projects 
+ 
+
+The over-all disbursement rate for NEFCA-approved projects for CY 2020 
+
+decreased from 81.80 percent in 2019 to 59.05 percent in the current year. 
+
+ 
+
+ Through the NEFCA, the NCCA provides assistance to CSOs, POs, IPOs, 
+
+Individuals, LGUs, GAs, State Universities/Colleges and Public Schools through 
+
+its NCCA Grants Program, and Institutional Programs. 
+
+ 
+
+Table 2. Status of 2020 NEFCA projects as of December 31, 2020 
+
+ 
+Subcommission (₱) % of Utilization 
+
+Allotment Obligation Disbursements 2020 2019 
+
+(a) (b) (c) (d) (e=d/c)  
+
+A. Competitive Grants 
+
+1 Subcommission on Cultural 
+
+Dissemination (SCD) 
+
+10,575,000.00 9,348,400.00 6,021,603.58 64.41 73.27 
+
+2 Subcommission on Cultural 
+
+Communities and Traditional 
+
+Arts (SCCTA) 
+
+12,605,000.00 9,040,000.00 3,874,190.78 42.86 63.91 
+
+3 Subcommission on the Arts 
+
+(SCA) 
+
+34,995,000.00 24,638,059.00 15,511,978.57 62.96 79.70 
+
+
+
+79 
+
+Subcommission (₱) % of Utilization 
+
+Allotment Obligation Disbursements 2020 2019 
+
+(a) (b) (c) (d) (e=d/c)  
+
+4 Subcommission on Cultural 
+
+Heritage (SCH) 
+
+14,817,560.00 13,531,560.00 5,962,050.00 44.06 86.53 
+
+5 Inter-Regional Island Cluster - - - 0.00 90.01 
+
+6 Competitive Regular Program / 
+
+Project 
+
+- - - 0.00 89.61 
+
+Total - Competitive Grants 72,992,560.00 56,558,019.00 31,369,822.93 55.46 83.48 
+
+B. Institutional Projects 
+
+ Competitive - Institutional      
+
+1 Subcommission/National 
+
+Committee 
+
+43,500,000.00 29,895,897.87 17,276,838.65 57.79 0.00 
+
+2 Commission 17,000,000.00 7,279,871.35 4,865,225.30 66.83 0.00 
+
+Subtotal 60,500,000.00 37,175,769.22 22,142,063.95 59.56 0.00 
+
+ Regular Program 
+
+(Institutional) 
+
+     
+
+1 Subcommission/National 
+
+Committee 
+
+15,300,000.00 10,439,351.73 4,783,920.47 45.83 0.00 
+
+2 Commission - Administrative 221,400,000.00 199,003,716.69 82,046,644.14 41.23 0.00 
+
+3 Commission Festivals / Events 
+
+(Laws or Directives) 
+
+66,500,000.00 58,020,739.44 46,432,288.69 80.03 96.57 
+
+4 Documentation / Information 24,500,000.00 24,365,037.47 16,957,917.11 69.60 0.00 
+
+5 Commission Inter-Agency 
+
+Partnership 
+
+85,137,685.00 62,536,651.50 60,830,361.15 97.27 76.20 
+
+6 Cultural Agency Assistance 1,000,000.00 999,242.00 920,742.00 92.14 81.09 
+
+Subtotal 413,837,685.00 355,364,738.83 211,971,873.56 59.65 80.25 
+
+ Culture and Diplomacy 56,450,000.00 46,611,309.68 27,226,469.10 58.41 87.87 
+
+Total - Institutional Projects 530,787,685.00 439,151,817.73 261,340,406.61 59.51 80.90 
+
+Grand Total 603,780,245.00 495,709,836.73 292,710,229.54 59.05 81.80 
+
+ 
+
+The low utilization of NEFCA Project Fund was attributed to 
+
+Management’s non and/or partial implementation of the 123 programs and 
+
+projects totaling ₱124,606,372.27 due to COVID-19 Pandemic which suspended 
+
+the local and international travels, closure of cultural institutions and restrictions 
+
+in movement and the conduct of various face to face social gatherings. Also, the 
+
+68 cancelled projects on Competitive Grants totaling ₱16,034,740.00, of which 23 
+
+or ₱5,840,840.00 were re-designed/reprogrammed to new projects. Likewise, the 
+
+following 25 Institutional projects were cancelled/recalibrated/withdrawn for 
+
+Cash Assistance Program: 
+
+ 
+Seq Title of 
+
+Cancelled/Recalibrated/Withdrawn 
+
+Commission / 
+
+SC-NC 
+
+Allotment 
+
+(₱) 
+
+Contribution 
+
+for Bayanihan 
+
+1 2020 NCCA Composition Prize SCA-Music 1,000,000.00 300,000.00 
+
+2 Support to implement the Schools of 
+
+Living Traditions (SLT) / Institute of 
+
+Living Traditions (ILT) and other related 
+
+activities 
+
+SCCTA & 
+
+Commission 
+
+14,500,000.00 500,000.00 
+
+3 Research Grant Commission 5,500,000.00 500,000.00 
+
+
+
+80 
+
+Seq Title of 
+
+Cancelled/Recalibrated/Withdrawn 
+
+Commission / 
+
+SC-NC 
+
+Allotment 
+
+(₱) 
+
+Contribution 
+
+for Bayanihan 
+
+4 NCCA Gallery and Exhibitions Program 
+
+2020 
+
+Commission 6,200,000.00 800,000.00 
+
+5 2020 Technical Assistance Program 
+
+(TAP) 
+
+SCH & 
+
+Commission 
+
+2,300,000.00 700,000.00 
+
+6 Experts and Resource Person's Bureau Commission 5,000,000.00 800,000.00 
+
+7 Outreach Program Commission 4,000,000.00 1,000,000.00 
+
+8 Arts in Public Spaces Program to include 
+
+activities such as the Tertulya sa Iba't 
+
+Ibang Sangay ng Gobyerno at 
+
+pampublikong lugar and the Sa Tuwing 
+
+Kabilugan ng Buwan activities among 
+
+others; 
+
+Commission 3,000,000.00 1,000,000.00 
+
+9 International Participation/ Attendance in 
+
+International Events Travel Grants and 
+
+Hosting of Visiting Foreign Artists and 
+
+Cultural Workers 
+
+Commission 5,000,000.00 2,000,000.00 
+
+10 Support for TESDA Program Creative 
+
+Industry Qualification Standards and 
+
+Development of Culturally Sensitive 
+
+Modules for TESDA 
+
+SCD 2,800,000.00 2,000,000.00 
+
+11 KulTourAppt, Mobile Application 
+
+Project 
+
+Cultural 
+
+Agency & 
+
+Inter-agency 
+
+- 200,000.00 
+
+12 Philippine Visual Arts Biennale Commission 35,000,000.00 15,000,000.00 
+
+13 Mobilization fund for Support / 
+
+congratulatory and other commemorative 
+
+events for the artistic community and the 
+
+staff 
+
+Commission 200,000.00 100,000.00 
+
+14 Conservation and Rehabilitation of the 
+
+Metropolitan Theater (MET): Initial 
+
+Productions of Zarsuwela at Komedya 
+
+and/or Initial Production & launching 
+
+Commission 2,000,000.00 8,000,000.00 
+
+15 CY 2020 Budget for the Order of the 
+
+National Artist (ONA) (Administrative 
+
+and Projects) 
+
+Commission 14,900,000.00 3,100,000.00 
+
+16 CY 2020 Budget for the Gawad sa 
+
+Manlilikha ng Bayan (GAMABA) 
+
+(Administrative and Projects) 
+
+Commission 12,500,000.00 2,500,000.00 
+
+17 Celebration of National Events / 
+
+Commemorative Celebrations and Inter-
+
+agency activities such as the Culinary 
+
+Month, Rizal Day, Independence Day 
+
+and other special commemorative events 
+
+with proclamations 
+
+Commission 1,000,000.00 500,000.00 
+
+18 Inter-Agency Cooperation Program Commission 1,500,000.00 500,000.00 
+
+19 Coordination for the Regional 
+
+Development Council (RDC) 
+
+Commission 2,000,000.00 1,000,000.00 
+
+20 Support for the Administrative 
+
+operations of the 2020 Celebration of 
+
+National Heritage Month (NHM) and 
+
+Commission 1,000,000.00 1,000,000.00 
+
+
+
+81 
+
+Seq Title of 
+
+Cancelled/Recalibrated/Withdrawn 
+
+Commission / 
+
+SC-NC 
+
+Allotment 
+
+(₱) 
+
+Contribution 
+
+for Bayanihan 
+
+including a proposed international 
+
+workshop on conservation 
+
+21 Philippine Cultural Education Program 
+
+(PCEP) 
+
+Commission 18,000,000.00 5,000,000.00 
+
+22 Approving Support and Budget for the 
+
+implementation of the 2020 Buwan ng 
+
+Kalutong Filipino or Filipino Food 
+
+Month 
+
+Commission 1,000,000.00 4,000,000.00 
+
+23 USWAG: DANGAL NG FILIPINO 
+
+2020 
+
+SCD-Language 
+
+and Translation 
+
+- 3,500,000.00 
+
+24 NCCA Culture and Diplomacy Program 
+
+- Support for International Exchanges 
+
+Commission 9,500,000.00 7,500,000.00 
+
+25 NCCA Culture and Diplomacy -Sentro 
+
+Rizal 
+
+Commission 14,700,000.00 2,300,000.00 
+
+ 
+
+Total Institutional 
+
+ 
+
+162,600,000.00 63,800,000.00 
+
+ 
+
+
+
+

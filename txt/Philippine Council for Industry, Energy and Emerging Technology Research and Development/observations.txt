@@ -1,0 +1,6364 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observations and Recommendations
+
+
+44 
+
+PART II – OBSERVATIONS AND RECOMMENDATIONS 
+
+ 
+Financial Audit 
+
+ 
+Accounting Errors/Omissions 
+
+ 
+
+1. The asset, liability and equity accounts of the Philippine Council for Industry, 
+Energy and Emerging Technology Research and Development (PCIEERD) had 
+
+misstatements totaling ₱789,051,427.01, ₱75,059,162.45, and ₱90,297,659.64, 
+
+respectively, which represents 27.34 percent, 16.66 percent, and 3.71 percent of its 
+
+total assets, liabilities and equity, respectively. Due to the significant impact of such 
+
+misstatements on the reported balances of the affected accounts, Management’s 
+
+assertions as to the accuracy, existence, completeness, rights and obligations, cut-off 
+
+and understandability of the said accounts could not be relied upon. 
+
+ 
+
+2. Paragraph 27, International Public Sector Accounting Standard (IPSAS) 1 provides 
+that financial statements (FSs) shall present fairly the financial position, financial 
+
+performance and cash flows of an entity.  Fair presentation requires the faithful 
+
+presentation of the effects of the transactions, other events and conditions in accordance 
+
+with the definitions and recognition criteria for assets, liabilities, revenue and expenses set 
+
+out in International Public Sector Accounting Standards (IPSASs). The application of 
+
+IPSASs, with additional disclosures when necessary, is presumed to result in financial 
+
+statements that achieve a fair presentation. 
+
+ 
+
+3. In our audit of the Agency’s accounts, we noted the following misstatements that 
+were not adjusted by Management as at December 31, 2020: 
+
+ 
+Table 1. Summary of Misstatements 
+
+Errors/ Omissions 
+
+ Effect (Over)/ Understatement (₱) 
+
+Standards 
+ Assets  
+
+ Liabilities  
+
+ Net Assets/ 
+Equity 
+
+(Including 
+Income & 
+Expenses)  
+
+Cash  Inventory   Receivables   PPE  
+
+a) Erroneous 
+classification of 
+fund transfers to 
+private entities and 
+higher education 
+institutions (HEIs); 
+government-owned 
+and controlled 
+corporation 
+(GOCCs); and 
+State University and 
+Colleges (SUCs) 
+
+     489,308,192.24        
+Paragraph 27 
+of the IPSAS 
+No. 1 on 
+Presentation 
+of Financial 
+Statements 
+
+     (489,308,192.24)*       
+
+b) Duplicate recording 
+of liquidation 
+
+    804,053.58      804,053.58  
+
+
+
+45 
+
+Errors/ Omissions 
+
+ Effect (Over)/ Understatement (₱) 
+
+Standards 
+ Assets  
+
+ Liabilities  
+
+ Net Assets/ 
+Equity 
+
+(Including 
+Income & 
+Expenses)  
+
+Cash  Inventory   Receivables   PPE  
+
+c) Erroneous 
+recognition of 
+undelivered 
+inventory items 
+
+    163,235.40      163,235.40  
+
+ Section 7, 
+Chapter 8 of 
+Government 
+Accounting 
+Manual (GAM) 
+for National 
+Government 
+Agencies 
+(NGAs), 
+Volume I  
+
+d) Erroneous 
+recognition of 
+materials 
+purchased for the 
+fabrication of 
+thermal scanner 
+
+      
+        492,514.57  
+
+ 
+  492,514.57 
+
+Commission 
+on Audit 
+(COA) 
+Circular No. 
+2020-001 
+dated January 
+8, 2020 for the 
+CY 2019 
+updates on 
+Revised Chart 
+of Accounts 
+(RCA); and 
+Section 5, 
+Chapter 10 of 
+the GAM 
+Volume I 
+
+e) Failure to recognize 
+semi-expendable 
+items upon delivery 
+resulted in negative 
+balance for Semi-
+Expendable 
+Information and 
+Communications 
+Technology (ICT) 
+Equipment account  
+
+  58,000.00  (58,000.00)       
+
+Section 15, 
+Chapter 2, of 
+the GAM, 
+Volume I 
+
+f) Non-reclassification 
+of Other Property, 
+Plant, and 
+Equipment (PPE) 
+below the 
+capitalization 
+threshold of 
+₱15,000.00 
+
+      (51,430.44)   (51,430.44) 
+
+Section 10, 
+Chapter 8 of 
+the GAM, 
+Volume I  
+
+g) Non- provision of 
+depreciation for ICT 
+Equipment and 
+Other PPE account 
+
+      (62,188,657.62) (16,373.25) (62,172,284.37) 
+
+Section 27, 
+Chapter 10 of 
+the GAM, 
+Volume I 
+
+h) Erroneous provision 
+of depreciation 
+resulting in carrying 
+amount not equal to 
+zero or residual 
+value at the end of 
+estimated useful life 
+of PPE 
+
+      (1,223,340.90)   (1,223,340.90) 
+
+i) Inconsistency on 
+the application of 
+estimated useful life 
+for various PPE 
+accounts 
+
+      800,634.64    800,634.64  
+
+
+
+46 
+
+Errors/ Omissions 
+
+ Effect (Over)/ Understatement (₱) 
+
+Standards 
+ Assets  
+
+ Liabilities  
+
+ Net Assets/ 
+Equity 
+
+(Including 
+Income & 
+Expenses)  
+
+Cash  Inventory   Receivables   PPE  
+
+j)  Failure to 
+derecognize 
+accumulated 
+depreciation for 
+transferred PPE 
+
+      51,018.34    51,018.34  
+
+Section 39, 
+Chapter 10 of 
+the GAM, 
+Volume I 
+
+k) Recognition of 
+Other PPE/ 
+equipment outlay 
+acquisition by 
+implementing 
+agencies (IA) 
+
+    164,523,138.78  
+(164,523,138.78
+
+) 
+    
+
+Section 
+17(b.2), 
+Chapter 10 of 
+the GAM, 
+Volume I  
+
+l) Recognition of not 
+yet due and 
+demandable 
+obligations 
+(NYDDO) 
+
+    (99,619,486.89)   (72,940,299.76) (26,679,187.13) 
+
+Section 37, 
+Chapter 1 of 
+the GAM, 
+Volume I 
+
+m) Erroneous 
+recording of 
+liquidation and 
+reversion of 
+unexpended 
+balances to the 
+Source Agencies 
+(SAs) 
+
+2,133,671.39        2,135,235.94  (1,564.55) 
+
+Paragraph 27 
+of IPSAS 1 on 
+Presentation 
+of Financial 
+Statements 
+
+NET OF 
+MISSTATEMENTS 
+
+2,133,671.39  58,000.00  65,812,940.87   (226,642,400.19) (70,821,437.07)  (87,816,350.86)   
+
+A = L + E (158,637,787.93) (70,821,437.07) (87,816,350.86)   
+
+TOTAL 
+ACCOUNTING 
+
+ERRORS/ 
+OMISSIONS PER 
+
+ACCOUNT TITLE IN 
+ABSOLUTE 
+
+AMOUNT (See 
+Annex A for 
+
+computation) (a) 
+
+2,133,671.39  58,000.00  558,023,167.59 
+          
+
+228,836,588.03  
+  
+
+75,059,162.45  
+              
+
+90,297,659.64  
+ 
+
+  
+
+FINANCIAL 
+STATEMENT 
+
+BALANCES (b) 
+2,886,407,832.82  450,659,984.70  2,435,747,848.12    
+
+PERCENTAGE OF 
+ERRORS/ 
+
+OMISSIONS 
+( c ) = (a/b) 
+
+27.34% 16.66% 3.71%   
+
+*Single amount of misstatement carried in absolute for the reclassification error classified as material and with financial impact under Reporting Phase 
+- Item 4.3, COA Resolution No. 2019-016 dated June 25, 2019, re: "Determining and Using Materiality Thresholds in Financial Audit" 
+
+ 
+
+a) Erroneous classification of fund transfers to private entities and HEIs; GOCC; and 
+SUCs totaling to ₱19,924,412.68 and ₱475,313,779.56 as at December 31, 2020, 
+
+under the Due from National Government Agencies (NGAs) and Due from Non-
+
+Government Organizations/Civil Society Organizations (NGOs/CSOs) account, 
+
+respectively. 
+
+ 
+
+4. Fund transfers to private Higher Education Institutes (HEIs) and subsequent 
+liquidations thereof were recorded under Due from NGAs account instead of under the 
+
+Other Receivables account, as shown in Table 2 below: 
+
+ 
+
+
+
+47 
+
+Table 2. Summary of Erroneous Classification of Fund Transfers under Due from NGAs account 
+
+Organization Name 
+Subsidiary Ledger 
+
+(SL) 
+
+Balance as at 
+
+December 31, 2020 
+
+(₱) 
+
+Classification 
+
+University of the Southern Philippines (USEP) 10303010-00-03-20 2,260,834.72 Private HEIs 
+
+Mindanao Autonomous College Foundation, Inc. (MACFI) 10303010-00-04-55 2,892,178.00 Private HEIs 
+
+Siliman University 10303010-00-06-31 5,432,543.31 Private HEIs 
+
+University of Mindanao 10303010-00-01-55 9,338,856.65 Private HEIs 
+
+Total 19,924,412.68  
+
+ 
+
+5. On the other hand, Due from NGOs/CSOs account showed that 187 projects/funds 
+transfer to private entities and HEIs, GOCC, and SUCs with a total outstanding balance of 
+
+₱475,313,779.56 were erroneously classified under the said account as shown below:  
+ 
+
+Table 3. Summary of Erroneous Classification of Fund Transfers under Due from NGOs/CSOs account 
+
+Should be Account IAs Classification No. of Projects Amount (₱) 
+
+Other Receivables 
+Private entities 26     55,568,678.57  
+
+Private – HEIs 157   413,715,100.99  
+
+Due from GOCC GOCC 1          100,000.00  
+
+Due from NGAs SUCs 3       5,930,000.00  
+
+Total 187   475,313,779.56  
+
+ 
+
+6. Fund transfer to private entities was erroneously recorded under the Due from 
+NGOs/CSOs account due to the absence of COA guidelines. Further, scholarship grants are 
+
+most of the transactions recorded under the Other Receivables account. Hence, the 
+
+misclassification resulted in the understatement/overstatement of the following accounts: 
+
+ 
+Table 4. List of Accounts Affected 
+
+Account Name 
+Understatement/ 
+
+(Overstatement) (₱) 
+
+Other Receivables        489,208,192.24  
+
+Due from GOCC               100,000.00  
+
+Due from NGAs            (13,994,412.68)  
+
+Due from NGOs/CSOs       (475,313,779.56) 
+
+ 
+
+7. We recommended and Management agreed to require the Accountant to 
+prepare the necessary adjusting entries debiting Other Receivables and Due from 
+
+GOCC account in the amount of ₱489,208,192.24 and ₱100,000.00, respectively, and 
+
+crediting Due from NGAs and Due from NGOs/CSOs account by ₱13,994,412.68 and 
+
+₱475,313,779.56, respectively.  
+ 
+
+b) Duplicate recording of liquidation amounting to ₱804,053.58 under the Due from 
+NGAs account 
+
+ 
+
+8. Journal Entry Voucher (JEV) No. 2020-10-001788 dated October 30, 2020, had 
+recorded the entire liquidation for the first year of implementation of Project 3: 
+
+Investigation of the Factors Affecting the Sensory Properties and Acceptability of VCO 
+
+under Program "Upgrading the PNS for Virgin Coconut” in SL No. 10303010-00-04-37-
+
+
+
+48 
+
+035.  However, liquidation amounting to ₱804,053.58 for the same project was previously 
+
+recorded under JEV No. 2019-12-003462 dated December 20, 2019.  Thus, the double 
+
+recording of liquidations understating the Due from NGAs and Accumulated 
+
+Surplus/(Deficit) accounts by ₱804,053.58. 
+
+ 
+
+9. We recommended and Management agreed to require the Accountant to 
+prepare the necessary adjusting entries debiting Due from NGAs account and 
+
+crediting Accumulated Surplus/(Deficit) account by ₱804,053.58. 
+ 
+10.  Management also commented that the said liquidation is subject to verification of 
+the Accountant. 
+ 
+
+c) Erroneous recognition of undelivered inventory items of ₱163,235.40 as outright 
+expense. 
+
+ 
+
+11. Section 7, Chapter 8 of the GAM for NGAs, Volume I, provides that “When 
+inventories are sold, exchanged, or distributed, their carrying amount shall be recognized 
+
+as an expense in the period in which the related revenue is recognized. If there is no related 
+
+revenue, the expense is recognized when the goods are distributed or the related service is 
+
+rendered.” 
+
+ 
+
+12. Payment to the Procurement Service-Department of Budget and Management (PS-
+DBM) amounting to ₱318,283.12 under Advice to Debit Accounts (ADA) No. 
+
+2000000251 for the procurement of various janitorial and office supplies under Agency 
+
+Procurement Request (APR) No. 2020-004 revealed that only inventory items worth 
+
+₱155,047.72 was delivered. However, it can be noted that the whole amount of 
+
+₱318,283.12 was recognized as Office Supplies Expense and Other Office Supplies and 
+
+Materials Expense accounts amounting to ₱139,053.72 and ₱179,229.40, respectively, as 
+
+if there was an actual delivery for the remaining ₱163,235.40.  
+
+ 
+
+13. As a result, the Office Supplies Expense and Other Supplies and Materials Expense 
+accounts were overstated by ₱139,053.72 and ₱24,181.68, respectively, and understated 
+
+Due from National Government Agencies (NGAs) account by ₱163,235.40. 
+
+ 
+
+14.  We recommended and Management agreed to require the Accountant to 
+prepare the necessary adjusting entries for the undelivered items amounting to 
+
+₱163,235.40. 
+ 
+
+d) Erroneous recognition of materials purchased for the fabrication of six (6) thermal 
+scanners overstated the Other Professional Services and Other Supplies and 
+
+Materials Expenses by ₱363,375.00 and ₱180,840.00, respectively, and the 
+
+accounts Other PPE and Accumulated Depreciation were understated by 
+
+₱544,215.00 and ₱51,700.43, respectively. 
+
+ 
+
+15. Section 5, Chapter 10 of the GAM Volume I provides that the cost of an item of 
+PPE comprised of: 
+
+
+
+49 
+
+a. Purchase price, including import duties and non-refundable purchase taxes, 
+after deducting trade discounts and rebates; 
+
+ 
+
+b. Any costs directly attributable to bringing the asset to the location and condition 
+necessary for it to be capable of operating in the manner intended by the 
+
+management such as costs of employee benefits arising directly from the 
+
+construction or acquisition of the item of PPE; professional fees, etc; and 
+
+ 
+
+c. The initial estimate of the costs of dismantling and removing the item and 
+restoring the site on which it is located. 
+
+ 
+
+16. Volume III of the GAM on the Revised Chart of Accounts (RCA) (Updated 2019) 
+under COA Circular No. 2020-001 dated January 8, 2020, provides the definition of the 
+
+following accounts: 
+
+ 
+
+Other Supplies and Materials Expenses - This account is debited to recognize 
+
+the cost of inventories issued to end-users not otherwise classified under the 
+
+specific inventory expense accounts. This account is credited, at year end, to close 
+
+to the Revenue and Expense Summary account, and/or adjustments. 
+
+ 
+
+Other Professional Services – This account is debited to recognize the cost of 
+
+other professional services contracted by the agency not otherwise classified under 
+
+any of the specific professional services accounts. This account is credited, at year-
+
+end, to close to the Revenue and Expense Summary account, and/or adjustments. 
+
+ 
+
+Other Property, Plant and Equipment - This account is debited to recognize the 
+
+cost of acquisition or fair value, if acquired through donation or transfers without 
+
+cost, of other property, plant and equipment not falling under any of the specific 
+
+Property, Plant and Equipment account. This account is credited upon sale, 
+
+transfers, losses, destruction, derecognition of the carrying amount of the replaced 
+
+portion, other disposal, and/or adjustments. 
+
+ 
+
+17. The following payments of materials purchased and professional fees relative to the 
+fabrication of six (6) thermal scanners were recorded under Other Professional Services 
+
+and Other Supplies and Materials Expenses account, instead of the appropriate PPE 
+
+account. Moreover, no provision of depreciation was made due to the non-recognition of 
+
+Other PPE account upon the turned over of the thermal scanners to PCIEERD on July 3, 
+
+2020.  
+
+ 
+Table 5. List of Disbursements relative to the Fabrication of six (6) Thermal Scanners 
+
+Account 
+Name 
+
+JEV Date JEV No. ADA No. Payee  Amount (₱) 
+
+Other 
+Professional 
+Services 
+
+5-Aug-20/ 
+22-May-20 
+
+JEV-2020-08-
+001287/ JEV-2020-
+05-000942 
+
+2020000790/ 
+2020000637 
+
+Material Management 
+and Business 
+Development 
+Consultant 
+
+48,500.00 
+
+
+
+50 
+
+Account 
+Name 
+
+JEV Date JEV No. ADA No. Payee  Amount (₱) 
+
+5-Aug-20/ 
+22-May-20 
+
+JEV-2020-08-
+001289/ JEV-2020-
+05-000948 
+
+2020000792/ 
+2020000639 
+
+Information Systems 
+Researcher 
+
+80,000.00 
+
+5-Aug-20/ 
+22-May-20 
+
+JEV-2020-08-
+001277/ JEV-2020-
+05-000949 
+
+2020000793/ 
+2020000640 
+
+Project Development 
+Officer 
+
+85,000.00 
+
+5-Aug-20/ 
+22-May-20 
+
+JEV-2020-08-
+001288/ JEV-2020-
+05-000947 
+
+2020000791/ 
+2020000638 
+
+Software Developer 100,000.00 
+
+20-Apr-20 
+JEV-2020-04-
+000861 
+
+2020000583 
+Jassen Harris Industries 
+Corporation 
+
+    49,875.00  
+
+Sub-total 363,375.00 
+
+Other 
+Supplies 
+and 
+Materials 
+Expenses 
+
+5-Aug-20 
+JEV-2020-08-
+001382 
+
+2020000786 
+Ace Electronic 
+Technology Inc. 
+
+  180,840.00  
+
+Total   544,215.00  
+
+ 
+
+18. Due to the failure of the Management to recognize the appropriate PPE account for 
+the fabricated thermal scanners, the accounts Other Professional Services and Other 
+
+Supplies and Materials Expenses were overstated by ₱363,375.00 and ₱180,840.00, 
+
+respectively, and the accounts Other PPE and Accumulated Depreciation were understated 
+
+by ₱544,215.00 and ₱51,700.43 as at year-end.  
+
+ 
+
+19. We recommended and Management agreed to require the Accountant to effect 
+the necessary adjusting entries reclassifying the cost of the six (6) thermal scanners 
+
+into its appropriate PPE account and accordingly recognizing the corresponding 
+
+depreciation amounting to ₱544,215.00 and ₱51,700.43, respectively. 
+ 
+
+20. Management further commented that the Property Section shall submit the List of 
+Equipment Purchased (LEP) and Property Acknowledgment Receipt (PAR) and other 
+
+purchase documents of fabricated equipment to the Accounting Section for recording of 
+
+PPE and recognition of depreciation expenses. 
+
+ 
+
+e) Failure to recognize semi-expendable items upon delivery resulted in negative 
+balance for Semi-Expendable ICT Equipment account under Trust Fund amounting 
+
+to ₱58,000.00 
+
+ 
+
+21. Section 15, Chapter 2 of the GAM, Volume I provides that “the FSs shall present 
+fairly the financial position, financial performance and cash flows of an entity. Xxx.” 
+
+ 
+
+22. We observed that a purchase of four (4) smartphones under JEV No. 2019-11-
+001249 dated November 6, 2019 was charged to Trust Fund, where Semi-expendable ICT 
+
+Equipment and Accounts Payable accounts were recognized in the amount of ₱58,000.00.  
+
+We also observed that an adjusting entry was made under JEV No. 2019-12-001637 dated 
+
+December 1, 2019, wherein Other Receivables and Semi-expendable ICT Equipment 
+
+
+
+51 
+
+accounts were debited and credited, respectively, by ₱58,000.00. However, the said 
+
+purchase was paid and delivered as per JEV No. 2019-11-001210 dated November 27, 
+
+2019 with no recognition of Semi-expendable ICT Equipment account. Hence, Other 
+
+Receivables account remained outstanding by ₱58,000.00.  
+
+ 
+
+23. Further, after the recording of the submitted project liquidation reports to the SA 
+by debiting Due to NGAs account and crediting Semi-Expendable ICT Equipment account, 
+
+the Semi-Expendable ICT Equipment account under Trust Fund showed a negative balance 
+
+of ₱58,000.00. In addition, Other Receivables account was still outstanding by the same 
+
+amount of ₱58,000.00.  
+
+ 
+
+24. Negative balances are considered abnormal for asset accounts such as inventories 
+and the occurrence thereof should prompt the Accounting Division to immediately verify 
+
+their causes, and effect the necessary adjustments in the books of accounts. The existence 
+
+of negative balances cast doubts as to whether purchases and issuances of inventories were 
+
+correctly and completely recorded in the books, thus, affecting the reliability of the 
+
+inventory balances. 
+
+ 
+
+25. We recommended and Management agreed to require the Accountant to effect 
+the necessary adjusting entries debiting Semi-Expendable ICT Equipment and 
+
+crediting Other Receivables account, both by ₱58,000.00. 
+
+ 
+
+26. Management replied that an adjusting entry was made under JEV No. 2021-02-
+000189 dated February 1, 2021. 
+
+ 
+
+27. As a rejoinder, the adjustments made were apparently not completely effected as of 
+this report since negative SL balances still exist for two (2) out of the four (4) semi-
+
+expendable items, as follows:  
+
+ 
+
+a. Smartphone (10405030-00-02-08-00740) - ₱(9,500.00); and  
+b. Smartphone (10405030-00-02-08-00743) - ₱(9,500.00) 
+
+ 
+
+f) Non-reclassification of Other PPE of ₱52,040.00 which are below the capitalization 
+threshold of ₱15,000.00 to semi-expendable property 
+
+ 
+
+28. Section 10, Chapter 8 of the GAM, Volume I provides that “tangible items below 
+the capitalization threshold of ₱15,000.00 shall be accounted as semi-expendable 
+
+property. Semi-expendable property which were recognized as PPE shall be reclassified 
+
+to the affected accounts and these tangible items shall be recognized as expenses upon 
+
+issue to the end-user.” 
+
+ 
+
+29. Validation showed erroneous recording of liquidation reports submitted by the 
+implementing agency on its equipment outlay under JEV No. 2020-07-001331 dated July 
+
+1, 2020 under the Other PPE account for semi-expendable items totaling ₱52,040.00 with 
+
+costs below the capitalization threshold of ₱15,000.00. The related depreciation recognized 
+
+for this was ₱609.56. The non-reclassification to semi-expendable property overstated the 
+
+
+
+52 
+
+cost of Other PPE account by ₱52,040.00 and the related Accumulated Depreciation-Other 
+
+PPE and Accumulated Surplus/(Deficit) accounts by ₱609.56 and ₱51,430.44, 
+
+respectively. 
+
+ 
+
+30. We recommended and Management agreed to require the Accountant to 
+reclassify the PPE below the capital threshold of ₱15,000.00 by debiting Accumulated 
+
+Depreciation-Other PPE and Accumulated Surplus/(Deficit) account in the amount of 
+
+₱609.56 and ₱51,430.44, respectively, and crediting Other PPE account in the amount 
+
+of ₱52,040.00 in accordance with Section 10, Chapter 8 the GAM, Volume I. 
+ 
+
+31. Management commented that they have already reclassified into semi-expendable 
+property all the PPE below the capital threshold of ₱15,000.00. 
+
+ 
+
+32. As a rejoinder, we could not validate the compliance of Management as no journal 
+entry vouchers were provided. 
+
+ 
+
+g) Non-provision of depreciation for ICT Equipment and Other PPE accounts 
+amounting to ₱651,733.25 and ₱61,536,924.37, respectively. 
+
+ 
+
+33. Chapter 10, Section 27 of the GAM, Volume I provides that “PPE gradually loses 
+its ability to provide service over the course of time. Because of this, its cost needs to be 
+
+distributed on a systematic basis over its useful life.”  
+
+ 
+
+34. Whereas Section 27(c) states that “Depreciation of an asset begins when it is 
+available for use such as when it is in the location and condition necessary for it to be 
+
+capable of operating in the manner intended by management.”  
+
+ 
+
+35. Section 8, Chapter 12 of the GAM, Volume I provides that “After initial 
+recognition, intangible assets should be carried at its cost less any accumulated 
+
+amortization and any accumulated impairment losses.” 
+ 
+
+36. Further, Annex M of the same Manual illustrates that the IA shall recognize 
+depreciation for PPE purchased and yearly liquidate the said depreciation to the SA. 
+
+ 
+
+37. The ICT Equipment and Other PPE accounts of ₱4,051,100.00 and 
+₱164,793,818.78, respectively, were not provided with depreciation which includes 
+
+equipment acquired from both the Regular and Trust Funds in CYs 2006, 2010, 2012-2020. 
+
+ 
+
+38. Due to the practice of bulk recording of equipment outlay of liquidation reports 
+submitted by IAs, depreciation was not properly recognized from the time said equipment 
+
+were recorded in the books of accounts of PCIEERD. Further, we observed that provision 
+
+for depreciation of the said PPE is provided after the inventory of the Property Section and 
+
+detailed reclassification of equipment by the Accounting Section. Consequently, the non-
+
+provision of depreciation for these PPE affected the following accounts: 
+
+ 
+
+ 
+
+
+
+53 
+
+ 
+Table 6. List of Accounts Affected 
+
+Account Name Understated/(Overstated) Amount (₱) 
+
+Due to NGAs (16,373.25) 
+
+Accumulated Depreciation - ICT Equipment 651,733.25 
+
+Accumulated Depreciation - Other PPE 61,536,924.37 
+
+Accumulated Surplus/(Deficit) (62,172,284.37) 
+
+ 
+
+39. We recommended and Management agreed to require the Accountant to: (a) 
+refrain from the aggregate recording of equipment outlay during the liquidation of 
+
+the implementing agencies; and (b) effect the necessary adjustments and henceforth, 
+
+ensure the provision of depreciation on all PPE being used in the operation. 
+
+ 
+
+h) Erroneous provision for depreciation amounting to ₱1,223,340.90 resulting in 
+carrying amount not equal to zero or residual value at the end of estimated useful 
+
+life of PPE 
+
+ 
+
+40. Section 27(c), Chapter 10 of the GAM, Volume I states that “Depreciation of an 
+asset begins when it is available for use such as when it is in the location and condition 
+
+necessary for it to be capable of operating in the manner intended by management. For 
+
+simplicity and to avoid proportionate computation, depreciation shall be for one month if 
+
+the PPE is available for use on or before the 15th of the month. However, if the PPE is 
+
+available for use after the 15th of the month, depreciation shall be for the succeeding 
+
+month.”  
+
+ 
+
+41. Whereas, Section 27(d) also states that “Depreciation of an asset ceases when the 
+asset is derecognized. Therefore, depreciation does not cease when the asset becomes idle 
+
+or is retired from active use and held for disposal unless the asset is fully depreciated.” 
+
+ 
+
+42. Analysis showed that provision for depreciation was not in accord with the above 
+regulations, resulting in the carrying amount not equal to zero or the residual value past the 
+
+end of estimated useful life of various PPE amounting to ₱23,348,328.81, as shown in 
+
+Table 7. 
+
+ 
+
+43. The reasons for the erroneous provision for depreciation included: (a) recognition 
+of depreciation ceased prior to the end of the useful life of the PPE, (b) depreciation was 
+
+not recorded on month of purchase for PPE purchased up to the 15th day of the month, and 
+
+(c) depreciation was recorded on month of purchase for PPE purchased after 15th day of 
+
+the month. 
+
+ 
+Table 7: PPE whose carrying amount is not equal to zero or residual value at the end of estimated useful life 
+
+PPE 
+Acquisition 
+
+Cost (₱) 
+
+Accumulated
+
+Depreciation 
+
+(₱) 
+
+Net Book 
+
+Value (NBV) 
+
+(₱) 
+
+Residual 
+
+Value (RV) 
+
+(₱) 
+
+Variance (₱) 
+
+ICT Equipment 1,180,245.00 1,037,429.08 142,815.92 59,012.25 83,803.67 
+
+Communication Equipment 250,000.00 233,604.42 16,395.58 12,500.00 3,895.58 
+
+Furniture and Fixtures 1,134,607.41 1,060,197.79 74,409.62 56,730.37 17,679.25 
+
+
+
+54 
+
+PPE 
+Acquisition 
+
+Cost (₱) 
+
+Accumulated
+
+Depreciation 
+
+(₱) 
+
+Net Book 
+
+Value (NBV) 
+
+(₱) 
+
+Residual 
+
+Value (RV) 
+
+(₱) 
+
+Variance (₱) 
+
+Other PPE 20,783,476.40 18,626,340.18 2,157,136.22 1,039,173.82 1,117,962.40 
+
+TOTAL 23,348,328.81 20,957,571.47 2,390,757.34 1,167,416.44 1,223,340.90 
+
+ 
+
+44. As can be gleaned from Table 7, the erroneous provision for depreciation of fully 
+depreciated PPEs amounting to ₱23,348,328.81 resulted in a total NBV of ₱2,390,757.34. 
+
+However, comparison between the NBV and RV amounting to ₱2,390,757.34 and 
+
+₱1,167,416.44, respectively, showed a variance of ₱1,223,340.90. Thus, understating the 
+
+related Accumulated Depreciation account and overstating Accumulated Surplus/(Deficit) 
+
+account by ₱1,223,340.90. 
+
+ 
+
+45. We recommended and Management agreed to require the Accountant to 
+strictly comply with Section 27, Chapter 10 of the GAM, Volume I on the provision 
+
+for depreciation of PPE. 
+ 
+
+46. Management commented that the journal entry for depreciation is auto-generated 
+in the Electronic New Government Accounting System (e-NGAS) and this is still being 
+
+referred to the COA- Information and Technology (IT) Section. 
+
+ 
+
+i) Inconsistency in the application of estimated useful life for various PPE accounts 
+amounting to ₱11,767,695.94 resulting in overstatement of the related Accumulated 
+
+Depreciation and Depreciation Expense account by ₱800,634.64 and ₱450,951.36, 
+
+respectively, and understatement of Accumulated Surplus/(Deficit) account by 
+
+₱349,683.28 
+
+ 
+
+47. The PCIEERD policy on estimated useful life of PPE, as disclosed in the financial 
+statements, is as follows: 
+
+ 
+Table 8: PCIEERD Policy on Estimated Useful Life 
+
+Account Name Estimated Useful Life 
+
+Office Equipment 5 
+
+ICT Equipment  5 
+
+Communication Equipment 5 
+
+Technical and Scientific Equipment  10 
+
+Motor Vehicles 7 
+
+Furniture and Fixtures  10 
+
+Other PPE 5 
+
+ 
+
+48. The above policy on estimated useful life of assets was not consistently applied on 
+26 PPE amounting to ₱11,767,695.94 due to the failure of Management to ensure that the 
+
+Accounting personnel-in-charge has an updated list of PPE classification and its useful life. 
+
+Hence, the inconsistency in the application of estimated useful life to its PPE resulted in 
+
+the following discrepancies: 
+
+ 
+
+ 
+
+
+
+55 
+
+Table 9: Summary of Misstatements on PPE account 
+
+PPE Account 
+
+Understatement/(Overstatement) (₱) 
+
+Accumulated 
+
+Depreciation 
+
+Depreciation 
+
+Expense 
+
+Accumulated 
+
+Surplus/ 
+
+(Deficit) 
+
+Office Equipment 278,029.01 103,192.47   (174,836.54) 
+
+Communication Equipment 30,919.49 (20,939.94)      (51,859.43) 
+
+Furniture and Fixtures (12,489.22) (4,683.46)          7,805.76  
+
+Motor Vehicles (1,097,093.92) (528,520.53)     568,573.39  
+
+Total (800,634.64) (450,951.46) 349,683.18 
+
+ 
+
+49. Due to the failure to provide the correct estimated useful life to its PPE, there is an 
+overstatement to the related Accumulated Depreciation and Depreciation Expense by 
+
+₱800,634.64 and ₱450, 951.26, respectively, and an understatement of the Accumulated 
+
+Surplus/ (Deficit) account amounting to ₱349,683.18. 
+
+ 
+
+50. We recommended and Management agreed to require the Accountant to: 
+ 
+
+a. effect the necessary adjusting entries by debiting the related Accumulated 
+Depreciation account and crediting the Accumulated Surplus/ (Deficit) 
+
+account, both by ₱800,634.64; 
+
+ 
+
+b. ensure consistency in the assignment/application of estimated useful life 
+for PPE in accordance with the agency’s policy as disclosed in the Notes to 
+
+Financial Statements; and 
+
+ 
+
+c. ensure that the Accounting personnel-in-charge has an updated list of PPE 
+classification and its useful life. 
+
+ 
+
+j) Failure to derecognize accumulated depreciation of ₱51,018.34 for transferred PPE  
+ 
+
+51. Chapter 10, Section 39 of the GAM, Volume I states that “The cost of the PPE 
+together with the related accumulated depreciation and accumulated impairment loss shall 
+
+be removed from the accounts. The carrying amount of an item of PPE shall be 
+
+derecognized on disposal or when no future economic benefits or service potential is 
+
+expected from its use or disposal.” 
+
+ 
+
+52. The Accumulated Depreciation - Other PPE account included ₱51,018.34 for items 
+already transferred to IAs, contrary to the above guidelines. Moreover, we  observed that 
+
+depreciation on the month of transfer to IAs was not derecognized; thus, overstating the 
+
+Accumulated Depreciation-Other PPE account and understating Accumulated 
+
+Surplus/(Deficit) account by ₱51,018.34. 
+
+ 
+
+53. We recommended and Management agreed to require the Accountant to (a) 
+ensure that the related Accumulated Depreciation account is appropriately 
+
+derecognized with the PPE account, and (b) effect the necessary adjustments by 
+
+
+
+56 
+
+debiting Accumulated Depreciation-Other PPE account and crediting Accumulated 
+
+Surplus/(Deficit) account in the amount of ₱51,018.34. 
+ 
+
+54. Management replied that adjustments were already made per JEV No. 2021-02-
+000523. 
+
+ 
+
+55. As a rejoinder, we could not validate the adjusting entry made as the said JEV No. 
+cannot be found in the e-NGAS. 
+
+ 
+
+k) Recognition of equipment/Other PPE acquisition by IAs amounting to 
+₱164,523,138.78 
+
+ 
+
+56. Section 17(b.2), Chapter 10 of the GAM, Volume I provides for recording of PPE 
+acquired through fund transfer to other Government Agencies or NGOs/CSOs in which it 
+
+states that for acquisition by IA/Entity, “The IA/entity shall record and monitor the PPE 
+
+purchased out of inter-agency transferred funds when the PPE meets the recognition 
+
+criteria.” 
+
+ 
+
+57. Further, Annex M of the same Manual illustrates that the SA shall recognize PPE 
+purchased by the IA upon its return to the SA. 
+
+ 
+
+58. Analysis of the Other PPE account showed that acquisition of equipment in the 
+liquidation reports submitted by IAs are recognized as PPE by PCIEERD. Moreover, we 
+
+noted that the said recognized PPE were recorded in bulk, not itemized and still in the 
+
+custody of the implementing agencies (IAs). 
+
+ 
+
+59. As at December 31, 2020, a total of ₱164,523,138.78 covering 86 projects was 
+recorded under Other PPE account. This is composed of equipment outlay recorded in CY 
+
+2020 amounting to ₱33,155,136.00 and recorded in prior years amounting to 
+
+₱131,368,002.78 with dates indicated as early as CY 2006.  
+
+ 
+
+60. Thus, the recognition of PPE in the custody of the IA overstated the Other PPE 
+account by ₱164,523,138.78 and understated the Due from NGAs and Due from Non-
+
+Government Organizations/Civil Society Organizations accounts by ₱138,502,298.46 and 
+
+₱26,020,840.32, respectively. 
+ 
+
+61. We recommended that Management require the Accountant to record the liquidation 
+of inter-agency transfer fund in strict compliance with the illustrative accounting entries 
+
+shown in Annex M of the GAM, Volume I. 
+
+ 
+
+62. As of this report, we did not receive any comment from Management on the 
+foregoing audit observation and recommendation. 
+
+ 
+
+l) Recognition of not yet due and demandable obligations amounting to 
+₱72,940,299.76 
+
+ 
+
+
+
+57 
+
+63. The Revised Chart of Accounts (RCA) under Volume III of the GAM, which 
+contains the list and description of accounts to be used in recording transactions, among 
+
+others, provides the following: 
+
+ 
+
+Accounts Payable – This account is credited to recognize receipt of goods or 
+
+services on account in the normal course of trade and business operation. This 
+
+account is debited for payment/settlement of liabilities, and/or adjustments 
+
+ 
+
+Due from NGAs – This account is debited to recognize advances for purchase of 
+
+goods/services as authorized by law, fund transfers to the NGAs for 
+
+implementation of projects and other receivables from NGAs. This account is 
+
+credited upon receipt of goods/services, liquidation of fund transfers, receipt of 
+
+payment, settlement, write-off, and/or adjustments. 
+
+ 
+
+Due from NGOs/CSOs – This account is debited to recognize amount of advances 
+
+granted to NGOs/ CSOs for implementation of specific projects. This account is 
+
+credited for liquidation, write-off, and/or adjustments 
+
+   
+
+64. Section 37, Chapter 1 of the GAM, Volume I states that no obligation shall be 
+certified to accounts payable unless the obligation is founded on a valid claim that is 
+
+properly supported by sufficient evidence and unless there is proper authority for its 
+
+incurrence. 
+
+ 
+
+65. Department of Budget and Management (DBM) Circular Letter No. 2013-16 dated 
+December 23, 2013, defined the following terms: 
+
+ 
+
+Section 5.1. Accounts Payable - refer to valid and legal obligations of NGAs/ 
+
+operating units (OUs), for which, goods/services/projects have been 
+
+delivered/rendered/completed and accepted, regardless of the year when these 
+
+obligations were incurred. 
+
+ 
+
+Section 5.5. List of Due and Demandable Accounts Payable with Advice to 
+
+Debit Account (LDDAP-ADA) – refers to an accountable form integrating the 
+
+ADA with the LDDAP which is a list reflecting the names of creditors/payees to 
+
+be paid by the NGA/OU and the corresponding amounts of their unpaid claims, 
+
+duly certified and approved by the heads of the accounting unit and the agency, or 
+
+authorized officials. 
+
+ 
+
+Section 5.6. List of Not Yet Due and Demandable Obligations (LNYDDO) – 
+
+refers to a list reflecting the NGA/OU obligations charged against prior years’ 
+
+budget for which, goods, services, and projects are not yet delivered, rendered, nor 
+
+completed/accepted as of December 31 of the preceding year. 
+
+ 
+
+66. Moreover, Section 6.1.2 of DBM Circular Letter No. 2013-16 dated December 23, 
+2013, states that “Obligations, for which goods/services/projects have not yet been 
+
+delivered/rendered/completed by the creditor and accepted by the NGA/OU, shall not be 
+
+
+
+58 
+
+recorded as A/Ps at the end of the year. These obligations shall only be recognized as 
+
+A/Ps on the date of delivery/rendition/completion and acceptance of the 
+
+goods/services/projects, regardless of the year of incurrence of such obligations.” 
+
+ 
+
+67. Recognized payables as at year-end included fund transfers to be released to various 
+IAs and NGOs/CSOs, thus, the debit to Due from NGAs or Due from NGOs/CSOs accounts 
+
+and the credit to Accounts Payable account amounting to ₱72,940,299.76.  
+
+ 
+
+68. We noted, however, that those payables were not yet due and demandable 
+obligations or contracts which the government has entered into, i.e., the goods have not 
+
+been delivered or the services have not been rendered. Hence, no payables should be 
+
+recorded at year-end. Similarly, Due from NGAs and Due from NGOs/CSOs accounts 
+
+should not be recognized as there have been no actual transfers of funds to IAs and 
+
+NGOs/CSOs. 
+
+ 
+
+69. Inquiry with the Accountant revealed that the noted payables were on-going 
+projects which require immediate release of funds to implementing agencies in order not 
+
+to hamper the projects’ activities and utilizing the CY 2020 budget allocation. 
+
+ 
+
+70. As of this report, ₱23,399,353.16 or 32.08% of the total recognized NYDDO 
+remained to be unpaid. 
+
+ 
+
+71. Moreover, validation of the previous practice of recognizing NYDDO showed that 
+Other Receivables account remained to be outstanding despite the payment and delivery of 
+
+goods resulting in overstatement of Other Receivables and Accumulated Surplus/ (Deficit) 
+
+account amounting to P26,679,187.13. Details are shown below: 
+
+ 
+Table 10: Outstanding Other Receivables account despite the payment and delivery of goods 
+
+Date JEV No. Payee Particulars Amount (₱) 
+
+12/28/2018 
+JEV-
+2018-12-
+004466 
+
+IEQUITY 
+Technologies 
+Corp 
+
+Set-up Payables for Purchase  
+Order (PO) No. 118-18 dated December 20, 2018  
+re: Payment for ICT supplies  
+
+456,725.00 
+
+12/28/2018 
+JEV-
+2018-12-
+004469  
+
+Set-up Payables for PO No. 115A-18 dated December 17, 
+2018  
+re: IP Phone Yealink SIP T2IP and 1 year  
+Adobe Cloud Subscription  
+
+318,450.00 
+
+12/28/2018 
+JEV-
+2018-12-
+004457  
+
+Set-up Payables of ICT  
+Software subscription as per P.O. 123-18  
+dated December 28, 2018  
+
+312,380.00 
+
+12/28/2018 
+JEV-
+2018-12-
+004440 
+
+Integrated 
+Computer 
+Systems, Inc 
+
+Set-up Payables PO No. 125-18 dated December 28, 2018  
+re: Various IT supplies (BAC Resolution No.  
+2018-006 PCMD-ISSP)  
+
+2,568,155.00 
+
+12/29/2017 
+JEV-
+2017-12-
+004023  
+
+SIM Computer 
+Sales, Inc. 
+
+To adjust entry made in JEV No.  
+2017-12-003926 PO No. 091-17  
+dated December 19, 2017 re: Back up and  
+replication software subscription for VM ware  
+(amount should not be expensed outright) 
+
+721,000.00 
+
+12/29/2017 
+JEV-
+2017-12-
+003949  
+
+QTECH 
+Business 
+Solutions, Inc. 
+
+Set-up Payables 20% for the  
+service provider for Enhancement of Project Management 
+Information System (PMIS) 
+
+3,900,000.00 
+
+
+
+59 
+
+Date JEV No. Payee Particulars Amount (₱) 
+
+12/29/2017 
+JEV-
+2017-12-
+004024  
+
+EVI Distribution 
+Inc. 
+
+Set-up Payables for service  
+provider for Establishment of Multimedia  
+Systems  
+
+18,402,477.13 
+
+Total 26,679,187.13 
+
+ 
+
+72. Consequently, the above-mentioned practice affected the accuracy of the following 
+accounts in the financial statements: 
+
+ 
+Table 11: List of Accounts Affected 
+
+Account 
+ Understated/ 
+
+(Overstated) (₱) 
+
+Due from NGAs               (45,468,442.20) 
+
+Due from NGOs/CSOs               (27,471,857.56) 
+
+Accounts Payable               (72,940,299.76) 
+
+Other Receivables               (26,679,187.13) 
+
+Accumulated Surplus/ (Deficit)               (26,679,187.13) 
+
+ 
+
+73. Based on the Agency Action Plan and Status of Implementation (AAPSI) submitted 
+by Management via email on March 23, 2021, the Accounting Section had already stopped 
+
+the practice of recording payables for NYDDO.  We noted, however, that the said practice 
+
+still existed in CY 2020. 
+
+ 
+
+74. We reiterated our prior year’s recommendations and Management agreed to 
+require the Accountant to: 
+
+ 
+
+a. stop the practice of recording of payables for NYDDO; and 
+ 
+
+b. prepare necessary adjusting entries for the outstanding receivables 
+amounting to ₱26,679,187.13. 
+
+ 
+
+75. Management commented that the Accountant already stopped the recording of 
+Accounts Payables that are not yet due and demandable obligations starting in January 
+
+2021. 
+
+ 
+
+m) Erroneous recording of liquidation and reversion of unexpended balances to the SAs 
+resulted in the understatement of the Due to NGAs account by ₱2,135,235.94 and 
+
+existence of negative balances amounting to ₱(3,045,317.96) 
+
+ 
+
+76. Verification of subsidiary ledger (SL) balances showed erroneous recording of 
+liquidations and reversion of unexpended balances to the SAs. Due to the erroneous posting 
+
+of transactions to the SL and the double recording of refunds of unexpended balances to 
+
+SAs resulting from erroneous adjusting entries, the following accounts were 
+
+understated/overstated: 
+
+ 
+
+ 
+
+ 
+
+
+
+60 
+
+Table 12: Understatement/ (Overstatement) of various accounts 
+Account Name Understated/ (Overstated) (₱) 
+
+Cash - Treasury/Agency Deposit (TAD), Trust                        2,133,671.39  
+
+Due to NGAs                       2,135,235.94  
+
+Accumulated Surplus/(Deficit)                            (1,564.55) 
+
+ 
+
+77. It also resulted in the existence of negative balances of some projects, as can be 
+gleaned from Table 13. 
+
+ 
+Table 13: Negative SL Balances 
+
+Project Name Amount (₱) 
+
+Department of Science and Technology (DOST): Development of Transport 
+Packaging Technology for Cut Flowers (Rose Chrysanthemum) 
+
+(177,403.33) 
+
+DOST: PHIL-LIDAR 2B Proj. 1 - Region 1 Mariano Marcos State University (MMSU) (1,300.00) 
+
+DOST: PHIL-LIDAR 2B Proj. 2 - Region 2 Iligan State University (ISU) (17,678.86) 
+
+DOST: PHIL-LIDAR 2B Proj. 5 - Region 4A Mapua Institute of Technology (MIT) (55,661.59) 
+
+DOST: PHIL-LIDAR 2B Proj. 9 - Region 8 Visayas State University (VSU) (134,587.00) 
+
+DOST: PHIL-LIDAR 2B Proj. 10 - Region 9 Ateneo de Zamboanga University (AdZU) (161,685.10) 
+
+DOST: PHIL-LIDAR 2B Proj. 11 - Region 10 Central Mindanao University (CMU) (193,195.02) 
+
+DOST: PHIL-LIDAR 2B Proj. 13 - Region 11 University of the Philippines (UP) 
+Mindanao 
+
+(11,427.73) 
+
+DOST: PHIL-LIDAR 2A Proj. 1 - University of the Philippines Diliman - Training Center 
+for Applied Geodesy and Photogrammetry (UPD-TCAGP) 
+
+(312.08) 
+
+DOST: PHIL-LIDAR 2A Proj. 2 - UPD-TCAGP (5,299.71) 
+
+DOST: PHIL-LIDAR 1A Proj. 3 - UPD-TCAGP (8,679.65) 
+
+DOST: PHIL-LIDAR 1A Proj. 5 - UPD-TCAGP (17,217.87) 
+
+DOST: PHIL-LIDAR 1A Proj. 6 - UPD-TCAGP (86,424.71) 
+
+DOST: PHIL-LIDAR 1B Proj. 2 – ISU (2,450.39) 
+
+DOST: PHIL-LIDAR 1B Proj. 6 – Ateneo de Naga University (AdNU) (4,134.33) 
+
+DOST: PHIL-LIDAR 1B Proj. 12 - Mindanao State University - Iligan Institute of 
+Technology (MSU-IIT) 
+
+(540.00) 
+
+DOST: Climate Change Adaptation and Disaster Resilience Cluster PH-US Joint 
+Cooperation 
+
+(1,536,335.00) 
+
+DOST: MECO-TECO: Project 2. Heavy Rain Monitoring and Forecasting in the 
+Mountainous Area and Early Warning Lan 
+
+(0.04) 
+
+DOST: Strengthening of DOST Regional Metrology Laboratory Phase II (98,282.49) 
+
+DOST: Proj. 1. Leveraging the Power of Broadcast and Web Media to Promote 
+Science for the People under the program: Communications Towards a Strategic 
+
+(0.20) 
+
+DOST:  Effectiveness of the 20th Century Learning Environment Model as Support 
+System to Teaching and Learning of Science and Mathematics. 
+
+(1,546.55) 
+
+DOST: Environmental, Health and Safety Research in the Risk Assessment of 
+Nanomaterials (Phase 1) 
+
+(40,683.04) 
+
+DOST: P3. Space Science and Technology Proliferation Through University 
+Partnership under Space Technology and Application Mastery Innovation and 
+Advancement 
+
+(81,581.48) 
+
+DOST: Project 2. Ocean Renewable Energy-Design and Performance Evaluation of 
+an Ocean Renewable Energy System under the NICER Program: Mindanao Renewal 
+
+(155,191.26) 
+
+DOST: Project 1. Concentrated Solar Power -Design and Performance Evaluation of a 
+Micro-Scale CSP Technology under the Accelerated R&D Program for Cap 
+
+(123,981.02) 
+
+DOST: Project 2- Enhanced Severe Wind Vulnerability Curves of Key Building Types 
+in the Philippines 
+
+(106,336.43) 
+
+
+
+61 
+
+Project Name Amount (₱) 
+
+DOST: Project 1- Documentation of Philippine Indigenous Bamboo Musical 
+Instruments 
+
+(344.55) 
+
+DOST: Valorization of Coconut Water through Beverage Development (23,038.53) 
+
+Total (3,045,317.96) 
+
+ 
+
+78. The AAPSI as of December 31, 2020 showed that the Accounting Section had 
+analyzed the SLs with negative balances and made the necessary adjusting entries. 
+
+However, negative SL balances identified in the prior year’s audit still existed in CY 2020. 
+
+ 
+
+79. Existence of negative SL balances is a red flag that errors were made in the 
+recording of transactions. Hence, the Accounting Section should immediately verify the 
+
+causes thereof, and effect the necessary adjustments in the books to prevent the 
+
+accumulation of accounting errors. 
+
+ 
+
+80. We recommended and Management agreed to require the Accountant to 
+review/correct/update the project individual SL and ensure that the balances 
+
+appearing in the SL are properly supported by information traceable to original 
+
+documents to avoid accumulation of negative SL balances. 
+ 
+
+81. In summary, the total misstatements amounting to ₱789,051,427.01, 
+₱75,059,162.45, and ₱90,297,659.64, respectively, which represents 27.34 percent, 16.66 
+
+percent, and 3.71 percent of PCIEERD’s total assets, liabilities and equity, respectively. 
+
+Due to the significant impact of the misstatements on the financial statements of PCIEERD, 
+
+we rendered a Qualified Opinion on the financial statements of the agency as at year-end. 
+
+ 
+
+Accounting Deficiencies 
+
+ 
+
+82. We also noted some accounting deficiencies which affected the reported balances 
+of the accounts in the financial statements, as follows:  
+
+ 
+
+a) Unreliable Due from NGAs and Due from NGOs/CSOs account balance of IAs 
+ 
+
+83. Unreliable Due from NGAs and Due from NGOs/CSOs account balances 
+amounting to ₱1,772,069,359.32 and ₱517,358,812.30, respectively, due to: (a) 
+
+reported discrepancies of book balances with the confirmed balances of 
+
+₱143,744,940.89 and ₱3,279,603.56 of several NGAs and NGOs/CSOs/private entities, 
+
+correspondingly; (b) unexpended balances of completed projects in the amount of 
+
+₱1,016,310,225.36 and ₱189,413,183.79, which are outstanding from one (1) year to 
+
+over 10 years in the accounts; and (c) occurrence of negative SL balances amounting 
+
+to ₱(2,935,900.70) for Due from NGAs account as well as for Due from NGOs/CSOs 
+
+account amounting to ₱(69,578.18). 
+
+ 
+
+84. PCIEERD, in partnership with other government and private institutions, provide 
+financial assistance through its Grants-in-Aids (GIA) Program to support research and 
+
+development program/projects that will contribute significantly to national economic and 
+
+industrial development of the country.  The project shall be covered with Memorandum of 
+
+
+
+62 
+
+Agreement (MOA) which embodies the terms and conditions between PCIEERD as the 
+
+SA/ Funding Agency (FA) and Monitoring Agency (MA) and other government agencies; 
+
+NGOs/CSOs; and private institutions as IAs.  Funding of these research projects is sourced 
+
+from the GIA fund of PCIEERD or from DOST and/or attached Agencies and other 
+
+government agencies and PCIEERD may either function as FA or MA.  A Technical Report 
+
+/Financial Report (FR) and Terminal Audited Financial Reports (TAFR) shall be submitted 
+
+in order to account the utilization of the grant.  As MA, PCIEERD shall be in-charge in the 
+
+evaluation, monitoring and assessment of the projects. All funds provided for the projects 
+
+are recorded under the account Due from NGAs and Due from NGOs/CSOs account. 
+
+ 
+
+85. Below Table 14 shows the summary of observations: 
+ 
+
+Table 14: Summary of Observations 
+Observation Criteria Cause Amount (₱) Effect 
+
+Variance between 
+book balance and 
+IAs amounting to 
+₱143,744,940.89 
+and ₱3,279,603.56 
+for Due from NGAs 
+and Due from 
+NGOs/CSOs 
+account, 
+respectively 
+
+COA Circular No. 94-013 dated 
+December 13, 1994 sets forth the 
+rules and regulations in the grant, 
+utilization and liquidation of funds 
+transferred to IAs. This is to 
+ensure that the transfer is 
+properly taken up in the books of 
+the SA and IA and used only for 
+the intended purpose and that 
+proper accounting and reporting 
+is made of the utilization of the 
+funds. 
+Paragraph 4.6 of said Circular 
+provides that within ten (10) days 
+after the end of each month/end 
+of the agreed period for the 
+Project, the IA shall submit the 
+Report of Checks Issued (RCI) 
+and the Report of Disbursement 
+(RD) to report the utilization of the 
+funds.  
+
+ 
+Paragraph 4.9 further states that 
+the IA shall return to the SA any 
+unused balance upon completion 
+of the project while Paragraph 5.4 
+provides that the SA shall require 
+the IA to submit the reports and 
+furnish the IA with a copy of the 
+JEV taking up the expenditures. 
+
+ 
+COA Circular No. 2016-005 dated 
+December 19, 2016 provides that 
+“All government entities shall 
+conduct regular monitoring and 
+analysis of receivable accounts to 
+ensure that these are collected 
+when these become due and 
+demandable and that cash 
+
+ FRs were not yet 
+submitted by the 
+IAs to PCIEERD 
+but liquidations 
+were already 
+recorded in the 
+IAs books of 
+accounts; 
+ 
+
+ FRs were 
+submitted by the 
+IAs but not yet 
+recorded in the 
+books; 
+ 
+
+ Return of 
+unexpended 
+balance not 
+recorded in the 
+books; 
+ 
+
+ Fund transfer not 
+recorded by IA 
+ 
+
+ Purchase of 
+equipment 
+recorded as 
+liquidation  
+ 
+
+ Depreciation of 
+equipment not 
+recorded as 
+liquidation 
+
+ 
+
+Due from NGAs (as 
+of September 30, 
+2020) - 
+₱143,744,940.89  
+ 
+ 
+Due from 
+NGOs/CSOs (as of 
+October 31, 2020) - 
+₱3,279,603.56 
+
+Unreconciled 
+balances of Due from 
+NGAs and Due from 
+NGOs/CSOs 
+accounts 
+
+
+
+63 
+
+Observation Criteria Cause Amount (₱) Effect 
+advance and fund transfers are 
+liquidated within the prescribed 
+period depending upon their 
+nature and purpose.” Moreover, 
+the Accountant shall: 
+
+ 
+Section 7.1: Conduct regular and 
+periodic verification, analysis, 
+and validation of the existence of 
+the receivables, unliquidated 
+cash advances, and fund 
+transfers, and determine the 
+concerned debtors, accountable 
+officers (Regular and Special 
+Disbursing Officers, Collecting 
+Officers, Cashiers) and the 
+source and implementing 
+government entities concerned; 
+
+ 
+Section 7.2: Reconcile the 
+unliquidated    fund     transfers 
+
+ between the source and 
+implementing government 
+entities, prepare adjusting entries 
+for the reconciling items noted, 
+and require liquidation of 
+balances 
+ 
+Section VIII Item 3.c of DOST 
+Administrative Order (AO) No. 
+009, series of 2017 dated 
+November 9, 2017 and Section X 
+Item C of DOST AO No. 011, 
+Series of 2020, dated September 
+2, 2020 provides that for 
+monitoring purposes, the IA shall 
+submit to the MA the FR within a 
+month after each semester. The 
+MA shall submit the FR and 
+supporting documents to the FA 
+not later than one (1) month after 
+receipt from the IA. 
+ 
+
+   
+
+Unexpended 
+balances of 
+completed projects 
+in the amount of 
+₱1,016,310,225.36 
+and 
+₱189,413,183.79 
+remained 
+outstanding from 
+one year (1) to over 
+10 years in the 
+
+Moreover, Section X Item C of 
+DOST AO No. 011, Series of 
+2020, dated September 2, 2020 
+provides: 
+
+ 
+3.c For completed projects, the 
+Terminal FR duly received by the 
+Agency’s COA Auditor shall be 
+submitted within three (3) months 
+after end of the project. The MA 
+shall submit the FR to the FA not 
+
+The project team 
+focused more on 
+the field work but 
+not much with the 
+administrative 
+tasks. Also, it entails 
+quite some time for 
+the IAs’ Accountant 
+to verify the 
+transactions 
+reported in the 
+
+Due from NGAs - 
+₱1,016,310,225.36 
+ 
+ 
+Due from 
+NGOs/CSOs - 
+₱189,413,183.79 
+
+Due to the non-
+submission of 
+liquidation documents 
+to report the utilization 
+of the funds, it could 
+not be ascertained 
+whether the subject 
+fund transfers were 
+already utilized or 
+have not been utilized 
+at all or the objectives 
+
+
+
+64 
+
+Observation Criteria Cause Amount (₱) Effect 
+accounts Due from 
+NGAs and Due 
+from NGOs/CSOs, 
+respectively. 
+
+later than one (1) month after the 
+receipt from the IA. 
+
+ 
+4.e Upon project completion/ 
+termination, all balances /savings 
+and income/interests earned 
+shall be reported and reverted to 
+SA/ FA within three (3) months 
+after the end of the project period 
+together with the Terminal FR. 
+
+ 
+Section 2.1 and 2.2 of COA 
+Circular 2012-001 dated June 14, 
+2012, enumerates the required 
+documentary requirements for 
+the release of funds and 
+implementation and liquidation     
+of     funds       to NGOs/CSOs. 
+This is consistent with Section 
+4(6) of PD 1445 which states that 
+claims shall be supported with 
+complete documentation. 
+ 
+Section 5.4 of COA Circular No. 
+2007-001 dated October 25, 
+2007 
+ 
+
+TAFRs. Thus, it 
+resulted in the 
+following 
+circumstances: 
+ 
+
+ Delay/non-
+submission of 
+Terminal Audited 
+FRs or AFR by 
+PMs from 
+NGOs/CSOs and 
+the required FRs 
+from IAs 
+
+ 
+
+ Failure by the 
+PMs to enforce 
+full and strict 
+compliance by 
+the IAs at their 
+obligation 
+
+ Non-forwarding 
+of submitted 
+FRs by the PM 
+to the 
+accounting unit 
+for recording of 
+liquidation. 
+
+of the projects were 
+attained. The 
+continuous existence 
+of these unliquidated 
+fund transfers in the 
+books demonstrates 
+laxity of the 
+Management in 
+monitoring project 
+implementation and 
+fund utilization. This 
+hinders the attainment 
+of   the objective            
+to translate the fund 
+into research outputs 
+and the performance 
+of the Agency’s 
+functions to  “Develop   
+and implement 
+programs for the 
+optimal utilization, 
+transfer and 
+commercialization of 
+technologies and 
+other research 
+outputs”, and 
+“Establish, develop 
+and maintain an 
+effective system for 
+the acquisition and 
+dissemination of 
+research information.” 
+Moreover, the 
+existence of the 
+unliquidated fund 
+transfers in the books.  
+ 
+Furthermore, it 
+exposes the 
+government to risk of 
+loss from bad debt, if 
+the receivables are 
+proven to be 
+uncollectable due to 
+failure to timely collect 
+the unexpended 
+budget. 
+
+ a) That “Within sixty (60) days 
+after the completion of the 
+project, the NGO/PO shall 
+submit the Fund Utilization 
+Report certified by its 
+accountant and approved by 
+its President/Chairman to the 
+Government Organization 
+(GO), together with the 
+inspection report and 
+certificate of project 
+completion rendered/issued 
+by the GO authorized 
+representative, list of 
+beneficiaries with their 
+acceptance/acknowledgement 
+of the project/funds/ goods/ 
+services received.  
+ 
+
+COA Circular No.  2016-002 
+dated May 31, 2016 amending 
+Item 3.1.1 of COA Circular No. 
+2012-001, requires a 
+"Certification by the Accountant 
+that funds previously transferred 
+to the lA has been liquidated 
+and accounted for in the books." 
+
+In addition, we have 
+observed that the 
+Accountant did not 
+issue certifications 
+for the previous 
+grants that have 
+been liquidated as 
+required in COA 
+Circular No. 2016-
+002 dated May 31, 
+2016, thus, there is 
+a risk that funds are 
+released without 
+liquidation of 
+previous grants. It 
+also noteworthy to 
+mention that DOST 
+Central Office (CO) 
+had been in 
+compliance with 
+COA Circular No. 
+2016-002 dated 
+May 31, 2016. 
+ 
+
+ 
+
+
+
+65 
+
+Observation Criteria Cause Amount (₱) Effect 
+In effect, post-audit of 
+disbursements of transferred 
+funds shall no longer be required 
+before the release of additional    
+funds  to  the   IAs. 
+ 
+Thus, COA Circular No. 2017-002 
+dated October 25, 2017, clarified 
+
+Existence of 
+negative SL 
+balance amounting 
+to ₱2,935,900.70 
+and ₱69,578.18 for 
+Due from NGAs 
+and Due from 
+NGOs/CSOs 
+account, 
+respectively 
+
+that the Auditor of the IA shall no 
+longer be required to issue a 
+certification on the post- audit of 
+the RCI and RD under Item 3.1.1 
+of COA Circular No. 2012-001. 
+Any audit observations noted by 
+the IA Auditors on the submitted 
+LRs had to be communicated to 
+the SA Auditor. 
+ 
+COA Circular No. 2016-002 dated 
+May 31, 2016 provides that 
+“Certification by the Accountant 
+that funds previously transferred 
+to be IA has been liquidated and 
+accounted for in the books.” 
+
+Erroneous posting 
+of transactions such 
+as liquidation and 
+refund of 
+unexpended 
+balances 
+
+Due from NGAs - 
+₱2,935,900.70 
+ 
+ 
+Due from 
+NGOs/CSOs - 
+₱69,578.18 
+
+Existence of negative 
+SL balances is a red 
+flag that errors were 
+made in recording of 
+transactions. Hence, 
+the Accounting 
+Section should 
+immediately verify the 
+cause and effect the 
+necessary 
+adjustments in the 
+books to prevent 
+accumulation of 
+accounting errors. 
+Further, the said 
+negative SL balances 
+was a reiteration of 
+CY 2019 audit 
+observation 
+
+ 
+
+86. Strict compliance with COA Circular No. 2016-015 dated December 19, 2016, and 
+DOST AO No. 011, Series of 2020, dated September 2, 2020, through regular monitoring 
+
+and reconciliation of receivable balances with the IAs shall effectuate timely submission 
+
+of liquidation reports, timely return of unexpended budget, and immediate detection and 
+
+correction of any noted discrepancies. 
+
+ 
+
+87. We reiterated our prior year’s recommendations and Management agreed to 
+require: 
+ 
+
+a. The Project Managers (PMs) and the Accountant to: 
+ 
+
+i. perform periodic reconciliation with the Accountants and Project 
+Leaders (PL) of the IAs for the immediate submission of the complete 
+
+documents to PCIEERD for review and recording, in strict compliance 
+
+with COA and DOST guidelines; 
+
+ 
+
+ii. revisit all completed projects with outstanding balances and coordinate 
+with the IAs for the immediate submission of LRs, and refund of any 
+
+unexpended balances;  
+
+ 
+
+
+
+66 
+
+iii. submit status report on research outputs for completed projects to 
+ensure that funds transferred to IAs were translated into project 
+
+deliverables; and 
+
+ 
+
+b. The Accountant to: 
+ 
+
+i. return the unexpended balance of Malayan Colleges Laguna 
+amounting to ₱26,421.46 to DOST; 
+
+ 
+
+ii. ensure that the SLs and JEVs be reviewed thoroughly prior to posting 
+of transactions in the SL to avoid accumulation of negative balances in 
+
+the future transactions; and 
+
+ 
+
+iii. record the necessary adjustments to reflect the correct balances of the 
+affected SL. 
+
+ 
+
+88. Management replied that while the concerned project managers conduct strict 
+monitoring of project implementation, a variance between the book balance and the IAs 
+
+record is likely to happen because adjustments in the Council's book of accounts will 
+
+depend on the submission of the IAs financial report. To address this problem, the Council 
+
+requires all project leaders to input the project releases and disbursements in the Project 
+
+Financial Monitoring Information System (PFMIS) developed by the Council for the 
+
+timely reporting and submission of the FRs to PCIEERD. 
+
+ 
+
+89. The Accounting Section will issue a demand letter to the IAs, despite the PMs 
+already made a follow-up through email and communication to the IA. In addition, the 
+
+Accountant will issue a certification on the funds reverted to the Bureau of the Treasury 
+
+(BTr) amounting to ₱26,421.46 to the DOST. DBM will no longer release funds for 
+
+completed project.  
+
+ 
+
+90. The Accountant also assigned one (1) Accounting Personnel to review and verify 
+JEV entries made by the other Accounting Personnel before the approval of the 
+
+Accountant. Further, reclassification has been made in January 2021 amounting to ₱2.8 
+
+million with JEV#2020-01-00000 and the remaining balance subject for adjustment. 
+
+ 
+
+91. As a rejoinder, the said reclassification made under JEV#2020-01-00000 could not 
+be found in the eNGAS. Hence, we cannot further validate the adjusting entries made. 
+
+ 
+
+b) Unreliable Inventory account balance 
+ 
+
+92. Inventory account balance of ₱1,668,985.99 was unreliable due to: (a) 
+recognition of trust funded supplies as an outright expense, and (b) reported variance 
+
+of ₱2,819.59 between the books and the Report on the Physical Count of Inventories 
+
+(RPCI). Moreover, supplies purchased under the trust fund and semi-expendable 
+
+property were not reported/included in the submitted RPCI. 
+
+ 
+
+
+
+67 
+
+93. Section 9 – Perpetual Inventory Method, Chapter 8 of the GAM, Volume I states 
+that “Supplies and materials purchased for inventory purpose shall be recorded using the 
+
+perpetual inventory system, resulting in a more accurate inventory records and a running 
+
+total for the cost of goods sold in each period.  The system requires accounting records to 
+
+show the amount of inventory on hand at all times through the maintenance of the SLC 
+
+(Appendix 57) by the Accounting Division/Unit and Stock Card (SC) (Appendix 58) by the 
+
+Supply and/or Property Division/Unit for each item in stock. Regular purchases shall be 
+
+coursed through the inventory account and issues thereof shall be recorded as they take 
+
+place except for supplies and materials purchased out of PCF for immediate use or on 
+
+emergency cases which shall be charged directly to the appropriate expense accounts.” 
+ 
+
+94. Annex M of the GAM, Volume I provides illustrative entries for trust receipts – 
+inter-agency transferred funds (IATF) for both the SA and IA. 
+
+ 
+
+95. Section 17 (i), Chapter 8 of the GAM, Volume I states that “RPCI shall be used to 
+report the physical count of supplies by type of inventory as at a given date.  It shows the 
+
+balance of inventory items per card and per count and shortage/overage, if any. These 
+
+include the semi-expendable property wherein the issue is covered by Inventory 
+
+Custodian Slip (ICS).” 
+ 
+
+96. Comparison of balances between the RPCI and the books of accounts, as at 
+December 31, 2020, revealed a variance of ₱2,819.59 as shown below: 
+
+ 
+Table 15: Discrepancy between RPCI and Book Balances as of December 31, 2020 
+
+Code Description Unit  
+
+RPCI  Books   Variance  
+
+ Unit 
+Cost (₱) 
+
+ Qty  
+Amount 
+
+(₱) 
+ Unit 
+
+Cost (₱) 
+ Qty  
+
+ Amount 
+(₱) 
+
+ Unit 
+Cost (₱) 
+
+ Qty  
+ Amount 
+
+(₱) 
+
+10404010-00-
+002-001-0017-
+0005B 
+
+IT SUPPLIES 
+(ENVELOPE 
+(Document Brown 
+Envelope with 
+PCIEERD and ISO 
+Logo 10inx15in)) 
+
+pc 10.50  270  2,835.00  10.50   142  1,491.00  -    128 1,344.00  
+
+10404010-00-
+001-001-0017-
+0005 
+
+OFFICE SUPPLIES 
+(ENVELOPE (Envelope 
+Expanding)) 
+
+pc 7.38  100  738.00  
+                        
+
+-    
+ 0  -    7.38  100 738.00  
+
+10404010-00-
+004-004-0003-
+0002 
+
+JANITORIAL 
+SUPPLIES 
+(DISINFECTANT 
+SPRAY (Air Freshener, 
+aerosol type, spray 
+mist)) 
+
+can 86.06  143  12,306.58  86.06  136.  11,704.16  -    7 602.42  
+
+10404010-00-
+004-004-0006-
+0007 
+
+TRASHBAG, GPP 
+specs, black, 10pcs per 
+roll/pack 
+
+pack 134.68  1  134.68    -    134.68  1 134.68  
+
+Total   16,014.26   13,195.16   2,819.10 
+
+ 
+
+97. Further, the RPCI submitted to us on January 27, 2021, comprised only of Office 
+Supplies Inventory and Other Office Supplies and Materials Inventory accounts under the 
+
+Regular Fund.  
+
+ 
+
+98. Inquiry with the Property Officer revealed that RPCI for trust funded supplies and 
+other related materials were not prepared as those items were recognized as an Expense 
+
+
+
+68 
+
+account. We also noted that the Property Officer conducted a physical count for those trust 
+
+funded inventory items and semi-expandable property. RPCI for trust funded inventory 
+
+items was submitted to us on February 11, 2021, via email, while RPCI for semi-
+
+expandable property was not yet submitted. 
+
+ 
+
+99. Further, RPCI for trust funded supplies did not contain the cost per unit which 
+would aid in determining the total value of supplies. Inquiry with the Property Section 
+
+revealed that physical count of supplies under the trust fund was only conducted for 
+
+monitoring purposes of the following year.  
+
+ 
+
+100. We noted that some of those inventory items were not yet issued/distributed to the 
+end-users and remained in the custody of the Property Section at year-end; hence, the 
+
+reported Inventory account balance is unreliable due to the outright recognition to the 
+
+expense account. Further, it was observed that liquidation reports submitted to the SA were 
+
+inclusive of inventories not yet issued/consumed by the end-users but already expended, 
+
+contrary to the illustrative entries provided in Annex M of the GAM, Volume I. 
+
+ 
+
+101. The said practice is contrary to the illustrative entries trust receipts-IATF Annex M 
+of the GAM, Volume I where it showed that receipt of supplies and materials shall be 
+
+recorded at its appropriate Inventory account, while issuances of supplies and materials to 
+
+end-users shall be recognized in its applicable Expense account. Further, it was clearly 
+
+presented in the said illustrative entries that only the expensed/issued portion of the 
+
+supplies and other related materials be liquidated to the SA. 
+
+ 
+
+102. Hence, the Inventory account is unreliable as the value of the trust funded 
+inventories under the custody of the Property Section were not reflected in the year-end 
+
+account balance. 
+
+ 
+
+103.  For the semi-expendable property, the RPCI had not yet been submitted to us as of 
+this report since the Property Section is in the process of determining the cost and 
+
+acquisition date as there were no previous RPCI to be used as reference. 
+
+ 
+
+104.  We recommended and Management agreed to require: 
+ 
+
+a. The Property personnel to submit RPCI for all inventory accounts under 
+the regular and trust funds duly reconciled with the Accounting records; 
+
+and  
+
+ 
+
+b. The Accountant to implement the Perpetual Inventory Method for 
+supplies and other related materials under the trust fund in accordance 
+
+with Section 9, Chapter 8 of the GAM, Volume I by recording the 
+
+remaining unissued supplies to its appropriate Inventory account. 
+
+ 
+
+105. Management commented that the RPCI for office supplies procured under trust-
+funded projects will be submitted to the Accounting Section for taking up in the books of 
+
+accounts. Further, RPCI for Semi-Expendable Asset accounts were already submitted on 
+
+
+
+69 
+
+April 13, 2021. However, there is a lack of information in the unit value and stock number 
+
+of semi-expendable items because some stickers were already detached. This will be 
+
+subject for further verification with their records and concerned end-users. 
+
+ 
+
+106. Moreover, recording of remaining/unissued supplies and materials under the Trust 
+Fund will be implemented starting CY 2021 in accordance with Section 9, Chapter 8 of the 
+
+GAM, Volume I upon receipt of the Property Section’s transmittal of the Inventory Report. 
+
+ 
+
+c) Unreliable PPE account balance 
+ 
+
+107. The balance of PPE account of  ₱798,979,035.31 as at December 31, 2020 was 
+not reliable due to  a net discrepancy between the balances in the books and the 
+
+RPCPPE amounting to ₱16,584,874.99, which resulted from: (a) recorded PPE not 
+
+found in the RPCPPE; (b) PPE listed in the RPCPPE but not found/counted; (c) PPE 
+
+in the RPCPPE not recorded in the books of accounts; (d) duplicate entries in the 
+
+RPCPPE; and (e) PPE with different amounts recorded in the books and the 
+
+RPCPPE. 
+
+ 
+
+108. Section 42, Chapter 10, of the GAM, Volume I provides that “The Chief 
+Accountant shall maintain the Property, Plant and Equipment Ledger Card (PPELC) for 
+
+each category of PPE including work and other animals, livestock etc. The PPELC shall 
+
+be kept to record promptly the acquisition, description, custody, estimated useful life, 
+
+depreciation, impairment loss, disposal and other information about the asset. For check 
+
+and balance, the Property and Supply Office/Unit shall likewise maintain Property Card 
+
+(PC) for PPE in their custody to account for the receipt and disposition of the same. The 
+
+balance per PC shall be reconciled with PPELC maintained by the Accounting 
+
+Division/Unit. They shall be reconciled with other property records like PAR.” 
+
+ 
+
+109. Comparison of the balances between the Accounting and Property records as of 
+December 31, 2020, showed a net discrepancy of ₱16,584,874.99, as shown below: 
+
+ 
+Table 16: Discrepancy between RPCPPE and Book Balances as of December 31, 2020 
+Account Name  Book (₱)  RPCPPE (₱)  Variance (₱) 
+
+Office Equipment 2,073,791.91 1,789,951.95 283,839.96 
+
+Information and Communication 
+Technology Equipment 
+
+27,262,143.57 35,300,476.17 (8,038,332.60) 
+
+Communication Equipment 1,027,383.28 766,398.98 260,984.30 
+
+Technical and Scientific Equipment  449,000.00 449,000.00 - 
+
+Motor Vehicles 13,599,704.42 13,599,704.42 - 
+
+Furniture and Fixtures  1,201,407.41 1,201,407.41 - 
+
+Other Property, Plant and Equipment 749,659,866.38 725,581,483.05 24,078,383.33 
+
+Computer Software 3,705,738.34 3,705,738.34 - 
+
+Total 798,979,035.31         782,394,160.32          16,584,874.99  
+
+ 
+
+110. The said net discrepancy was due to: (a) recorded PPE not found in RPCPPE; (b) 
+PPE listed in RPCPPE but not found/counted; (c) PPE in RPCPPE not recorded in the 
+
+books of accounts; (d) duplicate entries in RPCPPE; and (e) PPE with different amounts 
+
+
+
+70 
+
+recorded in the books and in the RPCPPE. The details of the discrepancy is summarized in 
+
+Table 17 below: 
+
+ 
+Table 17: Summary of Discrepancies between books and RPCPPE 
+
+Detail PPE Account Affected Amount (₱) 
+
+Recorded PPE not found 
+in RPCPPE 
+
+Office Equipment  283,839.96  
+
+ICT Equipment  1,459,004.00  
+
+Communication Equipment  285,750.00  
+
+Other PPE  202,729,188.76  
+
+Sub-Total 204,757,782.72 
+
+PPE listed in RPCPPE but 
+not found/counted 
+
+ICT Equipment (754,285.00) 
+
+Other PPE  (19,156,854.46) 
+
+Sub-Total (19,911,139.46) 
+
+PPE in RPCPPE not 
+recorded in the books 
+
+ICT Equipment  (8,511,371.40)  
+
+Communication Equipment  (24,765.70)  
+
+Other PPE   (159,369,780.97)  
+
+Sub-Total (167,905,918.07) 
+
+Duplicate entries in 
+RPCPPE 
+
+ICT Equipment (231,680.20) 
+
+Other PPE  (130,800.00) 
+
+Sub-Total (362,480.20) 
+
+PPE with different amounts 
+recorded in the books and 
+in the RPCPPE 
+
+Other PPE  6,630.00 
+
+Total 16,584,874.99 
+
+ 
+
+111. Further, comparison of discrepancies between CY 2020 and CY 2019 showed that 
+the recorded PPE not found in the RPCPPE had increased by ₱83,343,681.38 or 68.64% 
+
+from CY 2019, while the findings for unrecorded PPE found in the RPCPPE also increased 
+
+by ₱58,883,101.70 or 54.01%, as shown below: 
+
+ 
+Table 18: Comparison of discrepancies between CY 2020 and CY 2019 
+
+Detail 
+PPE Account 
+
+Affected 
+
+Amount (₱) Increase/ (Decrease) 
+
+CY 2020 CY 2019 Amount (₱) % 
+
+Recorded 
+PPE not 
+found in 
+RCPPE 
+
+Office Equipment 283,839.96 243,089.00           40,750.96  16.76% 
+
+ICT Equipment 1,459,004.00 260,854.80       1,198,149.20  459.32% 
+
+Communication 
+Equipment 
+
+285,750.00 285,750.00                       -    0.00% 
+
+Other PPE 202,729,188.76 120,624,407.54     82,104,781.22  68.07% 
+
+Sub-Total 204,757,782.72 121,414,101.34 83,343,681.38 68.64% 
+
+PPE in 
+RCPPE not 
+recorded in 
+the book 
+
+ICT Equipment          (8,511,371.40) -      (8,511,371.40)  - 
+
+Communication 
+Equipment 
+
+              (24,765.70)           (24,765.70)                       -    0.00% 
+
+Other PPE        (159,369,780.97)  (108,998,050.67)    (50,371,730.30) 46.21% 
+
+Sub-Total      (167,905,918.07)   (109,022,816.37)   (58,883,101.70) 54.01% 
+
+  
+
+112. The discrepancies/issues cast doubt on the existence and reliability of the recorded 
+PPE, as well as to the related accumulated depreciation and depreciation expense. 
+
+
+
+71 
+
+Consequently, there is an understatement/overstatement of the following accounts due to 
+
+unrecorded PPE but included in the RPCPPE: 
+
+ 
+Table 19: Understatement/ (Overstatement) on PPE account 
+
+PPE Account Understatement/(Overstatement) (₱) 
+
+ICT Equipment  8,511,371.40  
+
+Communication Equipment  24,765.70  
+
+Other PPE   159,369,780.97  
+
+Total 167,905,918.07 
+
+ 
+
+113. We recommended and Management agreed: 
+ 
+
+a. for serviceable PPE included in the RPCPPE but not recorded in the books, 
+to require the Property Officer to submit to the Chief Accountant the 
+
+documents required for recording in the books; and 
+
+ 
+
+b. for PPE recorded in the books but not included in the RPCPPE, to require 
+the concerned personnel to present the PPE for verification as to existence 
+
+and condition and propose inclusion in the RPCPPE. 
+
+ 
+
+e) Unreliable balance of Due to NGAs 
+ 
+
+114. The accuracy of the Due to NGAs account balance of ₱347,411,978.41 was 
+unreliable due to: (a) inclusion of completed projects and non-moving SL balances 
+
+amounting to ₱132,328,000.64 and ₱1,323,262.57, respectively, remained outstanding 
+
+from one (1) year to more than 10 years in the account balances and not returned to 
+
+the SAs, which is inconsistent with Section 63 (f) & (g) of Chapter 6, Volume I of the 
+
+GAM,; (b) variance of ₱171,472,208.29 per confirmation with SAs; and (c) 
+
+unreconciled balances of ₱878,383.14 from the merger of PCIERD and PCASTRD to 
+
+PCIEERD in 2010. 
+
+ 
+
+115. The accuracy of the balance of the Due to NGAs account as at December 31, 2020, 
+was unreliable due to the following deficiencies: 
+
+ 
+Table 20: Summary of Observations on the Receipt, Utilization and Liquidation of Trust Funds 
+
+Observations Criteria Cause Amount (₱) Effect  
+
+Inclusion of non-
+moving SL 
+balances for six 
+(6) years 
+ 
+
+Paragraph 27 of the International Public 
+Sector Accounting Standards (IPSAS) 
+No. 1, on Presentation of Financial 
+Statements, requires that: “Financial 
+Statements shall present fairly the 
+financial position, financial 
+performance, and cash flows of an 
+entity. Xxx” 
+ 
+Section 63, Chapter 6 of the GAM, 
+Volume I states that: (f) within ten (10) 
+
+ Non-monitoring of projects’ 
+status; 
+
+ Non-liquidation of 
+completed projects; 
+
+ Failure of Management to 
+immediately liquidate and 
+remit any remaining funds 
+upon completion of the 
+project. 
+
+1,323,262.57 
+ 
+
+ 
+
+Accumulation of 
+long outstanding 
+balances and 
+deprive the 
+government of 
+funds that could 
+have been used 
+for other 
+beneficial 
+projects. 
+
+Inclusion of 
+unexpended 
+balances of 
+completed 
+projects 
+
+132,328,000.64 
+
+
+
+72 
+
+Observations Criteria Cause Amount (₱) Effect  
+
+Variance 
+between the 
+book balances 
+and 
+confirmation  
+
+days after the end of each month/end of 
+the agreed period for the Project, the IA 
+shall submit the RCI and the Report of 
+Check and Disbursement to report the 
+utilization of the funds.  Only actual 
+project expenses shall be reported.  The 
+reports shall be approved by the Head 
+of the IA; and (g) The IA shall return to 
+the SA any unused balance upon 
+completion of the project, if stipulated in 
+the MOA. 
+ 
+ 
+
+ FRs were submitted by the 
+PCIEERD to SAs but not 
+yet recorded in the books 
+of accounts of SAs; 
+ 
+
+ No recorded receivables in 
+the books of the SA; and 
+ 
+
+ SA had more recorded 
+projects in their books than 
+PCIEERD. 
+
+171,472,208.29 Unreliable 
+balance of Due 
+to NGAs 
+ 
+
+Existence of an 
+outstanding 
+balance of Due 
+to NGAs - 
+PCIERD  
+
+Inclusion of unreconciled 
+balance from the merger of 
+Philippine Council for 
+Industry and Energy 
+Research and Development 
+(PCIERD) and Philippine 
+Council for Advanced 
+Science and Technology 
+Research and Development 
+(PCASTRD) to PCIEERD in 
+2010.  
+ 
+Further, validation of Cash –
+TAD, Trust account revealed 
+that the amount included trust 
+receipts from PCIERD (SL 
+No. 10104030-00-01-131-
+042) of ₱1,442,473.70 to 
+back up the liability account 
+which should have been 
+reverted to the BTr as the 
+project was already 
+completed. 
+
+878,383.14 Due to NGAs 
+account balance 
+is unreliable as 
+the said 
+payables to 
+PCIERD was not 
+applicable to 
+PCIEERD 
+anymore. 
+
+ 
+
+116. We reiterated our prior year’s recommendations and Management agreed to 
+require:  
+
+ 
+
+a. The Project Managers to: 
+ 
+
+i. regularly monitor the projects’ status/implementation; 
+ 
+
+ii. ensure timely submission of financial reports with the return of 
+unexpended balances for completed projects; and 
+
+ 
+
+iii. ensure the attainment of the project objectives/deliverables; and 
+  
+
+b. The Accountant to: 
+ 
+
+i. submit the liquidation reports and return/remit the outstanding 
+balance to the concerned SAs upon completion of the project; 
+
+
+
+73 
+
+ii. evaluate the non-moving SL balances and facilitate the necessary 
+liquidation of those projects; 
+
+ 
+
+iii. ensure regular reconciliation with the SAs and analyze project SLs 
+and effect the necessary adjustments; and 
+
+ 
+
+iv. analyze the Due to NGAs and Cash-TAD, Trust accounts of PCIERD 
+in order to revert the remaining funds to the BTr and effect the 
+
+necessary adjustments.  
+
+ 
+
+117. Management commented that the Accounting personnel in-charge were instructed 
+to submit liquidation reports to SAs and to provide a summary of all completed projects 
+
+with submission of FRs and status of the returned unexpended balance (UB) from the 
+
+project. Moreover, the Accountant was instructed to closely monitor the status of 
+
+liquidation to SAs. 
+
+ 
+
+118. Management is also considering the creation of a separate Project Management 
+Unit in the FAD with additional personnel whose assignment is to conduct regular 
+
+reconciliation of project SLs/per Division due to the volume of projects being monitored 
+
+and funded by PCIEERD. 
+
+ 
+
+119. For CY 2021, the PCIEERD target is for the IAs to revert to the BTr all unexpended 
+balance from the completed projects and effect the necessary adjustments accordingly. 
+
+Memo will be issued to all IAs with unreturned unexpended balance (UB)/savings from 
+
+completed projects. 
+
+ 
+
+Compliance Audit 
+
+ 
+Overpayment of Hazard Allowance; Subsistence Allowance, and Laundry Allowance 
+
+ 
+
+120. Payment of Hazard Pay, Subsistence Allowance, and Laundry Allowance to 
+employees working-from-home (WFH) resulted in overpayments amounting to 
+
+₱658,467.56; ₱1,356,099.81; and ₱232,840.88, respectively, contrary to the provisions 
+
+of DBM-DOST Joint Circular (JC) No. 1, dated 25 June 2013. 
+ 
+
+a) Overpayment of Hazard Allowance amounting to ₱658,467.56  
+ 
+
+121. Republic Act (RA) No. 8439 dated December 22, 1997 is the “Magna Carta for 
+Scientists, Engineers, Researchers and other Science and Technology (S&T) Personnel in 
+
+the Government.” Pursuant thereto, DBM-DOST Joint Circular (JC) No. 1, dated June 25, 
+
+2013, set forth the revised implementing rules and regulations on the grant of 
+
+compensation-related Magna Carta benefits to Scientists, Engineers, Researchers and 
+
+Other Science and Technology Personnel. 
+
+ 
+
+122. Section 9.0 of the said JC provides that “Xxx S&T Personnel whose nature of duties 
+and responsibilities, actual services, and location of work expose them to great danger, 
+
+
+
+74 
+
+occupational risks, perils to life, and physical hardships, may be granted Hazard 
+
+Allowance, but only during periods of actual exposure to hazards and hardships. 
+
+Hazard Allowance may be granted to S&T Personnel if they are at high risk or low risk to 
+
+hazards xxx; high risk to hazards are those that have direct and unavoidable exposure xxx” 
+
+while “low risk to hazards are those exposed to less degree of occupational risks, perils to 
+
+life, or physical harships xxx. The Hazard Allowance for a month shall be based on the 
+
+degree of risk to hazards xxx and the number of workdays of actual exposure over 22 
+
+workdays in a month, at rates not to exceed 30% of monthly basic salary (MBS). In case 
+
+of exposure to both high risk and low risk to hazards, the Hazard Allowance for the month 
+
+shall be based on only one risk level, whichever is more advantageous to the S&T 
+
+Personnel.” Illustrated as follows: 
+
+ 
+
+ 
+
+ 
+
+123. Comparison of the Hazard Allowance payment computation per payroll and the 
+guard’s logbook recording physical reporting of employees in the workplace revealed an 
+
+overpayment of Hazard Allowance for CY 2020 amounting to ₱658,467.57.   
+
+ 
+Table 21: Overpayment of Hazard Allowance for CY 2020  
+
+Month   Overpayment (₱) 
+
+January               5,272.71  
+
+February                          -    
+
+March           173,551.46  
+
+April           369,509.73  
+
+May               3,324.35  
+
+June             39,204.01  
+
+July               8,070.33  
+
+August               8,818.18  
+
+September               7,954.17  
+
+October               2,616.40  
+
+November               2,200.01  
+
+December             37,946.22  
+
+Total           658,467.57  
+
+ 
+
+124. The overpayments noted were due to: (a) payment of hazard allowance to 
+employees working from home during Enhanced Community Quarantine (ECQ) and 
+
+Modified Enhanced Community Quarantine (MECQ); (b) payment to employees who are 
+
+on study leave; and (c) discrepancies in the number of days an employee reported for work 
+
+per the HR working paper and the guard’s logbook of physical attendance of employees. 
+
+ 
+
+Level of Risk 
+
+Actual Exposure 
+High Risk Low Risk 
+
+15 or more days 30% of MBS 15% of MBS 
+
+8 to 14 days 23% of MBS 12% of MBS 
+
+Less than 8 days 15% of MBS 10% of MBS 
+
+
+
+75 
+
+125. Section 9 of DBM-DOST JC No. 1 dated June 25, 2013 clearly states that hazard 
+allowance may be granted only during actual exposure to hazards and hardships. Hence, 
+
+employees working from home shall not be allowed to receive any hazard allowance as 
+
+they are working in the comfort of their homes.  
+
+ 
+
+b) Overpayment of Subsistence Allowance and Laundry Allowance (SALA) 
+amounting to ₱1,356,099.81 and ₱232,840.88, respectively  
+
+ 
+
+126. DBM-DOST JC No. 1 dated June 25, 2013 provides that: 
+ 
+
+  10 Subsistence Allowance (SA) 
+
+  
+
+10.1 S&T personnel who are required to render services within the 
+
+premises of offices, laboratories, field operations centers, research 
+
+and development centers, and other S&T facilities, and to make their 
+
+services available at any and all times may be entitled to SA. 
+
+ 
+
+10.2 S&T personnel under the following circumstances are not 
+
+entitled to SA: 
+
+ 
+
+10.2.1 When not required to make their services available at 
+
+all times such that they can leave their work stations 
+
+during break-times; 
+
+ 
+
+10.3 The SA for a S&T personnel shall be: 
+
+ 
+
+10.3.1 ₱150 for each day (8 hours) of actual full time service; 
+
+and 
+
+10.3.1 ₱75 for each half-day (4 hours) of actual service. 
+
+ 
+
+11 Laundry Allowance (LA) 
+
+  
+
+11.1 S&T personnel assigned in offices, laboratories, field 
+
+operations centers, research and development centers, and 
+
+other S&T facilities, and who are required to wear personal 
+
+protective clothing or uniforms at all times while working, in order 
+
+to provide them the required degree of protection at work, while 
+
+reassuring clients of their professionalism, competency, and 
+
+identity, may be granted LA to defray the cost for washing and 
+
+pressing the uniform/protective clothing. 
+
+ 
+
+11.2 An S&T personnel who rendered actual service on all 
+
+workdays in a month may be granted LA at ₱500 per month. 
+
+ 
+
+127. Comparison of the number of days an employee reported for work per the SALA 
+payrolls and guard’s logbook revealed overpayments amounting to ₱1,356,099.81 and 
+
+
+
+76 
+
+₱232,840.88, for Subsistence Allowance and Laundry Allowance, respectively, due to 
+
+payment of SALA to employees working from home. 
+
+ 
+Table 22: Overpayment of Subsistence and Laundry Allowance for CY 2020 
+
+Month  Subsistence Allowance (₱)  Laundry Allowance (₱) 
+
+January                  2,550.00                   1,863.80  
+
+February                  5,725.00                   5,318.08  
+
+March              116,149.81                 14,068.05  
+
+April              181,050.00                 30,295.45  
+
+May              176,700.00                 29,590.91  
+
+June              150,450.00                 24,204.54  
+
+July              137,100.00                 19,340.90  
+
+August              128,850.00                 25,022.78  
+
+September              145,750.00                 22,363.61  
+
+October              129,900.00                 19,681.81  
+
+November                87,825.00                 21,022.76  
+
+December                94,050.00                 20,068.19  
+
+Total           1,356,099.81               232,840.88  
+
+ 
+
+128. Pursuant to the aforementioned provisions, it is clearly stated that SALA may be 
+given to employees who reported to the office. Hence, no SALA payment is allowed for 
+
+employees working from home. 
+
+ 
+
+129. We recommended and Management agreed to submit a valid explanation why 
+the overpayments of Hazard Allowance, Subsistence Allowance, and Laundry 
+
+Allowance should not be refunded by concerned employees; otherwise, a Notice of 
+
+Disallowance shall be issued. 
+ 
+
+130. Management commented that an explanation and reply to the observation will be 
+submitted as this is being referred to the PCIEERD legal adviser for legal interpretation/ 
+
+implementation of DBM-DOST JC No. 1, dated June 25, 2013 and other related Circulars 
+
+brought about by the COVID-19 pandemic. 
+
+ 
+
+Inadequate documentary requirements 
+
+ 
+
+131. Documentary and procedural requirements as set forth in Presidential Decree 
+(PD) No. 1445, and COA Circular Nos. 2007-001, 2012-001 and 2016-002 were not 
+
+complied with by the PCIEERD in the grant and liquidation of research funds to 
+
+various NGAs, NGOs/CSOs and private entities, and in the transfer/donation of 
+
+assets to IAs. 
+ 
+
+a. Inadequate supporting documents relative to grant and liquidation of research 
+funds to various NGAs, NGOs/CSOs, and private entities 
+
+ 
+
+132. Section 39 of PD 1445 provides that “The Commission shall have the power, for 
+purposes of inspection, to require the submission of the original of any order, deed, 
+
+contract, or other document under which any collection of, or payment from, government 
+
+
+
+77 
+
+funds may be made, together with any certificate, receipt, or other evidence in connection 
+
+therewith. If an authenticated copy is needed for record purposes, the copy shall upon 
+
+demand be furnished.”  
+
+ 
+
+133. Section 4, Item 6 of PD 1445 also provides the fundamental principles governing 
+financial transactions and operations, and states that “claims against government funds 
+
+shall be supported with complete documentation.” 
+
+ 
+
+134. COA Circular No. 2016-002 dated May 31, 2016 amending Item 3.1.1 of COA 
+Circular No. 2012-001 requires a "Certification by the Accountant that funds previously 
+
+transferred to the IA has been liquidated and accounted for in the books." 
+
+ 
+
+135. Subsections B and C in Section X of DOST AO No. 011, Series of 2020, dated 
+September 2, 2020 further provide the guidelines in the submission of the technical and 
+
+financial reports, respectively, for Grants-in-Aid (GIA) funded projects. 
+
+ 
+
+136. Verification of the release of funds to NGAs, NGOs/CSOs and private entities, and 
+the liquidation thereof revealed that the Journal Entry Vouchers (JEVs) were not supported 
+
+with complete documentation as required in the above guidelines.  
+
+ 
+
+137. Disbursements on fund assistance were not supported with official receipts (ORs) 
+to acknowledge receipt of the amount transferred. Further, we observed that funds were 
+
+released to IAs with previously unliquidated fund transfers duly supported with a 
+
+Certification from the Accountant that funds previously transferred to the IA has been 
+
+liquidated and properly taken up in the books.  
+
+ 
+
+138. Meanwhile, the majority of the liquidations are supported only by quarter/semi-
+annual-annual Financial Report certified correct by the agency Accountant and approved 
+
+by the Head of the IA, with some reports not certified correct by the agency Accountant. 
+
+Moreover, we observed that original copies of the supporting documents were not attached 
+
+to some vouchers, casting doubt on the reliability of the submitted financial reports and 
+
+other related documents. 
+
+ 
+
+b. Inadequate supporting documents relative to transfer/donation of assets 
+ 
+
+139. Verification revealed that the transfer/donation under three (3) JEVs were not 
+adequately supported with complete documentation, such as original property transfer 
+
+report (PTR), MOA, and other necessary documents, to  establish the regularity and 
+
+propriety of the recorded transactions. 
+
+ 
+Table 23: Vouchers not adequately supported 
+
+JEV No. Particulars Amount (₱) Remarks 
+
+JEV-2020-09-
+002183 
+
+To record transfer of PPE to Casapa Elementary School 
+as per PTR No. 2019-50-0008 dated 05/30/2019 
+
+     85,819.20  No MOA attached 
+
+
+
+78 
+
+JEV No. Particulars Amount (₱) Remarks 
+
+JEV-2020-05-
+001421 
+
+To record transfer of Equipment to DOST VII under the 
+project titled "Strengthening the Testing and Analytical 
+Capabilities of the Regional Laboratories to Support the 
+Competitiveness of Local Industries (STARLABS) - DOST 
+VII" 
+
+1,967,421.04  
+
+JEV-2020-04-
+001155 
+
+To record transfer of Equipment to Caraga State 
+University as per PTR No. 19-12-00021 under the project 
+titled "Development of Material Science and Polymer 
+Chemistry Laboratory"     
+
+4,630,500.00  No MOA attached. 
+Original copy of PTR is 
+not attached. 
+
+Total 6,683,740.24  
+
+ 
+
+c. Non-compliance with the minimum counterpart contribution 
+ 
+
+140. Section 2.1 of COA Circular No. 2012-001 and Section 4.5.4 of COA Circular No. 
+2007-001 provide that the NGO shall have an equity equivalent to 20 percent of the 
+
+total project cost which shall be in the form of labor, land for the project site, facilities, 
+
+equipment, and the like, to be used in the project. 
+
+ 
+
+141. Section VII of DOST AO No. 011 dated September 2, 2020 provides that the 
+Program/Project Leader shall submit the following documents that are required by 
+
+respective DOST funding agencies: 
+
+ 
+
+(c) – A counterpart fund, in kind and/or cash, shall be required from the IA 
+
+as one of the application requirements. All projects must have a minimum 
+
+of 15% counterpart contribution, except for projects involving public 
+
+good; 
+
+ 
+
+(h.6) – Document showing that NGO/CSO has equity to 20 percent of the 
+
+total project cost, which shall be in the form of labor, land for the project 
+
+site, facilities, equipment, and the like, to be used in the project. 
+
+ 
+
+142. In summary, NGOs/CSOs should have a counterpart funding of at least 20% of the 
+total project cost, while private sector should have a counterpart funding of at least 15% of 
+
+the total project cost. 
+
+ 
+
+143. However, sampling of Line-Item Budget (LIBs) showed that several projects in the 
+amount of ₱75,636,065.44 and ₱2,088,458.60 implemented by five (5) NGOs/CSOs and 
+
+one (1) private higher education institution (HEI), respectively, did not meet the required 
+
+counterpart funding requirement with an average of only 8.91% and 5.53% equity allotted, 
+
+as presented below: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+79 
+
+Table 24: List of projects that did not meet the required counterpart funding requirement 
+
+IA Project Name 
+Project Status 
+as per PMIS 
+
+Project Cost 
+(₱) 
+(a) 
+
+Counterpart 
+Funding (₱) 
+
+(B) 
+
+% of Counterpart 
+Funding over 
+
+Total Project Cost 
+(C) 
+
+NGOs/CSOs 
+Electronics Industries 
+Association of the 
+Phils.,Inc. (EIAPI) 
+
+Development of a Grid Tie Inverter for 
+Philippine Electronics Companies 
+
+completed 
+(Awaiting Terminal 
+
+Report) 
+
+       
+9,195,108.00  
+
+                   
+1,052,000.00  
+
+11.44% 
+
+Semiconductor and 
+Electronics Industries 
+in the Philippines 
+Foundation, Inc. 
+
+Product and Technology Holistic Strategy 
+(PATHS) for the Semiconductor and 
+Electronics Industries of the Philippines" (Year 
+1) 
+
+completed 
+(Awaiting Terminal 
+
+Report) 
+
+       
+3,266,900.00  
+
+                      
+416,900.00  
+
+12.76% 
+
+IdeaSpace Foundation 
+TBI 4.0: Elevating the Capacity and Services 
+of TBIs Towards 4th Generation Incubator's 
+Facilities 
+
+On-going  39,198,359.00     5,271,944.00  13.45% 
+
+Museo Pambata 
+Discover Diwata 1 (A Joint Project between 
+PCIEERD & Museo Pambata) 
+
+completed 
+          
+
+830,000.00  
+                                    
+
+-    
+0.00% 
+
+Manila Observatory 
+
+Analysis of the Influence of Sea Surface 
+Temperature in Downscaled Regional Climate 
+Using the SEACLID/CORDEX - Southeast 
+Asia Simulations 
+
+On-going 
+       
+
+7,132,468.55  
+                                    
+
+-    
+0.00% 
+
+Manila Observatory 
+Multitemporal and Extremes Analysis of 
+Modeled Climatology over the Philippines in 
+the SEA CORDEX Domain 
+
+On-going 
+       
+
+7,825,367.25  
+                                    
+
+-    
+0.00% 
+
+Manila Observatory 
+Detecting Tropical Cyclones in a Downscaled 
+Regional Climate Model for CORDEX-SEA 
+
+On-going 
+       
+
+8,187,862.64  
+                                    
+
+-    
+0.00% 
+
+Total   75,636,065.44  6,740,844.00                   8.91% 
+
+Private Entity 
+University of the 
+Immaculate 
+Conception 
+
+A Mobile-Web Bidirectional Neural Machine 
+Translation System for Filipino and Cebuano 
+
+On-going 
+       
+
+2,088,458.60  
+                      
+
+115,519.86  
+5.53% 
+
+Sub-total    2,088,458.60  115,519.86                     5.53% 
+
+Total  77,724,524.04  6,856,363.86            8.82% 
+
+ 
+
+144. It is worthy to mention the importance of required counterpart funding from the 
+recipient NGO/privately-owned institution to increase their level of commitment to make 
+
+an effective and impactful project. Hence, PCIEERD must be strict in assuring the 
+
+compliance on the required counterpart funding set forth under COA and DOST guidelines.  
+
+ 
+
+145. We recommended and Management agreed to: 
+ 
+
+a. ensure strict compliance with the documentary and counterpart funding 
+requirements set forth under DOST and COA guidelines in the approval 
+
+of project proposals, the grants and liquidations of financial assistance, 
+
+and the transfers/donations of assets to IAs; and 
+ 
+
+b. oblige the Accountant to exercise due diligence in certifying that 
+funds/cash advances previously transferred/granted to IAs have been 
+
+liquidated and properly taken up in the books. 
+ 
+
+146. Management commented on its issuance of a Memorandum to Project Managers 
+reminding them of the 20% counterpart funds in compliance with DOST guidelines and 
+
+
+
+80 
+
+documentary requirements. The Budget Officer has also started a stricter monitoring of the 
+
+Line-Item-Budget (LIB) requiring the inclusion of counterpart agencies/partner 
+
+institutions. 
+
+ 
+
+Non-compliance with Property Insurance Law 
+
+ 
+
+147. The Agency’s non-compliance with Republic Act (RA) No. 656 and COA 
+Circular No. 2018-002 dated May 31, 2018 on the timely preparation and submission 
+
+of the Property Inventory Form (PIF) resulted in the lack of insurance coverage for 
+
+Technical and Scientific Equipment, Other PPE, and ICT Equipment amounting to 
+
+₱449,000.00, ₱683,921,298.66, and ₱224,938.40, thus, denying adequate protection 
+
+against any damage or loss of its properties.  
+
+ 
+
+148. RA 656, known as the Property Insurance Law, as amended by PD 245, requires 
+all agencies, except municipal government below first class, to insure its properties against 
+
+any insurable risk with the General Insurance Fund (GIF) administered by the Government 
+
+Service Insurance System (GSIS). 
+
+ 
+
+149. COA Circular No. 2018-002 dated May 31, 2018 prescribes the guidelines on the 
+submission of Property Inventory Form as basis for the assessment of general insurance 
+
+coverage over all insurable assets, properties, and interests of the government with the GIF 
+
+of the GSIS. 
+
+ 
+
+a) Delayed preparation and submission of the PIF precludes the timely 
+evaluation of the compliance with relevant guidelines 
+
+ 
+
+150. COA Circular No. 2018-002 dated May 31, 2018 stated that the head of the 
+agencies shall direct the pertinent official under his/her supervision to: 
+
+ 
+
+Paragraph 5.1.b: Prepare the PIF listing of all the insurable properties and other 
+
+assets, showing their latest appraised values/valuation, appraisal date, location, 
+
+and other information; 
+
+ 
+
+Paragraph 5.1.d: Cause the appraisal of the insurable properties and other assets 
+
+of their respective offices. For this purpose, an in-house appraisal shall be 
+
+sufficient if the property or insurable interest has a value of P10 million and below. 
+
+Otherwise, an independent appraisal shall be necessary; 
+
+ 
+
+Paragraph 5.1.e: Submit the consolidated PIF to the Supervising Auditor/Audit 
+
+Team Leader and the GIF, GSIS, not later than April 30 of each year. 
+
+ 
+
+151. The PIF as of December 31, 2019 was submitted to the Audit Team only on March 
+10, 2021, therefore, precluding the timely evaluation of the compliance with the related 
+
+guidelines, as well as the communication of the findings to Management.  
+
+ 
+
+
+
+81 
+
+152. Moreover, the report did not disclose the appraised value of the assets listed. The 
+basis of the value covered by insurance and premium payments is the book value of the 
+
+properties, which is the acquisition cost. It must be noted that the responsibility to assess 
+
+the accuracy of the value of the properties lies with the officials of the GIF of the GSIS. 
+
+However, the failure of Management to cause the appraisal of the properties is a non-
+
+compliance with COA Circular No. 2018-002 dated May 31, 2018. It exposes the assets to 
+
+the avoidable risk of loss if the value of the properties is found to be more than the 
+
+acquisition cost. Further, the insurance of PPE at acquisition cost may result to payment of 
+
+higher premiums paid to the GSIS for depreciable assets. 
+
+ 
+
+b) Lack of insurance coverage for Technical and Scientific Equipment, Other PPE, 
+and ICT Equipment amounting to ₱449,000.00; ₱683,921,298.66; and 
+
+₱224,938.40, respectively, as of December 31, 2019. 
+
+ 
+
+153. Summary of the PIF is shown in the table below. These are insured against loss or 
+damage by fire or lightning for the period from October 14, 2020 to October 14, 2021. 
+ 
+
+Table 26: Summary of PIF 
+
+Properties  Total Cost (₱) 
+
+Office Equipment     2,073,791.91  
+
+ICT Equipment   22,265,221.17 
+
+Communication Equipment     1,067,648.98  
+
+Furniture and Fixtures      1,201,407.41  
+
+ 
+
+154. The submitted PIF excludes Motor Vehicles, Technical and Scientific Equipment, 
+and Other PPE amounting to ₱13,599,704.42, ₱449,000.00; and ₱683,921,298.66, 
+respectively. Consequently, there is no insurance coverage for these assets, except for 
+
+motor vehicles which have mandatory insurance as enforced by the Land Transportation 
+
+Office (LTO) in their registration, hence, were insured with the GSIS before the registration 
+
+and thereafter. 
+
+ 
+
+155. Inquiry with the Property Section disclosed that the absence of insurance coverage 
+for Other PPE is due to the position/location of these assets in the IA. It must be noted that 
+
+the IA shall record and monitor the PPE purchased out of inter-agency transferred funds, 
+
+hence, the obligation to insure the said PPE lies with the IA. However, PCIEERD, being 
+
+the SA, incorrectly recorded the properties purchased through funds transferred to the IAs. 
+
+Due to the said practice, the government is denied the adequate protection against any 
+
+damage or loss of its properties. 
+
+ 
+
+156. In addition, not all assets under the ICT Equipment account amounting to 
+₱224,938.40, were included in the PIF and consequently insured. 
+
+ 
+
+157. The failure of Management to include all the insurable properties in the PIF and 
+consequently cover it against insurable risk constitutes non-compliance with the provisions 
+
+of RA 656 and COA Circular No. 2018-002 dated May 31, 2018 and exposes the 
+
+government to avoidable risk of loss to its assets. 
+
+
+
+82 
+
+158. We recommended and Management agreed to require the responsible officials 
+to: 
+
+ 
+
+a. ensure the timely preparation and submission of the PIF to the Audit Team 
+in compliance with COA Circular No. 2018-002 dated May 31, 2018; and 
+
+ 
+
+b. ensure that all insurable properties, particularly those properties under 
+the custody of the IAs, are appraised; insured against all insurable risks 
+
+with the GIF of the GSIS, or if not acceptable to the GIF, with a private 
+
+insurance company included in the PIF; and disclosed in the PIF; and 
+
+ 
+
+c. refrain from recording properties that are still at the custody of the 
+implementing agencies in strict compliance with the illustrative accounting 
+
+entries shown in Annex M, GAM Volume I.  
+
+ 
+
+Purchase of tables and chairs to be used by work-from-home employees 
+
+ 
+
+159. Unnecessary purchases of tables and chairs amounting to P21,054.28 were 
+made for work-from-home (WFH) purposes, contrary to Office of the President AO 
+
+No. 6 dated September 19, 2017, and COA Circular No. 2012-003 dated October 29, 
+
+2012.  
+
+ 
+
+160. Section 1 of the Office of the President AO No. 6 dated September 19, 2017, 
+provided that Xxx. Notwithstanding the repeal of AO No. 103, existing laws, rules, and 
+
+regulations mandating the judicious and prudent use of government funds shall remain 
+
+in full force and effect, and all agencies and instrumentalities shall continue to ensure that 
+
+no irregular, unecessary, extravagant, excessive and unconscionable expenses shall be 
+
+incurred by the Government 
+
+ 
+
+161. Likewise, Section 4 of COA Circular No. 2012-003 dated October 29, 2012, defines 
+Unnecessary Expenditures as expenditures which could not pass the test of prudence or 
+
+the diligence of a good father, thereby denoting non-responsiveness to the exigencies of 
+
+the service. Further, it is an expenditure that is not essential or that which can be dispensed 
+
+with without loss or damage to property. 
+
+ 
+
+162. Validation of the following replenishment of petty cash fund revealed that there 
+were purchases of chairs and tables worth ₱21,054.28 to be used by PCIEERD’s WFH 
+
+employees. We noted that ergonomic chairs worth ₱6,995.00 were purchased at Super 8 
+
+Grocery, Visayas Avenue, Barangay Bahay Toro, Quezon City, which is more or less 23 
+
+kilometers away from the PCIEERD office. We further noted in the Purchase Request that 
+
+the purpose of the said purchases was for the official use of personnel who work from 
+
+home. 
+
+ 
+
+163. Moreover, the purchased tables and chairs worth ₱14,059.28 were delivered to 
+PCIEERD and eventually brought home by the concerned personnel for WFH purposes as 
+
+per inspection of the gate pass. 
+
+
+
+83 
+
+ 
+Table 27: Furniture and Fixtures purchased for WFH purposes 
+
+Fund Date  Particulars ADA Reference Item Qty 
+ Unit 
+
+Cost (₱) 
+ Amount 
+
+(₱) 
+Remarks 
+
+RF 
+Jun 16, 
+2020 
+
+Replenishment of Petty 
+Cash Fund for the month 
+of April and March 2020  
+
+202000068
+4 
+
+JEV-2020-
+06-001033 
+
+Ergonomic 
+chair 
+
+1 2,495.00  2,495.00  Purchased at 
+Super 8 
+
+Visayas Ave, 
+Quezon City TF Jul 27, 2020 
+
+Replenishment of Petty 
+cash fund for the period 
+March to July 2020  
+
+200000021
+4 
+
+JEV-2020-
+07-000765 
+
+Ergonomic 
+chair 
+
+2 2,250.00  4,500.00  
+
+RF 
+Dec 29, 
+2020 
+
+Closing of the Petty Cash 
+Fund as Special 
+Disbursing Officer (SDO) 
+to cover expenses for the 
+evaluation and monitoring 
+of programs  
+and projects assigned to 
+ETDD  
+
+-  
+JEV-2020-
+12-002513 
+
+Computer/ 
+Study 
+Table 
+
+4 1,539.82  6,159.28  
+
+Delivered to 
+PCIEERD 
+
+Office but was 
+brought home 
+
+by the 
+concerned 
+
+personnel for 
+WFH 
+
+purposes. 
+
+Office 
+chair 
+
+2 3,950.00  7,900.00  
+
+Total 21,054.28    
+
+ 
+
+164. Inquiry with the Procurement Section revealed that no internal memorandum/ 
+guidelines were issued relative to the purchases of furniture and fixtures for WFH purposes. 
+
+Management commented that approval of the Purchase Request (PR) serves as the 
+
+authority for the concerned personnel to purchase the chairs for WFH. The corresponding 
+
+ICS was already issued to the concerned personnel.  
+
+ 
+
+165. Granting that the requisition, procurement and issuance of the items were officially 
+approved, the use of the items by the concerned employees in their homes is questionable 
+
+as it is without (legal) basis. Further, the use of government funds should be in strict 
+
+compliance with AO No. 6 dated September 19, 2017 on the continued adoption of 
+
+austerity measures. 
+
+ 
+
+166. We recommended and Management agreed to require the concerned 
+personnel to submit their authority for the purchase of tables and chairs intended to 
+
+be used in their homes, i.e., for WFH purposes. Otherwise, a Notice of Disallowance 
+
+(ND) shall be issued for the concerned personnel to refund the disbursed amount of 
+
+₱21,054.28.    
+
+ 
+
+Project Evaluation 
+ 
+
+Corona virus Disease 2019 (COVID-19)-Related Projects 
+
+ 
+
+167. Deficiencies noted in the implementation of COVID-19-related projects 
+included: (a) delivery of incomplete accessories and supporting documents to 
+
+hospitals for the swab testing stations; (b) non-operational thermal scanner; (c) 
+
+receivables from FAME Inc. amounting to ₱9,990,000.00 remained outstanding due 
+
+to the non-submission of liquidation reports or terminal accomplishment report with 
+
+supporting documents within two months after project completion on the deployment 
+
+of swab testing stations; and (d) net overpayment of salary of Job Order amounting 
+
+
+
+84 
+
+to ₱3,150.00 due to possible laxity in the payment process; hence, the objective of the 
+
+COVID-19 initiative projects may not be fully attained. Moreover, the actual 
+
+deployment of disinfecting chamber system to recipients thereof could not be 
+
+validated in the absence of available documents.  
+
+ 
+
+168. Due to the COVID-19 pandemic, the PCIEERD had initiated the implementation 
+of the following projects related to COVID prevention/mitigation with a total budget of 
+
+₱12,509,000.00: 
+
+ 
+Table 28: COVID-19 related projects 
+
+Project 
+Total Project 
+
+Cost (₱) 
+Fund 
+
+Source 
+
+Implementing 
+Agency/ 
+Supplier 
+
+Objective 
+Project 
+
+Timeline 
+
+A COVID-19 
+Initiative 
+Development, 
+Deployment and 
+Testing of Project 
+RAMDAM 
+(Resource Allocation 
+Management, 
+Distribution, and 
+Monitoring) 
+
+           
+456,000.00  
+
+PCIEERD 
+GAA 
+
+Geographic 
+Innovations for 
+Development 
+Solutions, Inc. 
+
+- To develop the RAMDAM 
+System. 
+ 
+- To train the local 
+government unit (LGU) 
+personnel and conduct 
+testing and data gathering 
+in fourteen (14) barangays 
+in Los, Baños Laguna. 
+ 
+- To generate feedback on 
+the effectivity and efficiency 
+of the system. 
+ 
+- To provide data generated 
+by the system on LGU relief 
+operation for policy 
+decisions and review 
+
+One Month 
+
+A COVID-19 
+Initiative: 
+Development of 
+Sixty Six (66) units 
+of Swab Testing 
+Stations and 
+Conduct of Testing 
+and Data Gathering 
+in Selected Areas  
+
+        
+9,990,000.00  
+
+PCIEERD 
+GAA 
+
+Futuristic 
+Aviation and 
+Maritime 
+Enterprise 
+(FAME), Inc. 
+
+- To fabricate sixty-six (66) 
+units of Swab Testing 
+Stations and conduct 
+testing and data gathering 
+in selected locations 
+
+17 April 2020 
+- 16 June 
+2020 (with 
+one month 
+extension) 
+
+USHER GO-CLEAN 
+Disinfecting 
+Chamber System 
+Deployment 
+
+        
+1,453,000.00  
+
+PCIEERD 
+GAA 
+
+Dynamic 
+Global Soft 
+Inc. 
+
+- To fabricate two (2) units 
+GO-CLEAN Chambers 
+fabricated  
+ 
+- Deployment and 
+installation in at least one 
+(1) hospital or LGU within 
+Metro Manila 
+ 
+- User Manual on Proper 
+Use, Safety Precautions, 
+and Maintenance  
+ 
+- Test reports on safety and 
+
+April 15, 2020 
+- May 14, 
+2020 
+
+
+
+85 
+
+Project 
+Total Project 
+
+Cost (₱) 
+Fund 
+
+Source 
+
+Implementing 
+Agency/ 
+Supplier 
+
+Objective 
+Project 
+
+Timeline 
+
+efficacy  
+ 
+- Deployment and training 
+report  
+
+A COVID-19 
+Initiative: Production 
+of six (6) units of 
+Artificial Intelligence- 
+based thermal scan 
+technology, pilot 
+testing and 
+deployment in 
+selected LGUs for 
+DWARM: 
+Autonomous Search 
+and Rescue using 
+SWARM Technology 
+
+           
+610,000.00  
+
+PCIEERD 
+GAA 
+
+Far Eastern 
+University 
+Diliman 
+
+Develop six (6) units of AI 
+Thermal Scanner and 
+deploy it in selected LGUs 
+
+April 6, 2020 
+- May 5, 2020  
+
+Total 12,509,000.00          
+
+ 
+
+169. Section XII of Department of Science and Technology Administrative Order (AO) 
+No. 11 dated September 2, 2020 provides: 
+
+ 
+
+B. Ownership of Equipment – The funding agency (FA) shall initially own 
+
+all equipment purchased using grant funds until such are transferred to the 
+
+IA or other implementers. The ownership of equipment may be transferred 
+
+to the IA including private institutions, upon completion of the 
+
+program/project as stipulated in the signed MOA, subject to existing 
+
+government rules and regulations. The FA reserves the right to transfer 
+
+ownership of such government equipment to government Research and 
+
+Development Institutes (RDIs), HEIs or other private institutions 
+
+through PTRs or execution of Deed/s of Donation subject to existing 
+
+government accounting and auditing laws, rules and regulations. 
+ 
+
+C. Accountability for Equipment – xxx. The FA shall issue PTR/ Deed 
+
+of Donation to the IA upon written request after the project is completed. 
+
+The FA reserves the right to retain the equipment in compliance with 
+
+existing government rules and regulations. 
+
+ 
+
+I. Transfer of ownership of equipment without cost – (2) A PTR or 
+
+execution of Deed of Donation shall be issued after submission of an 
+
+inventory of equipment purchased, JEVs and PARs and FR. The PTR (three 
+
+(3) original copies) shall be signed by the IA before submission to the FA 
+
+for approval. The respective Property Offices of the FA and IA as 
+
+receiving institution shall be provided with copies of the approved PTR/ 
+
+Deed of Donation. 
+
+ 
+
+
+
+86 
+
+a. Equipment deployed have inadequate accessories and were not working as 
+intended for the Swab Testing Stations and AI Thermal Scanner, respectively.  
+
+ 
+
+ A COVID-19 Initiative: Development of Sixty-Six (66) units of Swab Testing 
+Stations and Conduct of Testing and Data Gathering in Selected Areas 
+
+ 
+
+170. Results of confirmation showed that 19 out of 50 hospitals did not receive the 
+complete accessories indicated in the packing list for the assembled specimen collection 
+
+booth as shown below:  
+
+ 
+Table 29: Results of confirmation with Swab Testing Stations beneficiaries 
+
+  Hospital No. of SCB Remarks 
+
+1 San Lazaro Hospitals 2 
+No other additional materials accompanying the booths except thermal/ temperature 
+scanner 
+
+2 
+East Avenue Medical 
+Center (EAMC) 
+
+2 
+
+As per the EAMC Material Management Section, EAMC did not receive any Swab 
+Testing Station from PCIEERD. However, validation of acknowledgement receipt 
+provided by PCIEERD showed that EAMC received two (2) swab testing stations. 
+ 
+The Audit Team provided COA-EAMC the copies of the acknowledgement receipts to 
+clarify whether EAMC did receive the swab testing station or not. However, EAMC 
+Management is still in the process of preparing the necessary documents needed for 
+verification as per their reply on January 18, 2021. 
+
+3 
+Amang Rodriguez 
+Memorial Medical Center 
+(ARMMC) 
+
+2 Received Swab Testing Stations with air conditioner but no monoblock were included 
+
+4 
+Valenzuela Medical 
+Center 
+
+2 
+
+Received 2 set of Specimen Collection Booth; thermal scanner; and Bluetooth speaker. 
+However, received the following materials for one (1) set of booth only: 
+- 1 pc Aircon; 
+- 6 meters Power cord with plug; 
+- 1 pc Breaker 20A; 
+- 1 pc LED light bulb; 
+- 1 pc Filter; 
+- 1 pc Flexible duct; and 
+- 2 pcs Monoblock chairs 
+
+5 Bicol Medical Center 2 
+
+Received the following equipment: 
+- 2 units Specimen Collection Booth; 
+- 2 pcs Aircon; and 
+- 4 pcs Monoblock chairs. 
+ 
+Moreover, no thermal scanner and Bluetooth speaker were mentioned in the 
+confirmation reply evidencing receipt of the said materials 
+
+6 Bicol Sanitarium 1 
+
+As per the Packing List and Inspection Acceptance Report provided, the following 
+materials were not received: 
+- 1 pc heat sensor; 
+- 1 pack trash bag; and  
+- 1 pack disposable plastic gloves.  
+ 
+Further, thermal scanner and Bluetooth speaker were not included in the said reports. 
+
+7 
+
+Southern Tagalog 
+Regional Hospital 
+(formerly Bacoor District 
+Hospital) 
+
+2 
+
+As per the Packing List provided, the following materials were not received: 
+- 2 pc heat sensor; 
+- 2 pack trash bag; and  
+- 2 pack disposable plastic gloves.  
+ 
+Further, thermal scanner and Bluetooth speaker were not included in the said report. 
+
+
+
+87 
+
+  Hospital No. of SCB Remarks 
+
+8 Batanes General Hospital 1 
+As per the inspection and Acceptance Report and Quality Control Checklist for the 
+Specimen Collection Booth, no temperature scanner and Bluetooth speaker were 
+received. 
+
+9 Laguna Medical Center 1 As per the supporting documents provided, no temperature scanner and Bluetooth 
+speaker were received. 10 Rizal Provincial Hospital 1 
+
+11 
+San Lorenzo Ruiz 
+Women’s Hospital 
+
+1 
+
+As per the confirmation, the Bluetooth speaker and the contactless thermometer were 
+not yet installed and still unused as of date. According to the personnel in charge, the 
+thermometer generates inaccurate temperature result and may need calibration or 
+something for its eventual use, while the person in-charge of the Swab Testing Booth 
+opted not to use the speaker. 
+
+12 
+National Center for Mental 
+Health (NCMH) 
+
+1 
+
+As per the NCMH Material Management Section, NCHM did not receive the following 
+items wherein BAIVI, the courier, was aware of the lacking items: 
+- 1 pc Heat Sensor; 
+- 1 pc Pressure Sensor; 
+- 10 pcs Self Tapping Screw; 
+- 1 pack Trash Bag Clip; 
+- 1 meter Nylon Cord; and 
+- 1 pack Disposable Plastic Gloves. 
+
+13 
+Far North Luzon General 
+Hospital and Training 
+Center 
+
+1 
+
+As per the packing list provided, the following items were not received: 
+- 1 pc heat sensor; 
+-  1 pc pressure sensor; 
+- 1 pack trash bag; 
+- 1 pack disposable plastic gloves; and  
+- 2 pcs monoblock chairs. 
+ 
+Further, no temperature scanner and Bluetooth speaker were included on the list of 
+equipment received in the confirmation reply form 
+
+14 
+Jose R. Reyes Memorial 
+Medical Center 
+
+2 
+no temperature scanner and Bluetooth speaker were included in the list of equipment 
+received in the confirmation reply form 
+
+15 Rizal Medical Center 2 
+no temperature scanner and Bluetooth speaker were included in the list of equipment 
+received in the confirmation reply form 
+
+16 Ospital ng Palawan 1 
+
+The following equipment were not included on the list of equipment received in the 
+attached Inspection and Acceptance Report: 
+ 
+- 1 pc heat sensor; 
+- 10 pcs self-tapping screw; 
+- 1 pack trash bag; 
+- 1 pc trash bag clip; 
+- 1 pack disposable plastic gloves; 
+- 1 pc Bluetooth speaker; and 
+- 1 pc temperature scanner 
+
+17 Basilan General Hospital 1 
+
+As per the attached Inspection Acceptance Report provided, the following materials 
+were not received: 
+- 1 pc heat sensor; 
+- 10 pcs self-tapping screw 
+- 1 pack trash bag; 
+- 1 meter nylon cord; and  
+- 1 pack disposable plastic gloves.  
+ 
+Further, thermal scanner and Bluetooth speaker were not included in the said report. 
+
+18 
+Adela Serra Ty Memorial 
+Medical Center 
+
+1 
+
+As per the confirmation, the following equipment were not included in the list of 
+received equipment: 
+- 1 pc heat sensor; 
+- 1 pack trash bag; 
+- 1 meter Nylon cord; 
+- 1 pack disposal gloves; 
+- 1 pc Bluetooth speaker; and 
+- 1 pc temperature scanner 
+
+19 Caraga Regional Hospital 1 
+
+
+
+88 
+
+ 
+
+171. In summary, the following deficiencies were noted: 
+ 
+
+a. Some hospitals did not receive the complete accessories indicated in the packing 
+list for assembled specimen collection booth as shown to the supporting 
+
+documents attached to the confirmation letter replies;  
+
+ 
+
+b. A recipient received two (2) sets of swab testing booth but received accessories 
+such as aircon, chairs, etc. for one (1) set of swab testing booth only; 
+
+ 
+
+c. A hospital did not receive any swab testing booth but validation of 
+acknowledgement receipt provided by PCIEERD showed that the hospital 
+
+received two (2) swab testing station; 
+
+ 
+
+d. Temperature/Thermal Scanners and Bluetooth speakers are accessories received 
+by some hospitals but not included in the packing list. Moreover, validation of 
+
+attached supporting documents such as Inspection and Acceptance Report of 
+
+some hospitals showed that no temperature scanners and blue tooth speakers 
+
+were received by them; and 
+
+ 
+
+e. Temperature scanner received by a recipient generates an inaccurate result and 
+may need calibration or something for its eventual use. 
+
+ 
+
+ A COVID 119 Initiative: Production of six (6) units of Artificial 
+Intelligence-based thermal scan technology, pilot testing and deployment in 
+
+selected LGUs for DWARM: Autonomous Search and Rescue using 
+
+DWARM Technology 
+
+ 
+
+172. Confirmation with Industrial Technology Development Institute (ITDI) on January 
+8, 2021 showed that the thermal scanner received on July 3, 2020 was not working since 
+
+September 28, 2020. It was noted that the thermal scanner generates 36.21 degrees reading 
+
+on every person. Hence, ITDI informed PCIEERD that the transfer cannot be processed 
+
+and PTR is on hold until the unit is operational. 
+
+ 
+
+173. Due to the failure to provide a complete and functioning equipment/accessory, the 
+objective of PCIEERD’s COVID initiative may not be fulfilled as intended. 
+
+ 
+
+b. Failure to provide recipients of the necessary documents such as Property 
+Transfer Report (PTR) and/or Deed of Donation that show information on the 
+
+cost, technical specification, etc. of the swab testing station resulted in difficulty 
+
+of the recipients in recording the donated equipment in their books. Moreover, no 
+
+available documents to validate the actual deployment of disinfecting chamber 
+
+system to recipient. 
+
+ 
+
+ A COVID-19 Initiative: Development of 66 units of Swab Testing Stations 
+and Conduct of Testing and Data Gathering in Selected Areas 
+
+
+
+89 
+
+174. Confirmation revealed that seven (7) out of 50 hospitals did not receive documents 
+needed as basis in recording the received swab testing stations as shown below: 
+
+ 
+Table 30: List of Swab Testing Stations beneficiaries without complete documents provided 
+
+  Hospital No. of SCB Remarks 
+
+1 
+Quirino Memorial Medical 
+Center (QMMC) 
+
+2 
+
+Copies of the acknowledgement receipts (ARs) were forwarded to QMMC 
+through the COA-QMMC Audit Team since they do not have any available 
+document to prove that they received them from DOST-PCIEERD as per the 
+QMMC Supply Officer 
+
+2 
+Amang Rodriguez Memorial 
+Medical Center (ARMMC) 
+
+2 
+
+Hospital records showed no Deed of Donation nor PTR was issued to 
+ARMMC by the PCIEERD to validate the transfer of the above-mentioned 
+PPE. Moreover, no copy of Purchase Order (PO) was furnished to the 
+ARMMC to ascertain the cost, technical specifications, and description of the 
+PPE. Likewise, the Manual of Operations and brochure were not among the 
+documents forwarded to the ARMMC. 
+
+3 Batanes General Hospital 1 
+
+No MOA or its equivalent was entered into by parties. No deed of donation 
+was received from the SA-DOST. No PTR was received from the SA. Per 
+verification, the amount P130,000.00 as shown in the IAR No. 2020-110 dated 
+28-May-2020 was only relayed to the Supply Officer via phone call. No formal 
+document is on hand showing the actual cost. 
+
+4 Philippine Heart Center (PHC) 1 
+As per the confirmation, PHC have no copy of the AR from DOST-PCIEERD 
+delivered last April 27, 2020 but attached the PHC Logistics Section 
+Endorsement Table as evidenced of receipt of one (1) SCB. 
+
+5 
+San Lorenzo Ruiz Women’s 
+Hospital 
+
+1 
+According to the Accountant, the received units/items were not yet taken up 
+in books since the time of receipt due to the absence of supporting documents 
+as basis in recording the same. 
+
+6 Tondo Medical Center 2 No deed of donation provided  
+
+7 
+Dr. Jose Fabella Memorial 
+Hospital 
+
+1 
+
+The unit was delivered on a weekend without any supporting documents and 
+was placed at the parking lot near the Pediatric building. Hence, not yet 
+recorded in the books due to lack of the necessary documents with the costing 
+of the unit to be used as reference for its recording. 
+
+ 
+
+175. To summarize, we noted that some hospitals did not know that the deployed swab 
+testing stations were from PCIEERD or did not have any documents to prove the receipt 
+
+of the said equipment; hence, we had to provide them with a copy of the acknowledgement 
+
+receipts provided by Management. In addition, some hospitals were not able to record the 
+
+said equipment in their books due to lack of supporting documents such as deed of donation 
+
+and/or PTR.  
+
+ 
+
+ USHER GO-CLEAN Disinfecting Chamber System Deployment 
+ 
+
+176. Confirmation letter was sent to the Philippine General Hospital (PGH) to validate 
+whether the chamber system deployed on June 8, 2020 was received by them or not. 
+
+However, no reply was received. In addition, no other documents to validate the actual 
+
+deployment of the chamber system since document such as acknowledgement receipt is 
+
+not yet provided by the Management as of this writing. 
+
+ 
+
+177. Inquiry with the Property Officer revealed that a physical inventory of the swab 
+testing station and disinfecting chamber system must be conducted before the PTR and/or 
+
+deed of donation be processed.  
+
+
+
+90 
+
+ 
+
+178. We recommended and Management agreed to require the responsible 
+personnel to: 
+
+ 
+
+a. furnish a justification for the undelivered accessories; 
+ 
+
+b.  provide documents that proves the deployment of the swab testing station 
+and disinfecting chamber to EAMC and PGH, respectively; 
+
+ 
+
+c. provide the lacking accessories and documents such as PTR and/or deed 
+of donation to the respective recipients; and 
+
+ 
+
+d. ensure that the deployed equipment is operational as intended. 
+ 
+
+179. Management commented that there was no deployment of disinfecting chamber to 
+EAMC.  PCIEERD Inventory Team will visit PGH to conduct inspection and inventory of 
+
+one (1) unit of disinfection chamber and to provide picture of actual deployment of unit at 
+
+the designated area. 
+
+ 
+
+180. Management commented that a schedule of physical inventory will be arranged 
+before the transfer/donation of equipment and a letter will be sent to IA for the submission 
+
+of complete procurement documents. 
+
+ 
+
+181. Further, Management shall issue a letter to request delivery of two (2) units re-
+calibrated/repaired equipment to the designated areas. 
+
+ 
+
+182. As a rejoinder, the recommendation requires for the submission of documents that 
+proves the deployment of the swab testing station to EAMC. 
+
+ 
+
+c. Unliquidated receivables from FAME Inc. amounting to ₱9,990,000.00  
+ 
+
+183. Section 2.1 and 2.2 of COA Circular No. 2012-001 dated June 14, 2012 enumerates 
+the required documentary requirements for the release of funds, and implementation and 
+
+liquidation of funds to NGOs/CSOs. This is consistent with Section 4(6) of PD 1445 which 
+
+states that claims shall be supported with complete documentation. 
+
+ 
+
+184. Section X.A.3 of DOST AO No. 11 dated September 2, 2020 also states that: 
+ 
+
+A. Roles of the Concerned Institutions/Offices/Staff – (3) The IA shall have 
+
+primary responsibility of all project activities. It shall notify the Monitoring 
+
+Agency of significant concerns problems related to project implementation. 
+
+The Head of the IA shall ensure that the Project Leader submits to the FA 
+
+all the required reports/documents on time. 
+  
+
+B. Technical Monitoring – (1.b) Program/projects with one (1) year duration shall 
+
+submit the terminal accomplishment report using DOST Form 15 in two (2) 
+
+
+
+91 
+
+hard copies and an electronic copy, not later than two (2) months after 
+
+project completion, together with DOST Form-12 List of Equipment 
+
+Purchased 
+
+ 
+
+185. As of this report, receivables from FAME Inc. amounting to ₱9,990,000.00 for the 
+implementation of the project entitled “A COVID-19 Initiative: Development of Sixty-Six 
+
+(66) units of Swab Testing Stations and Conduct of Testing and Data Gathering in Selected 
+
+Areas,” remained outstanding despite completion on June 16, 2020.  
+
+ 
+
+186. Verification on PCIEERD’s PMIS revealed that PCIEERD made a follow-up for 
+the submission of documents in compliance with DOST GIA Guidelines for completed 
+
+projects via letter to FAME Inc. dated November 5, 2020.  Further, it was noted that FAME 
+
+Inc. sent the terminal report and partial supporting documents such as official receipts 
+
+through email on December 9, 2020, and posted in the system on January 13, 2021.  
+
+ 
+
+187. As a result, the fabricated and deployed swab testing stations were not yet recorded 
+into PCIEERD’s PPE account due to failure to facilitate the liquidation on time despite 
+
+receiving a follow-up letter dated November 5, 2020. Inquiry with Research Information 
+
+and Technology Transfer Division (RITTD) revealed that coordinating and collating the 
+
+documents was a challenge as the people with the documents were work-from-home in 
+
+different locations. In addition, original copies of liquidation reports with complete 
+
+supporting documents should be submitted with the terminal report to the SA-PCIEERD 
+
+for the assigned COA Audit Team to assess and prove the regularity and propriety of the 
+
+disbursements reported in the said FRs. 
+
+ 
+
+188. We recommended and Management agreed to direct the Project Manager and 
+Accountant to facilitate the liquidation of FAME Inc. outstanding receivables and 
+
+ensure that liquidation reports be submitted with complete and original supporting 
+
+documents such as official receipts (ORs), delivery receipts (DRs) and the covering 
+
+research projects deliverables/output or terminal report duly acknowledged and 
+
+accepted by the Research Information and Technology Transfer Division (RITTD). 
+ 
+
+189. Management commented that the people with the documents were most of the time 
+working from home. It was a challenge coordinating and collating the documents. 
+
+ 
+
+d. Net overpayment of salary amounting to ₱3,150.00 
+ 
+
+190. Section 105 (2) of PD 1445 states that “Every officer accountable for government 
+funds shall be liable for all losses resulting from the unlawful deposit, use, or application 
+
+thereof and for all losses attributable to negligence in the keeping of the funds.” 
+
+ 
+
+191. Validation of payment of salary of hired job orders under the project DWARM “A 
+COVID 19 initiative: Production of six (6) units of Artificial Intelligence- based thermal 
+
+scan technology, pilot testing and deployment in selected LGUs” revealed that actual salary 
+
+payment to the hired Material Management and Business Development Consultant 
+
+amounting to ₱48,500.00 exceeded its monthly rate of ₱45,000.00 by ₱3,500.00. 
+
+
+
+92 
+
+ 
+
+192. The payment of salary was erroneously computed under LDDAP No. 2020000637 
+dated May 22, 2020, for the partial payment of salary or 70% of the total salary as follows: 
+
+ 
+Table 31: Computation of overpayment on salary payment 
+
+JEV 
+Date 
+(A) 
+
+JEV No. 
+(B) 
+
+LDDAP 
+No.  
+(C) 
+
+Should be Actual 
+Net 
+
+Overpayme
+nt 
+
+(₱) 
+(L) 
+
+(H-K) 
+
+ Rate/Month 
+(D)  
+
+% 
+(E) 
+
+Partial 
+Payment 
+Amount 
+
+(₱) 
+(F)  
+
+(D*E) 
+
+Withholdi
+ng Tax 
+
+(₱) 
+(G)  
+
+Net 
+Amount 
+
+(₱) 
+(H) 
+
+(F-G) 
+
+ Gross 
+Amount 
+
+(₱) 
+(I)  
+
+Withholdin
+g Tax 
+(₱) 
+(J)  
+
+Net 
+Amount 
+
+(₱) 
+(K) 
+
+22-
+May-
+
+20 
+
+JEV-2020-
+05-000942 
+
+2020000
+637 
+
+45,000.00  70% 31,500.00  3,150.00  
+28,350.0
+
+0  
+35,000.00 3,500.00 31,500.00 (3,150.00) 
+
+ 
+
+193. It was also observed that the schedule of computation attached in the disbursement 
+voucher was correct, however, the amount paid, net of tax, was mistakenly based on the 
+
+correct gross amount of ₱31,500.00 rather than the net of tax of ₱28,350.00. As a result, 
+
+there was a net overpayment of ₱3,150.00 to the hired Material Management and Business 
+
+Development Consultant. 
+
+ 
+
+194. We recommended and Management agreed to require the concerned 
+personnel to refund the overpayment of ₱3,150.00. 
+
+ 
+
+Other Compliance Issues 
+ 
+
+Gender and Development (GAD) 
+
+ 
+
+195. PCIEERD has partially complied with the guidelines in the preparation of the 
+annual Gender and Development Plans and Budgets (GBP) and Accomplishment 
+
+Report (GAD AR) in accordance with the provisions of RA 9710, otherwise known as 
+
+Magna Carta for Women. Further, PCIEERD has partially implemented the GBP, 
+
+as indicated by the partial achievement of the performance indicators/targets 
+
+indicated therein. 
+
+ 
+
+a) Partial compliance with the guidelines in the preparation of the Annual GBP and 
+GAD AR 
+
+ 
+
+196. Section 37 of RA 9710 or the Magna Carta for Women prescribes the guideline on 
+the planning, budgeting, monitoring and evaluating for GAD. Paragraph c of subsection A 
+
+provides that: “At least five percent (5%) of the total agency or LGU budget appropriations 
+
+shall correspond to activities supporting GAD Plans and Programs. The agency GAD 
+
+Budget may be allocated using any or a combination of the following: 
+
+ 
+
+i. As a separate GAD fund to support GAD-focused programs, projects, and 
+activities; 
+
+ii. As fund to support integrating gender-perspectives in regular/flagship 
+programs and projects; 
+
+
+
+93 
+
+iii. As counterpart fund to support gender-responsiveness Official 
+Development Assistance (ODA) – funded projects.” 
+
+ 
+
+197. The same subsection designates the Philippine Commission on Women (PCW) to 
+review GAD Plans, Programs, and Budgets accompanied by GAD Accomplishment 
+
+Reports submitted annually by all NGAs, bureaus, SUCs, GOCCs, and other government 
+
+instrumentalities for gender responsiveness.  
+
+ 
+
+198. Sub-section C of the section prescribes the guideline on the creation on the 
+strengthening of the GAD Focal Points (GFPs), including its composition. 
+
+ 
+
+199. Section 31 of the General Provisions of the General Appropriations Act for FY 
+2020 or RA 11465 states that: “All agencies of the government shall formulate a GAD Plan 
+
+designed to address gender issues within the concerned sectors or mandate and implement 
+
+the applicable provisions under R.A. No. 9710 or the Magna Carta of Women, Convention 
+
+on the Elimination of All Forms of Discrimination Against Women, the Beijing Platform 
+
+for Action, the Philippine Plan for Gender-Responsive Development (1995-2025) and the 
+
+Philippine Development Plan (2017-2022). The GAD Plan shall be integrated in the 
+
+regular activities of the agencies, which shall be at least five percent (5%) of their budgets. 
+
+For this purpose, activities currently being undertaken by agencies which relate to GAD 
+
+or those that contribute to poverty alleviation, economic empowerment especially of 
+
+marginalized women, protection, promotion, and fulfillment of women’s human rights, and 
+
+practice of gender-responsive governance are considered sufficient compliance with said 
+
+requirement. Utilization of GAD Budget shall be evaluated based on the GAD performance 
+
+indicators identified by said agencies.” 
+
+ 
+
+200. Section V of COA Circular No. 2014-001 dated March 18, 2014, provides that “The 
+Audited agency shall submit a copy of the Annual GBP to the COA Audit Team assigned 
+
+to the agency within five (5) working days from the receipt of the approved plan from the 
+
+PCW or their mother or central offices, as the case maybe. Likewise, a copy of the 
+
+corresponding Accomplishment Report shall be furnished the said Audit Team within five 
+
+(5) working days from the end of January of the preceding year. 
+
+ 
+
+201. PCW Memorandum Circular No. 2020-05 dated September 11, 2020 provides that 
+“PCW-endorsed GBPs shall be authenticated by the Gender Mainstreaming Monitoring 
+
+System (GMMS) with a QR code. Agencies shall print the PCW-endorsed GBP for 
+
+signature of their agency head, and disseminate the signed copy to their concerned units. 
+
+Agencies shall also furnish their respective COA Audit Team a copy of their signed GBP 
+
+within 5 working days from its endorsement.” 
+
+ 
+
+202. PCW Memorandum Circular No. 2021-01 dated January 20, 2021, states that “FY 
+2020 GAD ARs submitted to PCW shall be authenticated by the GMMS with a barcode. 
+
+Concerned agencies shall print the GMMS-authenticated GAD AR for signature of their 
+
+agency head and submit signed copies to PCW and their respective COA Audit Team.”  
+
+ 
+
+
+
+94 
+
+203. Further, it prescribes in paragraph 5 that “agencies shall accomplish the 
+Harmonized Gender and Development Guidelines (HGDG) Project Implementation and 
+
+Management, and Monitoring and Evaluation (PIMME) checklist (HGDG Boxes 16 & 17) 
+
+or the Facility Implementation, Management, and Monitoring and Evaluation (FIMME) 
+
+checklist (HGDG Box F2) to assess the gender-responsiveness of the implementation of 
+
+the program/projects.” 
+
+ 
+
+204. Section 4 of RA 7877: Anti-Sexual Harassment Act of 1995 prescribes the duty of 
+the employer or head of office in a work-related, education or training environment to 
+
+prevent or deter the commission of acts of sexual harassment and to provide the procedures 
+
+for the resolution, settlement or prosecution of acts of sexual harassment. It states that the 
+
+head of office shall: 
+
+ 
+
+(a) “Promulgate appropriate rules and regulations in consultation with and jointly 
+
+approved by the employees or students or trainees, through their duly 
+
+designated representatives, prescribing the procedure for the investigation of 
+
+sexual harassment cases and the administrative sanctions therefor.” 
+
+ 
+
+(b) “Create a committee on decorum and investigation of cases on sexual 
+
+harassment. The committee shall conduct meetings, as the case may be, with 
+
+officers and employees, teachers, instructors, professors, coaches, trainors, and 
+
+students or trainees to increase understanding and prevent incidents of sexual 
+
+harassment. It shall also conduct the investigation of alleged cases constituting 
+
+sexual harassment….” 
+
+ 
+
+205. Rule XII of Civil Service Commission (CSC) Resolution 01-0940 titled 
+Administrative Disciplinary Rules on Sexual Harassment Cases dated May 21, 2001 
+
+provides the duties of the agencies of the government. The resolution also reiterates the 
+
+creation of Committee on Decorum and Investigation (CODI) and rules and 
+
+regulations on sexual harassment. 
+
+ 
+
+206. Submitted reports showed that the Agency had allocated a GAD budget for Fiscal 
+Year (FY) 2020 amounting to ₱32.63 million which is equivalent to 4.51 percent of 
+
+₱723.98 million of its total appropriations in the General Appropriation Act (GAA) FY 
+
+2020. This is non-compliant with the minimum requirement of five percent (5%).  
+
+ 
+
+207. However, the total actual expenditure incurred for in the implementation of the 
+GBP is ₱41.68 million or 5.76 percent and 127.76 percent of its total GAD budget and 
+
+appropriation, respectively. 
+
+ 
+
+208. The PCW-endorsed GBP for FY 2020 was submitted to the Audit Team on 
+September 22, 2020. However, said report was not signed by Head of the Agency. The 
+
+signed report was submitted to the Audit Team on February 22, 2021, due to numerous 
+
+changes in the process; hence, transmittal of the signed report to the Audit Team was 
+
+
+
+95 
+
+overlooked. This is non-compliant with the submission guideline set forth in the COA 
+
+Circular and PCW Memoranda mentioned above. 
+
+ 
+
+209. We reiterated our prior year’s recommendation and Management and GFPS 
+agreed to ensure compliance with the guidelines provided in the PCW Memorandum 
+
+Circular to print the GMMS authenticated GBP and GAD AR for signature of the 
+
+agency head and submit signed copies to PCW and COA within five (5) working days 
+
+from endorsement. 
+ 
+
+b) Partially implemented GBP as indicated by the partial achievement of the 
+performance indicators/targets indicated therein 
+
+ 
+
+210. The submitted GBP and GAD AR revealed partial implementation of the GAD 
+plan. Summary of the performance indicators/targets not fully implemented are in the table 
+
+below: 
+
+ 
+Table 32: Summary of GAD Activity with Partial Implementation 
+
+GAD Activity 
+
+Line 
+
+Item 
+
+No. 
+
+Performance 
+
+Indicators 
+
+/Targets 
+
+Actual Result 
+
+(Outputs/Outcomes) 
+Remarks 
+
+Conduct gender 
+
+responsive 
+
+program 
+
+information 
+
+dissemination of 
+
+PCIEERD's 
+
+services to 
+
+encourage women 
+
+and men avail the 
+
+human resource 
+
+and institutional 
+
+development 
+
+program 
+
+2 Number of women 
+
+and men benefited in 
+
+the human resource 
+
+and institutional 
+
+development program 
+
+of PCIEERD - at least 
+
+10 women, 5 men and 
+
+3 institution led by 
+
+women 
+
+37 Male Project 
+
+Leader & team 
+
+availed & benefited 
+
+from the PCIEERD 
+
+programs 25 Female 
+
+Project Leader & 
+
+team availed & 
+
+benefited from the 
+
+PCIEERD program3 
+
+Institution - 2 led by 
+
+male & 1 female" 
+
+Failure to comply with the three (3) 
+
+institutions led by women. PCIEERD: "2 led 
+
+by male & 1 female" 
+
+Participation in the 
+
+Women's Month 
+
+Celebration 2020 
+
+set by DOST-wide 
+
+GAD Office and 
+
+PCW 
+
+and other 
+
+agencies. 
+
+3 Number of PCIEERD 
+
+women and men 
+
+participated in the 
+
+Women's Month 
+
+Celebration 2020 
+
+spearheaded by 
+
+DOST: Number of 
+
+PCIEERD women and 
+
+men participated in the 
+
+Women’s Month 
+
+Celebration 2020 
+
+spearheaded by 
+
+PCW:- DOST:156 
+
+PCIEERD women and 
+
+men employees PCW: 
+
+"Participated in the 
+
+National Women's 
+
+Month Celebration 
+
+2020 169 total 
+
+PCIEERD men and 
+
+women staff: 
+
+ 
+
+Male - 63 
+
+Female - 106" 
+
+Failure to achieve the total number of 
+
+participants: 
+
+Target: spearheaded by DOST, 156; by 
+
+PCW, 50 (Total:206) 
+
+Actual: 106 Female, 63 Male (Total: 169) 
+
+
+
+96 
+
+GAD Activity 
+
+Line 
+
+Item 
+
+No. 
+
+Performance 
+
+Indicators 
+
+/Targets 
+
+Actual Result 
+
+(Outputs/Outcomes) 
+Remarks 
+
+50 PCIEERD women 
+
+and men employees 
+
+Conduct 
+
+training/seminar/ 
+
+workshop on 
+
+GAD and other 
+
+GAD related 
+
+activities and 
+
+Learning Visit on 
+
+gender-responsive 
+
+projects in Cavite 
+
+and other parts of 
+
+Luzon. 
+
+5 Number of PCIEERD 
+
+women and men 
+
+participate in GAD 
+
+related activities. 156 
+
+PCIEERD women and 
+
+men employees: 
+
+Number of learning 
+
+visit on a 
+
+gender-responsive 
+
+project: one (1) visit- 
+
+156 PCIEERD women 
+
+and men employees 
+
+Attendance to the 
+
+PCIEERD Mental 
+
+Health Awareness in 
+
+the New 
+
+Normal 
+
+ 
+
+Male - 41 
+
+Female - 85 
+
+Failure to achieve the total number of 
+
+participants: 
+
+Target: 156 employees 
+
+Actual: 41 Male, 85 Female (Total: 126) 
+
+Conduct training 
+
+on application/use 
+
+of HGDG to all 
+
+PCIEERD women 
+
+and men project 
+
+managers and 
+
+researchers. 
+
+(batch 1) 
+
+6 No. of training 
+
+conducted and 
+
+participated of 
+
+PCIEERD women and 
+
+men project 
+
+managers/researchers 
+
+on the application/use 
+
+of HGDG.- No. of 
+
+participants: 100. No. 
+
+of training conducted : 
+
+2 trainings 
+
+Attendance to 
+
+HGDG Webinar held 
+
+by PCW &other 
+
+agency GAD 
+
+webinar  
+
+ 
+
+Male – 1 
+
+Female - 1 
+
+Failure to achieve the total number of 
+
+trainings and participants: 
+
+Target: 2 trainings and 156 employees 
+
+Actual: 1 training and 1 Male, 1 Female 
+
+(Total: 2) participants 
+
+Participate in the 
+
+training/workshop 
+
+for gender 
+
+responsive 
+
+planning and 
+
+budgeting. 
+
+7 Number of PCIEERD 
+
+GAD TWG 
+
+participants: - 10 
+
+PCIEERD GAD TWG 
+
+1 Female TWG 
+
+attended the 
+
+webinar on GAD 
+
+plan and Budgeting 
+
+Failure to achieve the total number of 
+
+participants: 
+
+Target: 10 PCIEERD GAD TWG 
+
+Actual: 1 Female 
+
+Formulate GAD 
+
+policy and GAD 
+
+agenda through 
+
+the Policy Technical 
+
+Working Group 
+
+(TWG) of PCIEERD. 
+
+8 Administrative Order 
+
+(AO) for the Creation 
+
+of PCIEERD GAD 
+
+Policy.- Administrative 
+
+Order (AO) for the 
+
+Creation of PCIEERD 
+
+GAD Policy. 
+
+Prepared draft but not 
+
+yet discussed 
+
+Failure to create and institutionalize the 
+
+PCIEERD GAD Policy. 
+
+ 
+
+211. Further, it must be noted that PCIEERD has only created the CODI on February 
+22, 2021. Moreover, PCIEERD currently has no rules and regulations on sexual 
+
+harassment, which is not compliant with the provisions of RA No. 7877 and CSC 
+
+Resolution 01-0940. 
+
+ 
+
+ 
+
+ 
+
+
+
+97 
+
+212. We recommended and Management agreed to require: 
+ 
+
+a. The GFPS to ensure proper and full implementation of the GAD plans; 
+and 
+
+ 
+
+b. The CODI to prioritize the creation of the rules and regulations on sexual 
+harassment to ensure compliance with the RA No. 7877 and CSC 
+
+Resolution 01-0940. 
+
+ 
+
+Senior Citizens and Differently-abled Persons 
+
+   
+
+213. Failure to allocate at least one percent (1%) of its agency funds and to 
+formulate plans, programs and projects which aim to address the concerns of senior 
+
+citizens and differently-abled persons are contrary to Section 31 of Republic Act (RA) 
+
+No. 10964. 
+ 
+
+214. Section 33 of RA 11260 states that all agencies of the government shall formulate 
+plans, programs and projects intended to address the concerns of senior citizens and 
+
+persons with disability, insofar as it relates to their mandated functions, and integrate the 
+
+same in their regular activities. 
+
+ 
+
+215. Likewise, Section 4.2 of the Joint DBM and Department of Social Welfare and 
+Development (DSWD) Circular No. 2003-01 dated April 28, 2003, provides that: “All 
+
+government agencies, departments, bureaus, offices, commissions and state universities 
+
+and colleges shall allocate at least one percent (1%) of their respective budget for the 
+
+implementation of plans, programs, projects, activities and services for older persons and 
+
+persons with disabilities.” The total actual expenditures incurred by PCIEERD for the 
+
+following programs, projects, and activities (PAPs) intended to address the concerns of 
+
+senior citizens and persons with disability is ₱2,881,525.00 which is 0.40 percent of the 
+
+total appropriation of ₱723.98 million. This is the total project cost of Development of Data 
+
+Analytics and Information System: Support on Social Welfare Services for Senior Citizens 
+
+of Butuan City. 
+
+ 
+
+216. PCIEERD failed to allocate at least one percent (1%) of its FY 2020 appropriation 
+or ₱7,239,810.00 for PAPs intended for senior citizens and differently-abled persons in 
+
+accordance with Section 4.2 of the Joint DBM and DSWD Circular No. 2003-01 dated 
+
+April 28, 2003. 
+
+ 
+
+217. A similar observation and recommendation were included in the prior year’s audit. 
+Management have stated that the implementation of the recommendation is ongoing. It 
+
+must be noted that there has been an increase in the expenditure for programs intended to 
+
+benefit senior citizens and differently-abled persons in CY 2020 of ₱2,585,850.00 or 875 
+
+percent from the CY 2019 expenditure of ₱295,675.00. 
+
+ 
+
+
+
+98 
+
+218. We reiterated our previous year’s recommendation and Management agreed 
+to provide sufficient budget that would address the concern of senior citizens and 
+
+differently-abled persons. 
+
+ 
+
+219. The PCIEERD ensured that senior citizens and differently-abled persons are 
+considered in its programs and projects. In fact, for 2021 PCIEERD partially allocated 
+
+₱540,000.00 budget for senior citizens and differently-abled person in compliance with RA 
+
+10964. This includes payment of honoraria to technical panel experts, including Senior 
+
+Citizens tapped by the Council in the evaluation of project proposals. Moreover, PCIEERD 
+
+requires its IAs of its funded and monitored projects to fill out the GAD checklist to 
+
+determine if the project is gender sensitive. 
+
+ 
+Compliance with other mandatory accounts          
+
+ 
+
+220. For CY 2020, the status of compliance by the Agency on the withholding and 
+remittances of taxes and premiums as well as the government share on various 
+
+contributions within the prescribed period to the concerned institutions or agencies is 
+
+shown in Table 33. 
+ 
+
+Table 33: Summary Status of Remittances to Concerned Institutions 
+
+Area 
+Account 
+Affected 
+
+Status 
+
+Compliance with 
+Tax Laws  
+
+Due to 
+Bureau of 
+Internal 
+Revenue 
+(BIR) 
+
+For CY 2020, there is a beginning balance of ₱28,962.16, taxes withheld and 
+remitted amounted to ₱11,653,968.40 and ₱12,247,852.29, respectively. 
+Hence, an ending balance of ₱(564,921.73).  
+ 
+Further, negative SL balance and outstanding balances for over one (1) year 
+amounting to ₱(2,407,182.21) and ₱28,962.16, respectively, still exist as at 
+December 31, 2020. 
+
+Deduction and 
+Remittance of 
+GSIS premiums 
+
+Due to GSIS For CY 2020, there is a beginning balance of ₱151,250.69, premiums withheld, 
+remittances, and adjustments of ₱5,632,010.61; ₱5,559,471.22; and 
+₱(6,811.79), respectively. Hence, an ending balance of ₱216,978.29.  
+ 
+Further, negative SL balance and outstanding balances for over one year 
+amounting to ₱(62,658.60) and ₱29,979.48, respectively, still exist as at 
+December 31, 2020. 
+
+Deduction and 
+Remittance of 
+PhilHealth 
+premiums 
+
+Due to 
+PhilHealth 
+
+For CY 2020, there is a beginning balance of ₱18,654.64, premiums withheld 
+and remittances of ₱493,767.87 and ₱504,475.65, respectively. Hence, an 
+ending balance of ₱7,946.86.  
+ 
+Further, negative SL balance and outstanding balances for over one year 
+amounting to ₱(11,954.65) and ₱17,437.50, respectively, still exist as at 
+December 31, 2020. 
+
+Deduction and 
+Remittance of 
+Pag-ibig premiums 
+
+Due to Pag-
+ibig 
+
+For CY 2020, there is a beginning balance of ₱14,851.01 premiums withheld, 
+remittances, and adjustments of ₱2,386,239.13; ₱2,333,257.79; and 
+₱(1,200.00), respectively. Hence, an ending balance of 66,632.35.  
+ 
+Further, negative SL balance and outstanding balances for over one year 
+amounting to ₱(16,191.87) and ₱5,790.75, respectively, still exist as at 
+December 31, 2020.  
+
+ 
+
+
+
+99 
+
+221. We reiterated our previous year’s recommendation and Management agreed 
+to require the responsible personnel to facilitate the reconciliation of the prior years’ 
+
+balances and remit immediately the amount due to BIR/GOCCs, and strictly comply 
+
+with the stipulated timeline of remittances, as necessary. 
+
+ 
+
+Payments to Contractual and Job Orders (JO) 
+
+ 
+
+222. To assist both in the monitoring of the implementation of the different 
+programs/projects funded by DOST and by the PCIEERD, and in the recording of 
+
+PCIEERD’s operation for CY 2020, PCIEERD hired an additional workforce of 109 
+
+contractual and three (3) job orders, which represent 58.29 percent and 1.60 percent, 
+
+respectively, of the total manpower of the agency. PCIEERD’s contractual and job orders 
+
+comprised of technical, clerical, information and technology (IT) services. For CY 2020, 
+
+total payments for contractual and job orders amounting to ₱31,236,909.66 of which 
+
+₱16,895,423.46 were charged against the Maintenance and Other Operating Expenses 
+
+(MOOE) of the General Fund and ₱14,341,486.20 against the project funds. 
+
+ 
+Enforcement of Settlement of Disallowance, Charges and Suspensions 
+
+ 
+
+223. There were notices issued on audit disallowance in CY 2020 due to the 
+overpayment of Longevity Pay (LP) for CY 2019 and suspensions as follows: 
+
+ 
+Table 34: Disallowances, Charges and Suspensions for CY 2020 
+
+Particulars 
+
+Beginning 
+Balance, 
+
+This Period 
+January to December 31, 2020 
+
+(in ₱) 
+
+Ending Balance, 
+
+January 1, 2020 
+(in ₱) 
+
+December 31, 2020 
+(in ₱) NS/ND/NC NSSDC 
+
+Notice of Suspension (NS) 22,162.50 0.00 22,162.50 0.00 
+
+Notice of Disallowance (ND) 9,987,434.55 1,377,035.79 31,892.50 11,332,577.84 
+
+Notice of Charge (NC) -0-    -0- -0- -0-    
+
+TOTAL 10,009,597.05 1,377,035.79 54,055.00 11,332,577.84 
+
+ 
+
+224. Details of Suspensions, Disallowances and Charges are as follows: 
+ 
+
+Table 35: Breakdown of Disallowances, 
+Charges, Suspensions and Settlements for CY 2020 
+
+NS/ND/NC/NSSDC 
+
+Reasons 
+
+ AMOUNT (in ₱)  
+
+Date No. 
+ Issuances and Settlements during CY 2020  
+
+ Disallowed   Charged   Suspended   Settled  
+
+7/1/2020 
+2020-001 
+(2019) 
+
+Settlement 
+for NS No. 
+2019-001-
+101-184 
+(2018) 
+
+         22,162.50  
+
+7/1/2020 
+2020-002 
+(2019) 
+
+Partial 
+settlement 
+for ND No. 
+2019-02-
+
+        31,892.50  
+
+
+
+100 
+
+NS/ND/NC/NSSDC 
+
+Reasons 
+
+ AMOUNT (in ₱)  
+
+Date No. 
+ Issuances and Settlements during CY 2020  
+
+ Disallowed   Charged   Suspended   Settled  
+
+101-184 
+(2018) 
+
+10/1/2020 
+2020-
+001-101 
+(2019) 
+
+Excessive 
+LP in 2019 
+
+ 1,377,035.79        
+
+TOTAL  1,377,035.79                -                      -      54,055.00  
+
+ 
+
+225. An appeal from ND No. 2020-001-101 (2019) dated October 1, 2020, relative to 
+the disallowance for LP payment for CY 2019 amounting to ₱1,377,035.79 was submitted 
+
+on March 18, 2021. 
+
+ 
+226. We recommended and Management agreed to require the persons liable to 
+settle the remaining unsettled disallowances that have become final and executory, if 
+
+any. 
+  
+
+

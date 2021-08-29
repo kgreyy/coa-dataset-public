@@ -1,0 +1,2044 @@
+
+
+
+
+
+
+AUDIT OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+FINANCIAL ISSUES
+
+
+
+Non-Reversion of Accounts Payable to Accumulated Surplus/Deficit
+
+
+
+1)		The Accounts Payable account balance of P5.053 million as of December 31, 2020 included payables amounting to P97,750.44 that have remained outstanding for two years or more but were not reverted to the Accumulated Surplus or Deficit. 
+
+	
+
+	1)		  Executive Order (EO) No. 87 dated August 13, 2019 directs that all accounts payable which remain for two years or more in the books of National Government agencies be reverted to the Accumulated Surplus or Deficit of the general fund, or the Cumulative Result of Operations of the National Government.
+
+	
+
+	2)		Examination of the schedule of Accounts Payable disclosed that P97,750.44 of the total account balance of P5,052,882.61 have remained outstanding for two years but less than three years. Aging of the account is summarized as follows:
+
+	
+
+	Table 1 – Aging of Accounts Payable
+
+Age
+
+No. of Creditors
+
+Amount
+
+Less than 90 days
+
+17
+
+P4,648,489.77
+
+91-365 days
+
+1
+
+60,000.00
+
+Over 1 year but less than 2 years
+
+3
+
+246,642.40
+
+2 years or more
+
+3
+
+97,750.44
+
+Total
+
+
+
+P5,052,882.61
+
+
+
+	3)			Records show that the aforesaid payables were the unclaimed tax refunds    and retention fee of suppliers.
+
+	
+
+	4)		The non-reversion of payables aged for two years or more to Accumulated Surplus or Deficit of the general fund is not in keeping with EO No. 87 dated August 13, 2019.
+
+	
+
+	5)	We recommended and Management agreed to require the Chief Accountant to revert the Accounts Payable aged two years or more to Accumulated Surplus or Deficit account in accordance with Executive Order No. 87 dated August 13, 2019.
+
+
+
+
+
+
+
+
+
+Unserviceable/Fully-Depreciated Property, Plant and Equipment Were Classified as Other Assets Account Using the Carrying Amount
+
+
+
+2)		Fifty-nine units of unserviceable/fully-depreciated Property, Plant and Equipment (PPE) with a total acquisition cost of P2.081 million are classified in the agency books as Other Assets and recorded at the Carrying Amount equivalent to 10 percent residual value or at P208,069.07 instead of at Cost less Accumulated Depreciation.
+
+ 
+
+	1)				   Section 40, Chapter 10 of the Government Accounting Manual (GAM), Volume I provides the policies on idle, unserviceable and fully depreciated PPE where it states, among others, “that a PPE is said to be fully depreciated when the carrying amount is equal to zero or residual value.  The cost of fully depreciated assets remaining in service and the related accumulated depreciation and accumulated impairment losses shall not be removed from the accounts”.
+
+			
+
+	2)				   A Journal Entry Voucher (JEV) shall be prepared by the Accounting Division/Unit to derecognize the asset from the books of accounts only after its disposal.
+
+
+
+	3)				   Moreover, Section 22, Chapter 10 of the GAM, Volume I states that for consistency and uniformity, the cost model shall be applied to an entire class of PPE.  Cost model means that PPE are carried at cost, less any accumulated depreciation and any accumulated impairment losses.
+
+
+
+	4)				   Further, it also states that all unserviceable property shall be reported in the Inventory and Inspection Report of Unserviceable Property (IIRUP). PPE reported in the IIRUP shall be dropped from the books by debiting Impairment Loss-Property, Plant and Equipment (cost of the PPE less Accumulated Depreciation).
+
+	
+
+	5)				   Review however of the Accounting and Property records disclosed that fully depreciated PPE or PPE reaching its 10 percent residual value is recorded in the agency books as Other Assets account, as follows:  
+
+
+
+Table 2 – Schedule of PPE Classified as Other Assets (OA) Account
+
+
+
+
+
+
+
+Other Assets
+
+(Valued at 
+
+Carrying Amount)
+
+Total of Other Assets at Carrying Amount
+
+
+
+Qty
+
+
+
+PPE
+
+
+
+Acquisition Cost
+
+Part of IIRUP*
+
+(Unservice-able)
+
+Not Part of IIRUP (Serviceable)
+
+
+
+5
+
+Office Equipment
+
+P897,326.44
+
+P43,954.20
+
+
+
+P89,732.64
+
+13
+
+
+
+
+
+
+
+P45,778.44
+
+
+
+19
+
+ICTE**
+
+1,081,874.30
+
+55,949.13
+
+
+
+108,187.43
+
+18
+
+
+
+
+
+
+
+52,238.30
+
+
+
+1
+
+Communication Equipment
+
+30,000.00
+
+3,000.00
+
+
+
+3,000.00
+
+1
+
+Other PPE
+
+18,440.00
+
+
+
+1,844.00
+
+1,844.00
+
+2
+
+Furniture and Fixtures
+
+53,050.00
+
+
+
+5,305.00
+
+
+
+
+
+Total
+
+P2,080,690.07
+
+P102,903.33
+
+P105,165.74
+
+P208,069.07
+
+
+
+59
+
+
+
+25 units
+
+34 units
+
+
+
+          Legend *Inventory and Inspection Report of Unserviceable Property
+
+                     **Information and Communication Technology Equipment
+
+
+
+	6)		As shown in the table above, PPE totaling P208,069.07 are classified as Other Assets in the agency books consisting of 59 units.  This can also be verified in the agency Notes to Financial Statements (FS) where it states that the “Other Assets amounting to P208,069.07 pertains to the ten percent salvage value of various unserviceable PPE items”.
+
+
+
+	7)	Audit showed that the account Other Assets consisted of fully depreciated assets both categorized either serviceable or unserviceable.  Of the 59 fully depreciated units, 25 of which amounting to P102,903.33 are unserviceable while the 34 totaling P105,165.74 are still serviceable and already listed in the IIRUP.  
+
+
+
+	8)	The above practice of classifying unserviceable/fully depreciated assets to Other Assets account is not in conformity with Section 40, Chapter 10 of the GAM, Vol. I where it requires that unserviceable and fully depreciated PPE shall not be removed from the asset account. These should only be derecognized from the books through a JEV only after its disposal.
+
+
+
+	9)	On the other hand, it is also stated in the Notes to FS that “an item recognized as PPE is measured at cost.  After recognition, all PPE are stated at cost less accumulated depreciation and impairment losses.”   On the contrary, from the table above, it can be noted that the 59 unserviceable/fully depreciated PPE with a total acquisition cost of P2,080,690.74 are recorded in the books using the Carrying Amount or at P208,069.07 instead of at Cost less Accumulated Depreciation.
+
+
+
+	10)	As a result, valuation of PPE is not consistent/uniform.  The PPE account balances as of December 31, 2020 totaled P34,494,705.78 of which the Other Assets account was recorded using Carrying Amount or at P208,069.07 while all other PPE accounts are carried at Cost less Accumulated Depreciation, as shown in the next page:
+
+Table 3 – Schedule of PPE Account Balances
+
+
+
+PPE Account
+
+Acquisition Cost
+
+Accumulated Depreciation
+
+Carrying Amount
+
+Office Equipment 
+
+P6,081,657.68
+
+P4,611,601.48
+
+P1,470,056.20
+
+Information and Communication Technology Equipment
+
+5,568,549.80
+
+3,939,826.61
+
+1,628,723.19
+
+Leased Assets Improvements, Buildings
+
+4,835,651.13
+
+2,284,118.23
+
+2,551,532.90
+
+Other Machinery and Equipment
+
+4,255,834.01
+
+1,632,628,34
+
+2,623,205.67
+
+Furniture and Fixtures
+
+513,908.54
+
+320,361.11
+
+193,547.43
+
+Computer Software
+
+1,428,582.56
+
+1,096,634.86
+
+331,947.70
+
+Books
+
+33,365.00
+
+24,300.83
+
+9,064.17
+
+Other Assets
+
+-
+
+-
+
+208,069.06
+
+Motor Vehicles
+
+11,569,088.00
+
+4,138,674.34
+
+7,430,413.66
+
+Sub-total
+
+P34,286,636.7
+
+At Cost
+
+
+
+ Add:      (Other Assets)
+
+208,069.06
+
+At Carrying Amount
+
+Total
+
+P34,494,705.78
+
+
+
+
+
+
+
+	11)	This practice of valuing assets at carrying amount does not conform to Section 22, Chapter 10 of the GAM, Vol. I where it provides that for consistency and uniformity, cost model shall be applied to an entire class of PPE which means that PPE are carried at cost less any accumulated depreciation and any accumulated impairment losses.
+
+
+
+	12)	Meanwhile, the disposal of unserviceable PPE requires that the PPE subject for disposal should be reported in the IIRUP which should serve as the basis for dropping from the agency books.  It shall be dropped by debiting Impairment Loss-PPE (Cost less Accumulated Depreciation).  
+
+
+
+	13)	As such, it necessitates that the 59 unserviceable/fully depreciated PPE classified as Other Assets will be reclassified to its respective PPE accounts valued at Cost less Accumulated Depreciation for consistency and uniformity of recording in the IIRUP and correspondingly, the dropping from the books.   Consider the following:
+
+
+
+Table 4 –Reclassification and Valuation of Unserviceable/Fully Depreciated PPE  
+
+
+
+PPE 
+
+
+
+Qty
+
+Acquisition Cost
+
+Accumulated Depreciation
+
+Carrying Amount
+
+Office Equipment
+
+18
+
+P897,326.44
+
+P807,593.80
+
+P89,732.64
+
+Information and Communication Equipment
+
+37
+
+1,081,874.30
+
+973,686.88
+
+108,187.42
+
+Communication Equipment
+
+1
+
+30,000.00
+
+27,000.00
+
+3,000.00
+
+Other PPE
+
+1
+
+18,440.00
+
+16,596.00
+
+1,844.00
+
+Furniture and Fixtures
+
+2
+
+53,050.00
+
+47,745.00
+
+5,305.00
+
+Total
+
+59
+
+P2,080,690.74
+
+P1,872,621.68
+
+P208,069.06
+
+ 
+
+	14)	We recommended and Management agreed to require the Chief Accountant to reclassify the unserviceable/fully depreciated PPE  totaling P2.081 million with related Accumulated Depreciation of P1.873 million to its respective PPE account and to record the same using  acquisition cost instead of carrying amount, in compliance with Sections 40 and 22, Chapter 10 of the GAM, Volume I, respectively.
+
+	
+
+	
+
+COMPLIANCE ISSUES
+
+
+
+Non-Disposal of Unserviceable Property, Plant and Equipment totaling P1.936 million
+
+
+
+3)	Forty-seven units of various unserviceable Property, Plant and Equipment (PPE) totaling P1.010 million still remained undisposed as of December 31, 2020, thus exposing them to further deterioration and diminution of value and deprived the agency of additional income that may be derived from disposal.
+
+	
+
+	1)				  Section 79 of PD No. 1445 states that “when government property has become unserviceable for any cause, or is no longer needed, it shall, upon application of the officer accountable therefore, be inspected by the head of the agency or his duly authorized representative in the presence of the auditor concerned and, if found valueless or unsalable, it may be destroyed in their presence.  If found to be valuable, it may be sold at public auction to the highest bidder under the supervision of the proper committee on award or similar body in the presence of the auditor or other duly authorized representative of the Commission on Audit”.   
+
+			
+
+	2)				   Verification of the List of Unserviceable PPE submitted by the Property Officer showed that PPE items totaling P1,010,358.32 acquired for the period ranging from 1988 to 2015, had been unserviceable yet remained undisposed as of December 31, 2020, as follows:
+
+	
+
+	Table 5 – Unserviceable PPE
+
+	
+
+	
+
+	
+
+	Other Assets 
+
+	PPE Account
+
+	Qty
+
+	Year Acquired
+
+	Acquisition
+
+	Cost
+
+	Carrying Amount
+
+	Office Equipment
+
+	6
+
+	2009-2015
+
+	P457,691.50
+
+	
+
+	ICTE
+
+	16
+
+	2011-2013
+
+	449,763.50
+
+	
+
+	Other Assets - Office Equipment 
+
+	5
+
+	1988-2003
+
+	
+
+	P43,954.20
+
+	Other Assets- ICTE
+
+	19
+
+	1999-2011
+
+	
+
+	55,949.12
+
+	Other Assets-Communication Equipment 
+
+	1
+
+	2009
+
+	
+
+	3,000
+
+	Total
+
+	47
+
+	
+
+	P907,455.00
+
+	P102,903.32
+
+	Total
+
+	
+
+	
+
+	P1,010,358.32
+
+		
+
+	3)				  As can be seen from the table above, the unserviceable PPE includes the 25 Other Assets that are fully depreciated as discussed in Audit Observation No. 2.   If the corresponding audit recommendation is to be complied for asset valuation, there will be consistent and uniform recording in the IIRUP and correspondingly, the dropping from the books.
+
+
+
+	4)					   The Inventory and Inspection Report of Unserviceable Property (IIRUP) for the abovementioned unserviceable PPE was already prepared by the Property Officer in March 2021.
+
+				 
+
+	5)	Non-disposal of the PPE already recognized as unserviceable by the Property Officer or no longer needed by the agency is contrary to Section 79 of PD 1445.
+
+
+
+	6)	Moreover, the delayed disposal of unserviceable properties exposes said properties to further deterioration which subsequently diminish/reduce their saleable value thus, depriving the government of potential income.  As of this writing, the unserviceable property remain undisposed.
+
+
+
+	7)						   We recommended and Management agreed to require the Property Officer to strictly comply with Section 79 of PD 1445 and to immediately facilitate the inspection and disposal of the unserviceable PPE to avoid further deterioration and diminution of value.
+
+				   
+
+
+
+“REMARKS” portion of the Report on the Physical Count of Property, Plant and Equipment not Filled-Out
+
+
+
+4)	The whereabouts, conditions and other relevant information relative to the Property, Plant and Equipment (PPE) are unknown due to incomplete data as appearing in the “Remarks” portion of the Report on the Physical Count of Property, Plant and Equipment (RPCPPE) as of December 31, 2020.
+
+		
+
+	1)	Instructions of Appendix 71 of the Government Accounting Manual (GAM), Volume III provides that “the RPCPPE is the form used to report on the physical count of PPE by type.  The form shall be accomplished with a “Remarks” column to know the whereabouts, conditions and other relevant information relative to PPE.”
+
+
+
+	2)		In the review of the RPCPPE in the amount of P34,494,705.78 submitted to the Commission on Audit by the Property and Supplies Management Service (PSMS), it was noted that the “Remarks” portion was unfilled or empty of any information relative to the PPE.  The audit team is clueless as to the actual condition or status of the items, whether serviceable or unserviceable, transferred or still in the custody of the user as of year-end, and all other pertinent information necessary to complete the audit.
+
+
+
+	3)	The absence of relevant information describing said PPEs is not in keeping with the Instructions of Appendix 73 of the GAM, Volme III.
+
+
+
+	4)		We recommended and Management agreed to require the PSMS to fill-out the “Remarks” portion of the RPCPPE to comply with the requirement of the Instructions of Appendix 73 of the GAM, Volume III to inform the reader of the whereabouts, conditions and status of the items/equipment.
+
+
+
+
+
+Information in the Transparency Seal Not Updated/Incomplete
+
+
+
+5)	Information in the Transparency Seal of the SET posted at their website is incomplete/not updated since 2016, thus not compliant with the government advocacy of enhancing transparency and enforcing accountability in the agency.
+
+
+
+	1)		Section 94 of the General Provisions of the General Appropriations Act (GAA) for Fiscal Year (FY) 2020 (RA 11465) states that “to enhance transparency and enforce accountability, all agencies of the government shall maintain a Transparency Seal to be posted on their websites.  
+
+		
+
+	The heads of the agencies and their web administrator or their equivalent shall be responsible for ensuring compliance with this Section.”
+
+	
+
+	2)		Section 4 of the Memorandum Circular (MC) No. 2019-1 dated September 3, 2019 of the Inter-Agency Task Force (IATF) on the Harmonization of National Government Performance Monitoring, Information and Reporting Systems provides for the FY 2019 Good Governance Conditions (GGCs).  One of the GGCs is to maintain/update the Agency Transparency Seal and the guidelines are provided in Annex 2 of the same MC which includes the prescribed order of posting for easier validation and checking.
+
+	
+
+	3)		As currently seen from the SET’s website, information posted in its Transparency Seal is incomplete/not updated, bearing only the following information:
+
+
+
+	a)		Agency’s mandate and functions, names of officials and designation and contact information
+
+
+
+	b)		Annual Reports
+
+b.1.  Statement of Allotment, Obligation and Balances CYs 2009-2016
+
+b .2.  Financial Accountability Reports CYs 2013-2016
+
+      b. 3.  Approved Budget for CY 2013
+
+      b. 4.  Major Programs and Projects CY 2013
+
+            b.5   Status of Implementation and Program/Project Reports CY 2013                b.6    Annual Procurement Plan CY 2013
+
+
+
+	4)		Hereafter, except for Item a above, the following information as required under Section 94 of the General Provisions of the GAA for FY 2020 were  not posted in the Transparency Seal:
+
+	
+
+	
+
+	Table 6 – Information Required to be Posted in the Transparency Seal
+
+	Information
+
+	 Approved budgets and corresponding targets immediately upon approval of the GAA;
+
+	 Modifications made pursuant to the general and specific provisions in the GAA;
+
+	Annual Procurement Plan/s and Contracts awarded with the winning supplier, contractor or consultant;
+
+	Major activities or projects categorized in accordance with the 0+10 point socio-economic agenda and their target beneficiaries;
+
+	Status of implementation, evaluation or assessment reports of said programs or projects;
+
+	Budget and Financial Accountability Reports, pursuant to COA and DBM Joint Circular No. 2014-1 dated July 2, 2014
+
+	Final People’s Freedom to Information (FOI) Manual signed by head of agency, Agency Information Inventory, 2017 and 2018 FOI Summary Report, and 2017 and 2018 FOI Registry
+
+	Annual Reports on the Status of Income authorized by law to be retained or used and be deposited outside of the National Treasury, which shall include the legal basis for its retention or use, the beginning balance, income collected and its sources, expenditures, and ending balance for the preceding fiscal year.
+
+
+
+	5)		In the absence of these essential information to educate and update the general public, the SET’s Transparency Seal website is not compliant with the government’s advocacy of enhancing transparency and enforcing accountability, hence not conforming to Section 94 of the General Provisions of the GAA for FY 2020 and Section 4 of the MC 2019-1.
+
+	
+
+	6)		We recommended and Management agreed to:
+
+	
+
+	a)			direct officials/offices concerned responsible for the information/reports required to be posted in the Transparency Seal to submit the same to the Information and Communication System and Judicial Records Management Service (ICSJRMS) for posting on the SET’s website; and
+
+		
+
+	b)			require the ICSJRMS to regularly monitor the compliance of the SET with the Transparency Seal requirements as provided in the General Provision of the GAA for each year.
+
+
+
+
+
+
+
+Non-Submission of PMR and APCPI to the Government Procurement Policy Board
+
+
+
+6)	The assessment of the agency’s performance and effectiveness of its procurement activities could not be made as the Procurement Monitoring Report (PMR) and Agency Procurement Compliance and Performance Indicator (APCPI) were not prepared and submitted to the Government Procurement Policy Board (GPPB) as baseline standards for monitoring and assessment.  
+
+		
+
+	1)			Section 12.2 of the 2016 Revised IRR of RA No. 9184 or the Government Procurement Reform Act, states that “the BAC shall be responsible for ensuring that the Procuring Entity abides by the standards set forth by the Act and its IRR, and it shall prepare a PMR in the form prescribed by the GPPB. The PMR shall cover all procurement activities specified in the Annual Procurement Plan (APP), whether ongoing and completed, from the holding of the pre-procurement conference to the issuance of notice of award and the approval of the contract, including the standard and actual time for each major procurement activity. The PMR shall be approved and submitted by the Head of the Procuring Entity (HoPE) to the GPPB in printed and electronic format within fourteen (14) calendar days (CDs) after the end of each semester. The PMR shall likewise be posted in accordance with E.O. 662, s. 2007, as amended.”
+
+		
+
+	2)			In addition, the GPPB Resolution No. 39-2017 dated December 21, 2017 approved and adopted the use of the 2017 APCPI system as the standard procurement monitoring and assessment tool of the Philippine Government.
+
+
+
+	3)			The APCPI has the following objectives and purposes:
+
+
+
+a)		To provide a standard procurement performance monitoring and evaluation tool for use by all procuring entities on a regular basis;
+
+b)		To identify strengths and weaknesses in the agency’s procurement systems and to develop an Action Plan for Procurement Improvement to address the areas of risk and weakness;
+
+c)		To utilize the information submitted by the agencies as part of the procurement database that will be linked to other government related databases to analyse national procurement performance for more effective policy and decision making, and;
+
+d)		To assist in strengthening the GPPB-TSO capability in monitoring national compliance to procurement regulations and in implementing the agency level Action Plans.
+
+
+
+	4)			The APCPI assessment is the responsibility of the HoPE with the assistance of the BAC and its Secretariat and other departments/divisions/units concerned within the procuring entity. The head of the BAC Secretariat and his staff shall be responsible for the conduct of the assessment and internal coordination of all relevant stakeholders and shall submit the results to the BAC who will review the findings and results, and subsequently submit the same to the Confirmation Team for verification and to the HoPE for approval. The HoPE however, in its discretion, may create an ad hoc Assessment Committee for purposes of the assessment which will be conducted on an annual basis on the first quarter of the year, and will cover performance and accomplishments of the previous year. Upon completion, final review, confirmation and approval of the APCPI results by the HoPE, the BAC Secretariat of the Central Office shall immediately submit a copy of the consolidated report to GPPB TSO.
+
+
+
+	5)			For the calendar year 2020, the SET- BAC did not prepare the PMRs for the first and second semesters, supposedly to be approved by the HoPE for submission to the GPPB and ultimately will serve as a tool for monitoring the agency procurement activities and ensuring compliance with the provisions of RA No. 9184 and its Revised IRR.
+
+
+
+	6)			Further, the SET-BAC was likewise, not able to prepare an APCPI assessment for CY 2020, also for submission by the HoPE to the GPPB.   By so doing, the assessment of the performance of procurement activities and comparison of its effectiveness against that of the national public procurement systems and international best practices and standards using baseline standards and indicators cannot be made.  
+
+
+
+	7)			We recommended and Management agreed to require the SET-BAC to prepare the PMR and the APCPI for approval and submission by the HoPE to the GPPB within 14 CDs after the end of each semester and within the first quarter of the ensuing year, respectively, and furnish the COA Audit Team with a printed copy thereof, to conform with Section 12.2 of the 2016 Revised IRR of RA No. 9184 or the Government Procurement Reform Act and GPPB Resolution No. 39-2017.
+
+
+
+
+
+	OTHER COMPLIANCE ISSUES
+
+
+
+Gender and Development
+
+
+
+7)	Out of the 16 Gender and Development (GAD) programmed activities for the year, 12 were implemented with a total cost of P8.136 million or 53 percent of the approved GAD Budget of P15.425 million, due to cancellation of several GAD activities caused by the pandemic thus, strengthening of GAD mainstream in the agency operations, as well as addressing gender issues and other concerns were not attained. 
+
+
+
+	1)				The Philippine Commission on Women (PCW), the National Economic and Development Authority (NEDA), and the Department of Budget and Management (DBM) Joint Circular (JC) No. 2012-01 provides the “Guidelines for the Preparation of Annual Gender and Development (GAD) Plans and Budgets and Accomplishment Reports to Implement the Magna Carta of Women.”
+
+	
+
+	2)				Likewise, Section 31 of the General Provisions of RA 11465, also known as the GAA FY 2020, requires that “the GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five per cent of their budgets. For this purpose, activities currently being undertaken by agencies which related to GAD or those that contribute to poverty alleviation, economic empowerment especially of marginalized women, protection, promotion, and fulfillment of women’s human rights, and practice of gender-responsive governance are considered sufficient compliance with said requirement.”
+
+	
+
+	3)				Paragraph 6.1 of the PCW/NEDA/DBM JC 2012-01 also provides that “at least five per cent of the total agency budget appropriations authorized under the annual General Appropriations Act (GAA) shall correspond to activities supporting GAD plans and programs. The GAD budget shall be drawn from the agency’s maintenance and other operating expenses (MOOE), capital outlay (CO) and personnel services (PS). It is understood that the GAD budget does not constitute an additional budget over an agency’s total budget appropriations.”
+
+	
+
+	4)				The total appropriations of the SET for CY 2020 was P292,730,000.00 of which the approved budget allocated for GAD totaled P15,425,000.00 which represents 5.27 percent of the total agency appropriation. Thus, SET was able to comply with Section 31 of the General Provisions of RA 11465 where it requires agencies to appropriate at least five percent of the total annual budget for the implementation of GAD-related activities.
+
+	
+
+	5)				Review of the annual GAD Accomplishment Report in the agency’s implementation of the GAD related-activities for CY 2020 however, showed that of the 16 programmed activities, only 12 were implemented with total cost of P8,136,214.42 or 53 percent of the total approved GAD budget of P15,425,000.00 leaving an unutilized balance of P7,288,785.58 or 47 percent. 
+
+			
+
+	6)				It was disclosed that several GAD activities were not fully implemented and/or not implemented at all due to cancellation caused by the pandemic. 
+
+
+
+	7)				Non- implementation of other GAD activities not only deprived the personnel of intended benefits but also affected the strengthening of GAD mainstream in the agency operations and attaining the agency’s goal in promoting gender equality and women’s empowerment.
+
+	
+
+	8)				We recommended and Management agreed to implement programmed activities in the GAD Annual Plan and Budget to achieve a strengthen GAD mainstream in the agency operations, as well as addressing gender issues and other concerns.   
+
+
+
+
+
+Senior Citizens (SCs) and Persons with Disability (PWD)
+
+
+
+8)	For CY 2020, no special project was undertaken for persons with disabilities.  With the transfer of the SET office to the PICC, their needs or concerns are already taken into account by the Philippine International Convention Center management.  However, one (1) Tribunal employee, who is wearing an artificial leg, is allotted priority set in the shuttle service and given all the necessary assistance while at work and during transit.  Another employee who has a hearing impairment had to be substituted as a member of the GAD Technical Working Group considering his difficulty of participating in online meetings and was assigned tasks not requiring extensive use of videoconferencing.
+
+
+
+
+
+Tax Laws and Regulations
+
+
+
+9)	The agency withheld taxes from compensation of officials and employees and from payments to creditors/suppliers in the amount of P28.443 million and P2.480 million, respectively, and were remitted fully and promptly to the Bureau of Internal Revenue (BIR).
+
+
+
+	1)				Revenue Regulations (RR) No. 10-2008 dated July 8, 2008 provides that “all government offices are constituted as withholding agents for purposes of the creditable tax required to be withheld on income payment from compensation, contractors, supplier of goods and services. As withholding agents, they are primarily liable for the remittance of the taxes to the National Treasury through the Bureau of Internal Revenue (BIR)”.
+
+
+
+	2)				Further, Section 7 of RR No. 1-2013 dated January 23, 2013, provides that “filing of returns and payment of taxes shall be made on or before the 10th day of the month following the month in which withholding was made, except for taxes withheld for the month of December each year, which shall be filed on or before January 15 of the succeeding year”.
+
+
+
+	3)				However, BIR RR No. 7-2020 dated March 27, 2020 provides that the Monthly Remittance Return of Value-Added Tax and Other Percentage Taxes Withheld (Form 1600 with MAP), Withholding Tax Remittance Return for National Government Agencies (Form 1600) and Monthly Remittance Return of Income Taxes Withheld on Compensation (Form 1601C) for the month of March, 2020 with an original due date on April 10, 2020 is extended to May 11, 2020. 
+
+
+
+	4)				Under RR No. 11-2020 dated April 30, 2020, it further extended the due dates as follows: for the month of March 2020 and April 2020 with original due dates on April 10, 2020 and May 10, 2020 respectively was further extended to June 9, 2020.
+
+
+
+	5)				Review of financial records showed that the taxes due to the government from payments of goods and services to creditors/suppliers, including compensation of employees, were withheld and remitted to the BIR in accordance with the said regulations.
+
+			
+
+	6)				For CY 2020, the SET withheld and promptly remitted taxes pertaining to compensation of officials and employees and payments to suppliers in the total amount of P28,443,229.06 and P2,480,124.27, respectively, the details are shown in Tables 7 and 8:
+
+
+
+Table 7 – Monthly Remittance Return of Income Taxes Withheld on Compensation (BIR Form 1601C)
+
+
+
+Month
+
+Amount Withheld
+
+Remittance
+
+Due Date
+
+No. of Days Delayed
+
+
+
+
+
+Amount
+
+Date
+
+
+
+
+
+Jan.
+
+P1,146,035.92
+
+P1,146,035.92
+
+2-04-20
+
+2-10-20
+
+-
+
+Feb.
+
+2,089,378.95
+
+2,089,378.95
+
+3-05
+
+3-10
+
+-
+
+Mar.
+
+1,738,571.35
+
+1,738,571.35
+
+4-23
+
+6-09
+
+extension applies
+
+Apr.
+
+4,406,941.31
+
+4,406,941.31
+
+5-20
+
+6-09
+
+extension applies
+
+May
+
+1,285,924.04
+
+1,285,924.04
+
+6-08
+
+6-10
+
+-
+
+June
+
+2,145,981.81
+
+2,145,981.81
+
+7-08
+
+7-10
+
+-
+
+July
+
+1,107,235.21
+
+1,107,235.21
+
+8-04
+
+8-10
+
+-
+
+Aug.
+
+2,878,987.08
+
+2,878,987.08
+
+9-08
+
+9-10
+
+-
+
+Sept.
+
+1,316,146.68
+
+1,316,146.68
+
+10-06
+
+10-10
+
+-
+
+Oct.
+
+3,339,065.07
+
+3,339,065.07
+
+11-05
+
+11-10
+
+-
+
+Nov.
+
+2,941,315.89
+
+2,941,315.89
+
+12-09
+
+12-10
+
+-
+
+Dec.
+
+4,047,645,75
+
+4,047,645,75
+
+1-07-21
+
+1-15-21
+
+-
+
+Total
+
+P28,443,229.06
+
+P28,443,229.06
+
+
+
+
+
+
+
+Table 8 – Monthly Remittance Return of Value-Added Tax Withheld and Monthly Remittance Form for Creditors Income Withheld-Expanded  (BIR Form 1600 and 0619E)
+
+
+
+Month
+
+Amount Withheld
+
+Remittance
+
+Due Date
+
+No. of Days Delayed
+
+
+
+
+
+Amount
+
+Date
+
+
+
+
+
+Jan.
+
+P133,192.05
+
+P133,192.05
+
+2-04-20
+
+2-10-20
+
+-
+
+Feb.
+
+125,638.92
+
+125,638.92
+
+3-05
+
+3-10
+
+-
+
+Mar.
+
+260,123.71
+
+260,123.71
+
+4-23
+
+5-11
+
+extension applies
+
+Apr.
+
+135,202.90
+
+135,202.90
+
+5-20
+
+5-11
+
+extension applies
+
+May
+
+313,900.57
+
+313,900.57
+
+6-08
+
+6-10
+
+-
+
+June
+
+222,337.65
+
+222,337.65
+
+7-08
+
+7-10
+
+-
+
+July
+
+127,700.41
+
+127,700.41
+
+8-04
+
+8-10
+
+-
+
+Aug.
+
+133,068.02
+
+133,068.02
+
+9-08
+
+9-10
+
+-
+
+Sept.
+
+272,897.27
+
+272,897.27
+
+10-06
+
+10-10
+
+-
+
+Oct.
+
+198,935.50
+
+198,935.50
+
+11-05
+
+11-10
+
+-
+
+Nov.
+
+233,177.43
+
+233,177.43
+
+12-09
+
+12-10
+
+-
+
+Dec.
+
+323,949.84
+
+323,949.84
+
+1-06-21
+
+1-15-21
+
+-
+
+Total
+
+P2,480,124.27
+
+P2,480,124.27
+
+
+
+
+
+ 
+
+		GSIS contributions and loans
+
+
+
+10)		GSIS premium contributions and loan amortizations totaling P11.609 million   for the calendar year (CY) 2020 were fully remitted within the prescribed period.
+
+	   
+
+			          10.1    The Implementing Rules and Regulations (IRR) of  the Republic Act (RA) No. 8291, otherwise known as the Revised Government Service Insurance Act of 1997, requires the government agency to deduct from the fixed monthly compensation of the employees and remit to the GSIS their premium contributions; loan amortizations; premium payments for optional, pre-need and other non-life insurance; and other amounts due from the employees within ten days of the calendar month following the month to which the contributions apply or when the deductions were effected.
+
+		
+
+			10.2    However, Advisory on GSIS Measures to help contain Covid-19 posted on March 17, 2020 states, among others, that “a one-month grace period is hereby granted on all premium remittances and loan payments due this March.  Premium remittances and loan payments due on March and April may be settled on or before 10 May, 2020 without any penalty”.
+
+	
+
+	10.3    Verification disclosed that the SET had deducted from employees/employer the GSIS contributions and loan payments totaled P11,609,047.25 for CY 2020, as follows:
+
+	
+
+	Table 9 – GSIS Contributions and Loan Payment
+
+	Contribution
+
+	Amount
+
+	Employee’s Share
+
+	P  6,525,242.17
+
+	Employer’s Share
+
+	2,485,307.44
+
+	Loan Payment
+
+	2,598,497.64
+
+	Total
+
+	P11,609,047.25
+
+	
+
+	10.4   Verification further disclosed that the aforesaid contributions were fully remitted to the GSIS within the prescribed period or within 10 days of the calendar month following the month to which the contributions apply or when the deductions were effected or extension of due dates applies, where appropriate, detailed below:
+
+	
+
+Table 10 - Schedule of Remittance of the GSIS Contributions
+
+
+
+Month
+
+Remittance
+
+
+
+Due Date
+
+No. of Days Delayed
+
+
+
+Amount
+
+Date
+
+
+
+
+
+Jan.
+
+P1,393,495.02
+
+  2-06-2020
+
+  2-10-2020
+
+-
+
+Feb.
+
+1,436,536.27
+
+  3-09
+
+  3-10
+
+-
+
+Mar.
+
+1,643,866.94
+
+  5-14
+
+  5-10
+
+extension applies
+
+Apr.
+
+606,868.92
+
+  5-14
+
+  5-10
+
+-do-
+
+May
+
+521,008.55
+
+  6-03
+
+  6-10
+
+-
+
+June
+
+606,198.21
+
+  7-11
+
+  7-10
+
+-
+
+July
+
+924,896.05
+
+  8-07
+
+  8-10
+
+-
+
+Aug.
+
+800,055.47
+
+  8-26
+
+  9-10
+
+-
+
+Sept.
+
+869,884.93
+
+10-07
+
+10-10
+
+-
+
+Oct.
+
+826,364.29
+
+11-10
+
+11-10
+
+-
+
+Nov.
+
+1,142,089.80
+
+12-09
+
+12-10
+
+-
+
+Dec.
+
+837,782.80
+
+12-28
+
+1-10-2021
+
+-
+
+Total
+
+P11,609,047.25
+
+
+
+	
+
+	
+
+	PhilHealth Contributions
+
+	
+
+11)				Premium contributions amounting to P1.633 million for CY 2020 were promptly remitted to the PhilHealth.
+
+			
+
+		11.1     Section 19 (a) of R. A. No. 7875 (National Health Insurance Act of 1995) states that the “monthly premium contribution of employed members shall be remitted by the employer on or before the tenth (10th) calendar day of the month following the applicable month for which the payment is due and applicable”.
+
+	
+
+	11.2     PhilHealth Advisory No. 2020-038 states that “to provide relief from the financial challenges as a result of the Covid-19 pandemic, the PhilHealth has extended anew the deadline of payment of contributions.  For employers in the public and private sectors have been advised their premium remittances for the applicable months of February, March and April 2020 can be paid until June 22, 2020 without interest, in line with the Bayanihan to Heal as One Act”.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+11.3   Records show that the PhilHealth contributions for CY 2020 totaled P1,632,886.45, broken down below:
+
+
+
+	Table 11 – Schedule of PhilHealth Contributions 
+
+	Contribution
+
+	Amount
+
+	Employee’s Share
+
+	P   816,441.80
+
+	Employer’s Share
+
+	816,444.65
+
+	Total
+
+	P1,632,886.45
+
+
+
+11.4     Audit showed that the above contributions were remitted promptly to the PhilHealth or on or before the tenth (10th) calendar day of the month following the applicable month for which the payment is due and applicable or extension of due dates applies, where appropriate, as follows:
+
+			
+
+Table 12 -  Schedule of Remittance of the PhilHealth Contributions
+
+
+
+Month
+
+Remittance
+
+
+
+Due Date
+
+No. of Days Delayed
+
+
+
+Amount
+
+Date
+
+
+
+
+
+Jan.
+
+P  131,470.41
+
+  2-05-2020
+
+2-10-2020
+
+-
+
+Feb.
+
+130,208.00
+
+  3-06
+
+6-22
+
+-
+
+Mar.
+
+132,897.69
+
+39,924.78
+
+  4-30
+
+  6-10
+
+6-22
+
+extension applies
+
+Apr.
+
+135,367.17
+
+  4-30
+
+6-22
+
+-
+
+May
+
+133,567.17
+
+  5-28
+
+6-10
+
+-
+
+June
+
+132,867.17
+
+  6-29
+
+7-10
+
+-
+
+July
+
+117,770.01
+
+  7-30
+
+8-10
+
+-
+
+Aug.
+
+117,414.30
+
+  8-27
+
+9-10
+
+-
+
+Sept.
+
+156,145.74
+
+  9-30
+
+10-10
+
+-
+
+Oct.
+
+144,016.14
+
+11-05
+
+11-10
+
+-
+
+Nov.
+
+128,699.73
+
+12-09
+
+12-10
+
+-
+
+Dec.
+
+132,538.14
+
+1-06-2021
+
+1-10-2021
+
+-
+
+Total
+
+P1,632,886.45
+
+
+
+
+
+
+
+	
+
+		Pag IBIG contributions and loans
+
+12)		Pag-IBIG contributions in the amount of P2.131 million covering employees, employer’s share and loan payments for CY 2020 were remitted on time. 
+
+	
+
+		 12.1    The Implementing Guidelines on Employer Registration, Contribution, and Remittance under Republic Act (RA) 9679 states that the employers shall remit the required monthly employer and employee contributions to the nearest Pag-IBIG branch or its authorized collecting banks, together with the duly accomplishment Membership Contribution Remittance Form, (for first letter of employer’s name “R to Z”, Numeral) on the 25th to the end of the month following the period covered.
+
+	12.2    	Pag-IBIG Fund 2020 news dated June 17, 2020, however extended remittance deadline for employers to June 30, 2020.  The extension, covers, remittances due for the months of March, April and May 2020.
+
+	
+
+12.3 	Verification showed the following Pag-IBIG contributions representing employees, employer’s share and loan payments: 
+
+			
+
+	Table 13 – Pag-IBIG Contributions and Loan Payment
+
+	Contribution
+
+	Amount
+
+	Employee’s Share
+
+	P1,241,162.16
+
+	Employer’s Share
+
+	126,300.00
+
+	Loan Payment
+
+	763,233.24
+
+	Total
+
+	P2,130,695.40
+
+
+
+12.4	Remittances of the Pag-IBIG contributions and loan payment of P2,130,695.40 were made within the prescribed period or on the 25th to the end of the month following the period covered and did not avail of any extension of due dates granted, shown as follows:
+
+				
+
+Table 14 -  Schedule of Remittance of the Pag Ibig Contributions
+
+
+
+Month
+
+Remittance
+
+
+
+Due Date
+
+No. of Days Delayed
+
+
+
+Amount
+
+Date
+
+
+
+
+
+Jan.
+
+P172,296.69
+
+ 1-30-2020
+
+2/25-31/20
+
+-
+
+Feb.
+
+170,057.81
+
+ 3-02
+
+3/25-29
+
+-
+
+Mar.
+
+175,537.01
+
+ 4-03
+
+4-25-31
+
+-
+
+Apr.
+
+174,656.45
+
+ 4-30
+
+5-25-30
+
+-
+
+May
+
+171,066.87
+
+ 5-21
+
+6-25-30
+
+-
+
+June
+
+190,506.44
+
+ 7-03
+
+7/25-31
+
+-
+
+July
+
+180,573.19
+
+ 7-30
+
+ 8/25-31
+
+-
+
+Aug.
+
+167,967.23
+
+ 8-27
+
+  9/25-30
+
+-
+
+Sept.
+
+173,522.90
+
+ 9-30
+
+10/25-31
+
+-
+
+Oct.
+
+179,843.67
+
+11-05
+
+11/25-31
+
+-
+
+Nov.
+
+187,694.08
+
+12-04
+
+12/25-31
+
+-
+
+Dec.
+
+186,973.06
+
+12-29
+
+  1/25-31/21
+
+-
+
+Total
+
+P2,130,695.40
+
+
+
+
+
+
+
+          
+
+
+
+ GSIS Property Insurance Law
+
+
+
+13)				The SET had substantially complied with the Property Insurance Law prescribed under Republic Act (RA) No. 656, as amended, inasmuch as out of the total Property, Plant and Equipment (PPE) account balances of P34.495 million as of December 31, 2020, P29.451 million or 85 percent was insured while the uninsured balance of P5.044 million or 15 percent consists of lease improvements and unserviceable/fully depreciated assets.
+
+		
+
+	1)			The Property Insurance Fund, later renamed as General Insurance Fund (GIF), was established under Section 2 of RA No. 656 or the Property Insurance Law promulgated on June 6, 1951, purposely to indemnify or compensate the Government for any damakddddthereon.low first class, to insure properties with the Fund against any insurable risk provided and pay the corresponding pge to, or loss of, its properties due to fire, earthquake, storm, or other casualty.  The law also requires government agencies to insure its properties with the GIF administered by the Government Service Insurance System (GSIS).  
+
+		
+
+	2)			Records show that out of the total PPE account balances totaling P34,494,705.78 as of December 31, 2020, P29,450,985.59 or 85 percent were covered with the GSIS insurance, detailed in Table 13.
+
+		
+
+	Table 13 – Schedule of PPE (Per RPCPPE) Insured and Not Insured with the GSIS
+
+	PPE
+
+	Total PPE Per RPCPPE
+
+	PPE Not Insured
+
+	PPE Insured
+
+	Remarks
+
+	Office Equipment 
+
+	P6,081,657.68
+
+	-
+
+	P6,081,657.68
+
+	
+
+	Information and Communication Technology Equipment
+
+	5,568,549.80
+
+	-
+
+	5,568,549.80
+
+	
+
+	Leased Assets Improvements, Buildings
+
+	4,835,651.13
+
+	P4,835,651.13
+
+	-
+
+	
+
+	Other Machinery and Equipment
+
+	4,255,834.01
+
+	-
+
+	4,255,834.01
+
+	
+
+	Furniture and Fixtures
+
+	513,908.54
+
+	-
+
+	513,908.54
+
+	
+
+	Computer Software
+
+	1,428,582.56
+
+	-
+
+	1,428,582.56
+
+	
+
+	Books
+
+	33,365.00
+
+	-
+
+	33,365.00
+
+	
+
+	Other Assets
+
+	208,069.06*
+
+	208,069.06
+
+	
+
+	
+
+	Motor Vehicles
+
+	11,569,088.00
+
+	
+
+	8,180,200.00
+
+	
+
+	Sub-total
+
+	
+
+	
+
+	P26,062,097.59
+
+	Insurance premium of P59,112.08 was paid by the SET
+
+	Newly purchased motor vehicle
+
+	
+
+	
+
+	3,388,888.00
+
+	The corresponding insurance premium was paid by the dealer
+
+	Total
+
+	P34,494,705.78
+
+	P5,043,720.19
+
+	P29,450,985.59
+
+	
+
+	
+
+	3)			From the table above, of the total insurable amount of PPE worth P29,450,985.59, the amount of P26,062,097.59 whose corresponding insurance premium of P59,112.08 was paid by the SET to the GSIS, while the one-unit newly purchased Hyundai County (28+1seater) delivered on December, 2020 was paid by the winning dealer as part of the deliverables.
+
+		
+
+	4)			The uninsured balance of P5,043,720,19 consisted of account Lease Assets Improvements, Buildings amounting to P4,835,651.13 where the building is not owned by the SET, and account Other Assets of P208,069. 06 (carrying amount) which are fully depreciated/unserviceable PPE.
+
+		
+
+Hiring of Casuals, Contractual and Consultants
+
+
+
+14)	The hiring of casuals, contractual and consultants is authorized under Section 2 of the Special Provisions of the GAA where it provides that the Chairperson of the SET is authorized, to formulate and implement the organization structure of their respective offices, fix and determine the salaries, allowances and other benefits of their Members, employees and consultants, and create new position in their respective offices.
+
+
+
+
+
+	Status of Settlement of Audit Suspensions, Disallowances and Charges
+
+
+
+15)	No Notice of Suspension, Disallowance and Charge was issued to the SET in CY 2020.
+
+
+
+45
+
+
+
+
+
+
+
+
+

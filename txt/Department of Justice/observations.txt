@@ -1,0 +1,4610 @@
+
+
+
+
+
+
+PART II – OBSERVATIONS AND RECOMMENDATIONS
+
+
+
+
+
+FINANCIAL AUDIT
+
+
+
+Audit of Cash in Bank (CIB)-LCCA account
+
+
+
+1)	The balance of the Cash in Bank – Local Currency, Current Account amounting to ₱114,136,047.18 as of December 31, 2020 was misstated by ₱18,893,138.73 due to unrecorded/unadjusted reconciling items, contrary to Section 6, Chapter 21 of the Government Accounting Manual (GAM) Volume I.
+
+
+
+	1)	The balances per books and per bank as at year-end are presented below:
+
+
+
+Account Number
+
+Account Name
+
+Balance per Book
+
+Balance per Bank
+
+Difference in
+
+year-end balances
+
+0592-1022-42
+
+DOJ-Victims Compensation Fund
+
+₱         5,365.00
+
+-
+
+₱         5,365.00
+
+0592-1060-51
+
+DOJ ATM Payroll Account
+
+113,282,933.82
+
+874,158.58
+
+112,408,775.24
+
+0592-1060-86
+
+Bids and Awards Committee
+
+806,965.19
+
+806,965.19
+
+-
+
+0592-1066-39
+
+DOJ-Trust Fund
+
+-
+
+-
+
+-
+
+0592-1066-80
+
+Pension Benefit
+
+40,783.17
+
+40,783.17
+
+-
+
+TOTAL
+
+
+
+	₱114,136,047.18
+
+₱1,721,906.94
+
+₱112,414,140.24
+
+
+
+	2)	It was noted that Account No. 0592-1022-42 – DOJ - Victims Compensation Fund (VCF) reported a book balance of ₱5,365.00 even if said account was closed in August 2019, therefore necessitating adjustment. Bank Reconciliation Statement (BRS) for VCF for the month of August 2019 was not submitted to the Office of the Auditor to validate deposits and withdrawals made to the account. 
+
+
+
+	3)	On the other hand, reconciling items identified in the BRS for Account No. 0592-1060-51 – DOJ ATM Payroll, remained unadjusted in the books as of December 31, 2020, to wit:
+
+
+
+Book Reconciling Items
+
+Amount
+
+Unrecorded bank credits
+
+₱    3,057,869.46
+
+Errors that understate book balance
+
+19,589,739.92
+
+Unrecorded bank debits
+
+(3,749,104.65)
+
+Errors that overstate book balance
+
+(1.00)
+
+Total 
+
+₱ 18,898,503.73
+
+
+
+	4)	Section 6, Chapter 21 of GAM Volume I, provides for: Recognition of Adjustments.  The Chief Accountant/Designated Staff shall prepare a JEV to recognize all reconciling items that require adjustment and correction in the books of accounts.
+
+
+
+	5)	It is also worthy to disclose that there are bank reconciling items that affect the balance of Account No. 0592-1060-51 – DOJ ATM Payroll Account, specifically deposits-in-transit totaling ₱131,307,278.97, representing various transfers of funds for different payments to officials and employees, prosecutors and staffs, separated employees, and job order personnel.    
+
+
+
+	6)	As defined under Section 2(g), Chapter 21 of GAM Volume I, Deposits-in-Transit – are amounts of agency/entity deposits in the bank but which are yet to be recorded by the bank until the next period.  These usually pertain to late deposits in the last day of business for a period. (Underscoring ours for emphasis)
+
+
+
+	7)	The aforementioned bank reconciling items was recorded by the bank in January 2021.
+
+
+
+	8)	The unadjusted balance of closed account and the unrecorded book and bank reconciling items resulted in the misstatement of the Cash in Bank –Local Currency Current Account and other affected accounts in the financial statements as follows: 
+
+
+
+Particulars
+
+Amount
+
+Unadjusted balance of closed account
+
+(₱         5,365.00)
+
+Unrecorded Book Reconciling Items 
+
+18,898,503.73
+
+Net understatement of CIB-LCCA
+
+₱ 18,893,138.73
+
+
+
+	9)	We recommended that the Accounting Division (AD) account for reconciling items and prepare JEV to take up the adjustment on the affected accounts in the financial statements. 
+
+
+
+Management Comments
+
+
+
+	10)	Management commented that the reconciling item/s under DOJ VCF were erroneous entries which were reversed under JEV Nos. JEV-2021-02-00008 to JEV-2021-02-00014.
+
+
+
+	11)	Accordingly, they are awaiting details from the Payroll Division (with Memorandum dated 20 January 2021), as to the reconciling items affecting the DOJ ATM Payroll Account.
+
+
+
+
+
+Audit of Due from NGAs, Due from GOCCs and Due from LGUs Accounts
+
+
+
+2)	The accuracy and existence of the balance of inter-agency receivables totaling ₱338,262,030.49 consisting of receivables from national government agencies, government owned and/ or controlled corporations and local government units cannot be ascertained due to unreconciled difference of ₱15,737,117.18 between the book balance and the confirmed balance of fund transfer by the Implementing Agencies. Moreover, it also includes long outstanding fund transfers totaling ₱35,754,492.80 aged from five to 20 years due to failure of the IAs to liquidate the same contrary to COA Circular No. 94-013 and COA Circular No. 2016-005.
+
+
+
+Unreconciled Balances
+
+
+
+	1)	Paragraph 4.6 of COA Circular No. 94-013 dated 13 December 1994, Rules and Regulations in the Grant, Utilization and Liquidation of Funds Transferred to IAs, provides that: Within ten (10) days after the end of each month/end of the agreed period for the Project, the IA shall submit the Report of Checks Issued (RCI) and the Report of Disbursement (RD) to report the utilization of the funds.  Only actual project expenses shall be reported.  The reports shall be approved by the Head of the IA.   
+
+
+
+	2)	Further, Paragraph 4.9 of the same Circular states that:  The IA shall return to the SA any unused balance upon completion of the project.
+
+
+
+	3)	Likewise, COA Circular No. 2016-005 dated December 19, 2016 sets forth the guidelines and procedures on the reconciling and cleaning books of accounts of NGAs, LGUs and GOCCs from dormant receivable, unliquidated CAs and fund transfers, for fair presentation of the Financial Statements (FS).
+
+
+
+	4)	Pertinent provisions of which are as follows:
+
+
+
+Section 5.6 defines, Dormant Unliquidated Fund Transfers as advances granted by the source agency to implementing entity for the implementation of programs/projects which remained non-moving for ten (10) years or more and where settlement could no longer be ascertained.
+
+
+
+Section 7.1 mandates the accountant to:  Conduct regular and periodic verification, analysis and validation of the existence of receivables, unliquidated cash advances and fund transfers and determine the concerned debtors, accountable officers (Regular and Special Disbursing Officers, Collecting Officers, Cashiers) and the source and implementing government agencies concerned.
+
+
+
+Section 7.2 requires the Accountant to: Reconcile the unliquidated fund transfers between the source and implementing government entities, prepare the adjusting entries for the reconciling items noted, and require liquidation of the balances.
+
+
+
+ Section 8.2 provides that:  the Head of the government entity shall   file   the   request   for   authority   to   write-off   dormant receivable accounts, unliquidated cash advances, and fund transfers to the COA Audit Team Leader and/or Supervising Auditor.  No filing fee is required.
+
+
+
+	5)	Inter-agency receivables  have an aggregate balance of ₱338,262,030.49 as at year-end consisting of Due from National Government Agencies (NGAs), Due from Government Owned or Controlled Corporations (GOCCs) and Due from Local Government Units (LGUs)  as shown below:
+
+
+
+Due from NGAs
+
+Implementing Agency
+
+Balance as of Dec. 31, 2020
+
+Particulars
+
+ 1
+
+Other Executive Offices- Commission on Filipino Overseas
+
+₱2,226,250.00
+
+Transfer of Funds from July 2020 to CFO as supervising agency of IACAT Advocacy and Communications Committee (ADVOCOM) for the operation of the IACAT 1343 Action line against Human Trafficking, chargeable against IACAT General fund.
+
+
+
+Subtotal
+
+2,226,250.00
+
+
+
+
+
+
+
+2
+
+DPWH
+
+300,000,000.00
+
+Fund transfer in March 2019 to the DPWH for the construction of different DOJ buildings nationwide.
+
+Total: P300,000,000.00
+
+Unliquidated: P300,000,000.00
+
+
+
+Subtotal
+
+300,000,000.00
+
+
+
+
+
+More than 5 years up to 15 years
+
+ 3
+
+DOLE - OSEC
+
+412,081.50
+
+Fund Transfer from Oct 2011 for the National Workshop/Conference Against Trafficking
+
+Total: P1,179,900.00
+
+Liquidated: P 444,706.71
+
+Refunded: P323,111.79
+
+Unliquidated: P412,081.50
+
+ 4
+
+DPWH – Romblon District Engineering Office
+
+178,056.20
+
+Fund transfer from March 2010 for the Repair/Rehabilitation of HOJ Buildings located in various areas in Romblon
+
+Total: 10,000,000.00
+
+Liquidated: P9,821,943.80
+
+Unliquidated: P178,056.20
+
+ 5
+
+Office of the Presidential Adviser for Regional Development (OPARD) – Region 6
+
+1,000,000.00
+
+Fund transfer from Dec. 2006 for the operating requirements of the Special Task Force to investigate irregularities committed in relation to payment of taxes of real properties and other purposes.
+
+
+
+Subtotal
+
+1,590,137.70
+
+
+
+
+
+
+
+
+
+ 6
+
+NCC - ICTO
+
+21,761,263.61
+
+Fund Transfer from June 2001 for the National Crime Information System.
+
+Total: P62,477,146.46
+
+Unliquidated: P21,761,263.61
+
+
+
+Subtotal
+
+21,761,263.61
+
+
+
+ 7
+
+PS
+
+12,060,496.42
+
+Continuous advances throughout the year though beginning balance were composed of cumulative balances from prior years.
+
+ 8
+
+National Printing Office (NPO)
+
+230,789.55
+
+
+
+
+
+Subtotal
+
+12,291,285.97
+
+
+
+Due from GOCCs
+
+9
+
+“For Recon” account
+
+₱       281,287.69
+
+Non-moving account balance prior to December 2014 eNGAS migration
+
+
+
+Subtotal
+
+281,287.69
+
+
+
+Due from LGUs
+
+10
+
+Caloocan City
+
+40,000.00
+
+Non-moving account balance prior to December 2014 eNGAS migration.
+
+11
+
+Iligan City
+
+1,385.58
+
+
+
+12
+
+Pasay City
+
+48,000.00
+
+
+
+13
+
+Quezon City
+
+17,001.51
+
+
+
+14
+
+Zamboanga City
+
+4,417.98
+
+
+
+15
+
+Compostela Valley
+
+1,000.45
+
+
+
+
+
+Subtotal
+
+111,805.52
+
+
+
+Grand Total
+
+₱338,262,030.49
+
+
+
+
+
+	6)	In the audit of said accounts, 14 confirmation letters were sent to IAs to determine the reliability and existence of the ending balances as recorded in the books of DOJ. Of the 14 confirmation letters sent, only three IAs replied showing a variance of ₱15,737,117.18.  
+
+
+
+Implementing Agency
+
+Balance per
+
+
+
+DOJ Books
+
+Per Confirmation
+
+Variance
+
+Due from NGAs
+
+
+
+
+
+
+
+1
+
+PS DBM*
+
+₱ 12,060,496.42
+
+(₱3,635,620.31)
+
+₱15,696,116.73
+
+Sub-total
+
+ 12,060,496.42
+
+(3,635,620.31)
+
+15,696,116.73
+
+Due from LGUs
+
+
+
+
+
+
+
+9
+
+Caloocan City
+
+40,000.00
+
+0.00
+
+40,000.00
+
+14
+
+New Bataan, Compostela Valley
+
+1,000.45
+
+0.00
+
+1,000.45
+
+Sub-total
+
+41,000.45
+
+0.00
+
+41,000.45
+
+Grand Total
+
+₱12,101,496.87
+
+(₱3,635,620.31)
+
+₱15,737,117.18
+
+
+
+	7)	As can be gleaned from above table, confirmation reply of PS revealed a discrepancy of ₱15,696,116.73 against the DOJ book balance. The negative balance of ₱3,635,620.31 in PS books showed a grossly unreconciled account between the two records.
+
+
+
+	8)	Efforts were exerted by the Audit Team to secure copy of the Departments’ reconciliation statements on this account, but to no avail. Inquiry with the Accounting Division revealed that timely reconciliation with PS was not made. Accordingly, the difference could be attributed to the following:
+
+
+
+a)	Failure of the ROs to submit Delivery Receipts (DRs) on time; hence, the reason for delayed recording and recognition of asset and expenses;
+
+
+
+b)	Airline tickets purchased through PS-DBM were not timely forwarded to the Accounting Division. For the current year, airline tickets procured during the 1st quarter were not appropriately charged to the account Due from NGAs, PS-DBM, consequently adding to the discrepancy between the two accounts; and
+
+
+
+c)	There were unrecorded payments by the Department ROs in the PS-DBM books by PS; thus, resulting in negative balances appearing in the books of PS-DBM. 
+
+ 
+
+	9)	These deficiencies were already raised in prior years’ audit observation but were not acted upon by Management. 
+
+
+
+	10)	On the other hand, the balance of the Due from GOCCs account of ₱281,287.69 tagged as “For Recon” in the books has been existing even prior to December 2014 upon migration of data in the eNGAs. It is informed that the Accounting Division has no records to support these balances. Accordingly, they inherited these deficiencies from their predecessor. Considering the time that has elapsed, adjustment on the account should have been made by Management.  
+
+
+
+	11)	As regards the Due from LGUs account, no records were found to support the account balance. Verification revealed that these balances of fund transfers to LGUs were merely forwarded balance from the old version of the eNGAs during the December 2014 migration of data. Consequently, out of the six confirmation letters sent to IAs, only two replied with zero balance; thus, negating the balance recorded in the DOJ books. Moreover, it is informed in the reply of the LGU (New Bataan) that the balance appearing in the DOJ’s records was refunded and deposited to the account of the BTr. Had regular reconciliation of records and proper coordination with the IAs been made, existence of long outstanding accounts could have been eliminated and adjusted accordingly. As to the confirmation letters sent through email on December 11 and 16, 2020 to the Resident Auditor of the four LGUs, their replies have yet to be received as to date. 
+
+
+
+	12)	The presence of these discrepancies between the balances per DOJ books and the IAs and the balance subject to reconciliation casted doubt on the accuracy and existence of the balances of inter-agency receivables.
+
+
+
+	13)	We recommended that Management require the Accounting Division to coordinate and reconcile their book balances with the IAs and effect necessary adjustments, if any.
+
+
+
+Management Comments
+
+
+
+	14)	Management has continuously issued several demand letters to the concerned IAs requiring to immediately settle existing obligations to DOJ.  However, despite several demands, the concerned IAs failed to heed the requests.  It can be inferred that the setback for the non-settlement of the existing inter-agency receivables springs from the concerned IAs, to the prejudice of the DOJ.
+
+
+
+	15)	The following JEVs were made to record the liquidation of various Due from NGAs balances:
+
+
+
+a)	DPWH – Ifugao 
+
+JEV 2020-12-009654 - ₱5,000,000.00
+
+b)	University of the Philippines
+
+JEV 2020-12-009102 - ₱8,000,000.00
+
+c)	DOLE – Office of the Secretary
+
+JEV 2020-01-000647 - ₱412,081.50
+
+
+
+	16)	During the exit conference, the Chief Accountant commented that DOJ’s procurement through PS-DBM is semi-centralized due to payments being made by the Head Office to the regional Procurement Office while items procured were delivered directly to the ROs.  Due to COVID 19 pandemic, ROs have difficulties in submitting Delivery Receipts (DRs) to the DOJ Head Office.
+
+
+
+	17)	Accordingly, Management will be sending out letters to ROs and prompt them to submit the needed DRs.
+
+
+
+
+
+
+
+
+
+Long outstanding balance of ₱35,754,492.80 or 10.57 percent aged five to more than 20 years
+
+
+
+	18)	Analysis of balances disclosed that about 10.57 percent of inter-agency receivables of ₱338,262,030.49 or ₱35,642,687.28, are long outstanding or unsettled accounts aging from five to 20 years, details are as follows:
+
+
+
+Due from NGAs
+
+Implementing Agency
+
+Balance as of Dec. 31, 2020
+
+Particulars
+
+More than 5 years up to 15 years
+
+ 3
+
+DOLE - OSEC
+
+412,081.50
+
+Fund Transfer from Oct 2011 for the National Workshop/Conference Against Trafficking
+
+Total: P1,179,900.00
+
+Liquidated: P 444,706.71
+
+Refunded: P323,111.79
+
+Unliquidated: P412,081.50
+
+ 4
+
+DPWH – Romblon District Engineering Office
+
+178,056.20
+
+Fund transfer from March 2010 for the Repair/Rehabilitation of HOJ Buildings located in various areas in Romblon
+
+Total: 10,000,000.00
+
+Liquidated: P9,821,943.80
+
+Unliquidated: P178,056.20
+
+ 5
+
+Office of the Presidential Adviser for Regional Development (OPARD) – Region 6
+
+1,000,000.00
+
+Fund transfer from Dec. 2006 for the operating requirements of the Special Task Force to investigate irregularities committed in relation to payment of taxes of real properties and other purposes.
+
+
+
+Subtotal
+
+1,590,137.70
+
+
+
+More than 15 years
+
+
+
+
+
+ 6
+
+NCC - ICTO
+
+21,761,263.61
+
+Fund Transfer from June 2001 for the National Crime Information System.
+
+Total: P62,477,146.46
+
+Unliquidated: P21,761,263.61
+
+
+
+Subtotal
+
+21,761,263.61
+
+
+
+ 7
+
+PS
+
+12,060,496.42
+
+Continuous advances throughout the year though beginning balance were composed of cumulative balances from prior years.
+
+ 8
+
+National Printing Office (NPO)
+
+230,789.55
+
+
+
+
+
+Subtotal
+
+12,291,285.97
+
+
+
+Due from LGUs
+
+10
+
+Caloocan City
+
+40,000.00
+
+Non-moving account balance prior to December 2014 eNGAS migration.
+
+11
+
+Iligan City
+
+1,385.58
+
+
+
+12
+
+Pasay City
+
+48,000.00
+
+
+
+13
+
+Quezon City
+
+17,001.51
+
+
+
+14
+
+Zamboanga City
+
+4,417.98
+
+
+
+15
+
+Compostela Valley
+
+1,000.45
+
+
+
+
+
+Subtotal
+
+111,805.52
+
+
+
+Grand Total
+
+₱35,754, 492.80
+
+
+
+
+
+	19)	Despite Management’s demand to settle the unutilized fund transfers or fund balances, the concerned IAs failed to fully liquidate the same. It was noted in the submitted Agency Action Plan and Status of Implementation (AAPSI) that the DOJ Undersecretary for Financial Management issued various demand letters to IAs requiring the immediate liquidation of long outstanding funds transferred.  However, no copies of replies to the demand letters were provided to the Audit Team for reference purposes.  
+
+
+
+	20)	We recommended that Management:
+
+
+
+a)	make a strong representation with the IAs for immediate liquidation of long outstanding balances; and
+
+
+
+b)	request for authority to write-off dormant balances of fund transfers following the procedures prescribed under COA Circular No. 2016-005 dated December 19, 2016.
+
+
+
+	21)	Management persisted in sending demand letters to concerned IAs to remind and require them to settle outstanding obligations to DOJ.
+
+
+
+a)	Demand letter and request for meeting was sent anew to DICT on February 11, 2021;
+
+
+
+b)	Demand letter was sent anew to RD Wilfredo S. Mallari of the DPWH – Romblon District Engineering Office (DEO); and
+
+
+
+c)	Reconciliation with PS-DBM and NPO is on-going.
+
+
+
+	22)	On September 23, 2020, Management requested authority to write-off dormant receivables/unliquidated fund transfers.  However, in the Memorandum dated October 19, 2020, COA required the submission of additional documents in compliance to COA Circular No. 2016-005 dated December 19, 2016.
+
+
+
+	23)	The Chief Accountant commented during the exit conference that they are having difficulty in obtaining liquidation reports from the concerned IAs and compliance is through IAs end.
+
+
+
+
+
+Audit of Inventories Accounts
+
+
+
+3)	The existence and accuracy of the Inventory accounts balances totaling ₱33,323,310.78 as at year-end cannot be ascertained due to discrepancy of ₱21,529,268.16 between the balances per accounting records and per actual inventory report for Office Supplies Inventory and semi-expendable items caused by delayed submission of Requisition and Issue Slip and Inventory Custodian Slip by the Regional Offices to the Head Office.
+
+
+
+	1)	Section 9 Chapter 8 of the GAM, Volume I, prescribes the use of perpetual inventory system.  Whereas, the system requires accounting records to show the amount of inventory on hand at all times through the maintenance of the Supplies Ledger Cards (SLCs) by the Accounting Division or Accounting Unit and Stock Card (SC) by the Supply and/or Property Division/Unit for each item in stock. Regular purchases shall be coursed through the inventory account and issues thereof shall be recorded as they take place except for supplies and materials purchased out of PCF for immediate use or on emergency cases which shall be charged directly to the appropriate expense accounts. 
+
+
+
+	2)	Section 17 Chapter 8 of the same manual prescribes the following records, forms and reports to be prepared and/or maintained for inventories:
+
+
+
+a)	Stock Card (SC) (Appendix 58) – shall be used to record all receipts and issues of supplies and the balance in quantity at any time.  It shall be maintained by the Property and/or Supply Division/Unit for each item in stock.
+
+
+
+b)	Supplies Ledger Card (SLC) (Appendix 57) – shall be used to record materials received, issued and the balance both in quantity and amount at any time. It shall be maintained by the Accounting Division/Unit for each kind of supplies and materials. 
+
+
+
+c)	Requisition and Issue Slip (RIS) (Appendix 63) – shall be used by the end-user to request issue of supplies and materials that are carried on stock.  It is also used by the Property and/or Supply Division/Unit to indicate availability or non-availability of items requisitioned and/or to record issues of item/s requisitioned. 
+
+
+
+d)	Report of Supplies and Materials Issued (RSMI) (Appendix 64) – shall be prepared by the Property and/or Supply Custodian based on the RIS and shall be used by the Accounting Division/Unit as basis in preparing the JEV to record the supplies and materials issued. 
+
+
+
+e)	Report on the Physical Count of Inventories (RPCI) (Appendix 66) – shall be used to report the physical count of supplies by type of inventory as at a given date.  It shows the balance of inventory items per card and per count and shortage/overage, if any.
+
+
+
+
+
+
+
+As of December 31, 2020, the inventory accounts posted an aggregate balance of ₱33,323,310.78 consisting of the following:  
+
+
+
+Inventory Accounts
+
+Amount
+
+Office Supplies Inventory
+
+₱   5,640,968.73
+
+Accountable Forms, Plates and Stickers Inventory
+
+2,107,218.79
+
+Other Supplies and Materials Inventory
+
+4,576,718.92
+
+Semi-Expendable Machinery
+
+281,910.00
+
+Semi-Expendable Office Equipment
+
+27,025.00
+
+Semi-Expendable ICT Equipment
+
+11,102,414.71
+
+Semi-Expendable Communications Equipment
+
+87,696.52
+
+Semi-Expendable Furniture and Fixtures
+
+9,479,378.11
+
+Semi-Expendable Books
+
+19,980.00
+
+Total
+
+₱ 33,323,310.78
+
+
+
+a)	Difference of Inventory per SL and per RPCI
+
+
+
+	3)	Paragraph C, Appendix 66 of GAM Vol. II provides: The RPCIs shall be reconciled with the SLCs and SCs maintained by the Accounting Division/Unit, and Property and Supply Division/Unit, respectively. Any discrepancy shall be verified and/or adjusted accordingly.
+
+
+
+	4)	Comparison of the balances of the inventory accounts as of December 31, 2020, per accounting records and per RPCI showed a discrepancy aggregating ₱2,210,095.38 in the Office Supplies Inventory.
+
+
+
+Office Supplies Inventory
+
+Balance per SL
+
+Balance per RPCI
+
+Discrepancy
+
+₱ 5,640,968.73
+
+₱ 3,430,873.35
+
+₱ 2,210,095.38
+
+
+
+	5)	The variance occurred due to non-reconciliation of both records. Verification revealed that ₱1,699,150.44 or 77 percent of the discrepancy pertained to supplies purchased by ROs not included in the RPCI but recorded in the books of accounts as shown below:
+
+
+
+	Account Code
+
+Description
+
+Qty
+
+Unit Price
+
+Amount
+
+10404010-00-001-0042-004
+
+Supplies Others 
+
+(purchased by RO 4)
+
+6.34
+
+226,679.88
+
+₱ 1,437,150.44
+
+10404010-00-001-0042-006
+
+Supplies Others 
+
+(purchased by RO 6)
+
+1
+
+262,000.00
+
+262,000.00
+
+Total
+
+
+
+
+
+
+
+₱ 1,699,150.44
+
+
+
+	6)	It is informed that the submission of RIS by the ROs was delayed as basis in the preparation of the Report of Supplies and Materials Issued. Moreover, it should be noted in the above table that the details as to the description of inventory items are lacking while the unit price of the items procured is somehow costly. 
+
+b)	Variance between balance per books and balance per actual physical count of Semi-Expendable assets 
+
+
+
+	7)	Semi-expendable accounts per accounting books disclosed an aggregated balance of ₱20,998,404.34 while the balance per actual physical count of these assets amounted to ₱1,679,231.56 or a variance of ₱19,319,172.78. Details are presented below: 
+
+
+
+Account Description
+
+Amount
+
+per RPCI
+
+Amount 
+
+per SL
+
+Variance
+
+Semi-Expendable Machinery
+
+₱   24,080.52
+
+₱ 281,910.00
+
+₱ 257,829.48
+
+Semi-Expendable Office Equipment
+
+1,349.92
+
+27,025.00
+
+25,675.08
+
+Semi-Expendable ICT Equipment
+
+1,648,189.12 
+
+11,102,414.71
+
+9,454,225.59
+
+Semi-Expendable Communications Equipment
+
+5,612.00
+
+87,696.52
+
+82,084.52
+
+Semi-Expendable Furniture and Fixture
+
+-
+
+9,479,378.11
+
+9,479,378.11
+
+Semi-Expendable Books
+
+-
+
+19,980.00
+
+19,980.00
+
+Total
+
+₱ 1,679,231.56
+
+₱ 20,998,404.34
+
+₱ 19,319,172.78
+
+
+
+	8)	The discrepancy could be attributed to delayed submission of Inventory Custodian Slip from the ROs to record the issuance of semi-expandable items to end-users.
+
+
+
+c)	Incomplete submission of RPCI
+
+
+
+	9)	Paragraph A, Appendix 66 of GAM Vol. II provides that:  The RPCI shall be prepared semi-annually by the Inventory Committee and by Fund Cluster. Further, Paragraph E of the same appendix states that:  The report shall be submitted to COA Auditor concerned not later than July 31 and January 31 of each year for the first and second semesters, respectively.
+
+
+
+	10)	It was noted that Management submitted complete RPCI as of December 31, 2020 for the six inventory accounts, namely:
+
+
+
+a)	Office Supplies Inventory
+
+b)	Semi-Expendable Machinery
+
+c)	Semi-Expendable Office Equipment
+
+d)	Semi-Expendable Information and Communication Equipment
+
+e)	Semi-Expendable Communications Equipment
+
+f)	Semi-Expendable Furniture and Fixture.
+
+
+
+	11)	The RPCI for Accountable Forms Plates and Stickers Inventory and Semi-Expendable Books were incomplete while the RPCI for Office Supplies and Materials Inventory has no supporting documents.
+
+
+
+
+
+	12)	We recommended that Management direct the:
+
+
+
+a)	Accounting Division to conduct periodic reconciliation of records with the Property Management Section and make necessary adjustments if warranted; and
+
+
+
+b)	Property Management Section to submit a complete set of RPCI for all inventory accounts.
+
+
+
+Management Comments
+
+
+
+	13)	The Accounting Division, in cooperation with the PMS, continuously conducts reconciliation of the inventory accounts.  Out of the noted ₱2,210,095.38 variance between the records of AD and PMS for Office Supplies Inventory, only ₱27,691.90 is currently being reconciled by concerned offices.  Meanwhile, corresponding adjustment/s pertaining to Other ICT Supplies Inventory aggregating ₱399,492.26 will be made immediately once the RIS are submitted and received by the AD from the PMS or end-users.
+
+
+
+	14)	The variance of ₱19,319,172.78 between the balances of the account in the financial statements and actual physical count of semi-expendable assets was caused by belated submission of the ICS by the ROs. The ROs are authorized to procure their operational requirements directly from the regional depots of PS-DBM.  Such regional procurement is being handled by the concerned ROs.  
+
+
+
+	15)	To address the noted variance and related issues on the Inventory of office supplies, materials and other assets, Management has recently released Department Order No. 070 dated 29 March 2021 prescribing the duties and responsibilities of all designated property/supply custodians in the Department.  
+
+
+
+	16)	The recent adjustments made by the Accounting Division pertaining to semi-expendable items are JEV Nos. 2021-02-000663, 2021-2021-02-000664, 2021-02-000665 and 2021-02-000666 all dated February 1, 2021 amounting to ₱127,928.32, ₱284,128.76, ₱12,647.00 and ₱426,880.00, respectively. 
+
+
+
+	17)	Also, Management directed the PMS to draft a memorandum requiring all custodians, particularly those assigned in the ROs to effectively manage the issuance of ICS, to enable the AD to make the necessary entries for semi-expendable items.
+
+
+
+
+
+
+
+
+
+Audit of Property, Plant and Equipment (PPE) Accounts
+
+
+
+4)	The accuracy and existence of the PPE accounts balances totaling ₱1,239,378,837.55 cannot be relied upon due to: a) discrepancy of ₱506,774,284.45 between the balance per books and per RPCPPEs for seven PPE accounts; b) inclusion in the Building account of completed Hall of Justice Buildings valued at ₱9,977,438.51 constructed for the Supreme Court of the Philippines; c) non-reclassification to the Buildings account of completed Justice Center amounting to ₱46,775,426.78.  Moreover, various deficiencies were noted in the verification of the Regional RPCPPE and PPE located in regional, provincial and city prosecution offices of the Department.
+
+
+
+1)	
+
+2)	
+
+3)	
+
+4)	
+
+	1)	Letter A of the Instructions in Appendix 73 of the GAM, Volume II, provides that:  The RPCPPE is the form used to report on the physical count of PPE by type such as land, land improvements, infrastructure, building and other structures, machinery and equipment, transportation equipment, furniture, fixtures and books, etc. which are owned by the agency.  It shall be prepared yearly by fund cluster.
+
+
+
+	2)	Also, Letter E of the Instructions of the same Manual requires that: The RPCPPE shall be submitted to the Auditor concerned and Accounting Division/Unit not later than January 31 of each year. 
+
+
+
+	3)	Comparison of PPE balances per books and per RPCPPE disclosed a difference of ₱506,774,284.45 which is 41 percent of the aggregate PPE balance, details are as follows:
+
+
+
+Account Title
+
+Per Books
+
+(In PhP)
+
+Per RPCPPE
+
+(In PhP)
+
+Difference
+
+(In PhP)
+
+PPE with RPCPPE
+
+Land
+
+3,074,877.50
+
+3,074,877.50
+
+-
+
+Buildings
+
+156,787,172.72
+
+156,787,172.72
+
+-
+
+Other Structure
+
+5,906,011.38
+
+5,906,011.38
+
+-
+
+Office Equipment
+
+106,310,742.18
+
+34,092,349.71
+
+72,218,392.47
+
+Information and Communication Technology
+
+554,857,066.76
+
+186,945,153.26
+
+367,911,913.50
+
+Communication Equipment
+
+23,452,112.52
+
+286,000.00
+
+23,166,112.52
+
+Military, Police and Security Equipment
+
+13,389,406.50
+
+13,389,406.50
+
+-
+
+Medical Equipment
+
+766,654.00
+
+466,100.00
+
+300,554.00
+
+Other Machinery and Equipment
+
+12,832,288.49
+
+464,874.19
+
+12,367,414.30
+
+Motor Vehicles
+
+211,704,671.21
+
+192,693,874.70
+
+19,010,796.51
+
+Furniture and Fixtures
+
+12,780,007.71
+
+980,906.56
+
+11,799,101.15
+
+Books
+
+1,484,451.74
+
+1,484,451.74
+
+-
+
+Sub-Total
+
+1,103,345,462.71
+
+596,571,178.26
+
+506,774,284.45
+
+PPE without RPCPPE
+
+Construction in Progress
+
+133,736,576.75
+
+No RPCPPE submitted 
+
+
+
+Other Property Plant and Equipment
+
+2,296,798.09
+
+No RPCPPE submitted
+
+
+
+Sub-Total
+
+136,033,374.84
+
+
+
+
+
+TOTAL
+
+1, 239,378,837.55
+
+596,571,178.26
+
+506,774,284.45
+
+
+
+	4)	Based on the above table, out of the 14 PPE accounts, only 12 accounts were included in the RPCPPE of DOJ Main, NCR and ROs while the other two were without RPCPPE. The two PPE accounts without RPCPPE have book balance of ₱136,033,374.84 or 10.98 percent of the aggregate PPE balance. On the other hand, the difference of ₱506,774,284.45 between the balance per books and balance per RPCPPE is still subject to verification by PMS.
+
+
+
+	5)	Our verification of the RPCPPE showed the following deficiencies:
+
+
+
+a)	No consolidated RPCPPE for DOJ;
+
+
+
+b)	RPCPPEs of Regions 3, 9, 16 and nine OCPs of NCR were not yet submitted to COA;
+
+
+
+c)	RPCPPEs of DOJ Proper, NCR and Region 4 were not summarized nor consolidated; and
+
+
+
+d)	Semi-expendable items totaling ₱904,888.86 were still classified as PPE and included in the RPCPPEs of Regions 4 and 10.
+
+
+
+Region
+
+Semi-Expendable PPEs
+
+TOTAL
+
+
+
+Office Equipment
+
+ICT Equipment
+
+Furniture and Fixtures
+
+
+
+
+
+Units
+
+Amount
+
+Units
+
+Amount
+
+Units
+
+Amount
+
+Units
+
+Amount
+
+4
+
+32
+
+339,101.90
+
+47
+
+385,521.96
+
+17
+
+91,276.00
+
+96
+
+815,899.86
+
+10
+
+8
+
+88,989.00
+
+-
+
+-
+
+-
+
+-
+
+8
+
+88,989.00
+
+TOTAL
+
+40
+
+428,090.90
+
+47
+
+385,521.96
+
+17
+
+91,276.00
+
+104
+
+904,888.86
+
+
+
+	6)	Semi-Expendable items recorded as PPE resulted in the overstatement of Accumulated Depreciation and the understatement of the Accumulated Surplus/(Deficit) by ₱904,888.86.
+
+
+
+
+
+
+
+
+
+	7)	The unit value of 169 items of donated/transferred and procured PPEs were not indicated in the RPCPPEs, summarized as follows:
+
+
+
+Region
+
+		No. of Units
+
+TOTAL
+
+
+
+Procured
+
+Donated / Transferred
+
+
+
+DOJ Proper
+
+96
+
+8
+
+104
+
+NCR
+
+42
+
+-
+
+42
+
+Region 4
+
+23
+
+-
+
+23
+
+TOTAL
+
+161
+
+8
+
+169
+
+
+
+	8)	Period covered of the RPCPPE of Region 4 were as follows:
+
+
+
+Office
+
+Date of RPCPPE
+
+Office of the Provincial Prosecutor, Cavite
+
+September 30, 2020
+
+Office of the Provincial Prosecutor, Marinduque
+
+June 30, 2020
+
+Office of the Provincial Prosecutor, Mindoro
+
+November 30, 2020
+
+Office of the Provincial Prosecutor, Palawan
+
+September 30, 2020
+
+Office of the City Prosecutor, Tanauan, Batangas
+
+December 17, 2020
+
+
+
+	9)	Moreover, unserviceable/obsolete PPEs totaling ₱17,560,022.33 were included in RPCPPE and not reported in the Inspection and Inventory of Report of Unserviceable Properties (IIRUP).  Details are shown below:
+
+
+
+Region
+
+Office Equipment
+
+ICT Equipment
+
+Motor Vehicle
+
+TOTAL
+
+
+
+No. of Units
+
+Amount
+
+No. of Units
+
+Amount
+
+No. of Units
+
+Amount
+
+No. of Units
+
+Amount
+
+DOJ Proper
+
+34
+
+1,817,452.96
+
+77
+
+2,765,875.87
+
+-
+
+-
+
+111
+
+4,583,328.83
+
+OCP-NCR
+
+6
+
+287,017.44
+
+15
+
+476,701.94
+
+-
+
+-
+
+21
+
+763,719.38
+
+1
+
+10
+
+556,798
+
+110
+
+4,163,932.81
+
+4
+
+831,400.00
+
+124
+
+5,552,130.81
+
+2
+
+5
+
+235,819.00
+
+45
+
+1,872,854.74
+
+-
+
+       -
+
+50
+
+2,108,673.74
+
+4
+
+6
+
+229,068.00
+
+16
+
+445,805.17
+
+1
+
+54,100.00
+
+23
+
+728,973.17
+
+7
+
+-
+
+        -
+
+25
+
+857,059.17
+
+-
+
+       -
+
+25
+
+857,059.17
+
+10
+
+-
+
+        -
+
+27
+
+1,009,381.51
+
+-
+
+        -
+
+27
+
+1,009,381.51
+
+12
+
+-
+
+        -
+
+39
+
+1,956,755.72
+
+-
+
+       -
+
+39
+
+1,956,755.72
+
+TOTAL
+
+61
+
+3,126,155.40
+
+354
+
+13,548,366.93
+
+5
+
+885,500.00
+
+420
+
+17,560,022.33
+
+
+
+	10)	The non-disposal unserviceable properties exposes the same to further damage, deterioration and decrease in economic value.
+
+
+
+	11)	We recommended that Management:
+
+
+
+a)	submit a complete and consolidated RPCPPE for DOJ;
+
+
+
+b)	reclassify the 104 units of semi-expendable properties recorded as PPE to the appropriate account;
+
+c)	determine the unit value of 169 units of donated/transferred and procured PPEs and adjust the balance of PPE accounts accordingly;
+
+
+
+d)	prepare the IIRUP for 420 units of unserviceable PPEs and promptly dispose the same in a manner/mode most advantageous to DOJ; and
+
+
+
+e)	require the Accounting Division and the Property Management Section to conduct regular and thorough reconciliation of records for PPE. 
+
+	
+
+	Management Comments
+
+	
+
+	12)	The Management commented that they constantly direct the heads of services/offices, particularly the heads of regional prosecution offices, regarding the conduct of annual actual physical count of PPE, as well as the preparation of RPCPPE.  .
+
+
+
+	13)	On January 31, 2020, the Undersecretary for Financial Management directed all heads of services/programs/project to designate at least one (1) property custodian from their respective offices for the monitoring, control and recording of all property acquired, issued or disposed. 
+
+
+
+	14)	Recently, the DOJ  Secretary issued Department Order No. 070 dated March 29, 2021, prescribing the duties and responsibilities of property/supply custodians, which includes the duty of preparing inventory reports, among others, but despite such directives, some of the property/supply custodians failed to submit their RPCPPEs’ on time for lack of personnel complement and heavy caseload of prosecutors.
+
+
+
+	15)	Likewise, the AD made the necessary adjustment of ICT Equipment under JEV No. 2021-03-001407 dated March 1, 2021.  With regard to Office Equipment and Furniture and Fixtures, the AD is currently reviewing the composition of the affected accounts and necessary adjustment accordingly.
+
+
+
+	16)	Moreover, the 169 units of donated/transferred and procured PPEs, Management hired two Job Order personnel to assist the PMS in the preparation of consolidated RPCPPE.
+
+
+
+	17)	On the other hand, the DOJ Disposal Committee had already disposed of unserviceable equipment, including vehicles amounting to ₱79,726,724.81.
+
+
+
+
+
+
+
+Completed Halls of Justice (HOJ) building projects still included in the Buildings account 
+
+
+
+	18)	As at year-end, the Department’s Buildings account has a balance of ₱156,787,172.72, consisting of the following: 
+
+
+
+Reference
+
+Description
+
+Amount
+
+National Prosecution Service (NPS)
+
+NPS Building, DOJ Compound, Padre Faura St., Ermita, Manila
+
+13,979,378.87
+
+Office of the Secretary (OSEC)
+
+Annex 2 – Programs Building
+
+14,276,988.08
+
+
+
+Annex Building “A” - Library
+
+5,790,685.41
+
+
+
+Main Building – De Las Alas Hall
+
+14,786,056.34
+
+
+
+Multi-Purpose – Forum Building
+
+11,334,215.83
+
+
+
+Annex B Prosecution Building – Phase 1
+
+24,891,469.43
+
+
+
+Annex Prosecution Building – Phase II
+
+31,420,510.94
+
+Region 3
+
+DOJ Building – San Fernando, Pampanga
+
+12,444,716.40
+
+
+
+DOJ Building – Angeles City, Pampanga (DOJ Academy)
+
+17,885,712.91
+
+
+
+Hall of Justice – San Fernando, Pampanga
+
+3,844,942.55
+
+Region 6
+
+Hall of Justice – Bugasong, Antique
+
+6,132,495.96
+
+T O T A L
+
+
+
+156,787,172.72
+
+
+
+	19)	As shown in the above table, the completed HOJ building projects from Regions III and VI amounting to ₱3,844,942.55 and ₱6,132,495.96, respectively, are still recorded in the Buildings account of the Department.  These buildings are 100 percent completed and should have been transferred to the Supreme Court of the Philippines pursuant to Section 1 (A) Article 1 of the MOA executed on June 9, 2000 by and between the DOJ and SCP, which states that:
+
+
+
+	The ownership of all the BUILDINGS that have been completely constructed under the JUSIP, including the land on which the BUILDINGS have been constructed and the improvements thereon, as well as all furniture and office equipment provided or issued by the DEPARTMENT to the courts and court personnel in said BUILDINGS, shall automatically be transferred to the COURT upon the signing of this MOA.
+
+
+
+	20)	The inclusion of the HOJ buildings in the Buildings account of the DOJ resulted in the overstatement of said account by ₱9,977,438.51 and the understatement of the related accounts in the financial statements.
+
+
+
+	21)	We recommended that Management cause the immediate transfer of the completed HOJ Buildings of Regions III and VI to the SCP in compliance with the MOA and prepare the necessary adjustment in the books of accounts.  
+
+
+
+         Completed Justice Center not reclassified to the Buildings account 
+
+
+
+	22)	Chapter 10, Section 8 (g) of the GAM, Vol. I which states that: During the construction period, all expenses incurred in relation to the construction of PPE shall be taken up in the books as Construction in Progress (CIP) with the appropriate asset classification.  As soon as the construction is completed, the CIP account shall be reclassified to the proper asset account.  xxx
+
+
+
+	23)	COA Circular No. 2013-002 dated January 30, 2013 prescribing the adoption of the Revised Chart of Accounts describes Construction in Progress –Buildings and Other Structures as an account used to record the accumulated cost or other appropriate value of buildings and other structures which are still in the process of construction or development.  This account is credited for reclassification to the appropriate Building and Other Structures account upon completion of the constructions project.
+
+
+
+	24)	As of December 31, 2020, the balance of the account Construction in Progress –Buildings and Other Structures amounted to ₱133,736,576.75, broken down as follows:
+
+
+
+Description
+
+Amount
+
+DOJ Academy/Training Center, Brgy. Guinhawa South, Tagaytay City
+
+₱   86,961,149.97
+
+Justice Center, DOJ Compound, Padre Faura St. Ermita Manila
+
+46,775,426.78
+
+T O T A L
+
+₱ 133,736,576.75
+
+
+
+	25)	Verification of the status of the Justice Center located at the DOJ Head Office Compound revealed 100 percent completion which was turned over and accepted by the Management officials on November 20, 2019.
+
+
+
+	26)	Failure of the Accounting Division to reclassify the completed construction of Justice Center resulted in the misstatement of the Construction in Progress –Buildings and Other Structures account and the Buildings accounts both by ₱46,775,426.78.
+
+
+
+	27)	We recommended that Management direct the Accounting Division to reclassify the completed projects to its appropriate account duly supported with required documents.
+
+
+
+Management Comments
+
+
+
+	28)	Management complied with corresponding adjusting entries to reflect the correct balance of the Construction in Progress –Buildings and Other Structures account under JEV Nos. 2021-01-000648-49 both dated Jan. 4, 2021.
+
+
+
+	29)	The balance of the CIB account as of Jan. 31, 2021 amounted to ₱86,961,149.97 consisting only of the DOJ Academy/Training Center.
+
+
+
+	30)	Deficiencies were also noted in the verification of PPEs of regional, provincial and city prosecution offices of the Department
+
+
+
+Observation
+
+Recommendation
+
+DOJ Field Offices (FOs)
+
+PROPERTY, PLANT AND EQUIPMENT (PPE)
+
+RPCPPE not properly accomplished
+
+The RPCPPE could not be ascertained due to the following deficiencies contrary to the provisions of the GAM:
+
+
+
+1)	Some columns in the report are not properly filled out;
+
+
+
+2)	Unserviceable PPEs were still included in the RPCPPE instead of the  IIRUP;
+
+
+
+3)	Copies of PAR, PC, and PPE Ledger Cards (LC) as of December 31, 2020 were not furnished to the Audit Team; and
+
+
+
+4)	Reconciliation between the RO’s records and   the records of Accounting Division and Supply/ Property Office of the DOJ-CO was not made during the CY 2020.
+
+Require the Property Custodian/Inventory Committee to: 
+
+
+
+a)	Revise the RPCPPE, fill out all columns therein, and re-submit the same to the COA Office;
+
+
+
+b)	Prepare the IIRUP and all other supporting documents for all unserviceable property and send request letter to DOJ-HO for proper disposal;
+
+
+
+c)	Immediately submit to the COA Office the PC, PPELC, and the PAR for all PPE; and
+
+
+
+d)	Reconcile its PPE records with the records of DOJ-HO and effect necessary adjustments, if any, and furnish the COA Office with reconciliation report and adjustment made. 
+
+Region 1
+
+ORP-San Fernando La Union
+
+
+
+
+
+
+
+
+
+PARs not renewed / updated
+
+PARs were not renewed/ updated every three years contrary to Section 21 of the GAM, Volume I thus, conduct of inventory taking, identification of persons responsible for government property and cross referencing of property transferred from one AO to another could not be facilitated.
+
+Require the AOs designated as Supply and/or Property Officer to strictly adhere to the existing rules and regulations on the maintenance of PAR for equipment issued to all personnel of the agency. 
+
+Region 2
+
+ORP Tuguegarao City, Cagayan
+
+Region 16
+
+OCP Silay City, Negros Occidental
+
+Non-reporting of unserviceable items
+
+The non-reporting of  1,291 unserviceable items in the IIRUP deterred timely recognition of applicable impairment loss that would reduce net carrying value of subject PPE and Inventories contrary to Sections 39 & 40(d), Chapter 10, Volume I of the GAM for NGAs, COA Circular No. 2015-007 dated October 07, 2015 and  Section 79 of PD No. 1445,
+
+Instruct the responsible officials to:
+
+
+
+a)	Prepare and submit to the accounting and property units of the DOJ HO the IIRUP for the 1,291 unserviceable units with and without listed value/s as of December 31, 2020 to allow provision of impairment, and listing in the IIRUP of recognized acquisition cost, accumulated depreciation and accumulated impairments; and
+
+
+
+b)	Submit to DOJ the recommended most advantageous mode of disposition, together with the appropriate appraisal value.
+
+Region 4A
+
+OCP Calamba City;
+
+OCP Trece Martires City;
+
+OPP Cavite (Imus City);
+
+OCP Dasmarinas City;
+
+OCP Imus City;
+
+OCP Batangas City
+
+PPEs and Inventories without cost
+
+One hundred forty nine (149) PPEs and Inventories were listed in the RPCPPE and RPCI without cost, contrary to Section 38 Volume 1 of GAM.
+
+Require the Supply Officer/PC to:
+
+
+
+a)	Make a representation with the accounting and property unit of the Department for the reconciliation of records;
+
+
+
+b)	Prepare and submit amended RPCPPE and RPCI; and
+
+
+
+c)	Ensure that semi-expendable items already issued to end-users are covered by the appropriate ICS.
+
+Region 4A
+
+OCP Dasmarinas City;
+
+OCP Imus City
+
+Incomplete information of the properties
+
+Incomplete information of properties were provided in the RPCPPE which is not in accordance with Section 42 (g), Chapter 10 of GAM, Vol. 1.
+
+Require the PC to:
+
+
+
+a)	Properly accomplish the RPCPPE and supply all the required information in accordance with the GAM; and
+
+
+
+b)	Follow-up the request to secure copy of all property records from DOJ Accounting and Property Section.
+
+Region 4B
+
+OCP Puerto Princessa City, Palawan
+
+
+
+
+
+Audit of Advances to Contractors
+
+
+
+5)	The balance of the Advances to Contractors account amounting to ₱30,054,689.66 is doubtful due to inclusion of long outstanding balances totaling ₱393,101.89 without details and balance amounting ₱904,694.20 tagged as “for reconciliation” without supporting documents.
+
+
+
+	1)	Advances to Contractors is the account used to recognize amount advanced to contractors as authorized by law.  This account is credited for recoupment of advances.
+
+
+
+	2)	Item No. 9.2.1. of the Notes to FS for CY 2020, indicates that Advances to Contractors are payments made in connection with the construction of various HOJ nationwide being implemented by the Department.  The amount advanced is being deducted from the contractors’ periodic progress billing.
+
+
+
+	3)	The balance of the account is composed of the following payments:
+
+
+
+Particulars
+
+Balance as of December 31, 2020
+
+Remarks
+
+External Contractors
+
+
+
+C.B. Garay Philwide Builders
+
+65,571.26  
+
+Balance forwarded, Nov. 28, 2014; No available data 
+
+Exakt IT Services Inc.
+
+22,700,000.00
+
+No recoupment from payment of advances in CY 2019; with request for extension of the deadline of the project to Dec. 31, 2020.
+
+Herbana Builders and Supply
+
+28,622.92         
+
+Balance after 3rd Progress Billing (91.99803513 percent) in CY 2015.
+
+NQ Villapando Construction
+
+(0.01)
+
+
+
+Rogenox Construction and Supply Corp.
+
+1,563,145.88     
+
+DOJ-Training Center (TC) – on-going
+
+Winsfort Construction and Development
+
+97,067.73          
+
+Balance after payment of 3rd Progress Billing (91.046432150 percent wok accomplishment) in CY 2020 
+
+Winsmon Construction and Development Corporation
+
+4,368,057.05    
+
+No recoupment from payment of advances in CY 2019.
+
+Zion Construction
+
+70,742.35         
+
+Balance forwarded, November 28, 2014; No available data 
+
+Local Government Units (LGUs)
+
+
+
+City Government of Gapan, Nueva Ecija
+
+163,428.66        
+
+Balance forwarded, Nov. 28, 2014; No available data 
+
+Municipal Government of Wao, Lanao del Sur
+
+44,529.55          
+
+Balance forwarded, Nov. 28, 2014; No available data 
+
+Municipal Government of Laoang, Northern Samar
+
+13,101.96          
+
+Balance forwarded, Nov. 28, 2014; No available data 
+
+Municipal Government of Taft, Eastern Samar
+
+35,728.11          
+
+Balance forwarded, Nov. 28, 2014; No available data 
+
+For Reconciliation
+
+
+
+For Reconciliation
+
+904,694.20        
+
+Balance forwarded, Nov. 28, 2014; No available data
+
+TOTAL
+
+30,054,689.66 
+
+
+
+
+
+	4)	Annex E of the Revised IRR of RA No. 9184 states that: 4.3 The advance payment shall be repaid by the contractor by deducting fifteen percent (15%) from his periodic progress payments a percentage equal to the percentage of the total contract price used for the advance payment.
+
+
+
+	5)	Review of the account revealed that the balance includes advances to  contractor/supplier/.local government units which have been long outstanding in the books:
+
+
+
+Contractor/Supplier/LGU
+
+Amount
+
+City Government of Gapan, Nueva Ecija
+
+163,428.66        
+
+Municipal Government of Wao, Lanao del Sur
+
+44,529.55          
+
+Municipal Government of Laoang, Northern Samar
+
+13,101.96          
+
+Municipal Government of Taft, Eastern Samar
+
+35,728.11          
+
+Zion Construction
+
+70,742.35         
+
+C.B. Garay Philwide Builders
+
+65,571.26  
+
+Total
+
+P393,101.89
+
+
+
+	6)	It was noted that the total amount pertains to the forwarded balances to the account in the adoption of new version of e-NGAS in November 2014. Since then, there were no recoupments made thereon. In addition, the SLs thereof did not indicate the particular project for which advances have been paid making the status of the projects hard to validate. 
+
+
+
+	7)	On the other hand, the balance of advance payment to Herbana Builders and Supply amounting to ₱28,622.92 pertains to the unrecouped amount for repairs/improvements of various offices at the DOJ Head Office. It was noted that contractor’s claim for progress billing was made in 2015 and no succeeding claim was made from then on.
+
+
+
+	8)	Moreover, Advances to Contractors amounting to ₱904,694.20 tagged as “for reconciliation” remained unreconciled and had been outstanding for more than five years. The non-reconciliation thereof affects the accuracy of advance payments made as the agency books do not properly identify the contractors and projects to which the same were intended.
+
+
+
+	9)	The presence of these long outstanding balances without supporting documents and details rendered the balance of the Advances to Contractor account doubtful,
+
+
+
+	10)	We recommended that Management:
+
+
+
+a)	require the Accounting Division  to reconcile  the balance tagged  as “for reconciliation” and exert extra efforts to identify the contract/supplier to whom these advances had been made;
+
+
+
+b)	revisit long outstanding advance payments made for projects which are determined to have been; (i) completed and ensure that these advances are deducted from the final billings, otherwise, initiate legal action to recoup the same; and (ii) rescinded or terminated and move for the recoupment of the same; and
+
+
+
+c)		locate pertinent supporting documents on the subject projects for reference purposes.
+
+
+
+Management Comments
+
+
+
+	11)	The Chief Accountant commented during exit conference that they are doing their best to reconcile Advances to Contractors account which had been existing for so long.
+
+
+
+COMPLIANCE AUDIT
+
+
+
+Compliance to Rules and Provisions pertinent to the procurement of Goods and Services
+
+
+
+1)	Failure of the DOJ to comply with the provisions of the Revised IRR of RA No. 9184 resulted in the: a) prolonged procurement process beyond the maximum allowable time of 136 calendar days; and b) delay in the delivery of procured goods amounting to ₱155,056.30, caused by the gaps in the implementation of procurement process. Moreover, advance copies of government contracts, purchase orders (POs) and its supporting documents were not submitted to the Office of the Auditor within the prescribed period of submission contrary to COA Circular No. 2009 – 01 dated February 12, 2020. 
+
+
+
+a)	Prolonged Procurement Process
+
+
+
+	1)	One of the governing principles on government procurements under the Revised IRR of the RA 9184 is the streamlined process of procurement which uniformly applies to all government procurements and ensures effective and efficient method.
+
+
+
+	2)	Section 38.1 of the IRR of RA 9184 states that, the procurement process from the opening of bids up to the award of contract shall not exceed three (3) months, or a shorter period to be determined by the procuring entity concerned.
+
+
+
+	3)	Additionally, Annex C of the said IRR further prescribes the period of action on the procurement activities providing for the latest allowable time as well as the maximum allowable period of action for each procurement activity. These periods are set forth to address the incessant delay in the procurement activities that is affecting the efficiency and effectiveness of government operations.
+
+
+
+	4)	Scrutiny/evaluation of submitted contracts/POs for procurement of goods and services revealed that the period of action on one procurement activity exceeded the maximum allowable time of 136 calendar days (Annex B) as prescribed in the aforementioned law.  
+
+
+
+	5)	The prolonged lengthy process/activity is not compliant to the afore-cited provisions of law which implies inefficiency in the implementation of the entire procurement process that may affect government operations and may result in the wastage of government resources.  
+
+
+
+b)	Delays in the delivery of procured goods 
+
+
+
+	6)	Section 3.1 Annex “D” of the 2016 Revised IRR of the RA No. 9184 provides that:  When the Supplier fails to satisfactorily deliver goods under the contract within the specified delivery schedule, inclusive of duly granted time extensions, if any, the supplier shall be liable for damages for the delay and shall pay the procuring entity, not by way of penalty, and amount equal to one tenth (1/10) of one (1) percent of the cost of the delayed goods scheduled for delivery for every day of delay until such goods are finally delivered and accepted by the procuring entity concerned.
+
+
+
+	7)	Likewise, Section 3.2 Annex “D” of the same RA No. 9184 also provides that:  The procuring entity need not prove that it has incurred actual damages to be entitled to liquidated damages.  Such amount shall be deducted from any money due or which may become due to the supplier, or collected from any securities or warranties posted by the supplier, whichever is convenient the procuring entity concerned.
+
+
+
+	8)	Section 68 of the same RA No. 9184 on liquidated damages also provides that:  All contracts executed in accordance with the Act and this IRR shall contain a provision on liquidated damages which shall be payable by the contractor in case of breach thereof.
+
+
+
+	9)	The contract between DOJ and Remax International, Inc. under PO No. 2020-10-027 dated October 30, 2020 for the purchase of 10 units High-end Laptop and 104 units Regular Laptops was conformed by the supplier on November 10, 2020.  The contract specifically provides that:  The Terms of Engagement will be for three (3) years, with expected full supply, delivery and installation within sixty (60) calendar days after the receipt of the Notice to Proceed (NTP).
+
+
+
+	10)	The NTP was received and acknowledged by the supplier on November 10, 2020 while the   delivery of 10 unit high-end laptops and 104 unit regular laptops was completed on February 5, 2021 based on the Delivery Receipt.
+
+
+
+	11)	 It should be noted that the 60 calendar days stipulated in the contract period end on January 9, 2021.  Hence, the period from January 10, 2021 to February 5, 2021 or 26 calendar days (CDs) is subject to liquidated damages as provided in the contract.  Details of the computation are shown below:
+
+
+
+Contract Amount
+
+Rate
+
+No. of days Delayed
+
+Liquidated Damages
+
+₱5,963,704.00
+
+0.001
+
+26 CDs
+
+₱ 155,056.30
+
+
+
+c)	Non-submission of advance copy of government contracts, POs and its supporting documents to the Office of the Auditor
+
+
+
+	1)	
+
+	2)	
+
+	3)	
+
+	12)	Section 3.1.1 of COA Circular No. 2009 - 01 dated February 12, 2020, states that:  Within five (5) working days from the execution of a contract by the government or any of its subdivisions, agencies or instrumentalities, including government-owned and controlled corporations and their subsidiaries, a copy of said contract and each of all the documents forming part thereof by reference or incorporation shall be furnished to the Auditor of the agency concerned.
+
+
+
+	13)	Section 3.1.2:  The copies of documents required to be submitted shall include but not limited to the following: 
+
+	
+
+a)	Invitation to Apply for Eligibility and to Bid;
+
+b)	Letter of Intent;
+
+c)	Eligibility Documents and Eligibility Data Sheet;
+
+d)	Eligibility Requirements;
+
+e)	Results of Eligibility Check/Screening;
+
+f)	Bidding Documents (Sec. 17.1, IRR-A, RA 9184
+
+g)	Minutes of Pre-Bid Conference; if applicable;
+
+h)	Agenda and/or Supplemental Bid Bulletins, if any;
+
+i)	Bidder’s Technical and Financial Proposals;
+
+j)	Minutes of Bid Opening;
+
+k)	Abstract of Bids;
+
+l)	Post Qualification Report of Technical Working Group;
+
+m)	BAC Resolution declaring winning bidder;
+
+n)	Notice of Post-Qualification;
+
+o)	BAC Resolution recommending approval;
+
+p)	Notice of Award;
+
+q)		Contract Agreement;
+
+r)	Performance Security;
+
+s)	Program of Work and Detailed Estimates;
+
+t)	Certificate of Availability of Funds, Obligation Request;
+
+u)	Notice to Proceed
+
+v)	Such other documents peculiar to the contract and/or to the mode of procurement and considered necessary in the auditorial review and in the technical evaluation thereof.
+
+
+
+	14)	It was observed that copies of perfected contracts and supporting documents were not submitted to the Office of the Auditor within the prescribed period of submission. 
+
+
+
+	15)	Based on the Procurement Monitoring Report (PMR) submitted by Procurement Management Division (PMD) and COA’s monitoring records of received contracts/POs, 55 of the 85 completed projects for CY 2020, were submitted to the Office of the Auditor within the prescribed five (5) day period of submission from the time of perfection of the contract, 17 were submitted late while 13 were not submitted. Summary of which are as follows: 
+
+
+
+Status of Submission
+
+Total Number of Contracts
+
+Total Amount
+
+Submitted within 5 Days
+
+55
+
+101,651,360.11
+
+Submitted Late
+
+17
+
+19,483,520.18
+
+Not Yet Submitted
+
+13
+
+8,962,990.00
+
+Subtotal: Completed Projects
+
+85
+
+130,097,870.29
+
+On-going Procurement
+
+3
+
+447,918.00
+
+Grand Total
+
+88
+
+130,545,788.29
+
+    Details are presented in Annex C
+
+
+
+	16)	Moreover, the Management also failed to submit complete copies of the required documents mentioned above as manifested by various Memoranda issued by the Audit Tam on lack of documents.
+
+
+
+	17)	Non-compliance with the existing regulations hinders timely review of procurement contract where contract deficiencies, if any, may not be communicated to Management on time. 
+
+
+
+	18)	We recommended that Management:
+
+
+
+a)		direct concerned officials responsible in the different stages of the procurement process to submit explanations/justification for the lengthy and prolonged procurement process; 
+
+
+
+b)	notify the supplier of the delay in the delivery of goods and the corresponding liquidated damages incurred thereon;  
+
+
+
+c)	direct all officials concerned to strictly adhere to the provisions of the Revised IRR of R.A 9184 and COA rules and regulations; and
+
+
+
+d)	submit advance copies of government contracts and POs, together with its supporting documents to the Audit Team within five working days from execution or from the date of perfection of the contract/PO.
+
+
+
+Management Comments
+
+
+
+	19)	Management commented that Remax International, Inc., supplier for the purchase of 10 units High-end laptop and 104 units regular laptop, submitted on Jan. 4, 2021 a request for 30-day extension due to the pandemic. The request for extension of delivery from Jan. 9, 2021 to Feb. 8, 2021 was approved on January 5, 2021; hence, no liquidated damages was imposed considering that the delivery is within the approved extension period.
+
+
+
+	20)	Moreover, the award of contract to the lowest calculated responsive bid (LCRB) took sometime due to the conduct of three post-qualification activities one after the other by the BAC-TWG for ICTS.  Post qualified the third LCB after two (2) post-disqualification processes made with the technical eligibility documents submitted by Pronet Systems Integrated Network Solution, Inc. and Link Network Solutions Inc. 
+
+
+
+	21)	Out of the 17 contracts submitted late by suppliers, three (3) were transmitted with incorrect dates; eight (8) were due to late submission of signed NOA/NTP/contract caused by pandemic; two (2) were considering some dates after the Dec. 18 Christmas Party and holidays; two (2) were due to suspension of work caused by typhoon Ulysses and lockdown; and two (2) were due to the late submission of notarized contract by PLDT.
+
+
+
+	22)	For supplier’s non-submission of contracts, 15 contracts were already transmitted to COA.
+
+
+
+
+
+Result of Cash Examination on Collecting Officers
+
+
+
+1)	The designated Collecting Officers (COs) at the Frontline Services did not prepare/maintain Cash Receipts Record (CRR) to report collections and monitor their accountability contrary to the existing regulations.
+
+
+
+	1)	During the year, the Cashier Section is one of the offices required to maintain minimum number of personnel to report for work on a rotational basis pursuant to Department Order No. 67 s. 2020 dated February 13, 2020 with the following personnel designated as Collecting Officers (COs) in the Cashier Section, Administrative Service of the DOJ-OSEC:
+
+
+
+Accountable Officer
+
+Designation / Station
+
+Bond
+
+Maximum Cash Accountability
+
+
+
+
+
+No.
+
+Date
+
+Amount
+
+
+
+Lara May Buac,
+
+CO / DOJ Cashier Section (CS)
+
+
+
+D1B-20-0713R
+
+Mar 4, 2020
+
+₱16,750.00 
+
+₱21,000.00
+
+Joan S. Alcala
+
+
+
+D1B-20-0861N
+
+Jul 13, 2020
+
+16,750.00 
+
+21,000.00
+
+Leanie V. Eusebio
+
+
+
+D1B-20-0711R
+
+Mar 4, 2020
+
+16,750.00 
+
+21,000.00
+
+Caroline C. Rosales
+
+
+
+D1B-20-0714R
+
+Mar 4, 2020
+
+16,750.00 
+
+21,000.00
+
+Marlie I. de Leon
+
+
+
+D1B-20-0712R
+
+Mar 4, 2020
+
+16,750.00 
+
+21,000.00
+
+Anneliese B. Claravall
+
+CO / RDO, DOJ CS
+
+DIB-19-2708R
+
+Dec 6, 2020
+
+3,500,00.00 
+
+25,000,000.00
+
+
+
+	2)	The COs were assigned as collectors/tellers at the Frontline Services located at the front gate of the Department. They adopted an alternative work arrangement (AWA) or a skeletal force every two hours’ interval to perform their duties as collectors and thereafter, the duties attached to their position. The concerned CO, at the end of her turn, will remit her collections to the Chief Cashier together with the duplicate and triplicate copies of the Official Receipts (ORs) issued and return the unissued ORs. These collections are recorded in the logbook indicating only the date of collection and the amount collected.  After which, the Chief Cashier prepares the CRR. The unissued ORs are subsequently issued to the next CO. These ORs or accountable forms are under the accountability of the Chief Cashier and there are no separate ORs issued to the COs who are performing collecting functions.
+
+
+
+	3)	Collections/receipts were primarily sourced from fees for issuance of clearance and certifications; and requests for certified copies of documents, imposed under Department Circular (DC) No. 060 dated October 5, 2012.  These collections accrue to the National Government (NG) and deposited to the Bureau of the Treasury (BTr).
+
+
+
+Non-preparation/maintenance of CRR
+
+
+
+	4)	Chapter II (7) of COA Memo 2013-004 dated July 9, 2013 provides that: An AO shall maintain his cashbook/CRR/CDR/CkDR and such other records or their equivalents as may be prescribed by the agency’s operating procedures, and reconcile with the accounting records at least quarterly, unless the agency requires a more frequent reconciliation.
+
+
+
+	5)	Moreover, under Appendix 29 of Volume II of the GAM, Cash Receipts Record (CRR) shall be maintained to monitor his/her accountability. All transactions for the day shall be recorded immediately and a balance (undeposited collection) shall be extracted. The record shall be certified correct by the Collecting Officer at the end of each month or when required to do so by proper competent authority.
+
+
+
+	6)	It was noted that the designated COs did not prepare/maintain CRR to record collections; thus, their accountability could not be easily monitored and error in recording, if any, may not be easily detected.  The COs may have acted sub-collector or teller, however, they are accountable for having custody of government funds.   It should be noted that the Department has no guidelines on this set-up which contravenes to the provisions of the Revised Cash Examination Manual (RCEM) that obliges the AOs/COs to render reports of their collections and deposits. These reports serve as a control mechanism against unauthorized or unreported usage of collection and accountable forms.
+
+
+
+Non-preparation of RAAF
+
+
+
+	7)	GAM Volume I, Chapter 8, Section 17 (k), states that, Report of Accountability for Accountable Forms (RAAF) (Appendix 67) – shall be prepared by the Accountable Officer to report on the movement and status of accountable forms in his/her possession. The accountable forms include those with or without face value.” (Underscoring ours for emphasis)
+
+
+
+	8)	As earlier discussed, accountable forms were not issued to COs; thus, the reason for non-preparation of RAAF. However, considering that these COs are designated as such, it is proper that separate ORs be issued under their accountability and be accounted in the RAAF.
+
+
+
+	9)	We recommended that Management:
+
+
+
+a)	direct the concerned Collecting Officers (COs) to prepare and maintain CRR to record collections and monitor their accountability pursuant to existing regulations; 
+
+
+
+b)	issue separate OR to CO under their accountability and report the same in the RAAF; and  
+
+
+
+c)	establish guidelines pertaining to designation of sub-collectors or tellers that will clearly define their duties and responsibilities.
+
+
+
+Management Comments
+
+
+
+	10)	Management commented that COs only assist in the collection of fees for issuance of clearance and certifications, and requests for certified copies of documents and religiously remit its collections to the Chief Cashier or Asst. Chief Cashier for daily deposit to the Land Bank of the Philippines (LBP).
+
+
+
+	11)	During the exit conference, the Undersecretary for Finance agreed to streamline the process by having one report of the Chief Cashier and will revise designations of COs.
+
+
+
+Results of Cash Examination by Regional Offices
+
+
+
+	12)	The following deficiencies were noted in the handling and reporting of cash and accounts of the AOs in regional, provincial and city prosecution offices:
+
+
+
+Observation
+
+Recommendation
+
+DOJ Field Offices
+
+CASH - COLLECTING OFFICER (CCO)
+
+Collections not deposited to Authorized Government Depository Bank (AGDB)
+
+Collections were not deposited to the AGDB contrary to Par. 32 of the RCEM; thus, exposing government funds to risk of possible loss.
+
+Require the Special Collecting Officer (SCO) to deposit collections intact to the AGDB pursuant to Par. 32 of the RCEM.
+
+
+
+
+
+
+
+Region 6 –
+
+OCP-Passi City
+
+Region 11
+
+Hall of Justice (HOJ) Bldg. Ecoland, Davao City
+
+AO not properly bonded
+
+The AO is not properly bonded due to failure to renew the fidelity bond contrary to Sec. 101 (2) of PD 1445 and Item 7.2 of Treasury Circular No. 02-2009 dated Aug 6, 2009.
+
+Require the AOs to strictly monitor effectivity and expiry dates of their fidelity bond and ensure renewal before its expiry date.
+
+ 
+
+Region 4B
+
+OPP Oriental Mindoro
+
+Region 11
+
+HOJ Bldg. Ecoland, Davao City
+
+Collections not deposited intact and daily
+
+Collections were not deposited intact/daily or on the next banking day contrary to Sec. 69 of P.D 1445 and Para. 2a and Section 2 of COA-DOF Joint Circular No. 1-81.
+
+ 
+
+Direct the concerned COs, Provincial/City Prosecutor Office to deposit collections promptly and intact daily to prevent exposure of government funds to risk of loss through misuse or misapplication.
+
+CAR -
+
+OCP-Baguio City;
+
+Region IV-B 
+
+OPP Oriental Mindoro; OPP Pinamalayan
+
+Lack of proper turnover of accountabilities
+
+No proper turn-over of funds and accountabilities from one AO to another contrary to Sect. 77 of PD 1445; thus, precluding determination on whether or not all accountabilities of outgoing AOs have been fully accounted for.
+
+Require AOs to comply with the requirements on the proper turn-over of accountabilities and to strictly implement the provisions of PD 1445.
+
+
+
+
+
+Region IV-B
+
+OPP Oriental Mindoro;
+
+OPP Pinamalayan
+
+ 
+
+Delayed / Non-submission of RCD
+
+The CO failed to submit or was delayed in the submission of RCDs together with the duplicate ORs and deposit slips, CRRs and RAAFs and other reports to COA which hindered the timely conduct of audit of transactions and the preparation of CER contrary to COA Circular No. 2009-006 and Section 100 of PD 1445.
+
+Require the COs to   submit RCDs on a monthly basis pursuant to the existing regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region 3
+
+OPP Nueva Ecija
+
+Region 4A
+
+OCP – San Pedro
+
+Region 4B
+
+OPP Mamburao, Occidental Mindoro
+
+Region 6
+
+OCP-Passi City
+
+Laxity in handling Accountable forms (AFs)
+
+The CO failed to issue ORs in strict numerical sequence due to laxity in handling the AF No. 51 contrary to Section 4-h, Chapter 2 of the GAM, Vol. I, casting doubt on the reliability and accuracy of reported balances in the RAAF.
+
+Direct the CO to issue ORs in strict numerical sequence to strengthen the internal control over accountable forms.
+
+Region 3
+
+OCP Science City of Munoz
+
+Disruption of collection of fees
+
+Collection of clearance fees was disrupted due to the failure of the OPP to secure ORs from the DOJ-HO on time; thus, depriving the government to collect additional income.
+
+Devise an effective plan in the requisition of ORs from the DOJ-CO to prevent disruption of operation. 
+
+
+
+
+
+Region 3
+
+OPP Nueva Ecija
+
+No regular reconciliation of cash balances
+
+No regular reconciliation of cash balances was made between the CRR of the COs and the SLs of the Accounting Office of the DOJ-CO, contrary to Sect. 74 of PD 1445 and other existing accounting rules and regulations.
+
+Instruct the SCO to:
+
+1)	Monthly/ quarterly reconcile CRR with the SL of the Accounting Office of DOJ-CO and make necessary adjustment/s, if warranted; and
+
+
+
+2)	Monthly/ quarterly request from the Accounting Office of the DOJ-CO a copy of the SL of the agency and submit the same to the Office of the Auditor.
+
+Region 1
+
+RPO 1 – San Fernando La Union
+
+Region 4B
+
+OPP- Oriental Mindoro;
+
+OPP Roxas;
+
+OPP Mamburao, Occidental Mindoro
+
+
+
+
+
+Fund Utilization
+
+
+
+1)	The Department has utilized ₱8,265,884,293.18 or 96.88 percent of its total allotments of ₱8,532,117,034.40 for CY 2020 leaving an unobligated/unutilized amount of ₱266,232,741.22 intended for personal services, maintenance and other operating expenses and projects for capital outlay contrary to House Bill No. 6656 and DBM Circular Letter No. 2015-15.
+
+
+
+	1)	House Bill No. 6656, dated May 4, 2020, Explanatory Note provides that, The GAA 2020 institutionalized the shift to the first annual cash-based budget of the Philippine government intended to promote discipline among agencies by requiring better planning, early procurement, and great coordination for a more active management of budget resources.
+
+
+
+	2)	Further, DBM Circular Letter No.  2011-15 dated December 26, 2011 states that 2.0 xxx. Agencies shall ensure optimum utilization of their available NCA releases within the scheduled program/project/activity implementation period as reflected in their submitted Monthly Cash Program. 
+
+
+
+	3)	Verification of the Statement of Appropriations, Allotments, Obligations, Disbursements and Balances (SAAODB) as of December 31, 2020 disclosed that DOJ had an unobligated/unutilized allotment of ₱266,232,741.22 or 3.12 percent of the total adjusted allotments of ₱8,532,117,034.40 received for the year.  The unobligated/ unutilized allotment pertained to the current and continuing allotments for Personal Services, Maintenance and Other Operating Expenses and Capital Outlay. The details of which are shown below:
+
+
+
+Account Class
+
+Appropriation
+
+Adjusted Allotment (after Reallocation)
+
+Obligation
+
+% of Obligated
+
+Unobligated Allotment
+
+% of Unobligated
+
+Disbursements
+
+% of Undisbursed Obligation
+
+
+
+Current
+
+₱6,183,865,000.00
+
+₱7,725,842,790.00
+
+	₱7,693,921,310.84
+
+99.59
+
+₱31,921,479.16
+
+0.41
+
+₱     7,462,869,157.51
+
+3.00
+
+Continuing
+
+32,584,620.00
+
+   28,740,221.00
+
+      13,913,636.01
+
+48.41
+
+14,826,584.99
+
+51.59
+
+       12,965,872.68
+
+6.81
+
+Subtotal
+
+6,216,449,620.00
+
+7,754,583,011.00
+
+  7,707,834,946.85
+
+99.40
+
+ 46,748,064.15
+
+0.60
+
+ 7,475,835,030.19
+
+3.01
+
+
+
+Current
+
+748,564,000.00
+
+494,141,000.00
+
+     400,701,126.83
+
+81.09
+
+  93,439,873.17
+
+18.91
+
+  208,368,899.83
+
+48.00
+
+Continuing
+
+168,127,023.40
+
+168,127,023.40
+
+  110,976,098.08
+
+66.01
+
+  57,150,925.32
+
+33.99
+
+   66,173,133.33
+
+40.37
+
+Subtotal
+
+916,691,023.40
+
+662,268,023.40
+
+  511,677,224.91
+
+77.26
+
+ 150,590,798.49
+
+22.74
+
+ 274,542,033.16
+
+46.34
+
+
+
+Current
+
+80,521,000.00
+
+84,341,000.00
+
+   18,108,082.06
+
+21.47
+
+  66,232,917.94
+
+78.53
+
+-
+
+100.00
+
+Continuing
+
+35,425,000.00
+
+30,925,000.00
+
+   28,264,039.36
+
+91.40
+
+   2,660,960.64
+
+8.60
+
+   22,567,169.39
+
+20.16
+
+Subtotal
+
+115,946,000.00
+
+115,266,000.00
+
+    46,372,121.42
+
+40.23
+
+  68,893,878.58
+
+59.77
+
+   22,567,169.39
+
+51.33
+
+Grand Total
+
+₱7,249,086,643.40
+
+₱8,532,117,034.40
+
+  ₱8,265,884,293.18
+
+96.88
+
+₱266,232,741.22
+
+3.12
+
+₱7,772,944,232.74
+
+5.96
+
+
+
+	4)	Based on the above table, the total current allotment for CO amounting to ₱84,341,000.00 was earmarked for the construction of Buildings and acquisition of Motor Vehicles, Information and Communication Equipment and Software.   However, only ₱18,108,082.06 of the current CO was obligated and none was disbursed during the year.  On the other hand, for the continuing CO allotment of ₱30,925,000.00, only ₱28,264,039.36 was obligated and of which, the amount of ₱22,567,169.39 was disbursed. 
+
+
+
+	5)	Details of allotments, obligations/utilizations and balances for current CO earmarked for projects are shown below:
+
+
+
+Particulars
+
+ Allotments 
+
+ Obligations 
+
+% of Obligated
+
+ Unobligated Allotment 
+
+% of   Unobligated
+
+Communications Network
+
+    2,700,000.00 
+
+1,067,250.00
+
+39.53
+
+1,632,750.00
+
+60.47
+
+Buildings
+
+  50,000,000.00 
+
+-
+
+-
+
+50,000,000.00
+
+100.00
+
+Information and Communication Equipment
+
+  20,600,000.00 
+
+11,986,032.00
+
+58.18
+
+8,613,968.00
+
+41.82
+
+Information and Communication Software
+
+    3,720,000.00 
+
+3,514,800.06
+
+94.48
+
+205,199.94
+
+5.52
+
+Furniture and Fixture
+
+    3,371,000.00 
+
+1,540,000.00
+
+45.68
+
+1,831,000.00
+
+54.32
+
+Motor Vehicles
+
+3,950,000.00
+
+-
+
+-
+
+3,950,000.00
+
+100.00
+
+Subtotal: Current Appropriation
+
+84,341,000.00
+
+18,108,082.06
+
+21.47
+
+66,232,917.94
+
+78.53
+
+Information and Communication Equipment
+
+19,500,000.00
+
+19,196,074.00
+
+98.44
+
+303,926.00
+
+1.56
+
+Information and Communication Software
+
+  11,425,000.00 
+
+9,067,965.36
+
+79.37
+
+2,357,034.64
+
+20.63
+
+Subtotal: Continuing Appropriation
+
+  30,925,000.00 
+
+28,264,039.36
+
+91.40
+
+2,660,960.64
+
+8.60
+
+Total
+
+115,266,000.00 
+
+46,372,121.42
+
+40.23
+
+68,893,878.58
+
+59.77
+
+
+
+	6)	The ₱50,000,000.00 allocation for Buildings account was intended for the construction of office building for National Prosecution Service (NPS) of Region XI, while the amount of ₱3,950,000.00 was allocated for the procurement of motor vehicles.  No procurement activities were observed to have been initiated for the said projects. 
+
+
+
+	7)	The DOJ’s Procurement Monitoring Report (PMR) as of December 31, 2020 disclosed the following actual projects/procurement activities initiated during CY 2020 and chargeable against the CO.
+
+
+
+Procurement Program/Project
+
+ABC
+
+Contract Cost
+
+Supply and Delivery of 16 units of Firewall
+
+₱  5,248,000.00 
+
+₱  4,545,456.00 
+
+Supply and Delivery of 90 units Document Scanner and 2 units Projector
+
+    4,080,000.00 
+
+     1,476,872.00 
+
+Purchase of 10 units High-end Laptop and 104 units Regular Laptop
+
+    6,248,000.00 
+
+     5,963,704.00 
+
+Purchase of 132 units All in one Ink Tank Printers and 1 unit Multi-Function Printer
+
+    1,762,648.00 
+
+     1,761,458.00 
+
+Supply and Delivery of 125 units Access Points
+
+    1,250,000.00 
+
+     1,067,250.00 
+
+Supply, Delivery, Installation of Endpoint Security Solution for 235 users
+
+       400,000.00 
+
+        375,802.06 
+
+Procurement of Renewal of License
+
+    3,150,000.00 
+
+     3,138,998.00 
+
+Procurement of Single Carpeta Systems Enhancement 
+
+    4,800,000.00 
+
+     3,705,000.00 
+
+Purchase of Various Office Furniture and Fixtures for the new NPS Building
+
+    2,268,000.00 
+
+     1,540,000.00 
+
+Procurement of Next Generation Firewall for DOJ Disaster Recovery Site
+
+    3,300,000.00 
+
+     3,288,000.00 
+
+Procurement of Renewal of Firewall License for NPS-NCR
+
+    4,500,000.00 
+
+     4,488,000.00 
+
+Renewal of Firewall Management Appliance License for DOJ Main
+
+    5,500,000.00 
+
+     5,488,000.00 
+
+Purchase of 390 units Laptop Computers
+
+  21,450,000.00 
+
+   19,032,000.00 
+
+Total
+
+₱ 63,956,648.00 
+
+₱ 55,870,540.06 
+
+
+
+	8)	From the above table, it can be inferred that out of the ₱115,266,000.00 total allotment for CO, ₱55,870,540.06 worth of projects have been initiated while only ₱46,372,121.42 or 40.23 percent was obligated as of December 2020.
+
+
+
+	9)	The inability of DOJ to fully utilize the allotment received is not in keeping with the efficient spending as required in the afore-mentioned DBM Budget Circulars.  Moreover, the unobligated allotment of ₱266,232,741.22 may have impact in overall cash program of the government as the same can be utilized for other priority projects especially during these trying times.
+
+
+
+	10)	We recommended that Management: (a) maximize the utilization of allotments thru proper planning and timely implementation of planned projects during the year; and (b) submit reasons/causes/explanation for failure to fully implement the projects earmarked for Capital Outlay.
+
+
+
+Management Comments
+
+
+
+	11)	Management commented that the utilization of funds as programmed was further limited in compliance with the pertinent provisions of RA No. 11469, s. 2020, otherwise known as “Bayanihan to Heal as One Act” and National Budget Circular (NBC) No. 580 dated 22 April 2020, entitled “Adoption of Economy Measures in the Government Due to Emergency Health Situation”, of the DBM.
+
+
+
+	12)	The normal work operations in most of the agencies in the government had resumed at the later part of the third quarter after the lifting of the community quarantines being implemented in the national and local regions of the country, making it more difficult to implement the Department’s programmed procurement for the final quarter of FY 2020.
+
+
+
+	13)	The details of the non-implemented procurement projects for FY 2020 are as follows:
+
+
+
+Particulars
+
+Unobligated Allotment
+
+Reasons for non-implementation
+
+2020 Appropriations
+
+Communications Network
+
+1,632,750.00
+
+This amount represents the savings from the Approved Budget for the Contract (ABC) for procured communications network.
+
+
+
+Reason:  In placed community quarantine, lockdown and work suspensions.
+
+Building
+
+50,000,000.00
+
+The MOA for the proposed construction of DOJ Building in Davao City has not been signed by the contracting parties, which is beyond control of DOJ.
+
+ICT Equipment
+
+8,613,968.00
+
+The SARO in the amount of Five Million Pesos was received only in December 2020 (OADR modification of funds).  The savings from bidding in the amount of ₱3,613,968.00 can no longer be utilized due to time constraint and implementation of several community quarantine, lockdown and work suspensions.
+
+ICT Software
+
+205,199.94
+
+This is a savings which could not be programmed anymore due to time constraints and implementation of several community quarantine, lockdown and work suspensions.
+
+Furniture and Fixture
+
+1,831,000.00
+
+The procurement of furniture and fixtures was implemented in the latter part of the year.  Hence, the bidding corresponding to the savings from the ABC can no longer be implemented.
+
+Motor Vehicles
+
+3,950,000.00
+
+The SARO for this appropriation was released only in December 2020 (OADR fund modification) when the timelines for procurement cannot be met.  Hence, not implemented.
+
+2019 Continuing Appropriations
+
+ICT Equipment
+
+
+
+303,926.00
+
+These are savings which could not be programmed anymore due to time constraint and implementation of several community quarantine, lockdown and work suspensions.
+
+ICT Software
+
+2,357,034.64
+
+
+
+
+
+
+
+Delayed/Non-submission of financial reports (FRs) and other supporting documents
+
+
+
+2)	Financial and mandatory reports and other supporting documents were submitted late or not submitted within the prescribed period of submission contrary to the existing laws, rules and regulations;  thus,  precluding the Audit Team from rendering  timely verification/examination of financial accounts/ transactions, communication of results to Management and correction of deficiencies, if any. 
+
+
+
+	1)	Section 100 of PD 1445 provides that:  Disbursing Officers in any government agency shall render monthly reports of their transactions pursuant to regulations of the Commission to be submitted not later than the fifth day of the ensuing month to the auditor concerned who shall conduct the necessary examination and audit within thirty days from receipt hereof.
+
+
+
+	2)	In addition, Section 7.2.1 of the 2009 Revised Rules and Regulations on the Settlement of Accounts (RRSA) provides, among others, that: The Chief Accountant, Bookkeeper or other authorized official performing accounting and/or bookkeeping function of the audited agency shall ensure that the reports and supporting documents submitted by the accountable officers are immediately recorded in the books of accounts and submitted to the Auditor within the first ten (10) days of the ensuing months.
+
+
+
+	3)	Further, Section 60, Chapter 19 of the GAM, Volume I re: Deadlines on Submission of Reports.  The trial balance (TB) shall be submitted within 10 days after the end of each month while the quarterly FS shall be submitted to the Auditor within 10 days after the end of each quarter.  Likewise, the year-end TB, FS and Statement of Management Responsibility for Financial Statements (MRFS) of the audited entity shall be submitted to the Auditor on February 14 of the following year.
+
+
+
+	4)	Furthermore, Section 122 of PD No 1445 states:  Submission of Reports.  Whenever deemed necessary in the exigency of the service, the Commission may under regulations issued by it require the agency heads, chief accountants, budget officers, disbursing officers, administrative or personnel officers, and other responsible officials of the various agencies to submit trial balances, physical inventory reports, current plantilla of personnel and such other reports as may be deemed necessary for the exercise of its functions.
+
+
+
+	5)	One of the qualitative characteristics of financial reporting under PPSAS 1 is timeliness.  Timeliness affects usefulness of FS, reports and information for decision-making needs of users.  It is therefore of vital importance that FS, reports and information are submitted to auditors on time so that prompt review thereof could be made to detect errors and recommend corrections.
+
+
+
+	6)	Review of records show that financial reports were not submitted or submitted beyond the prescribed period of submission, contrary to aforementioned laws, rules and regulations.   
+
+
+
+	7)	The current challenges that the Audit Team faced was COVID 19 pandemic that started last March 2020 until to date. Related hereto there is significant service disruption on agency’s reporting of financial and mandatory reports.  Submission was significantly delayed and/or not submitted at all. Although computation of delays was adjusted and considered by the Audit Team, we also have to take into account our objectives and plans for the immediate and timely submission of the required financial and mandatory reports and other supporting documents for proper evaluation and disposition by the Auditor of the agency’s transactions. 
+
+
+
+	8)	Details of the unsubmitted documents are as follows: 
+
+
+
+Reports/Documents
+
+Due Date
+
+Legal Reference
+
+No. of Days Delayed
+
+RCI with DVs -
+
+     Checks
+
+Every 10th day after the end of the month
+
+
+
+Section 100 of PD 1445 and Section 7.2.1 of COA Cir. No. 2009-006 dated Sept. 15, 2009
+
+
+
+
+
+100 days
+
+     ADA
+
+
+
+
+
+
+
+     Liquidation Vouchers
+
+
+
+
+
+
+
+ JEVs
+
+
+
+
+
+
+
+Report of Collections and Deposits
+
+DOJ Proper
+
+Every 10th day after the end of the month
+
+
+
+Section 7.2.1 of COA Circular No. 2009-006 dated September 15, 2009
+
+76 days
+
+NCR -
+
+
+
+
+
+
+
+     Marikina City
+
+
+
+
+
+52 days
+
+     Las Piñas
+
+
+
+
+
+35 days
+
+     Valenzuela City
+
+
+
+
+
+52 days
+
+     Parañaque City
+
+
+
+
+
+32 days
+
+     Mandaluyong City
+
+
+
+
+
+97 days
+
+     Antipolo City
+
+
+
+
+
+125 days
+
+     Malabon City
+
+
+
+
+
+115 days
+
+     Makati City
+
+
+
+
+
+182 days
+
+     Navotas City
+
+
+
+
+
+53 days
+
+     San Juan City
+
+
+
+
+
+182 days
+
+     Muntinlupa City
+
+
+
+
+
+182 days
+
+     Pasig City
+
+
+
+
+
+59 days
+
+     Pasay City
+
+
+
+
+
+98 days
+
+Financial Statements
+
+Trial Balance
+
+10 days after the end of the month/ quarter/on or before Jan. 20 of the following year.
+
+Section 60 Chapter 19 GAM, Volume I
+
+
+
+
+
+30 days
+
+Financial Statements
+
+
+
+
+
+
+
+Bank Reconciliation Statement
+
+2059-9002-45 DOJ OSEC
+
+Within 20th days after receipt of the Monthly BS together with all supporting documents and JEVs
+
+
+
+Section 7, Chapter 21 Volume I, GAM
+
+65 days
+
+2059-9003-18 OSEC Special Trust Fund
+
+
+
+
+
+53 days
+
+2059-9003-51 OSEC Accounts Payable/ Terminal Leave
+
+
+
+
+
+53 days
+
+0592-1022-42 DOJ VCF
+
+
+
+
+
+none
+
+0592-1060-51 DOJ ATM Payroll Account
+
+
+
+
+
+53 days
+
+0592-1060-86 DOJ BAC Trust Fund
+
+
+
+
+
+53 days
+
+0592-1066-80 ATM Pension Benefit Account
+
+
+
+
+
+53 days
+
+
+
+	9)	The delay of 100 days in the submission of transaction documents, such as DVs, JEVs and LVs is not in consonance with the provisions of COA Circular No. 95-006 and PD 1445.  The DVs and LVs were already recorded in the books of accounts and they should have been reviewed for completeness of supporting documents and authenticity of signatures of authorized officials; delays were considered on the first semester of the year, hence, documents by this time should have been transmitted to the Office of the Auditor.
+
+
+
+	10)	Timely reporting of pertinent financial reports increases its usefulness however, information given becomes inoperable for decision-making purposes when relevant information no longer serves its purpose due to delay in the submission of reports.
+
+
+
+	11)	On the other hand, delayed or non-submission of BRS precluded the Audit Team from conducting timely audit, review of accounts and communication of the audit results to Management for corrective actions. 
+
+
+
+	12)	Also, initial review of the submitted contracts/POs, revealed that insufficient documentation in most of the contracts/POs, causes delay in the auditorial review thereof.
+
+
+
+	13)	The failure to submit the financial reports, supporting schedules, documents and contracts within the prescribed timelines hindered the delivery of the mandated audit services.
+
+
+
+	14)	Moreover, Section 32, Chapter 3 of the GAM, Volume I, on the Submission of Budget and Financial Accountability Reports (FARs) requires that: Äll departments/agencies shall observe the following timelines in submitting the required Financial Accountability Reports (FARs) to COA-GAS and DBM:
+
+
+
+Within 30 days after the end of each quarter –
+
+
+
+a)	Statement of Appropriations, Allotments, Obligations, Disbursements and Balances (SAAODB) – FAR No. 1
+
+b)	Statement of Appropriations, Allotments, Obligations, Disbursements and Balances by Object of Expenditures (SAAODBOE) – FAR No. 1.A
+
+c)	List of Allotments/Sub-Allotments – FAR No. 1.B
+
+d)		Statement of Approved Budget, Utilization, Disbursements and Balances (SABUDB) – FAR No. 2
+
+e)	Statement of Approved Budget, Utilization, Disbursements and Balances by Object of Expenditures (SABUDBOE) – FAR No. 2.A
+
+f)	Quarterly Report of Revenue and Other Receipts (QRROR)-FAR No. 5
+
+
+
+On or before 30th day following the end of the year – Aging of Due and Demandable Obligations (ADDO) – FAR No. 3
+
+On or before 30th day of the following month covered – Monthly Report of Disbursements (MRD) – FAR No. 4
+
+
+
+	15)	Management should take heed of the policy, that failure to submit the above reports within the prescribed period is contrary to applicable pertinent laws, rules and regulations, affects the timely verification of reports, early detection of deficiencies which could probably be corrected right away, and promptly communicate the audit results to Management for speedy and appropriate action.
+
+
+
+	16)	We recommended that Management require the:
+
+
+
+a)	Accountant and concerned AOs to immediately submit the Monthly TB, BRS, DVs, RCDs, JEVs, FRs and other supporting schedules and documents within the prescribed timelines;
+
+
+
+b)	Heads of Offices concerned to submit copies of perfected contracts and POs with all documents forming part thereof to the Audit Team within the prescribed period for timely review and evaluation of the same; and
+
+
+
+c)	Budget Officer to submit BFARs within the prescribed period.
+
+
+
+Management Comments
+
+
+
+	17)	Management commented that COVID-19 pandemic had significantly affected the timeliness of submission of financial and other mandatory reports to the Office of the Auditor.  In addition, LDDAP-ADAs were not immediately validated by the LBP which caused further delay.
+
+
+
+	18)	Reports from LBP such as BS and LDDAP-ADA validation were received belatedly by the Accounting Division.  In effect, this caused the delayed submission of BRS.
+
+
+
+11.20	Management had directed the various NCR offices to submit the RCD on or before the 5th day of the following month. Accordingly, they will do their best to comply with the submission of required reports and documents on time.
+
+
+
+
+
+Gender and Development Funds
+
+
+
+3)	The DOJ failed to submit GAD Plan and Budget (GPB), Accomplishment Report (AR) and its supporting documents for CY 2020, contrary to Section 31 of the GAA of CY 2020. 
+
+
+
+	1)	Section 31 of  GAA of CY 2020 provides that: All agencies of the government shall formulate a Gender and Development (GAD) Plan designed to address gender issues within the their concerned sectors or mandate and implement the applicable provisions under RA No. 9710 or the Magna Carta of Women, Convention on the Elimination of All Forms of Discrimination Against Women, the Beijing Platform for Action, the Philippine Plan for Gender-Responsive Development (1995-2025) and the Philippine Development Plan (2017-2022).
+
+
+
+	2)	The GAD Plan shall be integrated in the regular activities of the agencies, which shall be at least five percent of their budgets. For this purpose, activities currently being undertaken by agencies, which relate to GAD or those that contribute to poverty alleviation, economic empowerment especially of marginalized women, protection, promotion, and fulfilment of women’s human rights, and practice of gender-responsive governance are considered sufficient compliance with the said requirement. Utilization of GAD budget shall be evaluated based on the GAD performance indicators identified by said agencies.
+
+
+
+	3)	The preparation and submission of the annual GPB, and the annual GAD AR shall be subject to the guidelines issued by the agencies concerned.
+
+
+
+	4)	The guidelines and procedures for the formulation, development, submission, implementation, monitoring and evaluation including accounting of results of agency annual GPB and ARs to implement the Magna Carta of Women shall be guided by Joint Circular No. 2012-01 issued by the Philippine Commission on Women (PCW), National Economic and Development Authority (NEDA) and DBM for review and endorsement.
+
+
+
+	5)	Also, Section V of COA Circular No. 2014-001 dated March 18, 2014 requires that:  The Audited agency shall submit a copy of the Annual GPB to the COA Audit Team assigned to the agency within five (5) working days from the receipt of the approved plan from the PCW or their mother or central offices, as the case maybe.  Likewise, a copy of the corresponding AR shall be furnished the said Audit Team within five (5) working days from the end of January of the preceding year.
+
+
+
+	6)	For CY 2020, the Department failed to comply with the provisions of Section 31 of GAA of CY 2020 by not submitting GAD Plan and Budget, Accomplishment Report and its supporting documents for CY 2020. 
+
+
+
+	7)	We recommended that Management require the GAD Focal Person to explain the reasons why the Department failed to comply with the pertinent provisions of the GAA for CY 2020.
+
+
+
+Management Comments
+
+
+
+	8)	Management commented that the GAD Plan and Budget for 2020 was submitted, reviewed and endorsed through the Philippine Commission on Women (PCW) Gender Mainstreaming Monitoring System in September 2019. 
+
+
+
+	9)	For FY 2020 GAD Accomplishment Report, the PCW issued  Memorandum Circular No. 2021-01 dated January 20, 2021, which provides the deadline of encoding and submission to the GMMS of the GAD Accomplishment Report for Executive Department on March 12, 2021, however, this memo circular was not referred to the Planning Division.  They requested PCW for a new schedule to encode the FY 2020 GAD AR through their GMMS for their review and endorsement.
+
+
+
+
+
+Audit of Programs and Projects for SCs and PWDs
+
+
+
+4)	The DOJ has integrated in its regular activities the plans, programs and projects intended to benefit and address the concerns of Senior Citizens (SCs) and Persons with Disability (PWDs), in consonance with the provisions of Section 32 of the GAA of CY 2020.
+
+
+
+	1)	Section 32 of the GAA of CY 2020 provides that: All agencies of the government shall formulate plans, programs, and projects intended to address the concerns of senior citizens and persons with disability, insofar as it relates to their mandated functions, and integrate the same in their activities.
+
+
+
+	2)	Moreover, all government infrastructures and facilities shall provide architectural or structural features, designs, or facilities that will reasonably enhanced the mobility, safety, and welfare of persons with disability pursuant to Batas Pambansa No. 344 and R.A. No. 7277, as amended. 
+
+
+
+	3)	In view of the above provisions, the Department of Justice Action Center (DOJAC) is one of the frontline services of DOJ tasked to perform legal counselling and referral, if applicable, conducts mediation conferences if parties agree to participate in the process, administer oaths and perform other duties and responsibilities that may be assigned by the Department.  Further, the SCs and PWDs are given priority with regard to giving free legal assistance with matters specifically cases of land problems, unjust vexation, B.P. 22 and other legal matters.
+
+
+
+	4)	DOJAC’s continuing commitment to SCs and PWDs are the following:
+
+
+
+a)	Prioritize them in the queuing for DOJAC services;
+
+b)	Assign DOJAC’s office at the ground floor of JDC building to provide easy access to all types of clients; especially SCs and PWDs;
+
+c)	Construct a 3-story NPS building with stainless handrail for PWDs;
+
+d)	Improve and maintain  Frontline Service Area to provide easy access to PWDs and senior citizens;  
+
+e)	Provide chairs to clients who are on que but due to the limited number and space, priority is given to SCs and PWDs; and 
+
+f)	Offer hot or cold water to clients, including SCs and PWDs.
+
+
+
+	5)	For CY 2020, there is a decrease of accomplishments related to SCs and PWDs as shown below:
+
+
+
+Clients
+
+2020
+
+2019
+
+Variance
+
+Percentage
+
+Total Number of SCs served
+
+304
+
+958
+
+654
+
+315%
+
+Total Number of PWDs
+
+14
+
+156
+
+142
+
+1114%
+
+
+
+	6)	The variance between the CYs 2020 and 2019 accomplishments was brought about by the existing health situation due to COVID-19 pandemic that affected the number of walk-in clients including the SCs and PWDs. 
+
+
+
+	7)	The total number of SCs served was 304 which is 654 lower than the 958 served in 2019 or 315 per cent decrease. On the other hand, the PWDs with 14 clients served or 1,114 percent decrease in CY 2020.
+
+
+
+	8)	Moreover, the Department was able to comply with the pertinent provisions of the GAA in addressing the concerns of their SCs and PWDs by adopting the Omnibus Guidelines for the Implementation of Community Quarantine in the Philippines, in relation to the relevant Resolutions of the Inter-Agency Task Force for the Management of Emerging Infectious Disease (IATF).
+
+
+
+	9)	We recommended that Management continue to provide efficient and effective programs and projects, and further formulate and implement new plans, programs, and projects intended to address the concerns of SCs and PWDs even during this pandemic period.
+
+
+
+Management Comments
+
+
+
+	10)	Management commented that for CY 2020 and prior years, only walk-in clients were segregated to determine who are Differently Abled Persons (DAPs) and SCs.
+
+
+
+	11)	From March to June 2020, the Luzon lockdown was implemented and subsequently the IATF issued directives for elderly and other vulnerable sectors to stay home, as a result, an abrupt decline of walk-in clients and an unexpected increase in Facebook and email clients.
+
+
+
+	12)	DOJAC’s previous procedure does not enable the Center and its workforce to adequately monitor DAPs and SCs in Facebook and email, since there was no existing protocol on how to handle the segregation of clients.
+
+
+
+	13)	In February 2021, after several consultations with the Center’s workforce and with the approval of DOJAC Director, it updated its procedures on information gathering, thus, a more detailed and transparent report of its clients especially on DAPs and SCs.  By the end of FY 2021, DOJAC will be able to provide a more detailed statistic for said clients.
+
+
+
+
+
+Insurance of Physical Assets with the GSIS
+
+
+
+5)	Out of the 343 motor vehicles owned by the Department with total value of ₱174,101,174.70, 230 motor vehicles costing ₱110,278,357.70 assigned to the different offices of the DOJ Proper and the ROs of NPS were not insured/adequately insured with the General Insurance Fund (GIF) of the GSIS, contrary to RA No. 656 and COA Circular No. 2018-002 dated May 31, 2018; thus, putting the agency at risk of not being indemnified in case of damage or loss of property.
+
+	1)	Section 5 of RA No. 656 or the PIL, as amended by PD No. 245 series of 1973 requires that:  Every government, except a municipal government below first class, is hereby required to insure its properties, with the Fund against any insurable risk herein provided and pay the premiums thereon, which, however, shall not exceed the premiums charged by private insurance companies.  Provided, however, that the System reserves the right to disapprove the whole or a portion of the amount of insurance applied for…
+
+
+
+	2)	Item 1.2 of COA Circular No. 92-390 dated November 17, 1992, provides that:  All insurable assets and properties of the government are adequately covered/insured with the General Insurance Fund of the GSIS.
+
+
+
+	3)	Further, COA Circular No. 2018-002 dated May 31, 2018, prescribes the guidelines in the submission of the PIF as basis for the assessment of general insurance coverage over all insurable assets, properties and interests of the government with the GIF of the GSIS.
+
+
+
+	4)	The following are the Motor Vehicles reported in the RPCPPE as of December 31, 2020, to wit:
+
+
+
+
+
+DOJ Office
+
+Units
+
+VALUATION
+
+Premiums Paid
+
+
+
+
+
+Acquisition Cost
+
+SUM
+
+Insured
+
+
+
+
+
+
+
+Per RPCPPE
+
+Per PIF
+
+
+
+
+
+DOJ Proper & NCR
+
+73
+
+62,633,180.00
+
+
+
+
+
+
+
+IACAT
+
+4
+
+6,191,500.00
+
+
+
+
+
+
+
+WPSBP
+
+59
+
+73,844,200.00
+
+
+
+
+
+
+
+Region 1
+
+20
+
+1807,550.00
+
+
+
+
+
+
+
+Region 2
+
+20
+
+4,204,400.00
+
+
+
+
+
+
+
+Region 3
+
+-
+
+-
+
+
+
+
+
+
+
+Region 4
+
+4
+
+1,432,776.00
+
+
+
+
+
+
+
+Region 5
+
+26
+
+3,267,861.70
+
+
+
+
+
+
+
+Region 6
+
+25
+
+2,691,050.00
+
+
+
+
+
+
+
+Region 7
+
+24
+
+2,415,550.00
+
+
+
+
+
+
+
+Region 8
+
+22
+
+3,063,250.00
+
+
+
+
+
+
+
+Region 9
+
+-
+
+-
+
+
+
+
+
+
+
+Region 10
+
+19
+
+2,740,050.00
+
+
+
+
+
+
+
+Region 11
+
+22
+
+3,350,650.00
+
+
+
+
+
+
+
+Region 12
+
+12
+
+4,353,340.00
+
+
+
+
+
+
+
+Region 13
+
+13
+
+2,105817.00
+
+
+
+
+
+
+
+Sub-Total
+
+343
+
+174,101,174.70
+
+
+
+
+
+
+
+Less: Insured Motor Vehicles
+
+113
+
+63,822,817.00
+
+-
+
+Comprehensive Insurance
+
+490,884.85
+
+   TOTAL
+
+230
+
+110,278,357.70
+
+
+
+
+
+490,884.85
+
+
+
+	5)	Review and evaluation of the insurance of physical assets of the Department revealed that out of the 343 motor vehicles owned by the Department, 230 units of Motor Vehicles from DOJ Proper and ROs of NPS costing ₱110,278,357.70 were not insured with the GIF of the GSIS. Out of these, 59 units amounting to ₱73,844,200.00 were assigned to the Witness Protection and Security and Benefits Program (WPSBP). 
+
+
+
+	6)	The non-compliance to the requirements to all insurable physical assets denies the government adequate and reliable protection against any damage to or loss of its properties or assets and interests due to fire or natural calamities, or other fortuitous and/or unforeseen events.
+
+
+
+	7)	We recommended that Management:
+
+
+
+	a)	ensure that all insurable assets of the agency are insured adequately and covered with the GIF of GSIS in order to indemnify or compensate the properties from any damage or loss; and
+
+
+
+	b)	submit status report on the uninsured motor vehicles together with the Property Insurance Form required in the insurance of government properties.  
+
+
+
+
+
+6)	Compliance with Tax Laws, R.A. 8291 (GSIS Act of 1997), R.A. 9679 (HDMF Law of 2009) and R.A. 10606 (National Health Insurance Act of 1995)
+
+
+
+Particulars
+
+Ending Balance, Dec. 31, 2020
+
+Amount Remitted
+
+Date Remitted
+
+Remarks
+
+BIR
+
+₱42,778,129.28
+
+₱ 33,275,384/66
+
+January 8, 2021
+
+There is an unremitted amount of ₱9,502,744.62.
+
+GSIS
+
+49,877,407.36
+
+17,160,234.61
+
+Various dates in January 2021.
+
+There is an unremitted amount of ₱32,717,172.75.
+
+PAG-IBIG
+
+4,470,424.27
+
+2,286,027.42
+
+Various dates in January 2021.
+
+There is an unremitted amount of ₱2,184,396.85.
+
+PHILHEALTH
+
+297,217.38
+
+90,062.78
+
+Various dates in January 2021.
+
+There is an unremitted amount of ₱207,154.60.
+
+
+
+
+
+7)	Statement of Audit Suspension, Disallowances and Charges (SASDC)
+
+
+
+The status of audit suspensions, disallowances and charges together with their settlement during the year are as follows: 
+
+
+
+Particulars
+
+Beg. Balance Jan. 1, 2020
+
+This Period
+
+January 1 to December 31, 2020
+
+Ending Balance Dec. 31, 2020
+
+
+
+
+
+NS/ND/NC
+
+NSSDC
+
+
+
+Notice of Suspension
+
+₱14,906,598.33
+
+(₱2,485,000.00)
+
+₱154,171.96
+
+₱12,267,426.37
+
+Notice of Disallowance
+
+14,067,454.30
+
+2,485,000.00
+
+10,000.00
+
+16,542,454.30
+
+Notice of Charge
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+TOTALS
+
+₱28,974,052.63
+
+-
+
+₱164,171.96
+
+₱28,809,880.67
+
+
+
+
+
+8)	Receipt and utilization of the Disaster Risk Reduction and Management (DRRM) Fund and/or Quick Response Fund (QRF)
+
+
+
+For Calendar Year 2020, DOJ did not receive any funds pertaining to Disaster Risk Reduction and Management (DRRM) Fund and/or Quick Response Fund (QRF).
+
+
+
+
+
+9)	Typhoon Yolanda/Calamity Fund
+
+
+
+For CY 2020, no Yolanda/Calamity FundS were received by the DOJ.
+
+
+
+
+
+10)	Marawi Funds
+
+
+
+For CY 2020, DOJ did not receive nor disburse any funds pertaining to Marawi.
+
+
+
+
+
+11)	Receipt and Utilization of COVID-19 Funds
+
+
+
+Pursuant to Presidential Proclamation No. 922, dated March 8, 2020, declaring a State of Public Health Emergency and Presidential Proclamation No. 929, dated March 16, 2020 declaring a State of Calamity throughout the Philippines for a period of six (6) months following the confirmed local transmission of the Coronavirus Disease 2019 (COVID-19); the President signed RA No. 11469 or the Bayanihan to Heal as One Act (Bayanihan Act), on March 24, 2020, which granted the President temporary emergency powers to address the national emergency brought about by the COVID-19 pandemic.
+
+
+
+On September 11, 2020, the President signed RA No. 11494 or the Bayanihan to Recover as One Act (Bayanihan 2) in view of the unabated spread of the COVID-19 virus and the ensuing economic disruption therefrom. Section 4(u) of Bayanihan 2 exempts specific procurement projects related to the COVID-19 response from the coverage of RA No. 9184.
+
+
+
+As of December 31, 2020, the DOJ has not received any additional funds to cover the expenditures related to COVID-19. However, the agency incurred expenses relating thereto which were charged against their fund allocation for MOOE.  Details are as follows:
+
+Nature/Object of Expenditure
+
+Particulars
+
+Amount
+
+Recipient
+
+Other Supplies and Materials Expenses
+
+Various office and medical supplies
+
+7,047,610.54
+
+Central Office, All Regional Prosecution Offices (Region I to ARMM)
+
+Other Professional Services
+
+RT-PCR Tests
+
+54,550.00
+
+Central Office, RPO-Region XI
+
+Other General Services
+
+Disinfection services
+
+6,500.00
+
+RPO-Region XI
+
+Total
+
+7,108,660.54
+
+
+
+
+
+
+
+12)	National Task Force to End Local Communist Armed Conflict (NTF-ELCAC)
+
+
+
+The DOJ did not receive NTF-ELCAC funds in CY 2020.
+
+
+
+
+
+		56
+
+
+
+
+
+
+
+
+
