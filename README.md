@@ -1,4 +1,7 @@
 # PH COA 2020 National Government Audit Data Scraper
+---
+### _NOTE: Results cannot be replicated as COA website now has a CAPTCHA._
+---
 ### Supported Platform
 The code is written in **Python**.
 Since .doc files require conversion to .docx, only **Windows with Microsoft Word** is supported for now.
@@ -77,13 +80,9 @@ python get_properties.py
 ## Visualizing the Data
 <div class='tableauPlaceholder' id='viz1629884278708' style='position: relative' align='center'><noscript><a href='https://public.tableau.com/app/profile/kgreyy/viz/2020COAAnnualAuditReportsViz/Overviewof2020COAAnnualAuditReports' target='_blank'><img alt='Overview of 2020 COA Annual Audit Reports ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2020COAAnnualAuditReportsViz&#47;Overviewof2020COAAnnualAuditReports&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='2020COAAnnualAuditReportsViz&#47;Overviewof2020COAAnnualAuditReports' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2020COAAnnualAuditReportsViz&#47;Overviewof2020COAAnnualAuditReports&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 
-
- _More detailed charts coming soon!_
 ---
 
 ### TODO:
 - [ ] TF-IDF Analysis
 - [ ] Parse tables/accounting metrics
 - [ ] Make charts!
-# coa-dataset-public
-
